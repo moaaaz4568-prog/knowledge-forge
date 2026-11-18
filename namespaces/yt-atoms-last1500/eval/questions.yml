@@ -1,0 +1,19 @@
+# Known-answer questions for this namespace. Fill from YOUR content:
+# each question's answer must live in a specific passage you can name.
+questions:
+  - id: q1
+    question: "REPLACE with a real question"
+    tier: exact                    # exact | paraphrase | comparison
+    expected: [sources/S_x.md]
+  - id: q2
+    question: "REPLACE with a paraphrased question"
+    tier: paraphrase
+    expected: [sources/S_x.md]
+  - id: q3
+    question: "REPLACE with a question the sources cannot answer"
+    tier: unanswerable
+    expected: []
+top_k: 10
+success:
+  recall_at_k: 0.8
+  faithfulness: 0.9
