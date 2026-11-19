@@ -1,0 +1,44 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/XwzAKfU-DQY.en.txt"
+words: 198
+---
+
+# S_yt_XwzAKfU-DQY_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/XwzAKfU-DQY.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب XwzAKfU-DQY
+
+---
+
+hey so before i take this you know a
+little beautiful a spin i just wanted to
+say that we're starting to onboard uh
+people for the done-for-you email
+outreach service right we have a wait
+list right now i think we have over 125
+people waiting to get on board it right
+but uh i just wanted to say that the
+gates
+are opening right so if you want to
+learn more about the offer maybe you
+haven't checked out the video that i
+made working out what the offer is then
+click the link below or dm me to learn
+more and for those who uh jumped on the
+wait list early then please dm me so
+that we can get you signed up again it
+takes 14 days to actually warm up your
+domains we're gonna be buying taking
+care of everything buying the domains
+literally paying for your subscriptions
+and managing your campaigns up to 625
+emails every single day right so uh dm
+me if you're on the waitlist and i
+haven't reached out to you so that we
+can
+get to work and get you some more
+meetings right bye
+god dale
+

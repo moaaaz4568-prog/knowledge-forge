@@ -1,0 +1,7 @@
+# Known-answer questions for this namespace. Fill from YOUR content:
+# each question's answer must live in a specific passage you can name.
+questions: []
+top_k: 10
+success:
+  recall_at_k: 0.8
+  faithfulness: 0.9

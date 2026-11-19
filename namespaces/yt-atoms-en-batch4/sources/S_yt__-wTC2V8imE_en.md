@@ -1,0 +1,40 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/_-wTC2V8imE.en.txt"
+words: 164
+---
+
+# S_yt__-wTC2V8imE_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/_-wTC2V8imE.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب _-wTC2V8imE
+
+---
+
+Oh, it's exciting to finally be here.
+Most marketers are hired to increase
+revenue. We should be hired to increase
+profit. We're just going to jump right
+on in. I wanted to [music] help
+businesses shorten the years of
+struggle. Fractional model is the way of
+the future.
+These three [music] core areas, if you
+can get first the culture taken care of
+with your heart, then you get your
+strategy [music] and then you can
+hustle.
+The number one goal of the FRE is to get
+the founder out of [music] sales. When I
+wrote the book, I had you guys in mind.
+When we walk into a [music] meeting, we
+can say that we're a certified
+fractional revenue executive. We're not
+just a coach. We're someone [music] who
+actually is there to help our clients
+win. May you be successful. May you be
+humble. May you be hospitable. And may
+you be filled with [music] grit and a
+desire to grow. Cheers.
+
