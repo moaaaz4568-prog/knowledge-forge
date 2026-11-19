@@ -1,0 +1,34 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+location: instagram/chase.h.ai
+---
+
+# T_DPSb7CLjSwK_01
+
+"So I ran some tests today with the brand new Sonnet 4.5 and N8N to see if you can prompt your way into complex AI agents and automations. We ran it through three tests, and we did this in combination with Claude Code and the N8N MCP server, so it has the best tools at its disposal to actually do this. So for the first test, we asked it to create a pretty complicated LinkedIn job scraper." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_02
+
+"From there, it would then find hiring managers for each of those jobs, create a custom message and send the message off. And what you see right here is the result, and it actually did a really good job. It got the correct scrapers for both LinkedIn jobs and the hiring managers." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_03
+
+"It has the correct logic as a whole for the workflow, and the AI email generator actually has a pretty robust system prompt to go alongside it. So overall, for first test, Sonnet 4.5 knocked it out of the park. Now for our second test, we wanted it to create an AI agent ecosystem for research agents, right? An analysis agent, short form, medium form, long form." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_04
+
+"And what you see is the result, and it's not nearly as good as the first one, right? What do we see? We see a bunch of stuff that's unconnected. The LLMs themselves got errored out. You see the question marks there. And overall, it's just really, really ugly for what frankly was an easier automation than the first one. So for test number two, Sonnet 4.5 definitely failed." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_05
+
+"Well, I would just use this system, right? Goes inside a Google Drive and then gets uploaded to Supabase. And what we see here is the second part of the workflow, the RAG agent, right?" — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_06
+
+"This is still the best tool we've ever had for giving an AI system a prompt and having it create AI agents and automations that you can use inside of N8N. It does a great job on simple agents, an awesome job on medium difficulty automations, and for these complicated ones like you see, it's kind of a mixed bag, but that mixed bag is still better than anything we've had before." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md
+
+# T_DPSb7CLjSwK_07
+
+"So if you're looking to go more into detail, like how to set this up, like Claude Code MCP, all that, just go to the link in my bio. You can find all of it inside my community." — sources/S_ig_chase.h.ai_DPSb7CLjSwK.md

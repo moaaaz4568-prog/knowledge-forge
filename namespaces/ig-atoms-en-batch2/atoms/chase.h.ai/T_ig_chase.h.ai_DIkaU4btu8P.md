@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_chase.h.ai_DIkaU4btu8P.md
+location: instagram/chase.h.ai
+---
+
+# T_DIkaU4btu8P_01
+
+"You can make your own AI agents without being technical and without knowing how to code. And let me prove it to you by quickly running you through an AI agent that I'm gonna build inside N8N. So here we are inside of n8n. Io. You can start your own free trial here if you want, but I'm just in a brand new canvas and I'm gonna start with an AI agent." — sources/S_ig_chase.h.ai_DIkaU4btu8P.md
+
+# T_DIkaU4btu8P_02
+
+"Now we have kind of the base of it, and the first thing we need to do is add a chat model. In this case, I'm gonna add ChatGPT's 4o mini. It's probably time I got 4. 1 set up as well. And then I'm just gonna go to simple memory, and all memory is doing is it lets me when I chat with my AI agent for it to actually remember the conversations." — sources/S_ig_chase.h.ai_DIkaU4btu8P.md
+
+# T_DIkaU4btu8P_03
+
+"Now the next thing I'm gonna do, I'm just gonna add some tools because that's what makes an AI agent an AI agent, right? It isn't just some sort of automation that does the same thing every time. I want it to be able to do different things based on what I tell it, right? And so what you're seeing me do here is I'm adding a few different tools, and this is taking literal seconds." — sources/S_ig_chase.h.ai_DIkaU4btu8P.md
+
+# T_DIkaU4btu8P_04
+
+"Now in reality, you're gonna have to set up your accounts, that takes a little bit of time, like you just hit the docs here and you follow along, but it isn't that complicated. Now what did I just do in the last 45 seconds? Well, I actually just created a pretty simple AI agent that when I talk to it, I can have it access these different tools." — sources/S_ig_chase.h.ai_DIkaU4btu8P.md
+
+# T_DIkaU4btu8P_05
+
+"I can have it access Reddit, so I could say, hey, search for the top Reddit post on, you know, an AI subreddit. I want you to summarize it, and I want you to create a content outline it so I can make a video for it. I then want you to email it to me and then also create a Notion page, right? And if we dive into here, right, we even have these things." — sources/S_ig_chase.h.ai_DIkaU4btu8P.md
