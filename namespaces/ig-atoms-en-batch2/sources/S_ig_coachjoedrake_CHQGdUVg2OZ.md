@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/coachjoedrake/CHQGdUVg2OZ.txt"
+words: 614
+account: coachjoedrake
+lang: en
+quality: transcript
+---
+
+# S_coachjoedrake_CHQGdUVg2OZ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/coachjoedrake/CHQGdUVg2OZ.txt` — حساب: coachjoedrake — إنستجرام — فيديو CHQGdUVg2OZ
+
+---
+
+What's up guys? With our kettlebell certification coming up this weekend, I just wanted to talk to you about one thing, very simple, but it can make a big difference, especially as you start to transition into doing more moves, right? We're going from, let's say, a single arm swing into cleans, you're going overhead press, and that's where your hand ends up on the kettlebell, okay? So I'm gonna simplify it for you guys. So first off, I'm gonna bring it up here. Take a look at this beautiful thing here. Got our bell, kettlebell, right? So we have the horns of the kettlebell and they transition up into the handle, okay? So as we start to do a lot of our single arm stuff, especially even just getting into single arm swings, I'm gonna kind of show you so you guys can see as this kettlebell we're set on the ground and then I'll go back, is it's almost like you're shaking someone's hand, all right? So I come in, I'm shaking someone's hand. I'm not gonna come straight down even with that kettlebell where I end up right in the middle, but I'm gonna come at a slight angle, okay? What it's gonna do is it's gonna put me a little further up onto the handle. It's a small thing, but the nice thing about being here versus the middle or even down here is that as I start to do moves, let's say like I'm transitioning into clean or overhead positions, I'm already in a pretty good spot, right? Because as we look at our carries, we look at this rack position. You wanna be a little bit more on the inside of that kettlebell, that way we can stay tight with the arm and we can create this good stability. Elbows glued into my ribs, my lats are engaged. That's where we wanna be, whether we're doing overhead presses or we're just transitioning into that clean. So why not start there? So that's the easy thing. As you guys, and I'll have it zoomed in for you so you guys can see too, but as we're going to pick up that first, whether it's a swing, we're gonna go snatch, we're gonna go clean, is leaning that kettlebell and going just slightly higher up on the handle of the kettlebell, okay? So just making sure we're not grabbing here. 'Cause again, as you're down, you'll feel it. You just don't feel like you have as good a control than if you're right there at the top of that handle. And then like I said, real nice as I start to transition into some other moves. Boom, clean, it comes in tight, right? That's a very natural transition to drop. Boom, as I'm inside, I can just pull tight, keep my elbows glued to my ribs, and I end up in a good spot. It's also where I wanna be as I do transition if I'm going clean overhead press. Now you will find with snatches, you may end up a little bit more in the middle. But one thing, if you're conscious of it, you should be doing it naturally. So if I'm doing some kettlebell snatches, my hand feels like it's a little bit more even, but if I transition back down and I go back into more single side stuff, real slight here, but a little slide of that hand into the corner there, right? So some nitpicky small things, but as you do it, it'll start to make a big difference in your kettlebell flows. You start to string more moves together, all right? Boom, yeah.

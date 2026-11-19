@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/coachjoedrake/B-1nIEIA9io.txt"
+words: 622
+account: coachjoedrake
+lang: en
+quality: transcript
+---
+
+# S_coachjoedrake_B-1nIEIA9io
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/coachjoedrake/B-1nIEIA9io.txt` — حساب: coachjoedrake — إنستجرام — فيديو B-1nIEIA9io
+
+---
+
+Hey guys, Joe Drake here with the AthleanX Fitness Academy and I just wanted to break down one of my favorite non-traditional barbell movements especially when you guys have it set up kind of as a lopsided barbell with that weight on one side. So you know definitely some things to think about as you guys are getting into more advanced functional exercises like this lopsided reverse lunge. You're gonna wanna make sure that clients have mastered more bilateral or evenly weighted exercises first, right? So before I put someone into and I'm just gonna show you the exercise that we're going through and breaking down, before I put someone into this alternating reverse lunge with that weight, I've got a lot of variables that are going on here. So first off, I'm gonna wanna make sure that they've mastered bodyweight reverse lunges, then loading not only from the hands down below the legs but also loading up top because now what we're doing is we're not only placing that load with the barbell on top of the shoulders so they've got to be able to keep that core stiffness as we step back down into that lunge, but I'm also taking all that load on one side, right? This barbell is kind of levering me off to that right side. So a couple things, it's requiring a little bit more shoulder integrity for me to stay strong and tight throughout that exercise and my body's also fighting gravity wanting to pull me off to that side so I'm getting some good activation of my obliques on that opposite side to prevent me from tilting off. So there are a lot of variables going on so it's something that you wanna ease someone into, especially you're not gonna need a lot of load to get going, but love it because especially as you guys kind of start to see some different angles here too, it's gonna require me to really re-stabilize especially if you're going alternating legs with that exercise. Every time I take a step, my body kind of has to recalibrate where I'm at. You know if you guys wanna use the fancy words proprioception and it's forcing me to have to regain that position, right? So it's not gonna be the exercise I'm gonna use to try to totally blast the legs and get them as strong as possible, but when it comes to finding some more integrated movements that are going to give you a little bit more full body, integrate a little bit of core while we're still working those legs, definitely a great one. And there's a lot of different exercises like that we can do with that lopsided barbell setup but the reverse lunge is one that I think easier for people to get into the right position. You can progress a lot over time not only by adding more weight but just think about it. A small, small change of that hand position drastically changes how much torque I'm having to fight as I get into those opposite sides. And then you guys can hear me breathing a little bit too. I love it as somewhat of like an endurance fat loss exercise for clients who are looking to change their body because I'm only gonna have to do one side and then I'm gonna have to flip over and do the opposite as well so you're gonna expend a lot of calories in the process as a lot of things are firing up. So lopsided reverse lunge, I want you guys to check it out, throw it into your routines, let me know how it goes and I hope to see you soon.

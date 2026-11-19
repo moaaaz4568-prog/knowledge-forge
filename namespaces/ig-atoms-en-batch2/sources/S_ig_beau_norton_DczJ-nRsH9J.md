@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/beau_norton/DczJ-nRsH9J.txt"
+words: 586
+account: beau_norton
+lang: en
+quality: transcript
+---
+
+# S_beau_norton_DczJ-nRsH9J
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/beau_norton/DczJ-nRsH9J.txt` — حساب: beau_norton — إنستجرام — فيديو DczJ-nRsH9J
+
+---
+
+If you sell coaching or any type of online education, the biggest determining factor in how much money you're gonna make is gonna be how good your offer is. And this is a little framework that I've used for many years when it comes to creating offers. And if you think about it like this, you can create offers very quickly and you can know with a pretty high degree of certainty that that offer is going to sell pretty well. So the big mistake that people make when it comes to creating offers is they focus way too much on the result. They think that if they just like promise a huge result or outcome or offer this insane guarantee, like you're gonna make a million dollars or I'll give you your money back or something like that, they think that's gonna determine the success of the offer. But it actually has very little to do with that. I would say the result is actually only like 20% of it. What people actually pay for is not the result or the size of the result. It's more so the pain relief element. So think about this. What is bigger, the nutrition and fitness industry or the pharmaceutical industry? Well, the pharmaceutical industry is 50 times bigger. Why? Because they sell painkillers, not vitamins. So in general, people will pay even if the result is not like something huge. If you can help them get that result with less pain, effort, sacrifice, time, money, stress, if you can remove the painful elements for people, that's gonna make them much more likely to say yes. So think about it like this. There's three things that are painful for people. There is the action that is required to do the work. And if you can eliminate as much of that action as possible, that's gonna make your offer more desirable. So for example, you can have done for you elements inside of your offer, templates, cheat sheets, pre-made resources of any kind, or it could just be like a done for you service. The other thing that's painful for people is the thinking that is required to achieve something, especially if what you teach is kind of complicated or it requires a lot of skills or in-depth understanding of certain concepts. So you have to create things that remove all that thinking that people have to do. So you can do this with like step-by-step processes that you give people so that they don't have to think about it. They can just do it. You could also give people like AI tools or something that can walk them through step-by-step how to do something so that they don't have to use that much of their brain power. The other thing that's painful for people is the fear or the negative emotions that people experience when they're trying to achieve something. And so if your offer can address this as well, it's gonna make it more desirable. So you wanna have some type of support system. That could be one-on-one support, it could be group support, or it could be, you know, pre-made audio lessons or video lessons or something that can support them emotionally. So when you can remove the fear, when you can remove the overthinking, and when you can remove as much action or effort as possible for somebody, that is what is gonna make them much more likely to say yes to whatever you're selling.

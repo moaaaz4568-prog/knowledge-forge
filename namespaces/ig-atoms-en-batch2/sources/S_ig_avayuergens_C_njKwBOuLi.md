@@ -1,0 +1,20 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/avayuergens/C_njKwBOuLi.txt"
+words: 172
+account: avayuergens
+lang: en
+quality: transcript
+---
+
+# S_avayuergens_C_njKwBOuLi
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/avayuergens/C_njKwBOuLi.txt` — حساب: avayuergens — إنستجرام — فيديو C_njKwBOuLi
+
+---
+
+Got it. Here is the raw transcription:
+
+"This is a picture of my first date ever with this guy named Ben. When I was a freshman I spotted the most muscular 14-year-old boy I've ever seen in my goddamn life, and I simply thought, 'give me.' Anyway, two weeks later, my mom would drop me off at his house because I couldn't drive, and we would have our first date. Little did I know that cute high school relationship phase would last for about a year, and then at age 15 we would really get into business. We started couch flipping, investing in real estate, reading business books together, becoming philanthropists. We fell in love with each other, became best friends, and shared the same missions, values, and goals in life. At 16 we got engaged and everyone thought we were fucking crazy. Three years later we're 19-year-old multimillionaires, living in a house together, both never went to college, happy and married. Can't freaking wait to see what we do together, baby."

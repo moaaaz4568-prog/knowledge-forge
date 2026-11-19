@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/bmarkfit/CHrMx9onIxX.txt"
+words: 649
+account: bmarkfit
+lang: en
+quality: transcript
+---
+
+# S_bmarkfit_CHrMx9onIxX
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/bmarkfit/CHrMx9onIxX.txt` — حساب: bmarkfit — إنستجرام — فيديو CHrMx9onIxX
+
+---
+
+Hey guys, what's going on? My name is Christine and I'm an online health and fitness coach working with Brian in the 10K Academy. So I'm about student number 60-ish somewhere in there to break the 10K a month plateau. So before the pandemic, I was working in the gym as a in-person trainer using my skills to pay off somebody else's dream. I was really limited in what I could do with my clients, how I could serve them, and the income I could make because there's only so many hours in a day. So I'd been following Brian since about September of last year, so 2019. But at that time, I was happy just getting my guaranteed paycheck every two weeks and doing what I could do because it wasn't risky. There was no, like it was a guaranteed thing. I didn't have to really do a whole lot other than show up for work and coach my clients and count their reps and that was about it and I would make my income. So I did want to make some changes and I did want to be able to go on my own because the potential was limitless and I watched what Brian was doing while I was following him, using his free content and getting value off of that for running my online nutrition program. But when the pandemic hit, I thought this is it because I got laid off obviously when the gym closed. So I thought this is it. This is the chance. I'm never gonna have this opportunity again. I might as well dive in right now. So May 4th was the day that my life changed. It's like I've found these new levels in this video game that I never knew existed before. I'm able to serve my clients so much better. The systems you learn and the strategies and methods of marketing your business, it just feels so good to finally be able to earn an income for myself and my family. And not only that, but as I level up, so do my clients and so do my clients' success because I'm able to show up as a strong, confident leader for them and they're able to level up in their results and the success that they're getting. So when the mastermind opened in September, I jumped at the chance to level up again. I knew that this was gonna be the next step for me and for my business and my clients. I've gone from zero clients online, well maybe a couple that I had, but it was pretty sparse. So I've gone from about zero clients online to a community of over 90 ladies crushing their goals in the Badass Babe Squad. It feels amazing to be able to inspire so many ladies daily and I can continue to increase my monthly income goal and I feel happy and fulfilled that I'm able to do this and I have methods and a skill set to change the world, to change people's lives, and to support my family. So if you are having hesitations on joining the 10K Coaching Academy, you need to just take the risk because if you don't, you'll never know. You'll end up never knowing. And if I hadn't taken the chance when the pandemic struck, then I would probably be either back in the gym earning my guaranteed, you know, $2, 000 a month, or I would be maybe still laid off or maybe the gyms are gonna close again. Like we don't know. So it's just amazing to have something that I know that I can do, then that this is gonna last and it's sustainable. And the skills that I've learned from Brian and other coaches are transferable into a long-term business strategy. So if you're having hesitations, don't hesitate anymore.

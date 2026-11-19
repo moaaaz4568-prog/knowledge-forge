@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/chase.h.ai/DXfMrsGJehw.txt"
+words: 194
+account: chase.h.ai
+lang: en
+quality: transcript
+---
+
+# S_chase.h.ai_DXfMrsGJehw
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/chase.h.ai/DXfMrsGJehw.txt` — حساب: chase.h.ai — إنستجرام — فيديو DXfMrsGJehw
+
+---
+
+Codex 2. 0 just dropped and it is good, especially when it comes to browser automations. Now I've always been a fan of browser automation tools like Playwright CLI, but Codex makes it way easier since it's actually integrated into the app itself. It's called the computer use plugin and it's perfect for use cases like this one. I recently changed the form submission on my AI agency's website, and rather than testing it myself manually over and over and over again, which is both slow and boring, I used the Codex computer use tool to do it all for me. I didn't even have to tell the exact tests I wanted it to run. It knew the best practices and it went ahead and took control of my computer. It spun up its own dev server, it uses its own cursor, which is really nice, and then went ahead and just started filling out the form as if I was doing it. And if you're someone who does any sort of web development, this is perfect for testing UI changes at scale. So it's very intuitive to use and I was generally impressed.

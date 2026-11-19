@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/bmarkfit/Ct7JVfQufy5.txt"
+words: 231
+account: bmarkfit
+lang: en
+quality: transcript
+---
+
+# S_bmarkfit_Ct7JVfQufy5
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/bmarkfit/Ct7JVfQufy5.txt` — حساب: bmarkfit — إنستجرام — فيديو Ct7JVfQufy5
+
+---
+
+If I owed Pablo Escobar money and I needed to make $5,000 fast and my life depended on it, here's what I would do. First, I'd start a free 14-day challenge. In these 14 days, I would help people lose five to 10 pounds for free for two weeks. I would go to Canva and create a free 14-day Shredded for Summer challenge graphic. The flyer would include only 20 spots, two weeks of training, nutrition, and accountability. DM free challenge for info. After that, I'll DM 50 people on Instagram, Facebook, or wherever people are following me. Find my friends who are fat. I'm just kidding. And in this DM, I would say this. Hey John, I'm running a free 14-day Shredded for Summer challenge starting next Monday. Are you in? Once they say yes, I'd send that sexy flyer that I made. When 10 to 20 people say yes, I'd help them lose weight for two weeks and help them get shredded for summer. Now you have hella testimonials to market your online coaching service, and some of these people in this free challenge will join your $1,000 fitness program. If you sign three people for $1,000 from your challenge and two people with the testimonials from the challenge, you just made $5,000. And you can now pay Pablo back. Save this video and don't accept loans from strangers.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/beau_norton/DZKvD6DMHSJ.txt"
+words: 585
+account: beau_norton
+lang: en
+quality: transcript
+---
+
+# S_beau_norton_DZKvD6DMHSJ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/beau_norton/DZKvD6DMHSJ.txt` — حساب: beau_norton — إنستجرام — فيديو DZKvD6DMHSJ
+
+---
+
+Everybody these days has got fucking ADHD, so unfortunately, if you're a content creator, you kind of have to learn how to hack people's psychology and force them to pay attention. And here are 10 ways that you can do that. It's not just what you say at the beginning of your piece of content, that's like common advice, have a good hook, but it's also about the way that you future pace throughout your content. So you always want to be giving people the sense that more value is right around the corner. One way you can do that is by talking about an unresolved problem, and then you're kind of like hinting at the fact that you have a solution, right? And you got to actually deliver on it, otherwise people are going to be pissed. Another one of the easiest ways to capture people's attention is to use what I call situational relatability, meaning speak to those very specific moments in people's lives of things that they can actually like relate to, like, oh yeah, I've experienced that, I know what that's like. Another thing you can do is what I call context framing. For example, let's say you teach gardening and you want to teach people how to plant a beautiful garden in their backyard. In the beginning of your piece of content, you might show the whole context, which would be the finished result. Like, what is it going to look like when your garden is complete and it's beautiful and you have all these vegetables and fruits growing? You show them the context first, and then you zoom into the details and say, okay, now here's step one. Another way you can hold attention is through stories. Another one is controversy. Say something controversial. That's part of being magnetic. You have a positive and a negative, and the positive doesn't exist without the negative. So in order to really attract people, you have to also be willing to repel people. Another one is novelty, sharing things in a way that people haven't seen before, creating some sort of new way of displaying that information or talking about it, or maybe a new visual style, a new video format. You have to get creative with this, but if people see something that looks like something they've never seen before, they're much more willing to pay attention. Another one is insight. So don't just share knowledge and information because people can get that from AI. You want to share insight, like deep realizations that you came to only through your extensive life experience. Another one is five senses. When you're speaking or writing your content scripts, you want to be stimulating people visually, auditorily. You want to make them feel something, you want to make them imagine something, you want to get them immersed in the story or in whatever you're sharing. And trying to incorporate as many of those senses as possible into your content is going to do a much better job at keeping that attention. And then common enemies. If there's something you don't believe in, if there's something you strongly disagree with in your industry or your niche, don't be afraid to share it. Again, that's going to push some people away, but it's also going to attract your tribe, the people who resonate with what you believe. If you want this framework and dozens more to help you grow your personal brand, just comment frameworks below.

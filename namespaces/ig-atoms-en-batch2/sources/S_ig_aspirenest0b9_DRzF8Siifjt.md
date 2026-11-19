@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/aspirenest0b9/DRzF8Siifjt.txt"
+words: 130
+account: aspirenest0b9
+lang: en
+quality: transcript
+---
+
+# S_aspirenest0b9_DRzF8Siifjt
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/aspirenest0b9/DRzF8Siifjt.txt` — حساب: aspirenest0b9 — إنستجرام — فيديو DRzF8Siifjt
+
+---
+
+ऐसे 4K क्वालिटी के थंबनेल तुम सिर्फ वन क्लिक में बना सकते हो क्योंकि मैंने आज नैनो बनाना प्रो मॉडल को इंटीग्रेट करके एक AI एजेंट बना दिया है जिसमें तुमको अपनी फेस की फोटो डालनी है और कोई रेफरेंस इमेज की फोटो फिर तुम्हें ये AI सिस्टम एक 4K क्वालिटी की थंबनेल बना के दे देगा बिल्कुल ही रियलिस्टिक और टेक्स्ट भी एक्यूरेट आती है और इसको बनाना बिल्कुल फ्री है तो मैं इस 40 मिनट के वीडियो में इस AI एजेंट को बनाना सिखाया है अगर तुम भी इस AI एजेंट को बनाना सीख लेते हो तुम कोई भी कंटेंट क्रिएटर को इस AI एजेंट को सेल कर सकते हो अगर तुम उस वीडियो की लिंक चाहते हो तो जस्ट कमेंट करो वीडियो मैं तुम्हें DM करता हूँ

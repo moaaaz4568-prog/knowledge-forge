@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/chase.h.ai/DJW3J9PxFEp.txt"
+words: 647
+account: chase.h.ai
+lang: en
+quality: transcript
+---
+
+# S_chase.h.ai_DJW3J9PxFEp
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/chase.h.ai/DJW3J9PxFEp.txt` — حساب: chase.h.ai — إنستجرام — فيديو DJW3J9PxFEp
+
+---
+
+Welcome to my step-by-step guide of how to create an AI agent without using any code that does public sentiment analysis and technical analysis of any stock you want. This is part five of my guide, so make sure to check the previous videos to get caught up and follow this channel to see more. Okay, so here we are in part five and let's finally finish this guy. We have both our tools set up, our tavily search and our stock tool. And so now what we want to do is go into the system message inside this AI agent and give it the logic for actually executing these tools every time we have a conversation. So first things first, click on this call N8N workflow tool and we want to rename this to stock tool. And then what you're going to do is you're going to go into AI agent, double click there, and then you're going to want to come here where it says add option and do system message. Here's where we're going to put our logic and we're not going to come with this on our own. We're going to go to something like ChatGPT and say, hey, this is what I'm trying to do, have a conversation about some sort of stock, and here's how I want you to use the tools. So to do that, you're going to go to your AI of choice. I'm just going to use ChatGPT here and you're going to say, hey, write me a system message for assistant that gives stock analysis by combining stock tool data and tavily search slash news sentiment. I then go into the steps of I want you to identify the ticker, use the stock tool for the, you know, price chart, and then use tavily search to get the news and then summarize all that for me. So it should give you some sort of system message back. So all you're going to do is you're going to take that and copy it, paste it back into here into this system message area. So now it knows how to execute all of this. All right, so now let's actually test this guy. And so to do that, we're just going to open up the chat message and then ask it for some information about whatever stock you want. Like, hey, can you give me some information on Tesla stock? So here we see the model hitting all those tools and next thing it's going to do is give us all that analysis. All right, so here's the output. We asked about Tesla, gives us some level, some indicators, some thoughts, gives us the chart, which is nice, and then even goes into the recent news and sentiments. And so you can do this for whatever stock you want and you can make it more and more customized by going into this system message and telling it how you want it to actually logically go through all the information that's being provided, both from tavily and from the chart information, right? You can get really, really deep into whatever persona you want your AI agent to actually act like. So that's it, guys. It took five steps, but you now have an AI agent that's able to use multiple tools and look at all different parts of the internet to give you some really hard-hitting analysis about whatever stock you choose. So I hope you guys enjoyed this five-part series. If you're looking for more sophisticated AI agents and guides that go even more in depth on stuff like this, go ahead and check out my community. The link is in the profile. It's all about guides for non-technical users who are new to this AI agent space and want to dive in. So hope to see you there.

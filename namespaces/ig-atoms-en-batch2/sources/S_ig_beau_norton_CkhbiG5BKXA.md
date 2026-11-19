@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/beau_norton/CkhbiG5BKXA.txt"
+words: 197
+account: beau_norton
+lang: en
+quality: transcript
+---
+
+# S_beau_norton_CkhbiG5BKXA
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/beau_norton/CkhbiG5BKXA.txt` — حساب: beau_norton — إنستجرام — فيديو CkhbiG5BKXA
+
+---
+
+If you want to make a living just by sharing your knowledge, here are three frameworks you should use when sharing your message. Making small things big. The goal with this framework is to illustrate how small things can compound over time to create big things, whether those are positive or negative. By sharing your message this way, you can actually get people to take action on the information you provide, and that means you're going to have a more positive impact on people's lives. The next one is the great paradox. Talk about things in your industry that might not be common sense. This helps your message spread and stand out amongst the noise because you're actually giving people a new perspective on things. You're not just sharing ordinary how-to step-by-step content that everyone else is doing. The next one is the unique method. This is where you take your information and your knowledge and you turn it into a system, process, or framework that is one of a kind. Because people don't act on information. What they will act on, however, is a system that they can see leads to an outcome that they desire.

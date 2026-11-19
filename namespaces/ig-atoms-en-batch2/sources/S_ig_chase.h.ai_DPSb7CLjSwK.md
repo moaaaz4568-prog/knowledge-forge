@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/chase.h.ai/DPSb7CLjSwK.txt"
+words: 621
+account: chase.h.ai
+lang: en
+quality: transcript
+---
+
+# S_chase.h.ai_DPSb7CLjSwK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/chase.h.ai/DPSb7CLjSwK.txt` — حساب: chase.h.ai — إنستجرام — فيديو DPSb7CLjSwK
+
+---
+
+So I ran some tests today with the brand new Sonnet 4.5 and N8N to see if you can prompt your way into complex AI agents and automations. We ran it through three tests, and we did this in combination with Claude Code and the N8N MCP server, so it has the best tools at its disposal to actually do this. So for the first test, we asked it to create a pretty complicated LinkedIn job scraper. What we wanted the automation to do was to be able to take in an input from a user saying, hey, I'm searching for this type of job. The automation would then go to LinkedIn, scrape the appropriate jobs and bring them back to the user. The user would then choose out of that list that got brought how many of the jobs it actually liked. From there, it would then find hiring managers for each of those jobs, create a custom message and send the message off. And what you see right here is the result, and it actually did a really good job. It got the correct scrapers for both LinkedIn jobs and the hiring managers. It has the correct logic as a whole for the workflow, and the AI email generator actually has a pretty robust system prompt to go alongside it. So overall, for first test, Sonnet 4.5 knocked it out of the park. Now for our second test, we wanted it to create an AI agent ecosystem for research agents, right? An analysis agent, short form, medium form, long form. And what you see is the result, and it's not nearly as good as the first one, right? What do we see? We see a bunch of stuff that's unconnected. The LLMs themselves got errored out. You see the question marks there. And overall, it's just really, really ugly for what frankly was an easier automation than the first one. So for test number two, Sonnet 4.5 definitely failed. For test number three, we asked Sonnet 4.5 to create a RAG AI agent for us that was hooked up to Supabase and included executive assistant type tools, right? Something that could do email, calendar, all that sort of stuff. It broke it up into two workflows. What you see right here is the data ingestion piece. So I have a document that I want to send to a RAG system. How do I do it? Well, I would just use this system, right? Goes inside a Google Drive and then gets uploaded to Supabase. And what we see here is the second part of the workflow, the RAG agent, right? You have your executive assistant with some tools attached, but it did error out when it came to the Gmail tool actions and the Google Calendar, but it did do a decent job when it came to adding the Supabase vector retrieval. So overall, I would say this is like a 50% solution, which is still decent all things considered. So here's my final thoughts based on these results. This is still the best tool we've ever had for giving an AI system a prompt and having it create AI agents and automations that you can use inside of N8N. It does a great job on simple agents, an awesome job on medium difficulty automations, and for these complicated ones like you see, it's kind of a mixed bag, but that mixed bag is still better than anything we've had before. So if you're looking to go more into detail, like how to set this up, like Claude Code MCP, all that, just go to the link in my bio. You can find all of it inside my community.

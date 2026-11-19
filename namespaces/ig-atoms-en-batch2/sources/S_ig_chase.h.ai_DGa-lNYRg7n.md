@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/chase.h.ai/DGa-lNYRg7n.txt"
+words: 617
+account: chase.h.ai
+lang: en
+quality: transcript
+---
+
+# S_chase.h.ai_DGa-lNYRg7n
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/chase.h.ai/DGa-lNYRg7n.txt` — حساب: chase.h.ai — إنستجرام — فيديو DGa-lNYRg7n
+
+---
+
+I absolutely love this AI agent I just built. So this AI agent's all about helping you create written content, and in this case, it's blogs. So the one reason why I love this particular AI agent is because it sounds like you. It's actually trained on your writing, so it maintains your unique voice when it outputs its content. It's not gonna sound like all the other generic AI content out there that's created by like ChatGPT and all these other tools. It's actually gonna sound like you. So let me run through some of the tools you see here so you can understand what's kind of going on in the background. And I think this stuff is just super cool because I built this agent with virtually no code. Really the only code I used was this little snippet that you see up here on the top right, and that's just so I can pass multiple messages at once to Telegram. But besides that, no code is required, and so you could do something like this even if you have no experience. So if you're looking for step-by-step guides on how to make this exact agent and others just like it, just check out the community in my profile. So at the bottom here, we have the idea generation and research tool. Both of these are powered by Perplexity. Now Perplexity, if you don't know what it is, it's essentially Google on steroids. It's Google with AI. And so when you're first deciding what to kind of write about, it goes into the idea generation tool. It takes the topic you're thinking about, sends it to Perplexity, and then comes back with five relevant topics that you could deep dive on. Now once you choose one of those topics, it then goes to the research tool, and again, it pings Perplexity, it optimizes your prompt, and then it does a deep dive on that particular topic you're trying to write about. It comes back with all the citations, all the sources, so you can do the research on your own, so you're not just letting AI do everything for you. And then we also have the image generator here. So if you want to create images for your blog, it does it through AI. It uses Flux. Now if you've used text to image generators before, something like Dolly, they're not always the best, but Flux is really, really good, probably the best one on the market right now. And with a single prompt, you're able to do this all within the same agent. Then we also have just a basic internet search here with Serp API, and then we also have the ability to upload our blog post to Google Drive, modify it, whatever we want to do. And then here you can quickly see this AI agent in action. I'm asking it for what sort of blog posts I can make. Eventually I decide on a topic. It does some really deep research into the topic I chose, gives me a bunch of resources, and then we begin doing a back and forth for the blog. It comes in with an outline. I tell it what I like, what I don't like, and eventually we settle on something together that sounds like me, was enhanced with AI, but I was in the driver's seat the whole time. And I just think this is really cool, right? Like I said before, this was all done with almost no code. I did it in N8N, and if you're interested in doing stuff like this, make sure to follow my page and check out my community.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/bytommypark/DOldGkxjmZp.txt"
+words: 162
+account: bytommypark
+lang: en
+quality: transcript
+---
+
+# S_bytommypark_DOldGkxjmZp
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/bytommypark/DOldGkxjmZp.txt` — حساب: bytommypark — إنستجرام — فيديو DOldGkxjmZp
+
+---
+
+I'm going to retire my parents from this crusty ass desk, and if you think I'm crazy, you're probably right. Ten years ago, my parents sacrificed everything to move to Canada so I could live a better life. Until now, I feel like I never truly understand how much they gave up for me. And because of this, I took their love for granted and never truly worked hard for anything. Then I saw this video online of someone surprising their dad with $15, 000, and it hit me that I've never even dreamed that big for my family. I suddenly felt this desire to want to do the same thing. I have no idea how I'm going to do it or how long it will take, but one thing I know for sure is I will never quit until I can recreate that video for myself. If you want to follow my journey of trying to figure shit out, follow me.
