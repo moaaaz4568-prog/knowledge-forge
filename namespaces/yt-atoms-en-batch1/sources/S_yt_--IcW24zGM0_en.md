@@ -1,0 +1,41 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/--IcW24zGM0.en.txt"
+words: 147
+---
+
+# S_yt_--IcW24zGM0_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/--IcW24zGM0.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب --IcW24zGM0
+
+---
+
+this book review is soros on storo
+staying ahead of the curve by george
+soros
+this book the first part of it is goes
+into his investment philosophy
+and goes into more details on a lot of
+concepts explained in his book the
+alchemy of finance
+and he describes how he traded and
+navigated black wednesday which was the
+time he made a billion shorting the
+british pound
+uh the thing i found more interesting in
+this book though was how he explained
+his philanthropic goals with his
+uh group called the open society
+and what the philosophy behind that is a
+lot of people just think of george soros
+as a generic financier of left-wing
+progressive ideas but
+his open society is really more about
+just the most radical form of social
+liberalism and turning all human
+interaction to transaction
+more than just classical left-wing
+politics
+

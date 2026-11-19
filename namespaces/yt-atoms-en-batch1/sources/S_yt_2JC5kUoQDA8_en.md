@@ -1,0 +1,33 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/2JC5kUoQDA8.en.txt"
+words: 188
+---
+
+# S_yt_2JC5kUoQDA8_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/2JC5kUoQDA8.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب 2JC5kUoQDA8
+
+---
+
+What do you think of Sermespen's saying?
+In my opinion, the stupid question we always
+see in movies is put in a context of being
+clever. I don't consider it clever. If you were able to
+give it to me and you created a context in which you
+could sell the pen, I understand that this is one context
+out of 3000. Just because you came up with something out of 3000 isn't
+clever. The point is, you have an awareness of the
+3000 possible outcomes, you know how to make
+permutations and combinations, and you know how to find the right fit for each situation. That's what I'd say.
+Yes, that's a smart mind, but you've memorized a
+way to answer the question. You only have
+one way, a template to sell anything. So if
+I told you to sell me this cup, you'd do the same thing. But
+if I told you to sell me this laptop, there's no way.
+The brain isn't there. So the question itself only
+reveals whether the person in front of you has memorized anything or not.
+For example, I think
+

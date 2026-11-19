@@ -1,0 +1,33 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/0YPN0JvSGdc.en.txt"
+words: 154
+---
+
+# S_yt_0YPN0JvSGdc_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/0YPN0JvSGdc.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب 0YPN0JvSGdc
+
+---
+
+So you're saying I have no choice but to go out and
+do an InTrix. Life has two solutions
+in this game: education or entertainment. You
+managed to do entertainment and education together.
+Editing, you managed to do it [laughs]. You've reached a very, very
+high level. But first, choose one
+path for yourself according to the type of business you have.
+For example, there are types of businesses whose nature and DNA
+accept both paths. They accept that your
+influence and presence be educational or your influence
+and presence be entertainment. And there are types that only accept
+one of them, like blood types. There is a type that
+accepts two or three types, and a type that only accepts one
+specific type. In your case, I think that
+both are open to you, but your DNA leans towards
+entertainment. Why? Because
+you are actually selling something whose
+expertise is not very large.
+
