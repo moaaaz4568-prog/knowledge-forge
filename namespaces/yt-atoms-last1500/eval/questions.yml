@@ -1,16 +1,106 @@
-# Known-answer questions for this namespace. Fill from YOUR content:
-# each question's answer must live in a specific passage you can name.
+# Known-answer questions for yt-atoms-last1500 (36 topics, 1,500 sources).
+# Each answer lives in a specific passage of the S_ files, so retrieval is
+# tested against content that really exists. Tiers per v2 graduated eval:
+# exact / paraphrase / comparison / unanswerable (expected: []).
+# Questions drafted from T_ atom quotes; wording is NEW (not the quote itself)
+# so keyword matching must earn the hit. Coverage spans 20+ topics.
+# Expected lists the SOURCE plus the atom/concept files that carry the same
+# passage verbatim — any of them is a correct retrieval of the answer.
 questions:
   - id: q1
-    question: "REPLACE with a real question"
-    tier: exact                    # exact | paraphrase | comparison
-    expected: [sources/S_x.md]
+    question: "ما الإطار المكوّن من خطوتين الذي يقترحه المصدر لكتابة عرض تقديمي جيد عبر البريد الإلكتروني باستخدام فيديو Loom؟"
+    tier: exact
+    expected: [sources/S_yt_uD1ggUuRsX4.md, atoms/cbwritescopy/T_uD1ggUuRsX4.md, concepts/cbwritescopy/C_yt_uD1ggUuRsX4.md]
   - id: q2
-    question: "REPLACE with a paraphrased question"
-    tier: paraphrase
-    expected: [sources/S_x.md]
+    question: "كم محاولة اتصال متتالية يقوم بها نظام الأتمتة تلقائياً عند حجز مكالمة العميل المحتمل دون مشاركة الفريق؟"
+    tier: exact
+    expected: [sources/S_yt_tKWl2p9gVWk.md, atoms/cbwritescopy/T_tKWl2p9gVWk.md, concepts/cbwritescopy/C_yt_tKWl2p9gVWk.md]
   - id: q3
-    question: "REPLACE with a question the sources cannot answer"
+    question: "ما الخطوات الأربع التي قسّم إليها المصدر تحديد معايير العلامة التجارية وموقعها ورسالتها وقيمها؟"
+    tier: exact
+    expected: [sources/S_yt_tBHlge6mzyU.md, atoms/misc-dl/T_tBHlge6mzyU.md, concepts/misc-dl/C_yt_tBHlge6mzyU.md]
+  - id: q4
+    question: "ما الأجزاء الأساسية الأربعة التي يشبّه بها المصدر كل قطعة محتوى بقطعة ليغو؟"
+    tier: exact
+    expected: [sources/S_yt_tYu7HdJQwnkb.md, atoms/takimoore/T_tYu7HdJQwnkb.md, concepts/takimoore/C_yt_tYu7HdJQwnkb.md]
+  - id: q5
+    question: "ما المعلومات التي يطلبها النموذج عند الضغط على خطوة التنفيذ: الاسم ونطاق الشركة وماذا أيضاً؟"
+    tier: exact
+    expected: [sources/S_yt_tbsotEYWJ1E.md, atoms/michtortiyt/T_tbsotEYWJ1E.md, concepts/michtortiyt/C_yt_tbsotEYWJ1E.md]
+  - id: q6
+    question: "مع من يقول المصدر إن الشركة الناشئة في 2026 تتسابق إلى جانب إطلاق المنتجات؟"
+    tier: exact
+    expected: [sources/S_yt_z1JTqkC43k0.md, atoms/lobstercap/T_z1JTqkC43k0.md, concepts/lobstercap/C_yt_z1JTqkC43k0.md]
+  - id: q7
+    question: "ما الشركة التي أظهرت حسب المصدر أن التركيز على العملاء الحكوميين يمكن أن يتوسع إلى مليارات الدولارات؟"
+    tier: exact
+    expected: [sources/S_yt_wkucyrpjfy0.md, atoms/lobstercap/T_wkucyrpjfy0.md, concepts/lobstercap/C_yt_wkucyrpjfy0.md]
+  - id: q8
+    question: "ما الأمور الخمسة التي يجب مراعاتها أثناء العمل مع الفريق على تحقيق الأهداف، وأولها أن تكون الأهداف محددة؟"
+    tier: exact
+    expected: [sources/S_yt_ywqDltLI7mU.md, atoms/omarsaied/T_ywqDltLI7mU.md, concepts/omarsaied/C_yt_ywqDltLI7mU.md]
+  - id: q9
+    question: "أي منصة يقترح المصدر للبدء في نشر الكتابة، إلى جانب المدونات ومنشورات أخرى؟"
+    tier: exact
+    expected: [sources/S_yt_uJ8Pg6t_iho.md, atoms/misc-dl/T_uJ8Pg6t_iho.md, concepts/misc-dl/C_yt_uJ8Pg6t_iho.md]
+  - id: q10
+    question: "ماذا يقول المصدر عن عقلية الحيوانات التي تتعاون مع بعضها لاصطياد الفريسة كتشبيه للاستراتيجية؟"
+    tier: exact
+    expected: [sources/S_yt_yiBVIW5Y8DY.md, atoms/omarsaied/T_yiBVIW5Y8DY.md, concepts/omarsaied/C_yt_yiBVIW5Y8DY.md]
+  - id: q11
+    question: "لماذا يعتبر الباحث عن معلومات مجانية عبر الهاتف فرصة تجارية حسب المصدر؟"
+    tier: paraphrase
+    expected: [sources/S_yt_wxAQ9ZXgsQwb.md, atoms/takimoore/T_wxAQ9ZXgsQwb.md, concepts/takimoore/C_yt_wxAQ9ZXgsQwb.md]
+  - id: q12
+    question: "هل يجب أن يكون المحتوى مثالياً ليجلب لك عملاء، أم أن هناك شرطاً آخر أهم من جودة المحتوى نفسه؟"
+    tier: paraphrase
+    expected: [sources/S_yt_z-x9m3LNd6Ib.md, atoms/takimoore/T_z-x9m3LNd6Ib.md, concepts/takimoore/C_yt_z-x9m3LNd6Ib.md]
+  - id: q13
+    question: "ما رأي المصدر في تصميم الانعكاسات في واجهات المواقع بعد مرور عقود على رواجها؟"
+    tier: paraphrase
+    expected: [sources/S_yt_t_cHR2tT_Fc.md, atoms/misc-dl/T_t_cHR2tT_Fc.md, concepts/misc-dl/C_yt_t_cHR2tT_Fc.md]
+  - id: q14
+    question: "ما موقف المصدر من التعليم الجامعي ومتى يراه قراراً جيداً؟"
+    tier: paraphrase
+    expected: [sources/S_yt_xu0EDM3ShCM.md, atoms/ryandeissofficial/T_xu0EDM3ShCM.md, concepts/ryandeissofficial/C_yt_xu0EDM3ShCM.md]
+  - id: q15
+    question: "كيف يساعد توثيق الأمور المهمة فقط الفريق على التعامل مع أدلة العمل؟"
+    tier: paraphrase
+    expected: [sources/S_yt_yBQrACPA8QYb.md, atoms/ryandeissofficial/T_yBQrACPA8QYb.md, concepts/ryandeissofficial/C_yt_yBQrACPA8QYb.md]
+  - id: q16
+    question: "ما فائدة تجميع الخبرة والأفكار في مكان واحد بدلاً من تركها محتوى متفرقاً؟"
+    tier: paraphrase
+    expected: [sources/S_yt_ufblVNmOcKs.md, atoms/hakeem.podcast/T_ufblVNmOcKs.md, concepts/hakeem.podcast/C_yt_ufblVNmOcKs.md]
+  - id: q17
+    question: "على ماذا كان المصدر يركز في بدايته بدل الاعتماد على المكالمات البيعية، وأثر ذلك على الأسئلة المطروحة؟"
+    tier: paraphrase
+    expected: [sources/S_yt_xS7E3f7ooFk.md, atoms/cbwritescopy/T_xS7E3f7ooFk.md, concepts/cbwritescopy/C_yt_xS7E3f7ooFk.md]
+  - id: q18
+    question: "كيف يفسّر المصدر حجم نشر الكميات الهائلة عند مشاهير مثل جرانت كاردون وإيلون ماسك بالنسبة لغيرهم؟"
+    tier: paraphrase
+    expected: [sources/S_yt_teuIlgaUXhU.md, atoms/jaceengland/T_teuIlgaUXhU.md, concepts/jaceengland/C_yt_teuIlgaUXhU.md]
+  - id: q19
+    question: "ما الفرق بين تقديم عرض يتضمن منتجاً يتفاعل معه العميل في الريتيل وعرض الديسبلاي؟"
+    tier: comparison
+    expected: [sources/S_yt_vB-d86CB_10.md, atoms/omarsaied/T_vB-d86CB_10.md, concepts/omarsaied/C_yt_vB-d86CB_10.md]
+  - id: q20
+    question: "كيف يضع الأخذ بالأمور الموسيقية وإجراء الأبحاث قبل أبويلا وزانغ فريقنا في المقدمة عليهما؟"
+    tier: comparison
+    expected: [sources/S_yt_xEUXJFseVJQ.md, atoms/adriandimac/T_xEUXJFseVJQ.md, concepts/adriandimac/C_yt_xEUXJFseVJQ.md]
+  - id: q21
+    question: "كيف يقارن المصدر بين نشر نسبة 10% من المحتوى عند كبار الناشرين ونسبة 100% عند صغار صناع المحتوى؟"
+    tier: comparison
+    expected: [sources/S_yt_teuIlgaUXhU.md, atoms/jaceengland/T_teuIlgaUXhU.md, concepts/jaceengland/C_yt_teuIlgaUXhU.md]
+  - id: q22
+    question: "ما هو رقم الهاتف الشخصي لصانع المحتوى المذكور في الفيديو؟"
+    tier: unanswerable
+    expected: []
+  - id: q23
+    question: "كم تبلغ ميزانية الإعلانات المدفوعة التي ينصح بها المصدر لحملة يوتيوب الأولى؟"
+    tier: unanswerable
+    expected: []
+  - id: q24
+    question: "ما اسم الشركة التي استأجرت المصدر مستشاراً إعلامياً في عام 2023؟"
     tier: unanswerable
     expected: []
 top_k: 10
