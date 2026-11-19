@@ -27,7 +27,7 @@ master:
 retrieval:
   top_k: 10
   recall_at_k_target: 0.8
-  engine: auto                    # auto = hybrid when dense available
+  engine: hybrid   # measured: hybrid 0.952 vs keyword 0.857 (eval 2026-11-19)
   fusion: rrf
 
 embedding:                        # optional rung; keyword works without it
