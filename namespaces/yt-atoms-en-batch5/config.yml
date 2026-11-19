@@ -1,0 +1,38 @@
+# Namespace settings (v2). This file makes the folder a knowledge base:
+# one corpus, one voice, one index. Isolation is structural — retrieval
+# never crosses namespaces unless you ask for a Y_ synthesis.
+
+namespace: yt-atoms-en-batch5
+project:
+  name: "yt-atoms-en-batch5"
+  language: "auto"          # ar | en | auto (per-language normalizer)
+
+topics: []                        # list them as you discover them
+
+concept:
+  min_words: 250
+  max_words: 600
+  min_evidence_quotes: 3
+  min_limits: 3
+
+master:
+  level: L0                       # graduated L0 -> L3 (never start high)
+  howto_min_ratio: 0.40
+  levels:
+    L0: {sections: 6,  min_words: 2000,  analysis_min_words: 300}
+    L1: {sections: 10, min_words: 4000,  analysis_min_words: 600}
+    L2: {sections: 14, min_words: 7000,  analysis_min_words: 1200}
+    L3: {sections: 18, min_words: 10000, analysis_min_words: 1800}
+
+retrieval:
+  top_k: 10
+  recall_at_k_target: 0.8
+  engine: auto   # atoms-only stage; dense/eval comes later per pipeline order
+  fusion: rrf
+
+embedding:                        # optional rung; keyword works without it
+  model: e5-small
+  dim: 384
+
+eval:
+  recall_target: 0.8
