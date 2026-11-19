@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_chase.h.ai_DUjlcTMDSmC.md
+location: instagram/chase.h.ai
+---
+
+# T_DUjlcTMDSmC_01
+
+"If you use Claude Code, then you gotta check out their new experimental feature, Agent Teams. But it doesn't come enabled automatically, so let me show you how to set it up in 30 seconds. So first thing you need to do is search for Claude Code Agent Teams documentation. It will take you to this page. This is the official Claude Code docs." — sources/S_ig_chase.h.ai_DUjlcTMDSmC.md
+
+# T_DUjlcTMDSmC_02
+
+"Now it will spell out for you what you need to edit, because you need to edit a specific settings. Json file, and then it also goes into when to use the teams, what are the best practices, and how it differs from normal sub-agents." — sources/S_ig_chase.h.ai_DUjlcTMDSmC.md
+
+# T_DUjlcTMDSmC_03
+
+"Now once you do that, you're gonna have to restart your Claude Code session, and then to actually start using Teams once you've enabled it, all you have to do is you have to explicitly tell it, create an agent team to do whatever. You have to use that verbiage, create an agent team." — sources/S_ig_chase.h.ai_DUjlcTMDSmC.md
+
+# T_DUjlcTMDSmC_04
+
+"So the example they give is, I want to design a CLI tool, and I want you to create an agent team to do this, and I want one teammate on UX, one on technical architecture, one playing devil's advocate. So just tell it you want a team, tell it you want the teammates to do, and it's really that simple." — sources/S_ig_chase.h.ai_DUjlcTMDSmC.md
