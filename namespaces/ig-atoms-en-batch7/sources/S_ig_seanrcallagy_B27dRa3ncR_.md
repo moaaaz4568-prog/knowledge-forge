@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/B27dRa3ncR_.txt"
+words: 633
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_B27dRa3ncR_
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/B27dRa3ncR_.txt` — حساب: seanrcallagy — إنستجرام — فيديو B27dRa3ncR_
+
+---
+
+Hey, it's Sean with 20/20 Vision and we are from Caligi Law, Jersey City. Hala Jludi, my partner, amazing, incredible attorney. Could you introduce the team here? This is caring, urgent, aggressive, central. This wonderful team. Thank you, everybody. Frank Parisi, amazing, awesome. Frank Parisi, ladies and gentlemen. The amazing Inessa Goldman. Thank you. Inessa Goldman. Who by the way is like obsessed and thinking that Hala's picture needs to be on a billboard like this because we're coming at every level. That's what I'm talking about. So yeah, you don't make it because you're on a billboard looking like this. You make it because you deliver at the highest level. By the way, Hala trained most of these people. So good. I drop the mic because I tell the truth. Boom, that's what's up. This is really the amazing Inessa who takes care of everything here. Thank you. And then next we have Melissa Almonte. Melissa! And our latest addition, one of the only, Stephanie, who's being a little shy right now. Stephanie, why are you being shy? I don't know, everyone's looking at me. Who's everyone? Stephanie, where are you from? Cliffside Park. You're from Cliffside Park? The Red Raiders? Yeah. Excellent. So we have a Cliffside Park Red Raider, ladies and gentlemen. So thank you, Hala, and then we also have our amazing team. First of all, Matt, he usually moves weird and does things like this with the video camera and does like super cool things. He's going to be like, we're going to keep him for as long as possible before he starts winning Academy Awards. So thank you, Matt. Rob Gill, just make sure you like tie up Matt in a trunk or something so he doesn't leave. So thank you, Rob. You'll put some of these amazing meetings today. I was just looking for food in the fridge. Who is, yes, fighting with Hala over food and they bumped into each other. It's like a whole weird thing. Where's Uncle John, by the way? Uncle John, Uncle John is hiding. Yes, come on, Uncle John. And so the one and only Nicole Maiello. Let's hear it for Nicole. Thank you, Uncle John. Tiffany Schoonmaker, yes, excellent. So the maker of scoons, that's like we're going to like rename, yes, making scoons. So thank you, team. Thank you, everybody out there. We are going to be bringing an amazing event into Jersey City on January 10th, 11th, and 12th. Rob Gill, co-creating that amazing outcome with Mr. Villeda, the wonderful and incredible mayor of Jersey City as well. We're super excited about it. And Hala, you ready to deliver and have an amazing January 10th, 11th, and 12th? Absolutely. You guys don't want to miss this. Please look out for it. It's going to be an awesome event. And I think most critically for Hala and the team here, it's going to be emerging ecosystems and co-creating with the community in Jersey City. I was born here, and some of you folks, who else was born here? Rob's from Bayonne originally. Anybody else born in Jersey City on the team? Nope, not yet. Okay, so we have, but Michael John married somebody born in Jersey City, but Ann. I went to high school in Jersey City. But you were from Hudson County, you're from Bergen. So Hudson County in the house, right? Doesn't count. Oh, Rob Gill. Rob and Hala have like a whole thing going. So yes, so yes, that should be its own reality show, Rob and Hala. It'd be like The Osbournes or something like that. Yes, yes. So amazing. So thank you to the Jersey City office. Thank you, guys, out there for launching going forward. Hey, we're always learning. Thank you, Sean.
+

@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/DOYhNz6ABLG.txt"
+words: 629
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_DOYhNz6ABLG
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/DOYhNz6ABLG.txt` — حساب: seanrcallagy — إنستجرام — فيديو DOYhNz6ABLG
+
+---
+
+So our ecosystem partner Dan Fleischman recommends shooting videos before, during, and after what you're doing. The problem is we have so many things that are overlapping. It's very difficult to do before, during, and after. Saturday morning, wake up in LBI, surf, head up here, shoot three hours of videos for our ecosystem partnership in medical revenue recovery, calorie recovery. Cole Hatter, Cole, what's up brother? Dan, what's up brother? Then head from there to Long Island, which is about an hour and a half away, to be with my daughter and her boyfriend, boyfriend's family. Bench up on a private jet, fly to New Mexico for PHA, Physician Led Healthcare for America. What's up Stacy? What's up Dr. Joe and all the beautiful people out there? Speak on Sunday, fly back to Pennsylvania for an event that we're doing with my younger daughter Selena. Then we got today, working all day and rocking it in Pennsylvania, come back to New Jersey. Hi dad, see my dad, getting ready for the five day immersion for Unblinded on Act I in Long Beach Island, Group Influence with our elite and certification partners, having a massively amazing special guest, getting ready for that. And we've already started running online ads for October Influence Immersion. So yes, we are, I think, at the same time, we are before, during, and after all these different things, working all night tonight. Dad, are you tired just listening? Yeah, I got tired. Let's see, Saturday morning about 7: 30, I heard strange footsteps in the living room. I went out, saw Michael setting up what appeared to be an eight by ten foot screen. And I said, I guess we got a TV upgrade, huh? Yeah, and that's because there was a power outage in the building, so they had turned the great room in our home, my house here, into that. And in final final, for all of you, it gets crazy. But if you're doing what you love, or you're here for purpose, then it's not work. And so for everybody out there, build a platform, live on purpose, and your platform isn't your Facebook page, your Instagram, it's not your podcast, it's everything you're doing to get your message out in the world with the remarkable ecosystem partners you create. If you want to learn more, stay here, like, share, subscribe, and get yourself to the October 15th immersion. You're going to be my, oh, we're announcing it, Charlie Sheen is coming, plus three other remarkable humans. You're like, Charlie Sheen, what about him? Doesn't he have all these problems? Well, he's on the comeback because the guy's a movie star, TV star, definitely slipped. We're not going to exploit Charlie Sheen or a story. Like he's going to be on, by the way, he's going to be on, what are some of the big talk shows? Part of Phil. He's going to be on Fallon. Yeah, I can see him. I think he's going to Jimmy Fallon, he's going to be on, who's it? Colbert. He's going to Joe Rogan. He's going to be on the cover of People Magazine next week. He's releasing his new book, he's releasing, creating a documentary. So Charlie Sheen will be there, I'll be interviewing him, he'll be a podcast episode, he'll be a podcast guest on our show. We got this kick at October 15th, not exploitation, but how does all this come and fit together? Yes, this is before, during, after, after, during, before, before, during, after, before and after. And keep my dad in your heart and prayers, lots of beautiful things happening, but you know, life isn't easy and sometimes health challenges come up. So we'll see you soon, thanks.
+

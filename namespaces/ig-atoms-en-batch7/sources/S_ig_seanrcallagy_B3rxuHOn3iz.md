@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/B3rxuHOn3iz.txt"
+words: 622
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_B3rxuHOn3iz
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/B3rxuHOn3iz.txt` — حساب: seanrcallagy — إنستجرام — فيديو B3rxuHOn3iz
+
+---
+
+Hey Sean, 2020 Vision, co-creating breakthroughs and dreams, crushing fear and distortion. We are here Provident Bank with some of the amazing people from the mortgage team and we're with Mr. Joe Rodriguez, right? What's up, brother? That's it. All good. Yeah, Steve, how are you? Great. Awesome. And Joe? So we just wrapped up a training here and like how was it for you, Joe? Incredible. You know, emotional, I would say. Yeah. Eye opening. It's always emotional. It's always emotional. So incredible and hopefully, you know, I can share this moving forward. And with. . . So your team, so your position is. . . I'm the sales manager. Awesome. Awesome. Provident Bank has 80 branches in New Jersey. Oldest bank in New Jersey, 180 years old. And so you're the leader of the mortgage team. Yes, yes. Awesome, right? And then you had interesting access because this fine gentleman, Steve, you guys worked together back in the day, yes? Yes, yeah, we go back about 20 years. So they were talking about being like a mortgage boiler room in California like 90 years ago. Is that not true? Something like that. Oh, amazing. That they were super well trained. So it was fun. They had a high level of training, but as I joke around my buddy, Rob Gill frequently, sometimes, you know, our training could get a little crazy and do things, but these are gentlemen that were highly schooled in the world of the psychology of selling, the process of selling. Yes? Yes. Yeah, so there was like deep and awesomeness. And we have Joe, who's also a student of personal development and from back in the day, I guess he was at the precursor to Landmark, so we're having some really cool conversations. What was that like? What was today like for you, Joe? Today it was very inspiring, motivating, and thought-provoking for me. I'm excited about some of the concepts I just learned from you. Yeah, how about for you? Like, what was the most thought-provoking in terms of what we chatted about today? Well, I was thinking about a customer I just had an interaction with recently for a new loan and how you presented about communicating directly with them and not using the word I or me and leaving them to be the ones telling their story. Awesome. Which is, I think, really a valuable lesson. Yeah, so we're talking about today was really integrity-based communication model and the mechanisms from going from "hello, yes" with people and the micro distinctions that make that occur and how it's not that present for everybody. But we had a cool moment with Joe where it was so powerful because when we talk about emotional rapport building, we often think about ourselves. So we were having a chat and Joe is in an exercise. I'm like, "Hey Joe, what's your favorite baseball team? " The Yankees. If I go Mets, like I lose a massive access to things. That's how a lot of us operate. Because where we got to with Joe was that he loves the Yankees. It takes him back to his childhood, his Cuban roots, his family tradition. And all of a sudden, a very emotionalized process was beginning. We didn't go all the way through for the sake of the exercise in the group, but is that not true? Yes, absolutely. Right. And so deep listening, focused on the other person, not coming back to ourselves. I couldn't be more thankful to be here. Joe, thank you, brother. Great to have you. Thank you. And Joe, listen, hey, we're all blind and just learning to see. Have an amazing, fun Friday. Thanks.
+

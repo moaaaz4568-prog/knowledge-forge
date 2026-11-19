@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/Ct2kKBfKr55.txt"
+words: 633
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_Ct2kKBfKr55
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/Ct2kKBfKr55.txt` — حساب: seanrcallagy — إنستجرام — فيديو Ct2kKBfKr55
+
+---
+
+If this seems overwhelming, of course it is. Because you're hearing it in a couple of minutes, not over the course of four days when you do exercises to drive each and every piece of all of this home. How do you validate people? What does validation mean? What does it mean to you? Validation, validation, I know what that actually means. But what's congruence? What does that mean? No, a violation of your words, a violation of your language. What is that? How is that causing people to not say yes to me in my selling, my marketing, my managing, my leading, my recruiting, in dating, in relationship? How is it causing those gaps and holes in every yes I'm seeking? What about this content and contrast? Framing, misframing, de-framing, re-framing. How is this so powerful? What's the contrast that you need to cause people to say yes? Well, I don't know. Maybe that's exactly how Martin Luther King became Martin Luther King or Malcolm X, Malcolm X. But though, if you don't understand, study Malcolm X. Read "The Autobiography of Malcolm X." That's another takeaway. The most powerful, most shattering reading to truly understand somebody who probably wasn't who you may think he was. He's one of the most powerful people with influence and integrity that I've ever heard of or known. Get a hold of that for a little bit. How do Beatles, Beyonce, how do leading rappers, rock stars, how do supermodels become people of influence? Malcolm cleaned up all the different ways. How does Tom Brady lead and drive and cause things? How do Warren Buffet, Bill Gates, Elon Musk, Oprah Winfrey overcome racial bias, gender bias, all the things to become a multi-billionaire? Who grew up with sexual trauma as a child and teen pregnancy, which I'm not judging all of course, but what I'm saying is statistically, just like my blindness, 75% of blind people are unemployed. Most people who are teen pregnant, African American woman who also had sexual trauma, you add up those statistics, the likelihood of becoming a multi-billionaire, you have a better chance of being struck by lightning four times in one day. But she did it. And there wasn't anything that different and special about her than you. And in fact, she was in a room full of people and you didn't know she was Oprah. She wouldn't stand out and dominate the space, but every person she talked to would remember her because she caused them to feel seen or understood. So if this is not interesting to you, I'm just fascinated because I would have not done my job. If this is not interesting to you, say yes. If this is interesting to you, say yes. Now the only question you need to ask yourself is, how much does your future money, time, magic, rides matter to you? I pay 200 plus thousand, I said 200, it's about 225, throw in travel for 250, for my personal development every single year. I'm not saying you're in a position to do that at all. And that's why we have this work. But what that has caused for me throughout my life is the ability to go from making 2,500 bucks a month, 100,000 dollars on Dan and Sarah in my life back in the late 1990s as a man or wife who wanted to run away from alcoholics to a place to have the ability to buy a beach house and then another beach house and then a private residence. I don't fly private all the time. I fly private sometimes. But I'm in a place right now where I'm in the plan to buy my own private jet, my first jet, either late this year or early next year.
+

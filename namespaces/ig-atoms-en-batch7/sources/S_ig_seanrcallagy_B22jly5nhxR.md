@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/B22jly5nhxR.txt"
+words: 633
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_B22jly5nhxR
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/B22jly5nhxR.txt` — حساب: seanrcallagy — إنستجرام — فيديو B22jly5nhxR
+
+---
+
+Hey, Shawn, 20/20 Vision. Go create breakthroughs and dreams. Crushing fear and distortion. Distortion, our topic for today. What is distortion? Folks ask this a lot. Distortion is when we take what is happening and filter it through a prism to come up with a false focus. Happens a lot with the media. Somebody could ask a question like, "Hey, what do you think about the fact that the earth is gonna end next week? " Well, there's distortion. The earth is not gonna end next week, but there's a presupposition in the question that takes us to a distorted view of reality. And for me right now, the reason we're shooting this video at this moment in our authenticity of 20/20 Vision is 'cause I'm in a bit of distortion. It's been a bit of an intense day. I didn't get to all the things that I had time blocked and desired to get to today. So I'm out of a beautiful state and a little frustration has creeped in. And I was gonna be shooting some videos instead tonight that were about January 10, 11, and 12, and the amazing things that we're gonna do and happen. And I couldn't find my way to that state. I'm usually virtually always able to get myself into that state to really deliver, and I wasn't there. And as I'm not there, as I begin to think about the day today, where things stand with regard to some of what I wanted to have happen happening and some of the outcomes I have set, I have like distortion. I'm like, I don't know, like, you know, not feeling good, like we're not gonna get there. And this is again a place that's just completely untrue. And I know in an hour I'm gonna feel differently. I know in the morning I'm gonna feel differently. But for so many of us, we believe that the state we're in, we're in this like state of distortion, that it is actually true. And nothing is actually true. That's a little bit deep and crazy, but nothing is actually true except what we believe, take massive action on, and keep solving for. So I know, right, logically, I may not feel this way in this moment, that my life is a blessing. It's incredible. I couldn't have more gratitude for all the amazing things I have. The biggest challenges that you might have in a day, most of us, I might have in a day, even my blindness, these are challenges that most people dream about. Many people around the world dream to have. Like who would trade places with me? Who's living in a third world country looking for food every day for their family? Would they trade my visual impairment, like, and my full life for theirs? Of course they would. So I'm blessed and it's amazing. But still, even with all that, even with knowing all these things, we can create some distortion. So the challenge for me, for you, for today, is when we're feeling that state of distortion, to realize that first, usually, we could break ourselves through it. I usually can. Today I'm struggling a little bit with it. And so we can realize that shortly, like tonight, by tomorrow morning, gonna be in a completely different place. Our self-mastery kicks in, we follow our formulas, and we truly focus on our dreams and breakthroughs and crush that fear and distortion. So hopefully crushing fear and distortion. I know it's not often that we stay in that space. When I'm here, I wanna deal with it. So have an amazing day. We're all blind learning to see. Crush your fear and distortion. Let's go get our dreams and breakthroughs. I'm Shawn Callahan.
+

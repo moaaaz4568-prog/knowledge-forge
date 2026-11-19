@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/CtQRGFogLwn.txt"
+words: 632
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_CtQRGFogLwn
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/CtQRGFogLwn.txt` — حساب: seanrcallagy — إنستجرام — فيديو CtQRGFogLwn
+
+---
+
+One of my favorites is when I was in federal court in Arizona, creating the largest jury verdict of almost the last decade in Arizona. 2016, nothing was passed, but I think there was one in 2014 or '15 that was larger. So it's the largest jury verdict in Arizona in the last eight years-ish, at least seven, I think it's eight and maybe nine. And in that case, the judge had a rule in his courtroom, an amazing judge, fair, impartial, driven, focused, precise, everything that you would want a judge to be. And he had an interesting rule in his courtroom, and his name was Judge Campbell. And what Judge Campbell had as a rule in his courtroom was no emotion in my courtroom. And I chuckled and was saddened and frustrated when Michael Smaikin read that court rule to me, because I said all influence is based in emotion. Nobody is making choices that are not emotionally driven. Now we can overcome our emotions and still have them tethered to logic. And we certainly want people to come to objective truth. We certainly want people to come to objective truth. At the same time, if we have no emotion, then we're not doing anything. So to condense this powerful story, at the end of this, in this case, originally the judge had said that the bailiff, I'm sorry, the jury foreperson would read the verdict. And this was an insane trial where we put at issue that somebody's lying and somebody's telling the truth. Your job is to figure out who. And for several years leading up to trial in that courtroom, the judge absolutely had a difficult time discerning who was lying and who was telling the truth and would engage in zero emotional dynamics. You couldn't even move from the podium in his courtroom when examining witnesses or speaking to the jury. You could not move off the podium. And in the end, he looked at the verdict when it came back from the jury, when the bailiff took it from the foreperson. And what he had said was going to happen was it was going to be handed back to the foreperson to read the verdict. And Judge Campbell looked up. He looked at them and he looked at me, as Michael Smaikin says, so he just looked at them and just looked at you because I can't see, I'm blind. And then he said, I think I'll read this one. In a profound act of emotion. And then with pausing, with micro emphasis, with immense subtlety, he punched them, slapped them, and plundered their world and loved it, reading that verdict. And the level five listening said, as he emphasized and adds to the question of whether or not defendants acted with evil and malicious intent, the jury says yes. And as the question of the amount of punitive damages, the jury answers 16, 250, 000. As his emotions flared in rage that was so subtly masked for them coming into his courtroom, lying, cheating, stealing, and taking up several years of his life trying to steal a company from my client. And he was abundantly clear and driven by emotion, not impartially in how he made decisions in the courtroom, but where with his immense integrity, he permitted himself the delight of reading that verdict and letting them know who he saw them to be with the greatest degree of subtlety. As tears poured down my face in one of the five most powerful moments of my entire life to this day. No one is logical. People make emotional decisions and they justify them logically. And very skilled people in masking make it simply seem like they're immensely logical. And I'm not judging them.
+

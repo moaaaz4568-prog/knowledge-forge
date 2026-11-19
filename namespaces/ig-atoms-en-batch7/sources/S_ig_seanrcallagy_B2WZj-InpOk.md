@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/B2WZj-InpOk.txt"
+words: 611
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_B2WZj-InpOk
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/B2WZj-InpOk.txt` — حساب: seanrcallagy — إنستجرام — فيديو B2WZj-InpOk
+
+---
+
+Hey, it's Joe with Twenty Twenty Vision, co-creating breakthroughs and dreams, crushing fear and distortion. I am here with my dear friend Joe Camberetta. Good to see you, brother. How are you, man? At National Business Capital and Services, yes. That's right. With his incredible partner James, amazing team, they are kicking some ass here, delivering massive services to businesses. And what is it specifically that's going on here, Joe? So National Business Capital and Services, we basically, to simply put it, we've created a platform that has over 75 lenders on it now, where we easily and simply and very quickly connect business owners to financing. We've actually helped, since we've started in 2007 now, secure over a billion dollars in financing for small businesses. And recently we've also incorporated a number of different business services, from payroll to payment processing, to bookkeeping services, to marketing services. So everything around growing and improving your business. Absolutely. And just come here for one sec. We had something cool over here, right? So what we got going on here is what? Like this is super cool. So this is the belt. And we've got, you know, we're a big team environment, really awesome atmosphere, awesome culture here. And so this is like a real WWF style belt. It's metal, it's huge, it's heavy. And if you're a number one guy on your team or for a competition, at the end of the month we do a picture and you see the folks here, different teams and different top people throughout the company that get a picture with the belt. Yeah, and the culture and energy here, they turned the music off while we're shooting the videos. The culture and energy is phenomenal. Got to meet so many of your team. I'm so impressed by what you're up to in the world. And the challenge out there, the learning opportunity really for everybody out there is how to take your process to another level. I think that's what so much of what Joe stands for. And the study that you have in so many different ways. We met through the Tony Robbins ecosystem, as I think I mentioned. But also you're working with this group over here and that group over here and taking, synthesizing content information from so many sources to create this incredibly unique strategy of building and growing your business, which is amazingly impressive. Thank you, Sean. I appreciate that. And without putting a focus on process, we never would be able to be the company that we are today. We joke around and say we have a process for a process, but it's all process and structure. And I think most business owners don't pay too much attention. Most business owners don't put focus enough on the process and structure. Everyone wants to just drive in more business, but they don't have a process and structure to handle all the business. And the only way to win in business is to be able to handle massive amounts of volume. And you have to have the process and structure in place to do that. For sure. And we got some really cool things coming up that we're working on together for January 10, 11, and 12. Oh yeah. As you'll be hearing more and more about. But you know what? We're all blind and just learning to see. And Joe, thank you, brother. Thank you, Sean. It was great seeing you. Thanks for coming in. Thank you. And stay tuned for what's next. This event's gonna be amazing. Don't miss it. Thanks, brother. Awesome. That was great. Awesome. Good stuff.
+

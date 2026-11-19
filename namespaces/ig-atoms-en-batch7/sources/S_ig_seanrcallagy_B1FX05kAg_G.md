@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/seanrcallagy/B1FX05kAg_G.txt"
+words: 637
+account: seanrcallagy
+lang: en
+quality: transcript
+---
+
+# S_ig_seanrcallagy_B1FX05kAg_G
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/seanrcallagy/B1FX05kAg_G.txt` — حساب: seanrcallagy — إنستجرام — فيديو B1FX05kAg_G
+
+---
+
+Hey, it's Sean Callagy with 2020 Vision, co-creating breakthroughs and dreams, crushing fear and distortion. And we're here with an amazing, awesome day. My dear friends and brothers, Mr. Nick Bufano and Rob Gill. What's up, brother? What's up, congratulations, welcome. Welcome to the family. And we're having an amazing time here. And so Nick, what was it for you that led to this access to join this amazing, which I call the most powerful business ecosystem on earth. Right? That's my words, most powerful business ecosystem on earth. Not just because of who's in it, but because of the connectivity, the family, and the depth of relationship. What was it for you? Yeah, so it's the energy, networking energy of people who really have a desire to really grow their business, grow their relationships, grow their friendships, and really get the most out of life and purpose. And it was super amazing about a year ago, maybe more, Nick came to an event that I was speaking at. We knew each other a little or of each other sort of. And then he's like, oh my God, like you like Tony Robbins, that's cool. But I think it was an element of like, almost like Tony Robbins like hierarchical like knowledge, right? A little bit of that like underneath like some of that with your amazing team. 100%, man. It's all about the energy. People have that same passion to grow their business, grow their relationships, grow their friendships, grow their network. And I was, that's really what I was shooting for, you know, with Sean. And I was so impressed though by Nick's commitment, his training leadership of his team. And obviously taking a massive step forward. He's been in events with other team members. And of course, there's my brother Rob Gill. And Rob is out here making a huge commitment and stepping forward. And listen, the most important part is by being here, I say this to people often, how many people in your life, how many people in your life have you ever been away with besides your family for more than 20 days in a year? How about even 15 or 10 days in a year? Dude, people in this room, let's get a pan shot of like just the room we're getting ready for today, right? People in this room, in this room have been together, I've been away with some of these people 100 nights in the last year and a half. You don't have to do 100 nights, but I have. And the relationships and dynamics that have happened personally and professionally, unbelievable. So welcome to that tribe, welcome to that movement, right? And for clarity, this is about peak performance and creating amazing, outstanding results. That's what this community is in service of and contribution. Contribution to the world, all sorts of amazing causes being supported all the time here. And you know what's wrong, Nick? Yeah, no, for me, it was a dream. I was able to watch Sean because I was just a guy that came to the events, but I watched Sean go from the back of the road to the front of the room. And the magnitude of that speed and how fast he did it was something I always wanted to be a part of. So being able to watch that and being able to be part of this, I'm totally honored. I can't wait, I'm excited, and I'm very grateful. Yeah, and a huge access point, by the way, is because there's beautiful, amazing people here that are accepting, loving, giving, and open to connectivity, inclusion, not exclusion. That's what this organization is so powerful. Hey, we're all starting to see amazing day in day five. See you later. Thank you.
+
