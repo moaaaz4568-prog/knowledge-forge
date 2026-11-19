@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/CoVu55ctrsu.txt"
+words: 613
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_CoVu55ctrsu
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/CoVu55ctrsu.txt` — حساب: airesearcherguy — إنستجرام — فيديو CoVu55ctrsu
+
+---
+
+Here's how to automate finding and publishing a hero image to your blog articles with just a little help from AI. All right, so in make. Com, first we start with the WordPress watch posts module. That's the trigger. So if you use my content distribution automation, as soon as a WordPress blog is posted, that would trigger this. The next module is OpenAI, of course. The reason I put this here is because I like to overlay the title of the blog onto the image, but sometimes those titles are way too long. So this simply gets the AI to shorten that. It just summarizes in three to five words what the title's about. As you can see here, the prompt is create a shortened summarized version of the following article title. We pull the title from the WordPress post. The constraints are only to return the summarized title and nothing else. The problem is, as you can see here, there is blank space right above the return. So that's why we have a text parser. This is HTML to text. When you put the choice from OpenAI in there, the output is just the text, no spaces. The next module is Unsplash. Unsplash is a free stock photo service, and you can sign up for an API key, and then you use that here. And then it has a module called search for a random image, and you can actually search by a query. So I use the summarized title, and then we use Cloudinary, which is one of my favorite services out there. This is a no-code platform that lets you manipulate images through the image URL. So this first one uploads a resource. What this does is it takes the Unsplash image and it uploads it to Cloudinary. And then the next module is to create a transformation, and this is where I make all those changes in the URL that make the image come out different. So here I overlay two semi-transparent images over this random stock photo. Here are the images. This one right here is slightly opaque, and it puts the company logo in the bottom right-hand corner of the image. And this one right here provides a bar over which the title can go. And those images are overlaid through this command, and then I'm gonna put the summarized title in that space over the image. HTTP get a file grabs that and uploads it into Make. Now the problem is, is every single time it uploads a file, it saves it as file. JPEG. So I have this increment function here that never resets, so that the same image doesn't keep getting uploaded to WordPress. So I use map, take the data, and then the file name, but I put the increment function right there, so every time it runs, it'll go one file. JPEG, two file. JPEG, three file. JPEG. Now before we get to the last step, let's run that so I can show you what all it did. All right, if we go into Cloudinary, we can see the random stock photo that was uploaded. And then here in WordPress, you see the title right there in that title bar, and then the company logo on the bottom right corner. So then all you have to do is connect that to an update a post WordPress module and set it to update the post that originally triggered this scenario. And the only change is that you'll put a new featured image into it, and voila, that's how you automate posting featured hero images to your blogs with the help of AI.

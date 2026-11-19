@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/C2X6IN6r7CG.txt"
+words: 637
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_C2X6IN6r7CG
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/C2X6IN6r7CG.txt` — حساب: airesearcherguy — إنستجرام — فيديو C2X6IN6r7CG
+
+---
+
+All right, this is how you build an AI agent that can search the web for context, and then you can put this in your no-code flows. You're gonna use Relevance AI, so you create an account, and then the first you wanna go to data and you want to build a knowledge base. You probably should do document upload because if you do website, it only takes one website source at a time. So what I did was I got a bunch of SEO articles and went to this tool here to the web and pasted the URL in here and then let it scrape all of the text off of the page and then saved those as TXT files and then used that to build this SEO knowledge base. Once the knowledge base is built, then you wanna go to tools. The first time you ever click tools, it's actually gonna show you a bunch of tool templates. These are public tools, so you can't use them in your agent. So what you're gonna wanna do is look for knowledge retrieval because you need that. And then you click try tool and then it takes you to a page where you can then click clone to edit. And then once you clone it, then it's yours to use. And then when you click to use the tool, you can go to build. And in the build page, you'll actually be able to add a data source, and that's where you can add your data table that you just built. And then other than that, you can leave everything alone except for LLM. Make sure that you choose what large language model you want the tool to use. And then once you have a knowledge retrieval tool that's connected to your data store, the last step is to create the agents. So you give the agent a name, you choose the large language model it's gonna use, and then you wanna add tools. You add the knowledge retrieval tool in your tool set that you just built that's connected to your data store, and then also the Relevance AI tool for Google search. Then you wanna put in your base instructions. These are your prompt. This is your system prompt. In here, you're gonna tell it what it is, and then make sure that you specify after every query, you also want to reference your database. So tell it that you always reference your database before doing a web search or doing anything else to answer the query. So that way it knows to always lean on what's in the database. And then it'll also do a web search. This right here, run without asking, you need to turn that on for both. And that way it'll know immediately that it's either gonna grab the context for the query from its database first, or it's going to do a Google search in case it doesn't have enough context. And then that's it. And then once you click to save that agent, you can access it via API. So here it's really simple, right? The JSON just transforms my query into JSON and then API calls send the query to the agent and then retrieve the answer after giving it some time to think. Here's an example of one of the runs that I did. I asked it for some SEO keyword suggestions on an article about AI ethics, and it told me that the focus keyword should be ethics of artificial intelligence, and then gave me a list of 10 secondary keywords. And I can input this through Make in any flow where I want to reference an expert knowledge base that also has the ability to search the web for context. Hope that helps. Cheers.

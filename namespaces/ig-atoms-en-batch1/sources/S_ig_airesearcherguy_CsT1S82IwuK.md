@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/CsT1S82IwuK.txt"
+words: 585
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_CsT1S82IwuK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/CsT1S82IwuK.txt` — حساب: airesearcherguy — إنستجرام — فيديو CsT1S82IwuK
+
+---
+
+I figured out how to connect GPT to Facebook Messenger, and I know that should be easy, but believe it or not, it's been quite the challenge for me. And the reason is because Chatfuel has a native integration that I just couldn't get to work, and my account doesn't work with ManyChat. I've tried two different times, paid services, and for some reason I cannot get ManyChat to send messages with my account, regardless of what page I'm using. Well, Make. Com does have a Facebook Messenger module, but it is way too complicated to set up, and you have to set up your own app and you have to get it approved so that it can go live. And I went through some craziness and even used some other person's code to set one up and tried to get it approved, and it got stuck on some weird loop and kept sending me messages like every three minutes. Could you imagine if I had hooked that up to GPT-4, how expensive that would have gotten? Anyway, I found a solution though. Thankfully, Zapier is here to save the day. You can use Zapier and connect GPT to Facebook Messenger, and the cool part is it has a memory token, so it can continue the chat and remember everything you guys have talked about. Let me show you real quick. All right, so this definitely requires a Pro account in Zapier, but the first module is actually really easy to set up. The trigger is a new message sent to a page in Facebook Messenger. You just have to connect it to your account and then set it up on a page. Then you use the Conversations in GPT module. This is different from the OpenAI module that uses text Davinci. This uses ChatGPT. And then you pull the input from the message into the user message. You can name the username anything, and then name your assistant, and then put your assistant instructions. Now here's the tricky part. I do not recommend using anything but GPT-3. 5 Turbo right now. Every time I've tried it with GPT-4, it times out. Right now GPT-4 is running way too slow, and if it takes longer than 50 seconds, Zapier just times it out. Temperature as usual is 1. 1, top P remains at 1. 0, and then the memory key has to be something that doesn't change, but as long as it is consistent, then the conversation can continue. So here I just use the sender full name, and then you just have to have a third module that sends the GPT message back to the sender, and all of this information is gathered through the modules, and boom. And the reason why this is awesome is because while I do prefer web-based bots, sometimes people do use Messenger heavily, and you can automate your customer support through Messenger this way. I sent it a message. It answered thoroughly my message because it followed my system prompt instructions, and then I followed it up with "I am interested, " which is not very detailed, but because it remembered the conversation, it gave me a link to go to and told me how to proceed. So that's how you connect GPT to Messenger. Use Zapier. Side note, GPT-3. 5 unfortunately has a pretty severe token limit. I'm thinking about testing the same setup with Claude's new 100, 000 token model. I'll keep you posted on that.

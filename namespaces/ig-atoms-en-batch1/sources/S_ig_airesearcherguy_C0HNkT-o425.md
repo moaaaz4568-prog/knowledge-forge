@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/C0HNkT-o425.txt"
+words: 595
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_C0HNkT-o425
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/C0HNkT-o425.txt` — حساب: airesearcherguy — إنستجرام — فيديو C0HNkT-o425
+
+---
+
+You guys don't even realize the power of actions in custom GPTs. I just built a Twitter thread writer GPT, and I'm gonna show you how I did it. But first, let's talk about actions. So custom GPTs allow you to add actions, which are API calls. The problem is, is it's kind of limited. It only allows for one header. It only allows for basic OAuth authentication. So complex APIs, it cannot connect to. Like it can't connect directly to Twitter's API. It can't connect to Google's API. But you can set all of that up in make. Com, and then you can have GPT call a webhook that will trigger a scenario. This means if you use make. Com, any scenario that you have, especially a scenario that requires inputs from GPT, you can wipe all of that away, replace it with a webhook, and then have your custom GPT push all that data into the webhook. It is so cool. So let me show you how I built the Twitter thread writer custom GPT. So the first thing I did was created a webhook in make. Com and grabbed the URL. Then I just asked ChatGPT for a schema. I had to define the variables that I needed it to pass to the webhook. And this is actually really easy. You literally just curly brace and then put whatever variables you want to get from the GPT in double quotes, followed by a colon, and then an example of what you expect in double quotes. And then each line is separated by a comma until the very end, and then you close out the curly brace. Like it's super simple. Anyway, so you just give ChatGPT your example JSON that you want it to send to the webhook, and then the webhook URL, and it'll write you a schema. If it doesn't write it in JSON, then you can just grab one of the examples from the action section in the GPT and tell it, hey, follow this example, and then it'll write it correctly. Anyway, so GPT wrote me a schema that works. And then in the instructions, I gave it very specific details about what I wanted it to do. I told it exactly what it was expected to do, and then I gave it directives on how to handle the information there at the bottom, publish the thread, and then I told it the variables that I wanted it to publish to, and then gave it the tone of voice I wanted it to use in the thread, a webhook to my thread writer scenario that I made a long time ago. And this actually publishes the thread to Twitter. Now let's see in action. I'm gonna use the mobile app for this. Please write me a thread about the current state of AI. It's working. It's writing my thread. It just asked me if it could go ahead and post it. Yes. And now it's making the API call. And that API call is gonna trigger the webhook, which will then trigger the flow and publish to Twitter. Let's see what it came up with. And here's the thread on the current state of AI. That was 10 tweets in a thread initiated by my custom GPT. And like I said before, you can do that with any Make flow, especially any Make flow that'll take inputs into the webhook. Very efficient way to basically hijack GPT's interface and make that your UI. Anyway, hope this helps. Cheers.

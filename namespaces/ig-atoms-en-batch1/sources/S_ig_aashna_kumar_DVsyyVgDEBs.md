@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/aashna_kumar/DVsyyVgDEBs.txt"
+words: 153
+account: aashna_kumar
+lang: en
+quality: transcript
+---
+
+# S_ig_aashna_kumar_DVsyyVgDEBs
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/aashna_kumar/DVsyyVgDEBs.txt` — حساب: aashna_kumar — إنستجرام — فيديو DVsyyVgDEBs
+
+---
+
+Stop asking ChatGPT to give you a viral reel idea, rather use this 5 step framework to go viral. Step 1: YouTube.com खोलो और अपनी निच के कोई बहुत बड़े क्रिएटर के वीडियोस पे जाओ। अब उसके वीडियोस पे जाके सॉर्ट बाय मोस्ट पॉपुलर देख के उसकी टॉप वायरल वीडियो देखो। वीडियो का URL कॉपी करो एंड गो टू youtube transcript.com वहां पे अपना लिंक को पेस्ट करो एंड इट विल गिव यू द होल ट्रांसक्रिप्ट ऑफ दैट होल वीडियो। Step 3: Copy this transcript and paste it to GPT with this prompt. GPT will now give you 5 content ideas from this transcript. Step 4: Now ask GPT which one is likely to get the most views on Instagram and ask it to turn it into a short form script. Step 5: Follow me and let's grow your Instagram together and comment "Chat, I will share this viral strategy in your DM."

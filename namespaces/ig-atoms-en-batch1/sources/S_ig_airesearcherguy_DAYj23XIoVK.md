@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/DAYj23XIoVK.txt"
+words: 611
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_DAYj23XIoVK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/DAYj23XIoVK.txt` — حساب: airesearcherguy — إنستجرام — فيديو DAYj23XIoVK
+
+---
+
+You ever seen those faceless videos that just show Minecraft gameplay and then have a disembodied voice reading out some epic story from Reddit? Those always seem to go viral. I just figured out how to automate generating those using AI. Let me show you. All right, let's break down this flow. First, we have to make a couple of API calls. We have to scrape Reddit, so I found a Reddit scraper API on RapidAPI. So the very first API call is to get an access token because you need that to make other API calls. Then we use that access token and we grab all the posts from a subreddit. I used Reddit Storytime for this example. Obviously you can use whichever one you like. Next, after we make that scrape, this is a randomizer. So this just randomly chooses a number between one and ten. And the reason is because I have a bunch of Minecraft gameplay video links, links to videos that are inside of my Google Drive here. So how this works is the randomizer creates a random number and then this gets a cell. Since all of those are in the A column, it's just A random number between one and ten. And that grabs a URL to a Minecraft video. The next step is it's going to generate the voice. It takes the text from the post and it generates a voice. I'm using Google Cloud Text-to-Speech because it's free. The next module is CloudConvert. See, the file output from Google Cloud Text-to-Speech is base64, so it's a string of characters. I have to turn that into a URL, and that's what CloudConvert does. On the free tier, you get 10 conversions per day. So this just takes that file and then turns it into a usable URL. And the reason is because the next API call is for Rev AI. Rev AI is a paid service, but when you sign up, you get $6 worth of free credits and credits are super cheap anyway. So like I'm still using my trial, my sign up trial credits. Anyway, what this does is it transcribes the audio file and then there's a three minute wait to give the file time to render and then you make another API call to Rev and it spits out what's called SRT, which is basically just time stamped captions. This takes the SRT, turns it into an SRT file, which has a URL. That is what is needed for the Transloadit API call. So Transloadit is going to take the URL for the Minecraft video from my Google Drive. It's going to take the URL for the audio file from CloudConvert and the URL for the SRT file from PDF. Co and mush them all together. But here's the really cool part. This particular JSON sends a set of instructions to Transloadit that also loops the video. So that way the audio can be however long it needs to be because this is all based on the audio, right? We are reading essentially the Reddit post and creating an audio file, but we don't know how long that's going to be. So this will loop that Minecraft video over and over again until the end of the audio. The end of this, you will have Minecraft gameplay video looping while you hear an audio track and you see the subtitles for that audio track. And this is what that produces. My traumatizing encounter at midnight. You can skip this long preluge paragraph, but I think it's somewhat related to my actions. The story goes like this. Me and my

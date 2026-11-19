@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/ClXUNgUOfYu.txt"
+words: 552
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_ClXUNgUOfYu
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/ClXUNgUOfYu.txt` — حساب: airesearcherguy — إنستجرام — فيديو ClXUNgUOfYu
+
+---
+
+So here's the thing, I'm still very interested in marketing. I'm still very invested in learning about behavioral economics. I've read literally every book that Dan Ariely has ever contributed to, so I know a good bit about this topic. I've spent the last probably four years reading this stuff, and it's been kind of an evolution. And recently, I'm listening to this book called Change by Damon Centola, and it's kind of flipping a lot of the stuff that I've learned on its head, and I want to share that. So the book talks about how not just ideas go viral, but specifically behaviors. And what's interesting is because all of the traditional ideas that we had about marketing apparently are wrong. Malcolm Gladwell's ideas on how things go viral was wrong. All the ideas around making products sticky are wrong. Chip and Dan Heath are wrong. The whole contagion idea, it's all wrong. That's a super bold statement until you listen to the book and understand what's going on. Social media virality, brand virality, product virality, all this stuff has been studied, and the people who study this stuff map it out against disease spread to look at the similarities. News and ideas, they spread virally in much the same way that viruses do. They spread on the fringes of centers of influence in a network, but behaviors do not act that way. News and ideas spread through weak ties. Weak ties are looser ties, people that you only know kind of well, associates, acquaintances. There's no overlap in your social networks usually, and it's really easy to snatch ideas from them and share it. And that's the kind of how those things go viral on social media. And then when it makes its way to an influencer, it blows up, blah, blah, blah, blah, blah. Behavior changes, core ideas, philosophies, changes to those, those do not spread so easily. Those spread through strong ties, which is gonna be lots of overlap in social networks, friends and family. What does this have to do with marketing? Well, anytime you are marketing a product, anytime you are selling a product, you are attempting to change people's behavior. That means that you're attempting to get people to use your product, to use your service. That is a behavior change. Either they're changing to your product from someone else's, or they're adopting a whole new behavior altogether. So it's important to understand the most effective way to get behavior adoption. That happens through strong ties, which means mass media or viral influencer marketing. These work sometimes, but not a whole lot. This is the reason why so many companies tried influencer marketing and failed. It's because they didn't understand this concept. I mean, have you ever tried influencer marketing and failed? And the reason is because you were trying to spread your behavior change through weak ties, not through strong ties. So how do you spread a behavior change through strong ties? Set up marketing initiatives that incentivize bringing a friend, sharing the experience with somebody that you know. If you can get people to flock to your service or your product in pairs and threes, together with other people they know, it'll be massively more effective. Anyway, hope that was helpful. Cheers.

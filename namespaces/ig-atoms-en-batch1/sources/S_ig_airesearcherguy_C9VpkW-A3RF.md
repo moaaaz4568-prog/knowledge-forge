@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/C9VpkW-A3RF.txt"
+words: 595
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_C9VpkW-A3RF
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/C9VpkW-A3RF.txt` — حساب: airesearcherguy — إنستجرام — فيديو C9VpkW-A3RF
+
+---
+
+No code class is now in session. All right, I know it's been a little while since I made a video, but I've been spending this time seriously leveling up my no code capabilities. Decided to start learning NA10, but I wanted to share my method because I feel like no code nerds out there like me, you guys are really going to appreciate this. So in order to start on NA10, I signed up for the free trial, two weeks worth of their cloud hosted solution. Everywhere I looked, it was always trying to push me towards hosted solution somewhere. So I started with the cloud thinking, you know, this is the best route to take, even though it's $20 a month because I'll be able to get support and I needed a lot of support. But it turns out that their support still pushes you to the forum, the forum that's available for everybody regardless of what instance of Nathan they use. So I immediately realized that $20 a month wasn't really worth it. Then I found some cloud services that had Nathan templates, right? So the one that I found was Railway and Railway is only like five bucks a month. Then in that $5 a month plan, I can host an instance of Nathan. Problem there is though, if you don't know how to code, you can't access the file that holds NA10 and allows you to upgrade it or update it whenever it gets updates and bug fixes. Also, it runs Nathan in something called Q mode, which means that you can't download community nodes. Anyway, so all of this, I was like, this is ridiculous. And finally I decided I'm just going to do this locally on my machine. It can't be that hard. And it's not. So if you look it up, all the Nathan documentation pushes you towards using something called Docker, and then you got to like have a Docker file. It's really confusing. It turns out none of that is necessary. I'm about to show you. This is so simple. Just download Node. Js on your machine. Just download it. All of the presets are fine. I mean, I guess they're fine. I don't know. I'm not a coder. I just downloaded it and everything that it asked me, I said, yes, sure, why not? Download Node. Js and then you open up your command prompt window. I use Windows PowerShell in my machine. Literally just opened up Windows PowerShell and then followed the instructions in the NA10 documentation. It's literally like dash npm na10g or something like that. I'll show you. And then it downloaded on my machine and there you go. And then it asked me if I wanted to open it by pressing O and I did and boom, it was there in my machine. I've had no problems. I've been able to download community nodes. I was able to install the latest pre-release version, which isn't even actually out. Like if you download the latest version, this one doesn't even come up because it's still in pre-release. And yeah, so let me show you how to do that from a no coder, from someone who doesn't know the first thing about code. I'm telling you, this is super simple. This is really simple. First, download Node. Js. Just download the whole thing, right? Once it's on your computer, like it's there, you can use it. It's really cool. And then you open up PowerShell or whatever you have on your computer.

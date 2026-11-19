@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/Cz9BU9rI3iY.txt"
+words: 565
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_Cz9BU9rI3iY
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/Cz9BU9rI3iY.txt` — حساب: airesearcherguy — إنستجرام — فيديو Cz9BU9rI3iY
+
+---
+
+So how do you embed your custom GPTs on your website? I've seen a few people in different forums ask about this and nobody has given a really good answer. I can show you how to do this in no code, so let's check it out. This all started because I got an email from Botpress saying that they could now facilitate this. I do want to make the disclaimer that this is actually not using custom GPTs but Assistants. GPTs do have more functionality, but the biggest downside is that you have to be a ChatGPT Plus subscriber to access them. But Assistants you can put on your website, anybody can use them. Anyway, this is where it all began, but I'm gonna show you how to do this. You will need a Botpress account, but it's free. You'll also need a WordPress plugin, also free, and I'll show you all that right now. The very first thing you need to do is go to your OpenAI account under Assistants, create one. I created something called a Behavioral Economist. Its instructions are to give marketing advice to marketers, and then in the files, I put seven whole books on negotiation, influence, behavioral psychology, etc. Then you'll need instructions on this page, botpress. Com/blog/deploy-openai-gpt-website. I found this by googling Botpress custom GPTs. And the reason you need this page is because you need to download the template. And the instructions tell you how to do this, but you go to create a chatbot and then click Learn Botpress. And then click Use template. All right, and in your new chatbot canvas, you're gonna click the Botpress logo and then Import/Export, Import from file. It gives you a warning that says this cannot be undone, and then you select the bot archive to upload, and that's where you upload the file. This is where it gets a little confusing. Once you've imported the file, you need to actually publish the bot first, and then click Share. That'll take you to a blank chat page. There was nothing to click. I didn't know what to do, so I just guessed and typed in Configure, but when I did that, it worked. It told me what to do first, which was to grab my assistant ID, and then it told me to input my OpenAI key, and then once I clicked Enter on that, the bot was configured. Then I had to go back to the main page on Botpress and then click Integrations, and then click Webchat, and that gave me a code that I could embed on my WordPress site. On WordPress, I had to download a new plugin called WP Code, which I did very easily from the plugins page. Now the Botpress instruction says that you have to have a premium account with WP Code. That is not true. Once you download that plugin, just go to Code Snippets, and then you put the code in the body and press Save. And that's it. Here's my absolutely ugly staging testing website, and there is the chatbot right there. To prove to myself that it was working, I asked it how I should market my AI-powered business templates, and it gave me a very detailed answer. Anyway, so that is how you embed a custom GPT Assistant anyway on your website. Hope this helps. Cheers.

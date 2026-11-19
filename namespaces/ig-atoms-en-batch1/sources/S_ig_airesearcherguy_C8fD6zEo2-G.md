@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/C8fD6zEo2-G.txt"
+words: 554
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_C8fD6zEo2-G
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/C8fD6zEo2-G.txt` — حساب: airesearcherguy — إنستجرام — فيديو C8fD6zEo2-G
+
+---
+
+You can create a digital clone of yourself with an agent in Relevance AI. When I say digital clone, that means that it will have access to your expert knowledge, it will have access to your values and world philosophies, it will have access to the way that you write and communicate with people, it will have access to tools that you have access to, like searching the web, and it'll be able to mimic you in almost every way when people communicate with it. Let me show you how to build this thing. So here in Relevance AI, I'm going to show you how I built my digital clone agent. It starts with the data. If we actually go under knowledge, this requires a good amount of data. Here I have a database table filled with a couple of full books on copywriting. Then here I have a database table with 10 full books on behavioral economics. I have a database table here with 500 personal questions and answers that I took the time to answer that kind of flesh out just how I view the world, my world philosophy and etc. And then I have a database table with all of my social media content. This includes comments and replies. This just acts as kind of a database of examples of how I communicate. And then finally I have a database table with expert knowledge on AI related stuff. So three expert knowledge databases, that's copywriting and marketing, behavioral economics and AI, and then one that serves as kind of like my personality, I call it conscience, and then one that serves as an example of how I communicate. Yeah, those are the database tables, that's the knowledge. Now let's move into tools. So each tool is actually a knowledge base retrieval tool, but they're each connected to a different database. So this conscience is the knowledge base retrieval tool connected to those personal questions, then the expert copywriter, then the personality vector is actually what I named the one that's connected to my social media content, AI expert knowledge, expert behavioral knowledge, and let's actually look at what's in here. So knowledge retrieval connected to a database with a query system set up to it. This is where we describe for the language model what the query should consist of, and then it is connected to a language model. Very simple stuff. I also have Google search as a tool in here as well because that is important for the agent to be able to do. Now let's actually look at the agent. So first we have enabled the tools, the copywriter expert tool, the AI knowledge base tool, the behavioral economics knowledge tool, the example social media post tool, and then the Google search tool. And then we give it base instructions. You're a digital clone of myself, and as such you respond to queries in my voice. You have access to databases filled with this knowledge. So this first portion explains what access to data this agent has. You have access to the expert behavioral knowledge vector, the expert AI knowledge vector, personality vector, copywriter expert and conscience, and it explains what is in each of those databases. So now the agent knows what information it has access to.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/DJCYl69t5SB.txt"
+words: 573
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_DJCYl69t5SB
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/DJCYl69t5SB.txt` — حساب: airesearcherguy — إنستجرام — فيديو DJCYl69t5SB
+
+---
+
+All right, so I just wanted to make a really quick video because a lot of people are talking about MCPs. I haven't touched on the subject primarily because there are people way smarter and know way more about it than me that are putting out content. But the problem is it doesn't seem to be sinking in with your average user. Every time I share about how amazing my life has become from using a new MCP, I get comments about, hey, that looks really cool, but this is all so over my head. I don't understand. So I decided to create a guide that will basically disambiguate the whole thing. It really just kind of explains it in a way that I think will make sense to the average user, but ideally it will also help the average user start to utilize tools like MCP servers. Anyway, I created a guide. I won't go over the whole thing, but to kind of explain what an MCP is in a way that makes more sense than it's a USB-C for AI, because I mean, what does that even actually mean? Remember GPTs, remember custom GPTs? Everybody was making them. People still do. But remember specifically there was something called actions, and that was when you could give your custom GPT and the ability to make an API call. The problem is, is at that time, GPTs were only able to have one header, and API calls come in all kinds of shapes and sizes. Some need three headers, some need five, some have the authentication in the query parameter instead of the header, and that could be really messy when you're trying to give a language model program access to a bunch of APIs. And that's the reason why we had to build workarounds. Like I built a workaround to put all of your API calls into Retool. That way you had one consistent API call across all of them that you could put into your custom GPTs. But MCP solves that problem. So what MCPs do, basically they just give your language model program, your, in this case, Claude Desktop, the ability to make API calls, the ability to talk to other programs. But MCP specifically is a protocol that makes it standard. It standardizes all of those calls. So instead of having to configure all these crazy API calls and all their different shapes and all their different authentication, it's usually just about three lines of JSON that you add to a file. And that's what this goes over. Just to kind of give you an example of one of those, right? Mermaid, one, two, three, four, five. Like this is it. Literally you copy this, you put it into a file, you press save, and then your Claude Desktop has the ability to make Mermaid diagrams. Notion, same thing. Right here, you just, you have this, copy that, you paste it into the file, and your Claude Desktop will be able to create Notion pages. It created this one, as a matter of fact. So anyway, and I even have a little video here. It's really good. I recommend checking it out. Just go to this URL, bit. Ly/a-to-z-mcp. I thought I was being clever. Sorry. A to Z MCP. And then take a look at that guide and use MCP servers if you're not, because they are awesome.

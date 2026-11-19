@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/adamdelduca/DdJQc1ZDTpa.txt"
+words: 559
+account: adamdelduca
+lang: en
+quality: transcript
+---
+
+# S_ig_adamdelduca_DdJQc1ZDTpa
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/adamdelduca/DdJQc1ZDTpa.txt` — حساب: adamdelduca — إنستجرام — فيديو DdJQc1ZDTpa
+
+---
+
+The travel documentary niche is an amazing niche to start a faceless YouTube channel in. As you can see, this channel is pulling almost ten thousand dollars per month with a million views per month, and the RPM is quite high at almost eight dollars per thousand views. And you could see videos like talking about Nevada, talking about Maine, talking about Tibet. There's so many people that really want to experience travel but can't afford to, which means that they can come and enjoy your content. Now, why is this such a good channel to enter into? The content's evergreen because those documentaries aren't gonna change. You can make money with affiliates for different online tours. You can sell brand deals. You can have your own digital products talking about the different locations. Now you need to think about production mode. These videos are very high production quality, as you can see. And if you are able to make videos in this way, it's gonna be hard for people to compete. But the flip side of that as the con is production costs. Building a channel around the United States and its upcoming developments is a massive opportunity because not only is the whole world looking at the United States, but as you can see, the RPM is pretty decent. There's always new topics coming out, which is why this channel is making seven thousand dollars alone just from ad revenue. Now you can see some of the topics are very high intrigue, like new inventions, mega projects, new vehicles, things that the mass market are gonna wanna see and watch, which is gonna attract more viewers to your channel. And why is this a good niche to enter into? Multiple income streams. This channel right here is monetizing with digital products and AdSense. Evergreen content on things that are about to develop. You have moderate RPMs for the channel, which means that you can make a sizable income just from ad revenue alone. The downside is scattered topics, mega projects, developments in health, not gonna attract the same audiences. You just need to be cognizant of that if you pursue this niche. Building a faceless channel around deep sea exploration is an amazing opportunity because there's so many people that are interested in it, but just about no one's building channels on it. And this is why this channel right here is making almost nine thousand dollars per month, making videos on things like the deadliest ocean predators, talking about sperm whales and orcas, these highly intrigued animals that again, no one's talking about. Now, why is this a good and a bad niche to enter into? High intrigue topics. You can make money not only with ad revenue, but brand deals as well. And the content is gonna be evergreen, so that means that those videos can pay you for months and years to come. However, you need to make sure you get your information right because people who are really interested in this niche are gonna know a ton. Now, honestly, the RPM could be higher, but that is not necessarily something to totally dissuade you because you can monetize outside of many different opportunities. And if you wanna build your own channel, comment the word go and I'll send you my free YouTube blueprint.

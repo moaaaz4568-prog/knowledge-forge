@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/adamdelduca/DdtTX4CgbEz.txt"
+words: 578
+account: adamdelduca
+lang: en
+quality: transcript
+---
+
+# S_ig_adamdelduca_DdtTX4CgbEz
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/adamdelduca/DdtTX4CgbEz.txt` — حساب: adamdelduca — إنستجرام — فيديو DdtTX4CgbEz
+
+---
+
+"This channel's generating over seven thousand dollars per month as you can see six dollars and thirty-two cent RPM and if we take a look at the channel you could see that it's a whole bunch of videos on very high intrigue chemistry topics. Now I know what you're thinking chemistry that sounds like an obscure topic but there is a loyal audience of people that are absolutely in love with these topics. As you can see some of these videos getting over three hundred thousand views now pros and cons of this niche pro this is evergreen content so videos like how dangerous is nitroglycerin really that's never going to go out of style always people that can come across it and watch it. We also have monetizing outside of ads so very educational niches are going to be magnets for brand deals which can easily add a couple hundred to a couple thousand dollars in earnings for every video that you upload you can also make these videos with AI you could basically use a tool like VidRush to make them make them very cost-effective now obviously you'd want to be sharing misinformation especially if it's around things like chemistry so if if you are building a channel in this niche you just need to be careful that your information is factual hitting over a hundred thousand views on the channel pros and cons. So as you could see typically videos that are talking about buildings that already exist they're going to be very evergreen in nature people can watch it today or they can watch it two years from now the video still going to be relevant as you could see the RPM is quite high over six dollars so you're going to be able to cash in a good amount of ad revenue from this type of channel and it's going to get expensive and you can build videos like this using a tool like VidRush to make each and every video you upload rather than paying an expensive editor. The con is that this is going to be an easier to copy format because as I mentioned you're going to be able to use AI to make the videos the one moat that you do have is the videos are longer so they are still going to be... This niche is the luxury building downfall niche and as you can see this channel's making almost five thousand dollars a month and look at that RPM almost twelve dollars per thousand views which is huge if you want to be making a ton of ad revenue every single month. So if we take a look at the types of videos being published on this channel talking about Miami's fifty million dollar island Malibu sixty million dollar hillside Scottsdale's twenty-five million dollar mega mansions things that are very high dollar value people are going to be extra interested in especially when there's a large price tag associated with them you have that high RPM so you can easily make thousands of dollars a month just from ad revenue alone you could also attach things like brand deals to make extra money because it is educational in nature the couple things you need to look out for you don't want to be sharing misinformation about these particular buildings or companies and you need to make sure that you're right on the forefront of picking topics when."

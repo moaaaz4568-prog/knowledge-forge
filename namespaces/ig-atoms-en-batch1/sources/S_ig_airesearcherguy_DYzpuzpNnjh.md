@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/DYzpuzpNnjh.txt"
+words: 584
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_DYzpuzpNnjh
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/DYzpuzpNnjh.txt` — حساب: airesearcherguy — إنستجرام — فيديو DYzpuzpNnjh
+
+---
+
+I was laid off from my job about three weeks ago. I've sent in countless applications and I haven't even gotten an interview. So my instincts tell me I have to do something. I have a family to provide for, so I'm just gonna build. If you saw any of my older content, you know I used to create make. Com blueprints and N8N templates, and those are really popular. So I plan to do that again, but not with no code platforms. Now I'm gonna build Claude code skills or agent skills. So to be the whole workflow, but wrapped up in some Python script and put in a skill, and then people can just open it up in their agent of choice and say, help me install this and it'll work. Let me show you. Okay, so everybody has their own way of interacting with AI. I personally think AI agents on your local machine are the best because then it has access to the files rather than having to upload them to the web interface. All of the major AI players have desktop apps. I'm not really a big fan of those. Typically they're pretty buggy. I use VS Code. So let me show you how to go about using Claude Code or other agents through VS Code. Step one, download VS Code, Visual Studio Code. Very, very simple. Download it. Step two, open VS Code, go to the extensions, and you want to download your AI agents. All the major players have VS Code plugins now, so we'll do Claude Code. There will be a download button there. Download it and then you'll have it. You'll see that little button right there, the Claude Code button. Click it and you can open a conversation there. However, the whole goal of using this is so that the agent has access to your files. Now from here it can access anything, but it needs your permission unless you open it in a folder. However, you open this in a folder, you go up here, file, open folder, then it won't have to ask you permission and has access to everything in that folder. We're gonna do that in a minute. The first thing we wanna do. All right, so here's an open source skill that I created. SEO Datas is one of my favorites. If you wanna do SEO for your website, it connects Google Search Console, Google Analytics 4, and Bing Webmaster Tools via an API to a skill. So you come here and you can do this with any of the skills or programs in GitHub as an example. But come here and you go to the code button, download zip. This is step by step for people who are not coders, who are not highly technical. That's not your field. You download the zip and then you unzip it, extract all. Now that you have a folder you wanna work out of, go back to VS Code, file, open folder, and then go to that folder. Now this is the fun part because this is how I build these skills that work just like make. Com workflows. Read agent. Md and help me install this skill. And then after you follow the instructions to go and get your credentials from Google and Bing, it's all set up. Restart VS Code and from any new instance of Claude Code now, I can have it interact with my website's data directly.

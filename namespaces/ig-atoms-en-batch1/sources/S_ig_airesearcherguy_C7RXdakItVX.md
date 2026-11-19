@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/C7RXdakItVX.txt"
+words: 593
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_C7RXdakItVX
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/C7RXdakItVX.txt` — حساب: airesearcherguy — إنستجرام — فيديو C7RXdakItVX
+
+---
+
+I tried to clone myself by fine-tuning GPT 3.5, and I finally got it done. First, let me tell you how I came up with this project. In my ceaseless efforts to try to figure out how to make AI sound more human, I ran across an interesting Medium article by somebody saying that you could fine-tune a model with personal questions. Essentially, they were saying you could make the model sound just like you by answering a bunch of questions. So I worked with ChatGPT and came up with 500 personal questions. Then I rigged a make. Com flow that printed the question inside of a Telegram channel, and then I was able to answer the question via voice, and my answer was transcribed by Whisper and then put in a file. Aside from that, I also read a couple of articles as soon as GPT 3.5 became available for fine-tuning, where people were saying that they were able to fine-tune the model with a handful of their blogs to produce a writer that writes in their style. So I collected all of my blog articles, and I even collected all of my social media interactions that I could get my hands on. I formatted the data properly. I made sure it was free of misspellings and other character weirdness. I was certain that I had pristine data. Now I only had like 700 rows of data, but I was told that for GPT 3.5 this would be more than enough. And I went ahead and created a fine-tune job in OpenAI's playground, and it cost less than $5 to fine-tune, which was awesome. And then I had my own fine-tuned model that was fine-tuned on all of my personal information, my personal feelings about things, answers to personal questions, my articles, my thoughts, my comments, everything. And then I tested it out. Disappointment is the wrong word to encapsulate how I feel. Like this thing is completely unusable. First of all, it hallucinates dramatically. It makes up companies all the time. It's also really bad with typos. Not like misspellings, but like just gibberish words. It'll just turn a word into complete gibberish far too often. Most of the time though, I can't even get it to give me a robust answer. Like I want a 2000 character LinkedIn post and it gives me three lines. Sometimes all it will give me is a bunch of hashtags. Or it'll say, sure, I'll write that for you, and then it won't write anything. Incredibly frustrating. And the worst part is when I give it context, which is the whole point of this, right? I want something that writes like me, but I have to be able to give it expert context or web context. That's just how I build my bots. I give it lots of context so the information is accurate. But when I give it context, it doesn't rewrite it. It just prints it again. Like, there's your LinkedIn post. Now I'm sure that I didn't do something right. I mean, this is a highly complicated procedure, and I was just trying to do it the most no-codey way possible. But I'm confident that the data is good, so I'm super frustrated because I'm not sure what else I could do to make this thing work. Unless that's just how fine-tuned models on OpenAI work. I don't know. Does anybody have experience with AutoTrain and HuggingFace? Maybe fine-tuning something like Llama 3 would be better. I'm open to ideas. Cheers.

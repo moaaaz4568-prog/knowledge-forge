@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/airesearcherguy/DSXR64ajVnY.txt"
+words: 599
+account: airesearcherguy
+lang: en
+quality: transcript
+---
+
+# S_ig_airesearcherguy_DSXR64ajVnY
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/airesearcherguy/DSXR64ajVnY.txt` — حساب: airesearcherguy — إنستجرام — فيديو DSXR64ajVnY
+
+---
+
+All right, I have a dope SEO hack, just a really quick hack that I want to show you in ChatGPT. I'm gonna use an e-commerce example because, well, that's the area I'm familiar with and it'll be easy for me to illustrate this hack. So let's pretend you're an e-commerce company and you sell dog chews as an example, right? So we'll go into ChatGPT and let's think of a prompt that is both likely to be used by a potential customer and will bring the ideal customer to you. We'll say, I need the best dog calming chews, all natural yet hypoallergenic for medium sized dogs. Okay, so we're gonna ask ChatGPT to find this product. Now as an e-commerce seller, you wanna be recommended when people ask questions like this. You wanna be recommended when they prompt ChatGPT to look for products. So here's a cool trick. So in order to recommend your e-commerce products, ChatGPT has to run a web search and it does that with the web search tool. Check this out. If you press F12, that opens up the developer console. So in F12, go to the network tab up here and then filter the word conversation, then ask your question. Once it's done giving you its recommendations, you can click on that conversation tab and then go to response. And this has some really interesting data in it. First, there are these things called search model queries. These are the actual keywords that ChatGPT used to search the web. Hypoallergenic calming chews for dogs, grain free, dairy free, chicken free, Omni stress and anxiety dog treats, hypoallergenic ingredients, et cetera, et cetera. Now how is that helpful? Well, it basically allows you to optimize your website for specific prompts. If you can figure out what the most likely prompts would be to find your product or prompts that represent the ideal target customer, you can run those prompts and then grab all of the search queries from ChatGPT that ChatGPT uses to do the search and put those in your web pages, put those on your site, optimize for those terms, and that might increase the chances that when ChatGPT runs searches for those keywords, it finds your products and then recommends them. Let me just copy it and put it in a notepad because it's so much easier to read here. The other thing that you can get from this, this is really gold, are the search results, the URLs that it brings back. And the reason why this is valuable information is this is where you can identify potential opportunities, right? Let's say for example, you're doing this exercise with your products and you discover that a whole lot of the search results came from blogs, right? Specifically blogs about pet diets or whatever. You might discover then that A, you have a list of blogs that you can hit up for potential features, and B, you might see an opportunity there to start your own blog. Or let's say that your particular product brings back a whole bunch of Reddit posts, right? Maybe from a specific set of subreddits that will reveal to you that there's an opportunity for you to put content in those subreddits on Reddit. So that's the gold here. By using the developer console in Chrome, you can see the search queries that ChatGPT uses and then optimize your web pages for those search queries. And you can also look for opportunities in the search results. Hope that helps. Be well and do good things.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/anasnbcsales/DQrj3EYEW5D.txt"
+words: 644
+account: anasnbcsales
+lang: en
+quality: transcript
+---
+
+# S_ig_anasnbcsales_DQrj3EYEW5D
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/anasnbcsales/DQrj3EYEW5D.txt` — حساب: anasnbcsales — إنستجرام — فيديو DQrj3EYEW5D
+
+---
+
+Yeah, it's just five K is a lot for a fitness program, and I feel like that money could just be better spent elsewhere. Yeah, completely understandable. And I guess the only real question is, at this stage in your fatherhood, is the health a priority? Is it more like, hey, this would be nice to have? Yeah, no, definitely, definitely, it's a priority for sure. Okay, and just so we're on the same page, how long have you intentionally gone on the journey to get the body of your dreams? Man, it's been my whole life. Your whole life, that's tough, brother, and I appreciate you sharing that. And I know whole life sounds like such a long time, but you know what's crazy? So many of our clients that come in, they just become problem-accustomed, right? From the overweight guys that we work with initially, what do you think happens the first time they take their shirt off at a beach or even in the bedroom? What do you think happens then? Yeah, I mean, they feel pretty shitty. Yeah, exactly. They feel shame, they're embarrassed, they just become that person with the gut. And I'm not gonna call it a hopeless dream, but it's kind of like a false lie. They keep telling themselves, oh, I'm gonna change one day, but that day never comes. And because they never really hit their enough, that they're so disturbed that everything changes, they never change. And that has to be an internal thing, and we can't do that for our clients. So I guess for you, when is your enough enough? Yeah, I get it. It's definitely enough. Yeah, and as a dad, the really tough reality is, who do you want your kids to look up to? And what type of example do you want to set for them as a role model? Do you rather them learn from you by your actions, or some random dude on TikTok that they're watching? Yeah, no, I definitely don't want to set a bad example for them, man. Is that real for you? Like, you don't have to say that it's the right thing to say. It's just whatever is real and true to you at this moment. I mean, yeah, it is. And I appreciate that. And a lot of our clients, like the dads in particular, when they go advise and mentor and role model their kids, they want to be able to speak from a place of congruence and truth. They're saying, hey, I do the things that I'm asking you to do and expecting you to do. So it's do as I do, not what I say. They let their actions speak more than their words. So I guess for you, what actions do you want to take in place to communicate a message to your kids and the people that are looking up to you? Yeah, I'm willing to do whatever it takes. And what's that for you right now? Man, my wife's gonna kill me, but fuck it, let's just do it. Listen, man, if your wife's gonna be mad at you for taking your health to the next level, you can give her my personal cell number and I'll take the beating for you, all right? All right, man, let's do it. Congratulations. I want to congratulate you. I know it's so easy for so many people to say, I want to change, I want to get fit, I want to get healthy. A lot of times that's just vocal sound, and you making that committed and that decision for yourself, that's what gets you to transformation. So I want to give you a virtual high five and celebrate you, brother. I'm excited to help you along. Let's go, man. Thanks, man. Appreciate you. Yeah, thank you.
