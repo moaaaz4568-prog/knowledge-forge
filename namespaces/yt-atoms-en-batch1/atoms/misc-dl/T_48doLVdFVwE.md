@@ -1,0 +1,11 @@
+---
+type: atom
+topic: misc-dl
+source: sources/S_yt_48doLVdFVwE_en.md
+location: youtube/misc-dl
+---
+
+# T_48doLVdFVwE_01
+
+"hi everyone, convert text to shape in under one minutes. remember my lengthier video tutorials are on Tuesday and speed are videos upload on thursday so be sure to check those out Highlight your text then go up to type and create outlines there you're done you can edit the text with the White selection tool. subscribe for weekly uploads and until next time design your future today peace" — sources/S_yt_48doLVdFVwE_en.md
+
