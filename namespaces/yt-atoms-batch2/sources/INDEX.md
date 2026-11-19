@@ -1,4 +1,5 @@
 # Index — sources/ (yt-atoms-batch2)
+شريحة batch2: 4,997 مصدر يوتيوب بالترتيب الأبجدي لمعرف الفيديو (الحدود: VTgGtCdg7kA ← sYXnhxZjIss). من الكون 5,028 فريداً حُذفت 20 مصدراً (ذراتها موجودة محلياً) و8 ملفات بلا حرف عربي واحد، ثم 3 مصادر بلا محتوى قابل للاقتباس إطلاقاً (موسيقى/لقطات: "وو."، "أفسدت الأمر") — لا يمكن تركيب ذرة حرفية ذات معنى منها دون تلفيق، فاستُبعدت.
 
 شريحة batch2: 5,000 مصدر يوتيوب بالترتيب الأبجدي لمعرف الفيديو (الحدود: VTgGtCdg7kA ← sYXnhxZjIss). من الكون 5,028 فريداً حُذفت 20 مصدراً (ذراتها موجودة محلياً) و8 ملفات بلا حرف عربي واحد.
 
@@ -505,7 +506,6 @@
 | sources/S_yt_XqnYcLC45iE.md | saminyasar_ | 2932 كلمة |
 | sources/S_yt_Xqp-e-EUEWk.md | misc-dl | 2993 كلمة |
 | sources/S_yt_XrCI4hNB1i0.md | saminyasar_ | 130 كلمة |
-| sources/S_yt_XrFemyejpEM.md | saminyasar_ | 10 كلمة |
 | sources/S_yt_XrgKLt2m3D0.md | lobstercap | 195 كلمة |
 | sources/S_yt_Xs-t1PYA9xE.md | ctthedisrupter | 1377 كلمة |
 | sources/S_yt_Xs16MSqhqi0.md | michtortiyt | 3544 كلمة |
@@ -3573,7 +3573,6 @@
 | sources/S_yt_lfT4bzsO42U.md | cbwritescopy | 1098 كلمة |
 | sources/S_yt_lf_CiXgSebY.md | ctthedisrupter | 1608 كلمة |
 | sources/S_yt_lgPiJ3k4dpc.md | misc-dl | 1674 كلمة |
-| sources/S_yt_lgsJB8KsB7c.md | tylerhennessee | 15 كلمة |
 | sources/S_yt_lh-GDCxNRV8.md | ryandeissofficial | 155 كلمة |
 | sources/S_yt_lhBB_704_M4.md | alexanderthecreate | 2522 كلمة |
 | sources/S_yt_lhTxztgwquo.md | ctthedisrupter | 10034 كلمة |
@@ -4979,7 +4978,6 @@
 | sources/S_yt_sOcqPxxXqS8.md | takimoore | 90 كلمة |
 | sources/S_yt_sQ7VdgzMaMI.md | misc-dl | 4169 كلمة |
 | sources/S_yt_sQLrNOue5bk.md | ctthedisrupter | 1021 كلمة |
-| sources/S_yt_sQUznBx1jbQ.md | saminyasar_ | 12 كلمة |
 | sources/S_yt_sQqQQ9b2omg.md | tylerhennessee | 640 كلمة |
 | sources/S_yt_sRZe_z9PkQU.md | omarsaied | 233 كلمة |
 | sources/S_yt_sRssJYApNXU.md | lobstercap | 117 كلمة |
