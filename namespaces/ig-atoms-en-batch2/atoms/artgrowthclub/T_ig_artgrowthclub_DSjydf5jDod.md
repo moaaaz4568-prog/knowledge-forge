@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_artgrowthclub_DSjydf5jDod.md
+location: instagram/artgrowthclub
+---
+
+# T_DSjydf5jDod_01
+
+"Do not post your art without doing this. Turn on these three settings to force Instagram to show your art account to non-followers for 2026. For uploading a Reel, go to your drafts, click on the three dots, select duplicate, and all you have to do is post the first video as your main Reel and make sure to post the second video with the trial option turned on." — sources/S_ig_artgrowthclub_DSjydf5jDod.md
+
+# T_DSjydf5jDod_02
+
+"This will make the main Reel get you views, but the trial Reel will only be shown to non-followers, which will help you get extra followers. Number two, go to..." — sources/S_ig_artgrowthclub_DSjydf5jDod.md
