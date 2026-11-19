@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_brettfully_DEnDoVIu6Rx.md
+location: instagram/brettfully
+---
+
+# T_DEnDoVIu6Rx_01
+
+"You're an idiot if you're running a mini chat telling people to comment for your free lead magnet and then trying to get them to book a call in the DMs. You're screwing your lead generation system and burning your followers by doing so. As of right now, for the new year, everybody knows the game that's being played in the DMs." — sources/S_ig_brettfully_DEnDoVIu6Rx.md
+
+# T_DEnDoVIu6Rx_02
+
+"Telling someone to comment, giving them the lead magnet, asking them how they're doing and what they liked about it, and then trying to force them to get them on a call. Instead, you have to treat the DMs as a nurturing asset for your coaching business. Just like how if somebody signed up onto your email list, you're not gonna be hard selling them with that first email you're sending out." — sources/S_ig_brettfully_DEnDoVIu6Rx.md
+
+# T_DEnDoVIu6Rx_03
+
+"You're nurturing them through welcome sequences and months of consistent emails to then them finally reaching out to you and hopping on a call. That's what you need to do in the DMs. Otherwise, if you don't, people will smell your commission breath." — sources/S_ig_brettfully_DEnDoVIu6Rx.md

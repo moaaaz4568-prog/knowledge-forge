@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_brettfully_CsrkzOcuaE8.md
+location: instagram/brettfully
+---
+
+# T_CsrkzOcuaE8_01
+
+"Paid advertising and organic content is literally the exact same thing. Here's why. For paid ads, there are certain levers and inputs that you can control. This is so your ad will have the best conversion rate and ultimately lead to more sales. You can select age range, interests, location, and even spend more money to reach more people." — sources/S_ig_brettfully_CsrkzOcuaE8.md
+
+# T_CsrkzOcuaE8_02
+
+"Essentially, all these inputs are easily manipulable to target the right audience. The trade-off is you have to expend excessive amount of money to get more conversions. For organic content, you're just focusing on different levers that you can pull to target the right audience." — sources/S_ig_brettfully_CsrkzOcuaE8.md
+
+# T_CsrkzOcuaE8_03
+
+"Just like how there are certain input entries and formulas to have winning ads through Facebook, there are certain formulas to have winning organic content, and there's formulas to go viral. The algorithm is powerful enough to detect who would watch your video the most. Just like how when you pay for ads, Facebook knows who to put your video in front of after you input the right data." — sources/S_ig_brettfully_CsrkzOcuaE8.md
+
+# T_CsrkzOcuaE8_04
+
+"The focus has now shifted into having more creative attributes in your organic content. But there's still certain methods to follow in order to convert your organic content. And here's the best part. Organic content is ten times better than paid ads." — sources/S_ig_brettfully_CsrkzOcuaE8.md
+
+# T_CsrkzOcuaE8_05
+
+"Unlike paid ads, you're actually growing a community, which the cost to advertise to your organic community, which is way less in ad spend to retarget people through Facebook ads. Not to mention the snowball effect of growing a community. And with the state of marketing right now, nobody wants to see regular ads. It's nearly impossible to grow a community through paid advertisement." — sources/S_ig_brettfully_CsrkzOcuaE8.md
