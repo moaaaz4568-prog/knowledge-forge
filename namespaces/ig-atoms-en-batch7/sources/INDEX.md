@@ -1,6 +1,6 @@
 # Index — sources/ (ig-atoms-en-batch7)
 
-Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_theaustinschneider_DY0kLEtldHF), 640,249 words exactly, 18 accounts (top: seanrcallagy 1895, theaustinschneider 772, subscription.kings 293, theaiclubhouse 225, seb.ai 153). Every code has its .txt in the public repo moaaaz4568-prog/instagram-reels-texts (no missing files). All atoms/quotes in English, the source language; nothing is translated. Largest source ig_seanrcallagy_B6s89cnnYtW (984 words). 320 sources contain internal newlines (quotes fold whitespace, ws-fold byte-exact rule). Sources with no quotable content ≥40 chars are excluded at the atom stage (see LOG.md).
+Instagram English batch 7: 3,879 assigned codes (ig_regaliscapital_DQmhd5oAOUL → ig_theaustinschneider_DY0kLEtldHF), 640,249 words exactly, 18 accounts (top: seanrcallagy 1,895; theaustinschneider 772; subscription.kings 293). Every assigned code had its .txt in the public repo moaaaz4568-prog/instagram-reels-texts (0 missing, 0 ambiguous). Effective sources: 3,829 (640,077 words). Excluded: 50 sources with no quotable content ≥40 chars — 46 are entire contents under 40 chars (one-liners and music/vocalise fragments in English, Chinese, Russian, Hindi, French), 4 have ≥40 chars but every span of that length crosses a nested double quote (quote-mark barriers), so no literal quote without nested quotes exists: ig_ronnii.k_DPBGUHokaQ4, ig_theaustinschneider_C-DcV_ctA2B, ig_theaustinschneider_DW2OiiqjWqS, ig_theaustinschneider_DXxnWSik8DA. All atoms/quotes are verbatim in the source language (English except a few accounts' own languages, e.g. rishu.init Hindi); nothing is translated. Largest source ig_seanrcallagy_B6s89cnnYtW (984 words, 3 atoms, sliding-window covered). 320 sources contain internal newlines; quotes fold whitespace (ws-fold byte-exact rule).
 
 | File | Topic | Words |
 |---|---|---|
@@ -49,20 +49,17 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_regaliscapital_DWUe7FYD8aY.md | instagram-transcripts | 160 words |
 | sources/S_ig_regaliscapital_DWcYpT3EbQd.md | instagram-transcripts | 194 words |
 | sources/S_ig_regaliscapital_DWmeHRgkZRG.md | instagram-transcripts | 102 words |
-| sources/S_ig_regaliscapital_DWpHcUbER3o.md | instagram-transcripts | 6 words |
 | sources/S_ig_regaliscapital_DWrt4IAka9N.md | instagram-transcripts | 326 words |
 | sources/S_ig_regaliscapital_DWzNplkkRlk.md | instagram-transcripts | 188 words |
 | sources/S_ig_regaliscapital_DXP72x-iGnT.md | instagram-transcripts | 143 words |
 | sources/S_ig_regaliscapital_DXXjPM3jtcF.md | instagram-transcripts | 143 words |
 | sources/S_ig_regaliscapital_DXcrLklET8q.md | instagram-transcripts | 192 words |
 | sources/S_ig_regaliscapital_DXhlo3TjpZL.md | instagram-transcripts | 123 words |
-| sources/S_ig_regaliscapital_DXmqmBwK67-.md | instagram-transcripts | 5 words |
 | sources/S_ig_regaliscapital_DXpS0EEjqW4.md | instagram-transcripts | 128 words |
 | sources/S_ig_regaliscapital_DXu0AHKAOIS.md | instagram-transcripts | 125 words |
 | sources/S_ig_regaliscapital_DXzinA3h3Q0.md | instagram-transcripts | 163 words |
 | sources/S_ig_regaliscapital_DYScHz6B7-j.md | instagram-transcripts | 156 words |
 | sources/S_ig_regaliscapital_DYXlvmlh0W_.md | instagram-transcripts | 209 words |
-| sources/S_ig_regaliscapital_DYcvWFah8Vh.md | instagram-transcripts | 5 words |
 | sources/S_ig_regaliscapital_DYff-SPxZR4.md | instagram-transcripts | 138 words |
 | sources/S_ig_regaliscapital_DYkdtmUhDus.md | instagram-transcripts | 144 words |
 | sources/S_ig_regaliscapital_DYpoYGIRnWK.md | instagram-transcripts | 165 words |
@@ -155,37 +152,22 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_ronnii.k_C3K9kWbJ0-q.md | instagram-transcripts | 39 words |
 | sources/S_ig_ronnii.k_DI8r5DtBTOj.md | instagram-transcripts | 8 words |
 | sources/S_ig_ronnii.k_DL__JL-RTaC.md | instagram-transcripts | 10 words |
-| sources/S_ig_ronnii.k_DL__O0WxhZj.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DL__aL3xVHc.md | instagram-transcripts | 31 words |
-| sources/S_ig_ronnii.k_DMAJ1gYxn27.md | instagram-transcripts | 8 words |
-| sources/S_ig_ronnii.k_DMALd30Rdtz.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DMHsTNUtrjG.md | instagram-transcripts | 20 words |
-| sources/S_ig_ronnii.k_DMU7tZrRN5j.md | instagram-transcripts | 2 words |
-| sources/S_ig_ronnii.k_DMU8N6HxgeM.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DMU_h0vx3T4.md | instagram-transcripts | 13 words |
 | sources/S_ig_ronnii.k_DMUh0bHNo2d.md | instagram-transcripts | 24 words |
-| sources/S_ig_ronnii.k_DMUh8vcND50.md | instagram-transcripts | 4 words |
-| sources/S_ig_ronnii.k_DMUhTLztS_1.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DMUhhnYtnOA.md | instagram-transcripts | 15 words |
-| sources/S_ig_ronnii.k_DMUy2N-tqCI.md | instagram-transcripts | 4 words |
-| sources/S_ig_ronnii.k_DMVVpeBBtsH.md | instagram-transcripts | 2 words |
 | sources/S_ig_ronnii.k_DMXOENcxWku.md | instagram-transcripts | 15 words |
 | sources/S_ig_ronnii.k_DMXQtcnRI47.md | instagram-transcripts | 13 words |
-| sources/S_ig_ronnii.k_DMZtAdTxAzJ.md | instagram-transcripts | 3 words |
 | sources/S_ig_ronnii.k_DMZtMWpxang.md | instagram-transcripts | 9 words |
 | sources/S_ig_ronnii.k_DMezrXLxx8h.md | instagram-transcripts | 9 words |
 | sources/S_ig_ronnii.k_DMj211wNmrE.md | instagram-transcripts | 12 words |
-| sources/S_ig_ronnii.k_DMj27X3Nv5Q.md | instagram-transcripts | 1 words |
-| sources/S_ig_ronnii.k_DMj287fNnN2.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DMj3ACNN_Rb.md | instagram-transcripts | 11 words |
-| sources/S_ig_ronnii.k_DMxE8-ntwSC.md | instagram-transcripts | 2 words |
 | sources/S_ig_ronnii.k_DMxEzsotVFL.md | instagram-transcripts | 12 words |
 | sources/S_ig_ronnii.k_DOSlKI1jJcd.md | instagram-transcripts | 19 words |
-| sources/S_ig_ronnii.k_DPBGUHokaQ4.md | instagram-transcripts | 17 words |
 | sources/S_ig_ronnii.k_DPDjCSeDI4X.md | instagram-transcripts | 27 words |
 | sources/S_ig_ronnii.k_DPJgVRtEQqs.md | instagram-transcripts | 51 words |
 | sources/S_ig_ronnii.k_DPleuMJjF0l.md | instagram-transcripts | 35 words |
-| sources/S_ig_ronnii.k_DPndu35DC_M.md | instagram-transcripts | 1 words |
 | sources/S_ig_ronnii.k_DPsjCphiCYA.md | instagram-transcripts | 183 words |
 | sources/S_ig_ronnii.k_DRJWZXUDI8T.md | instagram-transcripts | 21 words |
 | sources/S_ig_ronnii.k_DTS2Od1jPmE.md | instagram-transcripts | 8 words |
@@ -316,7 +298,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_seanrcallagy_B5YgNq-nEua.md | instagram-transcripts | 413 words |
 | sources/S_ig_seanrcallagy_B61eVNRnWnt.md | instagram-transcripts | 35 words |
 | sources/S_ig_seanrcallagy_B6E_LS2HuIj.md | instagram-transcripts | 403 words |
-| sources/S_ig_seanrcallagy_B6jswrjHukU.md | instagram-transcripts | 1 words |
 | sources/S_ig_seanrcallagy_B6jtDdjn9kE.md | instagram-transcripts | 50 words |
 | sources/S_ig_seanrcallagy_B6lkjLunTMY.md | instagram-transcripts | 349 words |
 | sources/S_ig_seanrcallagy_B6llgjen4oX.md | instagram-transcripts | 237 words |
@@ -954,7 +935,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_seanrcallagy_C9lEZbcBy8T.md | instagram-transcripts | 28 words |
 | sources/S_ig_seanrcallagy_C9musG1xVjf.md | instagram-transcripts | 135 words |
 | sources/S_ig_seanrcallagy_C9sIihARhIr.md | instagram-transcripts | 98 words |
-| sources/S_ig_seanrcallagy_C9ux7gxCxzY.md | instagram-transcripts | 1 words |
 | sources/S_ig_seanrcallagy_C9xT0Q2R0wU.md | instagram-transcripts | 31 words |
 | sources/S_ig_seanrcallagy_C9yE7PrRotq.md | instagram-transcripts | 69 words |
 | sources/S_ig_seanrcallagy_C9z41FDRBoV.md | instagram-transcripts | 176 words |
@@ -1745,7 +1725,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_seanrcallagy_DOoEItElOFc.md | instagram-transcripts | 129 words |
 | sources/S_ig_seanrcallagy_DOtypJ0AFwO.md | instagram-transcripts | 175 words |
 | sources/S_ig_seanrcallagy_DP0K2O1DFCs.md | instagram-transcripts | 95 words |
-| sources/S_ig_seanrcallagy_DP11oTgjtt6.md | instagram-transcripts | 4 words |
 | sources/S_ig_seanrcallagy_DP1iwUUkTA1.md | instagram-transcripts | 65 words |
 | sources/S_ig_seanrcallagy_DP8191Bj4ie.md | instagram-transcripts | 207 words |
 | sources/S_ig_seanrcallagy_DP9Za-iDWWa.md | instagram-transcripts | 104 words |
@@ -1977,9 +1956,7 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_seanrcallagy_DYN5x9oTSu3.md | instagram-transcripts | 160 words |
 | sources/S_ig_seanrcallagy_DYPtHljzKdf.md | instagram-transcripts | 83 words |
 | sources/S_ig_seanrcallagy_DYQbgHwTIbq.md | instagram-transcripts | 151 words |
-| sources/S_ig_seanrcallagy_DYSb0JwzZbY.md | instagram-transcripts | 2 words |
 | sources/S_ig_seanrcallagy_DYTAo8szcLH.md | instagram-transcripts | 81 words |
-| sources/S_ig_seanrcallagy_DYVidhPTX7-.md | instagram-transcripts | 2 words |
 | sources/S_ig_seanrcallagy_DYcoccUJCgI.md | instagram-transcripts | 237 words |
 | sources/S_ig_seanrcallagy_DYh2p2ezwzF.md | instagram-transcripts | 140 words |
 | sources/S_ig_seanrcallagy_DYm02JXTbru.md | instagram-transcripts | 240 words |
@@ -2728,42 +2705,22 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_subscription.kings_Dcr4gTfvaSp.md | instagram-transcripts | 326 words |
 | sources/S_ig_subscription.kings_Dd-vqslgxD9.md | instagram-transcripts | 658 words |
 | sources/S_ig_subscription.kings_Dd0TpxVz3tS.md | instagram-transcripts | 581 words |
-| sources/S_ig_suprava.ss_C-CVjQ-y40c.md | instagram-transcripts | 1 words |
-| sources/S_ig_suprava.ss_C-E1p8fChoj.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_C0-zSQHycQJ.md | instagram-transcripts | 12 words |
 | sources/S_ig_suprava.ss_C0ItqZnC5b7.md | instagram-transcripts | 35 words |
 | sources/S_ig_suprava.ss_C0lnh7KCYJa.md | instagram-transcripts | 7 words |
-| sources/S_ig_suprava.ss_C11Z6PIPfPj.md | instagram-transcripts | 1 words |
-| sources/S_ig_suprava.ss_C19PMwaSI8I.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_C1Yzfp0ip-_.md | instagram-transcripts | 10 words |
-| sources/S_ig_suprava.ss_C1l6ckSCFA9.md | instagram-transcripts | 5 words |
-| sources/S_ig_suprava.ss_C2HB-ceSPMq.md | instagram-transcripts | 1 words |
-| sources/S_ig_suprava.ss_C2_mmSdSf60.md | instagram-transcripts | 5 words |
 | sources/S_ig_suprava.ss_C2bodUsCLuu.md | instagram-transcripts | 12 words |
 | sources/S_ig_suprava.ss_C3CPLL1yL-f.md | instagram-transcripts | 23 words |
 | sources/S_ig_suprava.ss_C3EzlE5SSZA.md | instagram-transcripts | 54 words |
-| sources/S_ig_suprava.ss_C3Rq2owvSkw.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_C3hKe3Ev6an.md | instagram-transcripts | 17 words |
 | sources/S_ig_suprava.ss_C4HwdKiy6lK.md | instagram-transcripts | 14 words |
-| sources/S_ig_suprava.ss_C4rzaUJy5hJ.md | instagram-transcripts | 5 words |
-| sources/S_ig_suprava.ss_C5Nhzq0Sb4t.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_C6DVVRiMfty.md | instagram-transcripts | 34 words |
 | sources/S_ig_suprava.ss_C6qFRt5i1Ci.md | instagram-transcripts | 34 words |
-| sources/S_ig_suprava.ss_C9Jiha_SnOc.md | instagram-transcripts | 4 words |
-| sources/S_ig_suprava.ss_C9wb5lBSUjT.md | instagram-transcripts | 4 words |
-| sources/S_ig_suprava.ss_CwmhhmPSWWN.md | instagram-transcripts | 1 words |
-| sources/S_ig_suprava.ss_Cwr9myQSOyB.md | instagram-transcripts | 5 words |
 | sources/S_ig_suprava.ss_Cx40oHmyjn1.md | instagram-transcripts | 19 words |
 | sources/S_ig_suprava.ss_CxC9j16yCxe.md | instagram-transcripts | 12 words |
-| sources/S_ig_suprava.ss_CxKnhMtyhGH.md | instagram-transcripts | 3 words |
-| sources/S_ig_suprava.ss_CxVEQl7SBEP.md | instagram-transcripts | 3 words |
-| sources/S_ig_suprava.ss_CxcmvqmSU_O.md | instagram-transcripts | 8 words |
 | sources/S_ig_suprava.ss_CxfRib8ys8I.md | instagram-transcripts | 20 words |
-| sources/S_ig_suprava.ss_CxxZCfuSsfe.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_CycstGPSCH_.md | instagram-transcripts | 9 words |
 | sources/S_ig_suprava.ss_Cyh2M7jyIw6.md | instagram-transcripts | 22 words |
-| sources/S_ig_suprava.ss_Cyz3RRrSFVA.md | instagram-transcripts | 1 words |
-| sources/S_ig_suprava.ss_DA3Ww6Fyt2F.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_DERcxxnzne2.md | instagram-transcripts | 113 words |
 | sources/S_ig_suprava.ss_DEeX63_zMY5.md | instagram-transcripts | 136 words |
 | sources/S_ig_suprava.ss_DEwa4j0Cwwb.md | instagram-transcripts | 192 words |
@@ -2793,7 +2750,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_suprava.ss_DSHpOhZEjPn.md | instagram-transcripts | 138 words |
 | sources/S_ig_suprava.ss_DSWvUGCEiSX.md | instagram-transcripts | 129 words |
 | sources/S_ig_suprava.ss_DSZiSHXEmL4.md | instagram-transcripts | 123 words |
-| sources/S_ig_suprava.ss_DScIyJMkru5.md | instagram-transcripts | 1 words |
 | sources/S_ig_suprava.ss_DWVuLSTjoys.md | instagram-transcripts | 138 words |
 | sources/S_ig_suprava.ss_DXGek4OkWsj.md | instagram-transcripts | 132 words |
 | sources/S_ig_suprava.ss_DYG26wrx0cR.md | instagram-transcripts | 321 words |
@@ -2869,7 +2825,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_teagan_talks_DZLLfh-J4dO.md | instagram-transcripts | 213 words |
 | sources/S_ig_teagan_talks_DaQ48KFppGB.md | instagram-transcripts | 318 words |
 | sources/S_ig_teagan_talks_DaWmkegpBTY.md | instagram-transcripts | 250 words |
-| sources/S_ig_teagan_talks_DaXGZHwJyE_.md | instagram-transcripts | 6 words |
 | sources/S_ig_teagan_talks_DacP5vsOLIu.md | instagram-transcripts | 80 words |
 | sources/S_ig_teagan_talks_DagMOYoJSbh.md | instagram-transcripts | 218 words |
 | sources/S_ig_teagan_talks_DazSb6jJtfj.md | instagram-transcripts | 199 words |
@@ -3031,7 +2986,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_theaiclubhouse_DP9hPtjkV2s.md | instagram-transcripts | 151 words |
 | sources/S_ig_theaiclubhouse_DQCSvIckaXt.md | instagram-transcripts | 151 words |
 | sources/S_ig_theaiclubhouse_DQCvXJjkSbb.md | instagram-transcripts | 180 words |
-| sources/S_ig_theaiclubhouse_DQE3kw-kcZO.md | instagram-transcripts | 1 words |
 | sources/S_ig_theaiclubhouse_DQIE-L6kfWb.md | instagram-transcripts | 119 words |
 | sources/S_ig_theaiclubhouse_DQITbz1EVcV.md | instagram-transcripts | 152 words |
 | sources/S_ig_theaiclubhouse_DQKeql4kVJ5.md | instagram-transcripts | 174 words |
@@ -3041,7 +2995,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_theaiclubhouse_DQUjMQ2kbsG.md | instagram-transcripts | 221 words |
 | sources/S_ig_theaiclubhouse_DQe5Id2EZdk.md | instagram-transcripts | 21 words |
 | sources/S_ig_theaiclubhouse_DQsZ6oSEVfC.md | instagram-transcripts | 125 words |
-| sources/S_ig_theaiclubhouse_DQsxTWtkb8q.md | instagram-transcripts | 3 words |
 | sources/S_ig_theaiclubhouse_DQudwclkVhE.md | instagram-transcripts | 130 words |
 | sources/S_ig_theaiclubhouse_DQw9UQSkaYY.md | instagram-transcripts | 27 words |
 | sources/S_ig_theaiclubhouse_DRAiROIkTZv.md | instagram-transcripts | 14 words |
@@ -3112,7 +3065,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_theaiclubhouse_DdwhlQPFb_1.md | instagram-transcripts | 254 words |
 | sources/S_ig_theaiclubhouse_DdzNFNSkY7t.md | instagram-transcripts | 169 words |
 | sources/S_ig_theaustinschneider_C-A8S4oOqU0.md | instagram-transcripts | 31 words |
-| sources/S_ig_theaustinschneider_C-DcV_ctA2B.md | instagram-transcripts | 11 words |
 | sources/S_ig_theaustinschneider_C-GBFMMu7UE.md | instagram-transcripts | 47 words |
 | sources/S_ig_theaustinschneider_C-Lq8XTS3Im.md | instagram-transcripts | 9 words |
 | sources/S_ig_theaustinschneider_C-S6PwgPlZV.md | instagram-transcripts | 34 words |
@@ -3622,7 +3574,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_theaustinschneider_DW14LhhghBD.md | instagram-transcripts | 210 words |
 | sources/S_ig_theaustinschneider_DW1bVvylOlt.md | instagram-transcripts | 189 words |
 | sources/S_ig_theaustinschneider_DW2EYMIDoDi.md | instagram-transcripts | 152 words |
-| sources/S_ig_theaustinschneider_DW2OiiqjWqS.md | instagram-transcripts | 15 words |
 | sources/S_ig_theaustinschneider_DW2ThpBD_0Z.md | instagram-transcripts | 71 words |
 | sources/S_ig_theaustinschneider_DW2Yyy5jVOl.md | instagram-transcripts | 56 words |
 | sources/S_ig_theaustinschneider_DW4AEq_AtKn.md | instagram-transcripts | 228 words |
@@ -3869,7 +3820,6 @@ Instagram English batch 7: 3,879 codes (ig_regaliscapital_DQmhd5oAOUL → ig_the
 | sources/S_ig_theaustinschneider_DXuxFQZjg4y.md | instagram-transcripts | 121 words |
 | sources/S_ig_theaustinschneider_DXxMm-SlKdS.md | instagram-transcripts | 106 words |
 | sources/S_ig_theaustinschneider_DXxV30lDjss.md | instagram-transcripts | 176 words |
-| sources/S_ig_theaustinschneider_DXxnWSik8DA.md | instagram-transcripts | 7 words |
 | sources/S_ig_theaustinschneider_DXz5WreyKj_.md | instagram-transcripts | 171 words |
 | sources/S_ig_theaustinschneider_DXz6Pk8SiLE.md | instagram-transcripts | 205 words |
 | sources/S_ig_theaustinschneider_DXz6rGcie1y.md | instagram-transcripts | 140 words |
