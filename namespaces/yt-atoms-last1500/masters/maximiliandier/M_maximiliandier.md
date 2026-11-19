@@ -139,12 +139,12 @@ built_from_hash: 8c2162fa34fc5d20aa73ec7922d9f1e1eb371269
 
 ## التوترات
 
-- **الأدوات والبرامج** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_tBe6RoY7Rw4.md|X_yt_tBe6RoY7Rw4]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_tJIaeUB1iZQ.md|X_yt_tJIaeUB1iZQ]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_tPRluoh7vUw.md|X_yt_tPRluoh7vUw]].
-- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_tUP8BZtwTSY.md|X_yt_tUP8BZtwTSY]].
-- **العقارات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_u0K5kW-jGMA.md|X_yt_u0K5kW-jGMA]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/maximiliandier/X_yt_ufEsMzVzWuQ.md|X_yt_ufEsMzVzWuQ]].
+- **الأدوات والبرامج** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tBe6RoY7Rw4.md|X_yt_tBe6RoY7Rw4]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tJIaeUB1iZQ.md|X_yt_tJIaeUB1iZQ]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tPRluoh7vUw.md|X_yt_tPRluoh7vUw]].
+- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tUP8BZtwTSY.md|X_yt_tUP8BZtwTSY]].
+- **العقارات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_u0K5kW-jGMA.md|X_yt_u0K5kW-jGMA]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_ufEsMzVzWuQ.md|X_yt_ufEsMzVzWuQ]].
 
 و22 توترات أخرى موثقة للTopic في فهرس التوترات، كلها بنفس البنية.
 

@@ -139,12 +139,12 @@ built_from_hash: c6f90dae3df65db85acfb35f932754cb9b1fd2ad
 
 ## التوترات
 
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_tnkuthEVPrU.md|X_yt_tnkuthEVPrU]].
-- **التعلم والمهارات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_tqMKnaUG1-g.md|X_yt_tqMKnaUG1-g]].
-- **الذكاء الاصطناعي** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_uEbVtojcEQY.md|X_yt_uEbVtojcEQY]].
-- **الذكاء الاصطناعي** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_upsJK45R2QQ.md|X_yt_upsJK45R2QQ]].
-- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_vYRUpnnePmA.md|X_yt_vYRUpnnePmA]].
-- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/michtortiyt/X_yt_vYRUpnnePmAb.md|X_yt_vYRUpnnePmAb]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tnkuthEVPrU.md|X_yt_tnkuthEVPrU]].
+- **التعلم والمهارات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tqMKnaUG1-g.md|X_yt_tqMKnaUG1-g]].
+- **الذكاء الاصطناعي** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_uEbVtojcEQY.md|X_yt_uEbVtojcEQY]].
+- **الذكاء الاصطناعي** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_upsJK45R2QQ.md|X_yt_upsJK45R2QQ]].
+- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_vYRUpnnePmA.md|X_yt_vYRUpnnePmA]].
+- **العملاء والمبيعات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_vYRUpnnePmAb.md|X_yt_vYRUpnnePmAb]].
 
 و17 توترات أخرى موثقة للTopic في فهرس التوترات، كلها بنفس البنية.
 

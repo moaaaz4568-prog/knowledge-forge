@@ -139,12 +139,12 @@ built_from_hash: 1e0fcb45ee56ec55374accfe4f0d4385089d3b50
 
 ## التوترات
 
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_tbnJa0mucCY.md|X_yt_tbnJa0mucCY]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_tbnJa0mucCYb.md|X_yt_tbnJa0mucCYb]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_uZRcJokkZAI.md|X_yt_uZRcJokkZAI]].
-- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_uZRcJokkZAIb.md|X_yt_uZRcJokkZAIb]].
-- **الإعلانات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_xhYhqZJRjas.md|X_yt_xhYhqZJRjas]].
-- **الإعلانات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/jaceengland/X_yt_xhYhqZJRjasb.md|X_yt_xhYhqZJRjasb]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tbnJa0mucCY.md|X_yt_tbnJa0mucCY]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_tbnJa0mucCYb.md|X_yt_tbnJa0mucCYb]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_uZRcJokkZAI.md|X_yt_uZRcJokkZAI]].
+- **المال والتسعير** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_uZRcJokkZAIb.md|X_yt_uZRcJokkZAIb]].
+- **الإعلانات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_xhYhqZJRjas.md|X_yt_xhYhqZJRjas]].
+- **الإعلانات** — الطرفان مقتبسان حرفياً من مصدرين مستقلين مع المميّز الذي يفصل بينهما: [[tensions/X_yt_xhYhqZJRjasb.md|X_yt_xhYhqZJRjasb]].
 
 و4 توترات أخرى موثقة للTopic في فهرس التوترات، كلها بنفس البنية.
 
