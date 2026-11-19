@@ -1,0 +1,24 @@
+---
+type: source
+topic: youssefelakkari
+origin: "youtube-transcripts/subs-new/youssefelakkari/7qL7MeYJNlU.ar.txt"
+words: 63
+---
+
+# S_yt_7qL7MeYJNlU
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-new/youssefelakkari/7qL7MeYJNlU.ar.txt` — قناة: يوسف العقاري — تطور وعقلية — فيديو يوتيوب 7qL7MeYJNlU
+
+---
+
+وطبعا اه الهدف بتاع كل العروض عاده ان
+انا ابيع اكثر ولكن الموضوع ساعات بيبقى
+اا يعني بيهايند جينز كده او وراء ال همم
+الستاره يعني بيبقى في اسباب ثانيه انا
+مثلا عندي منتج او مجموعه من منتجات مش
+بايعه كويس قوي فانا عايز انزل عليها عروض
+علشان همم تبيع اكثر اوعلشان اسيل البضاعه
+دي ما تفضلش مضبوطه مثلا في المخزن في
+اسباب
+
