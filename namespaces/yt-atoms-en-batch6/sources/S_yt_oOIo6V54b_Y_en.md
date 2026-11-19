@@ -1,0 +1,35 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/oOIo6V54b_Y.en.txt"
+words: 191
+---
+
+# S_yt_oOIo6V54b_Y_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/oOIo6V54b_Y.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب oOIo6V54b_Y
+
+---
+
+What is the difference between Founder Lead Marketing
+and Personal Brand?  Founder-led marketing, as
+long as the founder remains within a company,
+means that the marketing is managed by the
+founder. This means that the founder has
+people behind them, so the marketing here is managed by the founder
+within a specific company. You see, this is a
+very clear and specific context. Personal branding, on the other hand, is founder-
+led marketing, but not direct. It doesn't originate from within the context of the
+company. So, for example, you can build
+your personal brand. This means that you are
+competing with your name, whether you have already opened a company or are about to open one. If you already have a company, when you
+compete with your name, it will be directed away. If you have
+invested in your name and haven't yet opened a company, and then decide to
+open one, it will be directed away. Personal
+branding is the accumulation of media power and ability to
+reach and influence people. You can direct this at
+any time, anywhere. Yes, founder-led
+marketing—the context can be narrower.  More specific
+.
+

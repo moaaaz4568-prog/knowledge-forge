@@ -1,0 +1,33 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/m4cSedVoZEU.en.txt"
+words: 170
+---
+
+# S_yt_m4cSedVoZEU_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/m4cSedVoZEU.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب m4cSedVoZEU
+
+---
+
+I try to get people to engage with
+this question every now and then, and I get really frustrated. I feel like most
+people are like, "Why are you making such a big deal out of it? Why are you making such a big deal out of it?" It's frustrating because
+they see this question as something incredibly profound. The topic is incredibly deep. You
+can do everything with a
+question. You can deliver a message with a question,
+not an answer. You can access the insights
+you want with a question. You can send emojis with a question. The
+topic is revolutionary. On the
+other hand, people should engage with the
+concept of the question in general. Look up where the word "question"
+has been mentioned throughout the world.
+Find people from pre-Islamic Arabia,
+find foreign neuroscience experts, find
+content creators, and see how each person views the
+word "question." This will help you in
+our context and will help you with career
+relationships, decisions, and practically everything else.
+
