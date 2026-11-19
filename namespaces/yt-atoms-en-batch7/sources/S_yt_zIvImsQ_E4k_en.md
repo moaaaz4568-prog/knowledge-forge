@@ -1,0 +1,32 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/zIvImsQ_E4k.en.txt"
+words: 161
+---
+
+# S_yt_zIvImsQ_E4k_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/zIvImsQ_E4k.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب zIvImsQ_E4k
+
+---
+
+This hour of studying, do you weigh it against 10,
+20, 30, or even half an hour of implementation?
+Learning and application are exactly like currency and
+gold reserves. What gives this colored piece of paper its
+value? Its gold reserves, metaphorically speaking. So,
+now, this piece of
+money, this colored piece of paper,
+if you don't weigh your learning against a gold reserve, which is a
+sufficient implementation reserve, the paper will have no
+value. So, if every time you print a piece of money, you'll
+spend an hour learning, and if printing
+that money isn't backed up by a deposit on your back, it will be
+pointless. Inflation will occur, and everything will go wrong. So, look at
+your ratio. See how much work I actually do when I spend an hour learning.
+You'll face a very harsh reality, and then you'll understand why you're
+surprised you're not developing. Your currency is
+weak and has no reserves.  Executive z
+

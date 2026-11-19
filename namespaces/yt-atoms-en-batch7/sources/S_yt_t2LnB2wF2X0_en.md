@@ -1,0 +1,49 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/t2LnB2wF2X0.en.txt"
+words: 219
+---
+
+# S_yt_t2LnB2wF2X0_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/t2LnB2wF2X0.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب t2LnB2wF2X0
+
+---
+
+hey whats up guys today i have three
+typography tips for you. every
+Sunday I upload the short graphic design
+videos on tuesday i upload longer
+graphic design tutorials so be sure to
+check this out when you type using a
+default font take a look at the Kerning
+IE the space between each letter default
+kerning settings after need tweaking to
+be more legible and to look more
+appealing you can see the difference
+between the default settings and then
+after when I've edited the kerning so
+then be afraid to go in and change the
+kerning especially for logos are headings
+it really helps
+what do your words communicate
+aesthetically.. choice of typefaces can
+literally make or break a design so have
+a good understanding of what you want to
+say with your design and allow the font
+typeface to communicate that with more
+than just the words being spelled out
+but try not to overuse the amount of
+different typefaces used in one design
+they're rare cases where this can wait
+but most often it will look busy
+the design will not fit together and
+flow well
+again sundays are for these quick short
+videos check back on tuesday for longer
+tutorials on thursday for Speed RV is
+into next time there's any future today
+peace
+

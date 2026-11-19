@@ -1,0 +1,31 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/uN6RM_485DQ.en.txt"
+words: 159
+---
+
+# S_yt_uN6RM_485DQ_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/uN6RM_485DQ.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب uN6RM_485DQ
+
+---
+
+The game is like a football match; you have to
+field all 11 players, and they have to be wearing the
+right shoes and their outfits have to be in order, and they have to have trained
+beforehand. We either win or we lose, but whether we win
+or we lose, the smart coach is the one who knows how to
+capitalize on the match event. So, we might
+lose, but I've identified which player
+has a weakness. That's a win; it will allow you to
+dominate the entire next season. We might lose, but we've learned a
+specific new playing style that I'll use
+next year. That's a win. So, the
+final result of marketing is always 50% win and
+50% loss. That is, there's a 50% chance we win and a
+50% chance we lose, and that's assuming we take all the necessary steps.
+But there's no such thing as a loss that doesn't give you
+insights.
+
