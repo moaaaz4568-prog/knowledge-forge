@@ -1,0 +1,38 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/Ome_fZlhpCg.en.txt"
+words: 153
+---
+
+# S_yt_Ome_fZlhpCg_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/Ome_fZlhpCg.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب Ome_fZlhpCg
+
+---
+
+hey there my name is william now i run a
+marketing agency based in sydney
+australia
+now i just want to give search and his
+indigo media a quick shout out now when
+i first started i was really struggling
+with my agency i hadn't booked a single
+meeting in those last few weeks but
+after having the pleasure of joining
+surges program i realized that there is
+a whole different ballgame to acquiring
+clients which i've never heard before
+from other courses that i've purchased
+before now i'd like to mention that this
+is not a course but a proven program
+where serge and his team are holding a
+hand for the process from a to z
+now i've only joined this program um
+only about a month ago
+and i can't wait to get the ball rolling
+with their prospecting campaign and
+start getting more meetings booked with
+this proven method
+
