@@ -1,8 +1,8 @@
 # Index — sources/ (ig-atoms-en-batch1)
 
-English Instagram batch 1 (user list of 3,879 codes): ig_10feetstudios_C5mCZ5hLSLp → ig_artgrowthclub_DRPbMhrDUYB. The 3,878 codes that have a transcripts file in the public repo total 534,586 words; the 67 words of the one file-less code's split parts (DKX5idtN2wQ_7/_9/_11/_16/_17) bring that to 534,653 — the user-stated total exactly. This namespace copies the 3809 quotable sources (534,249 words); the 69 unquotable ones are excluded below. All atoms/quotes in English (source language); nothing translated.
+English Instagram batch 1 (user list of 3,879 codes): ig_10feetstudios_C5mCZ5hLSLp → ig_artgrowthclub_DRPbMhrDUYB. The 3,878 codes that have a transcripts file in the public repo total 534,586 words; the 67 words of the one file-less code's split parts (DKX5idtN2wQ_7/_9/_11/_16/_17) bring that to 534,653 — the user-stated total exactly. This namespace copies the 3808 quotable sources (534,241 words); the 70 unquotable ones are excluded below (DPqSOs0ilFP was moved here post-setup: its longest folded segment counts 40 only with a trailing folded space; the stripped quotable text is 39 chars and the double-quoted inner text 19). All atoms/quotes in English (source language); nothing translated.
 
-Excluded (70): 1 code with no matching .txt in the public repo — ig_10feetstudios_DKX5idtN2wQ (only split parts _7/_9/_11/_16/_17 exist, 67 words total, partly Portuguese; no single file matches the code, and merging parts would fabricate a source that does not exist in the repo) — and 69 sources with no quotable content of 40+ chars (whole text under 40 chars, or all substantive text wrapped in double quotes, or only repeated non-Latin glyphs; 337 words). Effective sources: 3809.
+Excluded (71): 1 code with no matching .txt in the public repo — ig_10feetstudios_DKX5idtN2wQ (only split parts _7/_9/_11/_16/_17 exist, 67 words total, partly Portuguese; no single file matches the code, and merging parts would fabricate a source that does not exist in the repo) — and 70 sources with no quotable content of 40+ chars (whole text under 40 chars, or all substantive text wrapped in double quotes, or only repeated non-Latin glyphs; 345 words incl. DPqSOs0ilFP). Effective sources: 3808.
 
 | Excluded code | Reason |
 |---|---|
@@ -76,6 +76,8 @@ Excluded (70): 1 code with no matching .txt in the public repo — ig_10feetstud
 | ig_artgrowthclub_DEbwCcRt-_q | no quotable span >=40 chars (longest: 10 chars) |
 | ig_artgrowthclub_DNfId5BvRuR | no quotable span >=40 chars (longest: 36 chars) |
 | ig_artgrowthclub_DOF3VWZCfdD | no quotable span >=40 chars (longest: 21 chars) |
+
+| ig_artgrowthclub_DPqSOs0ilFP | no quotable span >=40 chars (longest stripped: 39 chars; inner quoted text 19 chars; moved from included at atoms stage) |
 
 | File | Topic | Words |
 |---|---|---|
@@ -3860,7 +3862,6 @@ Excluded (70): 1 code with no matching .txt in the public repo — ig_10feetstud
 | sources/S_ig_artgrowthclub_DPf_Lw3lFb9.md | instagram-transcripts | 11 words |
 | sources/S_ig_artgrowthclub_DPltdeljahy.md | instagram-transcripts | 126 words |
 | sources/S_ig_artgrowthclub_DPntveoDf79.md | instagram-transcripts | 144 words |
-| sources/S_ig_artgrowthclub_DPqSOs0ilFP.md | instagram-transcripts | 8 words |
 | sources/S_ig_artgrowthclub_DPs3IbOkygR.md | instagram-transcripts | 24 words |
 | sources/S_ig_artgrowthclub_DPvb9nDjyrF.md | instagram-transcripts | 70 words |
 | sources/S_ig_artgrowthclub_DPyAqjhFGgS.md | instagram-transcripts | 87 words |
