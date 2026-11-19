@@ -8,7 +8,7 @@ sources: [sources/S_yt_ysXD56JNRkkb.md]
 
 # C_yt_ysXD56JNRkkb — فكرة مشتركة في ذرات فيديو ysXD56JNRkkb
 
-لينك الطبقة: [[G_yt_ysXD56JNRkkb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_ysXD56JNRkkb.md|G_yt_ysXD56JNRkkb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

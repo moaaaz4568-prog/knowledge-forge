@@ -8,7 +8,7 @@ sources: [sources/S_yt_xv-uczzeoeI.md]
 
 # C_yt_xv-uczzeoeI — فكرة مشتركة في ذرات فيديو xv-uczzeoeI
 
-لينك الطبقة: [[G_yt_xv-uczzeoeI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_xv-uczzeoeI.md|G_yt_xv-uczzeoeI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

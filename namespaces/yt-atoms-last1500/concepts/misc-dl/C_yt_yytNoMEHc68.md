@@ -8,7 +8,7 @@ sources: [sources/S_yt_yytNoMEHc68.md]
 
 # C_yt_yytNoMEHc68 — فكرة مشتركة في ذرات فيديو yytNoMEHc68
 
-لينك الطبقة: [[G_yt_yytNoMEHc68]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yytNoMEHc68.md|G_yt_yytNoMEHc68]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

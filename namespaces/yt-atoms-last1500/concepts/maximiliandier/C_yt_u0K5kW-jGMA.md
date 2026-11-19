@@ -8,7 +8,7 @@ sources: [sources/S_yt_u0K5kW-jGMA.md]
 
 # C_yt_u0K5kW-jGMA — فكرة مشتركة في ذرات فيديو u0K5kW-jGMA
 
-لينك الطبقة: [[G_yt_u0K5kW-jGMA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_u0K5kW-jGMA.md|G_yt_u0K5kW-jGMA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

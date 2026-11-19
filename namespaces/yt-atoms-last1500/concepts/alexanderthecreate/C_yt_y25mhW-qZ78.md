@@ -8,7 +8,7 @@ sources: [sources/S_yt_y25mhW-qZ78.md]
 
 # C_yt_y25mhW-qZ78 — فكرة مشتركة في ذرات فيديو y25mhW-qZ78
 
-لينك الطبقة: [[G_yt_y25mhW-qZ78]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_y25mhW-qZ78.md|G_yt_y25mhW-qZ78]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zybRELy9Yno.md]
 
 # C_yt_zybRELy9Yno — فكرة مشتركة في ذرات فيديو zybRELy9Yno
 
-لينك الطبقة: [[G_yt_zybRELy9Yno]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_zybRELy9Yno.md|G_yt_zybRELy9Yno]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

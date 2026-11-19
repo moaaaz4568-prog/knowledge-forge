@@ -8,7 +8,7 @@ sources: [sources/S_yt_up1xuwn_euk.md]
 
 # C_yt_up1xuwn_euk — فكرة مشتركة في ذرات فيديو up1xuwn_euk
 
-لينك الطبقة: [[G_yt_up1xuwn_euk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_up1xuwn_euk.md|G_yt_up1xuwn_euk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

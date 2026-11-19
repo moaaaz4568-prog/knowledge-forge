@@ -8,7 +8,7 @@ sources: [sources/S_yt_veaEPU0CxZU.md]
 
 # C_yt_veaEPU0CxZU — فكرة مشتركة في ذرات فيديو veaEPU0CxZU
 
-لينك الطبقة: [[G_yt_veaEPU0CxZU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_veaEPU0CxZU.md|G_yt_veaEPU0CxZU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_y735EvqaCag.md]
 
 # C_yt_y735EvqaCag — فكرة مشتركة في ذرات فيديو y735EvqaCag
 
-لينك الطبقة: [[G_yt_y735EvqaCag]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_y735EvqaCag.md|G_yt_y735EvqaCag]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

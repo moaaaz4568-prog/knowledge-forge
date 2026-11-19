@@ -8,7 +8,7 @@ sources: [sources/S_yt_wqT9tBM12kI.md]
 
 # C_yt_wqT9tBM12kI — فكرة مشتركة في ذرات فيديو wqT9tBM12kI
 
-لينك الطبقة: [[G_yt_wqT9tBM12kI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_wqT9tBM12kI.md|G_yt_wqT9tBM12kI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

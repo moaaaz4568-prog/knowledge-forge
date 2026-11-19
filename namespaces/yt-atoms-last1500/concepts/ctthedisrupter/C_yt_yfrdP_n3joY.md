@@ -8,7 +8,7 @@ sources: [sources/S_yt_yfrdP_n3joY.md]
 
 # C_yt_yfrdP_n3joY — فكرة مشتركة في ذرات فيديو yfrdP_n3joY
 
-لينك الطبقة: [[G_yt_yfrdP_n3joY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_yfrdP_n3joY.md|G_yt_yfrdP_n3joY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

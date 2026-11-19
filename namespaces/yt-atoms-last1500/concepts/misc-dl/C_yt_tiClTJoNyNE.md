@@ -8,7 +8,7 @@ sources: [sources/S_yt_tiClTJoNyNE.md]
 
 # C_yt_tiClTJoNyNE — فكرة مشتركة في ذرات فيديو tiClTJoNyNE
 
-لينك الطبقة: [[G_yt_tiClTJoNyNE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tiClTJoNyNE.md|G_yt_tiClTJoNyNE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vc-SnjjBY7E.md]
 
 # C_yt_vc-SnjjBY7E — فكرة مشتركة في ذرات فيديو vc-SnjjBY7E
 
-لينك الطبقة: [[G_yt_vc-SnjjBY7E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_vc-SnjjBY7E.md|G_yt_vc-SnjjBY7E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

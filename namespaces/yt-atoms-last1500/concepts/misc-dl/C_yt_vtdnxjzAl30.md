@@ -8,7 +8,7 @@ sources: [sources/S_yt_vtdnxjzAl30.md]
 
 # C_yt_vtdnxjzAl30 — فكرة مشتركة في ذرات فيديو vtdnxjzAl30
 
-لينك الطبقة: [[G_yt_vtdnxjzAl30]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vtdnxjzAl30.md|G_yt_vtdnxjzAl30]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

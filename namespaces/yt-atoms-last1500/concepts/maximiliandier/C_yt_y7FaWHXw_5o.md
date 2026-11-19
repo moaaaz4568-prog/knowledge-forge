@@ -8,7 +8,7 @@ sources: [sources/S_yt_y7FaWHXw_5o.md]
 
 # C_yt_y7FaWHXw_5o — فكرة مشتركة في ذرات فيديو y7FaWHXw_5o
 
-لينك الطبقة: [[G_yt_y7FaWHXw_5o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_y7FaWHXw_5o.md|G_yt_y7FaWHXw_5o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vriUfbOmwms.md]
 
 # C_yt_vriUfbOmwms — فكرة مشتركة في ذرات فيديو vriUfbOmwms
 
-لينك الطبقة: [[G_yt_vriUfbOmwms]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vriUfbOmwms.md|G_yt_vriUfbOmwms]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

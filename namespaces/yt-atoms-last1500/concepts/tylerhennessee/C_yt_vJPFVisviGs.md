@@ -8,7 +8,7 @@ sources: [sources/S_yt_vJPFVisviGs.md]
 
 # C_yt_vJPFVisviGs — فكرة مشتركة في ذرات فيديو vJPFVisviGs
 
-لينك الطبقة: [[G_yt_vJPFVisviGs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vJPFVisviGs.md|G_yt_vJPFVisviGs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

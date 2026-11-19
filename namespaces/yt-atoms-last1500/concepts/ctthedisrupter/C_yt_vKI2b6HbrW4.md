@@ -8,7 +8,7 @@ sources: [sources/S_yt_vKI2b6HbrW4.md]
 
 # C_yt_vKI2b6HbrW4 — فكرة مشتركة في ذرات فيديو vKI2b6HbrW4
 
-لينك الطبقة: [[G_yt_vKI2b6HbrW4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vKI2b6HbrW4.md|G_yt_vKI2b6HbrW4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

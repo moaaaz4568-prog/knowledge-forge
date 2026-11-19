@@ -8,7 +8,7 @@ sources: [sources/S_yt_tXmXfn4eXSo.md]
 
 # C_yt_tXmXfn4eXSo — فكرة مشتركة في ذرات فيديو tXmXfn4eXSo
 
-لينك الطبقة: [[G_yt_tXmXfn4eXSo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_tXmXfn4eXSo.md|G_yt_tXmXfn4eXSo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

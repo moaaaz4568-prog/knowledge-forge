@@ -8,7 +8,7 @@ sources: [sources/S_yt_za50f0jVBcc.md]
 
 # C_yt_za50f0jVBcc — فكرة مشتركة في ذرات فيديو za50f0jVBcc
 
-لينك الطبقة: [[G_yt_za50f0jVBcc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_za50f0jVBcc.md|G_yt_za50f0jVBcc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

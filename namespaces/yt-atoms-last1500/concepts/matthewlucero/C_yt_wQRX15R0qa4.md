@@ -8,7 +8,7 @@ sources: [sources/S_yt_wQRX15R0qa4.md]
 
 # C_yt_wQRX15R0qa4 — فكرة مشتركة في ذرات فيديو wQRX15R0qa4
 
-لينك الطبقة: [[G_yt_wQRX15R0qa4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_wQRX15R0qa4.md|G_yt_wQRX15R0qa4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

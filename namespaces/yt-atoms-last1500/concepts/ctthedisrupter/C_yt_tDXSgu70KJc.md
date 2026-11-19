@@ -8,7 +8,7 @@ sources: [sources/S_yt_tDXSgu70KJc.md]
 
 # C_yt_tDXSgu70KJc — فكرة مشتركة في ذرات فيديو tDXSgu70KJc
 
-لينك الطبقة: [[G_yt_tDXSgu70KJc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_tDXSgu70KJc.md|G_yt_tDXSgu70KJc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

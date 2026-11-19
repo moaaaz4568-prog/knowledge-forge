@@ -8,7 +8,7 @@ sources: [sources/S_yt_vgDCicQSvDo.md]
 
 # C_yt_vgDCicQSvDo — فكرة مشتركة في ذرات فيديو vgDCicQSvDo
 
-لينك الطبقة: [[G_yt_vgDCicQSvDo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/terrencekruse/G_vgDCicQSvDo.md|G_yt_vgDCicQSvDo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

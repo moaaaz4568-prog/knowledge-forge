@@ -8,7 +8,7 @@ sources: [sources/S_yt_wAc2SrZairo.md]
 
 # C_yt_wAc2SrZairo — فكرة مشتركة في ذرات فيديو wAc2SrZairo
 
-لينك الطبقة: [[G_yt_wAc2SrZairo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wAc2SrZairo.md|G_yt_wAc2SrZairo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

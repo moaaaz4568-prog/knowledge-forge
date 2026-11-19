@@ -8,7 +8,7 @@ sources: [sources/S_yt_uqHqThIUweo.md]
 
 # C_yt_uqHqThIUweo — فكرة مشتركة في ذرات فيديو uqHqThIUweo
 
-لينك الطبقة: [[G_yt_uqHqThIUweo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uqHqThIUweo.md|G_yt_uqHqThIUweo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_ureUdaJHrOg.md]
 
 # C_yt_ureUdaJHrOg — فكرة مشتركة في ذرات فيديو ureUdaJHrOg
 
-لينك الطبقة: [[G_yt_ureUdaJHrOg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_ureUdaJHrOg.md|G_yt_ureUdaJHrOg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

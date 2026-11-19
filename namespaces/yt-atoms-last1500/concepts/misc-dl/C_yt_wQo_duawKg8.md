@@ -8,7 +8,7 @@ sources: [sources/S_yt_wQo_duawKg8.md]
 
 # C_yt_wQo_duawKg8 — فكرة مشتركة في ذرات فيديو wQo_duawKg8
 
-لينك الطبقة: [[G_yt_wQo_duawKg8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wQo_duawKg8.md|G_yt_wQo_duawKg8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

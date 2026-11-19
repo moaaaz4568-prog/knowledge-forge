@@ -8,7 +8,7 @@ sources: [sources/S_yt_uvHmuf1H24c.md]
 
 # C_yt_uvHmuf1H24c — فكرة مشتركة في ذرات فيديو uvHmuf1H24c
 
-لينك الطبقة: [[G_yt_uvHmuf1H24c]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_uvHmuf1H24c.md|G_yt_uvHmuf1H24c]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vJEm-DQs2qk.md]
 
 # C_yt_vJEm-DQs2qk — فكرة مشتركة في ذرات فيديو vJEm-DQs2qk
 
-لينك الطبقة: [[G_yt_vJEm-DQs2qk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_vJEm-DQs2qk.md|G_yt_vJEm-DQs2qk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

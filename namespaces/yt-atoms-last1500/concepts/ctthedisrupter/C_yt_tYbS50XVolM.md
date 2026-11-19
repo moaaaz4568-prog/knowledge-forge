@@ -8,7 +8,7 @@ sources: [sources/S_yt_tYbS50XVolM.md]
 
 # C_yt_tYbS50XVolM — فكرة مشتركة في ذرات فيديو tYbS50XVolM
 
-لينك الطبقة: [[G_yt_tYbS50XVolM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_tYbS50XVolM.md|G_yt_tYbS50XVolM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

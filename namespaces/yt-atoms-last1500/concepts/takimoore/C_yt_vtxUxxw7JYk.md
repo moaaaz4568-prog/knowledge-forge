@@ -8,7 +8,7 @@ sources: [sources/S_yt_vtxUxxw7JYk.md]
 
 # C_yt_vtxUxxw7JYk — مقطع منقول من مصدر قصير جداً (vtxUxxw7JYk)
 
-لينك الطبقة: [[G_yt_vtxUxxw7JYk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vtxUxxw7JYk.md|G_yt_vtxUxxw7JYk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tnq2tcNOzfA.md]
 
 # C_yt_tnq2tcNOzfA — فكرة مشتركة في ذرات فيديو tnq2tcNOzfA
 
-لينك الطبقة: [[G_yt_tnq2tcNOzfA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_tnq2tcNOzfA.md|G_yt_tnq2tcNOzfA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zVluN95QfVw.md]
 
 # C_yt_zVluN95QfVw — فكرة مشتركة في ذرات فيديو zVluN95QfVw
 
-لينك الطبقة: [[G_yt_zVluN95QfVw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zVluN95QfVw.md|G_yt_zVluN95QfVw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

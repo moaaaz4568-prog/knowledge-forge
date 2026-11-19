@@ -8,7 +8,7 @@ sources: [sources/S_yt_v76ecYWa5DM.md]
 
 # C_yt_v76ecYWa5DM — فكرة مشتركة في ذرات فيديو v76ecYWa5DM
 
-لينك الطبقة: [[G_yt_v76ecYWa5DM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_v76ecYWa5DM.md|G_yt_v76ecYWa5DM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

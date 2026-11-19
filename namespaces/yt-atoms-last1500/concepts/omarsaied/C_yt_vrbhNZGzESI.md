@@ -8,7 +8,7 @@ sources: [sources/S_yt_vrbhNZGzESI.md]
 
 # C_yt_vrbhNZGzESI — فكرة مشتركة في ذرات فيديو vrbhNZGzESI
 
-لينك الطبقة: [[G_yt_vrbhNZGzESI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_vrbhNZGzESI.md|G_yt_vrbhNZGzESI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

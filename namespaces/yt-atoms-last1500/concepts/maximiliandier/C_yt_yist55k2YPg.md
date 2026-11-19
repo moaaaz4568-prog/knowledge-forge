@@ -8,7 +8,7 @@ sources: [sources/S_yt_yist55k2YPg.md]
 
 # C_yt_yist55k2YPg — فكرة مشتركة في ذرات فيديو yist55k2YPg
 
-لينك الطبقة: [[G_yt_yist55k2YPg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_yist55k2YPg.md|G_yt_yist55k2YPg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

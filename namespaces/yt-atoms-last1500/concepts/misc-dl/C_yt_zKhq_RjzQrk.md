@@ -8,7 +8,7 @@ sources: [sources/S_yt_zKhq_RjzQrk.md]
 
 # C_yt_zKhq_RjzQrk — فكرة مشتركة في ذرات فيديو zKhq_RjzQrk
 
-لينك الطبقة: [[G_yt_zKhq_RjzQrk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zKhq_RjzQrk.md|G_yt_zKhq_RjzQrk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

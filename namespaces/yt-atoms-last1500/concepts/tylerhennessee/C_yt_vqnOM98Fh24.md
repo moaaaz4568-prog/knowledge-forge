@@ -8,7 +8,7 @@ sources: [sources/S_yt_vqnOM98Fh24.md]
 
 # C_yt_vqnOM98Fh24 — فكرة مشتركة في ذرات فيديو vqnOM98Fh24
 
-لينك الطبقة: [[G_yt_vqnOM98Fh24]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vqnOM98Fh24.md|G_yt_vqnOM98Fh24]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

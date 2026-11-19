@@ -8,7 +8,7 @@ sources: [sources/S_yt_vA_Fo4o6-8A.md]
 
 # C_yt_vA_Fo4o6-8A — فكرة مشتركة في ذرات فيديو vA_Fo4o6-8A
 
-لينك الطبقة: [[G_yt_vA_Fo4o6-8A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_vA_Fo4o6-8A.md|G_yt_vA_Fo4o6-8A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

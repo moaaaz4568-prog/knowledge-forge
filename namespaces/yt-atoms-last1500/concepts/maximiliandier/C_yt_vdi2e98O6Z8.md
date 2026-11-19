@@ -8,7 +8,7 @@ sources: [sources/S_yt_vdi2e98O6Z8.md]
 
 # C_yt_vdi2e98O6Z8 — فكرة مشتركة في ذرات فيديو vdi2e98O6Z8
 
-لينك الطبقة: [[G_yt_vdi2e98O6Z8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_vdi2e98O6Z8.md|G_yt_vdi2e98O6Z8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

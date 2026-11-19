@@ -8,7 +8,7 @@ sources: [sources/S_yt_uqamucPI0m4.md]
 
 # C_yt_uqamucPI0m4 — فكرة مشتركة في ذرات فيديو uqamucPI0m4
 
-لينك الطبقة: [[G_yt_uqamucPI0m4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uqamucPI0m4.md|G_yt_uqamucPI0m4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

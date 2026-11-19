@@ -8,7 +8,7 @@ sources: [sources/S_yt_xHEyY-8ukOc.md]
 
 # C_yt_xHEyY-8ukOc — فكرة مشتركة في ذرات فيديو xHEyY-8ukOc
 
-لينك الطبقة: [[G_yt_xHEyY-8ukOc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xHEyY-8ukOc.md|G_yt_xHEyY-8ukOc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_v7X-6lwdjas.md]
 
 # C_yt_v7X-6lwdjas — فكرة مشتركة في ذرات فيديو v7X-6lwdjas
 
-لينك الطبقة: [[G_yt_v7X-6lwdjas]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v7X-6lwdjas.md|G_yt_v7X-6lwdjas]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

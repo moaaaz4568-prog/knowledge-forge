@@ -8,7 +8,7 @@ sources: [sources/S_yt_xUFSexfWmQM.md]
 
 # C_yt_xUFSexfWmQM — فكرة مشتركة في ذرات فيديو xUFSexfWmQM
 
-لينك الطبقة: [[G_yt_xUFSexfWmQM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_xUFSexfWmQM.md|G_yt_xUFSexfWmQM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

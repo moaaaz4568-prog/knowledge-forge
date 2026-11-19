@@ -8,7 +8,7 @@ sources: [sources/S_yt_uaHVnTZU4TU.md]
 
 # C_yt_uaHVnTZU4TU — فكرة مشتركة في ذرات فيديو uaHVnTZU4TU
 
-لينك الطبقة: [[G_yt_uaHVnTZU4TU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uaHVnTZU4TU.md|G_yt_uaHVnTZU4TU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

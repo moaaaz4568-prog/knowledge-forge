@@ -8,7 +8,7 @@ sources: [sources/S_yt_vzz0S7LLNow.md]
 
 # C_yt_vzz0S7LLNow — فكرة مشتركة في ذرات فيديو vzz0S7LLNow
 
-لينك الطبقة: [[G_yt_vzz0S7LLNow]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_vzz0S7LLNow.md|G_yt_vzz0S7LLNow]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

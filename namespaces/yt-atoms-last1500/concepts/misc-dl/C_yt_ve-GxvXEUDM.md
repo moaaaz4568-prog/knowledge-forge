@@ -8,7 +8,7 @@ sources: [sources/S_yt_ve-GxvXEUDM.md]
 
 # C_yt_ve-GxvXEUDM — فكرة مشتركة في ذرات فيديو ve-GxvXEUDM
 
-لينك الطبقة: [[G_yt_ve-GxvXEUDM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ve-GxvXEUDM.md|G_yt_ve-GxvXEUDM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

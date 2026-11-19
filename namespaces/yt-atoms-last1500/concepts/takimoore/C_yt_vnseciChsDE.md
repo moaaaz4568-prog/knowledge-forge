@@ -8,7 +8,7 @@ sources: [sources/S_yt_vnseciChsDE.md]
 
 # C_yt_vnseciChsDE — فكرة مشتركة في ذرات فيديو vnseciChsDE
 
-لينك الطبقة: [[G_yt_vnseciChsDE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vnseciChsDE.md|G_yt_vnseciChsDE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

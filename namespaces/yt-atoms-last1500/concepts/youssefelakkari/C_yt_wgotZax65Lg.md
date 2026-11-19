@@ -8,7 +8,7 @@ sources: [sources/S_yt_wgotZax65Lg.md]
 
 # C_yt_wgotZax65Lg — فكرة مشتركة في ذرات فيديو wgotZax65Lg
 
-لينك الطبقة: [[G_yt_wgotZax65Lg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_wgotZax65Lg.md|G_yt_wgotZax65Lg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

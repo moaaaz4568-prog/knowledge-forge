@@ -8,7 +8,7 @@ sources: [sources/S_yt_vDe1els66t8.md]
 
 # C_yt_vDe1els66t8 — فكرة مشتركة في ذرات فيديو vDe1els66t8
 
-لينك الطبقة: [[G_yt_vDe1els66t8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vDe1els66t8.md|G_yt_vDe1els66t8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

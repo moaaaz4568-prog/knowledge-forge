@@ -8,7 +8,7 @@ sources: [sources/S_yt_z_WgCt51Kps.md]
 
 # C_yt_z_WgCt51Kps — فكرة مشتركة في ذرات فيديو z_WgCt51Kps
 
-لينك الطبقة: [[G_yt_z_WgCt51Kps]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_z_WgCt51Kps.md|G_yt_z_WgCt51Kps]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

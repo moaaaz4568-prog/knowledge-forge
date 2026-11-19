@@ -8,7 +8,7 @@ sources: [sources/S_yt_w5bt-tCbUvk.md]
 
 # C_yt_w5bt-tCbUvk — فكرة مشتركة في ذرات فيديو w5bt-tCbUvk
 
-لينك الطبقة: [[G_yt_w5bt-tCbUvk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_w5bt-tCbUvk.md|G_yt_w5bt-tCbUvk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

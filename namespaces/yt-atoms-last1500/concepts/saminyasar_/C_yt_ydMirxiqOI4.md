@@ -8,7 +8,7 @@ sources: [sources/S_yt_ydMirxiqOI4.md]
 
 # C_yt_ydMirxiqOI4 — فكرة مشتركة في ذرات فيديو ydMirxiqOI4
 
-لينك الطبقة: [[G_yt_ydMirxiqOI4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_ydMirxiqOI4.md|G_yt_ydMirxiqOI4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

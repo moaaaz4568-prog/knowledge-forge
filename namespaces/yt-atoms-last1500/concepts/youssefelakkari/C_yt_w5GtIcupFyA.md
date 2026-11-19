@@ -8,7 +8,7 @@ sources: [sources/S_yt_w5GtIcupFyA.md]
 
 # C_yt_w5GtIcupFyA — فكرة مشتركة في ذرات فيديو w5GtIcupFyA
 
-لينك الطبقة: [[G_yt_w5GtIcupFyA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_w5GtIcupFyA.md|G_yt_w5GtIcupFyA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

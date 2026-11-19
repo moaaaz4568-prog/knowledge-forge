@@ -8,7 +8,7 @@ sources: [sources/S_yt_uZRcJokkZAI.md]
 
 # C_yt_uZRcJokkZAI — فكرة مشتركة في ذرات فيديو uZRcJokkZAI
 
-لينك الطبقة: [[G_yt_uZRcJokkZAI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_uZRcJokkZAI.md|G_yt_uZRcJokkZAI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

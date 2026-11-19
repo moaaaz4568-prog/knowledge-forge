@@ -8,7 +8,7 @@ sources: [sources/S_yt_unrGYmK-vkQ.md]
 
 # C_yt_unrGYmK-vkQ — فكرة مشتركة في ذرات فيديو unrGYmK-vkQ
 
-لينك الطبقة: [[G_yt_unrGYmK-vkQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_unrGYmK-vkQ.md|G_yt_unrGYmK-vkQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

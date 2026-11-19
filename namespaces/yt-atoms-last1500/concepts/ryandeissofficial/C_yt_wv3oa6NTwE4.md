@@ -8,7 +8,7 @@ sources: [sources/S_yt_wv3oa6NTwE4.md]
 
 # C_yt_wv3oa6NTwE4 — فكرة مشتركة في ذرات فيديو wv3oa6NTwE4
 
-لينك الطبقة: [[G_yt_wv3oa6NTwE4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_wv3oa6NTwE4.md|G_yt_wv3oa6NTwE4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

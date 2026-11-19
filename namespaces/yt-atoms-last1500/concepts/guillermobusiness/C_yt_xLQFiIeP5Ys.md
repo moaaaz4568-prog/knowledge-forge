@@ -8,7 +8,7 @@ sources: [sources/S_yt_xLQFiIeP5Ys.md]
 
 # C_yt_xLQFiIeP5Ys — فكرة مشتركة في ذرات فيديو xLQFiIeP5Ys
 
-لينك الطبقة: [[G_yt_xLQFiIeP5Ys]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/guillermobusiness/G_xLQFiIeP5Ys.md|G_yt_xLQFiIeP5Ys]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

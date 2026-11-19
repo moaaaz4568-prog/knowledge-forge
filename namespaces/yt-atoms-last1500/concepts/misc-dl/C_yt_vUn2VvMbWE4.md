@@ -8,7 +8,7 @@ sources: [sources/S_yt_vUn2VvMbWE4.md]
 
 # C_yt_vUn2VvMbWE4 — فكرة مشتركة في ذرات فيديو vUn2VvMbWE4
 
-لينك الطبقة: [[G_yt_vUn2VvMbWE4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vUn2VvMbWE4.md|G_yt_vUn2VvMbWE4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

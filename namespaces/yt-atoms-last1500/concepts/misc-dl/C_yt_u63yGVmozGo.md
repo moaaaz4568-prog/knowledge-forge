@@ -8,7 +8,7 @@ sources: [sources/S_yt_u63yGVmozGo.md]
 
 # C_yt_u63yGVmozGo — فكرة مشتركة في ذرات فيديو u63yGVmozGo
 
-لينك الطبقة: [[G_yt_u63yGVmozGo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u63yGVmozGo.md|G_yt_u63yGVmozGo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

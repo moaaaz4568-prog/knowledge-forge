@@ -8,7 +8,7 @@ sources: [sources/S_yt_vspM44NJErc.md]
 
 # C_yt_vspM44NJErc — فكرة مشتركة في ذرات فيديو vspM44NJErc
 
-لينك الطبقة: [[G_yt_vspM44NJErc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vspM44NJErc.md|G_yt_vspM44NJErc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

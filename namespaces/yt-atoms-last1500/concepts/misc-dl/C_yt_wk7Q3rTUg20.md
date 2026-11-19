@@ -8,7 +8,7 @@ sources: [sources/S_yt_wk7Q3rTUg20.md]
 
 # C_yt_wk7Q3rTUg20 — فكرة مشتركة في ذرات فيديو wk7Q3rTUg20
 
-لينك الطبقة: [[G_yt_wk7Q3rTUg20]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wk7Q3rTUg20.md|G_yt_wk7Q3rTUg20]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

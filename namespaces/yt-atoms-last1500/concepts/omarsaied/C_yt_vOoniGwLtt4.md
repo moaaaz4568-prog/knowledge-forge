@@ -8,7 +8,7 @@ sources: [sources/S_yt_vOoniGwLtt4.md]
 
 # C_yt_vOoniGwLtt4 — مقطع منقول من مصدر قصير جداً (vOoniGwLtt4)
 
-لينك الطبقة: [[G_yt_vOoniGwLtt4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_vOoniGwLtt4.md|G_yt_vOoniGwLtt4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

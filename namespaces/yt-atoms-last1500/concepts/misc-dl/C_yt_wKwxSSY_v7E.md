@@ -8,7 +8,7 @@ sources: [sources/S_yt_wKwxSSY_v7E.md]
 
 # C_yt_wKwxSSY_v7E — فكرة مشتركة في ذرات فيديو wKwxSSY_v7E
 
-لينك الطبقة: [[G_yt_wKwxSSY_v7E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wKwxSSY_v7E.md|G_yt_wKwxSSY_v7E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

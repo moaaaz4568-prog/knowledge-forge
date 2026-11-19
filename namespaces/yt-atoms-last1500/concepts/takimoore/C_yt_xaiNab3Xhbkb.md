@@ -8,7 +8,7 @@ sources: [sources/S_yt_xaiNab3Xhbkb.md]
 
 # C_yt_xaiNab3Xhbkb — فكرة مشتركة في ذرات فيديو xaiNab3Xhbkb
 
-لينك الطبقة: [[G_yt_xaiNab3Xhbkb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xaiNab3Xhbkb.md|G_yt_xaiNab3Xhbkb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tQ1SB9_ctYE.md]
 
 # C_yt_tQ1SB9_ctYE — فكرة مشتركة في ذرات فيديو tQ1SB9_ctYE
 
-لينك الطبقة: [[G_yt_tQ1SB9_ctYE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tQ1SB9_ctYE.md|G_yt_tQ1SB9_ctYE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

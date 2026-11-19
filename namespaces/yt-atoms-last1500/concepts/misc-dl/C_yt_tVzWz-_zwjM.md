@@ -8,7 +8,7 @@ sources: [sources/S_yt_tVzWz-_zwjM.md]
 
 # C_yt_tVzWz-_zwjM — فكرة مشتركة في ذرات فيديو tVzWz-_zwjM
 
-لينك الطبقة: [[G_yt_tVzWz-_zwjM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tVzWz-_zwjM.md|G_yt_tVzWz-_zwjM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

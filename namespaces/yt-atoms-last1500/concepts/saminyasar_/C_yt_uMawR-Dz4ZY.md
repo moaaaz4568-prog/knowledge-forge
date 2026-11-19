@@ -8,7 +8,7 @@ sources: [sources/S_yt_uMawR-Dz4ZY.md]
 
 # C_yt_uMawR-Dz4ZY — مقطع منقول من مصدر قصير جداً (uMawR-Dz4ZY)
 
-لينك الطبقة: [[G_yt_uMawR-Dz4ZY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_uMawR-Dz4ZY.md|G_yt_uMawR-Dz4ZY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_x53sDeO-1-o.md]
 
 # C_yt_x53sDeO-1-o — فكرة مشتركة في ذرات فيديو x53sDeO-1-o
 
-لينك الطبقة: [[G_yt_x53sDeO-1-o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x53sDeO-1-o.md|G_yt_x53sDeO-1-o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

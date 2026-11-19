@@ -8,7 +8,7 @@ sources: [sources/S_yt_v3aD8KKm-30.md]
 
 # C_yt_v3aD8KKm-30 — فكرة مشتركة في ذرات فيديو v3aD8KKm-30
 
-لينك الطبقة: [[G_yt_v3aD8KKm-30]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_v3aD8KKm-30.md|G_yt_v3aD8KKm-30]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_x_XeMmG90pE.md]
 
 # C_yt_x_XeMmG90pE — فكرة مشتركة في ذرات فيديو x_XeMmG90pE
 
-لينك الطبقة: [[G_yt_x_XeMmG90pE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x_XeMmG90pE.md|G_yt_x_XeMmG90pE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

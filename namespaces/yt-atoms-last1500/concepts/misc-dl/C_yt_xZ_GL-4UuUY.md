@@ -8,7 +8,7 @@ sources: [sources/S_yt_xZ_GL-4UuUY.md]
 
 # C_yt_xZ_GL-4UuUY — فكرة مشتركة في ذرات فيديو xZ_GL-4UuUY
 
-لينك الطبقة: [[G_yt_xZ_GL-4UuUY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xZ_GL-4UuUY.md|G_yt_xZ_GL-4UuUY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

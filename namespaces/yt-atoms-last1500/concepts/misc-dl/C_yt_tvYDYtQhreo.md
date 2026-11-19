@@ -8,7 +8,7 @@ sources: [sources/S_yt_tvYDYtQhreo.md]
 
 # C_yt_tvYDYtQhreo — فكرة مشتركة في ذرات فيديو tvYDYtQhreo
 
-لينك الطبقة: [[G_yt_tvYDYtQhreo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tvYDYtQhreo.md|G_yt_tvYDYtQhreo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uc0Ff4l_23A.md]
 
 # C_yt_uc0Ff4l_23A — فكرة مشتركة في ذرات فيديو uc0Ff4l_23A
 
-لينك الطبقة: [[G_yt_uc0Ff4l_23A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uc0Ff4l_23A.md|G_yt_uc0Ff4l_23A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

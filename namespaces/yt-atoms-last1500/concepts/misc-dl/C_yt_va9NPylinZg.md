@@ -8,7 +8,7 @@ sources: [sources/S_yt_va9NPylinZg.md]
 
 # C_yt_va9NPylinZg — فكرة مشتركة في ذرات فيديو va9NPylinZg
 
-لينك الطبقة: [[G_yt_va9NPylinZg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_va9NPylinZg.md|G_yt_va9NPylinZg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

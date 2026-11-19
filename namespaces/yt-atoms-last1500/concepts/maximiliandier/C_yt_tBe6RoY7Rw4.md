@@ -8,7 +8,7 @@ sources: [sources/S_yt_tBe6RoY7Rw4.md]
 
 # C_yt_tBe6RoY7Rw4 — فكرة مشتركة في ذرات فيديو tBe6RoY7Rw4
 
-لينك الطبقة: [[G_yt_tBe6RoY7Rw4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_tBe6RoY7Rw4.md|G_yt_tBe6RoY7Rw4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

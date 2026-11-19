@@ -8,7 +8,7 @@ sources: [sources/S_yt_wPoCrFFS53o.md]
 
 # C_yt_wPoCrFFS53o — فكرة مشتركة في ذرات فيديو wPoCrFFS53o
 
-لينك الطبقة: [[G_yt_wPoCrFFS53o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_wPoCrFFS53o.md|G_yt_wPoCrFFS53o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

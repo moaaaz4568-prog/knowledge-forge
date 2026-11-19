@@ -8,7 +8,7 @@ sources: [sources/S_yt_uFbxUPbZovM.md]
 
 # C_yt_uFbxUPbZovM — فكرة مشتركة في ذرات فيديو uFbxUPbZovM
 
-لينك الطبقة: [[G_yt_uFbxUPbZovM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uFbxUPbZovM.md|G_yt_uFbxUPbZovM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_v9EhGMd13GA.md]
 
 # C_yt_v9EhGMd13GA — فكرة مشتركة في ذرات فيديو v9EhGMd13GA
 
-لينك الطبقة: [[G_yt_v9EhGMd13GA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_v9EhGMd13GA.md|G_yt_v9EhGMd13GA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wDpsgaeZ0LA.md]
 
 # C_yt_wDpsgaeZ0LA — فكرة مشتركة في ذرات فيديو wDpsgaeZ0LA
 
-لينك الطبقة: [[G_yt_wDpsgaeZ0LA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wDpsgaeZ0LA.md|G_yt_wDpsgaeZ0LA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zSVlMER-zfE.md]
 
 # C_yt_zSVlMER-zfE — فكرة مشتركة في ذرات فيديو zSVlMER-zfE
 
-لينك الطبقة: [[G_yt_zSVlMER-zfE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zSVlMER-zfE.md|G_yt_zSVlMER-zfE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

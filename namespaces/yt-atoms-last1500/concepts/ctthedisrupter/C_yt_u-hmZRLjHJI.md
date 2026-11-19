@@ -8,7 +8,7 @@ sources: [sources/S_yt_u-hmZRLjHJI.md]
 
 # C_yt_u-hmZRLjHJI — فكرة مشتركة في ذرات فيديو u-hmZRLjHJI
 
-لينك الطبقة: [[G_yt_u-hmZRLjHJI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_u-hmZRLjHJI.md|G_yt_u-hmZRLjHJI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_y16Q2ktfrdw.md]
 
 # C_yt_y16Q2ktfrdw — فكرة مشتركة في ذرات فيديو y16Q2ktfrdw
 
-لينك الطبقة: [[G_yt_y16Q2ktfrdw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y16Q2ktfrdw.md|G_yt_y16Q2ktfrdw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zDQUgL_YUiU.md]
 
 # C_yt_zDQUgL_YUiU — فكرة مشتركة في ذرات فيديو zDQUgL_YUiU
 
-لينك الطبقة: [[G_yt_zDQUgL_YUiU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_zDQUgL_YUiU.md|G_yt_zDQUgL_YUiU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

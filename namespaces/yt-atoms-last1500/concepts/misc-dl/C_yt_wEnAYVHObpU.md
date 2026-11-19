@@ -8,7 +8,7 @@ sources: [sources/S_yt_wEnAYVHObpU.md]
 
 # C_yt_wEnAYVHObpU — فكرة مشتركة في ذرات فيديو wEnAYVHObpU
 
-لينك الطبقة: [[G_yt_wEnAYVHObpU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wEnAYVHObpU.md|G_yt_wEnAYVHObpU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

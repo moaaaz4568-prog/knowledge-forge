@@ -8,7 +8,7 @@ sources: [sources/S_yt_yES1XlyT17M.md]
 
 # C_yt_yES1XlyT17M — فكرة مشتركة في ذرات فيديو yES1XlyT17M
 
-لينك الطبقة: [[G_yt_yES1XlyT17M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_yES1XlyT17M.md|G_yt_yES1XlyT17M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tIPniGODtYE.md]
 
 # C_yt_tIPniGODtYE — فكرة مشتركة في ذرات فيديو tIPniGODtYE
 
-لينك الطبقة: [[G_yt_tIPniGODtYE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_tIPniGODtYE.md|G_yt_tIPniGODtYE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

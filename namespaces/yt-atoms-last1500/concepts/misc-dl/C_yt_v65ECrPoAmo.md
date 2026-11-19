@@ -8,7 +8,7 @@ sources: [sources/S_yt_v65ECrPoAmo.md]
 
 # C_yt_v65ECrPoAmo — فكرة مشتركة في ذرات فيديو v65ECrPoAmo
 
-لينك الطبقة: [[G_yt_v65ECrPoAmo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v65ECrPoAmo.md|G_yt_v65ECrPoAmo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uTRxvyD_nFw.md]
 
 # C_yt_uTRxvyD_nFw — فكرة مشتركة في ذرات فيديو uTRxvyD_nFw
 
-لينك الطبقة: [[G_yt_uTRxvyD_nFw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uTRxvyD_nFw.md|G_yt_uTRxvyD_nFw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uF6VIVE8rQc.md]
 
 # C_yt_uF6VIVE8rQc — فكرة مشتركة في ذرات فيديو uF6VIVE8rQc
 
-لينك الطبقة: [[G_yt_uF6VIVE8rQc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uF6VIVE8rQc.md|G_yt_uF6VIVE8rQc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tpy7KK5Bd3E.md]
 
 # C_yt_tpy7KK5Bd3E — فكرة مشتركة في ذرات فيديو tpy7KK5Bd3E
 
-لينك الطبقة: [[G_yt_tpy7KK5Bd3E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tpy7KK5Bd3E.md|G_yt_tpy7KK5Bd3E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

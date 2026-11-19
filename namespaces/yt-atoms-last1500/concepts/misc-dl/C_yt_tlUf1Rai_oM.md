@@ -8,7 +8,7 @@ sources: [sources/S_yt_tlUf1Rai_oM.md]
 
 # C_yt_tlUf1Rai_oM — فكرة مشتركة في ذرات فيديو tlUf1Rai_oM
 
-لينك الطبقة: [[G_yt_tlUf1Rai_oM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tlUf1Rai_oM.md|G_yt_tlUf1Rai_oM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

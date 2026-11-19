@@ -8,7 +8,7 @@ sources: [sources/S_yt_xAtccmtaRCg.md]
 
 # C_yt_xAtccmtaRCg — فكرة مشتركة في ذرات فيديو xAtccmtaRCg
 
-لينك الطبقة: [[G_yt_xAtccmtaRCg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xAtccmtaRCg.md|G_yt_xAtccmtaRCg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

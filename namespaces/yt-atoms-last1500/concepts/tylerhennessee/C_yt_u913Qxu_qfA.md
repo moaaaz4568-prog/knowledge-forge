@@ -8,7 +8,7 @@ sources: [sources/S_yt_u913Qxu_qfA.md]
 
 # C_yt_u913Qxu_qfA — فكرة مشتركة في ذرات فيديو u913Qxu_qfA
 
-لينك الطبقة: [[G_yt_u913Qxu_qfA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_u913Qxu_qfA.md|G_yt_u913Qxu_qfA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

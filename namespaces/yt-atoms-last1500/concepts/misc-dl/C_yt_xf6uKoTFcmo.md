@@ -8,7 +8,7 @@ sources: [sources/S_yt_xf6uKoTFcmo.md]
 
 # C_yt_xf6uKoTFcmo — فكرة مشتركة في ذرات فيديو xf6uKoTFcmo
 
-لينك الطبقة: [[G_yt_xf6uKoTFcmo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xf6uKoTFcmo.md|G_yt_xf6uKoTFcmo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

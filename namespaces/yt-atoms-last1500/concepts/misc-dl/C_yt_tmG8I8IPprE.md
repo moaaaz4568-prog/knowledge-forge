@@ -8,7 +8,7 @@ sources: [sources/S_yt_tmG8I8IPprE.md]
 
 # C_yt_tmG8I8IPprE — فكرة مشتركة في ذرات فيديو tmG8I8IPprE
 
-لينك الطبقة: [[G_yt_tmG8I8IPprE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tmG8I8IPprE.md|G_yt_tmG8I8IPprE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

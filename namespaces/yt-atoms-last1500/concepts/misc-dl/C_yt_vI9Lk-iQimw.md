@@ -8,7 +8,7 @@ sources: [sources/S_yt_vI9Lk-iQimw.md]
 
 # C_yt_vI9Lk-iQimw — فكرة مشتركة في ذرات فيديو vI9Lk-iQimw
 
-لينك الطبقة: [[G_yt_vI9Lk-iQimw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vI9Lk-iQimw.md|G_yt_vI9Lk-iQimw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

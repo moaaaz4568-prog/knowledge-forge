@@ -8,7 +8,7 @@ sources: [sources/S_yt_xbPeXH60qck.md]
 
 # C_yt_xbPeXH60qck — فكرة مشتركة في ذرات فيديو xbPeXH60qck
 
-لينك الطبقة: [[G_yt_xbPeXH60qck]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xbPeXH60qck.md|G_yt_xbPeXH60qck]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

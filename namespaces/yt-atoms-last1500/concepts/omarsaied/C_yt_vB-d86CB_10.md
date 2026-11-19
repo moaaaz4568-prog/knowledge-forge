@@ -8,7 +8,7 @@ sources: [sources/S_yt_vB-d86CB_10.md]
 
 # C_yt_vB-d86CB_10 — فكرة مشتركة في ذرات فيديو vB-d86CB_10
 
-لينك الطبقة: [[G_yt_vB-d86CB_10]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_vB-d86CB_10.md|G_yt_vB-d86CB_10]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

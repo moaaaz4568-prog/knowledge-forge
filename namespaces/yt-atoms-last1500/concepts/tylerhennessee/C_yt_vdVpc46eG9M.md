@@ -8,7 +8,7 @@ sources: [sources/S_yt_vdVpc46eG9M.md]
 
 # C_yt_vdVpc46eG9M — فكرة مشتركة في ذرات فيديو vdVpc46eG9M
 
-لينك الطبقة: [[G_yt_vdVpc46eG9M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vdVpc46eG9M.md|G_yt_vdVpc46eG9M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

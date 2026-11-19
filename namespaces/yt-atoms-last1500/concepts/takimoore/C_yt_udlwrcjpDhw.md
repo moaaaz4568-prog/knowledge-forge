@@ -8,7 +8,7 @@ sources: [sources/S_yt_udlwrcjpDhw.md]
 
 # C_yt_udlwrcjpDhw — فكرة مشتركة في ذرات فيديو udlwrcjpDhw
 
-لينك الطبقة: [[G_yt_udlwrcjpDhw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_udlwrcjpDhw.md|G_yt_udlwrcjpDhw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

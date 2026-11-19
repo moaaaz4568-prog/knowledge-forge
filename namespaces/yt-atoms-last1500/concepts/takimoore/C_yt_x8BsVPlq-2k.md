@@ -8,7 +8,7 @@ sources: [sources/S_yt_x8BsVPlq-2k.md]
 
 # C_yt_x8BsVPlq-2k — مقطع منقول من مصدر قصير جداً (x8BsVPlq-2k)
 
-لينك الطبقة: [[G_yt_x8BsVPlq-2k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_x8BsVPlq-2k.md|G_yt_x8BsVPlq-2k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

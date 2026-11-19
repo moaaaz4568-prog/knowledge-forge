@@ -8,7 +8,7 @@ sources: [sources/S_yt_vL_VCVUnbQU.md]
 
 # C_yt_vL_VCVUnbQU — فكرة مشتركة في ذرات فيديو vL_VCVUnbQU
 
-لينك الطبقة: [[G_yt_vL_VCVUnbQU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_vL_VCVUnbQU.md|G_yt_vL_VCVUnbQU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

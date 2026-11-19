@@ -8,7 +8,7 @@ sources: [sources/S_yt_ugaJI8kzwn0.md]
 
 # C_yt_ugaJI8kzwn0 — مقطع منقول من مصدر قصير جداً (ugaJI8kzwn0)
 
-لينك الطبقة: [[G_yt_ugaJI8kzwn0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_ugaJI8kzwn0.md|G_yt_ugaJI8kzwn0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

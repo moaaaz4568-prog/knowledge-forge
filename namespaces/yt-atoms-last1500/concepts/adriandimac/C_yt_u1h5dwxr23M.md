@@ -8,7 +8,7 @@ sources: [sources/S_yt_u1h5dwxr23M.md]
 
 # C_yt_u1h5dwxr23M — فكرة مشتركة في ذرات فيديو u1h5dwxr23M
 
-لينك الطبقة: [[G_yt_u1h5dwxr23M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_u1h5dwxr23M.md|G_yt_u1h5dwxr23M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_u_Lz6KIwiog.md]
 
 # C_yt_u_Lz6KIwiog — فكرة مشتركة في ذرات فيديو u_Lz6KIwiog
 
-لينك الطبقة: [[G_yt_u_Lz6KIwiog]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_u_Lz6KIwiog.md|G_yt_u_Lz6KIwiog]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

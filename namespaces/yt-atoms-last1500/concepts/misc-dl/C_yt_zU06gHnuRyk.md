@@ -8,7 +8,7 @@ sources: [sources/S_yt_zU06gHnuRyk.md]
 
 # C_yt_zU06gHnuRyk — فكرة مشتركة في ذرات فيديو zU06gHnuRyk
 
-لينك الطبقة: [[G_yt_zU06gHnuRyk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zU06gHnuRyk.md|G_yt_zU06gHnuRyk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

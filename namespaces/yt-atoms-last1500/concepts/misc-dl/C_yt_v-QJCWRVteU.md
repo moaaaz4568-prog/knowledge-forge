@@ -8,7 +8,7 @@ sources: [sources/S_yt_v-QJCWRVteU.md]
 
 # C_yt_v-QJCWRVteU — فكرة مشتركة في ذرات فيديو v-QJCWRVteU
 
-لينك الطبقة: [[G_yt_v-QJCWRVteU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v-QJCWRVteU.md|G_yt_v-QJCWRVteU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

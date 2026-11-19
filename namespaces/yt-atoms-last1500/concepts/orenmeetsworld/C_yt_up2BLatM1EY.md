@@ -8,7 +8,7 @@ sources: [sources/S_yt_up2BLatM1EY.md]
 
 # C_yt_up2BLatM1EY — فكرة مشتركة في ذرات فيديو up2BLatM1EY
 
-لينك الطبقة: [[G_yt_up2BLatM1EY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_up2BLatM1EY.md|G_yt_up2BLatM1EY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zkhm_AFVW1g.md]
 
 # C_yt_zkhm_AFVW1g — فكرة مشتركة في ذرات فيديو zkhm_AFVW1g
 
-لينك الطبقة: [[G_yt_zkhm_AFVW1g]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_zkhm_AFVW1g.md|G_yt_zkhm_AFVW1g]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

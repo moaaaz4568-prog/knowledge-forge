@@ -8,7 +8,7 @@ sources: [sources/S_yt_wYXvyCBd_qc.md]
 
 # C_yt_wYXvyCBd_qc — مقطع منقول من مصدر قصير جداً (wYXvyCBd_qc)
 
-لينك الطبقة: [[G_yt_wYXvyCBd_qc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_wYXvyCBd_qc.md|G_yt_wYXvyCBd_qc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

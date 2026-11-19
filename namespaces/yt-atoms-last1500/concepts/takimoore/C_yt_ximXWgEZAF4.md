@@ -8,7 +8,7 @@ sources: [sources/S_yt_ximXWgEZAF4.md]
 
 # C_yt_ximXWgEZAF4 — مقطع منقول من مصدر قصير جداً (ximXWgEZAF4)
 
-لينك الطبقة: [[G_yt_ximXWgEZAF4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_ximXWgEZAF4.md|G_yt_ximXWgEZAF4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

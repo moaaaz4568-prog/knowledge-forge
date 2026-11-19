@@ -8,7 +8,7 @@ sources: [sources/S_yt_v83LcwtsB8o.md]
 
 # C_yt_v83LcwtsB8o — فكرة مشتركة في ذرات فيديو v83LcwtsB8o
 
-لينك الطبقة: [[G_yt_v83LcwtsB8o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v83LcwtsB8o.md|G_yt_v83LcwtsB8o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wsJtToQ16ko.md]
 
 # C_yt_wsJtToQ16ko — فكرة مشتركة في ذرات فيديو wsJtToQ16ko
 
-لينك الطبقة: [[G_yt_wsJtToQ16ko]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wsJtToQ16ko.md|G_yt_wsJtToQ16ko]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

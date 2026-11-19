@@ -8,7 +8,7 @@ sources: [sources/S_yt_w8r50brKNzU.md]
 
 # C_yt_w8r50brKNzU — فكرة مشتركة في ذرات فيديو w8r50brKNzU
 
-لينك الطبقة: [[G_yt_w8r50brKNzU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_w8r50brKNzU.md|G_yt_w8r50brKNzU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xcHyfiMItCM.md]
 
 # C_yt_xcHyfiMItCM — فكرة مشتركة في ذرات فيديو xcHyfiMItCM
 
-لينك الطبقة: [[G_yt_xcHyfiMItCM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_xcHyfiMItCM.md|G_yt_xcHyfiMItCM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

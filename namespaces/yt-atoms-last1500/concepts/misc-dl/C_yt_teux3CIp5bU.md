@@ -8,7 +8,7 @@ sources: [sources/S_yt_teux3CIp5bU.md]
 
 # C_yt_teux3CIp5bU — فكرة مشتركة في ذرات فيديو teux3CIp5bU
 
-لينك الطبقة: [[G_yt_teux3CIp5bU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_teux3CIp5bU.md|G_yt_teux3CIp5bU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

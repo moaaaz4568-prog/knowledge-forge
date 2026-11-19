@@ -8,7 +8,7 @@ sources: [sources/S_yt_vF8Do_rUaEk.md]
 
 # C_yt_vF8Do_rUaEk — فكرة مشتركة في ذرات فيديو vF8Do_rUaEk
 
-لينك الطبقة: [[G_yt_vF8Do_rUaEk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_vF8Do_rUaEk.md|G_yt_vF8Do_rUaEk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xdLpgt_fA_Q.md]
 
 # C_yt_xdLpgt_fA_Q — مقطع منقول من مصدر قصير جداً (xdLpgt_fA_Q)
 
-لينك الطبقة: [[G_yt_xdLpgt_fA_Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_xdLpgt_fA_Q.md|G_yt_xdLpgt_fA_Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

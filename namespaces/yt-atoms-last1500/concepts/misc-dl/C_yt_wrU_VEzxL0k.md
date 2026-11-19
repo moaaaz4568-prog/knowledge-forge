@@ -8,7 +8,7 @@ sources: [sources/S_yt_wrU_VEzxL0k.md]
 
 # C_yt_wrU_VEzxL0k — فكرة مشتركة في ذرات فيديو wrU_VEzxL0k
 
-لينك الطبقة: [[G_yt_wrU_VEzxL0k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wrU_VEzxL0k.md|G_yt_wrU_VEzxL0k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

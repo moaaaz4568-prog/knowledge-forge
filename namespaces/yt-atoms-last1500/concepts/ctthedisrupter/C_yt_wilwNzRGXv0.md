@@ -8,7 +8,7 @@ sources: [sources/S_yt_wilwNzRGXv0.md]
 
 # C_yt_wilwNzRGXv0 — فكرة مشتركة في ذرات فيديو wilwNzRGXv0
 
-لينك الطبقة: [[G_yt_wilwNzRGXv0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wilwNzRGXv0.md|G_yt_wilwNzRGXv0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

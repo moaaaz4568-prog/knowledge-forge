@@ -8,7 +8,7 @@ sources: [sources/S_yt_ucFXwPAihCc.md]
 
 # C_yt_ucFXwPAihCc — فكرة مشتركة في ذرات فيديو ucFXwPAihCc
 
-لينك الطبقة: [[G_yt_ucFXwPAihCc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_ucFXwPAihCc.md|G_yt_ucFXwPAihCc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

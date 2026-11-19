@@ -8,7 +8,7 @@ sources: [sources/S_yt_zGRF-eznnac.md]
 
 # C_yt_zGRF-eznnac — فكرة مشتركة في ذرات فيديو zGRF-eznnac
 
-لينك الطبقة: [[G_yt_zGRF-eznnac]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zGRF-eznnac.md|G_yt_zGRF-eznnac]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

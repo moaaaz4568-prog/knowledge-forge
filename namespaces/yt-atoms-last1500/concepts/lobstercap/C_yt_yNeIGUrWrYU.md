@@ -8,7 +8,7 @@ sources: [sources/S_yt_yNeIGUrWrYU.md]
 
 # C_yt_yNeIGUrWrYU — فكرة مشتركة في ذرات فيديو yNeIGUrWrYU
 
-لينك الطبقة: [[G_yt_yNeIGUrWrYU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_yNeIGUrWrYU.md|G_yt_yNeIGUrWrYU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yhu3a4AN65Ab.md]
 
 # C_yt_yhu3a4AN65Ab — فكرة مشتركة في ذرات فيديو yhu3a4AN65Ab
 
-لينك الطبقة: [[G_yt_yhu3a4AN65Ab]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_yhu3a4AN65Ab.md|G_yt_yhu3a4AN65Ab]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

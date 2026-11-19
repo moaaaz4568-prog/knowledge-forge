@@ -8,7 +8,7 @@ sources: [sources/S_yt_ukmdJfKvfuc.md]
 
 # C_yt_ukmdJfKvfuc — مقطع منقول من مصدر قصير جداً (ukmdJfKvfuc)
 
-لينك الطبقة: [[G_yt_ukmdJfKvfuc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_ukmdJfKvfuc.md|G_yt_ukmdJfKvfuc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

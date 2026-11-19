@@ -8,7 +8,7 @@ sources: [sources/S_yt_zF26uIDeKF4.md]
 
 # C_yt_zF26uIDeKF4 — فكرة مشتركة في ذرات فيديو zF26uIDeKF4
 
-لينك الطبقة: [[G_yt_zF26uIDeKF4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zF26uIDeKF4.md|G_yt_zF26uIDeKF4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vYf-kwUm1k0.md]
 
 # C_yt_vYf-kwUm1k0 — فكرة مشتركة في ذرات فيديو vYf-kwUm1k0
 
-لينك الطبقة: [[G_yt_vYf-kwUm1k0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thisisfoto/G_vYf-kwUm1k0.md|G_yt_vYf-kwUm1k0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

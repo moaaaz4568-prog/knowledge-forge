@@ -8,7 +8,7 @@ sources: [sources/S_yt_wglvkLc6-Lo.md]
 
 # C_yt_wglvkLc6-Lo — فكرة مشتركة في ذرات فيديو wglvkLc6-Lo
 
-لينك الطبقة: [[G_yt_wglvkLc6-Lo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wglvkLc6-Lo.md|G_yt_wglvkLc6-Lo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

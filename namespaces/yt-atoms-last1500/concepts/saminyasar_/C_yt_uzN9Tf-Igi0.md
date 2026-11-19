@@ -8,7 +8,7 @@ sources: [sources/S_yt_uzN9Tf-Igi0.md]
 
 # C_yt_uzN9Tf-Igi0 — فكرة مشتركة في ذرات فيديو uzN9Tf-Igi0
 
-لينك الطبقة: [[G_yt_uzN9Tf-Igi0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_uzN9Tf-Igi0.md|G_yt_uzN9Tf-Igi0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

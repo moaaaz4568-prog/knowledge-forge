@@ -8,7 +8,7 @@ sources: [sources/S_yt_xdJP289BDDY.md]
 
 # C_yt_xdJP289BDDY — فكرة مشتركة في ذرات فيديو xdJP289BDDY
 
-لينك الطبقة: [[G_yt_xdJP289BDDY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/costanatomy56/G_xdJP289BDDY.md|G_yt_xdJP289BDDY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

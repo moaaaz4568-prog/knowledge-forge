@@ -8,7 +8,7 @@ sources: [sources/S_yt_zbwph4fU40E.md]
 
 # C_yt_zbwph4fU40E — فكرة مشتركة في ذرات فيديو zbwph4fU40E
 
-لينك الطبقة: [[G_yt_zbwph4fU40E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zbwph4fU40E.md|G_yt_zbwph4fU40E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

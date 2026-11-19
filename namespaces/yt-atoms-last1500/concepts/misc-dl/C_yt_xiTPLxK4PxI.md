@@ -8,7 +8,7 @@ sources: [sources/S_yt_xiTPLxK4PxI.md]
 
 # C_yt_xiTPLxK4PxI — فكرة مشتركة في ذرات فيديو xiTPLxK4PxI
 
-لينك الطبقة: [[G_yt_xiTPLxK4PxI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xiTPLxK4PxI.md|G_yt_xiTPLxK4PxI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

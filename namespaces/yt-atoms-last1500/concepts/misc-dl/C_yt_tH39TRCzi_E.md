@@ -8,7 +8,7 @@ sources: [sources/S_yt_tH39TRCzi_E.md]
 
 # C_yt_tH39TRCzi_E — فكرة مشتركة في ذرات فيديو tH39TRCzi_E
 
-لينك الطبقة: [[G_yt_tH39TRCzi_E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tH39TRCzi_E.md|G_yt_tH39TRCzi_E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

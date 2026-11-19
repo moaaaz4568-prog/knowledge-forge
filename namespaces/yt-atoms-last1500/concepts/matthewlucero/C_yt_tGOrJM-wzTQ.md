@@ -8,7 +8,7 @@ sources: [sources/S_yt_tGOrJM-wzTQ.md]
 
 # C_yt_tGOrJM-wzTQ — فكرة مشتركة في ذرات فيديو tGOrJM-wzTQ
 
-لينك الطبقة: [[G_yt_tGOrJM-wzTQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_tGOrJM-wzTQ.md|G_yt_tGOrJM-wzTQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

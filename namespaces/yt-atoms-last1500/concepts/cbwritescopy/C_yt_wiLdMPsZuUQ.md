@@ -8,7 +8,7 @@ sources: [sources/S_yt_wiLdMPsZuUQ.md]
 
 # C_yt_wiLdMPsZuUQ — فكرة مشتركة في ذرات فيديو wiLdMPsZuUQ
 
-لينك الطبقة: [[G_yt_wiLdMPsZuUQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_wiLdMPsZuUQ.md|G_yt_wiLdMPsZuUQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

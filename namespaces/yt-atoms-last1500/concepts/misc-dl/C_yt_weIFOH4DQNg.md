@@ -8,7 +8,7 @@ sources: [sources/S_yt_weIFOH4DQNg.md]
 
 # C_yt_weIFOH4DQNg — فكرة مشتركة في ذرات فيديو weIFOH4DQNg
 
-لينك الطبقة: [[G_yt_weIFOH4DQNg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_weIFOH4DQNg.md|G_yt_weIFOH4DQNg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

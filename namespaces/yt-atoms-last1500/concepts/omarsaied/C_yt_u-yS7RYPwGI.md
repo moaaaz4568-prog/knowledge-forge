@@ -8,7 +8,7 @@ sources: [sources/S_yt_u-yS7RYPwGI.md]
 
 # C_yt_u-yS7RYPwGI — فكرة مشتركة في ذرات فيديو u-yS7RYPwGI
 
-لينك الطبقة: [[G_yt_u-yS7RYPwGI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_u-yS7RYPwGI.md|G_yt_u-yS7RYPwGI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

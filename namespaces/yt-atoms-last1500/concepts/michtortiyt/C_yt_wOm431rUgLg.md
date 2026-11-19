@@ -8,7 +8,7 @@ sources: [sources/S_yt_wOm431rUgLg.md]
 
 # C_yt_wOm431rUgLg — فكرة مشتركة في ذرات فيديو wOm431rUgLg
 
-لينك الطبقة: [[G_yt_wOm431rUgLg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_wOm431rUgLg.md|G_yt_wOm431rUgLg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_ujUMeywesbw.md]
 
 # C_yt_ujUMeywesbw — مقطع منقول من مصدر قصير جداً (ujUMeywesbw)
 
-لينك الطبقة: [[G_yt_ujUMeywesbw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ujUMeywesbw.md|G_yt_ujUMeywesbw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yu-iD0hFa_w.md]
 
 # C_yt_yu-iD0hFa_w — فكرة مشتركة في ذرات فيديو yu-iD0hFa_w
 
-لينك الطبقة: [[G_yt_yu-iD0hFa_w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_yu-iD0hFa_w.md|G_yt_yu-iD0hFa_w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zbIIo34bxD0.md]
 
 # C_yt_zbIIo34bxD0 — فكرة مشتركة في ذرات فيديو zbIIo34bxD0
 
-لينك الطبقة: [[G_yt_zbIIo34bxD0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_zbIIo34bxD0.md|G_yt_zbIIo34bxD0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

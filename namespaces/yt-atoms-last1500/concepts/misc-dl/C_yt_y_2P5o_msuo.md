@@ -8,7 +8,7 @@ sources: [sources/S_yt_y_2P5o_msuo.md]
 
 # C_yt_y_2P5o_msuo — فكرة مشتركة في ذرات فيديو y_2P5o_msuo
 
-لينك الطبقة: [[G_yt_y_2P5o_msuo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y_2P5o_msuo.md|G_yt_y_2P5o_msuo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

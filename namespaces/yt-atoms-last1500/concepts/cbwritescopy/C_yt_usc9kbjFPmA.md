@@ -8,7 +8,7 @@ sources: [sources/S_yt_usc9kbjFPmA.md]
 
 # C_yt_usc9kbjFPmA — فكرة مشتركة في ذرات فيديو usc9kbjFPmA
 
-لينك الطبقة: [[G_yt_usc9kbjFPmA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_usc9kbjFPmA.md|G_yt_usc9kbjFPmA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

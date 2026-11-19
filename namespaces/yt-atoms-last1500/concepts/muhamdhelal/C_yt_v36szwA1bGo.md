@@ -8,7 +8,7 @@ sources: [sources/S_yt_v36szwA1bGo.md]
 
 # C_yt_v36szwA1bGo — فكرة مشتركة في ذرات فيديو v36szwA1bGo
 
-لينك الطبقة: [[G_yt_v36szwA1bGo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_v36szwA1bGo.md|G_yt_v36szwA1bGo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

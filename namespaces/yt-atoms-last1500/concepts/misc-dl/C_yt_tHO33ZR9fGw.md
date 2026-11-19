@@ -8,7 +8,7 @@ sources: [sources/S_yt_tHO33ZR9fGw.md]
 
 # C_yt_tHO33ZR9fGw — فكرة مشتركة في ذرات فيديو tHO33ZR9fGw
 
-لينك الطبقة: [[G_yt_tHO33ZR9fGw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tHO33ZR9fGw.md|G_yt_tHO33ZR9fGw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

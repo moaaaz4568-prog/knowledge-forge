@@ -8,7 +8,7 @@ sources: [sources/S_yt_toQ_UhNw8pY.md]
 
 # C_yt_toQ_UhNw8pY — فكرة مشتركة في ذرات فيديو toQ_UhNw8pY
 
-لينك الطبقة: [[G_yt_toQ_UhNw8pY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_toQ_UhNw8pY.md|G_yt_toQ_UhNw8pY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

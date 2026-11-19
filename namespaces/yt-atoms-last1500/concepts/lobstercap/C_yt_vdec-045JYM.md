@@ -8,7 +8,7 @@ sources: [sources/S_yt_vdec-045JYM.md]
 
 # C_yt_vdec-045JYM — فكرة مشتركة في ذرات فيديو vdec-045JYM
 
-لينك الطبقة: [[G_yt_vdec-045JYM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_vdec-045JYM.md|G_yt_vdec-045JYM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

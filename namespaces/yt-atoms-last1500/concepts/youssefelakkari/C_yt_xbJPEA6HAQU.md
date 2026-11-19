@@ -8,7 +8,7 @@ sources: [sources/S_yt_xbJPEA6HAQU.md]
 
 # C_yt_xbJPEA6HAQU — فكرة مشتركة في ذرات فيديو xbJPEA6HAQU
 
-لينك الطبقة: [[G_yt_xbJPEA6HAQU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_xbJPEA6HAQU.md|G_yt_xbJPEA6HAQU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_upsJK45R2QQ.md]
 
 # C_yt_upsJK45R2QQ — فكرة مشتركة في ذرات فيديو upsJK45R2QQ
 
-لينك الطبقة: [[G_yt_upsJK45R2QQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_upsJK45R2QQ.md|G_yt_upsJK45R2QQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

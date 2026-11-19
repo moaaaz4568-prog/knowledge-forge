@@ -8,7 +8,7 @@ sources: [sources/S_yt_waqmonqiMqwb.md]
 
 # C_yt_waqmonqiMqwb — فكرة مشتركة في ذرات فيديو waqmonqiMqwb
 
-لينك الطبقة: [[G_yt_waqmonqiMqwb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_waqmonqiMqwb.md|G_yt_waqmonqiMqwb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

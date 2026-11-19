@@ -8,7 +8,7 @@ sources: [sources/S_yt_ysGuQEwmMTAb.md]
 
 # C_yt_ysGuQEwmMTAb — فكرة مشتركة في ذرات فيديو ysGuQEwmMTAb
 
-لينك الطبقة: [[G_yt_ysGuQEwmMTAb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_ysGuQEwmMTAb.md|G_yt_ysGuQEwmMTAb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xwn1MO6ruzM.md]
 
 # C_yt_xwn1MO6ruzM — فكرة مشتركة في ذرات فيديو xwn1MO6ruzM
 
-لينك الطبقة: [[G_yt_xwn1MO6ruzM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_xwn1MO6ruzM.md|G_yt_xwn1MO6ruzM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

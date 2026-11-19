@@ -8,7 +8,7 @@ sources: [sources/S_yt_xI_gK2xnMNc.md]
 
 # C_yt_xI_gK2xnMNc — فكرة مشتركة في ذرات فيديو xI_gK2xnMNc
 
-لينك الطبقة: [[G_yt_xI_gK2xnMNc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_xI_gK2xnMNc.md|G_yt_xI_gK2xnMNc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

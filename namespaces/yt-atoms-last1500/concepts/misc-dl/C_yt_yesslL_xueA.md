@@ -8,7 +8,7 @@ sources: [sources/S_yt_yesslL_xueA.md]
 
 # C_yt_yesslL_xueA — فكرة مشتركة في ذرات فيديو yesslL_xueA
 
-لينك الطبقة: [[G_yt_yesslL_xueA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yesslL_xueA.md|G_yt_yesslL_xueA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

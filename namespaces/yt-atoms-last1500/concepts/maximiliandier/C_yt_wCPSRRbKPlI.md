@@ -8,7 +8,7 @@ sources: [sources/S_yt_wCPSRRbKPlI.md]
 
 # C_yt_wCPSRRbKPlI — فكرة مشتركة في ذرات فيديو wCPSRRbKPlI
 
-لينك الطبقة: [[G_yt_wCPSRRbKPlI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_wCPSRRbKPlI.md|G_yt_wCPSRRbKPlI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

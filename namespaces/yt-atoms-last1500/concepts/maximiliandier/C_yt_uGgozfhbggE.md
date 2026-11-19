@@ -8,7 +8,7 @@ sources: [sources/S_yt_uGgozfhbggE.md]
 
 # C_yt_uGgozfhbggE — فكرة مشتركة في ذرات فيديو uGgozfhbggE
 
-لينك الطبقة: [[G_yt_uGgozfhbggE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uGgozfhbggE.md|G_yt_uGgozfhbggE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

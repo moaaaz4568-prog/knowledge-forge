@@ -8,7 +8,7 @@ sources: [sources/S_yt_tPRluoh7vUw.md]
 
 # C_yt_tPRluoh7vUw — فكرة مشتركة في ذرات فيديو tPRluoh7vUw
 
-لينك الطبقة: [[G_yt_tPRluoh7vUw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_tPRluoh7vUw.md|G_yt_tPRluoh7vUw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

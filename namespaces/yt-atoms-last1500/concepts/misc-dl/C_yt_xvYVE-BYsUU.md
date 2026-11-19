@@ -8,7 +8,7 @@ sources: [sources/S_yt_xvYVE-BYsUU.md]
 
 # C_yt_xvYVE-BYsUU — فكرة مشتركة في ذرات فيديو xvYVE-BYsUU
 
-لينك الطبقة: [[G_yt_xvYVE-BYsUU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xvYVE-BYsUU.md|G_yt_xvYVE-BYsUU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

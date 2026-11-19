@@ -8,7 +8,7 @@ sources: [sources/S_yt_uH2-I43kA7I.md]
 
 # C_yt_uH2-I43kA7I — فكرة مشتركة في ذرات فيديو uH2-I43kA7I
 
-لينك الطبقة: [[G_yt_uH2-I43kA7I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uH2-I43kA7I.md|G_yt_uH2-I43kA7I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

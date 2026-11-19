@@ -8,7 +8,7 @@ sources: [sources/S_yt_uCt_BrZ1NFM.md]
 
 # C_yt_uCt_BrZ1NFM — فكرة مشتركة في ذرات فيديو uCt_BrZ1NFM
 
-لينك الطبقة: [[G_yt_uCt_BrZ1NFM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uCt_BrZ1NFM.md|G_yt_uCt_BrZ1NFM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

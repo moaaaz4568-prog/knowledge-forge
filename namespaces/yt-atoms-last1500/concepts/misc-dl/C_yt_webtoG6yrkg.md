@@ -8,7 +8,7 @@ sources: [sources/S_yt_webtoG6yrkg.md]
 
 # C_yt_webtoG6yrkg — فكرة مشتركة في ذرات فيديو webtoG6yrkg
 
-لينك الطبقة: [[G_yt_webtoG6yrkg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_webtoG6yrkg.md|G_yt_webtoG6yrkg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yJk47F4UcTI.md]
 
 # C_yt_yJk47F4UcTI — فكرة مشتركة في ذرات فيديو yJk47F4UcTI
 
-لينك الطبقة: [[G_yt_yJk47F4UcTI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_yJk47F4UcTI.md|G_yt_yJk47F4UcTI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zOJorDF3up4.md]
 
 # C_yt_zOJorDF3up4 — فكرة مشتركة في ذرات فيديو zOJorDF3up4
 
-لينك الطبقة: [[G_yt_zOJorDF3up4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zOJorDF3up4.md|G_yt_zOJorDF3up4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

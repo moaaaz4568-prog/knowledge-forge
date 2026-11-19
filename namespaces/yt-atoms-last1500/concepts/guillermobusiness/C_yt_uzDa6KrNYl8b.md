@@ -8,7 +8,7 @@ sources: [sources/S_yt_uzDa6KrNYl8b.md]
 
 # C_yt_uzDa6KrNYl8b — فكرة مشتركة في ذرات فيديو uzDa6KrNYl8b
 
-لينك الطبقة: [[G_yt_uzDa6KrNYl8b]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/guillermobusiness/G_uzDa6KrNYl8b.md|G_yt_uzDa6KrNYl8b]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

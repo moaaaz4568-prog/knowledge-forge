@@ -8,7 +8,7 @@ sources: [sources/S_yt_usUkz2rgAy0.md]
 
 # C_yt_usUkz2rgAy0 — فكرة مشتركة في ذرات فيديو usUkz2rgAy0
 
-لينك الطبقة: [[G_yt_usUkz2rgAy0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_usUkz2rgAy0.md|G_yt_usUkz2rgAy0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

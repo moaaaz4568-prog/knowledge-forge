@@ -8,7 +8,7 @@ sources: [sources/S_yt_tkAj4iXiido.md]
 
 # C_yt_tkAj4iXiido — فكرة مشتركة في ذرات فيديو tkAj4iXiido
 
-لينك الطبقة: [[G_yt_tkAj4iXiido]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_tkAj4iXiido.md|G_yt_tkAj4iXiido]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

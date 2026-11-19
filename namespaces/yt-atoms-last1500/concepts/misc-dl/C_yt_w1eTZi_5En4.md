@@ -8,7 +8,7 @@ sources: [sources/S_yt_w1eTZi_5En4.md]
 
 # C_yt_w1eTZi_5En4 — مقطع منقول من مصدر قصير جداً (w1eTZi_5En4)
 
-لينك الطبقة: [[G_yt_w1eTZi_5En4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w1eTZi_5En4.md|G_yt_w1eTZi_5En4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

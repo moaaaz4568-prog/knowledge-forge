@@ -8,7 +8,7 @@ sources: [sources/S_yt_uuByaR_aT18.md]
 
 # C_yt_uuByaR_aT18 — فكرة مشتركة في ذرات فيديو uuByaR_aT18
 
-لينك الطبقة: [[G_yt_uuByaR_aT18]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uuByaR_aT18.md|G_yt_uuByaR_aT18]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

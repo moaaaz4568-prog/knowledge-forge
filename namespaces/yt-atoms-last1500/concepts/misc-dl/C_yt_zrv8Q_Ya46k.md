@@ -8,7 +8,7 @@ sources: [sources/S_yt_zrv8Q_Ya46k.md]
 
 # C_yt_zrv8Q_Ya46k — فكرة مشتركة في ذرات فيديو zrv8Q_Ya46k
 
-لينك الطبقة: [[G_yt_zrv8Q_Ya46k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zrv8Q_Ya46k.md|G_yt_zrv8Q_Ya46k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

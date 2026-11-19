@@ -8,7 +8,7 @@ sources: [sources/S_yt_zSnB91L5nA4.md]
 
 # C_yt_zSnB91L5nA4 — فكرة مشتركة في ذرات فيديو zSnB91L5nA4
 
-لينك الطبقة: [[G_yt_zSnB91L5nA4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_zSnB91L5nA4.md|G_yt_zSnB91L5nA4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

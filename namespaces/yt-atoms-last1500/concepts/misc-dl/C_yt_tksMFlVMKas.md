@@ -8,7 +8,7 @@ sources: [sources/S_yt_tksMFlVMKas.md]
 
 # C_yt_tksMFlVMKas — فكرة مشتركة في ذرات فيديو tksMFlVMKas
 
-لينك الطبقة: [[G_yt_tksMFlVMKas]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tksMFlVMKas.md|G_yt_tksMFlVMKas]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

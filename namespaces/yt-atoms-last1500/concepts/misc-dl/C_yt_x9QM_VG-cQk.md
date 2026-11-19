@@ -8,7 +8,7 @@ sources: [sources/S_yt_x9QM_VG-cQk.md]
 
 # C_yt_x9QM_VG-cQk — فكرة مشتركة في ذرات فيديو x9QM_VG-cQk
 
-لينك الطبقة: [[G_yt_x9QM_VG-cQk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x9QM_VG-cQk.md|G_yt_x9QM_VG-cQk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xttbfCkunpc.md]
 
 # C_yt_xttbfCkunpc — فكرة مشتركة في ذرات فيديو xttbfCkunpc
 
-لينك الطبقة: [[G_yt_xttbfCkunpc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xttbfCkunpc.md|G_yt_xttbfCkunpc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

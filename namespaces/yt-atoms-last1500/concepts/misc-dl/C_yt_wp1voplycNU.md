@@ -8,7 +8,7 @@ sources: [sources/S_yt_wp1voplycNU.md]
 
 # C_yt_wp1voplycNU — فكرة مشتركة في ذرات فيديو wp1voplycNU
 
-لينك الطبقة: [[G_yt_wp1voplycNU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wp1voplycNU.md|G_yt_wp1voplycNU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wIcRn901VvY.md]
 
 # C_yt_wIcRn901VvY — فكرة مشتركة في ذرات فيديو wIcRn901VvY
 
-لينك الطبقة: [[G_yt_wIcRn901VvY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wIcRn901VvY.md|G_yt_wIcRn901VvY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

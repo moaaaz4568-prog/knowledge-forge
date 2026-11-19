@@ -8,7 +8,7 @@ sources: [sources/S_yt_vjU1ml2nlWA.md]
 
 # C_yt_vjU1ml2nlWA — فكرة مشتركة في ذرات فيديو vjU1ml2nlWA
 
-لينك الطبقة: [[G_yt_vjU1ml2nlWA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_vjU1ml2nlWA.md|G_yt_vjU1ml2nlWA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

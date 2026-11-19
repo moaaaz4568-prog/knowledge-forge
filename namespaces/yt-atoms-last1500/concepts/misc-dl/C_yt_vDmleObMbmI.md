@@ -8,7 +8,7 @@ sources: [sources/S_yt_vDmleObMbmI.md]
 
 # C_yt_vDmleObMbmI — فكرة مشتركة في ذرات فيديو vDmleObMbmI
 
-لينك الطبقة: [[G_yt_vDmleObMbmI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vDmleObMbmI.md|G_yt_vDmleObMbmI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_ubndnlxlZOs.md]
 
 # C_yt_ubndnlxlZOs — مقطع منقول من مصدر قصير جداً (ubndnlxlZOs)
 
-لينك الطبقة: [[G_yt_ubndnlxlZOs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ubndnlxlZOs.md|G_yt_ubndnlxlZOs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uG7JUMPE53M.md]
 
 # C_yt_uG7JUMPE53M — فكرة مشتركة في ذرات فيديو uG7JUMPE53M
 
-لينك الطبقة: [[G_yt_uG7JUMPE53M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_uG7JUMPE53M.md|G_yt_uG7JUMPE53M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

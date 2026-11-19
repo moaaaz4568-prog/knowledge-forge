@@ -8,7 +8,7 @@ sources: [sources/S_yt_vnxtRDcoohw.md]
 
 # C_yt_vnxtRDcoohw — فكرة مشتركة في ذرات فيديو vnxtRDcoohw
 
-لينك الطبقة: [[G_yt_vnxtRDcoohw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vnxtRDcoohw.md|G_yt_vnxtRDcoohw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

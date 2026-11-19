@@ -8,7 +8,7 @@ sources: [sources/S_yt_zDOpnp_IQQA.md]
 
 # C_yt_zDOpnp_IQQA — فكرة مشتركة في ذرات فيديو zDOpnp_IQQA
 
-لينك الطبقة: [[G_yt_zDOpnp_IQQA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_zDOpnp_IQQA.md|G_yt_zDOpnp_IQQA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

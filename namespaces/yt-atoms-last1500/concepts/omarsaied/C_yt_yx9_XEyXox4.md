@@ -8,7 +8,7 @@ sources: [sources/S_yt_yx9_XEyXox4.md]
 
 # C_yt_yx9_XEyXox4 — فكرة مشتركة في ذرات فيديو yx9_XEyXox4
 
-لينك الطبقة: [[G_yt_yx9_XEyXox4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_yx9_XEyXox4.md|G_yt_yx9_XEyXox4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

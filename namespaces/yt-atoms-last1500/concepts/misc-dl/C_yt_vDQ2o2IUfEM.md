@@ -8,7 +8,7 @@ sources: [sources/S_yt_vDQ2o2IUfEM.md]
 
 # C_yt_vDQ2o2IUfEM — فكرة مشتركة في ذرات فيديو vDQ2o2IUfEM
 
-لينك الطبقة: [[G_yt_vDQ2o2IUfEM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vDQ2o2IUfEM.md|G_yt_vDQ2o2IUfEM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

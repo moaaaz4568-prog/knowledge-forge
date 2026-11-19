@@ -8,7 +8,7 @@ sources: [sources/S_yt_z3n_UVsceac.md]
 
 # C_yt_z3n_UVsceac — فكرة مشتركة في ذرات فيديو z3n_UVsceac
 
-لينك الطبقة: [[G_yt_z3n_UVsceac]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_z3n_UVsceac.md|G_yt_z3n_UVsceac]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xjw-tGTqDOo.md]
 
 # C_yt_xjw-tGTqDOo — فكرة مشتركة في ذرات فيديو xjw-tGTqDOo
 
-لينك الطبقة: [[G_yt_xjw-tGTqDOo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xjw-tGTqDOo.md|G_yt_xjw-tGTqDOo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

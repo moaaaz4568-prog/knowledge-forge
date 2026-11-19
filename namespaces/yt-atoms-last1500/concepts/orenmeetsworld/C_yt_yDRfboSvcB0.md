@@ -8,7 +8,7 @@ sources: [sources/S_yt_yDRfboSvcB0.md]
 
 # C_yt_yDRfboSvcB0 — فكرة مشتركة في ذرات فيديو yDRfboSvcB0
 
-لينك الطبقة: [[G_yt_yDRfboSvcB0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_yDRfboSvcB0.md|G_yt_yDRfboSvcB0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

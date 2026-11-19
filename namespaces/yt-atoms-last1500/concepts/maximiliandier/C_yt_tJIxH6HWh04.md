@@ -8,7 +8,7 @@ sources: [sources/S_yt_tJIxH6HWh04.md]
 
 # C_yt_tJIxH6HWh04 — فكرة مشتركة في ذرات فيديو tJIxH6HWh04
 
-لينك الطبقة: [[G_yt_tJIxH6HWh04]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_tJIxH6HWh04.md|G_yt_tJIxH6HWh04]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

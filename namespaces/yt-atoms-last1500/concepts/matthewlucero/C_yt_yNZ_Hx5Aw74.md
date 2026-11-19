@@ -8,7 +8,7 @@ sources: [sources/S_yt_yNZ_Hx5Aw74.md]
 
 # C_yt_yNZ_Hx5Aw74 — فكرة مشتركة في ذرات فيديو yNZ_Hx5Aw74
 
-لينك الطبقة: [[G_yt_yNZ_Hx5Aw74]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_yNZ_Hx5Aw74.md|G_yt_yNZ_Hx5Aw74]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

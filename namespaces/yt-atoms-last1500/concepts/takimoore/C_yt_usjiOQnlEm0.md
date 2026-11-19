@@ -8,7 +8,7 @@ sources: [sources/S_yt_usjiOQnlEm0.md]
 
 # C_yt_usjiOQnlEm0 — فكرة مشتركة في ذرات فيديو usjiOQnlEm0
 
-لينك الطبقة: [[G_yt_usjiOQnlEm0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_usjiOQnlEm0.md|G_yt_usjiOQnlEm0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

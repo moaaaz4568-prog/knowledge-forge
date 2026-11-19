@@ -8,7 +8,7 @@ sources: [sources/S_yt_y_7FH3vPN1M.md]
 
 # C_yt_y_7FH3vPN1M — فكرة مشتركة في ذرات فيديو y_7FH3vPN1M
 
-لينك الطبقة: [[G_yt_y_7FH3vPN1M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_y_7FH3vPN1M.md|G_yt_y_7FH3vPN1M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

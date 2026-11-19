@@ -8,7 +8,7 @@ sources: [sources/S_yt_uRulBM_fn44.md]
 
 # C_yt_uRulBM_fn44 — فكرة مشتركة في ذرات فيديو uRulBM_fn44
 
-لينك الطبقة: [[G_yt_uRulBM_fn44]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_uRulBM_fn44.md|G_yt_uRulBM_fn44]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

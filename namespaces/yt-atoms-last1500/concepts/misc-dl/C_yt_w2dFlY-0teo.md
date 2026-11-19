@@ -8,7 +8,7 @@ sources: [sources/S_yt_w2dFlY-0teo.md]
 
 # C_yt_w2dFlY-0teo — فكرة مشتركة في ذرات فيديو w2dFlY-0teo
 
-لينك الطبقة: [[G_yt_w2dFlY-0teo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w2dFlY-0teo.md|G_yt_w2dFlY-0teo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

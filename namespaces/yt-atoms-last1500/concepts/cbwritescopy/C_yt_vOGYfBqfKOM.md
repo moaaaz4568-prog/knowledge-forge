@@ -8,7 +8,7 @@ sources: [sources/S_yt_vOGYfBqfKOM.md]
 
 # C_yt_vOGYfBqfKOM — فكرة مشتركة في ذرات فيديو vOGYfBqfKOM
 
-لينك الطبقة: [[G_yt_vOGYfBqfKOM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_vOGYfBqfKOM.md|G_yt_vOGYfBqfKOM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

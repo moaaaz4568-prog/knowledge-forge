@@ -8,7 +8,7 @@ sources: [sources/S_yt_wsDHBvfxaDU.md]
 
 # C_yt_wsDHBvfxaDU — فكرة مشتركة في ذرات فيديو wsDHBvfxaDU
 
-لينك الطبقة: [[G_yt_wsDHBvfxaDU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wsDHBvfxaDU.md|G_yt_wsDHBvfxaDU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xJnk-IdrJ_4.md]
 
 # C_yt_xJnk-IdrJ_4 — فكرة مشتركة في ذرات فيديو xJnk-IdrJ_4
 
-لينك الطبقة: [[G_yt_xJnk-IdrJ_4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_xJnk-IdrJ_4.md|G_yt_xJnk-IdrJ_4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

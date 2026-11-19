@@ -8,7 +8,7 @@ sources: [sources/S_yt_vX_6UZ38Sk0.md]
 
 # C_yt_vX_6UZ38Sk0 — فكرة مشتركة في ذرات فيديو vX_6UZ38Sk0
 
-لينك الطبقة: [[G_yt_vX_6UZ38Sk0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vX_6UZ38Sk0.md|G_yt_vX_6UZ38Sk0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

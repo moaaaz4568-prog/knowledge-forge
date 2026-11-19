@@ -8,7 +8,7 @@ sources: [sources/S_yt_zeKUR3EE2Kc.md]
 
 # C_yt_zeKUR3EE2Kc — فكرة مشتركة في ذرات فيديو zeKUR3EE2Kc
 
-لينك الطبقة: [[G_yt_zeKUR3EE2Kc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zeKUR3EE2Kc.md|G_yt_zeKUR3EE2Kc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

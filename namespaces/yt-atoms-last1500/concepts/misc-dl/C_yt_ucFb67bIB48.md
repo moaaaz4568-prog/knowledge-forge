@@ -8,7 +8,7 @@ sources: [sources/S_yt_ucFb67bIB48.md]
 
 # C_yt_ucFb67bIB48 — فكرة مشتركة في ذرات فيديو ucFb67bIB48
 
-لينك الطبقة: [[G_yt_ucFb67bIB48]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ucFb67bIB48.md|G_yt_ucFb67bIB48]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

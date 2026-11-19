@@ -8,7 +8,7 @@ sources: [sources/S_yt_zzBuvk-kWCA.md]
 
 # C_yt_zzBuvk-kWCA — فكرة مشتركة في ذرات فيديو zzBuvk-kWCA
 
-لينك الطبقة: [[G_yt_zzBuvk-kWCA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_zzBuvk-kWCA.md|G_yt_zzBuvk-kWCA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

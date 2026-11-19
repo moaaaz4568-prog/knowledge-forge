@@ -8,7 +8,7 @@ sources: [sources/S_yt_yX5cYbj8nvE.md]
 
 # C_yt_yX5cYbj8nvE — فكرة مشتركة في ذرات فيديو yX5cYbj8nvE
 
-لينك الطبقة: [[G_yt_yX5cYbj8nvE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_yX5cYbj8nvE.md|G_yt_yX5cYbj8nvE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

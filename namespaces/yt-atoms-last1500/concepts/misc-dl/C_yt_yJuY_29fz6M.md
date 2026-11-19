@@ -8,7 +8,7 @@ sources: [sources/S_yt_yJuY_29fz6M.md]
 
 # C_yt_yJuY_29fz6M — فكرة مشتركة في ذرات فيديو yJuY_29fz6M
 
-لينك الطبقة: [[G_yt_yJuY_29fz6M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yJuY_29fz6M.md|G_yt_yJuY_29fz6M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

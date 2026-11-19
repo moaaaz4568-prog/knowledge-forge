@@ -8,7 +8,7 @@ sources: [sources/S_yt_zr37ibqXl1U.md]
 
 # C_yt_zr37ibqXl1U — فكرة مشتركة في ذرات فيديو zr37ibqXl1U
 
-لينك الطبقة: [[G_yt_zr37ibqXl1U]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zr37ibqXl1U.md|G_yt_zr37ibqXl1U]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

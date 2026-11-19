@@ -8,7 +8,7 @@ sources: [sources/S_yt_wpU4PX0fCr0.md]
 
 # C_yt_wpU4PX0fCr0 — فكرة مشتركة في ذرات فيديو wpU4PX0fCr0
 
-لينك الطبقة: [[G_yt_wpU4PX0fCr0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_wpU4PX0fCr0.md|G_yt_wpU4PX0fCr0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

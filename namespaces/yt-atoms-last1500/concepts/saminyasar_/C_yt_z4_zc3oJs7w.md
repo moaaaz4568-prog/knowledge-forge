@@ -8,7 +8,7 @@ sources: [sources/S_yt_z4_zc3oJs7w.md]
 
 # C_yt_z4_zc3oJs7w — فكرة مشتركة في ذرات فيديو z4_zc3oJs7w
 
-لينك الطبقة: [[G_yt_z4_zc3oJs7w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_z4_zc3oJs7w.md|G_yt_z4_zc3oJs7w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vSSVzC40ujc.md]
 
 # C_yt_vSSVzC40ujc — فكرة مشتركة في ذرات فيديو vSSVzC40ujc
 
-لينك الطبقة: [[G_yt_vSSVzC40ujc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vSSVzC40ujc.md|G_yt_vSSVzC40ujc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

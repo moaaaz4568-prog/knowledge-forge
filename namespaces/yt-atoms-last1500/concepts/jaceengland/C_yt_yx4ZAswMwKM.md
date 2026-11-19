@@ -8,7 +8,7 @@ sources: [sources/S_yt_yx4ZAswMwKM.md]
 
 # C_yt_yx4ZAswMwKM — مقطع منقول من مصدر قصير جداً (yx4ZAswMwKM)
 
-لينك الطبقة: [[G_yt_yx4ZAswMwKM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_yx4ZAswMwKM.md|G_yt_yx4ZAswMwKM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

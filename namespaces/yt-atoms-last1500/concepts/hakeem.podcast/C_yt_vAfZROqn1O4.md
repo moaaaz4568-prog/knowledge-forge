@@ -8,7 +8,7 @@ sources: [sources/S_yt_vAfZROqn1O4.md]
 
 # C_yt_vAfZROqn1O4 — فكرة مشتركة في ذرات فيديو vAfZROqn1O4
 
-لينك الطبقة: [[G_yt_vAfZROqn1O4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_vAfZROqn1O4.md|G_yt_vAfZROqn1O4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

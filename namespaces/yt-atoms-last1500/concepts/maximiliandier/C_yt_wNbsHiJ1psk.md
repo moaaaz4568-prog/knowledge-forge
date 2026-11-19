@@ -8,7 +8,7 @@ sources: [sources/S_yt_wNbsHiJ1psk.md]
 
 # C_yt_wNbsHiJ1psk — فكرة مشتركة في ذرات فيديو wNbsHiJ1psk
 
-لينك الطبقة: [[G_yt_wNbsHiJ1psk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_wNbsHiJ1psk.md|G_yt_wNbsHiJ1psk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

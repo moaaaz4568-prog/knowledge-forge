@@ -8,7 +8,7 @@ sources: [sources/S_yt_tGpNqBL-U_E.md]
 
 # C_yt_tGpNqBL-U_E — فكرة مشتركة في ذرات فيديو tGpNqBL-U_E
 
-لينك الطبقة: [[G_yt_tGpNqBL-U_E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tGpNqBL-U_E.md|G_yt_tGpNqBL-U_E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

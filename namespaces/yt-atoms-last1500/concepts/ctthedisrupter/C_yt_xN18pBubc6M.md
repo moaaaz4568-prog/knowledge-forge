@@ -8,7 +8,7 @@ sources: [sources/S_yt_xN18pBubc6M.md]
 
 # C_yt_xN18pBubc6M — فكرة مشتركة في ذرات فيديو xN18pBubc6M
 
-لينك الطبقة: [[G_yt_xN18pBubc6M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xN18pBubc6M.md|G_yt_xN18pBubc6M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

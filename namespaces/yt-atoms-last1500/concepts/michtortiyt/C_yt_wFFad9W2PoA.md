@@ -8,7 +8,7 @@ sources: [sources/S_yt_wFFad9W2PoA.md]
 
 # C_yt_wFFad9W2PoA — فكرة مشتركة في ذرات فيديو wFFad9W2PoA
 
-لينك الطبقة: [[G_yt_wFFad9W2PoA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_wFFad9W2PoA.md|G_yt_wFFad9W2PoA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

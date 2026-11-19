@@ -8,7 +8,7 @@ sources: [sources/S_yt_xF4VWAm3LV8.md]
 
 # C_yt_xF4VWAm3LV8 — فكرة مشتركة في ذرات فيديو xF4VWAm3LV8
 
-لينك الطبقة: [[G_yt_xF4VWAm3LV8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xF4VWAm3LV8.md|G_yt_xF4VWAm3LV8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

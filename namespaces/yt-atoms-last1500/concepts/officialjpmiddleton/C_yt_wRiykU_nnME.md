@@ -8,7 +8,7 @@ sources: [sources/S_yt_wRiykU_nnME.md]
 
 # C_yt_wRiykU_nnME — فكرة مشتركة في ذرات فيديو wRiykU_nnME
 
-لينك الطبقة: [[G_yt_wRiykU_nnME]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_wRiykU_nnME.md|G_yt_wRiykU_nnME]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

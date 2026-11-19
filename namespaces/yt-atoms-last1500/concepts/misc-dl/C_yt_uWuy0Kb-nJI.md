@@ -8,7 +8,7 @@ sources: [sources/S_yt_uWuy0Kb-nJI.md]
 
 # C_yt_uWuy0Kb-nJI — فكرة مشتركة في ذرات فيديو uWuy0Kb-nJI
 
-لينك الطبقة: [[G_yt_uWuy0Kb-nJI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uWuy0Kb-nJI.md|G_yt_uWuy0Kb-nJI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wjTe55SfH0s.md]
 
 # C_yt_wjTe55SfH0s — فكرة مشتركة في ذرات فيديو wjTe55SfH0s
 
-لينك الطبقة: [[G_yt_wjTe55SfH0s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_wjTe55SfH0s.md|G_yt_wjTe55SfH0s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

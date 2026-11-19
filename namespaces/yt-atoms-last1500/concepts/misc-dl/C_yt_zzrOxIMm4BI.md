@@ -8,7 +8,7 @@ sources: [sources/S_yt_zzrOxIMm4BI.md]
 
 # C_yt_zzrOxIMm4BI — فكرة مشتركة في ذرات فيديو zzrOxIMm4BI
 
-لينك الطبقة: [[G_yt_zzrOxIMm4BI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zzrOxIMm4BI.md|G_yt_zzrOxIMm4BI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_u9iNqAinoIg.md]
 
 # C_yt_u9iNqAinoIg — فكرة مشتركة في ذرات فيديو u9iNqAinoIg
 
-لينك الطبقة: [[G_yt_u9iNqAinoIg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_u9iNqAinoIg.md|G_yt_u9iNqAinoIg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xKrEsFT-Vw4.md]
 
 # C_yt_xKrEsFT-Vw4 — فكرة مشتركة في ذرات فيديو xKrEsFT-Vw4
 
-لينك الطبقة: [[G_yt_xKrEsFT-Vw4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xKrEsFT-Vw4.md|G_yt_xKrEsFT-Vw4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

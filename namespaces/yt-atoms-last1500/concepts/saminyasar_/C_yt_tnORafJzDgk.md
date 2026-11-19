@@ -8,7 +8,7 @@ sources: [sources/S_yt_tnORafJzDgk.md]
 
 # C_yt_tnORafJzDgk — مقطع منقول من مصدر قصير جداً (tnORafJzDgk)
 
-لينك الطبقة: [[G_yt_tnORafJzDgk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_tnORafJzDgk.md|G_yt_tnORafJzDgk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

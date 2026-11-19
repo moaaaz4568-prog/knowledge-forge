@@ -8,7 +8,7 @@ sources: [sources/S_yt_wogx9czrG28b.md]
 
 # C_yt_wogx9czrG28b — فكرة مشتركة في ذرات فيديو wogx9czrG28b
 
-لينك الطبقة: [[G_yt_wogx9czrG28b]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_wogx9czrG28b.md|G_yt_wogx9czrG28b]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

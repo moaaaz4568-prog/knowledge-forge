@@ -8,7 +8,7 @@ sources: [sources/S_yt_uD4Aidlm2Gs.md]
 
 # C_yt_uD4Aidlm2Gs — فكرة مشتركة في ذرات فيديو uD4Aidlm2Gs
 
-لينك الطبقة: [[G_yt_uD4Aidlm2Gs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_uD4Aidlm2Gs.md|G_yt_uD4Aidlm2Gs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

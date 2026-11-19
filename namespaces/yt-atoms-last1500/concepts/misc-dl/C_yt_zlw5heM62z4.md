@@ -8,7 +8,7 @@ sources: [sources/S_yt_zlw5heM62z4.md]
 
 # C_yt_zlw5heM62z4 — فكرة مشتركة في ذرات فيديو zlw5heM62z4
 
-لينك الطبقة: [[G_yt_zlw5heM62z4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zlw5heM62z4.md|G_yt_zlw5heM62z4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vyX-4ACMmp0.md]
 
 # C_yt_vyX-4ACMmp0 — فكرة مشتركة في ذرات فيديو vyX-4ACMmp0
 
-لينك الطبقة: [[G_yt_vyX-4ACMmp0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_vyX-4ACMmp0.md|G_yt_vyX-4ACMmp0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xSsXPg9asdA.md]
 
 # C_yt_xSsXPg9asdA — فكرة مشتركة في ذرات فيديو xSsXPg9asdA
 
-لينك الطبقة: [[G_yt_xSsXPg9asdA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xSsXPg9asdA.md|G_yt_xSsXPg9asdA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

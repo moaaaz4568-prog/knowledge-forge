@@ -8,7 +8,7 @@ sources: [sources/S_yt_ysQTQtvaIMI.md]
 
 # C_yt_ysQTQtvaIMI — فكرة مشتركة في ذرات فيديو ysQTQtvaIMI
 
-لينك الطبقة: [[G_yt_ysQTQtvaIMI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ysQTQtvaIMI.md|G_yt_ysQTQtvaIMI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xyQ5HqqM4-kb.md]
 
 # C_yt_xyQ5HqqM4-kb — فكرة مشتركة في ذرات فيديو xyQ5HqqM4-kb
 
-لينك الطبقة: [[G_yt_xyQ5HqqM4-kb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xyQ5HqqM4-kb.md|G_yt_xyQ5HqqM4-kb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

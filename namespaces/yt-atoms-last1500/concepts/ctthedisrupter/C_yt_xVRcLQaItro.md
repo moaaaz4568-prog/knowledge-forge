@@ -8,7 +8,7 @@ sources: [sources/S_yt_xVRcLQaItro.md]
 
 # C_yt_xVRcLQaItro — فكرة مشتركة في ذرات فيديو xVRcLQaItro
 
-لينك الطبقة: [[G_yt_xVRcLQaItro]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xVRcLQaItro.md|G_yt_xVRcLQaItro]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

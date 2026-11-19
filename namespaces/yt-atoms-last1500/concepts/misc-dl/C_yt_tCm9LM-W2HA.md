@@ -8,7 +8,7 @@ sources: [sources/S_yt_tCm9LM-W2HA.md]
 
 # C_yt_tCm9LM-W2HA — فكرة مشتركة في ذرات فيديو tCm9LM-W2HA
 
-لينك الطبقة: [[G_yt_tCm9LM-W2HA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tCm9LM-W2HA.md|G_yt_tCm9LM-W2HA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

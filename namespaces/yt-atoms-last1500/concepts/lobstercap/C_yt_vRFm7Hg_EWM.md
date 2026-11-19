@@ -8,7 +8,7 @@ sources: [sources/S_yt_vRFm7Hg_EWM.md]
 
 # C_yt_vRFm7Hg_EWM — فكرة مشتركة في ذرات فيديو vRFm7Hg_EWM
 
-لينك الطبقة: [[G_yt_vRFm7Hg_EWM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_vRFm7Hg_EWM.md|G_yt_vRFm7Hg_EWM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

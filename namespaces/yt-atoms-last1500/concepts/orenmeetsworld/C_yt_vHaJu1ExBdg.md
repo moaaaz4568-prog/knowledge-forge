@@ -8,7 +8,7 @@ sources: [sources/S_yt_vHaJu1ExBdg.md]
 
 # C_yt_vHaJu1ExBdg — فكرة مشتركة في ذرات فيديو vHaJu1ExBdg
 
-لينك الطبقة: [[G_yt_vHaJu1ExBdg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_vHaJu1ExBdg.md|G_yt_vHaJu1ExBdg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_w6-86AfjEcw.md]
 
 # C_yt_w6-86AfjEcw — فكرة مشتركة في ذرات فيديو w6-86AfjEcw
 
-لينك الطبقة: [[G_yt_w6-86AfjEcw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_w6-86AfjEcw.md|G_yt_w6-86AfjEcw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

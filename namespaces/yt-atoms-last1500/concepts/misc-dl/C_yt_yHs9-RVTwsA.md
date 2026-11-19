@@ -8,7 +8,7 @@ sources: [sources/S_yt_yHs9-RVTwsA.md]
 
 # C_yt_yHs9-RVTwsA — فكرة مشتركة في ذرات فيديو yHs9-RVTwsA
 
-لينك الطبقة: [[G_yt_yHs9-RVTwsA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yHs9-RVTwsA.md|G_yt_yHs9-RVTwsA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

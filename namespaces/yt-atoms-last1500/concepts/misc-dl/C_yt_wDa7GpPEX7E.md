@@ -8,7 +8,7 @@ sources: [sources/S_yt_wDa7GpPEX7E.md]
 
 # C_yt_wDa7GpPEX7E — فكرة مشتركة في ذرات فيديو wDa7GpPEX7E
 
-لينك الطبقة: [[G_yt_wDa7GpPEX7E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wDa7GpPEX7E.md|G_yt_wDa7GpPEX7E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_ytAK7DD5yxI.md]
 
 # C_yt_ytAK7DD5yxI — فكرة مشتركة في ذرات فيديو ytAK7DD5yxI
 
-لينك الطبقة: [[G_yt_ytAK7DD5yxI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ytAK7DD5yxI.md|G_yt_ytAK7DD5yxI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

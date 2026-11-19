@@ -8,7 +8,7 @@ sources: [sources/S_yt_xEAGAKE0z_8.md]
 
 # C_yt_xEAGAKE0z_8 — فكرة مشتركة في ذرات فيديو xEAGAKE0z_8
 
-لينك الطبقة: [[G_yt_xEAGAKE0z_8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xEAGAKE0z_8.md|G_yt_xEAGAKE0z_8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

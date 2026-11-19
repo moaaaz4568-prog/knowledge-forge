@@ -8,7 +8,7 @@ sources: [sources/S_yt_tVMHEr2OtY8.md]
 
 # C_yt_tVMHEr2OtY8 — فكرة مشتركة في ذرات فيديو tVMHEr2OtY8
 
-لينك الطبقة: [[G_yt_tVMHEr2OtY8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tVMHEr2OtY8.md|G_yt_tVMHEr2OtY8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

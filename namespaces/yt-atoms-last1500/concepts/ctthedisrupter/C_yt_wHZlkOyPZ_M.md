@@ -8,7 +8,7 @@ sources: [sources/S_yt_wHZlkOyPZ_M.md]
 
 # C_yt_wHZlkOyPZ_M — فكرة مشتركة في ذرات فيديو wHZlkOyPZ_M
 
-لينك الطبقة: [[G_yt_wHZlkOyPZ_M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wHZlkOyPZ_M.md|G_yt_wHZlkOyPZ_M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

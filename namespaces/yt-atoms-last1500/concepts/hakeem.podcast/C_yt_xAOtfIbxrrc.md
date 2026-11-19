@@ -8,7 +8,7 @@ sources: [sources/S_yt_xAOtfIbxrrc.md]
 
 # C_yt_xAOtfIbxrrc — فكرة مشتركة في ذرات فيديو xAOtfIbxrrc
 
-لينك الطبقة: [[G_yt_xAOtfIbxrrc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_xAOtfIbxrrc.md|G_yt_xAOtfIbxrrc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

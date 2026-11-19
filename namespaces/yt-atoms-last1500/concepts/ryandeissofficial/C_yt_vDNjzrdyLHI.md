@@ -8,7 +8,7 @@ sources: [sources/S_yt_vDNjzrdyLHI.md]
 
 # C_yt_vDNjzrdyLHI — فكرة مشتركة في ذرات فيديو vDNjzrdyLHI
 
-لينك الطبقة: [[G_yt_vDNjzrdyLHI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_vDNjzrdyLHI.md|G_yt_vDNjzrdyLHI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

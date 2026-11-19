@@ -8,7 +8,7 @@ sources: [sources/S_yt_wbLB4yBEBSU.md]
 
 # C_yt_wbLB4yBEBSU — فكرة مشتركة في ذرات فيديو wbLB4yBEBSU
 
-لينك الطبقة: [[G_yt_wbLB4yBEBSU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/farestoson.1/G_wbLB4yBEBSU.md|G_yt_wbLB4yBEBSU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

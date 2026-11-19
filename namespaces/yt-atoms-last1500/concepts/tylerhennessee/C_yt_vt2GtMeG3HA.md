@@ -8,7 +8,7 @@ sources: [sources/S_yt_vt2GtMeG3HA.md]
 
 # C_yt_vt2GtMeG3HA — فكرة مشتركة في ذرات فيديو vt2GtMeG3HA
 
-لينك الطبقة: [[G_yt_vt2GtMeG3HA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vt2GtMeG3HA.md|G_yt_vt2GtMeG3HA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

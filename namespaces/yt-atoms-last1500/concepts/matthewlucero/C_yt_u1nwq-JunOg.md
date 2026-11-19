@@ -8,7 +8,7 @@ sources: [sources/S_yt_u1nwq-JunOg.md]
 
 # C_yt_u1nwq-JunOg — فكرة مشتركة في ذرات فيديو u1nwq-JunOg
 
-لينك الطبقة: [[G_yt_u1nwq-JunOg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_u1nwq-JunOg.md|G_yt_u1nwq-JunOg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

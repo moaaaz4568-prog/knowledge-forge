@@ -8,7 +8,7 @@ sources: [sources/S_yt_wRLlZ71yed4.md]
 
 # C_yt_wRLlZ71yed4 — فكرة مشتركة في ذرات فيديو wRLlZ71yed4
 
-لينك الطبقة: [[G_yt_wRLlZ71yed4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_wRLlZ71yed4.md|G_yt_wRLlZ71yed4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

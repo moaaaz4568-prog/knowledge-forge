@@ -8,7 +8,7 @@ sources: [sources/S_yt_wrWaz6mgfDc.md]
 
 # C_yt_wrWaz6mgfDc — فكرة مشتركة في ذرات فيديو wrWaz6mgfDc
 
-لينك الطبقة: [[G_yt_wrWaz6mgfDc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_wrWaz6mgfDc.md|G_yt_wrWaz6mgfDc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

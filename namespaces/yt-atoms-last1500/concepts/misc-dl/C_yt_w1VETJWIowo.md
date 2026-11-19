@@ -8,7 +8,7 @@ sources: [sources/S_yt_w1VETJWIowo.md]
 
 # C_yt_w1VETJWIowo — فكرة مشتركة في ذرات فيديو w1VETJWIowo
 
-لينك الطبقة: [[G_yt_w1VETJWIowo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w1VETJWIowo.md|G_yt_w1VETJWIowo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

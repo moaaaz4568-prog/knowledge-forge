@@ -8,7 +8,7 @@ sources: [sources/S_yt_w3jisoxVOEg.md]
 
 # C_yt_w3jisoxVOEg — فكرة مشتركة في ذرات فيديو w3jisoxVOEg
 
-لينك الطبقة: [[G_yt_w3jisoxVOEg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w3jisoxVOEg.md|G_yt_w3jisoxVOEg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

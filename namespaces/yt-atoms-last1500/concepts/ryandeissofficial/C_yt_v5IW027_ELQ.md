@@ -8,7 +8,7 @@ sources: [sources/S_yt_v5IW027_ELQ.md]
 
 # C_yt_v5IW027_ELQ — فكرة مشتركة في ذرات فيديو v5IW027_ELQ
 
-لينك الطبقة: [[G_yt_v5IW027_ELQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_v5IW027_ELQ.md|G_yt_v5IW027_ELQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

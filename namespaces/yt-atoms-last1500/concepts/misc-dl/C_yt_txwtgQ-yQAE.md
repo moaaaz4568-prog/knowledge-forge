@@ -8,7 +8,7 @@ sources: [sources/S_yt_txwtgQ-yQAE.md]
 
 # C_yt_txwtgQ-yQAE — فكرة مشتركة في ذرات فيديو txwtgQ-yQAE
 
-لينك الطبقة: [[G_yt_txwtgQ-yQAE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_txwtgQ-yQAE.md|G_yt_txwtgQ-yQAE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yGPu0f2POtQ.md]
 
 # C_yt_yGPu0f2POtQ — فكرة مشتركة في ذرات فيديو yGPu0f2POtQ
 
-لينك الطبقة: [[G_yt_yGPu0f2POtQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alaamjaish/G_yGPu0f2POtQ.md|G_yt_yGPu0f2POtQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

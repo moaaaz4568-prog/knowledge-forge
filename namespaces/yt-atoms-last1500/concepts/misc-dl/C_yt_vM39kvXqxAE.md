@@ -8,7 +8,7 @@ sources: [sources/S_yt_vM39kvXqxAE.md]
 
 # C_yt_vM39kvXqxAE — فكرة مشتركة في ذرات فيديو vM39kvXqxAE
 
-لينك الطبقة: [[G_yt_vM39kvXqxAE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vM39kvXqxAE.md|G_yt_vM39kvXqxAE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

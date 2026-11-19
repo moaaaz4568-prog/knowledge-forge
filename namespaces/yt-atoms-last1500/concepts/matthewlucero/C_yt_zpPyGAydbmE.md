@@ -8,7 +8,7 @@ sources: [sources/S_yt_zpPyGAydbmE.md]
 
 # C_yt_zpPyGAydbmE — فكرة مشتركة في ذرات فيديو zpPyGAydbmE
 
-لينك الطبقة: [[G_yt_zpPyGAydbmE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_zpPyGAydbmE.md|G_yt_zpPyGAydbmE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

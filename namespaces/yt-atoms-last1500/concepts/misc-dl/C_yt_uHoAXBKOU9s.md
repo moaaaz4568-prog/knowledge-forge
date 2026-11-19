@@ -8,7 +8,7 @@ sources: [sources/S_yt_uHoAXBKOU9s.md]
 
 # C_yt_uHoAXBKOU9s — فكرة مشتركة في ذرات فيديو uHoAXBKOU9s
 
-لينك الطبقة: [[G_yt_uHoAXBKOU9s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uHoAXBKOU9s.md|G_yt_uHoAXBKOU9s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

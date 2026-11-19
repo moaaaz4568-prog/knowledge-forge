@@ -8,7 +8,7 @@ sources: [sources/S_yt_wLJ40GV2XEc.md]
 
 # C_yt_wLJ40GV2XEc — فكرة مشتركة في ذرات فيديو wLJ40GV2XEc
 
-لينك الطبقة: [[G_yt_wLJ40GV2XEc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wLJ40GV2XEc.md|G_yt_wLJ40GV2XEc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

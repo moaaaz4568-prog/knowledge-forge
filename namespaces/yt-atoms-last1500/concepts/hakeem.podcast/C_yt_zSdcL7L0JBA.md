@@ -8,7 +8,7 @@ sources: [sources/S_yt_zSdcL7L0JBA.md]
 
 # C_yt_zSdcL7L0JBA — فكرة مشتركة في ذرات فيديو zSdcL7L0JBA
 
-لينك الطبقة: [[G_yt_zSdcL7L0JBA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_zSdcL7L0JBA.md|G_yt_zSdcL7L0JBA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

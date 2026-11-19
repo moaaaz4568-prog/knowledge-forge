@@ -8,7 +8,7 @@ sources: [sources/S_yt_zl7xs4_oGYI.md]
 
 # C_yt_zl7xs4_oGYI — فكرة مشتركة في ذرات فيديو zl7xs4_oGYI
 
-لينك الطبقة: [[G_yt_zl7xs4_oGYI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zl7xs4_oGYI.md|G_yt_zl7xs4_oGYI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

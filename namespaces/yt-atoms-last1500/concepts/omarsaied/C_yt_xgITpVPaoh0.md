@@ -8,7 +8,7 @@ sources: [sources/S_yt_xgITpVPaoh0.md]
 
 # C_yt_xgITpVPaoh0 — فكرة مشتركة في ذرات فيديو xgITpVPaoh0
 
-لينك الطبقة: [[G_yt_xgITpVPaoh0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_xgITpVPaoh0.md|G_yt_xgITpVPaoh0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

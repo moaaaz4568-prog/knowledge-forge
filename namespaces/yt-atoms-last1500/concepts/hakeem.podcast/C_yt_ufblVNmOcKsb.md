@@ -8,7 +8,7 @@ sources: [sources/S_yt_ufblVNmOcKsb.md]
 
 # C_yt_ufblVNmOcKsb — فكرة مشتركة في ذرات فيديو ufblVNmOcKsb
 
-لينك الطبقة: [[G_yt_ufblVNmOcKsb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_ufblVNmOcKsb.md|G_yt_ufblVNmOcKsb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

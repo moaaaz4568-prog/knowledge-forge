@@ -8,7 +8,7 @@ sources: [sources/S_yt_wBaTNvs8enw.md]
 
 # C_yt_wBaTNvs8enw — فكرة مشتركة في ذرات فيديو wBaTNvs8enw
 
-لينك الطبقة: [[G_yt_wBaTNvs8enw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wBaTNvs8enw.md|G_yt_wBaTNvs8enw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

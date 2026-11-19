@@ -8,7 +8,7 @@ sources: [sources/S_yt_tsuvTmiAibQ.md]
 
 # C_yt_tsuvTmiAibQ — فكرة مشتركة في ذرات فيديو tsuvTmiAibQ
 
-لينك الطبقة: [[G_yt_tsuvTmiAibQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_tsuvTmiAibQ.md|G_yt_tsuvTmiAibQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

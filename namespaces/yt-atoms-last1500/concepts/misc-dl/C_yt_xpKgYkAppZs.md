@@ -8,7 +8,7 @@ sources: [sources/S_yt_xpKgYkAppZs.md]
 
 # C_yt_xpKgYkAppZs — فكرة مشتركة في ذرات فيديو xpKgYkAppZs
 
-لينك الطبقة: [[G_yt_xpKgYkAppZs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xpKgYkAppZs.md|G_yt_xpKgYkAppZs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

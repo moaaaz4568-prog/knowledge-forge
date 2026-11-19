@@ -8,7 +8,7 @@ sources: [sources/S_yt_uZIMscnAqBQ.md]
 
 # C_yt_uZIMscnAqBQ — فكرة مشتركة في ذرات فيديو uZIMscnAqBQ
 
-لينك الطبقة: [[G_yt_uZIMscnAqBQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uZIMscnAqBQ.md|G_yt_uZIMscnAqBQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

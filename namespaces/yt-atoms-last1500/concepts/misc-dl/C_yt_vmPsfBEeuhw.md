@@ -8,7 +8,7 @@ sources: [sources/S_yt_vmPsfBEeuhw.md]
 
 # C_yt_vmPsfBEeuhw — فكرة مشتركة في ذرات فيديو vmPsfBEeuhw
 
-لينك الطبقة: [[G_yt_vmPsfBEeuhw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vmPsfBEeuhw.md|G_yt_vmPsfBEeuhw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xtIRsCOXBlA.md]
 
 # C_yt_xtIRsCOXBlA — فكرة مشتركة في ذرات فيديو xtIRsCOXBlA
 
-لينك الطبقة: [[G_yt_xtIRsCOXBlA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xtIRsCOXBlA.md|G_yt_xtIRsCOXBlA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

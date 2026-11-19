@@ -8,7 +8,7 @@ sources: [sources/S_yt_zndK15DbFtU.md]
 
 # C_yt_zndK15DbFtU — فكرة مشتركة في ذرات فيديو zndK15DbFtU
 
-لينك الطبقة: [[G_yt_zndK15DbFtU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zndK15DbFtU.md|G_yt_zndK15DbFtU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

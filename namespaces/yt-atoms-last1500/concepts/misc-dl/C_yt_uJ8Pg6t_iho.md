@@ -8,7 +8,7 @@ sources: [sources/S_yt_uJ8Pg6t_iho.md]
 
 # C_yt_uJ8Pg6t_iho — فكرة مشتركة في ذرات فيديو uJ8Pg6t_iho
 
-لينك الطبقة: [[G_yt_uJ8Pg6t_iho]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uJ8Pg6t_iho.md|G_yt_uJ8Pg6t_iho]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

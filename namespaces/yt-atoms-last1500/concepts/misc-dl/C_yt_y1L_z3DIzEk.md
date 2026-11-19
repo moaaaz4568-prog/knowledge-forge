@@ -8,7 +8,7 @@ sources: [sources/S_yt_y1L_z3DIzEk.md]
 
 # C_yt_y1L_z3DIzEk — فكرة مشتركة في ذرات فيديو y1L_z3DIzEk
 
-لينك الطبقة: [[G_yt_y1L_z3DIzEk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y1L_z3DIzEk.md|G_yt_y1L_z3DIzEk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

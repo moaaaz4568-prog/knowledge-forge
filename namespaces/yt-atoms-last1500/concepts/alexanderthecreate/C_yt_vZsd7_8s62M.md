@@ -8,7 +8,7 @@ sources: [sources/S_yt_vZsd7_8s62M.md]
 
 # C_yt_vZsd7_8s62M — فكرة مشتركة في ذرات فيديو vZsd7_8s62M
 
-لينك الطبقة: [[G_yt_vZsd7_8s62M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_vZsd7_8s62M.md|G_yt_vZsd7_8s62M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

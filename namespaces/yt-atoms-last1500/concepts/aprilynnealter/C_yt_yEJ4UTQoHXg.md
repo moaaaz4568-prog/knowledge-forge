@@ -8,7 +8,7 @@ sources: [sources/S_yt_yEJ4UTQoHXg.md]
 
 # C_yt_yEJ4UTQoHXg — فكرة مشتركة في ذرات فيديو yEJ4UTQoHXg
 
-لينك الطبقة: [[G_yt_yEJ4UTQoHXg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/aprilynnealter/G_yEJ4UTQoHXg.md|G_yt_yEJ4UTQoHXg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yCdtPosEISI.md]
 
 # C_yt_yCdtPosEISI — فكرة مشتركة في ذرات فيديو yCdtPosEISI
 
-لينك الطبقة: [[G_yt_yCdtPosEISI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_yCdtPosEISI.md|G_yt_yCdtPosEISI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

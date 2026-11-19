@@ -8,7 +8,7 @@ sources: [sources/S_yt_tZFV5DP2OcU.md]
 
 # C_yt_tZFV5DP2OcU — فكرة مشتركة في ذرات فيديو tZFV5DP2OcU
 
-لينك الطبقة: [[G_yt_tZFV5DP2OcU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_tZFV5DP2OcU.md|G_yt_tZFV5DP2OcU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

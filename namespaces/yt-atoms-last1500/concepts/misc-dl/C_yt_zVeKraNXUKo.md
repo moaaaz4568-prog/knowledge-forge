@@ -8,7 +8,7 @@ sources: [sources/S_yt_zVeKraNXUKo.md]
 
 # C_yt_zVeKraNXUKo — فكرة مشتركة في ذرات فيديو zVeKraNXUKo
 
-لينك الطبقة: [[G_yt_zVeKraNXUKo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zVeKraNXUKo.md|G_yt_zVeKraNXUKo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

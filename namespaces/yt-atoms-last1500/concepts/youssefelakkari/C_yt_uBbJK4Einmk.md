@@ -8,7 +8,7 @@ sources: [sources/S_yt_uBbJK4Einmk.md]
 
 # C_yt_uBbJK4Einmk — فكرة مشتركة في ذرات فيديو uBbJK4Einmk
 
-لينك الطبقة: [[G_yt_uBbJK4Einmk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_uBbJK4Einmk.md|G_yt_uBbJK4Einmk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

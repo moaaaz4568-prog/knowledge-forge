@@ -8,7 +8,7 @@ sources: [sources/S_yt_zyhklHaDd-I.md]
 
 # C_yt_zyhklHaDd-I — فكرة مشتركة في ذرات فيديو zyhklHaDd-I
 
-لينك الطبقة: [[G_yt_zyhklHaDd-I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_zyhklHaDd-I.md|G_yt_zyhklHaDd-I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

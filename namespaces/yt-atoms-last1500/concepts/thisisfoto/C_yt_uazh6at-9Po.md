@@ -8,7 +8,7 @@ sources: [sources/S_yt_uazh6at-9Po.md]
 
 # C_yt_uazh6at-9Po — فكرة مشتركة في ذرات فيديو uazh6at-9Po
 
-لينك الطبقة: [[G_yt_uazh6at-9Po]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thisisfoto/G_uazh6at-9Po.md|G_yt_uazh6at-9Po]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

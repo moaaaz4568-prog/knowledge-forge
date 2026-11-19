@@ -8,7 +8,7 @@ sources: [sources/S_yt_wJR_OflVbdw.md]
 
 # C_yt_wJR_OflVbdw — فكرة مشتركة في ذرات فيديو wJR_OflVbdw
 
-لينك الطبقة: [[G_yt_wJR_OflVbdw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_wJR_OflVbdw.md|G_yt_wJR_OflVbdw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zHwehZPFkgY.md]
 
 # C_yt_zHwehZPFkgY — فكرة مشتركة في ذرات فيديو zHwehZPFkgY
 
-لينك الطبقة: [[G_yt_zHwehZPFkgY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_zHwehZPFkgY.md|G_yt_zHwehZPFkgY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

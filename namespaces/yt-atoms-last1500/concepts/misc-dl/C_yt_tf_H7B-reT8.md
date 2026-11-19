@@ -8,7 +8,7 @@ sources: [sources/S_yt_tf_H7B-reT8.md]
 
 # C_yt_tf_H7B-reT8 — فكرة مشتركة في ذرات فيديو tf_H7B-reT8
 
-لينك الطبقة: [[G_yt_tf_H7B-reT8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tf_H7B-reT8.md|G_yt_tf_H7B-reT8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

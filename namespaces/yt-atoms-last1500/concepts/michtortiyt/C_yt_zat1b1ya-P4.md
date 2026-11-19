@@ -8,7 +8,7 @@ sources: [sources/S_yt_zat1b1ya-P4.md]
 
 # C_yt_zat1b1ya-P4 — فكرة مشتركة في ذرات فيديو zat1b1ya-P4
 
-لينك الطبقة: [[G_yt_zat1b1ya-P4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zat1b1ya-P4.md|G_yt_zat1b1ya-P4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

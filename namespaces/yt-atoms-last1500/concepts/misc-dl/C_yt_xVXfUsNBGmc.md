@@ -8,7 +8,7 @@ sources: [sources/S_yt_xVXfUsNBGmc.md]
 
 # C_yt_xVXfUsNBGmc — فكرة مشتركة في ذرات فيديو xVXfUsNBGmc
 
-لينك الطبقة: [[G_yt_xVXfUsNBGmc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xVXfUsNBGmc.md|G_yt_xVXfUsNBGmc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

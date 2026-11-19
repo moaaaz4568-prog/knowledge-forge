@@ -8,7 +8,7 @@ sources: [sources/S_yt_uGESQQeW9vE.md]
 
 # C_yt_uGESQQeW9vE — فكرة مشتركة في ذرات فيديو uGESQQeW9vE
 
-لينك الطبقة: [[G_yt_uGESQQeW9vE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uGESQQeW9vE.md|G_yt_uGESQQeW9vE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xUMN-LcnVFs.md]
 
 # C_yt_xUMN-LcnVFs — فكرة مشتركة في ذرات فيديو xUMN-LcnVFs
 
-لينك الطبقة: [[G_yt_xUMN-LcnVFs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xUMN-LcnVFs.md|G_yt_xUMN-LcnVFs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xDmj9l45Rjg.md]
 
 # C_yt_xDmj9l45Rjg — مقطع منقول من مصدر قصير جداً (xDmj9l45Rjg)
 
-لينك الطبقة: [[G_yt_xDmj9l45Rjg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_xDmj9l45Rjg.md|G_yt_xDmj9l45Rjg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

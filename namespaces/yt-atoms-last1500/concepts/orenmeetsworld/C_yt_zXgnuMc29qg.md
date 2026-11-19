@@ -8,7 +8,7 @@ sources: [sources/S_yt_zXgnuMc29qg.md]
 
 # C_yt_zXgnuMc29qg — فكرة مشتركة في ذرات فيديو zXgnuMc29qg
 
-لينك الطبقة: [[G_yt_zXgnuMc29qg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zXgnuMc29qg.md|G_yt_zXgnuMc29qg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

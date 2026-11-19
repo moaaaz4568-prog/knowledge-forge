@@ -8,7 +8,7 @@ sources: [sources/S_yt_tKWl2p9gVWk.md]
 
 # C_yt_tKWl2p9gVWk — فكرة مشتركة في ذرات فيديو tKWl2p9gVWk
 
-لينك الطبقة: [[G_yt_tKWl2p9gVWk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_tKWl2p9gVWk.md|G_yt_tKWl2p9gVWk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

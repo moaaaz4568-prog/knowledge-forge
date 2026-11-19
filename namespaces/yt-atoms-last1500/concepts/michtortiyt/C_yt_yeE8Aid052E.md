@@ -8,7 +8,7 @@ sources: [sources/S_yt_yeE8Aid052E.md]
 
 # C_yt_yeE8Aid052E — فكرة مشتركة في ذرات فيديو yeE8Aid052E
 
-لينك الطبقة: [[G_yt_yeE8Aid052E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_yeE8Aid052E.md|G_yt_yeE8Aid052E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

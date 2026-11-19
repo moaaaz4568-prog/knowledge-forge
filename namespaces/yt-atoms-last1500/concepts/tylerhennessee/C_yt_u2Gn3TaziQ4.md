@@ -8,7 +8,7 @@ sources: [sources/S_yt_u2Gn3TaziQ4.md]
 
 # C_yt_u2Gn3TaziQ4 — فكرة مشتركة في ذرات فيديو u2Gn3TaziQ4
 
-لينك الطبقة: [[G_yt_u2Gn3TaziQ4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_u2Gn3TaziQ4.md|G_yt_u2Gn3TaziQ4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wTIcmluzTEg.md]
 
 # C_yt_wTIcmluzTEg — فكرة مشتركة في ذرات فيديو wTIcmluzTEg
 
-لينك الطبقة: [[G_yt_wTIcmluzTEg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wTIcmluzTEg.md|G_yt_wTIcmluzTEg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

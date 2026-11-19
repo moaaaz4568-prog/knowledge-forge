@@ -8,7 +8,7 @@ sources: [sources/S_yt_u4HcwWQ9JWA.md]
 
 # C_yt_u4HcwWQ9JWA — فكرة مشتركة في ذرات فيديو u4HcwWQ9JWA
 
-لينك الطبقة: [[G_yt_u4HcwWQ9JWA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_u4HcwWQ9JWA.md|G_yt_u4HcwWQ9JWA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

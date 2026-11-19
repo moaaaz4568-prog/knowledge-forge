@@ -8,7 +8,7 @@ sources: [sources/S_yt_usNPf0ARCw0.md]
 
 # C_yt_usNPf0ARCw0 — فكرة مشتركة في ذرات فيديو usNPf0ARCw0
 
-لينك الطبقة: [[G_yt_usNPf0ARCw0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_usNPf0ARCw0.md|G_yt_usNPf0ARCw0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

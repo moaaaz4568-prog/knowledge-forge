@@ -8,7 +8,7 @@ sources: [sources/S_yt_vysEAcFpmh0.md]
 
 # C_yt_vysEAcFpmh0 — فكرة مشتركة في ذرات فيديو vysEAcFpmh0
 
-لينك الطبقة: [[G_yt_vysEAcFpmh0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_vysEAcFpmh0.md|G_yt_vysEAcFpmh0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

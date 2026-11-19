@@ -8,7 +8,7 @@ sources: [sources/S_yt_xEOYu_DzKJI.md]
 
 # C_yt_xEOYu_DzKJI — فكرة مشتركة في ذرات فيديو xEOYu_DzKJI
 
-لينك الطبقة: [[G_yt_xEOYu_DzKJI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xEOYu_DzKJI.md|G_yt_xEOYu_DzKJI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

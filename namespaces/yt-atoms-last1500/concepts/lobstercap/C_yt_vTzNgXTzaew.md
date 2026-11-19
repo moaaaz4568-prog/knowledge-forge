@@ -8,7 +8,7 @@ sources: [sources/S_yt_vTzNgXTzaew.md]
 
 # C_yt_vTzNgXTzaew — فكرة مشتركة في ذرات فيديو vTzNgXTzaew
 
-لينك الطبقة: [[G_yt_vTzNgXTzaew]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_vTzNgXTzaew.md|G_yt_vTzNgXTzaew]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

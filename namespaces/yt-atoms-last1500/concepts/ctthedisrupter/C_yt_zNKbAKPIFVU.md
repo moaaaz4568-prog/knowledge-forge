@@ -8,7 +8,7 @@ sources: [sources/S_yt_zNKbAKPIFVU.md]
 
 # C_yt_zNKbAKPIFVU — فكرة مشتركة في ذرات فيديو zNKbAKPIFVU
 
-لينك الطبقة: [[G_yt_zNKbAKPIFVU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_zNKbAKPIFVU.md|G_yt_zNKbAKPIFVU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

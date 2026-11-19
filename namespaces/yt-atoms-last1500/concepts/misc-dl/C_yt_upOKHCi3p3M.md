@@ -8,7 +8,7 @@ sources: [sources/S_yt_upOKHCi3p3M.md]
 
 # C_yt_upOKHCi3p3M — فكرة مشتركة في ذرات فيديو upOKHCi3p3M
 
-لينك الطبقة: [[G_yt_upOKHCi3p3M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_upOKHCi3p3M.md|G_yt_upOKHCi3p3M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

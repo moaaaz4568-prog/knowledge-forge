@@ -8,7 +8,7 @@ sources: [sources/S_yt_yRfxesKUH4I.md]
 
 # C_yt_yRfxesKUH4I — فكرة مشتركة في ذرات فيديو yRfxesKUH4I
 
-لينك الطبقة: [[G_yt_yRfxesKUH4I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_yRfxesKUH4I.md|G_yt_yRfxesKUH4I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

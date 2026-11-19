@@ -8,7 +8,7 @@ sources: [sources/S_yt_wUE14P-2CwE.md]
 
 # C_yt_wUE14P-2CwE — فكرة مشتركة في ذرات فيديو wUE14P-2CwE
 
-لينك الطبقة: [[G_yt_wUE14P-2CwE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/terrencekruse/G_wUE14P-2CwE.md|G_yt_wUE14P-2CwE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

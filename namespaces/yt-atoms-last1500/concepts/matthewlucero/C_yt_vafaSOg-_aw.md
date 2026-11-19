@@ -8,7 +8,7 @@ sources: [sources/S_yt_vafaSOg-_aw.md]
 
 # C_yt_vafaSOg-_aw — فكرة مشتركة في ذرات فيديو vafaSOg-_aw
 
-لينك الطبقة: [[G_yt_vafaSOg-_aw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_vafaSOg-_aw.md|G_yt_vafaSOg-_aw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tCsvMe2z8u4.md]
 
 # C_yt_tCsvMe2z8u4 — فكرة مشتركة في ذرات فيديو tCsvMe2z8u4
 
-لينك الطبقة: [[G_yt_tCsvMe2z8u4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_tCsvMe2z8u4.md|G_yt_tCsvMe2z8u4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

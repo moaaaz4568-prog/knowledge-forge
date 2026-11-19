@@ -8,7 +8,7 @@ sources: [sources/S_yt_teuIlgaUXhUb.md]
 
 # C_yt_teuIlgaUXhUb — فكرة مشتركة في ذرات فيديو teuIlgaUXhUb
 
-لينك الطبقة: [[G_yt_teuIlgaUXhUb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_teuIlgaUXhUb.md|G_yt_teuIlgaUXhUb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

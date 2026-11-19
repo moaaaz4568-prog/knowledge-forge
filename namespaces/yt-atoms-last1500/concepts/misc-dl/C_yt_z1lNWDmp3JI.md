@@ -8,7 +8,7 @@ sources: [sources/S_yt_z1lNWDmp3JI.md]
 
 # C_yt_z1lNWDmp3JI — فكرة مشتركة في ذرات فيديو z1lNWDmp3JI
 
-لينك الطبقة: [[G_yt_z1lNWDmp3JI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_z1lNWDmp3JI.md|G_yt_z1lNWDmp3JI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

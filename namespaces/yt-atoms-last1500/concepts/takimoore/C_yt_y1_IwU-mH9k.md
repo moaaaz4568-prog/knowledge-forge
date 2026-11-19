@@ -8,7 +8,7 @@ sources: [sources/S_yt_y1_IwU-mH9k.md]
 
 # C_yt_y1_IwU-mH9k — فكرة مشتركة في ذرات فيديو y1_IwU-mH9k
 
-لينك الطبقة: [[G_yt_y1_IwU-mH9k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_y1_IwU-mH9k.md|G_yt_y1_IwU-mH9k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uRsvLeC58xw.md]
 
 # C_yt_uRsvLeC58xw — فكرة مشتركة في ذرات فيديو uRsvLeC58xw
 
-لينك الطبقة: [[G_yt_uRsvLeC58xw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thisisfoto/G_uRsvLeC58xw.md|G_yt_uRsvLeC58xw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

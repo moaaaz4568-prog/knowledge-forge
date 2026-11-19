@@ -8,7 +8,7 @@ sources: [sources/S_yt_xtrDeCf1ArQ.md]
 
 # C_yt_xtrDeCf1ArQ — فكرة مشتركة في ذرات فيديو xtrDeCf1ArQ
 
-لينك الطبقة: [[G_yt_xtrDeCf1ArQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xtrDeCf1ArQ.md|G_yt_xtrDeCf1ArQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

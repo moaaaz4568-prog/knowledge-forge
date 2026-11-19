@@ -8,7 +8,7 @@ sources: [sources/S_yt_tf1mnCVWJkQ.md]
 
 # C_yt_tf1mnCVWJkQ — فكرة مشتركة في ذرات فيديو tf1mnCVWJkQ
 
-لينك الطبقة: [[G_yt_tf1mnCVWJkQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_tf1mnCVWJkQ.md|G_yt_tf1mnCVWJkQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

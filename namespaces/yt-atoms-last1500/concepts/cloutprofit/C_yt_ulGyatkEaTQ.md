@@ -8,7 +8,7 @@ sources: [sources/S_yt_ulGyatkEaTQ.md]
 
 # C_yt_ulGyatkEaTQ — فكرة مشتركة في ذرات فيديو ulGyatkEaTQ
 
-لينك الطبقة: [[G_yt_ulGyatkEaTQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_ulGyatkEaTQ.md|G_yt_ulGyatkEaTQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yPDFDSpsB6c.md]
 
 # C_yt_yPDFDSpsB6c — فكرة مشتركة في ذرات فيديو yPDFDSpsB6c
 
-لينك الطبقة: [[G_yt_yPDFDSpsB6c]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yPDFDSpsB6c.md|G_yt_yPDFDSpsB6c]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

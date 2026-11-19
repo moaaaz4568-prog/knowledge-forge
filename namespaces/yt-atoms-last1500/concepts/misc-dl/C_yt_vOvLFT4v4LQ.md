@@ -8,7 +8,7 @@ sources: [sources/S_yt_vOvLFT4v4LQ.md]
 
 # C_yt_vOvLFT4v4LQ — فكرة مشتركة في ذرات فيديو vOvLFT4v4LQ
 
-لينك الطبقة: [[G_yt_vOvLFT4v4LQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vOvLFT4v4LQ.md|G_yt_vOvLFT4v4LQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

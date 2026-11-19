@@ -8,7 +8,7 @@ sources: [sources/S_yt_ti3rQNVu56U.md]
 
 # C_yt_ti3rQNVu56U — فكرة مشتركة في ذرات فيديو ti3rQNVu56U
 
-لينك الطبقة: [[G_yt_ti3rQNVu56U]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_ti3rQNVu56U.md|G_yt_ti3rQNVu56U]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

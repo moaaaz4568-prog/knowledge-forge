@@ -8,7 +8,7 @@ sources: [sources/S_yt_xsGE9GJuyMM.md]
 
 # C_yt_xsGE9GJuyMM — فكرة مشتركة في ذرات فيديو xsGE9GJuyMM
 
-لينك الطبقة: [[G_yt_xsGE9GJuyMM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_xsGE9GJuyMM.md|G_yt_xsGE9GJuyMM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

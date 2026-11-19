@@ -8,7 +8,7 @@ sources: [sources/S_yt_xa5Wr5MRaSs.md]
 
 # C_yt_xa5Wr5MRaSs — فكرة مشتركة في ذرات فيديو xa5Wr5MRaSs
 
-لينك الطبقة: [[G_yt_xa5Wr5MRaSs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xa5Wr5MRaSs.md|G_yt_xa5Wr5MRaSs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

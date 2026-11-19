@@ -8,7 +8,7 @@ sources: [sources/S_yt_wP-0vAlCpPI.md]
 
 # C_yt_wP-0vAlCpPI — فكرة مشتركة في ذرات فيديو wP-0vAlCpPI
 
-لينك الطبقة: [[G_yt_wP-0vAlCpPI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wP-0vAlCpPI.md|G_yt_wP-0vAlCpPI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

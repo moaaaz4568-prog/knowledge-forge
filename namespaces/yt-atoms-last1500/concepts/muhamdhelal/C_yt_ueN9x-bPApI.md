@@ -8,7 +8,7 @@ sources: [sources/S_yt_ueN9x-bPApI.md]
 
 # C_yt_ueN9x-bPApI — فكرة مشتركة في ذرات فيديو ueN9x-bPApI
 
-لينك الطبقة: [[G_yt_ueN9x-bPApI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_ueN9x-bPApI.md|G_yt_ueN9x-bPApI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

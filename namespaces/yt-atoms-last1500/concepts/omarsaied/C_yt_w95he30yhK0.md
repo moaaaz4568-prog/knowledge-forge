@@ -8,7 +8,7 @@ sources: [sources/S_yt_w95he30yhK0.md]
 
 # C_yt_w95he30yhK0 — فكرة مشتركة في ذرات فيديو w95he30yhK0
 
-لينك الطبقة: [[G_yt_w95he30yhK0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_w95he30yhK0.md|G_yt_w95he30yhK0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

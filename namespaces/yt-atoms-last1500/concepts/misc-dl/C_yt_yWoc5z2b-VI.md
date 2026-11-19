@@ -8,7 +8,7 @@ sources: [sources/S_yt_yWoc5z2b-VI.md]
 
 # C_yt_yWoc5z2b-VI — فكرة مشتركة في ذرات فيديو yWoc5z2b-VI
 
-لينك الطبقة: [[G_yt_yWoc5z2b-VI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yWoc5z2b-VI.md|G_yt_yWoc5z2b-VI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

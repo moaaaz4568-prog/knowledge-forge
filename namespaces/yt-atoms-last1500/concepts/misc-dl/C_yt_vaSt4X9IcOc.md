@@ -8,7 +8,7 @@ sources: [sources/S_yt_vaSt4X9IcOc.md]
 
 # C_yt_vaSt4X9IcOc — فكرة مشتركة في ذرات فيديو vaSt4X9IcOc
 
-لينك الطبقة: [[G_yt_vaSt4X9IcOc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vaSt4X9IcOc.md|G_yt_vaSt4X9IcOc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

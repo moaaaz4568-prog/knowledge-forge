@@ -8,7 +8,7 @@ sources: [sources/S_yt_xtfEz5EmLPw.md]
 
 # C_yt_xtfEz5EmLPw — فكرة مشتركة في ذرات فيديو xtfEz5EmLPw
 
-لينك الطبقة: [[G_yt_xtfEz5EmLPw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xtfEz5EmLPw.md|G_yt_xtfEz5EmLPw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

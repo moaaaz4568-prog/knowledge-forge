@@ -8,7 +8,7 @@ sources: [sources/S_yt_tLjCLkPMatU.md]
 
 # C_yt_tLjCLkPMatU — فكرة مشتركة في ذرات فيديو tLjCLkPMatU
 
-لينك الطبقة: [[G_yt_tLjCLkPMatU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_tLjCLkPMatU.md|G_yt_tLjCLkPMatU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

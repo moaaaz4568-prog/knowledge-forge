@@ -8,7 +8,7 @@ sources: [sources/S_yt_tSezUHw53as.md]
 
 # C_yt_tSezUHw53as — مقطع منقول من مصدر قصير جداً (tSezUHw53as)
 
-لينك الطبقة: [[G_yt_tSezUHw53as]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_tSezUHw53as.md|G_yt_tSezUHw53as]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

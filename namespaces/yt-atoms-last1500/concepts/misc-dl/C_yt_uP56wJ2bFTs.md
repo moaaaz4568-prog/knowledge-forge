@@ -8,7 +8,7 @@ sources: [sources/S_yt_uP56wJ2bFTs.md]
 
 # C_yt_uP56wJ2bFTs — فكرة مشتركة في ذرات فيديو uP56wJ2bFTs
 
-لينك الطبقة: [[G_yt_uP56wJ2bFTs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uP56wJ2bFTs.md|G_yt_uP56wJ2bFTs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

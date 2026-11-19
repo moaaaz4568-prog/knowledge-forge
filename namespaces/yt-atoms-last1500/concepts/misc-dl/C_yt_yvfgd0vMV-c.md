@@ -8,7 +8,7 @@ sources: [sources/S_yt_yvfgd0vMV-c.md]
 
 # C_yt_yvfgd0vMV-c — فكرة مشتركة في ذرات فيديو yvfgd0vMV-c
 
-لينك الطبقة: [[G_yt_yvfgd0vMV-c]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yvfgd0vMV-c.md|G_yt_yvfgd0vMV-c]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

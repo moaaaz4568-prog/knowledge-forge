@@ -8,7 +8,7 @@ sources: [sources/S_yt_vBiniWgOgWM.md]
 
 # C_yt_vBiniWgOgWM — فكرة مشتركة في ذرات فيديو vBiniWgOgWM
 
-لينك الطبقة: [[G_yt_vBiniWgOgWM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vBiniWgOgWM.md|G_yt_vBiniWgOgWM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

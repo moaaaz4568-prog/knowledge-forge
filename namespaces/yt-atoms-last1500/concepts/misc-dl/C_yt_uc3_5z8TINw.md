@@ -8,7 +8,7 @@ sources: [sources/S_yt_uc3_5z8TINw.md]
 
 # C_yt_uc3_5z8TINw — فكرة مشتركة في ذرات فيديو uc3_5z8TINw
 
-لينك الطبقة: [[G_yt_uc3_5z8TINw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uc3_5z8TINw.md|G_yt_uc3_5z8TINw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

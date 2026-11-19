@@ -8,7 +8,7 @@ sources: [sources/S_yt_zo9Bhbr6BMob.md]
 
 # C_yt_zo9Bhbr6BMob — فكرة مشتركة في ذرات فيديو zo9Bhbr6BMob
 
-لينك الطبقة: [[G_yt_zo9Bhbr6BMob]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zo9Bhbr6BMob.md|G_yt_zo9Bhbr6BMob]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

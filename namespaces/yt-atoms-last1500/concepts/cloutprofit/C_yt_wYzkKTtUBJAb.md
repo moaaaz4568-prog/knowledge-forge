@@ -8,7 +8,7 @@ sources: [sources/S_yt_wYzkKTtUBJAb.md]
 
 # C_yt_wYzkKTtUBJAb — فكرة مشتركة في ذرات فيديو wYzkKTtUBJAb
 
-لينك الطبقة: [[G_yt_wYzkKTtUBJAb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_wYzkKTtUBJAb.md|G_yt_wYzkKTtUBJAb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

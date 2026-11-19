@@ -8,7 +8,7 @@ sources: [sources/S_yt_uwhoya-OOVA.md]
 
 # C_yt_uwhoya-OOVA — فكرة مشتركة في ذرات فيديو uwhoya-OOVA
 
-لينك الطبقة: [[G_yt_uwhoya-OOVA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uwhoya-OOVA.md|G_yt_uwhoya-OOVA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

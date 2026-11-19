@@ -8,7 +8,7 @@ sources: [sources/S_yt_u1NALztJbtA.md]
 
 # C_yt_u1NALztJbtA — مقطع منقول من مصدر قصير جداً (u1NALztJbtA)
 
-لينك الطبقة: [[G_yt_u1NALztJbtA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_u1NALztJbtA.md|G_yt_u1NALztJbtA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

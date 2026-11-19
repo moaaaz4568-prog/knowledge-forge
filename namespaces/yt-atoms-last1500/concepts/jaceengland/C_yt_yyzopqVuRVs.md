@@ -8,7 +8,7 @@ sources: [sources/S_yt_yyzopqVuRVs.md]
 
 # C_yt_yyzopqVuRVs — فكرة مشتركة في ذرات فيديو yyzopqVuRVs
 
-لينك الطبقة: [[G_yt_yyzopqVuRVs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_yyzopqVuRVs.md|G_yt_yyzopqVuRVs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

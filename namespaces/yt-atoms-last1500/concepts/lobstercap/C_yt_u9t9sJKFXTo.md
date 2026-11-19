@@ -8,7 +8,7 @@ sources: [sources/S_yt_u9t9sJKFXTo.md]
 
 # C_yt_u9t9sJKFXTo — فكرة مشتركة في ذرات فيديو u9t9sJKFXTo
 
-لينك الطبقة: [[G_yt_u9t9sJKFXTo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_u9t9sJKFXTo.md|G_yt_u9t9sJKFXTo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

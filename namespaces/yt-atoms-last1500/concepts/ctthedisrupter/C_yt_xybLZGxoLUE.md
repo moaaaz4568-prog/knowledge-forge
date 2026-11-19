@@ -8,7 +8,7 @@ sources: [sources/S_yt_xybLZGxoLUE.md]
 
 # C_yt_xybLZGxoLUE — فكرة مشتركة في ذرات فيديو xybLZGxoLUE
 
-لينك الطبقة: [[G_yt_xybLZGxoLUE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xybLZGxoLUE.md|G_yt_xybLZGxoLUE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

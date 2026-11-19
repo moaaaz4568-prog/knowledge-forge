@@ -8,7 +8,7 @@ sources: [sources/S_yt_tMVUs1sfhqY.md]
 
 # C_yt_tMVUs1sfhqY — فكرة مشتركة في ذرات فيديو tMVUs1sfhqY
 
-لينك الطبقة: [[G_yt_tMVUs1sfhqY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tMVUs1sfhqY.md|G_yt_tMVUs1sfhqY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

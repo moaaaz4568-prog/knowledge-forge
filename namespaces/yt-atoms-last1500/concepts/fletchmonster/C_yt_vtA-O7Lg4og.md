@@ -8,7 +8,7 @@ sources: [sources/S_yt_vtA-O7Lg4og.md]
 
 # C_yt_vtA-O7Lg4og — فكرة مشتركة في ذرات فيديو vtA-O7Lg4og
 
-لينك الطبقة: [[G_yt_vtA-O7Lg4og]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_vtA-O7Lg4og.md|G_yt_vtA-O7Lg4og]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

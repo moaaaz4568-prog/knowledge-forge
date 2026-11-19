@@ -8,7 +8,7 @@ sources: [sources/S_yt_uHB_Zpdc1sg.md]
 
 # C_yt_uHB_Zpdc1sg — فكرة مشتركة في ذرات فيديو uHB_Zpdc1sg
 
-لينك الطبقة: [[G_yt_uHB_Zpdc1sg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_uHB_Zpdc1sg.md|G_yt_uHB_Zpdc1sg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

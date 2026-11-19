@@ -8,7 +8,7 @@ sources: [sources/S_yt_wtT-5U5ByR8.md]
 
 # C_yt_wtT-5U5ByR8 — فكرة مشتركة في ذرات فيديو wtT-5U5ByR8
 
-لينك الطبقة: [[G_yt_wtT-5U5ByR8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wtT-5U5ByR8.md|G_yt_wtT-5U5ByR8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

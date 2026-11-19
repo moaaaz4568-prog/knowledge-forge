@@ -8,7 +8,7 @@ sources: [sources/S_yt_zrzgQwUqlLc.md]
 
 # C_yt_zrzgQwUqlLc — فكرة مشتركة في ذرات فيديو zrzgQwUqlLc
 
-لينك الطبقة: [[G_yt_zrzgQwUqlLc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_zrzgQwUqlLc.md|G_yt_zrzgQwUqlLc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

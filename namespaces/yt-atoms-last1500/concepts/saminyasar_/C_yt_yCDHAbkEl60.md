@@ -8,7 +8,7 @@ sources: [sources/S_yt_yCDHAbkEl60.md]
 
 # C_yt_yCDHAbkEl60 — فكرة مشتركة في ذرات فيديو yCDHAbkEl60
 
-لينك الطبقة: [[G_yt_yCDHAbkEl60]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_yCDHAbkEl60.md|G_yt_yCDHAbkEl60]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

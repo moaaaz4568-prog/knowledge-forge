@@ -8,7 +8,7 @@ sources: [sources/S_yt_xqfrHgRGCCAb.md]
 
 # C_yt_xqfrHgRGCCAb — فكرة مشتركة في ذرات فيديو xqfrHgRGCCAb
 
-لينك الطبقة: [[G_yt_xqfrHgRGCCAb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_xqfrHgRGCCAb.md|G_yt_xqfrHgRGCCAb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

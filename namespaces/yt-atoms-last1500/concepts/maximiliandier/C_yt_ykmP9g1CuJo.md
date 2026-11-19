@@ -8,7 +8,7 @@ sources: [sources/S_yt_ykmP9g1CuJo.md]
 
 # C_yt_ykmP9g1CuJo — فكرة مشتركة في ذرات فيديو ykmP9g1CuJo
 
-لينك الطبقة: [[G_yt_ykmP9g1CuJo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_ykmP9g1CuJo.md|G_yt_ykmP9g1CuJo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

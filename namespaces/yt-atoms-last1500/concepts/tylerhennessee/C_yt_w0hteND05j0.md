@@ -8,7 +8,7 @@ sources: [sources/S_yt_w0hteND05j0.md]
 
 # C_yt_w0hteND05j0 — فكرة مشتركة في ذرات فيديو w0hteND05j0
 
-لينك الطبقة: [[G_yt_w0hteND05j0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_w0hteND05j0.md|G_yt_w0hteND05j0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

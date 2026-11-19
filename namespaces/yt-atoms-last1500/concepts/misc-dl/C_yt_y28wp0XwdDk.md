@@ -8,7 +8,7 @@ sources: [sources/S_yt_y28wp0XwdDk.md]
 
 # C_yt_y28wp0XwdDk — فكرة مشتركة في ذرات فيديو y28wp0XwdDk
 
-لينك الطبقة: [[G_yt_y28wp0XwdDk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y28wp0XwdDk.md|G_yt_y28wp0XwdDk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

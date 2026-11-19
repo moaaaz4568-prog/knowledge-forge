@@ -8,7 +8,7 @@ sources: [sources/S_yt_vfrB9E21HEw.md]
 
 # C_yt_vfrB9E21HEw — فكرة مشتركة في ذرات فيديو vfrB9E21HEw
 
-لينك الطبقة: [[G_yt_vfrB9E21HEw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vfrB9E21HEw.md|G_yt_vfrB9E21HEw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

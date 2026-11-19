@@ -8,7 +8,7 @@ sources: [sources/S_yt_vMGDFOYp2qg.md]
 
 # C_yt_vMGDFOYp2qg — فكرة مشتركة في ذرات فيديو vMGDFOYp2qg
 
-لينك الطبقة: [[G_yt_vMGDFOYp2qg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_vMGDFOYp2qg.md|G_yt_vMGDFOYp2qg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

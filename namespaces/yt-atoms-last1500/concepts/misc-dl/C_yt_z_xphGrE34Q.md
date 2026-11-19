@@ -8,7 +8,7 @@ sources: [sources/S_yt_z_xphGrE34Q.md]
 
 # C_yt_z_xphGrE34Q — فكرة مشتركة في ذرات فيديو z_xphGrE34Q
 
-لينك الطبقة: [[G_yt_z_xphGrE34Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_z_xphGrE34Q.md|G_yt_z_xphGrE34Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

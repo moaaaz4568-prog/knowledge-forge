@@ -8,7 +8,7 @@ sources: [sources/S_yt_zaHlYIPFE2Eb.md]
 
 # C_yt_zaHlYIPFE2Eb — فكرة مشتركة في ذرات فيديو zaHlYIPFE2Eb
 
-لينك الطبقة: [[G_yt_zaHlYIPFE2Eb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zaHlYIPFE2Eb.md|G_yt_zaHlYIPFE2Eb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wjoY3lauMJ8.md]
 
 # C_yt_wjoY3lauMJ8 — فكرة مشتركة في ذرات فيديو wjoY3lauMJ8
 
-لينك الطبقة: [[G_yt_wjoY3lauMJ8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_wjoY3lauMJ8.md|G_yt_wjoY3lauMJ8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

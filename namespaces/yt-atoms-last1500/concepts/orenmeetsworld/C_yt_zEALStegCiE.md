@@ -8,7 +8,7 @@ sources: [sources/S_yt_zEALStegCiE.md]
 
 # C_yt_zEALStegCiE — فكرة مشتركة في ذرات فيديو zEALStegCiE
 
-لينك الطبقة: [[G_yt_zEALStegCiE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zEALStegCiE.md|G_yt_zEALStegCiE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

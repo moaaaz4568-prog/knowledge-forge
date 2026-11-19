@@ -8,7 +8,7 @@ sources: [sources/S_yt_uNRzm56dxt4.md]
 
 # C_yt_uNRzm56dxt4 — فكرة مشتركة في ذرات فيديو uNRzm56dxt4
 
-لينك الطبقة: [[G_yt_uNRzm56dxt4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uNRzm56dxt4.md|G_yt_uNRzm56dxt4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

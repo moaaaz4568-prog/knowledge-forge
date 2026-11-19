@@ -8,7 +8,7 @@ sources: [sources/S_yt_tcPOPXuqAUU.md]
 
 # C_yt_tcPOPXuqAUU — فكرة مشتركة في ذرات فيديو tcPOPXuqAUU
 
-لينك الطبقة: [[G_yt_tcPOPXuqAUU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tcPOPXuqAUU.md|G_yt_tcPOPXuqAUU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

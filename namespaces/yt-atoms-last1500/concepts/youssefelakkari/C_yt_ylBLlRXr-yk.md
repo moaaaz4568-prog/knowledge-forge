@@ -8,7 +8,7 @@ sources: [sources/S_yt_ylBLlRXr-yk.md]
 
 # C_yt_ylBLlRXr-yk — مقطع منقول من مصدر قصير جداً (ylBLlRXr-yk)
 
-لينك الطبقة: [[G_yt_ylBLlRXr-yk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_ylBLlRXr-yk.md|G_yt_ylBLlRXr-yk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

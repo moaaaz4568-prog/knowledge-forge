@@ -8,7 +8,7 @@ sources: [sources/S_yt_wa6OohSOV7I.md]
 
 # C_yt_wa6OohSOV7I — فكرة مشتركة في ذرات فيديو wa6OohSOV7I
 
-لينك الطبقة: [[G_yt_wa6OohSOV7I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_wa6OohSOV7I.md|G_yt_wa6OohSOV7I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

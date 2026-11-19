@@ -8,7 +8,7 @@ sources: [sources/S_yt_vU-60fRHtMc.md]
 
 # C_yt_vU-60fRHtMc — فكرة مشتركة في ذرات فيديو vU-60fRHtMc
 
-لينك الطبقة: [[G_yt_vU-60fRHtMc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_vU-60fRHtMc.md|G_yt_vU-60fRHtMc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

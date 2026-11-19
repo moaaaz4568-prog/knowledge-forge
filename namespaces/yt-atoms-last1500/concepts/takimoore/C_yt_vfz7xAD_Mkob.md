@@ -8,7 +8,7 @@ sources: [sources/S_yt_vfz7xAD_Mkob.md]
 
 # C_yt_vfz7xAD_Mkob — فكرة مشتركة في ذرات فيديو vfz7xAD_Mkob
 
-لينك الطبقة: [[G_yt_vfz7xAD_Mkob]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vfz7xAD_Mkob.md|G_yt_vfz7xAD_Mkob]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tgsIx69XN3kb.md]
 
 # C_yt_tgsIx69XN3kb — فكرة مشتركة في ذرات فيديو tgsIx69XN3kb
 
-لينك الطبقة: [[G_yt_tgsIx69XN3kb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_tgsIx69XN3kb.md|G_yt_tgsIx69XN3kb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

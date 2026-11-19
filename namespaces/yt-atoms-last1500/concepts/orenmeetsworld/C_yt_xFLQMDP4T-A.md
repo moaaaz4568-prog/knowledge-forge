@@ -8,7 +8,7 @@ sources: [sources/S_yt_xFLQMDP4T-A.md]
 
 # C_yt_xFLQMDP4T-A — فكرة مشتركة في ذرات فيديو xFLQMDP4T-A
 
-لينك الطبقة: [[G_yt_xFLQMDP4T-A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_xFLQMDP4T-A.md|G_yt_xFLQMDP4T-A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zLhmhK5LAS8.md]
 
 # C_yt_zLhmhK5LAS8 — فكرة مشتركة في ذرات فيديو zLhmhK5LAS8
 
-لينك الطبقة: [[G_yt_zLhmhK5LAS8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_zLhmhK5LAS8.md|G_yt_zLhmhK5LAS8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

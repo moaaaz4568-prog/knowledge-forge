@@ -8,7 +8,7 @@ sources: [sources/S_yt_zzvPcC-JeVk.md]
 
 # C_yt_zzvPcC-JeVk — فكرة مشتركة في ذرات فيديو zzvPcC-JeVk
 
-لينك الطبقة: [[G_yt_zzvPcC-JeVk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_zzvPcC-JeVk.md|G_yt_zzvPcC-JeVk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

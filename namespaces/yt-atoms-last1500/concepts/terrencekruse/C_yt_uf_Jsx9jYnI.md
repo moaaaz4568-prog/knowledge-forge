@@ -8,7 +8,7 @@ sources: [sources/S_yt_uf_Jsx9jYnI.md]
 
 # C_yt_uf_Jsx9jYnI — فكرة مشتركة في ذرات فيديو uf_Jsx9jYnI
 
-لينك الطبقة: [[G_yt_uf_Jsx9jYnI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/terrencekruse/G_uf_Jsx9jYnI.md|G_yt_uf_Jsx9jYnI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

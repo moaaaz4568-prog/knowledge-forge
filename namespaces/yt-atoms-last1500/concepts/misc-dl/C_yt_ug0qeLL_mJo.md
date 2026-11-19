@@ -8,7 +8,7 @@ sources: [sources/S_yt_ug0qeLL_mJo.md]
 
 # C_yt_ug0qeLL_mJo — فكرة مشتركة في ذرات فيديو ug0qeLL_mJo
 
-لينك الطبقة: [[G_yt_ug0qeLL_mJo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ug0qeLL_mJo.md|G_yt_ug0qeLL_mJo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

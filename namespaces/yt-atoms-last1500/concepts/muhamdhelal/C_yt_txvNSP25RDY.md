@@ -8,7 +8,7 @@ sources: [sources/S_yt_txvNSP25RDY.md]
 
 # C_yt_txvNSP25RDY — فكرة مشتركة في ذرات فيديو txvNSP25RDY
 
-لينك الطبقة: [[G_yt_txvNSP25RDY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_txvNSP25RDY.md|G_yt_txvNSP25RDY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

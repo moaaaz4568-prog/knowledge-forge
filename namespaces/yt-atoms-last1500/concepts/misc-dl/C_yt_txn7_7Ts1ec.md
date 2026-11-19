@@ -8,7 +8,7 @@ sources: [sources/S_yt_txn7_7Ts1ec.md]
 
 # C_yt_txn7_7Ts1ec — فكرة مشتركة في ذرات فيديو txn7_7Ts1ec
 
-لينك الطبقة: [[G_yt_txn7_7Ts1ec]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_txn7_7Ts1ec.md|G_yt_txn7_7Ts1ec]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

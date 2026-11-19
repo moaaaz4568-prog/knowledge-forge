@@ -8,7 +8,7 @@ sources: [sources/S_yt_uK9P4USpOqc.md]
 
 # C_yt_uK9P4USpOqc — فكرة مشتركة في ذرات فيديو uK9P4USpOqc
 
-لينك الطبقة: [[G_yt_uK9P4USpOqc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uK9P4USpOqc.md|G_yt_uK9P4USpOqc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xTOKB_lfwGc.md]
 
 # C_yt_xTOKB_lfwGc — فكرة مشتركة في ذرات فيديو xTOKB_lfwGc
 
-لينك الطبقة: [[G_yt_xTOKB_lfwGc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xTOKB_lfwGc.md|G_yt_xTOKB_lfwGc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

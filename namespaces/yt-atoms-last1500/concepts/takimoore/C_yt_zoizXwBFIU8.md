@@ -8,7 +8,7 @@ sources: [sources/S_yt_zoizXwBFIU8.md]
 
 # C_yt_zoizXwBFIU8 — فكرة مشتركة في ذرات فيديو zoizXwBFIU8
 
-لينك الطبقة: [[G_yt_zoizXwBFIU8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zoizXwBFIU8.md|G_yt_zoizXwBFIU8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

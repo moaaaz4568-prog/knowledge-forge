@@ -8,7 +8,7 @@ sources: [sources/S_yt_xX2FHw7Z5F0.md]
 
 # C_yt_xX2FHw7Z5F0 — فكرة مشتركة في ذرات فيديو xX2FHw7Z5F0
 
-لينك الطبقة: [[G_yt_xX2FHw7Z5F0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xX2FHw7Z5F0.md|G_yt_xX2FHw7Z5F0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_w4pPg9r0H_o.md]
 
 # C_yt_w4pPg9r0H_o — فكرة مشتركة في ذرات فيديو w4pPg9r0H_o
 
-لينك الطبقة: [[G_yt_w4pPg9r0H_o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/terrencekruse/G_w4pPg9r0H_o.md|G_yt_w4pPg9r0H_o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

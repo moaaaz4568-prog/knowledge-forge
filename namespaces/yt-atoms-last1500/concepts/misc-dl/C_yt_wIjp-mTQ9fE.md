@@ -8,7 +8,7 @@ sources: [sources/S_yt_wIjp-mTQ9fE.md]
 
 # C_yt_wIjp-mTQ9fE — فكرة مشتركة في ذرات فيديو wIjp-mTQ9fE
 
-لينك الطبقة: [[G_yt_wIjp-mTQ9fE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wIjp-mTQ9fE.md|G_yt_wIjp-mTQ9fE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

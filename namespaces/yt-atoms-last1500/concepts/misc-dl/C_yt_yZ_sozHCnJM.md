@@ -8,7 +8,7 @@ sources: [sources/S_yt_yZ_sozHCnJM.md]
 
 # C_yt_yZ_sozHCnJM — فكرة مشتركة في ذرات فيديو yZ_sozHCnJM
 
-لينك الطبقة: [[G_yt_yZ_sozHCnJM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yZ_sozHCnJM.md|G_yt_yZ_sozHCnJM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

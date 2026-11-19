@@ -8,7 +8,7 @@ sources: [sources/S_yt_wc3waWE6dvcb.md]
 
 # C_yt_wc3waWE6dvcb — فكرة مشتركة في ذرات فيديو wc3waWE6dvcb
 
-لينك الطبقة: [[G_yt_wc3waWE6dvcb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_wc3waWE6dvcb.md|G_yt_wc3waWE6dvcb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

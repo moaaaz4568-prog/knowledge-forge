@@ -8,7 +8,7 @@ sources: [sources/S_yt_vLQovW1vkXE.md]
 
 # C_yt_vLQovW1vkXE — فكرة مشتركة في ذرات فيديو vLQovW1vkXE
 
-لينك الطبقة: [[G_yt_vLQovW1vkXE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vLQovW1vkXE.md|G_yt_vLQovW1vkXE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tUP8BZtwTSY.md]
 
 # C_yt_tUP8BZtwTSY — فكرة مشتركة في ذرات فيديو tUP8BZtwTSY
 
-لينك الطبقة: [[G_yt_tUP8BZtwTSY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_tUP8BZtwTSY.md|G_yt_tUP8BZtwTSY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

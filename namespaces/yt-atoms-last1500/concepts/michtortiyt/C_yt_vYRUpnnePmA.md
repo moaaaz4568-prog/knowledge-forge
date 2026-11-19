@@ -8,7 +8,7 @@ sources: [sources/S_yt_vYRUpnnePmA.md]
 
 # C_yt_vYRUpnnePmA — فكرة مشتركة في ذرات فيديو vYRUpnnePmA
 
-لينك الطبقة: [[G_yt_vYRUpnnePmA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_vYRUpnnePmA.md|G_yt_vYRUpnnePmA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

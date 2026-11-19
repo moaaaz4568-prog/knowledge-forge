@@ -8,7 +8,7 @@ sources: [sources/S_yt_zA63ZogNgHU.md]
 
 # C_yt_zA63ZogNgHU — فكرة مشتركة في ذرات فيديو zA63ZogNgHU
 
-لينك الطبقة: [[G_yt_zA63ZogNgHU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zA63ZogNgHU.md|G_yt_zA63ZogNgHU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

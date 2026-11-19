@@ -8,7 +8,7 @@ sources: [sources/S_yt_vp7bVNL-bGM.md]
 
 # C_yt_vp7bVNL-bGM — فكرة مشتركة في ذرات فيديو vp7bVNL-bGM
 
-لينك الطبقة: [[G_yt_vp7bVNL-bGM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_vp7bVNL-bGM.md|G_yt_vp7bVNL-bGM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

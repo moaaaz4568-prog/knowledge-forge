@@ -8,7 +8,7 @@ sources: [sources/S_yt_tkFbeLuOxxA.md]
 
 # C_yt_tkFbeLuOxxA — فكرة مشتركة في ذرات فيديو tkFbeLuOxxA
 
-لينك الطبقة: [[G_yt_tkFbeLuOxxA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/azizwaheedi/G_tkFbeLuOxxA.md|G_yt_tkFbeLuOxxA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

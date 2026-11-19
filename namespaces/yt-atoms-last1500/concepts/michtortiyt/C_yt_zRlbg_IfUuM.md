@@ -8,7 +8,7 @@ sources: [sources/S_yt_zRlbg_IfUuM.md]
 
 # C_yt_zRlbg_IfUuM — فكرة مشتركة في ذرات فيديو zRlbg_IfUuM
 
-لينك الطبقة: [[G_yt_zRlbg_IfUuM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zRlbg_IfUuM.md|G_yt_zRlbg_IfUuM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

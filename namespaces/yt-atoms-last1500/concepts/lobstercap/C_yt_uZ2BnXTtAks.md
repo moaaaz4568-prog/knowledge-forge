@@ -8,7 +8,7 @@ sources: [sources/S_yt_uZ2BnXTtAks.md]
 
 # C_yt_uZ2BnXTtAks — فكرة مشتركة في ذرات فيديو uZ2BnXTtAks
 
-لينك الطبقة: [[G_yt_uZ2BnXTtAks]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_uZ2BnXTtAks.md|G_yt_uZ2BnXTtAks]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

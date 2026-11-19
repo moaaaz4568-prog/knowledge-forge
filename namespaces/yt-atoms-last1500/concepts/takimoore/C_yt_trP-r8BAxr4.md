@@ -8,7 +8,7 @@ sources: [sources/S_yt_trP-r8BAxr4.md]
 
 # C_yt_trP-r8BAxr4 — فكرة مشتركة في ذرات فيديو trP-r8BAxr4
 
-لينك الطبقة: [[G_yt_trP-r8BAxr4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_trP-r8BAxr4.md|G_yt_trP-r8BAxr4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

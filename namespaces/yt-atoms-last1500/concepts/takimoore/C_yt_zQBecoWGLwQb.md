@@ -8,7 +8,7 @@ sources: [sources/S_yt_zQBecoWGLwQb.md]
 
 # C_yt_zQBecoWGLwQb — فكرة مشتركة في ذرات فيديو zQBecoWGLwQb
 
-لينك الطبقة: [[G_yt_zQBecoWGLwQb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zQBecoWGLwQb.md|G_yt_zQBecoWGLwQb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

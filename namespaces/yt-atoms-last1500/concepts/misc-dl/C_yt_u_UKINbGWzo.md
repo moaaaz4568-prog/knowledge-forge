@@ -8,7 +8,7 @@ sources: [sources/S_yt_u_UKINbGWzo.md]
 
 # C_yt_u_UKINbGWzo — فكرة مشتركة في ذرات فيديو u_UKINbGWzo
 
-لينك الطبقة: [[G_yt_u_UKINbGWzo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u_UKINbGWzo.md|G_yt_u_UKINbGWzo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

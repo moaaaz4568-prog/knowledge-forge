@@ -8,7 +8,7 @@ sources: [sources/S_yt_uwz2_hJ96Tcb.md]
 
 # C_yt_uwz2_hJ96Tcb — فكرة مشتركة في ذرات فيديو uwz2_hJ96Tcb
 
-لينك الطبقة: [[G_yt_uwz2_hJ96Tcb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_uwz2_hJ96Tcb.md|G_yt_uwz2_hJ96Tcb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wnf8dci56Wo.md]
 
 # C_yt_wnf8dci56Wo — فكرة مشتركة في ذرات فيديو wnf8dci56Wo
 
-لينك الطبقة: [[G_yt_wnf8dci56Wo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_wnf8dci56Wo.md|G_yt_wnf8dci56Wo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

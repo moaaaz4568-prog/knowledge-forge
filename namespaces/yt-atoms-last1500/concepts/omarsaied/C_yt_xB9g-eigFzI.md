@@ -8,7 +8,7 @@ sources: [sources/S_yt_xB9g-eigFzI.md]
 
 # C_yt_xB9g-eigFzI — فكرة مشتركة في ذرات فيديو xB9g-eigFzI
 
-لينك الطبقة: [[G_yt_xB9g-eigFzI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_xB9g-eigFzI.md|G_yt_xB9g-eigFzI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

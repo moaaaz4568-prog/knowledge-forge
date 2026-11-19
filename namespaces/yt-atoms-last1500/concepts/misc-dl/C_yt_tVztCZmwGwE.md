@@ -8,7 +8,7 @@ sources: [sources/S_yt_tVztCZmwGwE.md]
 
 # C_yt_tVztCZmwGwE — فكرة مشتركة في ذرات فيديو tVztCZmwGwE
 
-لينك الطبقة: [[G_yt_tVztCZmwGwE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tVztCZmwGwE.md|G_yt_tVztCZmwGwE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

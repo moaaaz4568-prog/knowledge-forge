@@ -8,7 +8,7 @@ sources: [sources/S_yt_xYva-jBkfjU.md]
 
 # C_yt_xYva-jBkfjU — فكرة مشتركة في ذرات فيديو xYva-jBkfjU
 
-لينك الطبقة: [[G_yt_xYva-jBkfjU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xYva-jBkfjU.md|G_yt_xYva-jBkfjU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

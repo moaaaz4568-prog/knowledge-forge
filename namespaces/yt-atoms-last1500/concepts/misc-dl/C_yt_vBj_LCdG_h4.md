@@ -8,7 +8,7 @@ sources: [sources/S_yt_vBj_LCdG_h4.md]
 
 # C_yt_vBj_LCdG_h4 — فكرة مشتركة في ذرات فيديو vBj_LCdG_h4
 
-لينك الطبقة: [[G_yt_vBj_LCdG_h4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vBj_LCdG_h4.md|G_yt_vBj_LCdG_h4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

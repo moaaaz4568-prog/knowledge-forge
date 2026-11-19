@@ -8,7 +8,7 @@ sources: [sources/S_yt_uOlHkVYpBLob.md]
 
 # C_yt_uOlHkVYpBLob — مقطع منقول من مصدر قصير جداً (uOlHkVYpBLob)
 
-لينك الطبقة: [[G_yt_uOlHkVYpBLob]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uOlHkVYpBLob.md|G_yt_uOlHkVYpBLob]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

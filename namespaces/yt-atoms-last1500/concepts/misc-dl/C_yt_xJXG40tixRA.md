@@ -8,7 +8,7 @@ sources: [sources/S_yt_xJXG40tixRA.md]
 
 # C_yt_xJXG40tixRA — فكرة مشتركة في ذرات فيديو xJXG40tixRA
 
-لينك الطبقة: [[G_yt_xJXG40tixRA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xJXG40tixRA.md|G_yt_xJXG40tixRA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

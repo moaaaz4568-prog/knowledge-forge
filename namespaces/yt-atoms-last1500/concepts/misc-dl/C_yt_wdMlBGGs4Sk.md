@@ -8,7 +8,7 @@ sources: [sources/S_yt_wdMlBGGs4Sk.md]
 
 # C_yt_wdMlBGGs4Sk — فكرة مشتركة في ذرات فيديو wdMlBGGs4Sk
 
-لينك الطبقة: [[G_yt_wdMlBGGs4Sk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wdMlBGGs4Sk.md|G_yt_wdMlBGGs4Sk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_v7QVgHx_exo.md]
 
 # C_yt_v7QVgHx_exo — فكرة مشتركة في ذرات فيديو v7QVgHx_exo
 
-لينك الطبقة: [[G_yt_v7QVgHx_exo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v7QVgHx_exo.md|G_yt_v7QVgHx_exo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

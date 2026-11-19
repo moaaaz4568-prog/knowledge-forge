@@ -8,7 +8,7 @@ sources: [sources/S_yt_tghoTHS1RlY.md]
 
 # C_yt_tghoTHS1RlY — فكرة مشتركة في ذرات فيديو tghoTHS1RlY
 
-لينك الطبقة: [[G_yt_tghoTHS1RlY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tghoTHS1RlY.md|G_yt_tghoTHS1RlY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

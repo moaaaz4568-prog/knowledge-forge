@@ -8,7 +8,7 @@ sources: [sources/S_yt_wNVOADoiVx4.md]
 
 # C_yt_wNVOADoiVx4 — فكرة مشتركة في ذرات فيديو wNVOADoiVx4
 
-لينك الطبقة: [[G_yt_wNVOADoiVx4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_wNVOADoiVx4.md|G_yt_wNVOADoiVx4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

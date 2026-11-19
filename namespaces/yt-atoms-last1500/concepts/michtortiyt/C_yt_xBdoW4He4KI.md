@@ -8,7 +8,7 @@ sources: [sources/S_yt_xBdoW4He4KI.md]
 
 # C_yt_xBdoW4He4KI — فكرة مشتركة في ذرات فيديو xBdoW4He4KI
 
-لينك الطبقة: [[G_yt_xBdoW4He4KI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_xBdoW4He4KI.md|G_yt_xBdoW4He4KI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

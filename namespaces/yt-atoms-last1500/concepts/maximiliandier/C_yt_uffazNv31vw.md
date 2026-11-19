@@ -8,7 +8,7 @@ sources: [sources/S_yt_uffazNv31vw.md]
 
 # C_yt_uffazNv31vw — فكرة مشتركة في ذرات فيديو uffazNv31vw
 
-لينك الطبقة: [[G_yt_uffazNv31vw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uffazNv31vw.md|G_yt_uffazNv31vw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

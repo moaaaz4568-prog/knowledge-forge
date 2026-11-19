@@ -8,7 +8,7 @@ sources: [sources/S_yt_zy0X4kl1vio.md]
 
 # C_yt_zy0X4kl1vio — فكرة مشتركة في ذرات فيديو zy0X4kl1vio
 
-لينك الطبقة: [[G_yt_zy0X4kl1vio]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zy0X4kl1vio.md|G_yt_zy0X4kl1vio]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

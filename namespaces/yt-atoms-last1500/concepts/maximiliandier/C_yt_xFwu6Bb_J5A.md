@@ -8,7 +8,7 @@ sources: [sources/S_yt_xFwu6Bb_J5A.md]
 
 # C_yt_xFwu6Bb_J5A — فكرة مشتركة في ذرات فيديو xFwu6Bb_J5A
 
-لينك الطبقة: [[G_yt_xFwu6Bb_J5A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_xFwu6Bb_J5A.md|G_yt_xFwu6Bb_J5A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

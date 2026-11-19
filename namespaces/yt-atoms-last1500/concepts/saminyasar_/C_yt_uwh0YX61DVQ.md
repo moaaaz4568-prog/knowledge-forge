@@ -8,7 +8,7 @@ sources: [sources/S_yt_uwh0YX61DVQ.md]
 
 # C_yt_uwh0YX61DVQ — فكرة مشتركة في ذرات فيديو uwh0YX61DVQ
 
-لينك الطبقة: [[G_yt_uwh0YX61DVQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_uwh0YX61DVQ.md|G_yt_uwh0YX61DVQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

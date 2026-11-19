@@ -8,7 +8,7 @@ sources: [sources/S_yt_vG4-Bl0cxLg.md]
 
 # C_yt_vG4-Bl0cxLg — فكرة مشتركة في ذرات فيديو vG4-Bl0cxLg
 
-لينك الطبقة: [[G_yt_vG4-Bl0cxLg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vG4-Bl0cxLg.md|G_yt_vG4-Bl0cxLg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

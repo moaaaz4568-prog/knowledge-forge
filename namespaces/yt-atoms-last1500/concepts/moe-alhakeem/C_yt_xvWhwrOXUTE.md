@@ -8,7 +8,7 @@ sources: [sources/S_yt_xvWhwrOXUTE.md]
 
 # C_yt_xvWhwrOXUTE — فكرة مشتركة في ذرات فيديو xvWhwrOXUTE
 
-لينك الطبقة: [[G_yt_xvWhwrOXUTE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_xvWhwrOXUTE.md|G_yt_xvWhwrOXUTE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

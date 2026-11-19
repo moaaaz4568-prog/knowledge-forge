@@ -8,7 +8,7 @@ sources: [sources/S_yt_tLEjtpI2uZM.md]
 
 # C_yt_tLEjtpI2uZM — فكرة مشتركة في ذرات فيديو tLEjtpI2uZM
 
-لينك الطبقة: [[G_yt_tLEjtpI2uZM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tLEjtpI2uZM.md|G_yt_tLEjtpI2uZM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

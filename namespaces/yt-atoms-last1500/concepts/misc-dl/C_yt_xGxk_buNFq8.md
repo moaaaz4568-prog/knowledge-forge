@@ -8,7 +8,7 @@ sources: [sources/S_yt_xGxk_buNFq8.md]
 
 # C_yt_xGxk_buNFq8 — فكرة مشتركة في ذرات فيديو xGxk_buNFq8
 
-لينك الطبقة: [[G_yt_xGxk_buNFq8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xGxk_buNFq8.md|G_yt_xGxk_buNFq8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

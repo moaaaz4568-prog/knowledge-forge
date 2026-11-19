@@ -8,7 +8,7 @@ sources: [sources/S_yt_zVsa6-zKu08.md]
 
 # C_yt_zVsa6-zKu08 — فكرة مشتركة في ذرات فيديو zVsa6-zKu08
 
-لينك الطبقة: [[G_yt_zVsa6-zKu08]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zVsa6-zKu08.md|G_yt_zVsa6-zKu08]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vdlrsrFbKXM.md]
 
 # C_yt_vdlrsrFbKXM — فكرة مشتركة في ذرات فيديو vdlrsrFbKXM
 
-لينك الطبقة: [[G_yt_vdlrsrFbKXM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vdlrsrFbKXM.md|G_yt_vdlrsrFbKXM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

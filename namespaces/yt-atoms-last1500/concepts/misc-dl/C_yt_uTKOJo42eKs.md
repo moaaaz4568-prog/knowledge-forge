@@ -8,7 +8,7 @@ sources: [sources/S_yt_uTKOJo42eKs.md]
 
 # C_yt_uTKOJo42eKs — فكرة مشتركة في ذرات فيديو uTKOJo42eKs
 
-لينك الطبقة: [[G_yt_uTKOJo42eKs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uTKOJo42eKs.md|G_yt_uTKOJo42eKs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

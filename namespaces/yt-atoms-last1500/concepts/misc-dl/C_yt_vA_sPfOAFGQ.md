@@ -8,7 +8,7 @@ sources: [sources/S_yt_vA_sPfOAFGQ.md]
 
 # C_yt_vA_sPfOAFGQ — فكرة مشتركة في ذرات فيديو vA_sPfOAFGQ
 
-لينك الطبقة: [[G_yt_vA_sPfOAFGQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vA_sPfOAFGQ.md|G_yt_vA_sPfOAFGQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

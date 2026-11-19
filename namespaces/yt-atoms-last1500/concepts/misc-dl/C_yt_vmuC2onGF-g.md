@@ -8,7 +8,7 @@ sources: [sources/S_yt_vmuC2onGF-g.md]
 
 # C_yt_vmuC2onGF-g — فكرة مشتركة في ذرات فيديو vmuC2onGF-g
 
-لينك الطبقة: [[G_yt_vmuC2onGF-g]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vmuC2onGF-g.md|G_yt_vmuC2onGF-g]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vOji3BlMgO8.md]
 
 # C_yt_vOji3BlMgO8 — فكرة مشتركة في ذرات فيديو vOji3BlMgO8
 
-لينك الطبقة: [[G_yt_vOji3BlMgO8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vOji3BlMgO8.md|G_yt_vOji3BlMgO8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

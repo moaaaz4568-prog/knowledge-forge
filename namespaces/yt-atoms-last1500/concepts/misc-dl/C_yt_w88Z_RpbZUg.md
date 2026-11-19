@@ -8,7 +8,7 @@ sources: [sources/S_yt_w88Z_RpbZUg.md]
 
 # C_yt_w88Z_RpbZUg — فكرة مشتركة في ذرات فيديو w88Z_RpbZUg
 
-لينك الطبقة: [[G_yt_w88Z_RpbZUg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w88Z_RpbZUg.md|G_yt_w88Z_RpbZUg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

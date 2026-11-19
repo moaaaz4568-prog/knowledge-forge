@@ -8,7 +8,7 @@ sources: [sources/S_yt_u05h7BPMr-8.md]
 
 # C_yt_u05h7BPMr-8 — فكرة مشتركة في ذرات فيديو u05h7BPMr-8
 
-لينك الطبقة: [[G_yt_u05h7BPMr-8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_u05h7BPMr-8.md|G_yt_u05h7BPMr-8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

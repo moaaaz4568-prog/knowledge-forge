@@ -8,7 +8,7 @@ sources: [sources/S_yt_vhVsGCW31eQ.md]
 
 # C_yt_vhVsGCW31eQ — فكرة مشتركة في ذرات فيديو vhVsGCW31eQ
 
-لينك الطبقة: [[G_yt_vhVsGCW31eQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_vhVsGCW31eQ.md|G_yt_vhVsGCW31eQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vuoIQnvdHTE.md]
 
 # C_yt_vuoIQnvdHTE — فكرة مشتركة في ذرات فيديو vuoIQnvdHTE
 
-لينك الطبقة: [[G_yt_vuoIQnvdHTE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vuoIQnvdHTE.md|G_yt_vuoIQnvdHTE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

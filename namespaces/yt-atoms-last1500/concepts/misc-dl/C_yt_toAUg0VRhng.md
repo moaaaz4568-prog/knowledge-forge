@@ -8,7 +8,7 @@ sources: [sources/S_yt_toAUg0VRhng.md]
 
 # C_yt_toAUg0VRhng — فكرة مشتركة في ذرات فيديو toAUg0VRhng
 
-لينك الطبقة: [[G_yt_toAUg0VRhng]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_toAUg0VRhng.md|G_yt_toAUg0VRhng]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

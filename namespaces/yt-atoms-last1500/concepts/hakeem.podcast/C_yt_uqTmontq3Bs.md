@@ -8,7 +8,7 @@ sources: [sources/S_yt_uqTmontq3Bs.md]
 
 # C_yt_uqTmontq3Bs — فكرة مشتركة في ذرات فيديو uqTmontq3Bs
 
-لينك الطبقة: [[G_yt_uqTmontq3Bs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_uqTmontq3Bs.md|G_yt_uqTmontq3Bs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

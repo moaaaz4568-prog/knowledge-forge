@@ -8,7 +8,7 @@ sources: [sources/S_yt_tUlkycPTZm0.md]
 
 # C_yt_tUlkycPTZm0 — فكرة مشتركة في ذرات فيديو tUlkycPTZm0
 
-لينك الطبقة: [[G_yt_tUlkycPTZm0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_tUlkycPTZm0.md|G_yt_tUlkycPTZm0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

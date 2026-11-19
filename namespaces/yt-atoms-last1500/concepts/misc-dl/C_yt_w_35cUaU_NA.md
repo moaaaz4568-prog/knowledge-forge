@@ -8,7 +8,7 @@ sources: [sources/S_yt_w_35cUaU_NA.md]
 
 # C_yt_w_35cUaU_NA — فكرة مشتركة في ذرات فيديو w_35cUaU_NA
 
-لينك الطبقة: [[G_yt_w_35cUaU_NA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w_35cUaU_NA.md|G_yt_w_35cUaU_NA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

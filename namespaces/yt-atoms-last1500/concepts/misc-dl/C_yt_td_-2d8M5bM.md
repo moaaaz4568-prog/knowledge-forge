@@ -8,7 +8,7 @@ sources: [sources/S_yt_td_-2d8M5bM.md]
 
 # C_yt_td_-2d8M5bM — فكرة مشتركة في ذرات فيديو td_-2d8M5bM
 
-لينك الطبقة: [[G_yt_td_-2d8M5bM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_td_-2d8M5bM.md|G_yt_td_-2d8M5bM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

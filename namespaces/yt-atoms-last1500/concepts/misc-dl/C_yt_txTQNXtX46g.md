@@ -8,7 +8,7 @@ sources: [sources/S_yt_txTQNXtX46g.md]
 
 # C_yt_txTQNXtX46g — فكرة مشتركة في ذرات فيديو txTQNXtX46g
 
-لينك الطبقة: [[G_yt_txTQNXtX46g]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_txTQNXtX46g.md|G_yt_txTQNXtX46g]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

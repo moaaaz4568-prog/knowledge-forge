@@ -8,7 +8,7 @@ sources: [sources/S_yt_vmpSzdyymDA.md]
 
 # C_yt_vmpSzdyymDA — فكرة مشتركة في ذرات فيديو vmpSzdyymDA
 
-لينك الطبقة: [[G_yt_vmpSzdyymDA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vmpSzdyymDA.md|G_yt_vmpSzdyymDA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

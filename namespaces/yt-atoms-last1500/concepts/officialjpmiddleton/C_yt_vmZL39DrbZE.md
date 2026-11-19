@@ -8,7 +8,7 @@ sources: [sources/S_yt_vmZL39DrbZE.md]
 
 # C_yt_vmZL39DrbZE — فكرة مشتركة في ذرات فيديو vmZL39DrbZE
 
-لينك الطبقة: [[G_yt_vmZL39DrbZE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_vmZL39DrbZE.md|G_yt_vmZL39DrbZE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

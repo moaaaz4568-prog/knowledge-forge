@@ -8,7 +8,7 @@ sources: [sources/S_yt_xuzTW5S-8uc.md]
 
 # C_yt_xuzTW5S-8uc — فكرة مشتركة في ذرات فيديو xuzTW5S-8uc
 
-لينك الطبقة: [[G_yt_xuzTW5S-8uc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xuzTW5S-8uc.md|G_yt_xuzTW5S-8uc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

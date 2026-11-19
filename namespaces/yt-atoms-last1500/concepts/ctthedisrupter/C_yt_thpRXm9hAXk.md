@@ -8,7 +8,7 @@ sources: [sources/S_yt_thpRXm9hAXk.md]
 
 # C_yt_thpRXm9hAXk — فكرة مشتركة في ذرات فيديو thpRXm9hAXk
 
-لينك الطبقة: [[G_yt_thpRXm9hAXk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_thpRXm9hAXk.md|G_yt_thpRXm9hAXk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

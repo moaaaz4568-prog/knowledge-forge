@@ -8,7 +8,7 @@ sources: [sources/S_yt_zYTuA2baz_E.md]
 
 # C_yt_zYTuA2baz_E — فكرة مشتركة في ذرات فيديو zYTuA2baz_E
 
-لينك الطبقة: [[G_yt_zYTuA2baz_E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zYTuA2baz_E.md|G_yt_zYTuA2baz_E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

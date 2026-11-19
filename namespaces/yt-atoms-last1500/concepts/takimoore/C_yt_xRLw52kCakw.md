@@ -8,7 +8,7 @@ sources: [sources/S_yt_xRLw52kCakw.md]
 
 # C_yt_xRLw52kCakw — فكرة مشتركة في ذرات فيديو xRLw52kCakw
 
-لينك الطبقة: [[G_yt_xRLw52kCakw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xRLw52kCakw.md|G_yt_xRLw52kCakw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

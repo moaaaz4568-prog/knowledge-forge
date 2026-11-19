@@ -8,7 +8,7 @@ sources: [sources/S_yt_zOlpLWfvV5k.md]
 
 # C_yt_zOlpLWfvV5k — فكرة مشتركة في ذرات فيديو zOlpLWfvV5k
 
-لينك الطبقة: [[G_yt_zOlpLWfvV5k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zOlpLWfvV5k.md|G_yt_zOlpLWfvV5k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

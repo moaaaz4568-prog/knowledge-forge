@@ -8,7 +8,7 @@ sources: [sources/S_yt_zido-T7AwJw.md]
 
 # C_yt_zido-T7AwJw — فكرة مشتركة في ذرات فيديو zido-T7AwJw
 
-لينك الطبقة: [[G_yt_zido-T7AwJw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_zido-T7AwJw.md|G_yt_zido-T7AwJw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

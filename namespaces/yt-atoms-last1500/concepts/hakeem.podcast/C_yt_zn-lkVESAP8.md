@@ -8,7 +8,7 @@ sources: [sources/S_yt_zn-lkVESAP8.md]
 
 # C_yt_zn-lkVESAP8 — فكرة مشتركة في ذرات فيديو zn-lkVESAP8
 
-لينك الطبقة: [[G_yt_zn-lkVESAP8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_zn-lkVESAP8.md|G_yt_zn-lkVESAP8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

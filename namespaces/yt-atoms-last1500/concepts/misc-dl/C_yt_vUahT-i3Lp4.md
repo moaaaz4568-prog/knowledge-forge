@@ -8,7 +8,7 @@ sources: [sources/S_yt_vUahT-i3Lp4.md]
 
 # C_yt_vUahT-i3Lp4 — فكرة مشتركة في ذرات فيديو vUahT-i3Lp4
 
-لينك الطبقة: [[G_yt_vUahT-i3Lp4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vUahT-i3Lp4.md|G_yt_vUahT-i3Lp4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

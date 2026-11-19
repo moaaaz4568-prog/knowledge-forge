@@ -8,7 +8,7 @@ sources: [sources/S_yt_tCbDfRoTAv4.md]
 
 # C_yt_tCbDfRoTAv4 — فكرة مشتركة في ذرات فيديو tCbDfRoTAv4
 
-لينك الطبقة: [[G_yt_tCbDfRoTAv4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tCbDfRoTAv4.md|G_yt_tCbDfRoTAv4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

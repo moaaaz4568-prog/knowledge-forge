@@ -8,7 +8,7 @@ sources: [sources/S_yt_urRToxAmPKc.md]
 
 # C_yt_urRToxAmPKc — فكرة مشتركة في ذرات فيديو urRToxAmPKc
 
-لينك الطبقة: [[G_yt_urRToxAmPKc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_urRToxAmPKc.md|G_yt_urRToxAmPKc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

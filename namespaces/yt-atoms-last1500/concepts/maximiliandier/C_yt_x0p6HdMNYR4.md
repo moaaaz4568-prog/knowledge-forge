@@ -8,7 +8,7 @@ sources: [sources/S_yt_x0p6HdMNYR4.md]
 
 # C_yt_x0p6HdMNYR4 — فكرة مشتركة في ذرات فيديو x0p6HdMNYR4
 
-لينك الطبقة: [[G_yt_x0p6HdMNYR4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_x0p6HdMNYR4.md|G_yt_x0p6HdMNYR4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

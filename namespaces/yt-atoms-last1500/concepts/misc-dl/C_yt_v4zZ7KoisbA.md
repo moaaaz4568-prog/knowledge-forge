@@ -8,7 +8,7 @@ sources: [sources/S_yt_v4zZ7KoisbA.md]
 
 # C_yt_v4zZ7KoisbA — فكرة مشتركة في ذرات فيديو v4zZ7KoisbA
 
-لينك الطبقة: [[G_yt_v4zZ7KoisbA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v4zZ7KoisbA.md|G_yt_v4zZ7KoisbA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

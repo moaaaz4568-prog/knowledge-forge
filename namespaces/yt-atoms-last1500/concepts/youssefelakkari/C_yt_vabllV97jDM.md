@@ -8,7 +8,7 @@ sources: [sources/S_yt_vabllV97jDM.md]
 
 # C_yt_vabllV97jDM — فكرة مشتركة في ذرات فيديو vabllV97jDM
 
-لينك الطبقة: [[G_yt_vabllV97jDM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_vabllV97jDM.md|G_yt_vabllV97jDM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

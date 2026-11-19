@@ -8,7 +8,7 @@ sources: [sources/S_yt_zG7rRbeES2o.md]
 
 # C_yt_zG7rRbeES2o — فكرة مشتركة في ذرات فيديو zG7rRbeES2o
 
-لينك الطبقة: [[G_yt_zG7rRbeES2o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zG7rRbeES2o.md|G_yt_zG7rRbeES2o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wpPjJzqi8n0.md]
 
 # C_yt_wpPjJzqi8n0 — فكرة مشتركة في ذرات فيديو wpPjJzqi8n0
 
-لينك الطبقة: [[G_yt_wpPjJzqi8n0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_wpPjJzqi8n0.md|G_yt_wpPjJzqi8n0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

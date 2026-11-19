@@ -8,7 +8,7 @@ sources: [sources/S_yt_wl42z1XRTm4.md]
 
 # C_yt_wl42z1XRTm4 — فكرة مشتركة في ذرات فيديو wl42z1XRTm4
 
-لينك الطبقة: [[G_yt_wl42z1XRTm4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wl42z1XRTm4.md|G_yt_wl42z1XRTm4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

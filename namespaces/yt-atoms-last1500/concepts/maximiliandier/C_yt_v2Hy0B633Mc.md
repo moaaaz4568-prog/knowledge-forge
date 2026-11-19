@@ -8,7 +8,7 @@ sources: [sources/S_yt_v2Hy0B633Mc.md]
 
 # C_yt_v2Hy0B633Mc — فكرة مشتركة في ذرات فيديو v2Hy0B633Mc
 
-لينك الطبقة: [[G_yt_v2Hy0B633Mc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_v2Hy0B633Mc.md|G_yt_v2Hy0B633Mc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

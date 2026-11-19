@@ -8,7 +8,7 @@ sources: [sources/S_yt_u3o_Zpdigcw.md]
 
 # C_yt_u3o_Zpdigcw — فكرة مشتركة في ذرات فيديو u3o_Zpdigcw
 
-لينك الطبقة: [[G_yt_u3o_Zpdigcw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_u3o_Zpdigcw.md|G_yt_u3o_Zpdigcw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

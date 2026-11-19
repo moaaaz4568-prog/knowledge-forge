@@ -8,7 +8,7 @@ sources: [sources/S_yt_wQBPR-2XFWc.md]
 
 # C_yt_wQBPR-2XFWc — فكرة مشتركة في ذرات فيديو wQBPR-2XFWc
 
-لينك الطبقة: [[G_yt_wQBPR-2XFWc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wQBPR-2XFWc.md|G_yt_wQBPR-2XFWc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

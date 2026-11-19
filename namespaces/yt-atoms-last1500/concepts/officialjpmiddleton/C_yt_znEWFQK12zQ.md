@@ -8,7 +8,7 @@ sources: [sources/S_yt_znEWFQK12zQ.md]
 
 # C_yt_znEWFQK12zQ — فكرة مشتركة في ذرات فيديو znEWFQK12zQ
 
-لينك الطبقة: [[G_yt_znEWFQK12zQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_znEWFQK12zQ.md|G_yt_znEWFQK12zQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

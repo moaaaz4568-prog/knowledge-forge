@@ -8,7 +8,7 @@ sources: [sources/S_yt_v7gDAE22SLs.md]
 
 # C_yt_v7gDAE22SLs — فكرة مشتركة في ذرات فيديو v7gDAE22SLs
 
-لينك الطبقة: [[G_yt_v7gDAE22SLs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_v7gDAE22SLs.md|G_yt_v7gDAE22SLs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

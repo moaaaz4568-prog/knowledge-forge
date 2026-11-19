@@ -8,7 +8,7 @@ sources: [sources/S_yt_tnkuthEVPrU.md]
 
 # C_yt_tnkuthEVPrU — فكرة مشتركة في ذرات فيديو tnkuthEVPrU
 
-لينك الطبقة: [[G_yt_tnkuthEVPrU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_tnkuthEVPrU.md|G_yt_tnkuthEVPrU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

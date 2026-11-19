@@ -8,7 +8,7 @@ sources: [sources/S_yt_w4eHOKRbTzI.md]
 
 # C_yt_w4eHOKRbTzI — فكرة مشتركة في ذرات فيديو w4eHOKRbTzI
 
-لينك الطبقة: [[G_yt_w4eHOKRbTzI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_w4eHOKRbTzI.md|G_yt_w4eHOKRbTzI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

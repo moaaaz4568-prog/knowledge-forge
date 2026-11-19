@@ -8,7 +8,7 @@ sources: [sources/S_yt_usXpXWCSWI4.md]
 
 # C_yt_usXpXWCSWI4 — فكرة مشتركة في ذرات فيديو usXpXWCSWI4
 
-لينك الطبقة: [[G_yt_usXpXWCSWI4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_usXpXWCSWI4.md|G_yt_usXpXWCSWI4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

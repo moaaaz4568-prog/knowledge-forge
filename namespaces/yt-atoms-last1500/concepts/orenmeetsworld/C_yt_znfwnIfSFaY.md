@@ -8,7 +8,7 @@ sources: [sources/S_yt_znfwnIfSFaY.md]
 
 # C_yt_znfwnIfSFaY — فكرة مشتركة في ذرات فيديو znfwnIfSFaY
 
-لينك الطبقة: [[G_yt_znfwnIfSFaY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_znfwnIfSFaY.md|G_yt_znfwnIfSFaY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

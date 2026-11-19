@@ -8,7 +8,7 @@ sources: [sources/S_yt_xST0r08tLO4.md]
 
 # C_yt_xST0r08tLO4 — فكرة مشتركة في ذرات فيديو xST0r08tLO4
 
-لينك الطبقة: [[G_yt_xST0r08tLO4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xST0r08tLO4.md|G_yt_xST0r08tLO4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

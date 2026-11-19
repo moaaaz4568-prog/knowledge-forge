@@ -8,7 +8,7 @@ sources: [sources/S_yt_wxWjN-l5KxU.md]
 
 # C_yt_wxWjN-l5KxU — فكرة مشتركة في ذرات فيديو wxWjN-l5KxU
 
-لينك الطبقة: [[G_yt_wxWjN-l5KxU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wxWjN-l5KxU.md|G_yt_wxWjN-l5KxU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

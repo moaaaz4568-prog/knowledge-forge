@@ -8,7 +8,7 @@ sources: [sources/S_yt_zIvImsQ_E4k.md]
 
 # C_yt_zIvImsQ_E4k — فكرة مشتركة في ذرات فيديو zIvImsQ_E4k
 
-لينك الطبقة: [[G_yt_zIvImsQ_E4k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zIvImsQ_E4k.md|G_yt_zIvImsQ_E4k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

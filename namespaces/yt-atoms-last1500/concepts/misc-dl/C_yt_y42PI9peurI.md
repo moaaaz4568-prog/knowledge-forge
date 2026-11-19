@@ -8,7 +8,7 @@ sources: [sources/S_yt_y42PI9peurI.md]
 
 # C_yt_y42PI9peurI — فكرة مشتركة في ذرات فيديو y42PI9peurI
 
-لينك الطبقة: [[G_yt_y42PI9peurI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y42PI9peurI.md|G_yt_y42PI9peurI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

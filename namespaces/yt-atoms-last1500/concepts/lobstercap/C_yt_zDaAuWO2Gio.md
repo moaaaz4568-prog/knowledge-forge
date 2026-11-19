@@ -8,7 +8,7 @@ sources: [sources/S_yt_zDaAuWO2Gio.md]
 
 # C_yt_zDaAuWO2Gio — فكرة مشتركة في ذرات فيديو zDaAuWO2Gio
 
-لينك الطبقة: [[G_yt_zDaAuWO2Gio]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_zDaAuWO2Gio.md|G_yt_zDaAuWO2Gio]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

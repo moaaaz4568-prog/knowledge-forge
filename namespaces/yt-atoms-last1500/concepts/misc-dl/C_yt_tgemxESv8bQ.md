@@ -8,7 +8,7 @@ sources: [sources/S_yt_tgemxESv8bQ.md]
 
 # C_yt_tgemxESv8bQ — فكرة مشتركة في ذرات فيديو tgemxESv8bQ
 
-لينك الطبقة: [[G_yt_tgemxESv8bQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tgemxESv8bQ.md|G_yt_tgemxESv8bQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

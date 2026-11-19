@@ -8,7 +8,7 @@ sources: [sources/S_yt_xOA0pKk_86Q.md]
 
 # C_yt_xOA0pKk_86Q — فكرة مشتركة في ذرات فيديو xOA0pKk_86Q
 
-لينك الطبقة: [[G_yt_xOA0pKk_86Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xOA0pKk_86Q.md|G_yt_xOA0pKk_86Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

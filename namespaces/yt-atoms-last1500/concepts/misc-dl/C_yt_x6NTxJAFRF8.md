@@ -8,7 +8,7 @@ sources: [sources/S_yt_x6NTxJAFRF8.md]
 
 # C_yt_x6NTxJAFRF8 — فكرة مشتركة في ذرات فيديو x6NTxJAFRF8
 
-لينك الطبقة: [[G_yt_x6NTxJAFRF8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x6NTxJAFRF8.md|G_yt_x6NTxJAFRF8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

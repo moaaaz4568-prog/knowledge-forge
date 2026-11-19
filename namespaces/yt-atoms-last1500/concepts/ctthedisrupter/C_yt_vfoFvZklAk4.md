@@ -8,7 +8,7 @@ sources: [sources/S_yt_vfoFvZklAk4.md]
 
 # C_yt_vfoFvZklAk4 — فكرة مشتركة في ذرات فيديو vfoFvZklAk4
 
-لينك الطبقة: [[G_yt_vfoFvZklAk4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vfoFvZklAk4.md|G_yt_vfoFvZklAk4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

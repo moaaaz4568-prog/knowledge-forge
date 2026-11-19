@@ -8,7 +8,7 @@ sources: [sources/S_yt_vXci7x5TmsI.md]
 
 # C_yt_vXci7x5TmsI — فكرة مشتركة في ذرات فيديو vXci7x5TmsI
 
-لينك الطبقة: [[G_yt_vXci7x5TmsI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vXci7x5TmsI.md|G_yt_vXci7x5TmsI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

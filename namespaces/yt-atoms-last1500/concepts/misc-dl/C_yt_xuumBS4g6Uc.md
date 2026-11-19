@@ -8,7 +8,7 @@ sources: [sources/S_yt_xuumBS4g6Uc.md]
 
 # C_yt_xuumBS4g6Uc — فكرة مشتركة في ذرات فيديو xuumBS4g6Uc
 
-لينك الطبقة: [[G_yt_xuumBS4g6Uc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xuumBS4g6Uc.md|G_yt_xuumBS4g6Uc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

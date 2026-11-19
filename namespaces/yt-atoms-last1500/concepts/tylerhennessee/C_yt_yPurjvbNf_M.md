@@ -8,7 +8,7 @@ sources: [sources/S_yt_yPurjvbNf_M.md]
 
 # C_yt_yPurjvbNf_M — فكرة مشتركة في ذرات فيديو yPurjvbNf_M
 
-لينك الطبقة: [[G_yt_yPurjvbNf_M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_yPurjvbNf_M.md|G_yt_yPurjvbNf_M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

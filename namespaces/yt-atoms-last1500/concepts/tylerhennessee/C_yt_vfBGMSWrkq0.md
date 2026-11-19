@@ -8,7 +8,7 @@ sources: [sources/S_yt_vfBGMSWrkq0.md]
 
 # C_yt_vfBGMSWrkq0 — فكرة مشتركة في ذرات فيديو vfBGMSWrkq0
 
-لينك الطبقة: [[G_yt_vfBGMSWrkq0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vfBGMSWrkq0.md|G_yt_vfBGMSWrkq0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

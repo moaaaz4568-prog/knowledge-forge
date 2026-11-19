@@ -8,7 +8,7 @@ sources: [sources/S_yt_x5NalrBeA1A.md]
 
 # C_yt_x5NalrBeA1A — فكرة مشتركة في ذرات فيديو x5NalrBeA1A
 
-لينك الطبقة: [[G_yt_x5NalrBeA1A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_x5NalrBeA1A.md|G_yt_x5NalrBeA1A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

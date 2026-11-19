@@ -8,7 +8,7 @@ sources: [sources/S_yt_uLtcGTB38Jc.md]
 
 # C_yt_uLtcGTB38Jc — فكرة مشتركة في ذرات فيديو uLtcGTB38Jc
 
-لينك الطبقة: [[G_yt_uLtcGTB38Jc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uLtcGTB38Jc.md|G_yt_uLtcGTB38Jc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

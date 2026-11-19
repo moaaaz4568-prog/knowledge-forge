@@ -8,7 +8,7 @@ sources: [sources/S_yt_u8FSmZTMjSU.md]
 
 # C_yt_u8FSmZTMjSU — فكرة مشتركة في ذرات فيديو u8FSmZTMjSU
 
-لينك الطبقة: [[G_yt_u8FSmZTMjSU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u8FSmZTMjSU.md|G_yt_u8FSmZTMjSU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tj-sZz2hPOk.md]
 
 # C_yt_tj-sZz2hPOk — فكرة مشتركة في ذرات فيديو tj-sZz2hPOk
 
-لينك الطبقة: [[G_yt_tj-sZz2hPOk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thezaidfouad/G_tj-sZz2hPOk.md|G_yt_tj-sZz2hPOk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

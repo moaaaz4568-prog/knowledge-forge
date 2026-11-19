@@ -8,7 +8,7 @@ sources: [sources/S_yt_vVYDnbPaZ24.md]
 
 # C_yt_vVYDnbPaZ24 — فكرة مشتركة في ذرات فيديو vVYDnbPaZ24
 
-لينك الطبقة: [[G_yt_vVYDnbPaZ24]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vVYDnbPaZ24.md|G_yt_vVYDnbPaZ24]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wnIwmeP_1Dc.md]
 
 # C_yt_wnIwmeP_1Dc — فكرة مشتركة في ذرات فيديو wnIwmeP_1Dc
 
-لينك الطبقة: [[G_yt_wnIwmeP_1Dc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wnIwmeP_1Dc.md|G_yt_wnIwmeP_1Dc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wS_eGNASZZY.md]
 
 # C_yt_wS_eGNASZZY — فكرة مشتركة في ذرات فيديو wS_eGNASZZY
 
-لينك الطبقة: [[G_yt_wS_eGNASZZY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wS_eGNASZZY.md|G_yt_wS_eGNASZZY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

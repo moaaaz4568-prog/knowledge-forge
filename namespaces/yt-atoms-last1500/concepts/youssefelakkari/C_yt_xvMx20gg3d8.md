@@ -8,7 +8,7 @@ sources: [sources/S_yt_xvMx20gg3d8.md]
 
 # C_yt_xvMx20gg3d8 — مقطع منقول من مصدر قصير جداً (xvMx20gg3d8)
 
-لينك الطبقة: [[G_yt_xvMx20gg3d8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_xvMx20gg3d8.md|G_yt_xvMx20gg3d8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

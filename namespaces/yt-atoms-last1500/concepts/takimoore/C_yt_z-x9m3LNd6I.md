@@ -8,7 +8,7 @@ sources: [sources/S_yt_z-x9m3LNd6I.md]
 
 # C_yt_z-x9m3LNd6I — فكرة مشتركة في ذرات فيديو z-x9m3LNd6I
 
-لينك الطبقة: [[G_yt_z-x9m3LNd6I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_z-x9m3LNd6I.md|G_yt_z-x9m3LNd6I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

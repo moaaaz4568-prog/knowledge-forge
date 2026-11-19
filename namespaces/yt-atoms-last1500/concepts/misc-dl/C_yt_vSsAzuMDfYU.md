@@ -8,7 +8,7 @@ sources: [sources/S_yt_vSsAzuMDfYU.md]
 
 # C_yt_vSsAzuMDfYU — فكرة مشتركة في ذرات فيديو vSsAzuMDfYU
 
-لينك الطبقة: [[G_yt_vSsAzuMDfYU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vSsAzuMDfYU.md|G_yt_vSsAzuMDfYU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

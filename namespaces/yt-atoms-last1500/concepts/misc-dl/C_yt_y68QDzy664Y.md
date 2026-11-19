@@ -8,7 +8,7 @@ sources: [sources/S_yt_y68QDzy664Y.md]
 
 # C_yt_y68QDzy664Y — فكرة مشتركة في ذرات فيديو y68QDzy664Y
 
-لينك الطبقة: [[G_yt_y68QDzy664Y]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y68QDzy664Y.md|G_yt_y68QDzy664Y]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

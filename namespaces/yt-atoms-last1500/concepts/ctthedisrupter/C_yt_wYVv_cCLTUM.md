@@ -8,7 +8,7 @@ sources: [sources/S_yt_wYVv_cCLTUM.md]
 
 # C_yt_wYVv_cCLTUM — فكرة مشتركة في ذرات فيديو wYVv_cCLTUM
 
-لينك الطبقة: [[G_yt_wYVv_cCLTUM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wYVv_cCLTUM.md|G_yt_wYVv_cCLTUM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xVYVU-eM64E.md]
 
 # C_yt_xVYVU-eM64E — فكرة مشتركة في ذرات فيديو xVYVU-eM64E
 
-لينك الطبقة: [[G_yt_xVYVU-eM64E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_xVYVU-eM64E.md|G_yt_xVYVU-eM64E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_u4Cx0DgDqFI.md]
 
 # C_yt_u4Cx0DgDqFI — فكرة مشتركة في ذرات فيديو u4Cx0DgDqFI
 
-لينك الطبقة: [[G_yt_u4Cx0DgDqFI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_u4Cx0DgDqFI.md|G_yt_u4Cx0DgDqFI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

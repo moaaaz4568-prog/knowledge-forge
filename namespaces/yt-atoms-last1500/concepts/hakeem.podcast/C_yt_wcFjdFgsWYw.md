@@ -8,7 +8,7 @@ sources: [sources/S_yt_wcFjdFgsWYw.md]
 
 # C_yt_wcFjdFgsWYw — فكرة مشتركة في ذرات فيديو wcFjdFgsWYw
 
-لينك الطبقة: [[G_yt_wcFjdFgsWYw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_wcFjdFgsWYw.md|G_yt_wcFjdFgsWYw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

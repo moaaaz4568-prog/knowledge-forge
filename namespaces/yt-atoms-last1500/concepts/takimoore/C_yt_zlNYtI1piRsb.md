@@ -8,7 +8,7 @@ sources: [sources/S_yt_zlNYtI1piRsb.md]
 
 # C_yt_zlNYtI1piRsb — فكرة مشتركة في ذرات فيديو zlNYtI1piRsb
 
-لينك الطبقة: [[G_yt_zlNYtI1piRsb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zlNYtI1piRsb.md|G_yt_zlNYtI1piRsb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_y90nHUeZ_Jo.md]
 
 # C_yt_y90nHUeZ_Jo — فكرة مشتركة في ذرات فيديو y90nHUeZ_Jo
 
-لينك الطبقة: [[G_yt_y90nHUeZ_Jo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y90nHUeZ_Jo.md|G_yt_y90nHUeZ_Jo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

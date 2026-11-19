@@ -8,7 +8,7 @@ sources: [sources/S_yt_zBBKRYHH95Q.md]
 
 # C_yt_zBBKRYHH95Q — فكرة مشتركة في ذرات فيديو zBBKRYHH95Q
 
-لينك الطبقة: [[G_yt_zBBKRYHH95Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zBBKRYHH95Q.md|G_yt_zBBKRYHH95Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

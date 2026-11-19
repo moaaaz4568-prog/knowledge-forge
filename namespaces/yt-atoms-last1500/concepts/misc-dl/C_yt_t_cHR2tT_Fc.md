@@ -8,7 +8,7 @@ sources: [sources/S_yt_t_cHR2tT_Fc.md]
 
 # C_yt_t_cHR2tT_Fc — فكرة مشتركة في ذرات فيديو t_cHR2tT_Fc
 
-لينك الطبقة: [[G_yt_t_cHR2tT_Fc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_t_cHR2tT_Fc.md|G_yt_t_cHR2tT_Fc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

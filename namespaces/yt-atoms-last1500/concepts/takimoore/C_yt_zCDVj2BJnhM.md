@@ -8,7 +8,7 @@ sources: [sources/S_yt_zCDVj2BJnhM.md]
 
 # C_yt_zCDVj2BJnhM — فكرة مشتركة في ذرات فيديو zCDVj2BJnhM
 
-لينك الطبقة: [[G_yt_zCDVj2BJnhM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zCDVj2BJnhM.md|G_yt_zCDVj2BJnhM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

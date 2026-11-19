@@ -8,7 +8,7 @@ sources: [sources/S_yt_y_JPm1yYC84.md]
 
 # C_yt_y_JPm1yYC84 — فكرة مشتركة في ذرات فيديو y_JPm1yYC84
 
-لينك الطبقة: [[G_yt_y_JPm1yYC84]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_y_JPm1yYC84.md|G_yt_y_JPm1yYC84]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

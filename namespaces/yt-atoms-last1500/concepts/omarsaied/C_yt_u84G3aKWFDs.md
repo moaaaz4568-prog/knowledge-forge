@@ -8,7 +8,7 @@ sources: [sources/S_yt_u84G3aKWFDs.md]
 
 # C_yt_u84G3aKWFDs — فكرة مشتركة في ذرات فيديو u84G3aKWFDs
 
-لينك الطبقة: [[G_yt_u84G3aKWFDs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_u84G3aKWFDs.md|G_yt_u84G3aKWFDs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

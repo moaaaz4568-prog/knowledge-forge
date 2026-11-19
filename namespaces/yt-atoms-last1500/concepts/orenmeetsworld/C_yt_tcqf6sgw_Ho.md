@@ -8,7 +8,7 @@ sources: [sources/S_yt_tcqf6sgw_Ho.md]
 
 # C_yt_tcqf6sgw_Ho — فكرة مشتركة في ذرات فيديو tcqf6sgw_Ho
 
-لينك الطبقة: [[G_yt_tcqf6sgw_Ho]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_tcqf6sgw_Ho.md|G_yt_tcqf6sgw_Ho]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

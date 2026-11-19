@@ -8,7 +8,7 @@ sources: [sources/S_yt_tNKLThc9Cwc.md]
 
 # C_yt_tNKLThc9Cwc — فكرة مشتركة في ذرات فيديو tNKLThc9Cwc
 
-لينك الطبقة: [[G_yt_tNKLThc9Cwc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_tNKLThc9Cwc.md|G_yt_tNKLThc9Cwc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

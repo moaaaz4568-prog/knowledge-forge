@@ -8,7 +8,7 @@ sources: [sources/S_yt_vuxgvHdSNhs.md]
 
 # C_yt_vuxgvHdSNhs — فكرة مشتركة في ذرات فيديو vuxgvHdSNhs
 
-لينك الطبقة: [[G_yt_vuxgvHdSNhs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vuxgvHdSNhs.md|G_yt_vuxgvHdSNhs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

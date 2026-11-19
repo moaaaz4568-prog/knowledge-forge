@@ -8,7 +8,7 @@ sources: [sources/S_yt_x7qwPk67suk.md]
 
 # C_yt_x7qwPk67suk — فكرة مشتركة في ذرات فيديو x7qwPk67suk
 
-لينك الطبقة: [[G_yt_x7qwPk67suk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x7qwPk67suk.md|G_yt_x7qwPk67suk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

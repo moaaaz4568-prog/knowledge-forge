@@ -8,7 +8,7 @@ sources: [sources/S_yt_uobNzumd-eo.md]
 
 # C_yt_uobNzumd-eo — فكرة مشتركة في ذرات فيديو uobNzumd-eo
 
-لينك الطبقة: [[G_yt_uobNzumd-eo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uobNzumd-eo.md|G_yt_uobNzumd-eo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

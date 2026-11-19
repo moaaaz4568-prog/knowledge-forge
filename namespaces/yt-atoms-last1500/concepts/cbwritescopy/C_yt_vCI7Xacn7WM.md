@@ -8,7 +8,7 @@ sources: [sources/S_yt_vCI7Xacn7WM.md]
 
 # C_yt_vCI7Xacn7WM — فكرة مشتركة في ذرات فيديو vCI7Xacn7WM
 
-لينك الطبقة: [[G_yt_vCI7Xacn7WM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_vCI7Xacn7WM.md|G_yt_vCI7Xacn7WM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

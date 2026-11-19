@@ -8,7 +8,7 @@ sources: [sources/S_yt_zQM38-CkHJA.md]
 
 # C_yt_zQM38-CkHJA — فكرة مشتركة في ذرات فيديو zQM38-CkHJA
 
-لينك الطبقة: [[G_yt_zQM38-CkHJA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zQM38-CkHJA.md|G_yt_zQM38-CkHJA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

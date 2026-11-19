@@ -8,7 +8,7 @@ sources: [sources/S_yt_yrorGFRg1-A.md]
 
 # C_yt_yrorGFRg1-A — فكرة مشتركة في ذرات فيديو yrorGFRg1-A
 
-لينك الطبقة: [[G_yt_yrorGFRg1-A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_yrorGFRg1-A.md|G_yt_yrorGFRg1-A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

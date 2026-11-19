@@ -8,7 +8,7 @@ sources: [sources/S_yt_y_KSHfZ6Syo.md]
 
 # C_yt_y_KSHfZ6Syo — فكرة مشتركة في ذرات فيديو y_KSHfZ6Syo
 
-لينك الطبقة: [[G_yt_y_KSHfZ6Syo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_y_KSHfZ6Syo.md|G_yt_y_KSHfZ6Syo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

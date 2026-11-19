@@ -8,7 +8,7 @@ sources: [sources/S_yt_uVPLGTTzh3s.md]
 
 # C_yt_uVPLGTTzh3s — فكرة مشتركة في ذرات فيديو uVPLGTTzh3s
 
-لينك الطبقة: [[G_yt_uVPLGTTzh3s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uVPLGTTzh3s.md|G_yt_uVPLGTTzh3s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_u9-97XsLHYI.md]
 
 # C_yt_u9-97XsLHYI — فكرة مشتركة في ذرات فيديو u9-97XsLHYI
 
-لينك الطبقة: [[G_yt_u9-97XsLHYI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u9-97XsLHYI.md|G_yt_u9-97XsLHYI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tnyLUBgwPEo.md]
 
 # C_yt_tnyLUBgwPEo — فكرة مشتركة في ذرات فيديو tnyLUBgwPEo
 
-لينك الطبقة: [[G_yt_tnyLUBgwPEo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tnyLUBgwPEo.md|G_yt_tnyLUBgwPEo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

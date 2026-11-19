@@ -8,7 +8,7 @@ sources: [sources/S_yt_yL6n-IjPatE.md]
 
 # C_yt_yL6n-IjPatE — فكرة مشتركة في ذرات فيديو yL6n-IjPatE
 
-لينك الطبقة: [[G_yt_yL6n-IjPatE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yL6n-IjPatE.md|G_yt_yL6n-IjPatE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

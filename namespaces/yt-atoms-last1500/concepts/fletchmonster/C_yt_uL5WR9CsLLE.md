@@ -8,7 +8,7 @@ sources: [sources/S_yt_uL5WR9CsLLE.md]
 
 # C_yt_uL5WR9CsLLE — فكرة مشتركة في ذرات فيديو uL5WR9CsLLE
 
-لينك الطبقة: [[G_yt_uL5WR9CsLLE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_uL5WR9CsLLE.md|G_yt_uL5WR9CsLLE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

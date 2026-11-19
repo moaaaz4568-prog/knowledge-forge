@@ -8,7 +8,7 @@ sources: [sources/S_yt_x7xSYher0MY.md]
 
 # C_yt_x7xSYher0MY — فكرة مشتركة في ذرات فيديو x7xSYher0MY
 
-لينك الطبقة: [[G_yt_x7xSYher0MY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_x7xSYher0MY.md|G_yt_x7xSYher0MY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

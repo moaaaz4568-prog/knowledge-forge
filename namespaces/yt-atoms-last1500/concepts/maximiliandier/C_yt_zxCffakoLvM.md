@@ -8,7 +8,7 @@ sources: [sources/S_yt_zxCffakoLvM.md]
 
 # C_yt_zxCffakoLvM — فكرة مشتركة في ذرات فيديو zxCffakoLvM
 
-لينك الطبقة: [[G_yt_zxCffakoLvM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_zxCffakoLvM.md|G_yt_zxCffakoLvM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

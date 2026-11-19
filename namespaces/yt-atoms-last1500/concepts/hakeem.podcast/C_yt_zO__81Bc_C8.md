@@ -8,7 +8,7 @@ sources: [sources/S_yt_zO__81Bc_C8.md]
 
 # C_yt_zO__81Bc_C8 — فكرة مشتركة في ذرات فيديو zO__81Bc_C8
 
-لينك الطبقة: [[G_yt_zO__81Bc_C8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_zO__81Bc_C8.md|G_yt_zO__81Bc_C8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

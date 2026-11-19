@@ -8,7 +8,7 @@ sources: [sources/S_yt_uzMcQACC8mU.md]
 
 # C_yt_uzMcQACC8mU — فكرة مشتركة في ذرات فيديو uzMcQACC8mU
 
-لينك الطبقة: [[G_yt_uzMcQACC8mU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_uzMcQACC8mU.md|G_yt_uzMcQACC8mU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

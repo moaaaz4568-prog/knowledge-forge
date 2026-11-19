@@ -8,7 +8,7 @@ sources: [sources/S_yt_zcwNMv6FS38.md]
 
 # C_yt_zcwNMv6FS38 — فكرة مشتركة في ذرات فيديو zcwNMv6FS38
 
-لينك الطبقة: [[G_yt_zcwNMv6FS38]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zcwNMv6FS38.md|G_yt_zcwNMv6FS38]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zjgUmJ-3XcE.md]
 
 # C_yt_zjgUmJ-3XcE — فكرة مشتركة في ذرات فيديو zjgUmJ-3XcE
 
-لينك الطبقة: [[G_yt_zjgUmJ-3XcE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zjgUmJ-3XcE.md|G_yt_zjgUmJ-3XcE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

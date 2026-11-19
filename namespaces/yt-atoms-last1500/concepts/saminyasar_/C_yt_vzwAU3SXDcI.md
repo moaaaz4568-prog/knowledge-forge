@@ -8,7 +8,7 @@ sources: [sources/S_yt_vzwAU3SXDcI.md]
 
 # C_yt_vzwAU3SXDcI — فكرة مشتركة في ذرات فيديو vzwAU3SXDcI
 
-لينك الطبقة: [[G_yt_vzwAU3SXDcI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_vzwAU3SXDcI.md|G_yt_vzwAU3SXDcI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

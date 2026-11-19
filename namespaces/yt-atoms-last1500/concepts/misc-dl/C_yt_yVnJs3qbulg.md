@@ -8,7 +8,7 @@ sources: [sources/S_yt_yVnJs3qbulg.md]
 
 # C_yt_yVnJs3qbulg — فكرة مشتركة في ذرات فيديو yVnJs3qbulg
 
-لينك الطبقة: [[G_yt_yVnJs3qbulg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yVnJs3qbulg.md|G_yt_yVnJs3qbulg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

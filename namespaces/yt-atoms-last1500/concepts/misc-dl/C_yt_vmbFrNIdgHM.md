@@ -8,7 +8,7 @@ sources: [sources/S_yt_vmbFrNIdgHM.md]
 
 # C_yt_vmbFrNIdgHM — فكرة مشتركة في ذرات فيديو vmbFrNIdgHM
 
-لينك الطبقة: [[G_yt_vmbFrNIdgHM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vmbFrNIdgHM.md|G_yt_vmbFrNIdgHM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

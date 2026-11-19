@@ -8,7 +8,7 @@ sources: [sources/S_yt_zMkaTqvgJ68.md]
 
 # C_yt_zMkaTqvgJ68 — فكرة مشتركة في ذرات فيديو zMkaTqvgJ68
 
-لينك الطبقة: [[G_yt_zMkaTqvgJ68]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zMkaTqvgJ68.md|G_yt_zMkaTqvgJ68]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

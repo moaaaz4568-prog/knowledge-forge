@@ -8,7 +8,7 @@ sources: [sources/S_yt_tmlDGlxD2n0.md]
 
 # C_yt_tmlDGlxD2n0 — مقطع منقول من مصدر قصير جداً (tmlDGlxD2n0)
 
-لينك الطبقة: [[G_yt_tmlDGlxD2n0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_tmlDGlxD2n0.md|G_yt_tmlDGlxD2n0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

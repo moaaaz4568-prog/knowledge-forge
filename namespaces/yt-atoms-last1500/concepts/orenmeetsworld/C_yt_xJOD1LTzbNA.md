@@ -8,7 +8,7 @@ sources: [sources/S_yt_xJOD1LTzbNA.md]
 
 # C_yt_xJOD1LTzbNA — فكرة مشتركة في ذرات فيديو xJOD1LTzbNA
 
-لينك الطبقة: [[G_yt_xJOD1LTzbNA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_xJOD1LTzbNA.md|G_yt_xJOD1LTzbNA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

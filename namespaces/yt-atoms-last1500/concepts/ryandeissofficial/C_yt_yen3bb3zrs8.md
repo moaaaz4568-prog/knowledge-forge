@@ -8,7 +8,7 @@ sources: [sources/S_yt_yen3bb3zrs8.md]
 
 # C_yt_yen3bb3zrs8 — فكرة مشتركة في ذرات فيديو yen3bb3zrs8
 
-لينك الطبقة: [[G_yt_yen3bb3zrs8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_yen3bb3zrs8.md|G_yt_yen3bb3zrs8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

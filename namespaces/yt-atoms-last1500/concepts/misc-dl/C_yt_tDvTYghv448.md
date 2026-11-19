@@ -8,7 +8,7 @@ sources: [sources/S_yt_tDvTYghv448.md]
 
 # C_yt_tDvTYghv448 — فكرة مشتركة في ذرات فيديو tDvTYghv448
 
-لينك الطبقة: [[G_yt_tDvTYghv448]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tDvTYghv448.md|G_yt_tDvTYghv448]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zQtIYTQi0hg.md]
 
 # C_yt_zQtIYTQi0hg — فكرة مشتركة في ذرات فيديو zQtIYTQi0hg
 
-لينك الطبقة: [[G_yt_zQtIYTQi0hg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_zQtIYTQi0hg.md|G_yt_zQtIYTQi0hg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

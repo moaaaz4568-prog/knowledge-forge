@@ -8,7 +8,7 @@ sources: [sources/S_yt_uuicGawx8iw.md]
 
 # C_yt_uuicGawx8iw — فكرة مشتركة في ذرات فيديو uuicGawx8iw
 
-لينك الطبقة: [[G_yt_uuicGawx8iw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uuicGawx8iw.md|G_yt_uuicGawx8iw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

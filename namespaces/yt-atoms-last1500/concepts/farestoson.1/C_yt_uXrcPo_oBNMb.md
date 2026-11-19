@@ -8,7 +8,7 @@ sources: [sources/S_yt_uXrcPo_oBNMb.md]
 
 # C_yt_uXrcPo_oBNMb — فكرة مشتركة في ذرات فيديو uXrcPo_oBNMb
 
-لينك الطبقة: [[G_yt_uXrcPo_oBNMb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/farestoson.1/G_uXrcPo_oBNMb.md|G_yt_uXrcPo_oBNMb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

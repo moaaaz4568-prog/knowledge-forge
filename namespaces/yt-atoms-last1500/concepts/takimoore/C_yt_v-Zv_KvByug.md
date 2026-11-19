@@ -8,7 +8,7 @@ sources: [sources/S_yt_v-Zv_KvByug.md]
 
 # C_yt_v-Zv_KvByug — مقطع منقول من مصدر قصير جداً (v-Zv_KvByug)
 
-لينك الطبقة: [[G_yt_v-Zv_KvByug]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_v-Zv_KvByug.md|G_yt_v-Zv_KvByug]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

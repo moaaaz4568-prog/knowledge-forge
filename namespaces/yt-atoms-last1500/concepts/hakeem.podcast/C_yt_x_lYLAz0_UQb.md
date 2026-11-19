@@ -8,7 +8,7 @@ sources: [sources/S_yt_x_lYLAz0_UQb.md]
 
 # C_yt_x_lYLAz0_UQb — فكرة مشتركة في ذرات فيديو x_lYLAz0_UQb
 
-لينك الطبقة: [[G_yt_x_lYLAz0_UQb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_x_lYLAz0_UQb.md|G_yt_x_lYLAz0_UQb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

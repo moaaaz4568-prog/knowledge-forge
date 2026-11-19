@@ -8,7 +8,7 @@ sources: [sources/S_yt_y5i9zD_kAuA.md]
 
 # C_yt_y5i9zD_kAuA — فكرة مشتركة في ذرات فيديو y5i9zD_kAuA
 
-لينك الطبقة: [[G_yt_y5i9zD_kAuA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_y5i9zD_kAuA.md|G_yt_y5i9zD_kAuA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yAPu61XYxKs.md]
 
 # C_yt_yAPu61XYxKs — فكرة مشتركة في ذرات فيديو yAPu61XYxKs
 
-لينك الطبقة: [[G_yt_yAPu61XYxKs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yAPu61XYxKs.md|G_yt_yAPu61XYxKs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

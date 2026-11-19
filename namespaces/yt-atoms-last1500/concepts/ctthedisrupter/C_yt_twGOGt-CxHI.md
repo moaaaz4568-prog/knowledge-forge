@@ -8,7 +8,7 @@ sources: [sources/S_yt_twGOGt-CxHI.md]
 
 # C_yt_twGOGt-CxHI — فكرة مشتركة في ذرات فيديو twGOGt-CxHI
 
-لينك الطبقة: [[G_yt_twGOGt-CxHI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_twGOGt-CxHI.md|G_yt_twGOGt-CxHI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

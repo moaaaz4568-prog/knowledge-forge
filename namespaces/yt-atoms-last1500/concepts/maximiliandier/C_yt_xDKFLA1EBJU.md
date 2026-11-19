@@ -8,7 +8,7 @@ sources: [sources/S_yt_xDKFLA1EBJU.md]
 
 # C_yt_xDKFLA1EBJU — فكرة مشتركة في ذرات فيديو xDKFLA1EBJU
 
-لينك الطبقة: [[G_yt_xDKFLA1EBJU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_xDKFLA1EBJU.md|G_yt_xDKFLA1EBJU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

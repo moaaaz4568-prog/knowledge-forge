@@ -8,7 +8,7 @@ sources: [sources/S_yt_xesSU_hsNGE.md]
 
 # C_yt_xesSU_hsNGE — فكرة مشتركة في ذرات فيديو xesSU_hsNGE
 
-لينك الطبقة: [[G_yt_xesSU_hsNGE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xesSU_hsNGE.md|G_yt_xesSU_hsNGE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

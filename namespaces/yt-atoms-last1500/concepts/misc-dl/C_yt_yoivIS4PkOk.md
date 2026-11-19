@@ -8,7 +8,7 @@ sources: [sources/S_yt_yoivIS4PkOk.md]
 
 # C_yt_yoivIS4PkOk — فكرة مشتركة في ذرات فيديو yoivIS4PkOk
 
-لينك الطبقة: [[G_yt_yoivIS4PkOk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yoivIS4PkOk.md|G_yt_yoivIS4PkOk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

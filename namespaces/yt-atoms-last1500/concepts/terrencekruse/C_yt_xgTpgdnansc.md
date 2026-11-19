@@ -8,7 +8,7 @@ sources: [sources/S_yt_xgTpgdnansc.md]
 
 # C_yt_xgTpgdnansc — فكرة مشتركة في ذرات فيديو xgTpgdnansc
 
-لينك الطبقة: [[G_yt_xgTpgdnansc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/terrencekruse/G_xgTpgdnansc.md|G_yt_xgTpgdnansc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

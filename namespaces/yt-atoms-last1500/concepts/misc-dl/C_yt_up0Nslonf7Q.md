@@ -8,7 +8,7 @@ sources: [sources/S_yt_up0Nslonf7Q.md]
 
 # C_yt_up0Nslonf7Q — فكرة مشتركة في ذرات فيديو up0Nslonf7Q
 
-لينك الطبقة: [[G_yt_up0Nslonf7Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_up0Nslonf7Q.md|G_yt_up0Nslonf7Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

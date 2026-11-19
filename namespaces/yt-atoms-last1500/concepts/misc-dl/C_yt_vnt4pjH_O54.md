@@ -8,7 +8,7 @@ sources: [sources/S_yt_vnt4pjH_O54.md]
 
 # C_yt_vnt4pjH_O54 — فكرة مشتركة في ذرات فيديو vnt4pjH_O54
 
-لينك الطبقة: [[G_yt_vnt4pjH_O54]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vnt4pjH_O54.md|G_yt_vnt4pjH_O54]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

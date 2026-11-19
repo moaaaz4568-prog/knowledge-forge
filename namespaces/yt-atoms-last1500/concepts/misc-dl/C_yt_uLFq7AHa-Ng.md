@@ -8,7 +8,7 @@ sources: [sources/S_yt_uLFq7AHa-Ng.md]
 
 # C_yt_uLFq7AHa-Ng — فكرة مشتركة في ذرات فيديو uLFq7AHa-Ng
 
-لينك الطبقة: [[G_yt_uLFq7AHa-Ng]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uLFq7AHa-Ng.md|G_yt_uLFq7AHa-Ng]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

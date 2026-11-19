@@ -8,7 +8,7 @@ sources: [sources/S_yt_uLf0pd890MY.md]
 
 # C_yt_uLf0pd890MY — فكرة مشتركة في ذرات فيديو uLf0pd890MY
 
-لينك الطبقة: [[G_yt_uLf0pd890MY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uLf0pd890MY.md|G_yt_uLf0pd890MY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

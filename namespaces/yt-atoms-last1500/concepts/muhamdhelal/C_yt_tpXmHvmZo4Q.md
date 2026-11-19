@@ -8,7 +8,7 @@ sources: [sources/S_yt_tpXmHvmZo4Q.md]
 
 # C_yt_tpXmHvmZo4Q — فكرة مشتركة في ذرات فيديو tpXmHvmZo4Q
 
-لينك الطبقة: [[G_yt_tpXmHvmZo4Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_tpXmHvmZo4Q.md|G_yt_tpXmHvmZo4Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

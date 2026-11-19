@@ -8,7 +8,7 @@ sources: [sources/S_yt_wB5AUtzCGdM.md]
 
 # C_yt_wB5AUtzCGdM — فكرة مشتركة في ذرات فيديو wB5AUtzCGdM
 
-لينك الطبقة: [[G_yt_wB5AUtzCGdM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_wB5AUtzCGdM.md|G_yt_wB5AUtzCGdM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

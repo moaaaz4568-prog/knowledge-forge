@@ -8,7 +8,7 @@ sources: [sources/S_yt_zhs58kRbOBk.md]
 
 # C_yt_zhs58kRbOBk — فكرة مشتركة في ذرات فيديو zhs58kRbOBk
 
-لينك الطبقة: [[G_yt_zhs58kRbOBk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_zhs58kRbOBk.md|G_yt_zhs58kRbOBk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

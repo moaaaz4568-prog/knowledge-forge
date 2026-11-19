@@ -8,7 +8,7 @@ sources: [sources/S_yt_vDM_kMx-v4M.md]
 
 # C_yt_vDM_kMx-v4M — مقطع منقول من مصدر قصير جداً (vDM_kMx-v4M)
 
-لينك الطبقة: [[G_yt_vDM_kMx-v4M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_vDM_kMx-v4M.md|G_yt_vDM_kMx-v4M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

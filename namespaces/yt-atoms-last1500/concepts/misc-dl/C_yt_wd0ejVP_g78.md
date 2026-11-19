@@ -8,7 +8,7 @@ sources: [sources/S_yt_wd0ejVP_g78.md]
 
 # C_yt_wd0ejVP_g78 — فكرة مشتركة في ذرات فيديو wd0ejVP_g78
 
-لينك الطبقة: [[G_yt_wd0ejVP_g78]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wd0ejVP_g78.md|G_yt_wd0ejVP_g78]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

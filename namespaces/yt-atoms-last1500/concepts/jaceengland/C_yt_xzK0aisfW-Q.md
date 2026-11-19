@@ -8,7 +8,7 @@ sources: [sources/S_yt_xzK0aisfW-Q.md]
 
 # C_yt_xzK0aisfW-Q — فكرة مشتركة في ذرات فيديو xzK0aisfW-Q
 
-لينك الطبقة: [[G_yt_xzK0aisfW-Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_xzK0aisfW-Q.md|G_yt_xzK0aisfW-Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wD9bcUvsVsYb.md]
 
 # C_yt_wD9bcUvsVsYb — فكرة مشتركة في ذرات فيديو wD9bcUvsVsYb
 
-لينك الطبقة: [[G_yt_wD9bcUvsVsYb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/farestoson.1/G_wD9bcUvsVsYb.md|G_yt_wD9bcUvsVsYb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

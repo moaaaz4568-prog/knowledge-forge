@@ -8,7 +8,7 @@ sources: [sources/S_yt_z-ExETtoAOU.md]
 
 # C_yt_z-ExETtoAOU — فكرة مشتركة في ذرات فيديو z-ExETtoAOU
 
-لينك الطبقة: [[G_yt_z-ExETtoAOU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_z-ExETtoAOU.md|G_yt_z-ExETtoAOU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

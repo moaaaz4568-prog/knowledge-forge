@@ -8,7 +8,7 @@ sources: [sources/S_yt_zYDkeKHjsuM.md]
 
 # C_yt_zYDkeKHjsuM — فكرة مشتركة في ذرات فيديو zYDkeKHjsuM
 
-لينك الطبقة: [[G_yt_zYDkeKHjsuM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zYDkeKHjsuM.md|G_yt_zYDkeKHjsuM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

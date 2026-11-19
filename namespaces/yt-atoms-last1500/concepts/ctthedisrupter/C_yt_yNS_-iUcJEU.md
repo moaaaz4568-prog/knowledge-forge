@@ -8,7 +8,7 @@ sources: [sources/S_yt_yNS_-iUcJEU.md]
 
 # C_yt_yNS_-iUcJEU — فكرة مشتركة في ذرات فيديو yNS_-iUcJEU
 
-لينك الطبقة: [[G_yt_yNS_-iUcJEU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_yNS_-iUcJEU.md|G_yt_yNS_-iUcJEU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

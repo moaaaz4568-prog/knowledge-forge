@@ -8,7 +8,7 @@ sources: [sources/S_yt_y0rUDnRCYbI.md]
 
 # C_yt_y0rUDnRCYbI — فكرة مشتركة في ذرات فيديو y0rUDnRCYbI
 
-لينك الطبقة: [[G_yt_y0rUDnRCYbI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_y0rUDnRCYbI.md|G_yt_y0rUDnRCYbI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

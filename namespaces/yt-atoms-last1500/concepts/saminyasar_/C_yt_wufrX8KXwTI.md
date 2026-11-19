@@ -8,7 +8,7 @@ sources: [sources/S_yt_wufrX8KXwTI.md]
 
 # C_yt_wufrX8KXwTI — فكرة مشتركة في ذرات فيديو wufrX8KXwTI
 
-لينك الطبقة: [[G_yt_wufrX8KXwTI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_wufrX8KXwTI.md|G_yt_wufrX8KXwTI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

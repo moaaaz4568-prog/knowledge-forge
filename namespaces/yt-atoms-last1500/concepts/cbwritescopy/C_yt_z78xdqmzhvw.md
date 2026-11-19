@@ -8,7 +8,7 @@ sources: [sources/S_yt_z78xdqmzhvw.md]
 
 # C_yt_z78xdqmzhvw — فكرة مشتركة في ذرات فيديو z78xdqmzhvw
 
-لينك الطبقة: [[G_yt_z78xdqmzhvw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_z78xdqmzhvw.md|G_yt_z78xdqmzhvw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

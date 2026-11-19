@@ -8,7 +8,7 @@ sources: [sources/S_yt_xu0EDM3ShCM.md]
 
 # C_yt_xu0EDM3ShCM — فكرة مشتركة في ذرات فيديو xu0EDM3ShCM
 
-لينك الطبقة: [[G_yt_xu0EDM3ShCM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_xu0EDM3ShCM.md|G_yt_xu0EDM3ShCM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

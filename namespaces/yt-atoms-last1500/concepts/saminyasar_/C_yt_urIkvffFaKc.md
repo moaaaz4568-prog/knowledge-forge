@@ -8,7 +8,7 @@ sources: [sources/S_yt_urIkvffFaKc.md]
 
 # C_yt_urIkvffFaKc — فكرة مشتركة في ذرات فيديو urIkvffFaKc
 
-لينك الطبقة: [[G_yt_urIkvffFaKc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_urIkvffFaKc.md|G_yt_urIkvffFaKc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_w53qoy_6jeQb.md]
 
 # C_yt_w53qoy_6jeQb — فكرة مشتركة في ذرات فيديو w53qoy_6jeQb
 
-لينك الطبقة: [[G_yt_w53qoy_6jeQb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_w53qoy_6jeQb.md|G_yt_w53qoy_6jeQb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

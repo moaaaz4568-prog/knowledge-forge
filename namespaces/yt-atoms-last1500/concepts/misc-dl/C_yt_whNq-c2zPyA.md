@@ -8,7 +8,7 @@ sources: [sources/S_yt_whNq-c2zPyA.md]
 
 # C_yt_whNq-c2zPyA — فكرة مشتركة في ذرات فيديو whNq-c2zPyA
 
-لينك الطبقة: [[G_yt_whNq-c2zPyA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_whNq-c2zPyA.md|G_yt_whNq-c2zPyA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

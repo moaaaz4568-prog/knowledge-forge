@@ -8,7 +8,7 @@ sources: [sources/S_yt_zw9y5kerf9o.md]
 
 # C_yt_zw9y5kerf9o — فكرة مشتركة في ذرات فيديو zw9y5kerf9o
 
-لينك الطبقة: [[G_yt_zw9y5kerf9o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_zw9y5kerf9o.md|G_yt_zw9y5kerf9o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

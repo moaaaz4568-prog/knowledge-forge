@@ -8,7 +8,7 @@ sources: [sources/S_yt_ydaRBiUl-lU.md]
 
 # C_yt_ydaRBiUl-lU — فكرة مشتركة في ذرات فيديو ydaRBiUl-lU
 
-لينك الطبقة: [[G_yt_ydaRBiUl-lU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_ydaRBiUl-lU.md|G_yt_ydaRBiUl-lU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

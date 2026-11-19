@@ -8,7 +8,7 @@ sources: [sources/S_yt_zeHkJuMORJEb.md]
 
 # C_yt_zeHkJuMORJEb — فكرة مشتركة في ذرات فيديو zeHkJuMORJEb
 
-لينك الطبقة: [[G_yt_zeHkJuMORJEb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zeHkJuMORJEb.md|G_yt_zeHkJuMORJEb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

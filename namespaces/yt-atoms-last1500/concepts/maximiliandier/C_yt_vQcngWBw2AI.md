@@ -8,7 +8,7 @@ sources: [sources/S_yt_vQcngWBw2AI.md]
 
 # C_yt_vQcngWBw2AI — فكرة مشتركة في ذرات فيديو vQcngWBw2AI
 
-لينك الطبقة: [[G_yt_vQcngWBw2AI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_vQcngWBw2AI.md|G_yt_vQcngWBw2AI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

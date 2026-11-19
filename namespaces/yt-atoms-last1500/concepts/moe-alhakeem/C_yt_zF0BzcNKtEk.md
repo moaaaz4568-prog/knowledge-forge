@@ -8,7 +8,7 @@ sources: [sources/S_yt_zF0BzcNKtEk.md]
 
 # C_yt_zF0BzcNKtEk — فكرة مشتركة في ذرات فيديو zF0BzcNKtEk
 
-لينك الطبقة: [[G_yt_zF0BzcNKtEk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_zF0BzcNKtEk.md|G_yt_zF0BzcNKtEk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

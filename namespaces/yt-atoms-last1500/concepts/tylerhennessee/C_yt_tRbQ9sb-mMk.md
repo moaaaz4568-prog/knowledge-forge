@@ -8,7 +8,7 @@ sources: [sources/S_yt_tRbQ9sb-mMk.md]
 
 # C_yt_tRbQ9sb-mMk — فكرة مشتركة في ذرات فيديو tRbQ9sb-mMk
 
-لينك الطبقة: [[G_yt_tRbQ9sb-mMk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_tRbQ9sb-mMk.md|G_yt_tRbQ9sb-mMk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

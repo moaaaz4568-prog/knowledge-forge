@@ -8,7 +8,7 @@ sources: [sources/S_yt_zEALStegCiEb.md]
 
 # C_yt_zEALStegCiEb — فكرة مشتركة في ذرات فيديو zEALStegCiEb
 
-لينك الطبقة: [[G_yt_zEALStegCiEb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zEALStegCiEb.md|G_yt_zEALStegCiEb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

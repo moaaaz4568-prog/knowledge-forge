@@ -8,7 +8,7 @@ sources: [sources/S_yt_uRK-3lmnGcU.md]
 
 # C_yt_uRK-3lmnGcU — فكرة مشتركة في ذرات فيديو uRK-3lmnGcU
 
-لينك الطبقة: [[G_yt_uRK-3lmnGcU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_uRK-3lmnGcU.md|G_yt_uRK-3lmnGcU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

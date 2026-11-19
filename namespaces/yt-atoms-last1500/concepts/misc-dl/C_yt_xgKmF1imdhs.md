@@ -8,7 +8,7 @@ sources: [sources/S_yt_xgKmF1imdhs.md]
 
 # C_yt_xgKmF1imdhs — فكرة مشتركة في ذرات فيديو xgKmF1imdhs
 
-لينك الطبقة: [[G_yt_xgKmF1imdhs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xgKmF1imdhs.md|G_yt_xgKmF1imdhs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

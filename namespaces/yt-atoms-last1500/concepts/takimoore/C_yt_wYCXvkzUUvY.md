@@ -8,7 +8,7 @@ sources: [sources/S_yt_wYCXvkzUUvY.md]
 
 # C_yt_wYCXvkzUUvY — فكرة مشتركة في ذرات فيديو wYCXvkzUUvY
 
-لينك الطبقة: [[G_yt_wYCXvkzUUvY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_wYCXvkzUUvY.md|G_yt_wYCXvkzUUvY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tKY634THsbU.md]
 
 # C_yt_tKY634THsbU — فكرة مشتركة في ذرات فيديو tKY634THsbU
 
-لينك الطبقة: [[G_yt_tKY634THsbU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tKY634THsbU.md|G_yt_tKY634THsbU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

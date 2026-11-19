@@ -8,7 +8,7 @@ sources: [sources/S_yt_yk7BPylYBeM.md]
 
 # C_yt_yk7BPylYBeM — فكرة مشتركة في ذرات فيديو yk7BPylYBeM
 
-لينك الطبقة: [[G_yt_yk7BPylYBeM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_yk7BPylYBeM.md|G_yt_yk7BPylYBeM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

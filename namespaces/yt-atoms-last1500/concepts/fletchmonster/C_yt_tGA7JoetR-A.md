@@ -8,7 +8,7 @@ sources: [sources/S_yt_tGA7JoetR-A.md]
 
 # C_yt_tGA7JoetR-A — فكرة مشتركة في ذرات فيديو tGA7JoetR-A
 
-لينك الطبقة: [[G_yt_tGA7JoetR-A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_tGA7JoetR-A.md|G_yt_tGA7JoetR-A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

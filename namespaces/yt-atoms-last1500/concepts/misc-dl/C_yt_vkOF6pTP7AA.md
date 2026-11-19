@@ -8,7 +8,7 @@ sources: [sources/S_yt_vkOF6pTP7AA.md]
 
 # C_yt_vkOF6pTP7AA — فكرة مشتركة في ذرات فيديو vkOF6pTP7AA
 
-لينك الطبقة: [[G_yt_vkOF6pTP7AA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vkOF6pTP7AA.md|G_yt_vkOF6pTP7AA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

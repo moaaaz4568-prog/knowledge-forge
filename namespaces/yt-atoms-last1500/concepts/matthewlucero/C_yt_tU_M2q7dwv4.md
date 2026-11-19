@@ -8,7 +8,7 @@ sources: [sources/S_yt_tU_M2q7dwv4.md]
 
 # C_yt_tU_M2q7dwv4 — فكرة مشتركة في ذرات فيديو tU_M2q7dwv4
 
-لينك الطبقة: [[G_yt_tU_M2q7dwv4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_tU_M2q7dwv4.md|G_yt_tU_M2q7dwv4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

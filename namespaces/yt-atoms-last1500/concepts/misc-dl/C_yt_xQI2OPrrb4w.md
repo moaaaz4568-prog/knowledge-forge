@@ -8,7 +8,7 @@ sources: [sources/S_yt_xQI2OPrrb4w.md]
 
 # C_yt_xQI2OPrrb4w — فكرة مشتركة في ذرات فيديو xQI2OPrrb4w
 
-لينك الطبقة: [[G_yt_xQI2OPrrb4w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xQI2OPrrb4w.md|G_yt_xQI2OPrrb4w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

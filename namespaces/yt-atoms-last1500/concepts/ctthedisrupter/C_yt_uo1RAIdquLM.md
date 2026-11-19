@@ -8,7 +8,7 @@ sources: [sources/S_yt_uo1RAIdquLM.md]
 
 # C_yt_uo1RAIdquLM — فكرة مشتركة في ذرات فيديو uo1RAIdquLM
 
-لينك الطبقة: [[G_yt_uo1RAIdquLM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uo1RAIdquLM.md|G_yt_uo1RAIdquLM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

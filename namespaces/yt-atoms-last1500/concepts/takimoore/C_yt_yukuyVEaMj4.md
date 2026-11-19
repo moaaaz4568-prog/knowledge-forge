@@ -8,7 +8,7 @@ sources: [sources/S_yt_yukuyVEaMj4.md]
 
 # C_yt_yukuyVEaMj4 — فكرة مشتركة في ذرات فيديو yukuyVEaMj4
 
-لينك الطبقة: [[G_yt_yukuyVEaMj4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_yukuyVEaMj4.md|G_yt_yukuyVEaMj4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

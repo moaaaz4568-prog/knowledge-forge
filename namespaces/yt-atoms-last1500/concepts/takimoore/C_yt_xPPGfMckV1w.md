@@ -8,7 +8,7 @@ sources: [sources/S_yt_xPPGfMckV1w.md]
 
 # C_yt_xPPGfMckV1w — فكرة مشتركة في ذرات فيديو xPPGfMckV1w
 
-لينك الطبقة: [[G_yt_xPPGfMckV1w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xPPGfMckV1w.md|G_yt_xPPGfMckV1w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

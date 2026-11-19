@@ -8,7 +8,7 @@ sources: [sources/S_yt_zeSIlgevsaI.md]
 
 # C_yt_zeSIlgevsaI — فكرة مشتركة في ذرات فيديو zeSIlgevsaI
 
-لينك الطبقة: [[G_yt_zeSIlgevsaI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_zeSIlgevsaI.md|G_yt_zeSIlgevsaI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

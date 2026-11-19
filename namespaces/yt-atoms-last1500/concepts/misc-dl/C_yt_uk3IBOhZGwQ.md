@@ -8,7 +8,7 @@ sources: [sources/S_yt_uk3IBOhZGwQ.md]
 
 # C_yt_uk3IBOhZGwQ — فكرة مشتركة في ذرات فيديو uk3IBOhZGwQ
 
-لينك الطبقة: [[G_yt_uk3IBOhZGwQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uk3IBOhZGwQ.md|G_yt_uk3IBOhZGwQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

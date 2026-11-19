@@ -8,7 +8,7 @@ sources: [sources/S_yt_ua2-BSTFJXM.md]
 
 # C_yt_ua2-BSTFJXM — فكرة مشتركة في ذرات فيديو ua2-BSTFJXM
 
-لينك الطبقة: [[G_yt_ua2-BSTFJXM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ua2-BSTFJXM.md|G_yt_ua2-BSTFJXM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

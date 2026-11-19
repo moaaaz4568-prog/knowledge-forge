@@ -8,7 +8,7 @@ sources: [sources/S_yt_u31dZiJTRl4.md]
 
 # C_yt_u31dZiJTRl4 — فكرة مشتركة في ذرات فيديو u31dZiJTRl4
 
-لينك الطبقة: [[G_yt_u31dZiJTRl4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_u31dZiJTRl4.md|G_yt_u31dZiJTRl4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

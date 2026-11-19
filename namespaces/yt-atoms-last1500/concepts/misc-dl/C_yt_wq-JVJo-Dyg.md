@@ -8,7 +8,7 @@ sources: [sources/S_yt_wq-JVJo-Dyg.md]
 
 # C_yt_wq-JVJo-Dyg — فكرة مشتركة في ذرات فيديو wq-JVJo-Dyg
 
-لينك الطبقة: [[G_yt_wq-JVJo-Dyg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wq-JVJo-Dyg.md|G_yt_wq-JVJo-Dyg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

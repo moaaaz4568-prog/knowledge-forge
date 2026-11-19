@@ -8,7 +8,7 @@ sources: [sources/S_yt_vfmi1yL38qcb.md]
 
 # C_yt_vfmi1yL38qcb — فكرة مشتركة في ذرات فيديو vfmi1yL38qcb
 
-لينك الطبقة: [[G_yt_vfmi1yL38qcb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vfmi1yL38qcb.md|G_yt_vfmi1yL38qcb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

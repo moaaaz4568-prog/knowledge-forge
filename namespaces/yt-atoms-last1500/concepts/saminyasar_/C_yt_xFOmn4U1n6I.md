@@ -8,7 +8,7 @@ sources: [sources/S_yt_xFOmn4U1n6I.md]
 
 # C_yt_xFOmn4U1n6I — فكرة مشتركة في ذرات فيديو xFOmn4U1n6I
 
-لينك الطبقة: [[G_yt_xFOmn4U1n6I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_xFOmn4U1n6I.md|G_yt_xFOmn4U1n6I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

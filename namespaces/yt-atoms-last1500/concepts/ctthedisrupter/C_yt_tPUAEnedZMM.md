@@ -8,7 +8,7 @@ sources: [sources/S_yt_tPUAEnedZMM.md]
 
 # C_yt_tPUAEnedZMM — فكرة مشتركة في ذرات فيديو tPUAEnedZMM
 
-لينك الطبقة: [[G_yt_tPUAEnedZMM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_tPUAEnedZMM.md|G_yt_tPUAEnedZMM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

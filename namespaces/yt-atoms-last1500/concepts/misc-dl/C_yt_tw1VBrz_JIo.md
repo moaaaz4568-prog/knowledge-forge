@@ -8,7 +8,7 @@ sources: [sources/S_yt_tw1VBrz_JIo.md]
 
 # C_yt_tw1VBrz_JIo — فكرة مشتركة في ذرات فيديو tw1VBrz_JIo
 
-لينك الطبقة: [[G_yt_tw1VBrz_JIo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tw1VBrz_JIo.md|G_yt_tw1VBrz_JIo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

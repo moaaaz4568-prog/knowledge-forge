@@ -8,7 +8,7 @@ sources: [sources/S_yt_zAfyWaLhmYM.md]
 
 # C_yt_zAfyWaLhmYM — فكرة مشتركة في ذرات فيديو zAfyWaLhmYM
 
-لينك الطبقة: [[G_yt_zAfyWaLhmYM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_zAfyWaLhmYM.md|G_yt_zAfyWaLhmYM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

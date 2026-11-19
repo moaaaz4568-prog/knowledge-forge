@@ -8,7 +8,7 @@ sources: [sources/S_yt_vjtRq7DFFLI.md]
 
 # C_yt_vjtRq7DFFLI — فكرة مشتركة في ذرات فيديو vjtRq7DFFLI
 
-لينك الطبقة: [[G_yt_vjtRq7DFFLI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_vjtRq7DFFLI.md|G_yt_vjtRq7DFFLI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

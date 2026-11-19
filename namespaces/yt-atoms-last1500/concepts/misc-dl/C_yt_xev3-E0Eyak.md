@@ -8,7 +8,7 @@ sources: [sources/S_yt_xev3-E0Eyak.md]
 
 # C_yt_xev3-E0Eyak — فكرة مشتركة في ذرات فيديو xev3-E0Eyak
 
-لينك الطبقة: [[G_yt_xev3-E0Eyak]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xev3-E0Eyak.md|G_yt_xev3-E0Eyak]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

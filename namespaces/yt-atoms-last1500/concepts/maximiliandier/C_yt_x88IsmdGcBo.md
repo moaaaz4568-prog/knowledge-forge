@@ -8,7 +8,7 @@ sources: [sources/S_yt_x88IsmdGcBo.md]
 
 # C_yt_x88IsmdGcBo — فكرة مشتركة في ذرات فيديو x88IsmdGcBo
 
-لينك الطبقة: [[G_yt_x88IsmdGcBo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_x88IsmdGcBo.md|G_yt_x88IsmdGcBo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

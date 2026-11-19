@@ -8,7 +8,7 @@ sources: [sources/S_yt_xXTVcHIsL1E.md]
 
 # C_yt_xXTVcHIsL1E — فكرة مشتركة في ذرات فيديو xXTVcHIsL1E
 
-لينك الطبقة: [[G_yt_xXTVcHIsL1E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_xXTVcHIsL1E.md|G_yt_xXTVcHIsL1E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

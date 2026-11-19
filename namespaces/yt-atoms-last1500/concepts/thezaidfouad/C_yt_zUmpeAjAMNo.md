@@ -8,7 +8,7 @@ sources: [sources/S_yt_zUmpeAjAMNo.md]
 
 # C_yt_zUmpeAjAMNo — فكرة مشتركة في ذرات فيديو zUmpeAjAMNo
 
-لينك الطبقة: [[G_yt_zUmpeAjAMNo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thezaidfouad/G_zUmpeAjAMNo.md|G_yt_zUmpeAjAMNo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

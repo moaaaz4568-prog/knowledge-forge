@@ -8,7 +8,7 @@ sources: [sources/S_yt_uViyOJsc6O4.md]
 
 # C_yt_uViyOJsc6O4 — فكرة مشتركة في ذرات فيديو uViyOJsc6O4
 
-لينك الطبقة: [[G_yt_uViyOJsc6O4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uViyOJsc6O4.md|G_yt_uViyOJsc6O4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

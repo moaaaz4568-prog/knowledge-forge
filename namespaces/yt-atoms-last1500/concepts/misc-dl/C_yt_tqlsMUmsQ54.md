@@ -8,7 +8,7 @@ sources: [sources/S_yt_tqlsMUmsQ54.md]
 
 # C_yt_tqlsMUmsQ54 — فكرة مشتركة في ذرات فيديو tqlsMUmsQ54
 
-لينك الطبقة: [[G_yt_tqlsMUmsQ54]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tqlsMUmsQ54.md|G_yt_tqlsMUmsQ54]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

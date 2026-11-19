@@ -8,7 +8,7 @@ sources: [sources/S_yt_z1JTqkC43k0.md]
 
 # C_yt_z1JTqkC43k0 — فكرة مشتركة في ذرات فيديو z1JTqkC43k0
 
-لينك الطبقة: [[G_yt_z1JTqkC43k0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_z1JTqkC43k0.md|G_yt_z1JTqkC43k0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

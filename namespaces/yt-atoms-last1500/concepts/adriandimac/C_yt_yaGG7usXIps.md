@@ -8,7 +8,7 @@ sources: [sources/S_yt_yaGG7usXIps.md]
 
 # C_yt_yaGG7usXIps — فكرة مشتركة في ذرات فيديو yaGG7usXIps
 
-لينك الطبقة: [[G_yt_yaGG7usXIps]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_yaGG7usXIps.md|G_yt_yaGG7usXIps]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

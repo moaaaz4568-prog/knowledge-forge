@@ -8,7 +8,7 @@ sources: [sources/S_yt_xPuuBra3NUc.md]
 
 # C_yt_xPuuBra3NUc — فكرة مشتركة في ذرات فيديو xPuuBra3NUc
 
-لينك الطبقة: [[G_yt_xPuuBra3NUc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xPuuBra3NUc.md|G_yt_xPuuBra3NUc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

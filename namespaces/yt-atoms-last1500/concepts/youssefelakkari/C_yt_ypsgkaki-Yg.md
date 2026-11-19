@@ -8,7 +8,7 @@ sources: [sources/S_yt_ypsgkaki-Yg.md]
 
 # C_yt_ypsgkaki-Yg — فكرة مشتركة في ذرات فيديو ypsgkaki-Yg
 
-لينك الطبقة: [[G_yt_ypsgkaki-Yg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_ypsgkaki-Yg.md|G_yt_ypsgkaki-Yg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

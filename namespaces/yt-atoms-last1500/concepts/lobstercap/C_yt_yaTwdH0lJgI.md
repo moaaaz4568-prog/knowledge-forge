@@ -8,7 +8,7 @@ sources: [sources/S_yt_yaTwdH0lJgI.md]
 
 # C_yt_yaTwdH0lJgI — فكرة مشتركة في ذرات فيديو yaTwdH0lJgI
 
-لينك الطبقة: [[G_yt_yaTwdH0lJgI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_yaTwdH0lJgI.md|G_yt_yaTwdH0lJgI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

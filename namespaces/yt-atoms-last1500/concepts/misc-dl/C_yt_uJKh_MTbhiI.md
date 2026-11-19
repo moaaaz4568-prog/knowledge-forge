@@ -8,7 +8,7 @@ sources: [sources/S_yt_uJKh_MTbhiI.md]
 
 # C_yt_uJKh_MTbhiI — فكرة مشتركة في ذرات فيديو uJKh_MTbhiI
 
-لينك الطبقة: [[G_yt_uJKh_MTbhiI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uJKh_MTbhiI.md|G_yt_uJKh_MTbhiI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

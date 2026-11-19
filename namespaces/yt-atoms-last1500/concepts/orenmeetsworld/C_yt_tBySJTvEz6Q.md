@@ -8,7 +8,7 @@ sources: [sources/S_yt_tBySJTvEz6Q.md]
 
 # C_yt_tBySJTvEz6Q — فكرة مشتركة في ذرات فيديو tBySJTvEz6Q
 
-لينك الطبقة: [[G_yt_tBySJTvEz6Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_tBySJTvEz6Q.md|G_yt_tBySJTvEz6Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

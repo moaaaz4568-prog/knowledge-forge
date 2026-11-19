@@ -8,7 +8,7 @@ sources: [sources/S_yt_vSdR1H_olvQ.md]
 
 # C_yt_vSdR1H_olvQ — فكرة مشتركة في ذرات فيديو vSdR1H_olvQ
 
-لينك الطبقة: [[G_yt_vSdR1H_olvQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vSdR1H_olvQ.md|G_yt_vSdR1H_olvQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

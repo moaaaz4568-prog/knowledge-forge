@@ -8,7 +8,7 @@ sources: [sources/S_yt_x77UCROx4PM.md]
 
 # C_yt_x77UCROx4PM — فكرة مشتركة في ذرات فيديو x77UCROx4PM
 
-لينك الطبقة: [[G_yt_x77UCROx4PM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_x77UCROx4PM.md|G_yt_x77UCROx4PM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

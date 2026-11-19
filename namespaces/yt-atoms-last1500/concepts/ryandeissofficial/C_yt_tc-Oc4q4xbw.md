@@ -8,7 +8,7 @@ sources: [sources/S_yt_tc-Oc4q4xbw.md]
 
 # C_yt_tc-Oc4q4xbw — فكرة مشتركة في ذرات فيديو tc-Oc4q4xbw
 
-لينك الطبقة: [[G_yt_tc-Oc4q4xbw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_tc-Oc4q4xbw.md|G_yt_tc-Oc4q4xbw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

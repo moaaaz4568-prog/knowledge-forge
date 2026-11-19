@@ -8,7 +8,7 @@ sources: [sources/S_yt_xHEH1ss13NQ.md]
 
 # C_yt_xHEH1ss13NQ — فكرة مشتركة في ذرات فيديو xHEH1ss13NQ
 
-لينك الطبقة: [[G_yt_xHEH1ss13NQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xHEH1ss13NQ.md|G_yt_xHEH1ss13NQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

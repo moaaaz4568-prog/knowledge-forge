@@ -8,7 +8,7 @@ sources: [sources/S_yt_z4Fr0jazn-A.md]
 
 # C_yt_z4Fr0jazn-A — فكرة مشتركة في ذرات فيديو z4Fr0jazn-A
 
-لينك الطبقة: [[G_yt_z4Fr0jazn-A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_z4Fr0jazn-A.md|G_yt_z4Fr0jazn-A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yfuslrHK13U.md]
 
 # C_yt_yfuslrHK13U — فكرة مشتركة في ذرات فيديو yfuslrHK13U
 
-لينك الطبقة: [[G_yt_yfuslrHK13U]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_yfuslrHK13U.md|G_yt_yfuslrHK13U]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

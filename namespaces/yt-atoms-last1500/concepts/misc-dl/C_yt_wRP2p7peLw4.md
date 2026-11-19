@@ -8,7 +8,7 @@ sources: [sources/S_yt_wRP2p7peLw4.md]
 
 # C_yt_wRP2p7peLw4 — فكرة مشتركة في ذرات فيديو wRP2p7peLw4
 
-لينك الطبقة: [[G_yt_wRP2p7peLw4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wRP2p7peLw4.md|G_yt_wRP2p7peLw4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

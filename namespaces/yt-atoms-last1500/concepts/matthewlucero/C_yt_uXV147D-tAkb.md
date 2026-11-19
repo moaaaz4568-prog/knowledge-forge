@@ -8,7 +8,7 @@ sources: [sources/S_yt_uXV147D-tAkb.md]
 
 # C_yt_uXV147D-tAkb — فكرة مشتركة في ذرات فيديو uXV147D-tAkb
 
-لينك الطبقة: [[G_yt_uXV147D-tAkb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_uXV147D-tAkb.md|G_yt_uXV147D-tAkb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

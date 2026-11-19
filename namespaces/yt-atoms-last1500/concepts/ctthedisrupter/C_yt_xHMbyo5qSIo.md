@@ -8,7 +8,7 @@ sources: [sources/S_yt_xHMbyo5qSIo.md]
 
 # C_yt_xHMbyo5qSIo — فكرة مشتركة في ذرات فيديو xHMbyo5qSIo
 
-لينك الطبقة: [[G_yt_xHMbyo5qSIo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xHMbyo5qSIo.md|G_yt_xHMbyo5qSIo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

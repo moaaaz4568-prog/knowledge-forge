@@ -8,7 +8,7 @@ sources: [sources/S_yt_wiu5Efx029s.md]
 
 # C_yt_wiu5Efx029s — فكرة مشتركة في ذرات فيديو wiu5Efx029s
 
-لينك الطبقة: [[G_yt_wiu5Efx029s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wiu5Efx029s.md|G_yt_wiu5Efx029s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

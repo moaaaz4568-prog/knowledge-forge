@@ -8,7 +8,7 @@ sources: [sources/S_yt_zaUNw_jyk7c.md]
 
 # C_yt_zaUNw_jyk7c — فكرة مشتركة في ذرات فيديو zaUNw_jyk7c
 
-لينك الطبقة: [[G_yt_zaUNw_jyk7c]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zaUNw_jyk7c.md|G_yt_zaUNw_jyk7c]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

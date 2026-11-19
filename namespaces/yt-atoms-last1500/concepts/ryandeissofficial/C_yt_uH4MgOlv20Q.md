@@ -8,7 +8,7 @@ sources: [sources/S_yt_uH4MgOlv20Q.md]
 
 # C_yt_uH4MgOlv20Q — فكرة مشتركة في ذرات فيديو uH4MgOlv20Q
 
-لينك الطبقة: [[G_yt_uH4MgOlv20Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_uH4MgOlv20Q.md|G_yt_uH4MgOlv20Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

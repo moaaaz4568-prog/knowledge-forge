@@ -8,7 +8,7 @@ sources: [sources/S_yt_uSdIG0-OnBs.md]
 
 # C_yt_uSdIG0-OnBs — فكرة مشتركة في ذرات فيديو uSdIG0-OnBs
 
-لينك الطبقة: [[G_yt_uSdIG0-OnBs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uSdIG0-OnBs.md|G_yt_uSdIG0-OnBs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

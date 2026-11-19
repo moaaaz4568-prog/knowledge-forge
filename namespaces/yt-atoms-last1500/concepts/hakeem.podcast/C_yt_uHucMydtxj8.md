@@ -8,7 +8,7 @@ sources: [sources/S_yt_uHucMydtxj8.md]
 
 # C_yt_uHucMydtxj8 — فكرة مشتركة في ذرات فيديو uHucMydtxj8
 
-لينك الطبقة: [[G_yt_uHucMydtxj8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_uHucMydtxj8.md|G_yt_uHucMydtxj8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

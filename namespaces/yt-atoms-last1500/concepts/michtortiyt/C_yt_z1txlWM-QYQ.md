@@ -8,7 +8,7 @@ sources: [sources/S_yt_z1txlWM-QYQ.md]
 
 # C_yt_z1txlWM-QYQ — فكرة مشتركة في ذرات فيديو z1txlWM-QYQ
 
-لينك الطبقة: [[G_yt_z1txlWM-QYQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_z1txlWM-QYQ.md|G_yt_z1txlWM-QYQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

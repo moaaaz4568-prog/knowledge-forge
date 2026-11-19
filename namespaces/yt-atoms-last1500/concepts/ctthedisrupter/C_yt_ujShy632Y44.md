@@ -8,7 +8,7 @@ sources: [sources/S_yt_ujShy632Y44.md]
 
 # C_yt_ujShy632Y44 — فكرة مشتركة في ذرات فيديو ujShy632Y44
 
-لينك الطبقة: [[G_yt_ujShy632Y44]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_ujShy632Y44.md|G_yt_ujShy632Y44]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

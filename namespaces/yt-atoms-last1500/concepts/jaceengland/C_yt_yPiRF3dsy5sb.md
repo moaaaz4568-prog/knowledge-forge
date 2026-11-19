@@ -8,7 +8,7 @@ sources: [sources/S_yt_yPiRF3dsy5sb.md]
 
 # C_yt_yPiRF3dsy5sb — فكرة مشتركة في ذرات فيديو yPiRF3dsy5sb
 
-لينك الطبقة: [[G_yt_yPiRF3dsy5sb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_yPiRF3dsy5sb.md|G_yt_yPiRF3dsy5sb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

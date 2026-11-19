@@ -8,7 +8,7 @@ sources: [sources/S_yt_zOBRdGtNyag.md]
 
 # C_yt_zOBRdGtNyag — فكرة مشتركة في ذرات فيديو zOBRdGtNyag
 
-لينك الطبقة: [[G_yt_zOBRdGtNyag]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_zOBRdGtNyag.md|G_yt_zOBRdGtNyag]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_zXVZ1lts6h4.md]
 
 # C_yt_zXVZ1lts6h4 — فكرة مشتركة في ذرات فيديو zXVZ1lts6h4
 
-لينك الطبقة: [[G_yt_zXVZ1lts6h4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_zXVZ1lts6h4.md|G_yt_zXVZ1lts6h4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uDq0w7ebzQU.md]
 
 # C_yt_uDq0w7ebzQU — فكرة مشتركة في ذرات فيديو uDq0w7ebzQU
 
-لينك الطبقة: [[G_yt_uDq0w7ebzQU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maharamedia/G_uDq0w7ebzQU.md|G_yt_uDq0w7ebzQU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

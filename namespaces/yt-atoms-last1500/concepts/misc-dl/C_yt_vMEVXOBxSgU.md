@@ -8,7 +8,7 @@ sources: [sources/S_yt_vMEVXOBxSgU.md]
 
 # C_yt_vMEVXOBxSgU — فكرة مشتركة في ذرات فيديو vMEVXOBxSgU
 
-لينك الطبقة: [[G_yt_vMEVXOBxSgU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vMEVXOBxSgU.md|G_yt_vMEVXOBxSgU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

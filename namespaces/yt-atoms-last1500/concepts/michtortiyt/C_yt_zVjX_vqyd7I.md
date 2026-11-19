@@ -8,7 +8,7 @@ sources: [sources/S_yt_zVjX_vqyd7I.md]
 
 # C_yt_zVjX_vqyd7I — فكرة مشتركة في ذرات فيديو zVjX_vqyd7I
 
-لينك الطبقة: [[G_yt_zVjX_vqyd7I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zVjX_vqyd7I.md|G_yt_zVjX_vqyd7I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

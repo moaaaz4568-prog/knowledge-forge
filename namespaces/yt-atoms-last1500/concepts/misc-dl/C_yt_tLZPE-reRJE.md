@@ -8,7 +8,7 @@ sources: [sources/S_yt_tLZPE-reRJE.md]
 
 # C_yt_tLZPE-reRJE — فكرة مشتركة في ذرات فيديو tLZPE-reRJE
 
-لينك الطبقة: [[G_yt_tLZPE-reRJE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tLZPE-reRJE.md|G_yt_tLZPE-reRJE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

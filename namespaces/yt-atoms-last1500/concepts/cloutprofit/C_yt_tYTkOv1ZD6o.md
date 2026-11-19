@@ -8,7 +8,7 @@ sources: [sources/S_yt_tYTkOv1ZD6o.md]
 
 # C_yt_tYTkOv1ZD6o — فكرة مشتركة في ذرات فيديو tYTkOv1ZD6o
 
-لينك الطبقة: [[G_yt_tYTkOv1ZD6o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_tYTkOv1ZD6o.md|G_yt_tYTkOv1ZD6o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

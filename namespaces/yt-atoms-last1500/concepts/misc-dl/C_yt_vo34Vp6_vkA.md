@@ -8,7 +8,7 @@ sources: [sources/S_yt_vo34Vp6_vkA.md]
 
 # C_yt_vo34Vp6_vkA — فكرة مشتركة في ذرات فيديو vo34Vp6_vkA
 
-لينك الطبقة: [[G_yt_vo34Vp6_vkA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vo34Vp6_vkA.md|G_yt_vo34Vp6_vkA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

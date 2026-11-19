@@ -8,7 +8,7 @@ sources: [sources/S_yt_y4-Fzc7LeG8.md]
 
 # C_yt_y4-Fzc7LeG8 — فكرة مشتركة في ذرات فيديو y4-Fzc7LeG8
 
-لينك الطبقة: [[G_yt_y4-Fzc7LeG8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y4-Fzc7LeG8.md|G_yt_y4-Fzc7LeG8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

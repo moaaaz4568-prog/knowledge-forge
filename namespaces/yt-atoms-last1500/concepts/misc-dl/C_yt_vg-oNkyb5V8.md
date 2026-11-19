@@ -8,7 +8,7 @@ sources: [sources/S_yt_vg-oNkyb5V8.md]
 
 # C_yt_vg-oNkyb5V8 — فكرة مشتركة في ذرات فيديو vg-oNkyb5V8
 
-لينك الطبقة: [[G_yt_vg-oNkyb5V8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vg-oNkyb5V8.md|G_yt_vg-oNkyb5V8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

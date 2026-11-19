@@ -8,7 +8,7 @@ sources: [sources/S_yt_w0IAEsSx724.md]
 
 # C_yt_w0IAEsSx724 — فكرة مشتركة في ذرات فيديو w0IAEsSx724
 
-لينك الطبقة: [[G_yt_w0IAEsSx724]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_w0IAEsSx724.md|G_yt_w0IAEsSx724]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

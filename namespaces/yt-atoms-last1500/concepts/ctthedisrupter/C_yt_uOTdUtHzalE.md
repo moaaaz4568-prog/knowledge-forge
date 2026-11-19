@@ -8,7 +8,7 @@ sources: [sources/S_yt_uOTdUtHzalE.md]
 
 # C_yt_uOTdUtHzalE — فكرة مشتركة في ذرات فيديو uOTdUtHzalE
 
-لينك الطبقة: [[G_yt_uOTdUtHzalE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uOTdUtHzalE.md|G_yt_uOTdUtHzalE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

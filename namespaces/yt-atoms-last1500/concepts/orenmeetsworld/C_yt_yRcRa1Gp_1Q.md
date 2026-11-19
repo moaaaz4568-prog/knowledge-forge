@@ -8,7 +8,7 @@ sources: [sources/S_yt_yRcRa1Gp_1Q.md]
 
 # C_yt_yRcRa1Gp_1Q — فكرة مشتركة في ذرات فيديو yRcRa1Gp_1Q
 
-لينك الطبقة: [[G_yt_yRcRa1Gp_1Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_yRcRa1Gp_1Q.md|G_yt_yRcRa1Gp_1Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

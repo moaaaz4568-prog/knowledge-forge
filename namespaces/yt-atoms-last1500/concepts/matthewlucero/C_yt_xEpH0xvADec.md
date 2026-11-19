@@ -8,7 +8,7 @@ sources: [sources/S_yt_xEpH0xvADec.md]
 
 # C_yt_xEpH0xvADec — فكرة مشتركة في ذرات فيديو xEpH0xvADec
 
-لينك الطبقة: [[G_yt_xEpH0xvADec]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_xEpH0xvADec.md|G_yt_xEpH0xvADec]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

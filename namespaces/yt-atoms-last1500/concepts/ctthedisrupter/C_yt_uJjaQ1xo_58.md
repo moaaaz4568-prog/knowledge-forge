@@ -8,7 +8,7 @@ sources: [sources/S_yt_uJjaQ1xo_58.md]
 
 # C_yt_uJjaQ1xo_58 — فكرة مشتركة في ذرات فيديو uJjaQ1xo_58
 
-لينك الطبقة: [[G_yt_uJjaQ1xo_58]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uJjaQ1xo_58.md|G_yt_uJjaQ1xo_58]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

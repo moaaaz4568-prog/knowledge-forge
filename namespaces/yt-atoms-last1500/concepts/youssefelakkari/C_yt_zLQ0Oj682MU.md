@@ -8,7 +8,7 @@ sources: [sources/S_yt_zLQ0Oj682MU.md]
 
 # C_yt_zLQ0Oj682MU — فكرة مشتركة في ذرات فيديو zLQ0Oj682MU
 
-لينك الطبقة: [[G_yt_zLQ0Oj682MU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_zLQ0Oj682MU.md|G_yt_zLQ0Oj682MU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

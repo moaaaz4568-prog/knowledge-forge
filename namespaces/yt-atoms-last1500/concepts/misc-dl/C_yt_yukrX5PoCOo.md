@@ -8,7 +8,7 @@ sources: [sources/S_yt_yukrX5PoCOo.md]
 
 # C_yt_yukrX5PoCOo — فكرة مشتركة في ذرات فيديو yukrX5PoCOo
 
-لينك الطبقة: [[G_yt_yukrX5PoCOo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yukrX5PoCOo.md|G_yt_yukrX5PoCOo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

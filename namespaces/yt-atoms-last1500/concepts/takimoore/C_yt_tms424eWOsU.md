@@ -8,7 +8,7 @@ sources: [sources/S_yt_tms424eWOsU.md]
 
 # C_yt_tms424eWOsU — فكرة مشتركة في ذرات فيديو tms424eWOsU
 
-لينك الطبقة: [[G_yt_tms424eWOsU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tms424eWOsU.md|G_yt_tms424eWOsU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

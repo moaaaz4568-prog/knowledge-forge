@@ -8,7 +8,7 @@ sources: [sources/S_yt_zkBX-04jtrU.md]
 
 # C_yt_zkBX-04jtrU — فكرة مشتركة في ذرات فيديو zkBX-04jtrU
 
-لينك الطبقة: [[G_yt_zkBX-04jtrU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/thisisfoto/G_zkBX-04jtrU.md|G_yt_zkBX-04jtrU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_ydcEi73vn5k.md]
 
 # C_yt_ydcEi73vn5k — فكرة مشتركة في ذرات فيديو ydcEi73vn5k
 
-لينك الطبقة: [[G_yt_ydcEi73vn5k]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_ydcEi73vn5k.md|G_yt_ydcEi73vn5k]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

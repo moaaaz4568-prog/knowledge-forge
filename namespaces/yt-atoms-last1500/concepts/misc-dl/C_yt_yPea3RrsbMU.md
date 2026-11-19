@@ -8,7 +8,7 @@ sources: [sources/S_yt_yPea3RrsbMU.md]
 
 # C_yt_yPea3RrsbMU — فكرة مشتركة في ذرات فيديو yPea3RrsbMU
 
-لينك الطبقة: [[G_yt_yPea3RrsbMU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yPea3RrsbMU.md|G_yt_yPea3RrsbMU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

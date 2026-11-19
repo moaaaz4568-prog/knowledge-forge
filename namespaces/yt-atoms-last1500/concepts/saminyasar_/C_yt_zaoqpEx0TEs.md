@@ -8,7 +8,7 @@ sources: [sources/S_yt_zaoqpEx0TEs.md]
 
 # C_yt_zaoqpEx0TEs — فكرة مشتركة في ذرات فيديو zaoqpEx0TEs
 
-لينك الطبقة: [[G_yt_zaoqpEx0TEs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_zaoqpEx0TEs.md|G_yt_zaoqpEx0TEs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

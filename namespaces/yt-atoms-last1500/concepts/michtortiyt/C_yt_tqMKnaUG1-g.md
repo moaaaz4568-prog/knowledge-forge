@@ -8,7 +8,7 @@ sources: [sources/S_yt_tqMKnaUG1-g.md]
 
 # C_yt_tqMKnaUG1-g — فكرة مشتركة في ذرات فيديو tqMKnaUG1-g
 
-لينك الطبقة: [[G_yt_tqMKnaUG1-g]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_tqMKnaUG1-g.md|G_yt_tqMKnaUG1-g]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

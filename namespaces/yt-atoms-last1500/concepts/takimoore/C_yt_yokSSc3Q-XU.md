@@ -8,7 +8,7 @@ sources: [sources/S_yt_yokSSc3Q-XU.md]
 
 # C_yt_yokSSc3Q-XU — فكرة مشتركة في ذرات فيديو yokSSc3Q-XU
 
-لينك الطبقة: [[G_yt_yokSSc3Q-XU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_yokSSc3Q-XU.md|G_yt_yokSSc3Q-XU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

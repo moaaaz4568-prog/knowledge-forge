@@ -8,7 +8,7 @@ sources: [sources/S_yt_w0-SnD3jJAk.md]
 
 # C_yt_w0-SnD3jJAk — فكرة مشتركة في ذرات فيديو w0-SnD3jJAk
 
-لينك الطبقة: [[G_yt_w0-SnD3jJAk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w0-SnD3jJAk.md|G_yt_w0-SnD3jJAk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

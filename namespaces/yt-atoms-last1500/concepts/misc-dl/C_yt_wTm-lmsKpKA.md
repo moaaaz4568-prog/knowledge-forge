@@ -8,7 +8,7 @@ sources: [sources/S_yt_wTm-lmsKpKA.md]
 
 # C_yt_wTm-lmsKpKA — فكرة مشتركة في ذرات فيديو wTm-lmsKpKA
 
-لينك الطبقة: [[G_yt_wTm-lmsKpKA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wTm-lmsKpKA.md|G_yt_wTm-lmsKpKA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

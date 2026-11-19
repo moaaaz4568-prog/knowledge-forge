@@ -8,7 +8,7 @@ sources: [sources/S_yt_xz87exhygro.md]
 
 # C_yt_xz87exhygro — فكرة مشتركة في ذرات فيديو xz87exhygro
 
-لينك الطبقة: [[G_yt_xz87exhygro]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_xz87exhygro.md|G_yt_xz87exhygro]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

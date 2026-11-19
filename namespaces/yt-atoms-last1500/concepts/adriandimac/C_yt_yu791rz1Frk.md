@@ -8,7 +8,7 @@ sources: [sources/S_yt_yu791rz1Frk.md]
 
 # C_yt_yu791rz1Frk — فكرة مشتركة في ذرات فيديو yu791rz1Frk
 
-لينك الطبقة: [[G_yt_yu791rz1Frk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_yu791rz1Frk.md|G_yt_yu791rz1Frk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

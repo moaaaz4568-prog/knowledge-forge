@@ -8,7 +8,7 @@ sources: [sources/S_yt_vZAwfVG7MBY.md]
 
 # C_yt_vZAwfVG7MBY — فكرة مشتركة في ذرات فيديو vZAwfVG7MBY
 
-لينك الطبقة: [[G_yt_vZAwfVG7MBY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vZAwfVG7MBY.md|G_yt_vZAwfVG7MBY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

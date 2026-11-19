@@ -8,7 +8,7 @@ sources: [sources/S_yt_tcxncBI64VI.md]
 
 # C_yt_tcxncBI64VI — فكرة مشتركة في ذرات فيديو tcxncBI64VI
 
-لينك الطبقة: [[G_yt_tcxncBI64VI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tcxncBI64VI.md|G_yt_tcxncBI64VI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

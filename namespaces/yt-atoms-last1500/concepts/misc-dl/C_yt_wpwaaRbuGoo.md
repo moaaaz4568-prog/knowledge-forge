@@ -8,7 +8,7 @@ sources: [sources/S_yt_wpwaaRbuGoo.md]
 
 # C_yt_wpwaaRbuGoo — فكرة مشتركة في ذرات فيديو wpwaaRbuGoo
 
-لينك الطبقة: [[G_yt_wpwaaRbuGoo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wpwaaRbuGoo.md|G_yt_wpwaaRbuGoo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

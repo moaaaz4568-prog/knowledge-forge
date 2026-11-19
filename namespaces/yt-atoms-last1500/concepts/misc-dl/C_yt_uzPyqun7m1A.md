@@ -8,7 +8,7 @@ sources: [sources/S_yt_uzPyqun7m1A.md]
 
 # C_yt_uzPyqun7m1A — فكرة مشتركة في ذرات فيديو uzPyqun7m1A
 
-لينك الطبقة: [[G_yt_uzPyqun7m1A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uzPyqun7m1A.md|G_yt_uzPyqun7m1A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

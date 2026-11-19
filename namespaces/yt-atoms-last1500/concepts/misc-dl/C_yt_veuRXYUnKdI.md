@@ -8,7 +8,7 @@ sources: [sources/S_yt_veuRXYUnKdI.md]
 
 # C_yt_veuRXYUnKdI — فكرة مشتركة في ذرات فيديو veuRXYUnKdI
 
-لينك الطبقة: [[G_yt_veuRXYUnKdI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_veuRXYUnKdI.md|G_yt_veuRXYUnKdI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

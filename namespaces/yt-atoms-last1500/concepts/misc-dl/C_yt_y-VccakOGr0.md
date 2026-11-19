@@ -8,7 +8,7 @@ sources: [sources/S_yt_y-VccakOGr0.md]
 
 # C_yt_y-VccakOGr0 — فكرة مشتركة في ذرات فيديو y-VccakOGr0
 
-لينك الطبقة: [[G_yt_y-VccakOGr0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y-VccakOGr0.md|G_yt_y-VccakOGr0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

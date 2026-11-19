@@ -8,7 +8,7 @@ sources: [sources/S_yt_zdAGH1_9yVs.md]
 
 # C_yt_zdAGH1_9yVs — فكرة مشتركة في ذرات فيديو zdAGH1_9yVs
 
-لينك الطبقة: [[G_yt_zdAGH1_9yVs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zdAGH1_9yVs.md|G_yt_zdAGH1_9yVs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

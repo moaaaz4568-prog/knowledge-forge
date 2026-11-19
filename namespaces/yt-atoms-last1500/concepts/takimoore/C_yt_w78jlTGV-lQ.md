@@ -8,7 +8,7 @@ sources: [sources/S_yt_w78jlTGV-lQ.md]
 
 # C_yt_w78jlTGV-lQ — مقطع منقول من مصدر قصير جداً (w78jlTGV-lQ)
 
-لينك الطبقة: [[G_yt_w78jlTGV-lQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_w78jlTGV-lQ.md|G_yt_w78jlTGV-lQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

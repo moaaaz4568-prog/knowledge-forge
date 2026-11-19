@@ -8,7 +8,7 @@ sources: [sources/S_yt_tSMSyQAtDXE.md]
 
 # C_yt_tSMSyQAtDXE — فكرة مشتركة في ذرات فيديو tSMSyQAtDXE
 
-لينك الطبقة: [[G_yt_tSMSyQAtDXE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tSMSyQAtDXE.md|G_yt_tSMSyQAtDXE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

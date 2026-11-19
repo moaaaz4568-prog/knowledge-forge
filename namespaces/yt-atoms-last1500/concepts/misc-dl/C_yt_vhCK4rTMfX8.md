@@ -8,7 +8,7 @@ sources: [sources/S_yt_vhCK4rTMfX8.md]
 
 # C_yt_vhCK4rTMfX8 — فكرة مشتركة في ذرات فيديو vhCK4rTMfX8
 
-لينك الطبقة: [[G_yt_vhCK4rTMfX8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vhCK4rTMfX8.md|G_yt_vhCK4rTMfX8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

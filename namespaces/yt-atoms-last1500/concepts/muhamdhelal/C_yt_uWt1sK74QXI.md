@@ -8,7 +8,7 @@ sources: [sources/S_yt_uWt1sK74QXI.md]
 
 # C_yt_uWt1sK74QXI — فكرة مشتركة في ذرات فيديو uWt1sK74QXI
 
-لينك الطبقة: [[G_yt_uWt1sK74QXI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_uWt1sK74QXI.md|G_yt_uWt1sK74QXI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

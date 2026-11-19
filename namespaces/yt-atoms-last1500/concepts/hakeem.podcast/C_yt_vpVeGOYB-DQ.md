@@ -8,7 +8,7 @@ sources: [sources/S_yt_vpVeGOYB-DQ.md]
 
 # C_yt_vpVeGOYB-DQ — فكرة مشتركة في ذرات فيديو vpVeGOYB-DQ
 
-لينك الطبقة: [[G_yt_vpVeGOYB-DQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_vpVeGOYB-DQ.md|G_yt_vpVeGOYB-DQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

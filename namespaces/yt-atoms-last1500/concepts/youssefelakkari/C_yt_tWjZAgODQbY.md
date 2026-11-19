@@ -8,7 +8,7 @@ sources: [sources/S_yt_tWjZAgODQbY.md]
 
 # C_yt_tWjZAgODQbY — مقطع منقول من مصدر قصير جداً (tWjZAgODQbY)
 
-لينك الطبقة: [[G_yt_tWjZAgODQbY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_tWjZAgODQbY.md|G_yt_tWjZAgODQbY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

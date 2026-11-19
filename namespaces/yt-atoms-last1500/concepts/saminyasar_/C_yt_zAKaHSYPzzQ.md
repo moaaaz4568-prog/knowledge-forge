@@ -8,7 +8,7 @@ sources: [sources/S_yt_zAKaHSYPzzQ.md]
 
 # C_yt_zAKaHSYPzzQ — فكرة مشتركة في ذرات فيديو zAKaHSYPzzQ
 
-لينك الطبقة: [[G_yt_zAKaHSYPzzQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_zAKaHSYPzzQ.md|G_yt_zAKaHSYPzzQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

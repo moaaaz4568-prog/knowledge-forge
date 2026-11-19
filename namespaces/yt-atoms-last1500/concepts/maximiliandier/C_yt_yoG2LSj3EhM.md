@@ -8,7 +8,7 @@ sources: [sources/S_yt_yoG2LSj3EhM.md]
 
 # C_yt_yoG2LSj3EhM — فكرة مشتركة في ذرات فيديو yoG2LSj3EhM
 
-لينك الطبقة: [[G_yt_yoG2LSj3EhM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_yoG2LSj3EhM.md|G_yt_yoG2LSj3EhM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tPed0ZBIX94b.md]
 
 # C_yt_tPed0ZBIX94b — فكرة مشتركة في ذرات فيديو tPed0ZBIX94b
 
-لينك الطبقة: [[G_yt_tPed0ZBIX94b]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tPed0ZBIX94b.md|G_yt_tPed0ZBIX94b]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

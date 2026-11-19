@@ -8,7 +8,7 @@ sources: [sources/S_yt_xEwO__X9FTI.md]
 
 # C_yt_xEwO__X9FTI — فكرة مشتركة في ذرات فيديو xEwO__X9FTI
 
-لينك الطبقة: [[G_yt_xEwO__X9FTI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xEwO__X9FTI.md|G_yt_xEwO__X9FTI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vkiNN0C_QGQ.md]
 
 # C_yt_vkiNN0C_QGQ — فكرة مشتركة في ذرات فيديو vkiNN0C_QGQ
 
-لينك الطبقة: [[G_yt_vkiNN0C_QGQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vkiNN0C_QGQ.md|G_yt_vkiNN0C_QGQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

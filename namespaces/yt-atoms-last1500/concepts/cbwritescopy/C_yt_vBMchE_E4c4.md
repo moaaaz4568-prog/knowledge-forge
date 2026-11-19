@@ -8,7 +8,7 @@ sources: [sources/S_yt_vBMchE_E4c4.md]
 
 # C_yt_vBMchE_E4c4 — فكرة مشتركة في ذرات فيديو vBMchE_E4c4
 
-لينك الطبقة: [[G_yt_vBMchE_E4c4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_vBMchE_E4c4.md|G_yt_vBMchE_E4c4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

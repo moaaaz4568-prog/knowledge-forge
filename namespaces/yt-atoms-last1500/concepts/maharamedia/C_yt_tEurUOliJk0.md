@@ -8,7 +8,7 @@ sources: [sources/S_yt_tEurUOliJk0.md]
 
 # C_yt_tEurUOliJk0 — فكرة مشتركة في ذرات فيديو tEurUOliJk0
 
-لينك الطبقة: [[G_yt_tEurUOliJk0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maharamedia/G_tEurUOliJk0.md|G_yt_tEurUOliJk0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

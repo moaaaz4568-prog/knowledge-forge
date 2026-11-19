@@ -8,7 +8,7 @@ sources: [sources/S_yt_xs2SIu6iTDQ.md]
 
 # C_yt_xs2SIu6iTDQ — مقطع منقول من مصدر قصير جداً (xs2SIu6iTDQ)
 
-لينك الطبقة: [[G_yt_xs2SIu6iTDQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xs2SIu6iTDQ.md|G_yt_xs2SIu6iTDQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

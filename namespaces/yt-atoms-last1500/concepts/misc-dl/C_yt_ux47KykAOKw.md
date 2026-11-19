@@ -8,7 +8,7 @@ sources: [sources/S_yt_ux47KykAOKw.md]
 
 # C_yt_ux47KykAOKw — فكرة مشتركة في ذرات فيديو ux47KykAOKw
 
-لينك الطبقة: [[G_yt_ux47KykAOKw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ux47KykAOKw.md|G_yt_ux47KykAOKw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

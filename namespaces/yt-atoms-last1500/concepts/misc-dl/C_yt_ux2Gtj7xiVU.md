@@ -8,7 +8,7 @@ sources: [sources/S_yt_ux2Gtj7xiVU.md]
 
 # C_yt_ux2Gtj7xiVU — فكرة مشتركة في ذرات فيديو ux2Gtj7xiVU
 
-لينك الطبقة: [[G_yt_ux2Gtj7xiVU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_ux2Gtj7xiVU.md|G_yt_ux2Gtj7xiVU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

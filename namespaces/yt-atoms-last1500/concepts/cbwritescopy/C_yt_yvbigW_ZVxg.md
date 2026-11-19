@@ -8,7 +8,7 @@ sources: [sources/S_yt_yvbigW_ZVxg.md]
 
 # C_yt_yvbigW_ZVxg — فكرة مشتركة في ذرات فيديو yvbigW_ZVxg
 
-لينك الطبقة: [[G_yt_yvbigW_ZVxg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cbwritescopy/G_yvbigW_ZVxg.md|G_yt_yvbigW_ZVxg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

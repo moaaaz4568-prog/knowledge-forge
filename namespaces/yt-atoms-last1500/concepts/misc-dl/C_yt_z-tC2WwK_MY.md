@@ -8,7 +8,7 @@ sources: [sources/S_yt_z-tC2WwK_MY.md]
 
 # C_yt_z-tC2WwK_MY — فكرة مشتركة في ذرات فيديو z-tC2WwK_MY
 
-لينك الطبقة: [[G_yt_z-tC2WwK_MY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_z-tC2WwK_MY.md|G_yt_z-tC2WwK_MY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

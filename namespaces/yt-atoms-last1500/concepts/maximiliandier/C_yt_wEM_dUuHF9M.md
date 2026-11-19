@@ -8,7 +8,7 @@ sources: [sources/S_yt_wEM_dUuHF9M.md]
 
 # C_yt_wEM_dUuHF9M — فكرة مشتركة في ذرات فيديو wEM_dUuHF9M
 
-لينك الطبقة: [[G_yt_wEM_dUuHF9M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_wEM_dUuHF9M.md|G_yt_wEM_dUuHF9M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

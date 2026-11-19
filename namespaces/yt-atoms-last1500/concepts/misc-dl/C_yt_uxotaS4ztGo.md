@@ -8,7 +8,7 @@ sources: [sources/S_yt_uxotaS4ztGo.md]
 
 # C_yt_uxotaS4ztGo — فكرة مشتركة في ذرات فيديو uxotaS4ztGo
 
-لينك الطبقة: [[G_yt_uxotaS4ztGo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uxotaS4ztGo.md|G_yt_uxotaS4ztGo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

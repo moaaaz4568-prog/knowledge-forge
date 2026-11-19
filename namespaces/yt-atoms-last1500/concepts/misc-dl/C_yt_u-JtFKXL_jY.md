@@ -8,7 +8,7 @@ sources: [sources/S_yt_u-JtFKXL_jY.md]
 
 # C_yt_u-JtFKXL_jY — فكرة مشتركة في ذرات فيديو u-JtFKXL_jY
 
-لينك الطبقة: [[G_yt_u-JtFKXL_jY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u-JtFKXL_jY.md|G_yt_u-JtFKXL_jY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

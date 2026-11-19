@@ -8,7 +8,7 @@ sources: [sources/S_yt_zTtBsTxL_e8.md]
 
 # C_yt_zTtBsTxL_e8 — فكرة مشتركة في ذرات فيديو zTtBsTxL_e8
 
-لينك الطبقة: [[G_yt_zTtBsTxL_e8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_zTtBsTxL_e8.md|G_yt_zTtBsTxL_e8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

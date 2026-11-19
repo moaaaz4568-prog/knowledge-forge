@@ -8,7 +8,7 @@ sources: [sources/S_yt_uOlDt84Hz40.md]
 
 # C_yt_uOlDt84Hz40 — فكرة مشتركة في ذرات فيديو uOlDt84Hz40
 
-لينك الطبقة: [[G_yt_uOlDt84Hz40]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uOlDt84Hz40.md|G_yt_uOlDt84Hz40]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

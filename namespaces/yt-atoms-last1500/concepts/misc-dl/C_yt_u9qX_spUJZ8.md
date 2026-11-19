@@ -8,7 +8,7 @@ sources: [sources/S_yt_u9qX_spUJZ8.md]
 
 # C_yt_u9qX_spUJZ8 — فكرة مشتركة في ذرات فيديو u9qX_spUJZ8
 
-لينك الطبقة: [[G_yt_u9qX_spUJZ8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u9qX_spUJZ8.md|G_yt_u9qX_spUJZ8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

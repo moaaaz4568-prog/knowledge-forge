@@ -8,7 +8,7 @@ sources: [sources/S_yt_zUDSkEe9ksA.md]
 
 # C_yt_zUDSkEe9ksA — فكرة مشتركة في ذرات فيديو zUDSkEe9ksA
 
-لينك الطبقة: [[G_yt_zUDSkEe9ksA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zUDSkEe9ksA.md|G_yt_zUDSkEe9ksA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wr02-0bxd8A.md]
 
 # C_yt_wr02-0bxd8A — فكرة مشتركة في ذرات فيديو wr02-0bxd8A
 
-لينك الطبقة: [[G_yt_wr02-0bxd8A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/costanatomy56/G_wr02-0bxd8A.md|G_yt_wr02-0bxd8A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

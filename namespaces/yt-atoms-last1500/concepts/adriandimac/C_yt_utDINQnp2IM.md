@@ -8,7 +8,7 @@ sources: [sources/S_yt_utDINQnp2IM.md]
 
 # C_yt_utDINQnp2IM — فكرة مشتركة في ذرات فيديو utDINQnp2IM
 
-لينك الطبقة: [[G_yt_utDINQnp2IM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/adriandimac/G_utDINQnp2IM.md|G_yt_utDINQnp2IM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

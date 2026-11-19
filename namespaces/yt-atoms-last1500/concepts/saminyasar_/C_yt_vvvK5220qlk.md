@@ -8,7 +8,7 @@ sources: [sources/S_yt_vvvK5220qlk.md]
 
 # C_yt_vvvK5220qlk — مقطع منقول من مصدر قصير جداً (vvvK5220qlk)
 
-لينك الطبقة: [[G_yt_vvvK5220qlk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_vvvK5220qlk.md|G_yt_vvvK5220qlk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

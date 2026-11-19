@@ -8,7 +8,7 @@ sources: [sources/S_yt_wlsHpWV98KM.md]
 
 # C_yt_wlsHpWV98KM — فكرة مشتركة في ذرات فيديو wlsHpWV98KM
 
-لينك الطبقة: [[G_yt_wlsHpWV98KM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_wlsHpWV98KM.md|G_yt_wlsHpWV98KM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

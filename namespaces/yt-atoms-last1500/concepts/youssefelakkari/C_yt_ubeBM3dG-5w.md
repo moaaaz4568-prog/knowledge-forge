@@ -8,7 +8,7 @@ sources: [sources/S_yt_ubeBM3dG-5w.md]
 
 # C_yt_ubeBM3dG-5w — فكرة مشتركة في ذرات فيديو ubeBM3dG-5w
 
-لينك الطبقة: [[G_yt_ubeBM3dG-5w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_ubeBM3dG-5w.md|G_yt_ubeBM3dG-5w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

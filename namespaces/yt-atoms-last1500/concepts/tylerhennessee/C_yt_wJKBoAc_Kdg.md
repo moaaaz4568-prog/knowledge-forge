@@ -8,7 +8,7 @@ sources: [sources/S_yt_wJKBoAc_Kdg.md]
 
 # C_yt_wJKBoAc_Kdg — فكرة مشتركة في ذرات فيديو wJKBoAc_Kdg
 
-لينك الطبقة: [[G_yt_wJKBoAc_Kdg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_wJKBoAc_Kdg.md|G_yt_wJKBoAc_Kdg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

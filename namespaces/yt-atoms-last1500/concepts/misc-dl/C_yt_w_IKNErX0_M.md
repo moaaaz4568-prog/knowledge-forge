@@ -8,7 +8,7 @@ sources: [sources/S_yt_w_IKNErX0_M.md]
 
 # C_yt_w_IKNErX0_M — فكرة مشتركة في ذرات فيديو w_IKNErX0_M
 
-لينك الطبقة: [[G_yt_w_IKNErX0_M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w_IKNErX0_M.md|G_yt_w_IKNErX0_M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

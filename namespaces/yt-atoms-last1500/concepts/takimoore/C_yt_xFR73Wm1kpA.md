@@ -8,7 +8,7 @@ sources: [sources/S_yt_xFR73Wm1kpA.md]
 
 # C_yt_xFR73Wm1kpA — فكرة مشتركة في ذرات فيديو xFR73Wm1kpA
 
-لينك الطبقة: [[G_yt_xFR73Wm1kpA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xFR73Wm1kpA.md|G_yt_xFR73Wm1kpA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

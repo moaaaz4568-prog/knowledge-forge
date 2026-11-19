@@ -8,7 +8,7 @@ sources: [sources/S_yt_yC_JFAqwEq8.md]
 
 # C_yt_yC_JFAqwEq8 — فكرة مشتركة في ذرات فيديو yC_JFAqwEq8
 
-لينك الطبقة: [[G_yt_yC_JFAqwEq8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/lobstercap/G_yC_JFAqwEq8.md|G_yt_yC_JFAqwEq8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

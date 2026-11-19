@@ -8,7 +8,7 @@ sources: [sources/S_yt_z08CfQZE6TI.md]
 
 # C_yt_z08CfQZE6TI — فكرة مشتركة في ذرات فيديو z08CfQZE6TI
 
-لينك الطبقة: [[G_yt_z08CfQZE6TI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_z08CfQZE6TI.md|G_yt_z08CfQZE6TI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

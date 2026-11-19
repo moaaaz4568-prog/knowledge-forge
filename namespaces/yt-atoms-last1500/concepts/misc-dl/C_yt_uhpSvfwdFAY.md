@@ -8,7 +8,7 @@ sources: [sources/S_yt_uhpSvfwdFAY.md]
 
 # C_yt_uhpSvfwdFAY — فكرة مشتركة في ذرات فيديو uhpSvfwdFAY
 
-لينك الطبقة: [[G_yt_uhpSvfwdFAY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uhpSvfwdFAY.md|G_yt_uhpSvfwdFAY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

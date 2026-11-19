@@ -8,7 +8,7 @@ sources: [sources/S_yt_zqMhvH25ojs.md]
 
 # C_yt_zqMhvH25ojs — فكرة مشتركة في ذرات فيديو zqMhvH25ojs
 
-لينك الطبقة: [[G_yt_zqMhvH25ojs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zqMhvH25ojs.md|G_yt_zqMhvH25ojs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

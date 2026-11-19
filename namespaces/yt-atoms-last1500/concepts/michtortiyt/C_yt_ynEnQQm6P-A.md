@@ -8,7 +8,7 @@ sources: [sources/S_yt_ynEnQQm6P-A.md]
 
 # C_yt_ynEnQQm6P-A — فكرة مشتركة في ذرات فيديو ynEnQQm6P-A
 
-لينك الطبقة: [[G_yt_ynEnQQm6P-A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_ynEnQQm6P-A.md|G_yt_ynEnQQm6P-A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

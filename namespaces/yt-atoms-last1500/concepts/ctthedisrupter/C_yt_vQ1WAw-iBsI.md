@@ -8,7 +8,7 @@ sources: [sources/S_yt_vQ1WAw-iBsI.md]
 
 # C_yt_vQ1WAw-iBsI — فكرة مشتركة في ذرات فيديو vQ1WAw-iBsI
 
-لينك الطبقة: [[G_yt_vQ1WAw-iBsI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vQ1WAw-iBsI.md|G_yt_vQ1WAw-iBsI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

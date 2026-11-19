@@ -8,7 +8,7 @@ sources: [sources/S_yt_uVeLWrkBoHE.md]
 
 # C_yt_uVeLWrkBoHE — فكرة مشتركة في ذرات فيديو uVeLWrkBoHE
 
-لينك الطبقة: [[G_yt_uVeLWrkBoHE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uVeLWrkBoHE.md|G_yt_uVeLWrkBoHE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

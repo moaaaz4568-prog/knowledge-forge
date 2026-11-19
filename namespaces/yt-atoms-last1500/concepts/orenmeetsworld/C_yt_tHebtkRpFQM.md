@@ -8,7 +8,7 @@ sources: [sources/S_yt_tHebtkRpFQM.md]
 
 # C_yt_tHebtkRpFQM — فكرة مشتركة في ذرات فيديو tHebtkRpFQM
 
-لينك الطبقة: [[G_yt_tHebtkRpFQM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_tHebtkRpFQM.md|G_yt_tHebtkRpFQM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

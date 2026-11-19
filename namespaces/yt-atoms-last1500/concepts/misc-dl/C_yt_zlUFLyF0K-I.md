@@ -8,7 +8,7 @@ sources: [sources/S_yt_zlUFLyF0K-I.md]
 
 # C_yt_zlUFLyF0K-I — فكرة مشتركة في ذرات فيديو zlUFLyF0K-I
 
-لينك الطبقة: [[G_yt_zlUFLyF0K-I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zlUFLyF0K-I.md|G_yt_zlUFLyF0K-I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

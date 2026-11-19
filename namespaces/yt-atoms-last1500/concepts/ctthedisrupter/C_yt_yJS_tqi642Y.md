@@ -8,7 +8,7 @@ sources: [sources/S_yt_yJS_tqi642Y.md]
 
 # C_yt_yJS_tqi642Y — فكرة مشتركة في ذرات فيديو yJS_tqi642Y
 
-لينك الطبقة: [[G_yt_yJS_tqi642Y]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_yJS_tqi642Y.md|G_yt_yJS_tqi642Y]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

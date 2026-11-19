@@ -8,7 +8,7 @@ sources: [sources/S_yt_yAU_rPiwrLo.md]
 
 # C_yt_yAU_rPiwrLo — فكرة مشتركة في ذرات فيديو yAU_rPiwrLo
 
-لينك الطبقة: [[G_yt_yAU_rPiwrLo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_yAU_rPiwrLo.md|G_yt_yAU_rPiwrLo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

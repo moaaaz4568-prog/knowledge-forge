@@ -8,7 +8,7 @@ sources: [sources/S_yt_tObwlCFYaKc.md]
 
 # C_yt_tObwlCFYaKc — فكرة مشتركة في ذرات فيديو tObwlCFYaKc
 
-لينك الطبقة: [[G_yt_tObwlCFYaKc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_tObwlCFYaKc.md|G_yt_tObwlCFYaKc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

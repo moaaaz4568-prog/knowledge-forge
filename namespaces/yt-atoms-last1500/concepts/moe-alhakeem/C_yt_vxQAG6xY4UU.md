@@ -8,7 +8,7 @@ sources: [sources/S_yt_vxQAG6xY4UU.md]
 
 # C_yt_vxQAG6xY4UU — فكرة مشتركة في ذرات فيديو vxQAG6xY4UU
 
-لينك الطبقة: [[G_yt_vxQAG6xY4UU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_vxQAG6xY4UU.md|G_yt_vxQAG6xY4UU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tIYAZ5Iq2Uw.md]
 
 # C_yt_tIYAZ5Iq2Uw — فكرة مشتركة في ذرات فيديو tIYAZ5Iq2Uw
 
-لينك الطبقة: [[G_yt_tIYAZ5Iq2Uw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_tIYAZ5Iq2Uw.md|G_yt_tIYAZ5Iq2Uw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

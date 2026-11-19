@@ -8,7 +8,7 @@ sources: [sources/S_yt_x-RT7kGUOBob.md]
 
 # C_yt_x-RT7kGUOBob — فكرة مشتركة في ذرات فيديو x-RT7kGUOBob
 
-لينك الطبقة: [[G_yt_x-RT7kGUOBob]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_x-RT7kGUOBob.md|G_yt_x-RT7kGUOBob]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

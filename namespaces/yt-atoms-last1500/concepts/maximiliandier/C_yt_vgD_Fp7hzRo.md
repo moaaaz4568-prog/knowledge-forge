@@ -8,7 +8,7 @@ sources: [sources/S_yt_vgD_Fp7hzRo.md]
 
 # C_yt_vgD_Fp7hzRo — فكرة مشتركة في ذرات فيديو vgD_Fp7hzRo
 
-لينك الطبقة: [[G_yt_vgD_Fp7hzRo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_vgD_Fp7hzRo.md|G_yt_vgD_Fp7hzRo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

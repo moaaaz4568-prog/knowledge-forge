@@ -8,7 +8,7 @@ sources: [sources/S_yt_yUpTFLvhcGk.md]
 
 # C_yt_yUpTFLvhcGk — فكرة مشتركة في ذرات فيديو yUpTFLvhcGk
 
-لينك الطبقة: [[G_yt_yUpTFLvhcGk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_yUpTFLvhcGk.md|G_yt_yUpTFLvhcGk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

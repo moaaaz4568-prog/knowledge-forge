@@ -8,7 +8,7 @@ sources: [sources/S_yt_viMnFVG8Jow.md]
 
 # C_yt_viMnFVG8Jow — فكرة مشتركة في ذرات فيديو viMnFVG8Jow
 
-لينك الطبقة: [[G_yt_viMnFVG8Jow]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/matthewlucero/G_viMnFVG8Jow.md|G_yt_viMnFVG8Jow]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

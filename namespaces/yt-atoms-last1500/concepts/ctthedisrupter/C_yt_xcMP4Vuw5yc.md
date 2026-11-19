@@ -8,7 +8,7 @@ sources: [sources/S_yt_xcMP4Vuw5yc.md]
 
 # C_yt_xcMP4Vuw5yc — فكرة مشتركة في ذرات فيديو xcMP4Vuw5yc
 
-لينك الطبقة: [[G_yt_xcMP4Vuw5yc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xcMP4Vuw5yc.md|G_yt_xcMP4Vuw5yc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

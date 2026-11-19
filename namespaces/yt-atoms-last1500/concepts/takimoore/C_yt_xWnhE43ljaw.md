@@ -8,7 +8,7 @@ sources: [sources/S_yt_xWnhE43ljaw.md]
 
 # C_yt_xWnhE43ljaw — فكرة مشتركة في ذرات فيديو xWnhE43ljaw
 
-لينك الطبقة: [[G_yt_xWnhE43ljaw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xWnhE43ljaw.md|G_yt_xWnhE43ljaw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_yTFLBBBSsHA.md]
 
 # C_yt_yTFLBBBSsHA — فكرة مشتركة في ذرات فيديو yTFLBBBSsHA
 
-لينك الطبقة: [[G_yt_yTFLBBBSsHA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/muhamdhelal/G_yTFLBBBSsHA.md|G_yt_yTFLBBBSsHA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

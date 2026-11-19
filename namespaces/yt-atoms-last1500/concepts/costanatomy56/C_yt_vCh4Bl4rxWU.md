@@ -8,7 +8,7 @@ sources: [sources/S_yt_vCh4Bl4rxWU.md]
 
 # C_yt_vCh4Bl4rxWU — فكرة مشتركة في ذرات فيديو vCh4Bl4rxWU
 
-لينك الطبقة: [[G_yt_vCh4Bl4rxWU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/costanatomy56/G_vCh4Bl4rxWU.md|G_yt_vCh4Bl4rxWU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

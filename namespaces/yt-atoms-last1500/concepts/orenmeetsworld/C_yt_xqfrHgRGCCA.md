@@ -8,7 +8,7 @@ sources: [sources/S_yt_xqfrHgRGCCA.md]
 
 # C_yt_xqfrHgRGCCA — فكرة مشتركة في ذرات فيديو xqfrHgRGCCA
 
-لينك الطبقة: [[G_yt_xqfrHgRGCCA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_xqfrHgRGCCA.md|G_yt_xqfrHgRGCCA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

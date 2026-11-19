@@ -8,7 +8,7 @@ sources: [sources/S_yt_uwvKL6DcnJI.md]
 
 # C_yt_uwvKL6DcnJI — فكرة مشتركة في ذرات فيديو uwvKL6DcnJI
 
-لينك الطبقة: [[G_yt_uwvKL6DcnJI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uwvKL6DcnJI.md|G_yt_uwvKL6DcnJI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

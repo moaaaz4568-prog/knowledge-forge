@@ -8,7 +8,7 @@ sources: [sources/S_yt_vAG90gqJBcA.md]
 
 # C_yt_vAG90gqJBcA — فكرة مشتركة في ذرات فيديو vAG90gqJBcA
 
-لينك الطبقة: [[G_yt_vAG90gqJBcA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_vAG90gqJBcA.md|G_yt_vAG90gqJBcA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

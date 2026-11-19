@@ -8,7 +8,7 @@ sources: [sources/S_yt_uPan2hatpLA.md]
 
 # C_yt_uPan2hatpLA — فكرة مشتركة في ذرات فيديو uPan2hatpLA
 
-لينك الطبقة: [[G_yt_uPan2hatpLA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_uPan2hatpLA.md|G_yt_uPan2hatpLA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

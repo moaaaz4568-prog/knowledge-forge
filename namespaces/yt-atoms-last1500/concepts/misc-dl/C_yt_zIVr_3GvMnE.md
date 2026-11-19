@@ -8,7 +8,7 @@ sources: [sources/S_yt_zIVr_3GvMnE.md]
 
 # C_yt_zIVr_3GvMnE — فكرة مشتركة في ذرات فيديو zIVr_3GvMnE
 
-لينك الطبقة: [[G_yt_zIVr_3GvMnE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zIVr_3GvMnE.md|G_yt_zIVr_3GvMnE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

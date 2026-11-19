@@ -8,7 +8,7 @@ sources: [sources/S_yt_zklZY6LHYBE.md]
 
 # C_yt_zklZY6LHYBE — فكرة مشتركة في ذرات فيديو zklZY6LHYBE
 
-لينك الطبقة: [[G_yt_zklZY6LHYBE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_zklZY6LHYBE.md|G_yt_zklZY6LHYBE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

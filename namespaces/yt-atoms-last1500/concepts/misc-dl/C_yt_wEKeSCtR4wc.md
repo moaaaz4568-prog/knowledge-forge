@@ -8,7 +8,7 @@ sources: [sources/S_yt_wEKeSCtR4wc.md]
 
 # C_yt_wEKeSCtR4wc — فكرة مشتركة في ذرات فيديو wEKeSCtR4wc
 
-لينك الطبقة: [[G_yt_wEKeSCtR4wc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wEKeSCtR4wc.md|G_yt_wEKeSCtR4wc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

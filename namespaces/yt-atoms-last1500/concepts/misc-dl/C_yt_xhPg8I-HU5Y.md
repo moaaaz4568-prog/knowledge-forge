@@ -8,7 +8,7 @@ sources: [sources/S_yt_xhPg8I-HU5Y.md]
 
 # C_yt_xhPg8I-HU5Y — فكرة مشتركة في ذرات فيديو xhPg8I-HU5Y
 
-لينك الطبقة: [[G_yt_xhPg8I-HU5Y]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xhPg8I-HU5Y.md|G_yt_xhPg8I-HU5Y]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

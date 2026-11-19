@@ -8,7 +8,7 @@ sources: [sources/S_yt_uQUo51QU_g4.md]
 
 # C_yt_uQUo51QU_g4 — فكرة مشتركة في ذرات فيديو uQUo51QU_g4
 
-لينك الطبقة: [[G_yt_uQUo51QU_g4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_uQUo51QU_g4.md|G_yt_uQUo51QU_g4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

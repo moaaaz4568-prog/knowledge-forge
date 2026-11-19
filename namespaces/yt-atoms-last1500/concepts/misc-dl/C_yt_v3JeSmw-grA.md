@@ -8,7 +8,7 @@ sources: [sources/S_yt_v3JeSmw-grA.md]
 
 # C_yt_v3JeSmw-grA — فكرة مشتركة في ذرات فيديو v3JeSmw-grA
 
-لينك الطبقة: [[G_yt_v3JeSmw-grA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v3JeSmw-grA.md|G_yt_v3JeSmw-grA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

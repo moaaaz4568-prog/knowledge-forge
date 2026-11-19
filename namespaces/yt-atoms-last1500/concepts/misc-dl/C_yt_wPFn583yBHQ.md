@@ -8,7 +8,7 @@ sources: [sources/S_yt_wPFn583yBHQ.md]
 
 # C_yt_wPFn583yBHQ — فكرة مشتركة في ذرات فيديو wPFn583yBHQ
 
-لينك الطبقة: [[G_yt_wPFn583yBHQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wPFn583yBHQ.md|G_yt_wPFn583yBHQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xmaYkKmE0aM.md]
 
 # C_yt_xmaYkKmE0aM — فكرة مشتركة في ذرات فيديو xmaYkKmE0aM
 
-لينك الطبقة: [[G_yt_xmaYkKmE0aM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xmaYkKmE0aM.md|G_yt_xmaYkKmE0aM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

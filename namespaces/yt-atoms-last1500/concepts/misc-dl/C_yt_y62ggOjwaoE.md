@@ -8,7 +8,7 @@ sources: [sources/S_yt_y62ggOjwaoE.md]
 
 # C_yt_y62ggOjwaoE — فكرة مشتركة في ذرات فيديو y62ggOjwaoE
 
-لينك الطبقة: [[G_yt_y62ggOjwaoE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_y62ggOjwaoE.md|G_yt_y62ggOjwaoE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

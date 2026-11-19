@@ -8,7 +8,7 @@ sources: [sources/S_yt_vrPCr72Z1bY.md]
 
 # C_yt_vrPCr72Z1bY — فكرة مشتركة في ذرات فيديو vrPCr72Z1bY
 
-لينك الطبقة: [[G_yt_vrPCr72Z1bY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_vrPCr72Z1bY.md|G_yt_vrPCr72Z1bY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

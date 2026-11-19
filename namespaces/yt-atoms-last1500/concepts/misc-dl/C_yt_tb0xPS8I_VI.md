@@ -8,7 +8,7 @@ sources: [sources/S_yt_tb0xPS8I_VI.md]
 
 # C_yt_tb0xPS8I_VI — فكرة مشتركة في ذرات فيديو tb0xPS8I_VI
 
-لينك الطبقة: [[G_yt_tb0xPS8I_VI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tb0xPS8I_VI.md|G_yt_tb0xPS8I_VI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

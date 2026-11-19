@@ -8,7 +8,7 @@ sources: [sources/S_yt_vgN1Zl4G4bU.md]
 
 # C_yt_vgN1Zl4G4bU — فكرة مشتركة في ذرات فيديو vgN1Zl4G4bU
 
-لينك الطبقة: [[G_yt_vgN1Zl4G4bU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/mostafa.qandil/G_vgN1Zl4G4bU.md|G_yt_vgN1Zl4G4bU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

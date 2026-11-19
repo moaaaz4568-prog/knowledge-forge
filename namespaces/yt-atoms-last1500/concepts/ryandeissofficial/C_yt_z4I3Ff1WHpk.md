@@ -8,7 +8,7 @@ sources: [sources/S_yt_z4I3Ff1WHpk.md]
 
 # C_yt_z4I3Ff1WHpk — فكرة مشتركة في ذرات فيديو z4I3Ff1WHpk
 
-لينك الطبقة: [[G_yt_z4I3Ff1WHpk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_z4I3Ff1WHpk.md|G_yt_z4I3Ff1WHpk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

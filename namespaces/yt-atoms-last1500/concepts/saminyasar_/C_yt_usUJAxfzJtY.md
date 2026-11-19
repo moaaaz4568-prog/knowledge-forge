@@ -8,7 +8,7 @@ sources: [sources/S_yt_usUJAxfzJtY.md]
 
 # C_yt_usUJAxfzJtY — فكرة مشتركة في ذرات فيديو usUJAxfzJtY
 
-لينك الطبقة: [[G_yt_usUJAxfzJtY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_usUJAxfzJtY.md|G_yt_usUJAxfzJtY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

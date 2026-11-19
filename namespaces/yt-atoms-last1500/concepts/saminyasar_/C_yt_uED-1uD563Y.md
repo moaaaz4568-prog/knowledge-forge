@@ -8,7 +8,7 @@ sources: [sources/S_yt_uED-1uD563Y.md]
 
 # C_yt_uED-1uD563Y — فكرة مشتركة في ذرات فيديو uED-1uD563Y
 
-لينك الطبقة: [[G_yt_uED-1uD563Y]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_uED-1uD563Y.md|G_yt_uED-1uD563Y]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

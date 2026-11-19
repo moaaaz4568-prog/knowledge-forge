@@ -8,7 +8,7 @@ sources: [sources/S_yt_wqXy-hV1YWY.md]
 
 # C_yt_wqXy-hV1YWY — فكرة مشتركة في ذرات فيديو wqXy-hV1YWY
 
-لينك الطبقة: [[G_yt_wqXy-hV1YWY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/maximiliandier/G_wqXy-hV1YWY.md|G_yt_wqXy-hV1YWY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

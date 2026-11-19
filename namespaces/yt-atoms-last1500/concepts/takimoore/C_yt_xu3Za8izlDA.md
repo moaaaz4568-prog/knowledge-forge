@@ -8,7 +8,7 @@ sources: [sources/S_yt_xu3Za8izlDA.md]
 
 # C_yt_xu3Za8izlDA — فكرة مشتركة في ذرات فيديو xu3Za8izlDA
 
-لينك الطبقة: [[G_yt_xu3Za8izlDA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_xu3Za8izlDA.md|G_yt_xu3Za8izlDA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

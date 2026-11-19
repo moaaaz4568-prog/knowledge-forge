@@ -8,7 +8,7 @@ sources: [sources/S_yt_zLjtLMoCB4A.md]
 
 # C_yt_zLjtLMoCB4A — فكرة مشتركة في ذرات فيديو zLjtLMoCB4A
 
-لينك الطبقة: [[G_yt_zLjtLMoCB4A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_zLjtLMoCB4A.md|G_yt_zLjtLMoCB4A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wwNSaoAJHqU.md]
 
 # C_yt_wwNSaoAJHqU — فكرة مشتركة في ذرات فيديو wwNSaoAJHqU
 
-لينك الطبقة: [[G_yt_wwNSaoAJHqU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_wwNSaoAJHqU.md|G_yt_wwNSaoAJHqU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

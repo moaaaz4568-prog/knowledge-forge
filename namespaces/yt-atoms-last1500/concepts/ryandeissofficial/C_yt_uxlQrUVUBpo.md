@@ -8,7 +8,7 @@ sources: [sources/S_yt_uxlQrUVUBpo.md]
 
 # C_yt_uxlQrUVUBpo — فكرة مشتركة في ذرات فيديو uxlQrUVUBpo
 
-لينك الطبقة: [[G_yt_uxlQrUVUBpo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_uxlQrUVUBpo.md|G_yt_uxlQrUVUBpo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

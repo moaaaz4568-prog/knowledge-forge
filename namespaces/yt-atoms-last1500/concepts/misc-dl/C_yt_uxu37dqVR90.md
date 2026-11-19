@@ -8,7 +8,7 @@ sources: [sources/S_yt_uxu37dqVR90.md]
 
 # C_yt_uxu37dqVR90 — فكرة مشتركة في ذرات فيديو uxu37dqVR90
 
-لينك الطبقة: [[G_yt_uxu37dqVR90]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uxu37dqVR90.md|G_yt_uxu37dqVR90]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

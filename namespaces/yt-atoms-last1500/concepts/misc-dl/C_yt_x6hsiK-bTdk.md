@@ -8,7 +8,7 @@ sources: [sources/S_yt_x6hsiK-bTdk.md]
 
 # C_yt_x6hsiK-bTdk — فكرة مشتركة في ذرات فيديو x6hsiK-bTdk
 
-لينك الطبقة: [[G_yt_x6hsiK-bTdk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x6hsiK-bTdk.md|G_yt_x6hsiK-bTdk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

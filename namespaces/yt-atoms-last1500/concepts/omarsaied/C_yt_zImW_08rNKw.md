@@ -8,7 +8,7 @@ sources: [sources/S_yt_zImW_08rNKw.md]
 
 # C_yt_zImW_08rNKw — فكرة مشتركة في ذرات فيديو zImW_08rNKw
 
-لينك الطبقة: [[G_yt_zImW_08rNKw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_zImW_08rNKw.md|G_yt_zImW_08rNKw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_v34Eg12mhDM.md]
 
 # C_yt_v34Eg12mhDM — فكرة مشتركة في ذرات فيديو v34Eg12mhDM
 
-لينك الطبقة: [[G_yt_v34Eg12mhDM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_v34Eg12mhDM.md|G_yt_v34Eg12mhDM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

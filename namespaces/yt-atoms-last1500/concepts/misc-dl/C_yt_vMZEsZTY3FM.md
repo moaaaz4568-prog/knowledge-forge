@@ -8,7 +8,7 @@ sources: [sources/S_yt_vMZEsZTY3FM.md]
 
 # C_yt_vMZEsZTY3FM — فكرة مشتركة في ذرات فيديو vMZEsZTY3FM
 
-لينك الطبقة: [[G_yt_vMZEsZTY3FM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vMZEsZTY3FM.md|G_yt_vMZEsZTY3FM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

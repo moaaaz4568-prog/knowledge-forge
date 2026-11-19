@@ -8,7 +8,7 @@ sources: [sources/S_yt_u6T532aWEhk.md]
 
 # C_yt_u6T532aWEhk — فكرة مشتركة في ذرات فيديو u6T532aWEhk
 
-لينك الطبقة: [[G_yt_u6T532aWEhk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u6T532aWEhk.md|G_yt_u6T532aWEhk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

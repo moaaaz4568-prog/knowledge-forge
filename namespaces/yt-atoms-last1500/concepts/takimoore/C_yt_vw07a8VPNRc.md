@@ -8,7 +8,7 @@ sources: [sources/S_yt_vw07a8VPNRc.md]
 
 # C_yt_vw07a8VPNRc — فكرة مشتركة في ذرات فيديو vw07a8VPNRc
 
-لينك الطبقة: [[G_yt_vw07a8VPNRc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vw07a8VPNRc.md|G_yt_vw07a8VPNRc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

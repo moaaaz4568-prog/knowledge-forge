@@ -8,7 +8,7 @@ sources: [sources/S_yt_wLiKlFISgAw.md]
 
 # C_yt_wLiKlFISgAw — فكرة مشتركة في ذرات فيديو wLiKlFISgAw
 
-لينك الطبقة: [[G_yt_wLiKlFISgAw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_wLiKlFISgAw.md|G_yt_wLiKlFISgAw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

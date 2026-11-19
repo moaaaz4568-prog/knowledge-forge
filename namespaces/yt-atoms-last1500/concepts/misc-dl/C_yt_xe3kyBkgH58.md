@@ -8,7 +8,7 @@ sources: [sources/S_yt_xe3kyBkgH58.md]
 
 # C_yt_xe3kyBkgH58 — فكرة مشتركة في ذرات فيديو xe3kyBkgH58
 
-لينك الطبقة: [[G_yt_xe3kyBkgH58]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xe3kyBkgH58.md|G_yt_xe3kyBkgH58]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

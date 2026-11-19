@@ -8,7 +8,7 @@ sources: [sources/S_yt_vG-onY2Evko.md]
 
 # C_yt_vG-onY2Evko — فكرة مشتركة في ذرات فيديو vG-onY2Evko
 
-لينك الطبقة: [[G_yt_vG-onY2Evko]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vG-onY2Evko.md|G_yt_vG-onY2Evko]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vss859bRwlc.md]
 
 # C_yt_vss859bRwlc — فكرة مشتركة في ذرات فيديو vss859bRwlc
 
-لينك الطبقة: [[G_yt_vss859bRwlc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vss859bRwlc.md|G_yt_vss859bRwlc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uAB4itVmV4s.md]
 
 # C_yt_uAB4itVmV4s — فكرة مشتركة في ذرات فيديو uAB4itVmV4s
 
-لينك الطبقة: [[G_yt_uAB4itVmV4s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uAB4itVmV4s.md|G_yt_uAB4itVmV4s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

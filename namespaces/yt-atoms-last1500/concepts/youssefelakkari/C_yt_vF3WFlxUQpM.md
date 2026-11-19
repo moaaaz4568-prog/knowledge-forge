@@ -8,7 +8,7 @@ sources: [sources/S_yt_vF3WFlxUQpM.md]
 
 # C_yt_vF3WFlxUQpM — فكرة مشتركة في ذرات فيديو vF3WFlxUQpM
 
-لينك الطبقة: [[G_yt_vF3WFlxUQpM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_vF3WFlxUQpM.md|G_yt_vF3WFlxUQpM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

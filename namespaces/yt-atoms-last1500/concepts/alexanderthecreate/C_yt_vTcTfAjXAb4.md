@@ -8,7 +8,7 @@ sources: [sources/S_yt_vTcTfAjXAb4.md]
 
 # C_yt_vTcTfAjXAb4 — فكرة مشتركة في ذرات فيديو vTcTfAjXAb4
 
-لينك الطبقة: [[G_yt_vTcTfAjXAb4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_vTcTfAjXAb4.md|G_yt_vTcTfAjXAb4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

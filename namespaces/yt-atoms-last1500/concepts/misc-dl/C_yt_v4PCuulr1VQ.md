@@ -8,7 +8,7 @@ sources: [sources/S_yt_v4PCuulr1VQ.md]
 
 # C_yt_v4PCuulr1VQ — فكرة مشتركة في ذرات فيديو v4PCuulr1VQ
 
-لينك الطبقة: [[G_yt_v4PCuulr1VQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_v4PCuulr1VQ.md|G_yt_v4PCuulr1VQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

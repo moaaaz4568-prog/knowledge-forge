@@ -8,7 +8,7 @@ sources: [sources/S_yt_urne89A2QGk.md]
 
 # C_yt_urne89A2QGk — فكرة مشتركة في ذرات فيديو urne89A2QGk
 
-لينك الطبقة: [[G_yt_urne89A2QGk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_urne89A2QGk.md|G_yt_urne89A2QGk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

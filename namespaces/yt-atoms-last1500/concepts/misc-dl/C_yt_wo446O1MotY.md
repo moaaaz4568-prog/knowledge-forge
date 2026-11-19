@@ -8,7 +8,7 @@ sources: [sources/S_yt_wo446O1MotY.md]
 
 # C_yt_wo446O1MotY — فكرة مشتركة في ذرات فيديو wo446O1MotY
 
-لينك الطبقة: [[G_yt_wo446O1MotY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wo446O1MotY.md|G_yt_wo446O1MotY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

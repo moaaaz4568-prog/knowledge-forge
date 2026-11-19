@@ -8,7 +8,7 @@ sources: [sources/S_yt_w7-2rPNC1II.md]
 
 # C_yt_w7-2rPNC1II — فكرة مشتركة في ذرات فيديو w7-2rPNC1II
 
-لينك الطبقة: [[G_yt_w7-2rPNC1II]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_w7-2rPNC1II.md|G_yt_w7-2rPNC1II]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

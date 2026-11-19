@@ -8,7 +8,7 @@ sources: [sources/S_yt_wrcPHOCYS14.md]
 
 # C_yt_wrcPHOCYS14 — فكرة مشتركة في ذرات فيديو wrcPHOCYS14
 
-لينك الطبقة: [[G_yt_wrcPHOCYS14]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wrcPHOCYS14.md|G_yt_wrcPHOCYS14]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

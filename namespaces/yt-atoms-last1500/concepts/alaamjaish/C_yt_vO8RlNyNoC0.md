@@ -8,7 +8,7 @@ sources: [sources/S_yt_vO8RlNyNoC0.md]
 
 # C_yt_vO8RlNyNoC0 — فكرة مشتركة في ذرات فيديو vO8RlNyNoC0
 
-لينك الطبقة: [[G_yt_vO8RlNyNoC0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alaamjaish/G_vO8RlNyNoC0.md|G_yt_vO8RlNyNoC0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

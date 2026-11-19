@@ -8,7 +8,7 @@ sources: [sources/S_yt_ucUFRFSAn_A.md]
 
 # C_yt_ucUFRFSAn_A — فكرة مشتركة في ذرات فيديو ucUFRFSAn_A
 
-لينك الطبقة: [[G_yt_ucUFRFSAn_A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ryandeissofficial/G_ucUFRFSAn_A.md|G_yt_ucUFRFSAn_A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

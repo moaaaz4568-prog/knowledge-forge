@@ -8,7 +8,7 @@ sources: [sources/S_yt_vASQ21S99ng.md]
 
 # C_yt_vASQ21S99ng — فكرة مشتركة في ذرات فيديو vASQ21S99ng
 
-لينك الطبقة: [[G_yt_vASQ21S99ng]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/cloutprofit/G_vASQ21S99ng.md|G_yt_vASQ21S99ng]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

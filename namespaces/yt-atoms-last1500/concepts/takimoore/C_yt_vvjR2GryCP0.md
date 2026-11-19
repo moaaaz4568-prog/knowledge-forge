@@ -8,7 +8,7 @@ sources: [sources/S_yt_vvjR2GryCP0.md]
 
 # C_yt_vvjR2GryCP0 — فكرة مشتركة في ذرات فيديو vvjR2GryCP0
 
-لينك الطبقة: [[G_yt_vvjR2GryCP0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vvjR2GryCP0.md|G_yt_vvjR2GryCP0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

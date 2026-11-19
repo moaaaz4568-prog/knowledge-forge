@@ -8,7 +8,7 @@ sources: [sources/S_yt_yLbqUmuY2-s.md]
 
 # C_yt_yLbqUmuY2-s — فكرة مشتركة في ذرات فيديو yLbqUmuY2-s
 
-لينك الطبقة: [[G_yt_yLbqUmuY2-s]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_yLbqUmuY2-s.md|G_yt_yLbqUmuY2-s]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

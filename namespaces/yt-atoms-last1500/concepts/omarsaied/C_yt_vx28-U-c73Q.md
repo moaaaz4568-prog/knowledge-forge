@@ -8,7 +8,7 @@ sources: [sources/S_yt_vx28-U-c73Q.md]
 
 # C_yt_vx28-U-c73Q — فكرة مشتركة في ذرات فيديو vx28-U-c73Q
 
-لينك الطبقة: [[G_yt_vx28-U-c73Q]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_vx28-U-c73Q.md|G_yt_vx28-U-c73Q]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_uIDe-55LT6M.md]
 
 # C_yt_uIDe-55LT6M — فكرة مشتركة في ذرات فيديو uIDe-55LT6M
 
-لينك الطبقة: [[G_yt_uIDe-55LT6M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uIDe-55LT6M.md|G_yt_uIDe-55LT6M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wbYKcjea1SU.md]
 
 # C_yt_wbYKcjea1SU — فكرة مشتركة في ذرات فيديو wbYKcjea1SU
 
-لينك الطبقة: [[G_yt_wbYKcjea1SU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wbYKcjea1SU.md|G_yt_wbYKcjea1SU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

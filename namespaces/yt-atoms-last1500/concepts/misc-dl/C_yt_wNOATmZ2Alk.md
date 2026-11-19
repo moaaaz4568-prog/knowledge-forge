@@ -8,7 +8,7 @@ sources: [sources/S_yt_wNOATmZ2Alk.md]
 
 # C_yt_wNOATmZ2Alk — فكرة مشتركة في ذرات فيديو wNOATmZ2Alk
 
-لينك الطبقة: [[G_yt_wNOATmZ2Alk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wNOATmZ2Alk.md|G_yt_wNOATmZ2Alk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

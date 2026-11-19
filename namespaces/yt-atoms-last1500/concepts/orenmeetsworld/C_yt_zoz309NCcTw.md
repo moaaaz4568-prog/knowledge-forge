@@ -8,7 +8,7 @@ sources: [sources/S_yt_zoz309NCcTw.md]
 
 # C_yt_zoz309NCcTw — فكرة مشتركة في ذرات فيديو zoz309NCcTw
 
-لينك الطبقة: [[G_yt_zoz309NCcTw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_zoz309NCcTw.md|G_yt_zoz309NCcTw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

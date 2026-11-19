@@ -8,7 +8,7 @@ sources: [sources/S_yt_zatTvIs_fGg.md]
 
 # C_yt_zatTvIs_fGg — فكرة مشتركة في ذرات فيديو zatTvIs_fGg
 
-لينك الطبقة: [[G_yt_zatTvIs_fGg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zatTvIs_fGg.md|G_yt_zatTvIs_fGg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

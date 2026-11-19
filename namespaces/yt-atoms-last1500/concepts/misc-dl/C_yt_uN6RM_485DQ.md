@@ -8,7 +8,7 @@ sources: [sources/S_yt_uN6RM_485DQ.md]
 
 # C_yt_uN6RM_485DQ — فكرة مشتركة في ذرات فيديو uN6RM_485DQ
 
-لينك الطبقة: [[G_yt_uN6RM_485DQ]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uN6RM_485DQ.md|G_yt_uN6RM_485DQ]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xz3vN8ynSII.md]
 
 # C_yt_xz3vN8ynSII — فكرة مشتركة في ذرات فيديو xz3vN8ynSII
 
-لينك الطبقة: [[G_yt_xz3vN8ynSII]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xz3vN8ynSII.md|G_yt_xz3vN8ynSII]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

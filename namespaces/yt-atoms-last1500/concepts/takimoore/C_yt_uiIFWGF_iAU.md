@@ -8,7 +8,7 @@ sources: [sources/S_yt_uiIFWGF_iAU.md]
 
 # C_yt_uiIFWGF_iAU — فكرة مشتركة في ذرات فيديو uiIFWGF_iAU
 
-لينك الطبقة: [[G_yt_uiIFWGF_iAU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_uiIFWGF_iAU.md|G_yt_uiIFWGF_iAU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tU7Xlc48SrM.md]
 
 # C_yt_tU7Xlc48SrM — فكرة مشتركة في ذرات فيديو tU7Xlc48SrM
 
-لينك الطبقة: [[G_yt_tU7Xlc48SrM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tU7Xlc48SrM.md|G_yt_tU7Xlc48SrM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

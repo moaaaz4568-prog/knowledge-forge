@@ -8,7 +8,7 @@ sources: [sources/S_yt_z21zsuGCrNk.md]
 
 # C_yt_z21zsuGCrNk — فكرة مشتركة في ذرات فيديو z21zsuGCrNk
 
-لينك الطبقة: [[G_yt_z21zsuGCrNk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_z21zsuGCrNk.md|G_yt_z21zsuGCrNk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

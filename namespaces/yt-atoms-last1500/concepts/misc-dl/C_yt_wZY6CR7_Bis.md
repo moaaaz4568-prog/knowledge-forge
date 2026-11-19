@@ -8,7 +8,7 @@ sources: [sources/S_yt_wZY6CR7_Bis.md]
 
 # C_yt_wZY6CR7_Bis — فكرة مشتركة في ذرات فيديو wZY6CR7_Bis
 
-لينك الطبقة: [[G_yt_wZY6CR7_Bis]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wZY6CR7_Bis.md|G_yt_wZY6CR7_Bis]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_wLdZWyLOJCI.md]
 
 # C_yt_wLdZWyLOJCI — فكرة مشتركة في ذرات فيديو wLdZWyLOJCI
 
-لينك الطبقة: [[G_yt_wLdZWyLOJCI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alexanderthecreate/G_wLdZWyLOJCI.md|G_yt_wLdZWyLOJCI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

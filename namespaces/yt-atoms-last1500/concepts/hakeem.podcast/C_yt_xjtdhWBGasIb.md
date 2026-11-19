@@ -8,7 +8,7 @@ sources: [sources/S_yt_xjtdhWBGasIb.md]
 
 # C_yt_xjtdhWBGasIb — فكرة مشتركة في ذرات فيديو xjtdhWBGasIb
 
-لينك الطبقة: [[G_yt_xjtdhWBGasIb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_xjtdhWBGasIb.md|G_yt_xjtdhWBGasIb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

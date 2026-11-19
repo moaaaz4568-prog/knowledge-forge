@@ -8,7 +8,7 @@ sources: [sources/S_yt_thrADyFFZVE.md]
 
 # C_yt_thrADyFFZVE — فكرة مشتركة في ذرات فيديو thrADyFFZVE
 
-لينك الطبقة: [[G_yt_thrADyFFZVE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_thrADyFFZVE.md|G_yt_thrADyFFZVE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

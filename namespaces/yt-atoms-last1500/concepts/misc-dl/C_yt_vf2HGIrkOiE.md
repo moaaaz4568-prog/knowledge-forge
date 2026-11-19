@@ -8,7 +8,7 @@ sources: [sources/S_yt_vf2HGIrkOiE.md]
 
 # C_yt_vf2HGIrkOiE — فكرة مشتركة في ذرات فيديو vf2HGIrkOiE
 
-لينك الطبقة: [[G_yt_vf2HGIrkOiE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vf2HGIrkOiE.md|G_yt_vf2HGIrkOiE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

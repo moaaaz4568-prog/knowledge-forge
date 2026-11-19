@@ -8,7 +8,7 @@ sources: [sources/S_yt_x1cblvrMmxw.md]
 
 # C_yt_x1cblvrMmxw — فكرة مشتركة في ذرات فيديو x1cblvrMmxw
 
-لينك الطبقة: [[G_yt_x1cblvrMmxw]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/officialjpmiddleton/G_x1cblvrMmxw.md|G_yt_x1cblvrMmxw]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_tt_JGLmqS6w.md]
 
 # C_yt_tt_JGLmqS6w — فكرة مشتركة في ذرات فيديو tt_JGLmqS6w
 
-لينك الطبقة: [[G_yt_tt_JGLmqS6w]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/alaamjaish/G_tt_JGLmqS6w.md|G_yt_tt_JGLmqS6w]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

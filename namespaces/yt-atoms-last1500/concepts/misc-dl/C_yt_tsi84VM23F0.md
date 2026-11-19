@@ -8,7 +8,7 @@ sources: [sources/S_yt_tsi84VM23F0.md]
 
 # C_yt_tsi84VM23F0 — فكرة مشتركة في ذرات فيديو tsi84VM23F0
 
-لينك الطبقة: [[G_yt_tsi84VM23F0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tsi84VM23F0.md|G_yt_tsi84VM23F0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

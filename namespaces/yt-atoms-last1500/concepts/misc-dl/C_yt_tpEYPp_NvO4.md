@@ -8,7 +8,7 @@ sources: [sources/S_yt_tpEYPp_NvO4.md]
 
 # C_yt_tpEYPp_NvO4 — فكرة مشتركة في ذرات فيديو tpEYPp_NvO4
 
-لينك الطبقة: [[G_yt_tpEYPp_NvO4]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tpEYPp_NvO4.md|G_yt_tpEYPp_NvO4]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

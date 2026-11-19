@@ -8,7 +8,7 @@ sources: [sources/S_yt_vxg6349M5iE.md]
 
 # C_yt_vxg6349M5iE — فكرة مشتركة في ذرات فيديو vxg6349M5iE
 
-لينك الطبقة: [[G_yt_vxg6349M5iE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_vxg6349M5iE.md|G_yt_vxg6349M5iE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vB_BKl_tr3A.md]
 
 # C_yt_vB_BKl_tr3A — فكرة مشتركة في ذرات فيديو vB_BKl_tr3A
 
-لينك الطبقة: [[G_yt_vB_BKl_tr3A]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_vB_BKl_tr3A.md|G_yt_vB_BKl_tr3A]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

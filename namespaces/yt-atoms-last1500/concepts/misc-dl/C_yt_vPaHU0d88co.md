@@ -8,7 +8,7 @@ sources: [sources/S_yt_vPaHU0d88co.md]
 
 # C_yt_vPaHU0d88co — فكرة مشتركة في ذرات فيديو vPaHU0d88co
 
-لينك الطبقة: [[G_yt_vPaHU0d88co]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vPaHU0d88co.md|G_yt_vPaHU0d88co]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

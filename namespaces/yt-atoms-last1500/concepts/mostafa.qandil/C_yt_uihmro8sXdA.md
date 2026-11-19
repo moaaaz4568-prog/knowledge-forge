@@ -8,7 +8,7 @@ sources: [sources/S_yt_uihmro8sXdA.md]
 
 # C_yt_uihmro8sXdA — فكرة مشتركة في ذرات فيديو uihmro8sXdA
 
-لينك الطبقة: [[G_yt_uihmro8sXdA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/mostafa.qandil/G_uihmro8sXdA.md|G_yt_uihmro8sXdA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

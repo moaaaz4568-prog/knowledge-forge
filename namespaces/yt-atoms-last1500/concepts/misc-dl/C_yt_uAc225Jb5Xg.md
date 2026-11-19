@@ -8,7 +8,7 @@ sources: [sources/S_yt_uAc225Jb5Xg.md]
 
 # C_yt_uAc225Jb5Xg — فكرة مشتركة في ذرات فيديو uAc225Jb5Xg
 
-لينك الطبقة: [[G_yt_uAc225Jb5Xg]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uAc225Jb5Xg.md|G_yt_uAc225Jb5Xg]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

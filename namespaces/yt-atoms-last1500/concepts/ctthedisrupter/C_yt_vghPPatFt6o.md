@@ -8,7 +8,7 @@ sources: [sources/S_yt_vghPPatFt6o.md]
 
 # C_yt_vghPPatFt6o — فكرة مشتركة في ذرات فيديو vghPPatFt6o
 
-لينك الطبقة: [[G_yt_vghPPatFt6o]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_vghPPatFt6o.md|G_yt_vghPPatFt6o]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

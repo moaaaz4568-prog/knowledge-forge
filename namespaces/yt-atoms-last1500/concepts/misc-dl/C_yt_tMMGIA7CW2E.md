@@ -8,7 +8,7 @@ sources: [sources/S_yt_tMMGIA7CW2E.md]
 
 # C_yt_tMMGIA7CW2E — فكرة مشتركة في ذرات فيديو tMMGIA7CW2E
 
-لينك الطبقة: [[G_yt_tMMGIA7CW2E]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tMMGIA7CW2E.md|G_yt_tMMGIA7CW2E]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

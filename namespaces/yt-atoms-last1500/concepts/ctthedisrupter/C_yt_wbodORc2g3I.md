@@ -8,7 +8,7 @@ sources: [sources/S_yt_wbodORc2g3I.md]
 
 # C_yt_wbodORc2g3I — فكرة مشتركة في ذرات فيديو wbodORc2g3I
 
-لينك الطبقة: [[G_yt_wbodORc2g3I]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wbodORc2g3I.md|G_yt_wbodORc2g3I]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

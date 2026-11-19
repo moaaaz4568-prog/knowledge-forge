@@ -8,7 +8,7 @@ sources: [sources/S_yt_thnqBIsNKFI.md]
 
 # C_yt_thnqBIsNKFI — فكرة مشتركة في ذرات فيديو thnqBIsNKFI
 
-لينك الطبقة: [[G_yt_thnqBIsNKFI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_thnqBIsNKFI.md|G_yt_thnqBIsNKFI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_vtbT6Kh--DI.md]
 
 # C_yt_vtbT6Kh--DI — فكرة مشتركة في ذرات فيديو vtbT6Kh--DI
 
-لينك الطبقة: [[G_yt_vtbT6Kh--DI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_vtbT6Kh--DI.md|G_yt_vtbT6Kh--DI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

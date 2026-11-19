@@ -8,7 +8,7 @@ sources: [sources/S_yt_zMouHT0r8dY.md]
 
 # C_yt_zMouHT0r8dY — فكرة مشتركة في ذرات فيديو zMouHT0r8dY
 
-لينك الطبقة: [[G_yt_zMouHT0r8dY]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zMouHT0r8dY.md|G_yt_zMouHT0r8dY]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

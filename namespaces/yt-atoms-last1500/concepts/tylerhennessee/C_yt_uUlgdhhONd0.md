@@ -8,7 +8,7 @@ sources: [sources/S_yt_uUlgdhhONd0.md]
 
 # C_yt_uUlgdhhONd0 — فكرة مشتركة في ذرات فيديو uUlgdhhONd0
 
-لينك الطبقة: [[G_yt_uUlgdhhONd0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/tylerhennessee/G_uUlgdhhONd0.md|G_yt_uUlgdhhONd0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

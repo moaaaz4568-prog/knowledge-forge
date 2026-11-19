@@ -8,7 +8,7 @@ sources: [sources/S_yt_yDnawpgrEtA.md]
 
 # C_yt_yDnawpgrEtA — فكرة مشتركة في ذرات فيديو yDnawpgrEtA
 
-لينك الطبقة: [[G_yt_yDnawpgrEtA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_yDnawpgrEtA.md|G_yt_yDnawpgrEtA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

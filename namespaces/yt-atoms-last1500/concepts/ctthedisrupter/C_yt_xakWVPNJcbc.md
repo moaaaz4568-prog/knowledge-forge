@@ -8,7 +8,7 @@ sources: [sources/S_yt_xakWVPNJcbc.md]
 
 # C_yt_xakWVPNJcbc — فكرة مشتركة في ذرات فيديو xakWVPNJcbc
 
-لينك الطبقة: [[G_yt_xakWVPNJcbc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_xakWVPNJcbc.md|G_yt_xakWVPNJcbc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

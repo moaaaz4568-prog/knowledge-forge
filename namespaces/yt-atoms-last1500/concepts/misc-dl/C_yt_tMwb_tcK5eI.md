@@ -8,7 +8,7 @@ sources: [sources/S_yt_tMwb_tcK5eI.md]
 
 # C_yt_tMwb_tcK5eI — فكرة مشتركة في ذرات فيديو tMwb_tcK5eI
 
-لينك الطبقة: [[G_yt_tMwb_tcK5eI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tMwb_tcK5eI.md|G_yt_tMwb_tcK5eI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

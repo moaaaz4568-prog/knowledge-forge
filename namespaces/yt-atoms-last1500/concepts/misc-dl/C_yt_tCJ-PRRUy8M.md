@@ -8,7 +8,7 @@ sources: [sources/S_yt_tCJ-PRRUy8M.md]
 
 # C_yt_tCJ-PRRUy8M — فكرة مشتركة في ذرات فيديو tCJ-PRRUy8M
 
-لينك الطبقة: [[G_yt_tCJ-PRRUy8M]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_tCJ-PRRUy8M.md|G_yt_tCJ-PRRUy8M]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

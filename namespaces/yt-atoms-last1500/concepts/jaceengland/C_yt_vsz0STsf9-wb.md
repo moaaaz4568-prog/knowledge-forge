@@ -8,7 +8,7 @@ sources: [sources/S_yt_vsz0STsf9-wb.md]
 
 # C_yt_vsz0STsf9-wb — فكرة مشتركة في ذرات فيديو vsz0STsf9-wb
 
-لينك الطبقة: [[G_yt_vsz0STsf9-wb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_vsz0STsf9-wb.md|G_yt_vsz0STsf9-wb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

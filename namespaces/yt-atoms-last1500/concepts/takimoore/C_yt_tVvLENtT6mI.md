@@ -8,7 +8,7 @@ sources: [sources/S_yt_tVvLENtT6mI.md]
 
 # C_yt_tVvLENtT6mI — فكرة مشتركة في ذرات فيديو tVvLENtT6mI
 
-لينك الطبقة: [[G_yt_tVvLENtT6mI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_tVvLENtT6mI.md|G_yt_tVvLENtT6mI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

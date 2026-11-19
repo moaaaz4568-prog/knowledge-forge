@@ -8,7 +8,7 @@ sources: [sources/S_yt_vLz_GL1GFJA.md]
 
 # C_yt_vLz_GL1GFJA — فكرة مشتركة في ذرات فيديو vLz_GL1GFJA
 
-لينك الطبقة: [[G_yt_vLz_GL1GFJA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_vLz_GL1GFJA.md|G_yt_vLz_GL1GFJA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

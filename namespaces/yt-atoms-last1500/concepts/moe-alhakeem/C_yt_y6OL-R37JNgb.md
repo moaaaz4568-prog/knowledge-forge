@@ -8,7 +8,7 @@ sources: [sources/S_yt_y6OL-R37JNgb.md]
 
 # C_yt_y6OL-R37JNgb — فكرة مشتركة في ذرات فيديو y6OL-R37JNgb
 
-لينك الطبقة: [[G_yt_y6OL-R37JNgb]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/moe-alhakeem/G_y6OL-R37JNgb.md|G_yt_y6OL-R37JNgb]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

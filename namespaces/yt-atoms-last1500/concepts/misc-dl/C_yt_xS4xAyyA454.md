@@ -8,7 +8,7 @@ sources: [sources/S_yt_xS4xAyyA454.md]
 
 # C_yt_xS4xAyyA454 — فكرة مشتركة في ذرات فيديو xS4xAyyA454
 
-لينك الطبقة: [[G_yt_xS4xAyyA454]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xS4xAyyA454.md|G_yt_xS4xAyyA454]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

@@ -8,7 +8,7 @@ sources: [sources/S_yt_xJi2bPLRvLc.md]
 
 # C_yt_xJi2bPLRvLc — فكرة مشتركة في ذرات فيديو xJi2bPLRvLc
 
-لينك الطبقة: [[G_yt_xJi2bPLRvLc]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xJi2bPLRvLc.md|G_yt_xJi2bPLRvLc]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

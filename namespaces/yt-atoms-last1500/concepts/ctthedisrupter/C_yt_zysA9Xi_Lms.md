@@ -8,7 +8,7 @@ sources: [sources/S_yt_zysA9Xi_Lms.md]
 
 # C_yt_zysA9Xi_Lms — فكرة مشتركة في ذرات فيديو zysA9Xi_Lms
 
-لينك الطبقة: [[G_yt_zysA9Xi_Lms]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_zysA9Xi_Lms.md|G_yt_zysA9Xi_Lms]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

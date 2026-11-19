@@ -8,7 +8,7 @@ sources: [sources/S_yt_uYphZ7wDfPE.md]
 
 # C_yt_uYphZ7wDfPE — فكرة مشتركة في ذرات فيديو uYphZ7wDfPE
 
-لينك الطبقة: [[G_yt_uYphZ7wDfPE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/fletchmonster/G_uYphZ7wDfPE.md|G_yt_uYphZ7wDfPE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

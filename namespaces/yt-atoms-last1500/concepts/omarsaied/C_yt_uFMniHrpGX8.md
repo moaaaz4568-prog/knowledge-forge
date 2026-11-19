@@ -8,7 +8,7 @@ sources: [sources/S_yt_uFMniHrpGX8.md]
 
 # C_yt_uFMniHrpGX8 — فكرة مشتركة في ذرات فيديو uFMniHrpGX8
 
-لينك الطبقة: [[G_yt_uFMniHrpGX8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/omarsaied/G_uFMniHrpGX8.md|G_yt_uFMniHrpGX8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

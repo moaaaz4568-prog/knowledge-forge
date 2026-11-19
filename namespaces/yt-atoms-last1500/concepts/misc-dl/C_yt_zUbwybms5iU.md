@@ -8,7 +8,7 @@ sources: [sources/S_yt_zUbwybms5iU.md]
 
 # C_yt_zUbwybms5iU — فكرة مشتركة في ذرات فيديو zUbwybms5iU
 
-لينك الطبقة: [[G_yt_zUbwybms5iU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_zUbwybms5iU.md|G_yt_zUbwybms5iU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

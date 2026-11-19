@@ -8,7 +8,7 @@ sources: [sources/S_yt_tLlcGRO3v24.md]
 
 # C_yt_tLlcGRO3v24 — فكرة مشتركة في ذرات فيديو tLlcGRO3v24
 
-لينك الطبقة: [[G_yt_tLlcGRO3v24]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_tLlcGRO3v24.md|G_yt_tLlcGRO3v24]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

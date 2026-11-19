@@ -8,7 +8,7 @@ sources: [sources/S_yt_wG85y1-rf28.md]
 
 # C_yt_wG85y1-rf28 — فكرة مشتركة في ذرات فيديو wG85y1-rf28
 
-لينك الطبقة: [[G_yt_wG85y1-rf28]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/ctthedisrupter/G_wG85y1-rf28.md|G_yt_wG85y1-rf28]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

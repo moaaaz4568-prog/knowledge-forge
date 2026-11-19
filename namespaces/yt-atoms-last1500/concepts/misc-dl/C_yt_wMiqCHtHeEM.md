@@ -8,7 +8,7 @@ sources: [sources/S_yt_wMiqCHtHeEM.md]
 
 # C_yt_wMiqCHtHeEM — فكرة مشتركة في ذرات فيديو wMiqCHtHeEM
 
-لينك الطبقة: [[G_yt_wMiqCHtHeEM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_wMiqCHtHeEM.md|G_yt_wMiqCHtHeEM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

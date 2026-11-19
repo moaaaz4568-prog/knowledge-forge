@@ -8,7 +8,7 @@ sources: [sources/S_yt_w_Zku4-n_G8.md]
 
 # C_yt_w_Zku4-n_G8 — فكرة مشتركة في ذرات فيديو w_Zku4-n_G8
 
-لينك الطبقة: [[G_yt_w_Zku4-n_G8]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/takimoore/G_w_Zku4-n_G8.md|G_yt_w_Zku4-n_G8]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

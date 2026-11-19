@@ -8,7 +8,7 @@ sources: [sources/S_yt_uDhZa_RopqE.md]
 
 # C_yt_uDhZa_RopqE — فكرة مشتركة في ذرات فيديو uDhZa_RopqE
 
-لينك الطبقة: [[G_yt_uDhZa_RopqE]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_uDhZa_RopqE.md|G_yt_uDhZa_RopqE]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

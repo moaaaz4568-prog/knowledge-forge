@@ -8,7 +8,7 @@ sources: [sources/S_yt_xu0zWnfvcKU.md]
 
 # C_yt_xu0zWnfvcKU — فكرة مشتركة في ذرات فيديو xu0zWnfvcKU
 
-لينك الطبقة: [[G_yt_xu0zWnfvcKU]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_xu0zWnfvcKU.md|G_yt_xu0zWnfvcKU]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

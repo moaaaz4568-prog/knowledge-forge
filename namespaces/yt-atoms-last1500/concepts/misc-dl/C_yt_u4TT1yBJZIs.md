@@ -8,7 +8,7 @@ sources: [sources/S_yt_u4TT1yBJZIs.md]
 
 # C_yt_u4TT1yBJZIs — فكرة مشتركة في ذرات فيديو u4TT1yBJZIs
 
-لينك الطبقة: [[G_yt_u4TT1yBJZIs]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_u4TT1yBJZIs.md|G_yt_u4TT1yBJZIs]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

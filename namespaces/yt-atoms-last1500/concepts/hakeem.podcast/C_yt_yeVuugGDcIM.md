@@ -8,7 +8,7 @@ sources: [sources/S_yt_yeVuugGDcIM.md]
 
 # C_yt_yeVuugGDcIM — فكرة مشتركة في ذرات فيديو yeVuugGDcIM
 
-لينك الطبقة: [[G_yt_yeVuugGDcIM]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/hakeem.podcast/G_yeVuugGDcIM.md|G_yt_yeVuugGDcIM]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

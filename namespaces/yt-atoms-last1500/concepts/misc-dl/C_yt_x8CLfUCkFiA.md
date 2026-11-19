@@ -8,7 +8,7 @@ sources: [sources/S_yt_x8CLfUCkFiA.md]
 
 # C_yt_x8CLfUCkFiA — فكرة مشتركة في ذرات فيديو x8CLfUCkFiA
 
-لينك الطبقة: [[G_yt_x8CLfUCkFiA]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/misc-dl/G_x8CLfUCkFiA.md|G_yt_x8CLfUCkFiA]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

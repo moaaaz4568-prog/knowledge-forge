@@ -8,7 +8,7 @@ sources: [sources/S_yt_ufK1hD3gxOI.md]
 
 # C_yt_ufK1hD3gxOI — فكرة مشتركة في ذرات فيديو ufK1hD3gxOI
 
-لينك الطبقة: [[G_yt_ufK1hD3gxOI]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/orenmeetsworld/G_ufK1hD3gxOI.md|G_yt_ufK1hD3gxOI]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

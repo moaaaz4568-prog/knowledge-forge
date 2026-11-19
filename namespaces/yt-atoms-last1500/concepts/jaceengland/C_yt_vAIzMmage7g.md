@@ -8,7 +8,7 @@ sources: [sources/S_yt_vAIzMmage7g.md]
 
 # C_yt_vAIzMmage7g — فكرة مشتركة في ذرات فيديو vAIzMmage7g
 
-لينك الطبقة: [[G_yt_vAIzMmage7g]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/jaceengland/G_vAIzMmage7g.md|G_yt_vAIzMmage7g]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

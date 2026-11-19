@@ -8,7 +8,7 @@ sources: [sources/S_yt_zi0hNC24jSk.md]
 
 # C_yt_zi0hNC24jSk — فكرة مشتركة في ذرات فيديو zi0hNC24jSk
 
-لينك الطبقة: [[G_yt_zi0hNC24jSk]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/michtortiyt/G_zi0hNC24jSk.md|G_yt_zi0hNC24jSk]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

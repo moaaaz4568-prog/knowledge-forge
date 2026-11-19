@@ -8,7 +8,7 @@ sources: [sources/S_yt_xpcTcrrP8Eo.md]
 
 # C_yt_xpcTcrrP8Eo — فكرة مشتركة في ذرات فيديو xpcTcrrP8Eo
 
-لينك الطبقة: [[G_yt_xpcTcrrP8Eo]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/saminyasar_/G_xpcTcrrP8Eo.md|G_yt_xpcTcrrP8Eo]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 

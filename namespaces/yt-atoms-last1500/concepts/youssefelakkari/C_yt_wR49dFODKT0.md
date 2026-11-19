@@ -8,7 +8,7 @@ sources: [sources/S_yt_wR49dFODKT0.md]
 
 # C_yt_wR49dFODKT0 — فكرة مشتركة في ذرات فيديو wR49dFODKT0
 
-لينك الطبقة: [[G_yt_wR49dFODKT0]] — مدخل المسرد لنفس المصدر.
+لينك الطبقة: [[glossary/youssefelakkari/G_wR49dFODKT0.md|G_yt_wR49dFODKT0]] — مدخل المسرد لنفس المصدر.
 
 ## التعريف
 
