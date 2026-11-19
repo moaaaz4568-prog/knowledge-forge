@@ -1,4 +1,380 @@
-# Index — tensions/
+# Index — tensions/ (yt-atoms-last1500)
 
-| File | Notes |
-|---|---|
+التوترات الموثقة في namespace آخر 1,500 مصدر يوتيوب: 370 توتراً (361 ثنائياً بين مصدرين مستقلين من قناتين مختلفتين، 9 داخلياً داخل مصدر واحد يقدم الوجهين).
+
+منهجية الاستخراج: معجم 11 مجالاً دلالياً × قطبية الاقتباس (تمكين/تحفظ) — التوتر يُنشأ حين يوجد طرف معاكس بمجال مشترك وتداخل موضوعي ≥2 كلمة دلالية من قناة مختلفة، أو يقدم المصدر نفسه الوجهين. الطرفان اقتباسات حرفية byte-exact، والمُميِّز يسمي المتغير الفاصل.
+
+المفاهيم الـ1130 الأخرى لا تحمل مادة قطبية قابلة للتوثيق (لا تمكين ولا تحفظ بمصطلح مجالي) — التوتر لا يُختلق لها؛ مرجعها المفاهيمي concepts/INDEX.md يوثق هذا الغياب.
+
+| File | Domain | Kind |
+|---|---|---|
+| tensions/X_yt_tBe6RoY7Rw4.md | الأدوات والبرامج | dual |
+| tensions/X_yt_tIYAZ5Iq2Uw.md | الأدوات والبرامج | dual |
+| tensions/X_yt_ttZ1eUFqrvQ.md | الأدوات والبرامج | internal |
+| tensions/X_yt_u4TT1yBJZIs.md | الأدوات والبرامج | dual |
+| tensions/X_yt_ucFb67bIB48.md | الأدوات والبرامج | dual |
+| tensions/X_yt_vOji3BlMgO8.md | الأدوات والبرامج | dual |
+| tensions/X_yt_vQcngWBw2AI.md | الأدوات والبرامج | dual |
+| tensions/X_yt_vafaSOg-_aw.md | الأدوات والبرامج | dual |
+| tensions/X_yt_vjtRq7DFFLI.md | الأدوات والبرامج | dual |
+| tensions/X_yt_wLJ40GV2XEc.md | الأدوات والبرامج | dual |
+| tensions/X_yt_wQBPR-2XFWc.md | الأدوات والبرامج | dual |
+| tensions/X_yt_wc3waWE6dvc.md | الأدوات والبرامج | dual |
+| tensions/X_yt_wc3waWE6dvcb.md | الأدوات والبرامج | dual |
+| tensions/X_yt_wz41e4RkIt8.md | الأدوات والبرامج | dual |
+| tensions/X_yt_xVYVU-eM64E.md | الأدوات والبرامج | dual |
+| tensions/X_yt_y1zR4h2aEDw.md | الأدوات والبرامج | dual |
+| tensions/X_yt_yUpTFLvhcGk.md | الأدوات والبرامج | dual |
+| tensions/X_yt_yUpTFLvhcGkb.md | الأدوات والبرامج | dual |
+| tensions/X_yt_yaTwdH0lJgI.md | الأدوات والبرامج | dual |
+| tensions/X_yt_ysGuQEwmMTA.md | الأدوات والبرامج | dual |
+| tensions/X_yt_ysGuQEwmMTAb.md | الأدوات والبرامج | dual |
+| tensions/X_yt_z08CfQZE6TI.md | الأدوات والبرامج | dual |
+| tensions/X_yt_z08CfQZE6TIb.md | الأدوات والبرامج | dual |
+| tensions/X_yt_zNTA8kiTGWQ.md | الأدوات والبرامج | dual |
+| tensions/X_yt_zeHkJuMORJE.md | الأدوات والبرامج | dual |
+| tensions/X_yt_zeHkJuMORJEb.md | الأدوات والبرامج | dual |
+| tensions/X_yt_zlC6Egrv2JM.md | الأدوات والبرامج | dual |
+| tensions/X_yt_tIZICbahTo8.md | الإعلانات | dual |
+| tensions/X_yt_tKUhJo0bf9c.md | الإعلانات | dual |
+| tensions/X_yt_uqYNm0NSUZw.md | الإعلانات | dual |
+| tensions/X_yt_vCh4Bl4rxWU.md | الإعلانات | dual |
+| tensions/X_yt_vmZL39DrbZE.md | الإعلانات | dual |
+| tensions/X_yt_wHZlkOyPZ_M.md | الإعلانات | dual |
+| tensions/X_yt_wNVOADoiVx4.md | الإعلانات | dual |
+| tensions/X_yt_x5IQ9BF4XIU.md | الإعلانات | dual |
+| tensions/X_yt_xaTNncfkYfk.md | الإعلانات | dual |
+| tensions/X_yt_xhYhqZJRjas.md | الإعلانات | dual |
+| tensions/X_yt_xhYhqZJRjasb.md | الإعلانات | dual |
+| tensions/X_yt_xjOaYlm_l-c.md | الإعلانات | dual |
+| tensions/X_yt_yP5SdXzWjZ8.md | الإعلانات | dual |
+| tensions/X_yt_yiBVIW5Y8DY.md | الإعلانات | dual |
+| tensions/X_yt_yoivIS4PkOk.md | الإعلانات | dual |
+| tensions/X_yt_zMouHT0r8dY.md | الإعلانات | dual |
+| tensions/X_yt_zMouHT0r8dYb.md | الإعلانات | dual |
+| tensions/X_yt_zdh1oxijEoI.md | الإعلانات | dual |
+| tensions/X_yt_zpFvyGEtxTk.md | الإعلانات | dual |
+| tensions/X_yt_zr_rBxUbpqY.md | الإعلانات | dual |
+| tensions/X_yt_ttDaQwL5QwA.md | البريد الإلكتروني | dual |
+| tensions/X_yt_uXV147D-tAk.md | البريد الإلكتروني | dual |
+| tensions/X_yt_uXV147D-tAkb.md | البريد الإلكتروني | dual |
+| tensions/X_yt_uwz2_hJ96Tc.md | البريد الإلكتروني | dual |
+| tensions/X_yt_uwz2_hJ96Tcb.md | البريد الإلكتروني | dual |
+| tensions/X_yt_vBMchE_E4c4.md | البريد الإلكتروني | dual |
+| tensions/X_yt_vysEAcFpmh0.md | البريد الإلكتروني | dual |
+| tensions/X_yt_w_ng5R4AHa4.md | البريد الإلكتروني | dual |
+| tensions/X_yt_x6NTxJAFRF8.md | البريد الإلكتروني | dual |
+| tensions/X_yt_xYva-jBkfjU.md | البريد الإلكتروني | dual |
+| tensions/X_yt_xmaYkKmE0aM.md | البريد الإلكتروني | dual |
+| tensions/X_yt_uQBPZqRhAr4.md | التسويق والعلامة | dual |
+| tensions/X_yt_ua2-BSTFJXM.md | التسويق والعلامة | dual |
+| tensions/X_yt_ufK1hD3gxOI.md | التسويق والعلامة | dual |
+| tensions/X_yt_vUahT-i3Lp4.md | التسويق والعلامة | dual |
+| tensions/X_yt_xHMbyo5qSIo.md | التسويق والعلامة | dual |
+| tensions/X_yt_xLQFiIeP5Ys.md | التسويق والعلامة | dual |
+| tensions/X_yt_yD7ViF9EzF0.md | التسويق والعلامة | dual |
+| tensions/X_yt_yDRfboSvcB0.md | التسويق والعلامة | dual |
+| tensions/X_yt_zF26uIDeKF4.md | التسويق والعلامة | dual |
+| tensions/X_yt_tZFV5DP2OcU.md | التعلم والمهارات | dual |
+| tensions/X_yt_tqMKnaUG1-g.md | التعلم والمهارات | dual |
+| tensions/X_yt_u6tG0Fpzsho.md | التعلم والمهارات | dual |
+| tensions/X_yt_uNRzm56dxt4.md | التعلم والمهارات | dual |
+| tensions/X_yt_uqPvOdqn0TU.md | التعلم والمهارات | dual |
+| tensions/X_yt_uu0eAk8llPE.md | التعلم والمهارات | dual |
+| tensions/X_yt_ux4xoFkj_lc.md | التعلم والمهارات | dual |
+| tensions/X_yt_v65ECrPoAmo.md | التعلم والمهارات | dual |
+| tensions/X_yt_v6LZZg4O-ks.md | التعلم والمهارات | dual |
+| tensions/X_yt_vdNz49tRDj8.md | التعلم والمهارات | dual |
+| tensions/X_yt_vfz7xAD_Mko.md | التعلم والمهارات | dual |
+| tensions/X_yt_vfz7xAD_Mkob.md | التعلم والمهارات | dual |
+| tensions/X_yt_vg3msbBDCuM.md | التعلم والمهارات | dual |
+| tensions/X_yt_vhCK4rTMfX8.md | التعلم والمهارات | dual |
+| tensions/X_yt_vxg6349M5iE.md | التعلم والمهارات | dual |
+| tensions/X_yt_wxWjN-l5KxU.md | التعلم والمهارات | dual |
+| tensions/X_yt_x77UCROx4PM.md | التعلم والمهارات | dual |
+| tensions/X_yt_xGJqYJr3O0A.md | التعلم والمهارات | dual |
+| tensions/X_yt_xJXG40tixRA.md | التعلم والمهارات | dual |
+| tensions/X_yt_xn2G6VdrxfY.md | التعلم والمهارات | internal |
+| tensions/X_yt_xtfEz5EmLPw.md | التعلم والمهارات | dual |
+| tensions/X_yt_y1_IwU-mH9k.md | التعلم والمهارات | dual |
+| tensions/X_yt_y1_IwU-mH9kb.md | التعلم والمهارات | dual |
+| tensions/X_yt_yDxG8Jy2zXc.md | التعلم والمهارات | dual |
+| tensions/X_yt_yDxG8Jy2zXcb.md | التعلم والمهارات | dual |
+| tensions/X_yt_yHyGV3g7xQw.md | التعلم والمهارات | dual |
+| tensions/X_yt_yT8uPFWHqZQ.md | التعلم والمهارات | dual |
+| tensions/X_yt_y_KSHfZ6Syo.md | التعلم والمهارات | dual |
+| tensions/X_yt_yaa0YcF0AO8.md | التعلم والمهارات | dual |
+| tensions/X_yt_yu-iD0hFa_w.md | التعلم والمهارات | dual |
+| tensions/X_yt_zBBKRYHH95Q.md | التعلم والمهارات | dual |
+| tensions/X_yt_zCDVj2BJnhM.md | التعلم والمهارات | dual |
+| tensions/X_yt_zNsuWTnYlTw.md | التعلم والمهارات | dual |
+| tensions/X_yt_zOlpLWfvV5k.md | التعلم والمهارات | dual |
+| tensions/X_yt_z_9UwwpxxHM.md | التعلم والمهارات | dual |
+| tensions/X_yt_wiLdMPsZuUQ.md | الجمهور والمتابعون | dual |
+| tensions/X_yt_xaiNab3Xhbk.md | الجمهور والمتابعون | dual |
+| tensions/X_yt_xaiNab3Xhbkb.md | الجمهور والمتابعون | dual |
+| tensions/X_yt_tBxTDOyJqoc.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tHO33ZR9fGw.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tIPniGODtYE.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tMMGIA7CW2E.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tQ1SB9_ctYE.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tQGQtHKsn2w.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tVMHEr2OtY8.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tghoTHS1RlY.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_tksMFlVMKas.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_uEbVtojcEQY.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_uVeLWrkBoHE.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_uWNNNvZT08o.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_up2BLatM1EY.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_upsJK45R2QQ.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_v7QVgHx_exo.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_vMGDFOYp2qg.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_vRFm7Hg_EWM.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_vZTxDqOTCmk.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_vxNzfhNYZSc.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_w3jisoxVOEg.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wMZb8yw2EH0.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wQjEeS7JAVg.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wZ7ZkWqcNyQ.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wZm7xv08yaU.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wZr1AGDYj0M.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_wzNtSmrO5Fo.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_x8CLfUCkFiA.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_xHEyY-8ukOc.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_y2opn9oJ5vE.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_yNeIGUrWrYU.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_yc7hC5UGvPw.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_yuRT3mA7gNw.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zS3Oz0A0V38.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zVjX_vqyd7I.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zVjX_vqyd7Ib.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_z_xphGrE34Q.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zat1b1ya-P4.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zcwNMv6FS38.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zi0hNC24jSk.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_zi0hNC24jSkb.md | الذكاء الاصطناعي | dual |
+| tensions/X_yt_u0K5kW-jGMA.md | العقارات | internal |
+| tensions/X_yt_uSdIG0-OnBs.md | العقارات | dual |
+| tensions/X_yt_uSdIG0-OnBsb.md | العقارات | dual |
+| tensions/X_yt_ulGyatkEaTQ.md | العقارات | dual |
+| tensions/X_yt_y91f2ZD4HQ8.md | العقارات | internal |
+| tensions/X_yt_yzCrq1F1lwQ.md | العقارات | internal |
+| tensions/X_yt_tCm9LM-W2HA.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tKWl2p9gVWk.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tST9WJVwleE.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tUP8BZtwTSY.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tc-Oc4q4xbw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tdlazTvFQws.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tl7eL4RdL9c.md | العملاء والمبيعات | dual |
+| tensions/X_yt_u-T7YNKHXoY.md | العملاء والمبيعات | dual |
+| tensions/X_yt_u4HcwWQ9JWA.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uAc225Jb5Xg.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uD1ggUuRsX4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uDhZa_RopqE.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uEDYUn3RQQs.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uF8YeRkA_7s.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uTRxvyD_nFw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uaWQihF96fc.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uf_Jsx9jYnI.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uhpSvfwdFAY.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uu2Jep9NjAU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uu2Jep9NjAUb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uwvKL6DcnJI.md | العملاء والمبيعات | dual |
+| tensions/X_yt_uzN9Tf-Igi0.md | العملاء والمبيعات | dual |
+| tensions/X_yt_v-Zv_KvByug.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vFGqi9s7xQM.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vL_VCVUnbQU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vYRUpnnePmA.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vYRUpnnePmAb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vhPKZXrw8js.md | العملاء والمبيعات | dual |
+| tensions/X_yt_vvjR2GryCP0.md | العملاء والمبيعات | dual |
+| tensions/X_yt_w1QGPLeG4U4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_w8r50brKNzU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wB5AUtzCGdM.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wBbbqEl1ZdI.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wBpDzX5h0uM.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wEM_dUuHF9M.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wJymIn5Q2Nk.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wMiqCHtHeEM.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wNbsHiJ1psk.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wOm431rUgLg.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wRiykU_nnME.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wYzkKTtUBJA.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wYzkKTtUBJAb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wnSIfJWD9sU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wnSIfJWD9sUb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wtT-5U5ByR8.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wxAQ9ZXgsQw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_wxAQ9ZXgsQwb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_x0p6HdMNYR4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_x3Xxj1iO4gs.md | العملاء والمبيعات | dual |
+| tensions/X_yt_x7m4HOeGTys.md | العملاء والمبيعات | dual |
+| tensions/X_yt_x7qwPk67suk.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xFLQMDP4T-A.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xFncbLb3U1A.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xRLw52kCakw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xSEO5qeIYt0.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xa1w8SkoVU8.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xa5Wr5MRaSs.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xaTRgqmQwbw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xe3kyBkgH58.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xgTpgdnansc.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xiTPLxK4PxI.md | العملاء والمبيعات | dual |
+| tensions/X_yt_xpcTcrrP8Eo.md | العملاء والمبيعات | dual |
+| tensions/X_yt_y-rlWvzbcBc.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yCWwVVmYTgg.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yNS_-iUcJEU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yPiRF3dsy5s.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yPiRF3dsy5sb.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yRcRa1Gp_1Q.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yZ_sozHCnJM.md | العملاء والمبيعات | dual |
+| tensions/X_yt_y_JPm1yYC84.md | العملاء والمبيعات | dual |
+| tensions/X_yt_ydcEi73vn5k.md | العملاء والمبيعات | dual |
+| tensions/X_yt_yoGvz6lvTfQ.md | العملاء والمبيعات | dual |
+| tensions/X_yt_ypfHmxQTgfE.md | العملاء والمبيعات | dual |
+| tensions/X_yt_ytx1hEX3V7s.md | العملاء والمبيعات | dual |
+| tensions/X_yt_z78xdqmzhvw.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zD1ngEjZEVs.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zKhq_RjzQrk.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zNKbAKPIFVU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zSnB91L5nA4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zVsa6-zKu08.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zWdc8vwkNy4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zgxrpSrQQMU.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zrzgQwUqlLc.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zyT8JEW2bm0.md | العملاء والمبيعات | dual |
+| tensions/X_yt_zyrY3e0xdv4.md | العملاء والمبيعات | dual |
+| tensions/X_yt_tDpMkuZ76TM.md | المال والتسعير | dual |
+| tensions/X_yt_tGdo3i9MBZk.md | المال والتسعير | dual |
+| tensions/X_yt_tHhZnlL6l5c.md | المال والتسعير | dual |
+| tensions/X_yt_tJIaeUB1iZQ.md | المال والتسعير | dual |
+| tensions/X_yt_tPRluoh7vUw.md | المال والتسعير | dual |
+| tensions/X_yt_tUlkycPTZm0.md | المال والتسعير | dual |
+| tensions/X_yt_tY5d1NbYH8w.md | المال والتسعير | dual |
+| tensions/X_yt_tbnJa0mucCY.md | المال والتسعير | dual |
+| tensions/X_yt_tbnJa0mucCYb.md | المال والتسعير | dual |
+| tensions/X_yt_teux3CIp5bU.md | المال والتسعير | dual |
+| tensions/X_yt_tj-sZz2hPOk.md | المال والتسعير | dual |
+| tensions/X_yt_tnkuthEVPrU.md | المال والتسعير | dual |
+| tensions/X_yt_tvYDYtQhreo.md | المال والتسعير | dual |
+| tensions/X_yt_txn7_7Ts1ec.md | المال والتسعير | dual |
+| tensions/X_yt_u2Gn3TaziQ4.md | المال والتسعير | dual |
+| tensions/X_yt_u9iNqAinoIg.md | المال والتسعير | dual |
+| tensions/X_yt_uDlzDuzDh2g.md | المال والتسعير | dual |
+| tensions/X_yt_uOTdUtHzalE.md | المال والتسعير | dual |
+| tensions/X_yt_uZRcJokkZAI.md | المال والتسعير | dual |
+| tensions/X_yt_uZRcJokkZAIb.md | المال والتسعير | dual |
+| tensions/X_yt_udlwrcjpDhw.md | المال والتسعير | dual |
+| tensions/X_yt_ufEsMzVzWuQ.md | المال والتسعير | dual |
+| tensions/X_yt_uffazNv31vw.md | المال والتسعير | dual |
+| tensions/X_yt_ujShy632Y44.md | المال والتسعير | dual |
+| tensions/X_yt_um9MCmHg0Ek.md | المال والتسعير | dual |
+| tensions/X_yt_uo1RAIdquLM.md | المال والتسعير | dual |
+| tensions/X_yt_uuicGawx8iw.md | المال والتسعير | dual |
+| tensions/X_yt_v-yRqhQ6jKs.md | المال والتسعير | dual |
+| tensions/X_yt_v2Hy0B633Mc.md | المال والتسعير | dual |
+| tensions/X_yt_vDQ2o2IUfEM.md | المال والتسعير | dual |
+| tensions/X_yt_vPaHU0d88co.md | المال والتسعير | dual |
+| tensions/X_yt_vTzNgXTzaew.md | المال والتسعير | dual |
+| tensions/X_yt_vVThsz6XJNM.md | المال والتسعير | internal |
+| tensions/X_yt_vdec-045JYM.md | المال والتسعير | dual |
+| tensions/X_yt_vdi2e98O6Z8.md | المال والتسعير | dual |
+| tensions/X_yt_vfBGMSWrkq0.md | المال والتسعير | internal |
+| tensions/X_yt_vgD_Fp7hzRo.md | المال والتسعير | dual |
+| tensions/X_yt_vghPPatFt6o.md | المال والتسعير | dual |
+| tensions/X_yt_vmuC2onGF-g.md | المال والتسعير | dual |
+| tensions/X_yt_vnxtRDcoohw.md | المال والتسعير | dual |
+| tensions/X_yt_vss859bRwlc.md | المال والتسعير | dual |
+| tensions/X_yt_vvSwCIb5Xgk.md | المال والتسعير | dual |
+| tensions/X_yt_vw07a8VPNRc.md | المال والتسعير | dual |
+| tensions/X_yt_vyX-4ACMmp0.md | المال والتسعير | dual |
+| tensions/X_yt_w-i0gxGKJ9U.md | المال والتسعير | dual |
+| tensions/X_yt_w2hYyK6LoZs.md | المال والتسعير | dual |
+| tensions/X_yt_wJR_OflVbdw.md | المال والتسعير | dual |
+| tensions/X_yt_wQfpleHvuhk.md | المال والتسعير | dual |
+| tensions/X_yt_wUZqjdlhqcg.md | المال والتسعير | dual |
+| tensions/X_yt_wd0ejVP_g78.md | المال والتسعير | dual |
+| tensions/X_yt_whrJYkwZ83w.md | المال والتسعير | dual |
+| tensions/X_yt_wzeZ2MzqL_I.md | المال والتسعير | dual |
+| tensions/X_yt_x-loQBzZFio.md | المال والتسعير | dual |
+| tensions/X_yt_x2pY9kI0zBY.md | المال والتسعير | dual |
+| tensions/X_yt_x88IsmdGcBo.md | المال والتسعير | dual |
+| tensions/X_yt_xAtccmtaRCg.md | المال والتسعير | dual |
+| tensions/X_yt_xJOD1LTzbNA.md | المال والتسعير | internal |
+| tensions/X_yt_xOA0pKk_86Q.md | المال والتسعير | dual |
+| tensions/X_yt_xS7E3f7ooFk.md | المال والتسعير | dual |
+| tensions/X_yt_xTqLGPhkr7s.md | المال والتسعير | dual |
+| tensions/X_yt_xTqLGPhkr7sb.md | المال والتسعير | dual |
+| tensions/X_yt_x_CkAhh4mWg.md | المال والتسعير | dual |
+| tensions/X_yt_xdJP289BDDY.md | المال والتسعير | dual |
+| tensions/X_yt_xz87exhygro.md | المال والتسعير | dual |
+| tensions/X_yt_xzK0aisfW-Q.md | المال والتسعير | dual |
+| tensions/X_yt_xzK0aisfW-Qb.md | المال والتسعير | dual |
+| tensions/X_yt_y0JNmFVDgr0.md | المال والتسعير | dual |
+| tensions/X_yt_y0yvfC0JBqI.md | المال والتسعير | dual |
+| tensions/X_yt_y34Pzs8jmFQ.md | المال والتسعير | dual |
+| tensions/X_yt_y34Pzs8jmFQb.md | المال والتسعير | dual |
+| tensions/X_yt_y7CqyOMndyQ.md | المال والتسعير | dual |
+| tensions/X_yt_yHCv0ZrIY9A.md | المال والتسعير | dual |
+| tensions/X_yt_yaGG7usXIps.md | المال والتسعير | dual |
+| tensions/X_yt_yen3bb3zrs8.md | المال والتسعير | dual |
+| tensions/X_yt_ykmP9g1CuJo.md | المال والتسعير | dual |
+| tensions/X_yt_ynEnQQm6P-A.md | المال والتسعير | dual |
+| tensions/X_yt_zAfyWaLhmYM.md | المال والتسعير | dual |
+| tensions/X_yt_zGns1wT5UZ8.md | المال والتسعير | dual |
+| tensions/X_yt_zOBRdGtNyag.md | المال والتسعير | dual |
+| tensions/X_yt_zW_mrGfxgKQ.md | المال والتسعير | dual |
+| tensions/X_yt_zaHlYIPFE2E.md | المال والتسعير | dual |
+| tensions/X_yt_zaHlYIPFE2Eb.md | المال والتسعير | dual |
+| tensions/X_yt_zaY1HM3l9wY.md | المال والتسعير | dual |
+| tensions/X_yt_zafDOeWNAxg.md | المال والتسعير | dual |
+| tensions/X_yt_zj3yz7q3fyw.md | المال والتسعير | dual |
+| tensions/X_yt_zjMNoI0Szxc.md | المال والتسعير | dual |
+| tensions/X_yt_zn-lkVESAP8.md | المال والتسعير | dual |
+| tensions/X_yt_zx6d6C4sMmw.md | المال والتسعير | dual |
+| tensions/X_yt_zysA9Xi_Lms.md | المال والتسعير | dual |
+| tensions/X_yt_zzvPcC-JeVk.md | المال والتسعير | dual |
+| tensions/X_yt_tK7YH7uguU0.md | المحتوى والفيديو | dual |
+| tensions/X_yt_tWuVKfgl7fI.md | المحتوى والفيديو | dual |
+| tensions/X_yt_tYTkOv1ZD6o.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ta9kd7mlmqQ.md | المحتوى والفيديو | dual |
+| tensions/X_yt_tcqf6sgw_Ho.md | المحتوى والفيديو | dual |
+| tensions/X_yt_tjYj8BoVcQE.md | المحتوى والفيديو | dual |
+| tensions/X_yt_tsGdLrdaJ2E.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uC6UYSROuU8.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uED-1uD563Y.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uKh8XDvLhME.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uMawR-Dz4ZY.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uU7qh0bP4yE.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uWuy0Kb-nJI.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ubT_5h8zXGU.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ug0qeLL_mJo.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ukMmJYu9YOo.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ukMmJYu9YOob.md | المحتوى والفيديو | dual |
+| tensions/X_yt_uobNzumd-eo.md | المحتوى والفيديو | dual |
+| tensions/X_yt_up0Nslonf7Q.md | المحتوى والفيديو | dual |
+| tensions/X_yt_utDINQnp2IM.md | المحتوى والفيديو | dual |
+| tensions/X_yt_vA_Fo4o6-8A.md | المحتوى والفيديو | dual |
+| tensions/X_yt_vTcTfAjXAb4.md | المحتوى والفيديو | dual |
+| tensions/X_yt_vZsd7_8s62M.md | المحتوى والفيديو | dual |
+| tensions/X_yt_veaEPU0CxZU.md | المحتوى والفيديو | dual |
+| tensions/X_yt_vjRKsGBqLHg.md | المحتوى والفيديو | dual |
+| tensions/X_yt_w9nELuHSHKk.md | المحتوى والفيديو | dual |
+| tensions/X_yt_wIIsr0ob8DA.md | المحتوى والفيديو | dual |
+| tensions/X_yt_wLdZWyLOJCI.md | المحتوى والفيديو | dual |
+| tensions/X_yt_wbLB4yBEBSU.md | المحتوى والفيديو | dual |
+| tensions/X_yt_wbLB4yBEBSUb.md | المحتوى والفيديو | dual |
+| tensions/X_yt_webtoG6yrkg.md | المحتوى والفيديو | dual |
+| tensions/X_yt_ww8ujY8pacc.md | المحتوى والفيديو | internal |
+| tensions/X_yt_x8BsVPlq-2k.md | المحتوى والفيديو | dual |
+| tensions/X_yt_xVRcLQaItro.md | المحتوى والفيديو | dual |
+| tensions/X_yt_xcHyfiMItCM.md | المحتوى والفيديو | dual |
+| tensions/X_yt_yJS_tqi642Y.md | المحتوى والفيديو | dual |
+| tensions/X_yt_yL6n-IjPatE.md | المحتوى والفيديو | dual |
+| tensions/X_yt_yeE8Aid052E.md | المحتوى والفيديو | dual |
+| tensions/X_yt_yeE8Aid052Eb.md | المحتوى والفيديو | dual |
+| tensions/X_yt_z-x9m3LNd6I.md | المحتوى والفيديو | dual |
+| tensions/X_yt_z-x9m3LNd6Ib.md | المحتوى والفيديو | dual |
+| tensions/X_yt_z_WgCt51Kps.md | المحتوى والفيديو | dual |
+| tensions/X_yt_za50f0jVBcc.md | المحتوى والفيديو | dual |
+| tensions/X_yt_zkBX-04jtrU.md | المحتوى والفيديو | dual |
