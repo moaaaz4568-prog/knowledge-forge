@@ -1,0 +1,16 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/95tEIIb69Bo.en.txt"
+words: 193
+---
+
+# S_yt_95tEIIb69Bo_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/95tEIIb69Bo.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب 95tEIIb69Bo
+
+---
+
+B.Labn   In the middle of the crisis that hit   the B.Labn chain and the sudden   closures, surprise everyone! B.Labn   branches have reopened. Of course, this   isn't my statement, it's President   Abdel Fattah el-Sisi's.   Today I woke up and found the B.Labn   near our house closed. So I asked   people what was going on. They all say   there are poisoning cases. With all the   news these days, the logo I see most is   the B.Labn logo. So, I...Asked myself,   as a logo expert, what exactly does the   B.Labn logo mean? It turns out the logo   combines five core ideas. The first is   the word "Labn" itself, shaped like a   cow or buffalo udder, meaning the dots   in the name. Which are in the shape of   milk droplets. The white color   underneath represents the ripple of   milk. The blue color gradient was   chosen to provide a sense of safety, or  ...That the products are fresh. And   finally, there is a small thing at the   bottom: a person after finishing their   food, in that "wow, delicious" state.   And that was the meaning of the B.Labn   logo. Tell me your opinion on it.   B.Labn and their logo.
+

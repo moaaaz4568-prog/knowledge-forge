@@ -1,0 +1,39 @@
+---
+type: source
+topic: misc-dl
+origin: "youtube-transcripts/subs-dl/F5pYd-zTFro.en.txt"
+words: 240
+---
+
+# S_yt_F5pYd-zTFro_en
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `youtube-transcripts/subs-dl/F5pYd-zTFro.en.txt` — قناة: متنوع — مجموعة subs-dl — فيديو يوتيوب F5pYd-zTFro
+
+---
+
+It seems from the outside that you're talking about the same
+thing, but no, each time you approach it from a
+different angle, resulting in different insights. If that's
+the key to understanding it, then you'll present it from this perspective, another time from that, another time from this specific angle, another time by summarizing it
+quickly, and another time by going into detail with every single
+aspect. See, it's the same thing; that's the key to understanding it. So,
+you
+can approach this key from different angles. Sometimes you'll approach it
+from here, and sometimes from there. You understand? You'll be presenting
+both sides of the coin for the topic you're discussing. For example, we often
+talk
+about how to do marketing when we're talking
+to business owners and agencies. So, one
+time they'll tell you how to do marketing
+from the agency's perspective to the client, and on the
+other hand, how to generate marketing from the
+agency's perspective.  It works with you from the owner's glasses,
+different angles of eating the same thing. If it is deep
+and rich enough, you will be able to eat it from
+different angles, from different parts, with a different mix. You can
+take a piece from here, a piece from there, a piece
+from here at one time, and you will have a different combination at
+another time. So, if the thing you have is
+rich enough, don't worry. Yeah.
+
