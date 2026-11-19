@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DVHg0r2ExB7.txt"
+words: 643
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DVHg0r2ExB7
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DVHg0r2ExB7.txt` — حساب: heyharut — إنستجرام — فيديو DVHg0r2ExB7
+
+---
+
+How to know if you should post more content or better content to grow your business? You maybe have heard Alex Hormozi talking about that you need to do more, you need to post more content, and I fully agree with that advice, and that advice actually changed my life because we posted over 1000 videos with Alex Hormozi, the clip that went viral, and from just that one video alone, because we doubled down on what worked, we were able to generate millions and millions of views. So I'm a big fan of that strategy, but a lot of people ask me, "Hart, I can also make it better, so which one should I start with? " Usually you do start with doing more, but there's one caveat. If you already know a piece of content that you made that generated leads and clients and performed well on your Instagram, YouTube, LinkedIn, whatever platforms you are on, then in my opinion you should focus on quality. So imagine you made 10 Reels and one of them got way more leads, way more views, etc. Now if that video took a bit longer time to make, it was a different format or it was a different idea, it was harder to execute, whatever it is, then now you already know what worked, which means you need to go and focus on quality, make another video just like that, even if it takes longer time, because you already know it works. But if you don't know for sure that, oh, if I make this kind of content it's gonna work well, then most of the time you don't have enough data. So you don't know enough, you haven't tried enough, you haven't posted enough, you haven't failed enough to have enough feedback, right? To have enough data to see what works and what doesn't. So if that's you, you need to start posting more. If you're posting one time a day on Instagram, start posting two times a day. If you're posting one time a week on YouTube, start posting two times a week on YouTube. And this way you'll get way more data way faster, and then you will find winners. And when you do find the winners, then you switch back to quality and just focus on making another video just like that. And you keep doing it for as long as it keeps working. And when it stops working and you don't know, oh, if I make this video, even if it's gonna take a lot of effort, it's gonna do well, if you don't know that, then again you haven't posted enough. So go and post more, get the data so you can see what actually worked, what is quality, what already generated you views and money and clients, right? That is what quality is, and just do more of that. So this is how you can think through more and better and quality versus quantity. And of course it's always like you do more quality and then now it stops working, you need to do more to get more data to find what works to the world of that, and it's always you are going to swing between them and that's completely normal. But I think it's super important to know what stage you are at right now, so you know which one you should do. There are many people that already know what works and instead of just focusing long time on making another great piece of content like that, they just spam content. And there are people that have no data and are taking weeks to make one piece of content that's not gonna do well. So avoid that mistake, know what stage you are at right now and focus accordingly on either more or better content.

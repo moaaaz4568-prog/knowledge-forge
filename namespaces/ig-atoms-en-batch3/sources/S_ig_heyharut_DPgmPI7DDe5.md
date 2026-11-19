@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DPgmPI7DDe5.txt"
+words: 581
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DPgmPI7DDe5
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DPgmPI7DDe5.txt` — حساب: heyharut — إنستجرام — فيديو DPgmPI7DDe5
+
+---
+
+Subscribing to a daily meal prep delivery service. I would say properly rated because of two reasons. People that do hate cooking or like going somewhere to find what they're gonna eat or order something if it's a chore for them, then they are already hopefully doing that. If you don't, then start doing it. And for the people that like cooking, I think it's a nice way to have some time to not think about work when sometimes you get actually the best ideas about work and it helps you to rest. Waking up before 7 a. M. Properly rated because I think a lot of people work better during the day or during the night or during the afternoon, some during the morning. So I would say instead of saying, hey, I need to wake up before this time or that time, just work when you are working the best. And if you wake up earlier, you feel that you are already ahead of the day and you can be focused because there's less interactions to other people, so you can do some meaningful deep work, then I think those people are already doing it. So I would say this one is again properly rated. Working weekends. Underrated, definitely, because right now I don't work every weekend for sure, but in the moments where I have to grow or like there's something extremely important and you want to make as much progress as possible, if you work during the weekends, by definition you are working like 40% more than others, or I don't know what's the math, but it makes a big difference and you should use every opportunity to get ahead because most people don't work on the weekends, then when you do that's your competitive advantage. So I would say it's underrated. Blocking of times in a Google calendar to get things done. Underrated as well because if it's not scheduled, most likely it won't get done because as a business owner you have 1000 things that you need to do or a lot of priorities. So if you actually sit down and in advance plan what you need to do and block it out, and that will like eliminate the decision fatigue that you will have during the day and you'll just get to it and get it done. So highly recommend. Consuming educational content in the form of videos or books daily. Properly rated. I think it is very helpful because it gives you more ideas and it breaks your beliefs and it feeds your brain, right? If you consistently listen to great stuff, then you are more likely to have great output. But I would say most of us don't need more information, we need more execution. So in that sense, I think bunch of people are consuming a lot of content when in reality they already know what they need to do. So if they stop and they just take action, they'll go faster. Going to bed at the same time. Oh, I struggle with this definitely. So, but I would say it is probably underrated because if you go to bed at the same time, then you can just, everything else will become more consistent. You can wake up at the same time, therefore your deep work session will be at the same time, everything will be the same time. So I personally struggle with this, but I think that it's underrated.

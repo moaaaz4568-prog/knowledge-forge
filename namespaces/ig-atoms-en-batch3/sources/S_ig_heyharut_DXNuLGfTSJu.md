@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DXNuLGfTSJu.txt"
+words: 623
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DXNuLGfTSJu
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DXNuLGfTSJu.txt` — حساب: heyharut — إنستجرام — فيديو DXNuLGfTSJu
+
+---
+
+Here are three reasons to move to Dubai if you are an entrepreneur. Number one, the most obvious one is you obviously save on taxes, which is pretty good because Dubai allows you to pay relatively low taxes. It's not zero, but it's way less than in other countries. And unless you are from US, I know that you can't do that. You need to pay taxes anyway, which is fine. US is a great country, so maybe they deserve it. So that's all good. But if you are from other countries, usually you can just by moving here and becoming a tax resident, you can pay less taxes. I'm not a tax advisor obviously yet. Who knows, maybe like I'll become one, but no. So this is not like tax advice obviously, but that's the reason number one, which is you can pay less tax and all of that money can go into, I don't know, buying energy drinks, for example, or I don't know, like paying off your mortgage or like going on a trip or investing into your business. And by the way, in all means, if you like the country that you are in, moving just for taxes might not be for you, which is totally cool. And I think sometimes you can do it only for a season. You can move for a season, get tax benefits, locate on your work, and then later do whatever you want. So that is something you can consider. So that's the reason number one. The reason number two is because when your view is this, right, and for some people it might feel like artificial or something. That's again, it's your unique taste, that's fine. But as you can see, like when you see this, right, like you see how many yachts there are, right? I don't know how much they cost. I don't have a yacht yet. Please guys, click the link in my bio, buy something from me so I buy yachts. No, I don't want to buy yet yet. But like when you see all of these yachts, for example, right? Yacht, yacht, am I pronouncing it correctly? I don't know. Like all of this is worth how many? Like the things I'm looking at right now probably worth like hundreds of millions of dollars. And all of these buildings together, like all of these are not all of this. Oh my God, I zoomed not correctly. These are worth billions of dollars, just for to know, like most of these buildings or at least few hundred million, right? So when you look at this, it's not like the materialistic things that motivate you know, but like you just think, hmm, okay, so this was a desert and now I can see like 10 billion dollars with my eyes. So then you think, hmm, can I get like a 20k client? Can I get in your niche if like you charge 5k or whatever 2k, it can beat? Of course I can, right? You just think bigger and it is different. It's one thing when you listen to me like this, it's one thing when you experience this. So you don't have to move to Dubai for this. If you are already in a place that inspires you specifically for your own taste, that works too. But that's the reason number two, which is you think bigger naturally. And the reason number three is the weather. This is like controversial. People hate the weather here during summer, but overall across the year, it's so much nicer than most of the countries. So three simple and obvious reasons why Dubai is a good place to live as an entrepreneur.

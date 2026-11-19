@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/dibratto/DcyQk-bRPGB.txt"
+words: 582
+account: dibratto
+lang: en
+quality: transcript
+---
+
+# S_ig_dibratto_DcyQk-bRPGB
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/dibratto/DcyQk-bRPGB.txt` — حساب: dibratto — إنستجرام — فيديو DcyQk-bRPGB
+
+---
+
+Here's how to write the perfect LinkedIn post, even if you've never written one. This is coming from someone who's written five thousand plus for founders backed by these VCs and more. Those have driven these results, so you know I'm not lying. The perfect LinkedIn post has four levers. I call it THBM. Let me tell you how to make each one perfect. T is for topic. The topic of your post must make the reader know, like, or trust you better. For knowing and liking, you're going to share stories and opinions. Also for liking, but mostly for trusting, you're going to share frameworks, processes, and case studies. Now, very importantly, your post should aim to convey one thing, a story, a lesson, a framework, whatever. Every line in the post should support that point. If it does not support the point, cut it. Now, H is for hook. This is the most important sentence you will write in the post. You must give the reader no choice but to press see more on LinkedIn. To do that, you have to create a curiosity gap. This is the gap between what the reader already knows and what they need to keep reading to learn. Here are a few curiosity gap mechanisms that we can use. Number one, pair two things that shouldn't go together. For example, I run a 100 person marketing agency, but I've never had a marketing job. You see? Number two is revealing the decision but holding back the reason. For example, last month I turned down the biggest client our agency had ever been offered. And finally, number three, start at the moment something changed. For example, 10 minutes into my first board meeting, the CEO closed his laptop and asked everyone to leave. There is so much more to this that you have to understand. Follow me or research it yourself. Here are a few rules to write the body of your post. Number one, write only as long as the post needs to be. Like I said, you must make every line fight for its life. Number two, don't overdo or underdo line breaks. The way I think about it, use them to separate ideas and arguments, not individual lines. Thirdly, this is very important. Write the points and arguments in the order that makes the most logical sense to a cold reader. That is a mouthful. All it means is you must assume the reader doesn't know who you are or what you do, and you have to hook them in, give them context, give them the value of the post, and then end it off. M is for media, and this is very important. You must think about media in the context of how it will be digested in the feed. What I mean by that is when a reader scrolls LinkedIn, they will only see your hook and the media itself, and you need to optimize for that. Here's how to do that. For a founder or team story, use a founder or team picture. For a deep listicle, use a carousel. For a dense process, use a cheat sheet or an infographic. For industry commentary, use a headline screenshot or a tweet screenshot. You will be fine if you optimize for all of these factors. If you want a full guide on how to build your LinkedIn presence as a founder, comment LinkedIn and I will send it to you.

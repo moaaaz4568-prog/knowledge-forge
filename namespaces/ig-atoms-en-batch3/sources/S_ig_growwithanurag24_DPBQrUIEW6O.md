@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/growwithanurag24/DPBQrUIEW6O.txt"
+words: 135
+account: growwithanurag24
+lang: en
+quality: transcript
+---
+
+# S_ig_growwithanurag24_DPBQrUIEW6O
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/growwithanurag24/DPBQrUIEW6O.txt` — حساب: growwithanurag24 — إنستجرام — فيديو DPBQrUIEW6O
+
+---
+
+DM automation के लिए तुम अभी भी मिनी चैट पर डिपेंडेंट हो। क्या ही कर रहे हो यार? मुझे एक टूल मिली है जो कि मिनी चैट से 10x सस्ता है और 10x बेहतर परफॉर्म करती है। क्योंकि मिनी चैट का मंथली प्राइस है 1300 रुपीस और इस टूल का प्राइस है ओनली 99 रुपीस फॉर ए क्रिएटर प्लान। जो कि यार इस टाइम पे बहुत बेटर प्राइस दे रहा है। एंड हाँ, ऑटो डीएम के साथ साथ इनमें और भी अमेजिंग टूल्स हैं जो कि एज ए क्रिएटर तुम्हारे पास होने चाहिए। एंड वन मोर बोनस पॉइंट, इस टूल को यूज करके तुम अर्निंग भी स्टार्ट कर सकते हो। तो इस टूल का नाम है सुपर प्रोफाइल और अगर आपको भी इसका लिंक चाहिए तो कमेंट कर दो, टूल मैं तुम्हें डायरेक्टली भेज दूंगा।

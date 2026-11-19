@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DWxQc_9E3Sj.txt"
+words: 601
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DWxQc_9E3Sj
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DWxQc_9E3Sj.txt` — حساب: heyharut — إنستجرام — فيديو DWxQc_9E3Sj
+
+---
+
+If you are getting many objections at the end of your sales calls and that stops you from closing as many deals as you could to scale your business, then this is probably the number one reason. The problem wasn't that people had the objections, the problem was in the discovery, which is the first part of the sales call. So essentially, people didn't dig through, didn't go deep enough on the pain of the prospect. They didn't really make them realize and make them say in their own words on why they are struggling and why they booked the call and why they are in the first place specifically. And because the prospects weren't really in enough pain, in enough discomfort, they didn't have enough motivation to take action to actually grow. So then they had to come up with objections, which were smoke screens as we call them, right? Which were not real, they are just reasons to not do it, but the real reason because they weren't convinced enough that this is what they want. And the way to solve it is by doing two things. Number one, go deeper. Don't be afraid to ask people real uncomfortable questions. If you ask it with the right tone and with the right intention, people can feel that and they'll open up. So make sure to do this. Like you should go really deep in discovery where you understand exactly what is everything that's stopping the person to get to where they want to go, what they have tried, what didn't work, so they also realize that they actually need help, otherwise they wouldn't be there. And number two is you need to actually get them to consume content before they jump on a call with you that prehandles most of the objections. So if most people tell you on the call at the end of the call that they need to talk to someone, then before starting, you can have a quick pre-call VSL where you go over expectations, where you go over your case studies and client results, and maybe you say something like, hey, most of our successful clients actually are very decisive. So whenever they were on the call and they wanted to go and move forward, you know, they wanted first to talk to others, to talk to their maybe spouse or whatever, but they realized that they don't need permission, they need support and they need to go do it and take responsibility for their results. And these were the people that then were decisive in the program as well and therefore got good results. So if you are booking the call, please show up either with your partner or if you are gonna be there, be ready to make the decision yourself because we only work with people that once they have the full information and if it makes sense, want to move forward fast because that's what we expect from you in the program as well, so you can get amazing results. So this is an example, right? You can do this with every other objection as well, but having this in advance in videos pre-sways people, not persuades, but pre-sways, so they come to the call already more likely to go to the next step. So number one, go deeper in your discovery, ask questions for people to realize what's stopping them to achieve their goal and go deep. And number two, make a pre-call VSL and content that prehandles objections and you will close way more deals. Hope this helps.

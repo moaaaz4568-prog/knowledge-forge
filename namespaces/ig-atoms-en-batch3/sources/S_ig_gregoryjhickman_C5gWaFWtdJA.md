@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/gregoryjhickman/C5gWaFWtdJA.txt"
+words: 106
+account: gregoryjhickman
+lang: en
+quality: transcript
+---
+
+# S_ig_gregoryjhickman_C5gWaFWtdJA
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/gregoryjhickman/C5gWaFWtdJA.txt` — حساب: gregoryjhickman — إنستجرام — فيديو C5gWaFWtdJA
+
+---
+
+Now the gross margin actually will help you determine the health of a business, and it is the direct cost of fulfilling the services that you deliver. So the equation to get your gross margin is actually your revenue minus your cost of goods sold. Now cost of goods sold is typically used for product-based companies, and so in agency world, in client services, it's really cost of service. So it's gonna be your revenue less subtracted your cost of service delivery equals your gross profit margin. Now that's often represented as a percentage, so you multiply by a hundred to get it as a percent.

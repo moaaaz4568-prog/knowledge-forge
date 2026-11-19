@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DPQwf4MjNb8.txt"
+words: 609
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DPQwf4MjNb8
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DPQwf4MjNb8.txt` — حساب: heyharut — إنستجرام — فيديو DPQwf4MjNb8
+
+---
+
+Sell programs to beginners in your niche because it's easier. Hmm, a 12 out of 5 because you don't want to sell to the people that it's easiest to sell. You want to sell to people that you can get the best results for. So if you have some sort of an offer or program that is best for helping beginners, there's nothing wrong with selling that. But if you just start targeting beginners in your niche because they don't know what they are doing, they are the easiest people to market to, but you are not the best at helping them specifically, then it's not gonna work in the long term because yes, you will sell them, but then it will be hard for them to get results. So it will be a matter of time for your business to stop growing because of the negative word of mouth. Do one on one calls even if it makes the business unscalable. I'd say four out of five because no matter how unscalable it is, it helps you to get feedback from the people. Like you can solve almost every single problem in your business by talking to your customers. So when you do jump on one on one calls with them, it helps you with your marketing, sales, with your offers, and your company exists because and for your customers. So the more you talk to them, the more money you'll make because you'll make better decisions that will add more value to your clients and customers. Sell low ticket first and transition to high ticket as you get better. I'd say one out of five because it's like it sounds good in practice, but for most people, if you start with low ticket in hopes to go to high ticket, it's not gonna work. Like either if you want to do low ticket and just get many customers and get a lot of traffic, then just do that. If you want to like always sell high ticket, then you can start by high ticket and make your offer better and it will already immediately work if you know how to position it. And of course if you're selling something you are actually good at. Have a money back or will help you for free until you succeed guarantee. Three out of five. I haven't said three or I said one, right? So three out of five because it helps you to get more people to say yes, but then if people actually don't take the actions and they don't succeed, then you do need to keep working with them. So if it's an unconditional guarantee like that, then you do take on the risk. So you need to see if it's worth the trade for you. Not saying yes to everyone that can buy your offer and only working with people you know you can definitely help. Oh great, five out of five. Then it's perfect that we left it for this one because if you only work with people that you can help the most, that pay you the most, that get the best results, you are building a compounding flywheel that you get results, then you can share this in content and then it attracts more people like that that are your ideal avatar and then they get again more results and better results and then it continues. So if you can say no to money and only work with people that you love working with, you will absolutely make more money in the long term, help more people, and your reputation will be better.

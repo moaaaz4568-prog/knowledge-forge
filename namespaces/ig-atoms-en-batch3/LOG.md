@@ -1,0 +1,5 @@
+# LOG — ig-atoms-en-batch3
+
+| التاريخ | الخطوة | الأمر | النتيجة |
+|---|---|---|---|
+| 2026-11-19 | التأسيس: إنستجرام إنجليزي الدفعة 3 — 3,879 كوداً من قائمة المستخدم (ig_coachjoedrake_Cn1VIBsgicZ → ig_heyharut_DXpZslvvAcr)، 601,665 كلمة بالضبط، لا استبعادات ملفية (كل الأكواد لها .txt — تم التحقق آلياً 3879/3879، 0 مفقود، 0 ملتبس)؛ 28 حساباً (أكبرها: createcontent.club 1180; gregoryjhickman 573; disisjorj 373; daniel.jf1 321)؛ أكبر مصدر ig_createcontent.club_C3xQ3QSLx13 بـ1,000 كلمة | stage_ig_b3_setup.py | 3,879 مصدراً ✅ |

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DUdYSoRE9j3.txt"
+words: 641
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DUdYSoRE9j3
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DUdYSoRE9j3.txt` — حساب: heyharut — إنستجرام — فيديو DUdYSoRE9j3
+
+---
+
+After getting hundreds of clients and helping them to scale 100k a month, here is the number one indication of people that win and people that don't get there. And this is from experience because some of our clients absolutely crush it and some of them don't grow as much as they want it. And the reason is, and of course there's more factors, but the main reason I found is that they don't really want to grow. And before you say, oh, this is like obvious Harut, but hear me out. So recently I've been on a call with a few clients and you know, they said, oh, I want to get to 100k a month. And then I said, okay, so like what have you been doing to get there? And the answer is nothing. There's silence, right? So they say that they want to grow, but how they are acting, how they are showing up doesn't show that. They waste time, they wake up late, they sleep in, they are distracted, and they are not acting like they really care about the goal. And there are two possible reasons. Number one, maybe you actually shouldn't go after the goal. Maybe like you're already where you need to be and you should be happy and enjoy the present and enjoy life. And if that's the case, then it's great. You're already won. But if you actually aren't satisfied with where you are and you are working on achieving the goal, why wouldn't you give your best? Why wouldn't you go all in? Why wouldn't you really, really put everything that you have in the battlefield, right? And give it all that you have got. And it sounds simpler than it is, but I think a lot of it is because people don't know why, right? Why they need to get to the next level, why they need to grow. And the people that I found, the clients that actually really, really want it and want it bad enough that end up getting to their goals are the people that are clear on what's the reason they are doing this. Whether it's making more money so they can provide a better life for their family or future family or for their kids or have more freedom or buy something or have the impact that they want to have and do what they are only there for and become the best version of themselves or whatever the reason is, they are clear on their why's, right? And there's two messages that I want to give with this video. Is number one, if you are the person that watches this and thinks, you know what, I should probably don't want to get to my goal, that means that you need to either change the goal or you need to become clear on what your why is. And sit and think about why am I doing this and write down all of the reasons that you need to get to your goal. And when you do, then you can unlock that beast in yourself and winning will become inevitable because you will actually try yourself and you will act like you really want it and you will go after it. And for everyone else that actually really wants it and you're waking up every day and consistently showing up, there's no chance for you to lose. You are gonna absolutely dominate because know that most of the competition doesn't really want their goals. They said that they do, but they don't act like they do. And if you actually really, really want it and you are ready to work hard and have a little bit of pain tolerance and you stay consistent, you are gonna achieve even bigger goals than you thought possible.

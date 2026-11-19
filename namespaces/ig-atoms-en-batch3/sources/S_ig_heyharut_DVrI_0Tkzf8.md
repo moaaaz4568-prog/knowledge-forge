@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DVrI_0Tkzf8.txt"
+words: 623
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DVrI_0Tkzf8
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DVrI_0Tkzf8.txt` — حساب: heyharut — إنستجرام — فيديو DVrI_0Tkzf8
+
+---
+
+One of the best marketing strategies that can help you scale your business to 100K a month plus is looking at what your competition is charging for. So looking at their school communities, looking at their offers, their lead magnets, their low ticket digital products, etc. And giving it away for free. For example, let's say you are helping YouTubers to scale their business by making better titles and thumbnails. So you help them to improve their packaging so they can get more clients from YouTube. Let's say that's your niche. And you look that your competitor is selling YouTube channel reviews, right? And they're selling it for $100. What you can do is you can actually take that and do it for free. So you can help, I'd give people channel reviews instead of $100 for free. And the reason that this works well is because if someone else is paying for something to your competitors, then they are definitely going to be interested in that thing for free as well. The mistake that people make is they make lead magnets or free value that no one cares about. So the way to know that people are gonna care about it is to see what people are actually already paying for. Because if people are paying with money, then they will pay with their time as well. Now, some of you might say, "Harut, okay, get it, but I take a lot of work, so what am I gonna do? " So two answers to this. Number one, you don't have to give it away for free to everyone. You can only give it to the most qualified people. For example, if in this case you are helping people with their packaging on YouTube, you can literally go and say that you will only do YouTube channel reviews for free and you are usually charging for it. So now you will do it for free, so it increases perceived value, to only people that are, let's say, making more than $30, 000 a month with their channel already. So these are people that are very qualified, that if you help them even improve their packaging a little bit, and they can like double their channel, then you'll unlock $30, 000 a month value for them. So therefore they can pay you more too, because you are helping them generate more value because of who they are. And there will be people that can afford to pay for your services later. So that can be an example of actually picking the most qualified people and making it a prerequisite to get your thing for free. And number two, for those of you who are saying it still takes work, yes, but you need to understand if you are demand constrained or supply constrained. Most people are constrained by their demand, which means they don't have enough people that want to work with them. So they can increase prices, dictate terms, make money, so you can use this money to reinvest into talent, growth, branding, etc. So if that's your constraint, if you don't have enough demand, there's nothing else that you can do to solve this than to actually do work that is very valuable so you generate demand. Which means yes, it's hard and yes, it takes work, but everything else is hard as well, but it won't help you to solve your constraint as effectively and this will. So this is the only path that you need to follow. So hope this video helped. Look at what people are charging for, give it away for free to qualified people, and you will get more leads and you will make more money.
