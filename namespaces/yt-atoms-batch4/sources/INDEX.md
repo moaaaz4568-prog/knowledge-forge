@@ -1,4 +1,5 @@
 # Index — sources/ (yt-atoms-batch4)
+شريحة batch4 (الأخيرة): قائمة المستخدم الصريحة — 753 مصدراً فعلياً (S81wjVzy7-0 → tBE-ke9_51o). استُبعد مصدران بلا محتوى قابل للاقتباس إطلاقاً: XrFemyejpEM (المحتوى كله "أفسدت الأمر." 38 حرفاً) وsQUznBx1jbQ (المحتوى كله "وو." 25 حرفاً) — لا يمكن تركيب ذرة حرفية ذات معنى منهما دون تلفيق.
 
 شريحة batch4 (الأخيرة): قائمة المستخدم الصريحة — 755 مصدراً (S81wjVzy7-0 → tBE-ke9_51o)، آخر المتبقي من كون youtube-transcripts بعد شرائح last1500 وbatch2 وbatch3 والاستثناءات المعروفة.
 
@@ -653,9 +654,7 @@
 | sources/S_yt_VTGtWqXQlw8.md | misc-dl | 308 كلمة |
 | sources/S_yt_VTN4_wTK9rY.md | adriandimac | 187 كلمة |
 | sources/S_yt_VTOn_txdtSE.md | misc-dl | 1872 كلمة |
-| sources/S_yt_XrFemyejpEM.md | saminyasar_ | 10 كلمة |
 | sources/S_yt_lgsJB8KsB7c.md | tylerhennessee | 15 كلمة |
-| sources/S_yt_sQUznBx1jbQ.md | saminyasar_ | 12 كلمة |
 | sources/S_yt_sYZ-cxHo4tY.md | maximiliandier | 276 كلمة |
 | sources/S_yt_sYnutUqp0gw.md | misc-dl | 1471 كلمة |
 | sources/S_yt_s_20SqMbOro.md | misc-dl | 1473 كلمة |
