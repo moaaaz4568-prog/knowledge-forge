@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: michtortiyt
-sources: [sources/sources/S_yt_vysEAcFpmh0.md, sources/sources/S_yt_vBMchE_E4c4.md]
+sources: [sources/S_yt_vysEAcFpmh0.md, sources/S_yt_vBMchE_E4c4.md]
 ---
 
 # X_yt_vysEAcFpmh0 — توتر حول البريد الإلكتروني

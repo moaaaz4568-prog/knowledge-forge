@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_zjgUmJ-3XcE.md, sources/sources/S_yt_xVRcLQaItro.md]
+sources: [sources/S_yt_zjgUmJ-3XcE.md, sources/S_yt_xVRcLQaItro.md]
 ---
 
 # X_yt_zjgUmJ-3XcE — توتر حول المحتوى والفيديو

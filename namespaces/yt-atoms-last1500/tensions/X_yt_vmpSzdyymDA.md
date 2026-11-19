@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_vmpSzdyymDA.md, sources/sources/S_yt_yFWEZlVVJ8k.md]
+sources: [sources/S_yt_vmpSzdyymDA.md, sources/S_yt_yFWEZlVVJ8k.md]
 ---
 
 # X_yt_vmpSzdyymDA — توتر حول المال والتسعير

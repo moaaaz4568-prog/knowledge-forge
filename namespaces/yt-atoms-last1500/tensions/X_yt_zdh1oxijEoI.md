@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_zdh1oxijEoI.md, sources/sources/S_yt_vmZL39DrbZE.md]
+sources: [sources/S_yt_zdh1oxijEoI.md, sources/S_yt_vmZL39DrbZE.md]
 ---
 
 # X_yt_zdh1oxijEoI — توتر حول الإعلانات

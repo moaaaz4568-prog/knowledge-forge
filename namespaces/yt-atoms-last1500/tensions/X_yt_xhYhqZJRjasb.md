@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: jaceengland
-sources: [sources/sources/S_yt_xhYhqZJRjasb.md, sources/sources/S_yt_vmZL39DrbZE.md]
+sources: [sources/S_yt_xhYhqZJRjasb.md, sources/S_yt_vmZL39DrbZE.md]
 ---
 
 # X_yt_xhYhqZJRjasb — توتر حول الإعلانات

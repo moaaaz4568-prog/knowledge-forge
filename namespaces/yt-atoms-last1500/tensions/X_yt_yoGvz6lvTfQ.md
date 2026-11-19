@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_yoGvz6lvTfQ.md, sources/sources/S_yt_tcqf6sgw_Ho.md]
+sources: [sources/S_yt_yoGvz6lvTfQ.md, sources/S_yt_tcqf6sgw_Ho.md]
 ---
 
 # X_yt_yoGvz6lvTfQ — توتر حول العملاء والمبيعات

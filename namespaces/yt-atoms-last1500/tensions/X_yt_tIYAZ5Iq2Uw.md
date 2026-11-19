@@ -1,20 +1,20 @@
 ---
 type: tension
 topic: saminyasar_
-sources: [sources/sources/S_yt_tIYAZ5Iq2Uw.md, sources/sources/S_yt_vQcngWBw2AI.md]
+sources: [sources/S_yt_tIYAZ5Iq2Uw.md, sources/S_yt_u4TT1yBJZIs.md]
 ---
 
 # X_yt_tIYAZ5Iq2Uw — توتر حول الأدوات والبرامج
 
-توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر tIYAZ5Iq2Uw (قناة saminyasar_) وموقف المصدر vQcngWBw2AI (قناة maximiliandier). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر tIYAZ5Iq2Uw (قناة saminyasar_) وموقف المصدر u4TT1yBJZIs (قناة misc-dl). الطرفان مقتبسان حرفياً دون ترجيح.
 
 ## الطرف الأول: التمكين الفوري في مجال «الأدوات والبرامج»: المصدر tIYAZ5Iq2Uw (قناة saminyasar_) يعرض الموقف كقدرة متاحة الآن
 
 > "إذن، هل يمكنك استخدام برنامج Higgs Field MCP لإنشاء فيديو رقص C لنادي Claude؟" — sources/S_yt_tIYAZ5Iq2Uw.md
 
-## الطرف الثاني: التحفظ في مجال «الأدوات والبرامج»: المصدر vQcngWBw2AI (قناة maximiliandier) يوثق الكلفة أو الخطأ المقابل
+## الطرف الثاني: التحفظ في مجال «الأدوات والبرامج»: المصدر u4TT1yBJZIs (قناة misc-dl) يوثق الكلفة أو الخطأ المقابل
 
-> "لذا، إذا كنت جديدًا في مستوى عالٍ وليس أنت تعرف كيف لضبط تسلسل الأتمتة، هذا ربما قليلاً صعب للغاية بالنسبة لـ أنت، لكن دعني على الأقل يمكنني أن أعطيك بعض الأفكار." — sources/S_yt_vQcngWBw2AI.md
+> "عند استخدام تأثيرات التمويه وغيرها في برنامج Illustrator، قد تلاحظ هذه المشكلة." — sources/S_yt_u4TT1yBJZIs.md
 
 ## المُميِّز (Discriminator)
 

@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: moe-alhakeem
-sources: [sources/sources/S_yt_xaTRgqmQwbw.md, sources/sources/S_yt_tcqf6sgw_Ho.md]
+sources: [sources/S_yt_xaTRgqmQwbw.md, sources/S_yt_tcqf6sgw_Ho.md]
 ---
 
 # X_yt_xaTRgqmQwbw — توتر حول العملاء والمبيعات

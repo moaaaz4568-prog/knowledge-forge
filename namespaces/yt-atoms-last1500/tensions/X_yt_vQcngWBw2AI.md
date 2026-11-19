@@ -1,16 +1,16 @@
 ---
 type: tension
 topic: maximiliandier
-sources: [sources/sources/S_yt_vQcngWBw2AI.md, sources/sources/S_yt_wyxzPnA02H8.md]
+sources: [sources/S_yt_vQcngWBw2AI.md, sources/S_yt_xVYVU-eM64E.md]
 ---
 
 # X_yt_vQcngWBw2AI — توتر حول الأدوات والبرامج
 
-توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vQcngWBw2AI (قناة maximiliandier) وموقف المصدر wyxzPnA02H8 (قناة orenmeetsworld). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vQcngWBw2AI (قناة maximiliandier) وموقف المصدر xVYVU-eM64E (قناة lobstercap). الطرفان مقتبسان حرفياً دون ترجيح.
 
-## الطرف الأول: التمكين الفوري في مجال «الأدوات والبرامج»: المصدر wyxzPnA02H8 (قناة orenmeetsworld) يعرض الموقف كقدرة متاحة الآن
+## الطرف الأول: التمكين الفوري في مجال «الأدوات والبرامج»: المصدر xVYVU-eM64E (قناة lobstercap) يعرض الموقف كقدرة متاحة الآن
 
-> "تقوم شركة Built بإعادة إنشاء شبكة تلفزيونية تجمع بين برامج المسابقات والمسلسلات الكوميدية." — sources/S_yt_wyxzPnA02H8.md
+> "لذا، على الأرجح، استراتيجية الفوز بالنسبة لشركة ناشئة - هذا إنشاء تطبيق من أجلهم." — sources/S_yt_xVYVU-eM64E.md
 
 ## الطرف الثاني: التحفظ في مجال «الأدوات والبرامج»: المصدر vQcngWBw2AI (قناة maximiliandier) يوثق الكلفة أو الخطأ المقابل
 

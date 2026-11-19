@@ -1,16 +1,16 @@
 ---
 type: tension
 topic: officialjpmiddleton
-sources: [sources/sources/S_yt_vmZL39DrbZE.md, sources/sources/S_yt_uqYNm0NSUZw.md]
+sources: [sources/S_yt_vmZL39DrbZE.md, sources/S_yt_u-hmZRLjHJI.md]
 ---
 
 # X_yt_vmZL39DrbZE — توتر حول الإعلانات
 
-توتر موثق في مجال «الإعلانات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vmZL39DrbZE (قناة officialjpmiddleton) وموقف المصدر uqYNm0NSUZw (قناة cbwritescopy). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «الإعلانات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vmZL39DrbZE (قناة officialjpmiddleton) وموقف المصدر u-hmZRLjHJI (قناة ctthedisrupter). الطرفان مقتبسان حرفياً دون ترجيح.
 
-## الطرف الأول: التمكين الفوري في مجال «الإعلانات»: المصدر uqYNm0NSUZw (قناة cbwritescopy) يعرض الموقف كقدرة متاحة الآن
+## الطرف الأول: التمكين الفوري في مجال «الإعلانات»: المصدر u-hmZRLjHJI (قناة ctthedisrupter) يعرض الموقف كقدرة متاحة الآن
 
-> "كما ذكرنا سابقًا، أخذنا بعض الأوراق النقدية من فئة 100 دولار وحاولنا إشعالها لإنشاء إعلان إبداعي، وكأنك تهدر أموالك على الإعلانات إذا كنت تديرها الآن." — sources/S_yt_uqYNm0NSUZw.md
+> "كان الربح من الإعلانات المباشرة للمستهلكين (D2C) سهلاً للغاية بالنسبة لمعظم الشركات منذ البداية، على الرغم من أن الأمر استغرق من ثلاثة إلى ستة أشهر حتى بدأ الناس بالتفاعل معها." — sources/S_yt_u-hmZRLjHJI.md
 
 ## الطرف الثاني: التحفظ في مجال «الإعلانات»: المصدر vmZL39DrbZE (قناة officialjpmiddleton) يوثق الكلفة أو الخطأ المقابل
 

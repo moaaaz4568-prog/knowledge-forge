@@ -1,20 +1,20 @@
 ---
 type: tension
 topic: tylerhennessee
-sources: [sources/sources/S_yt_yiUtbamIqRw.md, sources/sources/S_yt_v3rBTRCxPK4.md]
+sources: [sources/S_yt_yiUtbamIqRw.md, sources/S_yt_xUFSexfWmQM.md]
 ---
 
 # X_yt_yiUtbamIqRw — توتر حول العقارات
 
-توتر موثق في مجال «العقارات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر yiUtbamIqRw (قناة tylerhennessee) وموقف المصدر v3rBTRCxPK4 (قناة maximiliandier). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «العقارات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر yiUtbamIqRw (قناة tylerhennessee) وموقف المصدر xUFSexfWmQM (قناة maximiliandier). الطرفان مقتبسان حرفياً دون ترجيح.
 
 ## الطرف الأول: التمكين الفوري في مجال «العقارات»: المصدر yiUtbamIqRw (قناة tylerhennessee) يعرض الموقف كقدرة متاحة الآن
 
 > "أنت يمكنك إرجاعها، فقط عن طريق التحويل إلى نقدي، إعادة التمويل أو بيع المنزل." — sources/S_yt_yiUtbamIqRw.md
 
-## الطرف الثاني: التحفظ في مجال «العقارات»: المصدر v3rBTRCxPK4 (قناة maximiliandier) يوثق الكلفة أو الخطأ المقابل
+## الطرف الثاني: التحفظ في مجال «العقارات»: المصدر xUFSexfWmQM (قناة maximiliandier) يوثق الكلفة أو الخطأ المقابل
 
-> "على سبيل المثال، هذا العقار، إذا لم تكن وكيلًا عقاريًا مرخصًا، فمن الصعب أحيانًا الحصول على أرقام هواتف وكلاء عقاريين مرخصين آخرين." — sources/S_yt_v3rBTRCxPK4.md
+> "لكن إذا لم يكن اسمك مدرجًا في هذا العقد، أو لم يكن لديك اتفاقية مشروع مشترك أو اتفاقية تنازل من تاجر الجملة الذي يحمل اسمه في هذا العقد، وكنت تقوم بتسويق العقار، فأنت تمارس التلاعب بالعقود، وما تفعله ليس غير أخلاقي فحسب، بل هو غير قانوني أيضًا." — sources/S_yt_xUFSexfWmQM.md
 
 ## المُميِّز (Discriminator)
 

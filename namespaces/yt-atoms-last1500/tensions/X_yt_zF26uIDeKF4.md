@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_zF26uIDeKF4.md, sources/sources/S_yt_xLQFiIeP5Ys.md]
+sources: [sources/S_yt_zF26uIDeKF4.md, sources/S_yt_xLQFiIeP5Ys.md]
 ---
 
 # X_yt_zF26uIDeKF4 — توتر حول التسويق والعلامة

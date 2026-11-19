@@ -1,16 +1,16 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_vSsAzuMDfYU.md, sources/sources/S_yt_wyxzPnA02H8.md]
+sources: [sources/S_yt_vSsAzuMDfYU.md, sources/S_yt_wc3waWE6dvcb.md]
 ---
 
 # X_yt_vSsAzuMDfYU — توتر حول الأدوات والبرامج
 
-توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vSsAzuMDfYU (قناة misc-dl) وموقف المصدر wyxzPnA02H8 (قناة orenmeetsworld). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «الأدوات والبرامج» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر vSsAzuMDfYU (قناة misc-dl) وموقف المصدر wc3waWE6dvcb (قناة michtortiyt). الطرفان مقتبسان حرفياً دون ترجيح.
 
-## الطرف الأول: التمكين الفوري في مجال «الأدوات والبرامج»: المصدر wyxzPnA02H8 (قناة orenmeetsworld) يعرض الموقف كقدرة متاحة الآن
+## الطرف الأول: التمكين الفوري في مجال «الأدوات والبرامج»: المصدر wc3waWE6dvcb (قناة michtortiyt) يعرض الموقف كقدرة متاحة الآن
 
-> "تقوم شركة Built بإعادة إنشاء شبكة تلفزيونية تجمع بين برامج المسابقات والمسلسلات الكوميدية." — sources/S_yt_wyxzPnA02H8.md
+> "وبالتالي يمكنك ربط Anti-gravity بـ Firebase و BigQuery و GitHub و Neon و Stripe و Redis و MongoDB و Notion وجميع هذه البرامج المختلفة، بحيث عندما نقوم فعليًا ببناء تطبيق ويب أو أي نوع من البرامج باستخدام Anti-gravity، يمكنه التواصل تلقائيًا مع البرنامج إذا كنت تريد ذلك، حسنًا؟" — sources/S_yt_wc3waWE6dvcb.md
 
 ## الطرف الثاني: التحفظ في مجال «الأدوات والبرامج»: المصدر vSsAzuMDfYU (قناة misc-dl) يوثق الكلفة أو الخطأ المقابل
 

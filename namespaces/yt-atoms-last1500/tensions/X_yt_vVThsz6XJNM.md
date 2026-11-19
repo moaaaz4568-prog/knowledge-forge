@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: ctthedisrupter
-sources: [sources/sources/S_yt_vVThsz6XJNM.md, sources/sources/S_yt_yFWEZlVVJ8k.md]
+sources: [sources/S_yt_vVThsz6XJNM.md, sources/S_yt_yFWEZlVVJ8k.md]
 ---
 
 # X_yt_vVThsz6XJNM — توتر حول المال والتسعير

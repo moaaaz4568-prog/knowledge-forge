@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: ctthedisrupter
-sources: [sources/sources/S_yt_ubuVBiZxVuw.md, sources/sources/S_yt_vmZL39DrbZE.md]
+sources: [sources/S_yt_ubuVBiZxVuw.md, sources/S_yt_vmZL39DrbZE.md]
 ---
 
 # X_yt_ubuVBiZxVuw — توتر حول الإعلانات

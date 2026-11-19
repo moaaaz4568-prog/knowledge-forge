@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: misc-dl
-sources: [sources/sources/S_yt_yvfgd0vMV-c.md, sources/sources/S_yt_vQcngWBw2AI.md]
+sources: [sources/S_yt_yvfgd0vMV-c.md, sources/S_yt_vQcngWBw2AI.md]
 ---
 
 # X_yt_yvfgd0vMV-c — توتر حول الأدوات والبرامج

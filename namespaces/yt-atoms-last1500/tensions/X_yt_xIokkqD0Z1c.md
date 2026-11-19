@@ -1,20 +1,20 @@
 ---
 type: tension
 topic: thisisfoto
-sources: [sources/sources/S_yt_xIokkqD0Z1c.md, sources/sources/S_yt_ufK1hD3gxOI.md]
+sources: [sources/S_yt_xIokkqD0Z1c.md, sources/S_yt_wLdZWyLOJCI.md]
 ---
 
 # X_yt_xIokkqD0Z1c — توتر حول التعلم والمهارات
 
-توتر موثق في مجال «التعلم والمهارات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر xIokkqD0Z1c (قناة thisisfoto) وموقف المصدر ufK1hD3gxOI (قناة orenmeetsworld). الطرفان مقتبسان حرفياً دون ترجيح.
+توتر موثق في مجال «التعلم والمهارات» بين موقفين حرفيين من مصدرين مستقلين: موقف المصدر xIokkqD0Z1c (قناة thisisfoto) وموقف المصدر wLdZWyLOJCI (قناة alexanderthecreate). الطرفان مقتبسان حرفياً دون ترجيح.
 
 ## الطرف الأول: التمكين الفوري في مجال «التعلم والمهارات»: المصدر xIokkqD0Z1c (قناة thisisfoto) يعرض الموقف كقدرة متاحة الآن
 
 > "لكن السوفت وير اللي هتمني عليه ده سهل جدا تتعلمه اونلاين في اسبوع" — sources/S_yt_xIokkqD0Z1c.md
 
-## الطرف الثاني: التحفظ في مجال «التعلم والمهارات»: المصدر ufK1hD3gxOI (قناة orenmeetsworld) يوثق الكلفة أو الخطأ المقابل
+## الطرف الثاني: التحفظ في مجال «التعلم والمهارات»: المصدر wLdZWyLOJCI (قناة alexanderthecreate) يوثق الكلفة أو الخطأ المقابل
 
-> "عندما أضيف هذه المهام، سأذهب إلى قائمة التحقق الخاصة بي، وسأقول: حسنًا، كل واحدة من هذه المهام يجب أن أتعلم كيفية القيام بها." — sources/S_yt_ufK1hD3gxOI.md
+> "الأمر ببساطة أن النظام المدرسي بأكمله، بالطريقة التي تم إعداده بها، محكوم عليه نوعاً ما بجعلنا جميعاً نفشل في تعلم اللغات." — sources/S_yt_wLdZWyLOJCI.md
 
 ## المُميِّز (Discriminator)
 

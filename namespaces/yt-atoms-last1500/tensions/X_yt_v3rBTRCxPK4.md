@@ -1,7 +1,7 @@
 ---
 type: tension
 topic: maximiliandier
-sources: [sources/sources/S_yt_v3rBTRCxPK4.md, sources/sources/S_yt_xbwcqZR1OTk.md]
+sources: [sources/S_yt_v3rBTRCxPK4.md, sources/S_yt_xbwcqZR1OTk.md]
 ---
 
 # X_yt_v3rBTRCxPK4 — توتر حول العقارات
