@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_bmarkfit_BwGfoU6jayN.md
+location: instagram/bmarkfit
+---
+
+# T_BwGfoU6jayN_01
+
+"Hey guys, my name is Nikki Cork. I'm a full-time online coach and I got into the online space April 2018 after leaving my pretty comfortable but absolutely miserable corporate job. And honestly, where my business is today is so different than where I know it would be if it wasn't for Brian's help. I remember really struggling to have new, get new clients." — sources/S_ig_bmarkfit_BwGfoU6jayN.md
+
+# T_BwGfoU6jayN_02
+
+"I had a couple here and there, nothing really consistent. And I was at the point where I was kind of stressing about what the heck I got myself into. But fortunately, my path crossed with Brian's and we were able to connect and he was able to really help me grow my business in a really short amount of time." — sources/S_ig_bmarkfit_BwGfoU6jayN.md
+
+# T_BwGfoU6jayN_03
+
+"And if you are considering working with Brian, I highly recommend just investing in yourself, saving yourself all of the time and all of the stress and all of the guesswork and just growing your business right away. There's no point wasting any more of your time when you literally have an opportunity right in front of you to work with somebody who's really gonna care about you and your success." — sources/S_ig_bmarkfit_BwGfoU6jayN.md
+
+# T_BwGfoU6jayN_04
+
+"And anyways, I'm so grateful for everything he's done and I'm at a point now where I am really confident in my business. I'm really comfortable with my business and I'm so, so grateful that I can be in the place I am now so shortly after just starting everything." — sources/S_ig_bmarkfit_BwGfoU6jayN.md

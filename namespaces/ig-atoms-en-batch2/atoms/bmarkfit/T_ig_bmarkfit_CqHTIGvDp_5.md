@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_bmarkfit_CqHTIGvDp_5.md
+location: instagram/bmarkfit
+---
+
+# T_CqHTIGvDp_5_01
+
+"Most people are conditional. When the conditions are right, then I take action. When the conditions are not, I don't take action." — sources/S_ig_bmarkfit_CqHTIGvDp_5.md
+
+# T_CqHTIGvDp_5_02
+
+"A lot of people, when they get tired, when they get exhausted, when they go on vacation, when they have these things, they use those things as justifications to not do the things that they need to do in order to push their life and their business and their fitness forward. And that's why most people don't make any progress is because they're conditional." — sources/S_ig_bmarkfit_CqHTIGvDp_5.md
