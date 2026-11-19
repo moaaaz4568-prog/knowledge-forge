@@ -337,6 +337,7 @@ def sync_index(kb, model_name, batch=8, force=False):
     have = {k: cid for k, cid in conn.execute('SELECT key, chunk_id FROM vec_map')}
 
     t0 = time.time()
+    by_id = {c['id']: c for c in chunks}
     n_new, n_moved = 0, 0
     # delete rows for chunks that vanished (deleted files / changed text)
     for key in set(have) - set(want):
@@ -355,7 +356,7 @@ def sync_index(kb, model_name, batch=8, force=False):
         part = todo[i:i + batch]
         texts = []
         for key, cid in part:
-            c = next(c for c in chunks if c['id'] == cid)
+            c = by_id[cid]
             texts.append(c['text'])
         vecs = emb.embed_passages(texts)
         for (key, cid), v in zip(part, vecs):
