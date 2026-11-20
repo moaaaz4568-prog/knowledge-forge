@@ -1,0 +1,27 @@
+---
+type: glossary
+topic: olli.rasmussen
+aka: [make sure, olli.rasmussen account context]
+origin: sources/S_ig_olli.rasmussen_DSNg8IqDLrA.md
+---
+
+# G_ig_olli.rasmussen_DSNg8IqDLrA — make sure
+
+## Term
+
+"make sure" is the most frequent repeated content term in this source (a transcribed Instagram video from the olli.rasmussen account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sure, make, web, scraping. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- make sure
+- olli.rasmussen account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "The fastest way for you to get rich is selling AI. First, we head over to Google Maps, we type in our niche, then you get the data scraper EC web scraping. We make sure that we scroll all the way to the bottom to fetch every single business." — sources/S_ig_olli.rasmussen_DSNg8IqDLrA.md
+> "Click on the data scraper, make sure to select the Google Maps list scrape 2025, quickly make sure you have the phone number and the website, download as CSV, head over to GoHighLevel, click on contacts, import contacts, and... bag in the CSV file. Head over to automation, add trigger, do a drip mode, 0.1 minute, batch size one, upload a custom voicemail... Hey, I was checking out your business..." — sources/S_ig_olli.rasmussen_DSNg8IqDLrA.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "make sure": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
