@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DZGXH_cySls_03
 
-"I agree, it's expensive. Do you want a discount?" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
+"Perfect, no problem. What we'll do is we'll take care of the first installment today and then we'll start the program next week. When someone" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
 
 # T_DZGXH_cySls_04
 
-"Perfect, no problem. What we'll do is we'll take care of the first installment today and then we'll start the program next week. When someone" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
+"Yeah, sure. Do you want to do a daily payment plan?" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
 
 # T_DZGXH_cySls_05
 
-"Yeah, sure. Do you want to do a daily payment plan?" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
+"Typically we do it as a one-time installment. Are you asking because you would need that or you are just curious about the options?" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
 
 # T_DZGXH_cySls_06
 
-"Typically we do it as a one-time installment. Are you asking because you would need that or you are just curious about the options?" — sources/S_ig_therealbrianmark_DZGXH_cySls.md
+"You should hire them if you are looking for the cheapest option. Our program comes with guaranteed results." — sources/S_ig_therealbrianmark_DZGXH_cySls.md
 
 # T_DZGXH_cySls_07
 
-"Tell me what the other coach's rates are and I'll match them." — sources/S_ig_therealbrianmark_DZGXH_cySls.md
+"Send this to a friend that's in sales and follow for more value." — sources/S_ig_therealbrianmark_DZGXH_cySls.md

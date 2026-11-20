@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DUA9lQ4FDHY_02
 
-"Yeah, you know me and my partner, like we've really been working on this thing for the last little while and we've wanted to get in" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"Oh, that's amazing. Does your partner know that we're speaking today?" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
 
 # T_DUA9lQ4FDHY_03
 
-"Oh, that's amazing. Does your partner know that we're speaking today?" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"So when you're talking to a busy person, you wanna" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
 
 # T_DUA9lQ4FDHY_04
 
-"I love that. And typically, is she supportive of like your fitness goals and everything like that? Now when they say yes, you've just overcame the wife objection. Now let's say you're on the call and you're talking to a prospect that's super strapped for time. That's gonna be an indicator to say it's not the right time to start this fitness thing yet." — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"Once they say yes, you just overcame the time objection. Now let's talk about overcoming the money objection. The best way to overcome the money objection is to get a feel for their spending habits on their current health situation right now. Ask them how many times a week they eat out, stop for Starbucks, Tim Hortons, at the gas station for snacks, alcohol, cigarettes." — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
 
 # T_DUA9lQ4FDHY_05
 
-"So when you're talking to a busy person, you wanna" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"Finally, let's talk about how to overcome" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
 
 # T_DUA9lQ4FDHY_06
 
-"Okay, so Nick, typically speaking, it's gonna take you about three to five hours per week to see results in your fitness journey. Is that something that you can commit to?" — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"which is the last objection you might get, is to create urgency on the call. We create urgency in one of two ways. The first is asking why now. Nick, I gotta ask you, you know, why is this important that you make a change right now in your life? Obviously, you could have booked this call at any point with me, but you booked a call and you showed up today." — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
 
 # T_DUA9lQ4FDHY_07
 
-"Once they say yes, you just overcame the time objection. Now let's talk about overcoming the money objection. The best way to overcome the money objection is to get a feel for their spending habits on their current health situation right now. Ask them how many times a week they eat out, stop for Starbucks, Tim Hortons, at the gas station for snacks, alcohol, cigarettes." — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md
+"Get the prospect to sell themselves on why they need to take action now and make them realize if they don't take action, the negative consequences that are gonna happen. And boom, follow for more value." — sources/S_ig_therealbrianmark_DUA9lQ4FDHY.md

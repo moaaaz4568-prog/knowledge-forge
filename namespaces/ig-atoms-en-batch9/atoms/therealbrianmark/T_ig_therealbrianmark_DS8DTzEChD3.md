@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DS8DTzEChD3_04
 
-"But 90% of you that are watching this video shouldn't be proud of how you showed up this year because you showed up lazy, you showed up undisciplined, you showed up unmotivated, and you didn't fucking do the work. The goals that you said at the start of 2025, you said that you wanted to accomplish so bad. It'd be so great if I could hit 10K month, it'd be so great if I could hit 100K month." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
+"And then in the middle of the year, something fucking happened and you derailed yourself and you didn't fully commit. And then you get to the end of the year and you fucking celebrate, you pat yourself on the back for an amazing year. So proud of myself for how I showed up this year. Shut the fuck up. When are we actually going to start being honest with ourselves?" — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
 
 # T_DS8DTzEChD3_05
 
-"And then in the middle of the year, something fucking happened and you derailed yourself and you didn't fully commit. And then you get to the end of the year and you fucking celebrate, you pat yourself on the back for an amazing year. So proud of myself for how I showed up this year. Shut the fuck up. When are we actually going to start being honest with ourselves?" — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
+"I am not proud of the person that I showed up as this year, and so I'm actually going to do something about it in 2025, 2026. I'm going to show up as a different beast. You need to wake yourself the fuck up. Tell yourself the truth." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
 
 # T_DS8DTzEChD3_06
 
-"I am not proud of the person that I showed up as this year, and so I'm actually going to do something about it in 2025, 2026. I'm going to show up as a different beast. You need to wake yourself the fuck up. Tell yourself the truth." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
+"If you don't get the results that you wanted this year, it has nothing to do with any external circumstance and has everything to do with the fact that you didn't show up and put in the fucking work. And you might view me as the bad guy because I'm the one that's telling you the fucking truth, but you need to look at yourself in the mirror and realize that you're the bad guy in your own life." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
 
 # T_DS8DTzEChD3_07
 
-"If you don't get the results that you wanted this year, it has nothing to do with any external circumstance and has everything to do with the fact that you didn't show up and put in the fucking work. And you might view me as the bad guy because I'm the one that's telling you the fucking truth, but you need to look at yourself in the mirror and realize that you're the bad guy in your own life." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md
+"You're the villain in your own story. You're the reason that you're not successful. And as soon as you realize that, as soon as you realize that the only reason that you haven't achieved the goals, the dreams, the aspirations that you'd like to, is because you haven't fully committed, well baby, that's freedom. Because that gives you the opportunity to do something different in 2026. Let's go." — sources/S_ig_therealbrianmark_DS8DTzEChD3.md

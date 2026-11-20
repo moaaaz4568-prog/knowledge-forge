@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DPt6YEQD2mC_02
 
-"Everything that I've been able to achieve in my life, whether that's buying this fucking mansion, whether that was like buying the Lamborghini, whether that was buying the gym, whether that was scaling my coaching business to the next level, came on the other end of clearly defined goals. I think so many people get on this journey of entrepreneurship and they don't clearly define their goals." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"For me, when I was first getting started, I was like, okay, if I wanna hit $10, 000 a month, that means I need to have 40 clients that are paying me $250 a month. And if I do that, then I will hit 10, 000. Then because I had a clearly defined goal, then I was like, okay, what are the clearly defined actions that I must take in order to get to 40 clients?" — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
 
 # T_DPt6YEQD2mC_03
 
-"For me, when I was first getting started, I was like, okay, if I wanna hit $10, 000 a month, that means I need to have 40 clients that are paying me $250 a month. And if I do that, then I will hit 10, 000. Then because I had a clearly defined goal, then I was like, okay, what are the clearly defined actions that I must take in order to get to 40 clients?" — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"So at a million dollars a month right now and we're scaling to 2 million, it's all on the back of clearly defined goals. So me as a visionary of the company, I used to be the one that did all this stuff myself, right?" — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
 
 # T_DPt6YEQD2mC_04
 
-"Well, how many clients would I need to sign per week and how many clients would I need to sign per month in order to get to my goal of 40 clients? So everything that I did was able to be broken down into clearly defined action steps that were able to get me to my clearly defined goals. Even at this level." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"We still have clearly defined goals in the company, but now with the clearly defined goals, I have people that are responsible for executing on the outcomes and the day-to-day actions that are required in order to get to our clearly defined goals." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
 
 # T_DPt6YEQD2mC_05
 
-"So at a million dollars a month right now and we're scaling to 2 million, it's all on the back of clearly defined goals. So me as a visionary of the company, I used to be the one that did all this stuff myself, right?" — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"And then once I have those numbers, as a leader of my team, I just give those clearly defined goals to my team so that they can execute and we can get closer to the vision. Every single level of my coaching business has gotten to the next level because I clearly defined goals." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
 
 # T_DPt6YEQD2mC_06
 
-"So if I wanted to get to $10, 000 a month, and that meant I would send the DMs, I would book the sales calls, I would get on the sales calls, I would close them, and I would get to 10K. Now that I've got a team, it's still the exact same fucking process." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"Because in the process of you trying to hit the goal, trying to hit the goal, trying to hit the goal, trying to hit the goal, trying to hit the goal, you end up learning everything that you need to do in order to get to that actual goal. So you become a better person in the process." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
 
 # T_DPt6YEQD2mC_07
 
-"We still have clearly defined goals in the company, but now with the clearly defined goals, I have people that are responsible for executing on the outcomes and the day-to-day actions that are required in order to get to our clearly defined goals." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md
+"If you wanna grow your coaching business to the next level, you need to start clearly defining your goals." — sources/S_ig_therealbrianmark_DPt6YEQD2mC.md

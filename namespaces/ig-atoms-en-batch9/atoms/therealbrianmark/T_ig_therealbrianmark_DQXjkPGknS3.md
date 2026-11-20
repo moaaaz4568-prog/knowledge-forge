@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DQXjkPGknS3_04
 
-"One of my mentors said if you don't sacrifice what you want, then what you have a sense of sacrifice. Are you willing to sacrifice a little bit of leisure and downtime? Looks like the exact same words. Now again, for me, the biggest concern that I have is the fact that this was given to Dan and his team in confidence so that they could use it for their own business." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
+"This was not given with the intention of distribution. And in this video, I share all of my SOPs. I share my opener SOPs, my closer SOPs, my full sell-by-chat script, everything that I had at my own internal processes with the intention of helping Dan and his team, not with the intention of the distribution." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
 
 # T_DQXjkPGknS3_05
 
-"This was not given with the intention of distribution. And in this video, I share all of my SOPs. I share my opener SOPs, my closer SOPs, my full sell-by-chat script, everything that I had at my own internal processes with the intention of helping Dan and his team, not with the intention of the distribution." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
+"And when I brought this up to have to be met with a private sorry, but then not to be willing to do a public sorry when the public has seen the words that I wrote that were on a document labeled as Dan is just not okay with me, you know? So tomorrow I am going to be doing a little bit more of a deep dive on this on YouTube." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
 
 # T_DQXjkPGknS3_06
 
-"And when I brought this up to have to be met with a private sorry, but then not to be willing to do a public sorry when the public has seen the words that I wrote that were on a document labeled as Dan is just not okay with me, you know? So tomorrow I am going to be doing a little bit more of a deep dive on this on YouTube." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
+"I'm going to film a YouTube video and I'm actually going to give away my intellectual property from this training that I recorded. I'm going to cut out all the parts of Dan's team because that property does not belong to me." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
 
 # T_DQXjkPGknS3_07
 
-"I'm going to film a YouTube video and I'm actually going to give away my intellectual property from this training that I recorded. I'm going to cut out all the parts of Dan's team because that property does not belong to me." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md
+"So I'm not going to distribute property that does not belong to me in a video, but I'm going to give away my part of the training because if my sell-by-chat information is already out there on the internet, then you guys may as well get access to the IP that I spent years developing." — sources/S_ig_therealbrianmark_DQXjkPGknS3.md

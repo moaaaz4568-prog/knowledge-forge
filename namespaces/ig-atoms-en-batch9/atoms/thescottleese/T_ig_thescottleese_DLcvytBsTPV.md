@@ -15,20 +15,20 @@ location: instagram/thescottleese
 
 # T_DLcvytBsTPV_03
 
-"And I've thought about that so many times over the years as it pertains to business and sales. Like you have some prospect that you're talking to and they're" — sources/S_ig_thescottleese_DLcvytBsTPV.md
+"Well, you know, I want this package right here." — sources/S_ig_thescottleese_DLcvytBsTPV.md
 
 # T_DLcvytBsTPV_04
 
-"Well, you know, I want this package right here." — sources/S_ig_thescottleese_DLcvytBsTPV.md
+"Shut up, salesperson. Say yes, take the money, off you go." — sources/S_ig_thescottleese_DLcvytBsTPV.md
 
 # T_DLcvytBsTPV_05
 
-"Shut up, salesperson. Say yes, take the money, off you go." — sources/S_ig_thescottleese_DLcvytBsTPV.md
+"And inevitably there's some sales guy or gal who's" — sources/S_ig_thescottleese_DLcvytBsTPV.md
 
 # T_DLcvytBsTPV_06
 
-"And inevitably there's some sales guy or gal who's" — sources/S_ig_thescottleese_DLcvytBsTPV.md
+"All I did was pick a small mid-sized bank, get a couple grand here, get a couple grand there." — sources/S_ig_thescottleese_DLcvytBsTPV.md
 
 # T_DLcvytBsTPV_07
 
-"And they just talk themselves out of a deal because they get greedy. There was this one bank robber guy, it was like Ohio, Indiana. He's hitting all these little banks, but he's explaining the psychology. He's" — sources/S_ig_thescottleese_DLcvytBsTPV.md
+"And they look at his overall take. It was something like $16 million over the course of 11 years because he just went for the register. Yeah, go for the register, not the vault." — sources/S_ig_thescottleese_DLcvytBsTPV.md

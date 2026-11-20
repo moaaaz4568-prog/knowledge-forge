@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DL7jk2CRIq2_03
 
-"Then what you're gonna do is you're gonna click on the post and you're gonna go to Boost Real. Once you go to Boost Real, you're gonna see this screen. What you're gonna do is you're gonna want people to visit your profile. Then what you can do is you can actually create a custom audience." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
+"I personally would not recommend a suggested audience because Instagram is gonna target people that are like your followers. If you have a small niche following and most of the people that are following you are your specific avatar, then you can do this. But for most people that don't have a small niche following, what you're gonna wanna do, you're gonna create your own audience." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
 
 # T_DL7jk2CRIq2_04
 
-"I personally would not recommend a suggested audience because Instagram is gonna target people that are like your followers. If you have a small niche following and most of the people that are following you are your specific avatar, then you can do this. But for most people that don't have a small niche following, what you're gonna wanna do, you're gonna create your own audience." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
+"So we're gonna name the audience Fitness Moms. And then we're gonna go Locations. I like to do USA and then Canada. Perfect. I'm gonna save this. Then what I'm gonna do is I'm gonna do the minimum age at 25 years old. And then I'm actually gonna click on Interests here. So Interests, I can go Lululemon. I wanna think about things that moms have that have money." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
 
 # T_DL7jk2CRIq2_05
 
-"So we're gonna name the audience Fitness Moms. And then we're gonna go Locations. I like to do USA and then Canada. Perfect. I'm gonna save this. Then what I'm gonna do is I'm gonna do the minimum age at 25 years old. And then I'm actually gonna click on Interests here. So Interests, I can go Lululemon. I wanna think about things that moms have that have money." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
+"Then once I've got that, we'll do 25. Let's say your avatar is a maximum of 40 years old, female. I'm gonna press Save. I'd recommend starting at $20 a day, and then you're just gonna tap Boost Real. Now I'm gonna show you the specific metrics that you are looking for. I go to this reel right here. You're gonna tap View Insights on any of the reels that you boost, and you're gonna go to Ads." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
 
 # T_DL7jk2CRIq2_06
 
-"Then once I've got that, we'll do 25. Let's say your avatar is a maximum of 40 years old, female. I'm gonna press Save. I'd recommend starting at $20 a day, and then you're just gonna tap Boost Real. Now I'm gonna show you the specific metrics that you are looking for. I go to this reel right here. You're gonna tap View Insights on any of the reels that you boost, and you're gonna go to Ads." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
+"Now this for me is a good metric 'cause usually if I'm targeting personal trainers, it's around $10 per follow. But for fitness creators that are targeting fitness people, there's a lot more people that are interested in losing weight than there is people that are interested in growing a fitness business. So for fitness creators, the metric that I'd recommend is $1 per follower." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
 
 # T_DL7jk2CRIq2_07
 
-"So from this ad specifically, it's gonna show you how many profile visits I've got, how much money I've spent, and it's also gonna show you how many followers I've been able to generate. I spent $13,885 and I ended up getting 2,300 followers. So if I just pull up my calculator here, so I do 13,885 divided by 2,345. So it cost me $5.09 per follower." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md
+"If you can get under $1 per follower as a fitness creator, that literally means you spend $100, you get 100 leads that follow you on social media. Out of 100 leads that follow you on social media, you're gonna be able to book one to two calls. If you start booking one to two calls per day, you're gonna start making a lot of money with your online coaching business. Hopefully this helps." — sources/S_ig_therealbrianmark_DL7jk2CRIq2.md

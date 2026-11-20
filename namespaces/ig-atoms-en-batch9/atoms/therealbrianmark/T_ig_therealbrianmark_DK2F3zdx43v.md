@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DK2F3zdx43v_04
 
-"And so you need to expect that the prospect is gonna come with objections, and you need to be practiced at overcoming those objections by booking role plays. If you want an objection cheat sheet, comment the word sales and I'll send it over. Number four, you didn't create a gap. In order for the prospect to purchase a program, they need to have a clear problem that they need to solve." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
+"So you need to make sure you get them crystal clear on the pain that they're currently experiencing and the vision that they'd like to achieve, and you need to widen the gap between where they are right now and where they wanna be by asking these questions. So Nick, why do you feel like you haven't been able to achieve these goals on your own?" — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
 
 # T_DK2F3zdx43v_05
 
-"So you need to make sure you get them crystal clear on the pain that they're currently experiencing and the vision that they'd like to achieve, and you need to widen the gap between where they are right now and where they wanna be by asking these questions. So Nick, why do you feel like you haven't been able to achieve these goals on your own?" — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
+"And I hate to be the one to ask this question, Nick, but let's just say you get off this call and you do absolutely nothing, you stay in the exact same place, and maybe your situation gets even potentially worse over the course of the next 12 months. How would that make you feel? And number five, you act like a friend, not a coach." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
 
 # T_DK2F3zdx43v_06
 
-"And I hate to be the one to ask this question, Nick, but let's just say you get off this call and you do absolutely nothing, you stay in the exact same place, and maybe your situation gets even potentially worse over the course of the next 12 months. How would that make you feel? And number five, you act like a friend, not a coach." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
+"When you're on the sales call, do not validate them for the things that they're f***ing up on. Oh, you've been trying to go to the gym for the last three weeks and you haven't been able to make it? That's totally cool, I get it, life's hard. No, you need to point out the things that they're making mistakes on. I can see why you're struggling to lose weight, Nick." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
 
 # T_DK2F3zdx43v_07
 
-"When you're on the sales call, do not validate them for the things that they're f***ing up on. Oh, you've been trying to go to the gym for the last three weeks and you haven't been able to make it? That's totally cool, I get it, life's hard. No, you need to point out the things that they're making mistakes on. I can see why you're struggling to lose weight, Nick." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md
+"The inconsistency with the gym is definitely an issue. We're gonna solve that problem. Just joking, upload Jeremy, follow for more value." — sources/S_ig_therealbrianmark_DK2F3zdx43v.md

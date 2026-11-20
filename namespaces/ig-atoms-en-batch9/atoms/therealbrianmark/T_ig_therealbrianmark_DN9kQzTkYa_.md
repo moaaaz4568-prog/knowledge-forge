@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DN9kQzTkYa__04
 
-"You need to learn how to do the fucking work that is required regardless of how you feel. That is what it takes. That is the reality of entrepreneurship. That is the reality of success. That is the reality of breaking through to the next level. Because I'm not comfortable with a million dollars a month. I want to make two. We just hit another million dollar month. I don't care." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
+"I'm fucking blissfully dissatisfied. It's like, cool, we hit it, but I'm like, why the fuck are we still at a million? Why are we not at two? And like that mindset, that like mentality of like, I'm not fucking satisfied with the status quo and I'm hunting the next level relentlessly." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
 
 # T_DN9kQzTkYa__05
 
-"I'm fucking blissfully dissatisfied. It's like, cool, we hit it, but I'm like, why the fuck are we still at a million? Why are we not at two? And like that mindset, that like mentality of like, I'm not fucking satisfied with the status quo and I'm hunting the next level relentlessly." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
+"And I also feel like this like mentality of, people always say the wolf on the hill is hungrier, the wolf on the top of the hill is not as hungry as the wolf climbing the hill. Like I'm at the top of the fucking mountain. I am the best in the space. And I want to be fucking legendary. I want to leave a legacy. I want to make sure that my name is never forgotten." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
 
 # T_DN9kQzTkYa__06
 
-"And I also feel like this like mentality of, people always say the wolf on the hill is hungrier, the wolf on the top of the hill is not as hungry as the wolf climbing the hill. Like I'm at the top of the fucking mountain. I am the best in the space. And I want to be fucking legendary. I want to leave a legacy. I want to make sure that my name is never forgotten." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
+"And in order to do that, that's gonna require a fucking ridiculous amount of work that people do not understand. People are gonna think I'm fucking crazy. People are gonna tell me to take a day off. It's 7 p. M. On a Friday night. I have been working since five o'clock in the morning. That's what the fuck it takes. So yes, today I had literally had crippling anxiety." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
 
 # T_DN9kQzTkYa__07
 
-"And in order to do that, that's gonna require a fucking ridiculous amount of work that people do not understand. People are gonna think I'm fucking crazy. People are gonna tell me to take a day off. It's 7 p. M. On a Friday night. I have been working since five o'clock in the morning. That's what the fuck it takes. So yes, today I had literally had crippling anxiety." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md
+"And I still showed the fuck up and I did the work. And that's the price that you have to pay." — sources/S_ig_therealbrianmark_DN9kQzTkYa_.md

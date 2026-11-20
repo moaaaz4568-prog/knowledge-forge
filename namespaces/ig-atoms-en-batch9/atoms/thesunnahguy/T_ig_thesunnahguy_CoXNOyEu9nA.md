@@ -19,16 +19,16 @@ location: instagram/thesunnahguy
 
 # T_CoXNOyEu9nA_04
 
-"And just because of that dip in the Hellfire, he will scream out and" — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
+"No, by Allah, I never experienced any ease or comfort." — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
 
 # T_CoXNOyEu9nA_05
 
-"No, by Allah, I never experienced any ease or comfort." — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
+"And then a man who lived a hard and difficult life full of trials and tests, experiencing little to no comfort or ease in this world, he will be taken and simply dipped into Paradise. And then he'll be asked if he had ever experienced any hardship. And he will" — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
 
 # T_CoXNOyEu9nA_06
 
-"And then a man who lived a hard and difficult life full of trials and tests, experiencing little to no comfort or ease in this world, he will be taken and simply dipped into Paradise. And then he'll be asked if he had ever experienced any hardship. And he will" — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
+"By Allah, I did not experience any hardship or difficulty in this world." — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
 
 # T_CoXNOyEu9nA_07
 
-"By Allah, I did not experience any hardship or difficulty in this world." — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md
+"And this here gives us perspective that whatever pain or hardship we go through in this world, it will all be worth it when you set that first foot into Paradise." — sources/S_ig_thesunnahguy_CoXNOyEu9nA.md

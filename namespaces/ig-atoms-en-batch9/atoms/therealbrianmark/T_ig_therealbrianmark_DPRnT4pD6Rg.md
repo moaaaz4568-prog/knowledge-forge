@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DPRnT4pD6Rg_04
 
-"Let me ask you a question: Have you built a coaching business or have you just built a high demand job? And don't get me wrong, the things that you need to do to get to ten thousand dollars a month are basically being employee of your business. You got to post your own content, you got to send your own DMs, you got to get on your own sales calls, you got to do your own fulfillment." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
+"But once you start making ten thousand dollars a month, you need to use that money to start hiring people to buy back some of your time. And yeah, I know what you might be thinking, but I don't want to spend money on hiring team. Okay, well, have fun being an employee of your business for the rest of your life." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
 
 # T_DPRnT4pD6Rg_05
 
-"But once you start making ten thousand dollars a month, you need to use that money to start hiring people to buy back some of your time. And yeah, I know what you might be thinking, but I don't want to spend money on hiring team. Okay, well, have fun being an employee of your business for the rest of your life." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
+"Instead, if you invest twenty percent of the capital that you are currently making on hiring team members so that they can do the job for you, all of a sudden you are going to get ten to twenty hours of work back per week that you can dedicate to either generating more revenue or just having fun with your f life. And I don't know about you, but my number one core value is freedom." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
 
 # T_DPRnT4pD6Rg_06
 
-"Instead, if you invest twenty percent of the capital that you are currently making on hiring team members so that they can do the job for you, all of a sudden you are going to get ten to twenty hours of work back per week that you can dedicate to either generating more revenue or just having fun with your f life. And I don't know about you, but my number one core value is freedom." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
+"So if I built a business where I am literally the employee of my business, I'd rather just go work at McDonald's. A business is an asset that works for you. A job basically means that you need to work in order to get paid. Every online coach that gets into entrepreneurship needs to start as an employee of their business." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
 
 # T_DPRnT4pD6Rg_07
 
-"So if I built a business where I am literally the employee of my business, I'd rather just go work at McDonald's. A business is an asset that works for you. A job basically means that you need to work in order to get paid. Every online coach that gets into entrepreneurship needs to start as an employee of their business." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md
+"But once you get to ten thousand dollars a month, you need to start learning how to think like a CEO and not an employee." — sources/S_ig_therealbrianmark_DPRnT4pD6Rg.md

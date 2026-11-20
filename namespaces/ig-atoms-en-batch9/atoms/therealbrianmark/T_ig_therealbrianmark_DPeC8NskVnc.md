@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DPeC8NskVnc_04
 
-"Because it's not like I get out of bed every single day and I'm like, oh, can't wait to go to the gym at 3:45 in the morning. Can't wait to fucking get no sleep. Can't wait to push myself to the fucking breaking point when I get to the gym. It's like I know that it's gonna be difficult. I know that it's gonna be challenging. I know that I have a packed schedule." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
+"But there's just this fucking whisper in the back of my mind that's telling me that I'm capable of more. And so that's what I choose to listen to. And I think every single one of us has that voice, that voice inside of us that knows that we're meant for more. That voice inside of us that is calling us to step into our power to become the best version of ourselves." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
 
 # T_DPeC8NskVnc_05
 
-"But there's just this fucking whisper in the back of my mind that's telling me that I'm capable of more. And so that's what I choose to listen to. And I think every single one of us has that voice, that voice inside of us that knows that we're meant for more. That voice inside of us that is calling us to step into our power to become the best version of ourselves." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
+"That voice inside of us that's whispering to our potential and telling us that we're capable of achieving more. And so every single day I feed that voice. And that's why my alarm clock goes off at 3:45 in the morning." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
 
 # T_DPeC8NskVnc_06
 
-"That voice inside of us that's whispering to our potential and telling us that we're capable of achieving more. And so every single day I feed that voice. And that's why my alarm clock goes off at 3:45 in the morning." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
+"Not because I want to, not because it feels good, not because I'm excited to get out of bed this fucking early, but because I know that if I want to achieve success in life, then I need to be willing to do the thing that most people aren't willing to do. And that includes getting up at the lonely hours in the morning when it's just me, myself, and my thoughts." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
 
 # T_DPeC8NskVnc_07
 
-"Not because I want to, not because it feels good, not because I'm excited to get out of bed this fucking early, but because I know that if I want to achieve success in life, then I need to be willing to do the thing that most people aren't willing to do. And that includes getting up at the lonely hours in the morning when it's just me, myself, and my thoughts." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md
+"And if that means that I need to challenge myself and push myself to a breaking point every single day and at the end of the road I achieve my vision, and that's the price I must pay, then so be it." — sources/S_ig_therealbrianmark_DPeC8NskVnc.md

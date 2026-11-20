@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DNOBDmgxenX_04
 
-"But understanding that taking that risk is so much more rewarding than staying stuck in the exact same place, wondering, wishing, hoping for something to change. When are you gonna get that there's always going to be a chance that you're going to fail? That's why it's beautiful. That's what makes it all worth it. Because most people aren't willing to go there." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
+"Because most people aren't willing to commit. Because most people aren't willing to risk everything that they have for a chance at greatness." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
 
 # T_DNOBDmgxenX_05
 
-"Because most people aren't willing to commit. Because most people aren't willing to risk everything that they have for a chance at greatness." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
+"But for those people that are willing to risk it all, for those people that are willing to shut down every opportunity to surrender, for those people that are willing to take all of their chips and push all of them in and say the only option is success, greatness awaits. Legacy awaits. Wealth awaits." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
 
 # T_DNOBDmgxenX_06
 
-"But for those people that are willing to risk it all, for those people that are willing to shut down every opportunity to surrender, for those people that are willing to take all of their chips and push all of them in and say the only option is success, greatness awaits. Legacy awaits. Wealth awaits." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
+"But you will never taste it until you fully commit, until you make the decision that you are no longer satisfied with the life that you are living right now, until you make the decision that you are no longer going to tolerate the way that things have been going, until you get fucking sick and tired of how things are and you make the decision that regardless of whether or not you fail, you are" — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
 
 # T_DNOBDmgxenX_07
 
-"But you will never taste it until you fully commit, until you make the decision that you are no longer satisfied with the life that you are living right now, until you make the decision that you are no longer going to tolerate the way that things have been going, until you get fucking sick and tired of how things are and you make the decision that regardless of whether or not you fail, you are" — sources/S_ig_therealbrianmark_DNOBDmgxenX.md
+"going to fully commit to the process, you are going to fully commit to your dreams, you are going to get off the fucking fence and make the decision that this is worth fighting for." — sources/S_ig_therealbrianmark_DNOBDmgxenX.md

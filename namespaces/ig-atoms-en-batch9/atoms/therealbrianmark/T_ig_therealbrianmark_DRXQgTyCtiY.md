@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DRXQgTyCtiY_02
 
-"Hey Nick, thanks so much for reaching out. Mind if I ask a couple of questions to see if I can help?" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"Got it. The second question that you need to ask" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
 
 # T_DRXQgTyCtiY_03
 
-"Got it. The second question that you need to ask" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"What's the number one struggle that you're dealing with right now?" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
 
 # T_DRXQgTyCtiY_04
 
-"What's the number one struggle that you're dealing with right now?" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"I hear you. I've struggled with that myself as well." — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
 
 # T_DRXQgTyCtiY_05
 
-"Now once they respond, you need to make sure that you relate to them. Don't just roll into the next question. You're gonna" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"Now we're gonna future pace and we're gonna set a timeline. So Nick, in the next 60 to 90 days, what are the top two to three results you're looking for in your fitness journey? Perfect. Now we book a call and sell them our s***. Right? Relax, bro. Yes, we're gonna set up the call, but we're gonna do it in the right way. We always wanna" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
 
 # T_DRXQgTyCtiY_06
 
-"I hear you. I've struggled with that myself as well." — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"Then after they say yes, we're gonna send a calendar booking link and we're gonna" — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
 
 # T_DRXQgTyCtiY_07
 
-"Oh, that's smart. And then you're gonna roll into number three. So what would you say is the number one goal that you have in your fitness journey right now? Once they tell you your goal, you're gonna let them know that that's realistic and attainable. Send a picture of one of your clients that accomplished that goal. That's super doable. My client John lost 10 pounds in the last 12 weeks." — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md
+"This is amazing, but there's no way I'll remember all of that. I know it was really good. If you want a full training on how to turn DMs into sales calls, come up with the word DM and I'll send it over to you for free." — sources/S_ig_therealbrianmark_DRXQgTyCtiY.md

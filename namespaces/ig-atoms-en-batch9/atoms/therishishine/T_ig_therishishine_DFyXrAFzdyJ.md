@@ -19,16 +19,16 @@ location: instagram/therishishine
 
 # T_DFyXrAFzdyJ_04
 
-"But still they were making more money than I was. I then started to see what were in their content, and I got to know there was one thing that was missing in my content. They were connecting, they were talking, they were humans, and I was here creating motivational motion graphics. But when I again started to create these talking head videos, the engagement dropped, the views dropped." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
+"I started to get hit from my own audience. And then I realized the full and final thing, the thing that every beginner content creator needs to hear. If you're running only after views, engagement, like, comment, and all that shit, it will get you nowhere. Literally. I've done that shit, and I've realized it. It sure will satisfy your ego, but it's not the real thing." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
 
 # T_DFyXrAFzdyJ_05
 
-"I started to get hit from my own audience. And then I realized the full and final thing, the thing that every beginner content creator needs to hear. If you're running only after views, engagement, like, comment, and all that shit, it will get you nowhere. Literally. I've done that shit, and I've realized it. It sure will satisfy your ego, but it's not the real thing." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
+"The real thing is this, creating your content, creating your personal brand, because this is hard. And after investing in lots of courses which were actually good, I got to know this one cheat code, and that was, make something that you can make for the next five years. Create content for the long term, not for the short. And that is what I've been doing since." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
 
 # T_DFyXrAFzdyJ_06
 
-"The real thing is this, creating your content, creating your personal brand, because this is hard. And after investing in lots of courses which were actually good, I got to know this one cheat code, and that was, make something that you can make for the next five years. Create content for the long term, not for the short. And that is what I've been doing since." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
+"I stopped creating all that motion graphic stuff, because I wanted to connect with people one on one. I wanted to connect with each and every one. I wanted to share my stories, and I wanted to just be human. And I know that these videos don't get that much views, engagement, and all that stuff, but I also know that five years from now, this will work." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
 
 # T_DFyXrAFzdyJ_07
 
-"I stopped creating all that motion graphic stuff, because I wanted to connect with people one on one. I wanted to connect with each and every one. I wanted to share my stories, and I wanted to just be human. And I know that these videos don't get that much views, engagement, and all that stuff, but I also know that five years from now, this will work." — sources/S_ig_therishishine_DFyXrAFzdyJ.md
+"So if you're someone like me who wants to do this for the long term, then hop on the journey. I'll see you tomorrow." — sources/S_ig_therishishine_DFyXrAFzdyJ.md

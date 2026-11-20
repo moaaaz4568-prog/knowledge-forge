@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DbbU6QvK1SP_04
 
-"Step number five, you need to illustrate the consequences of not taking action. And Nick, I hate to be the guy that says this, but you know, it's my job to hold you accountable. Let's just pretend you get off this call and you take absolutely no action. Your life stays in the exact same place. How would that make you feel?" — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
+"Let's say we get to December 2026 and you're still in the exact same place, but maybe even a little bit worse. Maybe you gain a little bit away. What does that look like and how does that feel? Now the prospect is gonna feel their own internal sense of urgency to take action right now because they don't want the consequences of not taking action." — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
 
 # T_DbbU6QvK1SP_05
 
-"Let's say we get to December 2026 and you're still in the exact same place, but maybe even a little bit worse. Maybe you gain a little bit away. What does that look like and how does that feel? Now the prospect is gonna feel their own internal sense of urgency to take action right now because they don't want the consequences of not taking action." — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
+"And step number six, you need to test their commitment levels. If you don't test their commitment levels before you pitch, you're gonna get objections after you pitched that you could have overcome before. And Nick, I gotta be honest with you, brother. Like I get on a lot of these calls and a lot of people say they wanna make a change, but they never actually do anything about it." — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
 
 # T_DbbU6QvK1SP_06
 
-"And step number six, you need to test their commitment levels. If you don't test their commitment levels before you pitch, you're gonna get objections after you pitched that you could have overcome before. And Nick, I gotta be honest with you, brother. Like I get on a lot of these calls and a lot of people say they wanna make a change, but they never actually do anything about it." — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
+"On a scale of one to 10, one being I don't really care about this goal and 10 being I'm prepared to do whatever it takes to achieve this goal, where are you sitting on that scale? Okay, a nine. And what does that actually mean to you though? Like are you actually at a place where you're prepared to do something about this and you actually wanna transform your life today?" — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
 
 # T_DbbU6QvK1SP_07
 
-"On a scale of one to 10, one being I don't really care about this goal and 10 being I'm prepared to do whatever it takes to achieve this goal, where are you sitting on that scale? Okay, a nine. And what does that actually mean to you though? Like are you actually at a place where you're prepared to do something about this and you actually wanna transform your life today?" — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md
+"Or are you okay with things as the way that they are? Once you follow this process, you can walk through the pitch and you can close the deal. If you wanna know exactly what to say if the prospect has objections, follow me and call my game and I'll send you my objections cheat sheet." — sources/S_ig_therealbrianmark_DbbU6QvK1SP.md

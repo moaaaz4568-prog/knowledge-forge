@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DbOZseUKoHW_03
 
-"Where do you think we should go from here?" — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
+"This puts the power in their hands and allows them to make the right decision. Don't" — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
 
 # T_DbOZseUKoHW_04
 
-"This puts the power in their hands and allows them to make the right decision. Don't" — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
+"Hey Nick, I just had a minute to get back to you." — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
 
 # T_DbOZseUKoHW_05
 
-"Hey Nick, I just had a minute to get back to you." — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
+"because that implies that everything you said before that was a lie." — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
 
 # T_DbOZseUKoHW_06
 
-"because that implies that everything you said before that was a lie." — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
+"and then you can demonstrate proof by telling a story. This builds trust. Follow me and comment" — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
 
 # T_DbOZseUKoHW_07
 
-"Here's what's worked for clients in a similar" — sources/S_ig_therealbrianmark_DbOZseUKoHW.md
+"and I'll send you free training on how to close more deals." — sources/S_ig_therealbrianmark_DbOZseUKoHW.md

@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DU4KV6hkjA5_04
 
-"You will never lose the mom tone if you keep making this one mistake." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
+"If you're a busy mom over 30 that struggles losing stubborn belly fat, save this video." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
 
 # T_DU4KV6hkjA5_05
 
-"If you're a busy mom over 30 that struggles losing stubborn belly fat, save this video." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
+"Now Instagram will push this targeted piece of content directly towards people that are searching those terms. The second way you're gonna leverage this is research. Go back to the filters and choose only selected topics related to your niche. Now when you scroll, you get highly targeted ideas for your content." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
 
 # T_DU4KV6hkjA5_06
 
-"Now Instagram will push this targeted piece of content directly towards people that are searching those terms. The second way you're gonna leverage this is research. Go back to the filters and choose only selected topics related to your niche. Now when you scroll, you get highly targeted ideas for your content." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
+"Any idea that has over 50,000 likes, tap the three buttons in the bottom right and tap interested. Repeat this process until Instagram gives you an algorithm that is highly targeted content towards your ideal client demographic that is viral in that niche." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
 
 # T_DU4KV6hkjA5_07
 
-"Any idea that has over 50,000 likes, tap the three buttons in the bottom right and tap interested. Repeat this process until Instagram gives you an algorithm that is highly targeted content towards your ideal client demographic that is viral in that niche." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md
+"Now send this to a friend that needs to see it, and if you want to keep up with the latest social media updates, make sure you're following my page." — sources/S_ig_therealbrianmark_DU4KV6hkjA5.md

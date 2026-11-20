@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DblH8nxKPDD_03
 
-"Long story short, I ended up making the team. And even though I only started for half a season, it gave me the inspiration to go back home and train harder than I've ever trained in my life for the following season. Now, two weeks before my main season, I fucked up my back. I like blew out my SI joint." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
+"And I realized that I just spent the last eight months training and I'm like, okay, I like look really good, but I can't play football because my back's fucked. So what should I do? So I pivoted in that moment and I said, okay, I'm just gonna enter a fitness competition. And that was the first time that I'd ever done a fitness competition and I ended up placing seventh." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
 
 # T_DblH8nxKPDD_04
 
-"And I realized that I just spent the last eight months training and I'm like, okay, I like look really good, but I can't play football because my back's fucked. So what should I do? So I pivoted in that moment and I said, okay, I'm just gonna enter a fitness competition. And that was the first time that I'd ever done a fitness competition and I ended up placing seventh." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
+"I was working at a career, I had a decent life, but I wasn't happy or fulfilled with the way that my life was going. And so I knew that I needed to make a change and I knew that I needed to lean in the direction of my dreams." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
 
 # T_DblH8nxKPDD_05
 
-"I was working at a career, I had a decent life, but I wasn't happy or fulfilled with the way that my life was going. And so I knew that I needed to make a change and I knew that I needed to lean in the direction of my dreams." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
+"I wasn't 100% confident with what I wanted to do with the rest of my life, but I knew that I needed to at least try to achieve a dream that I wanted in the first place because at that point, then I would at least know whether or not that path was for me." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
 
 # T_DblH8nxKPDD_06
 
-"I wasn't 100% confident with what I wanted to do with the rest of my life, but I knew that I needed to at least try to achieve a dream that I wanted in the first place because at that point, then I would at least know whether or not that path was for me." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
+"Because yes, I'm not a professional football player right now, but me chasing the dream of football led me to do my first fitness competition, which led me to do another fitness competition, which led me to become a pro, which led me to become a fitness coach, which led me to become a business coach." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
 
 # T_DblH8nxKPDD_07
 
-"And what I learned along the way is so fucking valuable because I learned that even if the dream that you chase is not the ultimate one that you end up at, you can never ever ever go wrong by going in the direction of your dreams." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md
+"So by me chasing this dream, it pushed me down the path of the direction or the destination that I'm supposed to go. Now in the next video, I'm gonna tell you how getting caught up in the wrong crowd almost cost me my life. So if you are enjoying this series, make sure you follow your boy, leave me a comment below and let me know." — sources/S_ig_therealbrianmark_DblH8nxKPDD.md

@@ -11,24 +11,24 @@ location: instagram/thetravisstephenson
 
 # T_C-8qZdiSR_u_02
 
-"The product that we're selling is $97 a month, which means that that would be about $18,139 in revenue. I get 40% of that, so my take is $7,255 per month if nobody cancels. So that's the easy part, right? Figuring out what to promote, that's the easy stuff. Now we gotta figure out how are we gonna get people in front of our affiliate link?" — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"And let me show you what I'm doing every day, 30 minutes in the morning and 30 minutes at night to get people interested in buying whatever it is that you wanna sell. So in this case, I am promoting a digital marketing product. So I went on TikTok and I searched digital marketing. And as you can see, there's a bunch of different videos here, but I just clicked on this one." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
 
 # T_C-8qZdiSR_u_03
 
-"And let me show you what I'm doing every day, 30 minutes in the morning and 30 minutes at night to get people interested in buying whatever it is that you wanna sell. So in this case, I am promoting a digital marketing product. So I went on TikTok and I searched digital marketing. And as you can see, there's a bunch of different videos here, but I just clicked on this one." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"I'm gonna be showing you guys a software that we have that you can get access to that does all the marketing for me, so I don't have to worry about it and I don't have to pay for any kind of ads or whatever. This gives me my entire day back. I just let it run on automation and in fact, it's running on automation right now. Let me show you." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
 
 # T_C-8qZdiSR_u_04
 
-"This one has 730, 000 views. So right here, you can see there's a bunch of people who are commenting. These are almost all interested people who wanna start making money on the internet. I wanna market to these people. This is where this shameless self-promotion comes in." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"So we import them, we validate them, then we can do a lot of really cool stuff. And I gotta show you this. Within the automation phase, you guys can see I can actually click this, scroll down. If I was on Facebook, I could do any of these things. I could send a friend request, I could like their page, I could like their profile, I could send them a direct message." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
 
 # T_C-8qZdiSR_u_05
 
-"I'm gonna be showing you guys a software that we have that you can get access to that does all the marketing for me, so I don't have to worry about it and I don't have to pay for any kind of ads or whatever. This gives me my entire day back. I just let it run on automation and in fact, it's running on automation right now. Let me show you." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"It says, hey, saw that you were interested in digital marketing. I'm not here to sell you anything, but I do have something that you should check out that's completely free. I build my entire business on it. And there's a really cool training that you can get when you sign up. That's got five days worth of training that shows you three different income streams." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
 
 # T_C-8qZdiSR_u_06
 
-"So when you install our software, you get this little widget. This little widget will actually go through and scroll every single commenter on this post and it'll copy their profile so that we can actually reach out to them. So you can see it's gonna add more profiles as we go through. We add them into a pipeline that looks like this." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"So now I want you to imagine that you have 200 to 500 people that you know are highly interested in whatever you wanna sell. Can sell digital products, you can sell physical products, you can sell e-commerce products. We have a guy who just did $25, 000 in a month selling his own software product all via the software that I just showed you. And that software runs all of this stuff automatically." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
 
 # T_C-8qZdiSR_u_07
 
-"So we import them, we validate them, then we can do a lot of really cool stuff. And I gotta show you this. Within the automation phase, you guys can see I can actually click this, scroll down. If I was on Facebook, I could do any of these things. I could send a friend request, I could like their page, I could like their profile, I could send them a direct message." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md
+"If you're interested and you wanna see what this is all about, comment on this video and I will send you a link where you can get completely free access to learn all that you would need to know to duplicate what I just showed you on whatever it is that you wanna sell." — sources/S_ig_thetravisstephenson_C-8qZdiSR_u.md

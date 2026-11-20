@@ -11,24 +11,24 @@ location: instagram/thetravisstephenson
 
 # T_C-k_tvBJILK_02
 
-"No, we absolutely don't need one 'cause if you're here for a weekend, you likely aren't gonna be buying bottles of wine and storing them, but it was a really cool thing to add and it's got a dual zone control, so you've got a cold side and a warm side. I'm a big fan of wine, so I figured, you know, what if you're a big fan of wine, you might like this." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"The next thing is a couple of the custom pieces of art that I had done. I actually bought this off a guy off Instagram. I'm gonna show you another one, but I spent a lot of money getting it framed professionally so it actually looks nice and it's not just a poster randomly put behind some plastic. Let's take a look at the other one." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
 
 # T_C-k_tvBJILK_03
 
-"The next thing is a couple of the custom pieces of art that I had done. I actually bought this off a guy off Instagram. I'm gonna show you another one, but I spent a lot of money getting it framed professionally so it actually looks nice and it's not just a poster randomly put behind some plastic. Let's take a look at the other one." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"My family and I have been fortunate enough to stay at a lot of different Airbnbs in the last year. We traveled the entire world, and one thing I noticed is Airbnb hosts, they typically skimp on the details. They put a queen bed instead of a king bed because it saves them a little bit of money. Art is another big one, right?" — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
 
 # T_C-k_tvBJILK_04
 
-"My family and I have been fortunate enough to stay at a lot of different Airbnbs in the last year. We traveled the entire world, and one thing I noticed is Airbnb hosts, they typically skimp on the details. They put a queen bed instead of a king bed because it saves them a little bit of money. Art is another big one, right?" — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"This is an Arnold Palmer piece that was also done by the same guys, the previous piece, again professionally framed, and it just makes the whole place look a lot cooler, a lot more unique, and adds a wild splash of color, which I think is super cool." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
 
 # T_C-k_tvBJILK_05
 
-"So the experience that you get in an Airbnb, a lot of times comes to how it makes you feel, and really cheap home goods art didn't really make me feel much, so I wanted to put in something that's a little bit more golfer friendly. So let's take a look at the next piece of art that we had added in. This is the next piece of art." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"One of my biggest pet peeves is people who put in here these Teflon pans that I gotta cook with, so I get a whole bunch of chemicals and forever chemicals in my food when I'm staying at your place. The reason I'm staying in an Airbnb is so that I can make my own food so that I can still continue to live the way I normally would. And as you guys can see, these are HexClad." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
 
 # T_C-k_tvBJILK_06
 
-"This is an Arnold Palmer piece that was also done by the same guys, the previous piece, again professionally framed, and it just makes the whole place look a lot cooler, a lot more unique, and adds a wild splash of color, which I think is super cool." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"These are top of the line non-stick. I gotta shout out to HexClad 'cause they actually sent me this one, which is super dope. I'm gonna use that today to make pancakes, but I think non-toxic cookware should be a staple in every single Airbnb, so we decided we're gonna add it to ours. I'm curious, especially about this last one, the non-toxic cookware thing." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
 
 # T_C-k_tvBJILK_07
 
-"All right, come with me 'cause this last one's kind of crazy, maybe a little bit controversial, but if you travel a lot and if you care about your health, you're gonna really appreciate this one. As crazy as it sounds, we're doing completely non-toxic cookware." — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md
+"When you heat it up, it actually puts that stuff in your food, and then that stays in your body for years. There's plenty of studies about this, but I wonder, do you think it's gonna be appreciated by the people who stay here that we upgraded to some expensive but very worth it non-toxic cookware?" — sources/S_ig_thetravisstephenson_C-k_tvBJILK.md

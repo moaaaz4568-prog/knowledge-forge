@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DVy-G9fCgxl_02
 
-"The platform that I chose to dominate is Instagram. Post every single day. I post eight times a day, and if you want to be making $100,000 a month, you got to be posting a minimum of three times per day. To get ideas, make a list of keywords in your niche like this. Search these on TikTok and Instagram and save the most hundred viral videos. Use those hooks and insert your own unique value." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"And you can do this with an app called Sandcastles AI. You can actually plug the video into Sandcastles AI and it will give you a structure for the video script and it will do the majority of the work for you. Every week, sit down for at least 30 minutes and review what's working and you're gonna double down on that style of content. Step two is conversion." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
 
 # T_DVy-G9fCgxl_03
 
-"And you can do this with an app called Sandcastles AI. You can actually plug the video into Sandcastles AI and it will give you a structure for the video script and it will do the majority of the work for you. Every week, sit down for at least 30 minutes and review what's working and you're gonna double down on that style of content. Step two is conversion." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"Two, to get leads, you want to put a call to action in your bio, a link to your application, and you also want to put a CTA on the majority of your videos that look like this. Make sure you're following me and comment with the word viral and I'll send you a training so you can learn how to create better content." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
 
 # T_DVy-G9fCgxl_04
 
-"Conversion is turning all the followers, leads, and DMs you get into paying clients. There's four steps to do this. Optimize your bio and your profile to make sure your messaging speaks to one specific person. For example, dads over 40 that want to get back into their high school bodies." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"Now you need to actually book sales calls. So if you're solo, you're gonna spend a minimum of two hours per day interacting with people in your content and taking those conversations and booking them in for sales calls. However, to scale to $100,000 a month, you're going to need to build a team." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
 
 # T_DVy-G9fCgxl_05
 
-"Two, to get leads, you want to put a call to action in your bio, a link to your application, and you also want to put a CTA on the majority of your videos that look like this. Make sure you're following me and comment with the word viral and I'll send you a training so you can learn how to create better content." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"You need to block off 45 minutes per day, five days a week, to train your setters on how to DM efficiently so you can book more sales calls. Step three is retention. Retention means keeping clients to maximize lifetime value and it's the most important step. There's four components to this. One, onboard clients properly using this flow right here." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
 
 # T_DVy-G9fCgxl_06
 
-"Or like this, make sure you're following me and comment or DM 100K and I'll reach out to you to see if I can help. And delete all of your Instagram stories at least twice a week and post a hard call to action and a soft call to action. Hard call to action looks like this, directly asking for clients. Soft call to action looks like this, where it's indirect and you're giving away a lead magnet." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"If somebody doesn't get their check-in in, do not update their plan and let them know that they need to check in every single week. Three, hire assistant coaches to help you manage your client load because once you scale past 70 clients, you can't do it all yourself." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
 
 # T_DVy-G9fCgxl_07
 
-"Now you need to actually book sales calls. So if you're solo, you're gonna spend a minimum of two hours per day interacting with people in your content and taking those conversations and booking them in for sales calls. However, to scale to $100,000 a month, you're going to need to build a team." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md
+"And if you want to watch a free 60-minute training where I talk about how to scale to 100K a month, make sure you're following me and comment with the word 100 and I'll send it over to you." — sources/S_ig_therealbrianmark_DVy-G9fCgxl.md

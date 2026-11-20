@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DYuT1VfKtOD_02
 
-"This is why people are not following you, and this is why people are not buying. The second thing you need is an Instagram following that is growing. If your following is not growing and you're not getting a new audience full of people, that means you're repeating the same offer to the same people over and over and over again." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"So despite what you've learned from any other business mentor, if your Instagram following isn't growing, you're. Now there's two different ways to grow your Instagram following. Number one is obviously optimizing your content, which I'm going to talk about in a second. And number two is follower ads, which I'm going to talk about in a second." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
 
 # T_DYuT1VfKtOD_03
 
-"So despite what you've learned from any other business mentor, if your Instagram following isn't growing, you're. Now there's two different ways to grow your Instagram following. Number one is obviously optimizing your content, which I'm going to talk about in a second. And number two is follower ads, which I'm going to talk about in a second." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"Number three, to grow your Instagram account, I teach my clients the 50-50 content code. 50% of the content on your Instagram page is awareness-based content like this one where I talk about how I didn't meet my dad. So I didn't meet my dad until I was 26 years old. My mom had me when she was 17. Now this video is not going to sign me clients directly because it's not speaking to my avatar." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
 
 # T_DYuT1VfKtOD_04
 
-"Number three, to grow your Instagram account, I teach my clients the 50-50 content code. 50% of the content on your Instagram page is awareness-based content like this one where I talk about how I didn't meet my dad. So I didn't meet my dad until I was 26 years old. My mom had me when she was 17. Now this video is not going to sign me clients directly because it's not speaking to my avatar." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"Now your page goes viral with the awareness content and those people see your conversion content. Now the fourth thing that you need to have in place is you need to have follower ads going. These are ads that are specifically designed to get your ideal client to follow you. And no, this doesn't just mean you should quote unquote boost a post." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
 
 # T_DYuT1VfKtOD_05
 
-"However, this video got me over 8, 000 followers, and now those 8, 000 followers are going to see my conversion content. 50% of the content on your page is conversion-based content, which is highly targeted messaging towards your ideal client like this. Online training versus in-person training, what's better? Let's break it down." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"And I know that sounds like a lot of work if you're getting three to 400 followers a day, but if you want to make money, do it, right? Now, if you're making over $10, 000 a month, you can hire a virtual assistant from the Philippines or from Honduras to do it for $650 a month plus a small commission." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
 
 # T_DYuT1VfKtOD_06
 
-"Now your page goes viral with the awareness content and those people see your conversion content. Now the fourth thing that you need to have in place is you need to have follower ads going. These are ads that are specifically designed to get your ideal client to follow you. And no, this doesn't just mean you should quote unquote boost a post." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"But if you're under $10, 000 a month, you should be DMing every follower that comes in if you want to get to 10 sales calls a week. Brian, that sounds like so exhausting. It might be exhausting, but guess what feels fun? Making $15, 000 a month. So maybe you should just do it. And the last thing you need to have in place if you want to book 10 sales calls a week is running conversion events." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
 
 # T_DYuT1VfKtOD_07
 
-"You need to choose a post that's highly targeted towards your ideal client avatar and then put that post in front of the right audience. The fifth thing you need to have in place if you want to book 10 sales calls a week is you need to DM every follower that comes in." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md
+"Now if you want some help getting your business to a place where you're booking 10 sales calls a week, comment or DM me 10K and I'll reach out to you to see if I can help." — sources/S_ig_therealbrianmark_DYuT1VfKtOD.md

@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DVwMtOqimE3_02
 
-"Yeah, because if you went to McDonald's, she would know that you're cheap and she wouldn't love you very much. And the steakhouse is gonna have premium service with premium quality. So if you're looking for a cheap option, I can refer you to some of my cheaper competitors. But if you want a premium service with guaranteed results, this is it." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"Yeah, I think I'm just gonna need some time to think about it. Yeah, totally understand that you need to think about it. So how about you just take the day to think about it and then you can get back to me, honestly, whenever. Like you can get back to me next week, next month, next year. I got tons of free time on my calendar. Thanks for being honest with me, Nick." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
 
 # T_DVwMtOqimE3_03
 
-"Yeah, I think I'm just gonna need some time to think about it. Yeah, totally understand that you need to think about it. So how about you just take the day to think about it and then you can get back to me, honestly, whenever. Like you can get back to me next week, next month, next year. I got tons of free time on my calendar. Thanks for being honest with me, Nick." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"So like what exactly is it that you need to think about? Well, typically speaking, when I'm on these calls, it's usually the timing, the finances, or it just feels like a big decision. Which one of those is that for you? Okay, fantastic. So it just sounds like it's a big decision. So just putting that to the side for a second, are you 100% confident in the program that I offered to you? Yes." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
 
 # T_DVwMtOqimE3_04
 
-"So like what exactly is it that you need to think about? Well, typically speaking, when I'm on these calls, it's usually the timing, the finances, or it just feels like a big decision. Which one of those is that for you? Okay, fantastic. So it just sounds like it's a big decision. So just putting that to the side for a second, are you 100% confident in the program that I offered to you? Yes." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"And so what I'm willing to do is I'm willing to offer you a full money back guarantee, which basically means if you take the action right now and you join this coaching program, and for whatever reason you don't get the result that you were promised, I'll send you back every single dollar that you paid, and I'll also give you $20 for pizza. How does that sound? Sounds good." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
 
 # T_DVwMtOqimE3_05
 
-"So you're confident that the program would actually be able to get you the results? Yes. So you like me, you like the program, it's just the fact that you're scared to make the big decision, is that right? Right, well, like honestly, if you weren't scared to make this decision, it would mean that you didn't care." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"Does your wife actually know that we're speaking today? Okay, perfect. And typically speaking, is she supportive of your goals? Like she wants you to win? Okay, I love that. Yeah, I have a partner that I run things by myself. So if your wife did have any sort of objection to you moving forward today, what do you think that objection would be? Okay, so it would just be the financial aspect. Got it." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
 
 # T_DVwMtOqimE3_06
 
-"And so what I'm willing to do is I'm willing to offer you a full money back guarantee, which basically means if you take the action right now and you join this coaching program, and for whatever reason you don't get the result that you were promised, I'll send you back every single dollar that you paid, and I'll also give you $20 for pizza. How does that sound? Sounds good." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"And putting the finances to the side for a second, Nick, how do you feel about the program? Like are you confident based on everything that I presented to you that this program will work? You're confident based off the testimonials that we could get you those results. So you like me, you like the program, it's just about making the finances work, is that correct?" — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
 
 # T_DVwMtOqimE3_07
 
-"I think I just need to talk to my wife about this though. Okay, so your wife. Yeah, yeah, I have a wife too. Okay, so you need to talk to your wife. Yeah, yeah, take some time, talk to your wife, make sure that she likes it, make sure that you're still good, and if you're still good and I'm good, then we can talk later. Sound good? Thanks so much for being honest with me, Nick." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md
+"Bro, where the did you learn that? Bro, just come up with the word sales and I'll send you a full PDF on how to overcome every single objection." — sources/S_ig_therealbrianmark_DVwMtOqimE3.md

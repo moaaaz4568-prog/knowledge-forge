@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DMq-RoGSJ3F_04
 
-"I want to show you all the transformations, all the testimonials, all the clients that we've worked with. If you even go to the thank you page when you book the call, you're gonna be able to see client social media profiles actually linked. So at the end of the day, you shouldn't trust anyone. You should trust the results that people are able to provide." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
+"At PT Domination, we've been around for the last seven years. You don't exist as a company for seven years unless you're providing an amazing service that people actually get value from. Otherwise we would have dissipated, would have faded into the ether and nobody would have gotten results from working with us and that would have been the end of us." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
 
 # T_DMq-RoGSJ3F_05
 
-"At PT Domination, we've been around for the last seven years. You don't exist as a company for seven years unless you're providing an amazing service that people actually get value from. Otherwise we would have dissipated, would have faded into the ether and nobody would have gotten results from working with us and that would have been the end of us." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
+"But the reason that we've been around for the last seven years is we've helped 11, 500 coaches get results that they're looking for inside of their coaching business. So at the end of the day, like I think you just need to look in the mirror and ask yourself what results you're after." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
 
 # T_DMq-RoGSJ3F_06
 
-"But the reason that we've been around for the last seven years is we've helped 11, 500 coaches get results that they're looking for inside of their coaching business. So at the end of the day, like I think you just need to look in the mirror and ask yourself what results you're after." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
+"And if you're looking for a business coach that knows how to scale businesses, that knows how to post content, that knows how to go viral, that knows how to sign clients and knows how to get you to sign clients, and you're looking for tangible specific results in your coaching business, then we are the coach for you. We are the business mentors for you." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
 
 # T_DMq-RoGSJ3F_07
 
-"And if you're looking for a business coach that knows how to scale businesses, that knows how to post content, that knows how to go viral, that knows how to sign clients and knows how to get you to sign clients, and you're looking for tangible specific results in your coaching business, then we are the coach for you. We are the business mentors for you." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md
+"At the end of the day, you don't know who to trust, so you shouldn't trust anyone. The only thing you should trust is the results that we're gonna get you for your coaching business." — sources/S_ig_therealbrianmark_DMq-RoGSJ3F.md

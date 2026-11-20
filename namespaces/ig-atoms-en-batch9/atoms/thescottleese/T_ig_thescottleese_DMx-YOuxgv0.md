@@ -19,16 +19,16 @@ location: instagram/thescottleese
 
 # T_DMx-YOuxgv0_04
 
-"The next one is they have sought out and implemented feedback really, really well. Founders and companies that don't tend to do well are the ones that think they know how to do everything themselves or they ask for feedback and then tell you that you're wrong and they don't implement that feedback." — sources/S_ig_thescottleese_DMx-YOuxgv0.md
+"The successes that I've been a part of, these founders want your feedback, they want your advice, they know what they don't know and they're just looking for a little bit of guidance. And once you give them that guidance, bang, off they go and they're running with it." — sources/S_ig_thescottleese_DMx-YOuxgv0.md
 
 # T_DMx-YOuxgv0_05
 
-"The successes that I've been a part of, these founders want your feedback, they want your advice, they know what they don't know and they're just looking for a little bit of guidance. And once you give them that guidance, bang, off they go and they're running with it." — sources/S_ig_thescottleese_DMx-YOuxgv0.md
+"And the last thing that I would say that is a throughput with all these companies is they have done an exceptional job of hiring sales talent and sales leadership in particular. Not just a CRO or a VP of sales, but that middle manager, those sales managers, the VPs of sales of tomorrow and developing that talent from SDR to AE to that sales management level." — sources/S_ig_thescottleese_DMx-YOuxgv0.md
 
 # T_DMx-YOuxgv0_06
 
-"And the last thing that I would say that is a throughput with all these companies is they have done an exceptional job of hiring sales talent and sales leadership in particular. Not just a CRO or a VP of sales, but that middle manager, those sales managers, the VPs of sales of tomorrow and developing that talent from SDR to AE to that sales management level." — sources/S_ig_thescottleese_DMx-YOuxgv0.md
+"You're hoping that this company and this founder is gonna take them to success. Figure out these three things. Do they have a strong sense of urgency? Do they shrink the delta between idea and action? Do they seek out and implement feedback or do they avoid it? And do they have a really, really killer sales management layer?" — sources/S_ig_thescottleese_DMx-YOuxgv0.md
 
 # T_DMx-YOuxgv0_07
 
-"You're hoping that this company and this founder is gonna take them to success. Figure out these three things. Do they have a strong sense of urgency? Do they shrink the delta between idea and action? Do they seek out and implement feedback or do they avoid it? And do they have a really, really killer sales management layer?" — sources/S_ig_thescottleese_DMx-YOuxgv0.md
+"Those are the three things that I would say are most common amongst the companies that have had exits that I've been a part of." — sources/S_ig_thescottleese_DMx-YOuxgv0.md

@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DQ7fJm_Ehxu_04
 
-"I know for a fact I'm gonna be successful. I know for a fact success is inevitable. And I know for a fact that nothing can stand in my fucking way. That is the level of conviction, that is the level of belief, that is the level of certainty that you must walk around with if you want to be successful." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
+"And everybody says that you need to believe in yourself, but people don't fucking believe in themselves, so it's hard for them to communicate the message in a way that actually lands or resonates. I want you to understand, I believe. I believe in myself, I believe in my mission, I believe in my purpose." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
 
 # T_DQ7fJm_Ehxu_05
 
-"And everybody says that you need to believe in yourself, but people don't fucking believe in themselves, so it's hard for them to communicate the message in a way that actually lands or resonates. I want you to understand, I believe. I believe in myself, I believe in my mission, I believe in my purpose." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
+"I believe and I know with conviction and certainty that if you have this level of conviction and belief, that you can move through mountains and burst down walls and break through barriers. And I know with certainty and conviction that if I can communicate this message to you, and I can tell you that all you have to do is fucking believe in yourself." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
 
 # T_DQ7fJm_Ehxu_06
 
-"I believe and I know with conviction and certainty that if you have this level of conviction and belief, that you can move through mountains and burst down walls and break through barriers. And I know with certainty and conviction that if I can communicate this message to you, and I can tell you that all you have to do is fucking believe in yourself." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
+"Believe in yourself so much that you drown out the noise of all the uncertainty of everybody else. Believe in yourself so much that you're willing to cut off anybody that doesn't support you. Believe in yourself so much that it doesn't matter what anybody says about you. You fucking know you're gonna be successful." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
 
 # T_DQ7fJm_Ehxu_07
 
-"Believe in yourself so much that you drown out the noise of all the uncertainty of everybody else. Believe in yourself so much that you're willing to cut off anybody that doesn't support you. Believe in yourself so much that it doesn't matter what anybody says about you. You fucking know you're gonna be successful." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md
+"When you get to that level of conviction and self-belief, nothing, and I mean nothing, not a force on this planet, not a fucking, not an obstacle from the outside world, nothing can stand in the way between you and your success. Anything is possible, baby. You just gotta believe." — sources/S_ig_therealbrianmark_DQ7fJm_Ehxu.md

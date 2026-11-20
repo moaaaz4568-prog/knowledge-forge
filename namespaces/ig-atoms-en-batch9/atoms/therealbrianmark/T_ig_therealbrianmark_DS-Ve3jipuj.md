@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DS-Ve3jipuj_03
 
-"You got to learn how to turn off all the negative thoughts and just get yourself out of bed and get yourself taking the action, get yourself doing the thing. And in the moment of doing the thing and when you get yourself to do the thing, you feel that sense of accomplishment and pride. And so you do it over and over and over again." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
+"And on the moments where you feel like you don't want to get out of bed, you don't want to do the thing, you don't want to push yourself to go to the gym, to post on social media, to take the next step, you do it anyways because you want to be successful. I've worked with 12, 000 personal trainers in the last eight years." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
 
 # T_DS-Ve3jipuj_04
 
-"And on the moments where you feel like you don't want to get out of bed, you don't want to do the thing, you don't want to push yourself to go to the gym, to post on social media, to take the next step, you do it anyways because you want to be successful. I've worked with 12, 000 personal trainers in the last eight years." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
+"Out of the 12, 000 personal trainers, I've only helped 38 of them hit $100, 000 a month. Why is that? Is it because the other 11, 000 didn't have the talent? Is it because the 11, 000 didn't have the ability? Is it because the 11, 000 didn't have the skill set? No, they didn't possess the mindset. They didn't decide that they were going to be successful." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
 
 # T_DS-Ve3jipuj_05
 
-"Out of the 12, 000 personal trainers, I've only helped 38 of them hit $100, 000 a month. Why is that? Is it because the other 11, 000 didn't have the talent? Is it because the 11, 000 didn't have the ability? Is it because the 11, 000 didn't have the skill set? No, they didn't possess the mindset. They didn't decide that they were going to be successful." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
+"They didn't decide that they were willing to go all in. They didn't decide that they were willing to let go of all of their excuses and all of the reasons why they can't be successful. 2026 can be your year, but in order for it to be your year, you need to stop believing your own bullshit, believing your own lies, believing the reasons that you can't succeed." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
 
 # T_DS-Ve3jipuj_06
 
-"They didn't decide that they were willing to go all in. They didn't decide that they were willing to let go of all of their excuses and all of the reasons why they can't be successful. 2026 can be your year, but in order for it to be your year, you need to stop believing your own bullshit, believing your own lies, believing the reasons that you can't succeed." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
+"Every day the sun comes up and every day you get an opportunity. So take this moment, the start of a new year, as an opportunity for you to truly have reverence for the fact that time is passing. And make the commitment that this is the year that you fully commit. This is the year that you stop making excuses. This is the year that you go all in to achieve your dreams." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
 
 # T_DS-Ve3jipuj_07
 
-"And you need to start listening to that inner voice, that fucking, that thing that's inside of you right now that's setting some big goals for 2026. 2026 is a beautiful opportunity because the start of a brand new year makes everybody in the world conscious of the fact that time is passing. But every day time is passing. Every day the sun goes down." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md
+"So by the time the end of 2026 happens, you're proud of the person looking back at you in the mirror." — sources/S_ig_therealbrianmark_DS-Ve3jipuj.md

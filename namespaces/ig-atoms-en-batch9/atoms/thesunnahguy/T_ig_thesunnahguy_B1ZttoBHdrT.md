@@ -19,16 +19,16 @@ location: instagram/thesunnahguy
 
 # T_B1ZttoBHdrT_04
 
-"I'm not going to take it now, but I want your number so I can get eventually where we can arrange a bike for you. I know, but I'm saying I'll let you, since I know it's for work, I'm willing to let you continue to borrow it as long as we keep in touch and then we'll find you a bike." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
+"Because I have a bike at home I'm working on, so once I get that one going, then I'll be fine to let you have it, but I just can't let it go by. So if you have a number and we'll exchange numbers right now and I'm fine, dude. I didn't mean to come in yelling, it just pissed me off, you know. So. . . Right now since it was stolen, I grabbed a hard rock frame and I'm trying to build that up. Just. ." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
 
 # T_B1ZttoBHdrT_05
 
-"Because I have a bike at home I'm working on, so once I get that one going, then I'll be fine to let you have it, but I just can't let it go by. So if you have a number and we'll exchange numbers right now and I'm fine, dude. I didn't mean to come in yelling, it just pissed me off, you know. So. . . Right now since it was stolen, I grabbed a hard rock frame and I'm trying to build that up. Just. ." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
+". Because your man's my man, by the way, man. I need to come in ripping on you, all right? So my number is 5. . . Oh, I don't think this one. Oh, I'm sorry, dude. This one, I'm sorry, brother. Man, it's the second time I built that out of thin ground. Ride pretty good though, huh? I mean, no, I'm sorry. Man, yeah, that sucks. I don't know who's. . . By the way, not to. . . Because he. . ." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
 
 # T_B1ZttoBHdrT_06
 
-". Because your man's my man, by the way, man. I need to come in ripping on you, all right? So my number is 5. . . Oh, I don't think this one. Oh, I'm sorry, dude. This one, I'm sorry, brother. Man, it's the second time I built that out of thin ground. Ride pretty good though, huh? I mean, no, I'm sorry. Man, yeah, that sucks. I don't know who's. . . By the way, not to. . . Because he. . ." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
+"He be wonderful. Well, he stole it from me the first time. He's my good friend. He came over my house and then I go to my buddy's house the next day and I'm like, why is my bike here? Like, I didn't really steal from you. I go down the street and I'm like, oh, it was really. . . Hop on my horse and you'd tow down the street. Hey, broke into Mike Anderson's car. Oh yeah, yeah, yeah. Full cop bike." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
 
 # T_B1ZttoBHdrT_07
 
-"He be wonderful. Well, he stole it from me the first time. He's my good friend. He came over my house and then I go to my buddy's house the next day and I'm like, why is my bike here? Like, I didn't really steal from you. I go down the street and I'm like, oh, it was really. . . Hop on my horse and you'd tow down the street. Hey, broke into Mike Anderson's car. Oh yeah, yeah, yeah. Full cop bike." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md
+"He's in jail seven days. I'm sorry, I'm sorry to come yelling into you guys at the store, by the way, man. All right." — sources/S_ig_thesunnahguy_B1ZttoBHdrT.md

@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DW2HnxJkh0A_04
 
-"And sometimes that includes identity labeling, like you are a busy mom over 35, etc. So long story short, I stopped doing that with my content as much, and as a result, I was booking more sales calls, but the conversion rate went down because I was getting a lot of donkeys on the calls." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
+"So instead, what I did is I told my team we are completely shifting our content strategy, and the only things that we're posting on our page is content that will be relatable to personal trainers that are trying to grow a business." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
 
 # T_DW2HnxJkh0A_05
 
-"So instead, what I did is I told my team we are completely shifting our content strategy, and the only things that we're posting on our page is content that will be relatable to personal trainers that are trying to grow a business." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
+"Some of the content that we post on the page can still be relatable to people outside of the personal training industry, but all of the content on my page now is relatable specifically to personal trainers that are trying to grow their business." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
 
 # T_DW2HnxJkh0A_06
 
-"Some of the content that we post on the page can still be relatable to people outside of the personal training industry, but all of the content on my page now is relatable specifically to personal trainers that are trying to grow their business." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
+"As a result of this, yes, we're only getting 20 million views every 30 days, but our new cash collected increased by $250, 000 because I stopped focusing on getting views and I started focusing on creating content that converts clients." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
 
 # T_DW2HnxJkh0A_07
 
-"As a result of this, yes, we're only getting 20 million views every 30 days, but our new cash collected increased by $250, 000 because I stopped focusing on getting views and I started focusing on creating content that converts clients." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md
+"Now if you want a full training on exactly how to create content that converts clients, make sure you follow me and come up with the word game, and I'll send it over to you. I just recorded a new YouTube video to teach you how to do this with AI." — sources/S_ig_therealbrianmark_DW2HnxJkh0A.md

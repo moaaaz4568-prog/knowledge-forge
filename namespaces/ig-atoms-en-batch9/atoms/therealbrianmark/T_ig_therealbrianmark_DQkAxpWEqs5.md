@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DQkAxpWEqs5_03
 
-"You need to look at your calendar and honestly ask yourself, what am I spending time on that can be 100% delegated or outsourced to somebody else that is a minimum wage task? Examples of this would be sending DMs every single day. Examples of this would be scheduling a post in your community. Examples of this would be day-to-day messaging with your clients." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
+"If it can be outsourced or delegated, do it so that you can get time back in your calendar and you can focus on scaling. Number two is to hire slow and fire fast." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
 
 # T_DQkAxpWEqs5_04
 
-"If it can be outsourced or delegated, do it so that you can get time back in your calendar and you can focus on scaling. Number two is to hire slow and fire fast." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
+"What I mean by this is yes, you can go make a job posting and bring on a virtual assistant or somebody help you out with your company, but you need to take a significant amount of time, 30 minutes a day, five days a week, training this person until they are competent and good at their job." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
 
 # T_DQkAxpWEqs5_05
 
-"What I mean by this is yes, you can go make a job posting and bring on a virtual assistant or somebody help you out with your company, but you need to take a significant amount of time, 30 minutes a day, five days a week, training this person until they are competent and good at their job." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
+"Most coaches don't have a framework or an understanding of how to do this, so they hire somebody, they give them a job description, they're like, have fun. But then you end up running in there to save them every single time they drop the ball and you have to pick up the slack." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
 
 # T_DQkAxpWEqs5_06
 
-"Most coaches don't have a framework or an understanding of how to do this, so they hire somebody, they give them a job description, they're like, have fun. But then you end up running in there to save them every single time they drop the ball and you have to pick up the slack." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
+"As you're hiring team and scaling your business, it's super f*** important to make sure that your profit margins are at least 60% or higher with your coaching business, which is why to scale to $100,000 a month takes a methodical approach. Business is about solving the right problem at the right time so that you remove time constraint and you add more revenue to the business." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
 
 # T_DQkAxpWEqs5_07
 
-"So hire slow and train properly, and if somebody isn't demonstrating competence within the first one to two weeks, fire them and listen to your gut. Number three, profit margins over revenue." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md
+"This is exactly how I've helped my clients generate $100,000 plus months, as you can see from all these screenshots. If you want some help scaling your fitness business to 100K a month, comment or DM me 100K and I'll reach out to you to see if I can help." — sources/S_ig_therealbrianmark_DQkAxpWEqs5.md

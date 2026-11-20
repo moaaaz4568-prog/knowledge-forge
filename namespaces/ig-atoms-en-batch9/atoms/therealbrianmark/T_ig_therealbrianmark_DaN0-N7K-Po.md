@@ -15,20 +15,20 @@ location: instagram/therealbrianmark
 
 # T_DaN0-N7K-Po_03
 
-"Why are your brothers and sisters white and you're black? That's not your actual sister." — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
+"Finally, one day she just looked at me and she's" — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
 
 # T_DaN0-N7K-Po_04
 
-"Finally, one day she just looked at me and she's" — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
+"Your dad died in a car crash in Africa. Stop asking me stupid questions." — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
 
 # T_DaN0-N7K-Po_05
 
-"Your dad died in a car crash in Africa. Stop asking me stupid questions." — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
+"I remember like feeling so fucking broken and angry. So I just started screaming and crying and screaming and crying. My mom's" — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
 
 # T_DaN0-N7K-Po_06
 
-"I remember like feeling so fucking broken and angry. So I just started screaming and crying and screaming and crying. My mom's" — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
+"If you don't come pick this kid up right now, I'm sending him to foster care. I'm done with this kid." — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
 
 # T_DaN0-N7K-Po_07
 
-"She goes into the kitchen, she calls my grandma and she" — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md
+"She packs all of my shit into two garbage bags. My grandma comes to the front door, she knocks, she grabs both garbage bags, and that was the last time I lived with my mom. I hated my mom for what she did to me." — sources/S_ig_therealbrianmark_DaN0-N7K-Po.md

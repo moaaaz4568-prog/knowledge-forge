@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DY7xsVVhat8_02
 
-"So what we did is we actually went out to a bunch of different dealership. And I walked into this one dealership and I told the guy, I was" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"Listen, I'm looking for a luxury SUV, you know?" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
 
 # T_DY7xsVVhat8_03
 
-"Listen, I'm looking for a luxury SUV, you know?" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"Okay, so let me just first show you these trucks that we have right here." — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
 
 # T_DY7xsVVhat8_04
 
-"So this guy takes us out to the lot and he's" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"So I ended up walking into Porsche and I was" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
 
 # T_DY7xsVVhat8_05
 
-"Okay, so let me just first show you these trucks that we have right here." — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"Yo, you look like the kind of guy that would like a car that we're about to get. You know, you mentioned that you're looking for something, you know, luxury and exclusive and fancy." — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
 
 # T_DY7xsVVhat8_06
 
-"Dude, this like, this guy isn't fucking listening to what I say. Like, I literally told this dude I'm looking for a luxury SUV and the first thing that you show me is a truck." — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"And then he sends me a link to the car. I look at it, me and Kirsten leave. So on the drive home, I look at Kirsten, I'm" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
 
 # T_DY7xsVVhat8_07
 
-"So I ended up walking into Porsche and I was" — sources/S_ig_therealbrianmark_DY7xsVVhat8.md
+"So in sales, you need to pay attention to exactly what the prospect is saying and give them exactly what they're looking for or they might just walk off the lot." — sources/S_ig_therealbrianmark_DY7xsVVhat8.md

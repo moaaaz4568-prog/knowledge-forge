@@ -11,24 +11,24 @@ location: instagram/therealbrianmark
 
 # T_DbKjB5kqQ1C_02
 
-"That's emotional pain and you need to amplify it. Okay, so how long have you been struggling with this specific thing? Three years? Damn, that's a long time. And like, why are you even interested in making a change now? Like obviously it's been three years. Like why don't you just keep kicking the can down the road? Now some prospects will not give you emotional pains, you have to go for logical." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"Okay, Nick, so you mentioned you've been trying to get this started for the last three years. All right, and like how much time have you put into trying to get this started? Would you say five to seven hours a week? Okay, and in five to seven hours a week you haven't made any progress." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
 
 # T_DbKjB5kqQ1C_03
 
-"Okay, Nick, so you mentioned you've been trying to get this started for the last three years. All right, and like how much time have you put into trying to get this started? Would you say five to seven hours a week? Okay, and in five to seven hours a week you haven't made any progress." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"Now a lot of prospects when they get on the call will not have the ability to create a crystal clear vision 'cause they won't have imagined what their life looks like without the problem solved. So you have to help them paint that. Nick, let's just pretend in six months time from now everything goes perfectly and you get exactly the result that you're looking for. How would that make you feel?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
 
 # T_DbKjB5kqQ1C_04
 
-"Damn, so you're telling me that you've been working for the last three years, five to seven hours a week and you haven't made any progress. Dude, that's a lot. How does that make you feel? Step number two, a crystal clear vision." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"All right, so Nick, like now that I know exactly what you want and I know where you are, why do you feel like you haven't been able to achieve this on your own? And like what has actually held you back from achieving the success on your own and why do you feel like you need some support? And Nick, I just gotta ask, what happens if nothing changes?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
 
 # T_DbKjB5kqQ1C_05
 
-"Now a lot of prospects when they get on the call will not have the ability to create a crystal clear vision 'cause they won't have imagined what their life looks like without the problem solved. So you have to help them paint that. Nick, let's just pretend in six months time from now everything goes perfectly and you get exactly the result that you're looking for. How would that make you feel?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"All right, Nick, so listen, I'm 100% confident I can help you, but I gotta ask you, Nick, like what happens if you get off this call and nothing changes? Like what happens if you keep going down the road for the next three years and you don't take any sort of action and you don't make a change? Have you actually considered what you want December of this year to look like?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
 
 # T_DbKjB5kqQ1C_06
 
-"And like what would you actually do to celebrate that? And I want you to close your eyes for a second and literally imagine what it would feel like to be in the place that you wanna be. How would your life be better or different? And like what would that actually mean to you though to achieve that result? Now that we've got the pain and the vision, step number three is we need to widen the gap." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"Nick, I gotta say like I'm 100% confident I can help you, but at the end of the day it comes down to you putting in the work. And so knowing that, like how important is this for you to actually make a change right now? Like on a scale of one to 10, eight. I got a problem with an eight. Like why is it an eight and not a 10?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
 
 # T_DbKjB5kqQ1C_07
 
-"All right, so Nick, like now that I know exactly what you want and I know where you are, why do you feel like you haven't been able to achieve this on your own? And like what has actually held you back from achieving the success on your own and why do you feel like you need some support? And Nick, I just gotta ask, what happens if nothing changes?" — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md
+"And so if I give you the plan to follow, are you gonna follow that plan with an eight out of 10 effort level or are you gonna follow that plan with a 10 out of 10 effort level? Oh, it's a 10? Okay, that's great. Now you can roll into the pitch and now you can close. If you wanna learn exactly how to close more deals, make sure you follow me and comment sales and I'll send you a free training." — sources/S_ig_therealbrianmark_DbKjB5kqQ1C.md

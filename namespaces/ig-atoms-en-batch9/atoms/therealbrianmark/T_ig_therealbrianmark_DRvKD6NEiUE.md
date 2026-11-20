@@ -19,16 +19,16 @@ location: instagram/therealbrianmark
 
 # T_DRvKD6NEiUE_04
 
-"Yo, you might have some questions about the coaching call, the program itself. If you scroll below, you're gonna see some frequently asked questions that a lot of my potential clients ask me about the coaching program. We send a confirmation thank you page and we're" — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
+"Yo, once you're done watching those videos, come back to the chat and say done. I've got a bonus surprise for you. I've also got this 30 minute training that I recorded and it's gonna teach you exactly how to grow your online coaching business. Do me a favor and watch this before your call, and once you're done, come back to the chat and let me know your takeaways." — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
 
 # T_DRvKD6NEiUE_05
 
-"Yo, once you're done watching those videos, come back to the chat and say done. I've got a bonus surprise for you. I've also got this 30 minute training that I recorded and it's gonna teach you exactly how to grow your online coaching business. Do me a favor and watch this before your call, and once you're done, come back to the chat and let me know your takeaways." — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
+"And in the morning of the call, I send a voice note and I'm" — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
 
 # T_DRvKD6NEiUE_06
 
-"And in the morning of the call, I send a voice note and I'm" — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
+"Yo, what's going on? Hope you're having the best day of your entire life. Just checked the calendar, saw we're booked in for a quick 30 minute call. I'm super excited. I've got you on with my head of client services, Luke. He's amazing. You guys are gonna cover three main things. Number one, your biggest struggle in your coaching business. Number two, your biggest goal." — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
 
 # T_DRvKD6NEiUE_07
 
-"Yo, what's going on? Hope you're having the best day of your entire life. Just checked the calendar, saw we're booked in for a quick 30 minute call. I'm super excited. I've got you on with my head of client services, Luke. He's amazing. You guys are gonna cover three main things. Number one, your biggest struggle in your coaching business. Number two, your biggest goal." — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
+"Number three, we are gonna help you come up with a game plan to achieve your goals. And like all of that combined, we treat them like humans, not transactions. We've got a post-call nurture booking process. We've got the confirmation page and the thank you videos. We've got the VSL and we have a voice note in the morning. All contributes to a 71% show rate." — sources/S_ig_therealbrianmark_DRvKD6NEiUE.md
