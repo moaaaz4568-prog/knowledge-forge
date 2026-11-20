@@ -1,0 +1,27 @@
+---
+type: glossary
+topic: jackblairofficial
+aka: [Blair jackblairofficial, jackblairofficial account context]
+origin: sources/S_igocr_jackblairofficial_DZUvp2JEV6x.md
+---
+
+# G_igocr_jackblairofficial_DZUvp2JEV6x — Blair jackblairofficial
+
+## Term
+
+"Blair jackblairofficial" is the most frequent repeated content term in this source (an Instagram OCR post from the jackblairofficial account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: jack, jackblairofficial, blair, treated. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- Blair jackblairofficial
+- jackblairofficial account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "MEHDI FAKHARZADEH CAME TO AMERICA BROKE, WITH A THICK ACCENT AND NO CONTACTS. HE BECAME METLIFE’S #1 SALESMAN OF ALL TIME OVER A 60 YEAR CAREER. HERE ARE THE 7 MOVES." — sources/S_igocr_jackblairofficial_DZUvp2JEV6x.md
+> "Jack Blair @jackblairofficial 2. He gave himself a quota of no's, not yes's. His first weeks were brutal, forty days going out every morning and coming home with nothing. So he stopped chasing the sale and started counting the rejections instead, treating every no as one paid step toward a yes the math guaranteed was coming. The fear left the moment the word no had a job to do." — sources/S_igocr_jackblairofficial_DZUvp2JEV6x.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "Blair jackblairofficial": the usage here is bounded to an OCR-transcribed Instagram carousel of 12 images from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
