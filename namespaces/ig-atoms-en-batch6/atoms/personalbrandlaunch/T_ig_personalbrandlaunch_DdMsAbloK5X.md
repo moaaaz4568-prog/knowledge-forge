@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DdMsAbloK5X.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DdMsAbloK5X_01
+
+"Got it, here's the raw transcript: What's the difference between telling a story and storytelling? Person A and Person B, what types of stories do you tell? I focus on one long and broad story. I choose one small story to focus on from one of these seven main storytelling types of shorts. And how do you write the details for these stories? I tell what happened. I like to show what happened." — sources/S_ig_personalbrandlaunch_DdMsAbloK5X.md
+
+# T_DdMsAbloK5X_02
+
+"How do you write out the whole story? My stories use the hook-value-CTA structure. My scripts use storytelling structures. Visually, how do you like to showcase these stories? My storytelling videos don't use any visuals. My videos include a ton of visuals—past images, past videos, B-roll, all of the above." — sources/S_ig_personalbrandlaunch_DdMsAbloK5X.md
+
+# T_DdMsAbloK5X_03
+
+"How do you film your storytelling videos? I film my storytelling videos just sitting down and talking to the camera. I film my storytelling videos with one of these three formats. These are the best ones for storytelling-type content. Follow more social media marketing education." — sources/S_ig_personalbrandlaunch_DdMsAbloK5X.md
