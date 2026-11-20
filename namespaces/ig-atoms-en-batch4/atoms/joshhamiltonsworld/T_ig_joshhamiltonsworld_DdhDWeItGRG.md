@@ -1,0 +1,34 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+location: instagram/joshhamiltonsworld
+---
+
+# T_DdhDWeItGRG_01
+
+"Day 21 of posting every day for 365 days. Field notes. Today's agenda is the content update, business constraints, and dealing with a book recommendation and regrets. If you wanna know why I'm doing this, watch this video or this video. Content first is eight posts this week. Most people track views. I'm just tracking who follows. It's 257 new followers this week." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_02
+
+"Now, with this content stuff, I have a business to run. So I've put constraints around the whole content thing. I just shoot one time per week, like I'm doing right now. Writing happens on just one morning per weekend. Looking back and reflecting on what happened that week. What am I working on? What's piquing my interest?" — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_03
+
+"I'm a big fan of establishing constraints around achieving objectives or developing skills, which is what this is. Right now, my priority is still making the moves we need to make within So Shall We, my agency, in order to two to three exit this year. And this organic is not tied to that directly, so it has to take a backseat. Now, moving on to business problems." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_04
+
+"When you're over 60 headcount like we are, I found things start to get a little bit disconnected. Culture kind of has to be reinforced. And between my partners and I, we wanted to inject some of that scrappy, in the trenches energy again. So we started running a 10 minute daily meeting called War Time. Each of us just commits to the one thing we're gonna have done within the next 24 hours." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_05
+
+"In our sales process, those calls need to remain constraint diagnosis and prescription of a solution. Anything to do with how we work, how our team works, who they're working with, what our processes are, all of that stuff can be sent to different stakeholders before those conversations ever happen." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_06
+
+"And the enablement hub is basically a representation of how I would prefer to be sold on the buyer side. So KPI on this is like certain larger deals can take up to six weeks to close right now, and I wanna constrain that down to around 10 days on average. My book recommendation of the week is The Algorithm by John McNeil." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md
+
+# T_DdhDWeItGRG_07
+
+"It's the five-step process optimization system that Elon Musk has kind of popularized in the past. I've heard the framework before, but my second biggest regret in business is not religiously implementing this five years ago." — sources/S_ig_joshhamiltonsworld_DdhDWeItGRG.md

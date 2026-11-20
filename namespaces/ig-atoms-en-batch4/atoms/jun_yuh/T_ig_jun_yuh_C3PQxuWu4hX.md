@@ -1,0 +1,10 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_jun_yuh_C3PQxuWu4hX.md
+location: instagram/jun_yuh
+---
+
+# T_C3PQxuWu4hX_01
+
+"Money trees is the perfect place for shade, and if that's your side chick." — sources/S_ig_jun_yuh_C3PQxuWu4hX.md
