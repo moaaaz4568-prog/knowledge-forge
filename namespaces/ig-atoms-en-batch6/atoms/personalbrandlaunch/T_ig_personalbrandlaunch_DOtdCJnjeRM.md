@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DOtdCJnjeRM.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DOtdCJnjeRM_01
+
+"if you had to go from zero to a million dollars in six months, how would you do it?" — sources/S_ig_personalbrandlaunch_DOtdCJnjeRM.md
+
+# T_DOtdCJnjeRM_02
+
+"Step one, I would go to the Instagram explore page, I would hit the search bar, I'd type in my niche and then I would click the reels tab and I would save a hundred videos over a million views. Step two, take the hooks from those videos and the general topic of those videos and I would write thirty scripts with those viral hooks but my own niche expertise as the value." — sources/S_ig_personalbrandlaunch_DOtdCJnjeRM.md
+
+# T_DOtdCJnjeRM_03
+
+"I would post those videos every single day on one account and I would just repeat that." — sources/S_ig_personalbrandlaunch_DOtdCJnjeRM.md
+
+# T_DOtdCJnjeRM_04
+
+"That over and over again until I got my first viral video. Step three, double down on that viral video, the hook that was used, the topic that was talked about, and I would just change the format up and I would just keep posting them and you will grow. Comment the word 'Ava' and we'll send you the full podcast." — sources/S_ig_personalbrandlaunch_DOtdCJnjeRM.md

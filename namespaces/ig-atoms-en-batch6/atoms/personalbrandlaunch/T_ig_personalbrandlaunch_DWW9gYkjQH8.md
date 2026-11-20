@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DWW9gYkjQH8.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DWW9gYkjQH8_01
+
+"Can you define what you see as fluff in most content? When I think of like fluff... if I'm a personal trainer and I'm giving advice... I'm like okay walk every day lift every day eat healthy... but like actionable value would be walk 10k steps every single day do this exact four-day split..." — sources/S_ig_personalbrandlaunch_DWW9gYkjQH8.md
+
+# T_DWW9gYkjQH8_02
+
+"and then like have them show the split for calories use this TDEE calculator online subtract two to three hundred calories that's your calorie deficit eat this every single day eat one... gramma protein per pound of body fat... It's very clear what they need to do... They want to save that stuff cause it's actually helpful... That's what I would say fluff versus real values..." — sources/S_ig_personalbrandlaunch_DWW9gYkjQH8.md
+
+# T_DWW9gYkjQH8_03
+
+"Comment the word Ava and we'll send you the full podcast." — sources/S_ig_personalbrandlaunch_DWW9gYkjQH8.md

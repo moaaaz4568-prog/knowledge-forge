@@ -12,8 +12,9 @@ Instagram English batch 6 (chat ig-atoms-en-batch6): 3,879 assigned codes (ig_ni
 | ig_olli.rasmussen_DTN4qF1Da-3 | no quotable span >=40 chars (whole text 44 chars, longest quote-free segment 44) |
 
 ## Fixed in fix round 2026-11-20 (192 — wrongly excluded by the old
-wrong rule, now restored with T_ files; S_ restored byte-identical from
-commit a44ad24fb)
+wrong rule, now restored with T_ files: 192 T_ files, 685 byte-exact
+quotes, 1-7 atoms each; S_ restored byte-identical from commit a44ad24fb;
+verified 100% byte-exact ws-fold, gates 3876 entities 0 rejected)
 
 | Code | Status |
 |---|---|
