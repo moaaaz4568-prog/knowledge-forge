@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_theaustinschneider_Dd7k7xyN2aR.md
+location: instagram/theaustinschneider
+---
+
+# T_Dd7k7xyN2aR_01
+
+"The most important system that you should have inside of your business is an onboarding system because the moment the client says yes is the moment that they have buyer's remorse. The moment that they start second-guessing themselves if they should actually work with you." — sources/S_ig_theaustinschneider_Dd7k7xyN2aR.md
+
+# T_Dd7k7xyN2aR_02
+
+"And if it takes two hours to get a contract and internally you're manually setting everything up, you are losing the client before you even started. What you need to do instead is create a form that you fill out that automatically sends a contract to the client. Once the contract is signed by the client and automatically sends them a welcoming email with a next step." — sources/S_ig_theaustinschneider_Dd7k7xyN2aR.md
+
+# T_Dd7k7xyN2aR_03
+
+"And inside of that email also has a link to the onboarding form. Once they filled the onboarding form then they get redirected to book an onboarding call. In the background you've got an AI employee that's setting everything up on the backend so you don't have to do that. Stop losing clients before you get them. Treat your business like a freaking business." — sources/S_ig_theaustinschneider_Dd7k7xyN2aR.md

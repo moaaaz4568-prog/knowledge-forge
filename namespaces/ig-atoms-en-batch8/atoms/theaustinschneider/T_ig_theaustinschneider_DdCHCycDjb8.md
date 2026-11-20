@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_theaustinschneider_DdCHCycDjb8.md
+location: instagram/theaustinschneider
+---
+
+# T_DdCHCycDjb8_01
+
+"Ranking the best ways to scale to $100k without being the bottleneck from 10 to 1. Number 10: saying yes to everything. This is the worst thing that you can do if you want to scale. Number 9 is hiring your friend. Don't hire somebody just because you trust them. That is not work in 2026. You need skill and fit, not just comfort. Number 8 is sending cold DMs." — sources/S_ig_theaustinschneider_DdCHCycDjb8.md
+
+# T_DdCHCycDjb8_02
+
+"It can get you a client here and there, but it is not scalable if it's you doing it every single day. Number 7 is having a custom offer. If every client gets something different, you..." — sources/S_ig_theaustinschneider_DdCHCycDjb8.md
