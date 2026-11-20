@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: vasyl._.pavliuk
+aka: [target, vasyl._.pavliuk account context]
+origin: sources/S_ig_vasyl._.pavliuk_DZoBwmRPKo5.md
+---
+
+# G_ig_vasyl._.pavliuk_DZoBwmRPKo5 — target
+
+## Term
+
+"target" is the most frequent repeated content term in this source (a transcribed Instagram video from the vasyl._.pavliuk account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: whole, icp, least, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- target
+- vasyl._.pavliuk account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "Do not drop a calendar link cold. Confirm the interest first. Do not use vague proof. Use specific result plus niche plus time frame. Do not skip your inbox warm up. Warm up your inboxes for four weeks at least. Do not target your whole ICP at once. Target one micro niche first, then expand." — sources/S_ig_vasyl._.pavliuk_DZoBwmRPKo5.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "target": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
