@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DZLFwFSqJXi.txt"
+words: 601
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DZLFwFSqJXi
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DZLFwFSqJXi.txt` — حساب: therealbrianmark — إنستجرام — فيديو DZLFwFSqJXi
+
+---
+
+Save this video because I'm gonna tell you exactly what to do on all of these platforms. Number one is TikTok. TikTok is where everything starts. TikTok should be primarily used as a split testing platform. TikTok is the only platform on social media that does not penalize you for posting multiple videos that almost look identical. And so what you wanna do with every video that you film is you wanna record at least three different hooks, post all of them in TikTok, and then you're gonna take the best performing video from TikTok and you're gonna move it to the other platforms. YouTube. Now in terms of YouTube, it's the most underrated platform in terms of building actual authority. Now YouTube takes a longer time to grow, so you shouldn't be trying to get tons of views on all your videos at first. You should be focusing on in-depth value videos that you can send to your avatar on the other platforms. I'd recommend starting with once a week. For YouTube Shorts, you're gonna take your winners from TikToks and post them on YouTube Shorts. The value of YouTube Shorts is discoverability. If somebody watches a 45 second video on YouTube Shorts, they click into your channel and then they watch one of your long form videos. In terms of Threads, you wanna post short text posts. I use Threads as a testing platform. So if I have an idea that I wanna communicate on Instagram, I'll post it on Threads and if that idea performs well on Threads in comparison to my other ones, that's when I know that I'll record a video on it. Next is podcasting. I believe that podcasting is one of the best things that you can do to grow your business in 2026 because when you podcast, you can go live while you're recording your podcast and you also get a live stream out of Facebook and Instagram at the exact same time. So create a podcast centered around your avatar and post a minimum of one episode per week. And the best part is you can take that same exact episode and you can use that as a YouTube video. Now the best for last is Instagram and Facebook. The reason that they're combined together is because what we do on one platform, we're gonna mimic on another. You're gonna connect your Facebook to Instagram so everything that you post on Instagram automatically gets cross-posted. My recommendation for growth is posting a minimum of three times per day, every day, seven days of the week. One of those posts should be a carousel. The only stuff that you post on Instagram is the winners that you grab from TikTok. For Instagram Stories, you wanna post a minimum of three to five stories every single day. At least one of them should be a social proof like this. Instagram specifically is where a lot of your business is gonna come from because there's a ton of people that use Instagram DM. Now if you serve an avatar that's 30 plus, a lot of that generation is on Facebook, so you can't sleep on it. These are the two platforms that are gonna bring you the majority of your leads. And the goal of all the other platforms is to drive traffic to your Instagram and Facebook so you can have conversations that book sales calls. Now if you want a full training on how to use all these platforms, follow me and come with the word YT and I'll send you a training.

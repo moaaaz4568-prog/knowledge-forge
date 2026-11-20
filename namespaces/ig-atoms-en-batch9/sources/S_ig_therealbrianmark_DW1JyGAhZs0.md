@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DW1JyGAhZs0.txt"
+words: 245
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DW1JyGAhZs0
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DW1JyGAhZs0.txt` — حساب: therealbrianmark — إنستجرام — فيديو DW1JyGAhZs0
+
+---
+
+I post gym selfies and my protein. I share client wins and my personal life. I share client wins. I show my life and my content solves my avatar's problem. I post when I remember. I post once a day and I focus on value. I run two call to actions per week and I go live three times a week on my Instagram. I'm really hoping that over time people will find my page. I DM people who interact with my content. I post three times a day. I've got a full media team and a content strategist to win with volume. I sell workout plans and meal plan PDFs. I sell transformations and accountability. I run the Busy Mom Recomp Method, the most in-demand transformation program for women over 35. I send my clients Google Docs and I hope that they follow along. I use Trainerize and Loom to guide clients on autopilot. I have a full team of assistant coaches who operate with clear SOPs. Ads are a scam. I run $30 a day follower ads. I'm running follower ads and DM ads which consistently keep me over $100,000 a month. God, where'd you learn all that? How can I be more like you? I work with the real Brian Mark to scale my online coaching business and if you want to work with him too, comment or DM 10K and I'll reach out to you to see if we can help.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thescottleese/DdRs_RmRA4z.txt"
+words: 273
+account: thescottleese
+lang: en
+quality: transcript
+---
+
+# S_ig_thescottleese_DdRs_RmRA4z
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thescottleese/DdRs_RmRA4z.txt` — حساب: thescottleese — إنستجرام — فيديو DdRs_RmRA4z
+
+---
+
+Ten out of ten habits to build extreme discipline. Except they get progressively more difficult. Drink a glass of water before your coffee every morning for one week. Small promise kept every morning. Write tomorrow's to-do list before you close your laptop today. You'll stop wasting the first thirty minutes of every morning deciding where to start, what to focus on, that type of thing. Take a ten-minute walk after every meal for one week. No phone in your hand. Eat the same healthy breakfast every day for two weeks. Decide once and stop negotiating with yourself every day. Track every dollar you spend for thirty days. Every single one. Most people have no idea where their money goes, and that's exactly how it disappears. Wake up at the same time every day for two weeks, weekends included. That's the part that makes it hard. Answer every message within twenty-four hours for two weeks. No open loops, no "I'll get to it." Watch how much lighter your head feels. Pick the project you keep talking about and give it the first hour of every day for thirty days. Not when you have time, the first hour. Before the world starts, before people start asking for things. Give a friend a hundred bucks. If you hit your thirty-day goal, you get it back. If you miss it, they keep it. Discipline gets a lot easier when it has a price tag. Turn your phone off Friday night and turn it back on Monday morning. One full weekend, forty-eight hours, completely unreachable. If that sounds impossible to you, that's exactly why you should do it.

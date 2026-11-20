@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DNzB3JE5Cyv.txt"
+words: 382
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DNzB3JE5Cyv
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DNzB3JE5Cyv.txt` — حساب: therealbrianmark — إنستجرام — فيديو DNzB3JE5Cyv
+
+---
+
+How much money do you make as a personal trainer right now? Over one hundred K, one hundred thousand dollars a month. A month recurring, yes sir. Damn bro. And when you first started, what were you at? Right, I would say it's actually sixty five, sixty five. Struggling to continuously break the seventy K. Yeah. We join you. Yeah, yeah. You fix the problems and within three months we hit our goal and we have consistently been over hitting over one hundred K. Dude, I think a lot of people watch like business coaches and they're like, oh it's a scam. Like I don't believe this. You know, a lot of people are really skeptical. Did you guys feel the same way when you first started? Absolutely. We invested the same amount of money into an Australian business coach the year before, which I was skeptical. Started consuming your content. Yeah. And the biggest thing that got me over the line watching your content was he wasn't going, hey, look at all the cash I am making. Here is all these nice things. It was like my client went from here to here. And I am like, it resonated because like there is social proof right there. That's us going there. And that made our decision pretty easy after that. Cool. So like inside of the coaching program, what would you say are a couple of things that you learned that actually increased your revenue? Focus on one thing at a time. That was the most important. You know, the support that everyone gives in there helps as well. Like, no, the best, honestly, the best part about it is the value you give. But everyone in the coaching program is open to sharing ideas. Yes. And everyone wants to win. So somebody watching this right now that would like to get results like Matty boy right here making money, they're not going to get as jacked as you, but how do they make as much money as you, bro? Be willing to work. Roll your sleeves up. Invest in the B. Into this program. Honestly, it's been the best decision we've made. We've talked to everyone here and it's the same thing. Everyone says the same thing. That's cool, bro.

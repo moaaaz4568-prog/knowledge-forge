@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thescottleese/DLQCNfURKJ1.txt"
+words: 170
+account: thescottleese
+lang: en
+quality: transcript
+---
+
+# S_ig_thescottleese_DLQCNfURKJ1
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thescottleese/DLQCNfURKJ1.txt` — حساب: thescottleese — إنستجرام — فيديو DLQCNfURKJ1
+
+---
+
+A few things I want to get off my chest real quick. Number one, if you are seeking an AE role and don't know what an AE role is or does, that's a problem. Good luck getting the job. Number two, if you're asking for feedback on your process or your feedback form or your website or whatever, do not respond to somebody with disagree and proceed to explain why. That discourages their future participation and really turns them off. Number three, if you run a community and you're hopefully seeking people to drop job opportunities and open roles and they do so and you then force them to fill out a super complicated form and you confuse them to the point where they actually want to kick off the form and just say the hell with this, you're going to discourage them from participating and submitting future roles, which I think is not additive to the community, which in theory should be your goal. Thanks for my TED talk.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DbRgpz1BA3x.txt"
+words: 197
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DbRgpz1BA3x
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DbRgpz1BA3x.txt` — حساب: therealbrianmark — إنستجرام — فيديو DbRgpz1BA3x
+
+---
+
+It's too expensive. Yeah, I agree, it's expensive. We can do a discount. Dude, you said we're it. Well, what do I say then? Listen up. Okay, fair enough. Thanks so much for being honest with me, Adrian. Expensive compared to what? So listen, Adrian, when you take your wife out for dinner, do you go to McDonald's or the steakhouse? The steakhouse. And why do you go to the steakhouse? It's gonna be a better experience. Because the food is better, the service is better, and the experience is better. So our program is priced the way that it is because it comes with guaranteed results. If you're looking for a cheaper program, I can refer you to one of my cheaper competitors. So let me ask you a question. Are you looking for the cheapest program or the best program? Okay, perfect. So where do you think we should go from here? Do you offer any sort of payment plans? Where'd you learn how to close like that? Easy, bro. I followed at the real Brian Mark and I commented with the world sales and he sent me a training so I could level up.

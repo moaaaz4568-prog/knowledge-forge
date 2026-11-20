@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DUA9lQ4FDHY.txt"
+words: 590
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DUA9lQ4FDHY
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DUA9lQ4FDHY.txt` — حساب: therealbrianmark — إنستجرام — فيديو DUA9lQ4FDHY
+
+---
+
+Stop running your sales calls just reading your script like a mess. I'm about to put you on some game in the next 60 seconds, so you're gonna wanna take notes. Pay attention to what the prospect is saying on the call and overcome the objection before it comes up. Here's what I mean. As you're running through the script, when the prospect says, "Yeah, you know me and my partner, like we've really been working on this thing for the last little while and we've wanted to get in shape," you're gonna sidebar and you're gonna say, "Oh, that's amazing. Does your partner know that we're speaking today?" I love that. And typically, is she supportive of like your fitness goals and everything like that? Now when they say yes, you've just overcame the wife objection. Now let's say you're on the call and you're talking to a prospect that's super strapped for time. That's gonna be an indicator to say it's not the right time to start this fitness thing yet. So when you're talking to a busy person, you wanna say, "Okay, so Nick, typically speaking, it's gonna take you about three to five hours per week to see results in your fitness journey. Is that something that you can commit to?" Once they say yes, you just overcame the time objection. Now let's talk about overcoming the money objection. The best way to overcome the money objection is to get a feel for their spending habits on their current health situation right now. Ask them how many times a week they eat out, stop for Starbucks, Tim Hortons, at the gas station for snacks, alcohol, cigarettes. Then you can have a rough estimate for the amount of money they're spending per month on things that are actually damaging their health and fitness goals. Then at the end of the call, if they do give you the money objection, you can say, "Nick, let me ask you a question. If we were to cut out the spending on the stuff that's actually harming your health goals, like alcohol, cigarettes, Starbucks, etc. , and we invested it into you losing that 20 pounds, do you think that that would be beneficial?" Finally, let's talk about how to overcome "I need to think about it. " We need to create urgency on the call. Now the best way to overcome "I need to think about it, " which is the last objection you might get, is to create urgency on the call. We create urgency in one of two ways. The first is asking why now. Nick, I gotta ask you, you know, why is this important that you make a change right now in your life? Obviously, you could have booked this call at any point with me, but you booked a call and you showed up today. Why do you wanna transform your life right now? The second way is the consequences of not taking any action today. So Nick, let's just pretend that this call ends, you don't take any action, you stay stuck in the same place, and your fitness goals over the course of the next year, you gain five, 10, maybe even 15 pounds, and your health gets worse and worse. How would that make you feel? Get the prospect to sell themselves on why they need to take action now and make them realize if they don't take action, the negative consequences that are gonna happen. And boom, follow for more value.

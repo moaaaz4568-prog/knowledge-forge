@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thescottleese/DOTqYhHkc2R.txt"
+words: 161
+account: thescottleese
+lang: en
+quality: transcript
+---
+
+# S_ig_thescottleese_DOTqYhHkc2R
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thescottleese/DOTqYhHkc2R.txt` — حساب: thescottleese — إنستجرام — فيديو DOTqYhHkc2R
+
+---
+
+Everybody's talking about AI like it's the boogeyman, but it's not. The real threat is the person sitting next to you who's figured out how to utilize it while you're just sitting around wondering, is this worth paying attention to or not? They're closing deals faster than you. Before you can even draft an email, they've sent four or five. They're out marketing you. They're gonna outsell you. They're out creating you, not because they're smarter, just because they move first and they move faster. So the AI is not replacing you yet. So you can't worry too much about the distant future. You got to worry about right now and the people who are embracing it right now. Those are the people you should be worried about if you're not paying attention to AI. So the question isn't, will AI take my job? The question is, who will take your job because they're using AI better than you right now?
