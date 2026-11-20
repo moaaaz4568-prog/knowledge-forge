@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: seanrcallagy
+aka: [crushing fear, seanrcallagy account context]
+origin: sources/S_ig_seanrcallagy_CMs1laejx9b.md
+---
+
+# G_ig_seanrcallagy_CMs1laejx9b — crushing fear
+
+## Term
+
+"crushing fear" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: co-creators, dreams, distortion, fear. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- crushing fear
+- seanrcallagy account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "What is happening? I don't even have words to express the energy and the vibration. It's absolutely incredible." — sources/S_ig_seanrcallagy_CMs1laejx9b.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "crushing fear": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
