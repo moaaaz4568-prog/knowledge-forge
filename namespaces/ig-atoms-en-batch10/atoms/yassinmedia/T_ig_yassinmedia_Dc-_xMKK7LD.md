@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_yassinmedia_Dc-_xMKK7LD.md
+location: instagram/yassinmedia
+---
+
+# T_Dc-_xMKK7LD_01
+
+"Most business owners think they need to go viral on YouTube and get so many views to get clients. What's your take on this? Yeah, this is probably the biggest misconception I see. People think they need to be blowing up, getting millions of views to sign clients from YouTube, but that's actually really, really wrong." — sources/S_ig_yassinmedia_Dc-_xMKK7LD.md
+
+# T_Dc-_xMKK7LD_02
+
+"I have clients that sign five figures per month with videos that get less than a thousand views. Views do not sign clients; the right views do. Obviously, I'm not saying getting a lot of views is bad." — sources/S_ig_yassinmedia_Dc-_xMKK7LD.md
+
+# T_Dc-_xMKK7LD_03
+
+"You know, if you're getting 500 views from your ICP, like I'm talking people who are actually searching for the solution you solve, that's a lot better than 500,000 views from people who are not going to spend a dollar with you. So every single video you post should be built around the one person that you're trying to target that has a problem that your offer solves." — sources/S_ig_yassinmedia_Dc-_xMKK7LD.md
