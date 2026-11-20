@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_meghanify_DOOJdOCE4su.md
+location: instagram/meghanify
+---
+
+# T_DOOJdOCE4su_01
+
+"I have 10, 000 followers on LinkedIn, how can I earn money? चलो आज मैं आपको easiest way बताती हूँ how you can make one lakh every month that too from one client." — sources/S_ig_meghanify_DOOJdOCE4su.md
+
+# T_DOOJdOCE4su_02
+
+"So आपको LinkedIn पे जाके SaaS founders को search करना है and उनको LinkedIn personal branding और lead generation की services आपको offer करनी है। But सबसे बड़ी problem ये आती है that इन SaaS founders को ढूंढे कैसे और किस message के साथ आप इनको अपना offer present कर सकते हो। So I have created this mini course जहाँ पे मैंने step by step सारी की सारी process explain कर रखी है। Now comment LinkedIn और" — sources/S_ig_meghanify_DOOJdOCE4su.md
+
+# T_DOOJdOCE4su_03
+
+"मैं आपको ये mini course आपके DM में send कर दूंगी." — sources/S_ig_meghanify_DOOJdOCE4su.md
