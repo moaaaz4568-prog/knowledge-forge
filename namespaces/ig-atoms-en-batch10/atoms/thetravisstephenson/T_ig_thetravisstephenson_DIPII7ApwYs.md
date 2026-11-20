@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thetravisstephenson_DIPII7ApwYs.md
+location: instagram/thetravisstephenson
+---
+
+# T_DIPII7ApwYs_01
+
+"We're back. Yes, I suck at doing these updates. I suck at social media. I apologize, but I'll talk about it here in a second. Let's give you guys a quick update. We are still obviously running ads. As of right now, we're spending about $3, 200 a day. This was yesterday, so it'll actually show you here in just a second what we actually spent." — sources/S_ig_thetravisstephenson_DIPII7ApwYs.md
+
+# T_DIPII7ApwYs_02
+
+"$3, 160 made $6, 200, so we're averaging between $1, 500 to $4, 000 to $5, 000 a day in profit. And then when we have a big day, which you'll see here right at the end, those days we're getting about $12, 000. So we just want a few more of those than the others. You can see here. So I wanted to show you guys a quick example of some of the ads that are working for me." — sources/S_ig_thetravisstephenson_DIPII7ApwYs.md
+
+# T_DIPII7ApwYs_03
+
+"So first you can see this is from my fan page and it's just a short little video, seven seconds long. This is a much more descriptive video, so it's along the lines of about three minutes. This ad is actually a super cool concept. So you can see here I created a fan page called Angry AI and I've been creating these AI videos that kind of tell from a different story." — sources/S_ig_thetravisstephenson_DIPII7ApwYs.md
+
+# T_DIPII7ApwYs_04
+
+"This is a critical alert from the AI you're ignoring. And so it allows me to tell a different story from a different perspective with a really cool visual. And these are actually performing very well, which is super cool. So I initially set out to make these reels in a little bit of a series so that I could show you what it takes to build a $1, 000 a day business." — sources/S_ig_thetravisstephenson_DIPII7ApwYs.md
+
+# T_DIPII7ApwYs_05
+
+"And the cool thing is we're there. We've been there now for about seven to eight days. Personally, I just." — sources/S_ig_thetravisstephenson_DIPII7ApwYs.md

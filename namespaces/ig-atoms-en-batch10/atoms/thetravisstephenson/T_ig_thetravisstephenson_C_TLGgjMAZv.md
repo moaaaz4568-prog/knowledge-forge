@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
+location: instagram/thetravisstephenson
+---
+
+# T_C_TLGgjMAZv_01
+
+"When you're starting your business, you need a budget big enough to market to these people multiple times, right? Well, after reviewing all of the different businesses that I've run, I figured out that the reason that I didn't have to do that, I didn't have to overcome these budget issues, is because I had, I was always building my email list, so I could remarket to people for free." — sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
+
+# T_C_TLGgjMAZv_02
+
+"So I would market to them one time, I would build my list, and then from having that email list, I could remarket to them again for whatever the price of my email marketing platform was. So let's say it was $97 a month, I could send pretty much as many emails as I needed to every single month to make sure that they, these prospects were going through my funnel the way that I needed them to." — sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
+
+# T_C_TLGgjMAZv_03
+
+"They were actually seeing the projects that I was trying to promote. They were actually getting to know more about them and being reminded about them." — sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
+
+# T_C_TLGgjMAZv_04
+
+"And we put them through our four pillars, which I'll discuss during these videos, but we did come up with a bit of a system when we actually do these promotions, but it makes it significantly more likely that you're gonna have success and easier for you no matter what business you're in." — sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
+
+# T_C_TLGgjMAZv_05
+
+"I don't care if you're an e-commerce, you wanna be a coach, you wanna have a digital product, you wanna be an affiliate, you don't know what you wanna do. Focusing on getting an email list is gonna be the number one thing that's gonna help you succeed or decide whether or not you fail." — sources/S_ig_thetravisstephenson_C_TLGgjMAZv.md
