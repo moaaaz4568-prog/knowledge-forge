@@ -1,0 +1,34 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+location: instagram/leoxmoore
+---
+
+# T_DQkn1-Vk_dP_01
+
+"The same way, if you produce shit work, I'll tell you that it's shit work. And if I produce shit ads, I will say" — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_02
+
+"This ad is fucking shit. I'm gonna change this ad. We need to make new ads." — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_03
+
+"So again, it's kind of like what I was saying before on the phone with Pavan, was that it doesn't matter who is right or what is right or what is correct. It's about did you get the result? And sometimes people have this like fear of saying" — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_04
+
+"It's like, no, like if you did it wrong, it's just the fucking stat wasn't there, the result wasn't there. You just need to change the strategy and do it better next time. Yeah, it's weird. Like people have this like almost survival instinct that they need to be right about something rather than get the result. I'm the complete opposite way of that." — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_05
+
+"If I do something, if I launch an ad, I'm not gonna be like" — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_06
+
+"if the stats are bad. Like the number is actually there. You can see that the ROAS on that ad is bad. So I will say" — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
+
+# T_DQkn1-Vk_dP_07
+
+"Even if I wrote that ad 20 minutes ago, I'll fucking, you need to change it. It's not like you can get away with just doing something incorrectly. Like it just doesn't work that way. It's easier to just admit it and move on." — sources/S_ig_leoxmoore_DQkn1-Vk_dP.md
