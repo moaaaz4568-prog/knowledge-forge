@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/okaashish/DYKORMIPwuC.txt"
+words: 184
+account: okaashish
+lang: en
+quality: transcript
+---
+
+# S_ig_okaashish_DYKORMIPwuC
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/okaashish/DYKORMIPwuC.txt` — حساب: okaashish — إنستجرام — فيديو DYKORMIPwuC
+
+---
+
+This free open-source AI tool lets you run an entire company with zero employees. There is a boss, there are employees, several employees, and even contractual workers, but none of them are humans. All AI agents. So the tool is called Paperclip, and here's how you can make it work. Just log in, create a company, set a goal, and then you start hiring. Not people, but AI agents. You hire a CEO and CTO who then hire the rest of the employees with proper job titles and budgets. Now, your role is limited to a board member who approves strategies made by the CEO, who then delegates all of the work to AI employees and get the work done. And man, it does get work done. So yes, now the question, is it perfect and can it replace humans? Not at all, not yet. But it's the worst it will ever be. Zero person companies are here and they will replace humans. Better be ready. And if you want to use it, just come in company and I'll share the link with you.

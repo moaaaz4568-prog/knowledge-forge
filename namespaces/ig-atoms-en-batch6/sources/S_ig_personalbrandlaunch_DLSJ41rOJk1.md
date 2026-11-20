@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/DLSJ41rOJk1.txt"
+words: 127
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_DLSJ41rOJk1
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/DLSJ41rOJk1.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو DLSJ41rOJk1
+
+---
+
+If you want to grow from this to this but in a hard-ass niche, this is what you do. Step number one: plan. Write down your unsexy niche, then just write out similar niches. Step number two: research. Go to the Instagram Explore page, click the search bar and search one of these similar niches. Then find and save viral videos that can be adjusted into your niche. Step number three: adjust. Take the viral video hook framework and adjust it to your niche. I actually had to do this with my client Carl in the very unpopular franchise niche... And that's how he grew from this to this. Want to grow and sell on social media as a business owner? Come and SMM for more information.

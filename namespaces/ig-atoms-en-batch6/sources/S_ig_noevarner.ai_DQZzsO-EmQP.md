@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/noevarner.ai/DQZzsO-EmQP.txt"
+words: 158
+account: noevarner.ai
+lang: en
+quality: transcript
+---
+
+# S_ig_noevarner.ai_DQZzsO-EmQP
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/noevarner.ai/DQZzsO-EmQP.txt` — حساب: noevarner.ai — إنستجرام — فيديو DQZzsO-EmQP
+
+---
+
+You have not seen this video. You need to go watch this right now. This video basically explains the trajectory that humankind is on with AI. And why it's so scary is because not that it might happen, that it will happen, just the only guesses will be in five, 10 or 20 years from. And what they predict is this. Basically AI is developing so fast, it's developing itself. Now it is writing all its code and training itself. Now why the fuck is that scary? Because we have safety parameters that we wrote to protect humans. What is the one thing that gets in the way of AI succeed? Humans. This thing will get so smart that it will be able to lock us out of safety parameters. And what happens with that? It starts going rogue and it does whatever the fuck it wants. If you have any sense, go watch this video right now.

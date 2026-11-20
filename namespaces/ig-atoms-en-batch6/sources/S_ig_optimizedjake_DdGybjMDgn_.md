@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/optimizedjake/DdGybjMDgn_.txt"
+words: 605
+account: optimizedjake
+lang: en
+quality: transcript
+---
+
+# S_ig_optimizedjake_DdGybjMDgn_
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/optimizedjake/DdGybjMDgn_.txt` — حساب: optimizedjake — إنستجرام — فيديو DdGybjMDgn_
+
+---
+
+Again, we've went in and just off rip before we even turned ads on. We had three salespeople ready to start selling. We had a sales account set up with automations drips. We had all of our marketing assets. We had two people on the back end, two CSMs to start fulfilling, to start doing on boardings that were already cross trained on our other agencies and our other companies. We had CRM accounts set up. We had all of our fulfillment already set up. We had the machine ready to go, and all we needed to do was turn ads on, start booking appointments through our funnel, and then start selling. So we were able to build the infrastructure and machine, and all we needed to do was plug that machine in, turn it on, get ads going, and start generating revenue. So unfortunately, that is the number one reason why we've been able to have success in such a short period of time. The second reason of why we've been able to have a lot of success in a short period of time, aside from us obviously knowing what we're doing at this point in time, and if you want our help, again, we offer one on one mentorship and coaching where we can actually help you and hold you accountable to those specific things that you need to be doing to be able to achieve those crazy results. And again, even if you do have a little bit of experience, we do have a JV partnership opportunity that is something that you can absolutely apply for. Again, all that information is in the link down below. Number three, again, what do you see behind me? You see purple. I preach it. It's in my book, the offer code, the purple ocean method, or the purple ocean offer is a principle that I have developed that I literally built my brand around. And the branding of Sutterland University is based off purple. I have purple lights in all of my videos, all my podcasts that I'm on. It is something that is the foundational principle in all of our businesses. And what that is, positioning in your market. So in every single market, no matter what you're selling, no matter what service, product, whatever it might be, in every single market, you have what's called a red ocean and you have what's called a blue ocean. And when you mix those, you guess what? You get a purple ocean. Again, a kindergartner could tell you if you mix blue with red, you get purple. And a red ocean is basically meaning you're just, you know, playing with all the other competition. So this is not what this agency sells, but I'll give you an example. It's like selling website building. You're competing with absolutely everybody else. And you have a blue ocean, which might be crazy converting link tree page or something absolutely ridiculous on the other side of things of, you know, yes, it's a blue ocean offer that I help you set up a high converting, you know, link tree for your Instagram page. And that's probably not as blue ocean as much as it needs to be for this example, but you know, just to give you an example, that it's like something completely new, something people really haven't heard about. And that's something that we applied to this specific company. Again, we apply to all our companies, but that is, you know, again, reason number three why we've had such crazy success is because it's a purple ocean offer.

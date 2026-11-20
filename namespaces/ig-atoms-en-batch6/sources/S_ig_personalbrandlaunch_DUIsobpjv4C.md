@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/DUIsobpjv4C.txt"
+words: 253
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_DUIsobpjv4C
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/DUIsobpjv4C.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو DUIsobpjv4C
+
+---
+
+Hashtags. Red flag, they do not work like they used to. Sometimes they're good for keywords though. Using the translation feature. Okay, for business owners, red flag. I know it seems like a cheat code for more views, but do you want more views if they are not your target audience who's going to buy from you? I don't think so. Don't do it, okay, don't do it. Finding and using outlier hooks in your videos. Green flag, baby. Posting times. Red flag. Doubling down on your content. Green flag. Posting. Hashtags. Red flag. Roses 2022. I'm not opposed to audio plus B-roll plus text videos, I think in some situations that can be good, but the ones where like you do the really long caption and the really short video to like get people to watch it a bunch of times in a row, just don't do it. Posting educational and storytelling content. Green flag. Posting every day. Green flag. Not using CTAs. Red flag. Having multiple links in bio. Red flag, you should just have... one. To where you want your viewers to go, whether that's product service, freebie, whatever it may be. But just one. Doing trends. Red flag. Don't do fluffy trends, they do not get you followers. And if they do get you followers, they're going to be the worst kind of unengaged followers you have. Using engaging format. Green flag. Follow if you want real Instagram advice that will actually help you grow an authentic personal brand.

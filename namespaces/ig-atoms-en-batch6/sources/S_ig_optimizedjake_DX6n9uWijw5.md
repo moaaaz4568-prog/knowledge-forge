@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/optimizedjake/DX6n9uWijw5.txt"
+words: 601
+account: optimizedjake
+lang: en
+quality: transcript
+---
+
+# S_ig_optimizedjake_DX6n9uWijw5
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/optimizedjake/DX6n9uWijw5.txt` — حساب: optimizedjake — إنستجرام — فيديو DX6n9uWijw5
+
+---
+
+The business you built that was supposed to give you freedom just ended up trapping you. I get it. I talk to agency owners and online experts that are doing anywhere from 5, 10, 15, up to $20, 000 a month. They can't take a day off. They can't even take a break during the day and enjoy their life, even though they quote unquote have a somewhat successful business. So let me ask you this, if you turned your phone off for 24 hours and just dip, would everything continue like normal? If so, congratulations, you're leveraged. If not, things would break, clients would absolutely be blowing you up, team members freaking out. That means you are not leveraged. You are the bottleneck in your own business. They know the stresses of being trapped inside of their own business. And what I want to give you are the three things that are gonna help you unstick from being the bottleneck in your business that can actually allow you to work on and scale the business to the next level instead of just being an overpaid freelancer. The first thing you need to fix is client communication and updates. That is something that you 100% should have a VA, if not AI, completely automating inside of your business. The second is your delivery and fulfillment tasks. Again, use AI as much as possible, but that is definitely going to be a team member that is completing the actual build out of whatever services that you're delivering, and then also doing the quality assurance. Lastly, which a lot of people don't think of, is the actual lead follow up, because that can take so much time away from your day of just answering messages, messaging back and forth, calendar scheduling, etc. That is one of the biggest drains from a client acquisition and sales perspective that also needs to be taken care of to free you up from the business so that you can start focusing on growth and not so much about just trying to stay alive. I've talked to over 5, 000 entrepreneurs that have those exact same problems, and it really comes down to solopreneurs not really understanding what business looks like and should be, which is of course why we're able to help individuals overcome those specific so that you know exactly what you need to pull yourself out of so that you actually have a business that everybody talks about, which is so rewarding. And here's the best part, like I just said, is you don't need a full team. GoHighLevel can handle all of your follow up. It can handle all of your booking, especially using their AI agents inside of there. And then even the client communication and updates, you can leverage different AI tools like Utori or Manus to automate a lot of the client communication and updates, or even if you're more advanced, something like Open Claw. And then lastly, any kind of delivery and fulfillment tasks that you can't automate with AI, simply stick a VA inside of there. Again, you can also have them double check and do some of follow up that the AI agents inside GoHighLevel or your CRM can't take care of. You have a fully AI leveraged agency with one VA on the back end running the entire ship. Now what you get to do is focus on the fun part, which is scaling and growth. So make sure that you save this and audit your business the next time you feel stressed out inside of it.

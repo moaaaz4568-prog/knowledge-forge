@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/optimizedjake/DYmZVqIEkS2.txt"
+words: 572
+account: optimizedjake
+lang: en
+quality: transcript
+---
+
+# S_ig_optimizedjake_DYmZVqIEkS2
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/optimizedjake/DYmZVqIEkS2.txt` — حساب: optimizedjake — إنستجرام — فيديو DYmZVqIEkS2
+
+---
+
+She was consulting twenty three clients on how to run their business, a traditional biz op offer. Well, hers was absolutely falling apart, and here is the kicker: she knew it. She said it on a call, "I am teaching my clients how to build these amazing businesses and work inside of it," when she was doing the exact opposite. So Claire came to us and she was so focused on the client delivery and the results, and she was never able to. I don't blame her. A lot of business owners are super passionate about giving results, and they skip over the same advice they give to other people because they care so much. The thing is not taking her own advice, and she was running five group calls every single week, and she was personally answering every single one of her clients that she had inside of Slack. And she was what I like to call an overpaid freelancer, not an actual business owner. I get it because most coaches and consultants and being on that side of the table are the best example of their own worst case study. And it's not because they don't know what they do, because a lot of times they are very good and very knowledgeable at what they do, but it's because they're too busy delivering the results to actually implement systems. And the first thing that we did working with Clara to help her fix this issue was helping her spread out her time so she was still able to dedicate a lot of time to the client delivery to start, but then making sure that she had a few hours every single day to chip away at building out the systems and the infrastructure so that she wasn't so consumed in the client delivery. So she was able to go out there and implement AI systems that built out all the material for her group calls. She then went and hired out a CSM that was a VA that was able to help out with a lot of the client communication because a lot of the messages was simply directing them back to the material that she already had. And then the last thing that we did to help her really pull away from client acquisition so that she could free up her time and really focus on growing and scaling the business was getting two other experts that were better at her in those specific group calls that were focused on sales and focused on marketing, which wasn't really her expertise, and allowing those other people to take those group calls, delivering even better results, but then freeing up her times so that she could really focus on growing the business, which at the end of the day she was very passionate about because she liked helping people and she liked delivering an amazing result. And by implementing these systems, she was even able to deliver a better result while still pulling away, working less and now scaling her business further. So if you are an agency owner, online expert, coach, make sure that you save this and make sure that you are dedicating time to do the audit so that you can actually go in and start to pull yourself away from delivery, and then which in turn is going to allow you to free up time to scale.

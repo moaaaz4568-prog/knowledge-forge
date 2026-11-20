@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/okaashish/DC4EV2LvICR.txt"
+words: 63
+account: okaashish
+lang: en
+quality: transcript
+---
+
+# S_ig_okaashish_DC4EV2LvICR
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/okaashish/DC4EV2LvICR.txt` — حساب: okaashish — إنستجرام — فيديو DC4EV2LvICR
+
+---
+
+This free AI tool lets you change the background of any photo with cinema lighting. Just go to this website, upload your photo, write in your prompt or choose from any of the ready-made prompts, and click run. And that's it, you'll have a studio-level photo with professional background and lighting. Try it yourself, comment image and I'll share the link with you.

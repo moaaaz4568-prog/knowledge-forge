@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/DPyg2f4DaMF.txt"
+words: 274
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_DPyg2f4DaMF
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/DPyg2f4DaMF.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو DPyg2f4DaMF
+
+---
+
+The first post we made on this client's account got them 500 plus leads. The first post we made on this client's account got them 400 plus leads. The first post we made on this client's account got them 3400 plus leads, and the first two posts we made on this client's account got them 2000 plus leads. All that to say, here are the four main types of lead-generating content that you can post on social. Number one, the fake case study. There are two versions of this. Number one, you show what you would do if you had to start from scratch in your niche. Or you show what you would do for a big company or an imaginary company if you were hired by them. You make it clear it's fake though. I've personally gotten over 10,000 leads from one video doing this. Number two, the personal transformation. Sharing a step-by-step of how you got from a before to an after. Number three, a client transformation. Sharing the step-by-step of how you got your customer or client from a before to an after. Number four, a comparison. Three of the videos I shared in the hook was actually following this structure. This is where you show a smart versus dumb person doing actions trying to achieve the same dream result, and then you share the results they get. You're also including a scripting template that you can use for this. I grew my business from zero to seven million annually just from social media. Business owners, if you're looking for help generating these on social media, comment SMM for more information.

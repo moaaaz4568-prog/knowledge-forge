@@ -1,0 +1,27 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/DQw1K-KDkIG.txt"
+words: 147
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_DQw1K-KDkIG
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/DQw1K-KDkIG.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو DQw1K-KDkIG
+
+---
+
+Here is the transcription:
+
+Speaker 1: Did you notice that big creators only ever post videos in like one to three different formats?
+Speaker 2: Wait, what? What even is a format?
+Speaker 1: Yeah, well, sitting down and talking videos are boring. So people use different types of formats to make their videos more engaging.
+Speaker 2: Oh, cool. But why do big creators only use one to three?
+Speaker 1: Well, if you look at big creators, they're only really using one to three different ones. Why?
+Speaker 1: Well, typically they test out a bunch at first, then they see which ones perform best and double down on those so they can keep growing.
+Speaker 2: Dope, but where can I find a list of formats to choose from?
+Speaker 1: Oh, just come back to Common Format and I'll send a bunch over.

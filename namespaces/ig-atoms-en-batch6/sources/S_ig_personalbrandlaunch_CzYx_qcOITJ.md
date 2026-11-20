@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/CzYx_qcOITJ.txt"
+words: 153
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_CzYx_qcOITJ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/CzYx_qcOITJ.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو CzYx_qcOITJ
+
+---
+
+Here's a marketing hack to use in your content that I bet they never taught you at school. There are five personality types, but most of the world is just three of them. Different personality types respond to different things. You need to tailor your content for these top three personalities. Thirty percent of the world responds to emotions, twenty-five percent respond to logic, and twenty percent respond to humor. Every viral video you see uses these three elements. Here's how to use them: strike emotion by stating a common pain point in your hook that your audience will react to. After giving a solution to the pain point, use logical stats or before-and-after pictures to give social proof that it works. Lastly, use subtle humor throughout the video. Add these three elements into your videos and you'll strike a reaction from the majority of the population. Follow for more social media tips.

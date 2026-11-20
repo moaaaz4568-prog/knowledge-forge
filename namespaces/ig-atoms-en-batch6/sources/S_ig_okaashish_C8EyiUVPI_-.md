@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/okaashish/C8EyiUVPI_-.txt"
+words: 116
+account: okaashish
+lang: en
+quality: transcript
+---
+
+# S_ig_okaashish_C8EyiUVPI_-
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/okaashish/C8EyiUVPI_-.txt` — حساب: okaashish — إنستجرام — فيديو C8EyiUVPI_-
+
+---
+
+Interior designers, this AI tool will save 90% of your time by suggesting thousands of design ideas in just a few seconds. Just go to this website and select interior design. Then upload the image of your empty room, select its type and choose one of the curated design styles. Now add the furniture you want in that room. I'm adding a king-sized bed, a coffee table, two table lamps, and also ensuring that it doesn't block the sunlight. And tada, AI will reimagine the room according to your preferred aesthetics, keeping in mind the dimensions and the furniture you wanted to add. How cool is that? Want to know what the tool is? Check caption.
