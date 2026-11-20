@@ -9,7 +9,7 @@ origin: sources/S_ig_aashna_kumar_DY2E7sdsjgY.md
 
 ## Term
 
-No content word repeats often enough in this short source (166 words) to form a repeated term, so this entry documents the source's central term "इंस्टाग्राम" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it. The source text is not in the Latin script (mislabeled lang: en in metadata); the term is its longest literal word.
+No content word repeats often enough in this short source (166 words) to form a repeated term, so this entry documents the source's central term "इंस्टाग्राम" (2 occurrences in the source) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it. The source text is not in the Latin script (mislabeled lang: en in metadata); the term is its longest literal word.
 
 ## Synonyms
 

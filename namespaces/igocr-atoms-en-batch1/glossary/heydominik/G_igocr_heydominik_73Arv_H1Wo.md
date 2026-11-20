@@ -9,7 +9,7 @@ origin: sources/S_igocr_heydominik_73Arv_H1Wo.md
 
 ## Term
 
-No content word repeats often enough in this short source (4 words) to form a repeated term, so this entry documents the source's central term "PAULANER" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+No content word repeats often enough in this short source (4 words) to form a repeated term, so this entry documents the source's central term "PAULANER" (2 occurrences in the source) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

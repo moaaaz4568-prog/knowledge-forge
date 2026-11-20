@@ -9,7 +9,7 @@ origin: sources/S_ig_alek.octopus_DXHs8GZjZ3U.md
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "Ha" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "Ha" (21 occurrences in the source) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

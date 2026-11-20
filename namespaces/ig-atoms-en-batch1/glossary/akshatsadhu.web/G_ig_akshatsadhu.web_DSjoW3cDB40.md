@@ -9,7 +9,7 @@ origin: sources/S_ig_akshatsadhu.web_DSjoW3cDB40.md
 
 ## Term
 
-No content word repeats often enough in this short source (8 words) to form a repeated term, so this entry documents the source's central term "стала" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it. The source text is not in the Latin script (mislabeled lang: en in metadata); the term is its longest literal word.
+No content word repeats often enough in this short source (8 words) to form a repeated term, so this entry documents the source's central term "стала" (4 occurrences in the source) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it. The source text is not in the Latin script (mislabeled lang: en in metadata); the term is its longest literal word.
 
 ## Synonyms
 
