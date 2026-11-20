@@ -1,0 +1,27 @@
+---
+type: glossary
+topic: yasinbmammeri
+aka: [one wants, yasinbmammeri account context]
+origin: sources/S_ig_yasinbmammeri_DHi-MZsshGE.md
+---
+
+# G_ig_yasinbmammeri_DHi-MZsshGE — one wants
+
+## Term
+
+"one wants" is the most frequent repeated content term in this source (a transcribed Instagram video from the yasinbmammeri account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: truth, wants, burger, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- one wants
+- yasinbmammeri account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "Your videos flop because you're making this mistake. Imagine this is your video. You spend loads of time and money making the editing the best it can be. You use every hack and trick that you know, like SEO and hashtags. Then you just take a tiny half-baked idea and plop it on top. And you completely skip on personality. But the truth is no one wants a burger without a patty." — sources/S_ig_yasinbmammeri_DHi-MZsshGE.md
+> "No matter how good the bun is, or the lettuce, or the tomato. You can skip on pretty much everything else and still have something people want. But you need a big idea and you need some personality. Yet this is where people spend the least amount of time. And it's why no one wants to consume what they cook up. Hmm." — sources/S_ig_yasinbmammeri_DHi-MZsshGE.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "one wants": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
