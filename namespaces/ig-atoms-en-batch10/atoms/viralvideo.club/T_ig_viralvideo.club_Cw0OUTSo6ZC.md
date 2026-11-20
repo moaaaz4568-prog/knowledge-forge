@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_viralvideo.club_Cw0OUTSo6ZC.md
+location: instagram/viralvideo.club
+---
+
+# T_Cw0OUTSo6ZC_01
+
+"So I was looking at the top 50 TikTokers and what I discovered shocked me. You see, they all know something that we don't, and it's the main reason they go viral every time. No, it's not trending sounds or SEO or any other hack. The secret sauce is making their videos universally understood. Of the top 50 that weren't previously famous, 87% never spoke in their videos." — sources/S_ig_viralvideo.club_Cw0OUTSo6ZC.md
+
+# T_Cw0OUTSo6ZC_02
+
+"You see, English is the most widely spoken language in the world, and yet only 13% of people speak it. Meaning as soon as you speak, you lose at least 87% of your audience. Now the 13% of creators that did speak still all spoke to the widest audience possible by picking ideas with mass appeal and triggering big emotions. So if you want to consistently go viral, ask yourself this." — sources/S_ig_viralvideo.club_Cw0OUTSo6ZC.md
+
+# T_Cw0OUTSo6ZC_03
+
+"If I were making a video about X topic, and I wanted a 19 year old gamer and a 46 year old accountant to both find it interesting, what would that look like? And when you can answer this question, you have a viral video on your hands." — sources/S_ig_viralvideo.club_Cw0OUTSo6ZC.md

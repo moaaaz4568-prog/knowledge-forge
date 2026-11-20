@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_viralvideo.club_DHan-T2Ic5p.md
+location: instagram/viralvideo.club
+---
+
+# T_DHan-T2Ic5p_01
+
+"This painting sold for $82.5 million, but the artist who painted it was broke as fuck. You ever heard the story of Van Gogh? Over 900 works of art in his lifetime, but only sold one. One. We romanticize the idea of the starving artist. This person so devoted to their craft, so pure, so uncompromising, that they'd rather struggle than sell out. But what's the point of brilliance if no one sees it?" — sources/S_ig_viralvideo.club_DHan-T2Ic5p.md
+
+# T_DHan-T2Ic5p_02
+
+"And what's the point of passion if you're too broke to share it? Van Gogh didn't get his flowers while he was alive. He never got the chance to truly thrive. But what if making money from your work isn't selling out? It's leveling up. Working in obscurity doesn't make you better. It just makes you invisible." — sources/S_ig_viralvideo.club_DHan-T2Ic5p.md
+
+# T_DHan-T2Ic5p_03
+
+"If you think your art is too sacred for strategy, or you think money taints your work, how's that working out for you? What if instead you make money and then reinvest it into making better art? So if you want to avoid being a starving artist, you need to bring the art and the science together. And that's exactly what we teach you in Viral Video Bootcamp. Comment" — sources/S_ig_viralvideo.club_DHan-T2Ic5p.md

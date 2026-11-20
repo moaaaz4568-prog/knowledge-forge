@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_viralvideo.club_C9Msu0DoraZ.md
+location: instagram/viralvideo.club
+---
+
+# T_C9Msu0DoraZ_01
+
+"These videos are the exact same concept, but the second time it was posted, it got 118 times more views. And it's all because of one simple strategy that you can steal. You see, the second video raises the stakes. Visually, we can immediately see it's dark and therefore we understand that it's going to be cold. Then he hammers home this point by letting us know it's 6 a.m." — sources/S_ig_viralvideo.club_C9Msu0DoraZ.md
+
+# T_C9Msu0DoraZ_02
+
+"Once he gets into the ice bath. Okay. You can immediately see that he's feeling the cold. But in the first video, it's daytime. Three, two, one. So it immediately feels warmer. But most importantly, his reaction isn't as big or intense. And all these micro expressions tell us how to feel. If it doesn't feel like a big deal to you, it won't feel like a big deal to us." — sources/S_ig_viralvideo.club_C9Msu0DoraZ.md

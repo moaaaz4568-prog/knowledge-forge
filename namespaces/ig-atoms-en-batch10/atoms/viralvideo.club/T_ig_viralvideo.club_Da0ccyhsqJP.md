@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_viralvideo.club_Da0ccyhsqJP.md
+location: instagram/viralvideo.club
+---
+
+# T_Da0ccyhsqJP_01
+
+"This is the exact same video, but the second time I posted it, it got about 10 times more views. And it's not because of anything fancy. In fact, when you find out what it is and you realize, oh, I actually haven't been doing that, you'll kick yourself. All that I changed, the one change, is I changed the text hook and then put them both in trial reels." — sources/S_ig_viralvideo.club_Da0ccyhsqJP.md
+
+# T_Da0ccyhsqJP_02
+
+"And that singular change was the difference between a complete flop and a successful video. And so when you are posting a video, test multiple text hooks, verbal hooks, lengths, songs. Test all of these things and you will learn significantly faster than your competition and you will grow significantly faster than your competition." — sources/S_ig_viralvideo.club_Da0ccyhsqJP.md
