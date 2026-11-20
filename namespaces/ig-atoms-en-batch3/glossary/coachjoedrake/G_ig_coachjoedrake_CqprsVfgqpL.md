@@ -18,8 +18,9 @@ feel is the most prominent repeated term in this source (362-word transcript fro
 
 ## Live Example
 
+> "I just wanna feel comfortable and safe in the gym, right? I know strength training is great for me, but I go into the weight room and I immediately turn around 'cause I just don't feel like I know what I'm doing." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
+> "Well, guess what? I'm gonna make sure on that first day everything we do makes them feel safe, makes them feel comfortable. That's gonna be very different than someone who says" — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
 > "I've been training for a long time and I want someone who challenges me. Like I wanna come in and like I feel like I've been doing the same thing forever." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
-> "I know strength training is great for me, but I go into the weight room and I immediately turn around 'cause I just don't feel like I know what I'm doing." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
 
 ## When the Meaning Breaks
 

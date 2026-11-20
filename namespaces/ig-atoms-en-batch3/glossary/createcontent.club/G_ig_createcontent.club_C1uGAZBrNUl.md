@@ -19,8 +19,8 @@ social media is the most prominent repeated term in this source (231-word transc
 ## Live Example
 
 > "But today we are going to fix it. It's the same mistake we see ninety-nine percent of people make when creating content on social media, which is not telling people what to do at the end of your videos. But let me explain and give you the solution that allowed us to gain more than ninety k followers in less than two months." — sources/S_ig_createcontent.club_C1uGAZBrNUl.md
+> "me to learn how to go viral on social media" — sources/S_ig_createcontent.club_C1uGAZBrNUl.md
 > "to reserve your spot in our free masterclass on how to grow on social media" — sources/S_ig_createcontent.club_C1uGAZBrNUl.md
-> "This means telling them exactly what to do after they watched your video. You see, people who are scrolling on social media are pretty much on autopilot, which means that if you don't tell them what to do, they will simply scroll away. Step two: before you create a call to action, remember this: people want their benefit, not yours." — sources/S_ig_createcontent.club_C1uGAZBrNUl.md
 
 ## When the Meaning Breaks
 

@@ -19,6 +19,7 @@ smart is the most prominent repeated term in this source (177-word transcript fr
 ## Live Example
 
 > "I think that's the greatest form of leadership is hiring smart people and having them tell you what to do. Steve Jobs actually has this quote where he goes" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
+> "doesn't make sense to hire smart people and tell them what to" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
 > "And what he did was hired smart people and had them tell him what to do. You know, I'll see people bring on a closer who has cash collected millions of dollars in their same niche and they'll just hand them a script. Like, what the fuck are you doing?" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
 
 ## When the Meaning Breaks

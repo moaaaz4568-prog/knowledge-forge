@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Vai toma", "rajad"]
+aka: ["Vai toma", "rajadão"]
 origin: sources/S_ig_dankhanlegacy_DU3PF1DEZRK.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_dankhanlegacy_DU3PF1DEZRK.md
 
 ## Term
 
-Vai toma is the most prominent repeated term in this source (11-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: rajad, olha, bico. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Vai toma is the most prominent repeated term in this source (11-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: rajadao, olha, bico. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Vai toma
-- rajad
+- rajadão
 
 ## Live Example
 

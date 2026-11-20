@@ -19,6 +19,7 @@ instead is the most prominent repeated term in this source (132-word transcript 
 ## Live Example
 
 > "Use a call-to-action that highlights the benefits they receive by doing what you're asking. So instead of saying" — sources/S_ig_createcontent.club_C3yXBDBy-Bf.md
+> "Or instead of just asking them to save your video, you could say" — sources/S_ig_createcontent.club_C3yXBDBy-Bf.md
 
 ## When the Meaning Breaks
 

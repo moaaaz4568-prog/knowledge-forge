@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["te bagur", "context of account dankhanlegacy"]
+aka: ["te bagur", "tá"]
 origin: sources/S_ig_dankhanlegacy_DQKKM2XDI96.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_dankhanlegacy_DQKKM2XDI96.md
 
 ## Term
 
-te bagur is the most prominent repeated term in this source (21-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+te bagur is the most prominent repeated term in this source (21-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: ta. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - te bagur
-- context of account dankhanlegacy
+- tá
 
 ## Live Example
 

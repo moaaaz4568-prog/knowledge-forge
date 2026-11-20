@@ -19,6 +19,7 @@ screen is the most prominent repeated term in this source (80-word transcript fr
 ## Live Example
 
 > "to create this viral screen hook effect using AI? First, head over to Bing Image Creator, which is a free AI image generator that we'll use to create these images." — sources/S_ig_createcontent.club_C_dQz3dCAk7.md
+> "green screen billboard in New York City at" — sources/S_ig_createcontent.club_C_dQz3dCAk7.md
 > "Now open your editing software and place your video inside the green screen image you've just created, and you'll get something like" — sources/S_ig_createcontent.club_C_dQz3dCAk7.md
 
 ## When the Meaning Breaks

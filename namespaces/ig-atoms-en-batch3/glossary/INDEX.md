@@ -1,6 +1,6 @@
 # Index â€” glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 3849 glossary files, 7426 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 3849 glossary files, 7431 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -28,7 +28,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | better | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqDbTWcAH0G.md | twice | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | training | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | feel | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | feel | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqtDLtcpOAp.md | niche | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | Shawty | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | brothers | 1 |
@@ -105,7 +105,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db74ZLWJgh5.md | per | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbDaXYZJisa.md | sell | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbI1GOyJivj.md | Spend | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbLUJVrJVak.md | single | 2 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbLUJVrJVak.md | single | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbQTVqQpqGL.md | product | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbS7NfAJ5aE.md | number | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dbp_5LOJpzC.md | service | 3 |
@@ -117,7 +117,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dc9WwU-hlpx.md | team | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcEcAE-J2Sb.md | risk | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcGjdA4pjDT.md | percent focus | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcQ-2VHpbtP.md | smart | 2 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcQ-2VHpbtP.md | smart | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcYso3TJMk1.md | money | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dc_Vsz6JPo9.md | show | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcbR1eOp3g9.md | question | 3 |
@@ -273,7 +273,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C3v9RsEvhh3.md | goal | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C3vDyWVrhKI.md | young | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C3xQ3QSLx13.md | mm | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C3yXBDBy-Bf.md | instead | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C3yXBDBy-Bf.md | instead | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C41SDb_CmHV.md | audio | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C43eZr6idhg.md | start | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C458uTECwtX.md | viral | 2 |
@@ -415,7 +415,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C__jfyMi5V7.md | effect | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_atlFNCC8D.md | viral | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_bPQERCG6e.md | content | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C_dQz3dCAk7.md | screen | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_C_dQz3dCAk7.md | screen | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_dytFzCRp3.md | transcript | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_gLNqTiDxT.md | screen | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_h1NCaCGec.md | AI | 2 |
