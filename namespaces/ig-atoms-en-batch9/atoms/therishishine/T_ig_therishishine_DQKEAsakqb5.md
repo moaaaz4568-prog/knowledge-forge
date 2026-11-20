@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_therishishine_DQKEAsakqb5.md
+location: instagram/therishishine
+---
+
+# T_DQKEAsakqb5_01
+
+"Everyone is talking about how the AI is destroying the creators, but nobody is talking about how you can now use it to become a super creator. Because now you can take any of your B-roll and remove, change, replace any objects or any subjects in your scene. For example, I took this gym shot, cleaned up the background, and then brought it into Premiere Pro to mask and blend perfectly." — sources/S_ig_therishishine_DQKEAsakqb5.md
+
+# T_DQKEAsakqb5_02
+
+"That's the power of AI, and that's just one example. And if you're a creator ignoring it, you're doing yourself a massive disservice. AI isn't here to replace your creativity. It's here to amplify it. Because at the end of the day, only a creative guy knows how to make the best creative things." — sources/S_ig_therishishine_DQKEAsakqb5.md
