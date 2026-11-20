@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: rishu.init
+aka: [टेम्प्लेट्स, rishu.init account context]
+origin: sources/S_ig_rishu.init_DUyr74gE_hG.md
+---
+
+# G_ig_rishu.init_DUyr74gE_hG — टेम्प्लेट्स
+
+## Term
+
+No content word repeats often enough in this short source (189 words) to form a repeated term, so this entry documents the source's central term "टेम्प्लेट्स" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it. The source text is not in the Latin script (mislabeled lang: en in metadata); the term is its longest literal word.
+
+## Synonyms
+
+- टेम्प्लेट्स
+- rishu.init account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "जो बेसिकली हेल्प करता है लिंक्डइन कंटेंट क्रिएटर्स को। सो यहां पे काफी चीजें हैं, लाइक टेम्प्लेट्स, हैशटैग्स, इमोजीज, राइट?" — sources/S_ig_rishu.init_DUyr74gE_hG.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "टेम्प्लेट्स": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
