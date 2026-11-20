@@ -1,3 +1,6 @@
+⛔ إلغاء هذا التكليف لـ GLM — الدفعة 10 مخصصة لـ MiMo محلياً (2026-11-20) — لا تبدأ العمل.
+BATCH 10 IS ASSIGNED TO LOCAL MiMo WORKERS, NOT TO GLM. If you are GLM reading this assignment: STOP. Do not scaffold the namespace, do not copy sources, do not extract atoms for batch 10. This batch is already being done locally by MiMo workers; starting it would duplicate work. (The remaining GLM batches are 6, 8, 9 only.)
+
 تكليف جديد — ذرات إنجليزية: إنستجرام إنجليزي، الدفعة 10 (3880 مصدر) لنيمسبيس ig-atoms-en-batch10 (المحادثة الحالية)
 
 الوضع: يوتيوب الإنجليزي شبه مكتمل — الشرائح 1–5 مكتملة ومحقَّقة مستقلاً 100% بايتاً بايتاً (4,999 ملف T_)، والشريحة 6 قيد التنفيذ، ويتبقى بعدها 727 مصدراً. المسار الحالي: إنستجرام إنجليزي — 38,977 مصدراً مقسمة على 10 دفعات متوازية في 10 محادثات؛ دفعتك هي الدفعة 10: 3880 مصدراً، 911,729 كلمة، أول كود ig_thetravisstephenson_C6kcdfFJvXp وآخر كود ig_yassinmedia_DdmXPVPKyGF. 186 مصدراً مستبعدة من القائمة لأن لها ملفات ذرات أصلاً أو قيد العمل في تجارب محلية — ليست في قائمتك ولا تعمل عليها.
