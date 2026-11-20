@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/mattyr_ecom/DQANQSqD2Hz.txt"
+words: 142
+account: mattyr_ecom
+lang: en
+quality: transcript
+---
+
+# S_ig_mattyr_ecom_DQANQSqD2Hz
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/mattyr_ecom/DQANQSqD2Hz.txt` — حساب: mattyr_ecom — إنستجرام — فيديو DQANQSqD2Hz
+
+---
+Hardworking people will never get rich. Only the lazy ones like me get rich. Bro's capping, that's not true. Well, let me show you how lazy people make schmikkles. Let me explain why hardworking people will never make schmikkles because there's so many hardworking plumbers, framers, teachers... construction workers. The list goes on and they don't have schmikkles. Yet the laziest people I teach can make twenty-one thousand within twenty-four hours or another person that makes four hundred thousand in just a month. And wait for it, selling envelopes to grannies, two thousand per day, buying new cars, six k in a day. I used to work hard, fuck working hard. Nine bucks an hour in my ass. You're never gonna make this in a nine-to-five. You know what? Suck my Instagram, see if I'm real and DM me once you're ready.

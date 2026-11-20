@@ -1,0 +1,21 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/mattyr_ecom/DQmVYK5DiUT.txt"
+words: 173
+account: mattyr_ecom
+lang: en
+quality: transcript
+---
+
+# S_ig_mattyr_ecom_DQmVYK5DiUT
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/mattyr_ecom/DQmVYK5DiUT.txt` — حساب: mattyr_ecom — إنستجرام — فيديو DQmVYK5DiUT
+
+---
+The sad truth is people who are at their lowest have nothing to lose are the ones that are going to succeed in this industry. Shit, that was me. I had nothing to lose. What, nine bucks an hour? Whoop-de-doo. I can go fucking work at McDonald's for ten bucks. Wow, big risk. And I told all my students, what do you have to lose? Some of them left on me. Yeah. I have nothing to lose so let's run.
+
+Here's a guy making 120 grand per month right now. Another guy making his first sale in Canada. This guy spent 200 grand in December. This guy made 10 grand. I honestly forgot how many people I helped, like thousands. They're all on my Instagram here, 30k per what four days? Yeah, four days. Five k in a day. Four k in what couple days?
+
+Six grand in a day? It's just never-ending testimonials. So if you want to be put on, check out my gram. I don't bite, you can message me.

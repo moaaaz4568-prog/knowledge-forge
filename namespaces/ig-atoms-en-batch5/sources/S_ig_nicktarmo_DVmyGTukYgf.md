@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/nicktarmo/DVmyGTukYgf.txt"
+words: 540
+account: nicktarmo
+lang: en
+quality: transcript
+---
+
+# S_ig_nicktarmo_DVmyGTukYgf
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/nicktarmo/DVmyGTukYgf.txt` — حساب: nicktarmo — إنستجرام — فيديو DVmyGTukYgf
+
+---
+If you're still young, smart, and ambitious, and wondering what the future will look like for you with AI, you're probably gonna wanna watch this video, or don't, I don't really care. But I am 20 years old, making five figures a month, despite giving up the chance to recruit for a prestigious corporate career. And this is because I'm actually optimizing for something else. You see, as someone that has worked in consulting, now works at an AI startup in San Francisco, and makes money online through content, I'm here to tell you that if you're in your 20s or in college, your goal right now should probably be to become a career zigzagger, or someone that has a non-traditional career path. This is a concept that is currently going around right now due to this article and this creator that I know, and it essentially explains that you become a more valuable member to the AI economy if your resume looks messy. As a result, this is probably the best bet you can make on yourself with the way the future is unfolding with AI. This is because in a world where AI can get really good at one particular task, you become susceptible to be replaced if you are only good at that one task. What this means is that if you are a person of many interests, a polymath, a specialized generalist, then you are able to become the orchestrator that sits on top of this AI layer and plans out how to actually use this technology to your advantage. As a result, you no longer need to become extremely competent at something very particular, but instead need to understand a broader set of skills within a domain to then know how to use the AI and technology to then delegate to the specialists, which in this case are gonna be the AI agents instead of humans. What this means for you and me is that you should be optimizing to get a bunch of different learning experiences under your belt to make you an asset that is hard to price and rare to find in this economy. In my case, I got experience in the corporate world, the startup world, and the creator economy, which is rare to find. So although in a traditional world, I might be giving up some money today because I'm not chasing a prestigious career, the funny thing that I found with this approach is that because I gained a new set of skills that are harder to find, I've quite literally become more valuable to the world and believe that I'll be able to make more money doing something I genuinely like and I'm good at. In my fortunate case, I'm already making more money than I probably would have, even though what I'm doing isn't considered prestigious. So don't be fooled by the titles that you typically see online. Remember, people get paid directly for how much value they bring to this world. There is no shortcut to success, and if you want to become more valuable, you can no longer focus on something super specific because AI will be better than you at it. Hope this helps.

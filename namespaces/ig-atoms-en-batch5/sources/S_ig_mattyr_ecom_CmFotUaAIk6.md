@@ -1,0 +1,23 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/mattyr_ecom/CmFotUaAIk6.txt"
+words: 208
+account: mattyr_ecom
+lang: en
+quality: transcript
+---
+
+# S_ig_mattyr_ecom_CmFotUaAIk6
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/mattyr_ecom/CmFotUaAIk6.txt` — حساب: mattyr_ecom — إنستجرام — فيديو CmFotUaAIk6
+
+---
+Alright, here’s the raw transcript. I’ve stripped out everything but the actual speech to keep it clean.
+
+Here are three tips that made me a millionaire at 21. First, you have to start selling things to other people. I'm sorry, but 95% job is not going to cut it. Provide a good service and you can make really good schmickels. For example, I made this today. Second tip: instead of blowing money on dumb shit like Rolexes, get a normal watch. And the rest of the money invested in stocks or crypto, or even better, real estate.
+
+That's gonna stay for a while. Third tip—and this is the most important one—even if you're broke and you have no money in your account, fucking imagine that you're successful. Tell yourself that you are worthy, and that you are a billionaire or a millionaire, whatever you want to be. Every single night, just envision your perfect day. And believe me, if you start manifesting that shit, it's going to come true. If some dumbass kid that came from Poland on a boat—
+
+Can do it, then so can you. The only thing is, do you really want it? Drop a follow and let me know who's ready to be successful.

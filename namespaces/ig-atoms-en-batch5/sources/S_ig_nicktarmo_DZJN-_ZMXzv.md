@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/nicktarmo/DZJN-_ZMXzv.txt"
+words: 537
+account: nicktarmo
+lang: en
+quality: transcript
+---
+
+# S_ig_nicktarmo_DZJN-_ZMXzv
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/nicktarmo/DZJN-_ZMXzv.txt` — حساب: nicktarmo — إنستجرام — فيديو DZJN-_ZMXzv
+
+---
+I don't know how nobody's catching on to this yet, but the easiest way to make lots of money nowadays is to be yourself. And as someone that is going to make multiple five figures this month and has grown a hundred thousand followers in the past year, once I explain this to you, it's going to become disgustingly clear on what you should be focusing on right now. What we have right now in 2026 is this weird opportunity in our universe where the internet exists and has massively broadened the possible space of careers, a quote by Naval Ravikant. And we have AI, which is a great equalizer of building technology. The reason that this is so important is because based on Naval's three forms of business leverage, which is capital, labor, and products with zero marginal cost of replication, which is code and media, the internet and AI both fall into that third form of leverage. Now from here, the great thing about media and code is that they are permissionless. You don't need somebody's approval or capital to start. And he says if you can't code, you should write books, blogs, make videos and podcasts, which is media. But now if you add in AI's coding capabilities, you don't even need to know how to code. So what we have here is this opportunity to create leverage for ourselves without anybody's permission in a way that is unique to us through media, because every human is different and the best at being themselves. And now if you pair this form of media with a product or service that is easily buildable with AI, you can now combine both forms of products with zero marginal cost of replication, the third form of business leverage, and make lots of money by being yourself. And the reason why being yourself is such an important part of this formula is because Naval tells us to arm ourselves with specific knowledge, which is knowledge that is found by following your genuine curiosities and passions in a way that the work that you do feels like play to you, but looks like work to others. Being yourself is your differentiator, that's your competitive advantage. So if your differentiator is being yourself, you're gonna be the best at it. And if you apply it in a form of media that attracts people to your differentiation, you can market a product or service that has zero marginal cost of replication so that it scales using media that also has zero marginal cost of replication. It's free to make this video. So in summary, you don't need money, you don't need people working for you. All you need to do to start is know how to make media, which you can do right now using your phone, and learning how to code, which you can do right now using AI. I hope this makes sense. Maybe it makes more sense in my head because I've been doing this for the past year. But if you wanna learn more, just comment opportunity and I'll send you a list of articles and podcasts that has helped me get to where I am right now.

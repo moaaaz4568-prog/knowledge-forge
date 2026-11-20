@@ -1,0 +1,19 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/nicola.ai/DWpI9r7Ermw.txt"
+words: 109
+account: nicola.ai
+lang: en
+quality: transcript
+---
+
+# S_ig_nicola.ai_DWpI9r7Ermw
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/nicola.ai/DWpI9r7Ermw.txt` — حساب: nicola.ai — إنستجرام — فيديو DWpI9r7Ermw
+
+---
+Got it. Here’s the raw transcript:
+
+You can now copy literally any YouTube thumbnail and it won't even look like a copy. Here's how you actually steal a thumbnail the right way. I see so many business owners just taking a viral thumbnail and swapping the face? That's terrible! Don't do that. On YouTube, pick the thumbnail you want to replicate, take a screenshot, and upload it to my custom Gemini, and then add a picture of your face. And it will instantly generate your brand new thumbnail without you doing literally anything. If you want to try it out, just comment "copy" and I'll send you the link.

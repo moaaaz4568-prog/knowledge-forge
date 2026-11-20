@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/nicktarmo/DaLuZg2xyaM.txt"
+words: 561
+account: nicktarmo
+lang: en
+quality: transcript
+---
+
+# S_ig_nicktarmo_DaLuZg2xyaM
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/nicktarmo/DaLuZg2xyaM.txt` — حساب: nicktarmo — إنستجرام — فيديو DaLuZg2xyaM
+
+---
+Hey, I'm Nick. I'm helping build an AI startup to $100 million per year, but a year ago I was rejected from every job I applied to. So how did I get here? You see, a year ago I finished finals at McGill without a clue of what I was gonna do that summer because I was rejected from every internship I applied to, 150 of them. And while that hurt, instead of starting up my car detailing business again that I've been running for the past two summers, I decided to start posting online. But right as I started, out of nowhere two weeks into summer and after 150 applications and 500 emails, I somehow ended up in a three-round interview process and landed a consulting internship. So I was waking up at 4:30 a. M. , going to the gym, commuting one hour to work, working the whole day, commuting one hour back, and spending the rest of my free time building a brand online. And after posting twice a day for the entire summer while working my internship, I finally returned back to college with a new passion in my life. I want to ditch finance and consulting and go all in on social media. So in October I discovered this thing called UGC and hit my first 10K month working with some of the biggest tech startups out there. But that was just the beginning. From there I discovered that creators were extremely rare to come across but extremely in demand in the startup tech scene. I then posted a viral video online regarding my thoughts about AI and social media and immediately got recruited to join an AI startup all while being a full-time finance student at McGill. And this is where the story gets really interesting. By the end of the semester I ended up taking a gap semester and flying down to San Francisco to work in the AI scene full-time, not knowing anything about AI. But that's when it got tough. For four months I was working 12 hours a day, six days a week, trying to grow this startup and that shit was the biggest grind in my life. On top of the 70-hour work weeks, I was still trying to grow my brand online, so I was sleeping five to six hours a night, gaining weight, and felt the worst I've ever felt literally in my entire life. So after four months I decided to quit and go all in on social media. And three weeks later I grew 30, 000 followers and hit 100, 000 followers in less than a year. And then out of nowhere the founder of Stan, John Hu, texts me asking me to join the team to build their new AI head of content to $100 million a year. And because we both understand the power of building a personal brand and simply how it changes people's lives, I just had to say yes. So if you're in a position today where it feels like you're behind and nothing's going your way, you can either stay down and complain or do something about it just like I did. So if you like my story and wanna see how we're building this thing, you're just gonna have to find out. So stick around and follow the journey.

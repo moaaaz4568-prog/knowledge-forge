@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/mattyr_ecom/DPUHOEvjq2u.txt"
+words: 185
+account: mattyr_ecom
+lang: en
+quality: transcript
+---
+
+# S_ig_mattyr_ecom_DPUHOEvjq2u
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/mattyr_ecom/DPUHOEvjq2u.txt` — حساب: mattyr_ecom — إنستجرام — فيديو DPUHOEvjq2u
+
+---
+Listen Samsung we're beefing you had around six seven days to sell me on your new phone and you didn't even choose to dump millions of dollars on me to love this phone because I've been hearing only good things about it so now I'm done I'm being brutally truthful about this phone This is the biggest reason I'm going back How the fuck do we live in 2025 almost 26 and there's no fucking car uh Apple Play not Apple Play Android Play on a Lamborghini Urus There's no maps The only way to fucking drive with maps is under your lap Wow that's convenient Second thing I ordered so many cases all of them make this phone feel like trash and you can agree with me Samsung users This premium phone quality without a case the minute you drop it bye-bye two thousand schmickles So to enjoy it you're rocking no case The battery sucks I'm a power user I get it but dude develop better battery That's why I'm sticking with the Colt just got a new iPhone Who wants this garbage

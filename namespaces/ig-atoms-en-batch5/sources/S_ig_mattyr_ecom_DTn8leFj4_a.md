@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/mattyr_ecom/DTn8leFj4_a.txt"
+words: 160
+account: mattyr_ecom
+lang: en
+quality: transcript
+---
+
+# S_ig_mattyr_ecom_DTn8leFj4_a
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/mattyr_ecom/DTn8leFj4_a.txt` — حساب: mattyr_ecom — إنستجرام — فيديو DTn8leFj4_a
+
+---
+Lazy people get rewarded in this world. It's not the hard workers. See, this school's taught you wrong. If you work hard, you'll never get rich. My gosh, my schmickles fell. So let me explain the truth. The only way you can get rich is by selling a product or a service, which I've been telling you for the past... what? Six years that I've been selling products to grannies on Facebook. They're the rich grandmas that scroll mindlessly on there. You don't believe it? But tell me how it's possible that they're doing it and not you. You're working way harder. You deserve the schmickles. Well, no, you don't. You have to understand if you work smarter, not harder. Find a product, advertise it on Facebook, make the Facebook work for you. Because once you do that, there's no limits how much you can make, and you can make money 24/7. Ask me on Instagram for a free video.

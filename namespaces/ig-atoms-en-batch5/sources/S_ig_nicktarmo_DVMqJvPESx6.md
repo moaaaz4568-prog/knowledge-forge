@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/nicktarmo/DVMqJvPESx6.txt"
+words: 512
+account: nicktarmo
+lang: en
+quality: transcript
+---
+
+# S_ig_nicktarmo_DVMqJvPESx6
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/nicktarmo/DVMqJvPESx6.txt` — حساب: nicktarmo — إنستجرام — فيديو DVMqJvPESx6
+
+---
+Listen, this may sound very obvious to some people, but I've noticed something amongst people like you and me that nobody really talks about. Over the past four months, I've been paying special close attention to how the media you consume, the people that you surround yourself with, and even the city that you live in affect what you think and how you perceive the world. And as someone who's lived in three different cities, worked two different internships, quadrupled his income, and grew tens of thousands of followers online in the past eight months, I've come to the realization that you and me are both living inside of a social bubble or an echo chamber, if you will, and we as humans have a really hard time not realizing it. If you don't know what I mean by this, let me ask you three questions that will help you understand the depth of what I'm talking about. Here we go. When you go back home from college or from work, given you go to school or work in a different city, do you ever feel like you revert back to your high school self? Like you go back to your old habits and old mindset? Have you also noticed that your social media feed looks completely different than the person right beside you? And as a result, you guys both have no idea about the niche media that you guys consume every day that shapes your outlook on the world and your day-to-day thoughts? And finally, have you noticed that when you meet a new group of people, you fundamentally change the way you speak and the topics you talk about because that group of people talk way differently and speak about wildly different topics than your regular friends? You see, I've been noticing these scenarios quite frequently and I've come to the conclusion that if you're not actively aware of the media that you consume and the social and physical environment that you surround yourself with, this inherent bubble or echo chamber can become extremely dangerous because it fundamentally distorts your perception of reality. You'll start to think that other people are idiots for having a completely different outlook on life than you, and you'll inhibit your own ability to look at a topic from a different point of view, one of the most important skills for building strong and long-lasting relationships in your life. And I say this because I once fell into this trap. The media that I consciously consume today is wildly different from the media that I consumed eight months ago, and as a result, my outlook on life and my priorities has changed. But throughout that transition, I found myself to be very confused about why other people aren't seeing the world how I'm seeing the world. And it was only after I asked myself these questions that I came to the conclusion that nobody is necessarily an idiot. They just consume different information in a different environment that values different things compared to you.
