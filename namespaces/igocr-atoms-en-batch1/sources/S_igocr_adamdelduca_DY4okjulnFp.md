@@ -1,0 +1,78 @@
+---
+type: source
+topic: instagram-ocr
+origin: "/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_0.txt"
+words: 205
+sha1: a36d23d55fd9eaf9fff614a821aff3f483d1e01a
+lang: en
+account: adamdelduca
+quality: ocr+carousel-8
+---
+
+# S_igocr_adamdelduca_DY4okjulnFp
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_0.txt`
+> الأجزاء: 8 — `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_0.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_1.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_2.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_3.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_4.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_5.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_6.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/adamdelduca/DY4okjulnFp_7.txt`
+
+<!-- image 0 -->
+IQ
+5 tools
+I use to make
+$10K/mo with
+YouTube Automation
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 1 -->
+IQ
+vidIQ
+My idea filter. I use it to spot proven topics, high-opportunity keywords, and videos already getting traction. If the demand is there, the video is easier to package.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 2 -->
+SubscribrAI
+My script shortcut. I use it to outline videos, sharpen hooks, and speed up first drafts so I'm never starting from a blank page.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 3 -->
+vidrush
+My production engine.
+It helps me move from idea to faceless video faster with AI-assisted scripting, voice, and editing workflows.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 4 -->
+Pikzels
+My thumbnail shortcut. I use it to generate concepts fast, test looks, and get to a clickable thumbnail without staring at a blank canvas.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 5 -->
+Claude
+My thinking partner. I use it to
+brainstorm angles, rewrite hooks,
+build systems, and clean up
+messy ideas before they
+become videos.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 6 -->
+Want my exact
+YouTube
+Automation
+tool stack?
+Comment the word
+Go
+and I'll send it over.
+Adam Del Duca
+@adamdelduca
+Swipe →
+<!-- image 7 -->
+Adam Del Duca
+@adamdelduca
+If this helped,
+share it with a friend.
