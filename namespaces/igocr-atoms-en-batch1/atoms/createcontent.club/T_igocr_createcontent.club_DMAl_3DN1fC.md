@@ -1,0 +1,30 @@
+---
+type: atom
+topic: instagram-ocr
+source: sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+location: instagram/createcontent.club
+---
+
+# T_DMAl_3DN1fC_01
+
+"THIS FORMAT IS GOING CRAZY VIRAL 101K 105K 291K" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+
+# T_DMAl_3DN1fC_02
+
+"I'M NOT TALKING ABOUT SOME SNEAKY STRATEGY TO GET PEOPLE TO STOP SCROLLING" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+
+# T_DMAl_3DN1fC_03
+
+"THIS FORMAT IS HIGHLY EDUCATIONAL, SOLVES A PROBLEM AND MAKES PEOPLE SEE YOU AS AN AUTHORITY 105K" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+
+# T_DMAl_3DN1fC_04
+
+"AND IT CAN ATTRACT THOUSANDS OF BUYERS FOR YOUR BUSINESS LEADS COLLECTED IN THE LAST 31 DAYS Opportunity Status 11.31K 27473.17% vs Last 31 Days 11.31K" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+
+# T_DMAl_3DN1fC_05
+
+"I’M TALKING ABOUT CAROUSELS, BUT YOU NEED TO KNOW HOW TO CREATE THEM THE RIGHT WAY TO GET RESULTS LIKE THESE HOW TO FRAME YOUR REELS OLD VS NEW ALGORITHM HOW TO PLAN A FULL MONTH OF CONTENT! STEP-BY-STEP 101K 105K 291K 1K" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md
+
+# T_DMAl_3DN1fC_06
+
+"WE MADE A VIDEO ON HOW WE CREATE OUR VIRAL CONTENT FOLLOW US AND COMMENT" — sources/S_igocr_createcontent.club_DMAl_3DN1fC.md

@@ -1,0 +1,10 @@
+---
+type: atom
+topic: instagram-ocr
+source: sources/S_igocr_aspirenest0b9_DXW6pDEiUUr.md
+location: instagram/aspirenest0b9
+---
+
+# T_DXW6pDEiUUr_01
+
+"THE $100M GROWTH SYSTEM (3 Hormozi Secrets, 1 Claude Skill, Your Business Cheat Code) $100M OFFERS ALEX HORMOZI FOCUSES ON CREATING IRRESISTIBLE VALUE $100M LEADS ALEX HORMOZI METHODS TO GENERATE CONSISTENT CUSTOMERS $100M MONEY MODELS ALEX HORMOZI TEACHES PROFIT MAXIMIZATION AND MONETIZATION STRATEGIES COMMENT :" — sources/S_igocr_aspirenest0b9_DXW6pDEiUUr.md
