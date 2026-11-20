@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: seanrcallagy
+aka: [ability, seanrcallagy account context]
+origin: sources/S_ig_seanrcallagy_DIwQH2yp5s2.md
+---
+
+# G_ig_seanrcallagy_DIwQH2yp5s2 — ability
+
+## Term
+
+"ability" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: developed, ability, either, high. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- ability
+- seanrcallagy account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "As soon as people think you can't and they think someone else can better, they're gone. If you don't have that team yet, it's because you haven't either developed the ability at a high enough level to help people grow personally, professionally, and financially, or you haven't developed the ability to have them know it." — sources/S_ig_seanrcallagy_DIwQH2yp5s2.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "ability": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
