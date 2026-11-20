@@ -11,4 +11,8 @@ location: instagram/okaashish
 
 # T_DbyAffTvzuN_02
 
-"here. This gives your AI real reference instead of other generic AI aesthetic. Turn it into a skill as well. And finally, Magnum Photos. Ask AI to study the lighting, framing, and imperfection of the images here, then use those details in your skills so your AI designs and images feel even more real." — sources/S_ig_okaashish_DbyAffTvzuN.md
+"Second, archive. Org. You'll find old books, posters, and magazines from almost every era here. This gives your AI real reference instead of other generic AI aesthetic. Turn it into a skill as well. And finally, Magnum Photos. Ask AI to study the lighting, framing, and imperfection of the images here, then use those details in your skills so your AI designs and images feel even more real." — sources/S_ig_okaashish_DbyAffTvzuN.md
+
+# T_DbyAffTvzuN_03
+
+"and I'll share all the three websites and how you can convert these websites into skills." — sources/S_ig_okaashish_DbyAffTvzuN.md

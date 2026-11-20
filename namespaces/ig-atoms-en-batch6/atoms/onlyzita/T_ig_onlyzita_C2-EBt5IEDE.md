@@ -11,4 +11,8 @@ location: instagram/onlyzita
 
 # T_C2-EBt5IEDE_02
 
-"that's related to what you create content about. Once you do, copy and paste the link to that blog into ChatGPT and ask it to rewrite the blog for you. Finally, use this exact prompt on the screen right now to turn the rewritten blog into a viral script in seconds." — sources/S_ig_onlyzita_C2-EBt5IEDE.md
+"he Content Rewriter plugin. This plugin is able to rewrite any blog given just the link. Then head over to the site called Medium. Medium is the biggest blogging platform in the entire world that all the top authors and writers post on. Even the 44th president of the United States writes on here. Look through Medium until you find a trending blog that's related to what you create content about." — sources/S_ig_onlyzita_C2-EBt5IEDE.md
+
+# T_C2-EBt5IEDE_03
+
+"dium until you find a trending blog that's related to what you create content about. Once you do, copy and paste the link to that blog into ChatGPT and ask it to rewrite the blog for you. Finally, use this exact prompt on the screen right now to turn the rewritten blog into a viral script in seconds." — sources/S_ig_onlyzita_C2-EBt5IEDE.md

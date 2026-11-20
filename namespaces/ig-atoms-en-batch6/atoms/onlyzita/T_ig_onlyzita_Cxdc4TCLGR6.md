@@ -11,4 +11,12 @@ location: instagram/onlyzita
 
 # T_Cxdc4TCLGR6_02
 
-"e all the AIs on the screen right now to automate your content creation. Finally, create a one-page landing page using Unbounce to drive your followers to to purchase your service. Thousands of people are doing the exact same business model and making more money than they ever dreamed." — sources/S_ig_onlyzita_Cxdc4TCLGR6.md
+"a service to sell. You can choose any of these services on the screen right now. They're all in demand. Step two, you're gonna find potential clients using Apollo. Ai and automate sending them messages using Instantly. Ai. Use this prompt on the screen right now in ChatGPT to write an effective cold email." — sources/S_ig_onlyzita_Cxdc4TCLGR6.md
+
+# T_Cxdc4TCLGR6_03
+
+"step three, you're gonna create an Instagram and Twitter profile and use all the AIs on the screen right now to automate your content creation. Finally, create a one-page landing page using Unbounce to drive your followers to to purchase your service. Thousands of people are doing the exact same business model and making more money than they ever dreamed." — sources/S_ig_onlyzita_Cxdc4TCLGR6.md
+
+# T_Cxdc4TCLGR6_04
+
+"down below and I'll show you how to scale this business to six figures." — sources/S_ig_onlyzita_Cxdc4TCLGR6.md

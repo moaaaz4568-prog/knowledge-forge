@@ -11,4 +11,12 @@ location: instagram/okaashish
 
 # T_DWQy_ZdjxRJ_02
 
-"news app where whenever I swipe right, it adds the news to data for my newsletter, and when I swipe left, it goes to the bin. And I didn't stop after this. I built more than 10 apps. And the honest takeaway from that particular conference was just build it. You need to build it. You need to do it yourself." — sources/S_ig_okaashish_DWQy_ZdjxRJ.md
+"me. But I was never into programming. I hated it. I don't have a strong background in coding. I didn't go to university to study computer science. And when I asked them about the exact AI stack they have been using to build all these apps, I found out this highly underrated AI tool called Emergent. And yes, I had to test it out. I built a Tinder style app, but for AI news and updates." — sources/S_ig_okaashish_DWQy_ZdjxRJ.md
+
+# T_DWQy_ZdjxRJ_03
+
+"style app, but for AI news and updates. Took just one prompt, and now I have an AI news app where whenever I swipe right, it adds the news to data for my newsletter, and when I swipe left, it goes to the bin. And I didn't stop after this. I built more than 10 apps. And the honest takeaway from that particular conference was just build it. You need to build it. You need to do it yourself." — sources/S_ig_okaashish_DWQy_ZdjxRJ.md
+
+# T_DWQy_ZdjxRJ_04
+
+"and I'll share the entire guide on how to whiteboard using Emergent in your inbox." — sources/S_ig_okaashish_DWQy_ZdjxRJ.md

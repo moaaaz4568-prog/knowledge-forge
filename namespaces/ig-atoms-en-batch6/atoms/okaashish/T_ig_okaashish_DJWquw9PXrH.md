@@ -11,4 +11,4 @@ location: instagram/okaashish
 
 # T_DJWquw9PXrH_02
 
-"part, the same voice can work in Hindi too, like this. Status check karna hai, do double. Ha ha, pata hai, jaldi mein hu. Agar. . . Okay, let's change the voice accent now with just one prompt. Agar asli bande se baat karani hai, toh chor dabaa de. Par zyada bhala mat. Kaam kar rahe hain becharay, chalo ab jaldi kar. Amazing, isn't it? Go try it yourself." — sources/S_ig_okaashish_DJWquw9PXrH.md
+"online jewelry auction. The best part, the same voice can work in Hindi too, like this. Status check karna hai, do double. Ha ha, pata hai, jaldi mein hu. Agar. . . Okay, let's change the voice accent now with just one prompt. Agar asli bande se baat karani hai, toh chor dabaa de. Par zyada bhala mat. Kaam kar rahe hain becharay, chalo ab jaldi kar. Amazing, isn't it? Go try it yourself." — sources/S_ig_okaashish_DJWquw9PXrH.md

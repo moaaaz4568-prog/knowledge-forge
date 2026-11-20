@@ -11,4 +11,12 @@ location: instagram/nicolasboucherfinance
 
 # T_DdEfr3vJM-6_02
 
-"w I add the second prompt to make the file actually usable. Audit that cleaning in a third tab, flag any row that fails. And we get the audit tab, which shows us that we actually had mistakes earlier in the file. This way, when building a forecast, I won't be using wrong numbers because I know what to fix first." — sources/S_ig_nicolasboucherfinance_DdEfr3vJM-6.md
+"ith duplicate rows at the bottom. So I brief Claude like a junior analyst: dates in this format, turn everything to USD, remove duplicates, add new tab. Screenshot this prompt now because this is the exact prompt you need. Now, Claude logs every change in a notes column. And now I add the second prompt to make the file actually usable. Audit that cleaning in a third tab, flag any row that fails." — sources/S_ig_nicolasboucherfinance_DdEfr3vJM-6.md
+
+# T_DdEfr3vJM-6_03
+
+"d. Now, Claude logs every change in a notes column. And now I add the second prompt to make the file actually usable. Audit that cleaning in a third tab, flag any row that fails. And we get the audit tab, which shows us that we actually had mistakes earlier in the file. This way, when building a forecast, I won't be using wrong numbers because I know what to fix first." — sources/S_ig_nicolasboucherfinance_DdEfr3vJM-6.md
+
+# T_DdEfr3vJM-6_04
+
+"and I'll send you the link to my free AI CFO masterclass." — sources/S_ig_nicolasboucherfinance_DdEfr3vJM-6.md

@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DDpv5MjS_kI.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DDpv5MjS_kI_01
+
+"Dude, how are you getting views like this? Especially as a business owner? I have this super cool method that only takes me four hours to create content for an entire month and got me views and follows like this just last month. Spill the beans. Okay, fine. Shh. Okay. Step one: type in your niche in the search bar, then screenshot the profiles of the top five to ten creators within your niche." — sources/S_ig_personalbrandlaunch_DDpv5MjS_kI.md
+
+# T_DDpv5MjS_kI_02
+
+"Okay. Got it. Step two: go to one of these five to ten accounts and tap follow. Instagram will recommend accounts just like it. How do I look through these profiles and screenshot more profiles with big followings within your niche? How many screenshots do you want though? I would do about like thirty to fifty total. Dang. Yeah, I know. Now add all these usernames onto a spreadsheet." — sources/S_ig_personalbrandlaunch_DDpv5MjS_kI.md
+
+# T_DDpv5MjS_kI_03
+
+"What's the next step? Step three: go to the first username on the list, switch to the reels tab, and find their top five to ten most viral videos from the past six months. Add them to the spreadsheet. Okay, just for that one username? No. Do this for every single username. I even like to write out additional details like the hook, video topic format, and so on. Alright, now what?" — sources/S_ig_personalbrandlaunch_DDpv5MjS_kI.md
+
+# T_DDpv5MjS_kI_04
+
+"Step four: use these viral hooks and video topics to write your own scripts but add in your own expert advice so they're actually authentic. Then just make sure to post one video a day. So you can get results like my clients and I. Whoa. But can you repeat that one more time so I could write it down? Oh, don't worry. Comment 'viral' and I'll send you over a step-by-step breakdown of this process." — sources/S_ig_personalbrandlaunch_DDpv5MjS_kI.md

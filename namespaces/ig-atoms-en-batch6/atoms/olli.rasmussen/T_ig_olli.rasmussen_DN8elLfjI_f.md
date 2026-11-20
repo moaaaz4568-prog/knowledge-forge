@@ -11,4 +11,4 @@ location: instagram/olli.rasmussen
 
 # T_DN8elLfjI_f_02
 
-"ecause either the AI does outreach that gets them more sales or... The AI takes inbound requests that actually just save them time. Literally every single business will need AI and automation, which makes it almost impossible to get saturated, which is exactly why this challenge is completely free on building agents, doing the outreach, and then selling them." — sources/S_ig_olli.rasmussen_DN8elLfjI_f.md
+"on they pay for this is because either the AI does outreach that gets them more sales or... The AI takes inbound requests that actually just save them time. Literally every single business will need AI and automation, which makes it almost impossible to get saturated, which is exactly why this challenge is completely free on building agents, doing the outreach, and then selling them." — sources/S_ig_olli.rasmussen_DN8elLfjI_f.md

@@ -11,4 +11,4 @@ location: instagram/okaashish
 
 # T_DKHjqQ0P1x3_02
 
-"f and list all the conditions before coming up with an answer. That's chain-of-thought prompting. And third, specific facts are embedded. For example, Trump won the 2024 elections. But here's the best one. It's trained to fake opinion. So the next time you ask Claude how the t-shirt looks on you, it's probably faking it. I'm not lying. Go see it yourself." — sources/S_ig_okaashish_DKHjqQ0P1x3.md
+"sks, it is forced to talk to itself and list all the conditions before coming up with an answer. That's chain-of-thought prompting. And third, specific facts are embedded. For example, Trump won the 2024 elections. But here's the best one. It's trained to fake opinion. So the next time you ask Claude how the t-shirt looks on you, it's probably faking it. I'm not lying. Go see it yourself." — sources/S_ig_okaashish_DKHjqQ0P1x3.md

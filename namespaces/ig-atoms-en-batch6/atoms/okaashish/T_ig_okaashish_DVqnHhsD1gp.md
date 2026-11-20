@@ -11,4 +11,4 @@ location: instagram/okaashish
 
 # T_DVqnHhsD1gp_02
 
-"to create PDF estimates, documentations, or you can even ask it to arrange files in Google Drive. And over time, it starts remembering how you work, your rates, your clients, and even the way you price things. It basically becomes the admin side of your business. Trust me, if you're running a service business, it's a goldmine. You need to try it yourself." — sources/S_ig_okaashish_DVqnHhsD1gp.md
+"y other assistant. You can ask it to create PDF estimates, documentations, or you can even ask it to arrange files in Google Drive. And over time, it starts remembering how you work, your rates, your clients, and even the way you price things. It basically becomes the admin side of your business. Trust me, if you're running a service business, it's a goldmine. You need to try it yourself." — sources/S_ig_okaashish_DVqnHhsD1gp.md

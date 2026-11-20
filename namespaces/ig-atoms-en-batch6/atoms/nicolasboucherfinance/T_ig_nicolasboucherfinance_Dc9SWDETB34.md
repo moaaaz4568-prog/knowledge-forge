@@ -11,4 +11,8 @@ location: instagram/nicolasboucherfinance
 
 # T_Dc9SWDETB34_02
 
-"ons, and it even asks you for the design if you don't provide your own design. Think about the time that you have spent doing hundreds of PowerPoint presentations if you work in finance. Look at this. This presentation is done. This is what Copilot can do today. This was one use case. The full system is in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_Dc9SWDETB34.md
+"us 4. 8, and then you start prompting that you are the CFO of AquaPure or your company name. Then you are going to attach the Excel file that we just saw. And then we launch Copilot on this. You can see that Copilot will ask you follow-up questions, and it even asks you for the design if you don't provide your own design." — sources/S_ig_nicolasboucherfinance_Dc9SWDETB34.md
+
+# T_Dc9SWDETB34_03
+
+"opilot will ask you follow-up questions, and it even asks you for the design if you don't provide your own design. Think about the time that you have spent doing hundreds of PowerPoint presentations if you work in finance. Look at this. This presentation is done. This is what Copilot can do today. This was one use case. The full system is in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_Dc9SWDETB34.md

@@ -11,4 +11,12 @@ location: instagram/nicolasboucherfinance
 
 # T_DdFK5ZWzdwo_02
 
-"n clients are recorded differently in 2025 than in 2026, so it restates everything on the same basis first. And we get the dashboard and the memo, and the miss is the churn which budget never modeled. This way I walk into the board meeting already knowing the question they will ask and I have the answer. Want to master AI in finance?" — sources/S_ig_nicolasboucherfinance_DdFK5ZWzdwo.md
+"d brief Claude like a junior analyst. Verify the data, propose the analyses to run, run them, and show your math. Build a board-ready dashboard with KPI cards, and write me a memo with the top drivers and the questions to ask. This is the exact prompt you need." — sources/S_ig_nicolasboucherfinance_DdFK5ZWzdwo.md
+
+# T_DdFK5ZWzdwo_03
+
+"iles before it analyzes anything, and it flags that churn clients are recorded differently in 2025 than in 2026, so it restates everything on the same basis first. And we get the dashboard and the memo, and the miss is the churn which budget never modeled. This way I walk into the board meeting already knowing the question they will ask and I have the answer. Want to master AI in finance?" — sources/S_ig_nicolasboucherfinance_DdFK5ZWzdwo.md
+
+# T_DdFK5ZWzdwo_04
+
+"and I will send you a link to join my free masterclass." — sources/S_ig_nicolasboucherfinance_DdFK5ZWzdwo.md

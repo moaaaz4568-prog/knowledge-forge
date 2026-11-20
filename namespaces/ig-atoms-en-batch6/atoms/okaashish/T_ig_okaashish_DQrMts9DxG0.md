@@ -8,3 +8,7 @@ location: instagram/okaashish
 # T_DQrMts9DxG0_01
 
 "CodeSoso, Lovable, Bolt, Replit, or any current no-code coding app either cannot build a mobile application or is just good for prototyping. So I found a free one that can build complex production-level mobile apps that you can add on App Store or Play Store in just a few clicks. Just go to this website, add a PRD, and watch the agents work like a team." — sources/S_ig_okaashish_DQrMts9DxG0.md
+
+# T_DQrMts9DxG0_02
+
+"n just a few clicks. Just go to this website, add a PRD, and watch the agents work like a team. The planner will understand your request and the developer will work better than a human developer. And the best part, you can add in-app monetization and connect your app with third-party APIs and SDKs like Stripe, Figma, Supabase, or even Aniton in just one click. You need to try it yourself." — sources/S_ig_okaashish_DQrMts9DxG0.md

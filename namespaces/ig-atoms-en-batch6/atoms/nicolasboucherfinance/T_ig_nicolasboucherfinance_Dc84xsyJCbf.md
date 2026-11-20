@@ -11,4 +11,8 @@ location: instagram/nicolasboucherfinance
 
 # T_Dc84xsyJCbf_02
 
-"rs for the monthly cash, a line for the cumulative, and we get the KPI cards and the chart, all linked to the same formulas. This way, when someone asks what happens if costs run hotter, I don't build a second model. I change one cell and the whole year answers. This was one use case. The full system is in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_Dc84xsyJCbf.md
+"ons at the top so I can edit them. Screenshot this prompt now because this is the exact prompt you need. Now Claude writes every month with averages, so each month pulls its own two-year average and then applies my growth rate. Nothing is hard-coded." — sources/S_ig_nicolasboucherfinance_Dc84xsyJCbf.md
+
+# T_Dc84xsyJCbf_03
+
+"into a dashboard on the same tab, bars for the monthly cash, a line for the cumulative, and we get the KPI cards and the chart, all linked to the same formulas. This way, when someone asks what happens if costs run hotter, I don't build a second model. I change one cell and the whole year answers. This was one use case. The full system is in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_Dc84xsyJCbf.md

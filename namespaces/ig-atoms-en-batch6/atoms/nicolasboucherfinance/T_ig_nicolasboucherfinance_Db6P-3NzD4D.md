@@ -11,4 +11,8 @@ location: instagram/nicolasboucherfinance
 
 # T_Db6P-3NzD4D_02
 
-"to its card charge, add the matches to the dashboard, and show me which charges still have no receipt. Take a screenshot now if you want to try. Then I attach the receipts, 15 messy photos. Now Claude reads every single image, pulls all the information and lines each one up against the right row in the card feed. And we have a clean reconciliation table as a result." — sources/S_ig_nicolasboucherfinance_Db6P-3NzD4D.md
+"atch each receipt to its card charge, add the matches to the dashboard, and show me which charges still have no receipt. Take a screenshot now if you want to try. Then I attach the receipts, 15 messy photos. Now Claude reads every single image, pulls all the information and lines each one up against the right row in the card feed. And we have a clean reconciliation table as a result." — sources/S_ig_nicolasboucherfinance_Db6P-3NzD4D.md
+
+# T_Db6P-3NzD4D_03
+
+"the right row in the card feed. And we have a clean reconciliation table as a result. Claude flags three charges still missing a receipt, so I know exactly who to chase. And you can pull whatever else you need right into this dashboard. This is the job a finance executive normally wastes hours on. This was one use case. The full system is in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_Db6P-3NzD4D.md

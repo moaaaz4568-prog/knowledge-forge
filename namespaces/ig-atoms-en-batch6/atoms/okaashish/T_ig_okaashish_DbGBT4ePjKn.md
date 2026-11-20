@@ -11,4 +11,8 @@ location: instagram/okaashish
 
 # T_DbGBT4ePjKn_02
 
-"Microwise. Enroll if you're a niche expert in coding, legal, or any niche job, and they'll pay you more per hour than your actual job. I'm serious. And honestly, it's not just these three. AI training has become legit money-making source, and there are many more companies like CrowdGean, Merkle, etc. Where you can make way more." — sources/S_ig_okaashish_DbGBT4ePjKn.md
+"at pays you even for writing good prompts. And third is Microwise. Enroll if you're a niche expert in coding, legal, or any niche job, and they'll pay you more per hour than your actual job. I'm serious. And honestly, it's not just these three. AI training has become legit money-making source, and there are many more companies like CrowdGean, Merkle, etc. Where you can make way more." — sources/S_ig_okaashish_DbGBT4ePjKn.md
+
+# T_DbGBT4ePjKn_03
+
+"and I'll send you all the links and some secret hacks." — sources/S_ig_okaashish_DbGBT4ePjKn.md

@@ -11,4 +11,8 @@ location: instagram/olli.rasmussen
 
 # T_DU05PpyjV_I_02
 
-"e Calendar so the AI can book appointments directly. Now, copy their website, add to demo, insert the website, make sure the colors match their website. Now to sell it to them, demo this live right here on the sales call. You can sell this from anywhere from $500 to $2k upfront and then charge $5k a year." — sources/S_ig_olli.rasmussen_DU05PpyjV_I.md
+"lesperson, use Jeremy Miner as a role model, and ChatGPT grade three. Access company info and make an FAQ to this site. We copy the entire prompt, head over to this website, click on Sales Agent, click on AI Agent, head over to Advanced, and paste it in. System prompt: connected to their Google Calendar so the AI can book appointments directly." — sources/S_ig_olli.rasmussen_DU05PpyjV_I.md
+
+# T_DU05PpyjV_I_03
+
+"connected to their Google Calendar so the AI can book appointments directly. Now, copy their website, add to demo, insert the website, make sure the colors match their website. Now to sell it to them, demo this live right here on the sales call. You can sell this from anywhere from $500 to $2k upfront and then charge $5k a year." — sources/S_ig_olli.rasmussen_DU05PpyjV_I.md

@@ -11,4 +11,12 @@ location: instagram/noevarner.ai
 
 # T_DTGNBGakexB_02
 
-"eir site, including their photos as well. Then it's gonna download all these website photos and upload it to the same Google Drive folder. And then it's going to enrich my Airtable data system with all the data that I needed from my client. What once took me two hours to onboard a client now takes me less than 30 seconds." — sources/S_ig_noevarner.ai_DTGNBGakexB.md
+"we're storing all their content, and their Instagram username. Then the first part is it's going to scrape my client's Instagram and all of their Instagram reels and upload it to a Google Drive folder. Then it's gonna scrape all of their website data to get all of the information off their site, including their photos as well." — sources/S_ig_noevarner.ai_DTGNBGakexB.md
+
+# T_DTGNBGakexB_03
+
+"data to get all of the information off their site, including their photos as well. Then it's gonna download all these website photos and upload it to the same Google Drive folder. And then it's going to enrich my Airtable data system with all the data that I needed from my client. What once took me two hours to onboard a client now takes me less than 30 seconds." — sources/S_ig_noevarner.ai_DTGNBGakexB.md
+
+# T_DTGNBGakexB_04
+
+"below and I'll send it to you right now." — sources/S_ig_noevarner.ai_DTGNBGakexB.md

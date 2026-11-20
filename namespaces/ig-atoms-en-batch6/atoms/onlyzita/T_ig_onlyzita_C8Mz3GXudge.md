@@ -11,4 +11,12 @@ location: instagram/onlyzita
 
 # T_C8Mz3GXudge_02
 
-"icles with a certain keyword in the title. My keyword is AI. Those articles then get uploaded into ChatGPT, where it'll tell me how I can turn each article into a video that my audience would enjoy. This is exactly how I get dozens of new content ideas every single day without lifting a finger." — sources/S_ig_onlyzita_C8Mz3GXudge.md
+"h so that created this automation that gets me new content ideas from this newspaper every single day on autopilot. Let me show you how it works, then I'll show you how to copy for yourself and exactly what this newspaper is. Every day my automation views all the latest articles posted on this newspaper site and then filters that only looks at the articles with a certain keyword in the title." — sources/S_ig_onlyzita_C8Mz3GXudge.md
+
+# T_C8Mz3GXudge_03
+
+"ll the latest articles posted on this newspaper site and then filters that only looks at the articles with a certain keyword in the title. My keyword is AI. Those articles then get uploaded into ChatGPT, where it'll tell me how I can turn each article into a video that my audience would enjoy. This is exactly how I get dozens of new content ideas every single day without lifting a finger." — sources/S_ig_onlyzita_C8Mz3GXudge.md
+
+# T_C8Mz3GXudge_04
+
+"below if you wanna learn how to create this automation for yourself. And the newspaper was the." — sources/S_ig_onlyzita_C8Mz3GXudge.md

@@ -11,4 +11,12 @@ location: instagram/nicolasboucherfinance
 
 # T_DdGsJczJym4_02
 
-"ts drive the whole model. And we get the audit tab where all 21 checks pass and the balance sheet ties to zero in every year. And on top we get the board pack headline metrics, summary P&L, cash, and the charts. This way when someone asks me to change a growth rate, I change one cell and the whole model answers." — sources/S_ig_nicolasboucherfinance_DdGsJczJym4.md
+"years. Start by creating the dummy data, add an audit tab, and create a board pack at the end. Screenshot this prompt now because this is the exact prompt you need. Now Claude plans the 12 tabs before it creates anything, then links every sheet back to one assumptions tab, so the blue inputs drive the whole model." — sources/S_ig_nicolasboucherfinance_DdGsJczJym4.md
+
+# T_DdGsJczJym4_03
+
+"every sheet back to one assumptions tab, so the blue inputs drive the whole model. And we get the audit tab where all 21 checks pass and the balance sheet ties to zero in every year. And on top we get the board pack headline metrics, summary P&L, cash, and the charts. This way when someone asks me to change a growth rate, I change one cell and the whole model answers." — sources/S_ig_nicolasboucherfinance_DdGsJczJym4.md
+
+# T_DdGsJczJym4_04
+
+"and I'll send you the link to my free AI CFO masterclass." — sources/S_ig_nicolasboucherfinance_DdGsJczJym4.md

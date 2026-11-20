@@ -11,4 +11,12 @@ location: instagram/nicolasboucherfinance
 
 # T_Db6pacRThJI_02
 
-"liminations tab, and a consolidated tab that sums the entities with formulas, then add an audit tab that proves it. Screenshot this prompt if you want to try. And here, Claude walks me through every step, it reads all the files and builds the whole workbook. Let's see the result. Here is the consolidated tab, eliminations tab, and the audit tab and all 12 entity tabs after that." — sources/S_ig_nicolasboucherfinance_Db6pacRThJI.md
+"d give it permission to work in there. Now it can read and build across all 12 files at once. And I brief it to build one consolidated workbook, a tab per entity, an eliminations tab, and a consolidated tab that sums the entities with formulas, then add an audit tab that proves it. Screenshot this prompt if you want to try." — sources/S_ig_nicolasboucherfinance_Db6pacRThJI.md
+
+# T_Db6pacRThJI_03
+
+", it reads all the files and builds the whole workbook. Let's see the result. Here is the consolidated tab, eliminations tab, and the audit tab and all 12 entity tabs after that. But here's my golden rule: always double check the AI. So I take USA net income 19,296 and I trace it straight into the consolidated. Correct? Awesome, right? Ready to use Claude like a finance pro?" — sources/S_ig_nicolasboucherfinance_Db6pacRThJI.md
+
+# T_Db6pacRThJI_04
+
+". I'll DM you my free Claude resource to master Claude in finance." — sources/S_ig_nicolasboucherfinance_Db6pacRThJI.md

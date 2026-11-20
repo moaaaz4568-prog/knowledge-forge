@@ -11,4 +11,12 @@ location: instagram/okaashish
 
 # T_DTNaS8VDyGC_02
 
-"s like this, this, and this. Send them your pitch in their DMs. And to stand out from the lot, I've built something similar and add that to your portfolio. Then for the first few clients, offer prices that are less than market rate. It'll help you negotiate better. Once done, the sky is yours." — sources/S_ig_okaashish_DTNaS8VDyGC.md
+", create an account on Emergent and play with it to understand system architecture and its prompting guide. Why Emergent? Because unlike other no-code apps, it can create mobile applications and Chrome extensions too. It's important. Then head over to Reddit and look for posts like this, this, and this. Send them your pitch in their DMs." — sources/S_ig_okaashish_DTNaS8VDyGC.md
+
+# T_DTNaS8VDyGC_03
+
+"hen head over to Reddit and look for posts like this, this, and this. Send them your pitch in their DMs. And to stand out from the lot, I've built something similar and add that to your portfolio. Then for the first few clients, offer prices that are less than market rate. It'll help you negotiate better. Once done, the sky is yours." — sources/S_ig_okaashish_DTNaS8VDyGC.md
+
+# T_DTNaS8VDyGC_04
+
+"to catch the entire roadmap in your DMs." — sources/S_ig_okaashish_DTNaS8VDyGC.md

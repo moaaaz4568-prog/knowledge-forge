@@ -11,4 +11,8 @@ location: instagram/olli.rasmussen
 
 # T_DUoV-plgNDL_02
 
-"meeting with a client. And once you get on the meeting, you definitely shouldn't use this entire sales script to then land them as your first client, and once you had the client, then... upsell them on multiple AI services, and you definitely couldn't do that because that's how I got to $85k a month." — sources/S_ig_olli.rasmussen_DUoV-plgNDL.md
+"post, go to their profile, and then use this exact script right here in order to get on a meeting with a client. And once you get on the meeting, you definitely shouldn't use this entire sales script to then land them as your first client, and once you had the client, then... upsell them on multiple AI services, and you definitely couldn't do that because that's how I got to $85k a month." — sources/S_ig_olli.rasmussen_DUoV-plgNDL.md
+
+# T_DUoV-plgNDL_03
+
+"and I'll send you how to build the AI and all of the scripts needed to close the client." — sources/S_ig_olli.rasmussen_DUoV-plgNDL.md
