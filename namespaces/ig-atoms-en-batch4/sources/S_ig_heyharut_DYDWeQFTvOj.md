@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DYDWeQFTvOj.txt"
+words: 612
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DYDWeQFTvOj
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DYDWeQFTvOj.txt` — حساب: heyharut — إنستجرام — فيديو DYDWeQFTvOj
+
+---
+
+If your business is stuck under one hundred k a month, there's two things that you can do to grow it. Number one, you can get more clients. Number two, you can make them worth more. So what, how do you know which one to start with? Well, if you have more clients than you can handle, then usually you need to make your clients worth more. Meaning, if let's say you have an agency and you have thirty clients and like it's close to capacity, then well, you need to make your clients worth more. Meaning, you need to increase prices, you need to hire more team members that will service these clients, you need to build AI tools and automations and systems to be able to service more people by templatizing and productizing your product or service. And you need to make sure that you can handle more clients and make them worth more, right? So let's say if you charge three thousand dollars a month and you have thirty clients, you are making ninety k a month. If you have thirty clients and you start charging ten thousand dollars a month, you'll make three hundred k a month. Now, this sounds simpler than it is, but it is very possible. I've worked with people that charge tens of thousands of dollars a month for their service, so it's being done every single day. So then the question you need to ask yourself is, well, how do I do that? So how, who else is charging more than me? Who they are attracting, what's their avatar? How can I do that? What do I need to change in my positioning, in my messaging? Do I need to show more proof? Do I need to, what do I need to do for my service or product to be worth few times more? And how can I increase price? And sometimes the easiest version is to just literally increase it and nothing changes. We have done it more often than pretty much any other pricing strategy, which is you just increase the price and you see what happens because you can make it go back anytime, but sometimes you see, oh my God, people still keep paying and that's it. So yeah, if you can't handle more clients, then you need to make your clients worth more. So don't try to get more clients, just increase prices, upgrade your avatar, and see how you can hire team members and build systems to be able to handle more clients. The second thing, if you can handle more customers, is to get more customers. There's nothing else you can do to grow your business. If you open your calendar and let's say you can handle more clients, well, does most of your time go towards trying to get new clients, or does it go towards micro-optimizations of small things that don't even matter? The amount of the times where the constraint of my business was getting more clients, but if I looked at my weekend at my hours, I spent like thirty percent of my time there. It's crazy. So if you flip it and you make seventy, eighty percent of your time trying to get more clients, which is you do outreach, you run ads and you post content, that's it. Or you research content, you ideate content, etc. Hire team, then your business will start growing. So if you are not yet growing, you either are not trying to get more clients and wasting your time somewhere else, or you can't handle more clients, which means you need to solve that first.

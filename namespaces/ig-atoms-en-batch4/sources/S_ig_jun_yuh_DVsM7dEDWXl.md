@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/jun_yuh/DVsM7dEDWXl.txt"
+words: 210
+account: jun_yuh
+lang: en
+quality: transcript
+---
+
+# S_ig_jun_yuh_DVsM7dEDWXl
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/jun_yuh/DVsM7dEDWXl.txt` — حساب: jun_yuh — إنستجرام — فيديو DVsM7dEDWXl
+
+---
+
+The number one reason why business owners aren't making more money online is because they believe that trust and authority are the same thing. On one side, you have a person that's sharing their lived experience, something that others can connect to. On the other side, you have someone constantly posturing a perfect lifestyle and positioning themselves as an expert. And if you're a coach or business owner, here's how you can differentiate. When you're teaching in your videos, make sure that you're not only teaching at your audience, but teach alongside them. No, you have to do it like this or you're a loser and you'll never make it. Secondly, it's easier to trust someone when you can understand them versus somebody that uses big words just to sound smart. Activate your highest potential and unlock your next evolution. The last significant difference is how you speak about your own successes, where you humbly share what you've done instead of showing off. Look how beautiful my fancy Lamborghini is. It's easy to fake an ideal lifestyle, so the creators that win today are the ones who are focused on building trust. That's why if you want to earn more money as a trustworthy creator, you can follow for more.

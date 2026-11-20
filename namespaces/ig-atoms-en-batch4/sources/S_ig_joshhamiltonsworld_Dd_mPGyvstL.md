@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/Dd_mPGyvstL.txt"
+words: 553
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_Dd_mPGyvstL
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/Dd_mPGyvstL.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو Dd_mPGyvstL
+
+---
+
+Four steps to clone your best sales rep before he quits or gets poached. This is called field mining, and it works anywhere you sell face to face, home services especially. All my guys at home services and professional services, I don't think that you get enough love on this platform, so here you go. Every owner I've worked with has one guy they wish that they could just clone in the field. His sit rate and close rate are higher, and nobody knows why because it really just all happens at the kitchen table. So you stuff the new guys in the trucks on ride-alongs, and you hope that rubs off. But that's just a handful of visits, and you're relying on somebody who probably doesn't even realize what they're doing right. Field mining shows you 50 visits. Now I've written over 300 VSLs and various VSL stacks, many of them for home services and in-home sales help this cloning process. So here's how this works. Step one is recording. Buy every top rep a Clod or a pocket recorder. There's new AI pocket devices that you know stick on the back of phones and record every home visit with the homeowner's permission, of course. This is not hard to do. Make sure you have consent always. Soon you have his process on tape 20 to 50 times, and that's synthesized by AI. Step number two is a playbook. Assemble the new script from his visits, and you train every rep on that. Now there's gonna be stuff that your top guy does that nobody else does, and things that he doesn't do that everybody else is, and patterns that are the same across all 50 of those recorded visits. And this is how you clone. You use AI to find those patterns. But step number three is the big one, the iPad VSL. So the recordings show you every question and objection that a homeowner raises. And after you do this for a while, they all kind of fall in the same category. So you build a video that answers them, and you send it to every lead right before the estimate, or you load it on an iPad and have them watch it while your rep walks the property. Every homeowner gets the full pitch every time the way that you intend it, and your rep just diagnoses the situation and tailors the quote, making field training far more standardized and tighter. Step number four is the booking video. This is a bonus. Like just ask homeowners why they let a stranger into their house as a part of your process. Those answers make a great second video. You just text it to them the moment they book to help increase sit rate, because the first VSL only really helps you if the appointment actually happens. This week, order the recorders. After 20 visits, put the transcripts into Clod. Ask what he says that others don't and find the patterns, and just start building a standard framework for the whole team. Getting the recordings is easy. Step three and four, those take skill, and that's what I build. So watch my VSL stacking video next. See what this looks like in practice for a $6.5 million per month service business.

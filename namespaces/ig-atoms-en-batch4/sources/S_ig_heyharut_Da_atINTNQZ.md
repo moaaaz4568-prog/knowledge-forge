@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/Da_atINTNQZ.txt"
+words: 585
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_Da_atINTNQZ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/Da_atINTNQZ.txt` — حساب: heyharut — إنستجرام — فيديو Da_atINTNQZ
+
+---
+
+Would you rather be ugly and rich or beautiful and broke? If you choose the first one, then stop looks maxing and please start clients maxing. So here's what it is. A year ago, I was getting clients at 99 dollars a month. I had a low ticket community and we were giving very hands-on support, but our churn was about 10% at that time with that offer. So our LTV was not bad, 10 times 99 dollars, which was almost 1,000 LTV, right? So you can think it's very good. So how was the problem? So the problem is the following is that although we were making about 1,000 dollars per client, we had to wait 10 months to get that money. Versus now we increased our prices significantly and we're able to get 20, 30, 50, 80, 000 LTV clients, which is 30, 50, 80 times more than we used to before. But the beauty of this is the following. Not only we get paid way more, but we get all of that cash upfront, which means that we can spend all that extra money on better content, on hiring one of the best video editors, on working with the best agencies, on ads, on marketing, etc. And we can beat our competitors. And number two, every single niche that my clients were in and every single niche that I have coached, in every single one of them, the more we charged and the more our clients charged as well, the better the people that they work with, which is maybe counterintuitive that if people pay more, they expect more, but typically the opposite is true, which is people pay more, they expect less, which means they are happier on average, they refer to more people, and they are easier to work with and more fun to work with and you get better results. One of our clients, for example, not only has paid us tens of thousands of dollars across the few years of working with us, but they also referred us to over 20 clients. And we have many other clients like that that refer us 10 clients, five clients, etc. So people refer you, they are more fun to work with, you make way more per client, it's less work, and it's also more fulfilling because people genuinely take it more seriously and get better results. If you want to scale to 100k a month plus, you need to start clients maxing, which means you need to get the best clients as possible. I mean, how good looking they are or not, that's probably your preference if you should only accept the good looking ones, but at least charge more because then you'll definitely make more money. But if seriously increase your prices, if you think that it's too much, if you think that it's scary, that's the whole point. That's why you should do it because it's scary. Because if it was not scary, everyone would do it and the prices would be high, higher, and it would be hard to compete. But now because people are scared to do it, if you increase your price, you attract better people and you just stick through that fear of rejection and you don't just flip back after just one or two nos and you just care about your clients and truly show up and over deliver for them, you'll see that your business will grow way faster than you thought.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/Ddze--5NJCE.txt"
+words: 557
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_Ddze--5NJCE
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/Ddze--5NJCE.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو Ddze--5NJCE
+
+---
+
+You noticed your conversion rates going down. One specific asset is what converted me on my last vendor I hired for our business, and it's it's not what you think. I am a skeptical, hyper aware, seasoned buyer. I've worked with over twenty agencies, hired dozens of vendors, brought on consultants and coaches, joined masterminds, and at a certain point, you start getting desensitized to the wall of case studies and testimonials when that's just become table stakes. Yes, proof is important, of course it is, but this specific experience sold me. It is the one thing that made me choose this vendor over the three others that I was evaluating. And I'm not talking like a couple of grand, I'm talking about a $30, 000 transaction. And it made me realize there's one type of proof asset that can immediately shift the deal in your favor when a buying committee is evaluating you versus somebody else. That asset is called an anti-case study. Specific video breakdown from the founder that walks through case by case the times when things did not work out. It's an honest breakdown of the situation. What went wrong on your side? What went wrong on the client side? And doing them in this way achieves three things that make you the more trustworthy choice. First, for all the things that you were at fault for in that engagement, it's an opportunity to then immediately show what you've done since to improve. And then number two, for all the things that were on the client, it's an opportunity to immediately show why you have the requirements that you do and the consequences of not meeting them. Three is combining those two points immediately counter positions you as somebody who isn't afraid to show their losses. Because let's be honest, you do not have 100% success rate. Attempting to appear like you do is actually a negative trust signal. Telling the truth and exposing your losses is a zig when everybody else is zagging, and the most experienced business owners will respect it. But not just that, they will trust it. And leads to an outcome of somebody like me choosing you over the guys that relied on hype and trying to convince me that their outcome was somehow guaranteed no matter what I did. Like, yes, thanks for showing me you're full of shit. So going into Q4, know that this is so important. It's become one of the core enablement asset types that I recommend for clients or that we engineer for them. But you can just execute this over the weekend. Make a plan to sit down and go through the last 10 clients you didn't win with. Do a postmortem, break out Loom, walk through that postmortem live, and place that on your confirmation page after somebody books or before they apply. And watch your close rate on dream clients just go up immediately. Because in general right now, everybody is leaning on claims mechanism, being beat over the head with the same offers and the same proof and the same guarantee. And so if you come out of the woodwork and say, hey, by the way, here's every time that we fucked up and what we learned about it, I guarantee you competitors are probably not doing this.

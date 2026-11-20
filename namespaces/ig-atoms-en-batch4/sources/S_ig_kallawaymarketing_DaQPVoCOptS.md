@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/kallawaymarketing/DaQPVoCOptS.txt"
+words: 515
+account: kallawaymarketing
+lang: en
+quality: transcript
+---
+
+# S_ig_kallawaymarketing_DaQPVoCOptS
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/kallawaymarketing/DaQPVoCOptS.txt` — حساب: kallawaymarketing — إنستجرام — فيديو DaQPVoCOptS
+
+---
+
+Here's how to get people actually addicted to your storytelling. It's called the story ladder. There are six levels of storytelling that you can use to make a video... and the higher you're able to get on this ladder, the more addicting your stories will be. The level one storyteller is called the reporter. This is where you include the core facts in the story, but you sequence them in a super predictable way. This happened, then this happened, then this happened. I think of this level like a newscaster just reading facts off a teleprompter. It's informative, but it's not that engaging... You want to graduate from this level as soon as possible. The level two storyteller is called the illusionist. This is where, in addition to the core facts, you also add hooks to the intro and body of the story. Great hooks are just misdirections where you lead someone one way and then snap them back in a different direction. If you can do this even a couple times in your story, you'll be at level two. Now the level three storyteller is called the champion. This is where you keep the core facts and the hooks, but now you add the stakes. Stakes are... our use cases, problems, or characters that make the viewer feel personally connected to the story. Without these, the story kind of falls flat and will never truly resonate with your core audience. Now from here we're getting into advanced storytelling mode. The level four storyteller is called the architect. And this is where, in addition to everything else, you start adding arcs and loops into your story. Think of arcs like waves where you add and release tension to the story to help with the rhythm and pacing. Loops are like mini subplots that open... and close, especially for educational content. So think of this level like navigation where you're adding a more intentional flow to the plotline. Now the level five storyteller is called the translator. At this level, you're taking everything from the first four and then trying to add additional comprehension and clarity to make sure the viewer is clear 100% of the time. This means reframing things, adding better visuals, and an overall layer of polish that increases the comprehension. Lastly, and finally, is level six. This is... the master. And this level's all about adding the sauce and your unique fingerprint to the story. This will include your signature style and whatever it is that makes you one of one when you tell stories. Now beginners won't necessarily have this, but once you build this over time, it becomes a layer of polish that helps you differentiate. This framework, the story ladder, explains how so many top creators are able to build bingedability and cult fandoms around their stories. If you want to see my full breakdown for how to engineer each ladder tactically, comment 'ladder' below and I'll send through the entire video. It walks through every level with examples, step-by-step tactics, and shows you exactly how to apply them.

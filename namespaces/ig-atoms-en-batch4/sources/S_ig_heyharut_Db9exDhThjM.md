@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/Db9exDhThjM.txt"
+words: 622
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_Db9exDhThjM
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/Db9exDhThjM.txt` — حساب: heyharut — إنستجرام — فيديو Db9exDhThjM
+
+---
+
+I posted this clip with Alex Hormozi over 1000 times on our profile, on Twitter Reels, on YouTube Shorts, everywhere combined. And here's what most people don't get about growing on social media. You see, most people do something, it works, and maybe they do it again. Maybe you have posted your best idea five times and then you stopped. And maybe it's because you started fearing that the algorithm will hate you or people will get tired of the same thing, or some people are commenting and saying, "Why you are doing all the same thing? " or "You are saying the same thing all the time. " And other people's opinions stopped you from relentlessly doing what's working for you and for your business. And maybe that's the exact reason why your content isn't growing as fast as you would like. Doing way more of what works is the ultimate secret that no one is following. We just started doing this again on Threads, for example, this new app from Instagram, or relatively new app. And can you guess how many times we are posting there? We are posting over 72 times every three days. So that's more than 24 a day, or it's exactly one an hour. And we're gonna keep posting this over and over and over again. And all of the threads that I'm posting are based on content that has worked for us previously. And that's why we got over 99, 000 views, if you can see it here, in just the first week of posting on Threads. And all of this is absolutely free. All I did is I took content that worked from my YouTube videos, from my Reels, and I just repurposed it into very simple, useful short threads. And now we're just posting them so much. And there are people that don't post there at all, or they post just one thread a day, and they think, "Why am I not growing? " Well, because we are doing 24 times more every single day while keeping the quality higher than most people. And I'm not saying this to brag. I'm saying this because for a very long time, I was also hesitant to really push and be relentless with what's working. But what I learned is that volume is the answer, not only because you will get more views, but also because it helps you to test more hooks, more angles, more lead magnets, and you will see what's actually working. Because the people that want to make quality content don't even know what quality content is. Quality content is content that actually performs well with your ideal avatar. So your ideal ICP, ideal customer profile, the people that you want to attract with your content, watch, like, and enjoy, and find your videos useful. And the only way to do that is to post so much more, so you compress the time where you learn and test what's actually working, so then you can go and do way more of that. And this becomes this flywheel that the more you do, the more data you get, the more you know what works, and the more you can do of what works. And then you just absolutely smash all of your competitors while they are trying to make their pathetic few videos here and there and saying that, "I'm doing it because I want to keep the quality high. " That's an excuse to stay small. If you want our exact SOPs and internal systems that helps us make thousands of unique pieces of content every single month, comment the word "volume" down below and I'll send you the link for free.

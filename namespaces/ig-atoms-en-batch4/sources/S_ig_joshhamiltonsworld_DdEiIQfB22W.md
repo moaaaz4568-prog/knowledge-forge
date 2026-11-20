@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/DdEiIQfB22W.txt"
+words: 597
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_DdEiIQfB22W
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/DdEiIQfB22W.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو DdEiIQfB22W
+
+---
+
+Charlie Munger cooked when he said this in 1990. It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid instead of trying to be very intelligent. It's a far more durable goal I found. Here's how I operationalize that with four frameworks to grow my business and myself as a man, business owner, and a husband. Specifically in the current crazy season, I'm trying to triple our business in the next 12 months with our 65 team members while documenting the entire process by posting every day for 365 days. One is called excavation. What problem are we solving? Get it down to its root cause and one of two things happens. One, it's 50% fucking solved, or two, it was never a problem. The root cause is super easy to fake I've found. You dig, you land on an opinion, and then you call it the root. Every root cause in my life goes through framework number two, which is logic, evidence, utility. I learned this from Hormozzi who learned this from Dr. Trevor Kashi. Step A ask, what does that mean? Define the terms. Step B is you ask, how do you know that? So show me the evidence. And then C is, well why should I care? Is it even relevant? Most problems in a 65 person company, they die on question number two. Like nobody measured it. Now if the problem is real though, we fix it by adding solutions, right? And this is where people like me who think they're smart get really fucking stupid. We add. So framework number three is the algorithm and it's built to kill that. This is Elon's five steps for fixing any process. John McNeil was president of Tesla and just wrote the book on it. Read it. Tesla went from $2 billion to $20 billion in 30 months on this. Five steps and the order is the entire point. Number one is question every requirement. So we're asking why are we doing the things that we're doing? Two, you delete every one of those steps that you possibly can. If you don't have to come back and add 10% back later, you didn't delete enough. Step three is then you simplify what is left. Step four, you speed up what is left. And then five, you automate last. See, my instinct is to always start at three or five. I polish a step that shouldn't exist. But doing a tripling run with 65 people means something breaks every week. So this last framework is actually just for me. Four, the stress diffuser. This is where I just ask, what is my bar for fucked? I ask, have I been through something worse than this? If the answer is yes, get over it. If the answer is no, then I just imagine it happening 1, 000 times. And then I think, well, how would I respond on the 1, 000th time? I'd probably be slightly irritated, bored, but pretty damn calm and already moving on to fixing it. And I can just respond like that now. I originally heard that from Mosey as well, so shout out. But look at what all four have in common. Excavation deletes fake problems. Logic, evidence, utility deletes opinions. The algorithm deletes steps. And the stress diffuser just deletes the panic. All four of these reduce the likelihood that I make more stupid moves than I already have. And that's why they're each on sticky notes that live on my desk.

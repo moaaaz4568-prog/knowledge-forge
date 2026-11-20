@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/lvl_aiautomations/DWo6eblDNwB.txt"
+words: 131
+account: lvl_aiautomations
+lang: en
+quality: transcript
+---
+
+# S_ig_lvl_aiautomations_DWo6eblDNwB
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/lvl_aiautomations/DWo6eblDNwB.txt` — حساب: lvl_aiautomations — إنستجرام — فيديو DWo6eblDNwB
+
+---
+
+Hello, is this Steve? Yes, this is Steve. Steve, hi, this is Zach. I'm actually calling to see if you needed AI systems for your business. You're like that loser who just hates cold calling or always getting on calls with people who are just not interested in your service. Then do yourself a favor and do not skip this video because I just found an AI tool that finds you warm qualified leads. That means people who are actually actively looking for your service online and actively searching on Google for your exact service. So you're getting on calls with people who have high intent to buy your service or offer. If you want the name of this exact tool, comment lead below and I'll send it to your DMs.

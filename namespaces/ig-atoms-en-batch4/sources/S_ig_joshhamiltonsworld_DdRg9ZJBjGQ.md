@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/DdRg9ZJBjGQ.txt"
+words: 572
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_DdRg9ZJBjGQ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/DdRg9ZJBjGQ.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو DdRg9ZJBjGQ
+
+---
+
+Day 14 of 365 daily posts, weekly field notes. I run a business with three partners and 65 full-time staff. I'm posting every day for a year on top of that. These field notes are my video journal. They're for me to look back on. But this week, I just found out that I'm gonna have a son. And I have some thoughts that I'll share in a minute. But first, the content data. Six posts, 175 new followers. Most of them own a business. I don't really care how many because I'm a measly two weeks into this. But if you're new here, welcome. Two posts were outliers. Funnel Maxing 201 was a 4. 4x and the 10-Step Show Right One is still gathering data, but it's already a two of 10. And almost all the new followers came from those posts, which were like over almost three minutes each. The funny thing is, those two posts took the least amount of time and thought because it's just me sharing what's working right now, live from the arena for my own business and for our clients. Like the script is 10 bullets and riffing. Some good early signal. I'm starting to get comments like this one from people I respect and DM from others. Kind of surprising this early. It's just some signal that I'm looking for. You know, operators have been in the game longer than almost anybody showing up in the comments. I'll take that over a viral post any day. But on day 14 out of 365, this week's realization, learning I'm gonna have a son, activated a different level of viciousness and intolerance for my own shortcomings and excuses. It's just a different level of energy. Like I thought I was protected before. I thought I was driven before. This is a different flavor entirely. I realized I've actually been in a rut the last 12 months without even knowing it. This new gear is very interesting and I need to be methodical in how I wield it. I'm just sorry my mom isn't gonna be able to meet the little guy, but I know she's watching from wherever she's at with my uncle up there. So the next six months are the lead up to my son coming into this world, and it's a new targeted process of forging myself into the man I get to be for him. It's put a different lens on the business and my work almost immediately. I'm starting to figure that out. But one thing I know for sure is it's turned my ambition up a gear. I don't even have the kid yet and I'm already looking at my time differently. So I'll document how I'm preparing. Other new dads out there building businesses, hit me up please, 'cause I have no idea what I'm doing. But one thing I know for sure is I am grateful that I have a world-class example, my dad. He's the definition of hard work and a firm father. Like I dare you to shake his hand. Massive. It's callous from a lifetime of swinging a hammer while also being a mathematical and artistic genius. You feel dwarfed in way more ways than one. I got him to thank for the drive I got in me and being allergic to this news button. With that said, until next week, go run it up.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/kallawaymarketing/DdjPoBjuPBD.txt"
+words: 308
+account: kallawaymarketing
+lang: en
+quality: transcript
+---
+
+# S_ig_kallawaymarketing_DdjPoBjuPBD
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/kallawaymarketing/DdjPoBjuPBD.txt` — حساب: kallawaymarketing — إنستجرام — فيديو DdjPoBjuPBD
+
+---
+
+These are the top six storytelling formats if you want to grow your personal brand faster. And the data shows this whole category is completely wide open for almost every niche. Number one are challenge videos. This is where the creator makes a challenge to accomplish a large result in a short amount of time. The video breaks down how they did it live, which subconsciously builds trust and expertise. Number two are scenarios and hypotheticals. This is where the creator frames a hypothetical scenario and walks through exactly how they'd solve it. This is like a case study but it's forward looking—amazing for building credibility and authority. Number three is the hero's journey. This is where a creator frames a desired outcome, gets blocked by a common pain, and then solves it through a novel scenario. And if you as the creator are the same ideal avatar as your viewer, these will drive insane leads. Number four is a live breakdown built around a client build or mentor session. We're seeing a lot of these crush on YouTube long form with Hormozi or Jeremy Haines, but a short-form native version of this will absolutely dominate. Format number five is personal learning or epiphany. This is where a creator frames a common problem that was solved by a new method or breakthrough they discovered. This problem solution frame works extremely well at building trust really fast. Format number six is a social show. This is where brands create episodic IP through standalone episodes of a series. My homie Alex Garcia has an agency helping brands produce these, and I think there's still massive opportunity to build cult fandom through social shows. Comment formats and I'll send you through the perfect script writing structure for each of these types of videos, plus a collection of examples for each one.

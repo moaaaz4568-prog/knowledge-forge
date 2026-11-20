@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/leoxmoore/DX5qS4QzDDb.txt"
+words: 583
+account: leoxmoore
+lang: en
+quality: transcript
+---
+
+# S_ig_leoxmoore_DX5qS4QzDDb
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/leoxmoore/DX5qS4QzDDb.txt` — حساب: leoxmoore — إنستجرام — فيديو DX5qS4QzDDb
+
+---
+
+Has anyone seen that I started something called a highlights channel on YouTube? If you've seen the highlight channel, you've seen that it has like 800 view videos, thousand view videos, you know, there's some 20, some hundreds. That channel has more attributed revenue to ACQ than my main channel. So if you don't know what Hormozy's talking about, he's talking about this channel here where he posts very specific and niche videos that get between 800 to 2000 views. But the problem with that is that the highlights channel may not be responsible for creating as much revenue as what even Hormozy thinks. And the reason why is because there's a fundamental problem with how revenue gets attributed back to the asset that created that revenue. Let me explain as someone who has run the go to market campaign spending up to 20K a day on individual funnels. Now, for the purpose of this example, let's consider ad three is Hormozy's highlights channel and ad one is Hormozy's main channel. In 99. 9% of cases, Hormozy's highlights channel is not going to be the first thing that you've ever seen from Hormozy. It's very likely you saw one of the videos on his main channel and then you also watched a bunch of videos, you went through his courses, read his book, whatever. Consider that ad two, middle of funnel. Here lies the fundamental problem. If ad three is taking all of the credit for the conversion, that is completely discounting the contribution of ad one and ad two, i. E. All of the other assets in the funnel. Now, why does this actually matter at all? And the answer to that is that you just want to be aware that when a bottom of funnel asset is taking credit, that does not necessarily mean to allocate resources away from ad one and ad two and pour it all into ad three, because the result of that will be that you just have a ton of bottom of funnel assets that are really good at converting leads. But if you allocate spend away from ad one and two, then there'll be no leads for ad three to convert in the first place. Now, does this matter in Hormozy's case? Not so much because he's got the main channel, he's going to continue to generate more leads and more first click impressions and so on. But in your case, if you're looking to emulate that sort of strategy, you don't want to index too far onto bottom of funnel. I especially see this when it comes to ads because you might see a specific ad has like a five times ROAS. However, you might not see that other ads are getting served before that ad in the multi-impression customer journey that are actually contributing to that conversion, but you're not seeing that and you're not understanding how attribution works and taking into account that the full customer journey is what you need to optimize for. And the best way to prove that is that when you turn those types of ads off that might have a bunch of spend but no conversions, a lot of times the other ads that you have active will start underperforming. So what's the takeaway? It's just to understand where a certain asset sitting in the funnel and then taking that into account before allocating resources away from top of funnel assets just because they're not showing conversions.

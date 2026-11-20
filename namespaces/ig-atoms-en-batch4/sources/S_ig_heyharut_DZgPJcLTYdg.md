@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DZgPJcLTYdg.txt"
+words: 577
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DZgPJcLTYdg
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DZgPJcLTYdg.txt` — حساب: heyharut — إنستجرام — فيديو DZgPJcLTYdg
+
+---
+
+No one believes me when I say this, but your growth in business does not depend on your tactics or strategy that you use. And it's hard to admit, but a lot of the success is because of your personal issues or your personal success. So let me explain. Whenever I talk to a person that is doing super well, let's say it's an entrepreneur making a million a year and they have good relationships and they're healthy and they're generally happy, so they're doing well on many fronts at once, typically it's because they have a very peaceful life, right? Peaceful doesn't mean that they don't have problems, especially when you grow a business, there are problems all the time, but their personal life is simple. They have not many distractions, they don't have negative people around, they exercise, they sleep well, they take care of themselves, they take care of their mental health, and they obviously grow their business. And when I talked to someone recently, I was on a call with someone who has been at about six figures a year for a few years now, and there are many people like that. And when we looked into it, it wasn't because of the tactics or strategy, like those things matter, don't get me wrong, but it's usually someone doesn't sleep well, and then you literally are thinking so much worse and you are so much more emotional in your business and you make the wrong decisions. Or someone who truly has like, I had low vitamin D for example, so I did the test and when I got it up to the optimal level, I noticed a significant noticeable difference in how I feel and how much I work and the quality of my work as well. So it can be your diet, right? It can be negative people in your life that you need to eliminate. It can be distractions. I was talking to one of my team members and he had a goal to double his income this year and he already did that and most of the year is left. And when I asked him, how did you do this, grow so fast because it was performance based growth, he said, Harald, honestly, I just cut, like I deleted Instagram, which was the biggest distraction for him specifically. And we all have that. For some of us it is TikTok or Instagram or watching videos that don't really help us, or I don't know, being on Twitter or LinkedIn, whatever it is that you do. Eliminating some of these things that like suck our energy and attention is gonna automatically grow your business. If you're watching this and you want to grow, consider the fact that maybe you don't have business problems, maybe you have personal problems that manifest themselves in your business. Because we are our business. For most of us, you are the person that makes it grow or makes it stop growing. So when you look at your personal life and you ask yourself, what's the biggest thing that's now making me the most stressed? If you eliminate that or if you improve that thing, then it frees up so much energy and so much mental bandwidth, and that alone can grow your business faster than pretty much any other tactic out there. So consider thinking about this because when I did, my business grew very fast.

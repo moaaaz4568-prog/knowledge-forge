@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/kentjandraa/Dd40uLnyrRz.txt"
+words: 247
+account: kentjandraa
+lang: en
+quality: transcript
+---
+
+# S_ig_kentjandraa_Dd40uLnyrRz
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/kentjandraa/Dd40uLnyrRz.txt` — حساب: kentjandraa — إنستجرام — فيديو Dd40uLnyrRz
+
+---
+
+What's the biggest piece of advice that you would give to younger Ken starting with content? Number one is to share your story. Number two, get as deep as possible with your vulnerability and with whatever you want to share. Number three, I know it's easy to say but hard to do, but you don't have to worry about what other people say about you, other people's opinions, whether it be your friends or your family, because you got to realize that your platform is bigger than just you sharing your belief system. You have to realize that your platform is bigger than you building an image or a perception, because your platform is a vessel to serve other people. So it continues to motivate and encourage you to post. And I think that is the best way to avoid burnout, to avoid identity crisis, to avoid any other like form of overthinking. Because a lot of people struggle with those things. A lot of people struggle with the fear of posting this, this and that. It's because you're looking too inward and you care too much about how you look or your hair or your image or your whatever. It's not about you. Your personal brand is not about you and it's never been about you. It's supposed to be about you serving other people. You're the vessel. And yeah, just remember that every time you turn on that camera, it's supposed to serve another person.

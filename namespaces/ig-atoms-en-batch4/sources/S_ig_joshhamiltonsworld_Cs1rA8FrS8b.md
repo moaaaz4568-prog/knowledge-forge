@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/Cs1rA8FrS8b.txt"
+words: 522
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_Cs1rA8FrS8b
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/Cs1rA8FrS8b.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو Cs1rA8FrS8b
+
+---
+
+If you think the love spark is gonna keep your relationship alive, you are sorely mistaken. I've been with my fiance for over seven years now. I'm completely disinterested in doing life without her. It would utterly suck. A lot of people already know this. However, there have been several points where it made very little sense for us to keep going because the turmoil in our relationship was so severe. There's four specific tools that we've used to get through the difficult times and we still use now in the smoother times. First is couples counseling. We started this when we really needed it. We were at the brink of breakage. And the thing is though is that we stuck with it for a full year after we moved past that phase and we're gonna go back into it again with a bit of a different counselor and a different angle because we don't have anything particular to solve, but we wanna work towards something that is mutually beneficial. Think of it like going to the gym for your relationship. Counseling is cool. The second one is Sunday board meetings. This is a Sunday ritual. We don't do every single Sunday, but we're trying to get better at this. We found as we're both entrepreneurs that treating our relationship like a business once per week brings the kind of clarity, structure, and unity required to allow the other six days to feel more like play. This meeting is usually led by my fiance. She puts on her cute blue light blocker glasses, sits down with the notepad, and we get to work. We cover things like how each of us are feeling energetically, things that we appreciated about each other in the past week, things that we would ask for from each other in the coming week, comparing and aligning our calendars, going through each day so there's no surprises, carving out time for ourselves and each other, two different things, both very important, and running over finances and logistics, all the businessy type stuff of running a relationship that still matters. Number three, something we recently implemented and are just starting is called life dinners. So this is like the Sunday board meeting, but it's less frequent and larger in scope. Once per month, we go out on a dinner date and we're gonna cover personal, professional, and relationship areas in this conversation. Within each area, each person should have the floor to reflect on the prior month's progress and challenges, as well as forward-looking goals. But we're bringing into the conversation our shared vision for our lives together, whether we're on or we're off track. It's a true just deep dive check-in into your overall life together. Now the fourth and final tool is actually really simple. It's just space and time. We probably spend two to three months apart per year, and that allows us to gain some perspective, work on ourselves, makes the heart grow a little bit fonder. We miss each other, and that's just a simple, very highly recommended tool to round out the four.

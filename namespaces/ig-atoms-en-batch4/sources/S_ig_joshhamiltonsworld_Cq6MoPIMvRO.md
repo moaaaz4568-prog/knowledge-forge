@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/Cq6MoPIMvRO.txt"
+words: 483
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_Cq6MoPIMvRO
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/Cq6MoPIMvRO.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو Cq6MoPIMvRO
+
+---
+
+I've taken about 200 businesses through something I call the Media OS, an end-to-end operating system I built designed to unify, standardize, and streamline the process of content ideation, validation, production, publishing, and performance. And while I don't have time in this short video to cut through the entire curriculum, I'll break down the most useful component for you here called the Brand Trust Profile. It's a framework made up of two parts, content pillars and pillar topics, the scaffolding upon which your ideas can flow in a predictable manner that ends up shaping what your brand looks, feels, and sounds like. My system, there's four pillars and four topics underneath each one of those pillars. It's a container for creativity. I like to slot my pillars into four main buckets. The first is the problem my product solves, one pillar. The second pillar is the area of personal interest, so the stuff that you're learning about. Third pillar is the journey, so documenting the process of your company or your clients or yourself. The fourth is your genius zone, what you're personally best at in this space or your company, the thing that you could talk about for days without stopping. Once I have my pillars, I then list out the four topic areas that when combined represent the component parts of that pillar. Let's walk through a personal example, my example. My first pillar is around the category my product exists in, called business growth, strategies to acquire and monetize customers in a bootstrap early stage company. My topics inside that pillar are targeting customers, acquiring customers, monetizing customers, and creative systems. I mirrored these four main pillars within my offer, not by accident, and I'll show you how to do that in a future video. My second pillar, my area of personal interest, is called leveling up, stories of lessons, failures, and breakthroughs along the journey of being a founder. It's my public journal. My topics underneath it are skill development, founder's thoughts, self-optimization, and personal systems. My third pillar is around documenting my process, and this is called the game, publicly documenting our general growth principles and process spanning miscellaneous topics all focused around getting better at the game. The topics are client conversations, business experiments, behind the scenes, and build in public. My fourth pillar, my zone of genius, is called digital value systems. Love this shit. Digital product strategy and money models for non-tech early stage founders. My topics underneath this are building products, offers and money models, tools and technology, and business systems. This is a useful framework for me when you're sitting down creating content or marketing material. You can create ideas from those topics underneath each one of those pillars, and the degree to which or the ratio of those topics that you cover will represent how you present yourself in the public space.

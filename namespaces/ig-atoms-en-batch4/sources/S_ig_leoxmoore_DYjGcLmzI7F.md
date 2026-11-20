@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/leoxmoore/DYjGcLmzI7F.txt"
+words: 594
+account: leoxmoore
+lang: en
+quality: transcript
+---
+
+# S_ig_leoxmoore_DYjGcLmzI7F
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/leoxmoore/DYjGcLmzI7F.txt` — حساب: leoxmoore — إنستجرام — فيديو DYjGcLmzI7F
+
+---
+
+Ten ways to fuck up your ad account from someone who spends a shit ton of money on ads every single month. Number one, having all your ads be the same format, i. E. If all your ads are talking head, you're absolutely screwed. Number two, turning off ads just because they spend money without results. The thing you need to know here is sometimes Meta will spend on an ad because it's acting as the first impression, meaning ad two, ad three, ad four, they might be getting the results, getting the credit for the results, but that only happened because of the spend that went through the first ad. So if you just turn off ads willy-nilly, you're gonna cook your results. You'll have really unstable ad accounts this way. Number three, not viewing lead quality as a function of ad messaging. You need to map your leads back to specific ads and see where the quality has come from. If you think, oh, the webinar funnel didn't bring me quality leads, I guarantee you it was a messaging problem and you're not mapping your leads back to specific ads so you can have a feedback loop based on what leads are coming from what ads. Number four, just rip 30 diverse ads in a CBO and then test creative without a system. The reason this is bad is because targeting is done at the ad set level. So if you just have a bunch of fucking random ads inside an ad set, it's gonna be whipping around the algo trying to figure out who the fuck this ad is for and it's not gonna eventually land on a consistent stream of results. Number five, naming all your ads ad one and ad two. This will completely destroy your ability to track results to see what's working inside the ad account. And eventually you're just gonna have a bunch of random names in the ad account with no indication on what's actually working. Which means if you wanna track what's working, you need to go into every individual ad and track. Number six, spend all your budget on broad targeting without knowing how much is going to cold versus warm. This is a great way to liquidate your entire warm audience over the span of six months. Number seven, using the wrong optimization event or allowing unqualified leads to trigger the pixel. This is really obvious, but if you're optimizing for calls booked, you just optimize for a schedule and not lead or anything like that. Number eight, not using conversion API. This will destroy your ability to fire events back to the pixel. Number nine, not having a campaign structure that lets you force spend through winning ads, i. E. Don't just run a CBO with a bunch of ads in there because spend is gonna fluctuate through winning ads to losing ads week to week based on things that aren't actually a big deal to you. Meaning it's gonna do that based on CPM, CTR, and not actually based on quality leads coming through the funnel, which is essentially gonna destroy your results and you won't know why unless you realize it's just because spend is getting redistributed away from winning ads towards your losers. And number 10, optimizing for cost per lead or thinking that cheap calls is a good thing. We have hyper profitable funnels that run at 700 bucks to 1, 000 bucks a call just because it's high, high, high quality. Follow for more ads tips.

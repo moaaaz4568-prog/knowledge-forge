@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DcrNPmOzffc.txt"
+words: 586
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DcrNPmOzffc
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DcrNPmOzffc.txt` — حساب: heyharut — إنستجرام — فيديو DcrNPmOzffc
+
+---
+
+Here's a trend that's happening in the online personal branding space that you can take advantage of that most people haven't caught up yet. And if you do it now, you'll be ahead of all of your competitors. It's very simple, but it's very, very effective. So it is going from online to real life or in person. So there's some data that concert tickets, sports, football, soccer, like all the in-person sports, experiences, events, whatever, the demand is going up and up and up, and the tickets are getting more expensive, etc. And the reason is because people want real life things more and more nowadays because of all this, you know, online world and all the content and AI and like post-COVID world, like all of these people got less connected to each other and now they crave that. Like the pendulum is swinging to the other direction now and people are over-optimizing for real life again, which means that you can be early on this trend and you can use this in your content strategy. And this has two things. Number one, you'll actually have more fun, you'll meet real people, you'll do events, you can meet your clients, whatever, or people from your audience, and genuinely have like more connections yourself, hang out with cool people that you like and that have similar hobbies that are like-minded. Second benefit is, is that that experience when it's getting captured in content online also gives people the feeling of them being there, being in the room, of them belonging to something, right? So that's why someone like Hormoz is doing the in-person content for his shorts, it's for a short-form strategy. On Instagram, they are posting him coaching business owners like in person. And number two, they do it also for long-form content. You can check it on their YouTube channel, on both channels, the first main channel and the second channel that they have. And on both channels, they also are using in-person content. They have like a show that they started, like Shark Tank with entrepreneurs, etc. And on the second channel, they're posting like longer clips of him again coaching people in real life. And when people watch that, it feels like subconsciously that they are part of that experience, right? Your brain doesn't think, oh, it's some video. Like videos didn't exist for thousands or hundreds of thousands of years of evolution. So when your brain sees that, you think that you are in the room, right? When someone is talking to another person and they laugh or they make a joke, you also want to smile or laugh because you kind of, you are surrounded by that energy. That's what your brain thinks. So people want connection more than ever. So if you do in-person things, in-person events, in-person content, then you get to have fun, you get to get other people together and connect them with each other in real life, which is gonna add a lot of value in their life. And the more value you create, the more it's gonna benefit you as well. The more you give, the more you get. And also you get to capture that and post it out there and people are gonna watch that type of content way more nowadays and it's gonna make them feel more connected even if it's online. And that will bring you more views, more clients, and more fun along the way. So use it.

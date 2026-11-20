@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/leoxmoore/DY9jQx_RGEQ.txt"
+words: 634
+account: leoxmoore
+lang: en
+quality: transcript
+---
+
+# S_ig_leoxmoore_DY9jQx_RGEQ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/leoxmoore/DY9jQx_RGEQ.txt` — حساب: leoxmoore — إنستجرام — فيديو DY9jQx_RGEQ
+
+---
+
+So we just looked under the hood of a five hundred k a month business and their ad file was completely cooked. Here are the mistakes they were making so you can avoid them. Number one was that every ad was named ad one or ad two. That is a huge problem and here is why. When everything's called ad one or ad two, there is no insights that you can gather and no tracking that can occur. As an example, what we do is we name every ad with the issue we're targeting, the creative type, the format, the hook, the concept and the tag, and we can even go in further detail if we want. And the reason we do that is because then you can go and search for the exact result of that type. You can break your ads down by angle, format, anything you want, video length, age. Then your data analysis of your creative will actually go into detail on the hit rate by issue, by format, by hook type. All of these things can be tracked, improved on and acted on. For example, you have a breakout ad format, you can track that, you can see how much spend is being allocated to which types of formats, which types of angles, placements. All this stuff is so important as you continue to scale. Number two was their audience segments were not set up, meaning they couldn't see how much spend was being allocated towards existing customers, warm traffic and cold traffic. So as an example, I can literally go into my ad account, I can click breakdown by audience segments and I can literally see how much is going towards engaged audiences, new audiences and existing customers. So the way you are going to set this up, you are going to go to the left, you are going to go to advertising settings, then you are going to be able to see, you are going to be able to configure your existing customers and you are going to be able to configure your engaged audience, so you can do that right here. And the importance of this is that you want to make sure not to overspend on your warm audience, otherwise it will just be liquidated. If you already have a huge retargetable audience, you can spend more on it, but if you have a small warm audience and all your spends are going there, that's just going to cause your frequency to go up and your ads are going to fatigue way quicker. Plus, you are never going to have any cold new incremental reach, which is a really big problem if you are spending like one hundred k a month plus. Then lastly, they had no third party tracking, which means they couldn't see which leads were coming from which ad. So they had ads that might generate a bunch of schedules, but they don't know what the actual outcome of those schedules are. And yes, you can set up conditional logic in your forms to make sure that the only schedules you get are qualified, but if you can't actually see the closes coming from specific ads, you are going to have huge problems because you might have twelve qualified calls at one hundred bucks a call, but if all those calls have really low intent and a low show rate, your ROAS is going to be zero. So you can continue to spend on ads that have no ROAS accidentally when you don't have your tracking set up correctly. If you want me to audit your ads just like this and tell you exactly where you are going wrong and what you need to do to scale, DM me the word audit.

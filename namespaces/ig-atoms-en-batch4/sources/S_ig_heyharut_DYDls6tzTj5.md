@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DYDls6tzTj5.txt"
+words: 607
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DYDls6tzTj5
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DYDls6tzTj5.txt` — حساب: heyharut — إنستجرام — فيديو DYDls6tzTj5
+
+---
+
+Have you all noticed that Instagram is fake as fuck? And the reason I'm saying it is because I certainly am a part of the problem, because I post client wins and I post, hey, we achieved this thing or that thing. But what I post less is when things go wrong. What I post less is when there are health problems or personal issues or other things, right? And they happen to every single human. And when we are all on Instagram, we only consume, and this is very common sense, right? I'm not discovering America here. I'm not discovering something new. I'm not Columbus. I'm just saying that all of us know this, that like it's fake, but yet we still compare ourselves to each other, which I think is very dumb because I do it very often and it is very dumb. And when I meet people in person, and I met many people, like what you would think are people that are crushing it, people making million dollars a month, or people have this amazing lifestyle or whatever, when you meet them, every single one of them has parts of their life that they don't share publicly. And I'm not saying they should, of course, no. Privacy is very important, but they have all these aspects of their life that we don't see online. And if we knew that, we would maybe build things differently. For example, you see someone making million a month and like you are jealous and you are comparing yourself to them. Or like they have these yachts, you know, and then you meet them in person and you see, oh my God, like they are so intense and they hate everything so much. So do I want that? No. And again, on the other hand, you'll meet someone that is making a lot of money, loves the process, is very positive, but like they are going through something extremely hard in their family, or like they have kids and some of them have very serious health problems, like things that you would never guess. And we all think that there's something wrong with us, that we are unhappy, that you know, our life isn't perfect, that we just need that next thing and we will be finally happy. And that's not true. None of these people have it. No one. Don't believe it, including me and my content. When you go to Instagram, you check other people's stories. It's all fake. Like when people like take a picture of an expensive hotel that they are at, that means that like you weren't in the moment, most likely you weren't happy, you weren't really enjoying it. In fact, that it was so boring that you wanted to like take a picture so at least you post it on social media. Because when you are truly genuinely happy in the present, you don't take pictures and post it out there. I certainly don't. And when I do take a picture, it's usually because we subconsciously want to show something to someone or whatever. So yeah, don't like, don't the life here, Instagram, social media overall, it's not real. The numbers, the revenue, what people are doing. Know that your life is better than you think. You don't know what other people are going through. You don't know their problems. So we just need to have humility and empathy and kindness to each other. And first and most importantly, we need to have kindness and humility towards ourselves and know that we are doing better than we think. Hope this helped.

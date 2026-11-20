@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/jasoncooperson/DU0mIC5jFZw.txt"
+words: 608
+account: jasoncooperson
+lang: en
+quality: transcript
+---
+
+# S_ig_jasoncooperson_DU0mIC5jFZw
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/jasoncooperson/DU0mIC5jFZw.txt` — حساب: jasoncooperson — إنستجرام — فيديو DU0mIC5jFZw
+
+---
+
+I grew my account to 170, 000 followers in the past year and a half, and here's the one thing that nobody tells you about growing on social media. So you see, most people tell you, they're like, you need to stay consistent. You need to post every single day, or you need to post every day, right? And here's what nobody tells you about the whole quantity versus quality debate, okay? A lot of people just give you like really basic general advice. It's like, you post every day, stay consistent. Actually, a lot of the growth that I had when growing my account came from times when I was posting, you know, once a month, twice a month, but it was like a really high quality post. The thing that people don't realize is that the quality and quantity are on a spectrum, right? Over here you have quality, and over here you have quantity, and every creator is gonna lie somewhere on the spectrum. On the one side, where it's quantity, you have people like streamers that are just pushing out clips, like 30 pieces of content per day, you know, or like 90 pieces of content across all platforms. And then on the other side, you have people that are more leaning towards quality, where it's like they only post once a month, but it's like a super banger video. The key is that neither one of these are the right solution. I think that the right solution is gonna probably lie somewhere in the middle. For me personally, I'm probably sticking towards like 75% towards quantity, but still having that amount of quality in your video. I think that quality comes from quantity, right? Practice. Here's the solution. If you can take one day out of the week, maybe Wednesday like today, and batch out seven reels all in one day, then you're good to go and you're posting once a day. I think that's perfectly fine for the vast majority of business owners and creators out there. You really, once a day is fine. The thing that people don't realize is that you have to actually produce quality content. The barrier to entry for content creation now is a lot higher than it used to be. Two years ago, we didn't expect as high of quality content in order to go viral, right? Nowadays, it's a lot harder to go viral because more and more creators and more and more content gets published every day. And the longer you wait, the higher the standards are gonna continue to get for, you know, a video that's able to perform. Nowadays, it takes a lot to make a good video, right? You really have to respect the viewer's time and give them something really valuable. Otherwise, it's just gonna get lost in the sea of endless content that we have, right? There has to be some level of quality. It has to provide something to your audience. You cannot just post every day, stay consistent, and then expect to grow. You know, if you're not really doing any strategy or quality behind your videos, if you're not really giving the audience anything of value. So that's, I guess, one thing that I see a lot of people overlook when it comes to content creation and growing on Instagram in 2026. I hope you found this valuable. If this resonated with you, if you with the vibes, you gotta drop a follow. That's the rules. I don't make the rules. I will see you in the next video. That's all for this one. Peace out.

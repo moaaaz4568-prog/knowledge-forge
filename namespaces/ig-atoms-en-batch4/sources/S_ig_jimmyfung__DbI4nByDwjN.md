@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/jimmyfung_/DbI4nByDwjN.txt"
+words: 194
+account: jimmyfung_
+lang: en
+quality: transcript
+---
+
+# S_ig_jimmyfung__DbI4nByDwjN
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/jimmyfung_/DbI4nByDwjN.txt` — حساب: jimmyfung_ — إنستجرام — فيديو DbI4nByDwjN
+
+---
+
+AI chatbots, pass. Every business owner has already been pitched one and most think that they're a gimmick now. AI automation agency, cash. If you can actually build the system, it's a real valuable skill, but it just takes months to actually get good at it. AI copywriting, pass. Every business owner has already used ChatGPT and Claude, so paying you to write for them just really isn't worth it anymore. AI dropshipping, pass. You're literally competing with thousands of stores selling the same products and burning ad money before you make a single sale. AI YouTube automation, cash. But slow cash. It works, but it could take months of just posting before you see your very first dollar. AI lead generation, straight to cash. You can use AI to write and send cold emails for businesses and they'll pay you one to three thousand dollars a month for it. It's what I've done for the past three years and I've made over a million dollars online doing it. If you want to learn how to start your own AI lead generation business, comment lead down below and I'll send you the full breakdown.

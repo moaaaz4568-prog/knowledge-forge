@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/jun_yuh/C_ZK1X5O2VU.txt"
+words: 112
+account: jun_yuh
+lang: en
+quality: transcript
+---
+
+# S_ig_jun_yuh_C_ZK1X5O2VU
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/jun_yuh/C_ZK1X5O2VU.txt` — حساب: jun_yuh — إنستجرام — فيديو C_ZK1X5O2VU
+
+---
+
+Success in twenty twenty four is actually insanely simple. So let's break it down. Step one, find a skill. Step two, identify a way to track your progress with that skill. Step three, stick to it daily for six months. Step four, identify the top twenty percent of your results. Step five, do more of what was in the top twenty percent. And step six, repeat. The truth of the matter is, if you can work without expecting results immediately in twenty twenty four, when it seems like everyone else gets distracted every two weeks, you are guaranteed to beat out the competition. This is how you win in twenty twenty four.

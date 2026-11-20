@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/lvl_aiautomations/DWFpPXFDCJC.txt"
+words: 591
+account: lvl_aiautomations
+lang: en
+quality: transcript
+---
+
+# S_ig_lvl_aiautomations_DWFpPXFDCJC
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/lvl_aiautomations/DWFpPXFDCJC.txt` — حساب: lvl_aiautomations — إنستجرام — فيديو DWFpPXFDCJC
+
+---
+
+You can now clone yourself with AI. This is the AI clone automation. It's hosted on our anything on our backend. But before I explain the backend, I'm gonna show you what the frontend is hosted on. It's Airtable. Airtable is split into five different tables where you're gonna be controlling everything about the backend, so you never really have to open anything and touch it again. So we're gonna start with the knowledge base where you're gonna input everything related to your brand, your voice rules, your content type, your important keywords, any PDFs, any content guidelines. Then we're gonna go into brand assets, which is connected to the knowledge base right here. And here you're gonna input your fonts, your colors, your brand logos, any watermarks, what are the important platforms, any voice rules, basically anything about the brand that's important. Here is your avatar. Here you're gonna include all the different avatars you made on HeyGen, and if you want any thumbnails, the voice ID will be connected to Eleven Labs, and then the different types of content pillars, along with whether you want it to be professional, funny, really chill, and then we obviously gonna add some notes just to really make the avatar do what you want, and that'll be in some extreme prompting. And then we're just gonna turn this on. Then we go to the content pillars, where you can have the avatar hosted in terms of founder ads, experts, podcast, whether you want it to be a whiteboard or a creative, and each of them has its own hooks, different CTAs, patterns you can follow, but you don't really have to. You can edit this as you feel like it. The duration can go as long as 60 minutes, 30 recommended for each, but again, feel free to change it as much as you want. Then you can control the avatar size, the position of the avatar, the font style, the guidelines, again goes back to what you really wanna see in the video, and then turn it on again. The jobs, this is basically the main Airtable, because now this is connected to all the rest. And here you're gonna connect to the avatar you wanna make. You're gonna input the captions, you're gonna generate the hook, the key points, CTA, how long you want the video to be, connect any voice settings. In this scenario, we don't have any. If you want to be more exaggerated on the voice, that's where you connect it. Then the background, this is where you upload an MP4 file of what you want the background to be if you're using green screen video. Avatar size, position, again, all the same thing connected to the avatars. And then once all of this table is filled, just hit start, and then the backend is gonna be triggered via webhook, and we'll continue the rest of the automation where it's gonna use HeyGen to get the avatar, Eleven Labs to get the voice, and then edit it with Submagic, and then output it either in a Google Drive or using Luteto to go straight to your social media if you don't want approval. Now this automation is great for business owners who are running a personal brand and don't have time to manage content themselves, but they do wanna put themselves out there. Now if you want the system set up for your business, just comment clone in the comments and our team will reach out to you.

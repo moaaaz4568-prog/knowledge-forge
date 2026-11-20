@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/Dcq27nJT27J.txt"
+words: 592
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_Dcq27nJT27J
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/Dcq27nJT27J.txt` — حساب: heyharut — إنستجرام — فيديو Dcq27nJT27J
+
+---
+
+Has anyone noticed that Alex Hormozi is not trying to go viral anymore? And no, it's not because he's stupid. I think we are all stupid, because he's not optimizing for views, he's optimizing for actually making content that his ideal avatar watches, that actually brings clients and brings profit for his companies, which is great. And also he talks about what he likes, which is business stuff, instead of just doing viral trends and editing and all that things to get views that are empty. So here's what he's doing. If you look at his Instagram, he's not posting any content that's designed to go viral specifically, but he's making content of him demonstrating expertise with his ideal client. So it's him teaching business owners that want to scale. And whenever other business owners watch this, they think, hmm, that was helpful. He's coaching an XYZ business person, and he helped them. Maybe he can help me too. And people imagine them being in the place of the client that Hormozi is coaching in real life. Same thing for YouTube. He's making either content when he's helping people in person to scale their business and documenting how he's doing it. So he's showing proof, he's demonstrating expertise, so no one else can copy him, no one else can make that exact content that he's making because it's a unique proof, unique success story with a business that he's working with, and he's documenting the process, making it real, so people trust it more. And also another format that he's making is really authentic, unedited, in-depth stuff. And you can see even this one did super well. It's like 12x outlier, 400, 000 views in six days. And this was when during his birthday, he just gave some tips that he wished he knew sooner when he was even younger. And I was so younger, you know that meme? So anyway, and the video is doing well, and it's not some crazy video with editing that people only watch because it's entertaining, but it's valuable and his ideal avatar is watching it. And when you go to the comments, people also are saying all the time, hey, this was so good, I prefer these videos, etc. So more serious, more invested people are watching the content, and not only can get more views with these kinds of people, but he's also having more impact on them while making more money. Hormozi is public about the fact too that even his second YouTube channel that is almost 100 times smaller or 50 times smaller at the moment is bringing even more sales than this main channel too, because on the second channel, they are exclusively posting clips of him helping other business owners. So his content strategy is not going viral, it's going viral with the ideal avatar that he has, aka demonstrating expertise, proof, doing the thing that he says he's gonna do, which is I'm gonna help you scale your business. He's doing that in content, in real life with other people, and that increases trust, increases conversions, and maximizes fun as well, because that's what he likes doing. So the takeaway for all of us is that no, we shouldn't be afraid of going viral. Getting more views is not bad, for as long as you are doing it in a way that is sustainable, you like it, so you're gonna stick to it, and it's attracting actually the right people, because views aren't cash. The right views are cash.

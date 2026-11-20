@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/leoxmoore/DVxc7FUE8n1.txt"
+words: 640
+account: leoxmoore
+lang: en
+quality: transcript
+---
+
+# S_ig_leoxmoore_DVxc7FUE8n1
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/leoxmoore/DVxc7FUE8n1.txt` — حساب: leoxmoore — إنستجرام — فيديو DVxc7FUE8n1
+
+---
+
+People are getting it all wrong when it comes to Meta's new Andromeda update, and here is how. They're focused on creating more creatives and spamming more ads into the Ads Manager because they are under the impression that that is more scalable. When in reality, what you need is that you need to understand the algorithm and exactly how ads are actually getting served to your clients. And if you did, then you would know that really it's not more ads, it's more entity IDs equals more scalable. Because what happens is when you have maybe 50 plus ads, but they're all low diversity, they'll all get marked as the same ad. So it doesn't matter how many ads you have, if they're all getting marked as the same entity ID and basically getting served to the exact same audience anyway. And once we figured this out, we were able to take an account from spending 200K a month to boosting all the way up to 350K a month at a better cost to acquire a customer using only 5 to 10 ad concepts. Because again, you don't necessarily need infinite amounts of ads. You need to be able to focus on creating new entity IDs. So what is an entity ID? It's basically just the label that Meta uses to describe your ad and what's in it. You can think of it like a librarian putting a label on something saying this is a fiction book, so therefore I'm going to go and put it on the fiction shelf. And then as a result of that book being on the fiction shelf, fiction people will be able to find that ad and it will get served to them. So the TLDR there is if you want to scale, you need to reach new audiences because if you hit the same audience over and over, your ads will fatigue very, very quickly, even if they work well before. So therefore, if you want to get on new shelves or you want to reach new audiences or new pools of people, then you need to be able to create new entity IDs or you'll be stuck in the same pool of people. So what you need to focus on is being able to create ads that are just diverse enough to be able to create a new entity ID so that it can get served to a new audience. Obviously the easy way to do that is just to create infinite completely fresh and new ad concepts, and that's kind of the easy way out. But you can also do things like using a different persona or character in the ad that will meaningfully change the visuals. You can change the ad format so you can switch between static video, UGC, AI animations, and so on and so forth. That's a meaningful difference to the ads that will create a new entity ID, as well as changing the hook. Some people think you can't do this, but changing the hook to a completely new environment, completely new scene, completely new targeting, that will get your ad served to new customers. And also the thing that most people are unaware of is you can actually change the thumbnail on the ad videos that you are pushing out, and that will again change the entity ID and get your ad served to new audiences. This has been confirmed by Meta. It's one of the cheekiest ones. But for example, if you have a winning video ad and then you go out and just change the thumbnail on that ad and relaunch it, it will get served to new audiences. So make sure next time you're launching ad creative, next time you're making some ads, do these five things and scale even harder.

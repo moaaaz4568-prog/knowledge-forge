@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/heyharut/DcwSdhNTak_.txt"
+words: 632
+account: heyharut
+lang: en
+quality: transcript
+---
+
+# S_ig_heyharut_DcwSdhNTak_
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/heyharut/DcwSdhNTak_.txt` — حساب: heyharut — إنستجرام — فيديو DcwSdhNTak_
+
+---
+
+You are lucky for seeing this video because if you are getting clients from content and you want to actually get ahead of ninety nine percent of the competition, most people don't realize what kind of a big change is coming in the next three years. And I'll tell you that right now so you can know this and get ahead of everyone else. And if people don't adapt, most of them are gonna go extinct. And I really mean that. And the change that's gonna happen is the following is that people are making so much more content than they ever did. So more creators every single day, everyone is posting on Instagram, everyone is making videos, everyone is using AI to just generate bunch of AI scripts and just record, record, record and post it out there. And it's gonna get even worse with when AI will get so good that it will be impossible to tell if someone is AI or a person. We are pretty close there, but not quite there yet. But when we fully get there, then you want to know if I am AI right now or no. And when it gets to that point, then we are all cooked because everyone is gonna create ten, twenty accounts, probably not everyone, but many people, and they are gonna have different avatars that look differently and they are going to like just post ten times more content than they are posting even right now. And even today there's too much content out there. And the bad part is that obviously the attention span is fixed. There are so many people in the world and they have so many hours during the day to watch content, but the supply is getting infinitely larger, which means that most people are gonna get less and less views, their businesses are gonna shrink and they are not gonna grow unless they do this one thing. And it's all gonna happen very fast. It's gonna be slow, it's gonna be too slow to notice until it's too fast to ignore. And it's gonna be like this and everyone is gonna freak out. But because there's still some time left, no one knows how much exactly, but because we still have some time, you need to make this change right now. So what's the change? Is that you need to stop making content and you need to start doing things in life that when they get captured and documented as content, they are truly impressive. So think of this as instead of you talking about how to be healthier, you go and you run ten marathons in ten days in a row and you document that content. So when you post it, it's proof. You documented something impressive that you have done that's based on your lived experience that no one else can copy. People can copy running the marathon, but it's gonna be harder to do ten in a row or to do it in your own way or style or maybe do your documented the whole process of how hard it is. So that unique storyline is still gonna be something that's harder to replicate, so there will be less content like that. If you're a business creator, look at what Alex Hormozi is doing. He's coaching businesses in real life and then it's getting documented and posted online. He's not creating content, he's doing impressive things and that becomes the content. So right now if you're spending your time making content, the best time to adapt is now. So you start changing your strategy based on this and then the next three years, this is exactly where the industry is gonna go and you will be ahead of everyone.

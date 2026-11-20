@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/leoxmoore/DY7S8PvT80t.txt"
+words: 573
+account: leoxmoore
+lang: en
+quality: transcript
+---
+
+# S_ig_leoxmoore_DY7S8PvT80t
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/leoxmoore/DY7S8PvT80t.txt` — حساب: leoxmoore — إنستجرام — فيديو DY7S8PvT80t
+
+---
+
+The average media buyer in 2026 is structuring campaigns on Meta like this, where they have the same 20 to 30 ads inside ad sets, and they'll have three ad sets inside the campaign with a broader lookalike and an interest stack, and the budget set at the campaign level. Then they'll just let it spend. Here's why we don't do that and we would never recommend that. And for context, we've spent up to 20K a day on individual ad funnels and we found that that sort of strategy just ends up breaking at scale. So here's what we do instead. The fundamental thing you need to understand is that even though Meta isn't using interest stacks and lookalike audiences to determine who the ads get put in front of, because the creative does the targeting, everyone knows that, the audience is still set at the ad set level. So even when the creative does the targeting, you need to understand it is done at the ad set level. So when you have 20 to 30 completely random ads talking about different problems, completely random, diverse ads inside the ad set, Meta is trying to sequence these in an order that is going to create a conversion, but it can't do it because these are just fucking random ads that are pinging at random audiences. At scale, what happens is there is a multi-impression journey that will usually require five to 10 impressions to create a conversion. So what Meta is trying to figure out is what order do I need to show these to get someone to convert? But with the random ads inside the ad set, different problems, different personas, so on and so forth, it winds up whiplashing around trying to figure out where they are. So what we do is we will segment our ads by targeting and by format and by concept. Using a popular example like Alex Hormozi, where he's targeting like real estate agents, plumbers, and beverage businesses, what he's going to do is he's going to make three ad variations in an ad set. He's going to have the ad set as his real estate static ad ad set with this specific angle. Then he's going to throw those inside one ad set and he's going to let it spend. Then over time, what's going to happen is he might find, oh, the plumber ad set is getting majority of the spend in this CBO. So then what he's going to do is probably have conditional landing pages that sell specifically to plumbers. He's probably going to have a sales process that's a little bit more trained towards how to sell to those plumbers, and he might even go ahead and make additional ads for that market because he's understanding that this is one of our top niches. So all in all, what this allows you to do is actually see and KPI what audiences are working best. It allows you to use the ad sets to still do the targeting by grouping the creatives by the targeting, and most importantly allows you to actually take actions based on that information by pouring more resources into the things that are working in the form of additional creative, landing pages, and sales process. If you're curious what campaign structure would work best for you, DM me the word campaign, I'll give you a free audit.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/joshhamiltonsworld/Cq8a1Mvrijr.txt"
+words: 523
+account: joshhamiltonsworld
+lang: en
+quality: transcript
+---
+
+# S_ig_joshhamiltonsworld_Cq8a1Mvrijr
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/joshhamiltonsworld/Cq8a1Mvrijr.txt` — حساب: joshhamiltonsworld — إنستجرام — فيديو Cq8a1Mvrijr
+
+---
+
+Members come to us looking to cross a very specific bridge, one that connects two points on a map. The first point, their starting point, is scattered and inconsistent lead generation. The desired point is predictable, scalable, profitable revenue growth. Now to begin the process of crossing that bridge, one of the very first tools I use is something called the offer matrix. It's a simple framework to take an existing offer and immediately enhance its perceived value by narrowing the way we articulate it to the marketplace. The basics are covered by answering seven core questions with the most concise language possible. The goal here is clarity of value. Number one is the specific person. Who do we solve problems for? Number two is specific problem. What specific problem do we solve? Number three is specific pain. What are the top three areas of pain our specific person with this problem has? Number four is specific state. The state change we create. This is two parts. Current state, what is the current state of the person? And then the desired state, what is the desired state your offer is bridging to? Number five is the specific way. This is the specific way in which you solve this problem. Number six is the guarantee. So if we don't outcome, then we guarantee X. Number seven is the specific promise. It's the full articulation of everything above into a salient promise statement that tells your prospects everything they need to know in one to two sentences. Let's walk through an example using our offer. The specific person, it's high ticket digital service businesses doing over 25K per month, coaches, course creators, digital marketing agencies. The specific problem is customer acquisition. The specific pain is number one, paid ads. So people are relying on an increasing levels of ad spend and agency fees. Number two is workload, having to require hours of new workload every week to launch and scale a new channel. Specific state, their current state is scattered lead generation. Their desired state is predictable, reliable, scalable, profitable revenue growth. The specific way that we solve that problem is outbound acquisition and LinkedIn brand monetization. Our guarantee is simple. If you don't 3X your investment, we keep working with you for free until you do. Our specific promise that wraps all this up in a nice bow is we will take you from scattered lead generation to 30 plus qualified sales calls per month in about 90 days without ad spend, agency fees, or adding more work to your plate, or you don't pay. It's the done for you solution to take you to six figures per month without the grunt or guesswork. This is step one of three. I'll cover the next two steps in the next two videos, but give this thing a shot for yourself. The second step is to define the pillars of your offer, which is a unique sequence of steps you follow to logically produce the specific promise you just created. And the third step is to nail your delivery model, which we'll cover in part three.
