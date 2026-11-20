@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_noevarner.ai_DQ4hCqiDSiu.md
+location: instagram/noevarner.ai
+---
+
+# T_DQ4hCqiDSiu_01
+
+"Please stop building systems. You do not need systems. Everybody is so obsessed with finding the perfect system that runs automatically for them so they don't have to do any fucking work. Reality, bro, you're barely making any money. Your business is barely doing shit. You do not need a system. You need manual hard fucking work. You don't need to automate this stuff." — sources/S_ig_noevarner.ai_DQ4hCqiDSiu.md
+
+# T_DQ4hCqiDSiu_02
+
+"You need to break your process down and do it over and over again for hundreds of hours. Find exactly what is working and then at that point start automating and building systems." — sources/S_ig_noevarner.ai_DQ4hCqiDSiu.md
+
+# T_DQ4hCqiDSiu_03
+
+"The rule of thumb for any automation building is have a repeatable task that you have done over and over and over again to the point where you are perfect at it and then you can put a fucking robot to do it for you. So sick and tired of seeing all of these ads on the internet. Hey, buy my system, do this, do that, use this system to make money. In reality, that shit does not work." — sources/S_ig_noevarner.ai_DQ4hCqiDSiu.md

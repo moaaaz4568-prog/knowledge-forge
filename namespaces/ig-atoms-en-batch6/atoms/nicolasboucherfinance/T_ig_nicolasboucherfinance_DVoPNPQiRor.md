@@ -1,0 +1,10 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_nicolasboucherfinance_DVoPNPQiRor.md
+location: instagram/nicolasboucherfinance
+---
+
+# T_DVoPNPQiRor_01
+
+"Ask AI to improve your prompt. With the prompt optimization technique, AI will start with your intention and then you will" — sources/S_ig_nicolasboucherfinance_DVoPNPQiRor.md
