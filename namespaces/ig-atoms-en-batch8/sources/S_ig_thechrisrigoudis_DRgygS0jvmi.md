@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thechrisrigoudis/DRgygS0jvmi.txt"
+words: 601
+account: thechrisrigoudis
+lang: en
+quality: transcript
+---
+
+# S_ig_thechrisrigoudis_DRgygS0jvmi
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thechrisrigoudis/DRgygS0jvmi.txt` — حساب: thechrisrigoudis — إنستجرام — فيديو DRgygS0jvmi
+
+---
+
+Fuck it, I'm gonna roll six objections in the next 60 seconds. I just need to think about it, I need time. Duh, it's only been like 30 minutes of us talking, you don't even know if this is the right move for you. You don't really need time, you need more information. You're not gonna have the information later, you have the information now, so let's decide if it's a good fit for you. Close. You don't close like that. They can find information anywhere, so instead just tell them, besides you thinking about it, do you feel this is the right move for you? And then ask them, what's coming up that you want to think about, just in case I can provide clarity now that I'm here. It's too expensive. It's too expensive. The price or the cost? What do you mean? I thought it was the same thing. The price is what you pay today, the cost is what you pay years down the line when XYZ becomes a way bigger issue. That's why the work in the A is what you say now is, how do you mean it's too expensive? Is it more about the certainty that you need to invest, or you don't have the money to put into this? Find the objection and tackle the real objection instead of being cheesy. I tried something similar and it didn't work out. Get that, but if your goal is still the same, it doesn't matter what you're trying to do in order to get there as long as you reach that goal. Instead, you should ask them, why didn't it work before? You didn't have enough support, or you didn't show up on your end? I saw a really bad review. Damn, just one. We've had over 3, 000 people in the program that are having massive success stories, so one out of 3, 000 bad rate is actually really good. Speaking of the other 3, 000 people, let me show you some testimonials in order to make you feel a little bit better. That's okay-ish. Make sure that you ask them, where did they see that review? Do you know if that person actually bought, or are they just a hater? I need to talk to my wife. You will talk to your wife, you're gonna either say one of two things. Number one, honey, can you please give me some advice on something that you don't even necessarily know much about in order to make a decision about my own life? Or, honey, I just joined this program a couple months back and now I XYZ reached whatever goal. Let's go celebrate because I just hit the goal. No, don't say that because it's a smoke screen objection. It's not a partner objection, it's a them objection. So ask them, okay, besides your wife, do you feel I can get you to where you want to go? Talk to them, not to their imaginary wife. I'm just scared it's a really big decision. You can be scared and still make a decision in order to better your future. You don't have to not make a decision just because there's fear, there's always going to be fear. And it's actually a good sign that you're heading in the right direction because you're doing something bigger than yourself. This isn't terrible, but instead of saying and yapping, you should be asking them to hear it from them that they need to step up as the brave version of themselves to get them to take action.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/C4tm6EmPCb0.txt"
+words: 188
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_C4tm6EmPCb0
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/C4tm6EmPCb0.txt` — حساب: therealbrianmark — إنستجرام — فيديو C4tm6EmPCb0
+
+---
+
+Hello, where is everybody? Do you run group coaching calls in your program and no one shows up? If so, then you're gonna want to save this video because I've got three hacks for you. Number one is to set the expectations in the onboarding. The language that you want to use is the clients that get the best results are the ones that show up to coaching calls and engage in the community. Number two, send reminders 24 hours before and one hour before the call. Make a post in your public group 24 hours before and then one hour send out a mass message or a mass text to your clients reminding them about the call. Number three is to send personal invites. Every week, pick three to five people to send a personal video or voice note to inviting them to the coaching call. Yo Nick, it's been a while brother. I would love to see you at the group coaching call this Tuesday at 11 a. M. PST. Hope to see you there brother. Boom, go change some lives and follow for more value.

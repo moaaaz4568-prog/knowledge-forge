@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thechrisrigoudis/CrBa4hSA4cs.txt"
+words: 127
+account: thechrisrigoudis
+lang: en
+quality: transcript
+---
+
+# S_ig_thechrisrigoudis_CrBa4hSA4cs
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thechrisrigoudis/CrBa4hSA4cs.txt` — حساب: thechrisrigoudis — إنستجرام — فيديو CrBa4hSA4cs
+
+---
+
+Chances are your sales presentations flop. Let's fix it. Three main rules I want you to follow. Rule number one, I want you to connect the pain points that you have uncovered during your presentation with the features that your product offers. Don't present everything, just present the pillars, the features that fix the specific pain points. Rule number two, unpack exactly why everything they have tried in the past has failed before. You have to separate your product from their past experiences to be unique. Also, number three, make sure that to explain why this time is going to be different. Why this time they're not going to fail. How are you preventing that? Do those three things and not buying from you will seem silly.

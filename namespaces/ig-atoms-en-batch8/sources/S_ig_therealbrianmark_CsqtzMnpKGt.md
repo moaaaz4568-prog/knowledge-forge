@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/CsqtzMnpKGt.txt"
+words: 212
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_CsqtzMnpKGt
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/CsqtzMnpKGt.txt` — حساب: therealbrianmark — إنستجرام — فيديو CsqtzMnpKGt
+
+---
+
+I'm making $10 million a year right now, and it all started by selling a $200 product. When I first started as an entrepreneur, I was working as a bartender from nine to five every single day. Once I got off work, I would spend two hours posting on social media, interacting with people, and trying to build relationships with people online. It took me three to six months of posting consistently for people to start viewing me as an authority. And in this time, I did a lot of free work to get my name out there and build my reputation. I sold my first ever online coaching program for $200 for 12 weeks. The next client I sold for $400 for 12 weeks. The next client I sold for $750 for 12 weeks. I've been consistent for the last 10 years, which has made me an overnight success. I started out just like you, working a nine to five and hustling to try to get my online coaching business off the ground. If you start today and you can stay consistent for the next five, ten years, I promise you you're on the way to making millions. And if this video was valuable, save it and follow me for more.

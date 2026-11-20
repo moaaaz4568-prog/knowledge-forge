@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thebranding.ai/DXCBTw9irJ2.txt"
+words: 161
+account: thebranding.ai
+lang: en
+quality: transcript
+---
+
+# S_ig_thebranding.ai_DXCBTw9irJ2
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thebranding.ai/DXCBTw9irJ2.txt` — حساب: thebranding.ai — إنستجرام — فيديو DXCBTw9irJ2
+
+---
+
+This is the original video. It pulled over 723 million views. Then others copied it and pulled millions too. So why does this work every single time? Number one, curiosity hook. The first frame creates a question. No caption, no explanation, just confusion. And once your brain asks, it can't scroll. Number two, delayed payoff. They don't reveal it instantly. Every second adds tension. Your brain was promised something. Now it needs closure, so it stays. Number three, satisfying reward. Then the payoff hits, and it feels earned. And that exact feeling gets shared, because people don't share what they watch. They share what they feel. Curiosity to tension to release. That's the structure behind almost every viral video. You don't need new ideas. You need better patterns. Find what works, make it yours. That's not luck, that's psychology. Save this reel and comment "proven" and I'll send you 5,000 proven psychology-based hooks you can use to hit millions of views.

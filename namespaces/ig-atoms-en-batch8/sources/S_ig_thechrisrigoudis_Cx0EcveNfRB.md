@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thechrisrigoudis/Cx0EcveNfRB.txt"
+words: 143
+account: thechrisrigoudis
+lang: en
+quality: transcript
+---
+
+# S_ig_thechrisrigoudis_Cx0EcveNfRB
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thechrisrigoudis/Cx0EcveNfRB.txt` — حساب: thechrisrigoudis — إنستجرام — فيديو Cx0EcveNfRB
+
+---
+
+I heard a story once that as leaders, we can either be tugboats or lighthouses. You see, the tugboat pulls and gets pushed and drags the other boats around, and they can get a job done, but there's a lot of collateral damage. And at the end of the day, the smaller boats, they never learn how to navigate the sea. Now, on the other hand, the lighthouse shines the way, it guides ships through the challenges by being the best they can be and shining their light into the world. As leaders, we should opt to be lighthouses, shining bright and letting the boats that want direction, that need direction, move towards us. Because we can tug people around, we can push people around for so long. Instead, be a lighthouse and not a tugboat. Make sure you follow for more tips.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DBIrlqxzHKg.txt"
+words: 180
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DBIrlqxzHKg
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DBIrlqxzHKg.txt` — حساب: therealbrianmark — إنستجرام — فيديو DBIrlqxzHKg
+
+---
+
+When you're on a sales call, never cheer the person on when they tell you what they've accomplished. For example, let's say that your prospect says, "I just lost like 10 pounds in the last six months." The worst thing you could do is become their biggest cheerleader and be like, "Oh my God, that's so amazing. I'm so happy for you. You're doing so good." They're not gonna buy from you because if they needed somebody to cheer them on, they could go talk to their friend. Your job as a coach is to demand greatness out of the people that you work with. So here's how you'll respond. "10 pounds? Not bad. And you mentioned that you've got about 20 more to lose, so we're on the way." Letting your prospects know that you see how far they've come, but you also recognize how far they have to go. And because you're the person that demands that level for them, they're gonna be begging to join your program at the end of the call. Follow for more value.

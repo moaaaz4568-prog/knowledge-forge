@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/DIbb0r9prpk.txt"
+words: 186
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_DIbb0r9prpk
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/DIbb0r9prpk.txt` — حساب: therealbrianmark — إنستجرام — فيديو DIbb0r9prpk
+
+---
+
+You make as a personal trainer? 6.5k. Let's go. How long you been doing this for? About a year, three months. Okay, cool. When you first got started, what would you say are some of the biggest struggles you had? Man, limiting beliefs for sure. Just not thinking that's possible. Like you're seeing all these big numbers and you're like, this kid's got to be a scam, right? Yeah, yeah. Yeah, I think it was just not being able to picture the finish line. Being able to like see yourself in their shoes and be like, oh, I can do that shit myself. So self-sabotage, for sure. So there's a bunch of personal trainers watching this right now that want to get results like you. What would be one or two pieces of advice that you'd give them? Number one, hire this fucker. Get in the program. This guy's got all the juice, all the sauce. But number two, probably just keep momentum. Keep that foot on the gas. When you start feeling it, seeing the results, that's when you got to double down, keep going.

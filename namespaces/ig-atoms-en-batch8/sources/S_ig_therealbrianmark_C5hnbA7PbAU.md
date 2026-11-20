@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/therealbrianmark/C5hnbA7PbAU.txt"
+words: 216
+account: therealbrianmark
+lang: en
+quality: transcript
+---
+
+# S_ig_therealbrianmark_C5hnbA7PbAU
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/therealbrianmark/C5hnbA7PbAU.txt` — حساب: therealbrianmark — إنستجرام — فيديو C5hnbA7PbAU
+
+---
+
+Five Instagram secrets that helped me gain 30,000 followers in 30 days. Number one, only interact with videos that are related to your niche. Because I'm a business coach for personal trainers, when I'm on social media, I'm only interacting with other personal trainers' content so that the algorithm sees that I have a relationship with them. Number two, edit your Instagram username to include keywords. Example, I'm a business coach for online coaches, so my name says Brian Rom Mark, business coach for online coaches. Number three, the first line in your bio should be the tagline of who you help. The reason that this is important is when your content starts to perform well and people come to your page, you want your ideal demographic to know that you're the person that can help them, and then they'll follow you. Number four, spend time writing captions that have keywords related to your niche. Instagram is an SEO platform, so when people are searching terms, you want to make sure that your name pops up. Number five, turn on interest topics. Go to settings, select privacy, and then toggle interest topics. Choose topics related to your niche so that Instagram shows your content to those people. Save this video and follow me for more value.
