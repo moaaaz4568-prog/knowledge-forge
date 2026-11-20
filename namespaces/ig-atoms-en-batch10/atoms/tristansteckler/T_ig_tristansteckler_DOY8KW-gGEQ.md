@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_tristansteckler_DOY8KW-gGEQ.md
+location: instagram/tristansteckler
+---
+
+# T_DOY8KW-gGEQ_01
+
+"I'm hitting 50k months prior to working with Tristan. I was freaking diddle doodling around with the hunt... with 1000 to 2000 months. Yo what's going on it's Kevin Andries with K Square Fitness and Tristan has radically changed my online business. I quickly realized that if I was gonna be into this online space as a business owner... if you want to make money how do you make money?" — sources/S_ig_tristansteckler_DOY8KW-gGEQ.md
+
+# T_DOY8KW-gGEQ_02
+
+"You gotta do sales calls and if you're wasting your time with getting objections like think about it let me talk to my partner yeah whenever everything works out with the money side of things and you don't know how to handle it like I didn't Tristan gave me the tools the resources and the skill set by sitting down with me personally reviewing my sales calls quite frankly it's radically changed my" — sources/S_ig_tristansteckler_DOY8KW-gGEQ.md
+
+# T_DOY8KW-gGEQ_03
+
+"life. I actually enjoy sales now. I remember the very first call that we had it was he gave me so much value in my first three minutes of reviewing my sales calls I was like boom Tristan's a freaking real deal figure out how to make it work if you're taking sales calls put one foot in front of the other find a way to make it happen." — sources/S_ig_tristansteckler_DOY8KW-gGEQ.md
