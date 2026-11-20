@@ -1,0 +1,42 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+location: instagram/hossamelomda_
+---
+
+# T_C1rxA7oI6R2_01
+
+"مشروعك عمره ما يكبر فكرة إنك تبني المشروع كله عليك أنت عشان ما تثقش إنك تعتمد على أي حد في المشروع في حاجة معينة هتفضل شايل نود كبير جدا، هتوصل لمرحلة معينة مش هتقدر تكمل." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_02
+
+"فأنت لو صاحب مشروع وعايز مشروعك يكبر لازم يكون عندك concept delegation، إن أنت إزاي تعرف تعمل تفويض، وتكرر نفسك تعمل أكتر من نسخة منك في المشروع." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_03
+
+"ونجاح المدير إنه ينسخ نفسه في الناس اللي شغالين معاه مش إنه هو يعمل كل حاجة لوحده." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_04
+
+"وفي يوم من الأيام الناس دي تعمل كل اللي أنت بتعمله، وده عشان ما يوصلش بك في يوم من الأيام تبقى عامل زي مدرس السرعة العامة اللي بيدي دروس، لو وقع في يوم من الأيام مافيش حد هيدرس مكانه فبالتالي مصدر دخله وقف." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_05
+
+"هتقول لي طب أنا دلوقتي دكتور ولا يكون دكتور أسنان، هعمل إزاي ما أنا لازم أنا أشتغل بإيدي؟" — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_06
+
+"أقول لك لأ، أنت لازم النهاردة يوصل بك في يوم من الأيام يبقى عندك team أطباء كبير جدا، يقدروا يقوموا باللي أنت بتقوم بيه، وأنت ما تضنرش إن في الحالات الكريتيك أو حد جامد أوي لازم تعمله كل حاجة بنفسك." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_07
+
+"ولو قريت كتاب poor dad عن rich dad روبرت كيوساكي المستشار المالي لبيل غيتس في وقت ده، قسم الناس حسب طبيعة دخلهم لأربع محاور psbi قال لك ال poor dad بيبقى employee أو عنده small project، أما rich dad بيكون business owner أو شغال في investment." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_08
+
+"فعشان تكون business owner هنا people works for you، يعني لو أنت البزنس بتاعك فيه عشر موظفين كل موظف بيشتغل تمان ساعات فأنت systemat بيشتغل تمانين ساعة في اليوم، وده بيدخلك فلوس." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
+
+# T_C1rxA7oI6R2_09
+
+"فبلاش يكون البزنس والدخل كله قايم عليك لوحدك، ده لو أنت عايز تكون rich dad." — sources/S_ig_hossamelomda__C1rxA7oI6R2.md
