@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_therealbrianmark_DIooKx5pdlU.md
+location: instagram/therealbrianmark
+---
+
+# T_DIooKx5pdlU_01
+
+"If you lost six clients this month, it's because the delivery of your program sucked. And you might think it's awesome because you're delivering a training plan and nutrition plan, but your clients don't think it's awesome, which is why they dropped off the program and they're not gonna pay you next month. So in order to fix your delivery, here's what you're gonna look at." — sources/S_ig_therealbrianmark_DIooKx5pdlU.md
+
+# T_DIooKx5pdlU_02
+
+"Go into every single client that canceled it and I want you to look at their customer journey. Basically, from the moment they signed up, what happened next? Did you do an onboarding call with them? How was their first week in the program? Did they check into the app? What week did they drop off the program and stop complying? Was it week four, week six, week eight?" — sources/S_ig_therealbrianmark_DIooKx5pdlU.md
+
+# T_DIooKx5pdlU_03
+
+"Once you identify where the gap is in your delivery, then you can build a new system for your new clients coming on board. That way you don't repeat the same pattern with every single client that comes on and you don't have a revolving door business. Follow for more value." — sources/S_ig_therealbrianmark_DIooKx5pdlU.md
