@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_mattyr_ecom_C4tPN7aA8Pb.md
+location: instagram/mattyr_ecom
+---
+
+# T_C4tPN7aA8Pb_01
+
+"Got it. Here's the raw transcription: Did you know making money online doesn't have to be complicated? Well that was an awkward pause. Oh, let me... Oh shoot. I dropped all the schmickles. Anyways, you depressed emo kid, how can you make schmickles online nowadays? I mean, you ask and you shall receive. I personally sell envelopes to grandmas on Facebook." — sources/S_ig_mattyr_ecom_C4tPN7aA8Pb.md
+
+# T_C4tPN7aA8Pb_02
+
+"And oh, trust me, it sounds really dumb, I know. But guess what... When people are going clocking in on Mondays in the morning to please their boss, I am making schmickles daily. These are how much grandmas are paying for my envelopes while I sleep in. Yes, those are individual orders. Oh but you want to see bank account payouts? I got you. Here are the daily payouts." — sources/S_ig_mattyr_ecom_C4tPN7aA8Pb.md
+
+# T_C4tPN7aA8Pb_03
+
+"I'm just gonna keep refreshing it, just, you know, so you get the point. This is how it works. I order stuff from China, I'm the middleman. I have a Shopify website, run Facebook ads, and package the orders, ship it with USPS. Want to learn more? DM me, I'll personally talk to you on Insta." — sources/S_ig_mattyr_ecom_C4tPN7aA8Pb.md

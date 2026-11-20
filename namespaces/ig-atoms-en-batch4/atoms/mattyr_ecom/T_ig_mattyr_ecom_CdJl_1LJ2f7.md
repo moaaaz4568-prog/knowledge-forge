@@ -1,0 +1,10 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_mattyr_ecom_CdJl_1LJ2f7.md
+location: instagram/mattyr_ecom
+---
+
+# T_CdJl_1LJ2f7_01
+
+"Good morning! Do you know why I'm so excited? Check out my brand new store—it's doing really well. Here are some sales from the analytics: 7% conversion rate... up by about a boot... 11% up... 60% profit. You know what? I think I know how to market in 2022." — sources/S_ig_mattyr_ecom_CdJl_1LJ2f7.md
