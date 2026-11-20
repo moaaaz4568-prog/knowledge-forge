@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thepostprotocol_DTn8wNBAI-8.md
+location: instagram/thepostprotocol
+---
+
+# T_DTn8wNBAI-8_01
+
+"What you just saw was a very smart trick that got 5.8 million views. This is because it uses a psychology trigger that activates the audience instead of the creator doing the work. It opens with a simple caption that calls viewers to match the beat with a gif in the comments. That combination instantly challenges the viewer." — sources/S_ig_thepostprotocol_DTn8wNBAI-8.md
+
+# T_DTn8wNBAI-8_02
+
+"It turns passive watching into a mini game, and the brain loves tasks it can complete quickly. Then the comments explode. Everyone rushes to drop their own gif idea, trying to be the funniest or most accurate, which skyrockets replays because viewers scroll through the comments, imagine each gif, and rewatch the video to test them against the beat." — sources/S_ig_thepostprotocol_DTn8wNBAI-8.md
+
+# T_DTn8wNBAI-8_03
+
+"Once creators realized how powerful this interactive format was, they adapted it to their own niches and every version took off. Comment" — sources/S_ig_thepostprotocol_DTn8wNBAI-8.md
+
+# T_DTn8wNBAI-8_04
+
+"and I'll send you 50+ proven viral hooks you can use right now." — sources/S_ig_thepostprotocol_DTn8wNBAI-8.md

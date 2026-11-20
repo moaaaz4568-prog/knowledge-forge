@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thepostprotocol_DZHO58jAGq7.md
+location: instagram/thepostprotocol
+---
+
+# T_DZHO58jAGq7_01
+
+"This video pulled fifty point six million views, and once you understand the structure behind it, you start seeing it everywhere. We call this the level up structure. It works because your brain understands the pattern almost instantly. Each stage takes the same idea and pushes it one step further. So after the first few seconds, you are not just watching the video anymore." — sources/S_ig_thepostprotocol_DZHO58jAGq7.md
+
+# T_DZHO58jAGq7_02
+
+"You are predicting how far the next version can go. And because every level creates a stronger contrast than the one before, you stay until the final payoff. The lesson is simple: take one visual idea and build it in stages, where each stage clearly increases the tension, scale, difficulty, or result. The context can change completely, but the psychology behind the structure stays the same." — sources/S_ig_thepostprotocol_DZHO58jAGq7.md
+
+# T_DZHO58jAGq7_03
+
+"Comment hooks, and we'll send you fifty plus templatized hooks based on viral videos you can adapt for your own content." — sources/S_ig_thepostprotocol_DZHO58jAGq7.md
