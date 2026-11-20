@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/toyancloses/DdlXl_skd7J.txt"
+words: 612
+account: toyancloses
+lang: en
+quality: transcript
+---
+
+# S_ig_toyancloses_DdlXl_skd7J
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/toyancloses/DdlXl_skd7J.txt` — حساب: toyancloses — إنستجرام — فيديو DdlXl_skd7J
+
+---
+
+Here's 23 years of no BS sales advice in a couple of minutes. There's no such thing as an inbound closer, just a lazy salesperson. You are responsible for your calendar being full, not the marketing department and not the setters. You are responsible for your own show rate as well. If the triage department are not doing a good job, then triage your own calls. A great closer knows when to pick up the job of the marketing department and when to put it back down. Know your exact numbers, exactly how many appointments you need, your show rate, how many dials you need to do to have that amount of appointments on your calendar, to know exactly what amount of money you're gonna make. If you don't know your exact numbers, then you're just guessing. Do your follow-ups. Ask for referrals as soon as you make the sale. An objection is the start of a sales call, not the end of it. Look for objections in the discovery rather than hiding from them. Know when to objection handle, know when not to, know how hard you can push based on who's in front of you. Control the pace but adapt to the person in front of you. Listen to what they mean, not just what they say. Also listen to what they're trying to not say. Fight for the prospect getting out of their own way, not for your commission. People buy on emotion first and then justify it with logic afterwards, even in B2B. A behavior from a prospect is an action towards something. A pattern of those behaviors is driven by a belief. You can't add a belief to a prospect's mind, you can only swap it. You can only future pace who they want to become, not what they want to do. People have to take a mental rehearsal of something before they do it. The first objection they give you is usually not the real objection. Handle resourcefulness before resources. By that I mean get them into a resourceful state before offering payment plans. The deal didn't die at the end of the call, it died at the start. If you say something, they have to acknowledge it. If they say something, they have to own it. Use silence as a tool. Most closers are too scared to use it. Slow down. If you're talking more than them, you're losing the sale. You're not selling them a product, you're selling them a version of themselves. Your concerns become their concerns. If you are not certain, they will be either. During objection handling, pass your calmness onto them. People don't buy when they understand it, they buy when they feel understood. Put everything that you do in the prospect's best interest. This is their call, not yours. Detach from the outcome. The closer that needs the sale doesn't get the sale. The person asking the questions is the one in control. Diagnose before you prescribe. If they haven't committed to solving their problem, don't go into the pitch. People move away from pain faster than they move towards pleasure. If there's no problem, there's no gap. If there's no gap, there's no sale. The cost of inaction has to feel bigger than the cost of action. Price is only an issue in the absence of a big enough gap being built. Don't lower the price, raise the perceived value. You have two ears and one mouth, use them in that ratio. Assume the sale. If you don't believe that they're buying, then neither will they. Only ask questions that move the sale forward, not backwards or sideways.

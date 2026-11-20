@@ -1,0 +1,27 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/tristansteckler/DQaEX_cjIPo.txt"
+words: 184
+account: tristansteckler
+lang: en
+quality: transcript
+---
+
+# S_ig_tristansteckler_DQaEX_cjIPo
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/tristansteckler/DQaEX_cjIPo.txt` — حساب: tristansteckler — إنستجرام — فيديو DQaEX_cjIPo
+
+---
+
+"For me? Hey, what are you running from?
+What are you running from?
+I want to know.
+You see how on this call like you could drop a pen and everyone would be able to hear it? Like that's the type of feeling that you can create on the calls where people are locked in on what you're saying.
+And that's where the time, it just goes. People lose track of time, and they're like, 'Wow, this is one of the most refreshing conversations that I've ever had in my entire life.'
+No point. Would anyone on this call look at me and say, 'Hey buddy, you know coming up to the top of the hour, really gotta get out of here.' And you just tell me the price? Would never happen.
+Because every single person on this call, through hearing my voice, feels as though they're making tangible progress towards what they want.
+No one on here is screwing around on their phone, checking emails, none of that.
+Cause you feel the value of being on the call.
+Same thing on your calls."

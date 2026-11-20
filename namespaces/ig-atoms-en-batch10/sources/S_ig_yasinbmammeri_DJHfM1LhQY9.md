@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/yasinbmammeri/DJHfM1LhQY9.txt"
+words: 198
+account: yasinbmammeri
+lang: en
+quality: transcript
+---
+
+# S_ig_yasinbmammeri_DJHfM1LhQY9
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/yasinbmammeri/DJHfM1LhQY9.txt` — حساب: yasinbmammeri — إنستجرام — فيديو DJHfM1LhQY9
+
+---
+
+Steal these viral hooks. Why did no one tell me that you can do scary things? Why did no one tell me that you can access somebody's internet search history through the Wi-Fi? Why get a boring normal thing when you can get X? Why get a regular schmegular rectangular bed when you can get a circle bed? I decided I'd try and get X as many times as possible. I decided I would try to get rejected as many times as possible. People keep asking me how I'm so X without looking X. People keep asking me how I'm so strong without actually looking like I'm strong. If you are good thing and also bad thing, you need to understand. If you are super self-aware and also really stuck, you need to understand. If you've watched this far, you clearly care about going viral, so chuck us a follow. If celebrity has gone from why, here's why. If Tube Girl and Bobby the Podcaster have pretty much vanished from your For You page, here is why. Some people that you think X actually Y. Some people that you think know, like, and trust you can't stand you.

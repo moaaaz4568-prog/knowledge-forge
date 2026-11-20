@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/tristansteckler/DTGzcEHgFjI.txt"
+words: 597
+account: tristansteckler
+lang: en
+quality: transcript
+---
+
+# S_ig_tristansteckler_DTGzcEHgFjI
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/tristansteckler/DTGzcEHgFjI.txt` — حساب: tristansteckler — إنستجرام — فيديو DTGzcEHgFjI
+
+---
+
+What is your vision for the next five years as far as high ticket and what do you want to do? I'd say two things. When I first got into high ticket four and a half years ago, it was all about trying to stabilize financially because I had no idea what I was going to do with my life. I just graduated college and it was COVID and nobody was even hiring, so my degree was pretty much pointless and nobody would hire me or interview me. And so... I got into high ticket trying to make income. Um, I come from a family of a dad who was an entrepreneur, so I knew a little bit about business and making money and not working for someone else. And so I joined a coaching program, spent all the money that I had and stepped out in faith, trusting God that he was going to provide for me, and he certainly did. And so I got into high ticket and started making really good income and I realized that God had blessed me with a lot of skills in communication. And I started pursuing money and trying to become financially wealthy and successful and I certainly got my fair share of that, but I quickly realized after setting revenue target after revenue target and hitting it that money would never fulfill me like I thought it would. And what a lot of people in this industry are doing is they're pursuing financial wealth and being able to buy whatever you want to buy, whether it's a nice place to live or a nice car or etcetera, thinking that those things are going to make them happy and then quickly realize that they're typically left depressed and empty and always wanting more. So one of the main reasons I feel like I'm still in the high ticket space and will be in the space for the foreseeable future is because I've been planted here for those people who go after money and quickly realize that they're not happy and they're not fulfilled and it doesn't matter how much they make, they're... still dissatisfied with where they are. They'll go to drugs or drinking or girls or pornography thinking that that's going to fulfill them and once again it's a dead end. I'm here for those people to show them the love of God because without Jesus Christ, I would literally be void of all purpose. There's no amount of money that you can make that's actually going to fulfill you the way you think it is. And the only thing that I've truly found fulfillment in is my relationship with God. Being able to pour into people and being able to help people break chains off of their own life. So I just want to see more of that. I want to see integrity reinstated into this industry. I want people to be serving the person they're talking to and doing everything in their power to actually help them. And people who are operating in that way of thinking will quickly realize how rewarding that is, not even from just a financial incentive perspective. And it's very fulfilling when you have people reaching out to you months later saying you've completely changed their life and they're grateful and they'll never be the same. They're a better leader, they take action on their goals, they don't procrastinate or make excuses. That's truly life changing. If you want to be along for the journey, follow this page for more value.

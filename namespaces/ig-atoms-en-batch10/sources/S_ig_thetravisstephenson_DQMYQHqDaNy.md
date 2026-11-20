@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DQMYQHqDaNy.txt"
+words: 612
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DQMYQHqDaNy
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DQMYQHqDaNy.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DQMYQHqDaNy
+
+---
+
+So my business did over $30,000 in revenue yesterday, and I didn't have to post any pictures of my cleavage. I didn't have to make any videos of me in Lambos or showing man nipples or do any of this crazy stuff that let's admit it, all of the other online programs are doing to get your attention. They're flashing cleavage, showing nipples, Lamborghinis. I didn't have to do any of it. And it's actually crazy to me that more people aren't doing what I'm doing. See, the truth is making money online is all about getting attention, but there are more ways to get attention than showing off your tits and or showing everybody how jacked you are or Lamborghinis and Ferraris. There's actually a much more repeatable and easy and manageable way that people like me use to get attention, that attention into dollars, and then get more dollars from that. We call it a buyer loop. So once you get somebody to buy from you once, you can get them to buy over and over and over again and create a real business where you can actually make people happy and do good things in the world. And let me show you another example. This is my marketing CRM, and you can see what happens is people will buy my stuff for $27, and then we offer them other things to speed up their journey. So this first thing is all information. The next thing we do is speed and automation and access to us. So we sell this in our funnels, it's called, so on the websites. And what this does is it gives people a chance to go through our material, learn from us, and figure out that we're actually worth listening to. And then when they do that, they're like, hey, you know what? This is actually pretty cool. I would like some help with this. And they will ascend themselves into $15,000 packages, and we sell these virtually all the time. You can see that was on October 17th. Yesterday was October 21st, so that doesn't even include this sale. We're doing this consistently. That example is something that I call a buyer loop, and the buyer loop is the best way, in my opinion, for anybody to get started selling digital products because it's easier to create low ticket programs and then ascend people into your high ticket after they already want your help. See, if I give somebody a piece of information for $27 and it's helpful and they realize, man, that's a lot of really good information. You must be really smart. Well, now they're more likely to think that I know what I'm talking about. And what's good is I led with value. I didn't lead with sex appeal. I didn't lead with, oh, look at the lifestyle that I'm living. No, I led with, I know what I'm talking about. You should listen to me. And then people flock to you to give you more money to help them on their journey. If you want to see the exact AI prompts that I'm using right now to build my sales pages, build my digital products, and run these businesses and get people to ascend almost every single day without having to show off your boobs, make shirtless videos, and without having to bump around in a Lamborghini, you want to do this the normal human being way. Just comment AI, I'll send you a link where you can check it out. It's everything that you would need to get started all in one bundle. So I think you'll like it.

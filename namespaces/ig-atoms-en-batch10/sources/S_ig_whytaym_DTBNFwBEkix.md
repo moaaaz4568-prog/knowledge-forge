@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/whytaym/DTBNFwBEkix.txt"
+words: 650
+account: whytaym
+lang: en
+quality: transcript
+---
+
+# S_ig_whytaym_DTBNFwBEkix
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/whytaym/DTBNFwBEkix.txt` — حساب: whytaym — إنستجرام — فيديو DTBNFwBEkix
+
+---
+
+Men used to go to war, but okay. This is Taim. I've never called you before. You don't know who I am, but my cousins know who you are. I have a lot of girl cousins, and whenever they have a wedding, a gathering, a dinner, all they do is go to you and you fix all of their beauty. Oh, that's so nice. Tell them I say hi. I'll do that. My uncles are struggling. Honestly, their pockets are struggling. How long you been operating for? We've been open for around four years now. Okay. And how's that going for you? Because look, I'm sure you'd agree this is maybe a competitive market, so I want to know more about maybe how you stand out. Honestly, the way we get our business is we're very strategically open in a location where there's a lot of young girls, or you know, the word spreads. And we get a lot of, like you said, your uncles are struggling. A lot of other uncles are also struggling, and that's how we get our services. So mainly your clients are word of mouth convenience. Convenience, that's the area. I handle a very large team that specializes in. Are you familiar with TikTok and Instagram content, all that content brands do? Of course. Why don't you do that? Like I said, we do run heavily on word of mouth. Our neighborhood is our entire client base. Wow. So I just don't see the need. All this good work you're doing, don't you ever think of maybe building a community on social media? Now I know in the old days it was word of mouth, and it's still that case, but now it's almost 2026 and things are taking a change. You know, social media is becoming the new thing. As a girl, I'm sure you would agree if you were to go to a macho place, it's because you searched it up on TikTok, you've seen it on TikTok, you know what I mean? What are you trying to say here? What I'm trying to say is all of this good work you're doing should be highlighted on social media. And I'm sure you opened this business with an, you sound like an ambitious person who doesn't only want to have one branch. You're gonna have multiple, if I'm not mistaken. Okay, so you're fully booked on one branch, which is very impressive, but don't you think maybe when you want to open another branch, that requires more clients, someone were to come in and make all of this so much easier for you, because you've secured the community that would come because they've seen you on social media, would you be open to having a conversation about that? Have you worked with other salons before? 100%. You know, this is our bread and butter. I don't see the point in having TikTok for me specifically, but I'm honestly interested in the work you've done for others. Maybe that would convince me. Okay, okay. I know I've called you out of nowhere. You're a bit hesitant maybe to talk about this because maybe you don't see a point. But I think on a 15, 20 minute conversation, I can break it down for you and show you how it can work for you. Would you be open to maybe having a 20 minute conversation, even if it's on Zoom? Come by to our branch as well. Maybe get your nails done or something. And we can talk about that. Men used to go to war, but okay. Okay, let's do. Are you in the country this week? I am in the country this week. You want to do Tuesday? Let's do Tuesday. At 2 p. M. Tuesday. All right, done. Okay, I'll send you WhatsApp, Sarah. This is Taim. Thank you. Bye, Taim. Bye.

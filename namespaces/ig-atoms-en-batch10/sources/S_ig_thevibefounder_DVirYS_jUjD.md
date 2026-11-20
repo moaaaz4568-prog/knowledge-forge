@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thevibefounder/DVirYS_jUjD.txt"
+words: 160
+account: thevibefounder
+lang: en
+quality: transcript
+---
+
+# S_ig_thevibefounder_DVirYS_jUjD
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thevibefounder/DVirYS_jUjD.txt` — حساب: thevibefounder — إنستجرام — فيديو DVirYS_jUjD
+
+---
+
+Sam Altman said, "Enough is enough. I am not going to lose this race." And then he did it. So welcome back guys, this is day 69 of building you 100x. Here's the story. Everyone was talking about Claude Code. Everyone was talking about Google. And Sam Altman was watching and he said, "Not today." So he dropped GPT 5.4, thinking and pro. Right now live in ChatGPT, the API and Codex. And this is what makes it insane. ChatGPT can now physically use your computer, not just answer questions, actually click buttons, open apps, fill forms, navigate software, like a real person sitting at your desk. Three months ago, it could do this 47% of the time. Today it's 75%. Think about how fast that is. One model, reasoning, coding, agents, all in one. Sam Altman is not losing this race. That much is clear. Comment OpenAI and I'll send you the direct link and follow for more videos.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/tristansteckler/DU1XyL3gfrx.txt"
+words: 591
+account: tristansteckler
+lang: en
+quality: transcript
+---
+
+# S_ig_tristansteckler_DU1XyL3gfrx
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/tristansteckler/DU1XyL3gfrx.txt` — حساب: tristansteckler — إنستجرام — فيديو DU1XyL3gfrx
+
+---
+
+Has there been anyone that hasn't succeeded in this program? Of course. What do you ask? I'm just curious about the success rate you guys have. So in your own mind, you're saying depending on what our success rate is, that's what will determine whether or not you take the stuff. Do you know the success rate in marriage in America? Fifty-one percent of people get divorced in America today. Are you married yourself? Yeah. What determines success or failure in marriage? Regarding being there for her emotionally... Why do you feel you're still married? I'm providing what I can. She sees that I'm trying. It could be better, of course. You're doing everything in your power to make sure that the marriage works. Pretty much. Okay. Why do you feel that people end up getting divorced then? If it's that simple. I'd say they married the wrong person, or they're just not trying hard enough. No one would ever take the step and get married if they knew that at the end of that marriage would be divorce, would they? Of course not. And when people ask me about success and percentages, there's no guarantee that it's going to work. If I sat here and said one hundred percent of people are successful, I would be lying to you because not every single person does the things necessary to make the program work. Just like no pilot can guarantee that the plane's going to land, just like you can't guarantee that getting in your car is going to get you to your destination safely. But that doesn't prevent you from getting in your car, does it? Right. Yeah. I wouldn't imagine you'd even be on this call in the first place if you suspected that I was here to scam you or take advantage of you or put you in a bad position. No. When it comes to making these uncomfortable decisions and taking these risks, there's always going to be that voice in your brain that tells you not to do it. And what I've realized over four and a half years of being in this space and spending tens of thousands of dollars on coaching programs is that that voice never goes away. And what I've realized through taking those actions and overcoming that voice in my head and doing it anyway, the writing on the wall of what I've achieved starts to disprove the voice that I hear. And the reason that in your own mind, when you hear that voice, it prevents you from taking the step is because you haven't done it before. Like walk me through a decision in the past where you were doing something for the first time and you weren't even just a bit nervous, especially if it was significant. Oh yeah. I'd imagine you felt nervousness at that point, didn't you? Oh yeah. Yeah. You had thoughts in your brain that said, you know, is she the right person? Am I equipped financially to make this type of decision? But that didn't get in the way of you taking the step, did it? I stayed. Knowing what you know now, how is this any different? It's pretty much the same. Are you willing to back yourself every single step of the way and raise your hand when you have questions and not throw the towel in even if it is uncomfortable and scary? I'm willing to do that. Take my life. I think it's the biggest gamble I've ever taken.

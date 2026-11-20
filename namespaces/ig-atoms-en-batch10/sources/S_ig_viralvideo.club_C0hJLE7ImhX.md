@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/viralvideo.club/C0hJLE7ImhX.txt"
+words: 594
+account: viralvideo.club
+lang: en
+quality: transcript
+---
+
+# S_ig_viralvideo.club_C0hJLE7ImhX
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/viralvideo.club/C0hJLE7ImhX.txt` — حساب: viralvideo.club — إنستجرام — فيديو C0hJLE7ImhX
+
+---
+
+GaryVee just destroyed the hopes and dreams of 99% of creators. But all hope is not lost. Watch the video and then I'll give you three strategies that'll help you make it as a content creator. It's just so clear how hard it is to be great at social in 2024. And to be great, you've got to really know your craft. You got to be better. And so the trend is being better. Like really understanding should you post a reel or should you post a carousel? I think the biggest tactic is to actually realize there's science, there's strategy, and this isn't just being pretty or funny or like just gimmicky anymore. Like you've got to get great at it. I want everybody right now to ask themselves why they posted the last or the next post. And most of it is grounded in their subconscious that something like this used to work and I want it to work in the algorithm. That's not good enough anymore. Many creators still act like we're in 2020, where posting content was like fishing in a barrel. But the truth is things are different now, and only the competitive will survive. And to succeed as a content creator, you now need three things. One, an awareness of your environment. Every environment has a set of rules we must abide by if we want to succeed. If you start shouting in a library, you look insane. If you start whispering in a nightclub, you also look insane because you fail to acknowledge the context. And the same is true of social platforms. There are rules and expectations for every single platform. And the only way to understand how each platform works is to use them. By consuming lots of content on the platforms you want to succeed on, your finger is on the pulse and you get a real feel for what the platforms love and hate. Two, stop being yourself. So many people are telling you, just be yourself, baby, you're enough. This is terrible advice for 99% of creators. Showing up as yourself is selfish. When you go on a first date or to an interview, you try and look good and sound good. And even though there is a version of you that picks their nose, farts like a sailor, and eats cheese directly out of the packet, that's not the version you're going to show. So unless you've got a one in a million personality, you need to be strategic and actually think about the content you're making, the impact you want to have, and the brand you're trying to build. And to do this, you need to spend way more time coming up with ideas, scripting, learning the science behind viral hooks, and also understanding viral tactics like trendjacking, social hacking, or engagement farming. Just waffling for five minutes about your cheese toastie is no longer enough. Three, outside perspective. If you're like me, then every piece of content you make feels like God's gift to the world. And whenever you have a video fail, you're struggling to understand why. That's why I now make sure I get feedback on my videos from other creators so I can actually figure out why my videos didn't work. And this outside perspective shines a light on all the things I can't see and all the things holding my content back. If you want feedback from awesome creators, you should definitely check out Viral Video Club because it's where creators go to level up.

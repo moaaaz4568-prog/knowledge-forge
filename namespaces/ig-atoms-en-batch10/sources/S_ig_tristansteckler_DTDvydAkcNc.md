@@ -1,0 +1,46 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/tristansteckler/DTDvydAkcNc.txt"
+words: 287
+account: tristansteckler
+lang: en
+quality: transcript
+---
+
+# S_ig_tristansteckler_DTDvydAkcNc
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/tristansteckler/DTDvydAkcNc.txt` — حساب: tristansteckler — إنستجرام — فيديو DTDvydAkcNc
+
+---
+
+Here you go! The transcript is as follows:
+
+"If you could work on only one thing every day to improve your sales calls, what would you do?
+
+I would stop talking so much, and I would just listen to the person I'm talking to.
+
+You start to realize that the more calls that you take, that what people are expecting coming into these calls is that someone's going to pat them on the back and talk about how amazing they are and say that they like their shirt or their hat or where they're from.
+
+...shove your product down their throat, manipulate them, take advantage of them, and only care about yourself.
+
+And what a lot of sales reps do is they don't listen.
+
+They ask questions that they don't understand why they're asking, and they don't even listen to the answers that they get.
+
+What you don't realize is the prospect will literally tell you everything about themselves—all their fears, all their anxieties, all their doubts, all their...
+
+limitations.
+
+And if you just listen and unpack what they tell you, they would persuade themselves that what they're doing is not working.
+
+There wouldn't be on a call with you if what they were doing was working.
+
+Do you get that?
+
+So by simply listening and not thinking because you can't do both at the same time, you can't think about what do I say next and what is he talking about and how much time do I have left and when's my next call and listen to him at the same time.
+
+If you just listen, you'd have much more powerful conversations."
+
+"Use that on your next sales call and follow this page for more value."

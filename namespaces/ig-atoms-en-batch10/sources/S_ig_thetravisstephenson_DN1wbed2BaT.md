@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DN1wbed2BaT.txt"
+words: 612
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DN1wbed2BaT
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DN1wbed2BaT.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DN1wbed2BaT
+
+---
+
+I am making this video specifically for the beginners, the people who are looking for a really good way to build a scalable, potentially five to six figure, even per month, that's what we're doing, digital product business. So if that's not you, feel free to keep scrolling because I'm about to draw some examples that shows you exactly why my trust funnel and the way that we build digital products is the way that levels the playing field for absolutely everybody. It's gonna make total sense and I'm gonna lay it all out for you all on my screen. Let's dive in. I wish somebody pointed this out to me earlier in my career, but this is a very simple price versus demand chart and it basically breaks down that when your price is very high, your demand is going to go down. Logically, based on economics through thousands of years, the more expensive something is, the less people want it. By contrast, the less expensive something is, the more people want it. Just by charging a low sum of money for a really good helpful piece of information, we should increase the demand for that thing. Here's what I want you guys to envision. We don't have any followers on social media, we're not going viral, we don't have a huge audience, there's no affiliates promoting us. Travis, how do we get sales? Well, we put $100 into ads, we put $100 into paying influencers, whatever it is, we gotta get products to make us at least this $100 back. So we spend 100 bucks on ads and hopefully we're gonna make, let's just say 110. If we can make at least $100, we've broken even and we're increasing our demand. So now I wanna play this out over a long period of time. Let's say you've gotten 1, 000 people to buy your $27 thing. Well, now all of these people know you, they like you, they trust you, they see the value in what you're providing. Now we can ascend them into our high ticket program. Now we have more demand. We have 1, 000 people who are demanding more of our time. Now we can sell them on our challenge. Now we can ascend them with our email list. We can promote other products. Now because they're on our email list and they listen to us and they attend our webinars, now we can promote affiliate offers. This is the best way to start building a digital product business in 2025 moving forward because we can take advantage of artificially increased demand by selling something at a low price while everybody else is trying to sell at a high price. We'll do that later, but number one, we've got to increase our demand and then because we have more demand, we can sell at a higher price. And if you want to see exactly how to build my exact trust funnel that makes us over half a million dollars every single month doing this exact same model without having to go viral, without having to have affiliates, if you wanna see how we do it, hit the link. I will explain absolutely everything and you can get access to a step by step program that not only gives you AI prompts to build all of this, create your own digital product that can scale, but we'll actually give you templates and ideas and things that you can do all along the way. I give all of my information as you'll see that I teach everything is available right there. Hit the link, grab it, let's get started.

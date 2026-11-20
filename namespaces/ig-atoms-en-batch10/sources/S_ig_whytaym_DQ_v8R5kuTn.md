@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/whytaym/DQ_v8R5kuTn.txt"
+words: 614
+account: whytaym
+lang: en
+quality: transcript
+---
+
+# S_ig_whytaym_DQ_v8R5kuTn
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/whytaym/DQ_v8R5kuTn.txt` — حساب: whytaym — إنستجرام — فيديو DQ_v8R5kuTn
+
+---
+
+Who is this? Uh, you called me. No, I missed your call like five minutes ago. Who is this? No, I didn't call anyone. Ahmed, I'm just kidding, man. I just want to tell you, I love your coffee. Amazing coffee. Appreciate. Out from this, by the way. This is Tam. I'm calling you out of the blue. You don't even know who I am, but I got your number from a friend of mine who always spends his time working in your coffee shop. And I was like, why not call this guy? Because you're doing such great work in the market. And to tell you a bit about me, what I do is I handle a very large team that specializes in content. Are you familiar with this content that goes on TikTok, Instagram? A lot of people in your industry do it. Yeah, I'm familiar, but I don't spend a lot of time on social media, to be honest. You spend your time scaling the business? Yeah, I need to put the mind where it makes me money. Mind where the money is. I like that. One question, when's the next branch coming? Next branch, Insha'Allah, we're opening like five branches together and. . . Okay, so you've been busy. Okay, got you, got you. So I think I'm calling at the right time because what I want to talk to you about might maybe assist you. I have a very large content team that specializes in this TikTok and Instagram content I was asking you about. We specialize in viral content. I've worked with the biggest in your industry and work with them on a retainer basis. I was calling because your coffee shop is too good to not have a good social media. You guys are only focusing on pictures. You're not very active on it. Why? We've got a lot of these freelancers, bro, that shoot some videos and go. It doesn't really like bring any results, not doesn't bring any customers, nothing like. Why do you think so? Why? It's just the videos don't bring any customers. Got you. So you work with different freelancers. That's how you've done your marketing. They come and shoot some videos and then you get another freelancer. Never maybe with an in-house team or an agency, right? Yeah, I don't have an in-house team. Obviously, we are very small. You're planning to expand as you said. Yeah. Okay, got you. Don't you think you might want to invest a bit more time with one partner who can understand you fully and get you results on a consistent basis? Is that right? Of course, I would love that. Okay, man, look, I'm calling you because I want to speak about that. I want to have a conversation with you, understand more of your business, you being the guy who's behind the scenes, and show you how sticking to one partner who's done this over and over in your industry can help. Who have you worked with? I've worked with a lot. You name it, we've done it. French bakeries, international, small, medium enterprises. We work on a retainer basis or a campaign basis. So I understand small to medium and large enterprises. What do you say we maybe explore our strategy to crush them this week? For sure, nothing, Insha'Allah. Okay, Tuesday, are you more of a morning person or afternoon one? I'm more of an afternoon, Insha'Allah. Okay, got you, got you, got you. 4 p. M. ? Yeah. All right, amazing. I'll drop you on WhatsApp. I'll send you that invite and we'll have that conversation Wednesday 4 p. M.

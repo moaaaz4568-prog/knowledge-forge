@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/viralvideo.club/C5oDyORIlyt.txt"
+words: 631
+account: viralvideo.club
+lang: en
+quality: transcript
+---
+
+# S_ig_viralvideo.club_C5oDyORIlyt
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/viralvideo.club/C5oDyORIlyt.txt` — حساب: viralvideo.club — إنستجرام — فيديو C5oDyORIlyt
+
+---
+
+Quick myth-busting video. A lot of people think that if you post too much, people will unfollow you more, and that's actually not the case, and we just looked into this recently. But over the long run, when we look at the data, we see that the more you post, the more your followers usually grow because more people discover you, more people share your content, there's more content to be discovered. Now, I don't want to pressure you to post many times a day or even every day. You should only post as much as you feel comfortable doing, but you should not be worried about posting too frequently pushing your follower count. In fact, it'll do the opposite over time. Okay, I'm so glad to finally hear this straight from the horse's mouth because so many people have been telling me that Instagram has directly told them to post less often, to post once a week, twice a week, and that they'll grow significantly faster doing that. And that always felt suspicious to me because most of the big accounts, Gary V, Alex Hormozi, Steve Bartlett, most of the big accounts post multiple times per day. And they have huge teams and way more data than we have access to, so they must be doing it for a reason. And for me, the fastest I ever grew was 135, 000 followers in a single month. And guess what? I was posting three times per day. Now I'm posting between six and seven times per week, and in the last 30 days, I've grown about 85, 000 followers. And I saw this impact immediately. As soon as I started posting less, I got less followers. So over the course of a month, I was gaining 50, 000 less followers. And over the course of the year, if you play that out, I would have lost about 600, 000 followers because I wasn't posting as frequently. There's this idea that if you post more frequently, your ideas have to compete amongst each other. I have not seen this to be the case either. Great videos always get surfaced, and they get surfaced to non-followers too through the Reels feed and the Explore page. Instagram has no choice but to surface your videos to non-followers. Now, as Missouri stated, this does not mean you have to post three times a day, five times a day, two times a day, or even once a day. When I was posting three times per day, I made sure that the quality was high for all of those pieces of content. And when I decided to focus more on my business, I knew I'd have to take a step back from the posting frequency I was at before because I just had less time to create high-quality content. So you should always reduce the quantity before you reduce the quality. Try and maintain a high-quality output. You will not see gains if you continually put out shit, and I truly believe that on Instagram and TikTok, momentum is fucking huge. So if you post multiple videos in a row and they perform poorly, now your next video is more likely to perform poorly purely based off of your previous video. So the primary goal should be to create quality content, and then from that place, try and create as much quantity as we possibly can. Whether there's a limit to this or not, I don't know, and the only way to know for yourself is to test. Try once a day, then try twice a day, then try three times and four times, and see where the sweet spot is for you because this is massively gonna depend on your niche and you as a creator.

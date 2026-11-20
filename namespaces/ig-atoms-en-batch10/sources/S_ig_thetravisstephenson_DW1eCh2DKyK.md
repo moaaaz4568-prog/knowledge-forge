@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DW1eCh2DKyK.txt"
+words: 639
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DW1eCh2DKyK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DW1eCh2DKyK.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DW1eCh2DKyK
+
+---
+
+If you are a creator, you need to listen closely because I am going to show you how I'm using AI right now to batch upload all of my content to Instagram. And it's not pulling a whole bunch of tools together and using 10 different AIs and doing all of this. I'm gonna show you how to take your reels and get them to where they can automatically publish very simply through using the AI platform that you might already be using right now. But it will generate the captions for you, automatically post, and all you have to do is once a day hit publish. I'm gonna show you how it works. So let's start at the beginning. I uploaded a video to this platform called Descript. Descript takes the entire video and then I can actually use its built-in AI system. So you can see I hit AI tools and I click create clips. From there, as you can see, it automatically finds the best clips in your long-form content and turns it into a reel that you can publish pretty much right now. And now we're heading over into Manus and I've created this chat which controls my entire social media. So it makes me carousels like you see right here and allows me to publish them as well. But down here I'm uploading all of those reels that I just published. So I have six different reels, I've uploaded all of them, and now I'm gonna prompt it to create a caption and randomize these over the next six days. So it's gonna automatically post for me. All I'm gonna have to do is log into the platform and where it says view now, when you publish this, it's gonna say publish now. You hit publish now and it'll go over to your Instagram. As you can see, this is the actual carousel that it published for me that was just sitting on the AI chat before. It wrote this entire caption and you can see in 10 minutes I've already got two likes, so it's working. So typically this process would cost me anywhere between 20 to 30 dollars to have a video editor edit my videos. I don't have to do that anymore because there's thousands of different AI video editing tools. I just so happen to use Descript for myself. I can download those in about five minutes, upload them to Manus, and now my entire social media for the next looks like seven days is gonna be completely automated. All I've got to do is log in, hit publish, and it's done. This takes a huge weight off and also saves me roughly about 500 bucks every single week from not having to pay an editor and not having to pay a social media manager to get all this stuff set up. This is all done inside of Manus and Manus is 39 dollars a month, which is crazy because the capabilities of this thing to make all of your carousels for your social media, which you can post across all platforms, and all of my short-form content, I use Descript, which is 97, I believe, to start, and Manus, which is 39 dollars a month, and it's just gonna help me stay relevant as a content creator in this world where it feels like we need to be posting three times a day. I can't do that. I can post at least once or twice now because now I can take every one of my reels, have it turn that reel into a carousel, and I've got two posts. I'm just gonna randomize when they actually send, and now I've got content for virtually the entire month, all automated, and all I have to do is just hit publish.

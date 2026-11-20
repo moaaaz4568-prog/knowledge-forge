@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/viralvideo.club/C1Wwv8NIHU1.txt"
+words: 587
+account: viralvideo.club
+lang: en
+quality: transcript
+---
+
+# S_ig_viralvideo.club_C1Wwv8NIHU1
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/viralvideo.club/C1Wwv8NIHU1.txt` — حساب: viralvideo.club — إنستجرام — فيديو C1Wwv8NIHU1
+
+---
+
+Here's Simon Sinek explaining how to get ahead of 99% of creators. Watch the video and then I'll show you how you can apply it to your content. If Apple were like everyone else, a marketing message from them might sound like this: We make great computers. They're beautifully designed, simple to use, and user friendly. Want to buy one? Meh. And that's how most of us communicate. That's how most marketing is done. That's how most sales is done. And that's how most of us communicate interpersonally. We say what we do, we say how we're different or how we're better, and we expect some sort of behavior, a purchase, a vote, something like that. Here's our new law firm. We have the best lawyers with the biggest clients. We have, you know, we always perform for our clients. Do business with us. Here's our new car. It gets great gas mileage. It has, you know, leather seats. Buy our car. But it's uninspiring. Here's how Apple actually communicates. Everything we do, we believe in challenging the status quo. We believe in thinking differently. The way we challenge the status quo is by making our products beautifully designed, simple to use, and user friendly. We just happen to make great computers. Want to buy one? Totally different, right? You're ready to buy a computer from me. All I did was reverse the order of the information. People don't buy what you do, people buy why you do it. People don't buy what you do, they buy why you do it. This explains why every single person in this room is perfectly comfortable buying a computer from Apple, but we're also perfectly comfortable buying an MP3 player from Apple, or a phone from Apple, or a DVR from Apple. You see, most creators never stop to think about why their content exists, and so their content has no through line, nothing connecting one piece to the next. And even if they do go viral, they struggle to build a real connection with their audience because their videos have no real reason to exist. Now I'm gonna give you three ways that you can actually build a personal brand or business that people love. One, ask yourself, why am I making content? What's the goal here? Go as deep as you possibly can. And if everything that you come up with is you-focused, you've done something wrong. Think about how you can leave a positive impact on the world. It should really inspire you and make you feel alive, and then weave that into your why. Two, content should be a two-way street. Engage with your audience, understand their stories, and then reflect these back to them in the content that you make. This moves your content from a transaction to a connection. Three, every single piece of content should feed back into that why. Now I'm not saying you have to imprison yourself in a tiny little niche, but just like a musician trying to create a cohesive look and feel to an album, and then making sure that every song adds to the whole, whenever you make content, each piece should connect back to the core reason why your content exists in the first place, your why. If you fail to do this, your content will end up being meaningless garbage. Now if you like this, follow along for more because I'm gonna be revealing all of the secrets the gurus don't want you to know.

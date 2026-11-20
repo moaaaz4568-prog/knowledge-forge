@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DNL9Z85pk7L.txt"
+words: 620
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DNL9Z85pk7L
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DNL9Z85pk7L.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DNL9Z85pk7L
+
+---
+
+I create, market, and sell digital products online, and I just put three of the mega AI programs to the test to see which one could create the best digital product. You guys probably have never heard of this one, but it crushed ChatGPT and crushed Grok. Let me show you. So I just used ChatGPT's new agent mode, and I gotta say it's leaving a lot to be demanded. This was the product that it actually created. It did a decent job of trying to create some graphics. It's just not there yet. As you can see, it's not formatted correctly. And to be honest, the product that it actually delivered is really pathetic. It was only six pages of a PDF teaching people how to stop procrastinating. I didn't love it. It had all these different references in it that I don't even understand. And I will tell you this, ChatGPT is just not there yet. I then put it to the test with Grok, and you can see it looks a lot like ChatGPT, but Grok was supposed to be PhD level, and the response that it gave me is literally here in what's called markdown, and I didn't want it to be, but they gave me this long program that I honestly just can't use. So let me show you the platform that is creating unbelievable digital products. Look at this. So it gave me full PDF breakdowns of all six of my pillars. The topic that I chose was budgeting for low income. I think it's a great niche. It's being searched 2. 2 million times on TikTok. This right here is a killer, and you guys can see it gave me resources. It gave me the full system. This is a really, really good PDF that I can start selling almost ASAP. It gave me a full checklist that I can give people. You name it. You can see I've got pillar one. This is gonna break down all this information. Each one of these PDFs is about 20 pages, so there's tons of great researched information in here. The difference is ChatGPT's agent mode is a little weak, and Grok's agent mode is a little weak. So there's two kinds of AI right now. There's normal AI where you ask it a question and it goes on its own database and looks up the answer. But when you're trying to build something based on research so that you have real viability to the product, you need agentic AI. And right now I am finding that if you're trying to build a digital product, the best agentic AI for this is called Manus. I've got a couple of referral credits. If you guys are looking to get access to this program, just DM me. I'll send you guys a link where you can check it out. Right now for $39 a month, I think it is absolutely crushing all of the other platforms. I'm using it, and in about an hour, I can build a full-on six pillar digital product in just about any niche. I just think this one's an absolute game changer. The research that it does is elite level. It actually gives you a really good result. So obviously you need some really good prompts to make it give you a good outcome. But so far ChatGPT kind of losing me, and Grok, while it's intelligent, it's just missing the little bit of pizzazz. I think Manus is absolutely crushing. If you want to build a digital product and you don't wanna have to do all the research yourself, give it a look. I think you guys are gonna like it.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DPC3SCNDP-5.txt"
+words: 601
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DPC3SCNDP-5
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DPC3SCNDP-5.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DPC3SCNDP-5
+
+---
+
+In just the last four months, I have spent one million fifty thousand eight hundred and ninety-five dollars and three cents on ads, and I've made more than I've spent. And I'm gonna share a little tip with you that could help your ads perform better, and it's easier than you think. Let me break it down. So when you run ads and you spend as much as I do, you track exactly which ads are bringing you in revenue. And in doing so, you can actually track every single source that's sending you in sales. So I track every sale from Instagram, every sale from Facebook, and every ad that actually generates sales. And I noticed something incredibly interesting as I started to spend more on my ads, something kind of crazy happened. I actually started to get more sales from my Instagram link. So obviously you can have one link in your bio on Instagram. As I spent more on ads, I got more sales to Instagram, and that's when I realized what's actually happening. All right, so I'll spare you the details, but Google released a report called Decoding Decisions: The Future of a Messy Middle. Basically what it means is people aren't just seeing an ad and clicking on it and going right over to your offer anymore. One of the things that they noticed that happened after half a million different transactions, people will see an ad and they will actually click on your profile more now than ever before. So what's happening is as you're running ads, they're gonna see your profile, they're gonna click on your profile, and they're gonna see, is this dude full of shit or not by going through your other content. So I found out that if I posted content that matched the material that I was sharing in my ads, I would notice a lot more sales happening from my Instagram bio link. So this is exactly what I found is happening. They see my ad, they click my profile, they go through my other content, they go, wow, this guy kind of knows what he's talking about. Then they click the link in my bio. They never actually clicked my link, they just clicked my profile. So if your ads are suffering, I would ask myself, am I posting content that somebody that I'm advertising to would find valuable on my actual feed? This should be both on Facebook and on Instagram. Definitely if you're running Meta ads, you wanna be able to share other content that resonates with them so they're like, wow, yes, this is great. And in fact, I love it because one ad only gives me one way to show my message to that user. But if they click on my profile, my content can be 25 other ways to share my material. So it actually helps the selling process. They come in much more educated, and I've actually noticed kind of crazy, a lower refund rate from the people that buy through my Instagram bio link than the people who buy from ads. And the way that I know this is true as well is because when I don't run ads, which is rare, but when I turn my ads off, the sales to my bio link go down as well. So I know ads are driving sales through my Instagram bio link. If you want better results from your ads, post better content on your feed that matches what you are saying in your ads and also supplements it. This should help.

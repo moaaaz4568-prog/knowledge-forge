@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/whytaym/DQHQIdZEvqL.txt"
+words: 597
+account: whytaym
+lang: en
+quality: transcript
+---
+
+# S_ig_whytaym_DQHQIdZEvqL
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/whytaym/DQHQIdZEvqL.txt` — حساب: whytaym — إنستجرام — فيديو DQHQIdZEvqL
+
+---
+
+Look, I'm gonna be very honest. He was a bit overweight, so I was like, what are you doing? That's how I came across what you guys are doing. He told me all about the meal plans you guys are providing, and I'm very impressed by what you're doing, man. Very good. Yeah, I'm glad to hear. Just one question. In market as competitive as this, how do you guys stand out? What we specialize in is catering to different diets. So whether you're vegetarian, keto, carnivore diet, whatever it is that you're on, you meet your standards whilst taking care of everything else we do. Okay, instead of providing like fixed plans, you check what the client needs and you adapt to their body, their needs, their goals, whatever, right? Of course, of course, everything is tailor made per customer. Amazing. Okay, to give you a little background, I'm calling you asking you these questions, but you don't know who I am. My name is Taim. I handle a large team that specializes in creating content on Instagram, TikTok, all this viral content. Are you familiar with it? Yeah, I'm on Instagram all the time. Yeah, what do you think of it? Of what exactly? Like this whole concept of creating content for brands. You know, I've been approached about it before. I found it, to be honest, for lack of a better word, corny. Okay. So I never really got into it. Got you. I mean, we are in the process of rebranding and changing a few things, so. Got you, got you. Because look, the reason I'm calling you just straight up is they told me a lot of good things. However, I took the time to go through your socials and I was a bit disappointed because all their words didn't match what I see on your socials. Like there's not much content reflecting all the good work you guys are doing, all the value you're providing and the help you're giving your clients. True. I mean, like you said, the way that you heard about us is how we're ourselves right now through word of mouth mostly. I can see why you would say that about social media. But we're doing okay. I don't know if you could help us better perhaps through influencers, through videos or photos. Got you, got you. Okay, so your main channel of income right now is your network, your reputation, the name in the market, right? Yes. Okay. I want to have a conversation about you for opening another channel where your content can yield conversion for you. Would you be open to a conversation where I get to paint the picture, show you how I've done it in not a corny way for other brands in your industry? I'll be honest with you, I'm very numbers motivated. If you can come to me with numbers and success stories, things I could look at rather than just promises, I'll be willing to do a meeting, yeah. Lovely, I'm like that as well. Numbers speak way more loud than words. Khallas, let's maybe schedule it for this Wednesday. Would you be available? I'll go with you even on Tuesday. Okay, Tuesday works fine. Let's do it, let's do Tuesday 11 a. M. Khallas, perfect. I'll be there, I'll ping you on WhatsApp. Just send me your location and we'll maybe have a coffee in the morning. All right, sounds good. Okay, take care, pleasure talking to you. Thank you for your time. Yeah, bye bye, take care.

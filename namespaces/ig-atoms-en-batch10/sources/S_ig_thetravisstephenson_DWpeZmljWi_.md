@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/thetravisstephenson/DWpeZmljWi_.txt"
+words: 653
+account: thetravisstephenson
+lang: en
+quality: transcript
+---
+
+# S_ig_thetravisstephenson_DWpeZmljWi_
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/thetravisstephenson/DWpeZmljWi_.txt` — حساب: thetravisstephenson — إنستجرام — فيديو DWpeZmljWi_
+
+---
+
+If you sell digital products or you want to and you want to break through that ceiling of making a couple of sales and you want to finally get to the point where you're consistently making what you feel like you deserve, you need to listen up. This is the most important three minutes of your day. Let me break it down. All right, first, you need to stop focusing so much of your attention and energy on what you're going to sell. Trust me when I tell you, you're gonna create something great. Figuring out what to sell is not the problem. The first thing you need to focus on is who am I going to sell to and where are they? What I mean by that is if you know who you're gonna sell to, you know what problem you're gonna solve. You gotta get very specific on the problem that you're gonna solve. That's gonna allow you to create a product that solves that problem. Don't think about it the other way. What can I make to make money? No, who can I help that would be willing to pay for this solution? Then I can make that. The second part of that, knowing who to sell to, is you'll figure out where they are. Now, is that person on TikTok? Is that person on Instagram? Are they on Facebook? In my case, most of my audience is on Meta, on one of the Meta platforms, either Instagram or Facebook. So I make content for and run ads on Meta. That allows me to reach people in Instagram and on Facebook. Now, the thing that's led my business to getting consistent is understanding that it's kind of like a video game. I want to be able to automate sales as much as possible because I don't do very good with content. I'm not great. I don't go viral. Never had a video that reached, you know, endless amounts of people and gone viral and made a bunch of sales. All of my sales, all of my traffic comes from running ads. And it's literally a video game. You figure out if I give Meta $100, how much more can I make? Can I make 100 back? 'Cause if I can make 100 back, I can grow this into a real business. Real business owners understand that this cost to acquire a customer thing starts the game. It isn't the whole game. If you can spend 100 and make 100, you have a buyer and they will buy from you again and again and again and again and you'll build big businesses. And that's what everybody who has these awards and other seven figure awards like this one, that's what they all know. They all know that, man, if I could just get consistent sales and break even, I now have a list of people who will buy from me continuously and I have a real business. Now, that's what I've been able to create. But I've done that by being able to understand that ads is the best way to do that. Paying for your way in is the best way for the average person to actually get momentum. 'Cause you don't have to worry about going viral. You don't have to worry about getting lucky. You don't have to worry about making endless amounts of content. You can either spend time to make a bunch of content or spend money and buy your way in. Buying your way in allows you to do this much faster. You can actually get some momentum. You can figure out if your offer's working and then you can grow a real business. So I promise you, you need to think about how do I make a better offer by focusing on who am I gonna sell to, not what am I gonna sell.

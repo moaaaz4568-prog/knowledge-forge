@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/viralvideo.club/C94wERvodfK.txt"
+words: 161
+account: viralvideo.club
+lang: en
+quality: transcript
+---
+
+# S_ig_viralvideo.club_C94wERvodfK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/viralvideo.club/C94wERvodfK.txt` — حساب: viralvideo.club — إنستجرام — فيديو C94wERvodfK
+
+---
+
+This is an absolute masterclass in advertising, and I'm gonna break down exactly why it works and how you can use it for your brand. In just 15 words, Audi destroys the competition and makes their cars the obvious choice. But the most genius thing of all is that they didn't resort to name-calling. In fact, they complimented the competition, and by admitting the strengths of the other brand, it builds much more trust. But equally impressive is the use of visual surprise and delight. At the start, it's not clear what the keychains are building towards, and when you give us two plus two, instead of giving us four, you create a much deeper emotional reaction. To do this for your brand, don't do the easy thing and slag off your competition. Instead, take the true position of strength and talk about what your competition does well, thereby building trust in your audience. If you like this, like the video.

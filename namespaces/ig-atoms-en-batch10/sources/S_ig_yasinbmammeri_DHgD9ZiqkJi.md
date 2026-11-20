@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/yasinbmammeri/DHgD9ZiqkJi.txt"
+words: 49
+account: yasinbmammeri
+lang: en
+quality: transcript
+---
+
+# S_ig_yasinbmammeri_DHgD9ZiqkJi
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/yasinbmammeri/DHgD9ZiqkJi.txt` — حساب: yasinbmammeri — إنستجرام — فيديو DHgD9ZiqkJi
+
+---
+
+If you want to go viral, don't say learn, say discover. Don't say error, say mistake. Don't say think about, say imagine. Don't say I won't, say I will never. Don't say I'm not growing fast enough, say I'll join viral video club. Don't say not real, say fake.

@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/whytaym/DTdNM5Pkt2h.txt"
+words: 630
+account: whytaym
+lang: en
+quality: transcript
+---
+
+# S_ig_whytaym_DTdNM5Pkt2h
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/whytaym/DTdNM5Pkt2h.txt` — حساب: whytaym — إنستجرام — فيديو DTdNM5Pkt2h
+
+---
+
+I've been told another thing. You're 20 years old? 19. Really? Yeah. As I said, I'm very impressed by what you're doing. My name is Taim. I haven't called you ever. This is the first time we speak, but I'll talk to you about your car rental business. I've heard it's doing very good. I'm very happy to hear that. I just want to ask you a question. In a market as competitive as this, how do you stand out? The market is saturated. I rely mostly on referrals. So it's word of mouth, your connections, friends, family. I do social media here and there. Yeah, I also saw your social media. You do a bit every now and then, right? Yeah, yeah. I rely mostly on professional videos. I advertise it through campaigns. Okay, and why do you do professional videos? That's what is working for me now. Like I'm getting a few clients here and there. Okay. And I'm just slowly building up. But your main income is coming from referrals and friends. Are you familiar with TikTok short form content and Instagram short form content? Yeah, yeah, yeah. What's your opinion on that? I would love to like start it one day maybe, but I'm just slowly starting out. Okay, can I tell you how I look at it? And I appreciate you being very direct. No worries, bro, tell me. Okay, so professional videos are great. Having a network is very important. Let's put you having network and connections on the side because we know there's another channel of income through social media. You doing professional videos is making your page survive, maybe scale every now and then. However, everyone has a car rental business. That's what we agree on. And everyone has cars to offer. So why focus on highlighting the car through a professional video if everyone out there has a car to rent? How I look at it is focus on selling the emotions because right now it's a game of trust. If I've seen you on social media, if I've seen you around, if I've heard about you, I'm gonna come and rent from you. Not if you have a car. Everyone has a car. Of course. You get me? Okay, okay. And all of them are pitching the same thing. Okay, see, you just said it. Same thing. Everyone's pitching you the same thing. Everyone's sending you the price when you ask them. But I'm gonna be very honest. I like to look at it a bit differently. If I send you the price right now, it just means I look at you as money. I look at you as a bank, as a client. But I genuinely don't do that. That's why I'm curious to know more about your business. I wanna have a conversation with you, stand more about what you guys defer in, how you stand out, and where you wanna be in six months. Because I don't wanna waste your time. At the same time, we have a meeting and I waste your time, I waste my time. And then at the end, I just don't wanna go with you. I don't think there's a waste of time at all. And look, worst case scenario, we meet, I make a friend, and we shake it off. Pleasure to meet you. Best case scenario, we find the right price, we find the right scope of work, and we work together. Sounds good. When would you like to take your meetings? Let's say we'll do it on Tuesday. When would you like to have the meeting, morning or afternoon? Afternoon. Okay, does 3 p. M. Sound good? Yeah. Khalas, done. I'll send you a WhatsApp, Abdullah. This is Taim.

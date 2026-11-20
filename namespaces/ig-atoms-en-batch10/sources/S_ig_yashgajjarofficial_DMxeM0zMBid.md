@@ -1,0 +1,18 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/yashgajjarofficial/DMxeM0zMBid.txt"
+words: 645
+account: yashgajjarofficial
+lang: en
+quality: transcript
+---
+
+# S_ig_yashgajjarofficial_DMxeM0zMBid
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/yashgajjarofficial/DMxeM0zMBid.txt` — حساب: yashgajjarofficial — إنستجرام — فيديو DMxeM0zMBid
+
+---
+
+So when a difficult buyer tells you, "We're happy with what we got right now," do not bash the current product or don't chase and be like, "Oh, our product's better." Don't do that. Two steps to respond the right way. I'm gonna show you how to do it. Yes, 100%, Margaret. It wouldn't even make sense for me to provide you anything right now until I could see if we can match what you got and give you a little bit more. If they're trying to leave, we're currently happy with what we have, it wouldn't even make sense to provide you information right now. You leave the door, I leave the door. Step number two to get back inside the conversation. Margaret, before I send you over an email, now I'm making sure Margaret knows she can leave the conversation with the email. I'm giving her the exit. What do you most enjoy about your product right now to see if we can match it? Daniel, yeah, I love. So I wouldn't do it like that. I don't agree with that. When I used to call people and somebody already had a product they were using that was sort of working, I'd be like, hey man, that's not a problem. I don't know if I can maybe even help you just yet because you might have everything you need, right? So the first step was kind of similar to how Daniel did it. But then I'm not gonna say, what do you enjoy most? I'd be like, well, walk me through one thing. Like, what made you kind of get XYZ product to begin with? Well, it was gonna help me with X, Y, and Z. Okay, great, man. And so like, what's it in specific I guess you feel like you'd either change about maybe, you know, the structure of the current business or maybe like the results you're getting from it if you could. Right, nobody 100% likes anything they have, right? So whenever somebody buys something or they're in a business, fitness, doesn't matter what they are, nobody 100% likes their situation. So I can enter the call being like, hey man, I don't know if I can help you. And then I can be like, well, what's the goal? Like, what are you trying to hit in the business or with your fitness or with XYZ? And is there anything you would change? And then they're like, well, I would change this. And then whatever the this is, which is usually like consistency, it's usually an adjective, right? They're trying to describe something in their business, their life that they want to change. I hang on that and I just probe on. I'm like, well, what do you mean by that, man? And then in that process of making that gap bigger, if you can imagine, doubt starts creeping in on the current product or service they bought where I'm like, hey man, if it helps you, because I don't know if we can help you just yet, but what if we maybe chatted later on? Now I might be available maybe sometime later tomorrow or maybe today where we can kind of go more in depth of kind of what you have right now to see if it kind of hits everything you need just to see if we can help because you know maybe you're all good with what you have, but I want to make sure you're not having that inconsistency you just mentioned. Right, you can sort of frame it like that way in order to get people kind of open to actually hearing you out. But again, you're coming in with the perspective of like, I don't know if I can help, but when you probe, the gap gets bigger and bigger and bigger.
