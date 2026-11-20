@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_abou_moussa_karhani_Dda9UGCo9Pd.md
+location: instagram/abou_moussa_karhani
+---
+
+# T_Dda9UGCo9Pd_01
+
+"بعد أن كنا ملوك الأرض أصبحنا عبيدها" — sources/S_ig_abou_moussa_karhani_Dda9UGCo9Pd.md
+
+# T_Dda9UGCo9Pd_02
+
+"عندما فضّلنا الثمانية على الثلاثة" — sources/S_ig_abou_moussa_karhani_Dda9UGCo9Pd.md
+
+# T_Dda9UGCo9Pd_03
+
+"الحقيقة كاملة في آية واحدة" — sources/S_ig_abou_moussa_karhani_Dda9UGCo9Pd.md
+
+# T_Dda9UGCo9Pd_04
+
+"قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ أَقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللَّهُ بِأَمْرِهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ" — sources/S_ig_abou_moussa_karhani_Dda9UGCo9Pd.md
