@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
+location: instagram/dankhanlegacy
+---
+
+# T_DKPR03uMzsF_01
+
+"Nobody gives a shit about your life story until you give them a reason to care. Look, I'm gonna say something that's gonna piss off a lot of people. Your story isn't that deep, at least not yet. I see people start every piece of content with, so in 2016 I went through a breakup. Like bro, who asked?" — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
+
+# T_DKPR03uMzsF_02
+
+"People are scrolling with problems, rents due, bills piling up, no clients, and you wanna tell them about your childhood trauma before you tell them how you can help? Wrong order. Your story matters, but only after you've earned attention. Only after you've shown that you can solve a real fucking problem." — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
+
+# T_DKPR03uMzsF_03
+
+"Lead with the value, lead with the solution, then when they're hooked, you bring in the story to make it stick. That's how you turn strangers into buyers, not by trauma dumping on their timeline. If you enjoyed that video, follow me for more business tips." — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md

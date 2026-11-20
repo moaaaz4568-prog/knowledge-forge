@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_daniel.jf1_DToLcdKjDth.md
+location: instagram/daniel.jf1
+---
+
+# T_DToLcdKjDth_01
+
+"In the original 2016 election that Donald Trump first ran in, there was a clip that went around with him that everyone got pissed off at, and he said this. My father gave me a small loan of a million dollars. And people were like, oh, a small loan of a million dollars, and they were like clowning on him and sh t." — sources/S_ig_daniel.jf1_DToLcdKjDth.md
+
+# T_DToLcdKjDth_02
+
+"I really thought that through for a second because I had always operated under the premise that no, anything I do has got to be like fair. I don't want to like take advantage of something I could or could not have. People like what they want to do is they think that same process. They don't want to use what they have." — sources/S_ig_daniel.jf1_DToLcdKjDth.md
+
+# T_DToLcdKjDth_03
+
+"They like they have some like, I don't know, some random f advantage, like a dad who can give you a small loan of a million dollars, and they'll say sh t, well, I don't want to use that because then it wouldn't be fair. Don't do that. Use what you have." — sources/S_ig_daniel.jf1_DToLcdKjDth.md

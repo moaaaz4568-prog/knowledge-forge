@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_createcontent.club_DdjQ-jkkWxg.md
+location: instagram/createcontent.club
+---
+
+# T_DdjQ-jkkWxg_01
+
+"Instagram stories. Bottom of funnel. Only your warmest people see them every day. Pin the reels. Middle of funnel. It's the first thing new followers checks, so make sure one of them explains your offer. Carousels. Middle of funnel. They tend to reach mostly your preexisting followers, but sometimes can also get to non-followers. Comment keyword with a lead magnet. Bottom of funnel." — sources/S_ig_createcontent.club_DdjQ-jkkWxg.md
+
+# T_DdjQ-jkkWxg_02
+
+"It turns viewers into leads. Trial reels. Top of funnel. It only reaches non-followers, so perfect to get more people inside of the funnel. Collaborate. Your bio? Middle of funnel. It's what turns viewers into a follower. Your DMs. Bottom of funnel. That's where the sale actually happens." — sources/S_ig_createcontent.club_DdjQ-jkkWxg.md
+
+# T_DdjQ-jkkWxg_03
+
+"If you want the full content funnel that shows you how to mix all three, comment 'funnel' and I'll send you the full masterclass we held for six and seven-figure entrepreneurs." — sources/S_ig_createcontent.club_DdjQ-jkkWxg.md

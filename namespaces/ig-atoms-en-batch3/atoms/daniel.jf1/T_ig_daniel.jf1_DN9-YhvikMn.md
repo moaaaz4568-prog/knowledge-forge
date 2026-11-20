@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_daniel.jf1_DN9-YhvikMn.md
+location: instagram/daniel.jf1
+---
+
+# T_DN9-YhvikMn_01
+
+"This is literally one of the best pieces of sales advice you will ever get in your life, I promise you. Having more available time slots dramatically increases booking rates without any additional traffic. Set up your calendar for 14 hours a day of availability. You won't get all the slots filled, but the increased variant and available times will boost your booking rates. Why?" — sources/S_ig_daniel.jf1_DN9-YhvikMn.md
+
+# T_DN9-YhvikMn_02
+
+"Because people run their own lives, and if you only have inconvenient times available on your calendar, they will just not book the call. They will only book the call if it is convenient for them. Therefore, you want to maximize the probability that you have a convenient time available. We do this at our companies now. Like each day, when we're running traffic, it's 14 hours or more available." — sources/S_ig_daniel.jf1_DN9-YhvikMn.md
+
+# T_DN9-YhvikMn_03
+
+"We got people cross time zones, but you, you're below 30k a month, there's literally no reason you should not have a profoundly open calendar. And if you get a call booked and it really is like a super inconvenience, just email them and ask them to change it. They will." — sources/S_ig_daniel.jf1_DN9-YhvikMn.md
+
+# T_DN9-YhvikMn_04
+
+"But if they didn't have the inconvenient time in the first place, they wouldn't have booked and they would have just bounced and you wouldn't have got the call booked." — sources/S_ig_daniel.jf1_DN9-YhvikMn.md

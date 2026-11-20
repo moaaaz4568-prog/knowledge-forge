@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
+location: instagram/daniel.jf1
+---
+
+# T_DSs2Q8bDxyS_01
+
+"Day trading. This is probably the most commonly taught business opportunity, make money online type of thing in the entire world. Because most people on the planet want to make money and do nothing with their life. That's the epitome of what day trading promises. What you should know is that there's easily probably a 99.99999% failure rate." — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
+
+# T_DSs2Q8bDxyS_02
+
+"It is wildly and substantially more probable that you lose money day trading than you do make money. You're not going to make money with day trading. You have to understand that all of the people who say they're rich from day trading make all of their money from selling the course or the coaching on it." — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
+
+# T_DSs2Q8bDxyS_03
+
+"The idea that you're somehow going to outperform billion dollar hedge funds that spend hundreds of millions of dollars on advanced tech and like the idea that you little Jimmy in his basement is gonna beat these people is just completely stupid. This is a D tier. You should just never ever do this in your life. It is just legitimate actual bullshit. Don't day trade. It's not a business." — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
