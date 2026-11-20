@@ -9,7 +9,7 @@ origin: sources/S_igocr_asli_creates_DdwI_moD8xE.md
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: new, every, week, coaches. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"clients" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: new, every, week, mindset. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

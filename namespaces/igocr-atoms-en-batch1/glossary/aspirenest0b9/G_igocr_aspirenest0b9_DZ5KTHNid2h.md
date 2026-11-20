@@ -9,7 +9,7 @@ origin: sources/S_igocr_aspirenest0b9_DZ5KTHNid2h.md
 
 ## Term
 
-"Market" is the most frequent repeated content term in this source (an Instagram OCR post from the aspirenest0b9 account): it occurs 15 times in the text (whole-word matches, case folded), and the words most often collocated with it are: weight, rental, income, investment. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Market" is the most frequent repeated content term in this source (an Instagram OCR post from the aspirenest0b9 account): it occurs 15 times in the text (whole-word matches, case folded), and the words most often collocated with it are: conditions, weight, value, rental. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

@@ -9,7 +9,7 @@ origin: sources/S_igocr_aiagently_DeEpmLQIq93.md
 
 ## Term
 
-"Hermes" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: assistant, computer, install, deploy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Hermes" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: assistant, install, deploy, hermes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

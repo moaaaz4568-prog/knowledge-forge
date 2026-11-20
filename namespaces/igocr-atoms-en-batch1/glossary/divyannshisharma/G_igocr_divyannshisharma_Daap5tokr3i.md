@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_Daap5tokr3i.md
 
 ## Term
 
-"Fable" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 33 times in the text (whole-word matches, case folded), and the words most often collocated with it are: claude, different, prompting, prompt. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Fable" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 33 times in the text (whole-word matches, case folded), and the words most often collocated with it are: claude, different, prompt, prompting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

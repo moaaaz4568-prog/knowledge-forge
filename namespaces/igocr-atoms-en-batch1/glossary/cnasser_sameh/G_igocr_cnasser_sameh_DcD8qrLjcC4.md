@@ -9,7 +9,7 @@ origin: sources/S_igocr_cnasser_sameh_DcD8qrLjcC4.md
 
 ## Term
 
-"script writer" is the most frequent repeated content term in this source (an Instagram OCR post from the cnasser_sameh account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sameh, followers, following, content. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"script writer" is the most frequent repeated content term in this source (an Instagram OCR post from the cnasser_sameh account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, creation, cnasser_sameh, nasser. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

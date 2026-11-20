@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DQJG1mXkih8.md
 
 ## Term
 
-"Replit" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agents, automations, starter, pack. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Replit" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agents, automations, starter, pack. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

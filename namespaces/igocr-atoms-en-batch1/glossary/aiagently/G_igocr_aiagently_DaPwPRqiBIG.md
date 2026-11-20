@@ -9,7 +9,7 @@ origin: sources/S_igocr_aiagently_DaPwPRqiBIG.md
 
 ## Term
 
-"Market" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agent, rental, value, income. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Market" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agent, value, rental, trends. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

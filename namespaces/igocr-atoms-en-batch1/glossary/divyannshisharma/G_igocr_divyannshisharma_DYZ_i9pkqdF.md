@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DYZ_i9pkqdF.md
 
 ## Term
 
-"cover letter" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 33 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dario, amodei, write, consideration. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"cover letter" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 31 times in the text (whole-word matches, case folded), and the words most often collocated with it are: write, dario, amodei, consideration. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

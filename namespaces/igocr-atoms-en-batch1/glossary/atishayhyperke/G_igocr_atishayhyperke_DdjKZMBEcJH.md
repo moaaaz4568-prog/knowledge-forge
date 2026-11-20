@@ -9,7 +9,7 @@ origin: sources/S_igocr_atishayhyperke_DdjKZMBEcJH.md
 
 ## Term
 
-"rate" is the most frequent repeated content term in this source (an Instagram OCR post from the atishayhyperke account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: reply, yesterday, campaign, open. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"rate" is the most frequent repeated content term in this source (an Instagram OCR post from the atishayhyperke account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: reply, campaign, yesterday, open. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

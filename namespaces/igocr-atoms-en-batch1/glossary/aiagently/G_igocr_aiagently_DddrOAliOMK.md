@@ -9,7 +9,7 @@ origin: sources/S_igocr_aiagently_DddrOAliOMK.md
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: clients, win, onboarding, find. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"clients" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: win, onboarding, find, identify. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

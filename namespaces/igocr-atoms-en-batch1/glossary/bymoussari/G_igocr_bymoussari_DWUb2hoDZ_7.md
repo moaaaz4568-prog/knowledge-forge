@@ -9,7 +9,7 @@ origin: sources/S_igocr_bymoussari_DWUb2hoDZ_7.md
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (an Instagram OCR post from the bymoussari account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, principle, value, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"people" is the most frequent repeated content term in this source (an Instagram OCR post from the bymoussari account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, value, people, already. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

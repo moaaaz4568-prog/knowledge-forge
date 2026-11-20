@@ -9,7 +9,7 @@ origin: sources/S_igocr_asli_creates_DVOsWNJj_4W.md
 
 ## Term
 
-"Done February" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: done, february, phase, onboarding. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Done February" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: done, phase, february, onboarding. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

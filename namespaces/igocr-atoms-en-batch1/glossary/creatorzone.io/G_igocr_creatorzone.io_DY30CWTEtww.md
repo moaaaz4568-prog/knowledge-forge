@@ -9,7 +9,7 @@ origin: sources/S_igocr_creatorzone.io_DY30CWTEtww.md
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (an Instagram OCR post from the creatorzone.io account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: niche, idea, viral, web. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"content" is the most frequent repeated content term in this source (an Instagram OCR post from the creatorzone.io account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: idea, viral, web, niche. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

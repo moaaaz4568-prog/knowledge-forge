@@ -1,19 +1,19 @@
 ---
 type: glossary
 topic: aiagently
-aka: [Vector Store, aiagently account context]
+aka: [Google Drive, aiagently account context]
 origin: sources/S_igocr_aiagently_DMz27JcItI2.md
 ---
 
-# G_igocr_aiagently_DMz27JcItI2 — Vector Store
+# G_igocr_aiagently_DMz27JcItI2 — Google Drive
 
 ## Term
 
-"Vector Store" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: store, vector, chat, memory. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Google Drive" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: drive, google, trigger, extract. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- Vector Store
+- Google Drive
 - aiagently account context (no variant form of the term appears in this source)
 
 ## Live Example
@@ -24,5 +24,5 @@ origin: sources/S_igocr_aiagently_DMz27JcItI2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Vector Store": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
+- Read as a general standard definition of "Google Drive": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
 - Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.

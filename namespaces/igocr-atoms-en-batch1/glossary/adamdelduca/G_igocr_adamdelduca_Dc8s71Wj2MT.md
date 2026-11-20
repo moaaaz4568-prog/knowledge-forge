@@ -9,7 +9,7 @@ origin: sources/S_igocr_adamdelduca_Dc8s71Wj2MT.md
 
 ## Term
 
-"videos" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: wake, upload, week, tue. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"videos" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: upload, week, tue, pull. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

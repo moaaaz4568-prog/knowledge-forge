@@ -1,28 +1,28 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [Adam, adamdelduca account context]
+aka: [YouTube, adamdelduca account context]
 origin: sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
 ---
 
-# G_igocr_adamdelduca_DdRFoIXDRr4 — Adam
+# G_igocr_adamdelduca_DdRFoIXDRr4 — YouTube
 
 ## Term
 
-"Adam" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 16 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, adam, delduca, first. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, needed, completely. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- Adam
+- YouTube
 - adamdelduca account context (no variant form of the term appears in this source)
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DelDuca If I needed to make an extra $5,000/mo before Christmas And was completely new to faceless YouTube Here’s the exact gameplan I would follow: Estimated revenue $5,326.45" — sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
-> "Adam | YouTube @Adam_DelDuca To max sales, use an AI avatar made with FaceTuber These channels build significantly more trust than a faceless channel. Making more likely to buy from you EDITING FACETUBER Jake Allen NAME Jake Allen VOICE Pick a voice... PERSONA NOTES - optional - guides scripts that reference persona Tone, vibe, point of view - how this host sounds when they tell a story." — sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
-> "Adam | YouTube @Adam_DelDuca Once you start uploading, just double down on the topics that work best Resolve any retention issues by feeding your analytics and transcripts into Claude And as your views scale, so will your income..." — sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
+> "Adam | YouTube @Adam_DelDuca Finally, as I started to upload, I would promote my digital product in each video Products are built based on the most popular topics or frequent comments Here's an example of promoting digital products on an AI avatar channel: Put a Dishwasher Tablet in Your Toilet Bowl and Watch What Happens (6 Genius Uses) Bertha's Clean Home 114K subscribers Subscribe 518k views 7" — sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
+> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DdRFoIXDRr4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Adam": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
+- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
 - Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.

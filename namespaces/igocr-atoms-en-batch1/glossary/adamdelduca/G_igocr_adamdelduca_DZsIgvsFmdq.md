@@ -9,7 +9,7 @@ origin: sources/S_igocr_adamdelduca_DZsIgvsFmdq.md
 
 ## Term
 
-"Australia" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trucks, australia, road-trains, real. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Australia" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trucks, road-trains, real, reason. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

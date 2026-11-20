@@ -1,19 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [anonymouspotato com, airesearcherguy account context]
+aka: [ANONYMOUS POTATO, airesearcherguy account context]
 origin: sources/S_igocr_airesearcherguy_CJmJzXEFuir.md
 ---
 
-# G_igocr_airesearcherguy_CJmJzXEFuir — anonymouspotato com
+# G_igocr_airesearcherguy_CJmJzXEFuir — ANONYMOUS POTATO
 
 ## Term
 
-"anonymouspotato com" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: send, custom, https, www. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"ANONYMOUS POTATO" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: send, custom, com, potato. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- anonymouspotato com
+- ANONYMOUS POTATO
 - airesearcherguy account context (no variant form of the term appears in this source)
 
 ## Live Example
@@ -22,5 +22,5 @@ origin: sources/S_igocr_airesearcherguy_CJmJzXEFuir.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "anonymouspotato com": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
+- Read as a general standard definition of "ANONYMOUS POTATO": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
 - Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.

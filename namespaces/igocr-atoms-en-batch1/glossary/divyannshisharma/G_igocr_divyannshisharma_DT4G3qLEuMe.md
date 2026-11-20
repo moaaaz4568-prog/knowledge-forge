@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DT4G3qLEuMe.md
 
 ## Term
 
-"agents" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 17 times in the text (whole-word matches, case folded), and the words most often collocated with it are: research, custom, simultaneously, parallel. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"agents" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 20 times in the text (whole-word matches, case folded), and the words most often collocated with it are: research, context, custom, simultaneously. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

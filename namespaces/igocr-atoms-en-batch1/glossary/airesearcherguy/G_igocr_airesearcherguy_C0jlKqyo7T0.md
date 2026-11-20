@@ -9,7 +9,7 @@ origin: sources/S_igocr_airesearcherguy_C0jlKqyo7T0.md
 
 ## Term
 
-"Creates" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gpt, create, completion, edit. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Creates" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: create, gpt-3, edit, image. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

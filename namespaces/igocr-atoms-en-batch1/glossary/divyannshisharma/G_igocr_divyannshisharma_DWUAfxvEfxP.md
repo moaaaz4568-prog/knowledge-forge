@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DWUAfxvEfxP.md
 
 ## Term
 
-"Pull requests" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 16 times in the text (whole-word matches, case folded), and the words most often collocated with it are: code, issues, branches, main. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Pull requests" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 16 times in the text (whole-word matches, case folded), and the words most often collocated with it are: code, issues, main, requests. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

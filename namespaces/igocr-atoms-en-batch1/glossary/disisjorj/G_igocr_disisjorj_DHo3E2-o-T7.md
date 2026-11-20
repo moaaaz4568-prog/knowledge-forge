@@ -9,7 +9,7 @@ origin: sources/S_igocr_disisjorj_DHo3E2-o-T7.md
 
 ## Term
 
-"gear" is the most frequent repeated content term in this source (an Instagram OCR post from the disisjorj account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: think, need, set, start. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"gear" is the most frequent repeated content term in this source (an Instagram OCR post from the disisjorj account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, set, start, used. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

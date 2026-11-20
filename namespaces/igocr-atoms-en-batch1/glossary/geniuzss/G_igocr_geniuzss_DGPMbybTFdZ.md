@@ -9,7 +9,7 @@ origin: sources/S_igocr_geniuzss_DGPMbybTFdZ.md
 
 ## Term
 
-"Habits" is the most frequent repeated content term in this source (an Instagram OCR post from the geniuzss account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: part, habit, successful, organizations. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Habits" is the most frequent repeated content term in this source (an Instagram OCR post from the geniuzss account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: part, successful, organizations, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

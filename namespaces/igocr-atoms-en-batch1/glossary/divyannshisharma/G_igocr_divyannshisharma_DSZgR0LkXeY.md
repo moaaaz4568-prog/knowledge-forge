@@ -1,27 +1,28 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [Image png, divyannshisharma account context]
+aka: [Step, divyannshisharma account context]
 origin: sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
 ---
 
-# G_igocr_divyannshisharma_DSZgR0LkXeY — Image png
+# G_igocr_divyannshisharma_DSZgR0LkXeY — Step
 
 ## Term
 
-"Image png" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: aug, png, google, image. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Step" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 18 times in the text (whole-word matches, case folded), and the words most often collocated with it are: generate, discover, sources, add. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- Image png
+- Step
 - divyannshisharma account context (no variant form of the term appears in this source)
 
 ## Live Example
 
-> "I Built a Business in 15 mins with 4 Free Google AI Tools Google AI Studio Swipe for (Free AI tools)" — sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
-> "- The specific market size and growth forecast for the apparel segment, particularly t-shirts, within the print-on-demand industry. - An overview of key market trends, such as the rise of personalization, demand for unique products, and the impact of e-commerce. - Profitability and Competition: - Average profit margins for print-on-demand businesses, specifically for t-shirts." — sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
+> "Step #8 Generate company name, colors, and description instantly" — sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
+> "Step #12 Storage Need help getting started with Storage? Ask Gemini Protect your Storage resources from abuse, such as billing fraud or phishing. Configure App Check Review changes to Cloud Storage. Firebase pricing plan requirements. Upload file gs://skool-swag-hub.firebasestorage.app Google_AI_Studio_2025-08-21T08_41_19.768Z.png Name Size Type Last modified Google_AI_..." — sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
+> "Step #14 Our Services Print-on-Demand Community Store Solutions Add service cards with icons and descriptions" — sources/S_igocr_divyannshisharma_DSZgR0LkXeY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Image png": the usage here is bounded to an OCR-transcribed Instagram carousel of 20 images from one account and proves nothing about general usage or agreed meaning.
+- Read as a general standard definition of "Step": the usage here is bounded to an OCR-transcribed Instagram carousel of 20 images from one account and proves nothing about general usage or agreed meaning.
 - Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.

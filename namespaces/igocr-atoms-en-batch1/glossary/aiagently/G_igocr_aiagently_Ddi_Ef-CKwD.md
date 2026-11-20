@@ -9,7 +9,7 @@ origin: sources/S_igocr_aiagently_Ddi_Ef-CKwD.md
 
 ## Term
 
-"Retell" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: custom, function, agent, step. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Retell" is the most frequent repeated content term in this source (an Instagram OCR post from the aiagently account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: n8n, custom, function, agent. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

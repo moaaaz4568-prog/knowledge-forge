@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DXbT0NykdZ7.md
 
 ## Term
 
-"Claude Code" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 19 times in the text (whole-word matches, case folded), and the words most often collocated with it are: claude, code, skills, obsidian. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Claude Code" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 18 times in the text (whole-word matches, case folded), and the words most often collocated with it are: claude, code, skills, obsidian. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

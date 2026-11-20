@@ -9,7 +9,7 @@ origin: sources/S_igocr_asli_creates_DdqOrfNj11N.md
 
 ## Term
 
-"client" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, paid, call, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"client" is the most frequent repeated content term in this source (an Instagram OCR post from the asli_creates account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: paid, one, call, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

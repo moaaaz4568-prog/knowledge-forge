@@ -9,7 +9,7 @@ origin: sources/S_igocr_atishayhyperke_DYorwkhkR1H.md
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the atishayhyperke account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: herk, creator, hour, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the atishayhyperke account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: nate, herk, creator, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

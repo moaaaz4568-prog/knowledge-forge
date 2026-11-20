@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [claude-code-templates latest, divyannshisharma account context]
+aka: [npx claude-code-templates, divyannshisharma account context]
 origin: sources/S_igocr_divyannshisharma_DVsRXbckSE8.md
 ---
 
-# G_igocr_divyannshisharma_DVsRXbckSE8 — claude-code-templates latest
+# G_igocr_divyannshisharma_DVsRXbckSE8 — npx claude-code-templates
 
 ## Term
 
-"claude-code-templates latest" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: npx, latest, claude-code-templates, age. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"npx claude-code-templates" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: latest, claude-code-templates, npx, install. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- claude-code-templates latest
+- npx claude-code-templates
 - divyannshisharma account context (no variant form of the term appears in this source)
 
 ## Live Example
 
-> "If you use Claude Code, install this immediately. You can schedule an agent team to run daily at 5AM. It researches trends, generates content, and builds workflows. All automatically. Everything is free and open source." — sources/S_igocr_divyannshisharma_DVsRXbckSE8.md
-> "As a result, development becomes faster, more organized, and easier to manage. MORE INFO https://x.com/juliangoldiese o/status/2030509062836 912402?s=46 Platform Solutions Resource davila7 / claude-code-templates Code Issues Pull requests main 8 Branches 32 Tags [bot] chore: Update comp .claude-plugin .claude .github .vscode api" — sources/S_igocr_divyannshisharma_DVsRXbckSE8.md
+> "MORE INFO https://x.com/juliangoldiese o/status/2030509062836 402?s=46 README Code of conduct Product Contributing M 🚀 Quick Installation # Install a comple npx claude-code-tem # Browse and inst npx claude-code-tem # Install interactivel templates@latest # Install specific components npx claude-code-templates@latest --age npx claude-code-templates@latest --com npx claude-code-templates@latest" — sources/S_igocr_divyannshisharma_DVsRXbckSE8.md
+> "--set npx claude-code-templates@latest --hook npx claude-code-templates@latest --mcp What You Get ●●●●●●" — sources/S_igocr_divyannshisharma_DVsRXbckSE8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "claude-code-templates latest": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
+- Read as a general standard definition of "npx claude-code-templates": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
 - Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.

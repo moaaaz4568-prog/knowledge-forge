@@ -9,7 +9,7 @@ origin: sources/S_igocr_divyannshisharma_DZNaWwOEsu2.md
 
 ## Term
 
-"notes" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 79 times in the text (whole-word matches, case folded), and the words most often collocated with it are: notes, daily, resources, projects. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"notes" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 82 times in the text (whole-word matches, case folded), and the words most often collocated with it are: notes, daily, resources, create. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

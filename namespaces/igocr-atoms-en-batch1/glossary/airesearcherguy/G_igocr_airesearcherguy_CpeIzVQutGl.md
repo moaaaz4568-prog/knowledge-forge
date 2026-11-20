@@ -9,7 +9,7 @@ origin: sources/S_igocr_airesearcherguy_CpeIzVQutGl.md
 
 ## Term
 
-"Bot" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: powered, cold, hook, price. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Bot" is the most frequent repeated content term in this source (an Instagram OCR post from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: powered, price, fine-tune, file. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
