@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thechrisrigoudis_CsviUBtg7x2.md
+location: instagram/thechrisrigoudis
+---
+
+# T_CsviUBtg7x2_01
+
+"If you've been trying to gain traction for a while but feel stuck, you can change your life in a matter of weeks, if not days. Why? Because success is hidden. It's because it hides. It hides in your next email, in the next relationship, in the next sales call, in the next move that you do." — sources/S_ig_thechrisrigoudis_CsviUBtg7x2.md
+
+# T_CsviUBtg7x2_02
+
+"Clients come to me, I give them an objection handling script, I give them a cold email, they go out there and they get the sale, they close the deal. So success can come quickly, and it's not running away from you, it's just in your next move." — sources/S_ig_thechrisrigoudis_CsviUBtg7x2.md
