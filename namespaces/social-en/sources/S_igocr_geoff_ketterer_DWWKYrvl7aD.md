@@ -1,0 +1,116 @@
+---
+type: source
+topic: instagram-ocr
+origin: "/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_0.txt"
+words: 359
+sha1: 99651b996773d62901932dc21dc1fc2333e5f43c
+lang: en
+account: geoff_ketterer
+quality: ocr+carousel-10
+---
+
+# S_igocr_geoff_ketterer_DWWKYrvl7aD
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_0.txt`
+> الأجزاء: 10 — `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_0.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_1.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_2.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_3.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_4.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_5.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_6.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_7.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_8.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/geoff_ketterer/DWWKYrvl7aD_9.txt`
+
+<!-- image 0 -->
+I'M GEOFF
+HI, I'M GEOFF
+I USED TO BE A CHEF BUSTING
+MY ASS FOR 60-70 HOURS A
+WEEK
+NOW I HELP COACHES CLOSE
+AT 50-60% WITHOUT
+HANDLING OBJECTIONS USING
+PRE-SELLING SYSTEMS
+<!-- image 1 -->
+GROWING UP
+I HAD NO IDEA WHAT I
+WANTED TO DO.
+SO ENDED UP FALLING INTO
+CHEFFING STRAIGHT OUT OF
+COLLEGE
+<!-- image 2 -->
+THE CATALYST
+ONE CHRISTMAS DAY I GOT
+HOME LATE DUE TO A
+BUSY SERVICE
+I FELT COMPLETELY BURNED
+OUT & PISSED OFF THAT ID
+MISSED OFF THAT I ID
+MISSED THE WHOLE DAY
+SO TOLD MY WIFE I WAS GOING
+TO QUIT COOKING AND DO
+SOMETHING ELSE
+<!-- image 3 -->
+MY SECOND CAREER
+JUST LIKE COOKING I FELL
+INTO SALES
+AND DECIDED TO TREAT IT
+LIKE AN ACTUAL CAREER...
+AND I GOT GOOD
+<!-- image 4 -->
+THE SHIFT
+IN 2018 I WANTED TO WORK
+REMOTELY SO STARTED
+SELLING ONLINE AS A
+REMOTE CLOSER
+THIS PROCESS I
+DEVELOPED A FASCINATION
+WITH MARKETING
+THE BETTER THE MARKETING,
+THE EASIER THE CLOSES
+HAPPENED
+<!-- image 5 -->
+MARKETING
+THE JOURNEY LED ME INTO
+CONSULTING ON SALES &
+MARKETING AT THE
+BIGGEST FIRM IN THE
+ONLINE SPACE
+BUT I KEPT SEEING THE SAME
+PROBLEM OVER AND OVER
+EVERYONE WAS STRUGGLING
+WITH SALES
+<!-- image 6 -->
+THE PROBLEM
+
+I BECAME SO FRUSTRATED WITH EVERYONE BLAMING SALES FOR LOW REVENUE WHEN I KNEW THAT MARKETING WAS THE REAL ISSUE
+
+THE WARMER THE LEAD...
+
+THE EASIER THE CLOSE
+
+SO I DECIDED TO LEAVE THAT CONSULTING POSITION TO START MY OWN COACHING COMPANY FOCUSING ENTIRELY ON HELPING PEOPLE BUILD PRE-SELLING SYSTEMS.
+
+THE SIMPLE WAS BORN
+
+SCALE SIMPLE WAS BORN
+<!-- image 7 -->
+REFLECTION
+I NOW GET TO WORK WITH AMAZING
+COACHES AND CREATORS
+TO SCALE THEIR BUSINESS WITHOUT
+HAVING TO HEAR 'LET ME THINK
+ABOUT IT'
+OR CHURN THROUGH CLOSERS
+OR HIRE A MASSIVE TEAM
+AND HAVE LESS STRESS
+AND FIND SALES EFFORTLESS
+<!-- image 8 -->
+TODAY
+I WAKE UP AND TRULY LOVE WHAT I DO AND THE RESULTS I GET FOR CLIENTS
+I WATCH THEM REGAIN THEIR SANITY AS THEY REALISE THAT MORE SALES TRAINING WASN'T THE ANSWER
+THEY DON'T HAVE TO...
+CHURN THROUGH CLOSERS
+OR HIRE A MASSIVE TEAM
+OR HANDLE ENDLESS OBJECTIONS
+AND HAVE LESS STRESS
+AND FIND SALES EFFORTLESS
+<!-- image 9 -->
+IF ANY OF THIS
+RESONATES
+YOURE IN THE
+RIGHT PLACE
