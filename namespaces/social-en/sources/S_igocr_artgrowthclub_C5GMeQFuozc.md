@@ -1,0 +1,35 @@
+---
+type: source
+topic: instagram-ocr
+origin: "/home/hatch/workspace/instagram-reels-texts/ocr/artgrowthclub/C5GMeQFuozc_0.txt"
+words: 147
+sha1: e8ced7727d04b447bbf800abcbdfe828b6332f65
+lang: en
+account: artgrowthclub
+quality: ocr
+---
+
+# S_igocr_artgrowthclub_C5GMeQFuozc
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/ocr/artgrowthclub/C5GMeQFuozc_0.txt`
+
+<!-- image 0 -->
+Dear Artists,
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+IT'S NOT TOO LATE TO BECOME A FULL-TIME ARTIST
+@artlovers_club

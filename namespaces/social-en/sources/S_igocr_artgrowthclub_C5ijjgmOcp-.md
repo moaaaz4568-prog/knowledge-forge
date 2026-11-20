@@ -1,0 +1,35 @@
+---
+type: source
+topic: instagram-ocr
+origin: "/home/hatch/workspace/instagram-reels-texts/ocr/artgrowthclub/C5ijjgmOcp-_0.txt"
+words: 99
+sha1: fb3844ccd17ad32d0bc438fda7b8e95fb641ef79
+lang: en
+account: artgrowthclub
+quality: ocr
+---
+
+# S_igocr_artgrowthclub_C5ijjgmOcp-
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/ocr/artgrowthclub/C5ijjgmOcp-_0.txt`
+
+<!-- image 0 -->
+Dear Artists,
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+DISAPPEAR, IMPROVE, RETURN, & SHOCK EVERYONE
+@artlovers_club

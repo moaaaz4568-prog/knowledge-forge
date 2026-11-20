@@ -1,0 +1,341 @@
+---
+type: source
+topic: instagram-ocr
+origin: "/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_0.txt"
+words: 942
+sha1: 269b1f05c21599669672b08457a2ebc650c549f1
+lang: en
+account: aiagently
+quality: ocr+carousel-8
+---
+
+# S_igocr_aiagently_DcwWksYCDtO
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_0.txt`
+> الأجزاء: 8 — `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_0.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_1.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_2.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_3.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_4.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_5.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_6.txt`؛ `/home/hatch/workspace/instagram-reels-texts/ocr/aiagently/DcwWksYCDtO_7.txt`
+
+<!-- image 0 -->
+How to Build
+WhatsApp Agent
+using Claude
+<!-- image 1 -->
+1. START HERE
+BUILD A WHATSAPP
+AI SALES AGENT 🤖
+You’ll connect 5 things:
+1
+Claude Code
+AI brain that
+writes & runs
+your agent
+2
+WhatsApp
+The channel
+where your agent
+talks to leads
+3
+Supabase
+Database to store
+contacts, chats &
+agent memory
+4
+GitHub
+Store your code,
+versions &
+collaborate
+5
+Vercel
+Deploy your
+agent and make
+it live 24/7
+AI SALES AGENT
+Always on. Always selling.
+Always closing.
+These 6 tools work together to power your WhatsApp AI Sales Agent.
+AI Sales Agent.
+<!-- image 2 -->
+2. BUILD THE APP
+FIRST:
+OPEN VS CODE
+1
+Install VS Code
+Download and install
+Visual Studio Code.
+Visual Studio Code
+Code editing. Redefined.
+Download for Windows
+Claude Code
+Code editing. Redefined.
+Anthropic 125K 4.9
+Install
+2
+Install the
+Claude Code
+extension
+Search for "Claude Code"
+in the Extensions tab
+and install it.
+Claude Code
+Supercharge your coding
+with Claude AI
+4.9
+Install
+3
+Create a new folder
+→ WhatsApp Agent
+EXPLORER
+FOLDERS
+New Folder
+WhatsApp Agent
+4
+Open that folder
+in VS Code
+File Edit Selection View Go Run Terminal Help
+Open Folder...
+Open Recent
+WhatsApp Agent
+~/Documents/WhatsApp Agent
+5
+Open Claude Code
+Click the Claude icon
+in the sidebar.
+CLAUDE CODE
+Welcome to Claude Code
+Your AI coding partner
+Start a new session
+Now tell Claude:
+"Build a WhatsApp AI sales agent
+with a customer conversation dashboard."
+Claude creates the app structure for you.
+Don't write the code yourself. Let Claude do it.
+Claude:
+WhatsApp AI sales agent
+customer conversation dashboard."
+app structure for you.
+yourself. Let Claude do it.
+<!-- image 3 -->
+3. CONNECT WHATSAPP
+NOW CONNECT
+YOUR WHATSAPP
+Go to
+Meta for Developers
+https://developers.facebook.com
+1
+Create an app
+Click "Create App"
+and fill in your details.
+2
+Choose
+WhatsApp /
+Business Messaging
+Select the product
+for your app.
+3
+Add a phone number
+Add your business
+phone number and
+verify it.
+Then copy these 3 things:
+1
+Phone Number ID
+Unique ID for your
+WhatsApp number.
+123456789012345
+2
+Access Token
+Token that gives your
+app access.
+EABsbCSzXXXXXXXXXXXX
+XXXXXXXXXXXX
+3
+Verify Token
+Custom token to verify
+webhook requests.
+my-verify-token-123
+Put them inside your
+.env.local file.
+These keys let your app
+talk to WhatsApp.
+.env.local
+1 WHATSAPP_PHONE_NUMBER_ID=123456789012345
+2 WHATSAPP_ACCESS_TOKEN=EABsbCSzXXXXXXXXXXXX
+XXXXXXXXXXXX
+3 WHATSAPP_VERIFY_TOKEN=my-verify-token-123
+4 NODE_ENV=development
+You're now connected. Your app can send and receive messages on WhatsApp.
+<!-- image 4 -->
+3: GIVE YOUR AI A BRAIN
+NOW CONNECT
+WITH THE API
+1 Create an OpenAI API key.
+Go to platform.openai.com
+Sign in → API Keys → Create new secret key
+API keys
+platform.openai.com
++ Create new secret key
+sk-***************
+2 Then add it to your .env.local:
+OPENAI_API_KEY=YOUR_KEY
+.env
+3 Now your system can do this:
+1
+2
+3
+4
+How long
+does delivery
+take?
+Customer:
+"How long does
+delivery take?"
+AI understands
+the question
+AI creates
+the answer
+WhatsApp
+sends the answer
+Delivery usually
+takes 2-3
+business days.
+Your chatbot can now
+THINK + REPLY. 🚀
+<!-- image 5 -->
+5: SAVE THE CHATS
+
+DON'T LET YOUR CONVERSATIONS DISAPPEAR.
+We'll use Supabase to store every message, reply, and conversation safely.
+
+supabase
+Create a Supabase project.
+- Go to supabase.com
+- Sign up / Log in
+- Create a new project
+- Wait for it to be ready 🚀
+
+New project
+Name: WhatsApp AI Agent
+Database Password: ••••••••
+Region: Singapore (sgp)
+Create new project
+
+Then follow these steps:
+1 Open SQL Editor
+Go to the left sidebar and click on SQL Editor.
+
+2 Paste the database SQL Claude created
+Copy the SQL Claude gave you and paste it in the editor.
+
+3 Press Run
+Click Run to execute the SQL.
+
+Supabase now stores:
+- Customer messages: Every message from your customers.
+- AI replies: All replies generated by your AI agent.
+- Conversations: Complete conversations and history.
+
+Your database is ready.
+Every chat is saved. Nothing will be lost.
+
+Then copy your Supabase keys into .env.local.
+PROJECT_URL: https://abcdefgh.supabase.co
+ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+SERVICE_ROLE_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+<!-- image 6 -->
+6: PUT IT ONLINE
+MAKE
+YOUR AGENT LIVE
+FIRST:
+1 Create a private GitHub repo
+New repository
+Owner
+Repository name
+whatsapp-ai-agent
+Public
+Anyone on the internet can see this repository
+Private
+You choose who can see and commit
+Create repository
+2 Push your project to GitHub
+# Initialize (if not already)
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin git@github.com:your-username/whatsapp-ai-agent.git
+git push -u origin main
+Connect your GitHub repo
+Import the repo
+you
+whatsapp-ai-agent
+Import
+3 Add the same environment variables
+All add your env/local variables here.
+THEN:
+1 Open Vercel
+Go to vercel.com and sign in.
+vercel.com
+2 Connect your GitHub repo
+Git Repository
+whatsapp-ai-agent
+3 Add the same environment variables
+ENVIRONMENT VARIABLES
+SUPERBASE_URL
+SUPERBASE_ANON_KEY
+SUPERBASE_SERVICE_ROLE_KEY
+WHATSAPP_ACCESS_TOKEN
+WHATSAPP_PHONE_NUMBER_ID
+WHATSAPP_VERIFY_TOKEN
+4 Press Deploy
+Vercel builds and deploys your app.
+Deployment Ready
+Building
+Deploying
+Finalizing
+Deploy
+Vercel gives you a live URL.
+Your app is live!
+https://whatsapp-ai-agent.vercel.app
+NOW CONNECT THAT URL TO YOUR META WHATSAPP
+WhatsApp
+Meta Developers Webhook Setup
+Your App
+Your Live URL
+AI Agent
+WEBHOOK.
+WhatsApp AI Sales Agent is now online and ready to chat. 🎉
+You're live! Your WhatsApp AI Sales Agent is now online and ready to chat. 🎉
+NOW CONNECT THAT URL
+TO YOUR META WHATSAPP
+WhatsApp
+Meta Developers
+Webhook Setup
+Your App
+Your Live URL
+AI Agent
+<!-- image 7 -->
+Aiagently.io
+If you want the
+COMPLETE GUIDE
++
+CLAUDE SKILL
+Complete
+Step-by-Step Guide
+From setup to deployment.
+Claude Skills
+Prompting, automation
+& real examples.
+WhatsApp AI Agent
+Build, connect & automate
+your business.
+Pro Tips & Use Cases
+Boost sales, save time
+& automate smarter.
+Help Guide
+AI Agent
+Use Cases
+DON'T MISS OUT!
+COMMENT
+"WHATSAPP"
+I'll send you the full guide + Claude skills
+to build your WhatsApp AI agent. 🚀
