@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: dr.aseelbaddar
-aka: ["como", "si"]
+aka: ["mí como", "vienes"]
 origin: sources/S_ig_dr.aseelbaddar_DObFl1tiGgs.md
 ---
 
-# G_ig_dr.aseelbaddar_DObFl1tiGgs — como
+# G_ig_dr.aseelbaddar_DObFl1tiGgs — mí como
 
 ## Term
 
-como is the most prominent repeated term in this source (63-word transcript from the Instagram account dr.aseelbaddar): it occurs 20 times literally in the text, most often collocated with: si, vienes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+mí como is the most prominent repeated term in this source (63-word transcript from the Instagram account dr.aseelbaddar): it occurs 20 times literally in the text, most often collocated with: vienes, si. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- como
-- si
+- mí como
+- vienes
 
 ## Live Example
 

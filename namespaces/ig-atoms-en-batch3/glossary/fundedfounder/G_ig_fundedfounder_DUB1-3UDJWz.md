@@ -9,7 +9,7 @@ origin: sources/S_ig_fundedfounder_DUB1-3UDJWz.md
 
 ## Term
 
-papa is the most prominent repeated term in this source (34-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: est, ton, pas. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+papa is the most prominent repeated term in this source (34-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: est, ton, ou. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

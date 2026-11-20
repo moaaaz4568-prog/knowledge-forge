@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 2997 glossary files, 5614 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3000 glossary files, 5617 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -2509,6 +2509,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/disisjorj/G_ig_disisjorj_DRPm1QpiPHg.md | recording | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DRSX4VnCFat.md | record | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DRUmx9-iKje.md | use | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRW4rSJiKkW.md | μαζεύει | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DRfQDbEiJly.md | Zoom | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DRg8QGzCEI5.md | draw | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DRup4RRiLFA.md | record | 2 |
@@ -2558,6 +2559,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/disisjorj/G_ig_disisjorj_DbV92ZIqHRo.md | software | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_C0LVaiopNPL.md | flower | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_C0mCHSZJcb1.md | heartbreak | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C0tw3FWSAeF.md | попробуй | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_C1HgyQBSXtP.md | loyalty | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_C1Wzf8pSmnL.md | low | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_C4ai02WyOPK.md | popular | 1 |
@@ -2627,11 +2629,12 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/divyannshisharma/G_ig_divyannshisharma_DdeTTiSSiHw.md | LinkedIn | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DdjdxBgShtT.md | Reddit | 3 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DdopgpnyNGw.md | into | 2 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DObFl1tiGgs.md | como | 1 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DObFl1tiGgs.md | mí como | 1 |
 | glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DPXxii5iJKR.md | Easy | 1 |
 | glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSTC0wTiMG_.md | Unbelievable | 1 |
 | glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSc2OgCCE4a.md | oy | 1 |
 | glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DVRoBcjCNxy.md | records | 1 |
+| glossary/dr.bano.official/G_ig_dr.bano.official_C0CXYAQKLJj.md | İlelebet | 1 |
 | glossary/dr.bano.official/G_ig_dr.bano.official_C_7_sCDu-3j.md | truth | 1 |
 | glossary/dr.bano.official/G_ig_dr.bano.official_CmE48BpKvwF.md | true | 1 |
 | glossary/dr.bano.official/G_ig_dr.bano.official_DM-MuJzNh9T.md | prompt | 2 |
@@ -2700,7 +2703,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/fundedfounder/G_ig_fundedfounder_DVlIpa5DNJ_.md | dropped | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DVlkqPrDP9_.md | fifty | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DVrOPDXDEX4.md | hot | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXKF_zBjIeW.md | cuando | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXKF_zBjIeW.md | muñeca | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXLunb_DMUc.md | himself | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXM2tXEDGoM.md | entusiasmi | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXMqPUSjN9H.md | call | 1 |

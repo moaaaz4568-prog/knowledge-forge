@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["cuando", "high"]
+aka: ["muñeca", "high"]
 origin: sources/S_ig_fundedfounder_DXKF_zBjIeW.md
 ---
 
-# G_ig_fundedfounder_DXKF_zBjIeW — cuando
+# G_ig_fundedfounder_DXKF_zBjIeW — muñeca
 
 ## Term
 
-This source is very short (26 words), so no term repeats enough for a frequency-based entry; cuando is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (26 words), so no term repeats enough for a frequency-based entry; muñeca is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- cuando
+- muñeca
 - high
 
 ## Live Example
 
-> "I just wanna get high on my lover, real new muñeca cuando" — sources/S_ig_fundedfounder_DXKF_zBjIeW.md
+> "I just wanna get high on my lover, real new muñeca" — sources/S_ig_fundedfounder_DXKF_zBjIeW.md
 
 ## When the Meaning Breaks
 

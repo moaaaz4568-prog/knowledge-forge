@@ -9,7 +9,7 @@ origin: sources/S_ig_ghayth.emad_DV39d8nDdb8.md
 
 ## Term
 
-Forbidden Laws is the most prominent repeated term in this source (181-word transcript from the Instagram account ghayth.emad): it occurs 13 times literally in the text, most often collocated with: reality, millionaire, awaken. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Forbidden Laws is the most prominent repeated term in this source (181-word transcript from the Instagram account ghayth.emad): it occurs 13 times literally in the text, most often collocated with: reality, طبعا, millionaire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
