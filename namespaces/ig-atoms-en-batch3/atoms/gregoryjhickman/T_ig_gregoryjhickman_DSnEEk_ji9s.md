@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_gregoryjhickman_DSnEEk_ji9s.md
+location: instagram/gregoryjhickman
+---
+
+# T_DSnEEk_ji9s_01
+
+"Three years ago, you saw someone selling low ticket. You best believe that there is an offer on the back end. That's still true. I think the only difference now is that no one trusts anybody and skepticism is extraordinarily high. That a low ticket sale might just be the only way you get someone to kind of buy into anything that you have just because they're trying to suss you out." — sources/S_ig_gregoryjhickman_DSnEEk_ji9s.md
+
+# T_DSnEEk_ji9s_02
+
+"They need a way to see like, are you the real deal? Do I like you? I don't want to have to spend $15, 000 to just feel like I got burnt. Let me buy a $100 workshop, see if you're my vibe. And so I think it's also now back to the having different offers. Like we need to meet people more where they're at now more than ever." — sources/S_ig_gregoryjhickman_DSnEEk_ji9s.md

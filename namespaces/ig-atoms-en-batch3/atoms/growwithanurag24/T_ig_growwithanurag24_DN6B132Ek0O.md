@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_growwithanurag24_DN6B132Ek0O.md
+location: instagram/growwithanurag24
+---
+
+# T_DN6B132Ek0O_01
+
+"Why managing old accounts are so tough? This is day 24 of earning one lakh rupees in next 30 days. तो आज सुबह मुझे एक मंथली क्लाइंट का मैसेज आता है और वो चाहते थे कि मैं उनके ओल्ड आईडी को लिंक करूं उनके नए इंस्टाग्राम से। क्योंकि उनके फेसबुक पे ज्यादा फॉलोअर्स थे। और उनको सेम कॉन्टेंट इंस्टाग्राम की तरफ फेसबुक पे भी पोस्ट करना था। मैंने सोचा इसमें क्या ही है बस लिंक ही तो करना है।" — sources/S_ig_growwithanurag24_DN6B132Ek0O.md
+
+# T_DN6B132Ek0O_02
+
+"बट लिटरली चार वीडियोस को एडिट करने जितना मुश्किल था ये। इसका सॉल्यूशन ढूंढते ढूंढते मुझे चार घंटे हो गए थे और लास्टली मैंने क्लाइंट के साथ मीट पड़ा कर इसको सॉल्व किया। इतना तो करना बनता ही है बिकॉज़ ही इज माय फर्स्ट क्लाइंट। एंड लेट मी नो इन द कॉमेंट्स आप फेसबुक यूज़ करते हो अभी भी?" — sources/S_ig_growwithanurag24_DN6B132Ek0O.md
