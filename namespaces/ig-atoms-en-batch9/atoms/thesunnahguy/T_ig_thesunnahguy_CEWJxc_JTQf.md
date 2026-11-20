@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thesunnahguy_CEWJxc_JTQf.md
+location: instagram/thesunnahguy
+---
+
+# T_CEWJxc_JTQf_01
+
+"You killed in my name. I am White, Muslim and proud. All you have done has caused great shame for Europeans who were involved. I was in the Moscow March the 15th when you decided to come in and destroy many lives, including my own. I have been Muslim for about nine years. It was the best decision I've ever made. The best decision I've ever made." — sources/S_ig_thesunnahguy_CEWJxc_JTQf.md
+
+# T_CEWJxc_JTQf_02
+
+"After you left Moscow North, I was surrounded by the injured, the dying and dead. I held a three-year-old boy in my arms, praying that he was still alive. He was not. You took him away. He was free. You have changed my life forever. I will never forgive you. For us, life will go on with sadness in our hearts. But for those that died, they are the lucky ones." — sources/S_ig_thesunnahguy_CEWJxc_JTQf.md
+
+# T_CEWJxc_JTQf_03
+
+"They have gone straight to heaven, where I will try for the rest of my life to achieve. Because of you, my faith is stronger and I want to learn more about Islam. So thank you. When you get a free minute, which you'll have plenty of, in funny name, very funny, maybe you should try to read the Koran. It's beautiful." — sources/S_ig_thesunnahguy_CEWJxc_JTQf.md

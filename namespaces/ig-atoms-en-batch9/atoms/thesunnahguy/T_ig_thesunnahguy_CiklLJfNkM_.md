@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thesunnahguy_CiklLJfNkM_.md
+location: instagram/thesunnahguy
+---
+
+# T_CiklLJfNkM__01
+
+"Okay, say you're in a group of friends and all of a sudden you see two best friends fall out and become enemies. I have seen this happen more than once because of banter. What normally happens is that someone makes fun of another person, but that other person doesn't speak up and keeps it bottled up because it's wet to come out and say that your feelings are hurt, right? Wrong." — sources/S_ig_thesunnahguy_CiklLJfNkM_.md
+
+# T_CiklLJfNkM__02
+
+"Friendships are a source of comfort for us. If all your friends do is cuss each other and pick on different people in the friendship circle and make jokes out of them, then bro, that's not a friendship that's gonna last. But leave me, I've seen it so many times. And look, you know what's mad? Bro, we continue these bad habits from school." — sources/S_ig_thesunnahguy_CiklLJfNkM_.md
+
+# T_CiklLJfNkM__03
+
+"We picked them up when we were like in year nine, year 10, year 11, year, and we carry them until we're adults because that was the only thing that we could do at school was like cuss each other. And then now you're like 24, 25, 26, you're a grown ass man, bro, and you're still cussing each other, making jokes out of your boy." — sources/S_ig_thesunnahguy_CiklLJfNkM_.md
+
+# T_CiklLJfNkM__04
+
+"Too many people feel that the only way to have fun is to mock someone else, making them the centre of all the jokes. Remember that the Prophet ﷺ never ever mocked anyone or made fun of anyone or called them a nickname that they didn't like. Rather, he would tell his companions how much he loves them and how much he cares for them. And this is the example we should also follow." — sources/S_ig_thesunnahguy_CiklLJfNkM_.md
