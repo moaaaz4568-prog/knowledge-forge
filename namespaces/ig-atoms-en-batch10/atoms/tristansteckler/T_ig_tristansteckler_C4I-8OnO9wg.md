@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_tristansteckler_C4I-8OnO9wg.md
+location: instagram/tristansteckler
+---
+
+# T_C4I-8OnO9wg_01
+
+"This is exactly why you're not closing deals in 2024. And it's not because you don't have good rapport. It's not because you don't have good tonality. It's because you're not asking the right questions to identify problems and open up your prospect. It's because you're not taking the lead with your prospect, and that's keeping your conversations extremely surface-level." — sources/S_ig_tristansteckler_C4I-8OnO9wg.md
+
+# T_C4I-8OnO9wg_02
+
+"It's because you don't have a system for handling your prospect's objections. Think about it this way. If I ask somebody how their day's going, ninety-five percent of people are gonna say their day's going good. But is everyone's day really going good? No, that would be impossible." — sources/S_ig_tristansteckler_C4I-8OnO9wg.md
+
+# T_C4I-8OnO9wg_03
+
+"Your ability to ask good questions and lead the conversation forward towards an end goal is what's going to impact your ability to open up your prospect. When your prospect tells you no, it's not them telling you no, it's them telling themselves no. Think of objection handling as problem-solving, and you're gonna be paid directly in correlation to the problems that you solve." — sources/S_ig_tristansteckler_C4I-8OnO9wg.md
