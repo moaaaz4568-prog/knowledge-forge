@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_jun_yuh_DU4dbajETrX.md
+location: instagram/jun_yuh
+---
+
+# T_DU4dbajETrX_01
+
+"This is how to film a month's worth of B-roll in just 60 seconds. I've got my phone set up on a tripod right here in front of me. Shot one is going to be me typing on my laptop. Shot two is going to be me looking frustrated. And shot three is going to be me looking at my phone and looking excited. Next up, I'm going to be changing the scene with some Post-it notes and a marker." — sources/S_ig_jun_yuh_DU4dbajETrX.md
+
+# T_DU4dbajETrX_02
+
+"Shot one is going to be me writing and looking focused. Shot two is going to be me writing and looking frustrated. Shot three is going to be me writing and getting surprised by an idea. All of the B-roll that I've now just shot can be saved in my B-roll library and repurposed across various different formats in the next month. If you want more tips just like this, you can follow for more." — sources/S_ig_jun_yuh_DU4dbajETrX.md

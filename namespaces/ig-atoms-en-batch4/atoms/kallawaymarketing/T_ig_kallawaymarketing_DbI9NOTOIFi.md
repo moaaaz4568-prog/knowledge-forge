@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
+location: instagram/kallawaymarketing
+---
+
+# T_DbI9NOTOIFi_01
+
+"This is how you turn Claude into a social media machine. Most people don't know this, but you can type backslash analyze into Claude, drop in any video link, and get a full analysis: the full transcript, the format, the topic, the storytelling structure, the hook breakdown, the visual layout—all the information you'd want." — sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
+
+# T_DbI9NOTOIFi_02
+
+"And the cool part is, you can do this for dozens of videos at the same time. So as I scroll social media, I just copy the URLs for anything interesting I see and I paste them into Claude. In one shot. But here's the best part—now not only do I get individual video breakdowns, but I can also batch analyze that entire set of videos at the same time." — sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
+
+# T_DbI9NOTOIFi_03
+
+"And this gives me the hidden trends, patterns, and insights that I just wouldn't have seen otherwise. Once you run this, these reports will give you amazing visualizations breaking down exactly what type of video you should make next. Now to enable this, all you have to do is set up the Sandcastles.ai plugin inside of Claude." — sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
+
+# T_DbI9NOTOIFi_04
+
+"Once you have it, it'll give you access to 14 different social media skills for Claude, including backslash analyze. This plugin is what I personally use to run all of my content research, and it's how I've been able to grow so much faster. In a way, it's kind of like giving a social media power-up to your version of Claude." — sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
+
+# T_DbI9NOTOIFi_05
+
+"If you want me to send through a video on how to set up the plugin and install all these social media skills, comment 'Claude' and I'll send it through." — sources/S_ig_kallawaymarketing_DbI9NOTOIFi.md
