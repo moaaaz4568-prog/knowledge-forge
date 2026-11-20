@@ -1,0 +1,22 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+location: instagram/geoff_ketterer
+---
+
+# T_DIB0h1Eotlo_01
+
+"People don't give you sales objections because they're scared to spend the money. They give you sales objections because they're scared to fail. See, if they knew with 100% certainty that they could get the result no matter what, they'd spend the money every single time. Would you just walk into my shop? So when somebody gives you an objection at the end of the call, they're not saying" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+
+# T_DIB0h1Eotlo_02
+
+"Because the problem isn't price, the problem is permission. See, most objections just a smokescreen for self-doubt. Instead of handling the objection, hold up the mirror and ask them" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+
+# T_DIB0h1Eotlo_03
+
+"If this was 100% guaranteed to work and you couldn't fail, would you do it?" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+
+# T_DIB0h1Eotlo_04
+
+"They'll say yes, because they're waiting for somebody else to validate them and give them the guarantee instead of becoming the guarantee themselves. See, good sales isn't about convincing anybody. It's about reminding people of who they need to be in order to get the result they want." — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md

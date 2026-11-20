@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
+location: instagram/geoff_ketterer
+---
+
+# T_DXcRTTQCS48_01
+
+"Nobody talks about this, but every single successful person you see, whether it's an actor or a sports person, they had a time in their life where they had started, but nobody gave a shit. Spanx took Sara Blakely two years just to find a manufacturer who was willing to take her seriously. Starbucks existed for sixteen years before Howard Schultz turned it into what you and I know today." — sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
+
+# T_DXcRTTQCS48_02
+
+"And Colonel Sanders got rejected over a thousand times pitching his chicken recipe. He was sixty-two when KFC finally worked. Shit, even Amazon lost money for its first six years straight. And this proverb says it perfectly: steady plodding brings prosperity, hasty speculation brings poverty. The people who are winning are not doing it faster, they just didn't quit when nothing was working." — sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
