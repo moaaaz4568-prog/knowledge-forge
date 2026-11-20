@@ -1,26 +1,24 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["what's", "we'll"]
+aka: ["knows", "smart"]
 origin: sources/S_ig_coachjoedrake_CvHXby9gGDd.md
 ---
 
-# G_ig_coachjoedrake_CvHXby9gGDd — what's
+# G_ig_coachjoedrake_CvHXby9gGDd — knows
 
 ## Term
 
-what's is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: we'll, body, move. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+knows is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: smart, jess, assessed. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- what's
-- we'll
+- knows
+- smart
 
 ## Live Example
 
-> "That's our first checkpoint. Then we're gonna take a look and see what's going on with the knees. And then we'll take a look at what we call our LPHC, this lumbo-pelvic-hip complex, as you can see right here with our female pelvis, all the muscles that attach to this portion of the body." — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
-> "as you can see right here with our female pelvis, all the muscles that attach to this portion of the body. From there, we'll move up to what's going on at our shoulder complex. This also includes like kind of our thoracic spine." — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
-> "This also includes like kind of our thoracic spine. And then last but not least, especially from the lateral view, we'll see what's going on with the head and the" — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
+> "Jess knows right now, she knows she's smart. She knows she's being assessed. Okay, so there is always this battle of like, are you getting real information or do you say assessment and all of a sudden we pull ourselves in the perfect spot?" — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
 
 ## When the Meaning Breaks
 

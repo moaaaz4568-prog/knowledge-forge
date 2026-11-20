@@ -1,24 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["can't stop", "game"]
+aka: ["stop", "game"]
 origin: sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
 ---
 
-# G_ig_coachjoedrake_CxxW2TjAXeJ — can't stop
+# G_ig_coachjoedrake_CxxW2TjAXeJ — stop
 
 ## Term
 
-can't stop is the most prominent repeated term in this source (33-word transcript from the Instagram account coachjoedrake): it occurs 7 times literally in the text, most often collocated with: game, jump, addicted. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+stop is the most prominent repeated term in this source (33-word transcript from the Instagram account coachjoedrake): it occurs 7 times literally in the text, most often collocated with: game, yourself, addicted. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- can't stop
+- stop
 - game
 
 ## Live Example
 
 > "can't stop, I can't stop. I can't stop addicted to the shooting game. Jump, jump yourself, yourself in the game. I can't stop, I can't stop." — sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
+> "Jump, jump yourself, yourself in the game. I can't stop, I can't stop. I can't stop, I can't stop" — sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
 
 ## When the Meaning Breaks
 

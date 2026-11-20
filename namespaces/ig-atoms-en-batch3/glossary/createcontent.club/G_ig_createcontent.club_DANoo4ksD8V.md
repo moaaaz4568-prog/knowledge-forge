@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_DANoo4ksD8V.md
 
 ## Term
 
-sentence is the most prominent repeated term in this source (117-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: website, show, find. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+sentence is the most prominent repeated term in this source (117-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: website, find, allows. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

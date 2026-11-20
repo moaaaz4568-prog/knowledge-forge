@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["sentence", "lazy"]
+aka: ["sentence", "save"]
 origin: sources/S_ig_createcontent.club_CzrWBkfpG5w.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_CzrWBkfpG5w.md
 
 ## Term
 
-sentence is the most prominent repeated term in this source (99-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: lazy, dog, start. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+sentence is the most prominent repeated term in this source (99-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: save, lazy, dog. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - sentence
-- lazy
+- save
 
 ## Live Example
 

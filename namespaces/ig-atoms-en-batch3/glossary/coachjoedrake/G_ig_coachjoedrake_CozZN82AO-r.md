@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_CozZN82AO-r.md
 
 ## Term
 
-myself is the most prominent repeated term in this source (70-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: deal, negotiating, already. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+myself is the most prominent repeated term in this source (70-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: deal, signed, contract. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

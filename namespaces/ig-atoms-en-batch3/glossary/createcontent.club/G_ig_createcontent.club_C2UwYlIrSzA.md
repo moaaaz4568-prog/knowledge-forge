@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["habits", "his"]
+aka: ["habits", "Step"]
 origin: sources/S_ig_createcontent.club_C2UwYlIrSzA.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C2UwYlIrSzA.md
 
 ## Term
 
-habits is the most prominent repeated term in this source (254-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: his, atomic, teaches. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+habits is the most prominent repeated term in this source (254-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: step, read, atomic. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - habits
-- his
+- Step
 
 ## Live Example
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["analogies", "writing"]
+aka: ["analogies", "complex"]
 origin: sources/S_ig_createcontent.club_C0HpdPcpgou.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0HpdPcpgou.md
 
 ## Term
 
-analogies is the most prominent repeated term in this source (126-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: writing, script, try. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+analogies is the most prominent repeated term in this source (126-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: complex, ideas, simply. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - analogies
-- writing
+- complex
 
 ## Live Example
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["within", "win"]
+aka: ["within", "every"]
 origin: sources/S_ig_conner.bluhm_Dd_7HSKJuXE.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_Dd_7HSKJuXE.md
 
 ## Term
 
-within is the most prominent repeated term in this source (207-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: win, friends, every. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+within is the most prominent repeated term in this source (207-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: every, win, friends. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - within
-- win
+- every
 
 ## Live Example
 

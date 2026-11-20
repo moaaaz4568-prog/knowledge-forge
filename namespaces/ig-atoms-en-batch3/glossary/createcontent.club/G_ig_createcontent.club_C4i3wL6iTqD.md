@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C4i3wL6iTqD.md
 
 ## Term
 
-content is the most prominent repeated term in this source (169-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: target, audience, creating. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+content is the most prominent repeated term in this source (169-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: target, audience, describe. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

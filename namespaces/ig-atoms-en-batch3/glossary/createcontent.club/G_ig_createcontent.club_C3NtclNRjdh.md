@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["life", "supposed"]
+aka: ["life", "honest"]
 origin: sources/S_ig_createcontent.club_C3NtclNRjdh.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C3NtclNRjdh.md
 
 ## Term
 
-life is the most prominent repeated term in this source (109-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: supposed, grow, put. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+life is the most prominent repeated term in this source (109-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: honest, seems, challenging. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - life
-- supposed
+- honest
 
 ## Live Example
 

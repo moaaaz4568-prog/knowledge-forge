@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["dedication", "hard"]
+aka: ["dedication", "fact"]
 origin: sources/S_ig_createcontent.club_C1wrCq0Lk70.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C1wrCq0Lk70.md
 
 ## Term
 
-dedication is the most prominent repeated term in this source (119-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: hard, work, visible. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+dedication is the most prominent repeated term in this source (119-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: fact, previous, led. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - dedication
-- hard
+- fact
 
 ## Live Example
 

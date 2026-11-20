@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_Cny4HMVA5pw.md
 
 ## Term
 
-position is the most prominent repeated term in this source (172-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: feel, naturally, putting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+position is the most prominent repeated term in this source (172-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: feel, ground, immediately. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

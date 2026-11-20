@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["content", "eager"]
+aka: ["content", "dive"]
 origin: sources/S_ig_createcontent.club_Cz1Ds4kO4Gf.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_Cz1Ds4kO4Gf.md
 
 ## Term
 
-content is the most prominent repeated term in this source (160-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: eager, learn, grow. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+content is the most prominent repeated term in this source (160-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: dive, types, grow. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - content
-- eager
+- dive
 
 ## Live Example
 

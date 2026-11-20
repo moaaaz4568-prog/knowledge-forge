@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["simple", "won't"]
+aka: ["simple", "millions"]
 origin: sources/S_ig_createcontent.club_C6J1vQOibeZ.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C6J1vQOibeZ.md
 
 ## Term
 
-simple is the most prominent repeated term in this source (159-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: won't, work, steps. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+simple is the most prominent repeated term in this source (159-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: millions, views, super. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - simple
-- won't
+- millions
 
 ## Live Example
 

@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Here's", "viral"]
+aka: ["better salesman", "become"]
 origin: sources/S_ig_createcontent.club_C_U0lqRiWp6.md
 ---
 
-# G_ig_createcontent.club_C_U0lqRiWp6 — Here's
+# G_ig_createcontent.club_C_U0lqRiWp6 — better salesman
 
 ## Term
 
-Here's is the most prominent repeated term in this source (53-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: viral, workout, include. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+better salesman is the most prominent repeated term in this source (53-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: become, beginner. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- Here's
-- viral
+- better salesman
+- become
 
 ## Live Example
 
-> "Here's how to go viral. You will never go viral if you don't understand this. Here's the best workout for beginners. Here are three exercises you must include in your workout as a beginner. Here's how to become a better salesman." — sources/S_ig_createcontent.club_C_U0lqRiWp6.md
+> "Here are three exercises you must include in your workout as a beginner. Here's how to become a better salesman. You will never ever become a better salesman unless you do" — sources/S_ig_createcontent.club_C_U0lqRiWp6.md
 
 ## When the Meaning Breaks
 

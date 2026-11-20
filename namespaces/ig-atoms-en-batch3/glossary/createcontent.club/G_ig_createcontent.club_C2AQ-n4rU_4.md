@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["experiences", "normal"]
+aka: ["experiences", "feel"]
 origin: sources/S_ig_createcontent.club_C2AQ-n4rU_4.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C2AQ-n4rU_4.md
 
 ## Term
 
-experiences is the most prominent repeated term in this source (283-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: normal, feel, pay. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+experiences is the most prominent repeated term in this source (283-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: feel, normal, eliminate. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - experiences
-- normal
+- feel
 
 ## Live Example
 

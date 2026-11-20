@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["principle", "don't"]
+aka: ["principle", "signature"]
 origin: sources/S_ig_createcontent.club_C_Bv6NUiGPV.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C_Bv6NUiGPV.md
 
 ## Term
 
-principle is the most prominent repeated term in this source (261-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: don't, signature, format. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+principle is the most prominent repeated term in this source (261-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: signature, format, attention. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - principle
-- don't
+- signature
 
 ## Live Example
 

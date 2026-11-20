@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C27uVwQxHeV.md
 
 ## Term
 
-offer is the most prominent repeated term in this source (271-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: decide, package, step. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+offer is the most prominent repeated term in this source (271-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: decide, package, likely. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

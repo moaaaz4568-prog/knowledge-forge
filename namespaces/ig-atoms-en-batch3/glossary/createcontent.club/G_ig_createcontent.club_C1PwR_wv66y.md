@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["explain", "Comes"]
+aka: ["explain", "end"]
 origin: sources/S_ig_createcontent.club_C1PwR_wv66y.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (9 words), so no term repeats enough for a frequency-b
 ## Synonyms
 
 - explain
-- Comes
+- end
 
 ## Live Example
 

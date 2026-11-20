@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["attention", "possible"]
+aka: ["attention", "earning"]
 origin: sources/S_ig_createcontent.club_C2NGwT3rGIA.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C2NGwT3rGIA.md
 
 ## Term
 
-attention is the most prominent repeated term in this source (142-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: possible, simple, there's. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+attention is the most prominent repeated term in this source (142-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: earning, billions, personal. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - attention
-- possible
+- earning
 
 ## Live Example
 

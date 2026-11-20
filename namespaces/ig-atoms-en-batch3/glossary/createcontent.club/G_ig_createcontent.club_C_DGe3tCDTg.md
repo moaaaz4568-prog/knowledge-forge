@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Tip number", "attention"]
+aka: ["Tip number", "work"]
 origin: sources/S_ig_createcontent.club_C_DGe3tCDTg.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C_DGe3tCDTg.md
 
 ## Term
 
-Tip number is the most prominent repeated term in this source (263-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: attention, people's, views. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Tip number is the most prominent repeated term in this source (263-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: work, heard, rule. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Tip number
-- attention
+- work
 
 ## Live Example
 

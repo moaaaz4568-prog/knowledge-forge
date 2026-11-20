@@ -1,25 +1,24 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Here's", "lose"]
+aka: ["online", "money"]
 origin: sources/S_ig_createcontent.club_DAb4aReCAD9.md
 ---
 
-# G_ig_createcontent.club_DAb4aReCAD9 — Here's
+# G_ig_createcontent.club_DAb4aReCAD9 — online
 
 ## Term
 
-Here's is the most prominent repeated term in this source (67-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: lose, weight, pounds. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+online is the most prominent repeated term in this source (67-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: money, losing, every. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- Here's
-- lose
+- online
+- money
 
 ## Live Example
 
-> "Here's how you can lose weight. Here's exactly how you can lose 10 pounds in the next 30 days. Here's how you can improve your videos. Here's why none of your videos go past 200 views, no matter what you try. How to make money online." — sources/S_ig_createcontent.club_DAb4aReCAD9.md
-> "How to make money online. If you want to stop losing money every time you start a new online business, here's what you need to" — sources/S_ig_createcontent.club_DAb4aReCAD9.md
+> "Here's how you can improve your videos. Here's why none of your videos go past 200 views, no matter what you try. How to make money online. If you want to stop losing money every time you start a new online business, here's what you need to" — sources/S_ig_createcontent.club_DAb4aReCAD9.md
 
 ## When the Meaning Breaks
 

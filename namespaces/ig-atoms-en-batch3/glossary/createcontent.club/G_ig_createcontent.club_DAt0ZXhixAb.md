@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["immediately", "who's"]
+aka: ["immediately", "watching"]
 origin: sources/S_ig_createcontent.club_DAt0ZXhixAb.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (96 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - immediately
-- who's
+- watching
 
 ## Live Example
 

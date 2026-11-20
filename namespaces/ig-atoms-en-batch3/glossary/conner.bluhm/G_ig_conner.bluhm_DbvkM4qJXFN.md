@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ads", "says"]
+aka: ["ads", "run"]
 origin: sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
 
 ## Term
 
-ads is the most prominent repeated term in this source (262-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: says, clients, run. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+ads is the most prominent repeated term in this source (262-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: run, risky, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - ads
-- says
+- run
 
 ## Live Example
 

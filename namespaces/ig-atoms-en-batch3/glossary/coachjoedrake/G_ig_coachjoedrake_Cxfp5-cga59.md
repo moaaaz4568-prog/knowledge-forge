@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_Cxfp5-cga59.md
 
 ## Term
 
-shoulder is the most prominent repeated term in this source (168-word transcript from the Instagram account coachjoedrake): it occurs 9 times literally in the text, most often collocated with: blades, back, protraction. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+shoulder is the most prominent repeated term in this source (168-word transcript from the Instagram account coachjoedrake): it occurs 9 times literally in the text, most often collocated with: blades, back, together. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

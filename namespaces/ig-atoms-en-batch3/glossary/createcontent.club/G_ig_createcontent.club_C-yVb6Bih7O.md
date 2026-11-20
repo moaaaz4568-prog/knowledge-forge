@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["expect", "don't"]
+aka: ["expect", "viral"]
 origin: sources/S_ig_createcontent.club_C-yVb6Bih7O.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C-yVb6Bih7O.md
 
 ## Term
 
-expect is the most prominent repeated term in this source (103-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: don't, example, push. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+expect is the most prominent repeated term in this source (103-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: viral, push, ups. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - expect
-- don't
+- viral
 
 ## Live Example
 

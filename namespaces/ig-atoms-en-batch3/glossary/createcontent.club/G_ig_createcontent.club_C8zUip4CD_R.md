@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["stories", "posting"]
+aka: ["stories", "treat"]
 origin: sources/S_ig_createcontent.club_C8zUip4CD_R.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C8zUip4CD_R.md
 
 ## Term
 
-stories is the most prominent repeated term in this source (217-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: posting, treat, strategically. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+stories is the most prominent repeated term in this source (217-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: treat, posting, strategically. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - stories
-- posting
+- treat
 
 ## Live Example
 

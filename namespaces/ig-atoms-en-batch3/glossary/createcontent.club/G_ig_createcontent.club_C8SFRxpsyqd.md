@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C8SFRxpsyqd.md
 
 ## Term
 
-create is the most prominent repeated term in this source (233-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: ai, script, edit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+create is the most prominent repeated term in this source (233-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: ai, script, describe. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

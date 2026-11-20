@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Step", "questions"]
+aka: ["Step", "receive"]
 origin: sources/S_ig_createcontent.club_C4dtFzpiw2z.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C4dtFzpiw2z.md
 
 ## Term
 
-Step is the most prominent repeated term in this source (176-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: questions, viral, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Step is the most prominent repeated term in this source (176-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: receive, proven, free. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Step
-- questions
+- receive
 
 ## Live Example
 

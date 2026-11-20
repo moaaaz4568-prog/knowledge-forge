@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C0o3MZgL3r3.md
 
 ## Term
 
-start is the most prominent repeated term in this source (121-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: attention, pattern, interruption. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+start is the most prominent repeated term in this source (121-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: attention, platform, unexpected. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

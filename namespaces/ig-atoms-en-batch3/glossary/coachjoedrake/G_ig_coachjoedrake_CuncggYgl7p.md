@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["easy", "her"]
+aka: ["easy", "ground"]
 origin: sources/S_ig_coachjoedrake_CuncggYgl7p.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_coachjoedrake_CuncggYgl7p.md
 
 ## Term
 
-easy is the most prominent repeated term in this source (249-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: her, ground, happens. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+easy is the most prominent repeated term in this source (249-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: ground, her, band. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - easy
-- her
+- ground
 
 ## Live Example
 

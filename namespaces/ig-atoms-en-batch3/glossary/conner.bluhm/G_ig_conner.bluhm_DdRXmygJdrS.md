@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["business", "back"]
+aka: ["business", "thirty"]
 origin: sources/S_ig_conner.bluhm_DdRXmygJdrS.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_DdRXmygJdrS.md
 
 ## Term
 
-business is the most prominent repeated term in this source (174-word transcript from the Instagram account conner.bluhm): it occurs 6 times literally in the text, most often collocated with: back, piece, thirty. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+business is the most prominent repeated term in this source (174-word transcript from the Instagram account conner.bluhm): it occurs 6 times literally in the text, most often collocated with: thirty, still, back. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - business
-- back
+- thirty
 
 ## Live Example
 

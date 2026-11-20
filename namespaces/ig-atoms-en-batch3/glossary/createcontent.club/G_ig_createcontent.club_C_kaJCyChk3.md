@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["create", "song"]
+aka: ["create", "audio"]
 origin: sources/S_ig_createcontent.club_C_kaJCyChk3.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C_kaJCyChk3.md
 
 ## Term
 
-create is the most prominent repeated term in this source (66-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: song, playing, special. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+create is the most prominent repeated term in this source (66-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: audio, effect, song. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - create
-- song
+- audio
 
 ## Live Example
 

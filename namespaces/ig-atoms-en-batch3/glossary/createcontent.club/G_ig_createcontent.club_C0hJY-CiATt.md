@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["sound", "content"]
+aka: ["sound", "started"]
 origin: sources/S_ig_createcontent.club_C0hJY-CiATt.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0hJY-CiATt.md
 
 ## Term
 
-sound is the most prominent repeated term in this source (86-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: content, started, designing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+sound is the most prominent repeated term in this source (86-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: started, designing, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - sound
-- content
+- started
 
 ## Live Example
 

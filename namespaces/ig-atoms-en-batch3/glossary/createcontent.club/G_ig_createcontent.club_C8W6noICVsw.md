@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["word", "can't"]
+aka: ["word", "provide"]
 origin: sources/S_ig_createcontent.club_C8W6noICVsw.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C8W6noICVsw.md
 
 ## Term
 
-word is the most prominent repeated term in this source (25-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: can't, provide, transcription. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+word is the most prominent repeated term in this source (25-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: provide, transcription, audio. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - word
-- can't
+- provide
 
 ## Live Example
 

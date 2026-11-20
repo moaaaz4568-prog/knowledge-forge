@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["transcription", "I'll"]
+aka: ["transcription", "stick"]
 origin: sources/S_ig_createcontent.club_C2dBAVcvSDF.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (12 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - transcription
-- I'll
+- stick
 
 ## Live Example
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["clone", "Step"]
+aka: ["clone", "use"]
 origin: sources/S_ig_createcontent.club_C4tfUXesqdO.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C4tfUXesqdO.md
 
 ## Term
 
-clone is the most prominent repeated term in this source (196-word transcript from the Instagram account createcontent.club): it occurs 8 times literally in the text, most often collocated with: step, use, voice. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+clone is the most prominent repeated term in this source (196-word transcript from the Instagram account createcontent.club): it occurs 8 times literally in the text, most often collocated with: use, voice, type. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - clone
-- Step
+- use
 
 ## Live Example
 

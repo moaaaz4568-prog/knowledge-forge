@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["content", "clear"]
+aka: ["content", "favorite"]
 origin: sources/S_ig_createcontent.club_C1KF_ZILyV7.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C1KF_ZILyV7.md
 
 ## Term
 
-content is the most prominent repeated term in this source (102-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: clear, audio, crucial. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+content is the most prominent repeated term in this source (102-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: favorite, ais, websites. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - content
-- clear
+- favorite
 
 ## Live Example
 

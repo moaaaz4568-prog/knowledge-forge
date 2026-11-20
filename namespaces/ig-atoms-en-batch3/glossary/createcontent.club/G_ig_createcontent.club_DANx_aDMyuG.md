@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_DANx_aDMyuG.md
 
 ## Term
 
-scrolling is the most prominent repeated term in this source (158-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: start, observer, instead. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+scrolling is the most prominent repeated term in this source (158-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: start, using, wrong. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

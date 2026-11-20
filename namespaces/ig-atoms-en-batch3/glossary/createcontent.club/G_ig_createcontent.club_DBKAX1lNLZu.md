@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_DBKAX1lNLZu.md
 
 ## Term
 
-movement is the most prominent repeated term in this source (128-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: continuous, avoid, exaggerating. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+movement is the most prominent repeated term in this source (128-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: continuous, instead, subtle. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

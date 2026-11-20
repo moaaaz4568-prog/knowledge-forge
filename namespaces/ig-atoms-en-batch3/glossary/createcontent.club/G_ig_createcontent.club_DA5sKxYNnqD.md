@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["content", "enough"]
+aka: ["content", "shifting"]
 origin: sources/S_ig_createcontent.club_DA5sKxYNnqD.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DA5sKxYNnqD.md
 
 ## Term
 
-content is the most prominent repeated term in this source (184-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: enough, anymore, moved. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+content is the most prominent repeated term in this source (184-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: shifting, towards, dynamic. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - content
-- enough
+- shifting
 
 ## Live Example
 

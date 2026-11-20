@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["her", "allows"]
+aka: ["her", "makes"]
 origin: sources/S_ig_createcontent.club_C3sox4BRNAA.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C3sox4BRNAA.md
 
 ## Term
 
-her is the most prominent repeated term in this source (346-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: allows, build, deeper. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+her is the most prominent repeated term in this source (346-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: makes, connect, immediately. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - her
-- allows
+- makes
 
 ## Live Example
 

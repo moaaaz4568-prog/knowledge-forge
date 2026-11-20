@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["that's", "broccoli"]
+aka: ["transcript", "Alright"]
 origin: sources/S_ig_createcontent.club_DBD9T7kNX1o.md
 ---
 
-# G_ig_createcontent.club_DBD9T7kNX1o — that's
+# G_ig_createcontent.club_DBD9T7kNX1o — transcript
 
 ## Term
 
-that's is the most prominent repeated term in this source (58-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: broccoli, hotkey, keep. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (58 words), so no term repeats enough for a frequency-based entry; transcript is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- that's
-- broccoli
+- transcript
+- Alright
 
 ## Live Example
 
-> "I was stargazing, life goes on, honey, I'm holding my baby. Woke up looking for the broccoli. Hotkey, keep a horn on me, that's a musty IP. Ownership, the blueprint is bought me. Mr. Get off, I get off at my feet." — sources/S_ig_createcontent.club_DBD9T7kNX1o.md
+> "here’s the raw transcript without any fluff. I was stargazing, life goes on, honey, I'm holding my baby. Woke up looking for the broccoli. Hotkey, keep a horn on me, that's a musty IP. Ownership, the blueprint is bought me. Mr. Get off, I get off at my feet." — sources/S_ig_createcontent.club_DBD9T7kNX1o.md
 
 ## When the Meaning Breaks
 

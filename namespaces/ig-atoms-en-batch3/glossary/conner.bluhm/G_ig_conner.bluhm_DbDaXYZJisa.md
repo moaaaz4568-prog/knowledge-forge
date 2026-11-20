@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["sell", "Don't"]
+aka: ["sell", "coaching"]
 origin: sources/S_ig_conner.bluhm_DbDaXYZJisa.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_DbDaXYZJisa.md
 
 ## Term
 
-sell is the most prominent repeated term in this source (39-word transcript from the Instagram account conner.bluhm): it occurs 10 times literally in the text, most often collocated with: don't, coaching, ads. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+sell is the most prominent repeated term in this source (39-word transcript from the Instagram account conner.bluhm): it occurs 10 times literally in the text, most often collocated with: coaching, million, views. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - sell
-- Don't
+- coaching
 
 ## Live Example
 

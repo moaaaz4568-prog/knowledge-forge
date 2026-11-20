@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["business", "they're"]
+aka: ["business", "fucking"]
 origin: sources/S_ig_conner.bluhm_Dci_igcpTBD.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_Dci_igcpTBD.md
 
 ## Term
 
-business is the most prominent repeated term in this source (515-word transcript from the Instagram account conner.bluhm): it occurs 12 times literally in the text, most often collocated with: they're, fucking, buy. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+business is the most prominent repeated term in this source (515-word transcript from the Instagram account conner.bluhm): it occurs 12 times literally in the text, most often collocated with: fucking, buy, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - business
-- they're
+- fucking
 
 ## Live Example
 

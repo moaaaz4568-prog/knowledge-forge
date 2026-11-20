@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C1PN8jwgjet.md
 
 ## Term
 
-failing is the most prominent repeated term in this source (146-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: terms, winning, set. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+failing is the most prominent repeated term in this source (146-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: terms, winning, constantly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["consistency", "that's"]
+aka: ["consistency", "name"]
 origin: sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
 
 ## Term
 
-consistency is the most prominent repeated term in this source (93-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: that's, name, game. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+consistency is the most prominent repeated term in this source (93-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: name, game. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - consistency
-- that's
+- name
 
 ## Live Example
 

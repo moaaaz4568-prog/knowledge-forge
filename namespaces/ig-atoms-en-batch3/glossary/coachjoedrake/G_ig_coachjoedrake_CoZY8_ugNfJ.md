@@ -1,25 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["don't", "standing"]
+aka: ["different", "versus"]
 origin: sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 ---
 
-# G_ig_coachjoedrake_CoZY8_ugNfJ — don't
+# G_ig_coachjoedrake_CoZY8_ugNfJ — different
 
 ## Term
 
-don't is the most prominent repeated term in this source (292-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: standing, normal, fun. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+different is the most prominent repeated term in this source (292-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: versus, past, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- don't
-- standing
+- different
+- versus
 
 ## Live Example
 
-> "I'm like, that's an imbalance for sure. I don't say it to them. I don't say it to them. Is that why you guys stop going to the bathroom at the same time? I'm like, how are you standing like that? Not normal. Don't make fun of me." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
-> "Like, is one shoulder blade moving more than the other? Very common, very common. But if you're not looking at it, and you don't always have to know what to do with it right away, that's okay. But I think noticing is the first step." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
+> "But I think noticing is the first step. And the conversation in the gym, funny enough, this past week with a lot of clients and different coaches, has just been like the surprise of how asymmetrical the human body really is. Right? Very asymmetrical, meaning different on one side versus the other. Because in our minds, it makes sense." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
+> "Like 20% asymmetries in your hip are statistically considered natural. So even the idea that you might squat and lunge a little different on one leg versus the other, it's like. . . It's 70% in the shoulder. Yeah. That's just from arm dominance." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 
 ## When the Meaning Breaks
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["views", "million"]
+aka: ["views", "wrote"]
 origin: sources/S_ig_createcontent.club_DAg2F1OCRkK.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DAg2F1OCRkK.md
 
 ## Term
 
-views is the most prominent repeated term in this source (184-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: million, wrote, cared. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+views is the most prominent repeated term in this source (184-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: wrote, million, show. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - views
-- million
+- wrote
 
 ## Live Example
 

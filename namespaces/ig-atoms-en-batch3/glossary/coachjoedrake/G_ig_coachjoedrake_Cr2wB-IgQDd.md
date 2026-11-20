@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["brothers", "don't"]
+aka: ["brothers", "bout"]
 origin: sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (82 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - brothers
-- don't
+- bout
 
 ## Live Example
 

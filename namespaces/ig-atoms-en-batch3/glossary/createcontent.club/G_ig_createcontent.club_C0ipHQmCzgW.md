@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["playing", "don't"]
+aka: ["playing", "context of account createcontent.club"]
 origin: sources/S_ig_createcontent.club_C0ipHQmCzgW.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (8 words), so no term repeats enough for a frequency-b
 ## Synonyms
 
 - playing
-- don't
+- context of account createcontent.club
 
 ## Live Example
 

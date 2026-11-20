@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C3yXBDBy-Bf.md
 
 ## Term
 
-instead is the most prominent repeated term in this source (132-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: asking, content, save. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+instead is the most prominent repeated term in this source (132-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: asking, receive, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

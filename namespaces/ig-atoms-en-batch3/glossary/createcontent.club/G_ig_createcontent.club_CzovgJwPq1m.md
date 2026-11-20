@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["ideas", "hours"]
+aka: ["ideas", "personal"]
 origin: sources/S_ig_createcontent.club_CzovgJwPq1m.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_CzovgJwPq1m.md
 
 ## Term
 
-ideas is the most prominent repeated term in this source (101-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: hours, find, google. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+ideas is the most prominent repeated term in this source (101-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: personal, touch, makes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - ideas
-- hours
+- personal
 
 ## Live Example
 

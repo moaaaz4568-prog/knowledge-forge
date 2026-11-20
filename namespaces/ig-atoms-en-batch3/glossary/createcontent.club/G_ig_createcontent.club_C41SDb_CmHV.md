@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["audio", "currently"]
+aka: ["audio", "name"]
 origin: sources/S_ig_createcontent.club_C41SDb_CmHV.md
 ---
 
@@ -9,17 +9,18 @@ origin: sources/S_ig_createcontent.club_C41SDb_CmHV.md
 
 ## Term
 
-audio is the most prominent repeated term in this source (215-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: currently, trending, find. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+audio is the most prominent repeated term in this source (215-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: name, find, trending. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - audio
-- currently
+- name
 
 ## Live Example
 
 > "what you need to do is start scrolling, but keep your focus on the bottom left corner of the screen where you can see the name of the audio that has been used for that specific reel. Step two: you want to keep on scrolling until you find this symbol at the beginning of the audio's name. When an audio has that, it means that it's currently trending." — sources/S_ig_createcontent.club_C41SDb_CmHV.md
-> "Step three: once you click on it, you'll get to the page of that audio. There, you can find how many reels have been created with that audio and look through all the videos that use this. What you want to do though is click on the button you will see under the audio's name that says Trending." — sources/S_ig_createcontent.club_C41SDb_CmHV.md
+> "What you want to do though is click on the button you will see under the audio's name that says Trending. Once you click on it, you will find the top 50 most trending sounds at the" — sources/S_ig_createcontent.club_C41SDb_CmHV.md
+> "Once you find an audio that has it, click on it. Step three: once you click on it, you'll get to the page of that audio. There, you can find how many reels have been created with that audio and look through all the videos that use this. What you want to do though is click on the button you will see under the audio's name that says Trending." — sources/S_ig_createcontent.club_C41SDb_CmHV.md
 
 ## When the Meaning Breaks
 

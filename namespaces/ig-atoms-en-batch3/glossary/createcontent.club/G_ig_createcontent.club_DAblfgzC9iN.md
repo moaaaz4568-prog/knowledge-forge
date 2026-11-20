@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_DAblfgzC9iN.md
 
 ## Term
 
-clickbait is the most prominent repeated term in this source (88-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: use, we'll, send. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+clickbait is the most prominent repeated term in this source (88-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: use, send, created. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

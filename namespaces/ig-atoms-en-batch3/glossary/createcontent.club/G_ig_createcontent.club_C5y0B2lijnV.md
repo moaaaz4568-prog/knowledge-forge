@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Step", "fix"]
+aka: ["Step", "Discord"]
 origin: sources/S_ig_createcontent.club_C5y0B2lijnV.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C5y0B2lijnV.md
 
 ## Term
 
-Step is the most prominent repeated term in this source (269-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: fix, discord, bio. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Step is the most prominent repeated term in this source (269-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: discord, fix, bio. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Step
-- fix
+- Discord
 
 ## Live Example
 

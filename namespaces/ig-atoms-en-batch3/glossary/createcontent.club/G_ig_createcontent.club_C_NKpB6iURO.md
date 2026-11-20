@@ -18,7 +18,7 @@ This source is very short (47 words), so no term repeats enough for a frequency-
 
 ## Live Example
 
-> "I will transcribe exactly what is being said, focusing solely on the spoken content and nothing else. Here is the transcription:" — sources/S_ig_createcontent.club_C_NKpB6iURO.md
+> "I will transcribe exactly what is being said, focusing solely on the spoken content and nothing else. Here is the transcription" — sources/S_ig_createcontent.club_C_NKpB6iURO.md
 
 ## When the Meaning Breaks
 

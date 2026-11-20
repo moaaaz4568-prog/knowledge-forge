@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["that's", "I'll"]
+aka: ["Quote", "goes"]
 origin: sources/S_ig_coachjoedrake_CxknyNCgnDK.md
 ---
 
-# G_ig_coachjoedrake_CxknyNCgnDK — that's
+# G_ig_coachjoedrake_CxknyNCgnDK — Quote
 
 ## Term
 
-This source is very short (28 words), so no term repeats enough for a frequency-based entry; that's is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (28 words), so no term repeats enough for a frequency-based entry; Quote is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- that's
-- I'll
+- Quote
+- goes
 
 ## Live Example
 
-> "One day or day one. Ah, I'll do it one day. Okay, that's up to you. Or day" — sources/S_ig_coachjoedrake_CxknyNCgnDK.md
+> "Quote goes like this: One day or day one. One day or day one. Ah, I'll do it one day. Okay, that's up to you." — sources/S_ig_coachjoedrake_CxknyNCgnDK.md
 
 ## When the Meaning Breaks
 

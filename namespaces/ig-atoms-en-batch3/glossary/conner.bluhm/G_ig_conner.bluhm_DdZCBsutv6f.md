@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ad", "every"]
+aka: ["ad", "spend"]
 origin: sources/S_ig_conner.bluhm_DdZCBsutv6f.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_DdZCBsutv6f.md
 
 ## Term
 
-ad is the most prominent repeated term in this source (407-word transcript from the Instagram account conner.bluhm): it occurs 13 times literally in the text, most often collocated with: every, spend, active. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+ad is the most prominent repeated term in this source (407-word transcript from the Instagram account conner.bluhm): it occurs 13 times literally in the text, most often collocated with: spend, every, active. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - ad
-- every
+- spend
 
 ## Live Example
 

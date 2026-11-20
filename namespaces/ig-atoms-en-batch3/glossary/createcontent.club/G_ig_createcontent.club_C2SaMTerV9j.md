@@ -18,7 +18,7 @@ social media is the most prominent repeated term in this source (52-word transcr
 
 ## Live Example
 
-> "got it. This sounds like a high-energy social media promo or an ad—lots of hype and that classic 'call to action' vibe. Here's the transcription:" — sources/S_ig_createcontent.club_C2SaMTerV9j.md
+> "got it. This sounds like a high-energy social media promo or an ad—lots of hype and that classic 'call to action' vibe. Here's the transcription" — sources/S_ig_createcontent.club_C2SaMTerV9j.md
 > "you want to make money through social media, you need to screenshot this. Or comment 'plan' and we'll send you all the steps in" — sources/S_ig_createcontent.club_C2SaMTerV9j.md
 
 ## When the Meaning Breaks

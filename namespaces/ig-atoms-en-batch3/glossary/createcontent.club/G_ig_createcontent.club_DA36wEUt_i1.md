@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["attention", "starting"]
+aka: ["attention", "immediately"]
 origin: sources/S_ig_createcontent.club_DA36wEUt_i1.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DA36wEUt_i1.md
 
 ## Term
 
-attention is the most prominent repeated term in this source (149-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: starting, hook, grab. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+attention is the most prominent repeated term in this source (149-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: immediately, called, pay. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - attention
-- starting
+- immediately
 
 ## Live Example
 

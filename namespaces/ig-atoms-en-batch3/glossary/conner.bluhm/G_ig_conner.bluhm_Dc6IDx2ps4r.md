@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["objection", "calls"]
+aka: ["objection", "overcome"]
 origin: sources/S_ig_conner.bluhm_Dc6IDx2ps4r.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_Dc6IDx2ps4r.md
 
 ## Term
 
-objection is the most prominent repeated term in this source (196-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: calls, true, job. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+objection is the most prominent repeated term in this source (196-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: overcome, every, single. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - objection
-- calls
+- overcome
 
 ## Live Example
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["attention", "permission"]
+aka: ["attention", "catch"]
 origin: sources/S_ig_createcontent.club_C_BA6I2CWAm.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C_BA6I2CWAm.md
 
 ## Term
 
-attention is the most prominent repeated term in this source (138-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: permission, catch, keeping. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+attention is the most prominent repeated term in this source (138-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: catch, grab, voice. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - attention
-- permission
+- catch
 
 ## Live Example
 

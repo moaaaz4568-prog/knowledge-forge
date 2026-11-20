@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C2hqAGorKS2.md
 
 ## Term
 
-song is the most prominent repeated term in this source (151-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: find, name, seconds. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+song is the most prominent repeated term in this source (151-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: find, name, using. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

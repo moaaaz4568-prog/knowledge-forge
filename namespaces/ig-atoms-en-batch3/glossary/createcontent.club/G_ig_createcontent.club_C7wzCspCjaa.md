@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["whiskey", "I'll"]
+aka: ["whiskey", "leave"]
 origin: sources/S_ig_createcontent.club_C7wzCspCjaa.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (11 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - whiskey
-- I'll
+- leave
 
 ## Live Example
 

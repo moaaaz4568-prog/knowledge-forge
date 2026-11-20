@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["strategy", "started"]
+aka: ["strategy", "supposed"]
 origin: sources/S_ig_createcontent.club_C0CgU_Upx98.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0CgU_Upx98.md
 
 ## Term
 
-strategy is the most prominent repeated term in this source (239-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: started, chose, excellent. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+strategy is the most prominent repeated term in this source (239-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: supposed, boost, drive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - strategy
-- started
+- supposed
 
 ## Live Example
 

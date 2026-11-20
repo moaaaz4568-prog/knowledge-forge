@@ -18,7 +18,7 @@ recreate is the most prominent repeated term in this source (186-word transcript
 
 ## Live Example
 
-> "Step one: Look for a video that has a setup that you want to recreate and take a screenshot of it. Step two: Go to ChatGPT, upload that screenshot you just took, and write this exact prompt:" — sources/S_ig_createcontent.club_C6O52pRCzTE.md
+> "Step one: Look for a video that has a setup that you want to recreate and take a screenshot of it. Step two: Go to ChatGPT, upload that screenshot you just took, and write this exact prompt" — sources/S_ig_createcontent.club_C6O52pRCzTE.md
 > "By doing this, ChatGPT will create a list of all the equipment it recommends to recreate the video setup without going over your" — sources/S_ig_createcontent.club_C6O52pRCzTE.md
 > "Analyze the photo and tell me exactly what type of equipment is used and how I need to set it up to recreate" — sources/S_ig_createcontent.club_C6O52pRCzTE.md
 

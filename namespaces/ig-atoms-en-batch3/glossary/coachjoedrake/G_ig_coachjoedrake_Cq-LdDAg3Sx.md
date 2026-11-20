@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["Patty cake", "baker's"]
+aka: ["Patty cake", "baker"]
 origin: sources/S_ig_coachjoedrake_Cq-LdDAg3Sx.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_coachjoedrake_Cq-LdDAg3Sx.md
 
 ## Term
 
-Patty cake is the most prominent repeated term in this source (130-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: baker's, bake. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Patty cake is the most prominent repeated term in this source (130-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: baker. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Patty cake
-- baker's
+- baker
 
 ## Live Example
 

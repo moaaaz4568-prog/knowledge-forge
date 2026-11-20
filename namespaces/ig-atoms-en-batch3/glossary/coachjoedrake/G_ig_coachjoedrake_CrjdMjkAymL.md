@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["wrists", "benefit"]
+aka: ["wrists", "assuming"]
 origin: sources/S_ig_coachjoedrake_CrjdMjkAymL.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_coachjoedrake_CrjdMjkAymL.md
 
 ## Term
 
-wrists is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: benefit, stabilizing, control. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+wrists is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: assuming, athletic, stance. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - wrists
-- benefit
+- assuming
 
 ## Live Example
 

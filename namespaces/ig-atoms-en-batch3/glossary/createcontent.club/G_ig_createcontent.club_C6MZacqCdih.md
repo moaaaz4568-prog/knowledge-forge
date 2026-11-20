@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["link", "you'll"]
+aka: ["link", "use"]
 origin: sources/S_ig_createcontent.club_C6MZacqCdih.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C6MZacqCdih.md
 
 ## Term
 
-link is the most prominent repeated term in this source (128-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: you'll, short, clicking. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+link is the most prominent repeated term in this source (128-word transcript from the Instagram account createcontent.club): it occurs 6 times literally in the text, most often collocated with: use, clicking, website. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - link
-- you'll
+- use
 
 ## Live Example
 

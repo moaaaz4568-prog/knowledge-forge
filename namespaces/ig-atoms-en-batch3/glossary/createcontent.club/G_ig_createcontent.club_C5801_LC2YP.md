@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["stories", "talking"]
+aka: ["stories", "engagement"]
 origin: sources/S_ig_createcontent.club_C5801_LC2YP.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C5801_LC2YP.md
 
 ## Term
 
-stories is the most prominent repeated term in this source (201-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: talking, reposting, engagement. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+stories is the most prominent repeated term in this source (201-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: engagement, talking, reposting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - stories
-- talking
+- engagement
 
 ## Live Example
 

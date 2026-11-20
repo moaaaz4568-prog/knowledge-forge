@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["settings", "captions"]
+aka: ["settings", "dive"]
 origin: sources/S_ig_createcontent.club_C94xXScCA_s.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C94xXScCA_s.md
 
 ## Term
 
-settings is the most prominent repeated term in this source (149-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: captions, dive, into. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+settings is the most prominent repeated term in this source (149-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: dive, into, top. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - settings
-- captions
+- dive
 
 ## Live Example
 

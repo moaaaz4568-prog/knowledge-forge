@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C5lp1MmCEgA.md
 
 ## Term
 
-solution is the most prominent repeated term in this source (246-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: promised, step, end. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+solution is the most prominent repeated term in this source (246-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: promised, step, deliver. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

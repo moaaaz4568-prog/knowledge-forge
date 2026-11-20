@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["remember", "end"]
+aka: ["remember", "helps"]
 origin: sources/S_ig_createcontent.club_C3LE8mhrYfw.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C3LE8mhrYfw.md
 
 ## Term
 
-remember is the most prominent repeated term in this source (185-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: end, that's, audio. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+remember is the most prominent repeated term in this source (185-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: helps, try, far. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - remember
-- end
+- helps
 
 ## Live Example
 

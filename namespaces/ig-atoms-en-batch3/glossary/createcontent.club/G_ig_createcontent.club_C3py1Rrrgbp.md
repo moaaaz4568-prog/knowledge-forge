@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["transcribe", "file"]
+aka: ["transcribe", "catch"]
 origin: sources/S_ig_createcontent.club_C3py1Rrrgbp.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (27 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - transcribe
-- file
+- catch
 
 ## Live Example
 

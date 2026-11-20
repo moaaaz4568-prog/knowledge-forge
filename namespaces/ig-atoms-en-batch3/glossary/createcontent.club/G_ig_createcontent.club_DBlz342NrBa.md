@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["what's", "context of account createcontent.club"]
+aka: ["I", "context of account createcontent.club"]
 origin: sources/S_ig_createcontent.club_DBlz342NrBa.md
 ---
 
-# G_ig_createcontent.club_DBlz342NrBa — what's
+# G_ig_createcontent.club_DBlz342NrBa — I
 
 ## Term
 
-This source is very short (12 words), so no term repeats enough for a frequency-based entry; what's is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (12 words), so no term repeats enough for a frequency-based entry; I is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- what's
+- I
 - context of account createcontent.club
 
 ## Live Example
 
-> "going to take a look at what's actually being said" — sources/S_ig_createcontent.club_DBlz342NrBa.md
+> "I'm going to take a look at what's actually being said" — sources/S_ig_createcontent.club_DBlz342NrBa.md
 
 ## When the Meaning Breaks
 

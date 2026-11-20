@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["personal brand", "successful"]
+aka: ["personal brand", "grow"]
 origin: sources/S_ig_createcontent.club_C3ahdD_rKrs.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C3ahdD_rKrs.md
 
 ## Term
 
-personal brand is the most prominent repeated term in this source (138-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: successful, grow, millions. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+personal brand is the most prominent repeated term in this source (138-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: grow, successful, millions. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - personal brand
-- successful
+- grow
 
 ## Live Example
 

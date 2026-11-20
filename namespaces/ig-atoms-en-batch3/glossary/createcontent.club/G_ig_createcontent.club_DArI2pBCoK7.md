@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["editing", "doesn't"]
+aka: ["editing", "simple"]
 origin: sources/S_ig_createcontent.club_DArI2pBCoK7.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DArI2pBCoK7.md
 
 ## Term
 
-editing is the most prominent repeated term in this source (251-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: doesn't, simple, keep. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+editing is the most prominent repeated term in this source (251-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: simple, steps, capcut. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - editing
-- doesn't
+- simple
 
 ## Live Example
 

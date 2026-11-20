@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C8VNjaBisoV.md
 
 ## Term
 
-form is the most prominent repeated term in this source (182-word transcript from the Instagram account createcontent.club): it occurs 8 times literally in the text, most often collocated with: short, content, viral. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+form is the most prominent repeated term in this source (182-word transcript from the Instagram account createcontent.club): it occurs 8 times literally in the text, most often collocated with: short, long, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

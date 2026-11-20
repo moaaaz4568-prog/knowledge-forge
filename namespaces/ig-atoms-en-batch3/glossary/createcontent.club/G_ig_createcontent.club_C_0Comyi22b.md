@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["transcript", "followed"]
+aka: ["transcript", "music"]
 origin: sources/S_ig_createcontent.club_C_0Comyi22b.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (39 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - transcript
-- followed
+- music
 
 ## Live Example
 

@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C5jWhTICM0G.md
 
 ## Term
 
-Mistake number is the most prominent repeated term in this source (177-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: fix, use, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Mistake number is the most prominent repeated term in this source (177-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: fix, mistakes, missing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_CvzQsuRAYz3.md
 
 ## Term
 
-fitness is the most prominent repeated term in this source (235-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: fallen, done, love. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+fitness is the most prominent repeated term in this source (235-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: fallen, love, became. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

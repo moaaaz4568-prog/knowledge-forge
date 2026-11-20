@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_DBUVHCjtGCR.md
 
 ## Term
 
-his is the most prominent repeated term in this source (318-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: businesses, documenting, unique. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+his is the most prominent repeated term in this source (318-word transcript from the Instagram account createcontent.club): it occurs 7 times literally in the text, most often collocated with: businesses, documenting, story. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

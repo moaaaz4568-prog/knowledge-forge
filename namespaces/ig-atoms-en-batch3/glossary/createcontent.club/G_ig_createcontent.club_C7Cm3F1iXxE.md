@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["happens", "green"]
+aka: ["happens", "limited"]
 origin: sources/S_ig_createcontent.club_C7Cm3F1iXxE.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C7Cm3F1iXxE.md
 
 ## Term
 
-happens is the most prominent repeated term in this source (137-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: green, active, they're. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+happens is the most prominent repeated term in this source (137-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: limited, hidden, secret. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - happens
-- green
+- limited
 
 ## Live Example
 

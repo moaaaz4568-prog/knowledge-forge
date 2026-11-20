@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["they're", "already"]
+aka: ["already", "training"]
 origin: sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
 ---
 
-# G_ig_coachjoedrake_CpkWU6IAqsQ — they're
+# G_ig_coachjoedrake_CpkWU6IAqsQ — already
 
 ## Term
 
-they're is the most prominent repeated term in this source (141-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: already, help, training. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+already is the most prominent repeated term in this source (141-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: training, confident, mind. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- they're
 - already
+- training
 
 ## Live Example
 
-> "And based on the schedule you said, I already have you put in for next Tuesday. Right? Very confident. In your mind, guys, they're already training with you. All right? Because they're already there with you. They're looking for help. Don't be afraid to be that person." — sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
+> "You know, I enjoyed training with you as well. I feel like I've got a great plan for you. And based on the schedule you said, I already have you put in for next Tuesday. Right? Very confident. In your mind, guys, they're already training with you. All right? Because they're already there with you. They're looking for help. Don't be afraid to be that person." — sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
 
 ## When the Meaning Breaks
 

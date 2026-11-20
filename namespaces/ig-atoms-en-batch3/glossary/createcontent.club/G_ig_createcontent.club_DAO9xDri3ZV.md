@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["thousand", "doesn't"]
+aka: ["thousand", "mean"]
 origin: sources/S_ig_createcontent.club_DAO9xDri3ZV.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DAO9xDri3ZV.md
 
 ## Term
 
-thousand is the most prominent repeated term in this source (198-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: doesn't, mean, rock. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+thousand is the most prominent repeated term in this source (198-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: mean, rock, noticed. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - thousand
-- doesn't
+- mean
 
 ## Live Example
 

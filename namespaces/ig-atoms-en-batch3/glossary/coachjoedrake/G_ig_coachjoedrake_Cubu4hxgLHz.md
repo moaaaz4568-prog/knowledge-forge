@@ -1,24 +1,24 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["shouldn't", "reps"]
+aka: ["running", "side"]
 origin: sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
 ---
 
-# G_ig_coachjoedrake_Cubu4hxgLHz — shouldn't
+# G_ig_coachjoedrake_Cubu4hxgLHz — running
 
 ## Term
 
-This source is very short (18 words), so no term repeats enough for a frequency-based entry; shouldn't is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (18 words), so no term repeats enough for a frequency-based entry; running is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- shouldn't
-- reps
+- running
+- side
 
 ## Live Example
 
-> "you can't perform at least 10 reps on each side, then chances are you shouldn't be" — sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
+> "you can't perform at least 10 reps on each side, then chances are you shouldn't be running" — sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
 
 ## When the Meaning Breaks
 

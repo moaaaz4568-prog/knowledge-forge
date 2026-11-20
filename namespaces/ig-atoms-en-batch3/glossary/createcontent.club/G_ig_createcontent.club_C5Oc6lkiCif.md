@@ -18,7 +18,7 @@ This source is very short (36 words), so no term repeats enough for a frequency-
 
 ## Live Example
 
-> "it. Here’s the raw transcription of the audio:" — sources/S_ig_createcontent.club_C5Oc6lkiCif.md
+> "it. Here’s the raw transcription of the audio" — sources/S_ig_createcontent.club_C5Oc6lkiCif.md
 
 ## When the Meaning Breaks
 

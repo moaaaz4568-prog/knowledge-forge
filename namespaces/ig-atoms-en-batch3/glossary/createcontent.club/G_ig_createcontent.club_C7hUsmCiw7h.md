@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["instrumental", "provided"]
+aka: ["instrumental", "contains"]
 origin: sources/S_ig_createcontent.club_C7hUsmCiw7h.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (20 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - instrumental
-- provided
+- contains
 
 ## Live Example
 

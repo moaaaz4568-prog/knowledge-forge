@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["brainstorm", "content"]
+aka: ["brainstorm", "mind"]
 origin: sources/S_ig_createcontent.club_C2fEkcorfbs.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (24 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - brainstorm
-- content
+- mind
 
 ## Live Example
 

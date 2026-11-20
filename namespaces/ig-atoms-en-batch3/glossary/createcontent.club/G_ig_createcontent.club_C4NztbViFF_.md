@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C4NztbViFF_.md
 
 ## Term
 
-back is the most prominent repeated term in this source (29-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: plaything, stop, speech. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+back is the most prominent repeated term in this source (29-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: plaything, speech, talking. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

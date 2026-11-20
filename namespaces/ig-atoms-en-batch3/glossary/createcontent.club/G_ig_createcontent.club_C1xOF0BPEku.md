@@ -1,19 +1,19 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["heaven's", "America"]
+aka: ["darkest", "America"]
 origin: sources/S_ig_createcontent.club_C1xOF0BPEku.md
 ---
 
-# G_ig_createcontent.club_C1xOF0BPEku — heaven's
+# G_ig_createcontent.club_C1xOF0BPEku — darkest
 
 ## Term
 
-This source is very short (11 words), so no term repeats enough for a frequency-based entry; heaven's is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source is very short (11 words), so no term repeats enough for a frequency-based entry; darkest is its central term and anchors the context of the clip, occurring 1 times literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
-- heaven's
+- darkest
 - America
 
 ## Live Example

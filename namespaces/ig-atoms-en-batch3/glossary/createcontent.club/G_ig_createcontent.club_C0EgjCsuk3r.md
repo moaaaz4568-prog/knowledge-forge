@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["trending", "You'll"]
+aka: ["trending", "sounds"]
 origin: sources/S_ig_createcontent.club_C0EgjCsuk3r.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0EgjCsuk3r.md
 
 ## Term
 
-trending is the most prominent repeated term in this source (87-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: you'll, sounds, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+trending is the most prominent repeated term in this source (87-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: sounds, content, best. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - trending
-- You'll
+- sounds
 
 ## Live Example
 

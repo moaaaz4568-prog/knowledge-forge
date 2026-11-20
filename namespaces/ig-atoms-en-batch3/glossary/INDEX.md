@@ -1,6 +1,6 @@
 # Index â€” glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 479 glossary files, 955 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 500 glossary files, 999 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -12,13 +12,14 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cny4HMVA5pw.md | position | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Co0VTbQpu28.md | constant | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | into | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | don't | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | different | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | myself | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | harder | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | full | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | easiest step | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | back | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | groove | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | they're | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | already | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpuS_XZgi0E.md | rapport | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | back | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | Patty cake | 1 |
@@ -37,15 +38,17 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrIrsA5AG_L.md | training | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | periodization | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | wrists | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | training | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | Snoop | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | rhythm | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | yielding | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | accomplishing | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | progression | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | exercises | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | position | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | feel | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | motherfucking bitch | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | that's | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | turnovers | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | creative | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | tripping | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | shoes | 3 |
@@ -53,7 +56,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | coaching | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuJxA0uA18V.md | workouts | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuVWrN3AayG.md | coaching | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | shouldn't | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | running | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CueUeneg6Vd.md | pop | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CufGGY6gQik.md | weekly | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cugt0cGgcuG.md | feeling | 1 |
@@ -62,7 +65,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuwYHTxgSV7.md | coaching | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cuz-iHBgLIj.md | Niggas | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cv3DxuyASoF.md | lift | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvHXby9gGDd.md | what's | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvHXby9gGDd.md | knows | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CvIKdSbAJLp.md | warmth | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CvNLldyA0KM.md | realize | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CvPIUiLgp1x.md | different | 1 |
@@ -77,26 +80,28 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CxaHyXqg2Ki.md | experience | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CxdpHQdAI5G.md | faithless | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cxfp5-cga59.md | shoulder | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxknyNCgnDK.md | that's | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxknyNCgnDK.md | Quote | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cxm8wxUuKJg.md | consistency | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cxp6G22AdgW.md | workout | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxxW2TjAXeJ.md | can't stop | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxxW2TjAXeJ.md | stop | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cy-tOlSuOt5.md | yielding | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cy4OvuyNU6u.md | ice | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cy6U74YARNc.md | willing | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CyyMQDygZiB.md | Slim Shady | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cz8co56AzPc.md | resistance | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CzJHyv9gS4o.md | exercises | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CzTLej0geCE.md | cramping | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CzWZa-_g3g1.md | couple | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cz_F1Kzgl8F.md | training | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CzyS6izgYhY.md | accomplishing | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_xU7OV6lT3r.md | shoes | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_yUPvaHFT01.md | sprint | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DZkOiNypP49.md | can't | 2 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DZkOiNypP49.md | ad spend | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DaAjXw2Jpov.md | hundred | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DavLdHcJaCP.md | achieve | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db0SDXgJaZy.md | ads | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db2jrfGpZBh.md | decided | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Db5PjwqJcYQ.md | hired | 3 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Db5PjwqJcYQ.md | agency | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db74ZLWJgh5.md | per | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbDaXYZJisa.md | sell | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbI1GOyJivj.md | Spend | 1 |
@@ -112,6 +117,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dc9WwU-hlpx.md | team | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcEcAE-J2Sb.md | risk | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcGjdA4pjDT.md | percent focus | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcQ-2VHpbtP.md | smart | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcYso3TJMk1.md | money | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dc_Vsz6JPo9.md | show | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DcbR1eOp3g9.md | question | 3 |
@@ -131,10 +137,12 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/conner.bluhm/G_ig_conner.bluhm_Dd_zvelpEbI.md | ad | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DdcRxaEhQ5R.md | feel | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DdeEBhEJk9F.md | niche | 2 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdeWBAfpZ1P.md | cardboard | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Ddg7MmQpwwt.md | faster | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdgpeHDp1SS.md | problem | 3 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdgpeHDp1SS.md | buyer | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DdjX48Bpvd6.md | effect | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DeCCzz_pMcO.md | every | 3 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeCb8h-JX6_.md | marketing | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DeE2mXjJUJg.md | believe | 2 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DeE8_-ppkls.md | niche | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DeEqc68JC-S.md | call | 2 |
@@ -142,6 +150,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C-S7NgHCAQM.md | transcript | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-V0l6EC8dj.md | send | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-YGfM3Cp4E.md | look | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-YmxIwiczC.md | link | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-_SBVxi7DT.md | name | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-bGOj9iVwA.md | transcribe | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-dAsCICkVb.md | important | 1 |
@@ -152,6 +161,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C-oE-__CKRW.md | website | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-qESpgCzZt.md | viral | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-tA3ikiyJe.md | Format number | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-tHoKXCBBq.md | transcription | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-u4SR5CA01.md | editing software | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-xzdxWiORV.md | lead magnet | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-yVb6Bih7O.md | expect | 1 |
@@ -171,6 +181,8 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C0hJY-CiATt.md | sound | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C0ipHQmCzgW.md | playing | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C0j-VjqvbhO.md | website | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0mJhQILhYV.md | mistakes | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0moBsdvIJP.md | trendsetter | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C0o3MZgL3r3.md | start | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C0rN7W9LaT4.md | media platforms | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C14aLEBrFnt.md | personal brand | 2 |
@@ -197,7 +209,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C1uGAZBrNUl.md | social media | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1utCsNP-6w.md | prompts | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1wrCq0Lk70.md | dedication | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1xOF0BPEku.md | heaven's | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1xOF0BPEku.md | darkest | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1zZ-2YrpEV.md | solution | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C20gNvsSbBY.md | prepared | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C22sEjmPtqt.md | views | 3 |
@@ -220,6 +232,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C2cdQujLS3n.md | Step | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2dBAVcvSDF.md | transcription | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2fEkcorfbs.md | brainstorm | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C2fnx9pvC8O.md | AI | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2hqAGorKS2.md | song | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2ihajzSok9.md | lines | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2kNIZULN2z.md | start | 3 |
@@ -227,9 +240,12 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C2m5QGmLiSu.md | line | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2nbI4-PclY.md | step | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2pbw5FLQJ5.md | life | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_C2sBMZDrVMd.md | icons | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_C2su8sOyk0J.md | prompts | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2uso3wr1uB.md | posting | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2vUswwS6gd.md | Screenshot | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2x2Kb5ShEp.md | dream | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C2xPDcbLuQE.md | viral | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C2z_y9JxMyX.md | moment | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C3-hmYgi0j2.md | storytelling | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C30AKu3LBcc.md | Obvious | 1 |
@@ -258,12 +274,13 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C3vDyWVrhKI.md | young | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C3xQ3QSLx13.md | mm | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C3yXBDBy-Bf.md | instead | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C41SDb_CmHV.md | audio | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_C41SDb_CmHV.md | audio | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C43eZr6idhg.md | start | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C458uTECwtX.md | viral | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C48zCbxCyK5.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C4D9cZniHN5.md | worrying | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C4DLVv_iaEP.md | nightclub | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C4GHlnfC3JX.md | morning | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C4GoWggCzOP.md | Step | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C4IeLXpic1V.md | stay | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C4JGYl_CkL6.md | Part | 3 |
@@ -342,7 +359,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C7PrRNLCF-D.md | viral | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C7TpyCRCpEz.md | night | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C7UNVVhCPWV.md | viral | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C7YhVgbis2W.md | What's | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C7YhVgbis2W.md | music | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C7cPduKi24C.md | impossible | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C7e5AQUCAvj.md | views | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C7hUsmCiw7h.md | instrumental | 1 |
@@ -390,7 +407,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_C_Q3VWpid8a.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_RPf4YijXW.md | hashtags | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_TMDQJCGmw.md | content | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C_U0lqRiWp6.md | Here's | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C_U0lqRiWp6.md | better salesman | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_V5_ZECzqF.md | click | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_XcGdQCNOX.md | relatable | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_C_Y58bvibZV.md | Number | 1 |
@@ -439,8 +456,8 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DAWrmi7CbM4.md | Number | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAWws9XiEAW.md | original | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAY8SGLio-_.md | film | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_DAZNo4miJ75.md | that's | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_DAb4aReCAD9.md | Here's | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DAZNo4miJ75.md | free | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_DAb4aReCAD9.md | online | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAblfgzC9iN.md | clickbait | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAep9_lCmWa.md | views | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAg2F1OCRkK.md | views | 3 |
@@ -450,18 +467,21 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DAlInBDC4si.md | content | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAnTCudC7wn.md | gambling | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAoV4nXiWwC.md | 4K | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DAq58IbC28I.md | free | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DArI2pBCoK7.md | editing | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAt0ZXhixAb.md | immediately | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAtwm_fi3UI.md | business | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAxbYlZCycr.md | transition | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DAxdV-_io8v.md | picture | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DB-9DUENrCM.md | movie | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DB2EVEQNmpp.md | font | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DB2LSx3t_da.md | start | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DB6B1q-tCKy.md | viral | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DB6C_hBtHkw.md | volume | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBA7O2uNs-n.md | turn | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBA7w2NNOfJ.md | editing | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_DBD9T7kNX1o.md | that's | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DBD8xrzNESg.md | light | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DBD9T7kNX1o.md | transcript | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBErurItDJX.md | find | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBEtDfmtB_4.md | stories | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBHKnqPtHIe.md | solution | 3 |
@@ -476,7 +496,8 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DBYSbb4tNVs.md | care | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DB_ri59Nc9u.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBeXdJ_IuKA.md | create | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_DBlz342NrBa.md | what's | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DBiO85KNYaE.md | window | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DBlz342NrBa.md | I | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBrZUAQt617.md | personal brand | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBry83MtydP.md | step | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DBuFF8gtNR9.md | ChatGPT | 1 |

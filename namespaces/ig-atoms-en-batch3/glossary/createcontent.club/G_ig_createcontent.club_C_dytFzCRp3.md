@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["transcript", "Here's"]
+aka: ["transcript", "apps"]
 origin: sources/S_ig_createcontent.club_C_dytFzCRp3.md
 ---
 
@@ -14,7 +14,7 @@ This source is very short (36 words), so no term repeats enough for a frequency-
 ## Synonyms
 
 - transcript
-- Here's
+- apps
 
 ## Live Example
 

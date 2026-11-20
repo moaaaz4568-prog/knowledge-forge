@@ -9,7 +9,7 @@ origin: sources/S_ig_createcontent.club_C6rXnrYicGw.md
 
 ## Term
 
-questions is the most prominent repeated term in this source (135-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: create, hook, recalls. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+questions is the most prominent repeated term in this source (135-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: create, hook, growth. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 

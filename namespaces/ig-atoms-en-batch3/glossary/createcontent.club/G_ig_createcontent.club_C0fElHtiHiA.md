@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Number", "ideas"]
+aka: ["Number", "least"]
 origin: sources/S_ig_createcontent.club_C0fElHtiHiA.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0fElHtiHiA.md
 
 ## Term
 
-Number is the most prominent repeated term in this source (228-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: ideas, easier, consistent. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Number is the most prominent repeated term in this source (228-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: least, clear, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - Number
-- ideas
+- least
 
 ## Live Example
 

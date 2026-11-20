@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["fucking", "don't"]
+aka: ["fucking", "shut"]
 origin: sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
 
 ## Term
 
-fucking is the most prominent repeated term in this source (343-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: don't, shut, fuck. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+fucking is the most prominent repeated term in this source (343-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: shut, fuck, aligned. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - fucking
-- don't
+- shut
 
 ## Live Example
 

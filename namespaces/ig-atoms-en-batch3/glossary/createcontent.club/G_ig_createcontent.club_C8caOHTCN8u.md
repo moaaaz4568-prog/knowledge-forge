@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["lead magnet", "means"]
+aka: ["lead magnet", "audience"]
 origin: sources/S_ig_createcontent.club_C8caOHTCN8u.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C8caOHTCN8u.md
 
 ## Term
 
-lead magnet is the most prominent repeated term in this source (301-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: means, give, create. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+lead magnet is the most prominent repeated term in this source (301-word transcript from the Instagram account createcontent.club): it occurs 5 times literally in the text, most often collocated with: audience, means, give. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - lead magnet
-- means
+- audience
 
 ## Live Example
 

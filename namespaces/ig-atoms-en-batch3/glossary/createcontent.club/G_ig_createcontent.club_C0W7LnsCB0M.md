@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["information", "content"]
+aka: ["information", "synthesis"]
 origin: sources/S_ig_createcontent.club_C0W7LnsCB0M.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_C0W7LnsCB0M.md
 
 ## Term
 
-information is the most prominent repeated term in this source (165-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: content, creation, surrounded. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+information is the most prominent repeated term in this source (165-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: synthesis, boiling, matters. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - information
-- content
+- synthesis
 
 ## Live Example
 

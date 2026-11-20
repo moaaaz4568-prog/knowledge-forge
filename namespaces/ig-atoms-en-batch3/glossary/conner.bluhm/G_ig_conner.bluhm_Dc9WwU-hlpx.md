@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["team", "forget"]
+aka: ["team", "business"]
 origin: sources/S_ig_conner.bluhm_Dc9WwU-hlpx.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_conner.bluhm_Dc9WwU-hlpx.md
 
 ## Term
 
-team is the most prominent repeated term in this source (124-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: forget, business's, success. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+team is the most prominent repeated term in this source (124-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: business, forget, success. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - team
-- forget
+- business
 
 ## Live Example
 

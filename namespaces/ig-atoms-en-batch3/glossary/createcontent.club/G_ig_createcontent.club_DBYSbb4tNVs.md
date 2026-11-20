@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["care", "don't"]
+aka: ["care", "viewers"]
 origin: sources/S_ig_createcontent.club_DBYSbb4tNVs.md
 ---
 
@@ -9,12 +9,12 @@ origin: sources/S_ig_createcontent.club_DBYSbb4tNVs.md
 
 ## Term
 
-care is the most prominent repeated term in this source (162-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: don't, viewers, value. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+care is the most prominent repeated term in this source (162-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: viewers, value, provide. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
 
 ## Synonyms
 
 - care
-- don't
+- viewers
 
 ## Live Example
 
