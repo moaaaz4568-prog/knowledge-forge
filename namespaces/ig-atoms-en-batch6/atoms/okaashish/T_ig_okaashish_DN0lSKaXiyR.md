@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_okaashish_DN0lSKaXiyR.md
+location: instagram/okaashish
+---
+
+# T_DN0lSKaXiyR_01
+
+"Here's a genius humanizer prompt that makes any AI write more like human rather than a bot. Okay, if you're in a hurry, just come in prompt and you'll receive the prompt in the end. But if you're a learner, let's elaborate this. First, give any instruction to your AI, make it write an article, email or a speech." — sources/S_ig_okaashish_DN0lSKaXiyR.md
+
+# T_DN0lSKaXiyR_02
+
+"Then add this first section of keyboard guidelines that removes the em dashes. Then the anti-yapping guidelines that removes the yapping, and then words to remove to remove all those ChatGPT-ish words. Then the most important part, the human guidelines that trains the AI on how we humans think and express." — sources/S_ig_okaashish_DN0lSKaXiyR.md
+
+# T_DN0lSKaXiyR_03
+
+"Here's the output I got without this humanizer prompt and here's the output I got after this humanizer prompt. You can see the difference yourself. So follow because I share such techniques every day." — sources/S_ig_okaashish_DN0lSKaXiyR.md
