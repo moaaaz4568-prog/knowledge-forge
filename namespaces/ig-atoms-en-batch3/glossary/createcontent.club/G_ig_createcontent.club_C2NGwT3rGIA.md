@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: createcontent.club
+aka: ["attention", "possible"]
+origin: sources/S_ig_createcontent.club_C2NGwT3rGIA.md
+---
+
+# G_ig_createcontent.club_C2NGwT3rGIA — attention
+
+## Term
+
+attention is the most prominent repeated term in this source (142-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: possible, simple, there's. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- attention
+- possible
+
+## Live Example
+
+> "And all of this was possible because of one simple thing: attention. There's a reason why world-class celebrities are capable of earning billions through their personal brand—they have attention, a lot of it." — sources/S_ig_createcontent.club_C2NGwT3rGIA.md
+
+## When the Meaning Breaks
+
+- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
+- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
