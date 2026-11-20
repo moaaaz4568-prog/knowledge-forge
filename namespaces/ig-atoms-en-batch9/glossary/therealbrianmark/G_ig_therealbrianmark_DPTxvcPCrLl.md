@@ -1,0 +1,27 @@
+---
+type: glossary
+topic: therealbrianmark
+aka: [gonna, therealbrianmark account context]
+origin: sources/S_ig_therealbrianmark_DPTxvcPCrLl.md
+---
+
+# G_ig_therealbrianmark_DPTxvcPCrLl — gonna
+
+## Term
+
+"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, create, simple, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- gonna
+- therealbrianmark account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "But what if I told you there's only three things you need to focus on? Well, what the are they? First, pick a niche. That way the algorithm can learn your content and when people see your content, they're gonna feel like you're speaking specifically to them. And then second, you're gonna create a very simple offer. You're gonna charge $999 for a 12-week training nutrition program." — sources/S_ig_therealbrianmark_DPTxvcPCrLl.md
+> "You're gonna use Trainerize to build the programs, MyFitnessPal to build the meal plans, Stripe to collect the payments. And then and the third thing is you're gonna create content for that niche and you're gonna talk about that offer in your content. Wow, that's so good. Can I hire you to help me with this?" — sources/S_ig_therealbrianmark_DPTxvcPCrLl.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
