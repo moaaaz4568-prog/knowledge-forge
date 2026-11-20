@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thetravisstephenson_BlQD7CFl3Sx.md
+location: instagram/thetravisstephenson
+---
+
+# T_BlQD7CFl3Sx_01
+
+"So we made it to brunch. This place is amazing. First off, we just parked next to this crazy cool fish pond. But this place is huge. He said it's around 11 hectares, which is around 14, 15 acres. It is absolutely amazing, but you'll have to see as I walk around here a little. Check this out. This is the main building where they have multiple restaurants. In here, look at this." — sources/S_ig_thetravisstephenson_BlQD7CFl3Sx.md
+
+# T_BlQD7CFl3Sx_02
+
+"They have around 25 rooms. It's a hotel as well. And so this is like one of the areas where they have a room. Let's see if we can show you that. Yeah. But it's like amazing country hillside, like exactly what you would want from like going to a brunch like this. But I'll take you through the house here. You can see some of the architecture. Apparently this place is like world famous." — sources/S_ig_thetravisstephenson_BlQD7CFl3Sx.md
+
+# T_BlQD7CFl3Sx_03
+
+"We had no idea. Celebrities, Hollywood, you name it. It's kind of cool. So you can check out this building over here as well. I think it's a church." — sources/S_ig_thetravisstephenson_BlQD7CFl3Sx.md
