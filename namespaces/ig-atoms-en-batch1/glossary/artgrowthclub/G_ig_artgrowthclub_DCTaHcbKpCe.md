@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: artgrowthclub
+aka: [support, artgrowthclub account context]
+origin: sources/S_ig_artgrowthclub_DCTaHcbKpCe.md
+---
+
+# G_ig_artgrowthclub_DCTaHcbKpCe — support
+
+## Term
+
+"support" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lack, actually, people, time. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- support
+- artgrowthclub account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "That's why it's time to support small artists. Please get in the comments, tag artists, and let them know you see them, you support them, and you want them to keep going. Share this with as many people who need to know about this too." — sources/S_ig_artgrowthclub_DCTaHcbKpCe.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "support": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
