@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_therealbrianmark_C6OjpwjLFWE.md
+location: instagram/therealbrianmark
+---
+
+# T_C6OjpwjLFWE_01
+
+"Do you want to steal your viewers' attention so you can go viral? Then you need to know about the Pope in the pool. This concept originated in a screenplay where there was a pope swimming laps around a pool while somebody else in the scene was feeding the audience information and facts." — sources/S_ig_therealbrianmark_C6OjpwjLFWE.md
+
+# T_C6OjpwjLFWE_02
+
+"The audience was so mesmerized by the pope swimming laps around the pool that they didn't even realize that they were getting advertised to. We see this in today's day and age when you've got your favorite influencer that does a Q and A while she's doing her makeup." — sources/S_ig_therealbrianmark_C6OjpwjLFWE.md
+
+# T_C6OjpwjLFWE_03
+
+"So if your views suck donkey balls, maybe consider moving around a little bit in your frame instead of just sitting in your boring ass computer chair. Follow for more value." — sources/S_ig_therealbrianmark_C6OjpwjLFWE.md
