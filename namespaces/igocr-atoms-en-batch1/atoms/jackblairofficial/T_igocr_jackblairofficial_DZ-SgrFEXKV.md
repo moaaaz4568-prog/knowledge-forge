@@ -1,0 +1,34 @@
+---
+type: atom
+topic: instagram-ocr
+source: sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+location: instagram/jackblairofficial
+---
+
+# T_DZ-SgrFEXKV_01
+
+"YOU CAN BE THE BEST CLOSER IN THE BUILDING AND STILL HIT A CEILING SOMEONE ELSE BUILT. HERE'S THE MODEL THAT TAKES THE CEILING OFF: SWIPE <<<" — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_02
+
+"Jack Blair @jackblairofficial The hardest worker on the floor and the laziest both get the same comp plan. You can double your effort and still hit the same wall, because the wall was never about your effort. It was set the day you signed. Your ceiling was a decision someone made without you." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_03
+
+"Jack Blair @jackblairofficial There's a model where the math has no top. You keep a percentage of every deal you close. Better closer, bigger deals, bigger cut. Nobody re-rates you for being good at it. When you keep a slice of the deal, your ceiling moves when you do." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_04
+
+"Jack Blair @jackblairofficial It's called remote high ticket closing. Companies with $5K to $30K offers have more booked calls than people who can close them. They bring in closers who keep 10 to 30% of what they close. The offers already exist. The shortage is people who can close them." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_05
+
+"Jack Blair @jackblairofficial No leads to chase. No product to ship. No territory. The call is booked before you pick up. Your only job is the one thing you're already good at: getting a yes. You do the closing. They do everything else." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_06
+
+"Jack Blair @jackblairofficial You don't have to quit anything to find out. Build it on the side. Keep the paycheck until the math makes the decision obvious. The only thing you're risking is staying capped. The skill is already yours. This is just where it finally pays." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
+
+# T_DZ-SgrFEXKV_07
+
+"No degree. No quitting. Build it on the side until the math works. Comment REMOTE and I’ll DM you how it works. For people with 2+ years in commission sales. This is a training and placement program for remote closers, not a job listing." — sources/S_igocr_jackblairofficial_DZ-SgrFEXKV.md
