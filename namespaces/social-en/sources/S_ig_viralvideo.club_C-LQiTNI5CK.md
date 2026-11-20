@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "/home/hatch/workspace/instagram-reels-texts/transcripts/viralvideo.club/C-LQiTNI5CK.txt"
+words: 536
+sha1: 2be34e8238a10fb2cf9389cdfb9ca1313208a567
+lang: en
+account: viralvideo.club
+quality: transcript
+---
+
+# S_ig_viralvideo.club_C-LQiTNI5CK
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/transcripts/viralvideo.club/C-LQiTNI5CK.txt`
+
+Day two of trying to make three hundred thousand dollars in just thirty days without working like a maniac. Yesterday I spoke broadly about the challenge, my thoughts and worries about whether or not I'll be able to achieve it, and my general approach. Today I want to speak more about what I'm going to be doing, and also tell you a bit about what I'm going to be doing today specifically. So the plan for now is to build a waitlist. I didn't do it like this last time, and actually one of my anxieties or worries this time is that because we're doing things so differently this time, maybe it won't work. We knew what worked last time. Why are we changing it? That's a thought that comes up. The reason we're changing it is because I need something that's more efficient, that requires less of my time, because I've just had a baby. So I don't want to be working more than five hours if possible per day. We're going to first build an email list of people that we can contact. It's currently at six hundred and fifty people. I'm going to try and get that to about two thousand, three thousand. It's hard to say where I'm going to get it to because I haven't done this before, but two to three thousand people by next Friday. So that gives me seven days. And then they're going to get first dibs on the bootcamp when I actually do go to sell it. So the next week is just getting people to that waitlist. So until then, I'll be posting twice a day on both my Instagram and TikTok. I'll be posting on Threads multiple times a day. I'll post three times a week on LinkedIn. And I'll start ramping up the stories on Instagram as well, and potentially TikTok. I haven't considered it yet. This week I'm also sending out emails to my main email list, letting them know about the bootcamp and the waitlist, that they need to be on the waitlist if they want first dibs on a spot. And because we only have sixty spots available, there is a real limit, right? Like either you're one of the sixty or you miss out. And I have almost a million followers. I should hit a million followers this month total across platforms. So I think that gives an additional push or incentive to join sooner rather than later. So that's good. So that's what the waitlist is for. Though people on the waitlist get early access, they get first dibs on a spot. And then once that is done, then it will be moving into launch emails, like testimonials from the last launch, talking about the benefits, highlighting the different modules in the program, and just laying it all out there, talking about desires and fears and all the normal stuff you do in sales. That will all happen once we've built the waitlist. So after next Friday, it will move into sales. So that's what we're doing. So today I'm building out the landing page, getting stuff ready for the email campaign. I've already posted a bunch of.
