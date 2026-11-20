@@ -1,0 +1,26 @@
+---
+type: glossary
+topic: viralvideo.club
+aka: [paying, viralvideo.club account context]
+origin: sources/S_ig_viralvideo.club_CsORODYojsf.md
+---
+
+# G_ig_viralvideo.club_CsORODYojsf — paying
+
+## Term
+
+"paying" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: technologically, marketing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- paying
+- viralvideo.club account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "If you're in the market for a phone and you see this ad, you're almost certainly gonna question the quality of Apple products. They're not as advanced technologically. What am I paying for? Am I just paying for the marketing? For more." — sources/S_ig_viralvideo.club_CsORODYojsf.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "paying": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
