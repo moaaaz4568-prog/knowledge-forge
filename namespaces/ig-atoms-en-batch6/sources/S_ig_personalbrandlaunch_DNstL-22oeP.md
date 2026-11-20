@@ -1,0 +1,36 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "instagram-reels-texts/transcripts/personalbrandlaunch/DNstL-22oeP.txt"
+words: 192
+account: personalbrandlaunch
+lang: en
+quality: transcript
+---
+
+# S_ig_personalbrandlaunch_DNstL-22oeP
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `instagram-reels-texts/transcripts/personalbrandlaunch/DNstL-22oeP.txt` — حساب: personalbrandlaunch — إنستجرام — فيديو DNstL-22oeP
+
+---
+
+"Comparing videos with these same topic but in a hundred view hook"
+"All right."
+"Can we talk about one of the hardest things in marriage?"
+"A hundred thousand view hook."
+"Welcome to how to treat your pregnant wife or girlfriend, volume one."
+"And in a million view hook."
+"What do you do if you don't like your wife?"
+"A hundred view hook."
+"Hey y'all what are we gonna do so cook a easy cheap meal with me?"
+"A hundred thousand view hook."
+"Eating healthy is expensive. Here's how to meal prep lunches for the week with just twenty dollars."
+"A million view hook."
+"People think building muscle is expensive, but I'll show you how to do it for eight dollars a day."
+"A hundred view hook."
+"Here are the top Vanguard index funds that everyone should know about."
+"A hundred thousand view hook."
+"To every girl who ever thought, I don't know how to invest in a mutual fund, this video is for you."
+"A million view hook."
+"So if I were in my twenties or early thirties again, I would do this every single paycheck so I don't end up broke."

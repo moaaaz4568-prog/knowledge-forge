@@ -1,204 +1,211 @@
 # Index — sources/ (ig-atoms-en-batch6)
 
-Instagram English batch 6 (chat ig-atoms-en-batch6): 3,879 assigned codes (ig_nicolasboucherfinance_DV-o0DVEZH5 → ig_regaliscapital_DQj8qi_Dp-x), 579,423 words exactly, 14 accounts (top: personalbrandlaunch 1,371; okaashish 378; noevarner.ai 356; olli.rasmussen 341; peter.visuals 309; pdinbo 302; optimizedjake 252; onlyzita 229; nicolasboucherfinance 203). Every assigned code had its .txt in the public repo moaaaz4568-prog/instagram-reels-texts (machine-verified 3879/3879, 0 missing, 0 ambiguous); 186 codes excluded upstream by the user (already have atom files or in-flight elsewhere — not in this list, never worked here). Effective sources: 3684. Excluded: 195 sources with no quotable content of 40+ chars (whole text under 40 chars, or every span of that length sits across double-quote barriers so no literal quote without nested quotes exists, or the text is comma-list filler where any 40+ span ends with a comma and the comma-cut drops it under 40) — listed below with reasons; their S_ files removed as in batch2/batch3/batch4/batch7. All atoms/quotes are verbatim in the source language; nothing translated. Largest source ig_optimizedjake_DYRy_xMFMFP (809 words, sliding-window covered). Quotes fold whitespace (ws-fold byte-exact rule).
+Instagram English batch 6 (chat ig-atoms-en-batch6): 3,879 assigned codes (ig_nicolasboucherfinance_DV-o0DVEZH5 → ig_regaliscapital_DQj8qi_Dp-x), 579,423 words exactly, 14 accounts (top: personalbrandlaunch 1,371; okaashish 378; noevarner.ai 356; olli.rasmussen 341; peter.visuals 309; pdinbo 302; optimizedjake 252; onlyzita 229; nicolasboucherfinance 203). Every assigned code had its .txt in the public repo moaaaz4568-prog/instagram-reels-texts (machine-verified 3879/3879, 0 missing, 0 ambiguous); 186 codes excluded upstream by the user (already have atom files or in-flight elsewhere — not in this list, never worked here). Effective sources: 3876. FIX ROUND 2026-11-20 (ig-atoms-en-batch6-fix): the original run used a WRONG quoting rule (segments inside double quotes were ignored when measuring quotable spans), which wrongly excluded 192 sources whose quoted dialogue/monologue content is fully quotable under the rule proven in batches 1-5 and 7 (segments inside double quotes are as quotable as those outside). All 192 S_ files were restored byte-identical from foundation commit a44ad24fb and re-verified byte-for-byte against instagram-reels-texts/transcripts (192/192, 0 diffs; 33,446 words); their T_ files are produced in this round and they are no longer excluded. Remaining excluded: 3 sources (listed below with reasons); their S_ files stay removed. All atoms/quotes are verbatim in the source language; nothing translated. Largest source ig_optimizedjake_DYRy_xMFMFP (809 words, sliding-window covered). Quotes fold whitespace (ws-fold byte-exact rule).
 
 
-## Excluded (195)
+## Excluded (3)
 
 | Excluded code | Reason |
 |---|---|
 | ig_nidaa.elkheshen_DHJN5XANIlC | no quotable span >=40 chars (whole text 38 chars, longest quote-free segment 38) |
 | ig_noevarner.ai_DQUYiQsjYfj | no quotable span >=40 chars (whole text 62 chars, longest quote-free segment 33) |
-| ig_okaashish_DOQ1XXADwvr | no quotable span >=40 chars (whole text 225 chars, longest quote-free segment 225) |
-| ig_olli.rasmussen_DHLy0RBN_86 | no quotable span >=40 chars (whole text 1395 chars, longest quote-free segment 36) |
-| ig_olli.rasmussen_DHY8FdbgTey | no quotable span >=40 chars (whole text 850 chars, longest quote-free segment 34) |
-| ig_olli.rasmussen_DHdTDIgtBpw | no quotable span >=40 chars (whole text 479 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DHn-89vtvhW | no quotable span >=40 chars (whole text 670 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DIKCtdCgVI6 | no quotable span >=40 chars (whole text 1090 chars, longest quote-free segment 23) |
-| ig_olli.rasmussen_DIOjIgEtU9x | no quotable span >=40 chars (whole text 560 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DKkF7hTN22e | no quotable span >=40 chars (whole text 823 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DLSit5NNn_p | no quotable span >=40 chars (whole text 1035 chars, longest quote-free segment 33) |
-| ig_olli.rasmussen_DMQVXYFt0or | no quotable span >=40 chars (whole text 995 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DN55WTtjaAq | no quotable span >=40 chars (whole text 1432 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DND1h8WNGti | no quotable span >=40 chars (whole text 1613 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DNLy6dHtR88 | no quotable span >=40 chars (whole text 1318 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DNQxKn-sGHD | no quotable span >=40 chars (whole text 965 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DNYe_ejMboT | no quotable span >=40 chars (whole text 1569 chars, longest quote-free segment 27) |
-| ig_olli.rasmussen_DN_I_JXDCY7 | no quotable span >=40 chars (whole text 667 chars, longest quote-free segment 23) |
-| ig_olli.rasmussen_DOEMeoxDJu_ | no quotable span >=40 chars (whole text 1543 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DObXo93jI9J | no quotable span >=40 chars (whole text 734 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DOyxadTjWZ4 | no quotable span >=40 chars (whole text 502 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DP4ERtbAdws | no quotable span >=40 chars (whole text 1347 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DPZK83GATFH | no quotable span >=40 chars (whole text 564 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DR-E2uejWwB | no quotable span >=40 chars (whole text 1011 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DRkVgbjDD5u | no quotable span >=40 chars (whole text 156 chars, longest quote-free segment 29) |
-| ig_olli.rasmussen_DRph1mCjXSX | no quotable span >=40 chars (whole text 487 chars, longest quote-free segment 30) |
-| ig_olli.rasmussen_DT0j_NUDVXu | no quotable span >=40 chars (whole text 967 chars, longest quote-free segment 27) |
-| ig_olli.rasmussen_DTGK0-3DZ_K | no quotable span >=40 chars (whole text 910 chars, longest quote-free segment 35) |
 | ig_olli.rasmussen_DTN4qF1Da-3 | no quotable span >=40 chars (whole text 44 chars, longest quote-free segment 44) |
-| ig_olli.rasmussen_DTdWE_eDcGs | no quotable span >=40 chars (whole text 624 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DTf6m7Cjei4 | no quotable span >=40 chars (whole text 1413 chars, longest quote-free segment 21) |
-| ig_olli.rasmussen_DTnmGi3DMm6 | no quotable span >=40 chars (whole text 949 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DUGxv2EAIo_ | no quotable span >=40 chars (whole text 657 chars, longest quote-free segment 35) |
-| ig_olli.rasmussen_DUgQ_cQDWdG | no quotable span >=40 chars (whole text 767 chars, longest quote-free segment 38) |
-| ig_olli.rasmussen_DV6YaCtAJBr | no quotable span >=40 chars (whole text 967 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DVbnnZ4jTl_ | no quotable span >=40 chars (whole text 724 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_DWUe-xOB0m7 | no quotable span >=40 chars (whole text 601 chars, longest quote-free segment 30) |
-| ig_olli.rasmussen_DWXDxOvhzSw | no quotable span >=40 chars (whole text 611 chars, longest quote-free segment 34) |
-| ig_olli.rasmussen_DbvrS86gdWP | no quotable span >=40 chars (whole text 623 chars, longest quote-free segment 31) |
-| ig_olli.rasmussen_DcOsAtkgUyp | no quotable span >=40 chars (whole text 1207 chars, longest quote-free segment 36) |
-| ig_olli.rasmussen_DcWStBDAw83 | no quotable span >=40 chars (whole text 572 chars, longest quote-free segment 34) |
-| ig_olli.rasmussen_DcZBd2HgRoI | no quotable span >=40 chars (whole text 535 chars, longest quote-free segment 0) |
-| ig_olli.rasmussen_Dd9c0K9gVUl | no quotable span >=40 chars (whole text 531 chars, longest quote-free segment 34) |
-| ig_olli.rasmussen_DeATd9VAcik | no quotable span >=40 chars (whole text 818 chars, longest quote-free segment 34) |
-| ig_olli.rasmussen_DeCmJqHgfya | no quotable span >=40 chars (whole text 1231 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C-h3uydptUU | no quotable span >=40 chars (whole text 1064 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C0jbKBpORea | no quotable span >=40 chars (whole text 1170 chars, longest quote-free segment 35) |
-| ig_personalbrandlaunch_C40IskLOogd | no quotable span >=40 chars (whole text 809 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_C4TnlEkpX8f | no quotable span >=40 chars (whole text 883 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_C50hij6O4pj | no quotable span >=40 chars (whole text 732 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_C5GUb_iOVEV | no quotable span >=40 chars (whole text 1358 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_C5L_Ue3p-cv | no quotable span >=40 chars (whole text 1021 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_C5Q_Jwxrilk | no quotable span >=40 chars (whole text 842 chars, longest quote-free segment 26) |
-| ig_personalbrandlaunch_C5s_0VHL4Et | no quotable span >=40 chars (whole text 967 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_C6TciQoOqKr | no quotable span >=40 chars (whole text 788 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C6_SUpFuEmq | no quotable span >=40 chars (whole text 858 chars, longest quote-free segment 36) |
-| ig_personalbrandlaunch_C79AkbNO8eV | no quotable span >=40 chars (whole text 625 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_C7TpxTUORA6 | no quotable span >=40 chars (whole text 1064 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_C7ZB1BFukaz | no quotable span >=40 chars (whole text 492 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_C7wKyDUOZVZ | no quotable span >=40 chars (whole text 473 chars, longest quote-free segment 32) |
-| ig_personalbrandlaunch_C9ZtFhSRTnZ | no quotable span >=40 chars (whole text 806 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_C9r0n0hOUD- | no quotable span >=40 chars (whole text 848 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C_-zhBzpWL1 | no quotable span >=40 chars (whole text 787 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C_0T1DyJygl | no quotable span >=40 chars (whole text 1485 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_C_si_-DpLWc | no quotable span >=40 chars (whole text 1501 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_CuDcPwGM4Sr | no quotable span >=40 chars (whole text 748 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_CvcOSwYLWqo | no quotable span >=40 chars (whole text 781 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_Czd8-IrO9cz | no quotable span >=40 chars (whole text 611 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DAOcGJypNre | no quotable span >=40 chars (whole text 831 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DAQgUvEJd7k | no quotable span >=40 chars (whole text 940 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DATIRp8J9T_ | no quotable span >=40 chars (whole text 859 chars, longest quote-free segment 36) |
-| ig_personalbrandlaunch_DAVphsCpPhU | no quotable span >=40 chars (whole text 582 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DAY0y7lJ0nT | no quotable span >=40 chars (whole text 637 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DAjcWrySZY- | no quotable span >=40 chars (whole text 819 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DAmBLoRyEB- | no quotable span >=40 chars (whole text 1102 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DAsxcxOpdoP | no quotable span >=40 chars (whole text 1064 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DAxzBcoxN9r | no quotable span >=40 chars (whole text 883 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DAyi4MpSm1y | no quotable span >=40 chars (whole text 620 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DB1MoyTpitA | no quotable span >=40 chars (whole text 909 chars, longest quote-free segment 35) |
-| ig_personalbrandlaunch_DBFJymEpw-b | no quotable span >=40 chars (whole text 416 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DBPOHzaSwYx | no quotable span >=40 chars (whole text 951 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DBrVyi8JPx5 | no quotable span >=40 chars (whole text 1210 chars, longest quote-free segment 31) |
-| ig_personalbrandlaunch_DC9Spi-R0QL | no quotable span >=40 chars (whole text 1004 chars, longest quote-free segment 38) |
-| ig_personalbrandlaunch_DDW-vqkOLz2 | no quotable span >=40 chars (whole text 812 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DDclKHERzoy | no quotable span >=40 chars (whole text 500 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DE23ZvRNi7D | no quotable span >=40 chars (whole text 530 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DEXVKHVs4_v | no quotable span >=40 chars (whole text 2537 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DEfGRxLJZ4y | no quotable span >=40 chars (whole text 1068 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DEujz2tgU0d | no quotable span >=40 chars (whole text 674 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DEzuSojNYlF | no quotable span >=40 chars (whole text 642 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DF7yAnUt9YH | no quotable span >=40 chars (whole text 592 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DG8y67PPagD | no quotable span >=40 chars (whole text 822 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DGnbY3LRHX- | no quotable span >=40 chars (whole text 1738 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DHI8OyuPsgf | no quotable span >=40 chars (whole text 1090 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DHOFK8ssZ9W | no quotable span >=40 chars (whole text 1450 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DHOkv1agb0p | no quotable span >=40 chars (whole text 1497 chars, longest quote-free segment 36) |
-| ig_personalbrandlaunch_DHa_V1SPBgG | no quotable span >=40 chars (whole text 1064 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DHoUjJGvzjQ | no quotable span >=40 chars (whole text 882 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DI6NI_tvnni | no quotable span >=40 chars (whole text 931 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DIBktmUt-cY | no quotable span >=40 chars (whole text 530 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DIJTua1u87i | no quotable span >=40 chars (whole text 568 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DIReTwEsgOe | no quotable span >=40 chars (whole text 672 chars, longest quote-free segment 38) |
-| ig_personalbrandlaunch_DIWp0sAPo9H | no quotable span >=40 chars (whole text 757 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DIeb_QTtv1c | no quotable span >=40 chars (whole text 1082 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DJ1XbzGMKCC | no quotable span >=40 chars (whole text 580 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DJ9r_ffs2Q6 | no quotable span >=40 chars (whole text 731 chars, longest quote-free segment 28) |
-| ig_personalbrandlaunch_DJCh4cDs7Vh | no quotable span >=40 chars (whole text 509 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DJRRSaxpRpE | no quotable span >=40 chars (whole text 893 chars, longest quote-free segment 31) |
-| ig_personalbrandlaunch_DJUcCW5vFCP | no quotable span >=40 chars (whole text 818 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DJbo8L0NA6l | no quotable span >=40 chars (whole text 1204 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DK48S4QOSFh | no quotable span >=40 chars (whole text 1222 chars, longest quote-free segment 35) |
-| ig_personalbrandlaunch_DKR0I03sLSU | no quotable span >=40 chars (whole text 749 chars, longest quote-free segment 28) |
-| ig_personalbrandlaunch_DLDO_kvOcz8 | no quotable span >=40 chars (whole text 657 chars, longest quote-free segment 31) |
-| ig_personalbrandlaunch_DLFvncEv4ns | no quotable span >=40 chars (whole text 732 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DLKPf28saae | no quotable span >=40 chars (whole text 467 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DLmnYEKvWtS | no quotable span >=40 chars (whole text 1236 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DMnEXskMDo5 | no quotable span >=40 chars (whole text 752 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DNdMiDsRLsQ | no quotable span >=40 chars (whole text 1025 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DNstL-22oeP | no quotable span >=40 chars (whole text 1039 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DOTN0UQDC-B | no quotable span >=40 chars (whole text 617 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DOY37MijXoH | no quotable span >=40 chars (whole text 820 chars, longest quote-free segment 38) |
-| ig_personalbrandlaunch_DOlPXVSEotx | no quotable span >=40 chars (whole text 978 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DOn0HopjZab | no quotable span >=40 chars (whole text 1140 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DOtdCJnjeRM | no quotable span >=40 chars (whole text 902 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DP1hcaCjRQe | no quotable span >=40 chars (whole text 717 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DPCJ0nmjkCc | no quotable span >=40 chars (whole text 532 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DPL1_kojaTY | no quotable span >=40 chars (whole text 888 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DPd68UjjZDV | no quotable span >=40 chars (whole text 1034 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DQ9xO2iju83 | no quotable span >=40 chars (whole text 1465 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DQt1panjV5T | no quotable span >=40 chars (whole text 601 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DRATNAmjuz5 | no quotable span >=40 chars (whole text 1615 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DS2xpRbjudY | no quotable span >=40 chars (whole text 983 chars, longest quote-free segment 36) |
-| ig_personalbrandlaunch_DS79xO-jqHK | no quotable span >=40 chars (whole text 708 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DSfHVNyjdpZ | no quotable span >=40 chars (whole text 545 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DSpa0H1jkjJ | no quotable span >=40 chars (whole text 1270 chars, longest quote-free segment 35) |
-| ig_personalbrandlaunch_DTVMBy7kTZU | no quotable span >=40 chars (whole text 1153 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DTaWqvqDZ6t | no quotable span >=40 chars (whole text 999 chars, longest quote-free segment 32) |
-| ig_personalbrandlaunch_DTnNpZCFfeV | no quotable span >=40 chars (whole text 1631 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DTsXPYvjYyM | no quotable span >=40 chars (whole text 1151 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DU0dm8qDflf | no quotable span >=40 chars (whole text 2228 chars, longest quote-free segment 26) |
-| ig_personalbrandlaunch_DUBvyjLEtFF | no quotable span >=40 chars (whole text 1131 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DUDi_x3DT-c | no quotable span >=40 chars (whole text 215 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DUGHeJ6DnMT | no quotable span >=40 chars (whole text 642 chars, longest quote-free segment 22) |
-| ig_personalbrandlaunch_DUVkDJLDtqM | no quotable span >=40 chars (whole text 502 chars, longest quote-free segment 31) |
-| ig_personalbrandlaunch_DUdSWlJEbCK | no quotable span >=40 chars (whole text 1002 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DUlMR_AjlpU | no quotable span >=40 chars (whole text 1570 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DVOwK7gDjYe | no quotable span >=40 chars (whole text 645 chars, longest quote-free segment 3) |
-| ig_personalbrandlaunch_DVZAgskjpQK | no quotable span >=40 chars (whole text 888 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DVgs53qDjh7 | no quotable span >=40 chars (whole text 611 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DVjlKwqFPxI | no quotable span >=40 chars (whole text 807 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DVlYjf3kRyG | no quotable span >=40 chars (whole text 662 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DVlz--mEXwU | no quotable span >=40 chars (whole text 588 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DW4cM9ejfl5 | no quotable span >=40 chars (whole text 990 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DW81QAMDR4i | no quotable span >=40 chars (whole text 2072 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DWMpsfNBksm | no quotable span >=40 chars (whole text 892 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DWUYjHal4XN | no quotable span >=40 chars (whole text 873 chars, longest quote-free segment 35) |
-| ig_personalbrandlaunch_DWW9gYkjQH8 | no quotable span >=40 chars (whole text 763 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DWlqPQRGLKy | no quotable span >=40 chars (whole text 1327 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DWv8vVjBRVy | no quotable span >=40 chars (whole text 958 chars, longest quote-free segment 39) |
-| ig_personalbrandlaunch_DWzRs7ZD1wi | no quotable span >=40 chars (whole text 1283 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DX9Sj-HO89h | no quotable span >=40 chars (whole text 1869 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DXB-TvYB6ZT | no quotable span >=40 chars (whole text 578 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_DXEjuFijUm_ | no quotable span >=40 chars (whole text 1856 chars, longest quote-free segment 38) |
-| ig_personalbrandlaunch_DXH8jxUlSGV | no quotable span >=40 chars (whole text 1056 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DXO2pxSjHvx | no quotable span >=40 chars (whole text 1809 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DXRbBwaBIUy | no quotable span >=40 chars (whole text 538 chars, longest quote-free segment 31) |
-| ig_personalbrandlaunch_DXZ7EyPD_q9 | no quotable span >=40 chars (whole text 604 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DXeTlE5DQlO | no quotable span >=40 chars (whole text 639 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DXjcqSjB_wa | no quotable span >=40 chars (whole text 1095 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DXmBeuBBLN1 | no quotable span >=40 chars (whole text 1141 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DY12vGYvi7J | no quotable span >=40 chars (whole text 768 chars, longest quote-free segment 23) |
-| ig_personalbrandlaunch_DYZhUANBb7Z | no quotable span >=40 chars (whole text 674 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DYj0imohYWv | no quotable span >=40 chars (whole text 1119 chars, longest quote-free segment 23) |
-| ig_personalbrandlaunch_DZ5mFb9slKT | no quotable span >=40 chars (whole text 621 chars, longest quote-free segment 7) |
-| ig_personalbrandlaunch_DZcdwj4hvg2 | no quotable span >=40 chars (whole text 2250 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DZzpJojhoIy | no quotable span >=40 chars (whole text 1894 chars, longest quote-free segment 23) |
-| ig_personalbrandlaunch_DanJqYNBzMx | no quotable span >=40 chars (whole text 2057 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DasSnU3BNi5 | no quotable span >=40 chars (whole text 1669 chars, longest quote-free segment 25) |
-| ig_personalbrandlaunch_DavoOY4sgUI | no quotable span >=40 chars (whole text 828 chars, longest quote-free segment 9) |
-| ig_personalbrandlaunch_DaxccxlBfwP | no quotable span >=40 chars (whole text 1150 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_Db0Y5PXhovw | no quotable span >=40 chars (whole text 1151 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DbY0P6PhSDy | no quotable span >=40 chars (whole text 1158 chars, longest quote-free segment 4) |
-| ig_personalbrandlaunch_DcEl0BfDAaw | no quotable span >=40 chars (whole text 792 chars, longest quote-free segment 0) |
-| ig_personalbrandlaunch_DcJAEDjPFae | no quotable span >=40 chars (whole text 1287 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_DcQul5fuTTU | no quotable span >=40 chars (whole text 799 chars, longest quote-free segment 33) |
-| ig_personalbrandlaunch_Dc_EKEeBVHw | no quotable span >=40 chars (whole text 979 chars, longest quote-free segment 23) |
-| ig_personalbrandlaunch_Dctyu3upbMK | no quotable span >=40 chars (whole text 954 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_Dcy9gHlAzaF | no quotable span >=40 chars (whole text 1253 chars, longest quote-free segment 34) |
-| ig_personalbrandlaunch_DczUGmgoBmh | no quotable span >=40 chars (whole text 2075 chars, longest quote-free segment 30) |
-| ig_personalbrandlaunch_Dd1JXyKyASb | no quotable span >=40 chars (whole text 878 chars, longest quote-free segment 28) |
-| ig_personalbrandlaunch_DdE_SfwRFuW | no quotable span >=40 chars (whole text 2028 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DdJXWjyhT4U | no quotable span >=40 chars (whole text 527 chars, longest quote-free segment 28) |
-| ig_personalbrandlaunch_DdR1nxYoI7R | no quotable span >=40 chars (whole text 773 chars, longest quote-free segment 29) |
-| ig_personalbrandlaunch_DdZj9Pfm96n | no quotable span >=40 chars (whole text 760 chars, longest quote-free segment 37) |
-| ig_personalbrandlaunch_DdmcdOgBUP0 | no quotable span >=40 chars (whole text 745 chars, longest quote-free segment 0) |
+
+## Fixed in fix round 2026-11-20 (192 — wrongly excluded by the old
+wrong rule, now restored with T_ files; S_ restored byte-identical from
+commit a44ad24fb)
+
+| Code | Status |
+|---|---|
+| ig_okaashish_DOQ1XXADwvr | fixed — T_ file exists |
+| ig_olli.rasmussen_DHLy0RBN_86 | fixed — T_ file exists |
+| ig_olli.rasmussen_DHY8FdbgTey | fixed — T_ file exists |
+| ig_olli.rasmussen_DHdTDIgtBpw | fixed — T_ file exists |
+| ig_olli.rasmussen_DHn-89vtvhW | fixed — T_ file exists |
+| ig_olli.rasmussen_DIKCtdCgVI6 | fixed — T_ file exists |
+| ig_olli.rasmussen_DIOjIgEtU9x | fixed — T_ file exists |
+| ig_olli.rasmussen_DKkF7hTN22e | fixed — T_ file exists |
+| ig_olli.rasmussen_DLSit5NNn_p | fixed — T_ file exists |
+| ig_olli.rasmussen_DMQVXYFt0or | fixed — T_ file exists |
+| ig_olli.rasmussen_DN55WTtjaAq | fixed — T_ file exists |
+| ig_olli.rasmussen_DND1h8WNGti | fixed — T_ file exists |
+| ig_olli.rasmussen_DNLy6dHtR88 | fixed — T_ file exists |
+| ig_olli.rasmussen_DNQxKn-sGHD | fixed — T_ file exists |
+| ig_olli.rasmussen_DNYe_ejMboT | fixed — T_ file exists |
+| ig_olli.rasmussen_DN_I_JXDCY7 | fixed — T_ file exists |
+| ig_olli.rasmussen_DOEMeoxDJu_ | fixed — T_ file exists |
+| ig_olli.rasmussen_DObXo93jI9J | fixed — T_ file exists |
+| ig_olli.rasmussen_DOyxadTjWZ4 | fixed — T_ file exists |
+| ig_olli.rasmussen_DP4ERtbAdws | fixed — T_ file exists |
+| ig_olli.rasmussen_DPZK83GATFH | fixed — T_ file exists |
+| ig_olli.rasmussen_DR-E2uejWwB | fixed — T_ file exists |
+| ig_olli.rasmussen_DRkVgbjDD5u | fixed — T_ file exists |
+| ig_olli.rasmussen_DRph1mCjXSX | fixed — T_ file exists |
+| ig_olli.rasmussen_DT0j_NUDVXu | fixed — T_ file exists |
+| ig_olli.rasmussen_DTGK0-3DZ_K | fixed — T_ file exists |
+| ig_olli.rasmussen_DTdWE_eDcGs | fixed — T_ file exists |
+| ig_olli.rasmussen_DTf6m7Cjei4 | fixed — T_ file exists |
+| ig_olli.rasmussen_DTnmGi3DMm6 | fixed — T_ file exists |
+| ig_olli.rasmussen_DUGxv2EAIo_ | fixed — T_ file exists |
+| ig_olli.rasmussen_DUgQ_cQDWdG | fixed — T_ file exists |
+| ig_olli.rasmussen_DV6YaCtAJBr | fixed — T_ file exists |
+| ig_olli.rasmussen_DVbnnZ4jTl_ | fixed — T_ file exists |
+| ig_olli.rasmussen_DWUe-xOB0m7 | fixed — T_ file exists |
+| ig_olli.rasmussen_DWXDxOvhzSw | fixed — T_ file exists |
+| ig_olli.rasmussen_DbvrS86gdWP | fixed — T_ file exists |
+| ig_olli.rasmussen_DcOsAtkgUyp | fixed — T_ file exists |
+| ig_olli.rasmussen_DcWStBDAw83 | fixed — T_ file exists |
+| ig_olli.rasmussen_DcZBd2HgRoI | fixed — T_ file exists |
+| ig_olli.rasmussen_Dd9c0K9gVUl | fixed — T_ file exists |
+| ig_olli.rasmussen_DeATd9VAcik | fixed — T_ file exists |
+| ig_olli.rasmussen_DeCmJqHgfya | fixed — T_ file exists |
+| ig_personalbrandlaunch_C-h3uydptUU | fixed — T_ file exists |
+| ig_personalbrandlaunch_C0jbKBpORea | fixed — T_ file exists |
+| ig_personalbrandlaunch_C40IskLOogd | fixed — T_ file exists |
+| ig_personalbrandlaunch_C4TnlEkpX8f | fixed — T_ file exists |
+| ig_personalbrandlaunch_C50hij6O4pj | fixed — T_ file exists |
+| ig_personalbrandlaunch_C5GUb_iOVEV | fixed — T_ file exists |
+| ig_personalbrandlaunch_C5L_Ue3p-cv | fixed — T_ file exists |
+| ig_personalbrandlaunch_C5Q_Jwxrilk | fixed — T_ file exists |
+| ig_personalbrandlaunch_C5s_0VHL4Et | fixed — T_ file exists |
+| ig_personalbrandlaunch_C6TciQoOqKr | fixed — T_ file exists |
+| ig_personalbrandlaunch_C6_SUpFuEmq | fixed — T_ file exists |
+| ig_personalbrandlaunch_C79AkbNO8eV | fixed — T_ file exists |
+| ig_personalbrandlaunch_C7TpxTUORA6 | fixed — T_ file exists |
+| ig_personalbrandlaunch_C7ZB1BFukaz | fixed — T_ file exists |
+| ig_personalbrandlaunch_C7wKyDUOZVZ | fixed — T_ file exists |
+| ig_personalbrandlaunch_C9ZtFhSRTnZ | fixed — T_ file exists |
+| ig_personalbrandlaunch_C9r0n0hOUD- | fixed — T_ file exists |
+| ig_personalbrandlaunch_C_-zhBzpWL1 | fixed — T_ file exists |
+| ig_personalbrandlaunch_C_0T1DyJygl | fixed — T_ file exists |
+| ig_personalbrandlaunch_C_si_-DpLWc | fixed — T_ file exists |
+| ig_personalbrandlaunch_CuDcPwGM4Sr | fixed — T_ file exists |
+| ig_personalbrandlaunch_CvcOSwYLWqo | fixed — T_ file exists |
+| ig_personalbrandlaunch_Czd8-IrO9cz | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAOcGJypNre | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAQgUvEJd7k | fixed — T_ file exists |
+| ig_personalbrandlaunch_DATIRp8J9T_ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAVphsCpPhU | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAY0y7lJ0nT | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAjcWrySZY- | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAmBLoRyEB- | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAsxcxOpdoP | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAxzBcoxN9r | fixed — T_ file exists |
+| ig_personalbrandlaunch_DAyi4MpSm1y | fixed — T_ file exists |
+| ig_personalbrandlaunch_DB1MoyTpitA | fixed — T_ file exists |
+| ig_personalbrandlaunch_DBFJymEpw-b | fixed — T_ file exists |
+| ig_personalbrandlaunch_DBPOHzaSwYx | fixed — T_ file exists |
+| ig_personalbrandlaunch_DBrVyi8JPx5 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DC9Spi-R0QL | fixed — T_ file exists |
+| ig_personalbrandlaunch_DDW-vqkOLz2 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DDclKHERzoy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DE23ZvRNi7D | fixed — T_ file exists |
+| ig_personalbrandlaunch_DEXVKHVs4_v | fixed — T_ file exists |
+| ig_personalbrandlaunch_DEfGRxLJZ4y | fixed — T_ file exists |
+| ig_personalbrandlaunch_DEujz2tgU0d | fixed — T_ file exists |
+| ig_personalbrandlaunch_DEzuSojNYlF | fixed — T_ file exists |
+| ig_personalbrandlaunch_DF7yAnUt9YH | fixed — T_ file exists |
+| ig_personalbrandlaunch_DG8y67PPagD | fixed — T_ file exists |
+| ig_personalbrandlaunch_DGnbY3LRHX- | fixed — T_ file exists |
+| ig_personalbrandlaunch_DHI8OyuPsgf | fixed — T_ file exists |
+| ig_personalbrandlaunch_DHOFK8ssZ9W | fixed — T_ file exists |
+| ig_personalbrandlaunch_DHOkv1agb0p | fixed — T_ file exists |
+| ig_personalbrandlaunch_DHa_V1SPBgG | fixed — T_ file exists |
+| ig_personalbrandlaunch_DHoUjJGvzjQ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DI6NI_tvnni | fixed — T_ file exists |
+| ig_personalbrandlaunch_DIBktmUt-cY | fixed — T_ file exists |
+| ig_personalbrandlaunch_DIJTua1u87i | fixed — T_ file exists |
+| ig_personalbrandlaunch_DIReTwEsgOe | fixed — T_ file exists |
+| ig_personalbrandlaunch_DIWp0sAPo9H | fixed — T_ file exists |
+| ig_personalbrandlaunch_DIeb_QTtv1c | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJ1XbzGMKCC | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJ9r_ffs2Q6 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJCh4cDs7Vh | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJRRSaxpRpE | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJUcCW5vFCP | fixed — T_ file exists |
+| ig_personalbrandlaunch_DJbo8L0NA6l | fixed — T_ file exists |
+| ig_personalbrandlaunch_DK48S4QOSFh | fixed — T_ file exists |
+| ig_personalbrandlaunch_DKR0I03sLSU | fixed — T_ file exists |
+| ig_personalbrandlaunch_DLDO_kvOcz8 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DLFvncEv4ns | fixed — T_ file exists |
+| ig_personalbrandlaunch_DLKPf28saae | fixed — T_ file exists |
+| ig_personalbrandlaunch_DLmnYEKvWtS | fixed — T_ file exists |
+| ig_personalbrandlaunch_DMnEXskMDo5 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DNdMiDsRLsQ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DNstL-22oeP | fixed — T_ file exists |
+| ig_personalbrandlaunch_DOTN0UQDC-B | fixed — T_ file exists |
+| ig_personalbrandlaunch_DOY37MijXoH | fixed — T_ file exists |
+| ig_personalbrandlaunch_DOlPXVSEotx | fixed — T_ file exists |
+| ig_personalbrandlaunch_DOn0HopjZab | fixed — T_ file exists |
+| ig_personalbrandlaunch_DOtdCJnjeRM | fixed — T_ file exists |
+| ig_personalbrandlaunch_DP1hcaCjRQe | fixed — T_ file exists |
+| ig_personalbrandlaunch_DPCJ0nmjkCc | fixed — T_ file exists |
+| ig_personalbrandlaunch_DPL1_kojaTY | fixed — T_ file exists |
+| ig_personalbrandlaunch_DPd68UjjZDV | fixed — T_ file exists |
+| ig_personalbrandlaunch_DQ9xO2iju83 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DQt1panjV5T | fixed — T_ file exists |
+| ig_personalbrandlaunch_DRATNAmjuz5 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DS2xpRbjudY | fixed — T_ file exists |
+| ig_personalbrandlaunch_DS79xO-jqHK | fixed — T_ file exists |
+| ig_personalbrandlaunch_DSfHVNyjdpZ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DSpa0H1jkjJ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DTVMBy7kTZU | fixed — T_ file exists |
+| ig_personalbrandlaunch_DTaWqvqDZ6t | fixed — T_ file exists |
+| ig_personalbrandlaunch_DTnNpZCFfeV | fixed — T_ file exists |
+| ig_personalbrandlaunch_DTsXPYvjYyM | fixed — T_ file exists |
+| ig_personalbrandlaunch_DU0dm8qDflf | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUBvyjLEtFF | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUDi_x3DT-c | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUGHeJ6DnMT | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUVkDJLDtqM | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUdSWlJEbCK | fixed — T_ file exists |
+| ig_personalbrandlaunch_DUlMR_AjlpU | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVOwK7gDjYe | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVZAgskjpQK | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVgs53qDjh7 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVjlKwqFPxI | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVlYjf3kRyG | fixed — T_ file exists |
+| ig_personalbrandlaunch_DVlz--mEXwU | fixed — T_ file exists |
+| ig_personalbrandlaunch_DW4cM9ejfl5 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DW81QAMDR4i | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWMpsfNBksm | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWUYjHal4XN | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWW9gYkjQH8 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWlqPQRGLKy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWv8vVjBRVy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DWzRs7ZD1wi | fixed — T_ file exists |
+| ig_personalbrandlaunch_DX9Sj-HO89h | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXB-TvYB6ZT | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXEjuFijUm_ | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXH8jxUlSGV | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXO2pxSjHvx | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXRbBwaBIUy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXZ7EyPD_q9 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXeTlE5DQlO | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXjcqSjB_wa | fixed — T_ file exists |
+| ig_personalbrandlaunch_DXmBeuBBLN1 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DY12vGYvi7J | fixed — T_ file exists |
+| ig_personalbrandlaunch_DYZhUANBb7Z | fixed — T_ file exists |
+| ig_personalbrandlaunch_DYj0imohYWv | fixed — T_ file exists |
+| ig_personalbrandlaunch_DZ5mFb9slKT | fixed — T_ file exists |
+| ig_personalbrandlaunch_DZcdwj4hvg2 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DZzpJojhoIy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DanJqYNBzMx | fixed — T_ file exists |
+| ig_personalbrandlaunch_DasSnU3BNi5 | fixed — T_ file exists |
+| ig_personalbrandlaunch_DavoOY4sgUI | fixed — T_ file exists |
+| ig_personalbrandlaunch_DaxccxlBfwP | fixed — T_ file exists |
+| ig_personalbrandlaunch_Db0Y5PXhovw | fixed — T_ file exists |
+| ig_personalbrandlaunch_DbY0P6PhSDy | fixed — T_ file exists |
+| ig_personalbrandlaunch_DcEl0BfDAaw | fixed — T_ file exists |
+| ig_personalbrandlaunch_DcJAEDjPFae | fixed — T_ file exists |
+| ig_personalbrandlaunch_DcQul5fuTTU | fixed — T_ file exists |
+| ig_personalbrandlaunch_Dc_EKEeBVHw | fixed — T_ file exists |
+| ig_personalbrandlaunch_Dctyu3upbMK | fixed — T_ file exists |
+| ig_personalbrandlaunch_Dcy9gHlAzaF | fixed — T_ file exists |
+| ig_personalbrandlaunch_DczUGmgoBmh | fixed — T_ file exists |
+| ig_personalbrandlaunch_Dd1JXyKyASb | fixed — T_ file exists |
+| ig_personalbrandlaunch_DdE_SfwRFuW | fixed — T_ file exists |
+| ig_personalbrandlaunch_DdJXWjyhT4U | fixed — T_ file exists |
+| ig_personalbrandlaunch_DdR1nxYoI7R | fixed — T_ file exists |
+| ig_personalbrandlaunch_DdZj9Pfm96n | fixed — T_ file exists |
+| ig_personalbrandlaunch_DdmcdOgBUP0 | fixed — T_ file exists |
