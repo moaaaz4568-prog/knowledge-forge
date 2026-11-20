@@ -18,7 +18,7 @@ instead is the most prominent repeated term in this source (90-word transcript f
 
 ## Live Example
 
-> "instead. This makes people way more invested in your content because you're talking directly to them instead of talking about yourself." — sources/S_ig_createcontent.club_DD6byzkt0l_.md
+> "This makes people way more invested in your content because you're talking directly to them instead of talking about yourself. For example, instead of saying" — sources/S_ig_createcontent.club_DD6byzkt0l_.md
 
 ## When the Meaning Breaks
 

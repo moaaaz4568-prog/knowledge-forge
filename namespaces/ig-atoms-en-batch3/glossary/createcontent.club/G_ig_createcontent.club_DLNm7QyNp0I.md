@@ -18,6 +18,7 @@ thousands is the most prominent repeated term in this source (184-word transcrip
 
 ## Live Example
 
+> "yeah, I spend thousands in ads to get more" — sources/S_ig_createcontent.club_DLNm7QyNp0I.md
 > "who don't really trust you—than take a few hours per week to make content that can reach millions of people for free... and get literally thousands of warm leads coming to you? Doesn't sound like a great deal to me. So, just leaving it there. We actually filmed a five-hour training we did for a $3 billion company teaching them exactly how to make content that actually works." — sources/S_ig_createcontent.club_DLNm7QyNp0I.md
 
 ## When the Meaning Breaks

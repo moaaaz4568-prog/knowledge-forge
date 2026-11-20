@@ -20,6 +20,7 @@ camera is the most prominent repeated term in this source (224-word transcript f
 
 > "you find it hard to talk to the camera, you can try this trick. It's the same one we teach all of our students, and that allows us to create twenty-minute long unscripted videos with ease." — sources/S_ig_createcontent.club_DGDPF2JNKon.md
 > "have to do is this one simple exercise that will take you no longer than ten minutes per day, and you'll be able to not only talk to the camera but improve your communication and become a better and more effective speaker. Take out your phone every day and record a simple five-minute" — sources/S_ig_createcontent.club_DGDPF2JNKon.md
+> "can take to master talking at the camera, comment" — sources/S_ig_createcontent.club_DGDPF2JNKon.md
 
 ## When the Meaning Breaks
 

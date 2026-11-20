@@ -19,6 +19,7 @@ grade is the most prominent repeated term in this source (127-word transcript fr
 ## Live Example
 
 > "It's scientifically proven that the average person reads at a sixth-grade level. So if you sound too smart, you lose them. To fix it, do this: copy your script and paste it inside of this website. Now click on this button to check the grade level of your script. It should never be above sixth grade." — sources/S_ig_createcontent.club_DHE30iUNiU4.md
+> "script is X grade level; make it fifth grade without changing the" — sources/S_ig_createcontent.club_DHE30iUNiU4.md
 
 ## When the Meaning Breaks
 

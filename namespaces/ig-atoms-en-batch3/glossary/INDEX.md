@@ -1,6 +1,6 @@
 # Index â€” glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 996 glossary files, 1972 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 1000 glossary files, 1987 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -637,7 +637,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DFyQc2itCy0.md | viral | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGAdD60tBtl.md | showing | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGBgneENETC.md | captions | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_DGDPF2JNKon.md | camera | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DGDPF2JNKon.md | camera | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGF4W78N05E.md | watermarks | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGJAis8t4UK.md | content | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGJBB9UNrOv.md | settings | 2 |
@@ -660,13 +660,14 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DGc48Zythy2.md | content | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGgah7XN6o3.md | twenty | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGjTwi8tRxy.md | mean | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DGlj5rDtgg9.md | AI | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGql4Vbt1Tg.md | segment | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DGttdtYtggl.md | Step | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DH1Dfj1NUYi.md | glasses | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DH3Y6ivN6VU.md | AI | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DH9GQpEt-4d.md | Step | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DH9IjInN5-3.md | listening | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_DHE30iUNiU4.md | grade | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DHE30iUNiU4.md | grade | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHIerivtqYv.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHL9B2itaKP.md | Truth number | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHL9sitNTiw.md | strategy | 1 |
@@ -688,6 +689,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DHhJ_FUN2fh.md | Number | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHhKiswtJO8.md | million | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHjuPOONEoo.md | stories | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_DHjucUNtG4l.md | Kimi | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHnSCROt_Sj.md | account | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHrXXmRN4N_.md | qualified | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DHvAetgt5QQ.md | Number | 3 |
@@ -719,6 +721,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DIZrIYTNzt2.md | leads | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DIcQmantKjh.md | sales | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DIcTumVNwOA.md | use | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_DIf7DqEtoE5.md | transcript | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DIf7nt7N0Iq.md | talking | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DIitzTvt6xs.md | per | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DIivz86NCJn.md | list | 1 |
@@ -796,7 +799,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DLKzJwHtthz.md | seeing results | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLNcYMktOyK.md | millionaires | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLNdHu9NVCh.md | every | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_DLNm7QyNp0I.md | thousands | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DLNm7QyNp0I.md | thousands | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLQaTJctfos.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLQboStt4mk.md | exact | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLUDHLpNh2v.md | content | 3 |
@@ -819,6 +822,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DLpqQbMNw4B.md | camera | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLr0Qv8tmRX.md | adjustments | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLsIB4XtKe5.md | viral | 3 |
+| glossary/createcontent.club/G_ig_createcontent.club_DLsJATzNV7G.md | editing | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLuGf0ENtBK.md | stories | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLuw84otAkJ.md | formats | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DLvZ7bptrG6.md | give | 3 |
@@ -889,7 +893,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DNt6NGmWmmN.md | average | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DNyT6GyWq_a.md | stories | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DO0bHjBj163.md | structure | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_DO5QEJHDrGu.md | use | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DO5QEJHDrGu.md | use | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DO5lhdtD3tN.md | transcription | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DOBS249DagA.md | talkin | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DOBxJHGjW9l.md | laptop | 2 |
@@ -929,7 +933,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/createcontent.club/G_ig_createcontent.club_DPJbM4GDcIJ.md | matter | 2 |
 | glossary/createcontent.club/G_ig_createcontent.club_DPJbkK5DWhW.md | trend | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DPLQ98dD4nC.md | transcript | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_DPMmcauDcPA.md | content | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_DPMmcauDcPA.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DPN6JhMAs5l.md | content | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_DPQejZRCNHY.md | thousand | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_DPRaWjYFMJK.md | content | 2 |

@@ -18,7 +18,9 @@ content is the most prominent repeated term in this source (269-word transcript 
 
 ## Live Example
 
+> "those flags mean Instagram isn't recommending your content. And yeah, they limit your reach" — sources/S_ig_createcontent.club_DPMmcauDcPA.md
 > "your content in the background and send notifications if it finds anything that could limit your reach. This way, you can check your content twice—before and after you publish—so you're always" — sources/S_ig_createcontent.club_DPMmcauDcPA.md
+> "you can make sure every piece of content is safe before" — sources/S_ig_createcontent.club_DPMmcauDcPA.md
 
 ## When the Meaning Breaks
 

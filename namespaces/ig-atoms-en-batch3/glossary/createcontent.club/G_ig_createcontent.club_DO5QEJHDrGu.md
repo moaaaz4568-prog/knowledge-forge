@@ -18,7 +18,9 @@ use is the most prominent repeated term in this source (138-word transcript from
 
 ## Live Example
 
+> "because you're missing one simple thing that all of your favorite creators use" — sources/S_ig_createcontent.club_DO5QEJHDrGu.md
 > "Instead of spending hours learning it, you can use something called LUTs to transform your videos from this to this in" — sources/S_ig_createcontent.club_DO5QEJHDrGu.md
+> "basically like a filter for your videos. You can use it in any editing software, even" — sources/S_ig_createcontent.club_DO5QEJHDrGu.md
 
 ## When the Meaning Breaks
 
