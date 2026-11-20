@@ -1,0 +1,30 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+location: instagram/therealbrianmark
+---
+
+# T_DUbtDqoEqZ9_01
+
+"Excuse me, how much money do you make as a personal trainer? About thirty-eight, thirty-seven K. Damn, that's crazy. Almost double from last event. Almost double from last event. Yeah, congratulations. Thank you, bro. That's what it's all like too. What were you at when you first started? Like three, three thousand, like three K, yeah. Crazy." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+
+# T_DUbtDqoEqZ9_02
+
+"And like you literally just traveled from around the fucking world. Where are you from? Oh yeah, because I'm origin from Poland. Yeah. But I lived in Dominican Republic, I lived in Bali, right now I live in Thailand, in Bangkok. Oh, crazy. Yes, so this allowed me, the online fitness, allowed me to travel over the world. So why did you come to Canada? Like we're in Canada right now." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+
+# T_DUbtDqoEqZ9_03
+
+"But that's where you organized the fucking event. I know, but you made the decision to fly to Canada. Like what makes it worth traveling the fucking 13-hour, 14-hour flight? Like why are you here? The community, first and foremost, the knowledge you get from all the coaches. Yeah. All the people that started where I am right now and I want to be where they are." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+
+# T_DUbtDqoEqZ9_04
+
+"So that's the whole point, the whole trip, the 20 fucking hour trip. Oh, see, 24 hours, even longer. Yeah. See, that means you love me. Of course I do. Okay, okay, so like everybody thinks online coaching is a scam, right? Nobody believes it's true. They think business coaching is a scam, online coaching is a scam." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+
+# T_DUbtDqoEqZ9_05
+
+"So like what do you got to say to the people that obviously think this is not, like you're not even real? I mean, this guy's not real. You're AI. He's AI generated, I'm AI generated, the cash is AI generated. I'll follow both. Let's give someone a piece of advice, you know, somebody that like they want to make $37, 000 a month, they want to be handsome like you, you know." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
+
+# T_DUbtDqoEqZ9_06
+
+"Of course, I can help with that one. I can't help with that one. But with the cash, yeah. If you're looking to get to online coaching and you struggle, you have no idea how to grow your business, how to progress, sign up with Ryan, sign up with Carl, sign up for PT Dom, and they'll prove you wrong if you don't believe those guys." — sources/S_ig_therealbrianmark_DUbtDqoEqZ9.md
