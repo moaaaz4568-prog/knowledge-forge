@@ -1,0 +1,17 @@
+---
+type: source
+topic: instagram-transcripts
+origin: "/home/hatch/workspace/instagram-reels-texts/transcripts/10feetstudios/C2785FkLyMZ.txt"
+words: 207
+sha1: 2b613d596c670717381c9e0e8f538d5aa91110bb
+lang: en
+account: 10feetstudios
+quality: transcript
+---
+
+# S_ig_10feetstudios_C2785FkLyMZ
+
+> مصدر خام — نسخة حرفية كاملة (شاهد read-only).
+> الأصل: `/home/hatch/workspace/instagram-reels-texts/transcripts/10feetstudios/C2785FkLyMZ.txt`
+
+The reason you're not moving forward, and you're not scaling as fast as you'd like to, is probably because you're focusing on the wrong problems, and agency usually only has problems in these three areas. Pointments, sales, and service delivery. You should go while solving these problems in that exact order, and I see a lot of people working on their service delivery, even though they're not even past 10k a month, and their sales calendar is completely empty. So even if you have some clients, but you have no appointment scheduled for this upcoming week, focus on setting a couple appointments first. And listen, it makes sense to go through these in the right order. Because when you focus on booking appointments first, and filling up your calendar, you will take a lot of sales calls, and you'll talk directly to your target audience, figure out what their problems are, and what solutions and services they actually decide. And then you can improve your offer and your service delivery based on that, and that's exactly what I did. I started off with repurposing content, but then I got into crafting content strategies to help create this build and monetize their audiences, because that's what they actually
