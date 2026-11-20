@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_mattyr_ecom_DQ7dAp6D6YD.md
+location: instagram/mattyr_ecom
+---
+
+# T_DQ7dAp6D6YD_01
+
+"Miracles. Oh, I will show you how to please these grannies. What the heck? Oh my god! Overload! Overload of... Jeez. Oh my goodness. Let's try this again. There you go. Another scan. This guy's not real. This shmeckles are not real. Guys, I understand. You're slaving away for a chump change and this kid is throwing millions of dollars at you. Of course, it's hard to believe." — sources/S_ig_mattyr_ecom_DQ7dAp6D6YD.md
+
+# T_DQ7dAp6D6YD_02
+
+"We have to realize all you have to do is please some grannies and you make fucking bank. These are not yearly paychecks. I'm not that old, but I'm still 25 and I started at 17. These are daily checks. Huh. I'm sorry to break it to you, but I told you, you should have started years ago. I've been still doing... this for fucking eight years. Pleasing grannies and selling them envelopes." — sources/S_ig_mattyr_ecom_DQ7dAp6D6YD.md
+
+# T_DQ7dAp6D6YD_03
+
+"And I put thousands of people on. Here's my Instagram, you know what to do." — sources/S_ig_mattyr_ecom_DQ7dAp6D6YD.md
