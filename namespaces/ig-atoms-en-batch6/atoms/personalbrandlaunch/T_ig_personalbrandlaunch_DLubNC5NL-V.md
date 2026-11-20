@@ -1,0 +1,14 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DLubNC5NL-V.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DLubNC5NL-V_01
+
+"This is a viral storytelling video. You want to know why we started our business? Spite. And this is a storytelling structure used by Templateized. This is a viral storytelling video. Yesterday I was at the park when I noticed something weird. And this is a storytelling structure used by Templateized. This is a viral storytelling video." — sources/S_ig_personalbrandlaunch_DLubNC5NL-V.md
+
+# T_DLubNC5NL-V_02
+
+"A year ago I was reading my Bible from front to back and praying every single night. And this is a storytelling structure used by Templateized. This is a viral storytelling video. Is it possible to write a successful college essay for Harvard in just one hour? And this is a storytelling structure used to templateize. Want all these storytelling structures that you can use in your own video?" — sources/S_ig_personalbrandlaunch_DLubNC5NL-V.md

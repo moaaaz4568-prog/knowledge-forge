@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_personalbrandlaunch_DV54D7mBBsw.md
+location: instagram/personalbrandlaunch
+---
+
+# T_DV54D7mBBsw_01
+
+"If the first line of your video raises curiosity and promises a payoff, you're in the top 50%. More cuts equals more engagement. If the second line of your video has a bridge that connects your hook to the meat of your video, opens up a curiosity loop, and introduces solution, you're in the top 30%. The human attention span is here, so the amount of shots you have need to be here." — sources/S_ig_personalbrandlaunch_DV54D7mBBsw.md
+
+# T_DV54D7mBBsw_02
+
+"It's recommended to have a shot or cut every two seconds. If the meat of your video is actionable slash measurable value that your viewer can implement right away, you're in the top 10%. Now, this could be using... multiple different shots in your video like long shot, medium shot, close shot, below shot, above shot." — sources/S_ig_personalbrandlaunch_DV54D7mBBsw.md
+
+# T_DV54D7mBBsw_03
+
+"Or this can be added in by using effects like zoom in, zoom out, or base tracking. Just try and follow the two-second rule and you'll be fine. Really the goal, whether it's a cut or a shot or an effect, is to have something every two seconds. If your CTA tells the viewer exactly what to do next, you're in the top 5%. Follow us for more social media marketing education." — sources/S_ig_personalbrandlaunch_DV54D7mBBsw.md
