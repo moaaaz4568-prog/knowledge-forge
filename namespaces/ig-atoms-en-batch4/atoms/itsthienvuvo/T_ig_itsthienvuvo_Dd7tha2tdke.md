@@ -1,0 +1,26 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
+location: instagram/itsthienvuvo
+---
+
+# T_Dd7tha2tdke_01
+
+"Okay, so I got a question for you. Like, if someone were on the fence about joining the program, like, what would you tell them, bro? Ah, man, do I get to be looking at the camera stuff again? So I'm gonna be direct with y'all. I'm not even talking to Tin Vu no more. I'm talking to y'all. This was literally me. You can play it on screen. This was literally me working overnight at Walmart." — sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
+
+# T_Dd7tha2tdke_02
+
+"Every day I'd like come into my shift and I'd be like, when will it be the day where I change something for myself for the better? So UGC, right? Should I try it? Should I try it? I'm like, why not? It's better to take that chance on something than rather like dying and like not having that chance." — sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
+
+# T_Dd7tha2tdke_03
+
+"Back then versus now, like what the agency has grown to, like it's definitely gonna help you advance like a lot quicker. Like literally, I see like new people going into the server, they're already like on three deals. I'm like, huh? I'm like, how is it like, we've grown. That's how far like this agency has grown." — sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
+
+# T_Dd7tha2tdke_04
+
+"It's very helpful with so many different tools, so many different connections Tin Vu has built over time with this agency. It's insane." — sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
+
+# T_Dd7tha2tdke_05
+
+"For me, if there's one thing like I want you guys to like take away from like this whole interview and the rest of the interviews that Tin Vu has done with other students, I would say just like take that risk upon yourself because you're not gonna get no other chance if you don't try today. Take the chance upon yourself to do something different, change yourself for the better." — sources/S_ig_itsthienvuvo_Dd7tha2tdke.md
