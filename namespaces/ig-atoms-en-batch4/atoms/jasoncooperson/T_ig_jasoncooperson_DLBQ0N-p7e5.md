@@ -1,0 +1,34 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+location: instagram/jasoncooperson
+---
+
+# T_DLBQ0N-p7e5_01
+
+"So people have been saying to me recently, Jason, you fell off, bro. You fell off hard. And maybe it's true. I haven't posted in like a month and a half, but here's why, okay? I've been in the fucking trenches, okay? Building a software. When I say in the fucking trenches, I mean actually in the trenches, vibe coding, like with cursor, this entire full stack software." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_02
+
+"And let me show you what it does. The vision for this software is basically a super intelligent social media assistant with advanced researching and writing capabilities. And here's like a quick little demo. You can get competitors. So for example, if you wanted to get competitors for someone like Shelby Sapp, it's gonna be like, okay, I'll analyze Shelby Sapp's competitive landscape." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_03
+
+"And now it's gonna give you her top performers, how many views it got, and it's gonna give you a link to each of the video. And look here, it even gives you a table with the views, the likes, the links, and then it gives you a little bit of strategy insight. And you can click on any one of those links. It brings you to her post of the exact post that it talked about." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_04
+
+"And then all these are linked as well, the top performers. So that you, as a content creator, can go look at your competitors, understand what's working well for them, and basically recreate them. And to take it a step further, even if you wanted to transcribe it, you could just be like transcribe. Okay, fuck, now it's hallucinating. All right. Okay, pretend like that didn't happen." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_05
+
+"This is still an error, like a bug that we have to fix, but basically it started hallucinating. It kind of like stopped itself before it made the mistake. It was like, ah, shit. But that's basically what the software does. There's also a Kanban view where you can plan out content and like move stuff around." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_06
+
+"Honestly, if this thing, if I launch this thing and it doesn't do well, I might be boned. I might actually be cooked. It might be over for me, but you know, I'm putting all my eggs in one basket. I'm really banking on the software. I really like the idea. I think it's gonna change the world. Not the world, but like, you know, it'll be really great for creators. It's exactly what I need." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
+
+# T_DLBQ0N-p7e5_07
+
+"And honestly, I think this software is going to replace basically my old job. Like this is what I used to do for clients. And now I am going to be replaced by my own software. And a lot of you other content agencies are also going to be replaced by, if not by my software, by someone else's. And basically I'm going all in on this and I just, I want to do the replacing instead of being replaced." — sources/S_ig_jasoncooperson_DLBQ0N-p7e5.md
