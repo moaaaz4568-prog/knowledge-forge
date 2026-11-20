@@ -1,0 +1,18 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_nicola.ai_DYUkUvBIbf5.md
+location: instagram/nicola.ai
+---
+
+# T_DYUkUvBIbf5_01
+
+"Got it. This is a very high-energy sales pitch in American English. The speaker is clearly trying to grab your attention fast. Here’s the transcript:" — sources/S_ig_nicola.ai_DYUkUvBIbf5.md
+
+# T_DYUkUvBIbf5_02
+
+"This is the fastest way to double your revenue with no extra effort explained in under 20 seconds. Before recording your next reel, I want you to take a photo of yourself and upload it here with this prompt. Then go to this site, paste your script in a prompt like this, and click generate. Now you have a new reel created without you recording a single word." — sources/S_ig_nicola.ai_DYUkUvBIbf5.md
+
+# T_DYUkUvBIbf5_03
+
+"That's like a G-code if you let your team create content like this every day." — sources/S_ig_nicola.ai_DYUkUvBIbf5.md
