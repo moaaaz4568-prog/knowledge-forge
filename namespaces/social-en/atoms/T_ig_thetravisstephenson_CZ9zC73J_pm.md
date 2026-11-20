@@ -1,0 +1,30 @@
+---
+type: atom
+topic: instagram-transcripts
+source: sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+location: instagram/thetravisstephenson
+---
+
+# T_CZ9zC73J_pm_01
+"This is how a skateboard company ended up taking their 7x ROI up to 56x ROI by making one simple tweak to their marketing structure." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_02
+"Originally, whenever somebody would go to their website, they would put an item in their cart and if they didn't buy, the only thing they could do was run a basic retargeting ad and say, hey, you left this in your cart." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_03
+"But they didn't define the reason the person left it in the cart." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_04
+"The reason these abandoned carts were happening was because there was different sizes for different weights of people for the skateboard." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_05
+"So they switched their retargeting structure." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_06
+"Instead of sending them back to the website and saying, hey, you left this here, now what they did was they had an ad that ran them into a messenger sequence and asked them what was their height and what was their weight and then showed them the precise skateboard that they needed." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_07
+"And they were able to take their advertising ROI from 7x to up to 56x ROI by simply asking and helping people find the exact product that they needed." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+
+# T_CZ9zC73J_pm_08
+"This is a simple little hack that you could add to your business in less than an hour from now." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
