@@ -1,0 +1,28 @@
+---
+type: glossary
+topic: jaydenleilua
+aka: [want, jaydenleilua account context]
+origin: sources/S_ig_jaydenleilua_DaWCa9Bgbqa.md
+---
+
+# G_ig_jaydenleilua_DaWCa9Bgbqa — want
+
+## Term
+
+"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the jaydenleilua account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: first, thing, scrape, bad. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- want
+- jaydenleilua account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "This is the lazy man's way of how to wake up to your calendar packed out with qualified meetings every single day without ever having to pick up the phone and start dialing or burning money on ads. The first thing you want to do is scrape your leads, so I use AI Arc where you can filter out for the companies that you're looking for, all the decision makers, etc." — sources/S_ig_jaydenleilua_DaWCa9Bgbqa.md
+> "Then I go to Million Verifier to verify all the contact information. As you see here, 81% were good, 18% were risky, and 1% was bad. We just want the good ones. Then take it over to your favorite sequencer. I like Plus Vibe. Add a new campaign, import the leads that you just scraped. Now add your sequences, aka your outreach messages. Now just schedule it for when you want it to go out." — sources/S_ig_jaydenleilua_DaWCa9Bgbqa.md
+> "Add your email accounts and then go ahead and book yourself meetings while you sleep. If you want to know how to set this up for yourself, comment email and I'll send it directly to your DMs completely for free." — sources/S_ig_jaydenleilua_DaWCa9Bgbqa.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.

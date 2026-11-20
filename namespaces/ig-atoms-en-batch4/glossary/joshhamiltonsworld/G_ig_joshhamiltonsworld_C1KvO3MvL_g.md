@@ -1,0 +1,28 @@
+---
+type: glossary
+topic: joshhamiltonsworld
+aka: [start, joshhamiltonsworld account context]
+origin: sources/S_ig_joshhamiltonsworld_C1KvO3MvL_g.md
+---
+
+# G_ig_joshhamiltonsworld_C1KvO3MvL_g — start
+
+## Term
+
+"start" is the most frequent repeated content term in this source (a transcribed Instagram video from the joshhamiltonsworld account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ten, something, spoiler, alert. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+
+## Synonyms
+
+- start
+- joshhamiltonsworld account context (no variant form of the term appears in this source)
+
+## Live Example
+
+> "Twelve things I'd tell myself to do differently in my next business if I had to start over. Spoiler alert, I am starting over. Don't sleep on number ten. First, start with a simple model where the risk is just whether we execute or not. Don't have high idea risk. Two, start with services, then go into technology, not the other way around. Have the cash flow vehicle finance the tech play." — sources/S_ig_joshhamiltonsworld_C1KvO3MvL_g.md
+> "Nine, better define areas of responsibility with co-founders and avoid overlapping skill sets at all costs. Ten, don't start something with co-founders out of desperation. It's a poor foundation. Start something with a shared vision from a place of abundance. If your primary need is survival, just do it yourself first." — sources/S_ig_joshhamiltonsworld_C1KvO3MvL_g.md
+> "That type of situation requires a level of aggression that does not play well with others. Eleven, start content by building in public from day one, sharing all behind the scenes and charting the course. People buy from people and real life is relatable. Twelve, have better, more in-depth monthly temperature checks from day one with the co-founders." — sources/S_ig_joshhamiltonsworld_C1KvO3MvL_g.md
+
+## When the Meaning Breaks
+
+- Read as a general standard definition of "start": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
+- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
