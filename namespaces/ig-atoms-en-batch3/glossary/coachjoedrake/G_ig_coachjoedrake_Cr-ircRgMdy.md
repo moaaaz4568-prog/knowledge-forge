@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake, coachjoedrake caption context]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 
 ## Term
 
-This reel's caption is a looped boast chant: "I'm all the way up" and "Nothing can stop me, I'm all the way up" repeat through most of the transcript, wrapped around one short verse ("Shawty what you want, shawty what you need", "Counting up this money, we ain't never sleep", "You got V12, I got 12 V's"). The hook is sung celebration, not a concept: it names no idea, method, or distinction, and the verse's bottles, weed, and hash form a brag list rather than domain vocabulary. The source accordingly has no conceptual term, and no term claim is made here; the caption is recorded as a transcribed song on the coachjoedrake reel.
+This reel's caption is a looped boast chant: "I'm all the way up" and "Nothing can stop me, I'm all the way up" repeat through most of the transcript, wrapped around one short verse ("Shawty what you want, shawty what you need", "Counting up this money, we ain't never sleep", "You got V12, I got 12 V's"). The hook is sung celebration, not a concept: it names no idea, method, or distinction, and the verse's bottles, weed, and hash form a brag list rather than domain vocabulary. The source accordingly has no conceptual term, and no term claim is made here. The transcript's two atoms split exactly along the song's own seam — the celebration loop and the brag verse.
 
 ## Synonyms
 
-- coachjoedrake
-- coachjoedrake caption context
+- No variant form of the term appears in this source.
 
 ## Live Example
 

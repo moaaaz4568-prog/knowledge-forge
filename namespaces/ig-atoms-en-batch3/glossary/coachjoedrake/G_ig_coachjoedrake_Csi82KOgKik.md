@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake, coachjoedrake caption context]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_Csi82KOgKik.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_coachjoedrake_Csi82KOgKik.md
 
 ## Term
 
-This reel's caption transcribes one sung line: "When you come alive, when you drop your reason, when you feel the love, when you feel the weight." The phrase come alive heads four parallel when-clauses, but it is lyric vocabulary — sung, not used as a concept — and drop your reason, feel the love, and feel the weight are the same sung imagery. Nothing here names an idea, method, or distinction, so the source carries no conceptual term; no term claim is made, and the entry records the caption as a one-line lyric transcript on the coachjoedrake reel.
+This reel's caption transcribes one sung line: "When you come alive, when you drop your reason, when you feel the love, when you feel the weight." The phrase come alive heads four parallel when-clauses, but it is lyric vocabulary — sung, not used as a concept — and drop your reason, feel the love, and feel the weight are the same sung imagery. Nothing here names an idea, method, or distinction, so the source carries no conceptual term; no term claim is made. One line, four when-clauses, no second sentence — the transcript ends where the hook ends.
 
 ## Synonyms
 
-- coachjoedrake
-- coachjoedrake caption context
+- No variant form of the term appears in this source.
 
 ## Live Example
 

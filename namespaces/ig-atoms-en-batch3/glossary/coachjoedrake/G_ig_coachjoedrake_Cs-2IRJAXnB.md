@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake, coachjoedrake caption context]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 
 ## Term
 
-This reel's caption transcribes the opening of a West Coast rap classic: a counted-in first line ("One, two, three, and to the four"), the artist names "Snoop Doggy Dogg and Dr. Dre is at the door", and then the flow refrain "It's like this and like that and like this and uh" three times over. The refrain is pure rhythm words — sung, not used — and the proper names identify artists rather than concepts. Nothing in the caption names an idea, method, or distinction, so the source has no conceptual term; this entry makes no term claim and records the caption as a lyric transcript on the coachjoedrake reel.
+This reel's caption transcribes the opening of a West Coast rap classic: a counted-in first line ("One, two, three, and to the four"), the artist names "Snoop Doggy Dogg and Dr. Dre is at the door", and then the flow refrain "It's like this and like that and like this and uh" three times over. The refrain is pure rhythm words — sung, not used — and the proper names identify artists rather than concepts. Nothing in the caption names an idea, method, or distinction, so the source has no conceptual term; this entry makes no term claim. Count-in, name-drop, refrain — the whole text is an opening verse, and an opening verse is all it is.
 
 ## Synonyms
 
-- coachjoedrake
-- coachjoedrake caption context
+- No variant form of the term appears in this source.
 
 ## Live Example
 

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake, coachjoedrake caption context]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_CpbJnmbAHOd.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_coachjoedrake_CpbJnmbAHOd.md
 
 ## Term
 
-This reel's caption is a chanted song hook — "Do your thing" repeated four times — followed by a spoken request to perform ("Can you hit a little groove for me?"). The hook is sung, not used as a concept: it names no idea, method, or distinction, and the request lines around it are performance banter rather than domain content. The source therefore carries no conceptual term, and this entry makes no term claim; it records the caption as a music transcript on the coachjoedrake reel, one of the lyric captions the account posts alongside its training material.
+This reel's caption is a chanted song hook — "Do your thing" repeated four times — followed by a spoken request to perform ("Can you hit a little groove for me?"). The hook is sung, not used as a concept: it names no idea, method, or distinction, and the request lines around it are performance banter rather than domain content. The source therefore carries no conceptual term, and this entry makes no term claim. Four passes of the same hook and one polite ask — that is the whole performance this caption is.
 
 ## Synonyms
 
-- coachjoedrake
-- coachjoedrake caption context
+- No variant form of the term appears in this source.
 
 ## Live Example
 
