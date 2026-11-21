@@ -1,19 +1,20 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [like this and like that]
+aka: [coachjoedrake, coachjoedrake caption context]
 origin: sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 ---
 
-# G_ig_coachjoedrake_Cs-2IRJAXnB — like this and like that
+# G_ig_coachjoedrake_Cs-2IRJAXnB — coachjoedrake
 
 ## Term
 
-Like this and like that is the refrain of this captioned lyric clip: "It's like this and like that and like this and uh." The phrase occurs 3 times across the three transcribed lines, stacked after the opening ("One, two, three, and to the four. Snoop Doggy Dogg and Dr. Dre is at the door") and then varied once ("like that and like this"). It is the song's flow-hook — pure rhythm words carrying no propositional content — and the source contains nothing else. The entry documents the chant as the clip's central repeated phrase.
+This reel's caption transcribes the opening of a West Coast rap classic: a counted-in first line ("One, two, three, and to the four"), the artist names "Snoop Doggy Dogg and Dr. Dre is at the door", and then the flow refrain "It's like this and like that and like this and uh" three times over. The refrain is pure rhythm words — sung, not used — and the proper names identify artists rather than concepts. Nothing in the caption names an idea, method, or distinction, so the source has no conceptual term; this entry makes no term claim and records the caption as a lyric transcript on the coachjoedrake reel.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- coachjoedrake
+- coachjoedrake caption context
 
 ## Live Example
 
@@ -21,5 +22,5 @@ Like this and like that is the refrain of this captioned lyric clip: "It's like 
 
 ## When the Meaning Breaks
 
-- Read as comparative examples ("like this and like that" as in various kinds): in the lyric the words are a rhythmic refrain, not an enumeration of examples.
-- Read as coaching vocabulary: this is a transcribed song caption on the reel; the trainer uses none of it as instruction.
+- Read as an enumeration of examples (like this, like that): the words are a flow refrain carrying rhythm, not a comparison of kinds or a list of instances.
+- Read as name-dropping for endorsement: the artist names are transcribed lyric, not the account owner citing collaborators, guests, or clients.

@@ -1,19 +1,20 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [rhythm of the night]
+aka: [coachjoedrake, coachjoedrake caption context]
 origin: sources/S_ig_coachjoedrake_Cs0o3Y-AmCK.md
 ---
 
-# G_ig_coachjoedrake_Cs0o3Y-AmCK — rhythm of the night
+# G_ig_coachjoedrake_Cs0o3Y-AmCK — coachjoedrake
 
 ## Term
 
-Rhythm of the night is the only sentence in this 13-word clip, repeated twice: "This is the rhythm of the night. This is the rhythm of the night." It is a captioned song hook — the title line of the track transcribed — and it carries the clip entirely; there is no spoken content, no coaching, no other repeated phrase. The entry documents the source as a music caption whose central phrase is this hook.
+This reel's caption is a single disco-era title line, sung twice: "This is the rhythm of the night." That is the entire transcribed text — no verse, no spoken content, no other phrase. The line is a chanted hook: it is sung rather than used, and it names no idea, method, or distinction that a glossary could document. The source therefore has no conceptual term, and this entry makes no term claim; it records the caption as a two-line music transcript on the coachjoedrake reel.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- coachjoedrake
+- coachjoedrake caption context
 
 ## Live Example
 
@@ -21,5 +22,5 @@ Rhythm of the night is the only sentence in this 13-word clip, repeated twice: "
 
 ## When the Meaning Breaks
 
-- Read as a tempo or music-theory reference: the line is a disco-song hook used as a caption; nothing in the clip discusses rhythm, tempo, or musical structure.
-- Read as two independent sentences of content: the repetition is the song's own; the second line adds no new information to the first.
+- Read as a music-theory reference to rhythm or tempo: the line is a dance-song title hook used as a caption, and the clip discusses nothing about musical structure.
+- Read as two separate statements: the second line is the song's own repetition and adds nothing beyond the first.

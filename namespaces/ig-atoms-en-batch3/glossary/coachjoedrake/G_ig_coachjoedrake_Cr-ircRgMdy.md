@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [all the way up]
+aka: [coachjoedrake, coachjoedrake caption context]
 origin: sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 ---
 
-# G_ig_coachjoedrake_Cr-ircRgMdy — all the way up
+# G_ig_coachjoedrake_Cr-ircRgMdy — coachjoedrake
 
 ## Term
 
-All the way up is this clip's entire content: the hook of a captioned song, chanted 11 times ("Nothing can stop me, I'm all the way up", "I'm all the way up", "All the way up"). The repeated companions are nothing can stop me and, in the verse, shawty what you want / I got what you need. It is a boast of being at the top — unstoppable — riding on money-counting imagery ("Counting up this money, we ain't never sleep"). The source is a music caption on the coachjoedrake reel; the phrase names the song's state of mind, not any coaching concept.
+This reel's caption is a looped boast chant: "I'm all the way up" and "Nothing can stop me, I'm all the way up" repeat through most of the transcript, wrapped around one short verse ("Shawty what you want, shawty what you need", "Counting up this money, we ain't never sleep", "You got V12, I got 12 V's"). The hook is sung celebration, not a concept: it names no idea, method, or distinction, and the verse's bottles, weed, and hash form a brag list rather than domain vocabulary. The source accordingly has no conceptual term, and no term claim is made here; the caption is recorded as a transcribed song on the coachjoedrake reel.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- coachjoedrake
+- coachjoedrake caption context
 
 ## Live Example
 
 > "Nothing can stop me, I'm all the way up. All the way up. I'm all the way up. I'm all the way up. Nothing can stop me, I'm all the way up." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
-> "Counting up this money, we ain't never sleep. You got V12, I got 12 V's. Got bottles, got weed, got hash. I'm all the way up." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
+> "Shawty what you want, shawty what you need. My niggas run game, we ain't never leave. Counting up this money, we ain't never sleep. You got V12, I got 12 V's. Got bottles, got weed, got hash." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 
 ## When the Meaning Breaks
 
-- Read as progress coaching language: the phrase is transcribed song lyric ("Nothing can stop me, I'm all the way up"), not the trainer describing client progression or motivation methods.
-- Read as a lyric with documented authorship context: the transcript gives only the chanted text with no artist or title information, so the entry documents the caption as it appears on the reel and nothing about the song beyond it.
+- Read as the trainer's own boast about his position or income: the caption is transcribed song lyric on the reel, not the account owner speaking about himself.
+- Read as a progression or motivation concept: the up-phrase is a sung hook looped for momentum, and nothing in the clip teaches advancement or defines the expression.

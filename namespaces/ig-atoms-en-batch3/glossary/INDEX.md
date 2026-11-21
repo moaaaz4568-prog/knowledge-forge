@@ -1,6 +1,6 @@
 # Index â€” glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 3849 glossary files, 7423 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â€” 3849 glossary files, 7425 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -11,18 +11,18 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cnbp2dUq1xL.md | go after | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cny4HMVA5pw.md | position | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Co0VTbQpu28.md | constant improvement | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | put your back into it | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | marathon | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | asymmetrical | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | non-negotiable | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | cue | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | motto | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | certification | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | science | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | do your thing | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | confident | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpuS_XZgi0E.md | rapport | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | mobility | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | patty cake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | dough | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cq0W_T3gbnb.md | prime | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cq5BY3Ygc66.md | axis of rotation | 3 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | personal brand | 2 |
@@ -30,7 +30,7 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | on stage | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | first session | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqtDLtcpOAp.md | niche | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | all the way up | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | coachjoedrake | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | streak | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cr8J5IMADe4.md | spatial programming | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrAsBLLAvom.md | passive income | 2 |
@@ -39,15 +39,15 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | undulating periodization | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | athletic stance | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | systems over exercises | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | like this and like that | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | rhythm of the night | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | isometric | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | spatial programming | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | adductor strength | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | plank | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | mind muscle connection | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | come alive | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | gotta get the money | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | turnovers | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | systems precede creativity | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | tripping on faith | 1 |

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [put your back into it]
+aka: [marathon]
 origin: sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 ---
 
-# G_ig_coachjoedrake_Co6-R9dgxft — put your back into it
+# G_ig_coachjoedrake_Co6-R9dgxft — marathon
 
 ## Term
 
-Put your back into it is the refrain of this captioned lyric clip — the hook of the song transcribed. It appears twice in full ("You can do it, put your back into it"), while two later lines drop the word back ("put your into it"), apparently a transcription slip. The phrase is the track's encouragement formula, answered by "I can do it", and the clip closes on the line "Life ain't a track meet, it's a marathon." As transcribed here, the idiom names all-out effort, and no training instruction surrounds it.
+Marathon is the one real distinction this captioned lyric draws: the closing line "Life ain't a track meet, it's a marathon." contrasts a sprint event with a long endurance race to claim that life rewards pacing rather than bursts. The word occurs once, in that final line, and the words around it are track meet, life, and athlete — the verse rhymes back streets, athlete, and marathon into one image. Everything before that line is the sung hook ("You can do it, put your back into it", transcribed twice more with the word back dropped), so the caption's only conceptual content is this closing metaphor about going the distance.
 
 ## Synonyms
 
@@ -17,10 +17,10 @@ Put your back into it is the refrain of this captioned lyric clip — the hook o
 
 ## Live Example
 
-> "You can do it, put your back into it. I can do it, put your into it. You can do it, put your back into it. I can do it, put your into it." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 > "Tick tick boom, hear me banging down these back streets. Loving Backstreet, treated like an athlete. Life ain't a track meet, it's a marathon." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
+> "Life ain't a track meet, it's a marathon." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 
 ## When the Meaning Breaks
 
-- Read as a coaching cue for the back muscles: this is a song lyric hook about effort, not spinal or posterior-chain instruction — nothing in the clip teaches back training.
-- Read word-for-word: two of the four hook lines are transcribed without the word back ("put your into it"), so the exact wording of the song cannot be recovered from this transcript alone.
+- Read as race-training advice: the marathon line is a song lyric's closing image about pacing life, not the trainer prescribing endurance running or training plans.
+- Read as the chant being the concept: the put-your-back-into-it hook is sung encouragement repeated for momentum, and the track-meet-versus-marathon contrast is the only propositional line in the caption.
