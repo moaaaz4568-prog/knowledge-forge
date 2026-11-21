@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["online", "coaching"]
+aka: [passive income]
 origin: sources/S_ig_coachjoedrake_CrAsBLLAvom.md
 ---
 
-# G_ig_coachjoedrake_CrAsBLLAvom — online
+# G_ig_coachjoedrake_CrAsBLLAvom — passive income
 
 ## Term
 
-online is the most prominent repeated term in this source (220-word transcript from the Instagram account coachjoedrake): it occurs 5 times literally in the text, most often collocated with: coaching, training, newly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Passive income is the myth this business clip punctures for newly certified coaches eyeing online training. The phrase occurs twice: first as the attraction — people "like the idea of not trading their time for money and having what they think is gonna be passive income" — and then as the verdict: "there's nothing passive about it" and "it's not just to sit back passive income." Its companions are online training, in person first, and interacting heavily. Coaches doing it well, he says, "are interacting heavily in just a different manner with virtual and online coaching", and the prerequisite he reports from them all: "get your experience in person first" before programming, pairing, cueing, and progression move online.
 
 ## Synonyms
 
-- online
-- coaching
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "no arguing the fact that there is a ton of opportunity out there in the online fitness and coaching space. The truth is that it would be a major mistake for most coaches and trainers who are newly certified to jump right into online training." — sources/S_ig_coachjoedrake_CrAsBLLAvom.md
-> "But if you talk to any coach who's training and coaching online at a high level, making great income, and they've been doing it for considerable period of time, they're gonna tell you two things. First off, get your experience in person first." — sources/S_ig_coachjoedrake_CrAsBLLAvom.md
-> "Those that are doing it and doing it really well are interacting heavily in just a different manner with virtual and online coaching. So if it's something you're interested in, there's huge opportunity out there, but it's not just to sit back passive income." — sources/S_ig_coachjoedrake_CrAsBLLAvom.md
+> "It sounds attractive because people like the idea of not trading their time for money and having what they think is gonna be passive income." — sources/S_ig_coachjoedrake_CrAsBLLAvom.md
+> "So if it's something you're interested in, there's huge opportunity out there, but it's not just to sit back passive income. And truth is you're probably not gonna make it if you don't get good at in-person training first." — sources/S_ig_coachjoedrake_CrAsBLLAvom.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as online training being easy money: the clip's whole point is the opposite — the phrase appears twice only to be denied ("nothing passive about it"), with heavy interaction and in-person experience first as the reality.
+- Read as a ban on online coaching: the speaker concedes "a ton of opportunity out there in the online fitness and coaching space" and addresses people interested in it; the caution is about sequence and effort, not prohibition.

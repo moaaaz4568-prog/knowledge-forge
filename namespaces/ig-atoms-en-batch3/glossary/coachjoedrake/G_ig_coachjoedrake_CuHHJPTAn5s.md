@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["coaching", "deadlifts"]
+aka: [ninety degree angles]
 origin: sources/S_ig_coachjoedrake_CuHHJPTAn5s.md
 ---
 
-# G_ig_coachjoedrake_CuHHJPTAn5s — coaching
+# G_ig_coachjoedrake_CuHHJPTAn5s — ninety degree angles
 
 ## Term
 
-coaching is the most prominent repeated term in this source (159-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: deadlifts, ninety, degree. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Ninety degree angles is this clip's phrase for the physical geometry of engaged coaching: moving around the lifter to see from every useful angle. It occurs once — "I was coaching at ninety degree angles. I was coaching from behind, from the side. I was peeking this way, peeking that way, adjusting people." — inside the story of how he picked up clients by being watched: no crossed arms, no watch-checking, "a pretty engaged coach" rather than the trainer "standing there motionless... just counting reps." The angles are the visible craft that made observers want to train with him; the contrast is engagement versus presence without attention.
 
 ## Synonyms
 
-- coaching
-- deadlifts
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I will say, I picked up a lot of clients because, like, people would watch me and my coaching style. I didn't just stand there with my arms crossed and I was like looking the other way and like looking at my watch. You know, back then you really you really weren't checking your phone, so at least that that helped in my favor." — sources/S_ig_coachjoedrake_CuHHJPTAn5s.md
-> "But people would see that when I was coaching people on their squats or their deadlifts or whatever. Like, I was coaching at ninety degree angles. I was coaching from behind, from the side. I was peeking this way, peeking that way, adjusting people. You know, I was a pretty engaged coach. And I think people liked that." — sources/S_ig_coachjoedrake_CuHHJPTAn5s.md
+> "But people would see that when I was coaching people on their squats or their deadlifts or whatever. Like, I was coaching at ninety degree angles. I was coaching from behind, from the side. I was peeking this way, peeking that way, adjusting people." — sources/S_ig_coachjoedrake_CuHHJPTAn5s.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a positioning rule (coach at 90 degrees to the client): the phrase describes roaming to see squats and deadlifts from behind and from the side — variable viewing geometry, not one prescribed angle or spot.
+- Read as a marketing strategy he planned: his account is retrospective — he picked up clients because people watched the engagement itself; the angles were how he coached, and the client growth was the noticed side effect.

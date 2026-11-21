@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["love", "changing"]
+aka: [flexibility training]
 origin: sources/S_ig_coachjoedrake_CnMlELqI9Ub.md
 ---
 
-# G_ig_coachjoedrake_CnMlELqI9Ub — love
+# G_ig_coachjoedrake_CnMlELqI9Ub — flexibility training
 
 ## Term
 
-love is the most prominent repeated term in this source (107-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: changing, body, training. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Flexibility training is the coaching topic this clip teaches: the modality the speaker says trainers feel least confident implementing ("one of the areas that I find trainers come in the least confident in and understanding how to implement it"). The phrase occurs once, headlining the clip, and the sentences around it carry its usage — clients "gonna wanna do this stuff", "too slow", "too much time". His argument is that flexibility training lets clients "train harder in the gym" while feeling good, so it is presented as value delivered inside sessions, not as an optional add-on.
 
 ## Synonyms
 
-- love
-- changing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "just towards allowing your clients to train harder in the gym, but honestly providing a lot of value inside your training sessions. People love getting results, they love changing their body, but they also love doing it when they feel good." — sources/S_ig_coachjoedrake_CnMlELqI9Ub.md
+> "Flexibility training, one of the areas that I find trainers come in the least confident in and understanding how to implement it. Are my clients gonna wanna do this stuff? Is it too slow? Does it take too much time?" — sources/S_ig_coachjoedrake_CnMlELqI9Ub.md
+> "I promise you this stuff will go a long way, not just towards allowing your clients to train harder in the gym, but honestly providing a lot of value inside your training sessions." — sources/S_ig_coachjoedrake_CnMlELqI9Ub.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a stretching protocol: the source never demonstrates a stretch or names exercises; it is purely the case for including the modality, and any specific protocol would come from outside this text.
+- Read as addressing clients: the audience is trainers worried their clients will find the work slow — the clip coaches coaches, not people doing flexibility work themselves.

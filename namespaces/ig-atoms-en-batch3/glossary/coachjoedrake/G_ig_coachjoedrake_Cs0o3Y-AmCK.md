@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["rhythm", "night"]
+aka: [rhythm of the night]
 origin: sources/S_ig_coachjoedrake_Cs0o3Y-AmCK.md
 ---
 
-# G_ig_coachjoedrake_Cs0o3Y-AmCK — rhythm
+# G_ig_coachjoedrake_Cs0o3Y-AmCK — rhythm of the night
 
 ## Term
 
-rhythm is the most prominent repeated term in this source (14-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: night. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Rhythm of the night is the only sentence in this 13-word clip, repeated twice: "This is the rhythm of the night. This is the rhythm of the night." It is a captioned song hook — the title line of the track transcribed — and it carries the clip entirely; there is no spoken content, no coaching, no other repeated phrase. The entry documents the source as a music caption whose central phrase is this hook.
 
 ## Synonyms
 
-- rhythm
-- night
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is the rhythm of the night. This is the rhythm of the" — sources/S_ig_coachjoedrake_Cs0o3Y-AmCK.md
+> "This is the rhythm of the night. This is the rhythm of the night." — sources/S_ig_coachjoedrake_Cs0o3Y-AmCK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tempo or music-theory reference: the line is a disco-song hook used as a caption; nothing in the clip discusses rhythm, tempo, or musical structure.
+- Read as two independent sentences of content: the repetition is the song's own; the second line adds no new information to the first.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["yourself", "forcing"]
+aka: [soft skills]
 origin: sources/S_ig_coachjoedrake_Cu9IEw6gzxU.md
 ---
 
-# G_ig_coachjoedrake_Cu9IEw6gzxU — yourself
+# G_ig_coachjoedrake_Cu9IEw6gzxU — soft skills
 
 ## Term
 
-yourself is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: forcing, learn, uncomfortable. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Soft skills is what this interview clip says the gym industry taught him best: the intangibles learned by forcing discomfort. The phrase occurs once — "the soft skills you learn, forcing yourself to get uncomfortable, forcing yourself to go show somebody exercise and walk away and like, hey, if you ever need help" — with networking, communication, and intangible around it. The examples are gym-floor social reps: not hard-selling, taking confrontation, grabbing a client from the floor, talking to different people. His contrast: staying "in the house" makes you "a turtle in the shell" who never learns to talk to people — and then "how can you promote on social media and be confident about public speaking?" The biggest thing, he concludes, is "the communication piece."
 
 ## Synonyms
 
-- yourself
-- forcing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the biggest things that the gym industry taught me, and just being out there as far as networking, is the soft skills you learn, forcing yourself to get uncomfortable, forcing yourself to go show somebody exercise and walk away and like, hey, if you ever need help, not trying to hard sell them, but just, those things that are un, like they're intangible, you know. Yeah." — sources/S_ig_coachjoedrake_Cu9IEw6gzxU.md
-> "Yeah. So if you go to the like in the house, you're kind of putting yourself like a turtle in the shell because it's like, you don't really know how to really talk to people and get more people." — sources/S_ig_coachjoedrake_Cu9IEw6gzxU.md
+> "So I think one of the biggest things that the gym industry taught me, and just being out there as far as networking, is the soft skills you learn, forcing yourself to get uncomfortable, forcing yourself to go show somebody exercise and walk away and like, hey, if you ever need help, not trying to hard sell them" — sources/S_ig_coachjoedrake_Cu9IEw6gzxU.md
+> "So how can you promote on social media and be confident about public speaking and do those things if you never had to grab a client, you know, from the floor and talk to different people and have confrontation, right?" — sources/S_ig_coachjoedrake_Cu9IEw6gzxU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as skills with no hard component: the source's soft skills are concrete and behavioral — approaching strangers on the floor, handling confrontation, walking away without hard-selling — not vague personality traits.
+- Read as learned only in gyms: the argument is specifically that in-person gym floors force the discomfort that builds them, versus staying home; it does not claim gyms are the only teacher, only the one he credits.

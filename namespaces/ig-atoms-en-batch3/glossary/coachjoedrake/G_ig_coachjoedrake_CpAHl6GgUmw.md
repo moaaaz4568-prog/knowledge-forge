@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["harder", "external"]
+aka: [cue]
 origin: sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
 ---
 
-# G_ig_coachjoedrake_CpAHl6GgUmw — harder
+# G_ig_coachjoedrake_CpAHl6GgUmw — cue
 
 ## Term
 
-harder is the most prominent repeated term in this source (197-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: external, cue, push. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A cue, in this coaching clip, is the single instruction that unlocks a movement problem on the spot. The word occurs twice: first "Maybe we try an external cue. Push my hands apart." — demonstrated on a squatter driving her knees out — and then "if I can give them one simple cue and then they can replicate it, for me then we're on the right track." The contrast drawn is between guessing a movement impairment and discovering the client simply doesn't know how to squat or what the muscles should feel like; the cue is the test-and-fix, and harder is the word drilled while applying it.
 
 ## Synonyms
 
-- harder
-- external
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, we still have some other tools we can play with. Maybe we try an external cue. Push my hands apart. Harder, harder, harder. Okay, that part was just for fun. But come up to the top." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
+> "And let's say, okay, cool, that still didn't work. Well, we still have some other tools we can play with. Maybe we try an external cue. Push my hands apart. Harder, harder, harder." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
+> "And if I can give them one simple cue and then they can replicate it, for me then we're on the right track." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as any instruction: the source's cues are minimal and physical (screwing feet into the ground, driving knees out, pushing the coach's hands apart) — the value claimed is one simple cue the client can replicate, not a script of many corrections.
+- Read as a diagnosis shortcut: the speaker warns the opposite direction too — a fixable-in-one-cue issue is not necessarily an imbalance or movement impairment; the cue separates the two cases rather than collapsing them.

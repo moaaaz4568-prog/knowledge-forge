@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["feel", "makes"]
+aka: [first session]
 origin: sources/S_ig_coachjoedrake_CqprsVfgqpL.md
 ---
 
-# G_ig_coachjoedrake_CqprsVfgqpL — feel
+# G_ig_coachjoedrake_CqprsVfgqpL — first session
 
 ## Term
 
-feel is the most prominent repeated term in this source (362-word transcript from the Instagram account coachjoedrake): it occurs 5 times literally in the text, most often collocated with: makes, safe, comfortable. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+First session is the occasion this questioning clip is built around: the initial meeting where the right questions turn into a tailored start. The phrase occurs 3 times — "a different first session", "as we get into doing this first session", "at the very end of that first session" — with expectations, goals, and sales tool as companions. His examples show the tailoring: a client who wants to "feel comfortable and safe in the gym" gets a first day built around exactly that, while one who wants to be challenged gets exercises they have never done. The questions themselves — goals, "what's holding you back", "what do you need from me as a coach", ideal training schedule — do double duty, since the schedule question doubles as "an easy little sales tool at the very end."
 
 ## Synonyms
 
-- feel
-- makes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I just wanna feel comfortable and safe in the gym, right? I know strength training is great for me, but I go into the weight room and I immediately turn around 'cause I just don't feel like I know what I'm doing." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
-> "Well, guess what? I'm gonna make sure on that first day everything we do makes them feel safe, makes them feel comfortable. That's gonna be very different than someone who says" — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
-> "I've been training for a long time and I want someone who challenges me. Like I wanna come in and like I feel like I've been doing the same thing forever." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
+> "Well, guess what? That's gonna be a different first session. They're gonna be doing some exercises, some things I know they've never done before because that's gonna relate to building value in these different ways." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
+> "Not only because as we get into doing this first session, like are they even legitimately going to be a client potential? Do they fit anywhere in your schedule? And I'll also show you how you can use that. It's kind of an easy little sales tool at the very end of that first session." — sources/S_ig_coachjoedrake_CqprsVfgqpL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an assessment or workout template: the first session here is a conversation driven by discovery questions (goals, barriers, expectations, schedule), with the movement content chosen only afterward — no exercise protocol is given.
+- Read as the session that closes the sale: the clip explicitly holds one sales move — the schedule question as an easy little sales tool at the very end — inside a session whose primary work is expectation-setting, so the closing is a byproduct of the questions, not the session's purpose.

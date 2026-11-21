@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["into", "put"]
+aka: [put your back into it]
 origin: sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 ---
 
-# G_ig_coachjoedrake_Co6-R9dgxft — into
+# G_ig_coachjoedrake_Co6-R9dgxft — put your back into it
 
 ## Term
 
-into is the most prominent repeated term in this source (66-word transcript from the Instagram account coachjoedrake): it occurs 6 times literally in the text, most often collocated with: put, tick, back. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Put your back into it is the refrain of this captioned lyric clip — the hook of the song transcribed. It appears twice in full ("You can do it, put your back into it"), while two later lines drop the word back ("put your into it"), apparently a transcription slip. The phrase is the track's encouragement formula, answered by "I can do it", and the clip closes on the line "Life ain't a track meet, it's a marathon." As transcribed here, the idiom names all-out effort, and no training instruction surrounds it.
 
 ## Synonyms
 
-- into
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can do it, put your back into it. I can do it, put your into it. You can do it, put your back into it. I can do it, put your into it. Put your into it, put your into it. Tick tick boom, hear me banging down these back streets." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
+> "You can do it, put your back into it. I can do it, put your into it. You can do it, put your back into it. I can do it, put your into it." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
+> "Tick tick boom, hear me banging down these back streets. Loving Backstreet, treated like an athlete. Life ain't a track meet, it's a marathon." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cue for the back muscles: this is a song lyric hook about effort, not spinal or posterior-chain instruction — nothing in the clip teaches back training.
+- Read word-for-word: two of the four hook lines are transcribed without the word back ("put your into it"), so the exact wording of the song cannot be recovered from this transcript alone.

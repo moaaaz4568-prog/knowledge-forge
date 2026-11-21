@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["different", "versus"]
+aka: [asymmetrical]
 origin: sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 ---
 
-# G_ig_coachjoedrake_CoZY8_ugNfJ — different
+# G_ig_coachjoedrake_CoZY8_ugNfJ — asymmetrical
 
 ## Term
 
-different is the most prominent repeated term in this source (292-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: versus, past, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Asymmetrical is this clip's word for what coaches must learn to see: left-right difference in how a body moves. It occurs twice — "how asymmetrical the human body really is", then "Very asymmetrical, meaning different on one side versus the other" — with the plural asymmetries appearing once more in "20% asymmetries in your hip are statistically considered natural". The usage is observational: the speaker describes noticing a client's stance at the urinal, one shoulder blade moving more than the other during lat pulls, and calls noticing the first step, with 20% hip and 70% shoulder differences framed as normal rather than pathological.
 
 ## Synonyms
 
-- different
-- versus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But I think noticing is the first step. And the conversation in the gym, funny enough, this past week with a lot of clients and different coaches, has just been like the surprise of how asymmetrical the human body really is. Right? Very asymmetrical, meaning different on one side versus the other. Because in our minds, it makes sense." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
-> "Like 20% asymmetries in your hip are statistically considered natural. So even the idea that you might squat and lunge a little different on one leg versus the other, it's like. . . It's 70% in the shoulder. Yeah. That's just from arm dominance." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
+> "And the conversation in the gym, funny enough, this past week with a lot of clients and different coaches, has just been like the surprise of how asymmetrical the human body really is. Right? Very asymmetrical, meaning different on one side versus the other." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
+> "But 20% differences are natural. Right? Like 20% asymmetries in your hip are statistically considered natural." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a defect to fix: the speaker explicitly normalizes the numbers — 20% hip asymmetries are statistically natural and 70% shoulder difference comes from arm dominance — so asymmetry here is an observation to expect, not automatically a problem.
+- Read as a measurement standard: the 20% and 70% figures are conversational benchmarks he cites while coaching observation, not lab normative values; the clip gives no testing protocol.

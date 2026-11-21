@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["hour", "drove"]
+aka: [worth]
 origin: sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
 ---
 
-# G_ig_coachjoedrake_CnOzPuuoV8e — hour
+# G_ig_coachjoedrake_CnOzPuuoV8e — worth
 
 ## Term
 
-hour is the most prominent repeated term in this source (315-word transcript from the Instagram account coachjoedrake): it occurs 5 times literally in the text, most often collocated with: drove, minutes, hours. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Worth is what this business-talk clip tells trainers to price on: the value of their time once travel is counted, not the hourly number alone. It occurs 3 times, concentrated in the closing lines — "my time is worth this", "shortchange you out of what you're worth", "Know your worth, know your value" — where it sits beside value, business owner, and resentment. The speaker's worked example is a trainer paid $180 "for the hour" in Miami who actually spent three hours door-to-door, which he counts as the case for knowing your worth before setting rates.
 
 ## Synonyms
 
-- hour
-- drove
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've had people that say like, you know, I'm making 180 bucks in Miami for the hour. I'm like, man, that's great. How long does it take you to get to Miami? Uh, usually 45 minutes. Cool. How long does it take you to get back? Oh, well, sometimes it could take longer, maybe 45 minutes to an hour." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
-> "I said, okay, so for three hours you made 180 bucks. He's like, no, no, I made 180 for the hour. I said, no, you didn't. You drove 45 minutes to an hour and you drove 45 minutes to an hour. That's three hours out of your day." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
+> "Now there's gonna be people where you're gonna be like, hey, I really wanna work with you. Cool, my time is worth this. Are there people that you can take breaks for if you want to? You're your own business owner. You can do whatever you want." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
+> "People will try to shortchange you out of what you're worth. Know your worth, know your value, know why you're doing what you're doing and why you think you're the best at it and then back it up." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as self-esteem advice: here worth is an arithmetic of time and travel — a Miami client that eats three hours for one billed hour is the whole argument — not a general affirmation about personal value.
+- Read as a fixed price list: the speaker explicitly leaves discounts to the trainer's judgment ("You're your own business owner. You can do whatever you want"), so the clip is not prescribing one rate structure.

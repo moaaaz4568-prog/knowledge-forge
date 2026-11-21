@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["accomplishing", "leg"]
+aka: [spatial programming]
 origin: sources/S_ig_coachjoedrake_CsBDF9Qg0LO.md
 ---
 
-# G_ig_coachjoedrake_CsBDF9Qg0LO — accomplishing
+# G_ig_coachjoedrake_CsBDF9Qg0LO — spatial programming
 
 ## Term
 
-accomplishing is the most prominent repeated term in this source (164-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: leg, press, lat. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Spatial programming is the concept this clip defines for gym layout: "having some thought and some strategy into how you flow throughout a space." The phrase occurs once ("a concept that I refer to as spatial programming"), and the test it applies to a session: when you build a superset or triplex, are the exercises "in different corners of the gym where you've got to waste a lot of time going back and forth", or is there "a primary zone" where most of the set happens — even around a big machine like a leg press or lat pull, bringing the other two or three movements to it. The promised returns are a better flow and experience for the session, and clients reading "a lot more thought going into what you're doing" rather than exercise pairing alone.
 
 ## Synonyms
 
-- accomplishing
-- leg
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "corners of the gym where you've got to waste a lot of time going back and forth between them, or do you have a primary zone where you're accomplishing most of that set? Even if you're using a big machine like a leg press or a lat pull, are you accomplishing your other two to three movements right there in that same space?" — sources/S_ig_coachjoedrake_CsBDF9Qg0LO.md
+> "Most coaches are blind to a concept that I refer to as spatial programming, and that's actually having some thought and some strategy into how you flow throughout a space." — sources/S_ig_coachjoedrake_CsBDF9Qg0LO.md
+> "Right, when you're putting together a superset or a triplex, are all two or three of those exercises in different corners of the gym where you've got to waste a lot of time going back and forth between them, or do you have a primary zone where you're accomplishing most of that set?" — sources/S_ig_coachjoedrake_CsBDF9Qg0LO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as software or program design: the term is this trainer's coinage for moving through gym space with strategy — supersets, triplexes, one primary zone — not anything technical about programming code.
+- Read as requiring a private studio: the framing addresses ordinary gym constraints (machines other people use, corners of a busy gym); the concept is exactly for working inside shared spaces.

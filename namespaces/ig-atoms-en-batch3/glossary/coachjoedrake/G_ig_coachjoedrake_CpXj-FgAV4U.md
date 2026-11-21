@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["back", "keep"]
+aka: [science]
 origin: sources/S_ig_coachjoedrake_CpXj-FgAV4U.md
 ---
 
-# G_ig_coachjoedrake_CpXj-FgAV4U — back
+# G_ig_coachjoedrake_CpXj-FgAV4U — science
 
 ## Term
 
-back is the most prominent repeated term in this source (132-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: keep, coming, distribution. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Science occurs once in this clip, as the joke label on a day-in-the-life opening: "Kicking off a Friday morning with science here in the gym" — spoken at "like 6:45" before the reel cuts to him coaching a client down "One vertebrae at a time". The word is ironic framing: what follows is not a lecture but a gym vlog that slides into a captioned hardcore rap verse ("Who the fuck you think you're fucking with? I'm the fucking boss"). In this source science names the tongue-in-cheek premise for showing the morning's training, nothing more technical.
 
 ## Synonyms
 
-- back
-- keep
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Right now we're talking like 6:45. I'll take you guys through the day and show you what it's like. One vertebrae at a time back down. There he is. Who the fuck you think you're fucking with? I'm the fucking boss. Say I'm 45, white on white, that's fucking Ross. I cut 'em wide, I cut 'em long, I cut 'em fat. I keep 'em coming back. We keep 'em coming back." — sources/S_ig_coachjoedrake_CpXj-FgAV4U.md
-> "I ain't petty nigga. We buy the whole thing. See, most of my niggas really still deal cocaine. My roof back" — sources/S_ig_coachjoedrake_CpXj-FgAV4U.md
+> "Kicking off a Friday morning with science here in the gym. Right now we're talking like 6:45. I'll take you guys through the day and show you what it's like. One vertebrae at a time back down." — sources/S_ig_coachjoedrake_CpXj-FgAV4U.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim of scientific content: the word is a joke opener for a gym day-in-the-life reel; no research, method, or evidence is presented in the clip.
+- Read as one continuous talk: the transcript splices spoken vlog audio with captioned song lyrics; the later verse is not the speaker instructing anyone.

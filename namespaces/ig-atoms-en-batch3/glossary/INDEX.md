@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7431 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7423 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cn1VIBsgicZ.md | undertow | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnMlELqI9Ub.md | love | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnOzPuuoV8e.md | hour | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnRTd72oJjW.md | shoulder | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cnbp2dUq1xL.md | accomplish | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnMlELqI9Ub.md | flexibility training | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnOzPuuoV8e.md | worth | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnRTd72oJjW.md | shoulder blades | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cnbp2dUq1xL.md | go after | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cny4HMVA5pw.md | position | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Co0VTbQpu28.md | constant | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | into | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | different | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | myself | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | harder | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | full | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | easiest step | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | back | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | groove | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | already | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Co0VTbQpu28.md | constant improvement | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | put your back into it | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | asymmetrical | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | non-negotiable | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | cue | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | motto | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | certification | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | science | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | do your thing | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | confident | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpuS_XZgi0E.md | rapport | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | back | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | Patty cake | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq0W_T3gbnb.md | integrated | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq5BY3Ygc66.md | dumbbells | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | better | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqDbTWcAH0G.md | twice | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | training | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | feel | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | mobility | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | patty cake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq0W_T3gbnb.md | prime | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq5BY3Ygc66.md | axis of rotation | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | personal brand | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqDbTWcAH0G.md | full body | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | on stage | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | first session | 2 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CqtDLtcpOAp.md | niche | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | Shawty | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | brothers | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr8J5IMADe4.md | cables | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrAsBLLAvom.md | online | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrGAmrKAD37.md | coach | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrIrsA5AG_L.md | training | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | periodization | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | wrists | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | training | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | Snoop | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | rhythm | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | yielding | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | accomplishing | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | progression | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | exercises | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | position | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | feel | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | motherfucking bitch | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | all the way up | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | streak | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr8J5IMADe4.md | spatial programming | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrAsBLLAvom.md | passive income | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrGAmrKAD37.md | verbal cue | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrIrsA5AG_L.md | semi-private and small group training | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | undulating periodization | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | athletic stance | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | systems over exercises | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | like this and like that | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | rhythm of the night | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | isometric | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | spatial programming | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | adductor strength | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | plank | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | mind muscle connection | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | come alive | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | gotta get the money | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | turnovers | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | creative | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | tripping | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | shoes | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cu9IEw6gzxU.md | yourself | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | coaching | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | systems precede creativity | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | tripping on faith | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | barefoot | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cu9IEw6gzxU.md | soft skills | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | ninety degree angles | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuJxA0uA18V.md | workouts | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuVWrN3AayG.md | coaching | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | running | 1 |

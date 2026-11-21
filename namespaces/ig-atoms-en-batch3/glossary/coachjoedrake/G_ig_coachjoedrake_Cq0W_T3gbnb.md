@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["integrated", "talking"]
+aka: [prime, priming]
 origin: sources/S_ig_coachjoedrake_Cq0W_T3gbnb.md
 ---
 
-# G_ig_coachjoedrake_Cq0W_T3gbnb — integrated
+# G_ig_coachjoedrake_Cq0W_T3gbnb — prime
 
 ## Term
 
-integrated is the most prominent repeated term in this source (183-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: talking, activation, difference. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Prime is the verb this warm-up clip uses for the stage after general warm-up: getting the body ready for the specific workout to come. It occurs 3 times ("So prime is gonna be that", "we wanna prime the body", "prime the body more fully") plus once as priming ("neurological priming"), and its companions are body, warm up, workout, intensity, and activation. Priming here has two targets — the movements themselves and "the intensity level we're gonna be training at" — and the clip's mechanics include tissue extensibility, temperature increase, post activation potentiation, and the contrast between isolated activation at one joint and integrated activation like bodyweight squats before back squats.
 
 ## Synonyms
 
-- integrated
-- talking
+- priming
 
 ## Live Example
 
-> "some of our additional neurological priming, right, things like post activation potentiation are gonna come in. So here, we're talking integrated activation. Now the difference between these two, isolated, we're looking maybe more so at one joint. Integrated, we're doing less intense versions of the exercises they're gonna do in their training session, right?" — sources/S_ig_coachjoedrake_Cq0W_T3gbnb.md
-> "So if someone's gonna be back squatting, well, maybe we're body weight squatting here in a more integrated" — sources/S_ig_coachjoedrake_Cq0W_T3gbnb.md
+> "So prime is gonna be that. Now we're looking at, we wanna prime the body. Not only prime the body more fully for the movements we're gonna be doing, but also the intensity level we're gonna be training at." — sources/S_ig_coachjoedrake_Cq0W_T3gbnb.md
+> "This is also where some of our additional neurological priming, right, things like post activation potentiation are gonna come in." — sources/S_ig_coachjoedrake_Cq0W_T3gbnb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the workout's first block: the source separates prime from the training session itself — it is the tail of the warm-up that raises intensity and range toward the main work, not an exercise circuit counted as training volume.
+- Read as one fixed protocol: priming is described as goal-dependent ("prime the body more fully for the movements we're gonna be doing") with several candidate tools; the clip prescribes no single routine.

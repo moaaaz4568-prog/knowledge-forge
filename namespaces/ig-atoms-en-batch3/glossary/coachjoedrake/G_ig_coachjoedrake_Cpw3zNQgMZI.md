@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["back", "her"]
+aka: [mobility]
 origin: sources/S_ig_coachjoedrake_Cpw3zNQgMZI.md
 ---
 
-# G_ig_coachjoedrake_Cpw3zNQgMZI — back
+# G_ig_coachjoedrake_Cpw3zNQgMZI — mobility
 
 ## Term
 
-back is the most prominent repeated term in this source (164-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: her, ground, compromise. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Mobility gets its working definition in the first sentence of this exercise clip: "Think about mobility as strength through range of motion." The word occurs once, headlining that reframe, and the companions are strength, range, and motion. The demonstration then makes the definition concrete: a wide-stance dumbbell RDL for the inner thighs and adductors — "getting them long and strong" — hinging with a protected low back so the position "should feel like a stretch" while actually strengthening, with the goal of transferring to a better squat position later. Mobility here is not separate stretching; it is loaded range of motion.
 
 ## Synonyms
 
-- back
-- her
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can see she's seated on a bench. We have a nice wide stance, and I want you guys to think RDL. She's gonna push her hips back, allow those dumbbells just to bring her down, and she's not gonna compromise that low back position. Coming right back up by pushing her feet through the ground, and then nice and slow back down." — sources/S_ig_coachjoedrake_Cpw3zNQgMZI.md
+> "Think about mobility as strength through range of motion. And this is one of my favorites when it comes to the inner thighs, the adductors, getting them long and strong, if that's really a thing." — sources/S_ig_coachjoedrake_Cpw3zNQgMZI.md
+> "Coming right back up by pushing her feet through the ground, and then nice and slow back down. You wanna think of it, it should feel like a stretch, but this is where we really start to combine stretching and strengthening." — sources/S_ig_coachjoedrake_Cpw3zNQgMZI.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as synonymous with stretching: the source's one-line definition is the deliberate opposite — mobility as strength through range of motion, combining stretching and strengthening in one loaded pattern.
+- Read as a general mobility rule: the definition is applied to one drill (a wide-stance adductor RDL with a hip hinge and neutral low back) aimed at a later squat transfer; no broader program of mobility work appears in the clip.

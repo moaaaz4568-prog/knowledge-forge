@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["constant", "Every"]
+aka: [constant improvement]
 origin: sources/S_ig_coachjoedrake_Co0VTbQpu28.md
 ---
 
-# G_ig_coachjoedrake_Co0VTbQpu28 — constant
+# G_ig_coachjoedrake_Co0VTbQpu28 — constant improvement
 
 ## Term
 
-constant is the most prominent repeated term in this source (22-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: every, improvement, curiosity. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Constant improvement is the two-word philosophy this 26-word clip is built on: "Every day is just constant improvement, constant curiosity, constantly getting better." The phrase occurs once, echoed by its cousins constant curiosity and constantly, and its direct companions are improvement, curiosity, and getting better. The speaker then pivots on it — because improvement is the daily constant, "The results don't really matter. It's the figuring out that matters": process over outcome. Within this source the phrase names an identity to operate from each day, not a program or metric.
 
 ## Synonyms
 
-- constant
-- Every
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "day is just constant improvement, constant curiosity, constantly getting better. The results don't really matter." — sources/S_ig_coachjoedrake_Co0VTbQpu28.md
+> "Every day is just constant improvement, constant curiosity, constantly getting better. The results don't really matter. It's the figuring out that matters." — sources/S_ig_coachjoedrake_Co0VTbQpu28.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a results-dismissal: the speaker discounts results only because they are byproducts — the source still aims at getting better; it does not claim outcomes never matter in training or business.
+- Read as a measurable framework: constant curiosity and constant improvement are stated as a daily stance in one breath of a very short clip; no method, cadence, or measure for them appears here.

@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["dumbbells", "front"]
+aka: [axis of rotation]
 origin: sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
 ---
 
-# G_ig_coachjoedrake_Cq5BY3Ygc66 — dumbbells
+# G_ig_coachjoedrake_Cq5BY3Ygc66 — axis of rotation
 
 ## Term
 
-dumbbells is the most prominent repeated term in this source (286-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: front, away, axis. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Axis of rotation is the physics idea this technique clip teaches with the RDL: where the movement pivots determines what the lift loads. It occurs 4 times, always about the hips — "we want the axis of rotation to be here at the hips" — and its companions are dumbbells, torque, low back, glutes, and hamstrings. The demonstration contrasts two reps: when the dumbbells drift out front, the load moves away from the axis, torque rises "in the wrong area of the body" and the low back takes it; pulled in tight, "closer to that axis of rotation", the same weight is felt in the glutes and hamstrings. More torque is not more stimulus — placement relative to the axis decides.
 
 ## Synonyms
 
-- dumbbells
-- front
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And hopefully you guys picked up on the difference in the position of those dumbbells, right? Very common for people to think as they're pushing back, they kind of push those dumbbells out in front." — sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
-> "All right, sometimes what happens when we let those dumbbells get out in front, all of a sudden we start feeling that low back. And really what you did, the further away those dumbbells are from the axis of rotation, guess what? The more torque, all right?" — sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
+> "So when we're doing an RDL, we want, I say want because it doesn't always happen, we want the axis of rotation to be here at the hips." — sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
+> "And really what you did, the further away those dumbbells are from the axis of rotation, guess what? The more torque, all right?" — sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
+> "And for a lot of people, the further out in front those weights get, even a little bit, right, off the body, low back, boom, pull them in tight so they're closer to that axis of rotation." — sources/S_ig_coachjoedrake_Cq5BY3Ygc66.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as more torque is better: the clip corrects exactly that reading — torque in the wrong area (low back) is the failure mode, and the goal is keeping the load close to the hip axis so the glutes and hamstrings take it.
+- Read as an anatomical landmark on the body: the axis here is a coaching reference point at the hips for cueing dumbbell position, not a measured joint axis from biomechanics texts.

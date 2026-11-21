@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["Snoop", "Doggy"]
+aka: [like this and like that]
 origin: sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 ---
 
-# G_ig_coachjoedrake_Cs-2IRJAXnB — Snoop
+# G_ig_coachjoedrake_Cs-2IRJAXnB — like this and like that
 
 ## Term
 
-This source is very short (49 words), so no term repeats enough for a frequency-based entry; Snoop is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Like this and like that is the refrain of this captioned lyric clip: "It's like this and like that and like this and uh." The phrase occurs 3 times across the three transcribed lines, stacked after the opening ("One, two, three, and to the four. Snoop Doggy Dogg and Dr. Dre is at the door") and then varied once ("like that and like this"). It is the song's flow-hook — pure rhythm words carrying no propositional content — and the source contains nothing else. The entry documents the chant as the clip's central repeated phrase.
 
 ## Synonyms
 
-- Snoop
-- Doggy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "two, three, and to the four. Snoop Doggy Dogg and Dr. Dre is at the door. It's like this and like that and like this and uh. It's like that and like this and like that and uh." — sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
+> "One, two, three, and to the four. Snoop Doggy Dogg and Dr. Dre is at the door. It's like this and like that and like this and uh. It's like that and like this and like that and uh. It's like this and like that and like this and." — sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as comparative examples ("like this and like that" as in various kinds): in the lyric the words are a rhythmic refrain, not an enumeration of examples.
+- Read as coaching vocabulary: this is a transcribed song caption on the reel; the trainer uses none of it as instruction.

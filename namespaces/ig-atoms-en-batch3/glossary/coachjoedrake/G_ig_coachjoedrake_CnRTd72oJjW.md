@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["shoulder", "blades"]
+aka: [shoulder blades, shoulder blade]
 origin: sources/S_ig_coachjoedrake_CnRTd72oJjW.md
 ---
 
-# G_ig_coachjoedrake_CnRTd72oJjW — shoulder
+# G_ig_coachjoedrake_CnRTd72oJjW — shoulder blades
 
 ## Term
 
-shoulder is the most prominent repeated term in this source (262-word transcript from the Instagram account coachjoedrake): it occurs 13 times literally in the text, most often collocated with: blades, together, back. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The shoulder blades are the anatomy lesson of this clip: the speaker walks through every direction they can move and why a coach should know it ("it's important that we know what they can do"). The plural occurs 10 times with the singular shoulder blade 3 more, and the text names their paired movements — retraction ("squeeze those shoulder blades back together"), protraction, elevation, depression, and the upward and downward rotation he ties to overhead pressing and pull-ups. The usage is instructional: each motion is demonstrated on camera and then recapped, so the term functions as the organizing anatomical object of the whole lesson.
 
 ## Synonyms
 
-- shoulder
-- blades
+- shoulder blade
 
 ## Live Example
 
-> "Shoulder blade motion. All right, the shoulder blades themselves are capable of a lot of motion. Oftentimes during exercises, we may or may not want them to be moving, but it's important that we know what they can do." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
-> "As they push apart, that's called protraction. So retraction, squeezing those shoulder blades back together. Protraction, shoulder blades separate and go apart. We have elevation, right, where I'm bringing that shoulder blade up, shoulders closer to my ears, and then also depression." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
-> "We have elevation, depression, protraction, retraction, and then also this upward and downward rotation of the shoulder" — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
+> "First one, as I squeeze my shoulder blades back together, right, those shoulder blades come back around the rib cage and squeeze together. That's retraction. So retract your shoulder blades. You might have heard that before." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
+> "And those ones will be important as you guys look at the push-pull assessments and what's going on at the neck and the shoulders that we're able to bring ourselves out of elevation and into depression." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a shoulder-pain fix: the clip catalogs normal motion (retraction, protraction, elevation, depression, rotation) for exercise selection, not a diagnosis or correction protocol for pain.
+- Read as independent cues: the speaker's point is the opposite — during an exercise "we may or may not want them to be moving", so knowing the six motions is what lets a coach decide when the blades should stay still.

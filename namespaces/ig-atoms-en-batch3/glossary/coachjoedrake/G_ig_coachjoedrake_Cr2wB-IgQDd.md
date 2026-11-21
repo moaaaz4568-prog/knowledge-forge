@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["brothers", "bout"]
+aka: [streak]
 origin: sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 ---
 
-# G_ig_coachjoedrake_Cr2wB-IgQDd — brothers
+# G_ig_coachjoedrake_Cr2wB-IgQDd — streak
 
 ## Term
 
-This source is very short (82 words), so no term repeats enough for a frequency-based entry; brothers is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Streak appears once in this captioned lyric clip, inside a work-rate bar: "I'm doing ten in a week. How long I been on the streak?" Around it, the verse stacks the grind it measures — "Studio right in my yard", "Dream about working my sleep", "I got a lock on the streets". In this usage a streak is the unbroken run of creative output (ten studio sessions a week), worn as proof of commitment. The word arrives as a rhetorical question the song answers by living it; the clip carries no coaching content.
 
 ## Synonyms
 
-- brothers
-- bout
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Shout out to T to three. And he brought it in 'cause of me. You don't know nothing 'bout me. Life on my brothers is" — sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
+> "Studio right in my yard. I'm doing ten in a week. How long I been on the streak? Dream about working my sleep." — sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the trainer's training streak: the streak in the lyric is about studio output — ten sessions a week, dreaming about work — not consecutive workout days or habit coaching.
+- Read as a documented, datable run: the lyric poses "How long I been on the streak?" and never answers it; the transcript records no count or timespan for the streak.

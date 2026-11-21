@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["accomplish", "difficult"]
+aka: [go after]
 origin: sources/S_ig_coachjoedrake_Cnbp2dUq1xL.md
 ---
 
-# G_ig_coachjoedrake_Cnbp2dUq1xL — accomplish
+# G_ig_coachjoedrake_Cnbp2dUq1xL — go after
 
 ## Term
 
-accomplish is the most prominent repeated term in this source (70-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: difficult, put, eggs. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Go after is this motivational clip's imperative for pursuing goals: "Go after your dreams" and "Go after it" open the text, and the past tense went after closes the argument ("I went after it"). The verb occurs twice, wrapped in the language of refusing limits — "I never allowed anybody to tell me what I was capable of accomplishing" — and its companion claim is the eggs-in-one-basket rule: anything most people call difficult to accomplish demands total commitment. Here going after something names committing fully, not merely trying it.
 
 ## Synonyms
 
-- accomplish
-- difficult
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I never let anybody tell me that I can't do. I went after it. If you want to accomplish something or do something that a lot of people think is difficult to accomplish, you have to put all your eggs in one basket." — sources/S_ig_coachjoedrake_Cnbp2dUq1xL.md
+> "Go after your dreams, right? Go after it. I never compromised that. I never allowed anybody to tell me what I was capable of accomplishing. I never let anybody tell me that I can't do." — sources/S_ig_coachjoedrake_Cnbp2dUq1xL.md
+> "If you want to accomplish something or do something that a lot of people think is difficult to accomplish, you have to put all your eggs in one basket." — sources/S_ig_coachjoedrake_Cnbp2dUq1xL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as casual encouragement: in this clip the phrase carries an all-or-nothing commitment claim — "you have to put all your eggs in one basket" — rather than a low-stakes suggestion to try things.
+- Read as a finished biography: the text cuts off mid-sentence ("There's no"), so the full consequences of the eggs-in-one-basket advice are not spelled out in this source.

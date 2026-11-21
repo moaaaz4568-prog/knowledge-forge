@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["already", "training"]
+aka: [confident]
 origin: sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
 ---
 
-# G_ig_coachjoedrake_CpkWU6IAqsQ — already
+# G_ig_coachjoedrake_CpkWU6IAqsQ — confident
 
 ## Term
 
-already is the most prominent repeated term in this source (141-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: training, confident, mind. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Confident is the posture this sales clip models for trainers closing a first client: act on the assumption the deal is happening. It occurs twice — "Be confident in what you're doing" and, after he describes pulling out his calendar and saying "I already have you put in for next Tuesday", "Right? Very confident." The companions are asking, maybe, calendar, and already: his contrast is the hedging asker ("so what do you think?... maybe we'll train together?") versus the trainer who schedules the next session before asking. His grounding for the confidence: "they're already there with you. They're looking for help."
 
 ## Synonyms
 
-- already
-- training
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You know, I enjoyed training with you as well. I feel like I've got a great plan for you. And based on the schedule you said, I already have you put in for next Tuesday. Right? Very confident. In your mind, guys, they're already training with you. All right? Because they're already there with you. They're looking for help. Don't be afraid to be that person." — sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
+> "I'm not asking, like, so what do you think? You know, like maybe we'll train together? Like maybe we'll go on a date again? Right? Be confident in what you're doing." — sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
+> "And based on the schedule you said, I already have you put in for next Tuesday. Right? Very confident. In your mind, guys, they're already training with you." — sources/S_ig_coachjoedrake_CpkWU6IAqsQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as arrogance or pressure tactics: the modeled move is administrative — a calendar already filled in for next Tuesday — paired with the belief that "most people need from a coach is someone who believes in them more than they believe in themselves"; no hard-close language is used.
+- Read as guaranteed closes: the source's reasoning is that the prospect is already seeking help; nothing here claims every prospect converts, only which stance to operate from.

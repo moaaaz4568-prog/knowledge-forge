@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["training", "deliver"]
+aka: [on stage]
 origin: sources/S_ig_coachjoedrake_CqlhWshAP6I.md
 ---
 
-# G_ig_coachjoedrake_CqlhWshAP6I — training
+# G_ig_coachjoedrake_CqlhWshAP6I — on stage
 
 ## Term
 
-training is the most prominent repeated term in this source (239-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: deliver, experience, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+On stage is the show-business metaphor this image clip applies to working the floor of a busy gym: "you are always on stage. There are always people who are shopping your training." It occurs once, surrounded by first impression, positive interaction, and box gym. The point is that presentation is part of the job — don't "look like you just rolled out of bed" when clients "are going to be paying good money for your time", because long-time clients may forgive it but "they're thinking about it", and a shopper remembering you decides the moment they want training. The stage is the gym floor, the audience is everyone watching, not only current clients.
 
 ## Synonyms
 
-- training
-- deliver
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And regardless of how you look, obviously you can deliver on the training and the experience. And maybe you have clients that you've had for a long time and they give you the benefit of the doubt. But there is absolutely no doubt in my mind that they're thinking about it." — sources/S_ig_coachjoedrake_CqlhWshAP6I.md
-> "And especially if you're in a busier, bigger box gym, you are always on stage. There are always people who are shopping your training. Even if they're not thinking about training right now or they're not really going to be, you know, interested in purchasing, the moment that they do, there's going to be someone that comes up in their" — sources/S_ig_coachjoedrake_CqlhWshAP6I.md
+> "As a personal trainer, you've got a very short window of creating a positive interaction, a positive first experience or first impression. And especially if you're in a busier, bigger box gym, you are always on stage. There are always people who are shopping your training." — sources/S_ig_coachjoedrake_CqlhWshAP6I.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as performative personality work: being on stage here covers appearance and first impressions on the gym floor, not performing enthusiasm — the concrete example is not looking like you rolled out of bed.
+- Read as applying to every setting: the claim is tied to "a busier, bigger box gym" where people are always shopping your training; a private studio floor with no walk-by audience is a different stage.

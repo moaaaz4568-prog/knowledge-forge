@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["motherfucking bitch", "none"]
+aka: [gotta get the money]
 origin: sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
 ---
 
-# G_ig_coachjoedrake_CsqTpNWgYCh — motherfucking bitch
+# G_ig_coachjoedrake_CsqTpNWgYCh — gotta get the money
 
 ## Term
 
-motherfucking bitch is the most prominent repeated term in this source (68-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: none, takes, nigga. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Gotta get the money is this clip's entire text: a two-line rap hook repeated four times — "Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch." The phrase occurs 4 times, and the source contains nothing else. It is a captioned lyric chant about being broke and hustling for money; there is no coaching content in the clip. The entry documents the chant as the source's central phrase, per the rule that a chant-source gets its central phrase documented.
 
 ## Synonyms
 
-- motherfucking bitch
-- none
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none." — sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
-> "All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch" — sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
+> "Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch." — sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as financial advice or the trainer's own statement: this is transcribed song lyric captioned on the reel — a chant about being broke and hustling — not the account owner speaking about his finances.
+- Read as four stanzas of content: the four repetitions are one hook looped; the transcript holds no verses, context, or attribution beyond the chant itself.

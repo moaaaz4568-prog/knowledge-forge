@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["feel", "reason"]
+aka: [come alive]
 origin: sources/S_ig_coachjoedrake_Csi82KOgKik.md
 ---
 
-# G_ig_coachjoedrake_Csi82KOgKik — feel
+# G_ig_coachjoedrake_Csi82KOgKik — come alive
 
 ## Term
 
-feel is the most prominent repeated term in this source (19-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: reason, love, weight. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Come alive is the central phrase of this 22-word captioned lyric clip: "When you come alive, when you drop your reason, when you feel the love, when you feel the weight." It occurs once, heading four parallel when-clauses, and its companions in the line are drop your reason, feel the love, and feel the weight. As used in the song, coming alive means shedding rational restraint for felt experience — love and weight alike — and the clip contains nothing beyond this verse. The entry documents the phrase as the source's central concept.
 
 ## Synonyms
 
-- feel
-- reason
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you come alive, when you drop your reason, when you feel the love, when you feel the" — sources/S_ig_coachjoedrake_Csi82KOgKik.md
+> "When you come alive, when you drop your reason, when you feel the love, when you feel the weight." — sources/S_ig_coachjoedrake_Csi82KOgKik.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a training or energy-systems concept: the phrase is song lyric about dropping your reason and feeling love and weight; it names no physiological state of arousal or readiness.
+- Read as four separate teachings: the when-clauses are one lyric's parallel structure, not a list of distinct claims to be analyzed separately.

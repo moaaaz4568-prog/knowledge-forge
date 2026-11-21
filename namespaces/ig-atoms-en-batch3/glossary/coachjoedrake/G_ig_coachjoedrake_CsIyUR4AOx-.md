@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["exercises", "example"]
+aka: [plank, planking]
 origin: sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
 ---
 
-# G_ig_coachjoedrake_CsIyUR4AOx- — exercises
+# G_ig_coachjoedrake_CsIyUR4AOx- — plank
 
 ## Term
 
-exercises is the most prominent repeated term in this source (173-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: example, historical, feel. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Plank is the exercise this clip argues against over-practicing: an isometric hold whose value expires fast. The noun occurs 3 times with planking twice more — "do more than 30 to 60 seconds in a plank, you're just wasting your time", "a 90 second to three minute plank", "exercises that require the plank while you're doing it" — and the companions are seconds, competition, and push-up. His case: the plank is a "historical exercise people feel like they just need to do for no good reason", and a push-up already is planking "the entire time", so — short of "some sort of planking competition" — the better use of time is exercises that build the plank position while doing something else. His wider principle: "the rules have all been made up."
 
 ## Synonyms
 
-- exercises
-- example
+- planking
 
 ## Live Example
 
-> "And this is a great example of some of the historical exercises that people feel like they just need to do for no good reason, or maybe because they don't know there are better variations out there, better uses of your time." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
-> "up to a 90 second to three minute plank, unless you're training for some sort of planking competition, start to challenge yourself to do exercises that require the plank while you're doing it. And then the other thing to keep in mind is when it comes to exercise, guys, the rules have all been made up." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
-> "So don't feel like you got to be stuck in any one thing, but think through the exercises that you're doing and how they go" — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
+> "Once you've accomplished the ability to do more than 30 to 60 seconds in a plank, you're just wasting your time." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
+> "Simple example would be the fact that while you're doing a push-up, for the most part, you're planking the entire time. So instead of only working on building up to a 90 second to three minute plank, unless you're training for some sort of planking competition, start to challenge yourself to do exercises that require the plank while you're doing it." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as planks being useless: the clip's line is time-efficiency beyond 30 to 60 seconds (with a planking-competition carve-out), and it reuses the plank inside harder exercises — not a ban.
+- Read as a precise threshold: 30 to 60 seconds is his conversational cutoff for diminishing returns, not a tested physiological boundary; the argument stands on the push-up example and made-up-rules reasoning.

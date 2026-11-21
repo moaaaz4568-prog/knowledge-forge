@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["groove", "hit"]
+aka: [do your thing]
 origin: sources/S_ig_coachjoedrake_CpbJnmbAHOd.md
 ---
 
-# G_ig_coachjoedrake_CpbJnmbAHOd — groove
+# G_ig_coachjoedrake_CpbJnmbAHOd — do your thing
 
 ## Term
 
-This source is very short (35 words), so no term repeats enough for a frequency-based entry; groove is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Do your thing is the whole text of this 29-word clip: a chanted hook repeated four times ("Do your thing, do your thing, do your thing, do your thing"), then answered by a spoken request — "Can you just, can you do something for me? Can you hit a little groove for me?" It is the central phrase of the source and occurs 4 times, with something, groove, and for me as its companions. As used here it is a song's chant-line inviting someone to perform their own way; there is no coaching content in the clip to give it a technical meaning.
 
 ## Synonyms
 
-- groove
-- hit
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Can you just, can you do something for me? Can you hit a little groove for me? Can you do something for" — sources/S_ig_coachjoedrake_CpbJnmbAHOd.md
+> "Do your thing, do your thing, do your thing, do your thing. Can you just, can you do something for me? Can you hit a little groove for me? Can you do something for me?" — sources/S_ig_coachjoedrake_CpbJnmbAHOd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching instruction: this is a music chant captioned on the reel; the trainer is not telling a client to perform an exercise their own way.
+- Read as complete lyrics: four identical chant lines plus one request is all the text there is — treating this 29-word transcript as documentation of anything beyond the hook overreaches it.
