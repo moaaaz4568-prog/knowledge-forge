@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["insights", "flip"]
+aka: ["overlay without"]
 origin: sources/S_ig_disisjorj_Cyqf1ECN_xz.md
 ---
 
-# G_ig_disisjorj_Cyqf1ECN_xz — insights
+# G_ig_disisjorj_Cyqf1ECN_xz — overlay without
 
 ## Term
 
-This source is very short (37 words), so no term repeats enough for a frequency-based entry; insights is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'overlay without' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'film', 'burn', and 'adding' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Don't use a film burn overlay without adding… The sentence around 'overlay' only carries weight because 'overlay without' is what the sentence is really about.
 
 ## Synonyms
 
-- insights
-- flip
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "use a film burn overlay without adding these three sound effects: a whoosh, a paper flip, and a camera shutter. I got more insights like this on my account, so be sure to check them" — sources/S_ig_disisjorj_Cyqf1ECN_xz.md
+> "Don't use a film burn overlay without adding these three sound effects: a whoosh, a paper flip, and a camera shutter. I got more insights like this on my account, so be sure" — sources/S_ig_disisjorj_Cyqf1ECN_xz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in disisjorj's usage, 'overlay without' is loaded with a specific working meaning (visible in the collocation with 'adding'), not the dictionary sense.
+- Read as evidence the term is central to the account: one 37-word clip showing 'overlay without' next to 'adding' is too small a sample to anchor a wider claim about what disisjorj writes about.

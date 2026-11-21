@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["beginning", "McDonald"]
+aka: ["common misunderstanding"]
 origin: sources/S_ig_disisjorj_C9spzGNt7BP.md
 ---
 
-# G_ig_disisjorj_C9spzGNt7BP — beginning
+# G_ig_disisjorj_C9spzGNt7BP — common misunderstanding
 
 ## Term
 
-beginning is the most prominent repeated term in this source (96-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: mcdonald, offered, burgers. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'common misunderstanding' names the specific advantage disisjorj argues is missing in the person's current setup — the lever they have not yet pulled. It appears once in the transcript, and it sits next to 'comes', 'social', and 'media' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: A common misunderstanding when it comes to social… Pull 'common misunderstanding' and the clip's spine comes loose — 'focusing' would still be there but would not point at anything.
 
 ## Synonyms
 
-- beginning
-- McDonald
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The point is how did they get there? And to jump on that idea of the McDonald's. McDonald's only offered burgers in the beginning. After the twenty, thirty, hundred years of being in service, sure we can add a salad, but in the beginning, this is what we're doing." — sources/S_ig_disisjorj_C9spzGNt7BP.md
+> "A common misunderstanding when it comes to social media and personal brand: you get to see a final result of someone who is like Peter McKinnon and Alex" — sources/S_ig_disisjorj_C9spzGNt7BP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business word: in disisjorj's reel, 'common misunderstanding' is the specific resource or move disisjorj says compounds effort, not the vague sense of business leverage.
+- Read as a stylistic choice by disisjorj: the wording around 'common misunderstanding' (e.g. the collocation with 'burgers') is the speech of one clip, not a stylistic pattern that can be generalised.

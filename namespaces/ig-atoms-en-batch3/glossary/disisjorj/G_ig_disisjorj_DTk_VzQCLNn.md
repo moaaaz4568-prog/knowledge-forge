@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["connected", "change"]
+aka: ["connected"]
 origin: sources/S_ig_disisjorj_DTk_VzQCLNn.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_DTk_VzQCLNn.md
 
 ## Term
 
-connected is the most prominent repeated term in this source (159-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: change, teleprompter, ipad. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'connected' is the sales move disisjorj argues is the difference between an objection that sticks and one that dissolves. It appears 3 times, it sits next to 'never', 'change', and 'teleprompter' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is as close as you get to… The argument only stays upright while 'connected' is doing the work — pull it and 'software' loses its anchor.
 
 ## Synonyms
 
-- connected
-- change
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is as close as you get to the perfect video setup because everything is connected in this little guy over here and in this software over here. The lights never change, the teleprompter is connected, the iPad is connected." — sources/S_ig_disisjorj_DTk_VzQCLNn.md
+> "This is as close as you get to the perfect video setup because everything is connected in this little guy over here and in this software over here. The lights never change, the teleprompter is connected, the iPad is connected. Here" — sources/S_ig_disisjorj_DTk_VzQCLNn.md
+> "and in this software over here. The lights never change, the teleprompter is connected, the iPad is connected. Here you can type different things that you can see here on the teleprompter while looking at your camera. And then this little guy over here" — sources/S_ig_disisjorj_DTk_VzQCLNn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'connected' to a specific move disisjorj says is missing here, not a universal recommendation.
+- Read as proof the term is load-bearing for disisjorj in general: a 159-word clip with the word 'connected' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

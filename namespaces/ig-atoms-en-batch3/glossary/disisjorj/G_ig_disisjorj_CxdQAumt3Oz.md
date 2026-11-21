@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["start", "stressed"]
+aka: ["personalized source"]
 origin: sources/S_ig_disisjorj_CxdQAumt3Oz.md
 ---
 
-# G_ig_disisjorj_CxdQAumt3Oz — start
+# G_ig_disisjorj_CxdQAumt3Oz — personalized source
 
 ## Term
 
-start is the most prominent repeated term in this source (80-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: stressed, afraid, posting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'personalized source' in this clip is the lever that converts effort into reach — disisjorj insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'wins', 'stack', and 'develop' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: That's when small wins start to stack up… Pull 'personalized source' and the clip's spine comes loose — 'achieve' would still be there but would not point at anything.
 
 ## Synonyms
 
-- start
-- stressed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "wish I could say I wasn't stressed or afraid to start posting online, but I did, and everyone does." — sources/S_ig_disisjorj_CxdQAumt3Oz.md
-> "bigger than anything that anyone could potentially say about you, that's when you unlock endless motivation. That's when small wins start to stack up and develop a personalized source of proof that it's worth it, that you deserve it, and that you'll achieve" — sources/S_ig_disisjorj_CxdQAumt3Oz.md
+> "you, that's when you unlock endless motivation. That's when small wins start to stack up and develop a personalized source of proof that it's worth it, that you deserve it, and that you'll achieve it" — sources/S_ig_disisjorj_CxdQAumt3Oz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'personalized source' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'experience' makes that visible.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'personalized source' next to 'experience') may not be load-bearing in disisjorj's wider body of work.

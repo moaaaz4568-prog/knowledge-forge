@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["challenging", "help"]
+aka: ["challenging yourself"]
 origin: sources/S_ig_disisjorj_CubCKLlpSO8.md
 ---
 
-# G_ig_disisjorj_CubCKLlpSO8 — challenging
+# G_ig_disisjorj_CubCKLlpSO8 — challenging yourself
 
 ## Term
 
-challenging is the most prominent repeated term in this source (101-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: help, notice, value. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'challenging yourself' is the cue disisjorj says a person must feel before the rep becomes useful. It appears once in the transcript, and it sits next to 'longer', 'vegan', and 'help' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I'm no longer vegan, but I can't help… What makes the word 'challenging yourself' the term here is that the rest — 'importance', 'challenging', everything else — is staged for it.
 
 ## Synonyms
 
-- challenging
-- help
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "since I was a kid, I loved the idea of challenging myself. When I turned eighteen, I set out a goal to become vegan for a week, an experiment that restricted my diet to probably ten percent of what I was used to, purely based on the fact that one of the hardest things to control is when" — sources/S_ig_disisjorj_CubCKLlpSO8.md
-> "A week became a month, and a month became five years. I'm no longer vegan, but I can't help but notice the value in challenging yourself, the importance of mind over body, and staying true to your" — sources/S_ig_disisjorj_CubCKLlpSO8.md
+> "month, and a month became five years. I'm no longer vegan, but I can't help but notice the value in challenging yourself, the importance of mind over body, and staying true to your word" — sources/S_ig_disisjorj_CubCKLlpSO8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'challenging yourself' here is loaded with a specific felt-position meaning by disisjorj, not a vague cue.
+- Read as a claim about how disisjorj uses 'challenging yourself' across their work: this single 101-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["hybrid", "service"]
+aka: ["hybrid"]
 origin: sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
 
 ## Term
 
-hybrid is the most prominent repeated term in this source (181-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: service, mean, using. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'hybrid' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 4 times, it sits next to 'mean', 'done', and 'call' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: And that's where we have kind of what… Take 'hybrid' out and the clip collapses into generalities about services — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- hybrid
-- service
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And that's where we have kind of what many people will call done with you and/or a hybrid service. By hybrid, I mean a hybrid service is you're using a combination of coursework, curriculum, if you want to call it that, with some small group experiences like group coaching calls or consulting calls, woven with a little bit of" — sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
-> "And lastly, bringing people together in a community so that they get different perspective. So when I say hybrid or blended services, that's really what I mean." — sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
+> "path to the result. And that's where we have kind of what many people will call done with you and/or a hybrid service. By hybrid, I mean a hybrid service is you're using a combination of coursework, curriculum, if you want to call it that, with some small" — sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
+> "lastly, bringing people together in a community so that they get different perspective. So when I say hybrid or blended services, that's really what I mean. It's a mix of done for you, it's a mix of consulting, it's a mix of online coursework and curriculum" — sources/S_ig_gregoryjhickman_C2aWcIoMgEg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in gregoryjhickman's usage, 'hybrid' is loaded with a specific working meaning (visible in the collocation with 'coaching'), not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'hybrid' next to 'coaching') may not be load-bearing in gregoryjhickman's wider body of work.

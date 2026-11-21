@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["back", "special"]
+aka: ["bringing sexy"]
 origin: sources/S_ig_dankhanlegacy_DQwOKkhDAtd.md
 ---
 
-# G_ig_dankhanlegacy_DQwOKkhDAtd — back
+# G_ig_dankhanlegacy_DQwOKkhDAtd — bringing sexy
 
 ## Term
 
-back is the most prominent repeated term in this source (27-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: special, behind, turn. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'bringing sexy' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears once in the transcript, and it sits next to 'boys' each time it appears — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: I'm bringing sexy back, yeah… The argument only stays upright while 'bringing sexy' is doing the work — pull it and 'behind' loses its anchor.
 
 ## Synonyms
 
-- back
-- special
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "bringing sexy back, yeah. The other boys don't know how to act, yeah. I think it's special what's behind your back, yeah." — sources/S_ig_dankhanlegacy_DQwOKkhDAtd.md
+> "I'm bringing sexy back, yeah. The other boys don't know how to act, yeah. I think it's special what's behind your back, yeah. So turn around and" — sources/S_ig_dankhanlegacy_DQwOKkhDAtd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'bringing sexy' as a working label for an idea dankhanlegacy is arguing, not as a tagline to be repeated.
+- Read as a rule for using 'bringing sexy': the clip shows dankhanlegacy using the word in one specific move (alongside 'bringing'), not a recommendation that the reader adopt the word themselves.

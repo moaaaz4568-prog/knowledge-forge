@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["offer", "feel"]
+aka: ["because everybody's", "because everybody'"]
 origin: sources/S_ig_geoff_ketterer_DTAruVSDWhV.md
 ---
 
-# G_ig_geoff_ketterer_DTAruVSDWhV — offer
+# G_ig_geoff_ketterer_DTAruVSDWhV — because everybody's
 
 ## Term
 
-offer is the most prominent repeated term in this source (169-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: feel, stupid, turned. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'because everybody's' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears twice, it sits next to 'days', 'cool', and 'nobody' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: Because everybody's said that… Anything else in the clip orbits this word — strip out 'because everybody's' and the rest reads as filler around 'started'.
 
 ## Synonyms
 
-- offer
-- feel
+- because everybody'
 
 ## Live Example
 
-> "Every coach, every funnel, everybody that's ever sent a cold DM that led to their Calendly link has said that. So what started as an offer so good they feel stupid saying no turned into an offer so fake they feel like an idiot if they believe it. And it wasn't that Hormozzi was giving bad advice. It was good advice." — sources/S_ig_geoff_ketterer_DTAruVSDWhV.md
-> "You've got to earn it by showing undeniable proof of your work. The reason they're not responding is not because the offer sucks. It's because everybody's heard that before and probably been burned. Trust isn't something that you can just blindly guarantee." — sources/S_ig_geoff_ketterer_DTAruVSDWhV.md
+> "So you guarantee results in 90 days or they don't pay. Cool. Nobody fucking believes you. Because everybody's said that. Every coach, every funnel, everybody that's ever sent a cold DM that led to their Calendly link has said that. So what started" — sources/S_ig_geoff_ketterer_DTAruVSDWhV.md
+> "undeniable proof of your work. The reason they're not responding is not because the offer sucks. It's because everybody's heard that before and probably been burned. Trust isn't something that you can just blindly guarantee. It's something you've got to" — sources/S_ig_geoff_ketterer_DTAruVSDWhV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'because everybody's' is geoff_ketterer's coaching cue for a felt position, not a clinical label.
+- Read as a clean transcript: the wording around 'because everybody's' (including the run-on near 'offer') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

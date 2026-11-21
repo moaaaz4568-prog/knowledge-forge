@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["connection", "focus"]
+aka: ["genuine connection"]
 origin: sources/S_ig_disisjorj_C9XDKGGtQPd.md
 ---
 
-# G_ig_disisjorj_C9XDKGGtQPd — connection
+# G_ig_disisjorj_C9XDKGGtQPd — genuine connection
 
 ## Term
 
-connection is the most prominent repeated term in this source (200-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: focus, metrics, rather. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'genuine connection' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'views', 'hundreds', and 'thousands' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: The worst place that you can end up… Read alongside 'cohorts', the word 'genuine connection' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- connection
-- focus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The worst place that you can end up in is an account with millions of views, hundreds of thousands of followers, but no genuine connection between the creator and the audience. And we see that all the time. People focus on metrics rather than connection. They launch a product, they get two sales. Focus on exploiting your uniqueness in the service of others." — sources/S_ig_disisjorj_C9XDKGGtQPd.md
+> "that you can end up in is an account with millions of views, hundreds of thousands of followers, but no genuine connection between the creator and the audience. And we see that all the time. People focus on metrics rather than connection. They launch a product" — sources/S_ig_disisjorj_C9XDKGGtQPd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'genuine connection' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a rule for using 'genuine connection': the clip shows disisjorj using the word in one specific move (alongside 'reach'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["VSL", "simple"]
+aka: ["complicated funnels"]
 origin: sources/S_ig_dankhanlegacy_DJJ3g_iMQv7.md
 ---
 
-# G_ig_dankhanlegacy_DJJ3g_iMQv7 — VSL
+# G_ig_dankhanlegacy_DJJ3g_iMQv7 — complicated funnels
 
 ## Term
 
-VSL is the most prominent repeated term in this source (139-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: simple, sales, letter. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'complicated funnels' is the future-pain frame dankhanlegacy uses to make the present situation feel unsustainable. It appears once in the transcript, and it sits next to 'online', 'methods', and 'endless' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: The old methods, endless webinars, complicated funnels, pushy… The clip is engineered so that 'irrelevant' lands as setup, not payoff; the payoff is the move 'complicated funnels' names.
 
 ## Synonyms
 
-- VSL
-- simple
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "targeting, poor marketing strategy, technical issues, lack of engagement, and poor follow-up. And none of it happens with a simple VSL, a video sales letter funnel. VSL funnels are fully automated money makers, which means no more live presentations, no more praying your internet doesn't crash, no more awkward Q and A's with crickets chirping." — sources/S_ig_dankhanlegacy_DJJ3g_iMQv7.md
+> "last 24 months, we've seen a huge change in how people buy online. The old methods, endless webinars, complicated funnels, pushy sales calls seem irrelevant now. Webinars fail because of a lack of audience targeting, poor marketing strategy, technical issues" — sources/S_ig_dankhanlegacy_DJJ3g_iMQv7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: dankhanlegacy uses 'complicated funnels' here in the framing of a sales conversation, not as a portfolio term.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 139-word clip with the word 'complicated funnels' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

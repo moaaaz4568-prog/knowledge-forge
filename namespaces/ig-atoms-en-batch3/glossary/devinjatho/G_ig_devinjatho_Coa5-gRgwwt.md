@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["username", "copy"]
+aka: ["google viralfinder"]
 origin: sources/S_ig_devinjatho_Coa5-gRgwwt.md
 ---
 
-# G_ig_devinjatho_Coa5-gRgwwt — username
+# G_ig_devinjatho_Coa5-gRgwwt — google viralfinder
 
 ## Term
 
-username is the most prominent repeated term in this source (74-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: copy, google, viralfinder. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'google viralfinder' in this clip is the lever that converts effort into reach — devinjatho insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'copy', 'username', and 'leader' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: Now, Google viralfinder dot com… The clip's relationship to 'inspiration' only makes sense as a vehicle for delivering 'google viralfinder'.
 
 ## Synonyms
 
-- username
-- copy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Search for a leader within your niche and copy their username. Now, Google viralfinder dot com. Copy and paste their username into user search, and it will automatically give you their best performing post." — sources/S_ig_devinjatho_Coa5-gRgwwt.md
+> "competitor's most viral videos. Search for a leader within your niche and copy their username. Now, Google viralfinder dot com. Copy and paste their username into user search, and it will automatically give you their best performing post. So now, instead" — sources/S_ig_devinjatho_Coa5-gRgwwt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'google viralfinder' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as proof the term is load-bearing for devinjatho in general: a 74-word clip with the word 'google viralfinder' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

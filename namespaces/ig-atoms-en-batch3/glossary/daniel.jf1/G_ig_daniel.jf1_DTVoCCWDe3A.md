@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["bored", "entertained"]
+aka: ["daniel.jf1"]
 origin: sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
 ---
 
-# G_ig_daniel.jf1_DTVoCCWDe3A — bored
+# G_ig_daniel.jf1_DTVoCCWDe3A — There's a lot of people who haven't been bored in years. Lik…
 
 ## Term
 
-bored is the most prominent repeated term in this source (73-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: entertained, legitimately, without. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The daniel.jf1 clip is a short caption of 73 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "There's a lot of people who haven't been bored in years. Like you're not entertained, but you're not bored. What is bored? Bored is like you have legitimately nothing to do at all. You would be bored…".
 
 ## Synonyms
 
-- bored
-- entertained
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a lot of people who haven't been bored in years. Like you're not entertained, but you're not bored. What is bored? Bored is like you have legitimately nothing to do at all." — sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
+> "There's a lot of people who haven't been bored in years. Like you're not entertained, but you're not bored. What is bored? Bored is like you have legitimately nothing to do at all. You would be bored without your phone, and that you would just want to work or you would just want to go to the gym because it's some stimuli. Absent of that stimulus, the phone, you would do hella m" — sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'without') is what carries the mood, not a label being defined.
+- Read as a tagline to be quoted: extracting any phrase from here as the clip's slogan would be putting words on a string that has no thesis behind it.

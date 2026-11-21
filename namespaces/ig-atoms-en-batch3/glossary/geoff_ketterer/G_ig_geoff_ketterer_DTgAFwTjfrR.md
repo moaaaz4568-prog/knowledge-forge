@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["closer", "killer"]
+aka: ["closer"]
 origin: sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
 
 ## Term
 
-closer is the most prominent repeated term in this source (152-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: killer, unicorn, win. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'closer' is the body cue geoff_ketterer says the person must learn to feel before any external cue can help. It appears 4 times, it sits next to 'killer', 'unicorn', and 'sell' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: Your business doesn't need a killer closer or… The clip's claim about 'systems' is conditional on 'closer' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- closer
-- killer
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "business doesn't need a killer closer or a unicorn or somebody that can sell water to fish. That isn't what builds a scalable sales team. What you do need is a system that's so clear and so repeatable that even an average closer can succeed with it." — sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
-> "The reality is that if you think you need a killer closer or a unicorn, then your marketing is not working hard enough. The sales teams that I work with are not invested in finding this one person that can suddenly get deals over the line." — sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
-> "They're invested in building systems and frameworks that mean anybody can win. Because once that's in place, the closer doesn't have to be a killer, they just have to follow the" — sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
+> "Your business doesn't need a killer closer or a unicorn or somebody that can sell water to fish. That isn't what builds a scalable sales team. What you do need is a system that's so clear" — sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
+> "invested in building systems and frameworks that mean anybody can win. Because once that's in place, the closer doesn't have to be a killer, they just have to follow the process" — sources/S_ig_geoff_ketterer_DTgAFwTjfrR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'closer' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a recommendation to use 'closer' yourself: the clip shows geoff_ketterer using the word in one specific move (visible in the collocation with 'isn't'); it does not argue the reader should adopt it.

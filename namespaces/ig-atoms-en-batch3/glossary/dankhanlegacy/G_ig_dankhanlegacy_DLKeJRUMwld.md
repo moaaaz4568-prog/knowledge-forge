@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["mindset", "strategy"]
+aka: ["mindset"]
 origin: sources/S_ig_dankhanlegacy_DLKeJRUMwld.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DLKeJRUMwld.md
 
 ## Term
 
-mindset is the most prominent repeated term in this source (177-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: strategy, without, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'mindset' is the point where the stated problem becomes emotional — the moment dankhanlegacy says the sale actually happens. It appears 3 times, it sits next to 'strategy', 'without', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: You'll start thinking like them, start investing in… The sentence around 'society' only carries weight because 'mindset' is what the sentence is really about.
 
 ## Synonyms
 
-- mindset
-- strategy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You'll start thinking like them, start investing in mentorships, not just have the mindset but also have the strategies to make money online. That is the exact path to success because the strategy without mindset won't work and the mindset without strategy will not work. You need both." — sources/S_ig_dankhanlegacy_DLKeJRUMwld.md
+> "successful people. You'll start thinking like them, start investing in mentorships, not just have the mindset but also have the strategies to make money online. That is the exact path to success because the strategy without mindset won't work and the mindset" — sources/S_ig_dankhanlegacy_DLKeJRUMwld.md
+> "money online. That is the exact path to success because the strategy without mindset won't work and the mindset without strategy will not work. You need both. And the fastest way to get there is to invest in yourself and in a mentor. If you enjoyed that video" — sources/S_ig_dankhanlegacy_DLKeJRUMwld.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'mindset' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 177-word clip with the word 'mindset' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

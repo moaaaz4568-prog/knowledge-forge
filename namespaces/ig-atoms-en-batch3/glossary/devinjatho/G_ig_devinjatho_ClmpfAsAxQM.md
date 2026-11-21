@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["products", "almighty"]
+aka: ["underutilized strategy"]
 origin: sources/S_ig_devinjatho_ClmpfAsAxQM.md
 ---
 
-# G_ig_devinjatho_ClmpfAsAxQM — products
+# G_ig_devinjatho_ClmpfAsAxQM — underutilized strategy
 
 ## Term
 
-products is the most prominent repeated term in this source (216-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: almighty, solution, amazing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'underutilized strategy' names what devinjatho argues the game is actually for — the meaning that survives only when the cameras are off. It appears once in the transcript, and it sits next to 'using', 'statements', and 'list' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: They are the most underutilized strategy on this… This is the word the clip is built to deliver; 'salesy' is texture around it, not the point.
 
 ## Synonyms
 
-- products
-- almighty
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not getting buyers to your products because they just don't see it enough. It takes at least seven times for the average consumer to even think about buying from you. So here's three quick hacks to sneak in your products without seeming too salesy." — sources/S_ig_devinjatho_ClmpfAsAxQM.md
-> "That's where you come in with the almighty solution, also known as your amazing products that you want to sell them. If you guys want more valuable videos like this, drop a" — sources/S_ig_devinjatho_ClmpfAsAxQM.md
+> "and reply to it to make your service known. The second way is using PS statements. They are the most underutilized strategy on this list. At the end of every single one of your captions, add a PS statement mentioning your offer. It is the perfect time" — sources/S_ig_devinjatho_ClmpfAsAxQM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sports-industry term: in devinjatho's framing, 'underutilized strategy' is the uncommodified meaning of the sport, not a business category.
+- Read as evidence devinjatho always uses 'underutilized strategy' this way: one 216-word clip is too thin a sample to support any claim about how the account uses the word in general.

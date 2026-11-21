@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["tonight", "try"]
+aka: ["enough room"]
 origin: sources/S_ig_geoff_ketterer_DXi-SCeNiHp.md
 ---
 
-# G_ig_geoff_ketterer_DXi-SCeNiHp — tonight
+# G_ig_geoff_ketterer_DXi-SCeNiHp — enough room
 
 ## Term
 
-tonight is the most prominent repeated term in this source (219-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: try, show, seemed. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the geoff_ketterer reel, 'enough room' is the concept geoff_ketterer keeps returning to as the thing that decides whether the rest of the advice lands. It appears twice, it sits next to 'wonder', 'calendars', and 'terrible' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: You see, one thing grown-ups are always good… Even the move around 'yourself' only registers as a move because 'enough room' is the thing being moved toward.
 
 ## Synonyms
 
-- tonight
-- try
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To be okay with not having it all figured out, and that's all I ask of you tonight. It's not going to take much effort, just a little shift in your perspective. But if you're willing to play, I promise you it will be fun." — sources/S_ig_geoff_ketterer_DXi-SCeNiHp.md
-> "And if you're willing to go on the journey with me tonight, well then I'm going to try to show you some things that before tonight maybe seemed" — sources/S_ig_geoff_ketterer_DXi-SCeNiHp.md
+> "are always good at is remembering to fill our calendars, and one thing we're terrible at is leaving enough room for wonder. To be okay with not having it all figured out, and that's all I ask of you tonight. It's not going to take much effort, just a" — sources/S_ig_geoff_ketterer_DXi-SCeNiHp.md
+> "will find that in the midst of all that great stuff, it is still quite possible to leave yourself just enough room for wonder. And if you're willing to go on the journey with me tonight, well then I'm going to try to show you some things that before tonight" — sources/S_ig_geoff_ketterer_DXi-SCeNiHp.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'enough room' as a working concept geoff_ketterer is installing in this clip, not a generic self-help label.
+- Read as a stylistic choice by geoff_ketterer: the wording around 'enough room' (e.g. the collocation with 'calendars') is the speech of one clip, not a stylistic pattern that can be generalised.

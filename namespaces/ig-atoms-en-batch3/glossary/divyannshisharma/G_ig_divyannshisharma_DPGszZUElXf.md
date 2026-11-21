@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["groups", "reach"]
+aka: ["public groups"]
 origin: sources/S_ig_divyannshisharma_DPGszZUElXf.md
 ---
 
-# G_ig_divyannshisharma_DPGszZUElXf — groups
+# G_ig_divyannshisharma_DPGszZUElXf — public groups
 
 ## Term
 
-groups is the most prominent repeated term in this source (139-word transcript from the Instagram account divyannshisharma): it occurs 3 times literally in the text, most often collocated with: reach, public, plus. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For divyannshisharma, 'public groups' is the moment in the sale divyannshisharma says a person cannot skip and still expect the deal to close. It appears twice, it sits next to 'directory', 'contains', and 'related' — the repetition is what makes it the spine of the clip rather than a passing word. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: So you need to do this thing, search… Without 'public groups', the reel is just a clip about groups; with it, the clip is a claim.
 
 ## Synonyms
 
-- groups
-- reach
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So you need to do this thing, search source profile in any web browser and you will get this directory which contains all the public groups related to your niche. So you just need to click on it. And type in any keyword like you can type in startup, e-commerce and you will get all the public groups." — sources/S_ig_divyannshisharma_DPGszZUElXf.md
-> "extract all the users in that particular Slack group and you will get a list of ICP which you can reach out. I also have 200 plus Facebook groups through which you can reach out and get clients." — sources/S_ig_divyannshisharma_DPGszZUElXf.md
+> "thing, search source profile in any web browser and you will get this directory which contains all the public groups related to your niche. So you just need to click on it. And type in any keyword like you can type in startup, e-commerce and you will get" — sources/S_ig_divyannshisharma_DPGszZUElXf.md
+> "click on it. And type in any keyword like you can type in startup, e-commerce and you will get all the public groups. So just join and after you have joined, do one thing, go to Phantom Buster Slack Channel User Extractor and it will extract all the users" — sources/S_ig_divyannshisharma_DPGszZUElXf.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'public groups' to a specific move divyannshisharma says is missing here, not a universal recommendation.
+- Read as a stylistic choice by divyannshisharma: the wording around 'public groups' (e.g. the collocation with 'comment') is the speech of one clip, not a stylistic pattern that can be generalised.

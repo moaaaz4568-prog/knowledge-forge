@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["discouraging", "friend"]
+aka: ["stranger criticizes"]
 origin: sources/S_ig_dankhanlegacy_DNL_ReIMtVH.md
 ---
 
-# G_ig_dankhanlegacy_DNL_ReIMtVH — discouraging
+# G_ig_dankhanlegacy_DNL_ReIMtVH — stranger criticizes
 
 ## Term
 
-This source is very short (125 words), so no term repeats enough for a frequency-based entry; discouraging is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'stranger criticizes' in this source is the operating principle dankhanlegacy returns to whenever the conversation turns to scaling. It appears once in the transcript, and it sits next to 'discouraging', 'family', and 'member' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: A friend says something discouraging, a family member… Take 'stranger criticizes' out and the clip collapses into generalities about negotiable — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- discouraging
-- friend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "People with real potential, like you, big dreams, but they let others get in the way. A friend says something discouraging, a family member plants doubt, a stranger criticizes their idea, and just like that, they stop. They sit there and allow people that built nothing to slow them down. Let me be clear. No one is standing in my way." — sources/S_ig_dankhanlegacy_DNL_ReIMtVH.md
+> "they let others get in the way. A friend says something discouraging, a family member plants doubt, a stranger criticizes their idea, and just like that, they stop. They sit there and allow people that built nothing to slow them down. Let me be clear. No" — sources/S_ig_dankhanlegacy_DNL_ReIMtVH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'stranger criticizes' here is the multiplier on effort, not the effort itself.
+- Read as evidence the term is central to the account: one 125-word clip showing 'stranger criticizes' next to 'follow' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

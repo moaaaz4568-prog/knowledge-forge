@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["task number", "nail"]
+aka: ["knowledge required"]
 origin: sources/S_ig_disisjorj_Cvk4KNctlhB.md
 ---
 
-# G_ig_disisjorj_Cvk4KNctlhB — task number
+# G_ig_disisjorj_Cvk4KNctlhB — knowledge required
 
 ## Term
 
-task number is the most prominent repeated term in this source (127-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: nail, hope, finds. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'knowledge required' names the posture a person takes toward the work — disisjorj treats it as the foundation, not a tip. It appears once in the transcript, and it sits next to 'eventually', 'example', and 'zero' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: For example, the knowledge required to go from… The clip's claim about 'beauty' is conditional on 'knowledge required' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- task number
-- nail
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We get fixated on how things will be without taking the necessary actions to even be worthy of that. So before you get stressed on task number 50, make sure to nail down task number one. I hope this finds you well." — sources/S_ig_disisjorj_Cvk4KNctlhB.md
+> "sets are seasonal. Now I consider them as loops that start and eventually have to end. For example, the knowledge required to go from zero to one dollar online, it's not the same from what it takes to go from one to a hundred to a thousand to ten thousand" — sources/S_ig_disisjorj_Cvk4KNctlhB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'knowledge required' is a stance disisjorj says a person must adopt before action, not a feeling they happen to have.
+- Read as a rule for using 'knowledge required': the clip shows disisjorj using the word in one specific move (alongside 'realized'), not a recommendation that the reader adopt the word themselves.

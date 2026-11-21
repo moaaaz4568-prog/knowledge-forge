@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["marketing", "applying"]
+aka: ["instagram"]
 origin: sources/S_ig_explained.marketing_C0hEOBft4n-.md
 ---
 
-# G_ig_explained.marketing_C0hEOBft4n- — marketing
+# G_ig_explained.marketing_C0hEOBft4n- — instagram
 
 ## Term
 
-marketing is the most prominent repeated term in this source (158-word transcript from the Instagram account explained.marketing): it occurs 3 times literally in the text, most often collocated with: applying, important, principle. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'instagram' is the future-pain frame explained.marketing uses to make the present situation feel unsustainable. It appears 3 times, it sits next to 'specific', 'order', and 'marketing' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: If you're marketing with an Instagram reel and… Even the move around 'marketing' only registers as a move because 'instagram' is the thing being moved toward.
 
 ## Synonyms
 
-- marketing
-- applying
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're not getting enough response from your marketing contents, it's because you're not applying the most important principle in content marketing: brand resonance. Here's how it works. It is like solving a picture puzzle." — sources/S_ig_explained.marketing_C0hEOBft4n-.md
-> "order to move a square to its correct position, there are specific squares you will have to move first and in a specific order. If you're marketing with an Instagram reel and you go straight to introducing your product, it's like trying to get square one to square nine without moving any other squares. It just won't work. No one hops on Instagram to get sold to." — sources/S_ig_explained.marketing_C0hEOBft4n-.md
+> "are specific squares you will have to move first and in a specific order. If you're marketing with an Instagram reel and you go straight to introducing your product, it's like trying to get square one to square nine without moving any other squares. It" — sources/S_ig_explained.marketing_C0hEOBft4n-.md
+> "make yours appear similar so that your audience can relate to it. Base it on the set standard for an Instagram reel: educational, motivational or entertaining. After moving these squares, you can now sell" — sources/S_ig_explained.marketing_C0hEOBft4n-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'instagram' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a tagline worth extracting: the source shows explained.marketing using 'instagram' as a working label in one specific argument (visible in the collocation with 'trying'), not as a slogan the reader is meant to repeat.

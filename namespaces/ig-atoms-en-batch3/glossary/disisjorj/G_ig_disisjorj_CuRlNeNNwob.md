@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["goal", "execute"]
+aka: ["increasingly overwhelmed"]
 origin: sources/S_ig_disisjorj_CuRlNeNNwob.md
 ---
 
-# G_ig_disisjorj_CuRlNeNNwob — goal
+# G_ig_disisjorj_CuRlNeNNwob — increasingly overwhelmed
 
 ## Term
 
-goal is the most prominent repeated term in this source (37-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: execute, daily, towards. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj reel, 'increasingly overwhelmed' is the concept disisjorj keeps returning to as the thing that decides whether the rest of the advice lands. It appears once in the transcript, and it sits next to 'become', 'people's', and 'problems' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: In a world where people become increasingly overwhelmed… The sentence around 'become' only carries weight because 'increasingly overwhelmed' is what the sentence is really about.
 
 ## Synonyms
 
-- goal
-- execute
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In a world where people become increasingly overwhelmed with other people's problems, someone who can control his actions, set out a goal and execute daily towards that goal will inevitably win." — sources/S_ig_disisjorj_CuRlNeNNwob.md
+> "Be that someone. In a world where people become increasingly overwhelmed with other people's problems, someone who can control his actions, set out a goal and execute daily towards that goal will inevitably" — sources/S_ig_disisjorj_CuRlNeNNwob.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'increasingly overwhelmed' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as polished prose: this is a verbatim transcript of a 37-word Instagram clip, and the wording around 'increasingly overwhelmed' (including the collocation with 'increasingly') is spoken speech, not edited writing.

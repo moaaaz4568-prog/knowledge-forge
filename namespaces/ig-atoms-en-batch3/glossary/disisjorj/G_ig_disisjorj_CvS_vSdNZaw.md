@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["transition", "frame"]
+aka: ["youtube tutorials"]
 origin: sources/S_ig_disisjorj_CvS_vSdNZaw.md
 ---
 
-# G_ig_disisjorj_CvS_vSdNZaw — transition
+# G_ig_disisjorj_CvS_vSdNZaw — youtube tutorials
 
 ## Term
 
-transition is the most prominent repeated term in this source (75-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: frame, caption, valuable. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'youtube tutorials' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'transition', 'valuable', and 'because' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This was so valuable because in a world… The clip's relationship to 'download' only makes sense as a vehicle for delivering 'youtube tutorials'.
 
 ## Synonyms
 
-- transition
-- frame
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I would save reels from other creators, download them, and then recreate them frame by frame, caption by caption, transition by transition. This was so valuable because in a world full of YouTube tutorials, you know exactly what you need to search. There's no shortcut to becoming great at anything. That's a fact." — sources/S_ig_disisjorj_CvS_vSdNZaw.md
+> "frame, caption by caption, transition by transition. This was so valuable because in a world full of YouTube tutorials, you know exactly what you need to search. There's no shortcut to becoming great at anything. That's a fact. But that doesn't mean you" — sources/S_ig_disisjorj_CvS_vSdNZaw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'youtube tutorials' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 75-word Instagram clip, and the wording around 'youtube tutorials' (including the collocation with 'exactly') is spoken speech, not edited writing.

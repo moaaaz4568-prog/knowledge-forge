@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["safe zone", "media"]
+aka: ["safe zone"]
 origin: sources/S_ig_devinjatho_ClKZkpMAl-i.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_ClKZkpMAl-i.md
 
 ## Term
 
-safe zone is the most prominent repeated term in this source (114-word transcript from the Instagram account devinjatho): it occurs 6 times literally in the text, most often collocated with: media, congratulations, area. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'safe zone' is the public-facing half of the work — devinjatho uses the word to mark the line between private effort and visible output. It appears 6 times, it sits next to 'media', 'ruining', and 'area' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: You are ruining your videos if you are… Strip the clip down to its claim and you are left with 'safe zone'; 'editing' and 'outside' are how the claim is delivered.
 
 ## Synonyms
 
-- safe zone
-- media
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are ruining your videos if you are not in the safe zone. A safe zone is the area on a social media where all the buttons and captions aren't being overlaid. So to avoid messing up the look of your videos, use a safe zone guide while editing." — sources/S_ig_devinjatho_ClKZkpMAl-i.md
-> "To find one, just search the name of the media platform you're posting on and then safe zone. Then just overlay that image file on the topmost layer of your editing software. Now just add all of your captions and graphics to where they do not fall outside of the almighty safe zone. Congratulations, you are now in the safe zone." — sources/S_ig_devinjatho_ClKZkpMAl-i.md
+> "You are ruining your videos if you are not in the safe zone. A safe zone is the area on a social media where all the buttons and captions aren't being overlaid. So to avoid messing up the look of your" — sources/S_ig_devinjatho_ClKZkpMAl-i.md
+> "graphics to where they do not fall outside of the almighty safe zone. Congratulations, you are now in the safe zone. Follow for more value" — sources/S_ig_devinjatho_ClKZkpMAl-i.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'safe zone' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a rule for using 'safe zone': the clip shows devinjatho using the word in one specific move (alongside 'Congratulations'), not a recommendation that the reader adopt the word themselves.

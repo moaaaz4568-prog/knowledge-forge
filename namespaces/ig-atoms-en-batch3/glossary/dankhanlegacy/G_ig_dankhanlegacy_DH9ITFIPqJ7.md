@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["clocking", "stand"]
+aka: ["called copywriting"]
 origin: sources/S_ig_dankhanlegacy_DH9ITFIPqJ7.md
 ---
 
-# G_ig_dankhanlegacy_DH9ITFIPqJ7 — clocking
+# G_ig_dankhanlegacy_DH9ITFIPqJ7 — called copywriting
 
 ## Term
 
-clocking is the most prominent repeated term in this source (133-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: stand, idea, place. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'called copywriting' is the operating lever dankhanlegacy says determines whether the work scales or just gets repeated. It appears once in the transcript, and it sits next to 'research', 'found', and 'writing' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: So I did my research and I found… Anything else in the clip orbits this word — strip out 'called copywriting' and the rest reads as filler around 'attracted'.
 
 ## Synonyms
 
-- clocking
-- stand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Like I could, I could not stand the idea of just clocking in and clocking out in the same place almost every single day. Yeah. So that was like, yeah, something that really attracted me." — sources/S_ig_dankhanlegacy_DH9ITFIPqJ7.md
+> "So I did my research and I found this thing called copywriting, right? And it's about writing. And I was like, I like writing. You know, I do it in my free time. I think it's something I'm already" — sources/S_ig_dankhanlegacy_DH9ITFIPqJ7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'called copywriting' is loaded by dankhanlegacy with a specific working meaning (visible in the collocation with 'called'), not the dictionary sense.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'called copywriting' (e.g. the collocation with 'called') is the speech of one clip, not a stylistic pattern that can be generalised.

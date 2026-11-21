@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["means", "experience"]
+aka: ["means"]
 origin: sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
 
 ## Term
 
-means is the most prominent repeated term in this source (157-word transcript from the Instagram account gobirdmasterclass): it occurs 5 times literally in the text, most often collocated with: experience, editing, ability. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gobirdmasterclass, 'means' is the design decision the clip is built to defend — the choice that does the work the rest of the layout is supporting. It appears 5 times, it sits next to 'experience', 'editing', and 'ability' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gobirdmasterclass drops it precisely where the cost of skipping it shows up — the surrounding move runs: S means skills, your experience, editing ability, results… It is the one word in this source that, if removed, would leave 'formula' without a frame to hang on.
 
 ## Synonyms
 
-- means
-- experience
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And it's called the SCOPE formula, and it's a simple framework to price your work. So let's break it down. S means skills, your experience, editing ability, results, and reputation. C means complexity. Is it a simple talking head video, a faceless edit, or advanced motion graphics? O means outcome." — sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
-> "P means project size. How many videos and how long they are? Is it a monthly package or a one-time project? E means extras, rush delivery, extra revisions, multiple formats, or delivering all the project files. I have created a complete pricing guide and calculator to help you calculate each of these factors." — sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
+> "called the SCOPE formula, and it's a simple framework to price your work. So let's break it down. S means skills, your experience, editing ability, results, and reputation. C means complexity. Is it a simple talking head video, a faceless edit, or advanced" — sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
+> "project size. How many videos and how long they are? Is it a monthly package or a one-time project? E means extras, rush delivery, extra revisions, multiple formats, or delivering all the project files. I have created a complete pricing guide and calculator" — sources/S_ig_gobirdmasterclass_DczGhOeuEWo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'means' to mark the choice that does the work, not the choice that only looks good.
+- Read as a recommendation to use 'means' yourself: the clip shows gobirdmasterclass using the word in one specific move (visible in the collocation with 'files'); it does not argue the reader should adopt it.

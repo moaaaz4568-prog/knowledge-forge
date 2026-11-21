@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["opportunities", "hacks"]
+aka: ["lifetime opportunities"]
 origin: sources/S_ig_disisjorj_CyGSE9Vtz4A.md
 ---
 
-# G_ig_disisjorj_CyGSE9Vtz4A — opportunities
+# G_ig_disisjorj_CyGSE9Vtz4A — lifetime opportunities
 
 ## Term
 
-This source is very short (68 words), so no term repeats enough for a frequency-based entry; opportunities is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'lifetime opportunities' names the posture a person takes toward the work — disisjorj treats it as the foundation, not a tip. It appears once in the transcript, and it sits next to 'stop', 'hacks', and 'once' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Stop looking for hacks and once in a… This is the word the clip is built to deliver; 'iterate' is texture around it, not the point.
 
 ## Synonyms
 
-- opportunities
-- hacks
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Money, music, writing, jiu jitsu, content creation, all of the above. Stop looking for hacks and once in a lifetime opportunities and do what most" — sources/S_ig_disisjorj_CyGSE9Vtz4A.md
+> "music, writing, jiu jitsu, content creation, all of the above. Stop looking for hacks and once in a lifetime opportunities and do what most won't" — sources/S_ig_disisjorj_CyGSE9Vtz4A.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'lifetime opportunities' is a stance disisjorj says a person must adopt before action, not a feeling they happen to have.
+- Read as evidence the term is central to the account: one 68-word clip showing 'lifetime opportunities' next to 'jitsu' is too small a sample to anchor a wider claim about what disisjorj writes about.

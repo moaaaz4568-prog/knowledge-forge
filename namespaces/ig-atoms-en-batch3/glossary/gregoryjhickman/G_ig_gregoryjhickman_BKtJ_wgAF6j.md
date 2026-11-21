@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["speaking", "crazy"]
+aka: ["pretty crazy"]
 origin: sources/S_ig_gregoryjhickman_BKtJ_wgAF6j.md
 ---
 
-# G_ig_gregoryjhickman_BKtJ_wgAF6j — speaking
+# G_ig_gregoryjhickman_BKtJ_wgAF6j — pretty crazy
 
 ## Term
 
-This source is very short (27 words), so no term repeats enough for a frequency-based entry; speaking is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'pretty crazy' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'house', 'yard', and 'line' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This is pretty crazy… 'pretty crazy' is what the rest of the clip is trying to justify — even 'pretty' reads as evidence for it.
 
 ## Synonyms
 
-- speaking
-- crazy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is pretty crazy. This is where I'm gonna be speaking, not here, but next" — sources/S_ig_gregoryjhickman_BKtJ_wgAF6j.md
+> "So I'm here in the big house at the 50-yard line. This is pretty crazy. This is where I'm gonna be speaking, not here, but next door" — sources/S_ig_gregoryjhickman_BKtJ_wgAF6j.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'pretty crazy' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'pretty crazy' next to 'crazy') may not be load-bearing in gregoryjhickman's wider body of work.

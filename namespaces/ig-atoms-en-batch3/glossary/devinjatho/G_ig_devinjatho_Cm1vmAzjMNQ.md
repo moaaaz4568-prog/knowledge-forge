@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["content", "solves"]
+aka: ["social"]
 origin: sources/S_ig_devinjatho_Cm1vmAzjMNQ.md
 ---
 
-# G_ig_devinjatho_Cm1vmAzjMNQ — content
+# G_ig_devinjatho_Cm1vmAzjMNQ — social
 
 ## Term
 
-content is the most prominent repeated term in this source (201-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: solves, common, problems. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'social' in this clip is the lever that converts effort into reach — devinjatho insists the value sits in the doing, not the perfecting. It appears 3 times, it sits next to 'proof', 'providing', and 'mean' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. devinjatho drops it precisely where the cost of skipping it shows up — the surrounding move runs: If you want to make 10k a month… Read alongside 'Follow', the word 'social' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- content
-- solves
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you don't like money, go ahead and scroll. Here's a simple content strategy that helped my clients practically just print money. At the top, we have exposure. Before anything else, we need eyeballs. You can get eyeballs by creating TikToks, Reels, paid ads, you get the gist." — sources/S_ig_devinjatho_Cm1vmAzjMNQ.md
-> "Secondly, you need to become an authority figure within your niche. To build authority, you need to post educational content that solves common problems, post long-form content, and reply to all the questions that you get asked. Now you need to nurture all this attention you're getting." — sources/S_ig_devinjatho_Cm1vmAzjMNQ.md
+> "If you want to make 10k a month just from social media, this video is for you. If you don't like money, go ahead and scroll. Here's a simple content strategy that helped my clients practically" — sources/S_ig_devinjatho_Cm1vmAzjMNQ.md
+> "them sign up to your email list, posting targeted stories, going live, providing social proof. And by social proof, I mean things like testimonials and client transformations, just to show you have some type of competence. Lastly, we need to convert the" — sources/S_ig_devinjatho_Cm1vmAzjMNQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'social' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a definition of 'social': the source documents how devinjatho deploys the word in this clip — collocated with 'ahead' — it does not establish what the word means in general.

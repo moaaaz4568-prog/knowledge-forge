@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["prospect", "concerns"]
+aka: ["decision-making process"]
 origin: sources/S_ig_geoff_ketterer_DHdr0Ipo3sk.md
 ---
 
-# G_ig_geoff_ketterer_DHdr0Ipo3sk — prospect
+# G_ig_geoff_ketterer_DHdr0Ipo3sk — decision-making process
 
 ## Term
 
-prospect is the most prominent repeated term in this source (203-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: concerns, explained, voice. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's framing, 'decision-making process' is the missing mechanic — the thing geoff_ketterer says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'concerns', 'important', and 'parts' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: What this is going to do is get… The sentence around 'coming' only carries weight because 'decision-making process' is what the sentence is really about.
 
 ## Synonyms
 
-- prospect
-- concerns
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're hoping to hear or see from those other companies that I haven't gone over or haven't explained? What this will do is get your prospect to voice any concerns that they potentially have with a lack in the product or the service." — sources/S_ig_geoff_ketterer_DHdr0Ipo3sk.md
-> "product at a similar price point, how are you then going to make the decision as to who to go with? What this is going to do is get your prospect to talk about all of the concerns or the really important parts of the decision-making process that they need to hear in order to move forwards with you." — sources/S_ig_geoff_ketterer_DHdr0Ipo3sk.md
+> "going to do is get your prospect to talk about all of the concerns or the really important parts of the decision-making process that they need to hear in order to move forwards with you. Drop me the word objection in the comments if you want me to send over" — sources/S_ig_geoff_ketterer_DHdr0Ipo3sk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'decision-making process' is the body mechanic geoff_ketterer isolates as the root of the movement problem, not a general training concept.
+- Read as proof the term is load-bearing for geoff_ketterer in general: a 203-word clip with the word 'decision-making process' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

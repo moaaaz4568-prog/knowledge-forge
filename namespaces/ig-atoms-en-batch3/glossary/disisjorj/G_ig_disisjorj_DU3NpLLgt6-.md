@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["connected", "headphones"]
+aka: ["headphones directly"]
 origin: sources/S_ig_disisjorj_DU3NpLLgt6-.md
 ---
 
-# G_ig_disisjorj_DU3NpLLgt6- — connected
+# G_ig_disisjorj_DU3NpLLgt6- — headphones directly
 
 ## Term
 
-connected is the most prominent repeated term in this source (97-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: headphones, directly, software. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'headphones directly' names the distinction disisjorj draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'connected', 'little', and 'says' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: And now I connected my headphones directly to… The argument only stays upright while 'headphones directly' is doing the work — pull it and 'one-click' loses its anchor.
 
 ## Synonyms
 
-- connected
-- headphones
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "little camera here, connect it to my one-click setup, and then all I have to do is just press this little guy that says record. And now I connected my headphones directly to the same software that I connected my camera, and I can be anywhere I want and still record high-quality video with the click of a button. It's that easy." — sources/S_ig_disisjorj_DU3NpLLgt6-.md
+> "setup, and then all I have to do is just press this little guy that says record. And now I connected my headphones directly to the same software that I connected my camera, and I can be anywhere I want and still record high-quality video with the click of" — sources/S_ig_disisjorj_DU3NpLLgt6-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'headphones directly' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'headphones directly' next to 'one-click') may not be load-bearing in disisjorj's wider body of work.

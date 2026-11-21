@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["mood", "put"]
+aka: ["mood"]
 origin: sources/S_ig_gregoryjhickman_BYRuMElDd_B.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gregoryjhickman_BYRuMElDd_B.md
 
 ## Term
 
-mood is the most prominent repeated term in this source (32-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: put, shake. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'mood' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'shake', 'smile', and 'god's' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: When I think of God's golden smile, oh… Anything else in the clip orbits this word — strip out 'mood' and the rest reads as filler around 'golden'.
 
 ## Synonyms
 
-- mood
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I think of God's golden smile, oh, she's the one, put me in the mood. Put me in the mood. Shake it in the mood." — sources/S_ig_gregoryjhickman_BYRuMElDd_B.md
+> "When I think of God's golden smile, oh, she's the one, put me in the mood. Put me in the mood. Shake it in the mood. She don't know what she's doing" — sources/S_ig_gregoryjhickman_BYRuMElDd_B.md
+> "think of God's golden smile, oh, she's the one, put me in the mood. Put me in the mood. Shake it in the mood. She don't know what she's doing" — sources/S_ig_gregoryjhickman_BYRuMElDd_B.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'mood' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a clean transcript: the wording around 'mood' (including the run-on near 'smile') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

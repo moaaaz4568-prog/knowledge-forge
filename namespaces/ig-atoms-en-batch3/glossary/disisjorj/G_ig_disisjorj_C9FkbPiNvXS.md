@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["technique", "editing"]
+aka: ["editing technique"]
 origin: sources/S_ig_disisjorj_C9FkbPiNvXS.md
 ---
 
-# G_ig_disisjorj_C9FkbPiNvXS — technique
+# G_ig_disisjorj_C9FkbPiNvXS — editing technique
 
 ## Term
 
-technique is the most prominent repeated term in this source (93-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: editing, captivating, using. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'editing technique' names the felt adjustment disisjorj insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This one editing technique will make your videos… The reel earns its keep only because 'editing technique' is doing the lifting; 'footage' alone would be filler.
 
 ## Synonyms
 
-- technique
-- editing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "one editing technique will make your videos not only more captivating but genuinely easier for your audience to watch until the end. When you pick the B-roll footage you want to use, I want you to start using what we call the cut on action technique." — sources/S_ig_disisjorj_C9FkbPiNvXS.md
+> "This one editing technique will make your videos not only more captivating but genuinely easier for your audience to watch until the end. When you pick the B-roll" — sources/S_ig_disisjorj_C9FkbPiNvXS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'editing technique' is disisjorj's coaching cue for a felt position, not a clinical label.
+- Read as a clean transcript: the wording around 'editing technique' (including the run-on near 'actual') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

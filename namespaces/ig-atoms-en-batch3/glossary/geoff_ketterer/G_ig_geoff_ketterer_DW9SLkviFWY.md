@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["content", "sake"]
+aka: ["specifically designed"]
 origin: sources/S_ig_geoff_ketterer_DW9SLkviFWY.md
 ---
 
-# G_ig_geoff_ketterer_DW9SLkviFWY — content
+# G_ig_geoff_ketterer_DW9SLkviFWY — specifically designed
 
 ## Term
 
-content is the most prominent repeated term in this source (99-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: sake, marketing, create. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'specifically designed' is the future-pain frame geoff_ketterer uses to make the present situation feel unsustainable. It appears once in the transcript, and it sits next to 'content's', 'sake', and 'create' — a single occurrence that nonetheless anchors the clip's argument. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: There is a way to create content specifically… The clip's relationship to 'marketing' only makes sense as a vehicle for delivering 'specifically designed'.
 
 ## Synonyms
 
-- content
-- sake
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "followers, more likes, and your book calls go through the floor because consistency without a strategy isn't marketing. It's just making content for content's sake. There is a way to create content specifically designed to get you clients rather than just go viral for the algorithm." — sources/S_ig_geoff_ketterer_DW9SLkviFWY.md
+> "strategy isn't marketing. It's just making content for content's sake. There is a way to create content specifically designed to get you clients rather than just go viral for the algorithm. I'm gonna be breaking it down all this week, so if you wanna learn" — sources/S_ig_geoff_ketterer_DW9SLkviFWY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'specifically designed' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'specifically designed' next to 'consistent') may not be load-bearing in geoff_ketterer's wider body of work.

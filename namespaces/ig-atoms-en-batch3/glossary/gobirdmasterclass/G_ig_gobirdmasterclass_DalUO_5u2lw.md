@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["words", "believe"]
+aka: ["proof"]
 origin: sources/S_ig_gobirdmasterclass_DalUO_5u2lw.md
 ---
 
-# G_ig_gobirdmasterclass_DalUO_5u2lw — words
+# G_ig_gobirdmasterclass_DalUO_5u2lw — proof
 
 ## Term
 
-words is the most prominent repeated term in this source (103-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: believe, proof, bigger. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'proof' names the felt adjustment gobirdmasterclass insists is the difference between a rep that builds and a rep that just tires. It appears 3 times, it sits next to 'words', 'believe', and 'sharper' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gobirdmasterclass drops it precisely where the cost of skipping it shows up — the surrounding move runs: They just hide the fact that you've got… 'proof' is what the rest of the clip is trying to justify — even 'sharper' reads as evidence for it.
 
 ## Synonyms
 
-- words
-- believe
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nobody believes that word anymore. Premium, luxury, high quality, best in class. These words don't sell. They just hide the fact that you've got no real proof. Look at the difference." — sources/S_ig_gobirdmasterclass_DalUO_5u2lw.md
-> "Tell them it saves two hours. Don't tell them it's trusted. Tell them who trusted it. People don't believe bigger words. They believe sharper proof. Big words get ignored." — sources/S_ig_gobirdmasterclass_DalUO_5u2lw.md
+> "high quality, best in class. These words don't sell. They just hide the fact that you've got no real proof. Look at the difference. A normal ad would say" — sources/S_ig_gobirdmasterclass_DalUO_5u2lw.md
+> "who trusted it. People don't believe bigger words. They believe sharper proof. Big words get ignored. Proof gets remembered" — sources/S_ig_gobirdmasterclass_DalUO_5u2lw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'proof' here is loaded with a specific felt-position meaning by gobirdmasterclass, not a vague cue.
+- Read as evidence gobirdmasterclass always uses 'proof' this way: one 103-word clip is too thin a sample to support any claim about how the account uses the word in general.

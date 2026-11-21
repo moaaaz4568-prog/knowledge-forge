@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["tier", "Innovator"]
+aka: ["tier"]
 origin: sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
 
 ## Term
 
-tier is the most prominent repeated term in this source (149-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: innovator, give, book. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'tier' is the mindset dankhanlegacy insists comes before any technique — the thing without which the rest of the advice does not land. It appears 7 times, it sits next to 'book', 'influence', and 'habits' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: A tier… Every other word in the source, including 'Influence', is in service to the move 'tier' names.
 
 ## Synonyms
 
-- tier
-- Innovator
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to Win Friends and Influence People by Dale Carnegie. A tier. I mean, it's a very common book, right? And it is important to know how to influence. So yeah, A tier. The 7 Habits of Highly Effective People by Stephen Covey." — sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
-> "Like, I feel like it's very generic that book, so B tier for me. Think and Grow Rich by Napoleon Hill. It's not a business book in the business sense. I'll give it D tier. But for our mindset, I'll give it S. Good to Great by Jim Collins. Oh, A tier, very good book." — sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
-> "Good to Great by Jim Collins. Oh, A tier, very good book. The Innovator's Dilemma by Clayton Christensen. A tier, but I moved away from the innovator mindset right now. I'm more of like modeling what works." — sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
+> "How to Win Friends and Influence People by Dale Carnegie. A tier. I mean, it's a very common book, right? And it is important to know how to influence. So yeah, A tier. The 7 Habits of Highly Effective People by" — sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
+> "Great by Jim Collins. Oh, A tier, very good book. The Innovator's Dilemma by Clayton Christensen. A tier, but I moved away from the innovator mindset right now. I'm more of like modeling what works. So you have to be careful with that" — sources/S_ig_dankhanlegacy_DU8LFnnkSGF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'tier' here is a working concept dankhanlegacy is installing, not a tagline the reader is meant to repeat.
+- Read as a rule for using 'tier': the clip shows dankhanlegacy using the word in one specific move (alongside 'Covey'), not a recommendation that the reader adopt the word themselves.

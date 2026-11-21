@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["watching", "Talking"]
+aka: ["crowd multiply"]
 origin: sources/S_ig_gobirdmasterclass_Dd13SvVM4sj.md
 ---
 
-# G_ig_gobirdmasterclass_Dd13SvVM4sj — watching
+# G_ig_gobirdmasterclass_Dd13SvVM4sj — crowd multiply
 
 ## Term
 
-This source is very short (63 words), so no term repeats enough for a frequency-based entry; watching is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gobirdmasterclass, 'crowd multiply' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'aiming', 'fill', and 'stadium' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Don't tell your dreams to everybody around.Some people… Strip the clip down to its claim and you are left with 'crowd multiply'; 'aiming' and 'multiply' are how the claim is delivered.
 
 ## Synonyms
 
-- watching
-- Talking
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the ground.But I'm aiming for the sky.One day I'll fill the stadium, watch the crowd multiply.Talking 'bout my hard work, now they're watching every move.This next step is just a warm-up, got a lot more to prove.Secure" — sources/S_ig_gobirdmasterclass_Dd13SvVM4sj.md
+> "success be what shakes the ground.But I'm aiming for the sky.One day I'll fill the stadium, watch the crowd multiply.Talking 'bout my hard work, now they're watching every move.This next step is just a warm-up, got a lot more to prove.Secure my" — sources/S_ig_gobirdmasterclass_Dd13SvVM4sj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'crowd multiply' to point at one specific mechanic gobirdmasterclass says is failing in the movement shown.
+- Read as a recommendation to use 'crowd multiply' yourself: the clip shows gobirdmasterclass using the word in one specific move (visible in the collocation with 'Secure'); it does not argue the reader should adopt it.

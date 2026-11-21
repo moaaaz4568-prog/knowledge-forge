@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sales", "team"]
+aka: ["sales team"]
 origin: sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
 ---
 
-# G_ig_geoff_ketterer_DO52s-uDMg2 — sales
+# G_ig_geoff_ketterer_DO52s-uDMg2 — sales team
 
 ## Term
 
-sales is the most prominent repeated term in this source (279-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: team, reason, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'sales team' names the felt consequence geoff_ketterer uses to break through a person's logical defences. It appears 3 times, it sits next to 'heavy', 'lifting', and 'reason' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Like Sabri said, the job of marketing is… Without 'sales team' as the anchor, 'performing' and 'convert' would float without a stake in the argument.
 
 ## Synonyms
 
-- sales
-- team
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There should be so much desire by the time that they rock up on a sales call. They should know so much about your offer, so much about you. You communicated it in a way that was so articulate that it spoke exactly to their pain points, that they are almost ready to buy at that stage." — sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
-> "Like Sabri said, the job of marketing is to do all of the heavy lifting for the sales team. And the reason your sales team are struggling to close is because the market has never been more skeptical. And that VSL funnel that you're running used to crush back in 2020, but today is not performing half as well. So you're probably in one of two camps." — sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
-> "The good news is there's a much easier way to scale a coaching business than running expensive funnels and constantly churning through sales team members. And it's something I call a hybrid social engine." — sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
+> "to buy at that stage. Like Sabri said, the job of marketing is to do all of the heavy lifting for the sales team. And the reason your sales team are struggling to close is because the market has never been more skeptical. And that VSL funnel that you're" — sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
+> "easier way to scale a coaching business than running expensive funnels and constantly churning through sales team members. And it's something I call a hybrid social engine. And if you want to know how it works, then shoot me a follow because I'm gonna be" — sources/S_ig_geoff_ketterer_DO52s-uDMg2.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: geoff_ketterer uses 'sales team' here in the framing of a sales conversation, not as a portfolio term.
+- Read as evidence the term is central to the account: one 279-word clip showing 'sales team' next to 'probably' is too small a sample to anchor a wider claim about what geoff_ketterer writes about.

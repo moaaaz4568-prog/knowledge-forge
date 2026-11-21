@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["clot", "Tango"]
+aka: ["clot"]
 origin: sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
 
 ## Term
 
-clot is the most prominent repeated term in this source (142-word transcript from the Instagram account divyannshisharma): it occurs 7 times literally in the text, most often collocated with: tango, every, create. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'clot' names the distinction divyannshisharma draws in this clip — the line that separates what works from what only feels like it works. It appears 7 times, it sits next to 'tango', 'create', and 'skills' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: Clotless Tango is the ultimate cheat code to… It is the one word in this source that, if removed, would leave 'ultimate' without a frame to hang on.
 
 ## Synonyms
 
-- clot
-- Tango
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Tango is the ultimate cheat code to create clot skills. Watch this ten second setup now. First, go to Chrome, install this free extension called Tango. Now open Clot. Now every time I work with Clot, Tango turns my workflow into a step by step SOP." — sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
-> "Every prompt, every process gets documented into high screen resolution with clear guidelines. And I can directly feed it to Clot to create clot skills. But here is the cool part. Tango just doesn't capture your screen. It automatically creates a title, headers, and a clear polished SOP that you can share with anyone." — sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
-> "I can revisit this workflow anytime, share with my team, train new hires, and create a clot skill. Basically, every conversation with a clot becomes a reusable playbook. Comment send and I will send you the" — sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
+> "Clotless Tango is the ultimate cheat code to create clot skills. Watch this ten second setup now. First, go to Chrome, install this free extension called Tango. Now open Clot. Now every time I work with" — sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
+> "share with my team, train new hires, and create a clot skill. Basically, every conversation with a clot becomes a reusable playbook. Comment send and I will send you the setup" — sources/S_ig_divyannshisharma_DaLL5FyyNNN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'clot' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as polished prose: this is a verbatim transcript of a 142-word Instagram clip, and the wording around 'clot' (including the collocation with 'creates') is spoken speech, not edited writing.

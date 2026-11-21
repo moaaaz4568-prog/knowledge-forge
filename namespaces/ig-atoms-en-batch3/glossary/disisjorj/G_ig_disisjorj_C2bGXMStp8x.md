@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Change", "pain"]
+aka: ["performing music"]
 origin: sources/S_ig_disisjorj_C2bGXMStp8x.md
 ---
 
-# G_ig_disisjorj_C2bGXMStp8x — Change
+# G_ig_disisjorj_C2bGXMStp8x — performing music
 
 ## Term
 
-Change is the most prominent repeated term in this source (112-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: pain, greater, gave. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'performing music' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'eight', 'months', and 'gigging' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: I was gigging at hotels six times a… What makes the word 'performing music' the term here is that the rest — 'neglect', 'caught', everything else — is staged for it.
 
 ## Synonyms
 
-- Change
-- pain
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I was gigging at hotels six times a week, performing music in front of people who gave zero fucks about it. Change happens when the pain of staying the same is greater than the pain of change. Where will you be a year from now if you keep on doing the same thing?" — sources/S_ig_disisjorj_C2bGXMStp8x.md
+> "frustrated and lost with where I was in life eight months ago. I was gigging at hotels six times a week, performing music in front of people who gave zero fucks about it. Change happens when the pain of staying the same is greater than the pain of change" — sources/S_ig_disisjorj_C2bGXMStp8x.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in disisjorj's usage, 'performing music' is loaded with a specific working meaning (visible in the collocation with 'consider'), not the dictionary sense.
+- Read as evidence the term is central to the account: one 112-word clip showing 'performing music' next to 'consider' is too small a sample to anchor a wider claim about what disisjorj writes about.

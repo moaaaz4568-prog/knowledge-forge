@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["question", "surely"]
+aka: ["disisjorj"]
 origin: sources/S_ig_disisjorj_C5EXZiwtEh5.md
 ---
 
-# G_ig_disisjorj_C5EXZiwtEh5 — question
+# G_ig_disisjorj_C5EXZiwtEh5 — Get serious. That's number one. Ten years from now, you will…
 
 ## Term
 
-This source is very short (19 words), so no term repeats enough for a frequency-based entry; question is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The disisjorj clip is a short caption of 19 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "Get serious. That's number one. Ten years from now, you will surely become someone. The big question is, who?".
 
 ## Synonyms
 
-- question
-- surely
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's number one. Ten years from now, you will surely become someone. The big question is" — sources/S_ig_disisjorj_C5EXZiwtEh5.md
+> "Get serious. That's number one. Ten years from now, you will surely become someone. The big question is, who" — sources/S_ig_disisjorj_C5EXZiwtEh5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 19-word disisjorj clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

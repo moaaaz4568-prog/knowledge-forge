@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["pack", "4editors"]
+aka: ["one-time payment"]
 origin: sources/S_ig_disisjorj_CwK9ZRWtJQ9.md
 ---
 
-# G_ig_disisjorj_CwK9ZRWtJQ9 — pack
+# G_ig_disisjorj_CwK9ZRWtJQ9 — one-time payment
 
 ## Term
 
-pack is the most prominent repeated term in this source (107-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: 4editors, com, check. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'one-time payment' is the move disisjorj says the person must make before the prospect will commit. It appears once in the transcript, and it sits next to 'lumafusion', 'huge', and 'sale' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: If you edit your own videos and you… The reel earns its keep only because 'one-time payment' is doing the lifting; 'Follow' alone would be filler.
 
 ## Synonyms
 
-- pack
-- 4editors
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "own videos and you use Premiere Pro, Final Cut Pro, DaVinci Resolve, LumaFusion, or any of this, there's a huge sale on a one-time payment pack with over 10, 000 assets that you can start using today. Head over to 4editors. Com and check out their Platinum Bundle Pack containing SFX, LUTs, transitions, and even overlays you can include in your videos." — sources/S_ig_disisjorj_CwK9ZRWtJQ9.md
+> "use Premiere Pro, Final Cut Pro, DaVinci Resolve, LumaFusion, or any of this, there's a huge sale on a one-time payment pack with over 10, 000 assets that you can start using today. Head over to 4editors. Com and check out their Platinum Bundle Pack containing" — sources/S_ig_disisjorj_CwK9ZRWtJQ9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'one-time payment' here is loaded with a specific working meaning by disisjorj, not a buzzword.
+- Read as a rule for using 'one-time payment': the clip shows disisjorj using the word in one specific move (alongside 'Resolve'), not a recommendation that the reader adopt the word themselves.

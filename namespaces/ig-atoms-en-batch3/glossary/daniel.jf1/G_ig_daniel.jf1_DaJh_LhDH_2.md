@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["thousand", "collecting"]
+aka: ["thousand"]
 origin: sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
 
 ## Term
 
-thousand is the most prominent repeated term in this source (265-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: collecting, eight, dollars. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'thousand' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears 4 times, it sits next to 'collecting', 'eight', and 'payments' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: And he's collecting six thousand, eight thousand dollars… Cut 'thousand' and the clip's aboutness shifts from a claim to a description of animated and instance.
 
 ## Synonyms
 
-- thousand
-- collecting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "he's collecting six thousand, eight thousand dollars payments in the DMs like no sales call. AI UGC, not AI UGC in terms of just humans, but it's like clear that it actually is like animated. You're not even trying to pass it off as if it's a human." — sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
-> "He's already made it. Let me just post it. And then he's legitimately dozens of people and he's collecting six thousand, eight thousand dollars payments in the DMs like no sales call." — sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
+> "And he's collecting six thousand, eight thousand dollars payments in the DMs like no sales call. AI UGC, not AI UGC in terms of just humans, but it's like clear that it actually" — sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
+> "me just post it. And then he's legitimately dozens of people and he's collecting six thousand, eight thousand dollars payments in the DMs like no sales call. Oh, that's wild" — sources/S_ig_daniel.jf1_DaJh_LhDH_2.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'thousand' here is loaded with a specific meaning — the felt stake daniel.jf1 says must be touched — not the dictionary sense.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 265-word clip with the word 'thousand' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

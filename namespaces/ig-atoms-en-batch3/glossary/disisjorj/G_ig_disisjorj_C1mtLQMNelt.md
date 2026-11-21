@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["lighting", "point"]
+aka: ["disisjorj"]
 origin: sources/S_ig_disisjorj_C1mtLQMNelt.md
 ---
 
-# G_ig_disisjorj_C1mtLQMNelt — lighting
+# G_ig_disisjorj_C1mtLQMNelt — Here's my three-point lighting setup for talking head videos…
 
 ## Term
 
-This source is very short (9 words), so no term repeats enough for a frequency-based entry; lighting is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 9-word caption from disisjorj — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Here's my three-point lighting setup for talking head videos.".
 
 ## Synonyms
 
-- lighting
-- point
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "my three-point lighting setup for talking head" — sources/S_ig_disisjorj_C1mtLQMNelt.md
+> "Here's my three-point lighting setup for talking head videos" — sources/S_ig_disisjorj_C1mtLQMNelt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 9-word disisjorj clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as evidence of account-wide themes: one 9-word clip is too thin a sample to support a claim about what disisjorj writes about in general.

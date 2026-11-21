@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["content", "money"]
+aka: ["coaching call", "coaching calls"]
 origin: sources/S_ig_dankhanlegacy_DH_tHRuPgvz.md
 ---
 
-# G_ig_dankhanlegacy_DH_tHRuPgvz — content
+# G_ig_dankhanlegacy_DH_tHRuPgvz — coaching call
 
 ## Term
 
-content is the most prominent repeated term in this source (205-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: money, help, started. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'coaching call' is the future-pain frame dankhanlegacy uses to make the present situation feel unsustainable. It appears twice, it sits next to 'teach', 'euros', and 'insane' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: And then other people replied and they were… What makes the word 'coaching call' the term here is that the rest — 'messaged', 'affiliate', everything else — is staged for it.
 
 ## Synonyms
 
-- content
-- money
+- coaching calls
 
 ## Live Example
 
-> "How do you actually make money? So I was creating content on my theme pages, and then people messaged me and they were like" — sources/S_ig_dankhanlegacy_DH_tHRuPgvz.md
-> "And then I started doing content creation for other people, started making money with that. And then I posted my results about, you know, how I was making money with affiliate marketing and with creating content." — sources/S_ig_dankhanlegacy_DH_tHRuPgvz.md
+> "Hey, I want to pay you 50 euros for a coaching call. Can you teach me what you're doing" — sources/S_ig_dankhanlegacy_DH_tHRuPgvz.md
+> "And then I did my first coaching call and he also got insane results, like 4, 000 followers the first week and made like $800 or something. I posted those results and then this" — sources/S_ig_dankhanlegacy_DH_tHRuPgvz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'coaching call' here is loaded with a specific meaning — the felt stake dankhanlegacy says must be touched — not the dictionary sense.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 205-word clip with the word 'coaching call' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

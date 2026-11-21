@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["coming", "point"]
+aka: ["comfortable enough"]
 origin: sources/S_ig_disisjorj_DES5zCtoTXF.md
 ---
 
-# G_ig_disisjorj_DES5zCtoTXF — coming
+# G_ig_disisjorj_DES5zCtoTXF — comfortable enough
 
 ## Term
 
-coming is the most prominent repeated term in this source (173-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: point, easier, tap. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'comfortable enough' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears once in the transcript, and it sits next to 'camera', 'makes', and 'sense' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Pulling out your phone or setting up a… The clip is engineered so that 'entire' lands as setup, not payoff; the payoff is the move 'comfortable enough' names.
 
 ## Synonyms
 
-- coming
-- point
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You start developing a sense of control. You start noticing patterns. You get to the point where you know what's coming next. Doesn't get easier, you'll probably still have to tap, but you know what's coming. You become better. Expecting it to feel normal is what's keeping you back from creating." — sources/S_ig_disisjorj_DES5zCtoTXF.md
+> "Pulling out your phone or setting up a camera and talking to it makes no sense, let alone be comfortable enough to share this with the entire world. But when did you try something completely out of the ordinary and felt perfectly fine with it" — sources/S_ig_disisjorj_DES5zCtoTXF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'comfortable enough' to a specific kind of felt weight (the kind that surfaces around 'months'), not to feeling in general.
+- Read as a stylistic choice by disisjorj: the wording around 'comfortable enough' (e.g. the collocation with 'months') is the speech of one clip, not a stylistic pattern that can be generalised.

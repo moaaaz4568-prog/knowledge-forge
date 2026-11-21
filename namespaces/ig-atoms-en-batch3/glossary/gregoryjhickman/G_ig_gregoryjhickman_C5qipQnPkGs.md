@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["percent", "fifty"]
+aka: ["fifty percent"]
 origin: sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
 ---
 
-# G_ig_gregoryjhickman_C5qipQnPkGs — percent
+# G_ig_gregoryjhickman_C5qipQnPkGs — fifty percent
 
 ## Term
 
-percent is the most prominent repeated term in this source (173-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: fifty, margin, gross. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'fifty percent' is the multiplier the clip is built to point at — the thing that turns flat effort into compounding results. It appears 5 times, it sits next to 'margin', 'gross', and 'delivery' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: So right there, you have a fifty percent… Without 'fifty percent' as the anchor, 'agency' and 'software' would float without a stake in the argument.
 
 ## Synonyms
 
-- percent
-- fifty
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "right there, you have a fifty percent gross margin, fifty percent delivery margin. Now, after the year is all said and done, or even the month is all said and done, you have OPEX, right? Your operating expenses." — sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
-> "So if we have a fifty percent gross profit margin, after the all is said and done, let's say we are left with a fifteen percent net profit margin. Okay, so that's really where we're at. Here is the thing, you might be like, okay, well, Greg, fifty percent, like that sounds like it's okay." — sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
-> "For agency service businesses, I will say fifty percent is the lowest this number should be if you want to have healthy profits." — sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
+> "So right there, you have a fifty percent gross margin, fifty percent delivery margin. Now, after the year is all said and done, or even the month is all said and done, you have OPEX" — sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
+> "well, Greg, fifty percent, like that sounds like it's okay. For agency service businesses, I will say fifty percent is the lowest this number should be if you want to have healthy profits. And quite frankly, I think it should be a lot higher, but this is" — sources/S_ig_gregoryjhickman_C5qipQnPkGs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'fifty percent' here is the multiplier on effort, not the effort itself.
+- Read as a tagline worth extracting: the source shows gregoryjhickman using 'fifty percent' as a working label in one specific argument (visible in the collocation with 'software'), not as a slogan the reader is meant to repeat.

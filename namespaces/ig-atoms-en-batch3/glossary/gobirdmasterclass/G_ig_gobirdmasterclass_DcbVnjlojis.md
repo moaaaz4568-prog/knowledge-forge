@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["gaps", "groups"]
+aka: ["gaps"]
 origin: sources/S_ig_gobirdmasterclass_DcbVnjlojis.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gobirdmasterclass_DcbVnjlojis.md
 
 ## Term
 
-gaps is the most prominent repeated term in this source (29-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: groups, equal, tight. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'gaps' is the visual or structural choice gobirdmasterclass says is the actual carrier of meaning in the piece. It appears 3 times, it sits next to 'groups', 'layout', and 'equal' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gobirdmasterclass turns from describing to prescribing — the pivot runs: All gaps equal… What makes the word 'gaps' the term here is that the rest — 'layout', 'inside', everything else — is staged for it.
 
 ## Synonyms
 
-- gaps
-- groups
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "fix this design. Bad layout. All gaps equal. Tight gaps inside groups. Big gaps between groups. Related equals close. Unrelated equals far. That's the whole trick." — sources/S_ig_gobirdmasterclass_DcbVnjlojis.md
+> "Let's fix this design. Bad layout. All gaps equal. Tight gaps inside groups. Big gaps between groups. Related equals close. Unrelated equals far. That's the whole trick. Save this" — sources/S_ig_gobirdmasterclass_DcbVnjlojis.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in gobirdmasterclass's usage, 'gaps' is a specific design move, not a category of design choices.
+- Read as evidence gobirdmasterclass always uses 'gaps' this way: one 29-word clip is too thin a sample to support any claim about how the account uses the word in general.

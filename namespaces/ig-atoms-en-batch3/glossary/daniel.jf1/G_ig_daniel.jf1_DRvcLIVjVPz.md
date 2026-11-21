@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["listening", "upset"]
+aka: ["undeniably confident"]
 origin: sources/S_ig_daniel.jf1_DRvcLIVjVPz.md
 ---
 
-# G_ig_daniel.jf1_DRvcLIVjVPz — listening
+# G_ig_daniel.jf1_DRvcLIVjVPz — undeniably confident
 
 ## Term
 
-listening is the most prominent repeated term in this source (104-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: upset, stubborn. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'undeniably confident' is the distinction daniel.jf1 is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'correct', 'sell', and 'ability' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Like be undeniably confident in your ability and… Every other word in the source, including 'person', is in service to the move 'undeniably confident' names.
 
 ## Synonyms
 
-- listening
-- upset
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're not getting results what I've provided you with right now, one, cause you're being stubborn. Two, you're not listening to me. And if you're not listening to me, you're gonna be upset, but I want you to know it's your own fault because I'm correct. And that's how you need to sell." — sources/S_ig_daniel.jf1_DRvcLIVjVPz.md
+> "I want you to know it's your own fault because I'm correct. And that's how you need to sell. Like be undeniably confident in your ability and you're just like shaking this person like, dude, it works. Dude, I've done it a hundred times. It literally is" — sources/S_ig_daniel.jf1_DRvcLIVjVPz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in daniel.jf1's usage, 'undeniably confident' is loaded with a specific working meaning (visible in the collocation with 'listening'), not the dictionary sense.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'undeniably confident' as a working label in one specific argument (visible in the collocation with 'listening'), not as a slogan the reader is meant to repeat.

@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: danielsmyth_
-aka: ["life", "city"]
+aka: ["better"]
 origin: sources/S_ig_danielsmyth__DZVGqVVRQNk.md
 ---
 
-# G_ig_danielsmyth__DZVGqVVRQNk — life
+# G_ig_danielsmyth__DZVGqVVRQNk — better
 
 ## Term
 
-life is the most prominent repeated term in this source (317-word transcript from the Instagram account danielsmyth_): it occurs 5 times literally in the text, most often collocated with: city, single, gym. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For danielsmyth_, 'better' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 3 times, it sits next to 'becoming', 'future', and 'husband' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment danielsmyth_ turns from describing to prescribing — the pivot runs: I love it so much here that I'm… The clip is engineered so that 'beyond' lands as setup, not payoff; the payoff is the move 'better' names.
 
 ## Synonyms
 
-- life
-- city
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There is serious money here, serious ambition, and being surrounded by that makes me want to push harder in the gym, in my work, in my life. Sao Paulo doesn't let me shrink, it makes me grow. So every day I attack it, up early, train hard, study, build the business, coach my clients. I don't believe in waiting for the perfect moment." — sources/S_ig_danielsmyth__DZVGqVVRQNk.md
-> "That is the one thing I'm genuinely good at. I just go towards my goals, and then the life follows. But none of this is the point. It's just proof that the inner work pays off. The real reason I do this is right here. Building my family with my girlfriend, being able to fly my family out to be and live with me." — sources/S_ig_danielsmyth__DZVGqVVRQNk.md
-> "Changing your life doesn't actually take years. It takes one brave decision. I made mine, and everything I have now, the city, the life, the people in it, came from that single moment I decided to bet on myself." — sources/S_ig_danielsmyth__DZVGqVVRQNk.md
+> "to be and live with me. I love it so much here that I'm moving them to Brazil for good and becoming a better man, a better future husband, a better son. That is what actually drives me. That and changing my students' lives. Watching someone go from stuck" — sources/S_ig_danielsmyth__DZVGqVVRQNk.md
+> "much here that I'm moving them to Brazil for good and becoming a better man, a better future husband, a better son. That is what actually drives me. That and changing my students' lives. Watching someone go from stuck to believing they can have anything they" — sources/S_ig_danielsmyth__DZVGqVVRQNk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'better' is danielsmyth_'s coaching cue for a felt position, not a clinical label.
+- Read as a stylistic choice by danielsmyth_: the wording around 'better' (e.g. the collocation with 'dangerous') is the speech of one clip, not a stylistic pattern that can be generalised.

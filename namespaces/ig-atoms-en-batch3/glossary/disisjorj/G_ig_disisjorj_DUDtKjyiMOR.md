@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["backdrop", "perfect"]
+aka: ["inconsistent backdrops"]
 origin: sources/S_ig_disisjorj_DUDtKjyiMOR.md
 ---
 
-# G_ig_disisjorj_DUDtKjyiMOR — backdrop
+# G_ig_disisjorj_DUDtKjyiMOR — inconsistent backdrops
 
 ## Term
 
-backdrop is the most prominent repeated term in this source (208-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: perfect, every, builds. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'inconsistent backdrops' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'past', 'years', and 'lighting' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: I've made every video mistake you can imagine… What makes the word 'inconsistent backdrops' the term here is that the rest — 'copywriting', 'because', everything else — is staged for it.
 
 ## Synonyms
 
-- backdrop
-- perfect
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "None of them are there just because. They're intentionally placed there. And what we are left with is not a perfect backdrop, but the same backdrop for every video. That's what builds recognition, trust, and in turn" — sources/S_ig_disisjorj_DUDtKjyiMOR.md
+> "every video mistake you can imagine over the past ten years, from bad lighting to terrible audio to inconsistent backdrops. But the one that cost me the most clients was not having a signature setup. I thought the problem was my quality, so I got a new" — sources/S_ig_disisjorj_DUDtKjyiMOR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'inconsistent backdrops' here is the public-facing act, distinct from the private work of creating.
+- Read as evidence the term is central to the account: one 208-word clip showing 'inconsistent backdrops' next to 'quality' is too small a sample to anchor a wider claim about what disisjorj writes about.

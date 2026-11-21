@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["dominant", "colors"]
+aka: ["gobirdmasterclass"]
 origin: sources/S_ig_gobirdmasterclass_DZUchpBu9GK.md
 ---
 
-# G_ig_gobirdmasterclass_DZUchpBu9GK — dominant
+# G_ig_gobirdmasterclass_DZUchpBu9GK — Stop using seven colors in your edits. Pick three: one domin…
 
 ## Term
 
-This source is very short (23 words), so no term repeats enough for a frequency-based entry; dominant is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The gobirdmasterclass clip is a short caption of 23 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "Stop using seven colors in your edits. Pick three: one dominant, one support, one accent. Sixty, thirty, ten. That's it. Follow and save.".
 
 ## Synonyms
 
-- dominant
-- colors
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "using seven colors in your edits. Pick three: one dominant, one support, one accent. Sixty, thirty, ten. That's it." — sources/S_ig_gobirdmasterclass_DZUchpBu9GK.md
+> "Stop using seven colors in your edits. Pick three: one dominant, one support, one accent. Sixty, thirty, ten. That's it. Follow and save" — sources/S_ig_gobirdmasterclass_DZUchpBu9GK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content keyword: the words here exist for rhythm or mood, not as labels for an idea a person is working with — even 'using' is phrasing, not a concept.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

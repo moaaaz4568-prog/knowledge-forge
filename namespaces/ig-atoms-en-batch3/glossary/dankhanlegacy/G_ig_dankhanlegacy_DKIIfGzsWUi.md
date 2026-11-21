@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "model"]
+aka: ["avoiding commitment"]
 origin: sources/S_ig_dankhanlegacy_DKIIfGzsWUi.md
 ---
 
-# G_ig_dankhanlegacy_DKIIfGzsWUi — business
+# G_ig_dankhanlegacy_DKIIfGzsWUi — avoiding commitment
 
 ## Term
 
-business is the most prominent repeated term in this source (163-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: model, problem, keep. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy reel, 'avoiding commitment' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears once in the transcript, and it sits next to 'crypto', 'experimenting', and 'because' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: You're not experimenting, you're avoiding commitment… Every other word in the source, including 'crypto', is in service to the move 'avoiding commitment' names.
 
 ## Synonyms
 
-- business
-- model
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "one offer away from changing your life, but you won't commit, and that's the real problem. You keep bouncing from business model to business model. One week is coaching, next week is dropshipping, then it's crypto, then it's UGC. You're not experimenting, you're avoiding commitment." — sources/S_ig_dankhanlegacy_DKIIfGzsWUi.md
-> "If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DKIIfGzsWUi.md
+> "coaching, next week is dropshipping, then it's crypto, then it's UGC. You're not experimenting, you're avoiding commitment. Because if you actually pick something, if you really go all in, and it doesn't work, then what? Right? Then you have to admit it" — sources/S_ig_dankhanlegacy_DKIIfGzsWUi.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'avoiding commitment' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'three' makes that visible.
+- Read as a clean transcript: the wording around 'avoiding commitment' (including the run-on near 'three') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

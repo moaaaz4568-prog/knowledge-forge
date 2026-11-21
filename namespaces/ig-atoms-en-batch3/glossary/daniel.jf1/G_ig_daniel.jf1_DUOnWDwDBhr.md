@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["better", "either"]
+aka: ["intertwined together"]
 origin: sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
 ---
 
-# G_ig_daniel.jf1_DUOnWDwDBhr — better
+# G_ig_daniel.jf1_DUOnWDwDBhr — intertwined together
 
 ## Term
 
-better is the most prominent repeated term in this source (126-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: either, worse, life. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'intertwined together' is the part of the conversation daniel.jf1 treats as load-bearing — the move the rest of the close is built to set up. It appears once in the transcript, and it sits next to 'therefore', 'sales', and 'cascades' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: It's all intertwined together and everything cascades into… 'intertwined together' is what the rest of the clip is trying to justify — even 'amounts' reads as evidence for it.
 
 ## Synonyms
 
-- better
-- either
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Everything in life is like a death cycle or a life cycle. You're either getting better and better and better or you're getting worse and worse and worse, progressively faster and faster and higher" — sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
+> "more availability you have, the more offers you have, and therefore the more sales you make. It's all intertwined together and everything cascades into one another. It's that same saying where it's like, those who have nothing, everything will be taken" — sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'intertwined together' to a specific move daniel.jf1 says is missing here, not a universal recommendation.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 126-word clip with the word 'intertwined together' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

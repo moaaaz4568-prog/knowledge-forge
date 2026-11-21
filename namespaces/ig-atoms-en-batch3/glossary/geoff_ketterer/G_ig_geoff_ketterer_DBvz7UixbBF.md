@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["Question", "questioning"]
+aka: ["question"]
 origin: sources/S_ig_geoff_ketterer_DBvz7UixbBF.md
 ---
 
-# G_ig_geoff_ketterer_DBvz7UixbBF — Question
+# G_ig_geoff_ketterer_DBvz7UixbBF — question
 
 ## Term
 
-Question is the most prominent repeated term in this source (168-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: questioning, framework, close. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'question' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears 3 times, it sits next to 'three', 'value', and 'questioning' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: All you need to do is use this… Read alongside 'partner', the word 'question' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- Question
-- questioning
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All you need to do is use this three step questioning framework to get them to the close. Question number one, it's fair enough John, and if this does everything that I say it will, do you feel like it would be worth the investment? This gets the prospect to admit that the value is there." — sources/S_ig_geoff_ketterer_DBvz7UixbBF.md
-> "This gets them to admit that they do think it would work, or it will flush out their real objection. Question three is, so if you think it's worth a value and you think it would work for you specifically, can you see any logical reason in delaying getting started?" — sources/S_ig_geoff_ketterer_DBvz7UixbBF.md
+> "it may be. All you need to do is use this three step questioning framework to get them to the close. Question number one, it's fair enough John, and if this does everything that I say it will, do you feel like it would be worth the investment? This gets" — sources/S_ig_geoff_ketterer_DBvz7UixbBF.md
+> "This gets them to admit that they do think it would work, or it will flush out their real objection. Question three is, so if you think it's worth a value and you think it would work for you specifically, can you see any logical reason in delaying getting" — sources/S_ig_geoff_ketterer_DBvz7UixbBF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'question' to a specific kind of felt weight (the kind that surfaces around 'value'), not to feeling in general.
+- Read as a definition of 'question': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'value' — it does not establish what the word means in general.

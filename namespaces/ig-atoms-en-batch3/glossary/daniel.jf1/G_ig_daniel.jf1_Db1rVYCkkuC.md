@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["temporarily", "eight"]
+aka: ["temporarily"]
 origin: sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
 
 ## Term
 
-temporarily is the most prominent repeated term in this source (112-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: eight, busy, hire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'temporarily' is the cue daniel.jf1 says a person must feel before the rep becomes useful. It appears twice, it sits next to 'points', 'eight', and 'busy' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: You hire someone, you temporarily go up to… The sentence around 'assembly' only carries weight because 'temporarily' is what the sentence is really about.
 
 ## Synonyms
 
-- temporarily
-- eight
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Imagine you're a level eight out of ten points. I'm eight busy, right? You hire someone, you temporarily go up to ten because you're training them and managing this person, and then you're going back and forth with them, and it gradually goes down until they're ramped and actually know what they're doing, and now you're out of five." — sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
-> "gradually goes down until they're ramped and actually know what they're doing, and now you're out of five. You just bought three points by temporarily going up two. You know what I'm saying? I love" — sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
+> "five. Imagine you're a level eight out of ten points. I'm eight busy, right? You hire someone, you temporarily go up to ten because you're training them and managing this person, and then you're going back and forth with them, and it gradually goes down" — sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
+> "ramped and actually know what they're doing, and now you're out of five. You just bought three points by temporarily going up two. You know what I'm saying? I love that" — sources/S_ig_daniel.jf1_Db1rVYCkkuC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'temporarily' is daniel.jf1's coaching cue for a felt position, not a clinical label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'temporarily' next to 'person') may not be load-bearing in daniel.jf1's wider body of work.

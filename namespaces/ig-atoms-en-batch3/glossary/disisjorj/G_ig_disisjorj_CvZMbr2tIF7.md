@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["use", "give"]
+aka: ["effect underneath"]
 origin: sources/S_ig_disisjorj_CvZMbr2tIF7.md
 ---
 
-# G_ig_disisjorj_CvZMbr2tIF7 — use
+# G_ig_disisjorj_CvZMbr2tIF7 — effect underneath
 
 ## Term
 
-use is the most prominent repeated term in this source (56-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: give, emphasis, couple. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'effect underneath' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears once in the transcript, and it sits next to 'emphasis', 'couple', and 'words' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: I get some scissors, I record a few… It is the one word in this source that, if removed, would leave 'record' without a frame to hang on.
 
 ## Synonyms
 
-- use
-- give
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a small trick I use to spice up my captions. I get some scissors, I record a few takes, and whenever I want to give emphasis to a couple of words, I use this sound effect underneath my titles. Here's a before and here's after. Subtle but highly effective." — sources/S_ig_disisjorj_CvZMbr2tIF7.md
+> "scissors, I record a few takes, and whenever I want to give emphasis to a couple of words, I use this sound effect underneath my titles. Here's a before and here's after. Subtle but highly effective. I hope this helps. For more" — sources/S_ig_disisjorj_CvZMbr2tIF7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'effect underneath' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a recommendation to use 'effect underneath' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'sound'); it does not argue the reader should adopt it.

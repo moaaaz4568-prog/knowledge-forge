@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["questions", "based"]
+aka: ["questions"]
 origin: sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
 
 ## Term
 
-questions is the most prominent repeated term in this source (223-word transcript from the Instagram account geoff_ketterer): it occurs 7 times literally in the text, most often collocated with: based, emotion, ask. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'questions' is the future-pain frame geoff_ketterer uses to make the present situation feel unsustainable. It appears 7 times, it sits next to 'emotion-based', 'logical', and 'emotion' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: So we can't ask emotional questions about logical… Even the move around 'parents' only registers as a move because 'questions' is the thing being moved toward.
 
 ## Synonyms
 
-- questions
-- based
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "we can't ask emotional questions about logical situations. We've got to start touching the emotion and then you can ask emotional-based questions." — sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
-> "Put them in that state of emotion so you can actually. . . For sure. They're emotion-based questions, but we're asking emotion-based questions to logical pieces of information. I'm struggling with my trading. Well, what happens in 12 months time if nothing changes? I'll still be struggling with my fucking trading." — sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
-> "We've got to start touching the emotion and then you can ask emotional-based questions" — sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
+> "So we can't ask emotional questions about logical situations. We've got to start touching the emotion and then you can ask emotional-based questions. Here's where it's important" — sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
+> "still in a situation where you cannot get your parents the care they want? So we can't ask emotional questions about logical situations. We've got to start touching the emotion and then you can ask emotional-based questions" — sources/S_ig_geoff_ketterer_DYWy6KGttJL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'questions' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as evidence geoff_ketterer always uses 'questions' this way: one 223-word clip is too thin a sample to support any claim about how the account uses the word in general.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["business", "spokesperson"]
+aka: ["intentionally designed"]
 origin: sources/S_ig_gregoryjhickman_CSNQLu-hHB6.md
 ---
 
-# G_ig_gregoryjhickman_CSNQLu-hHB6 — business
+# G_ig_gregoryjhickman_CSNQLu-hHB6 — intentionally designed
 
 ## Term
 
-business is the most prominent repeated term in this source (183-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: spokesperson, main, intentionally. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'intentionally designed' is the future cost gregoryjhickman names to make the present feel expensive — the lever the clip uses to move the person. It appears once in the transcript, and it sits next to 'main' and 'spokesperson' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: While I am one of the spokesperson or… Even the move around 'Agency' only registers as a move because 'intentionally designed' is the thing being moved toward.
 
 ## Synonyms
 
-- business
-- spokesperson
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "want to break down some things that I've done in my business over the last year and a half that have allowed me to take pretty much every Friday off to do the things that I love doing. Principle number one is to undo the me model. Now, as you heard, my business is called All Agency." — sources/S_ig_gregoryjhickman_CSNQLu-hHB6.md
-> "It's not gregkhickman. Com. It's not a personal brand. While I am one of the spokesperson or the main spokesperson for the business, the business is intentionally designed to not be around me." — sources/S_ig_gregoryjhickman_CSNQLu-hHB6.md
+> "brand. While I am one of the spokesperson or the main spokesperson for the business, the business is intentionally designed to not be around me. And as it continues to grow, we bring on other expert mentors and trainers and coaches that are way smarter" — sources/S_ig_gregoryjhickman_CSNQLu-hHB6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'intentionally designed' here is loaded with a specific meaning — the felt stake gregoryjhickman says must be touched — not the dictionary sense.
+- Read as evidence the term is central to the account: one 183-word clip showing 'intentionally designed' next to 'bring' is too small a sample to anchor a wider claim about what gregoryjhickman writes about.

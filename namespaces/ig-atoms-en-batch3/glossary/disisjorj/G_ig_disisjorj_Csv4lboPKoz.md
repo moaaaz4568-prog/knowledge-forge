@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["business", "drumming"]
+aka: ["instructional products"]
 origin: sources/S_ig_disisjorj_Csv4lboPKoz.md
 ---
 
-# G_ig_disisjorj_Csv4lboPKoz — business
+# G_ig_disisjorj_Csv4lboPKoz — instructional products
 
 ## Term
 
-business is the most prominent repeated term in this source (205-word transcript from the Instagram account disisjorj): it occurs 5 times literally in the text, most often collocated with: drumming, music, within. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj clip, 'instructional products' is the lever disisjorj says separates people who make progress from people who stay put. It appears once in the transcript, and it sits next to 'helps', 'survive', and 'equipment' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: You know, we have instructional products, we have… Take 'instructional products' out and the clip collapses into generalities about survive — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- business
-- drumming
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "go into this business thinking that it's the drumming business because if I had to survive just playing drums, it would be hard work. I mean, I'd have to be on the road more than I am now, which is six to seven months out of the year." — sources/S_ig_disisjorj_Csv4lboPKoz.md
-> "I mean, that's a lot that you are doing. Yeah, and it's just a matter of you know, of having different outlets within the business, but it's the music business, it's not the drumming business." — sources/S_ig_disisjorj_Csv4lboPKoz.md
+> "I would enjoy it, but it's not the only thing that you know that helps me survive. You know, we have instructional products, we have equipment products, we have teaching products, we teach, I mix, I engineer, you know, do things like that. So producing" — sources/S_ig_disisjorj_Csv4lboPKoz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'instructional products' is loaded by disisjorj with a specific working meaning (visible in the collocation with 'online'), not the dictionary sense.
+- Read as evidence the term is central to the account: one 205-word clip showing 'instructional products' next to 'online' is too small a sample to anchor a wider claim about what disisjorj writes about.

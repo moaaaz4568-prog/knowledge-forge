@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["plus", "minus"]
+aka: ["experiment encapsulates"]
 origin: sources/S_ig_disisjorj_CxkkHdstc9C.md
 ---
 
-# G_ig_disisjorj_CxkkHdstc9C — plus
+# G_ig_disisjorj_CxkkHdstc9C — experiment encapsulates
 
 ## Term
 
-plus is the most prominent repeated term in this source (82-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: minus, divided, comes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'experiment encapsulates' is the mindset disisjorj insists comes before any technique — the thing without which the rest of the advice does not land. It appears once in the transcript, and it sits next to 'comes', 'creation', and 'simple' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: When it comes to content creation and business… This is the word the clip is built to deliver; 'simple' is texture around it, not the point.
 
 ## Synonyms
 
-- plus
-- minus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "since we were kids, we were taught that one plus one equals two. Yet there are infinite ways to answer that simple equation. Why not one plus four minus three, or one plus ten divided by ten?" — sources/S_ig_disisjorj_CxkkHdstc9C.md
+> "minus three, or one plus ten divided by ten? When it comes to content creation and business, this simple experiment encapsulates the importance of uniqueness. In a world where most people try to fit in, the demand for authenticity has never been so high. If" — sources/S_ig_disisjorj_CxkkHdstc9C.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'experiment encapsulates' is a stance disisjorj says a person must adopt before action, not a feeling they happen to have.
+- Read as a claim about how disisjorj uses 'experiment encapsulates' across their work: this single 82-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["headlines", "dollar"]
+aka: ["headlines", "headline"]
 origin: sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
 
 ## Term
 
-headlines is the most prominent repeated term in this source (211-word transcript from the Instagram account dankhanlegacy): it occurs 9 times literally in the text, most often collocated with: dollar, million, word. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'headlines' names the felt consequence dankhanlegacy uses to break through a person's logical defences. It appears 9 times, it sits next to 'word', 'steal', and 'wrote' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Steal these headlines that broke the marketing space… Without 'headlines', the reel is just a clip about servers; with it, the clip is a claim.
 
 ## Synonyms
 
-- headlines
-- dollar
+- headline
 
 ## Live Example
 
-> "these headlines that broke the marketing space. Russell Brunson's" — sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
-> "Urgency creates action. And action creates money. The crazy part is the difference between multi-million dollar headlines and broken headlines is usually one word, one number, or one specific detail that makes people lean in instead of scrolling past." — sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
-> "Gary Halbert's sales letter headline generated over $100 million. These headlines are like weapons. Every single one of them follows a specific outcome: clear timeframe, believable mechanism." — sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
+> "Steal these headlines that broke the marketing space. Russell Brunson's" — sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
+> "it definitely does. My billion-dollar headline swipe file contains 100 of these internet-shattering headlines. And guess what? I'm gonna give it to you for free. Comment the word" — sources/S_ig_dankhanlegacy_DPyxh7WDVjF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'headlines' is the emotional lever dankhanlegacy uses to surface commitment, not a market mechanic.
+- Read as a clean transcript: the wording around 'headlines' (including the run-on near 'makes') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

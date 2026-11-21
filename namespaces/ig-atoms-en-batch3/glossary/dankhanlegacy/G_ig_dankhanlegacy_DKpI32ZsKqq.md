@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["ask", "born"]
+aka: ["ask"]
 origin: sources/S_ig_dankhanlegacy_DKpI32ZsKqq.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_dankhanlegacy_DKpI32ZsKqq.md
 
 ## Term
 
-ask is the most prominent repeated term in this source (172-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: born, hear, age. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ask' names the resource or move dankhanlegacy argues a person must use to compound effort into outcome. It appears 4 times, it sits next to 'hear', 'born', and 'parents' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: One of the most disgusting things I hear… Anything else in the clip orbits this word — strip out 'ask' and the rest reads as filler around 'better'.
 
 ## Synonyms
 
-- ask
-- born
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you have a bill, I'm paying it. No questions. You want motivation? Go look at your parents and then ask yourself, are you gonna be another burden, or the one that changes everything for them?" — sources/S_ig_dankhanlegacy_DKpI32ZsKqq.md
+> "you have a bill, I'm paying it. No questions. You want motivation? Go look at your parents and then ask yourself, are you gonna be another burden, or the one that changes everything for them? If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DKpI32ZsKqq.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'ask' here is the multiplier on effort, not the effort itself.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 172-word clip with the word 'ask' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

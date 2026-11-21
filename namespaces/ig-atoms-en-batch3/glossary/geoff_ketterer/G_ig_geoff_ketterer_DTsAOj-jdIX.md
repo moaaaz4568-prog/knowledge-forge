@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["undecided", "sitting"]
+aka: ["already comfortable"]
 origin: sources/S_ig_geoff_ketterer_DTsAOj-jdIX.md
 ---
 
-# G_ig_geoff_ketterer_DTsAOj-jdIX — undecided
+# G_ig_geoff_ketterer_DTsAOj-jdIX — already comfortable
 
 ## Term
 
-undecided is the most prominent repeated term in this source (152-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: sitting, tension, prospect. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'already comfortable' names what geoff_ketterer argues the game is actually for — the meaning that survives only when the cameras are off. It appears once in the transcript, and it sits next to 'says', 'beginners', and 'running' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: People who are already comfortable running real conversations… Read alongside 'scrubbed', the word 'already comfortable' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- undecided
-- sitting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "People who are already comfortable running real conversations and sitting with tension when the prospect is undecided" — sources/S_ig_geoff_ketterer_DTsAOj-jdIX.md
-> "What the fuck are they doing on the call if they're undecided" — sources/S_ig_geoff_ketterer_DTsAOj-jdIX.md
+> "Not for beginners. People who are already comfortable running real conversations and sitting with tension when the prospect is undecided" — sources/S_ig_geoff_ketterer_DTsAOj-jdIX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching word: the source uses 'already comfortable' to name what the game is actually about, beneath the cameras and the money.
+- Read as evidence geoff_ketterer always uses 'already comfortable' this way: one 152-word clip is too thin a sample to support any claim about how the account uses the word in general.

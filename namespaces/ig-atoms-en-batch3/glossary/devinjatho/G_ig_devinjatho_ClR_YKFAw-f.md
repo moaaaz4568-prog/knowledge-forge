@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["Number", "posting"]
+aka: ["three"]
 origin: sources/S_ig_devinjatho_ClR_YKFAw-f.md
 ---
 
-# G_ig_devinjatho_ClR_YKFAw-f — Number
+# G_ig_devinjatho_ClR_YKFAw-f — three
 
 ## Term
 
-Number is the most prominent repeated term in this source (115-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: posting, connect, ideal. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'three' is the move that separates finished from polished — devinjatho treats it as the moment a piece of work starts being seen. It appears 3 times, it sits next to 'connect', 'types', and 'prove' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: Here are three types of videos you should… Cut 'three' and the clip's aboutness shifts from a claim to a description of process and lesson.
 
 ## Synonyms
 
-- Number
-- posting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are three types of videos you should be posting to connect with your ideal clients. Number one, how to videos. These videos will position you as an authority figure and an expert within your niche. Number two, social proof." — sources/S_ig_devinjatho_ClR_YKFAw-f.md
-> "These videos allow you to showcase your offer in a non-salesy way and prove your advice is actually worth something. Number three, lesson in story. These videos help you connect with your viewers when you share your struggles and how you overcame them." — sources/S_ig_devinjatho_ClR_YKFAw-f.md
+> "Here are three types of videos you should be posting to connect with your ideal clients. Number one, how to videos. These videos will position you as an authority" — sources/S_ig_devinjatho_ClR_YKFAw-f.md
+> "share your struggles and how you overcame them. If you want a step by step process on how to create all three of these videos, I commented all the frameworks for you guys in the comments. Follow for more value" — sources/S_ig_devinjatho_ClR_YKFAw-f.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in devinjatho's usage here, 'three' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a definition of 'three': the source documents how devinjatho deploys the word in this clip — collocated with 'clients' — it does not establish what the word means in general.

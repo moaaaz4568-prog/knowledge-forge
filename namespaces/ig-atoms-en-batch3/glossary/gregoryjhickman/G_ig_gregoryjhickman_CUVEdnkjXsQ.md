@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["million", "stuck"]
+aka: ["million"]
 origin: sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
 
 ## Term
 
-million is the most prominent repeated term in this source (172-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: stuck, dollars, specifically. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'million' is the mindset gregoryjhickman insists comes before any technique — the thing without which the rest of the advice does not land. It appears 5 times, it sits next to 'stuck', 'core', and 'offer' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: A key piece of getting that traction and… Anything else in the clip orbits this word — strip out 'million' and the rest reads as filler around 'agency'.
 
 ## Synonyms
 
-- million
-- stuck
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "key piece of getting that traction and growing and really getting to that one million mark in revenue, whether that's your goal or not, is gonna be all about simplicity." — sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
-> "So you could have one $10,000 service and sell 10 of those a month and you have a million dollar business with one thing. And that is not an unrealistic example." — sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
-> "those are all underneath the one umbrella and you're stuck under a million dollars a year and even more specifically stuck under half a million dollars a year, one of the main reasons why you're never going to get there is because you have so many" — sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
+> "A key piece of getting that traction and growing and really getting to that one million mark in revenue, whether that's your goal or not, is gonna be all about simplicity. If you look at most successful businesses, specifically in" — sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
+> "umbrella and you're stuck under a million dollars a year and even more specifically stuck under half a million dollars a year, one of the main reasons why you're never going to get there is because you have so many things" — sources/S_ig_gregoryjhickman_CUVEdnkjXsQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'million' is a stance gregoryjhickman says a person must adopt before action, not a feeling they happen to have.
+- Read as a clean transcript: the wording around 'million' (including the run-on near 'specifically') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

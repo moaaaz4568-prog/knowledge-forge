@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["clients", "lead"]
+aka: ["clients", "client"]
 origin: sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
 
 ## Term
 
-clients is the most prominent repeated term in this source (222-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: lead, mean, broke. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'clients' is what dankhanlegacy argues a person must already be before any external change can hold. It appears 3 times, it sits next to 'broke', 'lead', and 'fast' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Rich clients don't lead with price… Read alongside 'someone's', the word 'clients' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- clients
-- lead
+- client
 
 ## Live Example
 
-> "And I don't mean financially broke. I mean they're broke in their mindset. Rich clients don't lead with price. They lead with" — sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
-> "Here's how you position yourself so you only attract premium clients. Number one is you show results and not the features. Don't say" — sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
-> "are taking on only two clients this month. If it fits, we'll move" — sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
+> "else, they're broke. And I don't mean financially broke. I mean they're broke in their mindset. Rich clients don't lead with price. They lead with" — sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
+> "We are taking on only two clients this month. If it fits, we'll move fast" — sources/S_ig_dankhanlegacy_DUda7w_D4aR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'clients' is loaded by dankhanlegacy with a specific meaning tied to 'follow', not the dictionary sense.
+- Read as a rule for using 'clients': the clip shows dankhanlegacy using the word in one specific move (alongside 'follow'), not a recommendation that the reader adopt the word themselves.

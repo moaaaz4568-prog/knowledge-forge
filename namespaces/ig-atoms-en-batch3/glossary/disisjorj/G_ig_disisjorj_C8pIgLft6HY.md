@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["permission", "give"]
+aka: ["permission"]
 origin: sources/S_ig_disisjorj_C8pIgLft6HY.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_C8pIgLft6HY.md
 
 ## Term
 
-permission is the most prominent repeated term in this source (78-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: give, yourself, seek. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'permission' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears 3 times, it sits next to 'else', 'yourself', and 'seek' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: People seek permission… The argument only stays upright while 'permission' is doing the work — pull it and 'depend' loses its anchor.
 
 ## Synonyms
 
-- permission
-- give
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "seek permission. You don't really need like this one new cool technique to do this one thing. It's like you just need someone to be like, dude, post a hundred times and get two views on each video, and it's okay. It's okay to do that." — sources/S_ig_disisjorj_C8pIgLft6HY.md
-> "But the beautiful thing is that as soon as you realize that and you don't depend on someone else to give you that permission and you give that permission to" — sources/S_ig_disisjorj_C8pIgLft6HY.md
+> "People seek permission. You don't really need like this one new cool technique to do this one thing. It's like you just need someone to be like, dude, post a hundred" — sources/S_ig_disisjorj_C8pIgLft6HY.md
+> "you realize that and you don't depend on someone else to give you that permission and you give that permission to yourself" — sources/S_ig_disisjorj_C8pIgLft6HY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'permission' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'beautiful' makes that visible.
+- Read as evidence the term is central to the account: one 78-word clip showing 'permission' next to 'beautiful' is too small a sample to anchor a wider claim about what disisjorj writes about.

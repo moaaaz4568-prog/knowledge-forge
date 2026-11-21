@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["activities", "client"]
+aka: ["customized loom"]
 origin: sources/S_ig_gregoryjhickman_C0hHh-VN2O2.md
 ---
 
-# G_ig_gregoryjhickman_C0hHh-VN2O2 — activities
+# G_ig_gregoryjhickman_C0hHh-VN2O2 — customized loom
 
 ## Term
 
-activities is the most prominent repeated term in this source (112-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: client, show, send. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'customized loom' is what gregoryjhickman names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears once in the transcript, and it sits next to 'drop', 'piece', and 'single' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: Send nine word emails, write fifty one thirty… The reel earns its keep only because 'customized loom' is doing the lifting; 'thirty' alone would be filler.
 
 ## Synonyms
 
-- activities
-- client
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want a client, show me the activities that are client getting activities. Send nine word emails, write fifty one thirty posts, reach out to one hundred people a day, drop a piece of content every single day, send a customized Loom to people that you've connected to in the" — sources/S_ig_gregoryjhickman_C0hHh-VN2O2.md
+> "thirty posts, reach out to one hundred people a day, drop a piece of content every single day, send a customized Loom to people that you've connected to in the past three hundred and sixty days. Do something, okay? You behave your way to your goals. Some" — sources/S_ig_gregoryjhickman_C0hHh-VN2O2.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'customized loom' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'customized loom' (e.g. the collocation with 'hundred') is the speech of one clip, not a stylistic pattern that can be generalised.

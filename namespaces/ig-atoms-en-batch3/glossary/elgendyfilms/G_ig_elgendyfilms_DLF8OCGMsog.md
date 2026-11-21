@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["oh", "context of account elgendyfilms"]
+aka: ["elgendyfilms"]
 origin: sources/S_ig_elgendyfilms_DLF8OCGMsog.md
 ---
 
-# G_ig_elgendyfilms_DLF8OCGMsog — oh
+# G_ig_elgendyfilms_DLF8OCGMsog — And way down we go, oh oh oh oh, oh way down we go, oh oh oh…
 
 ## Term
 
-oh is the most prominent repeated term in this source (27-word transcript from the Instagram account elgendyfilms): it occurs 9 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The elgendyfilms clip is a song lyric of 27 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "And way down we go, oh oh oh oh, oh way down we go, oh oh oh oh, tell way down we go, way down we go.".
 
 ## Synonyms
 
-- oh
-- context of account elgendyfilms
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "way down we go, oh oh oh oh, oh way down we go, oh oh oh oh, tell way down we go, way down we" — sources/S_ig_elgendyfilms_DLF8OCGMsog.md
+> "And way down we go, oh oh oh oh, oh way down we go, oh oh oh oh, tell way down we go, way down we go" — sources/S_ig_elgendyfilms_DLF8OCGMsog.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'the clip') is what carries the mood, not a label being defined.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

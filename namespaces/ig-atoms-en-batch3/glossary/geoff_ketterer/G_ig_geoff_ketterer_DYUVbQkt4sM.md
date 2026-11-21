@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sales", "team"]
+aka: ["sales team"]
 origin: sources/S_ig_geoff_ketterer_DYUVbQkt4sM.md
 ---
 
-# G_ig_geoff_ketterer_DYUVbQkt4sM — sales
+# G_ig_geoff_ketterer_DYUVbQkt4sM — sales team
 
 ## Term
 
-sales is the most prominent repeated term in this source (203-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: team, close, ask. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'sales team' is the point where the stated problem becomes emotional — the moment geoff_ketterer says the sale actually happens. It appears 3 times, it sits next to 'close', 'advice', and 'building' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is the exact reason I get my… Anything else in the clip orbits this word — strip out 'sales team' and the rest reads as filler around 'important'.
 
 ## Synonyms
 
-- sales
-- team
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There should be so much desire by the time that they rock up on a sales call. They should know so much about your offer, so much about you. You communicated it in a way that was so articulate that it spoke exactly to their pain points, that they are almost ready to buy at that stage." — sources/S_ig_geoff_ketterer_DYUVbQkt4sM.md
-> "pre-selling systems is because in order to get a sales team, and I had a founder at the start of this week ask me this, how do I get my sales team to close at 40, 50%? My advice to him was, look, it's possible to get your sales team to close more, but getting them to 40, 50% is a blend of what you do in your marketing, what you do pre-call, and what you do on the call." — sources/S_ig_geoff_ketterer_DYUVbQkt4sM.md
+> "exact reason I get my clients to focus on building pre-selling systems is because in order to get a sales team, and I had a founder at the start of this week ask me this, how do I get my sales team to close at 40, 50%? My advice to him was, look, it's" — sources/S_ig_geoff_ketterer_DYUVbQkt4sM.md
+> "how do I get my sales team to close at 40, 50%? My advice to him was, look, it's possible to get your sales team to close more, but getting them to 40, 50% is a blend of what you do in your marketing, what you do pre-call, and what you do on the call. So" — sources/S_ig_geoff_ketterer_DYUVbQkt4sM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'sales team' here is loaded with a specific meaning — the felt stake geoff_ketterer says must be touched — not the dictionary sense.
+- Read as polished prose: this is a verbatim transcript of a 203-word Instagram clip, and the wording around 'sales team' (including the collocation with 'possible') is spoken speech, not edited writing.

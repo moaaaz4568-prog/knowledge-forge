@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["choose", "Mark"]
+aka: ["called quantification"]
 origin: sources/S_ig_devinjatho_Cm4pk7wjX-b.md
 ---
 
-# G_ig_devinjatho_Cm4pk7wjX-b — choose
+# G_ig_devinjatho_Cm4pk7wjX-b — called quantification
 
 ## Term
 
-choose is the most prominent repeated term in this source (125-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: mark, often, associate. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's framing, 'called quantification' is the missing mechanic — the thing devinjatho says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'hack', 'psychology', and 'that'll' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: The hack is called quantification, and here's how… Anything else in the clip orbits this word — strip out 'called quantification' and the rest reads as filler around 'quantification'.
 
 ## Synonyms
 
-- choose
-- Mark
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now let's imagine you walk into a gym and you're looking for a personal trainer. There's two trainers to choose from, John and Mark. Now let's say John tells you" — sources/S_ig_devinjatho_Cm4pk7wjX-b.md
-> "Who would you choose? Most people would choose Mark, and this is because people often associate numbers with facts, which will add trust and credibility to their statement." — sources/S_ig_devinjatho_Cm4pk7wjX-b.md
+> "Here's a psychology hack that'll make you famous. The hack is called quantification, and here's how you can use it. Now let's imagine you walk into a gym and you're looking for a personal trainer. There's two trainers" — sources/S_ig_devinjatho_Cm4pk7wjX-b.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'called quantification' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as polished prose: this is a verbatim transcript of a 125-word Instagram clip, and the wording around 'called quantification' (including the collocation with 'tells') is spoken speech, not edited writing.

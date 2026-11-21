@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["click away", "content"]
+aka: ["recording horizontal"]
 origin: sources/S_ig_disisjorj_DRH0noGCC6P.md
 ---
 
-# G_ig_disisjorj_DRH0noGCC6P — click away
+# G_ig_disisjorj_DRH0noGCC6P — recording horizontal
 
 ## Term
 
-click away is the most prominent repeated term in this source (50-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: content, engine, recording. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'recording horizontal' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'click', 'engine', and 'vertical' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: One click away from recording horizontal and vertical… Without 'recording horizontal', the reel is just a clip about recording; with it, the clip is a claim.
 
 ## Synonyms
 
-- click away
-- content
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "if your entire video content engine was just one click away? One click away from recording horizontal and vertical videos at the same time, or sharing whatever it is that you want to share with your audience on a live call, client call, team meeting, something basically like" — sources/S_ig_disisjorj_DRH0noGCC6P.md
+> "What if your entire video content engine was just one click away? One click away from recording horizontal and vertical videos at the same time, or sharing whatever it is that you want to share with your audience on a live call, client call" — sources/S_ig_disisjorj_DRH0noGCC6P.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'recording horizontal' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a tagline worth extracting: the source shows disisjorj using 'recording horizontal' as a working label in one specific argument (visible in the collocation with 'share'), not as a slogan the reader is meant to repeat.

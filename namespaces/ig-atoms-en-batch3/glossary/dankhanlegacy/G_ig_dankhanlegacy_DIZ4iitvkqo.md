@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Number", "focus"]
+aka: ["system"]
 origin: sources/S_ig_dankhanlegacy_DIZ4iitvkqo.md
 ---
 
-# G_ig_dankhanlegacy_DIZ4iitvkqo — Number
+# G_ig_dankhanlegacy_DIZ4iitvkqo — system
 
 ## Term
 
-Number is the most prominent repeated term in this source (163-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: focus, developing, skills. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's clip, 'system' is the design choice dankhanlegacy treats as the hinge between pretty and effective. It appears 3 times, it sits next to 'education', 'straight', and 'failing' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Our education system is straight up failing us… Every other word in the source, including 'though', is in service to the move 'system' names.
 
 ## Synonyms
 
-- Number
-- focus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Guys, we're living in the digital age now. Instead of thinking that you've been set up to fail, think, what can I do about it? Number one, never stop learning. Your real education starts after school. Number two, focus on developing skills, not collecting degrees. Number three, network like crazy. Your connections are worth more than your GPA." — sources/S_ig_dankhanlegacy_DIZ4iitvkqo.md
+> "Our education system is straight up failing us. You spend years in school, right? Memorizing facts, taking tests, and getting grades. But did it actually prepare you" — sources/S_ig_dankhanlegacy_DIZ4iitvkqo.md
+> "world. Remember, Steve Jobs, Mark Zuckerberg, Bill Gates, all college dropouts. They didn't let the system define them. Neither should you" — sources/S_ig_dankhanlegacy_DIZ4iitvkqo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in dankhanlegacy's clip, 'system' names one specific visual or structural choice, not the whole craft of design.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'system' (e.g. the collocation with 'degrees') is the speech of one clip, not a stylistic pattern that can be generalised.

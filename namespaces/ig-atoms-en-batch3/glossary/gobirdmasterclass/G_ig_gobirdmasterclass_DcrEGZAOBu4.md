@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["CC", "Light"]
+aka: ["gobirdmasterclass"]
 origin: sources/S_ig_gobirdmasterclass_DcrEGZAOBu4.md
 ---
 
-# G_ig_gobirdmasterclass_DcrEGZAOBu4 — CC
+# G_ig_gobirdmasterclass_DcrEGZAOBu4 — CC Page Turn. CC Light Sweep. Deep Glow. Turbulent Displace.…
 
 ## Term
 
-CC is the most prominent repeated term in this source (20-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: light, sweep, deep. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The gobirdmasterclass clip is a short caption of 20 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "CC Page Turn. CC Light Sweep. Deep Glow. Turbulent Displace. Shadow Studio. CC Block Load. Mosaic. Shine. Tint. Venetian Blinds.".
 
 ## Synonyms
 
-- CC
-- Light
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "CC Page Turn. CC Light Sweep. Deep Glow. Turbulent Displace. Shadow Studio. CC Block Load. Mosaic. Shine. Tint." — sources/S_ig_gobirdmasterclass_DcrEGZAOBu4.md
+> "CC Page Turn. CC Light Sweep. Deep Glow. Turbulent Displace. Shadow Studio. CC Block Load. Mosaic. Shine. Tint. Venetian Blinds" — sources/S_ig_gobirdmasterclass_DcrEGZAOBu4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 20-word gobirdmasterclass clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

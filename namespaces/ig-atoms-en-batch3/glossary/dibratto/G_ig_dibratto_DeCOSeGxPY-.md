@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["proprietary", "Number"]
+aka: ["proprietary"]
 origin: sources/S_ig_dibratto_DeCOSeGxPY-.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dibratto_DeCOSeGxPY-.md
 
 ## Term
 
-proprietary is the most prominent repeated term in this source (202-word transcript from the Instagram account dibratto): it occurs 6 times literally in the text, most often collocated with: number, cannot, opinion. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'proprietary' in this clip is the lever that converts effort into reach — dibratto insists the value sits in the doing, not the perfecting. It appears 6 times, it sits next to 'four', 'single', and 'reader' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dibratto turns from describing to prescribing — the pivot runs: After writing almost 6,000 LinkedIn posts for tech… Even the move around 'context' only registers as a move because 'proprietary' is the thing being moved toward.
 
 ## Synonyms
 
-- proprietary
-- Number
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "writing almost 6,000 LinkedIn posts for tech executives, I've realized every single good post has one of what we call the proprietary four. For context, I'm Christian. My company Ghost writes over 100 LinkedIn posts per week for 20 tech executives. We've done it for 50 plus so far, many backed by these VCs and more. This is my entire life, so pay attention." — sources/S_ig_dibratto_DeCOSeGxPY-.md
-> "Number two is proprietary data. These are specific metrics the reader cannot find anywhere else. Number three is a proprietary process. This is a workflow or framework you came up with to get to a desired result. Number four is a proprietary opinion. This is a take or opinion you came up with yourself and did not regurgitate from somewhere else on the internet." — sources/S_ig_dibratto_DeCOSeGxPY-.md
-> "If you are struggling to generate pipeline from LinkedIn, make sure every single post has at least one of these proprietary four things and you'll be just" — sources/S_ig_dibratto_DeCOSeGxPY-.md
+> "LinkedIn posts for tech executives, I've realized every single good post has one of what we call the proprietary four. For context, I'm Christian. My company Ghost writes over 100 LinkedIn posts per week for 20 tech executives. We've done it for 50 plus" — sources/S_ig_dibratto_DeCOSeGxPY-.md
+> "struggling to generate pipeline from LinkedIn, make sure every single post has at least one of these proprietary four things and you'll be just fine" — sources/S_ig_dibratto_DeCOSeGxPY-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'proprietary' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a claim about how dibratto uses 'proprietary' across their work: this single 202-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

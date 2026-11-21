@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["μαζεύει", "το"]
+aka: ["disisjorj"]
 origin: sources/S_ig_disisjorj_DRW4rSJiKkW.md
+language: el
 ---
 
-# G_ig_disisjorj_DRW4rSJiKkW — μαζεύει
+# G_ig_disisjorj_DRW4rSJiKkW — Δεν μπορείς να το κοιτάς. Και βλέπω ότι δεν το μαζεύει. Όχι …
 
 ## Term
 
-μαζεύει is the most prominent repeated term in this source (37-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: το, δεν, στιγμη. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 37-word short caption from disisjorj — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Δεν μπορείς να το κοιτάς. Και βλέπω ότι δεν το μαζεύει. Όχι τόσο πολύ σε κάποια στιγμή δεν το μαζεύει. Εδώ πάνω είναι που μαζεύει, μπούτσια, κόλλας και μπούτσια. Εδώ έχει πιο χοντρό εδώ κάτω από μένα.". The source is in Greek; the words are documented as they appear in the source, not translated.
 
 ## Synonyms
 
-- μαζεύει
-- το
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "μπορείς να το κοιτάς. Και βλέπω ότι δεν το μαζεύει. Όχι τόσο πολύ σε κάποια στιγμή δεν το μαζεύει. Εδώ πάνω είναι που μαζεύει, μπούτσια, κόλλας και μπούτσια." — sources/S_ig_disisjorj_DRW4rSJiKkW.md
+> "Δεν μπορείς να το κοιτάς. Και βλέπω ότι δεν το μαζεύει. Όχι τόσο πολύ σε κάποια στιγμή δεν το μαζεύει. Εδώ πάνω είναι που μαζεύει, μπούτσια, κόλλας και" — sources/S_ig_disisjorj_DRW4rSJiKkW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a domain term in the account's wider body of work: this single short clip cannot establish that any word in it functions as a concept for disisjorj.
+- Read as a tagline to be quoted: extracting any phrase from here as the clip's slogan would be putting words on a string that has no thesis behind it.

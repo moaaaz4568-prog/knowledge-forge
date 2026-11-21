@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "every"]
+aka: ["control"]
 origin: sources/S_ig_dankhanlegacy_DJjrJpVsSWd.md
 ---
 
-# G_ig_dankhanlegacy_DJjrJpVsSWd — business
+# G_ig_dankhanlegacy_DJjrJpVsSWd — control
 
 ## Term
 
-business is the most prominent repeated term in this source (174-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: every, control, scaling. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'control' is the inner orientation the clip is built to install — not a tactic but a stance the tactics rest on. It appears 3 times, it sits next to 'point', 'beat', and 'yourself' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: The point is taking control… Read alongside 'enjoyed', the word 'control' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- business
-- every
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You're saying I'm not in control. Fuck that. You are in control of everything. Your business isn't scaling? That's on you. Not making enough sales? Your fault. Funnel not converting? You can fix it. I went from a broke student drowning in debt from my own family, doing odd jobs, to finally having a seven-figure business. How?" — sources/S_ig_dankhanlegacy_DJjrJpVsSWd.md
-> "How? By owning every failure and every success. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DJjrJpVsSWd.md
+> "that it's your fault, you can fix it. Don't beat yourself up, that's not the point. The point is taking control. Stop blaming the economy, social media, Elon Musk, CNN or Fox News, your parents, the government. The moment you blame others, you give away your" — sources/S_ig_dankhanlegacy_DJjrJpVsSWd.md
+> "you blame others, you give away your power. You're saying I'm not in control. Fuck that. You are in control of everything. Your business isn't scaling? That's on you. Not making enough sales? Your fault. Funnel not converting? You can fix it. I went from" — sources/S_ig_dankhanlegacy_DJjrJpVsSWd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'control' here is the specific frame dankhanlegacy argues from, not a generic motivational label.
+- Read as a claim about how dankhanlegacy uses 'control' across their work: this single 174-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

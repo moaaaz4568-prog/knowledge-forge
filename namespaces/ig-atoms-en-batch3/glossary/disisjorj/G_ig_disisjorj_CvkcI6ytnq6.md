@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["importantly", "finger"]
+aka: ["finger pointing"]
 origin: sources/S_ig_disisjorj_CvkcI6ytnq6.md
 ---
 
-# G_ig_disisjorj_CvkcI6ytnq6 — importantly
+# G_ig_disisjorj_CvkcI6ytnq6 — finger pointing
 
 ## Term
 
-This source is very short (95 words), so no term repeats enough for a frequency-based entry; importantly is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'finger pointing' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'likes', 'having', and 'importantly' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: One thing that has helped my reach in… What makes the word 'finger pointing' the term here is that the rest — 'having', 'shifting', everything else — is staged for it.
 
 ## Synonyms
 
-- importantly
-- finger
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No one really likes being told what to do or having a finger pointing at them. But most importantly, your evidence and your proof is what gives authority and value to your posts. If you just copy and paste what everyone else is saying, you'll eventually be one among many, and we don't want to do that. I hope this was helpful." — sources/S_ig_disisjorj_CvkcI6ytnq6.md
+> "No one really likes being told what to do or having a finger pointing at them. But most importantly, your evidence and your proof is what gives authority and value to your posts. If you just copy and paste" — sources/S_ig_disisjorj_CvkcI6ytnq6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'finger pointing' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'finger' makes that visible.
+- Read as proof the term is load-bearing for disisjorj in general: a 95-word clip with the word 'finger pointing' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["system", "systems"]
+aka: ["differentiate yourself"]
 origin: sources/S_ig_dankhanlegacy_DY4k6-evHXs.md
 ---
 
-# G_ig_dankhanlegacy_DY4k6-evHXs — system
+# G_ig_dankhanlegacy_DY4k6-evHXs — differentiate yourself
 
 ## Term
 
-system is the most prominent repeated term in this source (197-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: systems, part, number. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'differentiate yourself' is the part of the conversation dankhanlegacy treats as load-bearing — the move the rest of the close is built to set up. It appears once in the transcript, and it sits next to 'framework', 'blueprint', and 'system' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: You need to position it in another way… Take 'differentiate yourself' out and the clip collapses into generalities about friction — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- system
-- systems
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't scale past fifty k by working harder. You need systems and it's a three-part system. Number one, your offer positioning. If you're just selling coaching, you're a commodity. You need to position it in another way such that it's a framework, a blueprint, a system, so that you can differentiate yourself from other people." — sources/S_ig_dankhanlegacy_DY4k6-evHXs.md
-> "Like instead of saying business coaching, say premium client acquisition system. Two, your funnel needs to be on point. How you get someone in until how you ascend them very gradually and no friction." — sources/S_ig_dankhanlegacy_DY4k6-evHXs.md
+> "need to position it in another way such that it's a framework, a blueprint, a system, so that you can differentiate yourself from other people. Like instead of saying business coaching, say premium client acquisition system. Two, your funnel needs to be" — sources/S_ig_dankhanlegacy_DY4k6-evHXs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'differentiate yourself' to a specific move dankhanlegacy says is missing here, not a universal recommendation.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 197-word clip with the word 'differentiate yourself' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

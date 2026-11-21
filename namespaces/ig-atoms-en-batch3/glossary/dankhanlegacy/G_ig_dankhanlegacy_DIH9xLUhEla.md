@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["clients", "pulling"]
+aka: ["page"]
 origin: sources/S_ig_dankhanlegacy_DIH9xLUhEla.md
 ---
 
-# G_ig_dankhanlegacy_DIH9xLUhEla — clients
+# G_ig_dankhanlegacy_DIH9xLUhEla — page
 
 ## Term
 
-clients is the most prominent repeated term in this source (173-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: pulling, eight, figure. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'page' names the conversational lever dankhanlegacy treats as the thing that turns a maybe into a yes. It appears 3 times, it sits next to 'traffic', 'opt-in', and 'application' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Traffic to an opt-in page, to a VSL… This is the word the clip is built to deliver; 'freedom' is texture around it, not the point.
 
 ## Synonyms
 
-- clients
-- pulling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "pulling in seven to eight figure clients with just one damn video. It's through my one short video funnel. And no, I'm not someone who'd throw that to your face without giving you a single clue on how I do it." — sources/S_ig_dankhanlegacy_DIH9xLUhEla.md
-> "over webinars, challenges, and long ass copy, we're keeping it real simple and cashing checks. Want to know how to land high quality clients on autopilot? DM me or comment the word video and I'll take it from there." — sources/S_ig_dankhanlegacy_DIH9xLUhEla.md
+> "annoyingly long steps and money sucking funnel stages for that. Here's the real deal. Traffic to an opt-in page, to a VSL page, to an application page, and finally book a call. That's it. Five steps to freedom and lots of money. Now, here's where it gets juicy" — sources/S_ig_dankhanlegacy_DIH9xLUhEla.md
+> "funnel stages for that. Here's the real deal. Traffic to an opt-in page, to a VSL page, to an application page, and finally book a call. That's it. Five steps to freedom and lots of money. Now, here's where it gets juicy. One short video. That's all you need" — sources/S_ig_dankhanlegacy_DIH9xLUhEla.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'page' to a specific move dankhanlegacy says is missing here, not a universal recommendation.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'page' (e.g. the collocation with 'simple') is the speech of one clip, not a stylistic pattern that can be generalised.

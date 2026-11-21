@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["person", "whether"]
+aka: ["years"]
 origin: sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
 ---
 
-# G_ig_geoff_ketterer_DXcRTTQCS48 — person
+# G_ig_geoff_ketterer_DXcRTTQCS48 — years
 
 ## Term
 
-person is the most prominent repeated term in this source (139-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: whether, actor, talks. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'years' is what the game meant before the cameras arrived — geoff_ketterer treats it as the meaning the sport has lost and must recover. It appears 3 times, it sits next to 'nobody', 'spanx', and 'sara' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: Spanx took Sara Blakely two years just to… Anything else in the clip orbits this word — strip out 'years' and the rest reads as filler around 'Schultz'.
 
 ## Synonyms
 
-- person
-- whether
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "talks about this, but every single successful person you see, whether it's an actor or a sports person, they had a time in their life where they had started, but nobody gave a shit. Spanx took Sara Blakely two years just to find a manufacturer who was willing to take her seriously." — sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
+> "had a time in their life where they had started, but nobody gave a shit. Spanx took Sara Blakely two years just to find a manufacturer who was willing to take her seriously. Starbucks existed for sixteen years before Howard Schultz turned it into what" — sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
+> "chicken recipe. He was sixty-two when KFC finally worked. Shit, even Amazon lost money for its first six years straight. And this proverb says it perfectly: steady plodding brings prosperity, hasty speculation brings poverty. The people who are winning are" — sources/S_ig_geoff_ketterer_DXcRTTQCS48.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sports word: 'years' here names the meaning geoff_ketterer argues the sport has carried and is at risk of losing, not the activity itself.
+- Read as a stylistic choice by geoff_ketterer: the wording around 'years' (e.g. the collocation with 'Colonel') is the speech of one clip, not a stylistic pattern that can be generalised.

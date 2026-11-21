@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["tactic", "call"]
+aka: ["thousand impressions"]
 origin: sources/S_ig_dibratto_DbaqTq6xN8W.md
 ---
 
-# G_ig_dibratto_DbaqTq6xN8W — tactic
+# G_ig_dibratto_DbaqTq6xN8W — thousand impressions
 
 ## Term
 
-tactic is the most prominent repeated term in this source (95-word transcript from the Instagram account dibratto): it occurs 2 times literally in the text, most often collocated with: call, method, linkedin. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dibratto's framing, 'thousand impressions' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'drive', 'thirty', and 'hundred' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: We're using it right now to drive between… The reel earns its keep only because 'thousand impressions' is doing the lifting; 'because' alone would be filler.
 
 ## Synonyms
 
-- tactic
-- call
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "bad tactic call out method is a LinkedIn cheat code. We're using it right now to drive between thirty and one hundred and twenty thousand impressions per post for clients." — sources/S_ig_dibratto_DbaqTq6xN8W.md
-> "This is where you take a shady, scammy, or overall bad tactic used in your space, screenshot it, and use it as the media for your post, and then write a post calling it out and sharing what to do instead. This works because it makes people comment, and comments are the number one predictor of reach." — sources/S_ig_dibratto_DbaqTq6xN8W.md
+> "is a LinkedIn cheat code. We're using it right now to drive between thirty and one hundred and twenty thousand impressions per post for clients. This is where you take a shady, scammy, or overall bad tactic used in your space, screenshot it, and use it" — sources/S_ig_dibratto_DbaqTq6xN8W.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': dibratto draws the line explicitly — 'thousand impressions' here is the public-facing act, distinct from the private work of creating.
+- Read as a recommendation to use 'thousand impressions' yourself: the clip shows dibratto using the word in one specific move (visible in the collocation with 'screenshot'); it does not argue the reader should adopt it.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dr.bano.official
-aka: ["Fire", "normally"]
+aka: ["beautiful rhythms"]
 origin: sources/S_ig_dr.bano.official_Daib8XdocQF.md
 ---
 
-# G_ig_dr.bano.official_Daib8XdocQF — Fire
+# G_ig_dr.bano.official_Daib8XdocQF — beautiful rhythms
 
 ## Term
 
-Fire is the most prominent repeated term in this source (53-word transcript from the Instagram account dr.bano.official): it occurs 2 times literally in the text, most often collocated with: normally, careless, desire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'beautiful rhythms' names the distinction dr.bano.official draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'sinners', 'ruin', and 'cause' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dr.bano.official turns from describing to prescribing — the pivot runs: They say that we're out of control and… Even the move around 'beautiful' only registers as a move because 'beautiful rhythms' is the thing being moved toward.
 
 ## Synonyms
 
-- Fire
-- normally
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Fire on fire, we're normally careless, but this much desire, together we're winners. They say that we're out of control and some say we're sinners, but don't let them ruin our beautiful rhythms." — sources/S_ig_dr.bano.official_Daib8XdocQF.md
+> "winners. They say that we're out of control and some say we're sinners, but don't let them ruin our beautiful rhythms. 'Cause when you unfold me and tell me you love me and look in my eyes, you are perfection, my" — sources/S_ig_dr.bano.official_Daib8XdocQF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'beautiful rhythms' is loaded by dr.bano.official with a specific working meaning, not the dictionary sense.
+- Read as a rule for using 'beautiful rhythms': the clip shows dr.bano.official using the word in one specific move (alongside 'together'), not a recommendation that the reader adopt the word themselves.

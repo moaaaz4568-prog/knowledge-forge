@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["curiosities", "products"]
+aka: ["thousand followers"]
 origin: sources/S_ig_disisjorj_CztuwrNNsfG.md
 ---
 
-# G_ig_disisjorj_CztuwrNNsfG — curiosities
+# G_ig_disisjorj_CztuwrNNsfG — thousand followers
 
 ## Term
 
-This source is very short (131 words), so no term repeats enough for a frequency-based entry; curiosities is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'thousand followers' names the posture a person takes toward the work — disisjorj treats it as the foundation, not a tip. It appears once in the transcript, and it sits next to 'ninety-seven', 'days', and 'straight' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I've posted every single day for the last… Take 'thousand followers' out and the clip collapses into generalities about ninety-seven — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- curiosities
-- products
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Brand deals, setting out cohorts, launching digital products, and making a living out of my curiosities and interests is something that I've always wanted to do. Understand that none of it would be possible if I never swallowed my pride, put myself out there for everyone to see and judge, but kept going. Day in and day out." — sources/S_ig_disisjorj_CztuwrNNsfG.md
+> "every single day for the last one hundred and ninety-seven days straight and gained more than seven thousand followers along the way. Brand deals, setting out cohorts, launching digital products, and making a living out of my curiosities and interests" — sources/S_ig_disisjorj_CztuwrNNsfG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'thousand followers' here is the specific frame disisjorj argues from, not a generic motivational label.
+- Read as a definition of 'thousand followers': the source documents how disisjorj deploys the word in this clip — collocated with 'straight' — it does not establish what the word means in general.

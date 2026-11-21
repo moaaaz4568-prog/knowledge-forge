@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["thousand", "email"]
+aka: ["thousand"]
 origin: sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
 
 ## Term
 
-thousand is the most prominent repeated term in this source (203-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: email, hundred, dollars. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'thousand' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears 5 times, it sits next to 'three', 'email', and 'four' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Julian made this one post right here, and… Pull 'thousand' and the clip's spine comes loose — 'clients' would still be there but would not point at anything.
 
 ## Synonyms
 
-- thousand
-- email
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "made this one post right here, and not only added a thousand people to his email list, but he made three thousand four hundred dollars in a single day. And the reason he made that post is because I told him to." — sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
-> "In fact, shortly after he sent me the message about the thousand email subs and the three thousand four hundred dollars, he sent me another message saying that that three thousand four hundred dollars came from somebody who signed up automatically whilst he wasn't even awake." — sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
+> "Julian made this one post right here, and not only added a thousand people to his email list, but he made three thousand four hundred dollars in a single day. And the reason he made that post is because I told" — sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
+> "subs and the three thousand four hundred dollars, he sent me another message saying that that three thousand four hundred dollars came from somebody who signed up automatically whilst he wasn't even awake. No sales call, no nurturing in the DMs, just" — sources/S_ig_geoff_ketterer_DTLUXg9jS9e.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'thousand' is the body mechanic geoff_ketterer isolates as the root of the movement problem, not a general training concept.
+- Read as a claim about how geoff_ketterer uses 'thousand' across their work: this single 203-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

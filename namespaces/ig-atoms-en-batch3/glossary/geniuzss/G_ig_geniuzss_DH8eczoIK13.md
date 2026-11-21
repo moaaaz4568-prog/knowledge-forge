@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geniuzss
-aka: ["universe", "dark"]
+aka: ["universe"]
 origin: sources/S_ig_geniuzss_DH8eczoIK13.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geniuzss_DH8eczoIK13.md
 
 ## Term
 
-universe is the most prominent repeated term in this source (87-word transcript from the Instagram account geniuzss): it occurs 6 times literally in the text, most often collocated with: dark, energy, makes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'universe' names the move the clip is really making — the distinction geniuzss says a person must accept before the rest can apply. It appears 6 times, it sits next to 'dark', 'energy', and 'makes' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geniuzss drops it precisely where the cost of skipping it shows up — the surrounding move runs: The universe is not made out of atoms… The reel earns its keep only because 'universe' is doing the lifting; 'chemistry' alone would be filler.
 
 ## Synonyms
 
-- universe
-- dark
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "universe is not made out of atoms. Every textbook is wrong. Every chemistry class is wrong. Your high school chemistry teacher was wrong in saying that everything's made out of atoms." — sources/S_ig_geniuzss_DH8eczoIK13.md
-> "Dark matter makes up 23% of the universe. Dark energy makes up 73% of the universe. The stars make up 4% of the universe, and what about us, the higher elements?" — sources/S_ig_geniuzss_DH8eczoIK13.md
+> "The universe is not made out of atoms. Every textbook is wrong. Every chemistry class is wrong. Your high school chemistry teacher was wrong in saying that" — sources/S_ig_geniuzss_DH8eczoIK13.md
 > "The stars make up 4% of the universe, and what about us, the higher elements? We make up 0.03% of the universe" — sources/S_ig_geniuzss_DH8eczoIK13.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'universe' as a working label for an idea geniuzss is arguing, not as a tagline to be repeated.
+- Read as a stylistic choice by geniuzss: the wording around 'universe' (e.g. the collocation with 'higher') is the speech of one clip, not a stylistic pattern that can be generalised.

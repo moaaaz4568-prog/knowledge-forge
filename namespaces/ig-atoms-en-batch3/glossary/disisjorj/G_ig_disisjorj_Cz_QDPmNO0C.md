@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "pressing"]
+aka: ["personally developed"]
 origin: sources/S_ig_disisjorj_Cz_QDPmNO0C.md
 ---
 
-# G_ig_disisjorj_Cz_QDPmNO0C — content
+# G_ig_disisjorj_Cz_QDPmNO0C — personally developed
 
 ## Term
 
-content is the most prominent repeated term in this source (68-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: pressing, record, piece. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'personally developed' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'creation', 'effortless', and 'systemized' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: I've personally developed a system and a setup… Even the move around 'posted' only registers as a move because 'personally developed' is the thing being moved toward.
 
 ## Synonyms
 
-- content
-- pressing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "posted every single day for the past two hundred days, and if there is one piece of advice I can give you, it's to make content creation an effortless, systemized process. I've personally developed a system and a setup that its sole purpose is to remove all friction between me sitting down, pressing record, and having a new piece of content I can post." — sources/S_ig_disisjorj_Cz_QDPmNO0C.md
+> "piece of advice I can give you, it's to make content creation an effortless, systemized process. I've personally developed a system and a setup that its sole purpose is to remove all friction between me sitting down, pressing record, and having a new piece" — sources/S_ig_disisjorj_Cz_QDPmNO0C.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'personally developed' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence the term is central to the account: one 68-word clip showing 'personally developed' next to 'friction' is too small a sample to anchor a wider claim about what disisjorj writes about.

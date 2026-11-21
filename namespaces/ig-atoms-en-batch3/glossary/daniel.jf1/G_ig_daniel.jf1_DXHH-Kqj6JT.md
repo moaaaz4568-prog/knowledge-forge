@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["Twitter", "started"]
+aka: ["private group"]
 origin: sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
 ---
 
-# G_ig_daniel.jf1_DXHH-Kqj6JT — Twitter
+# G_ig_daniel.jf1_DXHH-Kqj6JT — private group
 
 ## Term
 
-Twitter is the most prominent repeated term in this source (245-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: started, account, zero. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'private group' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears twice, it sits next to 'cool', 'join', and 'messaged' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: He goes, hey, we want to invite you… Read alongside 'scrape', the word 'private group' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- Twitter
-- started
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "how did you start your Twitter from scratch though? What I did was I actually have a video of this on YouTube. It's 35 minutes and it's called Twitter Masterclass. Basically, you have to prove competence to a group of people. But I was at zero." — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
-> "But I was at zero. I started an account from zero. Cool thing about Twitter is if you comment, if someone comments on a post, it immediately boosts it back to the top of people's timeline. I made this thread one time and it popped off." — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
+> "happened is very interesting. One of the guys messaged me. He goes, hey, we want to invite you to this private group. I was like, cool, join the private group now, man. That was it" — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
+> "guys messaged me. He goes, hey, we want to invite you to this private group. I was like, cool, join the private group now, man. That was it" — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'private group' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a clean transcript: the wording around 'private group' (including the run-on near 'popped') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

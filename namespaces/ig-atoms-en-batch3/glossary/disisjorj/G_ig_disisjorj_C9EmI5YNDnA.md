@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["promised", "Death"]
+aka: ["promised"]
 origin: sources/S_ig_disisjorj_C9EmI5YNDnA.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_disisjorj_C9EmI5YNDnA.md
 
 ## Term
 
-This source is very short (27 words), so no term repeats enough for a frequency-based entry; promised is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'promised' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'death' each time it appears — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Death is promised, so what do you do… The clip is engineered so that 'loudest' lands as setup, not payoff; the payoff is the move 'promised' names.
 
 ## Synonyms
 
-- promised
-- Death
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is promised, so what do you do with your life? How do you make the most of it?" — sources/S_ig_disisjorj_C9EmI5YNDnA.md
+> "Death is promised, so what do you do with your life? How do you make the most of it? How do you make your voice the loudest" — sources/S_ig_disisjorj_C9EmI5YNDnA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in disisjorj's usage, 'promised' is loaded with a specific working meaning (visible in the collocation with 'voice'), not the dictionary sense.
+- Read as proof the term is load-bearing for disisjorj in general: a 27-word clip with the word 'promised' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

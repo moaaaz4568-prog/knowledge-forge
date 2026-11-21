@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["capable", "yourself"]
+aka: ["meaning behind"]
 origin: sources/S_ig_disisjorj_C5BGmgwt-fW.md
 ---
 
-# G_ig_disisjorj_C5BGmgwt-fW — capable
+# G_ig_disisjorj_C5BGmgwt-fW — meaning behind
 
 ## Term
 
-capable is the most prominent repeated term in this source (105-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: yourself, proving. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'meaning behind' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears once in the transcript, and it sits next to 'simple', 'genuinely', and 'years' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: And I know it's simple, but it genuinely… Strip the clip down to its claim and you are left with 'meaning behind'; 'anyways' and 'realize' are how the claim is delivered.
 
 ## Synonyms
 
-- capable
-- yourself
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Do what you're afraid of and jump into the unknown. There's no better feeling than proving to yourself you're more than capable and capable for" — sources/S_ig_disisjorj_C5BGmgwt-fW.md
+> "time is what actually matters. And I know it's simple, but it genuinely took me 25 years to realize the meaning behind that. Do what you're afraid of and jump into the unknown. There's no better feeling than proving to yourself you're more than capable and" — sources/S_ig_disisjorj_C5BGmgwt-fW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'meaning behind' is disisjorj's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as a clean transcript: the wording around 'meaning behind' (including the run-on near 'years') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

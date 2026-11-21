@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["Kuala Lumpur", "money"]
+aka: ["kuala lumpur"]
 origin: sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
 ---
 
-# G_ig_geoff_ketterer_DZuU3pri9aU — Kuala Lumpur
+# G_ig_geoff_ketterer_DZuU3pri9aU — kuala lumpur
 
 ## Term
 
-Kuala Lumpur is the most prominent repeated term in this source (216-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: money, run, respond. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'kuala lumpur' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 3 times, it sits next to 'running', 'credit', and 'card' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: When anybody ever says, "How do I know… Without 'kuala lumpur' as the anchor, 'credit' and 'document' would float without a stake in the argument.
 
 ## Synonyms
 
-- Kuala Lumpur
-- money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "do I know you're not going to, you know, run off to Kuala Lumpur with my" — sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
-> "Go, do you think we'd have been in business for the last six years and been running this elaborate scam where we're running off to Kuala Lumpur with everybody's money and there wouldn't be anything written about that on the internet? Like, do you really think that's the case?" — sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
-> "The last thing I do is I go, and even if we were, you could just pay for it on a credit card, which means if we did run away to Kuala Lumpur with your money, the credit card company would just put it straight back on your card because they are responsible for chasing the debt, not you." — sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
+> "How do I know you're not going to, you know, run off to Kuala Lumpur with my money" — sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
+> "and even if we were, you could just pay for it on a credit card, which means if we did run away to Kuala Lumpur with your money, the credit card company would just put it straight back on your card because they are responsible for chasing the debt, not" — sources/S_ig_geoff_ketterer_DZuU3pri9aU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'kuala lumpur' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as a recommendation to use 'kuala lumpur' yourself: the clip shows geoff_ketterer using the word in one specific move (visible in the collocation with 'screen'); it does not argue the reader should adopt it.

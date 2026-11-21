@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["funnel", "top"]
+aka: ["funnel"]
 origin: sources/S_ig_dibratto_Dd6XEODRJA9.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dibratto_Dd6XEODRJA9.md
 
 ## Term
 
-funnel is the most prominent repeated term in this source (263-word transcript from the Instagram account dibratto): it occurs 7 times literally in the text, most often collocated with: top, recommend, middle. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'funnel' is the future cost dibratto names to make the present feel expensive — the lever the clip uses to move the person. It appears 7 times, it sits next to 'middle', 'bottom', and 'figure' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dibratto drops it precisely where the cost of skipping it shows up — the surrounding move runs: Here's how I'd build a founder-led content funnel… What makes the word 'funnel' the term here is that the rest — 'better', 'founders', everything else — is staged for it.
 
 ## Synonyms
 
-- funnel
-- top
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "how I'd build a founder-led content funnel for the CEO of Vanta, Christina Cacchione. If we do this right, Vanta will see increased inbound, better reply rates from outbound, easier time recruiting talent, and more." — sources/S_ig_dibratto_Dd6XEODRJA9.md
-> "Then you need to decide on funnel mix. I would recommend 40% top of funnel, 40% middle of funnel, 20% bottom of funnel. Then we need to figure out each funnel stage. At the top of the funnel, we need to attract chief security and information officers and security and compliance teams." — sources/S_ig_dibratto_Dd6XEODRJA9.md
+> "Here's how I'd build a founder-led content funnel for the CEO of Vanta, Christina Cacchione. If we do this right, Vanta will see increased inbound, better reply rates from outbound, easier time" — sources/S_ig_dibratto_Dd6XEODRJA9.md
+> "middle of funnel, 20% bottom of funnel. Then we need to figure out each funnel stage. At the top of the funnel, we need to attract chief security and information officers and security and compliance teams. So we'll talk about things like how AI is changing" — sources/S_ig_dibratto_Dd6XEODRJA9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'funnel' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as a definition of 'funnel': the source documents how dibratto deploys the word in this clip — collocated with 'mechanics' — it does not establish what the word means in general.

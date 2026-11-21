@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["opportunity", "whole"]
+aka: ["comfort zone"]
 origin: sources/S_ig_disisjorj_CvrxxO-tQXb.md
 ---
 
-# G_ig_disisjorj_CvrxxO-tQXb — opportunity
+# G_ig_disisjorj_CvrxxO-tQXb — comfort zone
 
 ## Term
 
-This source is very short (45 words), so no term repeats enough for a frequency-based entry; opportunity is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'comfort zone' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'whole', 'point', and 'opportunity' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: This is a great opportunity to get out… The reel earns its keep only because 'comfort zone' is doing the lifting; 'lighting' alone would be filler.
 
 ## Synonyms
 
-- opportunity
-- whole
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But that's the whole point. This is a great opportunity to get out of your comfort zone and try something" — sources/S_ig_disisjorj_CvrxxO-tQXb.md
+> "everything looks, lighting. But that's the whole point. This is a great opportunity to get out of your comfort zone and try something new" — sources/S_ig_disisjorj_CvrxxO-tQXb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'comfort zone' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as a stylistic choice by disisjorj: the wording around 'comfort zone' (e.g. the collocation with 'comfort') is the speech of one clip, not a stylistic pattern that can be generalised.

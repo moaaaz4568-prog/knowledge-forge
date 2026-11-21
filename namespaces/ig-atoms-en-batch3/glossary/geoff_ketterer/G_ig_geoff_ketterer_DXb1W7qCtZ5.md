@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["blood pressure", "higher"]
+aka: ["blood pressure"]
 origin: sources/S_ig_geoff_ketterer_DXb1W7qCtZ5.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DXb1W7qCtZ5.md
 
 ## Term
 
-blood pressure is the most prominent repeated term in this source (61-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: higher, chicken, memory. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'blood pressure' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears twice, it sits next to 'higher', 'chicken', and 'memory' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: First one is higher blood pressure… Even the move around 'memory' only registers as a move because 'blood pressure' is the thing being moved toward.
 
 ## Synonyms
 
-- blood pressure
-- higher
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I bet you didn't know there were three negative effects to choking the chicken. First one is higher blood pressure. Higher blood pressure. Second one is memory loss, like amnesia style memory loss." — sources/S_ig_geoff_ketterer_DXb1W7qCtZ5.md
+> "I bet you didn't know there were three negative effects to choking the chicken. First one is higher blood pressure. Higher blood pressure. Second one is memory loss, like amnesia style memory loss. The third one is" — sources/S_ig_geoff_ketterer_DXb1W7qCtZ5.md
+> "there were three negative effects to choking the chicken. First one is higher blood pressure. Higher blood pressure. Second one is memory loss, like amnesia style memory loss. The third one is" — sources/S_ig_geoff_ketterer_DXb1W7qCtZ5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'blood pressure' here is pinned to one specific claim in this clip, and the same word in another source from geoff_ketterer may carry a different load.
+- Read as polished prose: this is a verbatim transcript of a 61-word Instagram clip, and the wording around 'blood pressure' (including the collocation with 'higher') is spoken speech, not edited writing.

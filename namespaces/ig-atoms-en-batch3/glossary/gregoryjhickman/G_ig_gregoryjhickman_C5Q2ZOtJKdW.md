@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["meetings", "extra"]
+aka: ["meetings"]
 origin: sources/S_ig_gregoryjhickman_C5Q2ZOtJKdW.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C5Q2ZOtJKdW.md
 
 ## Term
 
-meetings is the most prominent repeated term in this source (162-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: extra, long, minutes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'meetings' is the sales move gregoryjhickman argues is the difference between an objection that sticks and one that dissolves. It appears 5 times, it sits next to 'extra', 'long', and 'having' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: So spending too much time on projects, too… The clip's relationship to 'sometimes' only makes sense as a vehicle for delivering 'meetings'.
 
 ## Synonyms
 
-- meetings
-- extra
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So spending too much time on projects, too many extra meetings, too many meetings, too long of meetings. You might want to think about, are we having too many extra meetings? Are our meetings 60 minutes when they could be 30 minutes?" — sources/S_ig_gregoryjhickman_C5Q2ZOtJKdW.md
+> "through in the timely manner and others are not? So spending too much time on projects, too many extra meetings, too many meetings, too long of meetings. You might want to think about, are we having too many extra meetings? Are our meetings 60 minutes when" — sources/S_ig_gregoryjhickman_C5Q2ZOtJKdW.md
+> "too long of meetings. You might want to think about, are we having too many extra meetings? Are our meetings 60 minutes when they could be 30 minutes? If you find yourself getting a lot of emails and there's back and forth with clients that is inefficient" — sources/S_ig_gregoryjhickman_C5Q2ZOtJKdW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'meetings' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'meetings' next to 'projects') may not be load-bearing in gregoryjhickman's wider body of work.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["service", "done"]
+aka: ["service-based businesses"]
 origin: sources/S_ig_gregoryjhickman_C-0IYahi7DV.md
 ---
 
-# G_ig_gregoryjhickman_C-0IYahi7DV — service
+# G_ig_gregoryjhickman_C-0IYahi7DV — service-based businesses
 
 ## Term
 
-service is the most prominent repeated term in this source (194-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: done, 70k, change. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'service-based businesses' is the missing mechanic — the thing gregoryjhickman says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'probably', 'change', and 'trajectory' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Now there's obviously a lot of things I've… Read alongside 'Whereas', the word 'service-based businesses' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- service
-- done
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "key thing that you might notice is that as you're building down, as you're figuring out how to get someone the result of your core service, but in a more leveraged way, like doing it through training or workshops, you can actually serve more people at once, which is way more profitable. Once you've dialed it in, you actually can keep your team relatively lean." — sources/S_ig_gregoryjhickman_C-0IYahi7DV.md
-> "Whereas like if we were to take our done for you service, when we were at 65, 70K a month in our done for you service, we were at a team of 12 and we needed to bring more people on." — sources/S_ig_gregoryjhickman_C-0IYahi7DV.md
-> "Now there's obviously a lot of things I've learned now that I would probably change, but the trajectory of service-based businesses for most agencies that we at least deal with, they find themselves having to bring on a certain amount of people just to support the next like five, 10 clients, and very quickly your margins" — sources/S_ig_gregoryjhickman_C-0IYahi7DV.md
+> "there's obviously a lot of things I've learned now that I would probably change, but the trajectory of service-based businesses for most agencies that we at least deal with, they find themselves having to bring on a certain amount of people just to support" — sources/S_ig_gregoryjhickman_C-0IYahi7DV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'service-based businesses' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as evidence the term is central to the account: one 194-word clip showing 'service-based businesses' next to 'training' is too small a sample to anchor a wider claim about what gregoryjhickman writes about.

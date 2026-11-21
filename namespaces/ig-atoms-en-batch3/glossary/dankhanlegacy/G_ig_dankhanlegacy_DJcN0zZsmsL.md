@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "enjoyed"]
+aka: ["millionaire overnight"]
 origin: sources/S_ig_dankhanlegacy_DJcN0zZsmsL.md
 ---
 
-# G_ig_dankhanlegacy_DJcN0zZsmsL — business
+# G_ig_dankhanlegacy_DJcN0zZsmsL — millionaire overnight
 
 ## Term
 
-business is the most prominent repeated term in this source (204-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: enjoyed, tips, built. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'millionaire overnight' is the future cost dankhanlegacy names to make the present feel expensive — the lever the clip uses to move the person. It appears once in the transcript, and it sits next to 'earth', 'freaking', and 'years' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: You want to be a millionaire overnight… 'millionaire overnight' is what the rest of the clip is trying to justify — even 'student' reads as evidence for it.
 
 ## Synonyms
 
-- business
-- enjoyed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But I kept pushing. Learned affiliate marketing, paid ads, all the works. That's how I built my seven-figure business from nothing. Here's what most people don't get. You want success? Eat shit for a decade. You want fame? Work for four years straight with zero feedback. No money, no recognition. Just pure fucking grind." — sources/S_ig_dankhanlegacy_DJcN0zZsmsL.md
-> "They quit after two days. You want to live that 1% life? You gotta love the struggle. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DJcN0zZsmsL.md
+> "You want to live a life only 1% of the people on this earth are living? You want to be a millionaire overnight? You are freaking 21 years old and comparing yourself with those who are decades ahead of you. Alex Hormozi, Alex Cooper, Grant Cardone" — sources/S_ig_dankhanlegacy_DJcN0zZsmsL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'millionaire overnight' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a clean transcript: the wording around 'millionaire overnight' (including the run-on near 'straight') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["world", "Bolt"]
+aka: ["hundred-meter sprint"]
 origin: sources/S_ig_disisjorj_C1U61j3Nk1z.md
 ---
 
-# G_ig_disisjorj_C1U61j3Nk1z — world
+# G_ig_disisjorj_C1U61j3Nk1z — hundred-meter sprint
 
 ## Term
 
-world is the most prominent repeated term in this source (85-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: bolt, trained, break. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'hundred-meter sprint' names the felt consequence disisjorj uses to break through a person's logical defences. It appears once in the transcript, and it sits next to 'trained', 'four', and 'years' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Usain Bolt trained for four years to break… Read alongside 'trained', the word 'hundred-meter sprint' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- world
-- Bolt
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Bolt trained for four years to break the world record for the hundred-meter sprint. Yet people spend three months building their personal brand and are ready to give up because they don't see results." — sources/S_ig_disisjorj_C1U61j3Nk1z.md
-> "spend three months building their personal brand and are ready to give up because they don't see results. Warren Buffett, one of the world's greatest investors, says the stock market is designed to transfer money from the active to the patient. It's a long way to the top, and it should. The whole point of the game is to keep playing, not to win." — sources/S_ig_disisjorj_C1U61j3Nk1z.md
+> "Usain Bolt trained for four years to break the world record for the hundred-meter sprint. Yet people spend three months building their personal brand and are ready to give up because they don't see results. Warren Buffett" — sources/S_ig_disisjorj_C1U61j3Nk1z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'hundred-meter sprint' here is loaded with a specific meaning — the felt stake disisjorj says must be touched — not the dictionary sense.
+- Read as a stylistic choice by disisjorj: the wording around 'hundred-meter sprint' (e.g. the collocation with 'because') is the speech of one clip, not a stylistic pattern that can be generalised.

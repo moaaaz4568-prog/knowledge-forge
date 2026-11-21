@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["sound effects", "free"]
+aka: ["sound effects"]
 origin: sources/S_ig_disisjorj_CuvzQnpP78G.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CuvzQnpP78G.md
 
 ## Term
 
-sound effects is the most prominent repeated term in this source (60-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: free, download, use. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'sound effects' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'free', 'spice', and 'consider' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: If you're in need of some sound effects… Without 'sound effects' as the anchor, 'almost' and 'download' would float without a stake in the argument.
 
 ## Synonyms
 
-- sound effects
-- free
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're in need of some sound effects to spice up your videos for free, consider SoundQ from Pro Sound Effects, a free app that you can download and use to get your sound effects. The three main ones I use in almost every video: a riser, a whoosh, and a drum." — sources/S_ig_disisjorj_CuvzQnpP78G.md
+> "If you're in need of some sound effects to spice up your videos for free, consider SoundQ from Pro Sound Effects, a free app that you can download and use to get your sound effects" — sources/S_ig_disisjorj_CuvzQnpP78G.md
+> "for free, consider SoundQ from Pro Sound Effects, a free app that you can download and use to get your sound effects. The three main ones I use in almost every video: a riser, a whoosh, and a drum. I hope this was insightful. Follow for more" — sources/S_ig_disisjorj_CuvzQnpP78G.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'sound effects' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as proof the term is load-bearing for disisjorj in general: a 60-word clip with the word 'sound effects' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

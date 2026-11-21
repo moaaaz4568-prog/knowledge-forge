@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content creation", "results"]
+aka: ["creation"]
 origin: sources/S_ig_disisjorj_C0Eo8Dpt9SU.md
 ---
 
-# G_ig_disisjorj_C0Eo8Dpt9SU — content creation
+# G_ig_disisjorj_C0Eo8Dpt9SU — creation
 
 ## Term
 
-content creation is the most prominent repeated term in this source (42-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: results, goal, win. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'creation' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears twice, it sits next to 'goal', 'three', and 'months' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: If it takes seven years to be a… The argument only stays upright while 'creation' is doing the work — pull it and 'lawyer' loses its anchor.
 
 ## Synonyms
 
-- content creation
-- results
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "it takes seven years to be a lawyer and five to become a doctor, maybe don't quit content creation after three months of no results. The goal is not to win content creation." — sources/S_ig_disisjorj_C0Eo8Dpt9SU.md
+> "If it takes seven years to be a lawyer and five to become a doctor, maybe don't quit content creation after three months of no results. The goal is not to win content creation. The goal is to keep playing the game" — sources/S_ig_disisjorj_C0Eo8Dpt9SU.md
+> "maybe don't quit content creation after three months of no results. The goal is not to win content creation. The goal is to keep playing the game" — sources/S_ig_disisjorj_C0Eo8Dpt9SU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'creation' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence the term is central to the account: one 42-word clip showing 'creation' next to 'three' is too small a sample to anchor a wider claim about what disisjorj writes about.

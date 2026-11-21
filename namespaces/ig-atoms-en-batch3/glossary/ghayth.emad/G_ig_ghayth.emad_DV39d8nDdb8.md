@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["Forbidden Laws", "Reality"]
+aka: ["forbidden laws"]
 origin: sources/S_ig_ghayth.emad_DV39d8nDdb8.md
+language: ar
 ---
 
-# G_ig_ghayth.emad_DV39d8nDdb8 — Forbidden Laws
+# G_ig_ghayth.emad_DV39d8nDdb8 — forbidden laws
 
 ## Term
 
-Forbidden Laws is the most prominent repeated term in this source (181-word transcript from the Instagram account ghayth.emad): it occurs 13 times literally in the text, most often collocated with: reality, طبعا, millionaire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'forbidden laws' names the move the clip is really making — the distinction ghayth.emad says a person must accept before the rest can apply. It appears 13 times, it sits next to 'reality', 'millionaire', and 'sold' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The source is in Arabic; the term is documented as it appears in the source, not translated or transliterated. It lands in the sentence where ghayth.emad names the thing a person cannot outsource — nearby: The monk who sold his Ferrari, أو Forbidden… The clip's relationship to 'Forbidden' only makes sense as a vehicle for delivering 'forbidden laws'.
 
 ## Synonyms
 
-- Forbidden Laws
-- Reality
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Or the monk who sold his Ferrari. The monk who sold his Ferrari. The monk who sold his Ferrari, أو Forbidden Laws of Reality. Forbidden Laws of Reality طبعاً. Forbidden Laws of Reality, or The Instant Millionaire. طبعاً Forbidden Laws of Reality، أقوى كتاب أتوقع قرأته بآخر سنتين تلات رهيب الكتاب. Forbidden Laws of Reality, or Awaken the Giant Within." — sources/S_ig_ghayth.emad_DV39d8nDdb8.md
-> "Laws of Reality أقوى بكتير، Awaken the Giant Within مناسب أكتر للمبتدئين على مجال التطوير الشخصي أو الوعي ممكن يكون جد فيه تحفيز أكتر، Forbidden Laws of Reality هو فيه إيقاظ أكتر عكس التحفيز اللي هو ممكن مرات يحبطك. Forbidden Laws of Reality, or Secrets of Millionaire Minds." — sources/S_ig_ghayth.emad_DV39d8nDdb8.md
-> "Forbidden Laws of Reality, or Power of Subconscious Mind. قوة العقل الباطن رهيب بس Forbidden Laws of Reality. Forbidden Laws of Reality, or Start with Why." — sources/S_ig_ghayth.emad_DV39d8nDdb8.md
+> "Or the monk who sold his Ferrari. The monk who sold his Ferrari. The monk who sold his Ferrari, أو Forbidden Laws of Reality. Forbidden Laws of Reality طبعاً. Forbidden Laws of Reality, or The Instant Millionaire. طبعاً Forbidden Laws of Reality، أقوى" — sources/S_ig_ghayth.emad_DV39d8nDdb8.md
+> "Laws of Reality, or Power of Subconscious Mind. قوة العقل الباطن رهيب بس Forbidden Laws of Reality. Forbidden Laws of Reality, or Start with Why. أوووووووووووووووووووووووووووووووووووووووووووووووووووووووو" — sources/S_ig_ghayth.emad_DV39d8nDdb8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in ghayth.emad's usage, 'forbidden laws' is loaded with a specific working meaning (visible in the collocation with 'moved'), not the dictionary sense.
+- Read as evidence the term is central to the account: one 181-word clip showing 'forbidden laws' next to 'moved' is too small a sample to anchor a wider claim about what ghayth.emad writes about.

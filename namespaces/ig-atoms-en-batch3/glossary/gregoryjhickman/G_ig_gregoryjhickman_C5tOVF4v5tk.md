@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["percent", "sixty"]
+aka: ["percent"]
 origin: sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
 
 ## Term
 
-percent is the most prominent repeated term in this source (174-word transcript from the Instagram account gregoryjhickman): it occurs 8 times literally in the text, most often collocated with: sixty, profit, fifty. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'percent' names the resource or move gregoryjhickman argues a person must use to compound effort into outcome. It appears 8 times, it sits next to 'sixty-five', 'fifty', and 'margin' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: So let's look at what could happen to… Pull 'percent' and the clip's spine comes loose — 'sixty-five' would still be there but would not point at anything.
 
 ## Synonyms
 
-- percent
-- sixty
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "let's look at what could happen to your business if we go from fifty percent and increase up to sixty-five percent. Now you might be saying, hey Greg, fifteen percent, like that's all not that big of a deal. Well, I want to show you how it is a big deal." — sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
-> "say at the end, after all is said and done, all of the rest of the OPEX expenses, if we look at that, we've just now gone to a thirty percent, if we've kept our OPEX and everything the same, which is one hundred percent doable. We've just doubled your net profit margin, meaning we have more money to pay ourselves as the founder outside of our salary." — sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
-> "So just by increasing our gross profit margin from fifty percent to sixty-five percent, we actually have gone to doubling our net profit at the end of the" — sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
+> "So let's look at what could happen to your business if we go from fifty percent and increase up to sixty-five percent. Now you might be saying, hey Greg, fifteen percent, like that's all not that big of a deal. Well, I want" — sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
+> "the business and grow. So just by increasing our gross profit margin from fifty percent to sixty-five percent, we actually have gone to doubling our net profit at the end of the year" — sources/S_ig_gregoryjhickman_C5tOVF4v5tk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'percent' here is the multiplier on effort, not the effort itself.
+- Read as a clean transcript: the wording around 'percent' (including the run-on near 'reinvest') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

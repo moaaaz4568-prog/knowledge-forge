@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["loves", "clear"]
+aka: ["loves"]
 origin: sources/S_ig_disisjorj_CuV4Lq8tYJH.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CuV4Lq8tYJH.md
 
 ## Term
 
-loves is the most prominent repeated term in this source (106-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: clear, cut, example. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'loves' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 3 times, it sits next to 'clear', 'example', and 'game' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: But he doesn't do that simply because he… The clip's relationship to 'because' only makes sense as a vehicle for delivering 'loves'.
 
 ## Synonyms
 
-- loves
-- clear
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But he doesn't do that simply because he loves the game. That's a clear cut example of someone who loves walking more than he loves the destination." — sources/S_ig_disisjorj_CuV4Lq8tYJH.md
+> "very luxurious and comfortable life for the next fifty years. But he doesn't do that simply because he loves the game. That's a clear cut example of someone who loves walking more than he loves the destination. I personally strive to be that someone, and" — sources/S_ig_disisjorj_CuV4Lq8tYJH.md
+> "simply because he loves the game. That's a clear cut example of someone who loves walking more than he loves the destination. I personally strive to be that someone, and if that makes two of us, follow for more" — sources/S_ig_disisjorj_CuV4Lq8tYJH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'loves' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as evidence disisjorj always uses 'loves' this way: one 106-word clip is too thin a sample to support any claim about how the account uses the word in general.

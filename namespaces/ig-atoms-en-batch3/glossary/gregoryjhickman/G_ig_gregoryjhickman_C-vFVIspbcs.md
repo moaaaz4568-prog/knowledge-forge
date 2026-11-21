@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["CMO", "dashboard"]
+aka: ["cmo"]
 origin: sources/S_ig_gregoryjhickman_C-vFVIspbcs.md
 ---
 
-# G_ig_gregoryjhickman_C-vFVIspbcs — CMO
+# G_ig_gregoryjhickman_C-vFVIspbcs — cmo
 
 ## Term
 
-CMO is the most prominent repeated term in this source (121-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: dashboard, metrics, responsible. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'cmo' is the operating lever gregoryjhickman says determines whether the work scales or just gets repeated. It appears 3 times, it sits next to 'metrics', 'dashboard', and 'three' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: Most businesses that have a CMO, there's a… This is the word the clip is built to deliver; 'scorecard' is texture around it, not the point.
 
 ## Synonyms
 
-- CMO
-- dashboard
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "businesses that have a CMO, there's a dashboard. What are the three metrics that the CMO is responsible for? The strategy set for the quarter, a weekly update on the scorecard. That's like a 15 to 20 minute meeting. Like you shouldn't be having strategic shifts." — sources/S_ig_gregoryjhickman_C-vFVIspbcs.md
-> "So it's like, yeah. So like you could be like, hey, I'll come in, set the quarterly plan, and like, I'll send you an update on the CMO metrics. But that doesn't even need to be a call." — sources/S_ig_gregoryjhickman_C-vFVIspbcs.md
+> "Most businesses that have a CMO, there's a dashboard. What are the three metrics that the CMO is responsible for? The strategy set for the quarter, a weekly update on the scorecard" — sources/S_ig_gregoryjhickman_C-vFVIspbcs.md
+> "you could be like, hey, I'll come in, set the quarterly plan, and like, I'll send you an update on the CMO metrics. But that doesn't even need to be a call. Like if you walk into a coffee shop and one of those people bump into you and they're like, hey" — sources/S_ig_gregoryjhickman_C-vFVIspbcs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business-school term: the source uses 'cmo' to mark the specific move the clip is defending, not a category of business moves in general.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'cmo' (e.g. the collocation with 'responsible') is the speech of one clip, not a stylistic pattern that can be generalised.

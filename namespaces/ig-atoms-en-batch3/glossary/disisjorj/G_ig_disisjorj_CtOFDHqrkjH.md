@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["audio", "parts"]
+aka: ["resonant frequencies"]
 origin: sources/S_ig_disisjorj_CtOFDHqrkjH.md
 ---
 
-# G_ig_disisjorj_CtOFDHqrkjH — audio
+# G_ig_disisjorj_CtOFDHqrkjH — resonant frequencies
 
 ## Term
 
-audio is the most prominent repeated term in this source (80-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: parts, use, eq. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'resonant frequencies' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'audio', 'remove', and 'harsh' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: With EQ, I remove harsh and resonant frequencies… It is the one word in this source that, if removed, would leave 'sounding' without a frame to hang on.
 
 ## Synonyms
 
-- audio
-- parts
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are the three things I use for clean sounding audio. Number one is EQ. With EQ, I remove harsh and resonant frequencies. Number two is compression. It increases the soft parts of the audio and decreases the loud parts of the audio to make everything cohesive. Lastly, I use a limiter." — sources/S_ig_disisjorj_CtOFDHqrkjH.md
+> "These are the three things I use for clean sounding audio. Number one is EQ. With EQ, I remove harsh and resonant frequencies. Number two is compression. It increases the soft parts of the audio and decreases the loud parts of the audio to make everything" — sources/S_ig_disisjorj_CtOFDHqrkjH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'resonant frequencies' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as a rule for using 'resonant frequencies': the clip shows disisjorj using the word in one specific move (alongside 'increases'), not a recommendation that the reader adopt the word themselves.

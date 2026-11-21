@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "live"]
+aka: ["developed throughout"]
 origin: sources/S_ig_disisjorj_C6ljzMZNQ29.md
 ---
 
-# G_ig_disisjorj_C6ljzMZNQ29 — content
+# G_ig_disisjorj_C6ljzMZNQ29 — developed throughout
 
 ## Term
 
-content is the most prominent repeated term in this source (338-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: live, cohort, genuinely. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'developed throughout' in this clip is the lever that converts effort into reach — disisjorj insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'since', 'none', and 'rather' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: It wasn't the certification that got me the… What makes the word 'developed throughout' the term here is that the rest — 'system', 'developed', everything else — is staged for it.
 
 ## Synonyms
 
-- content
-- live
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The results that you see today is the compound interest of seeds I was planting a year ago, creating content, sharing my story, and helping others along the way. Everyone says you reap what you sow, but that implies that you have sowed, and most never do." — sources/S_ig_disisjorj_C6ljzMZNQ29.md
-> "So recently, when a company reached out and offered me their head content strategist position with a salary of $90, 000 per year, I said no, because I don't plan to stop showing up here anytime soon. What you see today with this account is the byproduct of what I call the three-day creator system." — sources/S_ig_disisjorj_C6ljzMZNQ29.md
-> "got results with past students, and this is an invitation for you to join me in the upcoming live cohort. If you genuinely want to take content creation seriously, comment" — sources/S_ig_disisjorj_C6ljzMZNQ29.md
+> "It wasn't the certification that got me the job since I had none, but rather the stack of skills I developed throughout the years. In today's digital world, the more skills you stack, the less reliant you are on other people to accomplish your dreams" — sources/S_ig_disisjorj_C6ljzMZNQ29.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'developed throughout' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a claim about how disisjorj uses 'developed throughout' across their work: this single 338-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

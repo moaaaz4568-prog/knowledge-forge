@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["production", "embed"]
+aka: ["record horizontal"]
 origin: sources/S_ig_disisjorj_DRPHoR7CFFp.md
 ---
 
-# G_ig_disisjorj_DRPHoR7CFFp — production
+# G_ig_disisjorj_DRPHoR7CFFp — record horizontal
 
 ## Term
 
-production is the most prominent repeated term in this source (76-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: embed, pre, main. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'record horizontal' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'one-click', 'setup', and 'fact' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Beauty about the one-click setup is not only… Even the move around 'cracked' only registers as a move because 'record horizontal' is the thing being moved toward.
 
 ## Synonyms
 
-- production
-- embed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The concept behind it is that you don't need to do anything post-production, so we can embed everything pre-production. One of the main things that was missing that might just, I don't know, we may just have cracked the code and made this an amazing product." — sources/S_ig_disisjorj_DRPHoR7CFFp.md
+> "Beauty about the one-click setup is not only the fact that you can record horizontal and vertical video at the same time. The concept behind it is that you don't need to do anything post-production, so we can embed everything" — sources/S_ig_disisjorj_DRPHoR7CFFp.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'record horizontal' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a tagline worth extracting: the source shows disisjorj using 'record horizontal' as a working label in one specific argument (visible in the collocation with 'embed'), not as a slogan the reader is meant to repeat.

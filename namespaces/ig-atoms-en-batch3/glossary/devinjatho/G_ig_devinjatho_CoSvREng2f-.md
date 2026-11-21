@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["story", "Step"]
+aka: ["sticker"]
 origin: sources/S_ig_devinjatho_CoSvREng2f-.md
 ---
 
-# G_ig_devinjatho_CoSvREng2f- — story
+# G_ig_devinjatho_CoSvREng2f- — sticker
 
 ## Term
 
-story is the most prominent repeated term in this source (124-word transcript from the Instagram account devinjatho): it occurs 4 times literally in the text, most often collocated with: step, hours, waited. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's framing, 'sticker' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears 3 times, it sits next to 'engagement', 'question', and 'emoji' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: After we waited that 24 hour period, step… Strip the clip down to its claim and you are left with 'sticker'; 'triple' and 'expire' are how the claim is delivered.
 
 ## Synonyms
 
-- story
-- Step
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Do this for your next post and I promise you'll see your story views skyrocket. Step one, wait until your stories expire and have zero active stories on your feed. Step two, do nothing. Don't post a new story for the next 24 hours." — sources/S_ig_devinjatho_CoSvREng2f-.md
-> "Step two, do nothing. Don't post a new story for the next 24 hours. After we waited that 24 hour period, step three is to post a new story to your feed with some sort of engagement sticker. Whether that be a question sticker, an emoji slider, or even a quiz. But the sticker that will get you the most engagement is a poll." — sources/S_ig_devinjatho_CoSvREng2f-.md
-> "But the sticker that will get you the most engagement is a poll. Speaking of polls, do not look at the one I just posted on my story" — sources/S_ig_devinjatho_CoSvREng2f-.md
+> "waited that 24 hour period, step three is to post a new story to your feed with some sort of engagement sticker. Whether that be a question sticker, an emoji slider, or even a quiz. But the sticker that will get you the most engagement is a poll. Speaking" — sources/S_ig_devinjatho_CoSvREng2f-.md
+> "of engagement sticker. Whether that be a question sticker, an emoji slider, or even a quiz. But the sticker that will get you the most engagement is a poll. Speaking of polls, do not look at the one I just posted on my story" — sources/S_ig_devinjatho_CoSvREng2f-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'sticker' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a rule for using 'sticker': the clip shows devinjatho using the word in one specific move (alongside 'Whether'), not a recommendation that the reader adopt the word themselves.

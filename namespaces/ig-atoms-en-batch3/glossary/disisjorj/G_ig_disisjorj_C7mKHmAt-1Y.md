@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["permission", "truly"]
+aka: ["permission"]
 origin: sources/S_ig_disisjorj_C7mKHmAt-1Y.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_C7mKHmAt-1Y.md
 
 ## Term
 
-permission is the most prominent repeated term in this source (108-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: truly, start, fail. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'permission' names the posture a person takes toward the work — disisjorj treats it as the foundation, not a tip. It appears 3 times, it sits next to 'truly', 'fail', and 'started' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: And while most people seek for guidance and… Without 'permission' as the anchor, 'symptoms' and 'reflection' would float without a stake in the argument.
 
 ## Synonyms
 
-- permission
-- truly
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The answer is in the doing. And while most people seek for guidance and information to get started, what they truly want is permission. Permission to start, permission to fail and get back up again. The harsh truth though, you will always be dependent on someone else to say go for it." — sources/S_ig_disisjorj_C7mKHmAt-1Y.md
+> "doing. And while most people seek for guidance and information to get started, what they truly want is permission. Permission to start, permission to fail and get back up again. The harsh truth though, you will always be dependent on someone else to say" — sources/S_ig_disisjorj_C7mKHmAt-1Y.md
+> "for guidance and information to get started, what they truly want is permission. Permission to start, permission to fail and get back up again. The harsh truth though, you will always be dependent on someone else to say go for it. And that's you trying" — sources/S_ig_disisjorj_C7mKHmAt-1Y.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'permission' here is a working concept disisjorj is installing, not a tagline the reader is meant to repeat.
+- Read as a tagline worth extracting: the source shows disisjorj using 'permission' as a working label in one specific argument (visible in the collocation with 'three'), not as a slogan the reader is meant to repeat.

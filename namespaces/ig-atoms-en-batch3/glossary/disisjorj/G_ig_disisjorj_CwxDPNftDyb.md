@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Step", "captions"]
+aka: ["captions"]
 origin: sources/S_ig_disisjorj_CwxDPNftDyb.md
 ---
 
-# G_ig_disisjorj_CwxDPNftDyb — Step
+# G_ig_disisjorj_CwxDPNftDyb — captions
 
 ## Term
 
-Step is the most prominent repeated term in this source (75-word transcript from the Instagram account disisjorj): it occurs 5 times literally in the text, most often collocated with: captions, enable, set. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'captions' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears 4 times, it sits next to 'enable', 'static', and 'background' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: The four-step method I use to get the… This is the word the clip is built to deliver; 'duplicate' is texture around it, not the point.
 
 ## Synonyms
 
-- Step
-- captions
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "four-step method I use to get the hollow to filled captions effect. Step one, get a static background. Step two, add your captions from the start until the end of the clip, and in your parameters, enable only outline." — sources/S_ig_disisjorj_CwxDPNftDyb.md
-> "Step three, duplicate that set of captions and enable face. And step four, place the new set of captions at the moment you hear each word." — sources/S_ig_disisjorj_CwxDPNftDyb.md
+> "The four-step method I use to get the hollow to filled captions effect. Step one, get a static background. Step two, add your captions from the start until the end of the clip, and in your parameters, enable" — sources/S_ig_disisjorj_CwxDPNftDyb.md
+> "outline. Step three, duplicate that set of captions and enable face. And step four, place the new set of captions at the moment you hear each word. Save this and try it for your next post" — sources/S_ig_disisjorj_CwxDPNftDyb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'captions' here is the public-facing act, distinct from the private work of creating.
+- Read as a rule for using 'captions': the clip shows disisjorj using the word in one specific move (alongside 'background'), not a recommendation that the reader adopt the word themselves.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["every", "single"]
+aka: ["vacation"]
 origin: sources/S_ig_ghayth.emad_COQCzS8gSjj.md
 ---
 
-# G_ig_ghayth.emad_COQCzS8gSjj — every
+# G_ig_ghayth.emad_COQCzS8gSjj — vacation
 
 ## Term
 
-every is the most prominent repeated term in this source (60-word transcript from the Instagram account ghayth.emad): it occurs 5 times literally in the text, most often collocated with: single, vacation, occupation. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'vacation' in this source is the working idea ghayth.emad argues a person cannot skip past and still expect the rest to apply. It appears 4 times, it sits next to 'single', 'cause', and 'occupation' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. ghayth.emad drops it precisely where the cost of skipping it shows up — the surrounding move runs: Hey, hey, hey, I'm on vacation every single… The argument only stays upright while 'vacation' is doing the work — pull it and 'single' loses its anchor.
 
 ## Synonyms
 
-- every
-- single
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "hey, hey, I'm on vacation every single day 'cause I love my occupation. Hey, hey, hey, I'm on vacation. If you don't like your life, then you should go and change it. Hey, hey, hey, I'm on vacation every single day 'cause I love my occupation." — sources/S_ig_ghayth.emad_COQCzS8gSjj.md
-> "Hey, hey, hey, I'm on vacation every single day 'cause I love my occupation. Hey, hey, hey, I'm on vacation every single day, every every single" — sources/S_ig_ghayth.emad_COQCzS8gSjj.md
+> "Hey, hey, hey, I'm on vacation every single day 'cause I love my occupation. Hey, hey, hey, I'm on vacation. If you don't like your life, then you should go and change it. Hey" — sources/S_ig_ghayth.emad_COQCzS8gSjj.md
+> "m on vacation. If you don't like your life, then you should go and change it. Hey, hey, hey, I'm on vacation every single day 'cause I love my occupation. Hey, hey, hey, I'm on vacation every single day, every every single day" — sources/S_ig_ghayth.emad_COQCzS8gSjj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in ghayth.emad's usage, 'vacation' is loaded with a specific working meaning (visible in the collocation with 'occupation'), not the dictionary sense.
+- Read as evidence ghayth.emad always uses 'vacation' this way: one 60-word clip is too thin a sample to support any claim about how the account uses the word in general.

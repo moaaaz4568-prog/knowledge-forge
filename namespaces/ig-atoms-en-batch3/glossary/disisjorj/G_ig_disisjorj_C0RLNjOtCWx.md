@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["thousand", "dot"]
+aka: ["thousand different"]
 origin: sources/S_ig_disisjorj_C0RLNjOtCWx.md
 ---
 
-# G_ig_disisjorj_C0RLNjOtCWx — thousand
+# G_ig_disisjorj_C0RLNjOtCWx — thousand different
 
 ## Term
 
-thousand is the most prominent repeated term in this source (71-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: dot, com, gives. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'thousand different' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'fonts', 'free', and 'gives' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: One thousand and one free fonts dot com… This is the word the clip is built to deliver; 'thousand' is texture around it, not the point.
 
 ## Synonyms
 
-- thousand
-- dot
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you edit your own videos, you need to bookmark this website. One thousand and one free fonts dot com gives you access to literally a thousand different and unique fonts that you can preview, download and use for your videos for free. That's where I got the font that I'm using for my videos." — sources/S_ig_disisjorj_C0RLNjOtCWx.md
+> "need to bookmark this website. One thousand and one free fonts dot com gives you access to literally a thousand different and unique fonts that you can preview, download and use for your videos for free. That's where I got the font that I'm using for my" — sources/S_ig_disisjorj_C0RLNjOtCWx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'thousand different' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a claim about how disisjorj uses 'thousand different' across their work: this single 71-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

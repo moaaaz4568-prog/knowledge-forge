@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["websites", "die"]
+aka: ["page"]
 origin: sources/S_ig_dankhanlegacy_DINAd10Bieb.md
 ---
 
-# G_ig_dankhanlegacy_DINAd10Bieb — websites
+# G_ig_dankhanlegacy_DINAd10Bieb — page
 
 ## Term
 
-websites is the most prominent repeated term in this source (184-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: die, defending, funnels. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'page' is the felt consequence dankhanlegacy says the person has been talking around — the thing that must be touched before any plan is useful. It appears 3 times, it sits next to 'email', 'figures', and 'funnel' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Your funnel has a one page, one action… Anything else in the clip orbits this word — strip out 'page' and the rest reads as filler around 'having'.
 
 ## Synonyms
 
-- websites
-- die
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So of course they won't buy your shit, which is why you need to forget about websites and shift to a simple funnel if you want to make seven or even eight figures. Your funnel has a one page, one action. That's it. Page one, give me your email. Nothing else. Next page, video selling one product. One button, buy now." — sources/S_ig_dankhanlegacy_DINAd10Bieb.md
-> "Maybe an upsell or downsell after, but you're always telling people exactly what to do next. Why would I die defending funnels over websites? Because they help holding your prospect's hand through the entire buying process." — sources/S_ig_dankhanlegacy_DINAd10Bieb.md
+> "and shift to a simple funnel if you want to make seven or even eight figures. Your funnel has a one page, one action. That's it. Page one, give me your email. Nothing else. Next page, video selling one product. One button, buy now. Maybe an upsell or" — sources/S_ig_dankhanlegacy_DINAd10Bieb.md
+> "Your funnel has a one page, one action. That's it. Page one, give me your email. Nothing else. Next page, video selling one product. One button, buy now. Maybe an upsell or downsell after, but you're always telling people exactly what to do next. Why" — sources/S_ig_dankhanlegacy_DINAd10Bieb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'page' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a rule for using 'page': the clip shows dankhanlegacy using the word in one specific move (alongside 'simple'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["negotiate", "attempted"]
+aka: ["fundedfounder"]
 origin: sources/S_ig_fundedfounder_DUEVOM0DGyl.md
 ---
 
-# G_ig_fundedfounder_DUEVOM0DGyl — negotiate
+# G_ig_fundedfounder_DUEVOM0DGyl — We attempted to negotiate, but Galactus, he asked too high a…
 
 ## Term
 
-This source is very short (12 words), so no term repeats enough for a frequency-based entry; negotiate is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 12-word short caption from fundedfounder — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "We attempted to negotiate, but Galactus, he asked too high a price.".
 
 ## Synonyms
 
-- negotiate
-- attempted
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "attempted to negotiate, but Galactus, he asked too high a" — sources/S_ig_fundedfounder_DUEVOM0DGyl.md
+> "We attempted to negotiate, but Galactus, he asked too high a price" — sources/S_ig_fundedfounder_DUEVOM0DGyl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a domain term in the account's wider body of work: this single short clip cannot establish that any word in it functions as a concept for fundedfounder.
+- Read as a caption worth treating as a domain entry: this 12-word source does not have the conceptual weight to support one, even when the wording (e.g. 'negotiate') sounds like a slogan.

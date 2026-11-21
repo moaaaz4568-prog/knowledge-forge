@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["wall", "white"]
+aka: ["leading lines"]
 origin: sources/S_ig_disisjorj_DP4VgtgiN4S.md
 ---
 
-# G_ig_disisjorj_DP4VgtgiN4S — wall
+# G_ig_disisjorj_DP4VgtgiN4S — leading lines
 
 ## Term
 
-wall is the most prominent repeated term in this source (168-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: white, brick, comma. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'leading lines' is the move disisjorj says the person must make before the prospect will commit. It appears twice, it sits next to 'club', 'award', and 'introduce' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: But if you don't happen to have a… What makes the word 'leading lines' the term here is that the rest — 'forcing', 'wonder', everything else — is staged for it.
 
 ## Synonyms
 
-- wall
-- white
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No wonder why every coach has a two comma club award hanging off their wall. But if you don't happen to have a two comma club award, what you can do is introduce leading lines. Leading lines, as you can tell here, we have a white wall and then we have a brick wall." — sources/S_ig_disisjorj_DP4VgtgiN4S.md
+> "off their wall. But if you don't happen to have a two comma club award, what you can do is introduce leading lines. Leading lines, as you can tell here, we have a white wall and then we have a brick wall. Where those two walls meet, that's where I come" — sources/S_ig_disisjorj_DP4VgtgiN4S.md
+> "But if you don't happen to have a two comma club award, what you can do is introduce leading lines. Leading lines, as you can tell here, we have a white wall and then we have a brick wall. Where those two walls meet, that's where I come in. So subconsciously" — sources/S_ig_disisjorj_DP4VgtgiN4S.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'leading lines' here is loaded with a specific working meaning by disisjorj, not a buzzword.
+- Read as proof the term is load-bearing for disisjorj in general: a 168-word clip with the word 'leading lines' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

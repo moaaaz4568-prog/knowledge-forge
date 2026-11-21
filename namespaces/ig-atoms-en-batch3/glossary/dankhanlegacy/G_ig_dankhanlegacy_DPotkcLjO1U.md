@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["webinar", "evergreen"]
+aka: ["webinar"]
 origin: sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
 
 ## Term
 
-webinar is the most prominent repeated term in this source (156-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: evergreen, sell, live. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'webinar' is the multiplier the clip is built to point at — the thing that turns flat effort into compounding results. It appears 5 times, it sits next to 'evergreen', 'sell', and 'lifestyle' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: When should you use a webinar to sell… The clip's claim about 'digital' is conditional on 'webinar' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- webinar
-- evergreen
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "should you use a webinar to sell digital products? That's a very good question that I get from a lot of people. And the answer is simple. If you're charging $2, 000 for your product, you can sell it on a webinar. And it doesn't need to be live." — sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
-> "And it doesn't need to be live. It can be evergreen. It's up to you. Live webinar conversion rates are around 15%, which is very high. Okay, it can go up to 20%. But evergreen webinar is around 2 to 5%. So if you want the lifestyle, then you pick an evergreen webinar that runs forever, but you sacrifice in conversions." — sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
+> "When should you use a webinar to sell digital products? That's a very good question that I get from a lot of people. And the answer is simple. If you're charging $2, 000 for" — sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
+> "But evergreen webinar is around 2 to 5%. So if you want the lifestyle, then you pick an evergreen webinar that runs forever, but you sacrifice in conversions. But if you want the most amount of money, go live every single week and close 15% of the audience" — sources/S_ig_dankhanlegacy_DPotkcLjO1U.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'webinar' here is the multiplier on effort, not the effort itself.
+- Read as a clean transcript: the wording around 'webinar' (including the run-on near 'conversion') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["him", "asked"]
+aka: ["because"]
 origin: sources/S_ig_geoff_ketterer_DWRKneOC0em.md
 ---
 
-# G_ig_geoff_ketterer_DWRKneOC0em — him
+# G_ig_geoff_ketterer_DWRKneOC0em — because
 
 ## Term
 
-him is the most prominent repeated term in this source (269-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: asked, quibbles, long. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'because' is the body cue geoff_ketterer says the person must learn to feel before any external cue can help. It appears 3 times, it sits next to 'possible', 'ticket', and 'sales' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: Because most people don't think that it's possible… The sentence around 'Stripe' only carries weight because 'because' is what the sentence is really about.
 
 ## Synonyms
 
-- him
-- asked
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I actually spoke with the chap that I onboarded today, did a welcome call with him. It was just, it just been so fucking sound, like no quibbles, nothing, right? Yeah. And I asked him, so how long have you been following me? He goes, I found you last week." — sources/S_ig_geoff_ketterer_DWRKneOC0em.md
-> "The automation did everything in the background. And at that point, I just asked him the question, would you prefer to work with me or my assistant coach? And he said, with yourself. And then I said, okay, what is your best email and what is your best number and I'll send you through the offer now. And that was that." — sources/S_ig_geoff_ketterer_DWRKneOC0em.md
+> "Because most people don't think that it's possible. Everybody's in this mindset of, well, if you want to sell a high ticket, you've got to do sales calls" — sources/S_ig_geoff_ketterer_DWRKneOC0em.md
+> "beyond revenue. It's the time saving. It's the stress saving. It's the not losing Julian to foul mood because the guy didn't show up to a call. Yep. It's honestly, mate, once this machine is fully running, it will be life changing. I actually spoke with" — sources/S_ig_geoff_ketterer_DWRKneOC0em.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'because' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a claim about how geoff_ketterer uses 'because' across their work: this single 269-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

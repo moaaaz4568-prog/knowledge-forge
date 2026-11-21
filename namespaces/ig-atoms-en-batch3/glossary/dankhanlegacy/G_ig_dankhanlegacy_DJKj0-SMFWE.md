@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["responsibility", "alpha"]
+aka: ["man"]
 origin: sources/S_ig_dankhanlegacy_DJKj0-SMFWE.md
 ---
 
-# G_ig_dankhanlegacy_DJKj0-SMFWE — responsibility
+# G_ig_dankhanlegacy_DJKj0-SMFWE — man
 
 ## Term
 
-responsibility is the most prominent repeated term in this source (158-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: alpha, become, figures. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'man' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 10 times, it sits next to 'responsibility', 'become', and 'discipline' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: Everyone wants to talk about what a real… Take 'man' out and the clip collapses into generalities about softer — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- responsibility
-- alpha
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's not just about making money or being alpha. Being a man is about responsibility. Like bro, I didn't become a man when I hit seven figures. I became a man when I took responsibility for everything in my life. My decisions, my failures, my future. Men today are being told to express more, be softer." — sources/S_ig_dankhanlegacy_DJKj0-SMFWE.md
+> "Everyone wants to talk about what a real man is, right? It's not just about making money or being alpha. Being a man is about responsibility. Like bro, I didn't become a man when I hit seven figures" — sources/S_ig_dankhanlegacy_DJKj0-SMFWE.md
+> "around blaming society, your parents, your ex, bro, you're just like a boy in a man's body. Like be the man your future family would be proud of. Start there. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DJKj0-SMFWE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'man' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 158-word clip with the word 'man' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

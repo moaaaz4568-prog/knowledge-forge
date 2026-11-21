@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["touches", "pushes"]
+aka: ["stay cold"]
 origin: sources/S_ig_elgendyfilms_Dd9nLenR-k4.md
 ---
 
-# G_ig_elgendyfilms_Dd9nLenR-k4 — touches
+# G_ig_elgendyfilms_Dd9nLenR-k4 — stay cold
 
 ## Term
 
-This source is very short (30 words), so no term repeats enough for a frequency-based entry; touches is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'stay cold' in this source is the working idea elgendyfilms argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'crash', 'pass', and 'built' — a single occurrence that nonetheless anchors the clip's argument. elgendyfilms drops it precisely where the cost of skipping it shows up — the surrounding move runs: Stay cold… Take 'stay cold' out and the clip collapses into generalities about touches — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- touches
-- pushes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The world is loud. It pushes. It burns. It breaks what it touches. Don't move. Let it crash. Let it pass. You were built before the noise." — sources/S_ig_elgendyfilms_Dd9nLenR-k4.md
+> "It breaks what it touches. Don't move. Let it crash. Let it pass. You were built before the noise. Stay cold" — sources/S_ig_elgendyfilms_Dd9nLenR-k4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'stay cold' as a working concept elgendyfilms is installing in this clip, not a generic self-help label.
+- Read as a clean transcript: the wording around 'stay cold' (including the run-on near 'noise') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

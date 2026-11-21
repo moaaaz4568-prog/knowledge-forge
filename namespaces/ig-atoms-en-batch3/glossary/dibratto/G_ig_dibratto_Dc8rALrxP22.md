@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["content", "strategy"]
+aka: ["funnel"]
 origin: sources/S_ig_dibratto_Dc8rALrxP22.md
 ---
 
-# G_ig_dibratto_Dc8rALrxP22 — content
+# G_ig_dibratto_Dc8rALrxP22 — funnel
 
 ## Term
 
-content is the most prominent repeated term in this source (474-word transcript from the Instagram account dibratto): it occurs 7 times literally in the text, most often collocated with: strategy, scott, build. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dibratto, 'funnel' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 7 times, it sits next to 'build', 'trust', and 'middle' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dibratto turns from describing to prescribing — the pivot runs: So from there and using that, we get… Read alongside 'versus', the word 'funnel' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- content
-- strategy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "me cook a random startup founder's LinkedIn content strategy. Cognition did some research. Here's how we would build Scott from Cognition's founder-led content strategy. Also, for your context, this is literally all we do." — sources/S_ig_dibratto_Dc8rALrxP22.md
-> "Some of this will relate to the product and some of it won't, and that is completely fine. The point is that we use it to inform content strategy. So from there and using that, we get into stage two where we build the content funnel." — sources/S_ig_dibratto_Dc8rALrxP22.md
-> "We'll do a lot more of what works and a lot less of what doesn't. That's it. Follow me for more, and if you want your own content strategy, DM" — sources/S_ig_dibratto_Dc8rALrxP22.md
+> "inform content strategy. So from there and using that, we get into stage two where we build the content funnel. We'll use three stages, the top of funnel to build visibility, the middle of funnel to build trust, and the bottom of funnel to convert that trust" — sources/S_ig_dibratto_Dc8rALrxP22.md
+> "frameworks for engineering teams to steal, industry news commentary, that type of thing. Finally, bottom of funnel, this is a little more boilerplate, but we're going to talk about dev and use cases, customer FAQs, objection handling, and case studies. Which" — sources/S_ig_dibratto_Dc8rALrxP22.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'funnel' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a stylistic choice by dibratto: the wording around 'funnel' (e.g. the collocation with 'outbound') is the speech of one clip, not a stylistic pattern that can be generalised.

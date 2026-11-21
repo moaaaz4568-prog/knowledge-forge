@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["product", "selling"]
+aka: ["selling"]
 origin: sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
 ---
 
-# G_ig_dankhanlegacy_DKKBBSvPxGl — product
+# G_ig_dankhanlegacy_DKKBBSvPxGl — selling
 
 ## Term
 
-product is the most prominent repeated term in this source (114-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: selling, feel, awkward. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'selling' is the layer dankhanlegacy says sits under the surface complaint — the thing a person must feel before they will act. It appears 3 times, it sits next to 'awkward', 'maybe', and 'sales' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: I feel awkward selling my product… Without 'selling', the reel is just a clip about possible; with it, the clip is a claim.
 
 ## Synonyms
 
-- product
-- selling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "feel awkward selling my product. Maybe sales is not my thing. Okay, so this is actually very common among business owners. They have a product, right, and they feel very embarrassed to sell it for some reason." — sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
-> "They have a product, right, and they feel very embarrassed to sell it for some reason. But just remember, if you have a good product that solves a real problem, it is your moral obligation to sell it and to put it in the hands of as many people as possible. Right?" — sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
-> "You're doing everyone else a disservice by not selling your product to" — sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
+> "I feel awkward selling my product. Maybe sales is not my thing. Okay, so this is actually very common among business owners. They have a product, right, and they feel" — sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
+> "isn't even close as to, or as good as what you have. You're doing everyone else a disservice by not selling your product to them" — sources/S_ig_dankhanlegacy_DKKBBSvPxGl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'selling' in this clip names a specific bodily sensation dankhanlegacy is trying to surface, not a general state of mind.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'selling' (e.g. the collocation with 'competitors') is the speech of one clip, not a stylistic pattern that can be generalised.

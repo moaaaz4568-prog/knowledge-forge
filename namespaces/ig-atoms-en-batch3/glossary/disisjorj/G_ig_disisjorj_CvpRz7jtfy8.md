@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["building", "spend"]
+aka: ["thesis overnight"]
 origin: sources/S_ig_disisjorj_CvpRz7jtfy8.md
 ---
 
-# G_ig_disisjorj_CvpRz7jtfy8 — building
+# G_ig_disisjorj_CvpRz7jtfy8 — thesis overnight
 
 ## Term
 
-building is the most prominent repeated term in this source (163-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: spend, dream, coase. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'thesis overnight' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'writing', 'whole', and 'find' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I'm not talking about writing a whole thesis… The reel earns its keep only because 'thesis overnight' is doing the lifting; 'enough' alone would be filler.
 
 ## Synonyms
 
-- building
-- spend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "As Dan Coase said, if you can spend eight hours building someone else's dream, you can spend one hour building your own. I hope this finds you well." — sources/S_ig_disisjorj_CvpRz7jtfy8.md
+> "there is plenty of time to do anything it is that you want to do. I'm not talking about writing a whole thesis overnight, but you can find 10 minutes of your time every single day to work on something important to you. As Dan Coase said, if you can spend" — sources/S_ig_disisjorj_CvpRz7jtfy8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'thesis overnight' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 163-word Instagram clip, and the wording around 'thesis overnight' (including the collocation with 'prove') is spoken speech, not edited writing.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["problems", "common"]
+aka: ["enemies inspire"]
 origin: sources/S_ig_explained.marketing_C0_jkzZrPqu.md
 ---
 
-# G_ig_explained.marketing_C0_jkzZrPqu — problems
+# G_ig_explained.marketing_C0_jkzZrPqu — enemies inspire
 
 ## Term
 
-This source is very short (52 words), so no term repeats enough for a frequency-based entry; problems is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'enemies inspire' names the conversational lever explained.marketing treats as the thing that turns a maybe into a yes. It appears once in the transcript, and it sits next to 'focus', 'message', and 'beat' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment explained.marketing turns from describing to prescribing — the pivot runs: Enemies inspire action and unite parties to be… Without 'enemies inspire', the reel is just a clip about single; with it, the clip is a claim.
 
 ## Synonyms
 
-- problems
-- common
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to close any sale, find a common enemy. They can be pain points, problems, or even people. Focus your message on how you're working to beat them. Enemies inspire action and unite parties to be focused on a single goal." — sources/S_ig_explained.marketing_C0_jkzZrPqu.md
+> "can be pain points, problems, or even people. Focus your message on how you're working to beat them. Enemies inspire action and unite parties to be focused on a single goal. This is the easiest way to get a yes" — sources/S_ig_explained.marketing_C0_jkzZrPqu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'enemies inspire' to a specific move explained.marketing says is missing here, not a universal recommendation.
+- Read as a stylistic choice by explained.marketing: the wording around 'enemies inspire' (e.g. the collocation with 'enemy') is the speech of one clip, not a stylistic pattern that can be generalised.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["pain", "instead"]
+aka: ["pain"]
 origin: sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
 
 ## Term
 
-pain is the most prominent repeated term in this source (213-word transcript from the Instagram account dankhanlegacy): it occurs 14 times literally in the text, most often collocated with: instead, chose, discipline. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'pain' names a frame of mind rather than an action — dankhanlegacy treats it as the precondition the rest of the advice depends on. It appears 14 times, it sits next to 'chose', 'discipline', and 'instead' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: You have two choices: the pain of discipline… This is the word the clip is built to deliver; 'checking' is texture around it, not the point.
 
 ## Synonyms
 
-- pain
-- instead
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "stop. You have two choices: the pain of discipline or the pain of regret. But at least with the pain of discipline, you get results—success, money, freedom. With the pain of regret, all you get is" — sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
-> "Say no to distractions and say yes to a better future. At least you'll get something out of that pain. I chose the pain of dropping out instead of wondering what if. I chose the pain of 16-hour workdays instead of the pain of checking my bank account every minute worried about bills." — sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
-> "Now I run a multi-seven-figure agency. Now my family never worries about money. That's what disciplined pain gets you. Choose your pain" — sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
+> "Yo, stop. You have two choices: the pain of discipline or the pain of regret. But at least with the pain of discipline, you get results—success, money, freedom. With the pain of regret, all" — sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
+> "agency. Now my family never worries about money. That's what disciplined pain gets you. Choose your pain wisely" — sources/S_ig_dankhanlegacy_DOlSukwjJrl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'pain' here is a working concept dankhanlegacy is installing, not a tagline the reader is meant to repeat.
+- Read as polished prose: this is a verbatim transcript of a 213-word Instagram clip, and the wording around 'pain' (including the collocation with 'agency') is spoken speech, not edited writing.

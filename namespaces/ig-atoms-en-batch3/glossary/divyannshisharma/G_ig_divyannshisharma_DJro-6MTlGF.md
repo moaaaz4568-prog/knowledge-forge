@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["lead", "magnet"]
+aka: ["lead magnet"]
 origin: sources/S_ig_divyannshisharma_DJro-6MTlGF.md
 ---
 
-# G_ig_divyannshisharma_DJro-6MTlGF — lead
+# G_ig_divyannshisharma_DJro-6MTlGF — lead magnet
 
 ## Term
 
-lead is the most prominent repeated term in this source (158-word transcript from the Instagram account divyannshisharma): it occurs 3 times literally in the text, most often collocated with: magnet, process, tuesday. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In divyannshisharma's framing, 'lead magnet' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears twice, it sits next to 'process', 'tuesday', and 'automate' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Tuesday, post a lead magnet… Without 'lead magnet' as the anchor, 'course' and 'carousel' would float without a stake in the argument.
 
 ## Synonyms
 
-- lead
-- magnet
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Monday, post a new video of any of your process. Tuesday, post a lead magnet. Automate using Leo at Kaba. Wednesday, post a carousel. Thursday, post a case study. Friday, post a lead. Pick any from the Insta page or talking about the engagement." — sources/S_ig_divyannshisharma_DJro-6MTlGF.md
-> "It will give your post a boost. Talking about the outreach, of course you will use the lead magnet method. Now there is more to it. There is cold email method and there is newsletter outreach." — sources/S_ig_divyannshisharma_DJro-6MTlGF.md
+> "the exact LinkedIn funnel I follow. Monday, post a new video of any of your process. Tuesday, post a lead magnet. Automate using Leo at Kaba. Wednesday, post a carousel. Thursday, post a case study. Friday, post a lead. Pick any from the Insta page or" — sources/S_ig_divyannshisharma_DJro-6MTlGF.md
+> "particular time. It will give your post a boost. Talking about the outreach, of course you will use the lead magnet method. Now there is more to it. There is cold email method and there is newsletter outreach. So check the caption for it" — sources/S_ig_divyannshisharma_DJro-6MTlGF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'lead magnet' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a stylistic choice by divyannshisharma: the wording around 'lead magnet' (e.g. the collocation with 'process') is the speech of one clip, not a stylistic pattern that can be generalised.

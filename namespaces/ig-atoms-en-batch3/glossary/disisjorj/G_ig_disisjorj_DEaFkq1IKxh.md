@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "create"]
+aka: ["create"]
 origin: sources/S_ig_disisjorj_DEaFkq1IKxh.md
 ---
 
-# G_ig_disisjorj_DEaFkq1IKxh — content
+# G_ig_disisjorj_DEaFkq1IKxh — create
 
 ## Term
 
-content is the most prominent repeated term in this source (199-word transcript from the Instagram account disisjorj): it occurs 5 times literally in the text, most often collocated with: create, learn, offers. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'create' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears 4 times, it sits next to 'learn', 'sell', and 'products' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: And on the other hand, we have the… Even the move around 'convert' only registers as a move because 'create' is the thing being moved toward.
 
 ## Synonyms
 
-- content
-- create
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is all about creatorpreneurs because the truth is creators lack business skills and entrepreneurs know nothing about content creation or growing an audience. True financial and location freedom will be available to those who understand how to leverage both of these two worlds. One is media and monetization." — sources/S_ig_disisjorj_DEaFkq1IKxh.md
-> "they have no clue on how to create content that attracts, nurtures, and converts their following. I helped creators who were in the content game for the past five years and made zero dollars from it get to their first four-figure month, and on the same day, hop on a call with a seven-figure entrepreneur who has no idea what an f/1.4 stop is." — sources/S_ig_disisjorj_DEaFkq1IKxh.md
-> "If you know how to operate a business, create offers that convert, learn how to create better content. I hope this" — sources/S_ig_disisjorj_DEaFkq1IKxh.md
+> "thousands of dollars every single month for referrals or paid ads simply because they have no clue on how to create content that attracts, nurtures, and converts their following. I helped creators who were in the content game for the past five years and made zero" — sources/S_ig_disisjorj_DEaFkq1IKxh.md
+> "package and sell products. If you know how to operate a business, create offers that convert, learn how to create better content. I hope this helps" — sources/S_ig_disisjorj_DEaFkq1IKxh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'create' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence disisjorj always uses 'create' this way: one 199-word clip is too thin a sample to support any claim about how the account uses the word in general.

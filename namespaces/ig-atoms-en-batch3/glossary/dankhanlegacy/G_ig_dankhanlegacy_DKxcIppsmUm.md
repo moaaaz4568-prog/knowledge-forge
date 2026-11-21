@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["million", "helped"]
+aka: ["million"]
 origin: sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
 
 ## Term
 
-million is the most prominent repeated term in this source (273-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: helped, clients, myself. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'million' is the underlying driver dankhanlegacy says the person must touch before they will accept any plan. It appears 4 times, it sits next to 'helped', 'myself', and 'clients' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: I was failing in school, broke, lost, and… Every other word in the source, including 'creation', is in service to the move 'million' names.
 
 ## Synonyms
 
-- million
-- helped
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I was failing in school, broke, lost, and now I've made over $3.6 million online. Let me tell you how it actually happened. I've always hated school, not because I was lazy, because deep down, I knew none of it was gonna make me rich. I got into one of the top universities in my country, electrical engineering." — sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
-> "From there, multi six figures, moved to Dubai, helped a client make 27 million in a year, and I made over 3.6 million myself. And now I've helped clients make over 75 million total. But it started because I was willing to take one more shot, even when everything was stacked against me." — sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
+> "I'm not supposed to be here. I was failing in school, broke, lost, and now I've made over $3.6 million online. Let me tell you how it actually happened. I've always hated school, not because I was lazy, because deep down, I knew none of it was gonna" — sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
+> "make 27 million in a year, and I made over 3.6 million myself. And now I've helped clients make over 75 million total. But it started because I was willing to take one more shot, even when everything was stacked against me. So if you're watching this and" — sources/S_ig_dankhanlegacy_DKxcIppsmUm.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'million' here is dankhanlegacy's working label for the felt pressure in the room, not a diagnostic category.
+- Read as evidence the term is central to the account: one 273-word clip showing 'million' next to 'because' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

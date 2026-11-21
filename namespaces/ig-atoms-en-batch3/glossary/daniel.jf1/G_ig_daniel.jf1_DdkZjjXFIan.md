@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["logistical intensity", "moat"]
+aka: ["logistical intensity"]
 origin: sources/S_ig_daniel.jf1_DdkZjjXFIan.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DdkZjjXFIan.md
 
 ## Term
 
-logistical intensity is the most prominent repeated term in this source (86-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: moat, ability, fulfill. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this clip, 'logistical intensity' is what daniel.jf1 says a person must already have working for them before tactics can compound. It appears twice, it sits next to 'street', 'find', and 'taxi' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: It's that simple of a offloading of logistical… Cut 'logistical intensity' and the clip's aboutness shifts from a claim to a description of cannot and offloading.
 
 ## Synonyms
 
-- logistical intensity
-- moat
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of product, like Uber, it's so simple of just I don't have to walk into the street and find a taxi. It's that simple of a offloading of logistical intensity. That's just you make so much money just doing that. It's a giant pain in the ass, but that's what a moat is. It's literally with the definition of what a moat is is your ability to fulfill logistical intensity that others cannot." — sources/S_ig_daniel.jf1_DdkZjjXFIan.md
+> "simple of just I don't have to walk into the street and find a taxi. It's that simple of a offloading of logistical intensity. That's just you make so much money just doing that. It's a giant pain in the ass, but that's what a moat is. It's literally with" — sources/S_ig_daniel.jf1_DdkZjjXFIan.md
+> "that's what a moat is. It's literally with the definition of what a moat is is your ability to fulfill logistical intensity that others cannot. That's literally what the definition is" — sources/S_ig_daniel.jf1_DdkZjjXFIan.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'logistical intensity' is loaded by daniel.jf1 with a specific working meaning (visible in the collocation with 'others'), not the dictionary sense.
+- Read as a recommendation to use 'logistical intensity' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'others'); it does not argue the reader should adopt it.

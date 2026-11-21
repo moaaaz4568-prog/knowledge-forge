@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["Beautiful", "eat"]
+aka: ["co-working space"]
 origin: sources/S_ig_gregoryjhickman_BK87YlQASfV.md
 ---
 
-# G_ig_gregoryjhickman_BK87YlQASfV — Beautiful
+# G_ig_gregoryjhickman_BK87YlQASfV — co-working space
 
 ## Term
 
-This source is very short (38 words), so no term repeats enough for a frequency-based entry; Beautiful is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's clip, 'co-working space' is the design choice gregoryjhickman treats as the hinge between pretty and effective. It appears once in the transcript, and it sits next to 'city' and 'view' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This is the view from the top of… Every other word in the source, including 'Colorado', is in service to the move 'co-working space' names.
 
 ## Synonyms
 
-- Beautiful
-- eat
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the view from the top of the co-working space where I work at, and I just get to eat lunch up here. Beautiful day here in Colorado. Wish you were" — sources/S_ig_gregoryjhickman_BK87YlQASfV.md
+> "God, I love this city. This is the view from the top of the co-working space where I work at, and I just get to eat lunch up here. Beautiful day here in Colorado. Wish you were here" — sources/S_ig_gregoryjhickman_BK87YlQASfV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in gregoryjhickman's clip, 'co-working space' names one specific visual or structural choice, not the whole craft of design.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'co-working space' next to 'Colorado') may not be load-bearing in gregoryjhickman's wider body of work.

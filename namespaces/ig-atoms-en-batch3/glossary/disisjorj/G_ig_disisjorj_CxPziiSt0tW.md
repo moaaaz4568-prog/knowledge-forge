@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["underwater", "captions"]
+aka: ["underwater effect"]
 origin: sources/S_ig_disisjorj_CxPziiSt0tW.md
 ---
 
-# G_ig_disisjorj_CxPziiSt0tW — underwater
+# G_ig_disisjorj_CxPziiSt0tW — underwater effect
 
 ## Term
 
-This source is very short (46 words), so no term repeats enough for a frequency-based entry; underwater is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'underwater effect' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'captions', 'select', and 'title' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Select your title, search for the underwater effect… It is the one word in this source that, if removed, would leave 'underwater' without a frame to hang on.
 
 ## Synonyms
 
-- underwater
-- captions
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you edit your videos in Final Cut Pro, this is how you can get this animation for your captions. Select your title, search for the underwater effect, and change the refraction to seven and speed to thirteen." — sources/S_ig_disisjorj_CxPziiSt0tW.md
+> "Cut Pro, this is how you can get this animation for your captions. Select your title, search for the underwater effect, and change the refraction to seven and speed to thirteen. If you found this useful, follow for more" — sources/S_ig_disisjorj_CxPziiSt0tW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'underwater effect' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence the term is central to the account: one 46-word clip showing 'underwater effect' next to 'follow' is too small a sample to anchor a wider claim about what disisjorj writes about.

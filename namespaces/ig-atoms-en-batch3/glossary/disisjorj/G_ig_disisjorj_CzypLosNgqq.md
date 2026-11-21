@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Dr Julie", "already"]
+aka: ["clinical psychologist"]
 origin: sources/S_ig_disisjorj_CzypLosNgqq.md
 ---
 
-# G_ig_disisjorj_CzypLosNgqq — Dr Julie
+# G_ig_disisjorj_CzypLosNgqq — clinical psychologist
 
 ## Term
 
-Dr Julie is the most prominent repeated term in this source (77-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: already, check, her. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'clinical psychologist' names the felt adjustment disisjorj insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'following', 'julie', and 'smith' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Julie Smith, a clinical psychologist and best-selling author… Without 'clinical psychologist', the reel is just a clip about online; with it, the clip is a claim.
 
 ## Synonyms
 
-- Dr Julie
-- already
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're creating content online, you should be following this account. Dr. Julie Smith, a clinical psychologist and best-selling author of Why Has Nobody Told Me This Before, aside from all the fascinating topics she's talking about, she's probably one of the best educators here on Instagram." — sources/S_ig_disisjorj_CzypLosNgqq.md
-> "If you haven't already, check her out at Dr. Julie" — sources/S_ig_disisjorj_CzypLosNgqq.md
+> "If you're creating content online, you should be following this account. Dr. Julie Smith, a clinical psychologist and best-selling author of Why Has Nobody Told Me This Before, aside from all the fascinating topics she's talking about, she's probably" — sources/S_ig_disisjorj_CzypLosNgqq.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'clinical psychologist' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a rule for using 'clinical psychologist': the clip shows disisjorj using the word in one specific move (alongside 'Smith'), not a recommendation that the reader adopt the word themselves.

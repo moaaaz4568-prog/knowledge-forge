@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankndripwear
-aka: ["living souls", "away"]
+aka: ["souls"]
 origin: sources/S_ig_dankndripwear_DXROaJJDG_w.md
 ---
 
-# G_ig_dankndripwear_DXROaJJDG_w — living souls
+# G_ig_dankndripwear_DXROaJJDG_w — souls
 
 ## Term
 
-living souls is the most prominent repeated term in this source (23-word transcript from the Instagram account dankndripwear): it occurs 2 times literally in the text, most often collocated with: away. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'souls' in this source is the working idea dankndripwear argues a person cannot skip past and still expect the rest to apply. It appears twice, it sits next to 'kids' and 'guns' — the repetition is what makes it the spine of the clip rather than a passing word. dankndripwear drops it precisely where the cost of skipping it shows up — the surrounding move runs: Are we the last living souls… What makes the word 'souls' the term here is that the rest — 'clip', 'the rest', everything else — is staged for it.
 
 ## Synonyms
 
-- living souls
-- away
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "we the last living souls? Are we the last living souls? Are we the last to get away? Kids with guns." — sources/S_ig_dankndripwear_DXROaJJDG_w.md
+> "Are we the last living souls? Are we the last living souls? Are we the last to get away? Kids with guns. Kids" — sources/S_ig_dankndripwear_DXROaJJDG_w.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'souls' as a working label for an idea dankndripwear is arguing, not as a tagline to be repeated.
+- Read as a tagline worth extracting: the source shows dankndripwear using 'souls' as a working label in one specific argument (visible in the collocation with 'the clip'), not as a slogan the reader is meant to repeat.

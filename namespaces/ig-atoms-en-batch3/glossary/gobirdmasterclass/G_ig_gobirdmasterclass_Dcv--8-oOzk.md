@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["design", "style"]
+aka: ["japanese minimalism"]
 origin: sources/S_ig_gobirdmasterclass_Dcv--8-oOzk.md
 ---
 
-# G_ig_gobirdmasterclass_Dcv--8-oOzk — design
+# G_ig_gobirdmasterclass_Dcv--8-oOzk — japanese minimalism
 
 ## Term
 
-design is the most prominent repeated term in this source (32-word transcript from the Instagram account gobirdmasterclass): it occurs 4 times literally in the text, most often collocated with: style, baroque, rococo. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gobirdmasterclass's clip, 'japanese minimalism' is the design choice gobirdmasterclass treats as the hinge between pretty and effective. It appears once in the transcript, and it sits next to 'rococo', 'style', and 'industrial' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gobirdmasterclass names the thing a person cannot outsource — nearby: Op art, low poly, line art, duotone, risograph… The clip's relationship to 'risograph' only makes sense as a vehicle for delivering 'japanese minimalism'.
 
 ## Synonyms
 
-- design
-- style
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "art, low poly, line art, duotone, risograph, halftone, blueprint style, botanical design, gothic design, baroque style, rococo style, industrial design, scandinavian design, japanese minimalism, constructivism, deconstructivism, acid graphics, suprematism, fraktur" — sources/S_ig_gobirdmasterclass_Dcv--8-oOzk.md
+> "botanical design, gothic design, baroque style, rococo style, industrial design, scandinavian design, japanese minimalism, constructivism, deconstructivism, acid graphics, suprematism, fraktur era" — sources/S_ig_gobirdmasterclass_Dcv--8-oOzk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a design jargon word: 'japanese minimalism' here is loaded with a specific working meaning — the choice that carries the meaning the words do not.
+- Read as a rule for using 'japanese minimalism': the clip shows gobirdmasterclass using the word in one specific move (alongside 'halftone'), not a recommendation that the reader adopt the word themselves.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["lack", "knowledge"]
+aka: ["lack"]
 origin: sources/S_ig_disisjorj_Cx-zqSZNo95.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_Cx-zqSZNo95.md
 
 ## Term
 
-lack is the most prominent repeated term in this source (60-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: knowledge, experience, required. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'lack' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'knowledge', 'experience', and 'means' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Yes, you lack the knowledge, you lack the… Without 'lack' as the anchor, 'rather' and 'whatever' would float without a stake in the argument.
 
 ## Synonyms
 
-- lack
-- knowledge
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "someone else made it in whatever it is that you want to do, that means you can do it too. Yes, you lack the knowledge, you lack the experience, you lack the time required to get there, but it's not a matter of I can't get there, rather a question of how do I get there too." — sources/S_ig_disisjorj_Cx-zqSZNo95.md
+> "If someone else made it in whatever it is that you want to do, that means you can do it too. Yes, you lack the knowledge, you lack the experience, you lack the time required to get there, but it's not a matter of I can't get there, rather a question of" — sources/S_ig_disisjorj_Cx-zqSZNo95.md
+> "want to do, that means you can do it too. Yes, you lack the knowledge, you lack the experience, you lack the time required to get there, but it's not a matter of I can't get there, rather a question of how do I get there too. Remember that" — sources/S_ig_disisjorj_Cx-zqSZNo95.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'lack' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as a definition of 'lack': the source documents how disisjorj deploys the word in this clip — collocated with 'knowledge' — it does not establish what the word means in general.

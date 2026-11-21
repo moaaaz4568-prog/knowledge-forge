@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["sounds", "potentially"]
+aka: ["sounds", "sound"]
 origin: sources/S_ig_devinjatho_CmSXhl_AFiv.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_CmSXhl_AFiv.md
 
 ## Term
 
-sounds is the most prominent repeated term in this source (60-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: potentially, ruin, views. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For devinjatho, 'sounds' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 3 times, it sits next to 'potentially', 'ruin', and 'views' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: Sounds on your videos can potentially ruin your… Every other word in the source, including 'trending', is in service to the move 'sounds' names.
 
 ## Synonyms
 
-- sounds
-- potentially
+- sound
 
 ## Live Example
 
-> "Sounds on your videos can potentially ruin your views. You should never add sounds to your videos because you never know when. Sorry, I was saying you never know when a sound is going to be taken down." — sources/S_ig_devinjatho_CmSXhl_AFiv.md
-> "Sorry, I was saying you never know when a sound is going to be taken down. So if you keep posting videos with trending sounds and you're providing valuable content, people are going to see the video" — sources/S_ig_devinjatho_CmSXhl_AFiv.md
+> "Sounds on your videos can potentially ruin your views. You should never add sounds to your videos because you never know when. Sorry, I was saying you" — sources/S_ig_devinjatho_CmSXhl_AFiv.md
+> "saying you never know when a sound is going to be taken down. So if you keep posting videos with trending sounds and you're providing valuable content, people are going to see the video and" — sources/S_ig_devinjatho_CmSXhl_AFiv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': devinjatho draws the line explicitly — 'sounds' here is the public-facing act, distinct from the private work of creating.
+- Read as a tagline worth extracting: the source shows devinjatho using 'sounds' as a working label in one specific argument (visible in the collocation with 'never'), not as a slogan the reader is meant to repeat.

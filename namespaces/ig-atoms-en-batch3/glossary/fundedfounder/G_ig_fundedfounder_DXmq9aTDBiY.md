@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["language", "teach"]
+aka: ["fundedfounder"]
 origin: sources/S_ig_fundedfounder_DXmq9aTDBiY.md
 ---
 
-# G_ig_fundedfounder_DXmq9aTDBiY — language
+# G_ig_fundedfounder_DXmq9aTDBiY — Hold up, yeah, yeah, yeah, yeah. I can't teach that bitch my…
 
 ## Term
 
-This source is very short (13 words), so no term repeats enough for a frequency-based entry; language is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 13-word song lyric from fundedfounder — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Hold up, yeah, yeah, yeah, yeah. I can't teach that bitch my language.".
 
 ## Synonyms
 
-- language
-- teach
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "up, yeah, yeah, yeah, yeah. I can't teach that bitch my language" — sources/S_ig_fundedfounder_DXmq9aTDBiY.md
+> "Hold up, yeah, yeah, yeah, yeah. I can't teach that bitch my language" — sources/S_ig_fundedfounder_DXmq9aTDBiY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a concept album: a 13-word clip cannot anchor a term, and any word lifted from it would be a lyric fragment rather than an idea.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

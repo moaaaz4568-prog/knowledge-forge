@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["strut", "huh"]
+aka: ["fundedfounder"]
 origin: sources/S_ig_fundedfounder_DUlpIbnDJDD.md
 ---
 
-# G_ig_fundedfounder_DUlpIbnDJDD — strut
+# G_ig_fundedfounder_DUlpIbnDJDD — Uh huh. Baby, I need you to strut. Walk like you don't give …
 
 ## Term
 
-This source is very short (22 words), so no term repeats enough for a frequency-based entry; strut is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This short caption from fundedfounder carries no conceptual term — it is a 22-word string whose job is to land a mood, not to name an idea. Treating any single word as the term would inflate a filler or lyric hook into a concept it is not. The clip's full text reads: "Uh huh. Baby, I need you to strut. Walk like you don't give a fuck. Look at you, bad to the bone.".
 
 ## Synonyms
 
-- strut
-- huh
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "huh. Baby, I need you to strut. Walk like you don't give a fuck. Look at you, bad to the" — sources/S_ig_fundedfounder_DUlpIbnDJDD.md
+> "Uh huh. Baby, I need you to strut. Walk like you don't give a fuck. Look at you, bad to the bone" — sources/S_ig_fundedfounder_DUlpIbnDJDD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a concept album: a 22-word clip cannot anchor a term, and any word lifted from it would be a lyric fragment rather than an idea.
+- Read as evidence of account-wide themes: one 22-word clip is too thin a sample to support a claim about what fundedfounder writes about in general.

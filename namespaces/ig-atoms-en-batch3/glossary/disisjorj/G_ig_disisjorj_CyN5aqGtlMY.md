@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["masturbation", "real"]
+aka: ["following intellectual"]
 origin: sources/S_ig_disisjorj_CyN5aqGtlMY.md
 ---
 
-# G_ig_disisjorj_CyN5aqGtlMY — masturbation
+# G_ig_disisjorj_CyN5aqGtlMY — following intellectual
 
 ## Term
 
-This source is very short (76 words), so no term repeats enough for a frequency-based entry; masturbation is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'following intellectual' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'reason', 'daily', and 'ideas' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: The act of following intellectual ideas born out… Read alongside 'following', the word 'following intellectual' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- masturbation
-- real
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The act of following intellectual ideas born out of excitement but offer little value to you and your real life goals. They call it mental masturbation. You thinking of doing the thing is not doing the thing. You talking about the thing is not doing the thing. The only way you can actually do the thing is if you do the thing." — sources/S_ig_disisjorj_CyN5aqGtlMY.md
+> "Here's the number one reason why most people can't post content daily. The act of following intellectual ideas born out of excitement but offer little value to you and your real life goals. They call it mental masturbation. You thinking" — sources/S_ig_disisjorj_CyN5aqGtlMY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'following intellectual' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a clean transcript: the wording around 'following intellectual' (including the run-on near 'reason') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

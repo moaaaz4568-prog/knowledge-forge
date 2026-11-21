@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["uniqueness", "teach"]
+aka: ["thousand followers"]
 origin: sources/S_ig_disisjorj_C48HHK0NH_5.md
 ---
 
-# G_ig_disisjorj_C48HHK0NH_5 — uniqueness
+# G_ig_disisjorj_C48HHK0NH_5 — thousand followers
 
 ## Term
 
-This source is very short (99 words), so no term repeats enough for a frequency-based entry; uniqueness is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'thousand followers' is the inner orientation the clip is built to install — not a tactic but a stance the tactics rest on. It appears once in the transcript, and it sits next to 'viral', 'brought', and 'close' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: All of my viral posts that brought in… Pull 'thousand followers' and the clip's spine comes loose — 'Exploit' would still be there but would not point at anything.
 
 ## Synonyms
 
-- uniqueness
-- teach
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All they care about is what you can teach them. Exploit your uniqueness and skills to be of service to others. That's the" — sources/S_ig_disisjorj_C48HHK0NH_5.md
+> "creator is actually way easier than you think. All of my viral posts that brought in close to one hundred thousand followers in just nine months of posting had one thing in common. I wasn't the main focus of the video. It's so easy for your ego to take over" — sources/S_ig_disisjorj_C48HHK0NH_5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'thousand followers' is loaded by disisjorj with a specific meaning tied to 'Finding', not the dictionary sense.
+- Read as a tagline worth extracting: the source shows disisjorj using 'thousand followers' as a working label in one specific argument (visible in the collocation with 'Finding'), not as a slogan the reader is meant to repeat.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geniuzss
-aka: ["adrenaline", "glands"]
+aka: ["redistributes blood"]
 origin: sources/S_ig_geniuzss_DH1Dsn_oC26.md
 ---
 
-# G_ig_geniuzss_DH1Dsn_oC26 — adrenaline
+# G_ig_geniuzss_DH1Dsn_oC26 — redistributes blood
 
 ## Term
 
-adrenaline is the most prominent repeated term in this source (52-word transcript from the Instagram account geniuzss): it occurs 2 times literally in the text, most often collocated with: glands, flood, body. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geniuzss, 'redistributes blood' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'muscles', 'adrenaline', and 'causes' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This adrenaline causes the heart to beat faster… Anything else in the clip orbits this word — strip out 'redistributes blood' and the rest reads as filler around 'adrenaline'.
 
 ## Synonyms
 
-- adrenaline
-- glands
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "we're in danger, our adrenal glands flood the body with natural adrenaline. This adrenaline causes the heart to beat faster and redistributes blood to the brain and muscles." — sources/S_ig_geniuzss_DH1Dsn_oC26.md
+> "adrenal glands flood the body with natural adrenaline. This adrenaline causes the heart to beat faster and redistributes blood to the brain and muscles. The muscles can then receive more than five times the normal amount of oxygenated blood, which allows bursts" — sources/S_ig_geniuzss_DH1Dsn_oC26.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'redistributes blood' is geniuzss's coaching cue for a felt position, not a clinical label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'redistributes blood' next to 'heart') may not be load-bearing in geniuzss's wider body of work.

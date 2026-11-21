@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["Highs", "lows"]
+aka: ["never let"]
 origin: sources/S_ig_elgendyfilms_Dd4dbqtxskZ.md
 ---
 
-# G_ig_elgendyfilms_Dd4dbqtxskZ — Highs
+# G_ig_elgendyfilms_Dd4dbqtxskZ — never let
 
 ## Term
 
-Highs is the most prominent repeated term in this source (20-word transcript from the Instagram account elgendyfilms): it occurs 2 times literally in the text, most often collocated with: lows, put. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'never let' is the distinction elgendyfilms is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'highs' and 'lows' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment elgendyfilms turns from describing to prescribing — the pivot runs: Saying you'd never let me go… It is the one word in this source that, if removed, would leave 'clip' without a frame to hang on.
 
 ## Synonyms
 
-- Highs
-- lows
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Highs and lows. I put you through a lot, I know. Highs and lows." — sources/S_ig_elgendyfilms_Dd4dbqtxskZ.md
+> "Highs and lows. I put you through a lot, I know. Highs and lows. Saying you'd never let me go" — sources/S_ig_elgendyfilms_Dd4dbqtxskZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'never let' as a working label for an idea elgendyfilms is arguing, not as a tagline to be repeated.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'never let' next to 'Highs') may not be load-bearing in elgendyfilms's wider body of work.

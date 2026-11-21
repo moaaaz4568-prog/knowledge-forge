@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["SFX", "giving"]
+aka: ["comment sfx"]
 origin: sources/S_ig_gobirdmasterclass_DayI11wu_nR.md
 ---
 
-# G_ig_gobirdmasterclass_DayI11wu_nR — SFX
+# G_ig_gobirdmasterclass_DayI11wu_nR — comment sfx
 
 ## Term
 
-SFX is the most prominent repeated term in this source (29-word transcript from the Instagram account gobirdmasterclass): it occurs 2 times literally in the text, most often collocated with: giving, away, exact. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'comment sfx' is the distinction gobirdmasterclass is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'single', 'edit', and 'page' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gobirdmasterclass turns from describing to prescribing — the pivot runs: Comment SFX and we'll send it straight to… 'comment sfx' is what the rest of the clip is trying to justify — even 'straight' reads as evidence for it.
 
 ## Synonyms
 
-- SFX
-- giving
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "giving away the exact SFX pack we use in every single edit you see on this page for free." — sources/S_ig_gobirdmasterclass_DayI11wu_nR.md
+> "We're giving away the exact SFX pack we use in every single edit you see on this page for free. Comment SFX and we'll send it straight to you" — sources/S_ig_gobirdmasterclass_DayI11wu_nR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'comment sfx' as a working concept gobirdmasterclass is installing in this clip, not a generic self-help label.
+- Read as a definition of 'comment sfx': the source documents how gobirdmasterclass deploys the word in this clip — collocated with 'Comment' — it does not establish what the word means in general.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["rules", "done"]
+aka: ["disisjorj"]
 origin: sources/S_ig_disisjorj_Cz8hBlEN-FC.md
 ---
 
-# G_ig_disisjorj_Cz8hBlEN-FC — rules
+# G_ig_disisjorj_Cz8hBlEN-FC — Three rules I follow to get everything done in half the time…
 
 ## Term
 
-This source is very short (12 words), so no term repeats enough for a frequency-based entry; rules is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 12-word short caption from disisjorj — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Three rules I follow to get everything done in half the time.".
 
 ## Synonyms
 
-- rules
-- done
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "rules I follow to get everything done in half the" — sources/S_ig_disisjorj_Cz8hBlEN-FC.md
+> "Three rules I follow to get everything done in half the time" — sources/S_ig_disisjorj_Cz8hBlEN-FC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a concept album: a 12-word clip cannot anchor a term, and any word lifted from it would be a lyric fragment rather than an idea.
+- Read as a caption worth treating as a domain entry: this 12-word source does not have the conceptual weight to support one, even when the wording (e.g. 'Three') sounds like a slogan.

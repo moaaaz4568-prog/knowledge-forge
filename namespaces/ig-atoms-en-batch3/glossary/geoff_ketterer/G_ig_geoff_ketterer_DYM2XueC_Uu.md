@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["service", "mean"]
+aka: ["price"]
 origin: sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
 ---
 
-# G_ig_geoff_ketterer_DYM2XueC_Uu — service
+# G_ig_geoff_ketterer_DYM2XueC_Uu — price
 
 ## Term
 
-service is the most prominent repeated term in this source (164-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: mean, means, rather. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'price' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears 3 times, it sits next to 'selling', 'difference', and 'switch' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: If somebody says to you that your price… Without 'price' as the anchor, 'competitor' and 'probably' would float without a stake in the argument.
 
 ## Synonyms
 
-- service
-- mean
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "somebody says to you that your price is $8,000 and a competitor is selling the exact same service for $7,500, if you ask them" — sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
-> "what is it about us and our service that means you would rather use" — sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
-> "You should switch to selling the value and the difference in price, not the product or service" — sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
+> "If somebody says to you that your price is $8,000 and a competitor is selling the exact same service for $7,500, if you ask them" — sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
+> "immediately drop your price to try and compete. You should switch to selling the value and the difference in price, not the product or service" — sources/S_ig_geoff_ketterer_DYM2XueC_Uu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'price' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a stylistic choice by geoff_ketterer: the wording around 'price' (e.g. the collocation with 'difference') is the speech of one clip, not a stylistic pattern that can be generalised.

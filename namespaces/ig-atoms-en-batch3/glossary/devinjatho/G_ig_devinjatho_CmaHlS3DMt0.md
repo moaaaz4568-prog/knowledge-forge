@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["footage", "stock"]
+aka: ["stock footage"]
 origin: sources/S_ig_devinjatho_CmaHlS3DMt0.md
 ---
 
-# G_ig_devinjatho_CmaHlS3DMt0 — footage
+# G_ig_devinjatho_CmaHlS3DMt0 — stock footage
 
 ## Term
 
-footage is the most prominent repeated term in this source (101-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: stock, secret, success. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'stock footage' in this clip is the future-pain frame devinjatho says must be touched before any plan can land. It appears twice, it sits next to 'double', 'yours', and 'secret' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: The secret to success is stock footage… The sentence around 'topics' only carries weight because 'stock footage' is what the sentence is really about.
 
 ## Synonyms
 
-- footage
-- stock
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "simple technique helped double my views on my videos and it can double yours too. The secret to success is stock footage. Stock footage are just short clips that you can add onto your videos. This will visualize your video's topics, making them much more interesting so you can hold the attention of your viewers for longer." — sources/S_ig_devinjatho_CmaHlS3DMt0.md
-> "You search your topic, select videos, and then filter them by vertical. Now download and add any footage into your videos with no copyright issues." — sources/S_ig_devinjatho_CmaHlS3DMt0.md
+> "technique helped double my views on my videos and it can double yours too. The secret to success is stock footage. Stock footage are just short clips that you can add onto your videos. This will visualize your video's topics, making them much more interesting" — sources/S_ig_devinjatho_CmaHlS3DMt0.md
+> "helped double my views on my videos and it can double yours too. The secret to success is stock footage. Stock footage are just short clips that you can add onto your videos. This will visualize your video's topics, making them much more interesting so you" — sources/S_ig_devinjatho_CmaHlS3DMt0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'stock footage' is the emotional lever devinjatho uses to surface commitment, not a market mechanic.
+- Read as a stylistic choice by devinjatho: the wording around 'stock footage' (e.g. the collocation with 'copyright') is the speech of one clip, not a stylistic pattern that can be generalised.

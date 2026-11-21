@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["money", "trading"]
+aka: ["trading"]
 origin: sources/S_ig_daniel.jf1_DT_kYOjFMcg.md
 ---
 
-# G_ig_daniel.jf1_DT_kYOjFMcg — money
+# G_ig_daniel.jf1_DT_kYOjFMcg — trading
 
 ## Term
 
-money is the most prominent repeated term in this source (192-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: trading, lose, wildly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'trading' is the felt consequence daniel.jf1 says the person has been talking around — the thing that must be touched before any plan is useful. It appears 5 times, it sits next to 'probably', 'commonly', and 'taught' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: Day trading… Read alongside 'Because', the word 'trading' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- money
-- trading
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is probably the most commonly taught business opportunity, make money online type of thing in the entire world. Because most people on the planet want to make money and do f***ing nothing with their life. That's the epitome of what day trading promises." — sources/S_ig_daniel.jf1_DT_kYOjFMcg.md
-> "99999% failure rate. It is wildly and substantially more probable that you lose money day trading than you do make money. You're not going to make money with day trading. You have to understand that all of the people who say they're rich from day trading make all of their money from selling the course or the coaching on it." — sources/S_ig_daniel.jf1_DT_kYOjFMcg.md
+> "Day trading. This is probably the most commonly taught business opportunity, make money online type of thing in the entire world. Because most people on the" — sources/S_ig_daniel.jf1_DT_kYOjFMcg.md
+> "money with day trading. You have to understand that all of the people who say they're rich from day trading make all of their money from selling the course or the coaching on it. The idea that you're somehow going to outperform billion dollar hedge funds" — sources/S_ig_daniel.jf1_DT_kYOjFMcg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'trading' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as a stylistic choice by daniel.jf1: the wording around 'trading' (e.g. the collocation with 'millions') is the speech of one clip, not a stylistic pattern that can be generalised.

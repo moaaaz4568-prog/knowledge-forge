@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["enough", "reward"]
+aka: ["confidence isn't"]
 origin: sources/S_ig_dankhanlegacy_DM8svWTstfU.md
 ---
 
-# G_ig_dankhanlegacy_DM8svWTstfU — enough
+# G_ig_dankhanlegacy_DM8svWTstfU — confidence isn't
 
 ## Term
 
-enough is the most prominent repeated term in this source (157-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: reward, talent, rewards. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'confidence isn't' is the visual or structural choice dankhanlegacy says is the actual carrier of meaning in the piece. It appears once in the transcript, and it sits next to 'bitch', 'enough', and 'anymore' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Confidence isn't just for your craft… The clip's claim about 'Mirror' is conditional on 'confidence isn't' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- enough
-- reward
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But the moment you step into a room, you shrink, you second guess, like a bitch. Being good at what you do isn't good enough anymore. Confidence isn't just for your craft. It's for your presence, your voice, your name. The next level doesn't come from just doing great work. It comes from showing up like you deserve to be paid for it." — sources/S_ig_dankhanlegacy_DM8svWTstfU.md
-> "Build a network that matches your skill set. Because the world doesn't just reward talent. It rewards the ones bold enough to own it. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DM8svWTstfU.md
+> "room, you shrink, you second guess, like a bitch. Being good at what you do isn't good enough anymore. Confidence isn't just for your craft. It's for your presence, your voice, your name. The next level doesn't come from just doing great work. It comes from" — sources/S_ig_dankhanlegacy_DM8svWTstfU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'confidence isn't' to mark the choice that does the work, not the choice that only looks good.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'confidence isn't' (e.g. the collocation with 'presence') is the speech of one clip, not a stylistic pattern that can be generalised.

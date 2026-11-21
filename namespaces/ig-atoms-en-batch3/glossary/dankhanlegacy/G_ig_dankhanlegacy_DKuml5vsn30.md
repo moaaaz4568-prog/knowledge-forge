@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["use", "cannot"]
+aka: ["cannot use"]
 origin: sources/S_ig_dankhanlegacy_DKuml5vsn30.md
 ---
 
-# G_ig_dankhanlegacy_DKuml5vsn30 — use
+# G_ig_dankhanlegacy_DKuml5vsn30 — cannot use
 
 ## Term
 
-use is the most prominent repeated term in this source (128-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: cannot, ai, chatgpt. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'cannot use' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 3 times, it sits next to 'chatgpt', 'mistake', and 'universities' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: To be honest, I think universities are making… The clip's claim about 'papers' is conditional on 'cannot use' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- use
-- cannot
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "100%. To be honest, I think universities are making a mistake when they, no, you cannot use ChatGPT, no, you cannot use that AI, no, you cannot use that." — sources/S_ig_dankhanlegacy_DKuml5vsn30.md
-> "But then you kind of need to learn, they should teach you how to use it, right, and how to prompt it, and how to properly leverage it, so that in the future you don't get wiped out by AI. Instead of saying, no, we give you the test, the papers, no AI. You're not preparing them for the future, isn't it?" — sources/S_ig_dankhanlegacy_DKuml5vsn30.md
+> "resourceful, isn't it? 100%. To be honest, I think universities are making a mistake when they, no, you cannot use ChatGPT, no, you cannot use that AI, no, you cannot use that. But then you kind of need to learn, they should teach you how to use it, right" — sources/S_ig_dankhanlegacy_DKuml5vsn30.md
+> "universities are making a mistake when they, no, you cannot use ChatGPT, no, you cannot use that AI, no, you cannot use that. But then you kind of need to learn, they should teach you how to use it, right, and how to prompt it, and how to properly leverage it" — sources/S_ig_dankhanlegacy_DKuml5vsn30.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business word: in dankhanlegacy's reel, 'cannot use' is the specific resource or move dankhanlegacy says compounds effort, not the vague sense of business leverage.
+- Read as polished prose: this is a verbatim transcript of a 128-word Instagram clip, and the wording around 'cannot use' (including the collocation with 'mistake') is spoken speech, not edited writing.

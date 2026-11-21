@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Act", "example"]
+aka: ["steve jobs"]
 origin: sources/S_ig_disisjorj_Cy2vf6xN29W.md
 ---
 
-# G_ig_disisjorj_Cy2vf6xN29W — Act
+# G_ig_disisjorj_Cy2vf6xN29W — steve jobs
 
 ## Term
 
-Act is the most prominent repeated term in this source (151-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: example, structure, setup. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj reel, 'steve jobs' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 3 times, it sits next to 'apple', 'serve', and 'example' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I'll use Steve Jobs and Apple to serve… 'steve jobs' is what the rest of the clip is trying to justify — even 'confrontation' reads as evidence for it.
 
 ## Synonyms
 
-- Act
-- example
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And here's how you can use it for your content. I'll use Steve Jobs and Apple to serve as an example of the three-act structure. Act one, the setup, introducing your main character. Enter Steve Jobs, filled with ideas and a dream to change personal computing, but the tech giants of the time stand in his way." — sources/S_ig_disisjorj_Cy2vf6xN29W.md
-> "That's where we find Steve Jobs hustling in the garage, sourcing cheap parts and facing skeptics. Act three, resolution. That's when we see the birth of Apple One, gaining momentum with Apple Two, that served as the result of everything our main character has been through." — sources/S_ig_disisjorj_Cy2vf6xN29W.md
+> "the ancient Greek times all the way to today. And here's how you can use it for your content. I'll use Steve Jobs and Apple to serve as an example of the three-act structure. Act one, the setup, introducing your main character. Enter Steve Jobs, filled with" — sources/S_ig_disisjorj_Cy2vf6xN29W.md
+> "Act two, confrontation, the heart of the story, aka the trial and error phase. That's where we find Steve Jobs hustling in the garage, sourcing cheap parts and facing skeptics. Act three, resolution. That's when we see the birth of Apple One, gaining" — sources/S_ig_disisjorj_Cy2vf6xN29W.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'steve jobs' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as proof the term is load-bearing for disisjorj in general: a 151-word clip with the word 'steve jobs' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["laughable", "dream"]
+aka: ["laughable"]
 origin: sources/S_ig_disisjorj_C7CCAk3tDzt.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_disisjorj_C7CCAk3tDzt.md
 
 ## Term
 
-This source is very short (48 words), so no term repeats enough for a frequency-based entry; laughable is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'laughable' is the distinction disisjorj is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'closer' and 'dream' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: To some it may look small, laughable, but… Even the move around 'closer' only registers as a move because 'laughable' is the thing being moved toward.
 
 ## Synonyms
 
-- laughable
-- dream
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you've achieved, all the hours you spent, the effort and stress you went through to get closer to that dream. To some it may look small, laughable, but all in all, you would" — sources/S_ig_disisjorj_C7CCAk3tDzt.md
+> "spent, the effort and stress you went through to get closer to that dream. To some it may look small, laughable, but all in all, you would know" — sources/S_ig_disisjorj_C7CCAk3tDzt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'laughable' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a rule for using 'laughable': the clip shows disisjorj using the word in one specific move (alongside 'effort'), not a recommendation that the reader adopt the word themselves.

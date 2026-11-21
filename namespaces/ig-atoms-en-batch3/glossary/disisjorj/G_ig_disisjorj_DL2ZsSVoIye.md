@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["business", "posting"]
+aka: ["well"]
 origin: sources/S_ig_disisjorj_DL2ZsSVoIye.md
 ---
 
-# G_ig_disisjorj_DL2ZsSVoIye — business
+# G_ig_disisjorj_DL2ZsSVoIye — well
 
 ## Term
 
-business is the most prominent repeated term in this source (176-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: posting, sending, emails. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'well' is the mindset disisjorj insists comes before any technique — the thing without which the rest of the advice does not land. It appears 4 times, it sits next to 'honestly', 'served', and 'depends' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Well, I've taken that option far too many… What makes the word 'well' the term here is that the rest — 'option', 'guitar', everything else — is staged for it.
 
 ## Synonyms
 
-- business
-- posting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You decided to start posting content, building your business, growing your following, getting more clients, opening up even more spots, raising your prices, yet something still feels a bit off. And you start questioning pretty much everything." — sources/S_ig_disisjorj_DL2ZsSVoIye.md
-> "I took a two-month break from social media, from posting, from sending out emails, running the business, and just pretty much vanished. I found peace in walking. I found answers in walking. I'm picking up the guitar now just for the sake of playing, not to post a story about it. And recently something clicked." — sources/S_ig_disisjorj_DL2ZsSVoIye.md
+> "where discipline shines and where the extra work now is what's needed to have the insane results later? Well, I've taken that option far too many times and honestly it has served me very well. Well, actually, depends on what well means to you. I took a two" — sources/S_ig_disisjorj_DL2ZsSVoIye.md
+> "that option far too many times and honestly it has served me very well. Well, actually, depends on what well means to you. I took a two-month break from social media, from posting, from sending out emails, running the business, and just pretty much vanished" — sources/S_ig_disisjorj_DL2ZsSVoIye.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'well' here is the specific frame disisjorj argues from, not a generic motivational label.
+- Read as proof the term is load-bearing for disisjorj in general: a 176-word clip with the word 'well' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

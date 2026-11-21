@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["Selling", "gasoline"]
+aka: ["selling"]
 origin: sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
 ---
 
-# G_ig_daniel.jf1_DSwSgYdDcYl — Selling
+# G_ig_daniel.jf1_DSwSgYdDcYl — selling
 
 ## Term
 
-Selling is the most prominent repeated term in this source (96-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: gasoline, car, better. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'selling' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 3 times, it sits next to 'gasoline', 'better', and 'sell' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: It's the equivalent of trying to sell a… It is the one word in this source that, if removed, would leave 'performance' without a frame to hang on.
 
 ## Synonyms
 
-- Selling
-- gasoline
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's so much better to sell that. It's the equivalent of trying to sell a car versus selling the oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You gotta build the whole thing and then like, oh, this tiny thing is wrong with the car." — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
+> "to performance. It's so much better to sell that. It's the equivalent of trying to sell a car versus selling the oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You" — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
+> "oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You gotta build the whole thing and then like, oh, this tiny thing is wrong with the car. Like you sold me a lemon, just" — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'selling' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
+- Read as a stylistic choice by daniel.jf1: the wording around 'selling' (e.g. the collocation with 'versus') is the speech of one clip, not a stylistic pattern that can be generalised.

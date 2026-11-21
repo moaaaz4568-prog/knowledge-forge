@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["perfect prompts", "Gemini"]
+aka: ["perfect prompts"]
 origin: sources/S_ig_divyannshisharma_DQemeRiknhW.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_divyannshisharma_DQemeRiknhW.md
 
 ## Term
 
-perfect prompts is the most prominent repeated term in this source (67-word transcript from the Instagram account divyannshisharma): it occurs 2 times literally in the text, most often collocated with: gemini, mid, journey. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the divyannshisharma reel, 'perfect prompts' is the concept divyannshisharma keeps returning to as the thing that decides whether the rest of the advice lands. It appears twice, it sits next to 'covering', 'gemini', and 'journey' — the repetition is what makes it the spine of the clip rather than a passing word. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: Entire AI image generation system, six module covering… The clip's claim about 'system' is conditional on 'perfect prompts' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- perfect prompts
-- Gemini
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "AI image generation system, six module covering Gemini, Mid Journey, GPT, blueprints to craft the perfect prompts for your Nano Banana. Twenty templates for Nano Banana, fifteen Mid Journey SRF styles, access to Composition AI, a model trained on Elight techniques to generate perfect prompts and images for you." — sources/S_ig_divyannshisharma_DQemeRiknhW.md
+> "Entire AI image generation system, six module covering Gemini, Mid Journey, GPT, blueprints to craft the perfect prompts for your Nano Banana. Twenty templates for Nano Banana, fifteen Mid Journey SRF styles, access to Composition AI, a model trained on Elight" — sources/S_ig_divyannshisharma_DQemeRiknhW.md
+> "fifteen Mid Journey SRF styles, access to Composition AI, a model trained on Elight techniques to generate perfect prompts and images for you. So if you want access to the link, just comment send and I will send your link" — sources/S_ig_divyannshisharma_DQemeRiknhW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'perfect prompts' as a working label for an idea divyannshisharma is arguing, not as a tagline to be repeated.
+- Read as a claim about how divyannshisharma uses 'perfect prompts' across their work: this single 67-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

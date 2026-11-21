@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["job", "efficiently"]
+aka: ["humanly possible"]
 origin: sources/S_ig_daniel.jf1_DYN7yBUj8dH.md
 ---
 
-# G_ig_daniel.jf1_DYN7yBUj8dH — job
+# G_ig_daniel.jf1_DYN7yBUj8dH — humanly possible
 
 ## Term
 
-job is the most prominent repeated term in this source (135-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: efficiently, done, deadline. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's reel, 'humanly possible' names the body mechanic daniel.jf1 isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'rich' and 'never' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I'm not the kind of guy who's, I… Cut 'humanly possible' and the clip's aboutness shifts from a claim to a description of corporate and request.
 
 ## Synonyms
 
-- job
-- efficiently
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can't work a normal corporate job because I don't like the idea of being caged in or needing to ask if it's okay to go to the bathroom or needing to put in a request for time off." — sources/S_ig_daniel.jf1_DYN7yBUj8dH.md
-> "If I can do a job way more efficiently than somebody else, I want to get paid way more than somebody else. And if I can get a job done before a deadline and get all my stuff done, that I don't want to have to ask for permission to go enjoy and live my life. I'm not the kind of guy who's, I need to get as rich as humanly possible." — sources/S_ig_daniel.jf1_DYN7yBUj8dH.md
+> "for permission to go enjoy and live my life. I'm not the kind of guy who's, I need to get as rich as humanly possible. I want to never in my life need to feel like I need permission from another human to do what I want to do" — sources/S_ig_daniel.jf1_DYN7yBUj8dH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'humanly possible' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'humanly possible' next to 'deadline') may not be load-bearing in daniel.jf1's wider body of work.

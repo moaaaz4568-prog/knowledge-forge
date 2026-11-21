@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geniuzss
-aka: ["Wake", "comfortable"]
+aka: ["comfortability kills"]
 origin: sources/S_ig_geniuzss_DHyeWlsIL3a.md
 ---
 
-# G_ig_geniuzss_DHyeWlsIL3a — Wake
+# G_ig_geniuzss_DHyeWlsIL3a — comfortability kills
 
 ## Term
 
-Wake is the most prominent repeated term in this source (20-word transcript from the Instagram account geniuzss): it occurs 3 times literally in the text, most often collocated with: comfortable, comfortability, kills. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'comfortability kills' names the move the clip is really making — the distinction geniuzss says a person must accept before the rest can apply. It appears once in the transcript, and it sits next to 'wake', 'comfortable', and 'dreams' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment geniuzss turns from describing to prescribing — the pivot runs: Comfortability kills dreams… 'comfortability kills' is what the rest of the clip is trying to justify — even 'Comfortability' reads as evidence for it.
 
 ## Synonyms
 
-- Wake
-- comfortable
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Wake up! Wake up! Wake up! You're getting comfortable. Comfortability kills dreams." — sources/S_ig_geniuzss_DHyeWlsIL3a.md
+> "Wake up! Wake up! Wake up! You're getting comfortable. Comfortability kills dreams. So get up and go get those dreams" — sources/S_ig_geniuzss_DHyeWlsIL3a.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'comfortability kills' as a working concept geniuzss is installing in this clip, not a generic self-help label.
+- Read as evidence geniuzss always uses 'comfortability kills' this way: one 20-word clip is too thin a sample to support any claim about how the account uses the word in general.

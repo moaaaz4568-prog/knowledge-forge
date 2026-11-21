@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["results", "client"]
+aka: ["without sacrificing"]
 origin: sources/S_ig_dankhanlegacy_DUv8dllj-t9.md
 ---
 
-# G_ig_dankhanlegacy_DUv8dllj-t9 — results
+# G_ig_dankhanlegacy_DUv8dllj-t9 — without sacrificing
 
 ## Term
 
-results is the most prominent repeated term in this source (152-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: client, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'without sacrificing' carries the weight of a discipline, not an event: dankhanlegacy frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'million', 'lifestyle', and 'creating' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: But yeah, if you are looking to scale… The clip's claim about 'results' is conditional on 'without sacrificing' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- results
-- client
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "guys, just want to share some of the client results that I've been getting for my clients. And I know I don't do a lot of that because I'm so busy working on my own stuff. I don't really post content that much or go on my stories. But let's look at this. 71, 000 we spent and we got 174K." — sources/S_ig_dankhanlegacy_DUv8dllj-t9.md
-> "71, 000 we spent and we got 174K. And this is from 27th January to 2nd February. So that's one week. So yeah, these are the kind of results that I get people and I should be talking about it more. I don't know why I don't." — sources/S_ig_dankhanlegacy_DUv8dllj-t9.md
+> "But yeah, if you are looking to scale past 10K a month to 100K a month to 400, 500, 1 million a month without sacrificing your lifestyle and just creating a funnel that just works all the freaking time, just DM me the word video and I'll send you some resources" — sources/S_ig_dankhanlegacy_DUv8dllj-t9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'without sacrificing' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a claim about how dankhanlegacy uses 'without sacrificing' across their work: this single 152-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

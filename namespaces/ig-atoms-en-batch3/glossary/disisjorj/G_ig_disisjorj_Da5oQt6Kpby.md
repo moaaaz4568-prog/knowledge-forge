@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Zoom", "watches"]
+aka: ["zoom"]
 origin: sources/S_ig_disisjorj_Da5oQt6Kpby.md
 ---
 
-# G_ig_disisjorj_Da5oQt6Kpby — Zoom
+# G_ig_disisjorj_Da5oQt6Kpby — zoom
 
 ## Term
 
-Zoom is the most prominent repeated term in this source (186-word transcript from the Instagram account disisjorj): it occurs 6 times literally in the text, most often collocated with: watches, tools, arrows. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'zoom' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 6 times, it sits next to 'watches', 'people's', and 'call' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: This is what most people's Zoom call looks… What makes the word 'zoom' the term here is that the rest — 'highlighter', 'watches', everything else — is staged for it.
 
 ## Synonyms
 
-- Zoom
-- watches
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is what most people's Zoom call looks like, but what if we could just turn it into something like this using this little tool over here called the One Clip Video Studio, which essentially allows you to click one button over here and then whatever is on this screen" — sources/S_ig_disisjorj_Da5oQt6Kpby.md
-> "little tool over here called the One Clip Pointer that allows you to convert your mouse into all of these tools, such as arrows. Again, in Zoom, everyone can see it here, or something like highlighter, where you can do all this cool stuff and everyone on Zoom can see it." — sources/S_ig_disisjorj_Da5oQt6Kpby.md
-> "Also, you can do this little button over here and then write on your iPad and everyone watches this on Zoom or Google Meet or wherever you have your online" — sources/S_ig_disisjorj_Da5oQt6Kpby.md
+> "This is what most people's Zoom call looks like, but what if we could just turn it into something like this using this little tool over here called the One Clip Video Studio, which" — sources/S_ig_disisjorj_Da5oQt6Kpby.md
+> "Also, you can do this little button over here and then write on your iPad and everyone watches this on Zoom or Google Meet or wherever you have your online sessions" — sources/S_ig_disisjorj_Da5oQt6Kpby.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'zoom' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as evidence the term is central to the account: one 186-word clip showing 'zoom' next to 'include' is too small a sample to anchor a wider claim about what disisjorj writes about.

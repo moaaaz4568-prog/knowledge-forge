@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["records", "break"]
+aka: ["records"]
 origin: sources/S_ig_fundedfounder_DXNFxDKjGEf.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_fundedfounder_DXNFxDKjGEf.md
 
 ## Term
 
-records is the most prominent repeated term in this source (50-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: break, successful, best. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'records' in this fundedfounder clip is the internal stance fundedfounder argues a person must hold before technique can help them. It appears 3 times, it sits next to 'successful', 'break', and 'best' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where fundedfounder names the thing a person cannot outsource — nearby: How many records can my records break… Anything else in the clip orbits this word — strip out 'records' and the rest reads as filler around 'Bryant'.
 
 ## Synonyms
 
-- records
-- break
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "much more successful do you want me to be? More successful. How many records can my records break? More records. But I'm the best. But are you a different animal and the same beast? What the does that mean, Kobe Bryant? You're welcome." — sources/S_ig_fundedfounder_DXNFxDKjGEf.md
+> "How much more successful do you want me to be? More successful. How many records can my records break? More records. But I'm the best. But are you a different animal and the same beast? What the does that mean, Kobe Bryant" — sources/S_ig_fundedfounder_DXNFxDKjGEf.md
+> "much more successful do you want me to be? More successful. How many records can my records break? More records. But I'm the best. But are you a different animal and the same beast? What the does that mean, Kobe Bryant? You're welcome. What the is he talking" — sources/S_ig_fundedfounder_DXNFxDKjGEf.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a personality trait: the source treats 'records' as a decision a person makes, not a fixed characteristic they either have or lack.
+- Read as a clean transcript: the wording around 'records' (including the run-on near 'successful') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

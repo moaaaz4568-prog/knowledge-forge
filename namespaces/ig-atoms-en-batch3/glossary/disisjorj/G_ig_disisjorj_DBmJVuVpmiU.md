@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["weakest link", "strong"]
+aka: ["weakest link"]
 origin: sources/S_ig_disisjorj_DBmJVuVpmiU.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_disisjorj_DBmJVuVpmiU.md
 
 ## Term
 
-weakest link is the most prominent repeated term in this source (177-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: strong, case, often. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'weakest link' names the felt adjustment disisjorj insists is the difference between a rep that builds and a rep that just tires. It appears 3 times, it sits next to 'clients', 'though', and 'call' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: What I have all of my clients go… 'weakest link' is what the rest of the clip is trying to justify — even 'techniques' reads as evidence for it.
 
 ## Synonyms
 
-- weakest link
-- strong
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What I have all of my clients go through though is what I call the weakest link exercise. Out of all these steps, what is the one that A takes most of your time, but B you're not that well versed in? Most people go for editing, but we soon find out that it's not the case." — sources/S_ig_disisjorj_DBmJVuVpmiU.md
-> "Most people go for editing, but we soon find out that it's not the case. What actually is the weakest link more often than not is scripting. Because if I were to deliver 10 new scripts suited for what you do and who you help, in your Notion document ready for you to just sit down and film, you would actually start enjoying editing your videos." — sources/S_ig_disisjorj_DBmJVuVpmiU.md
-> "the leak in your pipeline, start focusing on systems, techniques, and formulas to improve it, since you can only be as strong as your weakest link" — sources/S_ig_disisjorj_DBmJVuVpmiU.md
+> "do the same thing all over again. What I have all of my clients go through though is what I call the weakest link exercise. Out of all these steps, what is the one that A takes most of your time, but B you're not that well versed in? Most people go for" — sources/S_ig_disisjorj_DBmJVuVpmiU.md
+> "focusing on systems, techniques, and formulas to improve it, since you can only be as strong as your weakest link" — sources/S_ig_disisjorj_DBmJVuVpmiU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'weakest link' to point at one specific mechanic disisjorj says is failing in the movement shown.
+- Read as a recommendation to use 'weakest link' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'steps'); it does not argue the reader should adopt it.

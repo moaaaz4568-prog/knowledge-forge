@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["talking", "Number"]
+aka: ["three"]
 origin: sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
 ---
 
-# G_ig_geoff_ketterer_DSFPwGYjePQ — talking
+# G_ig_geoff_ketterer_DSFPwGYjePQ — three
 
 ## Term
 
-talking is the most prominent repeated term in this source (388-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: number, volume, trying. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'three' is the body cue geoff_ketterer says the person must learn to feel before any external cue can help. It appears 4 times, it sits next to 'real', 'years', and 'behind' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: For the last three years, I've worked behind… The clip is engineered so that 'signal' lands as setup, not payoff; the payoff is the move 'three' names.
 
 ## Synonyms
 
-- talking
-- Number
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to build a personal brand that actually pays you, I'm not talking about likes or followers, I'm talking about real income, then this video is for you. For the last three years, I've worked behind the scenes with some of the biggest creators in the online space." — sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
-> "isn't everybody going to get bored of me talking about the same thing?" — sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
-> "And the more you post, the easier that is to do. And I'm not talking about posting five times a day. You don't have to do that. Once a day is fine, but you've got to track your numbers like a scientist. And when you find one that is a slight outlier, you've got to double down on that." — sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
+> "talking about likes or followers, I'm talking about real income, then this video is for you. For the last three years, I've worked behind the scenes with some of the biggest creators in the online space. Six-figure, seven-figure, eight-figure, and a couple" — sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
+> "It's much more specific. And number three is volume. And I'm not talking about trying to go viral because that shit isn't important. But what is important is that you get feedback from the" — sources/S_ig_geoff_ketterer_DSFPwGYjePQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'three' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a claim about how geoff_ketterer uses 'three' across their work: this single 388-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

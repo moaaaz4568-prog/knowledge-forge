@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["playing", "find"]
+aka: ["gregoryjhickman"]
 origin: sources/S_ig_gregoryjhickman_BQhId5JAuJa.md
 ---
 
-# G_ig_gregoryjhickman_BQhId5JAuJa — playing
+# G_ig_gregoryjhickman_BQhId5JAuJa — You, you, you. So I'll find you in time. Don't stop playing.…
 
 ## Term
 
-This source is very short (20 words), so no term repeats enough for a frequency-based entry; playing is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 20-word short caption from gregoryjhickman — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "You, you, you. So I'll find you in time. Don't stop playing. I've lost my place. I've closed behind me.".
 
 ## Synonyms
 
-- playing
-- find
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you, you. So I'll find you in time. Don't stop playing. I've lost my place. I've closed behind" — sources/S_ig_gregoryjhickman_BQhId5JAuJa.md
+> "You, you, you. So I'll find you in time. Don't stop playing. I've lost my place. I've closed behind me" — sources/S_ig_gregoryjhickman_BQhId5JAuJa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a concept album: a 20-word clip cannot anchor a term, and any word lifted from it would be a lyric fragment rather than an idea.
+- Read as a tagline to be quoted: extracting any phrase from here as the clip's slogan would be putting words on a string that has no thesis behind it.

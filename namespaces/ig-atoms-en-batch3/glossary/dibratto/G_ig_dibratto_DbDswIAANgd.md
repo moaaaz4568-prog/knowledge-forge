@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["Linear", "ticket"]
+aka: ["linear"]
 origin: sources/S_ig_dibratto_DbDswIAANgd.md
 ---
 
-# G_ig_dibratto_DbDswIAANgd — Linear
+# G_ig_dibratto_DbDswIAANgd — linear
 
 ## Term
 
-Linear is the most prominent repeated term in this source (123-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: ticket, figma, drag. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'linear' names the distinction dibratto draws in this clip — the line that separates what works from what only feels like it works. It appears 3 times, it sits next to 'drag', 'ticket', and 'progress' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Angle your laptop so the person next to… Anything else in the clip orbits this word — strip out 'linear' and the rest reads as filler around 'nothing'.
 
 ## Synonyms
 
-- Linear
-- ticket
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Angle your laptop so the person next to you can see your Figma or Linear. In Linear, drag one ticket from To Do to In Progress. Close Linear, it's time for lunch already. Afternoon, record a four minute Loom that could have been a two sentence Slack." — sources/S_ig_dibratto_DbDswIAANgd.md
+> "today's date on page one and close it. Angle your laptop so the person next to you can see your Figma or Linear. In Linear, drag one ticket from To Do to In Progress. Close Linear, it's time for lunch already. Afternoon, record a four minute Loom that could" — sources/S_ig_dibratto_DbDswIAANgd.md
+> "next to you can see your Figma or Linear. In Linear, drag one ticket from To Do to In Progress. Close Linear, it's time for lunch already. Afternoon, record a four minute Loom that could have been a two sentence Slack. You have produced nothing and looked" — sources/S_ig_dibratto_DbDswIAANgd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'linear' here is pinned to one specific claim in this clip, and the same word in another source from dibratto may carry a different load.
+- Read as a definition of 'linear': the source documents how dibratto deploys the word in this clip — collocated with 'message' — it does not establish what the word means in general.

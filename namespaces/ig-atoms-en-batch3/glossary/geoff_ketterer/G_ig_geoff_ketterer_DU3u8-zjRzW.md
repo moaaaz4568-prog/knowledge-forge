@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["anybody", "twenty"]
+aka: ["enough consistency"]
 origin: sources/S_ig_geoff_ketterer_DU3u8-zjRzW.md
 ---
 
-# G_ig_geoff_ketterer_DU3u8-zjRzW — anybody
+# G_ig_geoff_ketterer_DU3u8-zjRzW — enough consistency
 
 ## Term
 
-anybody is the most prominent repeated term in this source (250-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: twenty, trial, client. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's framing, 'enough consistency' is the missing mechanic — the thing geoff_ketterer says is failing underneath every other issue the person reports. It appears once in the transcript — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: And I just want you to know that… Read alongside 'message', the word 'enough consistency' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- anybody
-- twenty
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I want to prove to this client that in twenty twenty six, anybody can do a reel, anybody can do a trial reel, anybody can be vulnerable and say, you know, I am not your favorite guru, I am just out here figuring shit out the same way as you are. So my message to you is the same as my message to me." — sources/S_ig_geoff_ketterer_DU3u8-zjRzW.md
+> "are seeing this, it's not a big deal. And I just want you to know that if you give it enough time with enough consistency, it can work out for you too" — sources/S_ig_geoff_ketterer_DU3u8-zjRzW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'enough consistency' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a tagline worth extracting: the source shows geoff_ketterer using 'enough consistency' as a working label in one specific argument (visible in the collocation with 'followings'), not as a slogan the reader is meant to repeat.

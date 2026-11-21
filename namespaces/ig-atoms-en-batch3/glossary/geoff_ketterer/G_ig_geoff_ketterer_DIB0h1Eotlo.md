@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["objections", "spend"]
+aka: ["because"]
 origin: sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
 ---
 
-# G_ig_geoff_ketterer_DIB0h1Eotlo — objections
+# G_ig_geoff_ketterer_DIB0h1Eotlo — because
 
 ## Term
 
-objections is the most prominent repeated term in this source (177-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: spend, money, give. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'because' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 4 times, it sits next to 'scared', 'sales', and 'objections' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: People don't give you sales objections because they're… The sentence around 'objections' only carries weight because 'because' is what the sentence is really about.
 
 ## Synonyms
 
-- objections
-- spend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "don't give you sales objections because they're scared to spend the money. They give you sales objections because they're scared to fail. See, if they knew with 100% certainty that they could get the result no matter what, they'd spend the money every single time." — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
-> "Because the problem isn't price, the problem is permission. See, most objections just a smokescreen for self-doubt. Instead of handling the objection, hold up the mirror and ask them" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+> "People don't give you sales objections because they're scared to spend the money. They give you sales objections because they're scared to fail. See, if they knew with 100% certainty that they" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
+> "They'll say yes, because they're waiting for somebody else to validate them and give them the guarantee instead of becoming the guarantee themselves. See, good sales isn" — sources/S_ig_geoff_ketterer_DIB0h1Eotlo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'because' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as evidence the term is central to the account: one 177-word clip showing 'because' next to 'mirror' is too small a sample to anchor a wider claim about what geoff_ketterer writes about.

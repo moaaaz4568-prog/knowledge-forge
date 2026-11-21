@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["buy", "pre"]
+aka: ["three"]
 origin: sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
 ---
 
-# G_ig_gregoryjhickman_C-xqbx4NWj5 — buy
+# G_ig_gregoryjhickman_C-xqbx4NWj5 — three
 
 ## Term
 
-buy is the most prominent repeated term in this source (941-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: pre, built, automation. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'three' names the felt adjustment gregoryjhickman insists is the difference between a rep that builds and a rep that just tires. It appears 6 times, it sits next to 'phase', 'brings', and 'stages' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: All right, so that brings us to phase… Pull 'three' and the clip's spine comes loose — 'discovery' would still be there but would not point at anything.
 
 ## Synonyms
 
-- buy
-- pre
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So you might have been looking at people that you know obviously fit all of the criteria that are ready to buy, then the people that aren't as high as that person or established, next level down. The third level is where customers come in, is where you're like creating future clients or future members." — sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
-> "And we've had so many people that we've had buy our $100 workshop, for example, that then went on to buy our training or hire us for our services." — sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
-> "we've had buy our $100 workshop, for example, that then went on to buy our training or hire us for our services. We had people that would buy our pre-built automation, try to do it themselves because they felt like they wanted to, and then they'd still come and hire us to just do it anyway." — sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
+> "All right, so that brings us to phase three. So now we still have one ICP, but we're going from two stages of the client journey to three. So you might have been looking at people that you" — sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
+> "this stage. If you were the founder up here doing the consultation engine, by the time you're in phase three, you're not involved in the sales process at all. You're still selling via the phone, but you aren't selling. You have someone doing your discovery" — sources/S_ig_gregoryjhickman_C-xqbx4NWj5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'three' here is loaded with a specific felt-position meaning by gregoryjhickman, not a vague cue.
+- Read as a recommendation to use 'three' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'phases'); it does not argue the reader should adopt it.

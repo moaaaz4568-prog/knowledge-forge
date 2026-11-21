@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["him cook", "context of account elgendyfilms"]
+aka: ["cook"]
 origin: sources/S_ig_elgendyfilms_DMvSmBgMeAI.md
 ---
 
-# G_ig_elgendyfilms_DMvSmBgMeAI — him cook
+# G_ig_elgendyfilms_DMvSmBgMeAI — cook
 
 ## Term
 
-him cook is the most prominent repeated term in this source (12-word transcript from the Instagram account elgendyfilms): it occurs 3 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'cook' in this source is the working idea elgendyfilms argues a person cannot skip past and still expect the rest to apply. It appears 3 times — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. elgendyfilms drops it precisely where the cost of skipping it shows up — the surrounding move runs: Let him cook now… The clip's relationship to 'clip' only makes sense as a vehicle for delivering 'cook'.
 
 ## Synonyms
 
-- him cook
-- context of account elgendyfilms
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "him cook now. Let him cook! I said, let him" — sources/S_ig_elgendyfilms_DMvSmBgMeAI.md
+> "Let him cook now. Let him cook! I said, let him cook" — sources/S_ig_elgendyfilms_DMvSmBgMeAI.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'cook' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as proof the term is load-bearing for elgendyfilms in general: a 12-word clip with the word 'cook' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

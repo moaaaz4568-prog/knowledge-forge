@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["best", "tendency"]
+aka: ["biggest creator"]
 origin: sources/S_ig_disisjorj_C4aw-dCMM3s.md
 ---
 
-# G_ig_disisjorj_C4aw-dCMM3s — best
+# G_ig_disisjorj_C4aw-dCMM3s — biggest creator
 
 ## Term
 
-best is the most prominent repeated term in this source (106-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: tendency, order, give. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'biggest creator' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears once in the transcript, and it sits next to 'permission', 'ourselves', and 'best' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I'm not the biggest creator out there or… 'biggest creator' is what the rest of the clip is trying to justify — even 'ourselves' reads as evidence for it.
 
 ## Synonyms
 
-- best
-- tendency
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "this tendency that we need to be the best at that one thing in order to give permission to ourselves to talk about it. Why? I'm not the biggest creator out there or the best video editor, but for someone who has no fucking clue on how to start, I got some tips for you." — sources/S_ig_disisjorj_C4aw-dCMM3s.md
+> "the best at that one thing in order to give permission to ourselves to talk about it. Why? I'm not the biggest creator out there or the best video editor, but for someone who has no fucking clue on how to start, I got some tips for you. I've been through" — sources/S_ig_disisjorj_C4aw-dCMM3s.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'biggest creator' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as a recommendation to use 'biggest creator' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'point'); it does not argue the reader should adopt it.

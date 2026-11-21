@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["YC", "swap"]
+aka: ["introducing yourself"]
 origin: sources/S_ig_dibratto_DbQphC8gZu8.md
 ---
 
-# G_ig_dibratto_DbQphC8gZu8 — YC
+# G_ig_dibratto_DbQphC8gZu8 — introducing yourself
 
 ## Term
 
-YC is the most prominent repeated term in this source (82-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: swap, engagement, batchmates. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'introducing yourself' is the discipline of putting work out unfinished — dibratto argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'girl', 'move', and 'selfie' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: If you're a girl, you need to move… The reel earns its keep only because 'introducing yourself' is doing the lifting; 'engagement' alone would be filler.
 
 ## Synonyms
 
-- YC
-- swap
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you work in tech, if you're a guy, you need to join YC, post anything and everything about YC, and swap engagement with your YC batchmates. Write genuinely useful threads on how you got your first million dollars of ARR. Maybe use investor funds to wrap a Lamborghini." — sources/S_ig_dibratto_DbQphC8gZu8.md
+> "use investor funds to wrap a Lamborghini. If you're a girl, you need to move to SF, post a selfie on X introducing yourself to SF, and get a job at Corgi. That's it" — sources/S_ig_dibratto_DbQphC8gZu8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in dibratto's usage here, 'introducing yourself' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a tagline worth extracting: the source shows dibratto using 'introducing yourself' as a working label in one specific argument (visible in the collocation with 'Write'), not as a slogan the reader is meant to repeat.

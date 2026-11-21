@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["failed", "learned"]
+aka: ["well-rounded individual"]
 origin: sources/S_ig_disisjorj_CzO3yAONLFn.md
 ---
 
-# G_ig_disisjorj_CzO3yAONLFn — failed
+# G_ig_disisjorj_CzO3yAONLFn — well-rounded individual
 
 ## Term
 
-failed is the most prominent repeated term in this source (128-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: learned, facebook, ads. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'well-rounded individual' is the point where the stated problem becomes emotional — the moment disisjorj says the sale actually happens. It appears once in the transcript, and it sits next to 'given', 'rather', and 'knowledgeable' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Aim to become a well-rounded individual and creator… Cut 'well-rounded individual' and the clip's aboutness shifts from a claim to a description of Facebook and become.
 
 ## Synonyms
 
-- failed
-- learned
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're in your 20s, you need to listen to this. I failed at affiliate marketing but learned Facebook ads, copywriting, and design. I failed with a SaaS business but understood what it takes to create an automated operating system, which is the backbone of my business and my account right now." — sources/S_ig_disisjorj_CzO3yAONLFn.md
+> "You don't need to be an expert at any one given thing, rather knowledgeable in many. Aim to become a well-rounded individual and creator, because that's how you become a niche of one. That's how you stand out from the crowd. That's how you become irreplaceable" — sources/S_ig_disisjorj_CzO3yAONLFn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'well-rounded individual' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a recommendation to use 'well-rounded individual' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'irreplaceable'); it does not argue the reader should adopt it.

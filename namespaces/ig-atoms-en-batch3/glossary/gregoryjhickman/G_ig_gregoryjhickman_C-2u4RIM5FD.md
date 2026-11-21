@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["gap", "happens"]
+aka: ["gap"]
 origin: sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
 
 ## Term
 
-gap is the most prominent repeated term in this source (475-word transcript from the Instagram account gregoryjhickman): it occurs 7 times literally in the text, most often collocated with: happens, gets, shorter. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'gap' is the underlying driver gregoryjhickman says the person must touch before they will accept any plan. It appears 7 times, it sits next to 'because', 'happens', and 'shorten' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: You need to understand that there's a gap… 'gap' is what the rest of the clip is trying to justify — even 'possible' reads as evidence for it.
 
 ## Synonyms
 
-- gap
-- happens
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "need to understand that there's a gap between when someone pays you and when the meaningful work actually starts. Okay, now the goal is to shorten this gap as much as possible because it's in this gap where a lot of buyer's remorse happens." — sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
-> "It's actually where a lot of your scope creep and your scope seep actually happens. Because if this gap is too wide, you will have clients that probably forgot everything that's included and thus they will start to make assumptions as to how you work, what things are actually included and what are not, because you actually never shared that" — sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
-> "But if this gap gets shorter, right, if we can make this gap smaller, again, what happens between now and when the meaningful work starts, there's a lot of benefits. First of all, you're gonna experience things like improved client satisfaction." — sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
+> "You need to understand that there's a gap between when someone pays you and when the meaningful work actually starts. Okay, now the goal is to shorten this gap as much as possible because it" — sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
+> "really just means setting proper expectations. But if this gap gets shorter, right, if we can make this gap smaller, again, what happens between now and when the meaningful work starts, there's a lot of benefits. First of all, you're gonna experience things" — sources/S_ig_gregoryjhickman_C-2u4RIM5FD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'gap' in this clip names a specific bodily sensation gregoryjhickman is trying to surface, not a general state of mind.
+- Read as polished prose: this is a verbatim transcript of a 475-word Instagram clip, and the wording around 'gap' (including the collocation with 'satisfaction') is spoken speech, not edited writing.

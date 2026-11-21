@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["tier", "put"]
+aka: ["tier"]
 origin: sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
 
 ## Term
 
-tier is the most prominent repeated term in this source (202-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: put, lean, startup. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'tier' is the layer dankhanlegacy says sits under the surface complaint — the thing a person must feel before they will act. It appears 7 times, it sits next to 'alex', 'hormozi', and 'lean' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: At S tier, we have Hundred-Million-Dollar Offers by… Anything else in the clip orbits this word — strip out 'tier' and the rest reads as filler around 'garbage'.
 
 ## Synonyms
 
-- tier
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "business books that gurus like Alex Hormozi vouch for. Here's my list. At S tier, we have Hundred-Million-Dollar Offers by Alex Hormozi. Everything is about the offer and how you position it, and how you create a killer offer is how you actually make a lot of money." — sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
-> "Super good for systemizing your team, but it's a little bit boring, that's why I wouldn't put it at S tier. The Lean Startup, I will put it at B tier. It's a good book, but it doesn't really apply to my industry. It's not really about coaching info and course. It doesn't, yeah, that's the only problem I have with it." — sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
-> "The Hard Thing About Hard Things, I'll put this at like C tier. It's good, the stories are nice, but it's eh. Coming in at F tier, manifestation books like The Secret, all of them, throw them out of the garbage." — sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
+> "Best business books that gurus like Alex Hormozi vouch for. Here's my list. At S tier, we have Hundred-Million-Dollar Offers by Alex Hormozi. Everything is about the offer and how you position it, and how you create a killer offer is" — sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
+> "Hard Things, I'll put this at like C tier. It's good, the stories are nice, but it's eh. Coming in at F tier, manifestation books like The Secret, all of them, throw them out of the garbage. They don't teach you any skills, they don't make you rich, make" — sources/S_ig_dankhanlegacy_DZNN1mHPzeU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'tier' is dankhanlegacy's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as a tagline worth extracting: the source shows dankhanlegacy using 'tier' as a working label in one specific argument (visible in the collocation with 'pronounce'), not as a slogan the reader is meant to repeat.

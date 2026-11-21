@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Zoom", "Click"]
+aka: ["zoom"]
 origin: sources/S_ig_disisjorj_DQrkd2jCBSJ.md
 ---
 
-# G_ig_disisjorj_DQrkd2jCBSJ — Zoom
+# G_ig_disisjorj_DQrkd2jCBSJ — zoom
 
 ## Term
 
-Zoom is the most prominent repeated term in this source (77-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: click, meeting, draw. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'zoom' is the public-facing half of the work — disisjorj uses the word to mark the line between private effort and visible output. It appears 3 times, it sits next to 'meeting', 'hooked', and 'click' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I'm currently on a meeting on Zoom and… Read alongside 'present', the word 'zoom' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- Zoom
-- Click
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "currently on a meeting on Zoom and I just hooked up my One Click Setup to the meeting on Zoom, where I can do stuff like this and draw my iPad. Again, this is Zoom, where I get to play with all of this stuff." — sources/S_ig_disisjorj_DQrkd2jCBSJ.md
+> "I'm currently on a meeting on Zoom and I just hooked up my One Click Setup to the meeting on Zoom, where I can do stuff like this and draw my iPad. Again, this is Zoom, where I get" — sources/S_ig_disisjorj_DQrkd2jCBSJ.md
+> "Click Setup to the meeting on Zoom, where I can do stuff like this and draw my iPad. Again, this is Zoom, where I get to play with all of this stuff. I go back to my talking head video, or I can even present my new presentation and start talking through" — sources/S_ig_disisjorj_DQrkd2jCBSJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'zoom' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a definition of 'zoom': the source documents how disisjorj deploys the word in this clip — collocated with 'Setup' — it does not establish what the word means in general.

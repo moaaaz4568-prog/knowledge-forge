@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["overwhelmed", "system"]
+aka: ["overwhelmed because"]
 origin: sources/S_ig_dankhanlegacy_DIvxh1Nx0JQ.md
 ---
 
-# G_ig_dankhanlegacy_DIvxh1Nx0JQ — overwhelmed
+# G_ig_dankhanlegacy_DIvxh1Nx0JQ — overwhelmed because
 
 ## Term
 
-overwhelmed is the most prominent repeated term in this source (158-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: system, busy, productive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'overwhelmed because' names the posture a person takes toward the work — dankhanlegacy treats it as the foundation, not a tip. It appears twice, it sits next to 'confuse', 'busy', and 'productive' — the repetition is what makes it the spine of the clip rather than a passing word. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: You're not overwhelmed because you've got too much… Even the move around 'structure' only registers as a move because 'overwhelmed because' is the thing being moved toward.
 
 ## Synonyms
 
-- overwhelmed
-- system
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm gonna be real. If you're constantly saying I'm, I'm overwhelmed, you're not. You're just undisciplined as fuck, right? Most people confuse being busy with being productive. You're not overwhelmed because you've got too much to do. You're overwhelmed because you've got no system." — sources/S_ig_dankhanlegacy_DIvxh1Nx0JQ.md
+> "just undisciplined as fuck, right? Most people confuse being busy with being productive. You're not overwhelmed because you've got too much to do. You're overwhelmed because you've got no system. Like I see people spending three hours researching, watching" — sources/S_ig_dankhanlegacy_DIvxh1Nx0JQ.md
+> "confuse being busy with being productive. You're not overwhelmed because you've got too much to do. You're overwhelmed because you've got no system. Like I see people spending three hours researching, watching YouTube videos, listening to podcasts, and then" — sources/S_ig_dankhanlegacy_DIvxh1Nx0JQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a personality trait: the source treats 'overwhelmed because' as a decision a person makes, not a fixed characteristic they either have or lack.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'overwhelmed because' next to 'system') may not be load-bearing in dankhanlegacy's wider body of work.

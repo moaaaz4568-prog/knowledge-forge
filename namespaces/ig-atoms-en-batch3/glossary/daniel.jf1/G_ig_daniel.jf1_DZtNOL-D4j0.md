@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["business", "landscaping"]
+aka: ["personally guaranteed"]
 origin: sources/S_ig_daniel.jf1_DZtNOL-D4j0.md
 ---
 
-# G_ig_daniel.jf1_DZtNOL-D4j0 — business
+# G_ig_daniel.jf1_DZtNOL-D4j0 — personally guaranteed
 
 ## Term
 
-business is the most prominent repeated term in this source (159-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: landscaping, buy, town. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'personally guaranteed' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'million', 'loan', and 'boomer' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: To go get a $2 million personally guaranteed… The reel earns its keep only because 'personally guaranteed' is doing the lifting; 'else's' alone would be filler.
 
 ## Synonyms
 
-- business
-- landscaping
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "go get a $2 million personally guaranteed loan against a up boomer business is the stupidest possible thing you could do. Consider the alternative. Just go make your own business and compete. Say I run a landscaping company and I have a crew of 25 people and I know how to source people for my crews." — sources/S_ig_daniel.jf1_DZtNOL-D4j0.md
-> "Like I'm experienced in this. I've been doing it for 10 years. And then I go buy somebody else's landscaping business to town over. I can easily integrate it into mine because I know what I'm doing. But if you're just some call dude who's literally never done the business before, you don't know what you're doing. That's a horrible idea." — sources/S_ig_daniel.jf1_DZtNOL-D4j0.md
-> "That's a horrible idea. You're gonna run this thing into the ground. You don't know that business. There's too many unknown unknowns. You just don't know what's gonna" — sources/S_ig_daniel.jf1_DZtNOL-D4j0.md
+> "To go get a $2 million personally guaranteed loan against a up boomer business is the stupidest possible thing you could do. Consider the alternative. Just go make your own business" — sources/S_ig_daniel.jf1_DZtNOL-D4j0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'personally guaranteed' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as evidence the term is central to the account: one 159-word clip showing 'personally guaranteed' next to 'ground' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.

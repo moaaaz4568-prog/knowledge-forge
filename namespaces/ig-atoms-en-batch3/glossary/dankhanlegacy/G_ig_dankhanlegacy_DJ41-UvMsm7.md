@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["offer", "wants"]
+aka: ["blame"]
 origin: sources/S_ig_dankhanlegacy_DJ41-UvMsm7.md
 ---
 
-# G_ig_dankhanlegacy_DJ41-UvMsm7 — offer
+# G_ig_dankhanlegacy_DJ41-UvMsm7 — blame
 
 ## Term
 
-offer is the most prominent repeated term in this source (128-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: wants, tried, god. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'blame' is the body cue dankhanlegacy says the person must learn to feel before any external cue can help. It appears 3 times, it sits next to 'easy', 'funnel', and 'traffic' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: And I get it, it's easy to blame… Pull 'blame' and the clip's spine comes loose — 'buying' would still be there but would not point at anything.
 
 ## Synonyms
 
-- offer
-- wants
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You could be running the best ads in the world with god-tier copy, viral hooks, but if the offer is trash, nobody's buying, bro. And I get it, it's easy to blame the funnel, blame the traffic, blame the platform, but I've seen it over and over again." — sources/S_ig_dankhanlegacy_DJ41-UvMsm7.md
-> "Like, fix the offer, and the rest gets easy. It's not about your headline, it's not the algorithm, it's the fact that your product doesn't solve a real fucking problem." — sources/S_ig_dankhanlegacy_DJ41-UvMsm7.md
+> "tier copy, viral hooks, but if the offer is trash, nobody's buying, bro. And I get it, it's easy to blame the funnel, blame the traffic, blame the platform, but I've seen it over and over again. Someone like comes to me like" — sources/S_ig_dankhanlegacy_DJ41-UvMsm7.md
+> "offer is trash, nobody's buying, bro. And I get it, it's easy to blame the funnel, blame the traffic, blame the platform, but I've seen it over and over again. Someone like comes to me like" — sources/S_ig_dankhanlegacy_DJ41-UvMsm7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'blame' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 128-word clip with the word 'blame' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

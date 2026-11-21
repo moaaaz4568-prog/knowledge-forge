@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["interview", "clients"]
+aka: ["maybe"]
 origin: sources/S_ig_gregoryjhickman_C9clWueo1J1.md
 ---
 
-# G_ig_gregoryjhickman_C9clWueo1J1 — interview
+# G_ig_gregoryjhickman_C9clWueo1J1 — maybe
 
 ## Term
 
-interview is the most prominent repeated term in this source (376-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: clients, perspective, past. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'maybe' is the moment in the sale gregoryjhickman says a person cannot skip and still expect the deal to close. It appears 4 times, it sits next to 'dealing', 'scope', and 'creep' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: But if like that's everything that your clients… What makes the word 'maybe' the term here is that the rest — 'months', 'innovate', everything else — is staged for it.
 
 ## Synonyms
 
-- interview
-- clients
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So maybe like maybe you need to be less available right now. So think about that from your perspective. But again, as you interview past and current clients, you know, they might share certain things for your business. Like, man, like you've made my life so easy. Like it's more productivity focused." — sources/S_ig_gregoryjhickman_C9clWueo1J1.md
-> "So a few recommendations, again, action items. One, go interview your happiest clients, the ones that have been with you for a long time. And if you can, go talk to people that maybe didn't get what they had hoped for and interview them and see like where was their misalignment?" — sources/S_ig_gregoryjhickman_C9clWueo1J1.md
+> "time, I'd argue is table stakes. But if like that's everything that your clients are saying to you, maybe you want to lean into that a little bit. But also I'd say be cautious with that one just because you're already probably too available, at least" — sources/S_ig_gregoryjhickman_C9clWueo1J1.md
+> "happiest clients, the ones that have been with you for a long time. And if you can, go talk to people that maybe didn't get what they had hoped for and interview them and see like where was their misalignment? Like what did you think you were gonna get? What" — sources/S_ig_gregoryjhickman_C9clWueo1J1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in gregoryjhickman's reel, 'maybe' is the specific move gregoryjhickman says a person must make before the prospect will commit.
+- Read as a recommendation to use 'maybe' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'based'); it does not argue the reader should adopt it.

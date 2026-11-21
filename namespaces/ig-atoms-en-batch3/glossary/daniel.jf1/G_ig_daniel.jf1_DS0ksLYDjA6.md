@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["dropshipping", "products"]
+aka: ["dropshipping"]
 origin: sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
 
 ## Term
 
-dropshipping is the most prominent repeated term in this source (155-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: products, money, sell. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'dropshipping' here is the emotional load daniel.jf1 argues must be touched before logic can move the person. It appears 5 times, it sits next to 'products', 'sell', and 'garbage' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Dropshipping… Without 'dropshipping' as the anchor, 'running' and 'manufacturer' would float without a stake in the argument.
 
 ## Synonyms
 
-- dropshipping
-- products
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Dropshipping. Yes, people make money with dropshipping. That is a thing. You just need to understand that a lot of it is just complete nonsense." — sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
-> "There's like dropshipping where you just sell garbage Chinese products, and then there's dropshipping where it's like sourced from a legitimate manufacturer and you have a legitimate product that actually is of high quality. It's just that it's so tainted with complete nonsense garbage Chinese products." — sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
+> "Dropshipping. Yes, people make money with dropshipping. That is a thing. You just need to understand that a lot of it is just complete nonsense. I feel" — sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
+> "dropship though. There's like dropshipping where you just sell garbage Chinese products, and then there's dropshipping where it's like sourced from a legitimate manufacturer and you have a legitimate product that actually is of high quality. It's just that" — sources/S_ig_daniel.jf1_DS0ksLYDjA6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'dropshipping' in this clip names a specific bodily sensation daniel.jf1 is trying to surface, not a general state of mind.
+- Read as a recommendation to use 'dropshipping' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'running'); it does not argue the reader should adopt it.

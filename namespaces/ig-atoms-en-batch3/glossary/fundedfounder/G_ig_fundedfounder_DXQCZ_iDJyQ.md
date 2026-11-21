@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["woman", "spent"]
+aka: ["lily pads"]
 origin: sources/S_ig_fundedfounder_DXQCZ_iDJyQ.md
 ---
 
-# G_ig_fundedfounder_DXQCZ_iDJyQ — woman
+# G_ig_fundedfounder_DXQCZ_iDJyQ — lily pads
 
 ## Term
 
-woman is the most prominent repeated term in this source (36-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: spent, entire, life. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'lily pads' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'woman', 'entire', and 'leaping' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment fundedfounder turns from describing to prescribing — the pivot runs: And you've spent your entire life leaping from… The clip is engineered so that 'Perhaps' lands as setup, not payoff; the payoff is the move 'lily pads' names.
 
 ## Synonyms
 
-- woman
-- spent
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And you've spent your entire life leaping from woman to woman as if they are lily pads upon this great pond." — sources/S_ig_fundedfounder_DXQCZ_iDJyQ.md
+> "Life is a pond. And you've spent your entire life leaping from woman to woman as if they are lily pads upon this great pond. Perhaps what you need to do, Quill, is learn to swim" — sources/S_ig_fundedfounder_DXQCZ_iDJyQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'lily pads' as a working concept fundedfounder is installing in this clip, not a generic self-help label.
+- Read as evidence fundedfounder always uses 'lily pads' this way: one 36-word clip is too thin a sample to support any claim about how the account uses the word in general.

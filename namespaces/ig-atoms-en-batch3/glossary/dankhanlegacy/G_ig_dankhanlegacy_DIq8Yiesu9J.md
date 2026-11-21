@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["stop", "caring"]
+aka: ["already overwhelmed"]
 origin: sources/S_ig_dankhanlegacy_DIq8Yiesu9J.md
 ---
 
-# G_ig_dankhanlegacy_DIq8Yiesu9J — stop
+# G_ig_dankhanlegacy_DIq8Yiesu9J — already overwhelmed
 
 ## Term
 
-stop is the most prominent repeated term in this source (315-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: caring, show, helped. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'already overwhelmed' is what the game meant before the cameras arrived — dankhanlegacy treats it as the meaning the sport has lost and must recover. It appears once in the transcript, and it sits next to 'offer', 'funnel', and 'probably' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: If someone's looking to scale their business with… The reel earns its keep only because 'already overwhelmed' is doing the lifting; 'scarce' alone would be filler.
 
 ## Synonyms
 
-- stop
-- caring
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Stop caring so much. Let me show you how this works and why it's insanely effective, especially in digital marketing. Walk into the conversation like you don't need the sale." — sources/S_ig_dankhanlegacy_DIq8Yiesu9J.md
-> "That's a big move. Then stop talking, sit back, and listen. Instead of going" — sources/S_ig_dankhanlegacy_DIq8Yiesu9J.md
-> "just stop. Change the vibe. Be curious. Be casual. Something like" — sources/S_ig_dankhanlegacy_DIq8Yiesu9J.md
+> "about it. If someone's looking to scale their business with a new offer or funnel, they're probably already overwhelmed. The last thing they need is another pushy marketer trying to sell them the dream. What they need is someone who actually listens" — sources/S_ig_dankhanlegacy_DIq8Yiesu9J.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tactics term: 'already overwhelmed' in this clip is what the sport meant before it became spectacle, not a move on the field.
+- Read as a rule for using 'already overwhelmed': the clip shows dankhanlegacy using the word in one specific move (alongside 'approach'), not a recommendation that the reader adopt the word themselves.

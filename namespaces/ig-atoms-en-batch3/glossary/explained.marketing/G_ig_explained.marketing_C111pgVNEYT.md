@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["stop", "minds"]
+aka: ["without understanding"]
 origin: sources/S_ig_explained.marketing_C111pgVNEYT.md
 ---
 
-# G_ig_explained.marketing_C111pgVNEYT — stop
+# G_ig_explained.marketing_C111pgVNEYT — without understanding
 
 ## Term
 
-stop is the most prominent repeated term in this source (64-word transcript from the Instagram account explained.marketing): it occurs 3 times literally in the text, most often collocated with: minds, audience, reminding. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In explained.marketing's reel, 'without understanding' is the point where the stated problem becomes emotional — the moment explained.marketing says the sale actually happens. It appears once in the transcript, and it sits next to 'build', 'mind', and 'discards' — a single occurrence that nonetheless anchors the clip's argument. explained.marketing drops it precisely where the cost of skipping it shows up — the surrounding move runs: No one can build a business without understanding… Anything else in the clip orbits this word — strip out 'without understanding' and the rest reads as filler around 'understanding'.
 
 ## Synonyms
 
-- stop
-- minds
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "one can build a business without understanding this. The mind discards the things you stop attending to. You'll lose a skill you stopped using. You'll lose a memory you stopped clinging to. Same way, your audience will disregard you if you stop marketing." — sources/S_ig_explained.marketing_C111pgVNEYT.md
-> "Same way, your audience will disregard you if you stop marketing. Your brand resides in the minds of your audience until you stop reminding them of its significance. Never forget" — sources/S_ig_explained.marketing_C111pgVNEYT.md
+> "No one can build a business without understanding this. The mind discards the things you stop attending to. You'll lose a skill you stopped using. You'll lose a memory you stopped" — sources/S_ig_explained.marketing_C111pgVNEYT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'without understanding' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as evidence the term is central to the account: one 64-word clip showing 'without understanding' next to 'understanding' is too small a sample to anchor a wider claim about what explained.marketing writes about.

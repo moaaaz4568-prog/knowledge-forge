@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["phone", "create"]
+aka: ["create high-quality"]
 origin: sources/S_ig_disisjorj_DP7DdwtiE3r.md
 ---
 
-# G_ig_disisjorj_DP7DdwtiE3r — phone
+# G_ig_disisjorj_DP7DdwtiE3r — create high-quality
 
 ## Term
 
-phone is the most prominent repeated term in this source (84-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: create, use, high. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'create high-quality' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'phone', 'comment', and 'because' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: For more insights like this and how you… Pull 'create high-quality' and the clip's spine comes loose — 'create' would still be there but would not point at anything.
 
 ## Synonyms
 
-- phone
-- create
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're using your phone to create video content, make sure your line level is turned on. Once that line is leveled, it turns yellow, which indicates that your phone is not crooked and it's actually straight." — sources/S_ig_disisjorj_DP7DdwtiE3r.md
-> "For more insights like this and how you can actually use your phone to create high-quality videos, comment" — sources/S_ig_disisjorj_DP7DdwtiE3r.md
+> "composition, turn on the level. For more insights like this and how you can actually use your phone to create high-quality videos, comment" — sources/S_ig_disisjorj_DP7DdwtiE3r.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'create high-quality' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a rule for using 'create high-quality': the clip shows disisjorj using the word in one specific move (alongside 'check'), not a recommendation that the reader adopt the word themselves.

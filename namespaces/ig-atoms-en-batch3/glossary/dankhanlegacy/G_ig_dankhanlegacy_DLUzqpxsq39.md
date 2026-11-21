@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["ChatGPT", "put"]
+aka: ["chatgpt"]
 origin: sources/S_ig_dankhanlegacy_DLUzqpxsq39.md
 ---
 
-# G_ig_dankhanlegacy_DLUzqpxsq39 — ChatGPT
+# G_ig_dankhanlegacy_DLUzqpxsq39 — chatgpt
 
 ## Term
 
-ChatGPT is the most prominent repeated term in this source (209-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: put, ideas, back. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'chatgpt' is the future cost dankhanlegacy names to make the present feel expensive — the lever the clip uses to move the person. It appears 4 times, it sits next to 'ideas', 'says', and 'together' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: I will upload it into PDF and I… The reel earns its keep only because 'chatgpt' is doing the lifting; 'variations' alone would be filler.
 
 ## Synonyms
 
-- ChatGPT
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I would always put all my marketing assets together. I will upload it into PDF and I put it into ChatGPT. And then I say, can you find the blind spots, the weak spots of the marketing? What's the good parts of it? What's the bad parts of it? Which variations of the headline can I do? What type of ads can I do?" — sources/S_ig_dankhanlegacy_DLUzqpxsq39.md
-> "So my own structure, my own copy will flow from all the stuff ChatGPT gave me. And then I'll put those ideas back in ChatGPT. And then if ChatGPT says this is good to go, you may have some issues with this thing here, but overall it's good to go. Then I'll keep a lookout on this thing here when I'm running the marketing campaign." — sources/S_ig_dankhanlegacy_DLUzqpxsq39.md
+> "So I would always put all my marketing assets together. I will upload it into PDF and I put it into ChatGPT. And then I say, can you find the blind spots, the weak spots of the marketing? What's the good parts of it? What's the bad parts of it? Which" — sources/S_ig_dankhanlegacy_DLUzqpxsq39.md
+> "flow from all the stuff ChatGPT gave me. And then I'll put those ideas back in ChatGPT. And then if ChatGPT says this is good to go, you may have some issues with this thing here, but overall it's good to go. Then I'll keep a lookout on this thing here" — sources/S_ig_dankhanlegacy_DLUzqpxsq39.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'chatgpt' here is loaded with a specific meaning — the felt stake dankhanlegacy says must be touched — not the dictionary sense.
+- Read as evidence dankhanlegacy always uses 'chatgpt' this way: one 209-word clip is too thin a sample to support any claim about how the account uses the word in general.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["Spanish", "annihilates"]
+aka: ["spanish"]
 origin: sources/S_ig_daniel.jf1_DczeaLEisz0.md
 ---
 
-# G_ig_daniel.jf1_DczeaLEisz0 — Spanish
+# G_ig_daniel.jf1_DczeaLEisz0 — spanish
 
 ## Term
 
-Spanish is the most prominent repeated term in this source (194-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: annihilates, cold, emails. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'spanish' is the cue daniel.jf1 says a person must feel before the rep becomes useful. It appears 5 times, it sits next to 'annihilates', 'cold', and 'emails' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: If you send cold emails to Spanish speaking… The reel earns its keep only because 'spanish' is doing the lifting; 'traveling' alone would be filler.
 
 ## Synonyms
 
-- Spanish
-- annihilates
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and language arbitrage. If you send cold emails to Spanish speaking countries in Spanish, it annihilates. It just absolutely annihilates. Why? Because nobody sends cold emails in Spanish. Why?" — sources/S_ig_daniel.jf1_DczeaLEisz0.md
-> "So it's like if you speak Spanish, for instance, like just go do everything in Spanish because you can predict the future. It's literally like traveling back in time and you can just do whatever you" — sources/S_ig_daniel.jf1_DczeaLEisz0.md
+> "Geographic and language arbitrage. If you send cold emails to Spanish speaking countries in Spanish, it annihilates. It just absolutely annihilates. Why? Because nobody sends cold emails in Spanish. Why? Because like" — sources/S_ig_daniel.jf1_DczeaLEisz0.md
+> "years like in the past. So it's like if you speak Spanish, for instance, like just go do everything in Spanish because you can predict the future. It's literally like traveling back in time and you can just do whatever you want" — sources/S_ig_daniel.jf1_DczeaLEisz0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'spanish' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
+- Read as evidence daniel.jf1 always uses 'spanish' this way: one 194-word clip is too thin a sample to support any claim about how the account uses the word in general.

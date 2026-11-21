@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["knowledge", "expertise"]
+aka: ["demonstrated knowledge"]
 origin: sources/S_ig_disisjorj_CslvIRGvmpM.md
 ---
 
-# G_ig_disisjorj_CslvIRGvmpM — knowledge
+# G_ig_disisjorj_CslvIRGvmpM — demonstrated knowledge
 
 ## Term
 
-knowledge is the most prominent repeated term in this source (96-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: expertise, field, bundle. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'demonstrated knowledge' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'acquired', 'throughout', and 'years' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: You've demonstrated knowledge and expertise in your field… What makes the word 'demonstrated knowledge' the term here is that the rest — 'provide', 'convert', everything else — is staged for it.
 
 ## Synonyms
 
-- knowledge
-- expertise
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Share your unique story and skills you've acquired throughout the years. Convert. You've demonstrated knowledge and expertise in your field, so bundle up that knowledge into a mini course or even coaching sessions that you can provide to those who want to learn more. Scale." — sources/S_ig_disisjorj_CslvIRGvmpM.md
+> "with content. Share your unique story and skills you've acquired throughout the years. Convert. You've demonstrated knowledge and expertise in your field, so bundle up that knowledge into a mini course or even coaching sessions that you can provide to those" — sources/S_ig_disisjorj_CslvIRGvmpM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'demonstrated knowledge' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'demonstrated knowledge' next to 'acquired') may not be load-bearing in disisjorj's wider body of work.

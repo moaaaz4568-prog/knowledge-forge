@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["business", "sell"]
+aka: ["enterprise value"]
 origin: sources/S_ig_daniel.jf1_DZTdLQ7qD7Q.md
 ---
 
-# G_ig_daniel.jf1_DZTdLQ7qD7Q — business
+# G_ig_daniel.jf1_DZTdLQ7qD7Q — enterprise value
 
 ## Term
 
-business is the most prominent repeated term in this source (192-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: sell, selling, run. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this clip, 'enterprise value' is what daniel.jf1 says a person must already have working for them before tactics can compound. It appears 4 times, it sits next to 'because', 'dude', and 'company' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: They're like, I don't want to do that… The sentence around 'company' only carries weight because 'enterprise value' is what the sentence is really about.
 
 ## Synonyms
 
-- business
-- sell
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not gonna sell your business. You are never going to sell your company in your life. Okay, some of you will, but like operate under the premise that you are literally never going to sell your business at all ever. No one's gonna buy it. It's not gonna happen." — sources/S_ig_daniel.jf1_DZTdLQ7qD7Q.md
-> "company if it's profitable than if you're doing everything with enterprise value and you make no profit. You're not a VC backed software business in like the AI space. You're not. You're a dude selling a service business. You run an agency. You're not selling your business. Bro, you're not. Like, so just stop operating under the premise that you are." — sources/S_ig_daniel.jf1_DZTdLQ7qD7Q.md
+> "people who've like never sold a company at all. They're like, I don't want to do that because there's no enterprise value in that. It's like, dude, why the are you talking about enterprise value? You make no money. If your company doesn't profit anything" — sources/S_ig_daniel.jf1_DZTdLQ7qD7Q.md
+> "so just stop operating under the premise that you are. Like, oh, I can't do that because there's no enterprise value in it. Please shut the up" — sources/S_ig_daniel.jf1_DZTdLQ7qD7Q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'enterprise value' here is the multiplier on effort, not the effort itself.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'enterprise value' next to 'space') may not be load-bearing in daniel.jf1's wider body of work.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["success", "forms"]
+aka: ["success"]
 origin: sources/S_ig_disisjorj_CuPPU1BLXpZ.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_CuPPU1BLXpZ.md
 
 ## Term
 
-success is the most prominent repeated term in this source (75-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: forms, relationships, financial. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'success' names the felt consequence disisjorj uses to break through a person's logical defences. It appears 3 times, it sits next to 'self', 'forms', and 'relationships' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: If I could go back to being twenty… The clip's claim about 'requires' is conditional on 'success' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- success
-- forms
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I could go back to being twenty again with everything I know today, this is the one thing I'll tell my younger self: success in all of its forms—relationships, financial success, health—it requires two things: time and sacrifice." — sources/S_ig_disisjorj_CuPPU1BLXpZ.md
-> "Nothing big happens overnight, no matter if that's what they're trying to sell you on, because success is a series of hard choices, a portfolio of actions that proves you are who you say you" — sources/S_ig_disisjorj_CuPPU1BLXpZ.md
+> "to being twenty again with everything I know today, this is the one thing I'll tell my younger self: success in all of its forms—relationships, financial success, health—it requires two things: time and sacrifice. Nothing big happens overnight, no matter" — sources/S_ig_disisjorj_CuPPU1BLXpZ.md
+> "sacrifice. Nothing big happens overnight, no matter if that's what they're trying to sell you on, because success is a series of hard choices, a portfolio of actions that proves you are who you say you are" — sources/S_ig_disisjorj_CuPPU1BLXpZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'success' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as evidence disisjorj always uses 'success' this way: one 75-word clip is too thin a sample to support any claim about how the account uses the word in general.

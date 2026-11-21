@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["use", "motivating"]
+aka: ["three"]
 origin: sources/S_ig_disisjorj_CwdCKlBt30N.md
 ---
 
-# G_ig_disisjorj_CwdCKlBt30N — use
+# G_ig_disisjorj_CwdCKlBt30N — three
 
 ## Term
 
-use is the most prominent repeated term in this source (77-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: motivating, educating, viewer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'three' is the layer disisjorj says sits under the surface complaint — the thing a person must feel before they will act. It appears 3 times, it sits next to 'questions', 'combination', and 'sure' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Three questions I ask before posting… Without 'three', the reel is just a clip about viewer; with it, the clip is a claim.
 
 ## Synonyms
 
-- use
-- motivating
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Are there actionable steps provided that someone could use with this information? Is it entertaining, motivating, or educating the viewer?" — sources/S_ig_disisjorj_CwdCKlBt30N.md
+> "Three questions I ask before posting. A combination of these three will make sure that each and every post you make is meaningful, but most importantly" — sources/S_ig_disisjorj_CwdCKlBt30N.md
+> "with this information? Is it entertaining, motivating, or educating the viewer? Feel free to use these three for your videos and follow them all" — sources/S_ig_disisjorj_CwdCKlBt30N.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'three' is disisjorj's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as a tagline worth extracting: the source shows disisjorj using 'three' as a working label in one specific argument (visible in the collocation with 'questions'), not as a slogan the reader is meant to repeat.

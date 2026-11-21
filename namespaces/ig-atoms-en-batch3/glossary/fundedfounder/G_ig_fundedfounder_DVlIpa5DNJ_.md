@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["dropped", "low"]
+aka: ["dropped"]
 origin: sources/S_ig_fundedfounder_DVlIpa5DNJ_.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_fundedfounder_DVlIpa5DNJ_.md
 
 ## Term
 
-dropped is the most prominent repeated term in this source (27-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: low, trying. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'dropped' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 3 times, it sits next to 'came', 'trying', and 'come' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. fundedfounder drops it precisely where the cost of skipping it shows up — the surrounding move runs: Uh, dropped trying to come up… What makes the word 'dropped' the term here is that the rest — 'trying', 'the rest', everything else — is staged for it.
 
 ## Synonyms
 
-- dropped
-- low
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "dropped trying to come up. I dropped low then I came up. I dropped low then I came up." — sources/S_ig_fundedfounder_DVlIpa5DNJ_.md
+> "Uh, dropped trying to come up. I dropped low then I came up. I dropped low then I came up. I went down then I got up" — sources/S_ig_fundedfounder_DVlIpa5DNJ_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in fundedfounder's usage, 'dropped' is loaded with a specific working meaning (visible in the collocation with 'trying'), not the dictionary sense.
+- Read as polished prose: this is a verbatim transcript of a 27-word Instagram clip, and the wording around 'dropped' (including the collocation with 'trying') is spoken speech, not edited writing.

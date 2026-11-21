@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["editorial", "cinematic"]
+aka: ["cinematic"]
 origin: sources/S_ig_gobirdmasterclass_DZvAhkMIlti.md
 ---
 
-# G_ig_gobirdmasterclass_DZvAhkMIlti — editorial
+# G_ig_gobirdmasterclass_DZvAhkMIlti — cinematic
 
 ## Term
 
-editorial is the most prominent repeated term in this source (24-word transcript from the Instagram account gobirdmasterclass): it occurs 2 times literally in the text, most often collocated with: cinematic, gives, portraits. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'cinematic' names the move the clip is really making — the distinction gobirdmasterclass says a person must accept before the rest can apply. It appears twice, it sits next to 'editorial', 'gives', and 'stop' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where gobirdmasterclass names the thing a person cannot outsource — nearby: Stop saying cinematic for portraits… The clip's claim about 'Follow' is conditional on 'cinematic' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- editorial
-- cinematic
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "saying cinematic for portraits. Say editorial. Cinematic gives drama. Editorial gives style, cleaner light, sharper details, magazine vibe. That's it." — sources/S_ig_gobirdmasterclass_DZvAhkMIlti.md
+> "Stop saying cinematic for portraits. Say editorial. Cinematic gives drama. Editorial gives style, cleaner light, sharper details, magazine vibe. That's it. Follow" — sources/S_ig_gobirdmasterclass_DZvAhkMIlti.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'cinematic' as a working concept gobirdmasterclass is installing in this clip, not a generic self-help label.
+- Read as proof the term is load-bearing for gobirdmasterclass in general: a 24-word clip with the word 'cinematic' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

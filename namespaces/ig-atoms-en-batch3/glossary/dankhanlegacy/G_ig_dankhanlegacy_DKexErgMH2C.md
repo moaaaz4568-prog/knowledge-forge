@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["anh", "rồi"]
+aka: ["anh"]
 origin: sources/S_ig_dankhanlegacy_DKexErgMH2C.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_dankhanlegacy_DKexErgMH2C.md
 
 ## Term
 
-anh is the most prominent repeated term in this source (12-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: roi, nhu, noi. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'anh' names the move the clip is really making — the distinction dankhanlegacy says a person must accept before the rest can apply. It appears 3 times — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: như anh nói anh say rồi hôm nay… The argument only stays upright while 'anh' is doing the work — pull it and 'clip' loses its anchor.
 
 ## Synonyms
 
-- anh
-- rồi
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "anh nói anh say rồi hôm nay anh đã say rồi" — sources/S_ig_dankhanlegacy_DKexErgMH2C.md
+> "như anh nói anh say rồi hôm nay anh đã say rồi" — sources/S_ig_dankhanlegacy_DKexErgMH2C.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'anh' here is pinned to one specific claim in this clip, and the same word in another source from dankhanlegacy may carry a different load.
+- Read as a rule for using 'anh': the clip shows dankhanlegacy using the word in one specific move (alongside 'the clip'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["Storytelling", "Short"]
+aka: ["kinetic typography"]
 origin: sources/S_ig_gobirdmasterclass_Dd__INdueH4.md
 ---
 
-# G_ig_gobirdmasterclass_Dd__INdueH4 — Storytelling
+# G_ig_gobirdmasterclass_Dd__INdueH4 — kinetic typography
 
 ## Term
 
-This source is very short (29 words), so no term repeats enough for a frequency-based entry; Storytelling is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'kinetic typography' names the visual or structural move gobirdmasterclass says carries the meaning the words do not. It appears once in the transcript, and it sits next to 'cinematic', 'youtube', and 'commercial' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Kinetic typography… 'kinetic typography' is what the rest of the clip is trying to justify — even 'Explainer' reads as evidence for it.
 
 ## Synonyms
 
-- Storytelling
-- Short
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "form editing. Fast paced. Storytelling. Cinematic. YouTube content. Commercial. Motion graphics. Kinetic typography. Faceless. Talking head. Documentary. Explainer. Music video. Vlog. Podcast. Gaming. Wedding and event. Minimalist." — sources/S_ig_gobirdmasterclass_Dd__INdueH4.md
+> "Short form editing. Fast paced. Storytelling. Cinematic. YouTube content. Commercial. Motion graphics. Kinetic typography. Faceless. Talking head. Documentary. Explainer. Music video. Vlog. Podcast. Gaming. Wedding and event. Minimalist. Collage" — sources/S_ig_gobirdmasterclass_Dd__INdueH4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'kinetic typography' to mark the choice that does the work, not the choice that only looks good.
+- Read as a clean transcript: the wording around 'kinetic typography' (including the run-on near 'Motion') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

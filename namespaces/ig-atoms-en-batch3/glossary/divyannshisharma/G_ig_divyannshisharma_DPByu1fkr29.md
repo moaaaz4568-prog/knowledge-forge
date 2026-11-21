@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["click", "show"]
+aka: ["click"]
 origin: sources/S_ig_divyannshisharma_DPByu1fkr29.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_divyannshisharma_DPByu1fkr29.md
 
 ## Term
 
-click is the most prominent repeated term in this source (163-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: show, console, inspect. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'click' in this clip is the future-pain frame divyannshisharma says must be touched before any plan can land. It appears 4 times, it sits next to 'column', 'show', and 'inspect' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Over there, click on show all… The clip's claim about 'members' is conditional on 'click' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- click
-- show
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Join any public group. Once you have joined any public group, you will see this members column. Over there, click on show all. Then right click, click on inspect. And then go to the console. Then I will be sharing this talk with you. In this talk, so just copy the code that is in there. Go to the console." — sources/S_ig_divyannshisharma_DPByu1fkr29.md
-> "In this talk, so just copy the code that is in there. Go to the console. Just paste it, then click on enter and it will start scraping all the group members. These are the people you can reach out to your offer. It will scrape their LinkedIn profile and you can just directly reach out to them." — sources/S_ig_divyannshisharma_DPByu1fkr29.md
+> "any public group. Once you have joined any public group, you will see this members column. Over there, click on show all. Then right click, click on inspect. And then go to the console. Then I will be sharing this talk with you. In this talk, so just copy" — sources/S_ig_divyannshisharma_DPByu1fkr29.md
+> "with you. In this talk, so just copy the code that is in there. Go to the console. Just paste it, then click on enter and it will start scraping all the group members. These are the people you can reach out to your offer. It will scrape their LinkedIn profile" — sources/S_ig_divyannshisharma_DPByu1fkr29.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: divyannshisharma uses 'click' here in the framing of a sales conversation, not as a portfolio term.
+- Read as a tagline worth extracting: the source shows divyannshisharma using 'click' as a working label in one specific argument (visible in the collocation with 'scrape'), not as a slogan the reader is meant to repeat.

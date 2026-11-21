@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Chicago", "fine"]
+aka: ["dankhanlegacy"]
 origin: sources/S_ig_dankhanlegacy_DLKrZJdtuXc.md
 ---
 
-# G_ig_dankhanlegacy_DLKrZJdtuXc — Chicago
+# G_ig_dankhanlegacy_DLKrZJdtuXc — Just trust me, you'll be fine. And when I'm back in Chicago,…
 
 ## Term
 
-This source is very short (14 words), so no term repeats enough for a frequency-based entry; Chicago is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The dankhanlegacy clip is a short caption of 14 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "Just trust me, you'll be fine. And when I'm back in Chicago, I see.".
 
 ## Synonyms
 
-- Chicago
-- fine
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "trust me, you'll be fine. And when I'm back in Chicago, I" — sources/S_ig_dankhanlegacy_DLKrZJdtuXc.md
+> "Just trust me, you'll be fine. And when I'm back in Chicago, I see" — sources/S_ig_dankhanlegacy_DLKrZJdtuXc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content keyword: the words here exist for rhythm or mood, not as labels for an idea a person is working with — even 'Chicago' is phrasing, not a concept.
+- Read as a caption worth treating as a domain entry: this 14-word source does not have the conceptual weight to support one, even when the wording (e.g. 'Chicago') sounds like a slogan.

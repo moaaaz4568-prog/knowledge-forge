@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["systems", "run"]
+aka: ["systems"]
 origin: sources/S_ig_disisjorj_CsTgfM7rUb8.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_CsTgfM7rUb8.md
 
 ## Term
 
-systems is the most prominent repeated term in this source (91-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: run, part, career. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'systems' names the specific advantage disisjorj argues is missing in the person's current setup — the lever they have not yet pulled. It appears 4 times, it sits next to 'build', 'part', and 'places' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: The reason why fast food places can generate… Without 'systems' as the anchor, 'systemize' and 'because' would float without a stake in the argument.
 
 ## Synonyms
 
-- systems
-- run
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The reason why fast food places can generate so much money is because they rely on systems. Whatever your goal is, if you systemize the process, you can calculate how long it'll take you to reach it. Peter Drucker said" — sources/S_ig_disisjorj_CsTgfM7rUb8.md
-> "So build systems for each part of your career. Let systems run the business and you run the systems. If you don't know where to start, start here." — sources/S_ig_disisjorj_CsTgfM7rUb8.md
+> "your music career. The reason why fast food places can generate so much money is because they rely on systems. Whatever your goal is, if you systemize the process, you can calculate how long it'll take you to reach it. Peter Drucker said" — sources/S_ig_disisjorj_CsTgfM7rUb8.md
+> "So build systems for each part of your career. Let systems run the business and you run the systems. If you don't know where to start, start here. Drop a follow" — sources/S_ig_disisjorj_CsTgfM7rUb8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'systems' here is the multiplier on effort, not the effort itself.
+- Read as a definition of 'systems': the source documents how disisjorj deploys the word in this clip — collocated with 'because' — it does not establish what the word means in general.

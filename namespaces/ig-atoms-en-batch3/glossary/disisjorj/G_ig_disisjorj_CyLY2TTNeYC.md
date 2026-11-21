@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["realize", "lives"]
+aka: ["disisjorj"]
 origin: sources/S_ig_disisjorj_CyLY2TTNeYC.md
 ---
 
-# G_ig_disisjorj_CyLY2TTNeYC — realize
+# G_ig_disisjorj_CyLY2TTNeYC — We have two lives, and the second one begins when we realize…
 
 ## Term
 
-This source is very short (16 words), so no term repeats enough for a frequency-based entry; realize is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 16-word short caption from disisjorj — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "We have two lives, and the second one begins when we realize we only have one.".
 
 ## Synonyms
 
-- realize
-- lives
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "have two lives, and the second one begins when we realize we only have" — sources/S_ig_disisjorj_CyLY2TTNeYC.md
+> "We have two lives, and the second one begins when we realize we only have one" — sources/S_ig_disisjorj_CyLY2TTNeYC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 16-word disisjorj clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as proof disisjorj returns to a theme: a single short clip is too thin to anchor any wider claim about the account's body of work.

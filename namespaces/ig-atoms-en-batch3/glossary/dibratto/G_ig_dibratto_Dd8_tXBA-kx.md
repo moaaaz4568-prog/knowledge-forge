@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["September", "Apollo"]
+aka: ["biggest competitor"]
 origin: sources/S_ig_dibratto_Dd8_tXBA-kx.md
 ---
 
-# G_ig_dibratto_Dd8_tXBA-kx — September
+# G_ig_dibratto_Dd8_tXBA-kx — biggest competitor
 
 ## Term
 
-September is the most prominent repeated term in this source (180-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: apollo, biggest, held. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dibratto, 'biggest competitor' is the emotional stake the clip is built to surface — the felt cost of not changing that dibratto says must land first. It appears twice, it sits next to 'september', 'dreamforce', and 'hubspot' — the repetition is what makes it the spine of the clip rather than a passing word. dibratto drops it precisely where the cost of skipping it shows up — the surrounding move runs: Hubspot, their biggest competitor, just held Unbound in… Strip the clip down to its claim and you are left with 'biggest competitor'; 'overlapping' and 'within' are how the claim is delivered.
 
 ## Synonyms
 
-- September
-- Apollo
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If the other guy has one, you probably want one too. Salesforce just held Dreamforce September 15th to 17th in SF. Hubspot, their biggest competitor, just held Unbound in Boston September 16th to 18th. Apollo is holding Apollo Next on September 30th. Eight days later, Clay is hosting Sculpt." — sources/S_ig_dibratto_Dd8_tXBA-kx.md
+> "probably want one too. Salesforce just held Dreamforce September 15th to 17th in SF. Hubspot, their biggest competitor, just held Unbound in Boston September 16th to 18th. Apollo is holding Apollo Next on September 30th. Eight days later, Clay is hosting" — sources/S_ig_dibratto_Dd8_tXBA-kx.md
+> "generate press, and get thousands of people talking about where your category is headed. And giving your biggest competitor that advantage uncontested feels like a flop. So when Salesforce builds Dreamforce, Hubspot has to build Unbound. When Apollo builds" — sources/S_ig_dibratto_Dd8_tXBA-kx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'biggest competitor' is the emotional lever dibratto uses to surface commitment, not a market mechanic.
+- Read as evidence the term is central to the account: one 180-word clip showing 'biggest competitor' next to 'companies' is too small a sample to anchor a wider claim about what dibratto writes about.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "Instead"]
+aka: ["optimize instagram"]
 origin: sources/S_ig_disisjorj_DGtaoU6ICyl.md
 ---
 
-# G_ig_disisjorj_DGtaoU6ICyl — content
+# G_ig_disisjorj_DGtaoU6ICyl — optimize instagram
 
 ## Term
 
-content is the most prominent repeated term in this source (115-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: instead, spending, hours. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'optimize instagram' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'become', 'influencer', and 'town' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This format is using B-roll, and if your… Take 'optimize instagram' out and the clip collapses into generalities about different — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- content
-- Instead
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of spending hours every single day creating content from scratch, I use a different format that has enabled me not only to stay on track with posting, but most importantly made my entire content creation process ten times easier, which in turn allows me to focus on other tasks to drive the" — sources/S_ig_disisjorj_DGtaoU6ICyl.md
-> "your intention here on this platform is not to become the new influencer in town, but rather learn how to optimize Instagram and leverage content in a way that brings in more money into your bank account, welcome." — sources/S_ig_disisjorj_DGtaoU6ICyl.md
+> "intention here on this platform is not to become the new influencer in town, but rather learn how to optimize Instagram and leverage content in a way that brings in more money into your bank account, welcome. My name is George, and this is exactly what" — sources/S_ig_disisjorj_DGtaoU6ICyl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'optimize instagram' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'process' makes that visible.
+- Read as polished prose: this is a verbatim transcript of a 115-word Instagram clip, and the wording around 'optimize instagram' (including the collocation with 'process') is spoken speech, not edited writing.

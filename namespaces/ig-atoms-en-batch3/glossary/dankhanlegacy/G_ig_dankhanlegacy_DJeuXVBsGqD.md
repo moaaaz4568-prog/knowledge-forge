@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "every"]
+aka: ["exceeded expectations"]
 origin: sources/S_ig_dankhanlegacy_DJeuXVBsGqD.md
 ---
 
-# G_ig_dankhanlegacy_DJeuXVBsGqD — business
+# G_ig_dankhanlegacy_DJeuXVBsGqD — exceeded expectations
 
 ## Term
 
-business is the most prominent repeated term in this source (110-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: every, meeting, prepare. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'exceeded expectations' is the moment in the sale dankhanlegacy says a person cannot skip and still expect the deal to close. It appears once in the transcript, and it sits next to 'client's', 'pain', and 'points' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: I showed up early for every call, remembered… The reel earns its keep only because 'exceeded expectations' is doing the lifting; 'remember' alone would be filler.
 
 ## Synonyms
 
-- business
-- every
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Show up early on every meeting, prepare the night before any important business event, remember names, whoever you work with, amaze people with your quality of work, follow up fast no matter what and then follow up again. Over deliver to your clients, make it personal." — sources/S_ig_dankhanlegacy_DJeuXVBsGqD.md
-> "Over deliver to your clients, make it personal. That was the foundational formula that helped me build my seven figure business. I showed up early for every call, remembered every client's pain points, created offers, delivered VSLs that exceeded expectations, followed up relentlessly and each time with added value." — sources/S_ig_dankhanlegacy_DJeuXVBsGqD.md
-> "If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DJeuXVBsGqD.md
+> "up early for every call, remembered every client's pain points, created offers, delivered VSLs that exceeded expectations, followed up relentlessly and each time with added value. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DJeuXVBsGqD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in dankhanlegacy's reel, 'exceeded expectations' is the specific move dankhanlegacy says a person must make before the prospect will commit.
+- Read as a definition of 'exceeded expectations': the source documents how dankhanlegacy deploys the word in this clip — collocated with 'value' — it does not establish what the word means in general.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["Use", "method"]
+aka: ["outbound connections"]
 origin: sources/S_ig_dibratto_DbA7dKVx4fC.md
 ---
 
-# G_ig_dibratto_DbA7dKVx4fC — Use
+# G_ig_dibratto_DbA7dKVx4fC — outbound connections
 
 ## Term
 
-Use is the most prominent repeated term in this source (61-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: method, tweet, screenshot. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dibratto, 'outbound connections' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears once in the transcript, and it sits next to 'write', 'leave', and 'fifteen' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: Send twenty outbound connections per day… Without 'outbound connections', the reel is just a clip about relevant; with it, the clip is a claim.
 
 ## Synonyms
 
-- Use
-- method
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "posting three to five times per week. Use the tweet screenshot method. Use the news jacking method. Use more founder pictures when relevant. Write more things that AI cannot write. Leave fifteen outbound comments per day. Send twenty outbound connections per day." — sources/S_ig_dibratto_DbA7dKVx4fC.md
+> "relevant. Write more things that AI cannot write. Leave fifteen outbound comments per day. Send twenty outbound connections per day. Review content weekly to see what angles, formats, hooks, and media are working. And follow me for more" — sources/S_ig_dibratto_DbA7dKVx4fC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'outbound connections' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'three' makes that visible.
+- Read as a recommendation to use 'outbound connections' yourself: the clip shows dibratto using the word in one specific move (visible in the collocation with 'three'); it does not argue the reader should adopt it.

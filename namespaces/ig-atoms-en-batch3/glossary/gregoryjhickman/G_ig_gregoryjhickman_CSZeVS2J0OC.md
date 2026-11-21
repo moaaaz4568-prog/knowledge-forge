@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "number"]
+aka: ["service-based businesses"]
 origin: sources/S_ig_gregoryjhickman_CSZeVS2J0OC.md
 ---
 
-# G_ig_gregoryjhickman_CSZeVS2J0OC — clients
+# G_ig_gregoryjhickman_CSZeVS2J0OC — service-based businesses
 
 ## Term
 
-clients is the most prominent repeated term in this source (117-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: number, losing, money. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'service-based businesses' is the part of the conversation gregoryjhickman treats as load-bearing — the move the rest of the close is built to set up. It appears once in the transcript, and it sits next to 'growing' each time it appears — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: If you look at most service-based businesses growing… The clip's relationship to 'common' only makes sense as a vehicle for delivering 'service-based businesses'.
 
 ## Synonyms
 
-- clients
-- number
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you look at most service-based businesses growing by way of only just increasing number of sales and number of clients customers, you almost always see the margin continue to shrink and shrink and shrink." — sources/S_ig_gregoryjhickman_CSZeVS2J0OC.md
-> "And if you have things like scope creep that are really common, very quickly you can have clients that were ROI positive to you're actually losing money on those clients. And that was exactly what happened for us." — sources/S_ig_gregoryjhickman_CSZeVS2J0OC.md
+> "If you look at most service-based businesses growing by way of only just increasing number of sales and number of clients customers, you almost always see the margin continue" — sources/S_ig_gregoryjhickman_CSZeVS2J0OC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'service-based businesses' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as a clean transcript: the wording around 'service-based businesses' (including the run-on near 'increasing') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

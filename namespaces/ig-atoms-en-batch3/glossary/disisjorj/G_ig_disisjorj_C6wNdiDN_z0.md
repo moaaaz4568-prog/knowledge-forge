@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["knowledge", "quits"]
+aka: ["information online"]
 origin: sources/S_ig_disisjorj_C6wNdiDN_z0.md
 ---
 
-# G_ig_disisjorj_C6wNdiDN_z0 — knowledge
+# G_ig_disisjorj_C6wNdiDN_z0 — information online
 
 ## Term
 
-knowledge is the most prominent repeated term in this source (156-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: quits, understood, investing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'information online' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears once in the transcript, and it sits next to 'figure', 'abundance', and 'test' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: There's an abundance of information online that you… Without 'information online' as the anchor, 'moment' and 'abundance' would float without a stake in the argument.
 
 ## Synonyms
 
-- knowledge
-- quits
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And how long are you willing to keep up the pace until you call it quits? I understood that investing in yourself, your knowledge and skills, is something that no one can take away from you. Ever." — sources/S_ig_disisjorj_C6wNdiDN_z0.md
-> "Ever. They can take down my account at any given moment, but the knowledge I've built and the structures, frameworks and systems I operate with, that cannot be taken away from me." — sources/S_ig_disisjorj_C6wNdiDN_z0.md
+> "hour of their time, but it makes sense. You can figure out the how on your own. There's an abundance of information online that you can test, implement, fail and succeed with, but how long would that take? And how long are you willing to keep up the pace" — sources/S_ig_disisjorj_C6wNdiDN_z0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'information online' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as evidence the term is central to the account: one 156-word clip showing 'information online' next to 'knowledge' is too small a sample to anchor a wider claim about what disisjorj writes about.

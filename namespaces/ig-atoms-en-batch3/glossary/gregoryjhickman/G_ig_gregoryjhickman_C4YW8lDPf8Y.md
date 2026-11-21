@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["process", "logo"]
+aka: ["process"]
 origin: sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
 
 ## Term
 
-process is the most prominent repeated term in this source (138-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: logo, step, called. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's clip, 'process' is the design choice gregoryjhickman treats as the hinge between pretty and effective. It appears 5 times, it sits next to 'five-step', 'always', and 'called' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: And in the story, Alex, the agency owner… This is the word the clip is built to deliver; 'delivered' is texture around it, not the point.
 
 ## Synonyms
 
-- process
-- logo
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And in the story, Alex, the agency owner, tells his mentor Ted that they have a five-step process that they pretty much always follow to create the best logos that their clients love. Now, obviously, every single client wasn't getting the same logo. They got customized solutions." — sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
-> "But Alex's agency always followed a particular process, a five-step process. They called it the five-star logo process." — sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
-> "They called it the five-star logo process. And every single client moved through that exact same process to get their logo from idea to delivered with Alex's" — sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
+> "logo design. And in the story, Alex, the agency owner, tells his mentor Ted that they have a five-step process that they pretty much always follow to create the best logos that their clients love. Now, obviously, every single client wasn't getting the same" — sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
+> "process. They called it the five-star logo process. And every single client moved through that exact same process to get their logo from idea to delivered with Alex's agency" — sources/S_ig_gregoryjhickman_C4YW8lDPf8Y.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'process' to mark the choice that does the work, not the choice that only looks good.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 138-word clip with the word 'process' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

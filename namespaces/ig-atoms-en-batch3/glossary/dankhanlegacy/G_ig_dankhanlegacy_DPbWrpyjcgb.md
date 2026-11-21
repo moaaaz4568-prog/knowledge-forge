@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["eclipse", "love"]
+aka: ["dankhanlegacy"]
 origin: sources/S_ig_dankhanlegacy_DPbWrpyjcgb.md
 ---
 
-# G_ig_dankhanlegacy_DPbWrpyjcgb — eclipse
+# G_ig_dankhanlegacy_DPbWrpyjcgb — Ooh, I'm a rebel just for kicks. Yeah, your love is an abyss…
 
 ## Term
 
-This source is very short (18 words), so no term repeats enough for a frequency-based entry; eclipse is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The dankhanlegacy clip is a song lyric of 18 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "Ooh, I'm a rebel just for kicks. Yeah, your love is an abyss for my heart to eclipse.".
 
 ## Synonyms
 
-- eclipse
-- love
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yeah, your love is an abyss for my heart to eclipse" — sources/S_ig_dankhanlegacy_DPbWrpyjcgb.md
+> "Ooh, I'm a rebel just for kicks. Yeah, your love is an abyss for my heart to eclipse" — sources/S_ig_dankhanlegacy_DPbWrpyjcgb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'kicks') is what carries the mood, not a label being defined.
+- Read as proof dankhanlegacy returns to a theme: a single short clip is too thin to anchor any wider claim about the account's body of work.

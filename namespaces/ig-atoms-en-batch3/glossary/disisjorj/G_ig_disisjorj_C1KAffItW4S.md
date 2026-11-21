@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["different", "set"]
+aka: ["completely different"]
 origin: sources/S_ig_disisjorj_C1KAffItW4S.md
 ---
 
-# G_ig_disisjorj_C1KAffItW4S — different
+# G_ig_disisjorj_C1KAffItW4S — completely different
 
 ## Term
 
-different is the most prominent repeated term in this source (66-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: set, skills, approach. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'completely different' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears twice, it sits next to 'require', 'tasks', and 'ideation' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Ideation, scripting, shooting, and editing are four completely… The argument only stays upright while 'completely different' is doing the work — pull it and 'approach' loses its anchor.
 
 ## Synonyms
 
-- different
-- set
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ideation, scripting, shooting, and editing are four completely different things that require a different set of skills and a completely different" — sources/S_ig_disisjorj_C1KAffItW4S.md
+> "and a specific day for each one of those tasks. Ideation, scripting, shooting, and editing are four completely different things that require a different set of skills and a completely different approach" — sources/S_ig_disisjorj_C1KAffItW4S.md
+> "shooting, and editing are four completely different things that require a different set of skills and a completely different approach" — sources/S_ig_disisjorj_C1KAffItW4S.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'completely different' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence disisjorj always uses 'completely different' this way: one 66-word clip is too thin a sample to support any claim about how the account uses the word in general.

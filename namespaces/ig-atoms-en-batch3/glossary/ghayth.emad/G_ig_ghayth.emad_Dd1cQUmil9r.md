@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["believe", "project"]
+aka: ["believe"]
 origin: sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
 
 ## Term
 
-believe is the most prominent repeated term in this source (198-word transcript from the Instagram account ghayth.emad): it occurs 3 times literally in the text, most often collocated with: project, living, evidence. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'believe' names the specific advantage ghayth.emad argues is missing in the person's current setup — the lever they have not yet pulled. It appears 3 times, it sits next to 'project', 'company', and 'founded' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. ghayth.emad drops it precisely where the cost of skipping it shows up — the surrounding move runs: What are the things you believe in… The clip is engineered so that 'founded' lands as setup, not payoff; the payoff is the move 'believe' names.
 
 ## Synonyms
 
-- believe
-- project
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What makes you wake up in the morning? Why was your company founded in the first place? What are the things you believe in? Start with why. It starts with why you do what you do, and the thing you do is just evidence of why you do what you do. Think about it." — sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
-> "starts with why you do what you do, and the thing you do is just evidence of why you do what you do. Think about it. What is it that you believe in, that you want to do this project or this video, to be living evidence of what you believe" — sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
+> "you wake up in the morning? Why was your company founded in the first place? What are the things you believe in? Start with why. It starts with why you do what you do, and the thing you do is just evidence of why you do what you do. Think about it. What" — sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
+> "that you believe in, that you want to do this project or this video, to be living evidence of what you believe in" — sources/S_ig_ghayth.emad_Dd1cQUmil9r.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'believe' here is the multiplier on effort, not the effort itself.
+- Read as a tagline worth extracting: the source shows ghayth.emad using 'believe' as a working label in one specific argument (visible in the collocation with 'others'), not as a slogan the reader is meant to repeat.

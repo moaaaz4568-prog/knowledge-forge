@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["introduced", "quit"]
+aka: ["isn't"]
 origin: sources/S_ig_disisjorj_C0cZ_HgNCvz.md
 ---
 
-# G_ig_disisjorj_C0cZ_HgNCvz — introduced
+# G_ig_disisjorj_C0cZ_HgNCvz — isn't
 
 ## Term
 
-This source is very short (83 words), so no term repeats enough for a frequency-based entry; introduced is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'isn't' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 3 times, it sits next to 'planning', 'introduced', and 'remember' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Remember that talking about the thing isn't doing… This is the word the clip is built to deliver; 'introduced' is texture around it, not the point.
 
 ## Synonyms
 
-- introduced
-- quit
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We talk about it, we read about it, we even pay money to learn more about it. But most people will quit as soon as friction is introduced. Remember that talking about the thing isn't doing the thing. Planning to do the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing." — sources/S_ig_disisjorj_C0cZ_HgNCvz.md
+> "But most people will quit as soon as friction is introduced. Remember that talking about the thing isn't doing the thing. Planning to do the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. The only thing" — sources/S_ig_disisjorj_C0cZ_HgNCvz.md
+> "the thing. Planning to do the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. The only thing that is doing the thing is doing the thing" — sources/S_ig_disisjorj_C0cZ_HgNCvz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'isn't' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'isn't' next to 'introduced') may not be load-bearing in disisjorj's wider body of work.

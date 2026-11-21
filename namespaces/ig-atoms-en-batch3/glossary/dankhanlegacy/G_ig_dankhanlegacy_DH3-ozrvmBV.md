@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["online", "building"]
+aka: ["following"]
 origin: sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
 ---
 
-# G_ig_dankhanlegacy_DH3-ozrvmBV — online
+# G_ig_dankhanlegacy_DH3-ozrvmBV — following
 
 ## Term
 
-online is the most prominent repeated term in this source (179-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: building, brand, realizing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'following' carries the weight of a discipline, not an event: dankhanlegacy frames it as the work that turns private effort into public evidence. It appears 4 times, it sits next to 'once', 'online', and 'building' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Yeah, I mean, first of all, I think… The clip is engineered so that 'beginners' lands as setup, not payoff; the payoff is the move 'following' names.
 
 ## Synonyms
 
-- online
-- building
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yeah, I mean, first of all, I think it's realizing that building a following, building a brand online, it's the best thing that you can do in 2025. And it's literally like one of the only ways to kind of like make money online. Because when you think about it, everything else Ty talks about will get replaced by AI, etc, etc." — sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
-> "It's super competitive, low profit margins. And when you think about all the people that you see online who have a big brand, right? What are they doing? Andrew Tate, Mangazi, they have a brand, they have a following." — sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
-> "So what I would do and what I would advise beginners to do is learn content creation and learn how to build a following online. Because once you have a following, once you have a brand, you will like always be able to make money." — sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
+> "want to start out with Instagram? Yeah, I mean, first of all, I think it's realizing that building a following, building a brand online, it's the best thing that you can do in 2025. And it's literally like one of the only ways to kind of like make money" — sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
+> "beginners to do is learn content creation and learn how to build a following online. Because once you have a following, once you have a brand, you will like always be able to make money. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DH3-ozrvmBV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in dankhanlegacy's usage here, 'following' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as evidence dankhanlegacy always uses 'following' this way: one 179-word clip is too thin a sample to support any claim about how the account uses the word in general.

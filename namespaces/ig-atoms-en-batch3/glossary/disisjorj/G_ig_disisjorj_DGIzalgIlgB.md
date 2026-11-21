@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "posting"]
+aka: ["motivational sixty-second"]
 origin: sources/S_ig_disisjorj_DGIzalgIlgB.md
 ---
 
-# G_ig_disisjorj_DGIzalgIlgB — content
+# G_ig_disisjorj_DGIzalgIlgB — motivational sixty-second
 
 ## Term
 
-content is the most prominent repeated term in this source (307-word transcript from the Instagram account disisjorj): it occurs 6 times literally in the text, most often collocated with: posting, audience, hard. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'motivational sixty-second' names the body mechanic disisjorj isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'eventually', 'consistency', and 'drowning' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: And you hear the people who you look… Every other word in the source, including 'started', is in service to the move 'motivational sixty-second' names.
 
 ## Synonyms
 
-- content
-- posting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "don't lack the motivation or discipline to start posting content, but just posting content does no good to anyone if you don't actually know what to post." — sources/S_ig_disisjorj_DGIzalgIlgB.md
-> "intention behind each and every piece of content because at the end of the day, most of you listening want to make a living out of your content. And you hear the people who you look up to telling you" — sources/S_ig_disisjorj_DGIzalgIlgB.md
-> "If you're looking to grow your audience and make a living out of your content without sitting at a 90-minute session every week for the next 12 weeks or spending $2, 000 being overwhelmed with information that leads you to the same place you started, if not worse, comment 3DC and if you give me three days, I'll" — sources/S_ig_disisjorj_DGIzalgIlgB.md
+> "drowning you in their motivational sixty-second clips with cinematic b-roll that's three years old. But as someone who heard that, fell for it, and inevitably failed, I realized" — sources/S_ig_disisjorj_DGIzalgIlgB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'motivational sixty-second' is disisjorj's coaching cue for a felt position, not a clinical label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'motivational sixty-second' next to 'black') may not be load-bearing in disisjorj's wider body of work.

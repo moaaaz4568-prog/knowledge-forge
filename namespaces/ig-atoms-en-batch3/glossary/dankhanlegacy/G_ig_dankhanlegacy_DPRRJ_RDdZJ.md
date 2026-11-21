@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["intention", "decided"]
+aka: ["seven-figure entrepreneur"]
 origin: sources/S_ig_dankhanlegacy_DPRRJ_RDdZJ.md
 ---
 
-# G_ig_dankhanlegacy_DPRRJ_RDdZJ — intention
+# G_ig_dankhanlegacy_DPRRJ_RDdZJ — seven-figure entrepreneur
 
 ## Term
 
-intention is the most prominent repeated term in this source (181-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: decided, build, figure. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'seven-figure entrepreneur' is what dankhanlegacy argues a person must already be before any external change can hold. It appears twice, it sits next to 'solve', 'problem', and 'overcome' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Every single seven-figure entrepreneur does this, and it… Cut 'seven-figure entrepreneur' and the clip's aboutness shifts from a claim to a description of operates and obsession.
 
 ## Synonyms
 
-- intention
-- decided
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Every single seven-figure entrepreneur does this, and it guarantees success. Think with intention about your outcome 24/7. Not just thinking about it, think with intention. When I decided to build a seven-figure agency, I didn't just hope for it. I obsessed over it." — sources/S_ig_dankhanlegacy_DPRRJ_RDdZJ.md
-> "At the gym, I'm thinking about my clients' results. Before bed, I'm thinking about scaling systems. When you think with intention, solutions appear. Opportunities show up, the right people find you. But the moment you start thinking about other things, you dilute your creativity." — sources/S_ig_dankhanlegacy_DPRRJ_RDdZJ.md
+> "you do this one thing, you'll hit any goal, solve any problem, and overcome any obstacle. Every single seven-figure entrepreneur does this, and it guarantees success. Think with intention about your outcome 24/7. Not just thinking about it, think with intention" — sources/S_ig_dankhanlegacy_DPRRJ_RDdZJ.md
+> "universe will ask. Maybe you'll change your mind. We'll hold off. But 100% obsession, game on. Every seven-figure entrepreneur I know operates this way. 24/7 intentional thinking about the outcome. Try it, and you finally might be successful" — sources/S_ig_dankhanlegacy_DPRRJ_RDdZJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'seven-figure entrepreneur' is a stance dankhanlegacy says a person must adopt before action, not a feeling they happen to have.
+- Read as a rule for using 'seven-figure entrepreneur': the clip shows dankhanlegacy using the word in one specific move (alongside 'finally'), not a recommendation that the reader adopt the word themselves.

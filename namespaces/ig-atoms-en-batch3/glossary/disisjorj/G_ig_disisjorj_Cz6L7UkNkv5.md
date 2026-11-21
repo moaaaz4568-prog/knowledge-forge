@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["steel background", "paper"]
+aka: ["steel background"]
 origin: sources/S_ig_disisjorj_Cz6L7UkNkv5.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_disisjorj_Cz6L7UkNkv5.md
 
 ## Term
 
-steel background is the most prominent repeated term in this source (45-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: paper, texture, place. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'steel background' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears twice, it sits next to 'paper', 'texture', and 'place' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Three quick and easy steps to add a… Anything else in the clip orbits this word — strip out 'steel background' and the rest reads as filler around 'change'.
 
 ## Synonyms
 
-- steel background
-- paper
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "quick and easy steps to add a paper texture to any steel background. Place your steel background and on top of it add a paper texture. Go to composition and change the blend mode from normal to multiply." — sources/S_ig_disisjorj_Cz6L7UkNkv5.md
+> "Three quick and easy steps to add a paper texture to any steel background. Place your steel background and on top of it add a paper texture. Go to composition and change the blend mode from normal to multiply" — sources/S_ig_disisjorj_Cz6L7UkNkv5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'steel background' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as proof the term is load-bearing for disisjorj in general: a 45-word clip with the word 'steel background' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

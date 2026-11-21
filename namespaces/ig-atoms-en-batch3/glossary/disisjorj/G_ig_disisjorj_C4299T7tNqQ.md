@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["change", "daily"]
+aka: ["ancient chinese"]
 origin: sources/S_ig_disisjorj_C4299T7tNqQ.md
 ---
 
-# G_ig_disisjorj_C4299T7tNqQ — change
+# G_ig_disisjorj_C4299T7tNqQ — ancient chinese
 
 ## Term
 
-change is the most prominent repeated term in this source (110-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: daily, reminder. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'ancient chinese' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears once in the transcript, and it sits next to 'golden', 'dragon', and 'whole' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: My whole arm is the representation of that… The reel earns its keep only because 'ancient chinese' is doing the lifting; 'legend' alone would be filler.
 
 ## Synonyms
 
-- change
-- daily
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "My whole arm is the representation of that ancient Chinese legend and a daily reminder that for things to change, you need to" — sources/S_ig_disisjorj_C4299T7tNqQ.md
+> "determination and power and turned it into a golden dragon. My whole arm is the representation of that ancient Chinese legend and a daily reminder that for things to change, you need to change" — sources/S_ig_disisjorj_C4299T7tNqQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'ancient chinese' here is the specific frame disisjorj argues from, not a generic motivational label.
+- Read as a clean transcript: the wording around 'ancient chinese' (including the run-on near 'place') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["hours", "sleep"]
+aka: ["fourteen hundred"]
 origin: sources/S_ig_geoff_ketterer_DO8jI5PDA7o.md
 ---
 
-# G_ig_geoff_ketterer_DO8jI5PDA7o — hours
+# G_ig_geoff_ketterer_DO8jI5PDA7o — fourteen hundred
 
 ## Term
 
-hours is the most prominent repeated term in this source (61-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: sleep, meals, commuting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'fourteen hundred' names the move the clip is really making — the distinction geoff_ketterer says a person must accept before the rest can apply. It appears once in the transcript, and it sits next to 'ones', 'rest', and 'left' — a single occurrence that nonetheless anchors the clip's argument. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: Once you factor in seven hours a day… Without 'fourteen hundred' as the anchor, 'thousand' and 'fourteen' would float without a stake in the argument.
 
 ## Synonyms
 
-- hours
-- sleep
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you live an average life on the planet, you will have around four thousand weeks on the earth. Once you factor in seven hours a day for sleep, two for meals, one for commuting, two hours with loved ones and one rest day per week, you are left with fourteen hundred weeks to get shit" — sources/S_ig_geoff_ketterer_DO8jI5PDA7o.md
+> "for meals, one for commuting, two hours with loved ones and one rest day per week, you are left with fourteen hundred weeks to get shit done" — sources/S_ig_geoff_ketterer_DO8jI5PDA7o.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'fourteen hundred' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as evidence geoff_ketterer always uses 'fourteen hundred' this way: one 61-word clip is too thin a sample to support any claim about how the account uses the word in general.

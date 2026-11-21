@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["step", "engagement"]
+aka: ["engagement"]
 origin: sources/S_ig_devinjatho_CmFU3ABALpl.md
 ---
 
-# G_ig_devinjatho_CmFU3ABALpl — step
+# G_ig_devinjatho_CmFU3ABALpl — engagement
 
 ## Term
 
-step is the most prominent repeated term in this source (183-word transcript from the Instagram account devinjatho): it occurs 5 times literally in the text, most often collocated with: engagement, fourth, boost. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'engagement' in this clip is the lever that converts effort into reach — devinjatho insists the value sits in the doing, not the perfecting. It appears 4 times, it sits next to 'hack', 'method', and 'strategy' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. devinjatho drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is an engagement hack that got me… The clip is engineered so that 'morning' lands as setup, not payoff; the payoff is the move 'engagement' names.
 
 ## Synonyms
 
-- step
-- engagement
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This hack is known as the WIM method. The Warm-up Engagement Method is a four-step strategy to get your account ready to get the most engagement possible on your new post. The first step is to post one to two stories as soon as you wake up in the morning. And for the best results, add in a poll." — sources/S_ig_devinjatho_CmFU3ABALpl.md
-> "On the third step, share your post on your story to inform all of your followers that you have a new post. The fourth and the last step is to boost your post by outbound engagement. This means to connect with people's content that are in your niche. Go like and comment on at least 20 posts and remember to make the comments as authentic and valuable as possible." — sources/S_ig_devinjatho_CmFU3ABALpl.md
+> "This is an engagement hack that got me over 300,000 views on one video. This hack is known as the WIM method. The Warm-up Engagement Method is a four-step strategy" — sources/S_ig_devinjatho_CmFU3ABALpl.md
+> "your followers that you have a new post. The fourth and the last step is to boost your post by outbound engagement. This means to connect with people's content that are in your niche. Go like and comment on at least 20 posts and remember to make the comments" — sources/S_ig_devinjatho_CmFU3ABALpl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in devinjatho's usage here, 'engagement' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a definition of 'engagement': the source documents how devinjatho deploys the word in this clip — collocated with 'results' — it does not establish what the word means in general.

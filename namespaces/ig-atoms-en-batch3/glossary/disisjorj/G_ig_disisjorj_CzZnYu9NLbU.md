@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["start", "goes"]
+aka: ["exercise within"]
 origin: sources/S_ig_disisjorj_CzZnYu9NLbU.md
 ---
 
-# G_ig_disisjorj_CzZnYu9NLbU — start
+# G_ig_disisjorj_CzZnYu9NLbU — exercise within
 
 ## Term
 
-start is the most prominent repeated term in this source (109-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: goes, adding, list. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'exercise within' names the body mechanic disisjorj isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'progress', 'cohort', and 'build' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: For me, it's posting once a day, making… Read alongside 'exercise', the word 'exercise within' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- start
-- goes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "For me, it's posting once a day, making progress on my cohort, and getting some type of exercise within the day. You can start with one, build evidence that you do keep up with what you set out to do, and as time goes by, start adding more things to the list." — sources/S_ig_disisjorj_CzZnYu9NLbU.md
+> "matter what. For me, it's posting once a day, making progress on my cohort, and getting some type of exercise within the day. You can start with one, build evidence that you do keep up with what you set out to do, and as time goes by, start adding more" — sources/S_ig_disisjorj_CzZnYu9NLbU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'exercise within' to point at one specific mechanic disisjorj says is failing in the movement shown.
+- Read as evidence disisjorj always uses 'exercise within' this way: one 109-word clip is too thin a sample to support any claim about how the account uses the word in general.

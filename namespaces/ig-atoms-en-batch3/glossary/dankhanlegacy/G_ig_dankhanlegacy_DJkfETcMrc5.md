@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Number", "wine"]
+aka: ["price", "prices", "pricing"]
 origin: sources/S_ig_dankhanlegacy_DJkfETcMrc5.md
 ---
 
-# G_ig_dankhanlegacy_DJkfETcMrc5 — Number
+# G_ig_dankhanlegacy_DJkfETcMrc5 — price
 
 ## Term
 
-Number is the most prominent repeated term in this source (221-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: wine, test, cheap. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'price' is the moment in the sale dankhanlegacy says a person cannot skip and still expect the deal to close. It appears 5 times, it sits next to 'value', 'higher', and 'better' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Number two, medium priced wine… Read alongside 'because', the word 'price' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- Number
-- wine
+- prices
+- pricing
 
 ## Live Example
 
-> "Let me prove it with an example. So researchers did a wine taste test. Number one, cheap wine. Number two, medium priced wine. Number three, expensive wine. People rated them exactly as you'd expect. Cheap was okayish, medium was just fine, expensive was the best." — sources/S_ig_dankhanlegacy_DJkfETcMrc5.md
-> "Your price sets expectations. I used this exact principle to 10x my sales funnel prices. Here's how you can apply this. Number one, look at your current offer. Number two, double the price minimum. Number three, add some high value bonuses to justify it. Number four, test and see how your sales increase." — sources/S_ig_dankhanlegacy_DJkfETcMrc5.md
+> "with different labeling and pricing. Mind blown. Now, here's what it means for your business. Your price sets expectations. I used this exact principle to 10x my sales funnel prices. Here's how you can apply this. Number one, look at your current offer" — sources/S_ig_dankhanlegacy_DJkfETcMrc5.md
+> "people equate price with value. Higher price must be better. But it's not just about slapping a higher price tag on your services or products. You need to back it up with a killer VSL that screams value, an irresistible offer, rock solid delivery. Do this" — sources/S_ig_dankhanlegacy_DJkfETcMrc5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'price' to a specific move dankhanlegacy says is missing here, not a universal recommendation.
+- Read as polished prose: this is a verbatim transcript of a 221-word Instagram clip, and the wording around 'price' (including the collocation with 'value') is spoken speech, not edited writing.

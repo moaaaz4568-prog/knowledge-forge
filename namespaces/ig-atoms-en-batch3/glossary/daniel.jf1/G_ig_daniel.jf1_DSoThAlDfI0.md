@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["goes", "AC"]
+aka: ["goes"]
 origin: sources/S_ig_daniel.jf1_DSoThAlDfI0.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DSoThAlDfI0.md
 
 ## Term
 
-goes is the most prominent repeated term in this source (148-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: ac, actual, cash. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'goes' is what daniel.jf1 argues a person must already be before any external change can hold. It appears 6 times, it sits next to 'happens', 'forget', and 'risk' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: The rent that you charge is gonna be… What makes the word 'goes' the term here is that the rest — 'afford', 'Buying', everything else — is staged for it.
 
 ## Synonyms
 
-- goes
-- AC
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The rent that you charge is gonna be 300 above the mortgage, and then like an AC goes out, you just lost like two years of profit, and you're banking on, oh, it's gonna go up so I can refinance it with more debt. The entire success of this is predicated upon the value of it going up. Like it doesn't make actual cash flow." — sources/S_ig_daniel.jf1_DSoThAlDfI0.md
-> "Well, actually, it doesn't. People forget to risk mitigate. Like what happens if it goes down? And then the AC goes out, and this goes out, and this goes out, and now you're losing money for like four, five, six years on this house that you just bought." — sources/S_ig_daniel.jf1_DSoThAlDfI0.md
+> "grand in some house. The rent that you charge is gonna be 300 above the mortgage, and then like an AC goes out, you just lost like two years of profit, and you're banking on, oh, it's gonna go up so I can refinance it with more debt. The entire success" — sources/S_ig_daniel.jf1_DSoThAlDfI0.md
+> "risk mitigate. Like what happens if it goes down? And then the AC goes out, and this goes out, and this goes out, and now you're losing money for like four, five, six years on this house that you just bought. What if you can't afford that" — sources/S_ig_daniel.jf1_DSoThAlDfI0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'goes' is loaded by daniel.jf1 with a specific meaning tied to 'mortgage', not the dictionary sense.
+- Read as a rule for using 'goes': the clip shows daniel.jf1 using the word in one specific move (alongside 'mortgage'), not a recommendation that the reader adopt the word themselves.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["AI", "says"]
+aka: ["part"]
 origin: sources/S_ig_dankhanlegacy_DXsD0KQjEZC.md
 ---
 
-# G_ig_dankhanlegacy_DXsD0KQjEZC — AI
+# G_ig_dankhanlegacy_DXsD0KQjEZC — part
 
 ## Term
 
-AI is the most prominent repeated term in this source (207-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: says, use, part. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'part' is the buyer-side lever dankhanlegacy says the seller must surface before any pricing talk can land. It appears 3 times, it sits next to 'argue', 'let's', and 'makes' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Wouldn't that make a whole lot of difference… Without 'part', the reel is just a clip about dumbass; with it, the clip is a claim.
 
 ## Synonyms
 
-- AI
-- says
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the AI, they don't really get my vision. They can't really do it this way. They can't really do" — sources/S_ig_dankhanlegacy_DXsD0KQjEZC.md
-> "if this small part that AI can't do, which I argue is a big part, but let's just say it's a small part, makes you an extra this amount of money in your business, would it be worth" — sources/S_ig_dankhanlegacy_DXsD0KQjEZC.md
-> "but it's just a small thing that AI can't" — sources/S_ig_dankhanlegacy_DXsD0KQjEZC.md
+> "Well, if this small part that AI can't do, which I argue is a big part, but let's just say it's a small part, makes you an extra this amount of money in your business, would" — sources/S_ig_dankhanlegacy_DXsD0KQjEZC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'part' here is loaded with a specific working meaning by dankhanlegacy, not a buzzword.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'part' (e.g. the collocation with 'worth') is the speech of one clip, not a stylistic pattern that can be generalised.

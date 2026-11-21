@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["story", "piss"]
+aka: ["childhood trauma"]
 origin: sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
 ---
 
-# G_ig_dankhanlegacy_DKPR03uMzsF — story
+# G_ig_dankhanlegacy_DKPR03uMzsF — childhood trauma
 
 ## Term
 
-story is the most prominent repeated term in this source (157-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: piss, deep, least. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'childhood trauma' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'piling', 'clients', and 'help' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: People are scrolling with problems, rents due, bills… Without 'childhood trauma', the reel is just a clip about timeline; with it, the clip is a claim.
 
 ## Synonyms
 
-- story
-- piss
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "gives a shit about your life story until you give them a reason to care. Look, I'm gonna say something that's gonna piss off a lot of people. Your story isn't that deep, at least not yet. I see people start every piece of content with, so in 2016 I went through a breakup." — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
-> "bills piling up, no clients, and you wanna tell them about your childhood trauma before you tell them how you can help? Wrong order. Your story matters, but only after you've earned attention. Only after you've shown that you can solve a real fucking problem. Lead with the value, lead with the solution, then when they're hooked, you bring in the story to make it stick." — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
+> "scrolling with problems, rents due, bills piling up, no clients, and you wanna tell them about your childhood trauma before you tell them how you can help? Wrong order. Your story matters, but only after you've earned attention. Only after you've shown" — sources/S_ig_dankhanlegacy_DKPR03uMzsF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'childhood trauma' is dankhanlegacy's coaching cue for a felt position, not a clinical label.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'childhood trauma' (e.g. the collocation with 'timeline') is the speech of one clip, not a stylistic pattern that can be generalised.

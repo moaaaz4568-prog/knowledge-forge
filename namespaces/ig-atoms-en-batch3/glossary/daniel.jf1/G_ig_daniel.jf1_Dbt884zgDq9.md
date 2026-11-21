@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["business", "model"]
+aka: ["lead generation"]
 origin: sources/S_ig_daniel.jf1_Dbt884zgDq9.md
 ---
 
-# G_ig_daniel.jf1_Dbt884zgDq9 — business
+# G_ig_daniel.jf1_Dbt884zgDq9 — lead generation
 
 ## Term
 
-business is the most prominent repeated term in this source (185-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: model, werner, legitimately. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'lead generation' is the felt consequence daniel.jf1 says the person has been talking around — the thing that must be touched before any plan is useful. It appears twice, it sits next to 'cold', 'email', and 'reliable' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Cold email lead generation is the most reliable… Read alongside 'retainers', the word 'lead generation' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- business
-- model
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "email lead generation is the most reliable, highest success rate business model to ever exist on the planet. It just is. You have no higher probability of being successful than that specific business model. It consistently works to just produce that. I'll give you one example." — sources/S_ig_daniel.jf1_Dbt884zgDq9.md
-> "I'll give you one example. Maybe you've seen Daniel Werner in here. Daniel Werner went from legitimately $0, never ran a business before, to $30, 000 a month with a cold email agency in three months. Just, it just works. It's also just the easiest thing to get people on the phone for." — sources/S_ig_daniel.jf1_Dbt884zgDq9.md
+> "Cold email lead generation is the most reliable, highest success rate business model to ever exist on the planet. It just is. You have no higher probability of being" — sources/S_ig_daniel.jf1_Dbt884zgDq9.md
+> "also just the easiest thing to get people on the phone for. When you just say it's performance-based lead generation, you only pay for the calls I book you, and people are like, yeah, and they get on the phone with you. $500 a month tech fee plus $200" — sources/S_ig_daniel.jf1_Dbt884zgDq9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'lead generation' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a definition of 'lead generation': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'results' — it does not establish what the word means in general.

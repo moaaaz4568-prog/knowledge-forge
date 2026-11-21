@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["stop", "lose"]
+aka: ["explained.marketing"]
 origin: sources/S_ig_explained.marketing_CztfloaN-SZ.md
 ---
 
-# G_ig_explained.marketing_CztfloaN-SZ — stop
+# G_ig_explained.marketing_CztfloaN-SZ — You will fail to maintain a strong business if you don't kno…
 
 ## Term
 
-stop is the most prominent repeated term in this source (79-word transcript from the Instagram account explained.marketing): it occurs 5 times literally in the text, most often collocated with: lose, skill, memory. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This short caption from explained.marketing carries no conceptual term — it is a 79-word string whose job is to land a mood, not to name an idea. Treating any single word as the term would inflate a filler or lyric hook into a concept it is not. The clip's full text reads: "You will fail to maintain a strong business if you don't know this. Your mind discards the things you stop attending to. You will lose a skill you've acquired if you stop using it. You will lose a…".
 
 ## Synonyms
 
-- stop
-- lose
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "will fail to maintain a strong business if you don't know this. Your mind discards the things you stop attending to. You will lose a skill you've acquired if you stop using it. You will lose a memory if you stop clinging to it. You will lose the attention you built for your business if you stop marketing." — sources/S_ig_explained.marketing_CztfloaN-SZ.md
-> "Your brand resides in the minds of your audience until you stop reminding them of its significance. Never forget" — sources/S_ig_explained.marketing_CztfloaN-SZ.md
+> "You will fail to maintain a strong business if you don't know this. Your mind discards the things you stop attending to. You will lose a skill you've acquired if you stop using it. You will lose a memory if you stop clinging to it. You will lose the attention you built for your business if you stop marketing. Your brand resides in the minds of your audience until you stop remin" — sources/S_ig_explained.marketing_CztfloaN-SZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 79-word explained.marketing clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as a tagline to be quoted: extracting any phrase from here as the clip's slogan would be putting words on a string that has no thesis behind it.

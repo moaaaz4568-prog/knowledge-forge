@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["percent", "Ninety"]
+aka: ["ninety percent"]
 origin: sources/S_ig_disisjorj_C94ZAHJNHwC.md
 ---
 
-# G_ig_disisjorj_C94ZAHJNHwC — percent
+# G_ig_disisjorj_C94ZAHJNHwC — ninety percent
 
 ## Term
 
-percent is the most prominent repeated term in this source (41-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: ninety, quit, dealing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ninety percent' names the distinction disisjorj draws in this clip — the line that separates what works from what only feels like it works. It appears twice, it sits next to 'never', 'genuinely', and 'quit' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Ninety percent of people will never do this… This is the word the clip is built to deliver; 'percent' is texture around it, not the point.
 
 ## Synonyms
 
-- percent
-- Ninety
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "percent of people will never do this, and out of the ten people who genuinely want to start doing this, ninety percent of those will quit." — sources/S_ig_disisjorj_C94ZAHJNHwC.md
-> "do this, and out of the ten people who genuinely want to start doing this, ninety percent of those will quit. So you are dealing with one percent of people who actually stick with" — sources/S_ig_disisjorj_C94ZAHJNHwC.md
+> "Ninety percent of people will never do this, and out of the ten people who genuinely want to start doing this, ninety percent of those will quit. So you" — sources/S_ig_disisjorj_C94ZAHJNHwC.md
+> "percent of people will never do this, and out of the ten people who genuinely want to start doing this, ninety percent of those will quit. So you are dealing with one percent of people who actually stick with it" — sources/S_ig_disisjorj_C94ZAHJNHwC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'ninety percent' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as a definition of 'ninety percent': the source documents how disisjorj deploys the word in this clip — collocated with 'never' — it does not establish what the word means in general.

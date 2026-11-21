@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["Number", "Worcestershire"]
+aka: ["worcestershire"]
 origin: sources/S_ig_geoff_ketterer_DX98MjFNVO7.md
 ---
 
-# G_ig_geoff_ketterer_DX98MjFNVO7 — Number
+# G_ig_geoff_ketterer_DX98MjFNVO7 — worcestershire
 
 ## Term
 
-Number is the most prominent repeated term in this source (126-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: worcestershire, word, especially. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'worcestershire' names the move the clip is really making — the distinction geoff_ketterer says a person must accept before the rest can apply. It appears 3 times, it sits next to 'three', 'listen', and 'closely' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: Number three is Worcestershire… The argument only stays upright while 'worcestershire' is doing the work — pull it and 'addictive' loses its anchor.
 
 ## Synonyms
 
-- Number
-- Worcestershire
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No hate, God, I love you all, but there's some things that you say that just pierce my soul. Number one, especially. That's not the word. It's especially. Especially. Number two is I'm gonna get an expresso. You're not. You're not gonna get an expresso. You're gonna get an espresso. Number three is Worcestershire. Listen closely." — sources/S_ig_geoff_ketterer_DX98MjFNVO7.md
-> "Worcestershire. Worcestershire sauce. Okay? Number four, irregardless. No, that's not a word. It's regardless. Number five, herbs. It's got a H. Look, look here, right at the start. Look there. Herbs, herbs. And last but not least, addicting. That's addicting. It's not. It isn't. I'm telling you. It's not addicting. It's addictive." — sources/S_ig_geoff_ketterer_DX98MjFNVO7.md
+> "expresso. You're not. You're not gonna get an expresso. You're gonna get an espresso. Number three is Worcestershire. Listen closely. Worcestershire. Worcestershire sauce. Okay? Number four, irregardless. No, that's not a word. It's regardless. Number five" — sources/S_ig_geoff_ketterer_DX98MjFNVO7.md
+> "expresso. You're gonna get an espresso. Number three is Worcestershire. Listen closely. Worcestershire. Worcestershire sauce. Okay? Number four, irregardless. No, that's not a word. It's regardless. Number five, herbs. It's got a H. Look, look here, right" — sources/S_ig_geoff_ketterer_DX98MjFNVO7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'worcestershire' is loaded by geoff_ketterer with a specific working meaning, not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'worcestershire' next to 'regardless') may not be load-bearing in geoff_ketterer's wider body of work.

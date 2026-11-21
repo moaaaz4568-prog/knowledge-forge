@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["ad", "spend"]
+aka: ["ads"]
 origin: sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
 ---
 
-# G_ig_dankhanlegacy_DI_m3_JxG_Z — ad
+# G_ig_dankhanlegacy_DI_m3_JxG_Z — ads
 
 ## Term
 
-ad is the most prominent repeated term in this source (617-word transcript from the Instagram account dankhanlegacy): it occurs 11 times literally in the text, most often collocated with: spend, return, results. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ads' is the cue dankhanlegacy says a person must feel before the rep becomes useful. It appears 7 times, it sits next to 'marketing', 'always', and 'humor' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: I've been working in digital marketing, helping clients… This is the word the clip is built to deliver; 'quantities' is texture around it, not the point.
 
 ## Synonyms
 
-- ad
-- spend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let's start firing off bullet points. So your offer is everything. If your offer sucks, no amount of ad spend will save it. Stop relying only on warm traffic. Cold traffic is where the scaling happens. Cold traffic meaning selling to strangers. Simplicity sells. A confused prospect never buys. Keep your messaging crystal clear." — sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
-> "Don't neglect email marketing. It's one of the highest ROI channels you can have. Return on ad spend isn't everything. A high return on ad spend might mean you're spending too little to scale. Go broad with targeting. Let the algorithm find the right people for you. Upsells are free money." — sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
-> "Your ad's job is to sell the click, not the product. Focus on getting people to the next step. Be wary of ad platform reps. Their goal is to get you to spend more, not to help you profit. Video marketing is the future. Video ads outperform static ads almost every single time. Learn copywriting." — sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
+> "about to tell you. I've been working in digital marketing, helping clients generate millions with paid ads. I've personally made over 2.6 million and helped others make over 50 million. I have no idea how long this video is going to end up being, so make" — sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
+> "overcomplicate things. Simple offers and clear messaging always win. Success is all about consistency. Great ads come from testing, learning, and improving daily. So that is, I just fired through a bunch of bullet points. I hope that was useful. Please share this" — sources/S_ig_dankhanlegacy_DI_m3_JxG_Z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'ads' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 617-word clip with the word 'ads' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

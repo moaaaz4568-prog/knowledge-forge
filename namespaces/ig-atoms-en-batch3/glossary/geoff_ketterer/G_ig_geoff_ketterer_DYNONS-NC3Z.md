@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["setters", "reducing"]
+aka: ["setters", "setter"]
 origin: sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
 
 ## Term
 
-setters is the most prominent repeated term in this source (167-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: reducing, amount, pay. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's framing, 'setters' is the part of the conversation geoff_ketterer treats as load-bearing — the move the rest of the close is built to set up. It appears 5 times, it sits next to 'because', 'trough', and 'closer' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: We got so much more production because we… Even the move around 'Gordon' only registers as a move because 'setters' is the thing being moved toward.
 
 ## Synonyms
 
-- setters
-- reducing
+- setter
 
 ## Live Example
 
-> "It cost me an extra 25 grand a month. We got so much more production because we essentially were able to hire better setters just by getting into a different trough of like the recruiting talent pool." — sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
-> "And because our setters were like closer level basically setters, they booked so many more appointments that showed and closed at such a higher rate that we were able to reduce our ad spend by 250 grand a month for basically a 25 grand investment." — sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
-> "So if you are thinking that reducing the amount you pay your setters or reducing the amount you pay your closers is going to help you scale, don't take it from me, but you should take it from the guy doing 4 million a month with a sales" — sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
+> "extra 25 grand a month. We got so much more production because we essentially were able to hire better setters just by getting into a different trough of like the recruiting talent pool. And because our setters were like closer level basically setters, they" — sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
+> "in a 10x ROI because of improved output. So if you are thinking that reducing the amount you pay your setters or reducing the amount you pay your closers is going to help you scale, don't take it from me, but you should take it from the guy doing 4 million" — sources/S_ig_geoff_ketterer_DYNONS-NC3Z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'setters' to a specific move geoff_ketterer says is missing here, not a universal recommendation.
+- Read as a rule for using 'setters': the clip shows geoff_ketterer using the word in one specific move (alongside 'closers'), not a recommendation that the reader adopt the word themselves.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["traffic", "cold"]
+aka: ["traffic"]
 origin: sources/S_ig_daniel.jf1_DccTRrQFUCd.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DccTRrQFUCd.md
 
 ## Term
 
-traffic is the most prominent repeated term in this source (274-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: cold, offers, sells. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'traffic' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 5 times, it sits next to 'cold', 'offers', and 'alex' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: All of you may not be aware that… This is the word the clip is built to deliver; 'profusely' is texture around it, not the point.
 
 ## Synonyms
 
-- traffic
-- cold
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All of you may not be aware that Alex Hormozi sells exactly zero cold traffic offers at the time of this filming. What does Alex sell?" — sources/S_ig_daniel.jf1_DccTRrQFUCd.md
-> "Like none of these are cold traffic offers. So what I'm trying to convey by telling you this is that you don't need a cold traffic offer to be able to run a successful business. But what I am saying is that if you're not gonna have a cold traffic offer, like you need to be brand maxing the out of yourself at all times." — sources/S_ig_daniel.jf1_DccTRrQFUCd.md
-> "It means that he's able to brand max so hard and build such a profusely massive warm audience of people to sell warm traffic offers" — sources/S_ig_daniel.jf1_DccTRrQFUCd.md
+> "video right now know Alex Hormozi. All of you may not be aware that Alex Hormozi sells exactly zero cold traffic offers at the time of this filming. What does Alex sell? He sells an in-person workshop in Vegas, and then he has his upsells like L one, L two" — sources/S_ig_daniel.jf1_DccTRrQFUCd.md
+> "s able to brand max so hard and build such a profusely massive warm audience of people to sell warm traffic offers to" — sources/S_ig_daniel.jf1_DccTRrQFUCd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'traffic' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
+- Read as a rule for using 'traffic': the clip shows daniel.jf1 using the word in one specific move (alongside 'because'), not a recommendation that the reader adopt the word themselves.

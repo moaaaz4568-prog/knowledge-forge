@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["specific", "example"]
+aka: ["specific"]
 origin: sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
 
 ## Term
 
-specific is the most prominent repeated term in this source (125-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: example, built, webinar. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'specific' is the move gregoryjhickman says the person must make before the prospect will commit. It appears 5 times, it sits next to 'example', 'niche', and 'equals' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: We've identified a specific problem that we solve… It is the one word in this source that, if removed, would leave 'online' without a frame to hang on.
 
 ## Synonyms
 
-- specific
-- example
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So we're not a yes man or yes woman anymore. We've identified a specific problem that we solve or a type of deliverable that we are gonna deliver. So a key here is we niche down on the who equals specific and the what is specific." — sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
-> "An example for us was we built webinar funnels specific for online course creators, and actually even more specific, the time that we're using Infusionsoft. So that was like a criteria that helped in our qualification process. And we drew a line in the sand as to what we did and what we didn't do." — sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
+> "makes sales easier is to sell one thing. So we're not a yes man or yes woman anymore. We've identified a specific problem that we solve or a type of deliverable that we are gonna deliver. So a key here is we niche down on the who equals specific and the what" — sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
+> "example for us was we built webinar funnels specific for online course creators, and actually even more specific, the time that we're using Infusionsoft. So that was like a criteria that helped in our qualification process. And we drew a line in the sand" — sources/S_ig_gregoryjhickman_CTAKUy_j-Gd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'specific' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as evidence the term is central to the account: one 125-word clip showing 'specific' next to 'creators' is too small a sample to anchor a wider claim about what gregoryjhickman writes about.

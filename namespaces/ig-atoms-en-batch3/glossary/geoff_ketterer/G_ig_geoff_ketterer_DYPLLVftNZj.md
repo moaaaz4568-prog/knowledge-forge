@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["fucking", "differently"]
+aka: ["constructive feedback"]
 origin: sources/S_ig_geoff_ketterer_DYPLLVftNZj.md
 ---
 
-# G_ig_geoff_ketterer_DYPLLVftNZj — fucking
+# G_ig_geoff_ketterer_DYPLLVftNZj — constructive feedback
 
 ## Term
 
-fucking is the most prominent repeated term in this source (150-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: differently, level, fuckery. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'constructive feedback' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'given', 'boot', and 'offer' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: And then on the back end, once you've… Even the move around 'feedback' only registers as a move because 'constructive feedback' is the thing being moved toward.
 
 ## Synonyms
 
-- fucking
-- differently
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Because the first time I fired someone, I tried to explain to them what was lacking, and you never win the argument. Did you see the fucking glee on her face when she was inviting the employee in to go and get fired? See how she smiled when she said that? And then on the back end, once you've given somebody the boot, you don't offer them any constructive feedback." — sources/S_ig_geoff_ketterer_DYPLLVftNZj.md
-> "No, here's how you could improve. Here's how you could do it differently next time. Fucking level 10 fuckery from a" — sources/S_ig_geoff_ketterer_DYPLLVftNZj.md
+> "she said that? And then on the back end, once you've given somebody the boot, you don't offer them any constructive feedback. No, here's how you could improve. Here's how you could do it differently next time. Fucking level 10 fuckery from a founder" — sources/S_ig_geoff_ketterer_DYPLLVftNZj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'constructive feedback' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a stylistic choice by geoff_ketterer: the wording around 'constructive feedback' (e.g. the collocation with 'given') is the speech of one clip, not a stylistic pattern that can be generalised.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["Run", "stop"]
+aka: ["sun goes"]
 origin: sources/S_ig_gregoryjhickman_5bXrG8ydZN.md
 ---
 
-# G_ig_gregoryjhickman_5bXrG8ydZN — Run
+# G_ig_gregoryjhickman_5bXrG8ydZN — sun goes
 
 ## Term
 
-Run is the most prominent repeated term in this source (24-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: stop, aftermath, reads. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'sun goes' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'photograph' and 'stop' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: The sun goes down like a photograph, try… Cut 'sun goes' and the clip's aboutness shifts from a claim to a description of tragedy and photograph.
 
 ## Synonyms
 
-- Run
-- stop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "sun goes down like a photograph, try to stop time in the aftermath of this. Run, run, and yesterday reads like a" — sources/S_ig_gregoryjhickman_5bXrG8ydZN.md
+> "The sun goes down like a photograph, try to stop time in the aftermath of this. Run, run, and yesterday reads like a tragedy" — sources/S_ig_gregoryjhickman_5bXrG8ydZN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'sun goes' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a rule for using 'sun goes': the clip shows gregoryjhickman using the word in one specific move (alongside 'reads'), not a recommendation that the reader adopt the word themselves.

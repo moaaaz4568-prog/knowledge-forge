@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["money", "Bororo"]
+aka: ["hand street"]
 origin: sources/S_ig_disisjorj_C-GUFJvNuJi.md
 ---
 
-# G_ig_disisjorj_C-GUFJvNuJi — money
+# G_ig_disisjorj_C-GUFJvNuJi — hand street
 
 ## Term
 
-money is the most prominent repeated term in this source (31-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: bororo, sun, pick. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'hand street' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'flower', 'chosen', and 'fill' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Fill your left hand street and your right… The clip's claim about 'little' is conditional on 'hand street' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- money
-- Bororo
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm hot like the Bororo sun. Pick up a little mini money, money flower. You're the chosen one. Fill your left hand street and your right" — sources/S_ig_disisjorj_C-GUFJvNuJi.md
+> "like the Bororo sun. Pick up a little mini money, money flower. You're the chosen one. Fill your left hand street and your right hand" — sources/S_ig_disisjorj_C-GUFJvNuJi.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'hand street' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as evidence disisjorj always uses 'hand street' this way: one 31-word clip is too thin a sample to support any claim about how the account uses the word in general.

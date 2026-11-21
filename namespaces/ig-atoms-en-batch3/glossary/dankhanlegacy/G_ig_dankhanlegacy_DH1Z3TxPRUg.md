@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Step", "talking"]
+aka: ["psychology behind"]
 origin: sources/S_ig_dankhanlegacy_DH1Z3TxPRUg.md
 ---
 
-# G_ig_dankhanlegacy_DH1Z3TxPRUg — Step
+# G_ig_dankhanlegacy_DH1Z3TxPRUg — psychology behind
 
 ## Term
 
-Step is the most prominent repeated term in this source (144-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: talking, number, wait. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'psychology behind' is the sales move dankhanlegacy argues is the difference between an objection that sticks and one that dissolves. It appears once in the transcript, and it sits next to 'crush', 'objections', and 'close' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Here's the psychology behind it… The clip is engineered so that 'closing' lands as setup, not payoff; the payoff is the move 'psychology behind' names.
 
 ## Synonyms
 
-- Step
-- talking
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We end up talking ourselves out of an easy sale. Stupid, right? Here's how you can be a smooth operator like Jobs. Step one, shut up. Seriously, just stop talking. Step number two, let your prospect squirm in the silence. Trust me on this. Step number three, wait for it, wait for it, let them break first." — sources/S_ig_dankhanlegacy_DH1Z3TxPRUg.md
-> "Step number four, when they start talking, don't interrupt. Let them keep going. Step number five, now's your time to shine. Crush those objections and close that deal. Here's the psychology behind it. The longer that awkward silence stretches, the more your prospect's brain starts working for you." — sources/S_ig_dankhanlegacy_DH1Z3TxPRUg.md
+> "Step number five, now's your time to shine. Crush those objections and close that deal. Here's the psychology behind it. The longer that awkward silence stretches, the more your prospect's brain starts working for you. They're literally talking themselves" — sources/S_ig_dankhanlegacy_DH1Z3TxPRUg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'psychology behind' to a specific move dankhanlegacy says is missing here, not a universal recommendation.
+- Read as a clean transcript: the wording around 'psychology behind' (including the run-on near 'close') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["yourself", "pay"]
+aka: ["yourself"]
 origin: sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
 
 ## Term
 
-yourself is the most prominent repeated term in this source (287-word transcript from the Instagram account gregoryjhickman): it occurs 7 times literally in the text, most often collocated with: pay, account, salary. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'yourself' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears 7 times, it sits next to 'paying', 'salary', and 'distributions' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Now tip number three is really getting the… The sentence around 'advice' only carries weight because 'yourself' is what the sentence is really about.
 
 ## Synonyms
 
-- yourself
-- pay
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "tip number three is really getting the habit of paying yourself first. And what I really mean by that, coming out of the freelancer mindset into the owner mindset, a lot of people, myself included early on, would treat my business bank account like my regular personal checking account." — sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
-> "make money, they farm out anything that they can, and whatever's left over is the money that they keep. Oftentimes, if you don't pay yourself first, you don't really have enough money to go offload things." — sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
-> "So make sure that you're paying yourself first and have a business bank account and pay yourself a salary as the main employee, the owner of your" — sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
+> "Now tip number three is really getting the habit of paying yourself first. And what I really mean by that, coming out of the freelancer mindset into the owner mindset, a lot of people, myself included early on" — sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
+> "serve clients? So make sure that you're paying yourself first and have a business bank account and pay yourself a salary as the main employee, the owner of your business" — sources/S_ig_gregoryjhickman_CP8XuVDDPCL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'yourself' here is a working concept gregoryjhickman is installing, not a tagline the reader is meant to repeat.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 287-word clip with the word 'yourself' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

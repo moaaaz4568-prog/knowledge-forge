@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "use"]
+aka: ["tech-enabled services"]
 origin: sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
 ---
 
-# G_ig_gregoryjhickman_C89ysX7Phv3 — clients
+# G_ig_gregoryjhickman_C89ysX7Phv3 — tech-enabled services
 
 ## Term
 
-clients is the most prominent repeated term in this source (205-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: use, efficient, results. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'tech-enabled services' is the body cue gregoryjhickman says the person must learn to feel before any external cue can help. It appears twice, it sits next to 'efficient', 'ways', and 'clients' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: Right, the lines between these things have blurred… Take 'tech-enabled services' out and the clip collapses into generalities about capitalizing — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- clients
-- use
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Right, the lines between these things have blurred, and that's actually good for you because now we can use the most efficient ways to get clients results tech-enabled services. Maybe we need to consult them instead of do the work for them." — sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
-> "So this is an opportunity that I see that we've been capitalizing on for a handful of years, and we've seen a lot of our clients winning with as well, which is why I know that you can win this way too." — sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
-> "Those lines come together and we have a really great way to serve clients in a more leveraged smart way for" — sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
+> "and that's actually good for you because now we can use the most efficient ways to get clients results tech-enabled services. Maybe we need to consult them instead of do the work for them. Maybe we need to create some curriculum that they can consume on" — sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
+> "that you can win this way too. If you just understand the fact that you can harness technology, AI, tech-enabled services, but also sometimes best serving your client doesn't require you to be the labor. It might require you to create solutions or training" — sources/S_ig_gregoryjhickman_C89ysX7Phv3.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'tech-enabled services' is the body mechanic gregoryjhickman isolates as the root of the movement problem, not a general training concept.
+- Read as evidence gregoryjhickman always uses 'tech-enabled services' this way: one 205-word clip is too thin a sample to support any claim about how the account uses the word in general.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["performance", "judge"]
+aka: ["attention-based society"]
 origin: sources/S_ig_devinjatho_Cle69jngQhu.md
 ---
 
-# G_ig_devinjatho_Cle69jngQhu — performance
+# G_ig_devinjatho_Cle69jngQhu — attention-based society
 
 ## Term
 
-This source is very short (114 words), so no term repeats enough for a frequency-based entry; performance is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'attention-based society' is the public-facing half of the work — devinjatho uses the word to mark the line between private effort and visible output. It appears once in the transcript, and it sits next to 'gold', 'because', and 'currently' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: And sharing obviously gets you more eyeballs on… Even the move around 'sharing' only registers as a move because 'attention-based society' is the thing being moved toward.
 
 ## Synonyms
 
-- performance
-- judge
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "gets you more eyeballs on your post, which is gold because we're currently in an attention-based society. So don't only judge your video's performance on likes. Focus on the other three and you'll see" — sources/S_ig_devinjatho_Cle69jngQhu.md
+> "And sharing obviously gets you more eyeballs on your post, which is gold because we're currently in an attention-based society. So don't only judge your video's performance on likes. Focus on the other three and you'll see results" — sources/S_ig_devinjatho_Cle69jngQhu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'attention-based society' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'engage' makes that visible.
+- Read as a recommendation to use 'attention-based society' yourself: the clip shows devinjatho using the word in one specific move (visible in the collocation with 'engage'); it does not argue the reader should adopt it.

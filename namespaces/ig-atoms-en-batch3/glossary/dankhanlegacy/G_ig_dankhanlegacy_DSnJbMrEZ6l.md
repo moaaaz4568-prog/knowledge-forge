@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["shit", "try"]
+aka: ["come"]
 origin: sources/S_ig_dankhanlegacy_DSnJbMrEZ6l.md
 ---
 
-# G_ig_dankhanlegacy_DSnJbMrEZ6l — shit
+# G_ig_dankhanlegacy_DSnJbMrEZ6l — come
 
 ## Term
 
-shit is the most prominent repeated term in this source (149-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: try, wait, pack. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'come' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 3 times, it sits next to 'fight', 'outside', and 'well' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Just come outside for the night, yeah… Without 'come', the reel is just a clip about future; with it, the clip is a claim.
 
 ## Synonyms
 
-- shit
-- try
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the night, come alive. Ain't it me? Ain't it, ain't it, ain't it, ain't it. Sure. Fuck. Wait. Wait. Wait. Watch me pack my shit, live for the shit. Shit, try to come up at the shit. They fight me eight times, no shit." — sources/S_ig_dankhanlegacy_DSnJbMrEZ6l.md
+> "Just come outside for the night, yeah. Take your time, get your light, yeah. Dirty dime, yeah, yeah, yeah. The career is more at stake when you wear your prom" — sources/S_ig_dankhanlegacy_DSnJbMrEZ6l.md
+> "t it, ain't it. Sure. Fuck. Wait. Wait. Wait. Watch me pack my shit, live for the shit. Shit, try to come up at the shit. They fight me eight times, no shit. Honeymoon" — sources/S_ig_dankhanlegacy_DSnJbMrEZ6l.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'come' here is pinned to one specific claim in this clip, and the same word in another source from dankhanlegacy may carry a different load.
+- Read as evidence dankhanlegacy always uses 'come' this way: one 149-word clip is too thin a sample to support any claim about how the account uses the word in general.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["clips", "spike"]
+aka: ["clips", "clip"]
 origin: sources/S_ig_disisjorj_CtJGGk8tcyS.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CtJGGk8tcyS.md
 
 ## Term
 
-clips is the most prominent repeated term in this source (45-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: spike, find, sync. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'clips' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 3 times, it sits next to 'spike', 'sync', and 'both' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: When you import your video and audio clips… Without 'clips' as the anchor, 'combine' and 'compound' would float without a stake in the argument.
 
 ## Synonyms
 
-- clips
-- spike
+- clip
 
 ## Live Example
 
-> "how I start editing all of my videos. When you import your video and audio clips, you're gonna find a spike. Sync that spike with both clips and then combine these two clips together to make a new compound clip." — sources/S_ig_disisjorj_CtJGGk8tcyS.md
+> "That's how I start editing all of my videos. When you import your video and audio clips, you're gonna find a spike. Sync that spike with both clips and then combine these two clips together to make a new compound clip. From there, happy" — sources/S_ig_disisjorj_CtJGGk8tcyS.md
+> "and audio clips, you're gonna find a spike. Sync that spike with both clips and then combine these two clips together to make a new compound clip. From there, happy editing" — sources/S_ig_disisjorj_CtJGGk8tcyS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'clips' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'clips' next to 'editing') may not be load-bearing in disisjorj's wider body of work.

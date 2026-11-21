@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["game", "trending"]
+aka: ["successful entrepreneur"]
 origin: sources/S_ig_disisjorj_CuBocFcrSk1.md
 ---
 
-# G_ig_disisjorj_CuBocFcrSk1 — game
+# G_ig_disisjorj_CuBocFcrSk1 — successful entrepreneur
 
 ## Term
 
-game is the most prominent repeated term in this source (62-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: trending, sounds, rule. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'successful entrepreneur' is the mindset disisjorj insists comes before any technique — the thing without which the rest of the advice does not land. It appears once in the transcript, and it sits next to 'three', 'main', and 'characteristics' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Delayed gratification is one of the three main… The clip's claim about 'Delayed' is conditional on 'successful entrepreneur' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- game
-- trending
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "that social media is a game, not an algorithm and trending sounds game, but a people's game. As a rule of thumb, give first in order to receive. Delayed gratification is one of the three main characteristics of any successful entrepreneur." — sources/S_ig_disisjorj_CuBocFcrSk1.md
+> "give first in order to receive. Delayed gratification is one of the three main characteristics of any successful entrepreneur. Develop discipline through consistency, set a goal and stick to it. I hope this finds you well. Follow for more" — sources/S_ig_disisjorj_CuBocFcrSk1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'successful entrepreneur' is loaded by disisjorj with a specific meaning tied to 'order', not the dictionary sense.
+- Read as proof the term is load-bearing for disisjorj in general: a 62-word clip with the word 'successful entrepreneur' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

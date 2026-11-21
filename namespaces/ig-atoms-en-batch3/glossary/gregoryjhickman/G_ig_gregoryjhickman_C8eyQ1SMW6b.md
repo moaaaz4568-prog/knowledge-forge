@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["replicate", "single"]
+aka: ["super appealing"]
 origin: sources/S_ig_gregoryjhickman_C8eyQ1SMW6b.md
 ---
 
-# G_ig_gregoryjhickman_C8eyQ1SMW6b — replicate
+# G_ig_gregoryjhickman_C8eyQ1SMW6b — super appealing
 
 ## Term
 
-replicate is the most prominent repeated term in this source (97-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: single, core, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'super appealing' names the body mechanic gregoryjhickman isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'offer', 'able', and 'replicate' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: And I also just think the idea of… 'super appealing' is what the rest of the clip is trying to justify — even 'single' reads as evidence for it.
 
 ## Synonyms
 
-- replicate
-- single
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I also just think the idea of building one single core offer and being able to replicate that over and over was super appealing to me because I had so many, so many different things." — sources/S_ig_gregoryjhickman_C8eyQ1SMW6b.md
-> "six years before that where I worked somebody else, and then take that and use all that knowledge into something that's simple and easy to replicate" — sources/S_ig_gregoryjhickman_C8eyQ1SMW6b.md
+> "think the idea of building one single core offer and being able to replicate that over and over was super appealing to me because I had so many, so many different things. It was like, how do I take everything that's in my head, you know, and my expertise" — sources/S_ig_gregoryjhickman_C8eyQ1SMW6b.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'super appealing' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a recommendation to use 'super appealing' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'different'); it does not argue the reader should adopt it.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["call", "per"]
+aka: ["call", "calls"]
 origin: sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
 
 ## Term
 
-call is the most prominent repeated term in this source (304-word transcript from the Instagram account dankhanlegacy): it occurs 13 times literally in the text, most often collocated with: per, every, books. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'call' is the move dankhanlegacy says the person must make before the prospect will commit. It appears 13 times, it sits next to 'let's', 'close', and 'books' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: So your application to call percentage… Even the move around 'spending' only registers as a move because 'call' is the thing being moved toward.
 
 ## Synonyms
 
-- call
-- per
+- calls
 
 ## Live Example
 
-> "So let's say it's $100, then it's $100 per application, right? So your application to call percentage. How many people who apply actually end up on a call? So out of 100 applicants, is it 30%? Is it 50%? Is it 10%? Now, the cost per call. So let's say it costs you $100 per applicant, right? And let's say your cost. . ." — sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
-> "So that's $300 per call. Show rate. So every time someone books a call, let's say you have 10 call bookings, how many people show up? If it's below 30%, you are fucked. Close rate. Out of 10 people who attend the call, how many people do you close? Is it 10%? 20%? 30%? You want to shoot for a minimum of 30%." — sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
-> "So that means it's $500 per call. So that means you can afford to spend up to $500 per call booking to be profitable. Hope that" — sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
+> "one application. So let's say it's $100, then it's $100 per application, right? So your application to call percentage. How many people who apply actually end up on a call? So out of 100 applicants, is it 30%? Is it 50%? Is it 10%? Now, the cost per call" — sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
+> "you close one. So that means it's $500 per call. So that means you can afford to spend up to $500 per call booking to be profitable. Hope that helps" — sources/S_ig_dankhanlegacy_DRZxrnVEd8u.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'call' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a rule for using 'call': the clip shows dankhanlegacy using the word in one specific move (alongside 'products'), not a recommendation that the reader adopt the word themselves.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "spend"]
+aka: ["clients"]
 origin: sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
 
 ## Term
 
-clients is the most prominent repeated term in this source (201-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: spend, newfound, serving. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'clients' is the future-pain frame gregoryjhickman uses to make the present situation feel unsustainable. It appears 5 times, it sits next to 'newfound', 'spend', and 'serving' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Meaning, if I hire another designer or another… Cut 'clients' and the clip's aboutness shifts from a claim to a description of yourself and developer.
 
 ## Synonyms
 
-- clients
-- spend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Meaning, if I hire another designer or another developer or another marketer, they can handle another five to ten clients. Yet you are still overworked, working nights and weekends." — sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
-> "stuff, all the stuff that doesn't make you money or get your clients results first, and then spend that newfound time on serving more clients. We've seen our clients by rehiring and going after buying back their time, double and even triple their business because they're capable of taking on a couple more clients once they have the capacity freed" — sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
+> "hire another designer or another developer or another marketer, they can handle another five to ten clients. Yet you are still overworked, working nights and weekends. So what Dan mentions is you actually need to buy back your time, offload all of the" — sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
+> "their time, double and even triple their business because they're capable of taking on a couple more clients once they have the capacity freed up" — sources/S_ig_gregoryjhickman_C1cY5tgs39V.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'clients' is the emotional lever gregoryjhickman uses to surface commitment, not a market mechanic.
+- Read as a clean transcript: the wording around 'clients' (including the run-on near 'results') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

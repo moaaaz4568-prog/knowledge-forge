@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["already", "money"]
+aka: ["already"]
 origin: sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
 
 ## Term
 
-already is the most prominent repeated term in this source (384-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: money, ads, opportunity. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this clip, 'already' is what daniel.jf1 says a person must already have working for them before tactics can compound. It appears 5 times, it sits next to 'opportunity', 'traffic', and 'scalping' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: It's scalping money off of something they already… Pull 'already' and the clip's spine comes loose — 'selling' would still be there but would not point at anything.
 
 ## Synonyms
 
-- already
-- money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Why? It's scalping money off of something they already have. And this was interesting. I was on, we do some live challenges sometimes, and I had like 500 people in this live challenge." — sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
-> "It doesn't matter. They already have it. It needs to be new money. It's a new opportunity something they're not already doing. So then it's another mistake of, you ever see an ad agency and they're like, how do I scrape people who already run ads? It's like that's not what you want. You don't want to do that." — sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
-> "You want to get people who don't run ads because now it's a new opportunity. Why would you go to someone who already runs ads? It doesn't make any sense because you just lost all the new money. It's not new anymore. Now it's a scalped offer and it's just going to convert way less. It's very counterintuitive to think of." — sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
+> "probability anyone's ever going to sell this to cold traffic. Why? It's scalping money off of something they already have. And this was interesting. I was on, we do some live challenges sometimes, and I had like 500 people in this live challenge. I was trying" — sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
+> "to get people who don't run ads because now it's a new opportunity. Why would you go to someone who already runs ads? It doesn't make any sense because you just lost all the new money. It's not new anymore. Now it's a scalped offer and it's just going" — sources/S_ig_daniel.jf1_Dd2bHmOgt8F.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'already' here is the multiplier on effort, not the effort itself.
+- Read as a stylistic choice by daniel.jf1: the wording around 'already' (e.g. the collocation with 'reactivation') is the speech of one clip, not a stylistic pattern that can be generalised.

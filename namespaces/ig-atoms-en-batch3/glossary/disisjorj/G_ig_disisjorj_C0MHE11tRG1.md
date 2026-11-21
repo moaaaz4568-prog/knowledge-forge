@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["problem", "steps"]
+aka: ["else's problem"]
 origin: sources/S_ig_disisjorj_C0MHE11tRG1.md
 ---
 
-# G_ig_disisjorj_C0MHE11tRG1 — problem
+# G_ig_disisjorj_C0MHE11tRG1 — else's problem
 
 ## Term
 
-problem is the most prominent repeated term in this source (71-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: steps, overcome, faced. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'else's problem' in this clip is the lever that converts effort into reach — disisjorj insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'problems', 'faced', and 'three' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Any and all roadblocks or problems that you… Even the move around 'consider' only registers as a move because 'else's problem' is the thing being moved toward.
 
 ## Synonyms
 
-- problem
-- steps
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Any and all roadblocks or problems that you faced three months ago is someone else's problem today. What were the steps needed to overcome that problem? Share the story, share the steps, and help someone else along the way." — sources/S_ig_disisjorj_C0MHE11tRG1.md
+> "go-to thinking process. Any and all roadblocks or problems that you faced three months ago is someone else's problem today. What were the steps needed to overcome that problem? Share the story, share the steps, and help someone else along the way. I got" — sources/S_ig_disisjorj_C0MHE11tRG1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'else's problem' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as polished prose: this is a verbatim transcript of a 71-word Instagram clip, and the wording around 'else's problem' (including the collocation with 'go-to') is spoken speech, not edited writing.

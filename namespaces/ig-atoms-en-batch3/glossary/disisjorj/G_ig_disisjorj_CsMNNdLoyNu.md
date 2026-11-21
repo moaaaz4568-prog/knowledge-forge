@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["actions", "leads"]
+aka: ["shouting affirmations"]
 origin: sources/S_ig_disisjorj_CsMNNdLoyNu.md
 ---
 
-# G_ig_disisjorj_CsMNNdLoyNu — actions
+# G_ig_disisjorj_CsMNNdLoyNu — shouting affirmations
 
 ## Term
 
-actions is the most prominent repeated term in this source (113-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: leads, success, set. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'shouting affirmations' is the disposition disisjorj says a person cannot skip past and still expect results. It appears once in the transcript, and it sits next to 'alex', 'hormozi', and 'become' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Alex Hormozi said, "You don't become confident by… The clip's claim about 'worthy' is conditional on 'shouting affirmations' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- actions
-- leads
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a lot of small actions is what leads to great success, then why don't we start focusing on them rather than the end goal? See, we get fixated on how things will be without taking the necessary actions to even be worthy of that." — sources/S_ig_disisjorj_CsMNNdLoyNu.md
-> "Set daily actions that a year or two from now it will be unreasonable for you not to reach the end goal. If you don't know where to start, start here." — sources/S_ig_disisjorj_CsMNNdLoyNu.md
+> "You don't become confident by shouting affirmations in the mirror, but by having a stack of undeniable proof that you are who you say you are" — sources/S_ig_disisjorj_CsMNNdLoyNu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'shouting affirmations' is a stance disisjorj says a person must adopt before action, not a feeling they happen to have.
+- Read as a clean transcript: the wording around 'shouting affirmations' (including the run-on near 'without') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

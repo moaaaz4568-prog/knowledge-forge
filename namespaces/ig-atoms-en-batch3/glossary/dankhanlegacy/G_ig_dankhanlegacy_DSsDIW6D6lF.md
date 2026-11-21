@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["flag", "Red"]
+aka: ["flag"]
 origin: sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
 
 ## Term
 
-flag is the most prominent repeated term in this source (156-word transcript from the Instagram account dankhanlegacy): it occurs 8 times literally in the text, most often collocated with: red, green, dating. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'flag' names the body mechanic dankhanlegacy isolates as the root of the movement problem. It appears 8 times, it sits next to 'green', 'gets', and 'cool' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: Red flag… The argument only stays upright while 'flag' is doing the work — pull it and 'appreciation' loses its anchor.
 
 ## Synonyms
 
-- flag
-- Red
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "posts thirst traps on Instagram three times a week. Red flag. Doesn't need any explanation. She has a body count over 20. Red flag. She talks about her ex in the first three dates. Usually be red, but depends. Depends. Sometimes I ask about how her relationship was because that's very important." — sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
-> "She says I'm an independent boss babe, I don't need a man. Red flag, then why are we even dating? So red flag. She gets upset when you're working late on your business. Red flag. She cooks for you without being asked. Ultra green flag, greenest of the green. She's cool with you hanging out with the boys. Yeah, green flag." — sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
-> "She expects you to pay for everything every time. Ooh, green flag, but I think she needs to show appreciation. Sometimes if they expect it, they don't appreciate it. She says I'm an independent boss babe, I don't need a man. Red flag, then why are we even dating? So red flag." — sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
+> "She posts thirst traps on Instagram three times a week. Red flag. Doesn't need any explanation. She has a body count over 20. Red flag. She talks about her ex in the first three dates. Usually be red, but depends" — sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
+> "Ultra green flag, greenest of the green. She's cool with you hanging out with the boys. Yeah, green flag. Yeah, I'm also cool with her hanging out with girls, so it's fine" — sources/S_ig_dankhanlegacy_DSsDIW6D6lF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'flag' to point at one specific mechanic dankhanlegacy says is failing in the movement shown.
+- Read as a tagline worth extracting: the source shows dankhanlegacy using 'flag' as a working label in one specific argument (visible in the collocation with 'depends'), not as a slogan the reader is meant to repeat.

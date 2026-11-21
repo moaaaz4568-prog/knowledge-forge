@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["concerned", "deeply"]
+aka: ["deeply concerned"]
 origin: sources/S_ig_dibratto_DdmCoAFR8vn.md
 ---
 
-# G_ig_dibratto_DdmCoAFR8vn — concerned
+# G_ig_dibratto_DdmCoAFR8vn — deeply concerned
 
 ## Term
 
-concerned is the most prominent repeated term in this source (250-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: deeply, agi, listen. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dibratto's framing, 'deeply concerned' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears twice, it sits next to 'chains', 'longer', and 'listen' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: You're deeply concerned about AGI… Anything else in the clip orbits this word — strip out 'deeply concerned' and the rest reads as filler around 'semiconductor'.
 
 ## Synonyms
 
-- concerned
-- deeply
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You listen to a three-hour podcast about semiconductor supply chains and you thought it should have been longer. You're deeply concerned about AGI. You are even more concerned that other people are not more deeply concerned about AGI." — sources/S_ig_dibratto_DdmCoAFR8vn.md
+> "three-hour podcast about semiconductor supply chains and you thought it should have been longer. You're deeply concerned about AGI. You are even more concerned that other people are not more deeply concerned about AGI. If you listen to Founders, you listened" — sources/S_ig_dibratto_DdmCoAFR8vn.md
+> "longer. You're deeply concerned about AGI. You are even more concerned that other people are not more deeply concerned about AGI. If you listen to Founders, you listened to one episode about Rockefeller and have been treating your company like Standard" — sources/S_ig_dibratto_DdmCoAFR8vn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business word: in dibratto's reel, 'deeply concerned' is the specific resource or move dibratto says compounds effort, not the vague sense of business leverage.
+- Read as evidence dibratto always uses 'deeply concerned' this way: one 250-word clip is too thin a sample to support any claim about how the account uses the word in general.

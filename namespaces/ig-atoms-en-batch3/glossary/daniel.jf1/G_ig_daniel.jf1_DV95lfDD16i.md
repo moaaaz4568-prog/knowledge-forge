@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["sales floor", "depiction"]
+aka: ["sales floor"]
 origin: sources/S_ig_daniel.jf1_DV95lfDD16i.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DV95lfDD16i.md
 
 ## Term
 
-sales floor is the most prominent repeated term in this source (110-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: depiction, typical, hollywood. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'sales floor' is the moment in the sale daniel.jf1 says a person cannot skip and still expect the deal to close. It appears twice, it sits next to 'hollywood', 'depiction', and 'everyone's' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is why you see things like, where… Even the move around 'selling' only registers as a move because 'sales floor' is the thing being moved toward.
 
 ## Synonyms
 
-- sales floor
-- depiction
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is why you see things like, where it's like you have a typical Hollywood depiction of the sales floor, and like the sales floor, everyone's like going crazy and they're all getting paid tons of money. Why is that? Why are all the salespeople making all the money? Because it's the hardest thing to do, to actually make the sale." — sources/S_ig_daniel.jf1_DV95lfDD16i.md
+> "thing. This is why you see things like, where it's like you have a typical Hollywood depiction of the sales floor, and like the sales floor, everyone's like going crazy and they're all getting paid tons of money. Why is that? Why are all the salespeople" — sources/S_ig_daniel.jf1_DV95lfDD16i.md
+> "things like, where it's like you have a typical Hollywood depiction of the sales floor, and like the sales floor, everyone's like going crazy and they're all getting paid tons of money. Why is that? Why are all the salespeople making all the money? Because" — sources/S_ig_daniel.jf1_DV95lfDD16i.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'sales floor' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as evidence the term is central to the account: one 110-word clip showing 'sales floor' next to 'planet' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.

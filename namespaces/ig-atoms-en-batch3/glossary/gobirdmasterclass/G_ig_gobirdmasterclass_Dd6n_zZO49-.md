@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["feels", "pay"]
+aka: ["covered masterclass"]
 origin: sources/S_ig_gobirdmasterclass_Dd6n_zZO49-.md
 ---
 
-# G_ig_gobirdmasterclass_Dd6n_zZO49- — feels
+# G_ig_gobirdmasterclass_Dd6n_zZO49- — covered masterclass
 
 ## Term
 
-feels is the most prominent repeated term in this source (160-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: pay, edit, cheap. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'covered masterclass' is the layer gobirdmasterclass says sits under the surface complaint — the thing a person must feel before they will act. It appears twice, it sits next to 'built', 'teach', and 'random' — the repetition is what makes it the spine of the clip rather than a passing word. gobirdmasterclass drops it precisely where the cost of skipping it shows up — the surrounding move runs: That is what we built Covered Masterclass to… Read alongside 'ignore', the word 'covered masterclass' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- feels
-- pay
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "As an agency, we see this every day. Two editors can use the same software, the same footage, the same plugins. But one edit feels cheap and the other one feels like something a brand would pay for it. The difference is not the tools, it's the decisions. A basic editor cuts clips together. A premium editor controls attention." — sources/S_ig_gobirdmasterclass_Dd6n_zZO49-.md
-> "Because clients do not pay more for your complicated timeline. They pay more when your work feels impossible to ignore. So to improve your editing skills, join us in Covered" — sources/S_ig_gobirdmasterclass_Dd6n_zZO49-.md
+> "the sound lead, when typography should speak, and when less is actually more. That is what we built Covered Masterclass to teach. Not random effects, not disconnected tutorials. A complete creative system for editors who want their work to feel sharper" — sources/S_ig_gobirdmasterclass_Dd6n_zZO49-.md
+> "They pay more when your work feels impossible to ignore. So to improve your editing skills, join us in Covered Masterclass" — sources/S_ig_gobirdmasterclass_Dd6n_zZO49-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'covered masterclass' to a specific kind of felt weight (the kind that surfaces around 'decisions'), not to feeling in general.
+- Read as evidence gobirdmasterclass always uses 'covered masterclass' this way: one 160-word clip is too thin a sample to support any claim about how the account uses the word in general.

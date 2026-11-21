@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["customer", "B2B"]
+aka: ["fundamentally transformed"]
 origin: sources/S_ig_dibratto_DcRc0muvitY.md
 ---
 
-# G_ig_dibratto_DcRc0muvitY — customer
+# G_ig_dibratto_DcRc0muvitY — fundamentally transformed
 
 ## Term
 
-customer is the most prominent repeated term in this source (95-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: b2b, testimonial, ask. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dibratto, 'fundamentally transformed' is the emotional stake the clip is built to surface — the felt cost of not changing that dibratto says must land first. It appears once in the transcript, and it sits next to 'workshopping', 'says', and 'name' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Marketing sends it back to you after workshopping… This is the word the clip is built to deliver; 'unlocked' is texture around it, not the point.
 
 ## Synonyms
 
-- customer
-- B2B
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "art of the B2B customer testimonial. Ask your happiest customer for a quote about your product. They say" — sources/S_ig_dibratto_DcRc0muvitY.md
-> "You send it back to the customer. They say" — sources/S_ig_dibratto_DcRc0muvitY.md
+> "Product name has fundamentally transformed the way our business operates and unlocked tremendous efficiency gains across our workflows" — sources/S_ig_dibratto_DcRc0muvitY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'fundamentally transformed' is the emotional lever dibratto uses to surface commitment, not a market mechanic.
+- Read as evidence the term is central to the account: one 95-word clip showing 'fundamentally transformed' next to 'proof' is too small a sample to anchor a wider claim about what dibratto writes about.

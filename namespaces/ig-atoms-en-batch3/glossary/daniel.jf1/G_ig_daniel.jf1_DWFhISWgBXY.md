@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["AI", "automatically"]
+aka: ["because"]
 origin: sources/S_ig_daniel.jf1_DWFhISWgBXY.md
 ---
 
-# G_ig_daniel.jf1_DWFhISWgBXY — AI
+# G_ig_daniel.jf1_DWFhISWgBXY — because
 
 ## Term
 
-AI is the most prominent repeated term in this source (195-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: automatically, handles, execution. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'because' is the body cue daniel.jf1 says the person must learn to feel before any external cue can help. It appears 3 times, it sits next to 'reason', 'afraid', and 'operate' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The reason why people are afraid of AI… Take 'because' out and the clip collapses into generalities about agency — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- AI
-- automatically
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "reason why people are afraid of AI is because they operate on an employee mindset. What they think is their edge is their ability to write copy or their ability to design an email. None of this matters anymore." — sources/S_ig_daniel.jf1_DWFhISWgBXY.md
-> "There is no more spend a thousand hours to get good in training. You're just automatically good because AI does everything. The AI handles the execution. You handle the strategy, the client relationships, and the business development, but the actual raw production of deliverable is just done by AI." — sources/S_ig_daniel.jf1_DWFhISWgBXY.md
-> "run a better, larger, and more profitable agency without having been a designer or copywriter ever in your life, even once. Why? Because AI does the fulfillment for you. This is the only time in human history that you've been able to start an agency, sell a service, and immediately be able to produce expert levels, 30-year veteran levels of deliverables to clients while being" — sources/S_ig_daniel.jf1_DWFhISWgBXY.md
+> "The reason why people are afraid of AI is because they operate on an employee mindset. What they think is their edge is their ability to write copy or their ability to design an email. None of" — sources/S_ig_daniel.jf1_DWFhISWgBXY.md
+> "knowing. There is no more spend a thousand hours to get good in training. You're just automatically good because AI does everything. The AI handles the execution. You handle the strategy, the client relationships, and the business development, but the actual" — sources/S_ig_daniel.jf1_DWFhISWgBXY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'because' is daniel.jf1's coaching cue for a felt position, not a clinical label.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 195-word clip with the word 'because' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["optimization", "phase"]
+aka: ["optimization"]
 origin: sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
 
 ## Term
 
-optimization is the most prominent repeated term in this source (205-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: phase, into, short. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'optimization' names the conversational lever gregoryjhickman treats as the thing that turns a maybe into a yes. It appears 5 times, it sits next to 'phase', 'maybe', and 'sure' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: And sometimes you will have to, as a… It is the one word in this source that, if removed, would leave 'support' without a frame to hang on.
 
 ## Synonyms
 
-- optimization
-- phase
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And sometimes you will have to, as a leader, slow the plane down and go into a little bit of an optimization phase. Meaning maybe the people that got you to where you're at aren't going to be the people that are going to get you to where you're going." — sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
-> "of move through this cycle of growth to then, all right, things are breaking, we need to clean this up in order to grow. We go into an optimization phase, and we want to make sure that that optimization phase is as short as possible." — sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
-> "you realize that there's a lot of improvements that need to be made to how you deliver your service, and you need to go into kind of optimization of your actual products and services. Maybe killing certain offers, introducing new ways to support your clients hit their goals." — sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
+> "break. And sometimes you will have to, as a leader, slow the plane down and go into a little bit of an optimization phase. Meaning maybe the people that got you to where you're at aren't going to be the people that are going to get you to where you're going" — sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
+> "phase, and we want to make sure that that optimization phase is as short as possible. And inside of the optimization phase, you have to really quickly recalibrate your vision for what the next level is so that you can then go back into growth mode" — sources/S_ig_gregoryjhickman_C79T-yytQ-Z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'optimization' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'optimization' next to 'improvements') may not be load-bearing in gregoryjhickman's wider body of work.

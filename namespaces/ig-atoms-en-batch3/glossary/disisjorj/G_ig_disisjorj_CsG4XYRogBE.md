@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["start", "Drop"]
+aka: ["eighty-eight percent"]
 origin: sources/S_ig_disisjorj_CsG4XYRogBE.md
 ---
 
-# G_ig_disisjorj_CsG4XYRogBE — start
+# G_ig_disisjorj_CsG4XYRogBE — eighty-eight percent
 
 ## Term
 
-start is the most prominent repeated term in this source (88-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: drop, earning, love. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'eighty-eight percent' is the distinction disisjorj is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'studying', 'language', and 'millionaires' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: I bet you didn't know that eighty-eight percent… Without 'eighty-eight percent' as the anchor, 'percent' and 'earning' would float without a stake in the argument.
 
 ## Synonyms
 
-- start
-- Drop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The question becomes, what do they know that I don't? If you want to start earning more doing what you love, acquire the knowledge to do it. If you don't know where to start, start here." — sources/S_ig_disisjorj_CsG4XYRogBE.md
+> "the language of music, yet we spend no time studying the language of money. I bet you didn't know that eighty-eight percent of millionaires are self-made. The question becomes, what do they know that I don't? If you want to start earning more doing what" — sources/S_ig_disisjorj_CsG4XYRogBE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'eighty-eight percent' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a claim about how disisjorj uses 'eighty-eight percent' across their work: this single 88-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

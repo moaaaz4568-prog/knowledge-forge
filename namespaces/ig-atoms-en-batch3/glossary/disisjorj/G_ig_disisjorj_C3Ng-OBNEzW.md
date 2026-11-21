@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["unavoidable", "Embrace"]
+aka: ["discomfort because"]
 origin: sources/S_ig_disisjorj_C3Ng-OBNEzW.md
 ---
 
-# G_ig_disisjorj_C3Ng-OBNEzW — unavoidable
+# G_ig_disisjorj_C3Ng-OBNEzW — discomfort because
 
 ## Term
 
-This source is very short (91 words), so no term repeats enough for a frequency-based entry; unavoidable is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'discomfort because' in this clip is the lever that converts effort into reach — disisjorj insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'steps', 'sacrifices', and 'takes' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Embrace the discomfort because it's unavoidable… Cut 'discomfort because' and the clip's aboutness shifts from a claim to a description of Embrace and winners.
 
 ## Synonyms
 
-- unavoidable
-- Embrace
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You're unaware of the steps and sacrifices it takes to get there. Embrace the discomfort because it's unavoidable. It's not what you get at the end of it, rather the person you have to become to get there." — sources/S_ig_disisjorj_C3Ng-OBNEzW.md
+> "lottery winners go broke. You're unaware of the steps and sacrifices it takes to get there. Embrace the discomfort because it's unavoidable. It's not what you get at the end of it, rather the person you have to become to get there. Remember that" — sources/S_ig_disisjorj_C3Ng-OBNEzW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'discomfort because' here is the public-facing act, distinct from the private work of creating.
+- Read as a stylistic choice by disisjorj: the wording around 'discomfort because' (e.g. the collocation with 'unaware') is the speech of one clip, not a stylistic pattern that can be generalised.

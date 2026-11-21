@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["draw", "cool"]
+aka: ["click setup"]
 origin: sources/S_ig_disisjorj_DRg8QGzCEI5.md
 ---
 
-# G_ig_disisjorj_DRg8QGzCEI5 — draw
+# G_ig_disisjorj_DRg8QGzCEI5 — click setup
 
 ## Term
 
-draw is the most prominent repeated term in this source (46-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: cool, lie, use. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'click setup' names the distinction disisjorj draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'message', 'ipad', and 'draw' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Today I got a message on how you… Without 'click setup' as the anchor, 'inside' and 'message' would float without a stake in the argument.
 
 ## Synonyms
 
-- draw
-- cool
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I got a message on how you can use your iPad to draw inside the One Click Setup. And basically I think I figured it out. It's pretty cool, not gonna lie." — sources/S_ig_disisjorj_DRg8QGzCEI5.md
+> "Today I got a message on how you can use your iPad to draw inside the One Click Setup. And basically I think I figured it out. It's pretty cool, not gonna lie. And you can draw, you can say you, and you can say hey" — sources/S_ig_disisjorj_DRg8QGzCEI5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'click setup' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as proof the term is load-bearing for disisjorj in general: a 46-word clip with the word 'click setup' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

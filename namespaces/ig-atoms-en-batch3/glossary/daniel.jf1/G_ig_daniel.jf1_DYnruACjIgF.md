@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["meaningful", "hesitance"]
+aka: ["abnormally difficult"]
 origin: sources/S_ig_daniel.jf1_DYnruACjIgF.md
 ---
 
-# G_ig_daniel.jf1_DYnruACjIgF — meaningful
+# G_ig_daniel.jf1_DYnruACjIgF — abnormally difficult
 
 ## Term
 
-This source is very short (75 words), so no term repeats enough for a frequency-based entry; meaningful is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'abnormally difficult' names the resource or move daniel.jf1 argues a person must use to compound effort into outcome. It appears once in the transcript, and it sits next to 'years', 'efficient', and 'comparison' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It would just be abnormally difficult for you… Pull 'abnormally difficult' and the clip's spine comes loose — 'Microsoft' would still be there but would not point at anything.
 
 ## Synonyms
 
-- meaningful
-- hesitance
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "hesitance to introduce AI as a meaningful part of their business, are they gonna die in two years? It would just be abnormally difficult for you to be efficient in comparison to other people." — sources/S_ig_daniel.jf1_DYnruACjIgF.md
+> "introduce AI as a meaningful part of their business, are they gonna die in two years? It would just be abnormally difficult for you to be efficient in comparison to other people. It will be like you trying to send a horse to update the ledger of another" — sources/S_ig_daniel.jf1_DYnruACjIgF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'abnormally difficult' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
+- Read as a claim about how daniel.jf1 uses 'abnormally difficult' across their work: this single 75-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["stop", "wealth"]
+aka: ["stop"]
 origin: sources/S_ig_dankhanlegacy_DMK1dJcMz4K.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DMK1dJcMz4K.md
 
 ## Term
 
-stop is the most prominent repeated term in this source (145-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: wealth, overthinking, wasting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'stop' is the part of the conversation dankhanlegacy treats as load-bearing — the move the rest of the close is built to set up. It appears 3 times, it sits next to 'compress', 'path', and 'wealth' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: So stop overthinking, stop wasting time… The sentence around 'enjoyed' only carries weight because 'stop' is what the sentence is really about.
 
 ## Synonyms
 
-- stop
-- wealth
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When you learn to compress time, you compress your path to wealth. So stop overthinking, stop wasting time. Stop moving at the pace where other people think it's reasonable. Speed the fuck up." — sources/S_ig_dankhanlegacy_DMK1dJcMz4K.md
+> "delivery, not 30, not 60, and not 90. When you learn to compress time, you compress your path to wealth. So stop overthinking, stop wasting time. Stop moving at the pace where other people think it's reasonable. Speed the fuck up. If you enjoyed that video, follow" — sources/S_ig_dankhanlegacy_DMK1dJcMz4K.md
+> "you learn to compress time, you compress your path to wealth. So stop overthinking, stop wasting time. Stop moving at the pace where other people think it's reasonable. Speed the fuck up. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DMK1dJcMz4K.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'stop' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as polished prose: this is a verbatim transcript of a 145-word Instagram clip, and the wording around 'stop' (including the collocation with 'follow') is spoken speech, not edited writing.

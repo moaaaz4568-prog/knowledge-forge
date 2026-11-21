@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["account", "insights"]
+aka: ["create opportunities"]
 origin: sources/S_ig_disisjorj_Cy839qztf6R.md
 ---
 
-# G_ig_disisjorj_Cy839qztf6R — account
+# G_ig_disisjorj_Cy839qztf6R — create opportunities
 
 ## Term
 
-account is the most prominent repeated term in this source (107-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: insights, check, million. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'create opportunities' is the public-facing half of the work — disisjorj uses the word to mark the line between private effort and visible output. It appears once in the transcript, and it sits next to 'amount', 'called', and 'compounding' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Understand that you create opportunities to get seen… The sentence around 'followers' only carries weight because 'create opportunities' is what the sentence is really about.
 
 ## Synonyms
 
-- account
-- insights
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "now reach one million accounts every single month with this account. If I were to pay for that in ads, it would cost me around five thousand dollars a month. The ability of an asset, this account, to multiply in terms of earnings and followers in a relatively short amount of time is called compounding." — sources/S_ig_disisjorj_Cy839qztf6R.md
-> "Aim to make it unreasonable for you not to succeed and stack the odds to your favor. I got more insights like this on my account, so be sure to check them" — sources/S_ig_disisjorj_Cy839qztf6R.md
+> "earnings and followers in a relatively short amount of time is called compounding. Understand that you create opportunities to get seen and noticed by new people every single time you post. Aim to make it unreasonable for you not to succeed and stack the" — sources/S_ig_disisjorj_Cy839qztf6R.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'create opportunities' here is the public-facing act, distinct from the private work of creating.
+- Read as evidence disisjorj always uses 'create opportunities' this way: one 107-word clip is too thin a sample to support any claim about how the account uses the word in general.

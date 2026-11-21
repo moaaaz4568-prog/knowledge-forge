@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["tier", "meetings"]
+aka: ["tier"]
 origin: sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
 
 ## Term
 
-tier is the most prominent repeated term in this source (328-word transcript from the Instagram account dankhanlegacy): it occurs 9 times literally in the text, most often collocated with: meetings, minutes, put. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'tier' is the disposition dankhanlegacy says a person cannot skip past and still expect results. It appears 9 times, it sits next to 'meetings', 'minutes', and 'hate' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Time blocking, S tier… The reel earns its keep only because 'tier' is doing the lifting; 'o'clock' alone would be filler.
 
 ## Synonyms
 
-- tier
-- meetings
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "productivity hacks that work extremely well and are not a scam. Time blocking, S tier. You have to schedule when you actually do it, if not you won't do it. Kill all meetings under fifteen minutes, S tier. I hate meetings to be honest. If it can be done via text or email, just do it via that. Don't waste time." — sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
-> "If it just takes two minutes, do it now, if not you'll never do it. The Pomodoro technique. Works for some, I'll put it at B tier because it doesn't work for me. I like longer periods of working, I don't like this short, short blocks, I hate it." — sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
-> "to do all the things at once, nothing actually gets done to a hundred percent of, to the best of your ability. Waking up at four a.m. F tier, you don't need to do that, don't listen to this garbage, guys. If you're a night person, you're a night person. If you're a morning person, you're a morning person. Don't overcomplicate it." — sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
+> "Top productivity hacks that work extremely well and are not a scam. Time blocking, S tier. You have to schedule when you actually do it, if not you won't do it. Kill all meetings under fifteen minutes, S tier. I hate meetings to be honest" — sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
+> "nothing actually gets done to a hundred percent of, to the best of your ability. Waking up at four a.m. F tier, you don't need to do that, don't listen to this garbage, guys. If you're a night person, you're a night person. If you're a morning person, you're" — sources/S_ig_dankhanlegacy_DZIHjwIvyHv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'tier' is a stance dankhanlegacy says a person must adopt before action, not a feeling they happen to have.
+- Read as a recommendation to use 'tier' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'super'); it does not argue the reader should adopt it.

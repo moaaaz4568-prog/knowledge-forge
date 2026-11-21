@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["C", "context of account dankhanlegacy"]
+aka: ["dankhanlegacy"]
 origin: sources/S_ig_dankhanlegacy_DZAKhj9RUNz.md
 ---
 
-# G_ig_dankhanlegacy_DZAKhj9RUNz — C
+# G_ig_dankhanlegacy_DZAKhj9RUNz — C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G …
 
 ## Term
 
-C is the most prominent repeated term in this source (41-word transcript from the Instagram account dankhanlegacy): it occurs 21 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The dankhanlegacy clip is a short caption of 41 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C".
 
 ## Synonyms
 
-- C
-- context of account dankhanlegacy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G" — sources/S_ig_dankhanlegacy_DZAKhj9RUNz.md
+> "C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G C" — sources/S_ig_dankhanlegacy_DZAKhj9RUNz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a concept album: a 41-word clip cannot anchor a term, and any word lifted from it would be a lyric fragment rather than an idea.
+- Read as proof dankhanlegacy returns to a theme: a single short clip is too thin to anchor any wider claim about the account's body of work.

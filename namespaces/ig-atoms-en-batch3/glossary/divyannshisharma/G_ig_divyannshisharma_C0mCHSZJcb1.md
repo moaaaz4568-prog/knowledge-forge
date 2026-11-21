@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["heartbreak", "darkest"]
+aka: ["never let"]
 origin: sources/S_ig_divyannshisharma_C0mCHSZJcb1.md
 ---
 
-# G_ig_divyannshisharma_C0mCHSZJcb1 — heartbreak
+# G_ig_divyannshisharma_C0mCHSZJcb1 — never let
 
 ## Term
 
-This source is very short (21 words), so no term repeats enough for a frequency-based entry; heartbreak is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'never let' names the distinction divyannshisharma draws in this clip — the line that separates what works from what only feels like it works. It appears twice, it sits next to 'days', 'heavens', and 'heartbreak' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Never let you go, never let me down… Cut 'never let' and the clip's aboutness shifts from a claim to a description of heavens and heartbreak.
 
 ## Synonyms
 
-- heartbreak
-- darkest
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They go through the darkest of days, heavens and heartbreak away. Never let you go, never let me" — sources/S_ig_divyannshisharma_C0mCHSZJcb1.md
+> "Oh, America. They go through the darkest of days, heavens and heartbreak away. Never let you go, never let me down" — sources/S_ig_divyannshisharma_C0mCHSZJcb1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'never let' as a working label for an idea divyannshisharma is arguing, not as a tagline to be repeated.
+- Read as a recommendation to use 'never let' yourself: the clip shows divyannshisharma using the word in one specific move (visible in the collocation with 'Never'); it does not argue the reader should adopt it.

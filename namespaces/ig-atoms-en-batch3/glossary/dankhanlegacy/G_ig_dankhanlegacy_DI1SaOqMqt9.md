@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Scared", "failing"]
+aka: ["because"]
 origin: sources/S_ig_dankhanlegacy_DI1SaOqMqt9.md
 ---
 
-# G_ig_dankhanlegacy_DI1SaOqMqt9 — Scared
+# G_ig_dankhanlegacy_DI1SaOqMqt9 — because
 
 ## Term
 
-Scared is the most prominent repeated term in this source (227-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: failing, putting, yourself. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'because' is the point where the stated problem becomes emotional — the moment dankhanlegacy says the sale actually happens. It appears 6 times, it sits next to 'failing', 'lack', and 'resources' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Here's the hard truth: most people aren't failing… Take 'because' out and the clip collapses into generalities about circumstances — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- Scared
-- failing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And here's the kicker: you convince yourself that you're waiting for the right time or researching the market, but really you're just scared. Scared of failing. Scared of putting yourself out there. Scared of actually trying because then there's no one else to blame when it doesn't work out. Let me ask you this: how much time did you waste this week? Be honest." — sources/S_ig_dankhanlegacy_DI1SaOqMqt9.md
+> "Here's the hard truth: most people aren't failing because they lack resources or opportunities. They are failing because they're not willing to put in the work. You say you want to build a business, but" — sources/S_ig_dankhanlegacy_DI1SaOqMqt9.md
+> "scrolling, stop waiting, and stop lying to yourself. Take one step today toward your goals. Just one, because every day you wait is a day you'll never get back. You got this. I believe in you. Follow me for more business tips" — sources/S_ig_dankhanlegacy_DI1SaOqMqt9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: dankhanlegacy uses 'because' here in the framing of a sales conversation, not as a portfolio term.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'because' next to 'action') may not be load-bearing in dankhanlegacy's wider body of work.

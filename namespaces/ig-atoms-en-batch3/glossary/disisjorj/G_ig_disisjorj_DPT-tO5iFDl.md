@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["show", "technically"]
+aka: ["technically without"]
 origin: sources/S_ig_disisjorj_DPT-tO5iFDl.md
 ---
 
-# G_ig_disisjorj_DPT-tO5iFDl — show
+# G_ig_disisjorj_DPT-tO5iFDl — technically without
 
 ## Term
 
-show is the most prominent repeated term in this source (81-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: technically, without, far. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'technically without' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'show', 'easiest', and 'having' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: By far, one of the easiest way to… Take 'technically without' out and the clip collapses into generalities about generate — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- show
-- technically
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "far, one of the easiest way to show up on video, technically without you even having to show your face, is when you start using what we call B-roll." — sources/S_ig_disisjorj_DPT-tO5iFDl.md
+> "By far, one of the easiest way to show up on video, technically without you even having to show your face, is when you start using what we call B-roll. So it's pre-recorded videos that you shoot in your" — sources/S_ig_disisjorj_DPT-tO5iFDl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'technically without' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'technically without' next to 'journey') may not be load-bearing in disisjorj's wider body of work.

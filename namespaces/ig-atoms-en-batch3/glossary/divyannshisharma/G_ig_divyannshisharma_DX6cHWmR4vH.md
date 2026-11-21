@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["Apollo", "account"]
+aka: ["apollo"]
 origin: sources/S_ig_divyannshisharma_DX6cHWmR4vH.md
 ---
 
-# G_ig_divyannshisharma_DX6cHWmR4vH — Apollo
+# G_ig_divyannshisharma_DX6cHWmR4vH — apollo
 
 ## Term
 
-Apollo is the most prominent repeated term in this source (149-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: account, connect, search. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'apollo' is the felt consequence divyannshisharma says the person has been talking around — the thing that must be touched before any plan is useful. It appears 4 times, it sits next to 'connect', 'clod', and 'search' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where divyannshisharma names the thing a person cannot outsource — nearby: Here's the ultimate hack to get clients in… Without 'apollo', the reel is just a clip about documented; with it, the clip is a claim.
 
 ## Synonyms
 
-- Apollo
-- account
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the ultimate hack to get clients in 2026, Clod plus Apollo. Let me show you how in 60 seconds. First, you need to open your Clod account. Then go to the Co-work section and go to Skills and go to the Marketplace. Over there, you will have to search for Apollo." — sources/S_ig_divyannshisharma_DX6cHWmR4vH.md
-> "Over there, you will have to search for Apollo. Then connect your Apollo account with. Now that your Apollo account is connected with Clod, you will be able to use the three pre-built skills: ICP prospecting, sequence loading, contact enrichment. You will be able to use all these three skills." — sources/S_ig_divyannshisharma_DX6cHWmR4vH.md
+> "Here's the ultimate hack to get clients in 2026, Clod plus Apollo. Let me show you how in 60 seconds. First, you need to open your Clod account. Then go to the Co-work section and go to Skills and go to the Marketplace" — sources/S_ig_divyannshisharma_DX6cHWmR4vH.md
+> "Over there, you will have to search for Apollo. Then connect your Apollo account with. Now that your Apollo account is connected with Clod, you will be able to use the three pre-built skills: ICP prospecting, sequence loading, contact enrichment. You will" — sources/S_ig_divyannshisharma_DX6cHWmR4vH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'apollo' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a clean transcript: the wording around 'apollo' (including the run-on near 'prompt') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

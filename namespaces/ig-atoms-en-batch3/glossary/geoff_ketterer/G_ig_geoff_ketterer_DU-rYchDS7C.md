@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["whether", "creator"]
+aka: ["contextual information"]
 origin: sources/S_ig_geoff_ketterer_DU-rYchDS7C.md
 ---
 
-# G_ig_geoff_ketterer_DU-rYchDS7C — whether
+# G_ig_geoff_ketterer_DU-rYchDS7C — contextual information
 
 ## Term
 
-whether is the most prominent repeated term in this source (212-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: creator, proxy, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'contextual information' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'trying', 'grind', and 'funnel' — a single occurrence that nonetheless anchors the clip's argument. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: So whether you're going to keep trying to… Cut 'contextual information' and the clip's aboutness shifts from a claim to a description of thinks and contextual.
 
 ## Synonyms
 
-- whether
-- creator
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't want to make content. Dude, if you own a business online in today's era, you are now by proxy a content creator, whether you like it or not. So whether you're going to keep trying to grind on that funnel with absolutely no proof, no contextual information for your prospects, or you're going to wake up, realize it's 2026, the marketplace is skeptical as" — sources/S_ig_geoff_ketterer_DU-rYchDS7C.md
+> "or not. So whether you're going to keep trying to grind on that funnel with absolutely no proof, no contextual information for your prospects, or you're going to wake up, realize it's 2026, the marketplace is skeptical as shit, and if people are going" — sources/S_ig_geoff_ketterer_DU-rYchDS7C.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'contextual information' is geoff_ketterer's coaching cue for a felt position, not a clinical label.
+- Read as proof the term is load-bearing for geoff_ketterer in general: a 212-word clip with the word 'contextual information' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

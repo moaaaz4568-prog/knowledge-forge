@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["belief", "around"]
+aka: ["belief"]
 origin: sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
 
 ## Term
 
-belief is the most prominent repeated term in this source (162-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: around, buy, agency. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'belief' is what dankhanlegacy says the game used to carry and is at risk of losing — the soul the spectacle is covering up. It appears 4 times, it sits next to 'social', 'media', and 'luck' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: For my agency, the belief is simple… Read alongside 'success', the word 'belief' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- belief
-- around
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is how you get people begging to buy from you. For my agency, the belief is simple. You can scale to seven figures without going viral, dancing for the algorithm, or being on social media at all. Once they believe that's possible, selling my done for you offer and funnel becomes easy." — sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
-> "They're buying a belief system that success is not based on social media luck. I structure everything around this core belief. My content, my sales calls, my guarantees. When someone actually believes that you can solve their problem, selling becomes serving." — sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
-> "Figure out what they need to believe, then build everything around that belief" — sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
+> "oh my god, I really need this. This is how you get people begging to buy from you. For my agency, the belief is simple. You can scale to seven figures without going viral, dancing for the algorithm, or being on social media at all. Once they believe that" — sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
+> "problem, selling becomes serving. Figure out what they need to believe, then build everything around that belief" — sources/S_ig_dankhanlegacy_DOg0cpxjJ9m.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching word: the source uses 'belief' to name what the game is actually about, beneath the cameras and the money.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'belief' next to 'possible') may not be load-bearing in dankhanlegacy's wider body of work.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["entusiasmi", "importante"]
+aka: ["diventa importante"]
 origin: sources/S_ig_fundedfounder_DXM2tXEDGoM.md
 ---
 
-# G_ig_fundedfounder_DXM2tXEDGoM — entusiasmi
+# G_ig_fundedfounder_DXM2tXEDGoM — diventa importante
 
 ## Term
 
-entusiasmi is the most prominent repeated term in this source (15-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: importante, ci, si. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'diventa importante' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'vita', 'continua', and 'uomo' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment fundedfounder turns from describing to prescribing — the pivot runs: Un uomo diventa importante, ci si aspetta che… The argument only stays upright while 'diventa importante' is doing the work — pull it and 'entusiasmi' loses its anchor.
 
 ## Synonyms
 
-- entusiasmi
-- importante
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Un uomo diventa importante, ci si aspetta che abbia degli entusiasmi." — sources/S_ig_fundedfounder_DXM2tXEDGoM.md
+> "La vita continua. Un uomo diventa importante, ci si aspetta che abbia degli entusiasmi. Entusiasmi" — sources/S_ig_fundedfounder_DXM2tXEDGoM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'diventa importante' as a working concept fundedfounder is installing in this clip, not a generic self-help label.
+- Read as a rule for using 'diventa importante': the clip shows fundedfounder using the word in one specific move (alongside 'abbia'), not a recommendation that the reader adopt the word themselves.

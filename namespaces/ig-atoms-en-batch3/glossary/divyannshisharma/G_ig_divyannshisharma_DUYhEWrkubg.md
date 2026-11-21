@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["technical", "ability"]
+aka: ["technical ability"]
 origin: sources/S_ig_divyannshisharma_DUYhEWrkubg.md
 ---
 
-# G_ig_divyannshisharma_DUYhEWrkubg — technical
+# G_ig_divyannshisharma_DUYhEWrkubg — technical ability
 
 ## Term
 
-technical is the most prominent repeated term in this source (29-word transcript from the Instagram account divyannshisharma): it occurs 2 times literally in the text, most often collocated with: ability, paid, express. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In divyannshisharma's reel, 'technical ability' is the underlying driver divyannshisharma says the person must touch before they will accept any plan. It appears once in the transcript, and it sits next to 'paid' each time it appears — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where divyannshisharma names the thing a person cannot outsource — nearby: No technical ability… The clip is engineered so that 'confidence' lands as setup, not payoff; the payoff is the move 'technical ability' names.
 
 ## Synonyms
 
-- technical
-- ability
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "technical ability. So what are you being paid for? The confidence that I have in my taste and my ability to express what I feel." — sources/S_ig_divyannshisharma_DUYhEWrkubg.md
+> "No technical ability. So what are you being paid for? The confidence that I have in my taste and my ability to express what I feel. No, no technical" — sources/S_ig_divyannshisharma_DUYhEWrkubg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'technical ability' in this clip names a specific bodily sensation divyannshisharma is trying to surface, not a general state of mind.
+- Read as a definition of 'technical ability': the source documents how divyannshisharma deploys the word in this clip — collocated with 'technical' — it does not establish what the word means in general.

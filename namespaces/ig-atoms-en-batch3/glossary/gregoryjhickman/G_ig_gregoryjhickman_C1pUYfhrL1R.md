@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["continually", "skills"]
+aka: ["continually"]
 origin: sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
 
 ## Term
 
-continually is the most prominent repeated term in this source (169-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: skills, peers, space. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'continually' is the future cost gregoryjhickman names to make the present feel expensive — the lever the clip uses to move the person. It appears 3 times, it sits next to 'skills', 'failing', and 'improve' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: If you're failing to continually improve and update… What makes the word 'continually' the term here is that the rest — 'problems', 'become', everything else — is staged for it.
 
 ## Synonyms
 
-- continually
-- skills
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're failing to continually improve and update and uplevel your own skills and your own knowledge, you're going to ultimately become less competitive over time, especially if the other peers in your space are continually advancing their knowledge and investing in" — sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
-> "you're doing the exact same thing and your service and offering has not evolved, you might actually not even be in business. So we have to continually invest in our own skills development, growing and becoming a better version of ourselves because our future clients are going to need our help and we got to be" — sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
+> "If you're failing to continually improve and update and uplevel your own skills and your own knowledge, you're going to ultimately become less competitive over time, especially" — sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
+> "your service and offering has not evolved, you might actually not even be in business. So we have to continually invest in our own skills development, growing and becoming a better version of ourselves because our future clients are going to need our help" — sources/S_ig_gregoryjhickman_C1pUYfhrL1R.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'continually' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a claim about how gregoryjhickman uses 'continually' across their work: this single 169-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

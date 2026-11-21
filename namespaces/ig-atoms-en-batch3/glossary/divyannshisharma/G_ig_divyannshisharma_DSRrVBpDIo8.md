@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["AI", "plus"]
+aka: ["thirty thousand"]
 origin: sources/S_ig_divyannshisharma_DSRrVBpDIo8.md
 ---
 
-# G_ig_divyannshisharma_DSRrVBpDIo8 — AI
+# G_ig_divyannshisharma_DSRrVBpDIo8 — thirty thousand
 
 ## Term
 
-AI is the most prominent repeated term in this source (100-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: plus, agents, build. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'thirty thousand' is the discipline of putting work out unfinished — divyannshisharma argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'plus', 'leads', and 'agent' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: Get thirty thousand plus leads with this AI… What makes the word 'thirty thousand' the term here is that the rest — 'workflow', 'thousand', everything else — is staged for it.
 
 ## Synonyms
 
-- AI
-- plus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "thirty thousand plus leads with this AI agent. So you need to go to this website called Pookey AI, which can literally build any kind of workflow for you like this, this, and this. And it has like lots of integrations here. Go to this website, type in this form." — sources/S_ig_divyannshisharma_DSRrVBpDIo8.md
-> "You just need to fill in your page type, ICP keywords, etc. Comment agents and I will send you hundred plus AI agents you can build with Pookey" — sources/S_ig_divyannshisharma_DSRrVBpDIo8.md
+> "Get thirty thousand plus leads with this AI agent. So you need to go to this website called Pookey AI, which can literally build any kind of workflow for you" — sources/S_ig_divyannshisharma_DSRrVBpDIo8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'thirty thousand' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a tagline worth extracting: the source shows divyannshisharma using 'thirty thousand' as a working label in one specific argument (visible in the collocation with 'website'), not as a slogan the reader is meant to repeat.

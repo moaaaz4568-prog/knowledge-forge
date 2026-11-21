@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["differentiator", "ethical"]
+aka: ["recognize whether"]
 origin: sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
 ---
 
-# G_ig_daniel.jf1_DRvcOJkDUeT — differentiator
+# G_ig_daniel.jf1_DRvcOJkDUeT — recognize whether
 
 ## Term
 
-This source is very short (63 words), so no term repeats enough for a frequency-based entry; differentiator is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this clip, 'recognize whether' is what daniel.jf1 says a person must already have working for them before tactics can compound. It appears once in the transcript, and it sits next to 'well', 'poorly', and 'ability' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: Your ability to recognize whether an output is… 'recognize whether' is what the rest of the clip is trying to justify — even 'output' reads as evidence for it.
 
 ## Synonyms
 
-- differentiator
-- ethical
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Is that ethical? If it gets results. What's the differentiator between someone that does that well and someone that will do that poorly?" — sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
+> "differentiator between someone that does that well and someone that will do that poorly? Your ability to recognize whether an output is actually good quality or not" — sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'recognize whether' here is the multiplier on effort, not the effort itself.
+- Read as a stylistic choice by daniel.jf1: the wording around 'recognize whether' (e.g. the collocation with 'ability') is the speech of one clip, not a stylistic pattern that can be generalised.

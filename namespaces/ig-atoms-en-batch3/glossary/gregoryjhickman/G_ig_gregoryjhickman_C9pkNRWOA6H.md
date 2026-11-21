@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["remove ourselves", "administrative"]
+aka: ["remove ourselves"]
 origin: sources/S_ig_gregoryjhickman_C9pkNRWOA6H.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gregoryjhickman_C9pkNRWOA6H.md
 
 ## Term
 
-remove ourselves is the most prominent repeated term in this source (153-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: administrative, tasks, typically. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'remove ourselves' is the future-pain frame gregoryjhickman uses to make the present situation feel unsustainable. It appears twice, it sits next to 'administrative', 'tasks', and 'typically' — the repetition is what makes it the spine of the clip rather than a passing word. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: Typically, we want to remove ourselves from all… Even the move around 'already' only registers as a move because 'remove ourselves' is the thing being moved toward.
 
 ## Synonyms
 
-- remove ourselves
-- administrative
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "we want to remove ourselves from all administrative tasks first, then remove ourselves from all aspects of client service delivery." — sources/S_ig_gregoryjhickman_C9pkNRWOA6H.md
+> "Typically, we want to remove ourselves from all administrative tasks first, then remove ourselves from all aspects of client service delivery. Usually that starts with things" — sources/S_ig_gregoryjhickman_C9pkNRWOA6H.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'remove ourselves' here is loaded with a specific meaning — the felt stake gregoryjhickman says must be touched — not the dictionary sense.
+- Read as a recommendation to use 'remove ourselves' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'delegate'); it does not argue the reader should adopt it.

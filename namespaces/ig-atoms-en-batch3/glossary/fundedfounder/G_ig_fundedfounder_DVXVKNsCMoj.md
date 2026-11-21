@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["Alright", "drop"]
+aka: ["flexin' nigga"]
 origin: sources/S_ig_fundedfounder_DVXVKNsCMoj.md
 ---
 
-# G_ig_fundedfounder_DVXVKNsCMoj — Alright
+# G_ig_fundedfounder_DVXVKNsCMoj — flexin' nigga
 
 ## Term
 
-Alright is the most prominent repeated term in this source (35-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: drop, flexin, nigga. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'flexin' nigga' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears once in the transcript, and it sits next to 'i'ma', 'come', and 'drop' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Gotta drop on this flexin' nigga… Cut 'flexin' nigga' and the clip's aboutness shifts from a claim to a description of flexin' and Tennessee.
 
 ## Synonyms
 
-- Alright
-- drop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'ma let it. Alright, come on. Alright. Gotta drop on this flexin' nigga. He from Tennessee, I had a thought." — sources/S_ig_fundedfounder_DVXVKNsCMoj.md
+> "Say I'ma let it. Alright, come on. Alright. Gotta drop on this flexin' nigga. He from Tennessee, I had a thought. She be with this shit, she told me wait, be I say for sure" — sources/S_ig_fundedfounder_DVXVKNsCMoj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'flexin' nigga' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a stylistic choice by fundedfounder: the wording around 'flexin' nigga' (e.g. the collocation with 'Tennessee') is the speech of one clip, not a stylistic pattern that can be generalised.

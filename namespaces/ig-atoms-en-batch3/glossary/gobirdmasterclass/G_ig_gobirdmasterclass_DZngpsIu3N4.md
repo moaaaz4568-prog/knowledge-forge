@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["text", "Light"]
+aka: ["text"]
 origin: sources/S_ig_gobirdmasterclass_DZngpsIu3N4.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gobirdmasterclass_DZngpsIu3N4.md
 
 ## Term
 
-text is the most prominent repeated term in this source (29-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: light, background, dark. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'text' is the distinction gobirdmasterclass is actually drawing — the line the rest of the clip is staged to make stick. It appears 3 times, it sits next to 'light', 'background', and 'dark' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Stop making your text hard to read… Read alongside 'contrast', the word 'text' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- text
-- Light
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "making your text hard to read. Use contrast. Light background, dark text. Dark background, light text. Make the headline bold. Keep it clear. That's it." — sources/S_ig_gobirdmasterclass_DZngpsIu3N4.md
+> "Stop making your text hard to read. Use contrast. Light background, dark text. Dark background, light text. Make the headline bold. Keep it clear. That's it. Follow and" — sources/S_ig_gobirdmasterclass_DZngpsIu3N4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'text' is loaded by gobirdmasterclass with a specific working meaning, not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'text' next to 'Light') may not be load-bearing in gobirdmasterclass's wider body of work.

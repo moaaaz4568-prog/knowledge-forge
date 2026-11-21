@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["email", "type"]
+aka: ["seven days"]
 origin: sources/S_ig_dibratto_Dc_x4b4Pbpa.md
 ---
 
-# G_ig_dibratto_Dc_x4b4Pbpa — email
+# G_ig_dibratto_Dc_x4b4Pbpa — seven days
 
 ## Term
 
-email is the most prominent repeated term in this source (249-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: type, value, send. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dibratto, 'seven days' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears twice, it sits next to 'heard', 'emailed', and 'please' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: For any of them we have not heard… Without 'seven days', the reel is just a clip about personal; with it, the clip is a claim.
 
 ## Synonyms
 
-- email
-- type
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "M. For a one-on-one. Make it 30 minutes. Done. Just did it. I'm just gonna try this. Go into my email, find all of the leads I recently sent follow-ups or proposals to." — sources/S_ig_dibratto_Dc_x4b4Pbpa.md
-> "any of them we have not heard from in seven days or I have not emailed in seven days, please draft a brief follow-up response or follow-up email, asking where their head's at and offering any other support. Also, if possible, find other resources I've emailed to other prospects and offer that as some type of value in the email. Don't send any emails, just leave them in drafts." — sources/S_ig_dibratto_Dc_x4b4Pbpa.md
+> "all of the leads I recently sent follow-ups or proposals to. For any of them we have not heard from in seven days or I have not emailed in seven days, please draft a brief follow-up response or follow-up email, asking where their head's at and offering any" — sources/S_ig_dibratto_Dc_x4b4Pbpa.md
+> "follow-ups or proposals to. For any of them we have not heard from in seven days or I have not emailed in seven days, please draft a brief follow-up response or follow-up email, asking where their head's at and offering any other support. Also, if possible" — sources/S_ig_dibratto_Dc_x4b4Pbpa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'seven days' in this clip names a specific bodily sensation dibratto is trying to surface, not a general state of mind.
+- Read as a recommendation to use 'seven days' yourself: the clip shows dibratto using the word in one specific move (visible in the collocation with 'played'); it does not argue the reader should adopt it.

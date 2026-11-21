@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["sounds", "Use"]
+aka: ["gobirdmasterclass"]
 origin: sources/S_ig_gobirdmasterclass_DduLrJBu85A.md
 ---
 
-# G_ig_gobirdmasterclass_DduLrJBu85A — sounds
+# G_ig_gobirdmasterclass_DduLrJBu85A — Use these music sounds if you're telling a story. Use these …
 
 ## Term
 
-sounds is the most prominent repeated term in this source (44-word transcript from the Instagram account gobirdmasterclass): it occurs 5 times literally in the text, most often collocated with: use, story, motivational. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 44-word short caption from gobirdmasterclass — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Use these music sounds if you're telling a story. Use these sounds if your video is funny. Use these sounds if your video is six seconds text reel. Use these sounds if your video is motivational. Use…".
 
 ## Synonyms
 
-- sounds
-- Use
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "these music sounds if you're telling a story. Use these sounds if your video is funny. Use these sounds if your video is six seconds text reel. Use these sounds if your video is motivational." — sources/S_ig_gobirdmasterclass_DduLrJBu85A.md
+> "Use these music sounds if you're telling a story. Use these sounds if your video is funny. Use these sounds if your video is six seconds text reel. Use" — sources/S_ig_gobirdmasterclass_DduLrJBu85A.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'music') is what carries the mood, not a label being defined.
+- Read as proof gobirdmasterclass returns to a theme: a single short clip is too thin to anchor any wider claim about the account's body of work.

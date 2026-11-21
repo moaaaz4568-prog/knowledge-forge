@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["phone", "eBay"]
+aka: ["phone", "phones"]
 origin: sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
 
 ## Term
 
-phone is the most prominent repeated term in this source (217-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: ebay, sale, cases. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'phone' is the buyer-side lever dankhanlegacy says the seller must surface before any pricing talk can land. It appears 4 times, it sits next to 'ebay', 'sale', and 'twelve' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: And you know, when I was twelve years… The sentence around 'phones' only carries weight because 'phone' is what the sentence is really about.
 
 ## Synonyms
 
-- phone
-- eBay
+- phones
 
 ## Live Example
 
-> "And you know, when I was twelve years old, I got a phone and I was like, all right, I can probably do this as well, but on eBay, on Gumtree." — sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
-> "And I remember, you know, there was times where I was in class and we had to put our phones up at the front for tests, and my phone would be going off, eBay sale, eBay sale, and my teacher would be looking like, whose phone's going off? And she'd be like, is this even legal? I was like, yeah, don't worry about it." — sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
-> "years old, I got a phone and I was like, all right, I can probably do this as well, but on eBay, on Gumtree. And what I'll do is I'll get phone cases from China for a very low price, and this was when iPhone cases were popping, and I'd resell them on eBay and on these platforms for a high price." — sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
+> "five, thirty dollars profit on all these products. And you know, when I was twelve years old, I got a phone and I was like, all right, I can probably do this as well, but on eBay, on Gumtree. And what I'll do is I'll get phone cases from China for a very" — sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
+> "and my phone would be going off, eBay sale, eBay sale, and my teacher would be looking like, whose phone's going off? And she'd be like, is this even legal? I was like, yeah, don't worry about it. But I never took a full time because I didn't know you" — sources/S_ig_dankhanlegacy_DHySt6qvwX1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'phone' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'phone' next to 'probably') may not be load-bearing in dankhanlegacy's wider body of work.

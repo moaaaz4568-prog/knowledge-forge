@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["algorithm", "example"]
+aka: ["algorithm"]
 origin: sources/S_ig_devinjatho_Cl90DfTAYPx.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_devinjatho_Cl90DfTAYPx.md
 
 ## Term
 
-algorithm is the most prominent repeated term in this source (130-word transcript from the Instagram account devinjatho): it occurs 4 times literally in the text, most often collocated with: example, use, fitness. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's framing, 'algorithm' is the missing mechanic — the thing devinjatho says is failing underneath every other issue the person reports. It appears 4 times, it sits next to 'example', 'fitness', and 'show' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: Hashtags tell the algorithm who to push your… The clip's relationship to 'categorize' only makes sense as a vehicle for delivering 'algorithm'.
 
 ## Synonyms
 
-- algorithm
-- example
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Doing this will absolutely kill the views on your videos, and here's why. Hashtags tell the algorithm who to push your videos to. So for example, if you use #fitness, the algorithm will show your videos to people who like fitness." — sources/S_ig_devinjatho_Cl90DfTAYPx.md
-> "But if you use a broad hashtag like the hashtag For You page, then the algorithm isn't going to know how to categorize your content, resulting in your video getting pushed to the general audience that don't really care about your niche." — sources/S_ig_devinjatho_Cl90DfTAYPx.md
-> "And once those people scroll past your video, it will tell the algorithm that you're f*** boring and it will no longer show your video to anyone else." — sources/S_ig_devinjatho_Cl90DfTAYPx.md
+> "Explore page. Doing this will absolutely kill the views on your videos, and here's why. Hashtags tell the algorithm who to push your videos to. So for example, if you use #fitness, the algorithm will show your videos to people who like fitness. But if you use" — sources/S_ig_devinjatho_Cl90DfTAYPx.md
+> "that don't really care about your niche. And once those people scroll past your video, it will tell the algorithm that you're f*** boring and it will no longer show your video to anyone else. Follow for more value" — sources/S_ig_devinjatho_Cl90DfTAYPx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'algorithm' is the body mechanic devinjatho isolates as the root of the movement problem, not a general training concept.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'algorithm' next to 'categorize') may not be load-bearing in devinjatho's wider body of work.

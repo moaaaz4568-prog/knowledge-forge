@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["choice", "step"]
+aka: ["highest potential"]
 origin: sources/S_ig_disisjorj_Cu0GolZg5nH.md
 ---
 
-# G_ig_disisjorj_Cu0GolZg5nH — choice
+# G_ig_disisjorj_Cu0GolZg5nH — highest potential
 
 ## Term
 
-choice is the most prominent repeated term in this source (76-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: step, fact, hand. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'highest potential' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears twice, it sits next to 'form', 'reach', and 'main' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: He says, "We as human beings have been… Anything else in the clip orbits this word — strip out 'highest potential' and the rest reads as filler around 'consider'.
 
 ## Synonyms
 
-- choice
-- step
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "as human beings have been given the dignity of choice, and that is the main reason we don't realize, let alone achieve, our highest" — sources/S_ig_disisjorj_Cu0GolZg5nH.md
-> "Every other life form can reach its highest potential purely based on the fact that it has no other choice. You, on the other hand, could change everything, step by step, but it's your choice." — sources/S_ig_disisjorj_Cu0GolZg5nH.md
+> "been given the dignity of choice, and that is the main reason we don't realize, let alone achieve, our highest potential" — sources/S_ig_disisjorj_Cu0GolZg5nH.md
+> "Every other life form can reach its highest potential purely based on the fact that it has no other choice. You, on the other hand, could change everything, step by step, but it's your choice" — sources/S_ig_disisjorj_Cu0GolZg5nH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'highest potential' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'highest potential' next to 'human') may not be load-bearing in disisjorj's wider body of work.

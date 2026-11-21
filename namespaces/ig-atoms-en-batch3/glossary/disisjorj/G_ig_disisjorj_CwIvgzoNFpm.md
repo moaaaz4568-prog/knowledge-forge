@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["perfectionist", "calling"]
+aka: ["calling yourself"]
 origin: sources/S_ig_disisjorj_CwIvgzoNFpm.md
 ---
 
-# G_ig_disisjorj_CwIvgzoNFpm — perfectionist
+# G_ig_disisjorj_CwIvgzoNFpm — calling yourself
 
 ## Term
 
-This source is very short (56 words), so no term repeats enough for a frequency-based entry; perfectionist is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'calling yourself' is the mindset disisjorj insists comes before any technique — the thing without which the rest of the advice does not land. It appears once in the transcript, and it sits next to 'perfectionist' and 'reason' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: You calling yourself a perfectionist is the number… The sentence around 'closely' only carries weight because 'calling yourself' is what the sentence is really about.
 
 ## Synonyms
 
-- perfectionist
-- calling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "calling yourself a perfectionist is the number one reason why you can't reap the benefits of your work or even reach the success you truly deserve." — sources/S_ig_disisjorj_CwIvgzoNFpm.md
+> "You calling yourself a perfectionist is the number one reason why you can't reap the benefits of your work or even reach the success you truly deserve. Listen" — sources/S_ig_disisjorj_CwIvgzoNFpm.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'calling yourself' is loaded by disisjorj with a specific meaning tied to 'closely', not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'calling yourself' next to 'closely') may not be load-bearing in disisjorj's wider body of work.

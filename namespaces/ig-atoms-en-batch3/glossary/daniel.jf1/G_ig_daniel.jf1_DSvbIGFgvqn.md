@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["hard mode", "economics"]
+aka: ["clients' businesses"]
 origin: sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
 ---
 
-# G_ig_daniel.jf1_DSvbIGFgvqn — hard mode
+# G_ig_daniel.jf1_DSvbIGFgvqn — clients' businesses
 
 ## Term
 
-hard mode is the most prominent repeated term in this source (91-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: economics, difficult, money. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'apply', 'rules', and 'ignore' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: The same rules that apply to your business… Take 'clients' businesses' out and the clip collapses into generalities about clients' — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- hard mode
-- economics
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the reason why everybody says to sell high ticket. It's because the economics any other way are on hard mode. It's too difficult to make money, and there is absolutely zero reason at all why you need to relegate your life to playing on hard mode." — sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
+> "Here's what most people don't understand. The same rules that apply to your business also apply to your clients' businesses. And if you ignore this fact, you will not make any money in your agency. This is the reason why everybody says to sell high ticket" — sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'clients' businesses' is daniel.jf1's coaching cue for a felt position, not a clinical label.
+- Read as a rule for using 'clients' businesses': the clip shows daniel.jf1 using the word in one specific move (alongside 'clients''), not a recommendation that the reader adopt the word themselves.

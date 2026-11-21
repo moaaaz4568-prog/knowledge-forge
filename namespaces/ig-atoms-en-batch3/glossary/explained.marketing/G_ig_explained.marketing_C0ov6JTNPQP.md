@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["money", "gains"]
+aka: ["gains"]
 origin: sources/S_ig_explained.marketing_C0ov6JTNPQP.md
 ---
 
-# G_ig_explained.marketing_C0ov6JTNPQP — money
+# G_ig_explained.marketing_C0ov6JTNPQP — gains
 
 ## Term
 
-money is the most prominent repeated term in this source (39-word transcript from the Instagram account explained.marketing): it occurs 4 times literally in the text, most often collocated with: gains, trade, leverage. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In explained.marketing's reel, 'gains' is the point where the stated problem becomes emotional — the moment explained.marketing says the sale actually happens. It appears 3 times, it sits next to 'trade', 'finally', and 'success' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where explained.marketing names the thing a person cannot outsource — nearby: The three steps to success: First, you trade… The argument only stays upright while 'gains' is doing the work — pull it and 'freedom' loses its anchor.
 
 ## Synonyms
 
-- money
-- gains
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "three steps to success: First, you trade your time for money, that gains you income. Then you trade your money for time, that gains you leverage." — sources/S_ig_explained.marketing_C0ov6JTNPQP.md
-> "Then you trade your money for time, that gains you leverage. Finally, you trade your money for more money, that gains you" — sources/S_ig_explained.marketing_C0ov6JTNPQP.md
+> "The three steps to success: First, you trade your time for money, that gains you income. Then you trade your money for time, that gains you leverage. Finally, you trade your money for more money, that gains you freedom" — sources/S_ig_explained.marketing_C0ov6JTNPQP.md
+> "trade your money for time, that gains you leverage. Finally, you trade your money for more money, that gains you freedom" — sources/S_ig_explained.marketing_C0ov6JTNPQP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'gains' is the emotional lever explained.marketing uses to surface commitment, not a market mechanic.
+- Read as evidence explained.marketing always uses 'gains' this way: one 39-word clip is too thin a sample to support any claim about how the account uses the word in general.

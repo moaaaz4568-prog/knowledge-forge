@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["Call Anonymous", "context of account fundedfounder"]
+aka: ["call anonymous"]
 origin: sources/S_ig_fundedfounder_DVjHhFejJxC.md
 ---
 
-# G_ig_fundedfounder_DVjHhFejJxC — Call Anonymous
+# G_ig_fundedfounder_DVjHhFejJxC — call anonymous
 
 ## Term
 
-Call Anonymous is the most prominent repeated term in this source (30-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'call anonymous' is the distinction fundedfounder is actually drawing — the line the rest of the clip is staged to make stick. It appears twice, it sits next to 'voice' each time it appears — the repetition is what makes it the spine of the clip rather than a passing word. fundedfounder drops it precisely where the cost of skipping it shows up — the surrounding move runs: Call Anonymous… Strip the clip down to its claim and you are left with 'call anonymous'; 'Please' and 'Anonymous' are how the claim is delivered.
 
 ## Synonyms
 
-- Call Anonymous
-- context of account fundedfounder
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Call Anonymous. You call Anonymous. I can't. They know me. They know my voice. They'll know me. Please, you got to do it for me. I'm begging you." — sources/S_ig_fundedfounder_DVjHhFejJxC.md
+> "Call Anonymous. You call Anonymous. I can't. They know me. They know my voice. They'll know me. Please, you got to do it for me. I'm begging you. Please" — sources/S_ig_fundedfounder_DVjHhFejJxC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in fundedfounder's usage, 'call anonymous' is loaded with a specific working meaning (visible in the collocation with 'voice'), not the dictionary sense.
+- Read as a rule for using 'call anonymous': the clip shows fundedfounder using the word in one specific move (alongside 'voice'), not a recommendation that the reader adopt the word themselves.

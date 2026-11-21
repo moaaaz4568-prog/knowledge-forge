@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["offerings", "coaching"]
+aka: ["higher-priced offerings"]
 origin: sources/S_ig_disisjorj_CstZT64tquA.md
 ---
 
-# G_ig_disisjorj_CstZT64tquA — offerings
+# G_ig_disisjorj_CstZT64tquA — higher-priced offerings
 
 ## Term
 
-offerings is the most prominent repeated term in this source (90-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: coaching, highest, level. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'higher-priced offerings' is the moment in the sale disisjorj says a person cannot skip and still expect the deal to close. It appears once in the transcript, and it sits next to 'mini-course', 'coaching', and 'call' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Start with a low-cost offering like a mini-course… What makes the word 'higher-priced offerings' the term here is that the rest — 'concept', 'ladder', everything else — is staged for it.
 
 ## Synonyms
 
-- offerings
-- coaching
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This step-by-step process guides your customers from the initial point of contact all the way up to the highest level of offerings you can provide. As musicians, you can leverage this to create multiple income streams." — sources/S_ig_disisjorj_CstZT64tquA.md
-> "Start with a low-cost offering like a mini-course or a coaching call, and gradually offer higher-priced offerings like a more comprehensive course or a coaching program." — sources/S_ig_disisjorj_CstZT64tquA.md
+> "income streams. Start with a low-cost offering like a mini-course or a coaching call, and gradually offer higher-priced offerings like a more comprehensive course or a coaching program. Now is the time to build your online business, so save this and follow" — sources/S_ig_disisjorj_CstZT64tquA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in disisjorj's reel, 'higher-priced offerings' is the specific move disisjorj says a person must make before the prospect will commit.
+- Read as evidence the term is central to the account: one 90-word clip showing 'higher-priced offerings' next to 'low-cost' is too small a sample to anchor a wider claim about what disisjorj writes about.

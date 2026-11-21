@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["diffusion", "Nano"]
+aka: ["cinematic effect"]
 origin: sources/S_ig_disisjorj_CzyCU4htGbF.md
 ---
 
-# G_ig_disisjorj_CzyCU4htGbF — diffusion
+# G_ig_disisjorj_CzyCU4htGbF — cinematic effect
 
 ## Term
 
-This source is very short (45 words), so no term repeats enough for a frequency-based entry; diffusion is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'cinematic effect' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'filter', 'tons', and 'creators' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Tons of creators use it to get that… The clip's claim about 'effect' is conditional on 'cinematic effect' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- diffusion
-- Nano
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the Nano X Series one fourth black diffusion filter from K&F. Tons of creators use it to get that dreamy cinematic effect in their videos." — sources/S_ig_disisjorj_CzyCU4htGbF.md
+> "Nano X Series one fourth black diffusion filter from K&F. Tons of creators use it to get that dreamy cinematic effect in their videos. Here's with it, and here's without it" — sources/S_ig_disisjorj_CzyCU4htGbF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'cinematic effect' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a rule for using 'cinematic effect': the clip shows disisjorj using the word in one specific move (alongside 'dreamy'), not a recommendation that the reader adopt the word themselves.

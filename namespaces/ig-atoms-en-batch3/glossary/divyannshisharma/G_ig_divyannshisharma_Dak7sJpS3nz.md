@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["workflow", "sin"]
+aka: ["workflow"]
 origin: sources/S_ig_divyannshisharma_Dak7sJpS3nz.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_divyannshisharma_Dak7sJpS3nz.md
 
 ## Term
 
-workflow is the most prominent repeated term in this source (23-word transcript from the Instagram account divyannshisharma): it occurs 2 times literally in the text, most often collocated with: sin, show, agency. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In divyannshisharma's reel, 'workflow' is the move divyannshisharma says the person must make before the prospect will commit. It appears twice, it sits next to 'come', 'show', and 'started' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Copy this AI workflow now… Strip the clip down to its claim and you are left with 'workflow'; 'agency' and 'clients' are how the claim is delivered.
 
 ## Synonyms
 
-- workflow
-- sin
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "started an agency now you need clients. Copy this AI workflow now. Come in sin and I will show you the" — sources/S_ig_divyannshisharma_Dak7sJpS3nz.md
+> "You started an agency now you need clients. Copy this AI workflow now. Come in sin and I will show you the workflow" — sources/S_ig_divyannshisharma_Dak7sJpS3nz.md
+> "started an agency now you need clients. Copy this AI workflow now. Come in sin and I will show you the workflow" — sources/S_ig_divyannshisharma_Dak7sJpS3nz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in divyannshisharma's reel, 'workflow' is the specific move divyannshisharma says a person must make before the prospect will commit.
+- Read as a tagline worth extracting: the source shows divyannshisharma using 'workflow' as a working label in one specific argument (visible in the collocation with 'started'), not as a slogan the reader is meant to repeat.

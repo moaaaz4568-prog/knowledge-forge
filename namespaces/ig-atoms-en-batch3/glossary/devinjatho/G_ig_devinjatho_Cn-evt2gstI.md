@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["give", "viewers"]
+aka: ["called reciprocity"]
 origin: sources/S_ig_devinjatho_Cn-evt2gstI.md
 ---
 
-# G_ig_devinjatho_Cn-evt2gstI — give
+# G_ig_devinjatho_Cn-evt2gstI — called reciprocity
 
 ## Term
 
-give is the most prominent repeated term in this source (109-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: viewers, attention, actionable. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'called reciprocity' carries the weight of a discipline, not an event: devinjatho frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'psychology', 'hack', and 'that'll' — a single occurrence that nonetheless anchors the clip's argument. devinjatho drops it precisely where the cost of skipping it shows up — the surrounding move runs: It's called reciprocity… This is the word the clip is built to deliver; 'entertained' is texture around it, not the point.
 
 ## Synonyms
 
-- give
-- viewers
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the viewer's attention and the viewer either wants to be entertained or educated within the process. Therefore, the more value that you give to your viewers, the more attention that they will give you. So if you can give out actionable advice and entertain them within your content, getting engagement and getting paid will never be an issue." — sources/S_ig_devinjatho_Cn-evt2gstI.md
+> "Here's a psychology hack that'll make you famous. It's called reciprocity. It's the concept that when someone does something for you, you will be more likely to do something for them in return. For example" — sources/S_ig_devinjatho_Cn-evt2gstI.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'called reciprocity' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term is load-bearing for devinjatho in general: a 109-word clip with the word 'called reciprocity' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

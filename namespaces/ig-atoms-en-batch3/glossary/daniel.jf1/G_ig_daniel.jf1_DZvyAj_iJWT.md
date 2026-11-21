@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["invent", "profound"]
+aka: ["severely higher"]
 origin: sources/S_ig_daniel.jf1_DZvyAj_iJWT.md
 ---
 
-# G_ig_daniel.jf1_DZvyAj_iJWT — invent
+# G_ig_daniel.jf1_DZvyAj_iJWT — severely higher
 
 ## Term
 
-invent is the most prominent repeated term in this source (88-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: profound, probability, broke. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'severely higher' is the multiplier the clip is built to point at — the thing that turns flat effort into compounding results. It appears once in the transcript, and it sits next to 'broke', 'trying', and 'invent' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The probability that you go broke by trying… The clip is engineered so that 'already' lands as setup, not payoff; the payoff is the move 'severely higher' names.
 
 ## Synonyms
 
-- invent
-- profound
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The probability that you go broke by trying to invent something is severely higher than if you just sell something that already sells." — sources/S_ig_daniel.jf1_DZvyAj_iJWT.md
-> "business is that they are under the premise that in order for me to make a lot of money, I need to make something new or profound or invent something. That is literally not what you need to do at" — sources/S_ig_daniel.jf1_DZvyAj_iJWT.md
+> "single thing in your entire life. The probability that you go broke by trying to invent something is severely higher than if you just sell something that already sells. Another misconception people have around business is that they are under the premise" — sources/S_ig_daniel.jf1_DZvyAj_iJWT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'severely higher' is loaded by daniel.jf1 with a specific working meaning (visible in the collocation with 'broke'), not the dictionary sense.
+- Read as a clean transcript: the wording around 'severely higher' (including the run-on near 'broke') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

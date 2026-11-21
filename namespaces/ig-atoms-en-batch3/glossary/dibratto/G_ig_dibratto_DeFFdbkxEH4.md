@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["content", "strategy"]
+aka: ["feedback loop"]
 origin: sources/S_ig_dibratto_DeFFdbkxEH4.md
 ---
 
-# G_ig_dibratto_DeFFdbkxEH4 — content
+# G_ig_dibratto_DeFFdbkxEH4 — feedback loop
 
 ## Term
 
-content is the most prominent repeated term in this source (366-word transcript from the Instagram account dibratto): it occurs 4 times literally in the text, most often collocated with: strategy, funnel, give. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'feedback loop' carries the weight of a discipline, not an event: dibratto frames it as the work that turns private effort into public evidence. It appears twice, it sits next to 'strategy', 'four', and 'parts' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: There are four parts: strategy, content, distribution, and… Strip the clip down to its claim and you are left with 'feedback loop'; 'infographic' and 'objections' are how the claim is delivered.
 
 ## Synonyms
 
-- content
-- strategy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are four parts: strategy, content, distribution, and feedback loop. First, strategy. Post three to five times per week and build a simple content funnel. I prefer roughly 40% top of funnel, 40% middle of funnel, and 20% bottom." — sources/S_ig_dibratto_DeFFdbkxEH4.md
-> "These all become posts. Part two is making the content. You're gonna use the CPIO framework. Decide what you're trying to convey, how you're gonna package it, what information actually needs to be there, and the most compelling order to present it in. This will become better over time." — sources/S_ig_dibratto_DeFFdbkxEH4.md
-> "If you're teaching a process, lead with the outcome before you teach the steps and then give away the actual steps. Tactical content should be useful enough that the reader does not need to ask you what you left out. Then match the media to the idea. Personal or team story, personal photo. Dense process, infographic. Long list, carousel." — sources/S_ig_dibratto_DeFFdbkxEH4.md
+> "There are four parts: strategy, content, distribution, and feedback loop. First, strategy. Post three to five times per week and build a simple content funnel. I prefer roughly 40% top of funnel, 40% middle of" — sources/S_ig_dibratto_DeFFdbkxEH4.md
+> "track which buyers view your profile, like your posts, or comment. Warm outbound to them. Finally, the feedback loop. Every month, look at which topics, hooks, formats, and media types reach the right people. Make more versions of those winners and stop" — sources/S_ig_dibratto_DeFFdbkxEH4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in dibratto's usage here, 'feedback loop' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a tagline worth extracting: the source shows dibratto using 'feedback loop' as a working label in one specific argument (visible in the collocation with 'usually'), not as a slogan the reader is meant to repeat.

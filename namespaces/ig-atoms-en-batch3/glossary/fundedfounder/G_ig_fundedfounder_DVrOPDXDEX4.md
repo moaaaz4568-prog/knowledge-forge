@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["hot", "tried"]
+aka: ["understand nothing"]
 origin: sources/S_ig_fundedfounder_DVrOPDXDEX4.md
 ---
 
-# G_ig_fundedfounder_DVrOPDXDEX4 — hot
+# G_ig_fundedfounder_DVrOPDXDEX4 — understand nothing
 
 ## Term
 
-hot is the most prominent repeated term in this source (44-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: tried, stop, worrying. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'understand nothing' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears once in the transcript, and it sits next to 'tried' each time it appears — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I understand nothing… What makes the word 'understand nothing' the term here is that the rest — 'worrying', 'calories', everything else — is staged for it.
 
 ## Synonyms
 
-- hot
-- tried
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Bankruptcy! I am running away from my responsibilities. What is happening? I'm gonna stop worrying about calories. Feeling hot, hot, hot. I tried. I tried. Oh, my life!" — sources/S_ig_fundedfounder_DVrOPDXDEX4.md
+> "happening? I'm gonna stop worrying about calories. Feeling hot, hot, hot. I tried. I tried. Oh, my life! I understand nothing" — sources/S_ig_fundedfounder_DVrOPDXDEX4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'understand nothing' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as a tagline worth extracting: the source shows fundedfounder using 'understand nothing' as a working label in one specific argument (visible in the collocation with 'Bankruptcy'), not as a slogan the reader is meant to repeat.

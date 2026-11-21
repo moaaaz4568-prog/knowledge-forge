@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sales", "high"]
+aka: ["sales"]
 origin: sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
 
 ## Term
 
-sales is the most prominent repeated term in this source (264-word transcript from the Instagram account geoff_ketterer): it occurs 7 times literally in the text, most often collocated with: high, ticket, preparing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'sales' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears 7 times, it sits next to 'ticket', 'whole', and 'generation' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: There's a big fucking problem in the high… Cut 'sales' and the clip's aboutness shifts from a claim to a description of little and calendars.
 
 ## Synonyms
 
-- sales
-- high
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a big fucking problem in the high ticket sales space, and it is that there's a whole generation of sales trainers treating high ticket sales like it's an adult gap year." — sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
-> "The problem is it's complete bullshit. You're not escaping work. You're doing sales, and sales has these annoying little features called other people, prospects, and setters, and managers, and founders, and calendars, and time zones, and revenue targets. All of the boring shit that they somehow leave out of the VSL." — sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
-> "sales trainer is teaching you that freedom means you can disappear whenever the fuck you want, they are not preparing you for high ticket sales. They are preparing you to get fired really quickly over Zoom, and that's the bit nobody wants to say in their webinar. The money can be great. The flexibility can be great." — sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
+> "There's a big fucking problem in the high ticket sales space, and it is that there's a whole generation of sales trainers treating high ticket sales like it's an adult gap year. They'll tell you that" — sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
+> "freedom means you can disappear whenever the fuck you want, they are not preparing you for high ticket sales. They are preparing you to get fired really quickly over Zoom, and that's the bit nobody wants to say in their webinar. The money can be great. The" — sources/S_ig_geoff_ketterer_Ddq9Q-1K50G.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'sales' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as polished prose: this is a verbatim transcript of a 264-word Instagram clip, and the wording around 'sales' (including the collocation with 'treating') is spoken speech, not edited writing.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["million", "met"]
+aka: ["consistent actions"]
 origin: sources/S_ig_dankhanlegacy_DMZ4gBgsIcU.md
 ---
 
-# G_ig_dankhanlegacy_DMZ4gBgsIcU — million
+# G_ig_dankhanlegacy_DMZ4gBgsIcU — consistent actions
 
 ## Term
 
-million is the most prominent repeated term in this source (158-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: met, hit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'consistent actions' in this dankhanlegacy clip is the internal stance dankhanlegacy argues a person must hold before technique can help them. It appears once in the transcript, and it sits next to 'hidden', 'behind', and 'mountain' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: It's just hidden behind a mountain of boring… The reel earns its keep only because 'consistent actions' is doing the lifting; 'follow' alone would be filler.
 
 ## Synonyms
 
-- million
-- met
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I met people doing 300, 000, 500, 000, 1 million, 5 million a day. That's when it hit me. We are playing it too small. There's more money out there than you can even imagine, and I want a piece of it." — sources/S_ig_dankhanlegacy_DMZ4gBgsIcU.md
+> "feel like it. Success isn't complicated. It's just hidden behind a mountain of boring, uncomfortable, consistent actions. Discipline is doing what needs to be done, long after the mood is gone. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DMZ4gBgsIcU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'consistent actions' is a stance dankhanlegacy says a person must adopt before action, not a feeling they happen to have.
+- Read as a clean transcript: the wording around 'consistent actions' (including the run-on near 'behind') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

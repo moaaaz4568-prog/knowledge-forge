@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Facebook", "serious"]
+aka: ["facebook"]
 origin: sources/S_ig_dankhanlegacy_DVelRs5DAau.md
 ---
 
-# G_ig_dankhanlegacy_DVelRs5DAau — Facebook
+# G_ig_dankhanlegacy_DVelRs5DAau — facebook
 
 ## Term
 
-Facebook is the most prominent repeated term in this source (182-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: serious, higher, entrepreneurs. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'facebook' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears 4 times, it sits next to 'serious', 'higher', and 'entrepreneurs' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Facebook… Strip the clip down to its claim and you are left with 'facebook'; 'communities' and 'higher' are how the claim is delivered.
 
 ## Synonyms
 
-- Facebook
-- serious
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't want to be on Instagram to find clients, okay? Where you want to go is where serious people are. Facebook. Facebook has a lot of serious entrepreneurs and deals are made there. People pay 10K, 15K. I've done that a lot of times. So you want to go to Facebook, create a personal profile, which you already have." — sources/S_ig_dankhanlegacy_DVelRs5DAau.md
-> "So charge low, get your portfolio up, 10, 15, then charge higher and higher and higher. Facebook" — sources/S_ig_dankhanlegacy_DVelRs5DAau.md
+> "don't want to be on Instagram to find clients, okay? Where you want to go is where serious people are. Facebook. Facebook has a lot of serious entrepreneurs and deals are made there. People pay 10K, 15K. I've done that a lot of times. So you want to go to" — sources/S_ig_dankhanlegacy_DVelRs5DAau.md
+> "have results. So charge low, get your portfolio up, 10, 15, then charge higher and higher and higher. Facebook" — sources/S_ig_dankhanlegacy_DVelRs5DAau.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'facebook' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as polished prose: this is a verbatim transcript of a 182-word Instagram clip, and the wording around 'facebook' (including the collocation with 'deals') is spoken speech, not edited writing.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["problem", "service"]
+aka: ["problem"]
 origin: sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
 
 ## Term
 
-problem is the most prominent repeated term in this source (120-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: service, solve, care. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'problem' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 3 times, it sits next to 'solve', 'precise', and 'value' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: We solve this problem for you… The clip's relationship to 'productized' only makes sense as a vehicle for delivering 'problem'.
 
 ## Synonyms
 
-- problem
-- service
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to be some sort of offer on that, or like send a cold email, like there needs to be some sort of precise value proposition. We solve this problem for you. That is a really key thing, is like you know because people are people really only care about like the problem they want solved." — sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
-> "Basically, the productized service element is like you're productizing out the service to solve a very specific problem or" — sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
+> "like send a cold email, like there needs to be some sort of precise value proposition. We solve this problem for you. That is a really key thing, is like you know because people are people really only care about like the problem they want solved. Basically" — sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
+> "the productized service element is like you're productizing out the service to solve a very specific problem or opportunity" — sources/S_ig_gregoryjhickman_C4Gl2tMttfN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'problem' here is the multiplier on effort, not the effort itself.
+- Read as evidence gregoryjhickman always uses 'problem' this way: one 120-word clip is too thin a sample to support any claim about how the account uses the word in general.

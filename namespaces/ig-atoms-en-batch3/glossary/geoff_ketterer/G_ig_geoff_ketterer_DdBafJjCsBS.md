@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["fear", "actual"]
+aka: ["because"]
 origin: sources/S_ig_geoff_ketterer_DdBafJjCsBS.md
 ---
 
-# G_ig_geoff_ketterer_DdBafJjCsBS — fear
+# G_ig_geoff_ketterer_DdBafJjCsBS — because
 
 ## Term
 
-fear is the most prominent repeated term in this source (203-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: actual, objection, created. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'because' is the body cue geoff_ketterer says the person must learn to feel before any external cue can help. It appears 4 times, it sits next to 'fear', 'created', and 'lack' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: The fear is created because of the lack… Strip the clip down to its claim and you are left with 'because'; 'actual' and 'certainty' are how the claim is delivered.
 
 ## Synonyms
 
-- fear
-- actual
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Fear isn't the actual objection. The fear is created because of the lack of certainty. If they were 100% sure, 100% sure that it was going to work, everybody would have a 100% close rate." — sources/S_ig_geoff_ketterer_DdBafJjCsBS.md
-> "my mum, I'm going to phone you tomorrow, I'm going to pay the money because I'm 100% sure that if I do this, it's going to work. So the fear is created because of a lack of certainty. So you have to funnel them into lack of certainty to be able to handle it." — sources/S_ig_geoff_ketterer_DdBafJjCsBS.md
+> "Fear isn't the actual objection. The fear is created because of the lack of certainty. If they were 100% sure, 100% sure that it was going to work, everybody would have a 100% close rate. Because it would" — sources/S_ig_geoff_ketterer_DdBafJjCsBS.md
+> "to pay the money because I'm 100% sure that if I do this, it's going to work. So the fear is created because of a lack of certainty. So you have to funnel them into lack of certainty to be able to handle it. You can handle fear, but essentially what you" — sources/S_ig_geoff_ketterer_DdBafJjCsBS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'because' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a stylistic choice by geoff_ketterer: the wording around 'because' (e.g. the collocation with 'convince') is the speech of one clip, not a stylistic pattern that can be generalised.

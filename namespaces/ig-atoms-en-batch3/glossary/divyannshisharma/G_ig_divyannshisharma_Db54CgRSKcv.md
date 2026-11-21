@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["create", "use"]
+aka: ["point five"]
 origin: sources/S_ig_divyannshisharma_Db54CgRSKcv.md
 ---
 
-# G_ig_divyannshisharma_Db54CgRSKcv — create
+# G_ig_divyannshisharma_Db54CgRSKcv — point five
 
 ## Term
 
-create is the most prominent repeated term in this source (169-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: use, ai, idea. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'point five' is the discipline of putting work out unfinished — divyannshisharma argues it is what separates people who progress from people who perfect. It appears 3 times, it sits next to 'sidens', 'create', and 'skills' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Now go to skills and select UGC video… Strip the clip down to its claim and you are left with 'point five'; 'Comment' and 'script' are how the claim is delivered.
 
 ## Synonyms
 
-- create
-- use
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to make hundred reels per hour with AI? Go to TopView Canvas and create a new project. Upload your product photos, images, reference images, videos, and script. Then tell the AI video agent what you want to create and it creates the video idea for you. Approve the idea and let it generate keyframes." — sources/S_ig_divyannshisharma_Db54CgRSKcv.md
-> "You don't need to make the entire video again. Just save the workflow and use it again to create your reels. I use Sidens two point five inside TopView to create this from idea to the final video. And right now, users get unlimited sixty days of access to Sidens two point five." — sources/S_ig_divyannshisharma_Db54CgRSKcv.md
+> "canvas and you can even change these scenes. Now go to skills and select UGC video ads and use Sidens two point five to generate your videos. And if one part of the video looks wrong, just select clip edit and change anything you want. You don't need to make" — sources/S_ig_divyannshisharma_Db54CgRSKcv.md
+> "from idea to the final video. And right now, users get unlimited sixty days of access to Sidens two point five. Comment two and I will send you this" — sources/S_ig_divyannshisharma_Db54CgRSKcv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'point five' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as evidence divyannshisharma always uses 'point five' this way: one 169-word clip is too thin a sample to support any claim about how the account uses the word in general.

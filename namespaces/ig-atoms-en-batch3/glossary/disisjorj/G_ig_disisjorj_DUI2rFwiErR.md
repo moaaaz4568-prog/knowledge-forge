@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["charging", "premium"]
+aka: ["charging premium"]
 origin: sources/S_ig_disisjorj_DUI2rFwiErR.md
 ---
 
-# G_ig_disisjorj_DUI2rFwiErR — charging
+# G_ig_disisjorj_DUI2rFwiErR — charging premium
 
 ## Term
 
-charging is the most prominent repeated term in this source (133-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: premium, home, office. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'charging premium' names the conversational lever disisjorj treats as the thing that turns a maybe into a yes. It appears once in the transcript, and it sits next to 'without', 'having', and 'rent' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: If you are charging premium, then you should… Without 'charging premium', the reel is just a clip about nothing; with it, the clip is a claim.
 
 ## Synonyms
 
-- charging
-- premium
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "video is telling people you're working from your home office, even though you're charging 10K for your coaching. So here's how we fix it without having to rent a studio. If you are charging premium, then you should look premium." — sources/S_ig_disisjorj_DUI2rFwiErR.md
+> "charging 10K for your coaching. So here's how we fix it without having to rent a studio. If you are charging premium, then you should look premium. And it has nothing to do with working from home, but it has everything to do with what's in the frame" — sources/S_ig_disisjorj_DUI2rFwiErR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'charging premium' to a specific move disisjorj says is missing here, not a universal recommendation.
+- Read as a tagline worth extracting: the source shows disisjorj using 'charging premium' as a working label in one specific argument (visible in the collocation with 'without'), not as a slogan the reader is meant to repeat.

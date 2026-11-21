@@ -1554,1506 +1554,1506 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRp6-t0EmNt.md | money | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRp65-qElDr.md | invent | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRsebGJCCYc.md | review | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRsr7OWDYtM.md | status | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRssDYRDfi1.md | hundred | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcLIVjVPz.md | listening | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcOJkDUeT.md | differentiator | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRvnOHeiZW8.md | clients | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9TlSjbwI.md | dollars | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9iYMDUOy.md | ads | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9n_Ulfj9.md | person | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRsr7OWDYtM.md | decrease desire | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRssDYRDfi1.md | desolate poverty | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcLIVjVPz.md | undeniably confident | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcOJkDUeT.md | recognize whether | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRvnOHeiZW8.md | clients | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9TlSjbwI.md | five | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9iYMDUOy.md | excluding referrals | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9n_Ulfj9.md | person wants | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DS-35mziFz3.md | cosmetic surgeon | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DS0ksLYDjA6.md | dropshipping | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DS1P2ynjflU.md | broke | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSijGKXEVMa.md | YouTube | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSlFXOykpUx.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSlH79Cj297.md | clients | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSn_AiHDSQu.md | government | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSnsr-eD75B.md | software company | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DS1P2ynjflU.md | temporarily without | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSijGKXEVMa.md | youtube | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSlFXOykpUx.md | loan | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSlH79Cj297.md | biggest misconception | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSn_AiHDSQu.md | government assistance | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSnsr-eD75B.md | software company | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DSoThAlDfI0.md | goes | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DSqRfzfj2zf.md | health insurance | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSqu3QxDRfz.md | place | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSs2Q8bDxyS.md | money | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSvbIGFgvqn.md | hard mode | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSvpM7LjSc2.md | work | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSwSgYdDcYl.md | Selling | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSx_2zGjQ1j.md | course | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSy0hlejdXc.md | job | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTTlFbYDxgp.md | acquisition | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTVoCCWDe3A.md | bored | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTWQyYUDaLr.md | buy | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSqu3QxDRfz.md | place | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSs2Q8bDxyS.md | trading | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSvbIGFgvqn.md | clients' businesses | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSvpM7LjSc2.md | multiple families | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSwSgYdDcYl.md | selling | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSx_2zGjQ1j.md | course | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSy0hlejdXc.md | humanly possible | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTTlFbYDxgp.md | service-based companies | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTVoCCWDe3A.md | There's a lot of people who haven't been bored in years. Lik… | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTWQyYUDaLr.md | buy | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DTY1jEnFhvR.md | competitive | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTYGDWoDf6l.md | fun | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DT_kYOjFMcg.md | money | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTYGDWoDf6l.md | fun | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DT_kYOjFMcg.md | trading | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DTayTwKkdFV.md | office politics | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTbTfjkAuT4.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTd4UDGlJ6C.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTdiQ9zgXIH.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTgKIROgcYE.md | art | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTgqyk4CL0_.md | refund | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTiu-osAUKC.md | system | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTjB0QTjSp9.md | ability | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTlmp7NAO-M.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DToLcdKjDth.md | million dollars | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTbTfjkAuT4.md | white | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTd4UDGlJ6C.md | intelligent person | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTdiQ9zgXIH.md | trading | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTgKIROgcYE.md | government dictated | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTgqyk4CL0_.md | refund | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTiu-osAUKC.md | long-term relationship | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTjB0QTjSp9.md | precise handholding | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTlmp7NAO-M.md | successful | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DToLcdKjDth.md | million | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DTrLstXDqSV.md | trading course | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTtwj1gEqDk.md | money | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTtwj1gEqDk.md | scarcity mindset | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DTvzBDrjL06.md | offer | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTyXuczAh5i.md | ads | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DU-pwzVgVU5.md | dollars | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTyXuczAh5i.md | ads | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DU-pwzVgVU5.md | place | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DU1bU4VEb8h.md | buy | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DU4T9u_jVfY.md | sell | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DU8E95rGFfv.md | writing | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUCCUSKD5a9.md | question | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUEZRn9jx0v.md | call | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUG-EbUjXhX.md | fucking | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUJi5VSD3Tr.md | per | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUMVZ9Tjq3s.md | business | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUOnWDwDBhr.md | better | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUzR9RQibxJ.md | digitally rendered | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV16IGIk544.md | work | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV4l3MZCX2V.md | Selling | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV7KihCld_7.md | TikTok | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV95lfDD16i.md | sales floor | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUEZRn9jx0v.md | availability variance | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUG-EbUjXhX.md | dude comments | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUJi5VSD3Tr.md | three thousand | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUMVZ9Tjq3s.md | astronomically higher | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUOnWDwDBhr.md | intertwined together | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUzR9RQibxJ.md | digitally rendered | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV16IGIk544.md | completely wrong | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV4l3MZCX2V.md | selling | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV7KihCld_7.md | tiktok shop | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV95lfDD16i.md | sales floor | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DVE4Eo8jZpP.md | guarantee | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVHjxm8jZeC.md | work | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVKPXwGkw_G.md | phone | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVM0KnTmNQ-.md | clients | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVPSFgZDyW5.md | invent | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVHjxm8jZeC.md | because | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVKPXwGkw_G.md | legitimately hundreds | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVM0KnTmNQ-.md | clients | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVPSFgZDyW5.md | severely higher | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DVSLismCObL.md | million | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DW49mVTiuN9.md | copywriting | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DW80z4lDLmB.md | buy | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWAebazCpiO.md | client | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWC8TQOjNNY.md | money | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWFhISWgBXY.md | AI | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DW80z4lDLmB.md | buy | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWAebazCpiO.md | button infinitely | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWC8TQOjNNY.md | scarcity mindset | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWFhISWgBXY.md | because | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DWIMxhiDSvX.md | goes | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWKquTygjtL.md | club | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWNS-3cD9Fs.md | raise | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWSjatBD2NG.md | money | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWVIPFugEox.md | government | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWXnxM7AoaR.md | interesting | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWKquTygjtL.md | club | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWNS-3cD9Fs.md | scarcity campaigns | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWSjatBD2NG.md | return | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWVIPFugEox.md | government assistance | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWXnxM7AoaR.md | better outputs | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DWaR3UJAUJ-.md | case studies | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DWcbJqqAgQh.md | easier | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXHH-Kqj6JT.md | Twitter | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXIhQOIjuoT.md | show | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXHH-Kqj6JT.md | private group | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXIhQOIjuoT.md | show | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DXK_OkyDI8g.md | clients | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXNj7bADZ1x.md | outreach | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXQIurgiesX.md | dollar client | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXSmrlcDaD7.md | million dollars | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXVLhIyDdZa.md | service | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXX3MSvjROx.md | works | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXaVHXVFR40.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXennTdq2vP.md | work | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXfejFzq7n3.md | hard mode | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXkoSuMEXo-.md | broke | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXnM8nIq1ww.md | higher | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXpxyWlKt2Q.md | buy | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY-269lqw0K.md | home | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY0jtqtqNDZ.md | Publix | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY3Ihv1ghyE.md | raise | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY5tV3WDRwH.md | hundred | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY8SEpMKOBI.md | traffic | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXNj7bADZ1x.md | negative perspective | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXQIurgiesX.md | fifty thousand | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXSmrlcDaD7.md | million | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXVLhIyDdZa.md | location freedom | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXX3MSvjROx.md | continuously split | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXaVHXVFR40.md | intelligent person | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXennTdq2vP.md | completely wrong | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXfejFzq7n3.md | clients' businesses | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXkoSuMEXo-.md | temporarily without | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXnM8nIq1ww.md | astronomically higher | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXpxyWlKt2Q.md | buy | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY-269lqw0K.md | nothing home | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY0jtqtqNDZ.md | gerald steiners | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY3Ihv1ghyE.md | scarcity campaigns | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY5tV3WDRwH.md | hundred | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY8SEpMKOBI.md | traffic | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYCPeDBCiRl.md | parasocial relationship | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYDoooPmvEC.md | hundred | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYGNeHAj9LS.md | fun | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYIyLjcKFOx.md | results | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYLW6f2qcGh.md | business | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYN7yBUj8dH.md | job | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYVqNpjge-5.md | government | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYDoooPmvEC.md | desolate poverty | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYGNeHAj9LS.md | fun | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYIyLjcKFOx.md | results | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYLW6f2qcGh.md | lead generation | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYN7yBUj8dH.md | humanly possible | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYVqNpjge-5.md | government assistance | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYa6obhKw44.md | mean | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYdfZxyKVV7.md | pay | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYf9Yj6FSMi.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYipHPyjgfw.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYlG_bPGsDo.md | service | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYnruACjIgF.md | meaningful | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYqQfXwIEcr.md | club | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYs1S-rKYqL.md | million | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYvaGpqqwFK.md | Ads | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYx-9E6jVAI.md | restaurant | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZ07m3ClKit.md | dollars | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYf9Yj6FSMi.md | personally guaranteed | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYipHPyjgfw.md | trading | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYlG_bPGsDo.md | location freedom | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYnruACjIgF.md | abnormally difficult | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYqQfXwIEcr.md | club | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYs1S-rKYqL.md | million | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYvaGpqqwFK.md | google ads | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYx-9E6jVAI.md | restaurant | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZ07m3ClKit.md | million | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DZ3gZMCgfqp.md | cold email | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZ6FMa0Adxw.md | proper | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZ8w2HjgZcC.md | work | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZBbnywqplS.md | brand maxing | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZED7n6ErgP.md | money | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZ6FMa0Adxw.md | logistically intense | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZ8w2HjgZcC.md | completely wrong | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZBbnywqplS.md | incrementally higher | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZED7n6ErgP.md | learn | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DZHwy8VlckU.md | temporarily | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZJDLNcKA9-.md | dollars | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZLu54fjF4W.md | service | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZOTmX5gQf7.md | wall | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZQ4e5TD6sS.md | less | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZTdLQ7qD7Q.md | business | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZWCD0mASIU.md | work | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZYm0zfKP-d.md | write | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZ_VnnuDi7E.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZafxeqtkzc.md | hella | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZdwgLhASG_.md | around | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZgVP8NjxUA.md | profit | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZi6Demj5Gs.md | fun | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZle3gnjQky.md | marketing | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZoDoeEjqYY.md | content | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZJDLNcKA9-.md | offer | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZLu54fjF4W.md | location freedom | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZOTmX5gQf7.md | wall | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZQ4e5TD6sS.md | objectively worse | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZTdLQ7qD7Q.md | enterprise value | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZWCD0mASIU.md | multiple families | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZYm0zfKP-d.md | email list | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZ_VnnuDi7E.md | trading | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZafxeqtkzc.md | hella | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZdwgLhASG_.md | meetings wednesday | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZgVP8NjxUA.md | million | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZi6Demj5Gs.md | fun | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZle3gnjQky.md | marketing | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZoDoeEjqYY.md | enterprise value | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DZqoaFSjr-3.md | temporarily | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZtNOL-D4j0.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZvyAj_iJWT.md | invent | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DZyWxp9DxJT.md | client | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Da1TePJjZ97.md | club | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Da34M8QjzvF.md | static | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Da6dB9DDZlg.md | clients | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Da9B4BwCa4t.md | art | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DaBzgNgHCha.md | broke | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DaEbvDIjS9a.md | hundred dollars | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DaG9KFXCJvG.md | use | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZtNOL-D4j0.md | personally guaranteed | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZvyAj_iJWT.md | severely higher | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DZyWxp9DxJT.md | cold email | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Da1TePJjZ97.md | club | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Da34M8QjzvF.md | meta andromeda | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Da6dB9DDZlg.md | clients | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Da9B4BwCa4t.md | government dictated | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DaBzgNgHCha.md | temporarily without | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DaEbvDIjS9a.md | five hundred | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DaG9KFXCJvG.md | use | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DaJh_LhDH_2.md | thousand | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DaMSvN_DM13.md | goes | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DaOrjH5DcNW.md | content | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DaeIbYzClbe.md | AI | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dag6z9jiCBU.md | place | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DajYuOoES8v.md | subconsciously | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DaOrjH5DcNW.md | logistical intensity | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DaeIbYzClbe.md | sell | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dag6z9jiCBU.md | place | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DajYuOoES8v.md | subconsciously sabotaging | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Dal2uflkkVI.md | parasocial relationship | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Daobfo4ASsr.md | sales | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DarAVFrAFQ8.md | productized service | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DatlCQHCV_t.md | raise | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DawJ18NDIAi.md | cold | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DayusD5FaNf.md | ticket product | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DarAVFrAFQ8.md | fifteen hundred | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DatlCQHCV_t.md | scarcity campaigns | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DawJ18NDIAi.md | cold | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DayusD5FaNf.md | ticket | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Db1rVYCkkuC.md | temporarily | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Db4QL0WlIBm.md | screw | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Db60-EYiIGb.md | leads | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Db9ZvcjAf2r.md | business | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbWxz2JiPUR.md | YouTube | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dbb7a4okvJO.md | work | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbegLs8jK1I.md | Million | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbhE9ktjHYM.md | AI | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbjpzTZD52I.md | club | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbmOhUsAY4Q.md | wall | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbozYs8jE1i.md | unique | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbrYNl1iirH.md | traffic | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dbt884zgDq9.md | business | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DbzGiMJiHkO.md | food | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dc2DNQnjL3z.md | means | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dc4oDwUoG2b.md | invent | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dc7M0FFj38K.md | niche | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dc9xnkPkdgM.md | sell | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DcPbWFslFhi.md | lead generation | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Db4QL0WlIBm.md | facebook ads | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Db60-EYiIGb.md | leads | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Db9ZvcjAf2r.md | trading | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbWxz2JiPUR.md | youtube | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dbb7a4okvJO.md | completely wrong | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbegLs8jK1I.md | michael masterson | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbhE9ktjHYM.md | sell | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbjpzTZD52I.md | club | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbmOhUsAY4Q.md | wall | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbozYs8jE1i.md | unique | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbrYNl1iirH.md | traffic | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dbt884zgDq9.md | lead generation | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DbzGiMJiHkO.md | food | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dc2DNQnjL3z.md | personalized outreach | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dc4oDwUoG2b.md | severely higher | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dc7M0FFj38K.md | niche | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dc9xnkPkdgM.md | marketing channel | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DcPbWFslFhi.md | lead generation | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DcXJszgGn79.md | results | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DcZucx_DTA4.md | funnel | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DccTRrQFUCd.md | traffic | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dce4B8UDJGb.md | outreach | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dchc3lVjEmW.md | clients | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DcuU3n4D6n-.md | loud | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DccTRrQFUCd.md | traffic | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dce4B8UDJGb.md | three | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dchc3lVjEmW.md | because | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DcuU3n4D6n-.md | loud | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Dcw5qf0D0ao.md | goes | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DczeaLEisz0.md | Spanish | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dd-JbCOioi7.md | productized service | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dd2bHmOgt8F.md | already | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Dd4_8NqAXTk.md | clients | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DczeaLEisz0.md | spanish | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dd-JbCOioi7.md | fifteen hundred | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dd2bHmOgt8F.md | already | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Dd4_8NqAXTk.md | clients | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Dd7kpNvD8Yf.md | conversion rate | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdAPklrAgDr.md | place | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdC7HdBk2-6.md | niches | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdFf8AwiXfa.md | fun | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdIE1ENj3MP.md | TAM | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdKpmNrDzkP.md | Alex Ramosi | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdAPklrAgDr.md | place | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdC7HdBk2-6.md | because | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdFf8AwiXfa.md | fun | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdIE1ENj3MP.md | tam | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdKpmNrDzkP.md | alex ramosi | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_Ddh0x7uFWhX.md | email | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdkZjjXFIan.md | logistical intensity | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Ddm-WC3jtQj.md | work | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdpjHm0jRXT.md | positive | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdkZjjXFIan.md | logistical intensity | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Ddm-WC3jtQj.md | clients | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdpjHm0jRXT.md | positive | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DdsH8AkjZ6G.md | better | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdussmRjIgP.md | money | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DdxRiUZj7Az.md | apartment complex | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_Ddz2XEOEc_f.md | Loom | 3 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DeAuTzjjmCx.md | ultimately | 3 |
-| glossary/danieldiazbiz/G_ig_danieldiazbiz_Dd4Cosux3Jv.md | hiring | 2 |
-| glossary/danieldiazbiz/G_ig_danieldiazbiz_Dd5Um2ON7RA.md | availability | 1 |
-| glossary/danieldiazbiz/G_ig_danieldiazbiz_DdPL41JNTaC.md | email | 3 |
-| glossary/danielsmyth_/G_ig_danielsmyth__DXedrQpEefU.md | sales | 2 |
-| glossary/danielsmyth_/G_ig_danielsmyth__DZVGqVVRQNk.md | life | 3 |
-| glossary/danielsmyth_/G_ig_danielsmyth__DZgNT3wRcVO.md | her | 2 |
-| glossary/danielsmyth_/G_ig_danielsmyth__Dd6uZpYg9dG.md | stand | 2 |
-| glossary/danielsmyth_/G_ig_danielsmyth__DdPgczKR7Fu.md | car park | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH1Z3TxPRUg.md | Step | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH3-ozrvmBV.md | online | 3 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdussmRjIgP.md | digitally rendered | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DdxRiUZj7Az.md | apartment complex | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_Ddz2XEOEc_f.md | personalized outreach | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DeAuTzjjmCx.md | ultimately | 2 |
+| glossary/danieldiazbiz/G_ig_danieldiazbiz_Dd4Cosux3Jv.md | actively hiring | 2 |
+| glossary/danieldiazbiz/G_ig_danieldiazbiz_Dd5Um2ON7RA.md | maternity leave | 1 |
+| glossary/danieldiazbiz/G_ig_danieldiazbiz_DdPL41JNTaC.md | email | 2 |
+| glossary/danielsmyth_/G_ig_danielsmyth__DXedrQpEefU.md | ticket sales | 2 |
+| glossary/danielsmyth_/G_ig_danielsmyth__DZVGqVVRQNk.md | better | 2 |
+| glossary/danielsmyth_/G_ig_danielsmyth__DZgNT3wRcVO.md | inspiration becomes | 1 |
+| glossary/danielsmyth_/G_ig_danielsmyth__Dd6uZpYg9dG.md | So darlin', darlin', stand by me, oh, stand by me. Oh, stand… | 1 |
+| glossary/danielsmyth_/G_ig_danielsmyth__DdPgczKR7Fu.md | because | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH1Z3TxPRUg.md | psychology behind | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH3-ozrvmBV.md | following | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DH3cYNbPCwK.md | model | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH3caBbvNGr.md | university | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH6BKJoPkDx.md | high school | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH6jbpAvQHV.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH8l9gBvEBk.md | mentor | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH94Tfvv8Ky.md | money | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH9ITFIPqJ7.md | clocking | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH9jt2HvDdR.md | ticket | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH_KybHv0j1.md | snowball | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH_tHRuPgvz.md | content | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHt10xoB6H_.md | extraordinary | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHtdXuZvF9e.md | read | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHvt9tUv4SF.md | momentum | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHwJf1dvpFy.md | traveling | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHySt6qvwX1.md | phone | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH3caBbvNGr.md | sounded interesting | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH6BKJoPkDx.md | school | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH6jbpAvQHV.md | amazon shutdown | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH8l9gBvEBk.md | mentor | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH94Tfvv8Ky.md | successful venture | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH9ITFIPqJ7.md | called copywriting | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH9jt2HvDdR.md | ticket | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH_KybHv0j1.md | mountain | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DH_tHRuPgvz.md | coaching call | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHt10xoB6H_.md | years | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHtdXuZvF9e.md | read | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHvt9tUv4SF.md | within two | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHwJf1dvpFy.md | while traveling | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHySt6qvwX1.md | phone | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DHyuSjVPBso.md | started | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHzJswVvyK-.md | student | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI1SaOqMqt9.md | Scared | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI1vdv2POO4.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI3051axqes.md | real | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DHzJswVvyK-.md | electrical engineering | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI1SaOqMqt9.md | because | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI1vdv2POO4.md | electrical engineering | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI3051axqes.md | real | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DI3oRA1vQnr.md | without | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI593PYRBcJ.md | business | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI593PYRBcJ.md | electrical engineering | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DI8vyj4xGXB.md | learning | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIAIjZDPSJK.md | crazy | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICMOncBbZ_.md | easier | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICfoelhx51.md | American clients | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICtUYshMlV.md | offer | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICMOncBbZ_.md | entrepreneurs preaching | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICfoelhx51.md | american clients | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DICtUYshMlV.md | offer | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIE2tN1hlV5.md | mentor | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIEUY8xhH8q.md | words | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIFSJqTBZkF.md | call | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIH9xLUhEla.md | clients | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIHS2GcBWF0.md | change | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIHpJx5BV4n.md | content | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIJwopYvpAd.md | living | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIKHEOEPf_B.md | million | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIMCtorB3N5.md | better | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIFSJqTBZkF.md | call | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIH9xLUhEla.md | page | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIHS2GcBWF0.md | years ago | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIHpJx5BV4n.md | become successful | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIJwopYvpAd.md | lower class | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIKHEOEPf_B.md | anywhere else | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIMCtorB3N5.md | better | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIMlBeVBbox.md | phase | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DINAd10Bieb.md | websites | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DINAd10Bieb.md | page | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIOngvqhZ9X.md | funnel | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIRMRxbhY54.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIRupDLh5iM.md | business | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIRMRxbhY54.md | maybe | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIRupDLh5iM.md | automatically attract | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIRusMfBwcB.md | tax | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DISKFoXhx12.md | transformation | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DISKFoXhx12.md | transformation challenge | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DISKIlrBKQe.md | designed | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIUTZcPvzt1.md | along | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIUTZcPvzt1.md | theoretically learning | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIUu8dTPKqX.md | yourself | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIWV4cAvPuv.md | lemonade | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIWV7GPvSKN.md | cash | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIY6vX2vaOJ.md | network | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIZ4iitvkqo.md | Number | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIZdDKAvee3.md | world | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI_m3_JxG_Z.md | ad | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIb-QkwhCxA.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIc4tNNhiCg.md | Number | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIWV4cAvPuv.md | freshly squeezed | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIWV7GPvSKN.md | started invest | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIY6vX2vaOJ.md | dubai because | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIZ4iitvkqo.md | system | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIZdDKAvee3.md | online | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DI_m3_JxG_Z.md | ads | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIb-QkwhCxA.md | started dropshipping | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIc4tNNhiCg.md | email subscribers | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIcdOuPBind.md | punishment | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIgpEzGPIbh.md | event | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIgpEzGPIbh.md | because | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIhEiFAvT2d.md | offer | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIhm4lsvsQX.md | growth | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIl2u0sMRIR.md | care | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIlrSEtsaUZ.md | choosing | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIo4U53vT6L.md | money | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIoW2H6sOWt.md | questions | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIoq1GbM_1K.md | work | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIq8Yiesu9J.md | stop | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIl2u0sMRIR.md | care | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIlrSEtsaUZ.md | choosing | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIo4U53vT6L.md | let | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIoW2H6sOWt.md | questions | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIoq1GbM_1K.md | hard | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIq8Yiesu9J.md | already overwhelmed | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIqsGpLMwaU.md | broke | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIt3vKIveuS.md | whatever | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DItUOEAMdOv.md | audience | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIvxh1Nx0JQ.md | overwhelmed | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIt3vKIveuS.md | female entrepreneurs | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DItUOEAMdOv.md | ogilvie's principle | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DIvxh1Nx0JQ.md | overwhelmed because | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIwd53kvjCR.md | real | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DIy07nZMQkL.md | security | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ157OIMVdX.md | business | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ1f4b3seCU.md | business | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ2jhBZBeuE.md | prompts | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ41-UvMsm7.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ157OIMVdX.md | prompts | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ1f4b3seCU.md | prompts | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ2jhBZBeuE.md | prompts | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ41-UvMsm7.md | blame | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ4FDAkMZxv.md | email | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ6s4cwMPGY.md | business | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ6s4cwMPGY.md | real relationship | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ6tHQCM96X.md | selling | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJCOJ7tMyJ-.md | business | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJCOJ7tMyJ-.md | everything's blooming | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJEfMdHsqsd.md | online | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJFFHYZhr7W.md | marketing | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJFKfm0Mbqo.md | high | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJHgQHEM_Mq.md | fear | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJFFHYZhr7W.md | digital | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJFKfm0Mbqo.md | affiliate marketing | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJHgQHEM_Mq.md | fear | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJIKEZJzTWS.md | important | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJJ3g_iMQv7.md | VSL | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJKj0-SMFWE.md | responsibility | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJMIwW1sJ6H.md | life | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJNWQ7yTkWO.md | American | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJOnngWPKUz.md | passion | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJPeGpvMqpT.md | women | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJRhVwhv-ZR.md | offer | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJRsMKvPjII.md | increase | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJU1HeAM4Km.md | usually | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ_0wjmspbh.md | plan | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJb9F5LMLO-.md | ad | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJJ3g_iMQv7.md | complicated funnels | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJKj0-SMFWE.md | man | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJMIwW1sJ6H.md | ask | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJNWQ7yTkWO.md | technically imprisonment | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJOnngWPKUz.md | passion | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJPeGpvMqpT.md | women | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJRhVwhv-ZR.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJRsMKvPjII.md | increase | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJU1HeAM4Km.md | demands commitment | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJ_0wjmspbh.md | follow | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJb9F5LMLO-.md | ryan reynolds | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJbj64NP3_h.md | word roadmap | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJcN0zZsmsL.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJeuXVBsGqD.md | business | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJcN0zZsmsL.md | millionaire overnight | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJeuXVBsGqD.md | exceeded expectations | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJg0HrpPY_r.md | wait | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJg2RQAM8XA.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJjrJpVsSWd.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJkIWO_sft1.md | Number | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJkfETcMrc5.md | Number | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJg2RQAM8XA.md | because optimists | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJjrJpVsSWd.md | control | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJkIWO_sft1.md | ronaldo | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJkfETcMrc5.md | price | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJmuAjtMeHa.md | parents | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DJojzRFMZJT.md | instant gratification | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJrCMhvPyd4.md | responsibility | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DK9i9oBMYMO.md | Superman | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DK9xnE1sZrF.md | pa | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DJrCMhvPyd4.md | transformation begins | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DK9i9oBMYMO.md | superman | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DK9xnE1sZrF.md | No excesso do fim de semana, pa pa pa pa pa pa pa pa pa pa p… | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKFH1RQsJDd.md | leverage | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKIIfGzsWUi.md | business | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKIIfGzsWUi.md | avoiding commitment | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKIwx31BCh1.md | million | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKIxH-5BYOe.md | roadmap | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKJ3jZus2Sr.md | fucking | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKKBBSvPxGl.md | product | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKIxH-5BYOe.md | millionaire roadmap | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKJ3jZus2Sr.md | because | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKKBBSvPxGl.md | selling | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKKkWiaMFBy.md | favorite | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKMs52EsL9F.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKPR03uMzsF.md | story | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKPuSrQsU-w.md | content | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKRyPvmMJFR.md | funnel | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKUoCLiM0KU.md | College | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKMs52EsL9F.md | problem | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKPR03uMzsF.md | childhood trauma | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKPuSrQsU-w.md | creator | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKRyPvmMJFR.md | funnel | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKUoCLiM0KU.md | electrical engineering | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKexErgMH2C.md | anh | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKiOdkTsGPK.md | believe | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKiOdkTsGPK.md | competition instead | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKj-6XxsF3v.md | yourself | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKnSKVwMp0n.md | anger | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKnSKVwMp0n.md | anger | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKpI32ZsKqq.md | ask | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKrkIOJMFDF.md | broke | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKuml5vsn30.md | use | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKrkIOJMFDF.md | because | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DKuml5vsn30.md | cannot use | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKwsFi2v2lo.md | confident | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DKxcIppsmUm.md | million | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLGASPYMy4G.md | Trump | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLIqU8rMwEq.md | unemployed | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLKeJRUMwld.md | mindset | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLKrZJdtuXc.md | Chicago | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLGASPYMy4G.md | trump | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLIqU8rMwEq.md | government | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLKeJRUMwld.md | mindset | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLKrZJdtuXc.md | Just trust me, you'll be fine. And when I'm back in Chicago,… | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DLNcf7lMTLM.md | ads | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLPg2fRsbeV.md | solution | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLSM7stsjYn.md | use | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLUzqpxsq39.md | ChatGPT | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLX2nhhMQPp.md | la | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLXX7kzMuro.md | kids | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLZ8A2hMDJv.md | YouTube | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLPg2fRsbeV.md | solution | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLSM7stsjYn.md | leveraging chatgpt | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLUzqpxsq39.md | chatgpt | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLX2nhhMQPp.md | Fino al amanecer, la la la la la la la. A mirar la luna, la … | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLXX7kzMuro.md | kids | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLZ8A2hMDJv.md | youtube | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DLfRqFRMWyq.md | military | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLt1YWXvH3X.md | connections | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLxtQMiMTOc.md | Wow | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLz0zeosSnQ.md | busy | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM-5s9SsOp5.md | opportunity | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM23iJtsW7I.md | algorithm | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM8svWTstfU.md | enough | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMAmaksMTWa.md | Fuck | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMK1dJcMz4K.md | stop | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMNXrqSvjb7.md | Remember | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMNwbr6KqCv.md | viral | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMVa3fUsmH9.md | million | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMXimu3MIn6.md | real | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMZ4gBgsIcU.md | million | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMkti5SMITf.md | funnel | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMqXMykMJ_h.md | business | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMsH9igMcAE.md | Stop | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMvS7vKM3v4.md | start | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLt1YWXvH3X.md | I found a contact with criminal connections in the south eas… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLxtQMiMTOc.md | Wow. I didn't know that. I just, you're telling me now for t… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DLz0zeosSnQ.md | social media | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM-5s9SsOp5.md | claim ambition | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM23iJtsW7I.md | broke because | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DM8svWTstfU.md | confidence isn't | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMAmaksMTWa.md | lawyer though | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMK1dJcMz4K.md | stop | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMNXrqSvjb7.md | Remember feeling broke as. But now I'm pulling up in Rover t… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMNwbr6KqCv.md | viral | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMVa3fUsmH9.md | psychological triggers | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMXimu3MIn6.md | real | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMZ4gBgsIcU.md | consistent actions | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMkti5SMITf.md | funnel | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMqXMykMJ_h.md | profits disappeared | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMsH9igMcAE.md | stop | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DMvS7vKM3v4.md | lot | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DN8aKrEDM1V.md | praying | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNF_pa0s8AP.md | numbers | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNGGOuNsYI_.md | money | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNL_ReIMtVH.md | discouraging | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNN4H5PsqoL.md | rich | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNf_nSGtId9.md | his | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNihXGEMP90.md | offer | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNnwTPUMsYe.md | decision | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNqPSAfs-68.md | freedom | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DODjJaEjEXM.md | school | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOEhNSFDGLx.md | wow | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNF_pa0s8AP.md | close friends | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNGGOuNsYI_.md | seven figures | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNL_ReIMtVH.md | stranger criticizes | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNN4H5PsqoL.md | rich | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNf_nSGtId9.md | moment | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNihXGEMP90.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNnwTPUMsYe.md | decision | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DNqPSAfs-68.md | freedom | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DODjJaEjEXM.md | school | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOEhNSFDGLx.md | Wow, wow, wow. Want it all, I won't leave a breadcrumb. Bitc… | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DOJDjbXDFfQ.md | books | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOOYLcFDDUP.md | emotion | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOOYLcFDDUP.md | emotion | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DOUNvvXEx_J.md | level | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOWAcLejMld.md | shit | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOYniV8DG20.md | spend | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOdx2XzjHyY.md | yourself | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOg0cpxjJ9m.md | belief | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOlSukwjJrl.md | pain | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOqqE6hjN4x.md | Step | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOtQTK8jKSK.md | offer | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOvxwOhjNBn.md | work | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOWAcLejMld.md | come | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOYniV8DG20.md | social media | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOdx2XzjHyY.md | biggest believer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOg0cpxjJ9m.md | belief | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOlSukwjJrl.md | pain | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOqqE6hjN4x.md | impossible standards | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOtQTK8jKSK.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DOvxwOhjNBn.md | hard | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DP1UPZHDdhq.md | without | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DP1e1fwD4N3.md | ha | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPOYHCaDTkG.md | offer | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPRRJ_RDdZJ.md | intention | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPToH-hjSpD.md | Evolution | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPWcAAyjcoG.md | transformation | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPZMFbfjV-V.md | crumbles | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DP_5VzGkTIk.md | nice | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DP1e1fwD4N3.md | social media | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPOYHCaDTkG.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPRRJ_RDdZJ.md | seven-figure entrepreneur | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPToH-hjSpD.md | I'm from outer space. I got Milky Way for thought. Evolution… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPWcAAyjcoG.md | transformation | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPZMFbfjV-V.md | Swept away, I'm stolen.Let the sky fall.When it crumbles, we… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DP_5VzGkTIk.md | nice | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DPbW_vJjQcD.md | congratulations | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPbWrpyjcgb.md | eclipse | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPg0YwhjUQ6.md | headlines | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPjZP8ykcnH.md | proven | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPbWrpyjcgb.md | Ooh, I'm a rebel just for kicks. Yeah, your love is an abyss… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPg0YwhjUQ6.md | headlines | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPjZP8ykcnH.md | proven | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DPotkcLjO1U.md | webinar | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPrWsELkan5.md | abandoned | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPtp-9zjRBD.md | best | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPwy4zFjN06.md | million | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPyxh7WDVjF.md | headlines | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ19IPGkTXZ.md | still | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ4BmoKkadc.md | Number | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ6vaovDDQM.md | call | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ8wYtzjApC.md | money | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQCUUV4DD-D.md | money | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQEy8vojLLx.md | percent | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQKKM2XDI96.md | te bagur | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQUlUlFjwW2.md | product | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQerViZDO2I.md | Underrated | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPrWsELkan5.md | abandoned cart | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPtp-9zjRBD.md | best | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPwy4zFjN06.md | million | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DPyxh7WDVjF.md | headlines | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ19IPGkTXZ.md | years | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ4BmoKkadc.md | five | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ6vaovDDQM.md | call | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQ8wYtzjApC.md | underrated | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQCUUV4DD-D.md | wants | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQEy8vojLLx.md | two percent | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQKKM2XDI96.md | Tá te bagur, tá te bagur, tá te bagur, tá te bagur, tá te ba… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQUlUlFjwW2.md | selling | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQerViZDO2I.md | underrated | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DQjVkVxjHwx.md | strangers | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DQmKqfBEVXw.md | teach | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQovryGkaK1.md | calls | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQovryGkaK1.md | digital products | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DQrZDWAjCKJ.md | sales | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DQuZ_zjjH6M.md | keep | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQwOKkhDAtd.md | back | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQwOKkhDAtd.md | bringing sexy | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DQwqq2MkeKb.md | hire | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQy_FQPEdAQ.md | fuck | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DR2GzvUDCjK.md | risk | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DR440GLjLNH.md | energy | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRQMrUVD0SC.md | price | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DQy_FQPEdAQ.md | You're just a bitch. Honestly, that's not me trying to be so… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DR2GzvUDCjK.md | risk | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DR440GLjLNH.md | energy | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRQMrUVD0SC.md | price | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DRR-VLTkT6R.md | personal | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRUjMGlEXWJ.md | scale | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRXJAPCET6n.md | sales | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRUjMGlEXWJ.md | whether organically | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRXJAPCET6n.md | because | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DRXpgX0EbZs.md | funnel | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRZxrnVEd8u.md | call | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRa7dVPkbRJ.md | Number | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRhnPIZjwB0.md | understand | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRkD7-oj685.md | vertical | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRmC7o1D739.md | Black | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRufGDxDI1L.md | money | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRZxrnVEd8u.md | call | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRa7dVPkbRJ.md | five | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRhnPIZjwB0.md | understand marketing | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRkD7-oj685.md | vertical scaling | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRmC7o1D739.md | black | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DRufGDxDI1L.md | backend | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DSdBJhfAYlB.md | strangers | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSfflatD8E1.md | friends | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSkZRCIjM-S.md | flag | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSnJbMrEZ6l.md | shit | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSsDIW6D6lF.md | flag | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DT2kbS8j_of.md | still | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DT7zvHtj15_.md | results | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTDM63PkfL5.md | diamond | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTLMKrKj1Sx.md | feel | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTsQzmlj8K7.md | refund | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSfflatD8E1.md | friends | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSkZRCIjM-S.md | flag | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSnJbMrEZ6l.md | come | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DSsDIW6D6lF.md | flag | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DT2kbS8j_of.md | uncomfortable | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DT7zvHtj15_.md | results | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTDM63PkfL5.md | Love to see you shine in the night, like the diamond you are… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTLMKrKj1Sx.md | motivated | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DTsQzmlj8K7.md | refund | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DTxgw2UDw_3.md | buy | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU-iLhDDzmX.md | tier | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU0k-27j6n9.md | means | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU1gnfAjGNq.md | fast | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU3PF1DEZRK.md | Vai toma | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU8LFnnkSGF.md | tier | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU-iLhDDzmX.md | tier | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU0k-27j6n9.md | learn | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU1gnfAjGNq.md | fast | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU3PF1DEZRK.md | vai toma | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DU8LFnnkSGF.md | tier | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DU9BPRVDIrw.md | technical | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DUA_gFPD5cg.md | strangers | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUDjXcoD_6O.md | Step | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUDjXcoD_6O.md | realistic step-by-step | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DUIfnq7j3_F.md | teach | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUYL9qIEYj-.md | wrote | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUda7w_D4aR.md | clients | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUgEbmCj1ur.md | tier | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUnkzaakaCS.md | tier | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUnxmSTD1NT.md | love | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUs8eDND9qL.md | results | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUv8dllj-t9.md | results | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUxzFd1D3ai.md | results | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUYL9qIEYj-.md | seven | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUda7w_D4aR.md | clients | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUgEbmCj1ur.md | Influence by Robert Cialdini. A tier, really good book. Buil… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUnkzaakaCS.md | book | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUnxmSTD1NT.md | I need to know now, know now, do you love me today? | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUs8eDND9qL.md | because | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUv8dllj-t9.md | without sacrificing | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DUxzFd1D3ai.md | because | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DV09LS0PZuH.md | passive | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DV3bNcNvKeU.md | offer | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DV3bNcNvKeU.md | offer | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DV8qbAnxSfc.md | tier | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DVZc7E2DObF.md | webinar | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DV_W1qsveWJ.md | underrated | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVd1UsNDxVL.md | buy | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVelRs5DAau.md | Facebook | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVgLhVRj0za.md | paid ads | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVd1UsNDxVL.md | buy | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVelRs5DAau.md | facebook | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVgLhVRj0za.md | paid ads | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DVoApfHDxdn.md | call | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVtMOypEW9I.md | Underrated | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVySIWID61A.md | tier | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DW1JK49R4sB.md | green | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DW6kNfxP63L.md | money | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWeUjv-P-06.md | money | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWgx_nEPJNY.md | Underrated | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWl2Y5GPS3r.md | Overrated | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWooWrMv9KE.md | meet | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWtPBKKRVOR.md | emotional | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DX4YzJsv8gJ.md | ordinary | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVtMOypEW9I.md | underrated | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DVySIWID61A.md | a-tier | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DW1JK49R4sB.md | She wants to meet your family early. Green flag, I think tha… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DW6kNfxP63L.md | What's a painful lesson money taught you? What I learned abo… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWeUjv-P-06.md | changed | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWgx_nEPJNY.md | underrated | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWl2Y5GPS3r.md | overrated | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWooWrMv9KE.md | joining masterminds | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DWtPBKKRVOR.md | emotional control | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DX4YzJsv8gJ.md | Our jealous know what we found. So this a world will be ordi… | 1 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DXCU3cWvwhs.md | tier | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXHPsPcPuVS.md | possible | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXJ6WbdPrbe.md | online business | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXsD0KQjEZC.md | AI | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXzDOwTv5Sf.md | underdogs | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY4k6-evHXs.md | system | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY7iuXSPDNM.md | Winner | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY9ranJRu6m.md | funnel | 3 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXHPsPcPuVS.md | become procrastination | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXJ6WbdPrbe.md | mentally weak | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXsD0KQjEZC.md | part | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DXzDOwTv5Sf.md | Hated a lover, the underdogs on top, and I'm gon' shine, hom… | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY4k6-evHXs.md | differentiate yourself | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY7iuXSPDNM.md | winner | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DY9ranJRu6m.md | funnel | 2 |
 | glossary/dankhanlegacy/G_ig_dankhanlegacy_DYFFpUexaH_.md | hard | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYPZWjgPPIT.md | offer | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYSA3SkPfv4.md | client | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYXJ2IEvc2j.md | paid ads | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYxJgMgvnoA.md | his | 2 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZAKhj9RUNz.md | C | 1 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZAOqgax3Kt.md | traffic | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZFdwpqxvB9.md | tier | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZIHjwIvyHv.md | tier | 3 |
-| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZNN1mHPzeU.md | tier | 3 |
-| glossary/dankndripwear/G_ig_dankndripwear_C6ine7fNG7M.md | sweet | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_C6yt4RjN-qB.md | knocking | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_DQMTnxDDJW8.md | baby | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_DV_-h7nDKmw.md | play | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYPZWjgPPIT.md | offer | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYSA3SkPfv4.md | buyers | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYXJ2IEvc2j.md | paid ads | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DYxJgMgvnoA.md | positioning | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZAKhj9RUNz.md | C G C G C G C G C G C G C G C G C G C G C G C G C G C G C G … | 1 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZAOqgax3Kt.md | traffic | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZFdwpqxvB9.md | tier | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZIHjwIvyHv.md | tier | 2 |
+| glossary/dankhanlegacy/G_ig_dankhanlegacy_DZNN1mHPzeU.md | tier | 2 |
+| glossary/dankndripwear/G_ig_dankndripwear_C6ine7fNG7M.md | Now he's thinking 'bout me every night, oh, is it that sweet… | 1 |
+| glossary/dankndripwear/G_ig_dankndripwear_C6yt4RjN-qB.md | four five | 1 |
+| glossary/dankndripwear/G_ig_dankndripwear_DQMTnxDDJW8.md | baby | 2 |
+| glossary/dankndripwear/G_ig_dankndripwear_DV_-h7nDKmw.md | Tell me, tell me what's your name, boy. I'll play you, play … | 1 |
 | glossary/dankndripwear/G_ig_dankndripwear_DWCWJM3jHxe.md | slipping | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_DWJ8QYHDMXY.md | bullshit | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_DX106BeM1UN.md | Snap | 1 |
+| glossary/dankndripwear/G_ig_dankndripwear_DWJ8QYHDMXY.md | bullshit | 2 |
+| glossary/dankndripwear/G_ig_dankndripwear_DX106BeM1UN.md | nope | 2 |
 | glossary/dankndripwear/G_ig_dankndripwear_DX6upwLM6ge.md | fight | 1 |
-| glossary/dankndripwear/G_ig_dankndripwear_DXROaJJDG_w.md | living souls | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Ck39fulAOTH.md | Kanye | 1 |
+| glossary/dankndripwear/G_ig_dankndripwear_DXROaJJDG_w.md | souls | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Ck39fulAOTH.md | controversial statement | 1 |
 | glossary/devinjatho/G_ig_devinjatho_CkHd0S6Aqq3.md | niche | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CkTkPiDpZPy.md | blue | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CkrgbRNgduG.md | attention | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CkuGa6GAZUu.md | hooks | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CkwhrjRAC4F.md | handsome men | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cl90DfTAYPx.md | algorithm | 3 |
-| glossary/devinjatho/G_ig_devinjatho_ClAB1_tgCEd.md | alt text | 1 |
-| glossary/devinjatho/G_ig_devinjatho_ClCiJaKgOMJ.md | questions | 1 |
-| glossary/devinjatho/G_ig_devinjatho_ClFS1rSgEAC.md | half | 3 |
+| glossary/devinjatho/G_ig_devinjatho_CkrgbRNgduG.md | viewers' attention | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CkuGa6GAZUu.md | controversial statement | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CkwhrjRAC4F.md | handsome men | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cl90DfTAYPx.md | algorithm | 2 |
+| glossary/devinjatho/G_ig_devinjatho_ClAB1_tgCEd.md | instagram | 2 |
+| glossary/devinjatho/G_ig_devinjatho_ClCiJaKgOMJ.md | contain questions | 1 |
+| glossary/devinjatho/G_ig_devinjatho_ClFS1rSgEAC.md | half | 2 |
 | glossary/devinjatho/G_ig_devinjatho_ClKZkpMAl-i.md | safe zone | 2 |
-| glossary/devinjatho/G_ig_devinjatho_ClR_YKFAw-f.md | Number | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cle69jngQhu.md | performance | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Clj-I1sg1CW.md | trick | 1 |
-| glossary/devinjatho/G_ig_devinjatho_ClmpfAsAxQM.md | products | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cm-OsnwD58o.md | possible | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cm1vmAzjMNQ.md | content | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cm4pk7wjX-b.md | choose | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cm7ZtbrjekW.md | stupid | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CmFU3ABALpl.md | step | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CmKrFqxgwyK.md | correct | 1 |
+| glossary/devinjatho/G_ig_devinjatho_ClR_YKFAw-f.md | three | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cle69jngQhu.md | attention-based society | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Clj-I1sg1CW.md | professional production | 1 |
+| glossary/devinjatho/G_ig_devinjatho_ClmpfAsAxQM.md | underutilized strategy | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cm-OsnwD58o.md | three | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cm1vmAzjMNQ.md | social | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cm4pk7wjX-b.md | called quantification | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cm7ZtbrjekW.md | sixth-grade reading | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CmFU3ABALpl.md | engagement | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CmKrFqxgwyK.md | almost guarantee | 1 |
 | glossary/devinjatho/G_ig_devinjatho_CmP5L2HAEti.md | bill | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CmSXhl_AFiv.md | sounds | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CmXlyougvNj.md | hook | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CmaHlS3DMt0.md | footage | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CmfQXqSjeHi.md | quality | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cmrrpu5Dnbj.md | viewer | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CmuJsbVj8J9.md | problem | 3 |
-| glossary/devinjatho/G_ig_devinjatho_CmwrGazDZ72.md | strategy | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cn-evt2gstI.md | give | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CmXlyougvNj.md | visual hook | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CmaHlS3DMt0.md | stock footage | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CmfQXqSjeHi.md | Here's an Instagram hack that most people don't know about. … | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cmrrpu5Dnbj.md | viewer entertained | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CmuJsbVj8J9.md | problem | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CmwrGazDZ72.md | people's attention | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cn-evt2gstI.md | called reciprocity | 1 |
 | glossary/devinjatho/G_ig_devinjatho_Cn0dpWgAtQf.md | reading level | 2 |
 | glossary/devinjatho/G_ig_devinjatho_Cn7LL91AB6o.md | shadowbanned | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CnANg6UDELj.md | adding | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CnANg6UDELj.md | adding | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CnDTbobjjSg.md | problem | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CnF58xCjQv_.md | line | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CoSvREng2f-.md | story | 3 |
-| glossary/devinjatho/G_ig_devinjatho_Coa5-gRgwwt.md | username | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CoiSCTnA2IA.md | safe | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Coptg6Ng4Li.md | nice | 3 |
-| glossary/devinjatho/G_ig_devinjatho_Cou5Ev1AOCC.md | name | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cp-SnyCg2Kt.md | story | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cp5LAChA4Ce.md | Number | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CpBBrZQAvdO.md | hashtag | 3 |
-| glossary/devinjatho/G_ig_devinjatho_CpIhnlpgRKL.md | creators | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CpLGnWsAt42.md | question | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CpNwO13A-PD.md | farther | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CpQhkDugUGr.md | button | 3 |
-| glossary/devinjatho/G_ig_devinjatho_CpV0IoDALp1.md | click | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cq5k5lBgACh.md | initial | 1 |
-| glossary/devinjatho/G_ig_devinjatho_Cq8M3G7ggVC.md | algorithm | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CoSvREng2f-.md | sticker | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Coa5-gRgwwt.md | google viralfinder | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CoiSCTnA2IA.md | safe zone | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Coptg6Ng4Li.md | nice guy | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cou5Ev1AOCC.md | social media | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cp-SnyCg2Kt.md | instagram link | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cp5LAChA4Ce.md | visually stimulated | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CpBBrZQAvdO.md | hashtag | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CpIhnlpgRKL.md | ten creators | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CpLGnWsAt42.md | overall comments | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CpNwO13A-PD.md | video's competition | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CpQhkDugUGr.md | button | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CpV0IoDALp1.md | studio-like quality | 1 |
+| glossary/devinjatho/G_ig_devinjatho_Cq5k5lBgACh.md | followers | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cq8M3G7ggVC.md | comments | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CqBC2WGAMVE.md | interest topics | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CqGCZ3xANpu.md | slider | 3 |
-| glossary/devinjatho/G_ig_devinjatho_CqIkMvsgwaJ.md | steal | 2 |
-| glossary/devinjatho/G_ig_devinjatho_CqQRutYA-t4.md | audio | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CqTEPp3AMt6.md | positive question | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CqaqXOFAB2Y.md | account | 1 |
-| glossary/devinjatho/G_ig_devinjatho_CqdaJdigtwj.md | Nike | 3 |
-| glossary/devinjatho/G_ig_devinjatho_CqinHSmAVNB.md | link | 3 |
+| glossary/devinjatho/G_ig_devinjatho_CqGCZ3xANpu.md | slider | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CqIkMvsgwaJ.md | comment | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CqQRutYA-t4.md | instagram | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CqTEPp3AMt6.md | positive question | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CqaqXOFAB2Y.md | popular creators | 2 |
+| glossary/devinjatho/G_ig_devinjatho_CqdaJdigtwj.md | attention-grabbing statement | 1 |
+| glossary/devinjatho/G_ig_devinjatho_CqinHSmAVNB.md | link | 2 |
 | glossary/devinjatho/G_ig_devinjatho_CqlAzgHA4J0.md | captions | 2 |
-| glossary/devinjatho/G_ig_devinjatho_Cqnt9geJGf_.md | hashtags | 2 |
-| glossary/dibratto/G_ig_dibratto_DZx7tFKP1x6.md | Claude | 2 |
-| glossary/dibratto/G_ig_dibratto_DZz4KnpAQDM.md | writing | 3 |
-| glossary/dibratto/G_ig_dibratto_Da-urXtgQQC.md | LinkedIn | 2 |
+| glossary/devinjatho/G_ig_devinjatho_Cqnt9geJGf_.md | keywords everywhere | 2 |
+| glossary/dibratto/G_ig_dibratto_DZx7tFKP1x6.md | claude | 2 |
+| glossary/dibratto/G_ig_dibratto_DZz4KnpAQDM.md | writing | 2 |
+| glossary/dibratto/G_ig_dibratto_Da-urXtgQQC.md | linkedin | 2 |
 | glossary/dibratto/G_ig_dibratto_Da09xOWv5Zy.md | funnel | 2 |
-| glossary/dibratto/G_ig_dibratto_Da2nGFXxoCi.md | LinkedIn | 3 |
-| glossary/dibratto/G_ig_dibratto_Da6DnmzPbiH.md | Number | 1 |
+| glossary/dibratto/G_ig_dibratto_Da2nGFXxoCi.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_Da6DnmzPbiH.md | thousand impressions | 1 |
 | glossary/dibratto/G_ig_dibratto_Da8IWBfAKnx.md | company | 2 |
-| glossary/dibratto/G_ig_dibratto_DaAsnnpgphh.md | tequila soda | 1 |
-| glossary/dibratto/G_ig_dibratto_DaFxHpSg9NR.md | Tech | 2 |
-| glossary/dibratto/G_ig_dibratto_DaIr594Ac_r.md | LinkedIn | 3 |
-| glossary/dibratto/G_ig_dibratto_DaNaj7kx2hE.md | camera | 2 |
-| glossary/dibratto/G_ig_dibratto_DaSllGpgCWl.md | Elon | 3 |
-| glossary/dibratto/G_ig_dibratto_DaTH-OagAd2.md | LinkedIn | 2 |
-| glossary/dibratto/G_ig_dibratto_DaVQvPMFE-t.md | every | 3 |
-| glossary/dibratto/G_ig_dibratto_DaadqMCAtuA.md | Van Cleef | 1 |
-| glossary/dibratto/G_ig_dibratto_Dav9a7agcW1.md | money | 1 |
-| glossary/dibratto/G_ig_dibratto_Db-tYIYxNqa.md | LinkedIn | 3 |
-| glossary/dibratto/G_ig_dibratto_Db2_uN7xZpR.md | founding | 1 |
-| glossary/dibratto/G_ig_dibratto_Db5jZiYR22Z.md | writing | 2 |
-| glossary/dibratto/G_ig_dibratto_Db8JmZnx_oK.md | Part | 3 |
-| glossary/dibratto/G_ig_dibratto_DbA7dKVx4fC.md | Use | 1 |
-| glossary/dibratto/G_ig_dibratto_DbDswIAANgd.md | Linear | 1 |
-| glossary/dibratto/G_ig_dibratto_DbGF-rSRRi3.md | digital nomad | 3 |
-| glossary/dibratto/G_ig_dibratto_DbOa9a-RqKK.md | process | 1 |
-| glossary/dibratto/G_ig_dibratto_DbQphC8gZu8.md | YC | 1 |
-| glossary/dibratto/G_ig_dibratto_DbS69UMR7PE.md | LinkedIn | 2 |
-| glossary/dibratto/G_ig_dibratto_DbViE8DRZDw.md | cancel | 1 |
-| glossary/dibratto/G_ig_dibratto_DbYKVFTObXd.md | twenty | 1 |
-| glossary/dibratto/G_ig_dibratto_DbaqTq6xN8W.md | tactic | 2 |
-| glossary/dibratto/G_ig_dibratto_Dc3YNVaREwC.md | content | 3 |
-| glossary/dibratto/G_ig_dibratto_Dc6RenRRybM.md | company | 3 |
-| glossary/dibratto/G_ig_dibratto_Dc8rALrxP22.md | content | 3 |
-| glossary/dibratto/G_ig_dibratto_DcBkxKwAVNY.md | Whisperflow | 1 |
-| glossary/dibratto/G_ig_dibratto_DcJDO9_RxL1.md | headcount | 1 |
-| glossary/dibratto/G_ig_dibratto_DcOOw0pxoIg.md | Enterprise | 1 |
-| glossary/dibratto/G_ig_dibratto_DcRc0muvitY.md | customer | 2 |
-| glossary/dibratto/G_ig_dibratto_DcYqwxRRC1I.md | format | 3 |
-| glossary/dibratto/G_ig_dibratto_Dc_x4b4Pbpa.md | email | 2 |
+| glossary/dibratto/G_ig_dibratto_DaAsnnpgphh.md | tequila soda | 2 |
+| glossary/dibratto/G_ig_dibratto_DaFxHpSg9NR.md | tech | 2 |
+| glossary/dibratto/G_ig_dibratto_DaIr594Ac_r.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_DaNaj7kx2hE.md | marketing team | 2 |
+| glossary/dibratto/G_ig_dibratto_DaSllGpgCWl.md | elon | 2 |
+| glossary/dibratto/G_ig_dibratto_DaTH-OagAd2.md | free deliverables | 1 |
+| glossary/dibratto/G_ig_dibratto_DaVQvPMFE-t.md | announcement | 2 |
+| glossary/dibratto/G_ig_dibratto_DaadqMCAtuA.md | van cleef | 2 |
+| glossary/dibratto/G_ig_dibratto_Dav9a7agcW1.md | two sentences | 1 |
+| glossary/dibratto/G_ig_dibratto_Db-tYIYxNqa.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_Db2_uN7xZpR.md | founding | 2 |
+| glossary/dibratto/G_ig_dibratto_Db5jZiYR22Z.md | drive somewhere | 1 |
+| glossary/dibratto/G_ig_dibratto_Db8JmZnx_oK.md | screenshot perform | 1 |
+| glossary/dibratto/G_ig_dibratto_DbA7dKVx4fC.md | outbound connections | 1 |
+| glossary/dibratto/G_ig_dibratto_DbDswIAANgd.md | linear | 2 |
+| glossary/dibratto/G_ig_dibratto_DbGF-rSRRi3.md | digital nomad | 2 |
+| glossary/dibratto/G_ig_dibratto_DbOa9a-RqKK.md | inherently highly | 1 |
+| glossary/dibratto/G_ig_dibratto_DbQphC8gZu8.md | introducing yourself | 1 |
+| glossary/dibratto/G_ig_dibratto_DbS69UMR7PE.md | respectfully disagreeing | 1 |
+| glossary/dibratto/G_ig_dibratto_DbViE8DRZDw.md | I'd like to cancel. Are you sure? Yeah, I'd like to cancel. … | 1 |
+| glossary/dibratto/G_ig_dibratto_DbYKVFTObXd.md | follow | 2 |
+| glossary/dibratto/G_ig_dibratto_DbaqTq6xN8W.md | thousand impressions | 1 |
+| glossary/dibratto/G_ig_dibratto_Dc3YNVaREwC.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_Dc6RenRRybM.md | company | 2 |
+| glossary/dibratto/G_ig_dibratto_Dc8rALrxP22.md | funnel | 2 |
+| glossary/dibratto/G_ig_dibratto_DcBkxKwAVNY.md | call transcripts | 1 |
+| glossary/dibratto/G_ig_dibratto_DcJDO9_RxL1.md | fundamentally changing | 1 |
+| glossary/dibratto/G_ig_dibratto_DcOOw0pxoIg.md | enterprise | 2 |
+| glossary/dibratto/G_ig_dibratto_DcRc0muvitY.md | fundamentally transformed | 1 |
+| glossary/dibratto/G_ig_dibratto_DcYqwxRRC1I.md | format alpha | 2 |
+| glossary/dibratto/G_ig_dibratto_Dc_x4b4Pbpa.md | seven days | 2 |
 | glossary/dibratto/G_ig_dibratto_DcbWuieRRAW.md | guy | 2 |
 | glossary/dibratto/G_ig_dibratto_Dcdu3NPR_cz.md | company | 2 |
-| glossary/dibratto/G_ig_dibratto_DconWxWPcfu.md | trying | 3 |
-| glossary/dibratto/G_ig_dibratto_DctEm8ugamJ.md | company | 3 |
+| glossary/dibratto/G_ig_dibratto_DconWxWPcfu.md | convey | 2 |
+| glossary/dibratto/G_ig_dibratto_DctEm8ugamJ.md | company | 2 |
 | glossary/dibratto/G_ig_dibratto_DcvyEx1xdAz.md | creative | 2 |
-| glossary/dibratto/G_ig_dibratto_DcyQk-bRPGB.md | LinkedIn | 3 |
-| glossary/dibratto/G_ig_dibratto_Dd1P6m8RhPg.md | podcast | 2 |
+| glossary/dibratto/G_ig_dibratto_DcyQk-bRPGB.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_Dd1P6m8RhPg.md | distribution advantage | 1 |
 | glossary/dibratto/G_ig_dibratto_Dd6XEODRJA9.md | funnel | 2 |
-| glossary/dibratto/G_ig_dibratto_Dd8_tXBA-kx.md | September | 1 |
-| glossary/dibratto/G_ig_dibratto_DdBqZXvxl04.md | LinkedIn | 3 |
-| glossary/dibratto/G_ig_dibratto_DdgvZjyROVk.md | Lovable | 3 |
-| glossary/dibratto/G_ig_dibratto_DdjIxqVxBGA.md | Unbound | 2 |
-| glossary/dibratto/G_ig_dibratto_DdmCoAFR8vn.md | concerned | 1 |
-| glossary/dibratto/G_ig_dibratto_Ddq7XEKxPJ9.md | Wearing | 1 |
-| glossary/dibratto/G_ig_dibratto_DdwRCmExtvd.md | Ask | 2 |
-| glossary/dibratto/G_ig_dibratto_DdykG6_xO-M.md | content | 2 |
-| glossary/dibratto/G_ig_dibratto_DeCOSeGxPY-.md | proprietary | 3 |
-| glossary/dibratto/G_ig_dibratto_DeDTTkHg1np.md | tech | 2 |
-| glossary/dibratto/G_ig_dibratto_DeFFdbkxEH4.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C-GUFJvNuJi.md | money | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C-NjDW-NJ6Y.md | twenty | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C-SWyO5N-OP.md | leverage | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C-XBEXTNX03.md | exclusion | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C-iBWIuNYI9.md | become | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0667sLIIAu.md | life | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0CrsSENGlR.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0Eo8Dpt9SU.md | content creation | 1 |
+| glossary/dibratto/G_ig_dibratto_Dd8_tXBA-kx.md | biggest competitor | 2 |
+| glossary/dibratto/G_ig_dibratto_DdBqZXvxl04.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_DdgvZjyROVk.md | lovable | 2 |
+| glossary/dibratto/G_ig_dibratto_DdjIxqVxBGA.md | booth activations | 1 |
+| glossary/dibratto/G_ig_dibratto_DdmCoAFR8vn.md | deeply concerned | 2 |
+| glossary/dibratto/G_ig_dibratto_Ddq7XEKxPJ9.md | completely overbuilt | 1 |
+| glossary/dibratto/G_ig_dibratto_DdwRCmExtvd.md | ask | 2 |
+| glossary/dibratto/G_ig_dibratto_DdykG6_xO-M.md | linkedin | 2 |
+| glossary/dibratto/G_ig_dibratto_DeCOSeGxPY-.md | proprietary | 2 |
+| glossary/dibratto/G_ig_dibratto_DeDTTkHg1np.md | completely rebuilt | 1 |
+| glossary/dibratto/G_ig_dibratto_DeFFdbkxEH4.md | feedback loop | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C-GUFJvNuJi.md | hand street | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C-NjDW-NJ6Y.md | four | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C-SWyO5N-OP.md | important question | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C-XBEXTNX03.md | feed lately | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C-iBWIuNYI9.md | three months | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0667sLIIAu.md | others expected | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0CrsSENGlR.md | forty days | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0Eo8Dpt9SU.md | creation | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C0G0P4Ht19G.md | success | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C0JkDI8NxKx.md | ideas | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0MHE11tRG1.md | problem | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0OxSG1tG-p.md | understanding | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0RLNjOtCWx.md | thousand | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0UCipztOkt.md | trendsetter | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0WjLW6Nu1d.md | start | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0ZNK_YtGz_.md | Ordinary | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0_p2UotRzl.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C0cZ_HgNCvz.md | introduced | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C0e6as9tko5.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C1CGE51tFBF.md | batch | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C1Hipm5tuSj.md | percent | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C1KAffItW4S.md | different | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C1M1g7stqDV.md | business taught | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C1O737uNPWg.md | audio | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C1RrzvENlmN.md | change | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C1U61j3Nk1z.md | world | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C0JkDI8NxKx.md | ten ideas | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C0MHE11tRG1.md | else's problem | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0OxSG1tG-p.md | truly understanding | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0RLNjOtCWx.md | thousand different | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0UCipztOkt.md | please leave | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0WjLW6Nu1d.md | delay gratification | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0ZNK_YtGz_.md | comfortable riding | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0_p2UotRzl.md | meaningful relationships | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C0cZ_HgNCvz.md | isn't | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C0e6as9tko5.md | action converts | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1CGE51tFBF.md | batch | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C1Hipm5tuSj.md | differentiating factor | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1KAffItW4S.md | completely different | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C1M1g7stqDV.md | backend development | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1O737uNPWg.md | audio | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C1RrzvENlmN.md | six months | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C1U61j3Nk1z.md | hundred-meter sprint | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C1XUWzLtLdn.md | opportunities | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C1Z5HZ9tYdp.md | single | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1Z5HZ9tYdp.md | people's mistakes | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C1cZdU0NkZf.md | flow state | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C1e2quZN4VS.md | process | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C1e2quZN4VS.md | scripting process | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C1g697qNupe.md | goal | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C1j2WvINlb4.md | content | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C1mtLQMNelt.md | lighting | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1j2WvINlb4.md | billboards rather | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C1mtLQMNelt.md | Here's my three-point lighting setup for talking head videos… | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C2DFvKxN5zW.md | advice | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C2H94HWNTiF.md | seasons | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2K66pdN-9Q.md | resolutions | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2Ph4S4NJxf.md | details | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C2SFfkhtW_P.md | improve | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C2U-5x-NcY7.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C2UqS2ptIBz.md | eight | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2ZgatWNiFU.md | business | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2ZtGvxNPhS.md | systems | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2bGXMStp8x.md | Change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C2ev1hhtbI2.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C2kCHGGNvxG.md | listen | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C3BI7RZo5i1.md | every | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2H94HWNTiF.md | four months | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2K66pdN-9Q.md | predictable outcomes | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2Ph4S4NJxf.md | arguably unimportant | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2SFfkhtW_P.md | two | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C2U-5x-NcY7.md | nobody tells | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2UqS2ptIBz.md | eight months | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C2ZgatWNiFU.md | These are the seven tools I use to run my entire business. | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2ZtGvxNPhS.md | systems | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C2bGXMStp8x.md | performing music | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C2ev1hhtbI2.md | thousand followers | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C2kCHGGNvxG.md | imposter syndrome | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C3BI7RZo5i1.md | journey five | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C3DQ2aGIleS.md | personal | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C3GLke2tQ0I.md | worthwhile | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C3LcBmYNq0m.md | Number | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C3Ng-OBNEzW.md | unavoidable | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C3Snz9zNAFR.md | creating | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C3z3snzLhEE.md | moment | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C4-tmGptSly.md | views | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C4299T7tNqQ.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C48HHK0NH_5.md | uniqueness | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C4aw-dCMM3s.md | best | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C4lSrkPtUoJ.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C5BGmgwt-fW.md | capable | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C5EXZiwtEh5.md | question | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C3GLke2tQ0I.md | deem worthwhile | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C3LcBmYNq0m.md | because | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C3Ng-OBNEzW.md | discomfort because | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C3Snz9zNAFR.md | creating | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C3z3snzLhEE.md | moment | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C4-tmGptSly.md | overnight success | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C4299T7tNqQ.md | ancient chinese | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C48HHK0NH_5.md | thousand followers | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C4aw-dCMM3s.md | biggest creator | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C4lSrkPtUoJ.md | completely revolutionize | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C5BGmgwt-fW.md | meaning behind | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C5EXZiwtEh5.md | Get serious. That's number one. Ten years from now, you will… | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C5jNIXgtl_5.md | impossible | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C6J34UKNMXR.md | overthinking | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C6WQO9HNRof.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C6dRDU6tmr7.md | systems | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C6i29U9NWQ6.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C6ljzMZNQ29.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C6qu8TmtRRX.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C6tiPRitwtM.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C6wNdiDN_z0.md | knowledge | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C71hUr-NAvK.md | Step | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C77M_NctgaU.md | comfort | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C6J34UKNMXR.md | landing page | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C6WQO9HNRof.md | compounding effect | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C6dRDU6tmr7.md | success | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C6i29U9NWQ6.md | spent thousands | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C6ljzMZNQ29.md | developed throughout | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C6qu8TmtRRX.md | creator | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C6tiPRitwtM.md | creation seriously | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C6wNdiDN_z0.md | information online | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C71hUr-NAvK.md | b-roll footage | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C77M_NctgaU.md | imagine quitting | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C7CCAk3tDzt.md | laughable | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C7jg0-2tRKH.md | hardest | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C7mKHmAt-1Y.md | permission | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C7jg0-2tRKH.md | questioning whether | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C7mKHmAt-1Y.md | permission | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C7tR8bitw0S.md | goal | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C8J5D7stDSe.md | systems | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C8ZLC-ptR_N.md | cohort | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C8eXdW7NRG7.md | jiu jitsu | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C8mnSRHNgXz.md | life | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C8eXdW7NRG7.md | jiu jitsu | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C8mnSRHNgXz.md | full potential | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C8pIgLft6HY.md | permission | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C8yxr76NHGb.md | script | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C94ZAHJNHwC.md | percent | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C97eu8tNgF3.md | design | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C94ZAHJNHwC.md | ninety percent | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C97eu8tNgF3.md | google calendar | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C9EmI5YNDnA.md | promised | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C9FkbPiNvXS.md | technique | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C9IQxYTNATj.md | creative | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C9NJNwAtbIq.md | belt | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C9RzrZJND2C.md | views | 3 |
-| glossary/disisjorj/G_ig_disisjorj_C9XDKGGtQPd.md | connection | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C9FkbPiNvXS.md | editing technique | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C9IQxYTNATj.md | creative | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C9NJNwAtbIq.md | blue belt | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C9RzrZJND2C.md | views | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C9XDKGGtQPd.md | genuine connection | 1 |
 | glossary/disisjorj/G_ig_disisjorj_C9cIM1mNL-_.md | regret | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C9emOk2tqau.md | Artlist | 2 |
-| glossary/disisjorj/G_ig_disisjorj_C9j6R7ZNp8u.md | eighty | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C9emOk2tqau.md | artlist | 2 |
+| glossary/disisjorj/G_ig_disisjorj_C9j6R7ZNp8u.md | eighty six | 2 |
 | glossary/disisjorj/G_ig_disisjorj_C9nJwlZtHm5.md | whatever | 1 |
-| glossary/disisjorj/G_ig_disisjorj_C9spzGNt7BP.md | beginning | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CsG4XYRogBE.md | start | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CsJuX7KIZnZ.md | leverage | 3 |
-| glossary/disisjorj/G_ig_disisjorj_CsMNNdLoyNu.md | actions | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CsOzNQ1o7cm.md | singer | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CsRJ4p1IUfN.md | start | 1 |
+| glossary/disisjorj/G_ig_disisjorj_C9spzGNt7BP.md | common misunderstanding | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CsG4XYRogBE.md | eighty-eight percent | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CsJuX7KIZnZ.md | leverage | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CsMNNdLoyNu.md | shouting affirmations | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CsOzNQ1o7cm.md | singer | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CsRJ4p1IUfN.md | perform six | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CsTgfM7rUb8.md | systems | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CsdmV3cOUul.md | successes | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CslvIRGvmpM.md | knowledge | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Csq1hPlrotB.md | online | 3 |
-| glossary/disisjorj/G_ig_disisjorj_CstZT64tquA.md | offerings | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Csv4lboPKoz.md | business | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CswB76KseOJ.md | contact | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Ct8-vrcNtsH.md | adapting | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtCDdcPP3my.md | world | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtJGGk8tcyS.md | clips | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtLmKButa2X.md | add | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtOFDHqrkjH.md | audio | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtQkkrrPwOU.md | greets | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtVwElUt64z.md | green screen | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtYUVe2NVHF.md | sunshine | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Ct_hEHNuc0X.md | idea | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CsdmV3cOUul.md | saturated market | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CslvIRGvmpM.md | demonstrated knowledge | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Csq1hPlrotB.md | online | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CstZT64tquA.md | higher-priced offerings | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Csv4lboPKoz.md | instructional products | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CswB76KseOJ.md | contact information | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Ct8-vrcNtsH.md | advantageous point | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CtCDdcPP3my.md | drastically change | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CtJGGk8tcyS.md | clips | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CtLmKButa2X.md | add | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CtOFDHqrkjH.md | resonant frequencies | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CtQkkrrPwOU.md | clear indication | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CtVwElUt64z.md | green screen | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CtYUVe2NVHF.md | close attention | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Ct_hEHNuc0X.md | idea | 2 |
 | glossary/disisjorj/G_ig_disisjorj_Cta6c4Au2dc.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cts6SwvuFGO.md | realize | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CtvXrvNtQWx.md | paper | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Ctx8IViJRl0.md | Power | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cu-K4jEN0n_.md | create | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cu0GolZg5nH.md | choice | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cts6SwvuFGO.md | relentlessly towards | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CtvXrvNtQWx.md | green screen | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Ctx8IViJRl0.md | towards improvement | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cu-K4jEN0n_.md | physical weekly | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cu0GolZg5nH.md | highest potential | 2 |
 | glossary/disisjorj/G_ig_disisjorj_Cu1Nz1auOlV.md | seventy | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cu3WrXYLEMh.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cu7scl0tLNk.md | grandfather | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuBocFcrSk1.md | game | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuEGpDFv_ok.md | discomfort | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CuOOEPoxmrR.md | learn | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cu3WrXYLEMh.md | seamless transitions | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cu7scl0tLNk.md | grandfather's father | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CuBocFcrSk1.md | successful entrepreneur | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuEGpDFv_ok.md | embrace discomfort | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuOOEPoxmrR.md | else's mistakes | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CuPPU1BLXpZ.md | success | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CuRAPk1P8pZ.md | forget | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuRlNeNNwob.md | goal | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuTUtB8ubUr.md | matter | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuUb_5hNNOs.md | eye level | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CuV4Lq8tYJH.md | loves | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuW880bPFEK.md | Whatever | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuXql_vtbUs.md | hundred thousand | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuZ8VlTtRgg.md | progress | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CubCKLlpSO8.md | challenging | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cucwm4auNkd.md | editing | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CueK_2araRn.md | perspective | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CupqZafP5dc.md | posting | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CuqzeR8uKXi.md | healthy guy | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CusTUIksr8i.md | responsibilities | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuuOm1FJNHo.md | pain | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CuvzQnpP78G.md | sound effects | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CuyTJhdvYvX.md | workflow | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cv-dUt5tyXh.md | transition | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cv0TNfRtPmD.md | Looks | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cv2FyHUtbhY.md | thoughts | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cv48DwkN4bR.md | use | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvKpo7ltzg-.md | content | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvMwd_MNd1y.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvQQQVbt7Uk.md | Number | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CvS_vSdNZaw.md | transition | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvVFt2ltviw.md | creatorset | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvVb-YANp1O.md | different | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvWhJPztbJa.md | loudness | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvX-07HNEcF.md | add | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvXVIWntqTq.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvZMbr2tIF7.md | use | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cvk4KNctlhB.md | task number | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvkcI6ytnq6.md | importantly | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuRAPk1P8pZ.md | bathroom because | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuRlNeNNwob.md | increasingly overwhelmed | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuTUtB8ubUr.md | matter | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CuUb_5hNNOs.md | interested because | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuV4Lq8tYJH.md | loves | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CuW880bPFEK.md | haven't already | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuXql_vtbUs.md | hundred thousand | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CuZ8VlTtRgg.md | heard entrepreneurs | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CubCKLlpSO8.md | challenging yourself | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cucwm4auNkd.md | paid subscriptions | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CueK_2araRn.md | probably deserve | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CupqZafP5dc.md | years underneath | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuqzeR8uKXi.md | healthy guy | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CusTUIksr8i.md | impact positively | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuuOm1FJNHo.md | negative visualization | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CuvzQnpP78G.md | sound effects | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CuyTJhdvYvX.md | three-minute process | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cv-dUt5tyXh.md | directly underneath | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cv0TNfRtPmD.md | little | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cv2FyHUtbhY.md | realized throughout | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cv48DwkN4bR.md | use | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CvKpo7ltzg-.md | different folders | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvMwd_MNd1y.md | five years | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CvQQQVbt7Uk.md | completely revolutionized | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvS_vSdNZaw.md | youtube tutorials | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvVFt2ltviw.md | follow | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CvVb-YANp1O.md | different set | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CvWhJPztbJa.md | adaptive limiter | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvX-07HNEcF.md | luminance keyer | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvXVIWntqTq.md | guidance because | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvZMbr2tIF7.md | effect underneath | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cvk4KNctlhB.md | knowledge required | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvkcI6ytnq6.md | finger pointing | 1 |
 | glossary/disisjorj/G_ig_disisjorj_Cvm3umatCJA.md | bearable | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvnUkVvtE4S.md | paper | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvpRz7jtfy8.md | building | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cvp_a3stsJ6.md | perform | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvrxxO-tQXb.md | opportunity | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CvuWvYDtGRe.md | Tuesday | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvnUkVvtE4S.md | analog camera | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvpRz7jtfy8.md | thesis overnight | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cvp_a3stsJ6.md | consecutive days | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvrxxO-tQXb.md | comfort zone | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CvuWvYDtGRe.md | one-on-one meeting | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CvxcJuxNRum.md | performance | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cw-wNKeNYli.md | focus | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cw3ABDONPvO.md | swallow | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwIvgzoNFpm.md | perfectionist | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwK9ZRWtJQ9.md | pack | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwNa3OSNbWg.md | person | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwPuUKUt3tf.md | Number | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CwQdHRbtptf.md | failed | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwS-njQN65M.md | Number | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwUp3oBN5Ic.md | wish | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwXifNzNBSR.md | questions | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cwab4CBtCbN.md | class | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CwdCKlBt30N.md | use | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cwdp4moNhdT.md | Number | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cwe0VCutCRn.md | trust | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CwkZsSLNHcn.md | scripts | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cwuulr_NFMl.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CwxDPNftDyb.md | Step | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CwzueHqNsls.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cx-LuVdtAkB.md | effect | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cx-zqSZNo95.md | lack | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cw-wNKeNYli.md | financial success | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cw3ABDONPvO.md | four months | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwIvgzoNFpm.md | calling yourself | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwK9ZRWtJQ9.md | one-time payment | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwNa3OSNbWg.md | biggest lesson | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwPuUKUt3tf.md | psychological sense | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwQdHRbtptf.md | failed | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CwS-njQN65M.md | nothing | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CwUp3oBN5Ic.md | There will always be a yin to the yang. That's the beauty of… | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwXifNzNBSR.md | three | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cwab4CBtCbN.md | valuable information | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwdCKlBt30N.md | three | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cwdp4moNhdT.md | resonant frequencies | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cwe0VCutCRn.md | three principles | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwkZsSLNHcn.md | valuable information | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cwuulr_NFMl.md | picasso produced | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CwxDPNftDyb.md | captions | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CwzueHqNsls.md | whichever technique | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cx-LuVdtAkB.md | forty percent | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cx-zqSZNo95.md | lack | 2 |
 | glossary/disisjorj/G_ig_disisjorj_Cx0C2zrtQF_.md | dynamic backgrounds | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cx5AY1pNBD5.md | lights | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cx709F9NHRc.md | systems | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxBczFkNvvA.md | start | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxDdkHlt0M_.md | step | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxGGPm9N8VL.md | Artlist | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxIuvImNZHe.md | past | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxKku86NyF4.md | zoom | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxM_O5vNctu.md | brainstorming | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cx5AY1pNBD5.md | cushion leather | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cx709F9NHRc.md | enough information | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxBczFkNvvA.md | questionable gigs | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxDdkHlt0M_.md | output | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxGGPm9N8VL.md | artlist | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxIuvImNZHe.md | years | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxKku86NyF4.md | zoom | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxM_O5vNctu.md | minutes brainstorming | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CxNkxsKt7Gu.md | mindset | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxPziiSt0tW.md | underwater | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxS7e4HN9pq.md | playing | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxTm0fYtup_.md | his | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxVSzbNNGzL.md | lights | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxX1iwGNqws.md | different | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxXQ3rENkrn.md | plan | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxZmKuINyHT.md | Reasonable | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxaWrAUNjL2.md | use | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxdQAumt3Oz.md | start | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cxf2N_3N7O4.md | thousand | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxPziiSt0tW.md | underwater effect | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxS7e4HN9pq.md | never designed | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxTm0fYtup_.md | importantly myself | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxVSzbNNGzL.md | cushion leather | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxX1iwGNqws.md | different | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxXQ3rENkrn.md | plan | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxZmKuINyHT.md | storytelling techniques | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxaWrAUNjL2.md | use keyframes | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxdQAumt3Oz.md | personalized source | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cxf2N_3N7O4.md | ten thousand | 2 |
 | glossary/disisjorj/G_ig_disisjorj_Cxh0VAtNno-.md | zoom | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CxkkHdstc9C.md | plus | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxnQ32htgOQ.md | interesting | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxpULovtv3Q.md | overthinking | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CxvJRgDNhSd.md | lack | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cxx0jzGNkTD.md | different | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cy2vf6xN29W.md | Act | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cy6em7ZNntM.md | hundred | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cy839qztf6R.md | account | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CyBO_jwtsTp.md | Number | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CyDY3IpNAhu.md | mute | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CyGSE9Vtz4A.md | opportunities | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CyIx1pqo3kh.md | towards | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CyLY2TTNeYC.md | realize | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CyN5aqGtlMY.md | masturbation | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CyTyf1uNfIH.md | account | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Cyiv0DINKD8.md | Number | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CxkkHdstc9C.md | experiment encapsulates | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxnQ32htgOQ.md | interesting fact | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxpULovtv3Q.md | eventually building | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CxvJRgDNhSd.md | lack | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cxx0jzGNkTD.md | different | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cy2vf6xN29W.md | steve jobs | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cy6em7ZNntM.md | valuable information | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cy839qztf6R.md | create opportunities | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyBO_jwtsTp.md | different folders | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyDY3IpNAhu.md | mechanic's inspection | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyGSE9Vtz4A.md | lifetime opportunities | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyIx1pqo3kh.md | eleven fifty-eight | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyLY2TTNeYC.md | We have two lives, and the second one begins when we realize… | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyN5aqGtlMY.md | following intellectual | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyTyf1uNfIH.md | uncomfortable place | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cyiv0DINKD8.md | lighting support | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CylJY1Otm8T.md | book | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CynxSRtNYsK.md | sound effect | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cyqf1ECN_xz.md | insights | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CynxSRtNYsK.md | sound effect | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cyqf1ECN_xz.md | overlay without | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CytdOBHNc1G.md | cut | 2 |
 | glossary/disisjorj/G_ig_disisjorj_CyvxP0ZtxSU.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CyxciION_fw.md | dirty tap | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cz01fgcNkw-.md | sponsoring | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cz4JE2TN3PQ.md | Forget | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CyxciION_fw.md | consistently trying | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cz01fgcNkw-.md | probably seen | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cz4JE2TN3PQ.md | perception towards | 1 |
 | glossary/disisjorj/G_ig_disisjorj_Cz6L7UkNkv5.md | steel background | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cz8hBlEN-FC.md | rules | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzBFJ9ct6Vt.md | Add | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzGyQKrtWlB.md | content | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Cz8hBlEN-FC.md | Three rules I follow to get everything done in half the time… | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzBFJ9ct6Vt.md | frames long | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CzGyQKrtWlB.md | three types | 2 |
 | glossary/disisjorj/G_ig_disisjorj_CzJOGwjtWKs.md | editing | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CzMQ4QBtrV-.md | unapologetically | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzO3yAONLFn.md | failed | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzRX9IZNW9A.md | opportunity | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzMQ4QBtrV-.md | unapologetically curious | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzO3yAONLFn.md | well-rounded individual | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzRX9IZNW9A.md | musicians understand | 1 |
 | glossary/disisjorj/G_ig_disisjorj_CzTpYY2tfn_.md | unfair advantage | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CzV-MphtxKf.md | produce | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CzZnYu9NLbU.md | start | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Cz_QDPmNO0C.md | content | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzbGEwZN8LK.md | phrase | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzeJREyNkb_.md | becomes | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzjnTzetp7j.md | clean | 2 |
-| glossary/disisjorj/G_ig_disisjorj_Czlt3g_t3m9.md | creating | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CzqwCCUteOK.md | students | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CztuwrNNsfG.md | curiosities | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzwIhmItkHx.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_CzyCU4htGbF.md | diffusion | 1 |
-| glossary/disisjorj/G_ig_disisjorj_CzypLosNgqq.md | Dr Julie | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DAPTeo6obeV.md | his | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzV-MphtxKf.md | interested because | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzZnYu9NLbU.md | exercise within | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Cz_QDPmNO0C.md | personally developed | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzbGEwZN8LK.md | phrase | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CzeJREyNkb_.md | three questions | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CzjnTzetp7j.md | conditioning ambient | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Czlt3g_t3m9.md | future belongs | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzqwCCUteOK.md | students | 2 |
+| glossary/disisjorj/G_ig_disisjorj_CztuwrNNsfG.md | thousand followers | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzwIhmItkHx.md | intentionally consuming | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzyCU4htGbF.md | cinematic effect | 1 |
+| glossary/disisjorj/G_ig_disisjorj_CzypLosNgqq.md | clinical psychologist | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DAPTeo6obeV.md | decide whether | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DAoMLrbtXoE.md | systems | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DAxUANAtF-2.md | whether | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DB3n0KvRK2M.md | account | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DBJj09vpUrC.md | product | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DBmJVuVpmiU.md | weakest link | 3 |
+| glossary/disisjorj/G_ig_disisjorj_DAxUANAtF-2.md | sharing whether | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DB3n0KvRK2M.md | thousand followers | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DBJj09vpUrC.md | million followers | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DBmJVuVpmiU.md | weakest link | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DCcFZ46odcS.md | reason | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DDb2cn8oP1g.md | yourself | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DDpYAxuo1Cp.md | roll | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DEGBLb0S0s3.md | question | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DDb2cn8oP1g.md | year's resolution | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DDpYAxuo1Cp.md | b-roll | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DEGBLb0S0s3.md | three months | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DEIboLuxobx.md | context | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DELH89xSwVx.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DENTcJjRUzh.md | creating | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DES5zCtoTXF.md | coming | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DEXWTpPoOQ4.md | Lockdown | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DEaFkq1IKxh.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DEc6UX2ovO7.md | lines | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DEiQyatISFY.md | money | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DEkkcpAIUa5.md | intention behind | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DELH89xSwVx.md | consider themselves | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DENTcJjRUzh.md | ten percent | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DES5zCtoTXF.md | comfortable enough | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEXWTpPoOQ4.md | lockdown | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEaFkq1IKxh.md | create | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DEc6UX2ovO7.md | grid lines | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DEiQyatISFY.md | biggest misconceptions | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEkkcpAIUa5.md | intention behind | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DEpuiC1IAXz.md | different | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DEsQB7yoUy6.md | ask | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DEuw8qWobPX.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DEz5Pc7K7QD.md | perfect | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEsQB7yoUy6.md | educating yourself | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEuw8qWobPX.md | creatorpreneur coaching | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DEz5Pc7K7QD.md | perfect | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DFBIR1JIjG3.md | provide | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DFTOEoFItls.md | believe | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DFfXrEto0UZ.md | Knowing | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DGIzalgIlgB.md | content | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DGf9mCnI9I7.md | change | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DGtaoU6ICyl.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DIOh_QJItgQ.md | choose | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DIjTDnBI3Wg.md | business | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DJenRr2o80q.md | feeling | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DJj86s6ozsY.md | belong | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DL2ZsSVoIye.md | business | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DN3Jcs8UB-4.md | Her | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DNGR1w3I6uh.md | branding | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DNI4ALxo5cZ.md | algorithm | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DO8849QiBeI.md | film | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DP34pBRiKVg.md | camera | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DP4VgtgiN4S.md | wall | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DP6Ut_BiPdA.md | iPhone | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DP7DdwtiE3r.md | phone | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DP8MGzAiD0S.md | line | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DFTOEoFItls.md | believe | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DFfXrEto0UZ.md | completely flopped | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DGIzalgIlgB.md | motivational sixty-second | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DGf9mCnI9I7.md | change | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DGtaoU6ICyl.md | optimize instagram | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DIOh_QJItgQ.md | little | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DIjTDnBI3Wg.md | single-handedly changed | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DJenRr2o80q.md | fire | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DJj86s6ozsY.md | With you, you, you, you, I, I, I belong in the sun. With you… | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DL2ZsSVoIye.md | well | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DN3Jcs8UB-4.md | Her eyes are like the ocean, her nails are painted green. | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DNGR1w3I6uh.md | branding | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DNI4ALxo5cZ.md | algorithm | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DO8849QiBeI.md | instagram | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DP34pBRiKVg.md | light source | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DP4VgtgiN4S.md | leading lines | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DP6Ut_BiPdA.md | iphone | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DP7DdwtiE3r.md | create high-quality | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DP8MGzAiD0S.md | top line | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DP9dZ8giIKu.md | captions | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DPT-tO5iFDl.md | show | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DPWmmcDCFkq.md | Number | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DPT-tO5iFDl.md | technically without | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DPWmmcDCFkq.md | instagram | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DPYoPYiiGuF.md | needs | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DPbeYrbDP0o.md | content | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DPeD4zoiFCx.md | talk | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DPgdTq-iH_q.md | show | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DPrKVnTCB_o.md | carousels | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQ8zsPjiGCL.md | presentation | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DPbeYrbDP0o.md | single piece | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DPeD4zoiFCx.md | hand movements | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DPgdTq-iH_q.md | because | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DPrKVnTCB_o.md | half thousand | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQ8zsPjiGCL.md | happens automatically | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DQMYC_4CC77.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQOadLQCCF0.md | example | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQRn6wICK8_.md | Zoom | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQOadLQCCF0.md | expensive cameras | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DQRn6wICK8_.md | zoom | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DQSHLxiiDlf.md | use | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQWk4O5iNbT.md | waitlist | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQZr7iajKso.md | example | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQb_MSUjP3I.md | record | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DQg_31fiDUD.md | simply | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DQrkd2jCBSJ.md | Zoom | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DQuIwVqiHP5.md | version | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DR18VrLCJ4V.md | click setup | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DR4-cJRiHIa.md | QR code | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRAF2FxiEIC.md | horizontal | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRH0noGCC6P.md | click away | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRMjQK5CNkY.md | install | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DRPHoR7CFFp.md | production | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRPm1QpiPHg.md | recording | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQWk4O5iNbT.md | one-click setup | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQZr7iajKso.md | expensive cameras | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DQb_MSUjP3I.md | says record | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQg_31fiDUD.md | expensive cameras | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DQrkd2jCBSJ.md | zoom | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DQuIwVqiHP5.md | simultaneously record | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DR18VrLCJ4V.md | one-click setup | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DR4-cJRiHIa.md | hosting workshops | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRAF2FxiEIC.md | one-click setup | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRH0noGCC6P.md | recording horizontal | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRMjQK5CNkY.md | install | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DRPHoR7CFFp.md | record horizontal | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRPm1QpiPHg.md | because | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DRSX4VnCFat.md | record | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DRUmx9-iKje.md | use | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRW4rSJiKkW.md | μαζεύει | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRfQDbEiJly.md | Zoom | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRg8QGzCEI5.md | draw | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRup4RRiLFA.md | record | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DRxSHNLiMqM.md | call | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DRzVZlVjOMR.md | setup | 3 |
+| glossary/disisjorj/G_ig_disisjorj_DRUmx9-iKje.md | use | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DRW4rSJiKkW.md | Δεν μπορείς να το κοιτάς. Και βλέπω ότι δεν το μαζεύει. Όχι … | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRfQDbEiJly.md | zoom | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DRg8QGzCEI5.md | click setup | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRup4RRiLFA.md | says record | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DRxSHNLiMqM.md | recording horizontal | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DRzVZlVjOMR.md | one-click setup | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DSNX5AliGib.md | horizontal | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DSS7lAOiEkM.md | horizontal | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DSVTJ2ZiGMQ.md | create | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DSdDR3QCGkw.md | creating | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DSS7lAOiEkM.md | horizontal | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DSVTJ2ZiGMQ.md | comment | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DSdDR3QCGkw.md | comment | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DSm93dNCN7S.md | effort | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DSmnc3OCK6D.md | camera | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DSpkQtdCCwt.md | experience | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DSr0xa_iBUB.md | horizontal | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DSvU80XCLTx.md | call | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DSxTwy5CMHM.md | every single | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DTk_VzQCLNn.md | connected | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DSvU80XCLTx.md | recording horizontal | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DSxTwy5CMHM.md | becomes inevitable | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DTk_VzQCLNn.md | connected | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DU-88TbiE6m.md | record | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DU3NpLLgt6-.md | connected | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DU5zCbtAp5k.md | using | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DU8XzftApne.md | iPhone | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DUDtKjyiMOR.md | backdrop | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DUGRUaMCJN9.md | every | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DUI2rFwiErR.md | charging | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DU3NpLLgt6-.md | headphones directly | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DU5zCbtAp5k.md | wireless microphones | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DU8XzftApne.md | capture high-quality | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DUDtKjyiMOR.md | inconsistent backdrops | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DUGRUaMCJN9.md | increases conversions | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DUI2rFwiErR.md | charging premium | 1 |
 | glossary/disisjorj/G_ig_disisjorj_DULJ-SJCBRZ.md | ready | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DUN8aU-CP2o.md | shot | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DUQiOqnCNY7.md | clients | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DUN8aU-CP2o.md | so-called facetime | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DUQiOqnCNY7.md | onboarding forms | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DUTLjpNiPwZ.md | horizontal | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DUWCDQGCJfH.md | her | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DUi3mKCCK5Z.md | press | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DVbXLQhiLG-.md | YouTube | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DUWCDQGCJfH.md | unique mechanisms | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DUi3mKCCK5Z.md | both horizontal | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DVbXLQhiLG-.md | youtube | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DVd2ZQpiBiv.md | form | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DVgH0lNCOpo.md | content | 3 |
+| glossary/disisjorj/G_ig_disisjorj_DVgH0lNCOpo.md | telegram bot | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DVjJhWdCFy1.md | microphone | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DVopNrSCJ3l.md | connected | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DVrLWMZCMRa.md | created | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DVopNrSCJ3l.md | connected | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DVrLWMZCMRa.md | strategy call | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DWE3UkjCKgo.md | horizontal | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DWHPnyxCB5X.md | click | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DWHPnyxCB5X.md | one-click setup | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DWJrpZ_CKZT.md | approach | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DWO_OsRiOkW.md | store | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Da-kvJ5K2cr.md | recording | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Da5oQt6Kpby.md | Zoom | 3 |
-| glossary/disisjorj/G_ig_disisjorj_DaTcu4_KqId.md | into | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DWO_OsRiOkW.md | app called | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Da-kvJ5K2cr.md | recording | 2 |
+| glossary/disisjorj/G_ig_disisjorj_Da5oQt6Kpby.md | zoom | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DaTcu4_KqId.md | normal mouse | 2 |
 | glossary/disisjorj/G_ig_disisjorj_DaV9xBvKc9-.md | recording | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DaVPU4FqSqh.md | highlighter | 1 |
-| glossary/disisjorj/G_ig_disisjorj_DaYHGL4K3mv.md | subtitles | 1 |
-| glossary/disisjorj/G_ig_disisjorj_Das2jTNKTAg.md | Click | 2 |
-| glossary/disisjorj/G_ig_disisjorj_DbV92ZIqHRo.md | software | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C0LVaiopNPL.md | flower | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C0mCHSZJcb1.md | heartbreak | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C0tw3FWSAeF.md | попробуй | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C1HgyQBSXtP.md | loyalty | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C1Wzf8pSmnL.md | low | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_C4ai02WyOPK.md | popular | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Cz-fNx5J0mH.md | throw | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Cz0NXK1JsTw.md | alright | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DaVPU4FqSqh.md | perfect teaching | 1 |
+| glossary/disisjorj/G_ig_disisjorj_DaYHGL4K3mv.md | creation process | 1 |
+| glossary/disisjorj/G_ig_disisjorj_Das2jTNKTAg.md | click | 2 |
+| glossary/disisjorj/G_ig_disisjorj_DbV92ZIqHRo.md | record horizontal | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C0LVaiopNPL.md | Can I call you Rose?Cause you're sweet like a flower. | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C0mCHSZJcb1.md | never let | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C0tw3FWSAeF.md | Попробуй мант мант, попробуй чага чага, попробуй ууу ууу. | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C1HgyQBSXtP.md | To give me your loyalty, 'cause I'm taking the world, you'll… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C1Wzf8pSmnL.md | I'm at an all time low, low, low, low, low, low, low, low, l… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_C4ai02WyOPK.md | popular | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Cz-fNx5J0mH.md | bummer anthem | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Cz0NXK1JsTw.md | smoking cigarette | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_Cz766e9pC8o.md | showed | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_CzyJNdspTS3.md | back | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_CzyJNdspTS3.md | sippin' champagne | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DC0tMUkibgR.md | lead | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DDOr74zTSvz.md | ads | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DEe98JoTb8n.md | job | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DFKvFyZi8Z9.md | groups | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DJro-6MTlGF.md | lead | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DDOr74zTSvz.md | ads | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DEe98JoTb8n.md | lead gen | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DFKvFyZi8Z9.md | groups | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DJro-6MTlGF.md | lead magnet | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DPByu1fkr29.md | click | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DPEIQ2nkuF6.md | extensions | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DPGszZUElXf.md | groups | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DPI6txBksoN.md | Discord | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DPq_AKckiqS.md | MCP | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DPv9Q2lkvVE.md | AI | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DQEuVA4Ep91.md | Claude | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DPEIQ2nkuF6.md | browse extensions | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DPGszZUElXf.md | public groups | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DPI6txBksoN.md | list | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DPq_AKckiqS.md | mcp | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DPv9Q2lkvVE.md | agent | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DQEuVA4Ep91.md | automatically everywhere | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DQGu5vaETER.md | app | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DQMn87VkjJo.md | lead list | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DQR3GUEDLuA.md | click | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DQMn87VkjJo.md | lead list | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DQR3GUEDLuA.md | yellow pages | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DQZkm4akt5q.md | find | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DQemeRiknhW.md | perfect prompts | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DRhgxxGEgRA.md | automation | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DRjdYxDkqbv.md | automation | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DSRrVBpDIo8.md | AI | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DSUNY6ckgut.md | LinkedIn | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DSW2hkykaxz.md | thousand | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DSfZFUaDI4f.md | integration | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DSkmvpzEsNa.md | Gemini | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DTH3Lphke3L.md | AI | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DThBntWkueM.md | automation | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DUCa9eRkonj.md | instrument | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DUTCjWJEg5j.md | LinkedIn | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DUYhEWrkubg.md | technical | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DQemeRiknhW.md | perfect prompts | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DRhgxxGEgRA.md | instagram automation | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DRjdYxDkqbv.md | This free automation will guarantee you clients from LinkedI… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DSRrVBpDIo8.md | thirty thousand | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DSUNY6ckgut.md | Here's how you can get clients from LinkedIn, part two. | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DSW2hkykaxz.md | Email AI agent to sign clients in two thousand and twenty si… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DSfZFUaDI4f.md | We save fifty thousand leads with this Appify and Claude int… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DSkmvpzEsNa.md | This Gemini Three AI agent will binge ads for you. | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DTH3Lphke3L.md | sequence | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DThBntWkueM.md | This free automation will guarantee you clients from LinkedI… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DUCa9eRkonj.md | We save fifteen thousand leaves with this amplifier and claw… | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DUTCjWJEg5j.md | linkedin | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DUYhEWrkubg.md | technical ability | 1 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DUs5NYnkuAh.md | agents | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DVX9IraEWSn.md | roadmap | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DW82YEPjOXf.md | SOP | 3 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DW82YEPjOXf.md | sop | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DWlKLatE4Wp.md | workflow | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DX6cHWmR4vH.md | Apollo | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DXYT3SpEWOg.md | visually | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DY639PNSCRs.md | job | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DYfDeeqSlTk.md | Claude | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DYhnxLaSZtp.md | Replit | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DZSiNhOyyDo.md | planning | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DZVIJAIhhIB.md | Claude | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DZnKAQ2SxLU.md | AI | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DZpZxd7y-jY.md | agents | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DZr0VDUyVUn.md | Hixtool | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DaLL5FyyNNN.md | clot | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dak7sJpS3nz.md | workflow | 1 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Db54CgRSKcv.md | create | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DbD0ljwSOKf.md | communities | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dbdk08yyHqS.md | design | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DblTlrvyf_0.md | Claude | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dc82h6lSheM.md | outreach | 3 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DX6cHWmR4vH.md | apollo | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DXYT3SpEWOg.md | visually connected | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DY639PNSCRs.md | build | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DYfDeeqSlTk.md | claude skills | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DYhnxLaSZtp.md | marketing department | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DZSiNhOyyDo.md | intent signals | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DZVIJAIhhIB.md | claude code | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DZnKAQ2SxLU.md | workflows simultaneously | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DZpZxd7y-jY.md | creates personalized | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DZr0VDUyVUn.md | hixtool | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DaLL5FyyNNN.md | clot | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dak7sJpS3nz.md | workflow | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Db54CgRSKcv.md | point five | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DbD0ljwSOKf.md | communities | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dbdk08yyHqS.md | website | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DblTlrvyf_0.md | claude | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dc82h6lSheM.md | outreach | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DcMA0OGyKC6.md | cold email | 2 |
 | glossary/divyannshisharma/G_ig_divyannshisharma_DcOdjpzyZ_4.md | sales | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dc_a-4wydJJ.md | Sidens | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DcoLourywqV.md | government | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dcq0nmpyEUR.md | Claude | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dcv-Ya8SlNK.md | design | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_Dd4E_VUSYS5.md | typing | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DdEmqb0S9TD.md | find | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DdbvsRKM2Il.md | using | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DdeTTiSSiHw.md | LinkedIn | 2 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DdjdxBgShtT.md | Reddit | 3 |
-| glossary/divyannshisharma/G_ig_divyannshisharma_DdopgpnyNGw.md | into | 2 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DObFl1tiGgs.md | mí como | 1 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DPXxii5iJKR.md | Easy | 1 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSTC0wTiMG_.md | Unbelievable | 1 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSc2OgCCE4a.md | oy | 1 |
-| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DVRoBcjCNxy.md | records | 1 |
-| glossary/dr.bano.official/G_ig_dr.bano.official_C0CXYAQKLJj.md | İlelebet | 1 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dc_a-4wydJJ.md | sidens | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DcoLourywqV.md | government contract | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dcq0nmpyEUR.md | claude | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dcv-Ya8SlNK.md | multiple channels | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_Dd4E_VUSYS5.md | typing | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DdEmqb0S9TD.md | software related | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DdbvsRKM2Il.md | using | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DdeTTiSSiHw.md | linkedin | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DdjdxBgShtT.md | reddit | 2 |
+| glossary/divyannshisharma/G_ig_divyannshisharma_DdopgpnyNGw.md | generate three | 2 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DObFl1tiGgs.md | ¿O si vienes a mí como a mí como a mí como a mí como a mí co… | 1 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DPXxii5iJKR.md | Hey. Easy. Hey. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. … | 1 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSTC0wTiMG_.md | unbelievable | 1 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DSc2OgCCE4a.md | little bit | 2 |
+| glossary/dr.aseelbaddar/G_ig_dr.aseelbaddar_DVRoBcjCNxy.md | little complacent | 1 |
+| glossary/dr.bano.official/G_ig_dr.bano.official_C0CXYAQKLJj.md | Bir geceyi bulma, beni yurda duymasın kimse. İlelebet aşk bu… | 1 |
 | glossary/dr.bano.official/G_ig_dr.bano.official_C_7_sCDu-3j.md | truth | 1 |
-| glossary/dr.bano.official/G_ig_dr.bano.official_CmE48BpKvwF.md | true | 1 |
-| glossary/dr.bano.official/G_ig_dr.bano.official_DM-MuJzNh9T.md | prompt | 2 |
-| glossary/dr.bano.official/G_ig_dr.bano.official_Daib8XdocQF.md | Fire | 1 |
+| glossary/dr.bano.official/G_ig_dr.bano.official_CmE48BpKvwF.md | never | 1 |
+| glossary/dr.bano.official/G_ig_dr.bano.official_DM-MuJzNh9T.md | If you're not sure about a prompt, write what you think is a… | 1 |
+| glossary/dr.bano.official/G_ig_dr.bano.official_Daib8XdocQF.md | beautiful rhythms | 1 |
 | glossary/elgendyfilms/G_ig_elgendyfilms_DKco4rMs-Z4.md | football | 2 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DLF8OCGMsog.md | oh | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DMsvRLdMGnX.md | sky | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DMvSmBgMeAI.md | him cook | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DQZl9QmjHRL.md | Every | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DQgtqz6jMwL.md | innovation | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DXMyPMsDCci.md | la | 2 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DYKrSzqMST-.md | bluebirds | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_DceVvfix4Xv.md | wants | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_Dd4IhblsnGR.md | touches | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_Dd4dbqtxskZ.md | Highs | 1 |
-| glossary/elgendyfilms/G_ig_elgendyfilms_Dd9nLenR-k4.md | touches | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C0_jkzZrPqu.md | problems | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C0hEOBft4n-.md | marketing | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C0jRI1ZN2Sy.md | work | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C0ov6JTNPQP.md | money | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C0q9IuHLdWT.md | fear | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C111pgVNEYT.md | stop | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C1FBpyONTxQ.md | powerful | 2 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DLF8OCGMsog.md | And way down we go, oh oh oh oh, oh way down we go, oh oh oh… | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DMsvRLdMGnX.md | sky | 2 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DMvSmBgMeAI.md | cook | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DQZl9QmjHRL.md | changes history | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DQgtqz6jMwL.md | Where heroes were born and rivalries defined an era. Today, … | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DXMyPMsDCci.md | La main dans la main, il la tient devant cette photo d'antan… | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DYKrSzqMST-.md | You can ask the flowers. I sit for hours. Telling all the bl… | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_DceVvfix4Xv.md | wants peace | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_Dd4IhblsnGR.md | stay cold | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_Dd4dbqtxskZ.md | never let | 1 |
+| glossary/elgendyfilms/G_ig_elgendyfilms_Dd9nLenR-k4.md | stay cold | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C0_jkzZrPqu.md | enemies inspire | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C0hEOBft4n-.md | instagram | 2 |
+| glossary/explained.marketing/G_ig_explained.marketing_C0jRI1ZN2Sy.md | You will attract high-paying clients if your work performs a… | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C0ov6JTNPQP.md | gains | 2 |
+| glossary/explained.marketing/G_ig_explained.marketing_C0q9IuHLdWT.md | competitors higher | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C111pgVNEYT.md | without understanding | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C1FBpyONTxQ.md | powerful masterclass | 1 |
 | glossary/explained.marketing/G_ig_explained.marketing_C1J3RLBriVt.md | killed | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C1Ud53KLJ7d.md | mathematical | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C1W4rrJtarS.md | product | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C1Zpv4gN9-h.md | attention | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C1Ud53KLJ7d.md | mathematical principles | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C1W4rrJtarS.md | little cheaper | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C1Zpv4gN9-h.md | attention | 2 |
 | glossary/explained.marketing/G_ig_explained.marketing_C1cOmVJtyfx.md | nine | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_C1wp55ltiTU.md | price | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_C2LAVuHN0NK.md | Use | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_Cy6CUEtNIWQ.md | marketing | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C1wp55ltiTU.md | artificially inflated | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_C2LAVuHN0NK.md | Use this psychological trick to make your brand memorable. T… | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_Cy6CUEtNIWQ.md | effective strategies | 1 |
 | glossary/explained.marketing/G_ig_explained.marketing_Cy826DSoJWT.md | machine | 2 |
 | glossary/explained.marketing/G_ig_explained.marketing_Cz03iZWLMMJ.md | online maths | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_CzBwpiUoB1G.md | popcorn | 3 |
+| glossary/explained.marketing/G_ig_explained.marketing_CzBwpiUoB1G.md | popcorn | 2 |
 | glossary/explained.marketing/G_ig_explained.marketing_CzJIe7zu6HH.md | machine | 2 |
-| glossary/explained.marketing/G_ig_explained.marketing_CzLzV2-NDW2.md | Konnichiwa | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_CzQzB2aLIre.md | lose | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_CzWOaMxLJkX.md | Red Bull | 3 |
-| glossary/explained.marketing/G_ig_explained.marketing_Cz_lJlgtUFw.md | circle | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_CzdtfcmLy0h.md | sells | 1 |
-| glossary/explained.marketing/G_ig_explained.marketing_CztfloaN-SZ.md | stop | 2 |
-| glossary/fundedfounder/G_ig_fundedfounder_DUB1-3UDJWz.md | papa | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DUCCFseDKe2.md | humble Sit | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DUEVOM0DGyl.md | negotiate | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DUL3RGKjEBm.md | figured | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_CzLzV2-NDW2.md | Let's see what curiosity can do. Hmm. Hmm. Hmm. Whoa. Ah. Ko… | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_CzQzB2aLIre.md | lose | 2 |
+| glossary/explained.marketing/G_ig_explained.marketing_CzWOaMxLJkX.md | red bull | 2 |
+| glossary/explained.marketing/G_ig_explained.marketing_Cz_lJlgtUFw.md | circle | 2 |
+| glossary/explained.marketing/G_ig_explained.marketing_CzdtfcmLy0h.md | psychological phenomenon | 1 |
+| glossary/explained.marketing/G_ig_explained.marketing_CztfloaN-SZ.md | You will fail to maintain a strong business if you don't kno… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DUB1-3UDJWz.md | ton papa | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DUCCFseDKe2.md | humble | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DUEVOM0DGyl.md | We attempted to negotiate, but Galactus, he asked too high a… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DUL3RGKjEBm.md | never figured | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DURKHKVDNKb.md | mistake | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DURVq7fDJG5.md | serve | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DUlpIbnDJDD.md | strut | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DURVq7fDJG5.md | Why are you here? I'm here for you. You wish to serve me? | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DUlpIbnDJDD.md | Uh huh. Baby, I need you to strut. Walk like you don't give … | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DV6Yw7YjMDw.md | reminds | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DV6nztmDISj.md | broke | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVE8wjkjIbQ.md | kidnapping | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVEXTxnDCzE.md | Jeffrey Epstein | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVKI6SWDD3h.md | his | 2 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVKXBgBCJVY.md | moment | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVR-vRTDG0Z.md | trust | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVUx1XRjAb4.md | champagne | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVWr8maDHRV.md | possible | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVWyM9yjGQM.md | suffer | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVXK3EVjGBu.md | talking | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVXVKNsCMoj.md | Alright | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVZFlpajB4Q.md | buttoned | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVbGDw_jLY5.md | setting | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVi73E6DDPS.md | alright | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DViwyaIjOQ0.md | hamburgers | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVjHhFejJxC.md | Call Anonymous | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DV6nztmDISj.md | nobody else | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVE8wjkjIbQ.md | It doesn't have to be this way. I have no choice. Times have… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVEXTxnDCzE.md | jeffrey epstein | 2 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVKI6SWDD3h.md | unbelievable aptitude | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVKXBgBCJVY.md | Back it up a moment. You just said that you were gay? | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVR-vRTDG0Z.md | trust myself | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVUx1XRjAb4.md | In the sky, there ain't a cloud in sight. It's champagne and… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVWr8maDHRV.md | possible | 2 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVWyM9yjGQM.md | I suffer from short-term memory loss. Yes, that's exactly wh… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVXK3EVjGBu.md | I'm sorry. Who's that back there? What the heck are you talk… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVXVKNsCMoj.md | flexin' nigga | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVZFlpajB4Q.md | It's a black top, blue buttoned peach shirt, crew. | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVbGDw_jLY5.md | You set me up? Huh? You're the wire? You're setting me up? | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVi73E6DDPS.md | cause | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DViwyaIjOQ0.md | This, this person doesn't know what the hell he's doing. Thi… | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVjHhFejJxC.md | call anonymous | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DVlIpa5DNJ_.md | dropped | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVlkqPrDP9_.md | fifty | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DVrOPDXDEX4.md | hot | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXKF_zBjIeW.md | muñeca | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXLunb_DMUc.md | himself | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXM2tXEDGoM.md | entusiasmi | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXMqPUSjN9H.md | call | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXNFxDKjGEf.md | records | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXQCZ_iDJyQ.md | woman | 1 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXmq9aTDBiY.md | language | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVlkqPrDP9_.md | fifty | 2 |
+| glossary/fundedfounder/G_ig_fundedfounder_DVrOPDXDEX4.md | understand nothing | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXKF_zBjIeW.md | real | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXLunb_DMUc.md | For what is a man, what has he got, if not himself? | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXM2tXEDGoM.md | diventa importante | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXMqPUSjN9H.md | call | 2 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXNFxDKjGEf.md | records | 2 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXQCZ_iDJyQ.md | lily pads | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXmq9aTDBiY.md | Hold up, yeah, yeah, yeah, yeah. I can't teach that bitch my… | 1 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXnUmBUiFcu.md | math | 2 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXr0vBrDNGD.md | name | 2 |
 | glossary/fundedfounder/G_ig_fundedfounder_DXr_u8pDBgp.md | rough | 2 |
-| glossary/fundedfounder/G_ig_fundedfounder_DXu-E_XMi6E.md | shut | 1 |
-| glossary/geniuzss/G_ig_geniuzss_DGsswB7xvhB.md | eu | 1 |
-| glossary/geniuzss/G_ig_geniuzss_DGumlQMIkKS.md | crumble | 1 |
-| glossary/geniuzss/G_ig_geniuzss_DH1Dsn_oC26.md | adrenaline | 1 |
-| glossary/geniuzss/G_ig_geniuzss_DH8eczoIK13.md | universe | 3 |
-| glossary/geniuzss/G_ig_geniuzss_DHD1V3dTD_x.md | cheerleader | 1 |
-| glossary/geniuzss/G_ig_geniuzss_DHyeWlsIL3a.md | Wake | 1 |
+| glossary/fundedfounder/G_ig_fundedfounder_DXu-E_XMi6E.md | come | 2 |
+| glossary/geniuzss/G_ig_geniuzss_DGsswB7xvhB.md | Toda bê de rosa, eu tô pronta pra fazer. Só não decidi ainda… | 1 |
+| glossary/geniuzss/G_ig_geniuzss_DGumlQMIkKS.md | sky falls | 1 |
+| glossary/geniuzss/G_ig_geniuzss_DH1Dsn_oC26.md | redistributes blood | 1 |
+| glossary/geniuzss/G_ig_geniuzss_DH8eczoIK13.md | universe | 2 |
+| glossary/geniuzss/G_ig_geniuzss_DHD1V3dTD_x.md | because | 2 |
+| glossary/geniuzss/G_ig_geniuzss_DHyeWlsIL3a.md | comfortability kills | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_CUFY0-FoTjt.md | side effects | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_CaXZZ_7IVeG.md | scared | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CalOVjaK53Y.md | answer | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CbxNBXboTeg.md | trust | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CcKdg6TKWuQ.md | sales | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CcXr_s0I5Ul.md | question | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CeIrnHoKeFd.md | monkey | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CalOVjaK53Y.md | answer | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CbxNBXboTeg.md | trust | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CcKdg6TKWuQ.md | pink elephant | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CcXr_s0I5Ul.md | psychological perspective | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CeIrnHoKeFd.md | poker hand | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_Ck02YLcoxQG.md | willing | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ck_Ahfko-cd.md | focus | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkjVkkroxQU.md | structure | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkleCF5IRdG.md | side | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ckq3FvAopJB.md | pre program | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkvgTtIIHfM.md | side | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkycAkQIqoH.md | back | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DBt5m-fPciH.md | Step | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DBvz7UixbBF.md | Question | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DH8SnDho1ZU.md | sales | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ck_Ahfko-cd.md | focus | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkjVkkroxQU.md | normal conversation | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkleCF5IRdG.md | barrelling towards | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ckq3FvAopJB.md | avoid discomfort | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkvgTtIIHfM.md | barrelling towards | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_CkycAkQIqoH.md | repeat | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DBt5m-fPciH.md | pre-agreement | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DBvz7UixbBF.md | question | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DH8SnDho1ZU.md | sales | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DH_whFAocJj.md | close | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHdr0Ipo3sk.md | prospect | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHvYjbIoEIL.md | management | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHyeNGhohRQ.md | job | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHdr0Ipo3sk.md | decision-making process | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHvYjbIoEIL.md | management better | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DHyeNGhohRQ.md | matter | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DI4HHEzoYsc.md | sign | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIB0h1Eotlo.md | objections | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIEMJbooliy.md | objections | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIG1d8OIEw3.md | Number | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO52s-uDMg2.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO8jI5PDA7o.md | hours | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DOBNe0oDTDR.md | whatever | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DOGhLKADFXT.md | unconsciously | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIB0h1Eotlo.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIEMJbooliy.md | objections | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DIG1d8OIEw3.md | sales call | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO52s-uDMg2.md | sales team | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO8jI5PDA7o.md | fourteen hundred | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DOBNe0oDTDR.md | question-based selling | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DOGhLKADFXT.md | unconsciously competent | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DOLPOZXDSgX.md | hear | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO_LrrbjBRx.md | overcome | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DO_LrrbjBRx.md | transformation process | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DOoj3dZDSbt.md | percent | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DPBOc-ljWxx.md | tired | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPEBW1IDUnI.md | spell | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPOh02-jOBD.md | consequence | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPTug6wjBL-.md | platform | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DS2VvNgjZ7V.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSAFlPzjbU4.md | public | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSCrptIjZcB.md | means | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSFPwGYjePQ.md | talking | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSHyzi1jfsU.md | show | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSIRrYGjKTd.md | demons hide | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTAruVSDWhV.md | offer | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPEBW1IDUnI.md | Looks like we're making up for lost time. Need you to spell. | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPOh02-jOBD.md | downstream consequence | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DPTug6wjBL-.md | platform | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DS2VvNgjZ7V.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSAFlPzjbU4.md | public | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSCrptIjZcB.md | This means you have a bad hook. This means you have a bad CT… | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSFPwGYjePQ.md | three | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSHyzi1jfsU.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DSIRrYGjKTd.md | demons hide | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTAruVSDWhV.md | because everybody's | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DTLUXg9jS9e.md | thousand | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTQZpmKjTla.md | clear | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTaC8C3DfhQ.md | strawberry | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTgAFwTjfrR.md | closer | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTiFTF5jB_P.md | number | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTsAOj-jdIX.md | undecided | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTu9-0eDGaU.md | working | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DU-rYchDS7C.md | whether | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DU3u8-zjRzW.md | anybody | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTQZpmKjTla.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTaC8C3DfhQ.md | two r's | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTgAFwTjfrR.md | closer | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTiFTF5jB_P.md | calls | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTsAOj-jdIX.md | already comfortable | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DTu9-0eDGaU.md | helped | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DU-rYchDS7C.md | contextual information | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DU3u8-zjRzW.md | enough consistency | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DU5qJH6jMeo.md | freedom | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DW9SLkviFWY.md | content | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DW9SLkviFWY.md | specifically designed | 1 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DWOSE6-NvUx.md | bruised | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWRKneOC0em.md | him | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWWjBMuC5z_.md | horrendous | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWgOgFRtit4.md | Dave | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWgr9CHCUVt.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWjD2O9ioAX.md | coaches | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWmEwqgCc2N.md | designed | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWRKneOC0em.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWWjBMuC5z_.md | horrendous | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWgOgFRtit4.md | dave | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWgr9CHCUVt.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWjD2O9ioAX.md | coaches | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWmEwqgCc2N.md | designed | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DWmKmolCwGA.md | hobby | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWtVFdfimv0.md | American | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DWtVFdfimv0.md | american | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DX6iT8HNbYk.md | message | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DX98MjFNVO7.md | Number | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXEyRTSC_2H.md | using | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXFGuE9CJv5.md | Claude Code | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXMcY7sCK21.md | closer | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXPZrnKCgr-.md | leads | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXb1W7qCtZ5.md | blood pressure | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXcRTTQCS48.md | person | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXeJC5dtCQb.md | audience | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXg9frmiXUE.md | million | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXgsZuENtXt.md | weekends | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXi-SCeNiHp.md | tonight | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXjxLS1CCTh.md | underexplored | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXlgNmniW_m.md | part | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXoW-iANw5Y.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYM2XueC_Uu.md | service | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYNONS-NC3Z.md | setters | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYPLLVftNZj.md | fucking | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYR0cn_C0KJ.md | Claude killed | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYUVbQkt4sM.md | sales | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYWy6KGttJL.md | questions | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYZs9lgCcJb.md | camera | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DX98MjFNVO7.md | worcestershire | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXEyRTSC_2H.md | using | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXFGuE9CJv5.md | claude code | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXMcY7sCK21.md | closer | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXPZrnKCgr-.md | leads | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXb1W7qCtZ5.md | blood pressure | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXcRTTQCS48.md | years | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXeJC5dtCQb.md | hooks | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXg9frmiXUE.md | ten million | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXgsZuENtXt.md | People that don't drink, what are y'all doing on the weekend… | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXi-SCeNiHp.md | enough room | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXjxLS1CCTh.md | Embarrassment is an underexplored emotion. Go out there and … | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXlgNmniW_m.md | called happiness | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DXoW-iANw5Y.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYM2XueC_Uu.md | price | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYNONS-NC3Z.md | setters | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYPLLVftNZj.md | constructive feedback | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYR0cn_C0KJ.md | claude killed | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYUVbQkt4sM.md | sales team | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYWy6KGttJL.md | questions | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYZs9lgCcJb.md | vertical camera | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DYfL-R5t1zg.md | inverse incentive | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYhFIPotgnm.md | persuading | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYhFIPotgnm.md | persuading | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DYnIBhvipH3.md | experience | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYpbiMnClak.md | friends | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZaFyzcC_Rk.md | whether | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZb9GPGiRis.md | call | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZcYmEJimEq.md | speaking | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZe49vbCPTN.md | call | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DYpbiMnClak.md | whatsapp group | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZaFyzcC_Rk.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZb9GPGiRis.md | call | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZcYmEJimEq.md | isn't yapping | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZe49vbCPTN.md | call | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DZhTLfPiRlN.md | training | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZnR51lCt13.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZpHsHnN2aY.md | car | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZpetIOCYym.md | simple | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZnR51lCt13.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZpHsHnN2aY.md | pyramid scheme | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZpetIOCYym.md | maybe | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DZsE6_-Ckbk.md | entrepreneur | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZuU3pri9aU.md | Kuala Lumpur | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZxOzTkCtpE.md | pain | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DaOHK8GieMt.md | skepticism | 3 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZuU3pri9aU.md | kuala lumpur | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DZxOzTkCtpE.md | pain | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DaOHK8GieMt.md | skepticism | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_DaQiKZhCUUJ.md | chasing | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_Dc3CzrIi53B.md | shot | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dc5bIwKCb0_.md | call | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dcg62fvi-m5.md | answer | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dc5bIwKCb0_.md | call | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dcg62fvi-m5.md | challenging question | 2 |
 | glossary/geoff_ketterer/G_ig_geoff_ketterer_Dci_HHgC1nX.md | blocker | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dck4qhCClsS.md | eight | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dcv020sqt9z.md | training | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dd1VbVvNMMs.md | words | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdBafJjCsBS.md | fear | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdI4CILKwzg.md | referring | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdMMfTStQtj.md | persuading | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdWRyBKCoj_.md | objection | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dd_y-UMNm0L.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdjluaGinYt.md | sales | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ddl_fi_i6tb.md | pressure | 1 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdllI2hq1Qo.md | culture | 3 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdomZdpqOZF.md | closer | 2 |
-| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ddq9Q-1K50G.md | sales | 3 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_C4dsh9JMrAs.md | country | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dck4qhCClsS.md | eight | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dcv020sqt9z.md | training | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dd1VbVvNMMs.md | words | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdBafJjCsBS.md | because | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdI4CILKwzg.md | bell curve | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdMMfTStQtj.md | persuading | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdWRyBKCoj_.md | objection | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Dd_y-UMNm0L.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdjluaGinYt.md | sales | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ddl_fi_i6tb.md | pressure | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdllI2hq1Qo.md | culture | 2 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_DdomZdpqOZF.md | financially illiterate | 1 |
+| glossary/geoff_ketterer/G_ig_geoff_ketterer_Ddq9Q-1K50G.md | sales | 2 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_C4dsh9JMrAs.md | country | 2 |
 | glossary/ghayth.emad/G_ig_ghayth.emad_C5S3DnZs5kH.md | percent | 2 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_CO5U0RVAOa0.md | soundbite | 1 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_COQCzS8gSjj.md | every | 2 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_CcuyS4qAZZ-.md | supporting | 1 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_CeB1mnwgZOv.md | violence | 1 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_Cm7PVregqXQ.md | thousand | 1 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_CwmpLJeMikV.md | wooden | 1 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_CO5U0RVAOa0.md | soundbite | 2 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_COQCzS8gSjj.md | vacation | 2 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_CcuyS4qAZZ-.md | biggest fan | 1 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_CeB1mnwgZOv.md | He said one day this world will be more kind, and we will st… | 1 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_Cm7PVregqXQ.md | season comes | 1 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_CwmpLJeMikV.md | wooden floors | 1 |
 | glossary/ghayth.emad/G_ig_ghayth.emad_DUC_Un9jV8-.md | fire | 2 |
-| glossary/ghayth.emad/G_ig_ghayth.emad_DV39d8nDdb8.md | Forbidden Laws | 3 |
+| glossary/ghayth.emad/G_ig_ghayth.emad_DV39d8nDdb8.md | forbidden laws | 2 |
 | glossary/ghayth.emad/G_ig_ghayth.emad_Dd1cQUmil9r.md | believe | 2 |
-| glossary/gincontent/G_ig_gincontent_DTOkI5-kiqu.md | type | 3 |
+| glossary/gincontent/G_ig_gincontent_DTOkI5-kiqu.md | creators | 2 |
 | glossary/gincontent/G_ig_gincontent_DTlvceskkk5.md | portfolio | 2 |
-| glossary/gincontent/G_ig_gincontent_DUZMVGKkqO_.md | Saturday | 1 |
-| glossary/gincontent/G_ig_gincontent_DUhOImcEgRT.md | content | 2 |
-| glossary/gincontent/G_ig_gincontent_DVcWLy3kn9r.md | clients | 1 |
-| glossary/gincontent/G_ig_gincontent_DW9l4OeybQy.md | retention | 1 |
-| glossary/gincontent/G_ig_gincontent_DWP0myUkiD4.md | shots | 1 |
-| glossary/gincontent/G_ig_gincontent_DWpn-cSkmVB.md | content | 2 |
-| glossary/gincontent/G_ig_gincontent_DXF_pptSmUr.md | content | 2 |
-| glossary/gincontent/G_ig_gincontent_DXVcZa9yZR9.md | work | 2 |
-| glossary/gincontent/G_ig_gincontent_DYak-qoyy1b.md | job | 2 |
-| glossary/gincontent/G_ig_gincontent_DZWK2pbS1f4.md | content | 2 |
-| glossary/gincontent/G_ig_gincontent_Db4ikP7y3hV.md | business | 1 |
-| glossary/gincontent/G_ig_gincontent_DcADTAdy-J-.md | speaker | 3 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DY7sODEOG_h.md | zoom | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZ71DH9od7t.md | product | 1 |
+| glossary/gincontent/G_ig_gincontent_DUZMVGKkqO_.md | three behind-the-scenes | 1 |
+| glossary/gincontent/G_ig_gincontent_DUhOImcEgRT.md | ai-created hyper-aesthetic | 1 |
+| glossary/gincontent/G_ig_gincontent_DVcWLy3kn9r.md | premium designer | 1 |
+| glossary/gincontent/G_ig_gincontent_DW9l4OeybQy.md | search-based platform | 1 |
+| glossary/gincontent/G_ig_gincontent_DWP0myUkiD4.md | shots | 2 |
+| glossary/gincontent/G_ig_gincontent_DWpn-cSkmVB.md | zero views | 2 |
+| glossary/gincontent/G_ig_gincontent_DXF_pptSmUr.md | different businesses | 1 |
+| glossary/gincontent/G_ig_gincontent_DXVcZa9yZR9.md | instantly check | 1 |
+| glossary/gincontent/G_ig_gincontent_DYak-qoyy1b.md | hundred thousand | 2 |
+| glossary/gincontent/G_ig_gincontent_DZWK2pbS1f4.md | record | 2 |
+| glossary/gincontent/G_ig_gincontent_Db4ikP7y3hV.md | long-term relationship | 1 |
+| glossary/gincontent/G_ig_gincontent_DcADTAdy-J-.md | conventional stereotypes | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DY7sODEOG_h.md | zoom | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZ71DH9od7t.md | cinematic studio | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZHbxb8OY8R.md | editing | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZUchpBu9GK.md | dominant | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZUchpBu9GK.md | Stop using seven colors in your edits. Pick three: one domin… | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZfatFkoKRL.md | hard | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZngpsIu3N4.md | text | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZvAhkMIlti.md | editorial | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Da04szmOsFR.md | hard work | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Da8S_1eIYd7.md | Beep | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DalUO_5u2lw.md | words | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DanzoYhOrdx.md | textures | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DavuRfVuSBb.md | contrast | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DayI11wu_nR.md | SFX | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dc1nGiHuWfw.md | songs | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DZvAhkMIlti.md | cinematic | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Da04szmOsFR.md | keeps | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Da8S_1eIYd7.md | Beep. Beep. Beep. Beep. Beep. Beep. Beep. Beep. Beep. Beep. … | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DalUO_5u2lw.md | proof | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DanzoYhOrdx.md | ai-powered creativity | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DavuRfVuSBb.md | contrast | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DayI11wu_nR.md | comment sfx | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dc1nGiHuWfw.md | songs | 2 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dc3xBz3ovoM.md | amazing | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dc6oqqluseT.md | sound | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dc6oqqluseT.md | Meme sound effects. Cartoon and retro sound effects. Gaming … | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DcbVnjlojis.md | gaps | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DcduPzNIUy5.md | Art | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcj9gMTI4nB.md | Type | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcl9lNHuG5c.md | art | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DconMEwujzK.md | Try | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DcrEGZAOBu4.md | CC | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DcduPzNIUy5.md | mixed media | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcj9gMTI4nB.md | comment list | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcl9lNHuG5c.md | art | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DconMEwujzK.md | try | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DcrEGZAOBu4.md | CC Page Turn. CC Light Sweep. Deep Glow. Turbulent Displace.… | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DctgnoMIIRu.md | together | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcv--8-oOzk.md | design | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dcv--8-oOzk.md | japanese minimalism | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DczGhOeuEWo.md | means | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd13SvVM4sj.md | watching | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd6n_zZO49-.md | feels | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdAIRVguwdd.md | Type | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdEv7Ifo3JT.md | effect | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdNHbr6oOqt.md | Use | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdRzK48OT44.md | Effects | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd__INdueH4.md | Storytelling | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdbjRHnIWZ5.md | prompt | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdeZIeKwCNB.md | Skeuomorphism | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdjxXFDOYPR.md | plus | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Ddmo2b0O3Zh.md | direito | 1 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdpIvzyOjhF.md | shit | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd13SvVM4sj.md | crowd multiply | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd6n_zZO49-.md | covered masterclass | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdAIRVguwdd.md | understood | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdEv7Ifo3JT.md | drag-and-drop preset | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdNHbr6oOqt.md | Use to build tension. Use to add comedy. Use to get attentio… | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdRzK48OT44.md | effects | 2 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Dd__INdueH4.md | kinetic typography | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdbjRHnIWZ5.md | tagging higgsfield | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdeZIeKwCNB.md | mid-century modern | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdjxXFDOYPR.md | Use this plus this to get this. Use this plus this to get th… | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Ddmo2b0O3Zh.md | Ela é de direito, direito, direito, direito, direito, direit… | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DdpIvzyOjhF.md | whole bottle | 1 |
 | glossary/gobirdmasterclass/G_ig_gobirdmasterclass_Ddr_hIfIoTb.md | feels | 2 |
-| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DduLrJBu85A.md | sounds | 1 |
+| glossary/gobirdmasterclass/G_ig_gobirdmasterclass_DduLrJBu85A.md | Use these music sounds if you're telling a story. Use these … | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_05a3imydRY.md | believers | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_1UUC-2ydRT.md | propane | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_3CdGAtydWJ.md | his | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_4VLYE0ydar.md | driveway | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_5bXrG8ydZN.md | Run | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_6q_JGiSdWY.md | point | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_1UUC-2ydRT.md | You can't tell from this photo, but it smells like propane. … | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_3CdGAtydWJ.md | Goal. That's when he extends his arms out to increase his an… | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_4VLYE0ydar.md | So you got the right vehicle. Yeah. Shit, it's not going dow… | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_5bXrG8ydZN.md | sun goes | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_6q_JGiSdWY.md | You know, this is my last time. I think I'm gonna be doing i… | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_BCdMXl8SdQ6.md | room | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BCdQgNASdYh.md | friends | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BJ6aHfdASdx.md | feeling better | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BJ6epgFgjVn.md | hill | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BK87YlQASfV.md | Beautiful | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BKs_BmMAz3H.md | challenges | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BKtJ_wgAF6j.md | speaking | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BQhId5JAuJa.md | playing | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BU91EfQj2Zr.md | stand | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BUDHnGQjzo_.md | coming together | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BYEIEC1jfvc.md | protection | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BYRuMElDd_B.md | mood | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Bgq6M19jlTo.md | baker | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BvPqLifg5He.md | conversations | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_ByX8CZyANQf.md | funnel | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Bz-758FnWfO.md | building | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_BzI_wGHAV--.md | sales | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-0IYahi7DV.md | service | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-2u4RIM5FD.md | gap | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-3ZQqSp93B.md | YouTube | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-5Y0ZttSMU.md | clients | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-7v_t1Cj4F.md | happen | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-AhoOwqQXK.md | team | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-DNTqVhnpV.md | minutes | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-QIuJ3tHM1.md | working | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-Xzwdzt9gm.md | start | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-gxCkgueUK.md | season | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-iAABaKIwM.md | slow | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-nJk6oK0df.md | Leadpages | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-vFVIspbcs.md | CMO | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-xqbx4NWj5.md | buy | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BCdQgNASdYh.md | strong crowd | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BJ6aHfdASdx.md | better | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BJ6epgFgjVn.md | hill | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BK87YlQASfV.md | co-working space | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BKs_BmMAz3H.md | In your day-to-day business. We had a couple other hands ove… | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BKtJ_wgAF6j.md | pretty crazy | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BQhId5JAuJa.md | You, you, you. So I'll find you in time. Don't stop playing.… | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BU91EfQj2Zr.md | appropriate height | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BUDHnGQjzo_.md | coming together | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BYEIEC1jfvc.md | They don't, especially like a cell phone, doesn't have a lit… | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BYRuMElDd_B.md | mood | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Bgq6M19jlTo.md | amazing baker | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BvPqLifg5He.md | leverage automation | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_ByX8CZyANQf.md | funnel | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Bz-758FnWfO.md | building engines | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_BzI_wGHAV--.md | maybe | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-0IYahi7DV.md | service-based businesses | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-2u4RIM5FD.md | gap | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-3ZQqSp93B.md | youtube | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-5Y0ZttSMU.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-7v_t1Cj4F.md | happen | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-AhoOwqQXK.md | team | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-DNTqVhnpV.md | minutes | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-QIuJ3tHM1.md | curriculum | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-Xzwdzt9gm.md | maybe | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-gxCkgueUK.md | season | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-iAABaKIwM.md | lead generation | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-nJk6oK0df.md | conversion method | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-vFVIspbcs.md | cmo | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C-xqbx4NWj5.md | three | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C04Vy6PrRZv.md | billion | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C07CniJrXKz.md | language | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C07CniJrXKz.md | language | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C0CRDXYsZio.md | experience | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0J_d-LMXaC.md | find | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0J_d-LMXaC.md | delegating outcomes | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C0PJCxbrJAW.md | house manager | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0USofiNeaG.md | experiencing | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0cBBcqrcSL.md | content | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0hHh-VN2O2.md | activities | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1KXjQvNUi_.md | hybrid specialty | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0USofiNeaG.md | everyone's potentially | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0cBBcqrcSL.md | sales conversations | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C0hHh-VN2O2.md | customized loom | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1KXjQvNUi_.md | hybrid specialty | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C1SFsykts2u.md | million | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1XPTE0repC.md | service | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1XPTE0repC.md | demands flexibility | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C1cY5tgs39V.md | clients | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1kK7P2s17f.md | clients | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1kK7P2s17f.md | clients coming | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C1pUYfhrL1R.md | continually | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1uXLSqsF9m.md | step | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1z8zT8pxL5.md | Sunday | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1uXLSqsF9m.md | demonstrate expertise | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C1z8zT8pxL5.md | everything's blocked | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C2-V8gMsC9K.md | conversation | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C22nnCjMh1g.md | client | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2AfiB5rBgZ.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2IN-5zLB_e.md | season | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C22nnCjMh1g.md | experience | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2AfiB5rBgZ.md | building | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2IN-5zLB_e.md | change | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C2NXf9uLbbp.md | done | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C2ShKy5LwPE.md | clients | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C2aWcIoMgEg.md | hybrid | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2fZPjPsBdg.md | level | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2kpnTDNME3.md | serving | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3k95dBM-QQ.md | possible | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3ni2GUsQ-c.md | client | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3ssVVlvVgw.md | inconsistent | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4--6H1KNWr.md | deliverables | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C43UFI2tPo1.md | reach | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C451TGzCo1U.md | active | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2fZPjPsBdg.md | level | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C2kpnTDNME3.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3k95dBM-QQ.md | extremely helpful | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3ni2GUsQ-c.md | help | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C3ssVVlvVgw.md | unqualified prospects | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4--6H1KNWr.md | keyword research | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C43UFI2tPo1.md | incredible freedom | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C451TGzCo1U.md | active | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C48aGAeNKIL.md | deliverables | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C4Gl2tMttfN.md | problem | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4JBHs5vAo4.md | sales | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4QzJwsi0IM.md | GM | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4VyHuCsUbx.md | productized | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4YW8lDPf8Y.md | process | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4dkQdmpVws.md | services | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5ORXLlLffc.md | deliverables | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5Q2ZOtJKdW.md | meetings | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5Yn7mUBdyQ.md | into | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5_FkGphkM-.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5bMstqveHa.md | team | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5duFFLvmKu.md | phases | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4JBHs5vAo4.md | sales calls | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4QzJwsi0IM.md | growth curve | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4VyHuCsUbx.md | productized | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4YW8lDPf8Y.md | process | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C4dkQdmpVws.md | services | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5ORXLlLffc.md | deliverables | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5Q2ZOtJKdW.md | meetings | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5Yn7mUBdyQ.md | sending conversations | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5_FkGphkM-.md | says fundamentally | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5bMstqveHa.md | team members | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5duFFLvmKu.md | phases | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C5gWaFWtdJA.md | cost | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5i3ruQOmnT.md | margin | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5qipQnPkGs.md | percent | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5tOVF4v5tk.md | percent | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5wIeLIJJpN.md | clients | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5yUmw0q8lh.md | delivery | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6WPBdLhtBl.md | starting | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6Y8hjxiQEg.md | hire | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6_nvYbBkem.md | customers | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6bdwTJhZIF.md | helping | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5i3ruQOmnT.md | margin | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5qipQnPkGs.md | fifty percent | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5tOVF4v5tk.md | percent | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5wIeLIJJpN.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C5yUmw0q8lh.md | delivery | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6WPBdLhtBl.md | because | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6Y8hjxiQEg.md | hire | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6_nvYbBkem.md | acquire customers | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6bdwTJhZIF.md | helping | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C6guUWWoGFG.md | team | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6q7xg_M5T5.md | specialize | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C6q7xg_M5T5.md | specialize | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C6tmLBlJt9a.md | medical | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C6yv4nAraQI.md | industry | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C71saRzg1CT.md | ideal | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C76vMGpKgH5.md | point | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C79T-yytQ-Z.md | optimization | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7ExUeKMNmw.md | quality | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7SMEe4Jbfn.md | business | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7buvokuRjN.md | cost | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7eae9oIf3_.md | selling | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C71saRzg1CT.md | ideal clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C76vMGpKgH5.md | point | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C79T-yytQ-Z.md | optimization | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7ExUeKMNmw.md | quality | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7SMEe4Jbfn.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7buvokuRjN.md | cost-effective perspective | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7eae9oIf3_.md | selling | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C7g4XQFM4uK.md | million | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7jkC_KM9s8.md | clients | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7otnmMCll7.md | validated | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7uHxleo17O.md | team | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7jkC_KM9s8.md | people's distribution | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7otnmMCll7.md | validated | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7uHxleo17O.md | intellectual property | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C7wgHybtU0S.md | million | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7zHpP_IQAY.md | team | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C819Z8KhC_G.md | solve | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C84iSMNiP6i.md | expertise | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C7zHpP_IQAY.md | team | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C819Z8KhC_G.md | solve | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C84iSMNiP6i.md | selling expertise | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C87HBHFCoCR.md | talent | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C89ysX7Phv3.md | clients | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8eyQ1SMW6b.md | replicate | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8hXFDQiS2j.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8munACBOJu.md | passed away | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8rxIuusqkZ.md | control | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C89ysX7Phv3.md | tech-enabled services | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8eyQ1SMW6b.md | super appealing | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8hXFDQiS2j.md | probably | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8munACBOJu.md | months because | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8rxIuusqkZ.md | couple hours | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C8zYqNqo_I4.md | local | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8zYqp1t1ty.md | business | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9-OBCdulOG.md | team | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C90H3THsLfO.md | price | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C8zYqp1t1ty.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9-OBCdulOG.md | team | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C90H3THsLfO.md | price | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C95BEtjoXB4.md | person | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C97lxanv6pl.md | sales | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9C1Y1ts7QX.md | service | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9FaLV-NBZ5.md | social media | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9H50rQMR3f.md | system | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9Knpy6PYsY.md | productized | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9clWueo1J1.md | interview | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C97lxanv6pl.md | sales | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9C1Y1ts7QX.md | productized | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9FaLV-NBZ5.md | social media | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9H50rQMR3f.md | repeatable conversations | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9Knpy6PYsY.md | core capability | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C9clWueo1J1.md | maybe | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C9pkNRWOA6H.md | remove ourselves | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_C9r1sOXu2Yt.md | morning | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CBRHAAEjLgW.md | differently | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CP8XuVDDPCL.md | yourself | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CS68A2Vjd8X.md | performers | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSNQLu-hHB6.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSZeVS2J0OC.md | clients | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSczvO3p32_.md | DIY | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CBRHAAEjLgW.md | differently | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CP8XuVDDPCL.md | yourself | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CS68A2Vjd8X.md | performers | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSNQLu-hHB6.md | intentionally designed | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSZeVS2J0OC.md | service-based businesses | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSczvO3p32_.md | both deliverable | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CShcl4Opl-J.md | continuity | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSpff3OpJLN.md | labor | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSuMV1CDgfq.md | work | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSzQ1myDAhB.md | clients | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CT2PRRJDo06.md | work | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSpff3OpJLN.md | having multiple | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSuMV1CDgfq.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CSzQ1myDAhB.md | clients | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CT2PRRJDo06.md | stanford researchers | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CT7YP3NDJVc.md | solution | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CTAKUy_j-Gd.md | specific | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUDM84HDx3Y.md | charge | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUIQx42gJv-.md | SOPs | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUNcfmpjHLZ.md | sales | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUVEdnkjXsQ.md | million | 3 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUDM84HDx3Y.md | charge | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUIQx42gJv-.md | sops | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUNcfmpjHLZ.md | sales page | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUVEdnkjXsQ.md | million | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUaboqJD1bb.md | deliverable | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUfaGo-jnAb.md | learn | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUnJuUwjzTO.md | team | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUstrPQp4d6.md | help | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUxlyZuAJsD.md | transition | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CUxlyZuAJsD.md | three years | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CV0U2NkAJ8q.md | put | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CV6SLwqJhqT.md | business | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CVDoTgWJ5yV.md | copy | 1 |

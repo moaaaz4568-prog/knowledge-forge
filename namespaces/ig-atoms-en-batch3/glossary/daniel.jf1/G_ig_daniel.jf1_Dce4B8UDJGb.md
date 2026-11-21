@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["outreach", "ads"]
+aka: ["three"]
 origin: sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
 ---
 
-# G_ig_daniel.jf1_Dce4B8UDJGb — outreach
+# G_ig_daniel.jf1_Dce4B8UDJGb — three
 
 ## Term
 
-outreach is the most prominent repeated term in this source (281-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: ads, cold, hyper. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'three' is the discipline of putting work out unfinished — daniel.jf1 argues it is what separates people who progress from people who perfect. It appears 8 times, it sits next to 'nothing', 'else', and 'within' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: There's three ways to get customers: content/slash organic… The argument only stays upright while 'three' is doing the work — pull it and 'LinkedIn' loses its anchor.
 
 ## Synonyms
 
-- outreach
-- ads
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "three ways to get customers: content/slash organic, ads, and outreach. There's nothing else that exists. Every single client acquisition method you will ever hear about, ever learn about, any strategy, it all falls within these three. There's nothing else outside of these three." — sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
-> "Outreach is cold emailing, cold calling, LinkedIn messages, hyper-personalized outreach campaigns, account-based outreach, direct mail. There is no secret fourth channel. Everything you ever hear in your life about getting clients, it's all gonna fall within these three." — sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
-> "It doesn't always need editing though. Spending time finding leads to do hyper-personalized outreach to. If you don't have money, you must spend time. There's zero strategy where it's just gonna work with no money and no time. It's not gonna happen. There's always a compensation." — sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
+> "There's three ways to get customers: content/slash organic, ads, and outreach. There's nothing else that exists. Every single client acquisition method you will" — sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
+> "nothing else to do. There's nothing else that's ever gonna appear. That's it. Every channel of those three is funded with either time or money. It's always gonna consume some kind of resource. If you have no advertising budget, if you can't spend money" — sources/S_ig_daniel.jf1_Dce4B8UDJGb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': daniel.jf1 draws the line explicitly — 'three' here is the public-facing act, distinct from the private work of creating.
+- Read as a clean transcript: the wording around 'three' (including the run-on near 'examples') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

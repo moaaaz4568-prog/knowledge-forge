@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["resolutions", "Studies"]
+aka: ["predictable outcomes"]
 origin: sources/S_ig_disisjorj_C2K66pdN-9Q.md
 ---
 
-# G_ig_disisjorj_C2K66pdN-9Q — resolutions
+# G_ig_disisjorj_C2K66pdN-9Q — predictable outcomes
 
 ## Term
 
-resolutions is the most prominent repeated term in this source (84-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: studies, show, february. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'predictable outcomes' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears once in the transcript, and it sits next to 'basing', 'future', and 'lucky' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Lucky breaks or predictable outcomes… Strip the clip down to its claim and you are left with 'predictable outcomes'; 'outcomes' and 'nowhere' are how the claim is delivered.
 
 ## Synonyms
 
-- resolutions
-- Studies
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not gonna like this one. How are those new year resolutions going? Studies show that by February, 80% of resolutions are a thing of the past. That's because those are driven by emotions, the same emotions that one day fill you up with creativity and the next are nowhere to be found." — sources/S_ig_disisjorj_C2K66pdN-9Q.md
+> "next are nowhere to be found. So ask yourself this: What are you basing your future on? Lucky breaks or predictable outcomes? Most people rely on luck, and only few make luck their destiny. Read that again" — sources/S_ig_disisjorj_C2K66pdN-9Q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'predictable outcomes' is disisjorj's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as a stylistic choice by disisjorj: the wording around 'predictable outcomes' (e.g. the collocation with 'emotions') is the speech of one clip, not a stylistic pattern that can be generalised.

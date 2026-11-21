@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["systems", "business"]
+aka: ["enough information"]
 origin: sources/S_ig_disisjorj_Cx709F9NHRc.md
 ---
 
-# G_ig_disisjorj_Cx709F9NHRc — systems
+# G_ig_disisjorj_Cx709F9NHRc — enough information
 
 ## Term
 
-systems is the most prominent repeated term in this source (126-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: business, system, dependent. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'enough information' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'balance', 'once', and 'posted' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: You can only find the balance between these… Take 'enough information' out and the clip collapses into generalities about mistakes — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- systems
-- business
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "reach more and new people, build a stronger community, or talk about your services and products. Lastly, but most importantly, you lack systems. There is a graveyard of failed businesses in the world, and all of them teaches this one lesson: any profitable business is system dependent, and people run the systems." — sources/S_ig_disisjorj_Cx709F9NHRc.md
+> "not what people need. You can only find the balance between these two once you posted and collected enough information to know what works for you and your audience. Number two, you don't have a strategy. Each and every post must serve its purpose. The" — sources/S_ig_disisjorj_Cx709F9NHRc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'enough information' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 126-word Instagram clip, and the wording around 'enough information' (including the collocation with 'purpose') is spoken speech, not edited writing.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["attention", "secret"]
+aka: ["viewers' attention"]
 origin: sources/S_ig_devinjatho_CkrgbRNgduG.md
 ---
 
-# G_ig_devinjatho_CkrgbRNgduG — attention
+# G_ig_devinjatho_CkrgbRNgduG — viewers' attention
 
 ## Term
 
-attention is the most prominent repeated term in this source (97-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: secret, grabs, anyways. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's framing, 'viewers' attention' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'anyways', 'keep', and 'hooked' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Anyways, if you want to know how to… Read alongside 'secret', the word 'viewers' attention' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- attention
-- secret
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It gives you the impression that you're leaning in for some big secret, which grabs your attention. Kinda like how I just did there. Anyways, if you want to know how to keep your viewers' attention after you get them hooked, drop a" — sources/S_ig_devinjatho_CkrgbRNgduG.md
+> "grabs your attention. Kinda like how I just did there. Anyways, if you want to know how to keep your viewers' attention after you get them hooked, drop a follow" — sources/S_ig_devinjatho_CkrgbRNgduG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'viewers' attention' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'follow' makes that visible.
+- Read as a rule for using 'viewers' attention': the clip shows devinjatho using the word in one specific move (alongside 'follow'), not a recommendation that the reader adopt the word themselves.

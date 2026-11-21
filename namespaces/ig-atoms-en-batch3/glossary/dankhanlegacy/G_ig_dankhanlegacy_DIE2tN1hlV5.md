@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["mentor", "myself"]
+aka: ["mentor", "mentors"]
 origin: sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
 
 ## Term
 
-mentor is the most prominent repeated term in this source (137-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: myself, another, joined. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'mentor' is the sales move dankhanlegacy argues is the difference between an objection that sticks and one that dissolves. It appears 3 times, it sits next to 'myself', 'little', and 'probably' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: And then you know, I got myself a… 'mentor' is what the rest of the clip is trying to justify — even 'little' reads as evidence for it.
 
 ## Synonyms
 
-- mentor
-- myself
+- mentors
 
 ## Live Example
 
-> "then you know, I got myself a mentor, which is by the way probably the most important thing to do, especially if you're in this space. Just find someone who is already in the place where you want to go to, and just learn from them." — sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
-> "And then I also joined another mastermind. I got another mentor as well. So at some point I had like two mentors. Um, but yeah, it just snowballed from there." — sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
+> "And then you know, I got myself a mentor, which is by the way probably the most important thing to do, especially if you're in this space. Just find someone who is already in the place" — sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
+> "clients, and just working my way up from there. And then I also joined another mastermind. I got another mentor as well. So at some point I had like two mentors. Um, but yeah, it just snowballed from there. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DIE2tN1hlV5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in dankhanlegacy's reel, 'mentor' is the specific move dankhanlegacy says a person must make before the prospect will commit.
+- Read as a definition of 'mentor': the source documents how dankhanlegacy deploys the word in this clip — collocated with 'enjoyed' — it does not establish what the word means in general.

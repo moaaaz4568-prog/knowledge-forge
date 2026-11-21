@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["offer", "shit"]
+aka: ["offer", "offers"]
 origin: sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
 
 ## Term
 
-offer is the most prominent repeated term in this source (184-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: shit, simple, needs. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'offer' is the future-pain frame dankhanlegacy uses to make the present situation feel unsustainable. It appears 3 times, it sits next to 'market', 'simple', and 'needs' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: The easiest way to sell more of your… The reel earns its keep only because 'offer' is doing the lifting; 'connection' alone would be filler.
 
 ## Synonyms
 
-- offer
-- shit
+- offers
 
 ## Live Example
 
-> "It's simple. Your offer needs to be as obvious as a punch in the face. Take my high converting video funnels. One look and you know exactly how it will make you rich. If you're pushing some half-assed ebook or workshop and it's not selling, wake up." — sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
-> "So, the million dollar question. What's that no brainer factor hidden in your offer that it could work on cold traffic? What makes your audience go" — sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
-> "the moment they land on your page? Will your offer even sell if you burn thousands on it? If you are a coach, consultant, expert or digital product creator looking to scale to seven figures and beyond, comment the word video and I send over a short video explaining" — sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
+> "It's simple. Your offer needs to be as obvious as a punch in the face. Take my high converting video funnels. One look and you know exactly how it will make you rich. If" — sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
+> "the moment they land on your page? Will your offer even sell if you burn thousands on it? If you are a coach, consultant, expert or digital product creator looking to scale to seven figures and beyond" — sources/S_ig_dankhanlegacy_DJRhVwhv-ZR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'offer' here is loaded with a specific meaning — the felt stake dankhanlegacy says must be touched — not the dictionary sense.
+- Read as evidence the term is central to the account: one 184-word clip showing 'offer' next to 'eating' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

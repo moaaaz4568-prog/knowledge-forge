@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["hill", "God"]
+aka: ["hill"]
 origin: sources/S_ig_gregoryjhickman_BJ6epgFgjVn.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gregoryjhickman_BJ6epgFgjVn.md
 
 ## Term
 
-hill is the most prominent repeated term in this source (24-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: god, beautiful, yourself. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'hill' in this source is the working idea gregoryjhickman argues a person cannot skip past and still expect the rest to apply. It appears twice, it sits next to 'beautiful', 'playing', and 'yourself' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Are you going down the hill… The sentence around 'playing' only carries weight because 'hill' is what the sentence is really about.
 
 ## Synonyms
 
-- hill
-- God
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Are you playing with yourself? What? Are you going down the hill? You're going down the hill. God, you're" — sources/S_ig_gregoryjhickman_BJ6epgFgjVn.md
+> "What are you doing? Are you playing with yourself? What? Are you going down the hill? You're going down the hill. God, you're beautiful" — sources/S_ig_gregoryjhickman_BJ6epgFgjVn.md
+> "are you doing? Are you playing with yourself? What? Are you going down the hill? You're going down the hill. God, you're beautiful" — sources/S_ig_gregoryjhickman_BJ6epgFgjVn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in gregoryjhickman's usage, 'hill' is loaded with a specific working meaning (visible in the collocation with 'yourself'), not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'hill' next to 'yourself') may not be load-bearing in gregoryjhickman's wider body of work.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["learning", "real"]
+aka: ["learning"]
 origin: sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
 
 ## Term
 
-learning is the most prominent repeated term in this source (193-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: real, skills, sit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'learning' is the multiplier the clip is built to point at — the thing that turns flat effort into compounding results. It appears 3 times, it sits next to 'real', 'skills', and 'pretend' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: You know, like you're not learning real skills… Even the move around 'trying' only registers as a move because 'learning' is the thing being moved toward.
 
 ## Synonyms
 
-- learning
-- real
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "college is honestly the most expensive way to pause your life and then pretend you're being productive. You know, like you're not learning real skills. Bro, you're just learning how to sit in a chair, pass a test, and follow instructions for four years. And for what? A piece of paper that most employers don't even care about anymore." — sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
-> "Man, like what are we doing here? You could have spent those four years learning how to sell, how to run ads, how to build an offer that prints cash. By the time you graduate, someone else is already two, three years into running their business and making money, while you're still trying to fix your resume." — sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
+> "expensive way to pause your life and then pretend you're being productive. You know, like you're not learning real skills. Bro, you're just learning how to sit in a chair, pass a test, and follow instructions for four years. And for what? A piece of paper" — sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
+> "actually requires a degree. Man, like what are we doing here? You could have spent those four years learning how to sell, how to run ads, how to build an offer that prints cash. By the time you graduate, someone else is already two, three years into running" — sources/S_ig_dankhanlegacy_DI8vyj4xGXB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'learning' here is the multiplier on effort, not the effort itself.
+- Read as a recommendation to use 'learning' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'enjoyed'); it does not argue the reader should adopt it.

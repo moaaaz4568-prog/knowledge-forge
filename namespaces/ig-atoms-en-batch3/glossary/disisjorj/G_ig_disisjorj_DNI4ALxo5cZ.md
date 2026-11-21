@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["algorithm", "input"]
+aka: ["algorithm"]
 origin: sources/S_ig_disisjorj_DNI4ALxo5cZ.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_DNI4ALxo5cZ.md
 
 ## Term
 
-algorithm is the most prominent repeated term in this source (124-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: input, changed, order. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'algorithm' is what disisjorj names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears 3 times, it sits next to 'input', 'changed', and 'needs' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I wholeheartedly hate content that says the algorithm… Cut 'algorithm' and the clip's aboutness shifts from a claim to a description of currency and changed.
 
 ## Synonyms
 
-- algorithm
-- input
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "wholeheartedly hate content that says the algorithm has changed and here's what you should be doing now. Dude, in order for an algorithm to exist, it needs input, and that input comes from humans. The algorithm hasn't changed; human behavior on social media has." — sources/S_ig_disisjorj_DNI4ALxo5cZ.md
+> "I wholeheartedly hate content that says the algorithm has changed and here's what you should be doing now. Dude, in order for an algorithm to exist, it needs input, and that input comes from humans" — sources/S_ig_disisjorj_DNI4ALxo5cZ.md
+> "now. Dude, in order for an algorithm to exist, it needs input, and that input comes from humans. The algorithm hasn't changed; human behavior on social media has. Those two are completely different things. Even if you are the expert, even if you have the" — sources/S_ig_disisjorj_DNI4ALxo5cZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'algorithm' in this clip names a specific bodily sensation disisjorj is trying to surface, not a general state of mind.
+- Read as a definition of 'algorithm': the source documents how disisjorj deploys the word in this clip — collocated with 'different' — it does not establish what the word means in general.

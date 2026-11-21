@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["solution", "core"]
+aka: ["solution"]
 origin: sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
 
 ## Term
 
-solution is the most prominent repeated term in this source (190-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: core, clients, another. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'solution' is the move gregoryjhickman says the person must make before the prospect will commit. It appears 3 times, it sits next to 'core', 'clients', and 'having' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: So the key here is you have one… Strip the clip down to its claim and you are left with 'solution'; 'critique' and 'productize' are how the claim is delivered.
 
 ## Synonyms
 
-- solution
-- core
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the key here is you have one core solution that you get really good at, then you productize, then you start expanding around. This is where we said, okay, instead of doing it one-on-one, productized consulting, we're going to do a small cohort." — sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
-> "We'd be able to increase the value of each of our clients by having another solution after the core" — sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
+> "So the key here is you have one core solution that you get really good at, then you productize, then you start expanding around. This is where we said, okay, instead of doing it one-on-one" — sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
+> "We'd be able to increase the value of each of our clients by having another solution after the core solution" — sources/S_ig_gregoryjhickman_CT7YP3NDJVc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'solution' to a specific move gregoryjhickman says is missing here, not a universal recommendation.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 190-word clip with the word 'solution' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

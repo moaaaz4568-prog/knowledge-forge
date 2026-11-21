@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["emotional", "control"]
+aka: ["emotional control"]
 origin: sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
 ---
 
-# G_ig_dankhanlegacy_DWtPBKKRVOR — emotional
+# G_ig_dankhanlegacy_DWtPBKKRVOR — emotional control
 
 ## Term
 
-emotional is the most prominent repeated term in this source (100-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: control, business, intelligence. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'emotional control' is the underlying driver dankhanlegacy says the person must touch before they will accept any plan. It appears 4 times, it sits next to 'intelligence', 'important', and 'place' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: What's more important in business, emotional control or… Take 'emotional control' out and the clip collapses into generalities about calculate — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- emotional
-- control
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "more important in business, emotional control or intelligence? Wow, emotional control. I think that's way more important than intelligence." — sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
-> "I think that's way more important than intelligence. There's a time and place for intelligence, but if you do not have emotional control, it means that you will make very, very bad decisions. And that's, it's what's going to cost you the most. When you're emotional, you don't calculate risk. You make bad decision when it comes to your finances in the business." — sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
-> "You make bad decision when it comes to your finances in the business. You make bad decision when it comes to hiring. So I think no emotional control is very destructive, not just in business but in" — sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
+> "What's more important in business, emotional control or intelligence? Wow, emotional control. I think that's way more important than intelligence. There's a time and place for intelligence" — sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
+> "comes to your finances in the business. You make bad decision when it comes to hiring. So I think no emotional control is very destructive, not just in business but in life" — sources/S_ig_dankhanlegacy_DWtPBKKRVOR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'emotional control' to a specific kind of felt weight (the kind that surfaces around 'means'), not to feeling in general.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'emotional control' (e.g. the collocation with 'means') is the speech of one clip, not a stylistic pattern that can be generalised.

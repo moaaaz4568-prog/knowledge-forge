@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["effort", "using"]
+aka: ["effort"]
 origin: sources/S_ig_disisjorj_DSm93dNCN7S.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_DSm93dNCN7S.md
 
 ## Term
 
-effort is the most prominent repeated term in this source (130-word transcript from the Instagram account disisjorj): it occurs 5 times literally in the text, most often collocated with: using, factor, click. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'effort' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears 5 times, it sits next to 'using', 'factor', and 'single' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: I base my videos on one single factor… It is the one word in this source that, if removed, would leave 'B-roll' without a frame to hang on.
 
 ## Synonyms
 
-- effort
-- using
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I base my videos on one single factor, and that factor is effort. How much effort does it take me to get to that end goal, which in our case is posting a video? So I have three different formats. 20% effort for me is using my phone." — sources/S_ig_disisjorj_DSm93dNCN7S.md
-> "20% effort for me is using my phone. 30% effort for me, what I'm using right now, which is the one-click setup. And then 50% effort is using the one-click setup with some captions and some B-roll. This part here takes a little bit more time, but is it worth it?" — sources/S_ig_disisjorj_DSm93dNCN7S.md
+> "you're not creating a minimum viable video? I base my videos on one single factor, and that factor is effort. How much effort does it take me to get to that end goal, which in our case is posting a video? So I have three different formats. 20% effort for" — sources/S_ig_disisjorj_DSm93dNCN7S.md
+> "using my phone. 30% effort for me, what I'm using right now, which is the one-click setup. And then 50% effort is using the one-click setup with some captions and some B-roll. This part here takes a little bit more time, but is it worth it? In terms of brand" — sources/S_ig_disisjorj_DSm93dNCN7S.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'effort' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'minimum' makes that visible.
+- Read as evidence the term is central to the account: one 130-word clip showing 'effort' next to 'minimum' is too small a sample to anchor a wider claim about what disisjorj writes about.

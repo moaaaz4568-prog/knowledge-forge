@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Add", "blend"]
+aka: ["frames long"]
 origin: sources/S_ig_disisjorj_CzBFJ9ct6Vt.md
 ---
 
-# G_ig_disisjorj_CzBFJ9ct6Vt — Add
+# G_ig_disisjorj_CzBFJ9ct6Vt — frames long
 
 ## Term
 
-Add is the most prominent repeated term in this source (92-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: blend, mode, long. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'frames long' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears twice, it sits next to 'four', 'eight', and 'three' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Have the first set of four be eight… Every other word in the source, including 'Lastly', is in service to the move 'frames long' names.
 
 ## Synonyms
 
-- Add
-- blend
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have the first set of four be eight frames long and the second set be three frames long each. Add an analog camera sound effect. Add a paper texture and change the blend mode to multiply. Use a focus effect to blur everything but the word you choose. Lastly, add a yellow highlight with the multiply blend mode." — sources/S_ig_disisjorj_CzBFJ9ct6Vt.md
+> "same word. Position all four of them in the middle of your video. Have the first set of four be eight frames long and the second set be three frames long each. Add an analog camera sound effect. Add a paper texture and change the blend mode to multiply" — sources/S_ig_disisjorj_CzBFJ9ct6Vt.md
+> "the middle of your video. Have the first set of four be eight frames long and the second set be three frames long each. Add an analog camera sound effect. Add a paper texture and change the blend mode to multiply. Use a focus effect to blur everything but" — sources/S_ig_disisjorj_CzBFJ9ct6Vt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'frames long' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a claim about how disisjorj uses 'frames long' across their work: this single 92-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

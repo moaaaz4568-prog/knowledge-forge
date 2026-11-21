@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["lights", "become"]
+aka: ["cushion leather"]
 origin: sources/S_ig_disisjorj_CxVSzbNNGzL.md
 ---
 
-# G_ig_disisjorj_CxVSzbNNGzL — lights
+# G_ig_disisjorj_CxVSzbNNGzL — cushion leather
 
 ## Term
 
-lights is the most prominent repeated term in this source (121-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: become, remember, flash. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'cushion leather' names the move the clip is really making — the distinction disisjorj says a person must accept before the rest can apply. It appears once in the transcript, and it sits next to 'remove', 'distractions', and 'reason' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: There's a reason why soft cushion leather seats… 'cushion leather' is what the rest of the clip is trying to justify — even 'exactly' reads as evidence for it.
 
 ## Synonyms
 
-- lights
-- become
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you ever drive down the highway and the car behind you flashed their lights so they could overtake you? That's exactly what you should be doing. See, if you actually truthfully set your mind to something you want to achieve, the first thing you have to do is remove all distractions." — sources/S_ig_disisjorj_CxVSzbNNGzL.md
-> "to slow you down, to anyone who tries to keep you the way you are and not let you become what you want to become. Remember to flash your lights" — sources/S_ig_disisjorj_CxVSzbNNGzL.md
+> "want to achieve, the first thing you have to do is remove all distractions. There's a reason why soft cushion leather seats are not a thing in Formula 1 cars. And sure, it has to do with weight, but also, you're not driving one just for fun. You're racing" — sources/S_ig_disisjorj_CxVSzbNNGzL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'cushion leather' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as evidence the term is central to the account: one 121-word clip showing 'cushion leather' next to 'drive' is too small a sample to anchor a wider claim about what disisjorj writes about.

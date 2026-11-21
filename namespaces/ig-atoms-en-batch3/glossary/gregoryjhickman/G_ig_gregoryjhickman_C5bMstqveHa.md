@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["team", "members"]
+aka: ["team members"]
 origin: sources/S_ig_gregoryjhickman_C5bMstqveHa.md
 ---
 
-# G_ig_gregoryjhickman_C5bMstqveHa — team
+# G_ig_gregoryjhickman_C5bMstqveHa — team members
 
 ## Term
 
-team is the most prominent repeated term in this source (141-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: members, different, approval. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'team members' is the sales move gregoryjhickman argues is the difference between an objection that sticks and one that dissolves. It appears twice, it sits next to 'different', 'messages', and 'emails' — the repetition is what makes it the spine of the clip rather than a passing word. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: Now the profit killer number three is what… The clip's relationship to 'communication' only makes sense as a vehicle for delivering 'team members'.
 
 ## Synonyms
 
-- team
-- members
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of clients we've worked with where the back and forth communication in Slack messages or emails or text or phone calls that is between team members and even between approval from your team and the client eats into your margins like no other and again when you don't have those clear deliverables that we talked about in the beginning you often just take this as oh well this is" — sources/S_ig_gregoryjhickman_C5bMstqveHa.md
-> "as oh well this is just how work is done but it's not you can have a better handoff between different stages of work between different team members there's probably specific milestones and things that the client is gonna need to sign off on in order to move projects" — sources/S_ig_gregoryjhickman_C5bMstqveHa.md
+> "the back and forth communication in Slack messages or emails or text or phone calls that is between team members and even between approval from your team and the client eats into your margins like no other and again when you don't have those clear deliverables" — sources/S_ig_gregoryjhickman_C5bMstqveHa.md
+> "is done but it's not you can have a better handoff between different stages of work between different team members there's probably specific milestones and things that the client is gonna need to sign off on in order to move projects forward" — sources/S_ig_gregoryjhickman_C5bMstqveHa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'team members' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as evidence gregoryjhickman always uses 'team members' this way: one 141-word clip is too thin a sample to support any claim about how the account uses the word in general.

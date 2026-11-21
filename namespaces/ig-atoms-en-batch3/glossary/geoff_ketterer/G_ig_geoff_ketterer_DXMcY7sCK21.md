@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["closer", "means"]
+aka: ["closer"]
 origin: sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
 
 ## Term
 
-closer is the most prominent repeated term in this source (278-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: means, decides, leads. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'closer' names the felt adjustment geoff_ketterer insists is the difference between a rep that builds and a rep that just tires. It appears 4 times, it sits next to 'thanks', 'means', and 'hiring' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: Hiring a killer closer has not fixed your… Without 'closer' as the anchor, 'figured' and 'numbers' would float without a stake in the argument.
 
 ## Synonyms
 
-- closer
-- means
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a killer closer has not fixed your sales problem, has it, you little tinker? And I'm gonna tell you why." — sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
-> "So one rep is doing well, everybody else is really struggling, show rate sitting about 40%, which means that closer says, hmm, thanks, but no thanks, which means you just lose the closer either way. The issue isn't finding the right person, it's that the offer is weak and the leads aren't warm enough and your process isn't anywhere near dialed." — sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
-> "And that's typically where it goes sideways. Say your numbers look good when they don't, then maybe that closer decides to see how the leads are and then three days in they figured out that the leads are cold as shit and the show rate is 40 to 50% on a good week. And before you know it, they're out the door, which means you're back to square one." — sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
+> "Hiring a killer closer has not fixed your sales problem, has it, you little tinker? And I'm gonna tell you why. When you go and try to hire somebody who's actually done" — sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
+> "sitting about 40%, which means that closer says, hmm, thanks, but no thanks, which means you just lose the closer either way. The issue isn't finding the right person, it's that the offer is weak and the leads aren't warm enough and your process isn't anywhere" — sources/S_ig_geoff_ketterer_DXMcY7sCK21.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'closer' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as a clean transcript: the wording around 'closer' (including the run-on near 'struggling') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

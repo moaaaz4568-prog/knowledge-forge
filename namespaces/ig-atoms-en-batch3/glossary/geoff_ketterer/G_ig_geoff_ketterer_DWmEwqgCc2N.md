@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["designed", "current"]
+aka: ["designed"]
 origin: sources/S_ig_geoff_ketterer_DWmEwqgCc2N.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DWmEwqgCc2N.md
 
 ## Term
 
-designed is the most prominent repeated term in this source (174-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: current, scroll, past. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'designed' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears 3 times, it sits next to 'current', 'followers', and 'bills' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: And the post I'm gonna show you is… Read alongside 'current', the word 'designed' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- designed
-- current
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the post I'm gonna show you is not in any way designed for your current followers. It's designed to be an ad. It speaks to a very specific client with a very specific problem. So 99% of everybody will just scroll past, but for the 1% it's designed for, it acts like a magnet." — sources/S_ig_geoff_ketterer_DWmEwqgCc2N.md
+> "metric that feels good but doesn't pay your bills. And the post I'm gonna show you is not in any way designed for your current followers. It's designed to be an ad. It speaks to a very specific client with a very specific problem. So 99% of everybody will" — sources/S_ig_geoff_ketterer_DWmEwqgCc2N.md
+> "client with a very specific problem. So 99% of everybody will just scroll past, but for the 1% it's designed for, it acts like a magnet. And here's the secret part of that strategy. We use it to power every single hybrid trust engine that we build for" — sources/S_ig_geoff_ketterer_DWmEwqgCc2N.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'designed' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as a recommendation to use 'designed' yourself: the clip shows geoff_ketterer using the word in one specific move (visible in the collocation with 'five-figure'); it does not argue the reader should adopt it.

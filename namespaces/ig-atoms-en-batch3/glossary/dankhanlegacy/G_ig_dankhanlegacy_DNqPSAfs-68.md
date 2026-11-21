@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["freedom", "dreamt"]
+aka: ["freedom"]
 origin: sources/S_ig_dankhanlegacy_DNqPSAfs-68.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DNqPSAfs-68.md
 
 ## Term
 
-freedom is the most prominent repeated term in this source (118-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: dreamt, financial, location. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'freedom' is the mindset dankhanlegacy insists comes before any technique — the thing without which the rest of the advice does not land. It appears 3 times, it sits next to 'always', 'dreamt', and 'financial' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Financial freedom, time freedom, location freedom… The clip's claim about 'superpower' is conditional on 'freedom' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- freedom
-- dreamt
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Maybe the life you've always dreamt of. Financial freedom, time freedom, location freedom. That is a privilege and a damn near superpower if I've ever seen one. So how dare you not act on it? Build the offer, run the ads, take the risk, learn the skills." — sources/S_ig_dankhanlegacy_DNqPSAfs-68.md
+> "months of consistency away from living your dream life. Maybe the life you've always dreamt of. Financial freedom, time freedom, location freedom. That is a privilege and a damn near superpower if I've ever seen one. So how dare you not act on it? Build the" — sources/S_ig_dankhanlegacy_DNqPSAfs-68.md
+> "living your dream life. Maybe the life you've always dreamt of. Financial freedom, time freedom, location freedom. That is a privilege and a damn near superpower if I've ever seen one. So how dare you not act on it? Build the offer, run the ads, take the risk" — sources/S_ig_dankhanlegacy_DNqPSAfs-68.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'freedom' here is the specific frame dankhanlegacy argues from, not a generic motivational label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'freedom' next to 'different') may not be load-bearing in dankhanlegacy's wider body of work.

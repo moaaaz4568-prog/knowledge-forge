@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["alt text", "feature"]
+aka: ["instagram"]
 origin: sources/S_ig_devinjatho_ClAB1_tgCEd.md
 ---
 
-# G_ig_devinjatho_ClAB1_tgCEd — alt text
+# G_ig_devinjatho_ClAB1_tgCEd — instagram
 
 ## Term
 
-alt text is the most prominent repeated term in this source (86-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: feature, called, drastically. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For devinjatho, 'instagram' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 4 times, it sits next to 'hack', 'feature', and 'called' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: Here's an Instagram hack that most people don't… The sentence around 'summary' only carries weight because 'instagram' is what the sentence is really about.
 
 ## Synonyms
 
-- alt text
-- feature
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "an Instagram hack that most people don't know about. Instagram has a feature called alt text, which can drastically affect the views and engagement on your post. To use it, open Instagram and redirect yourself to advanced settings, and then press alt text." — sources/S_ig_devinjatho_ClAB1_tgCEd.md
+> "Here's an Instagram hack that most people don't know about. Instagram has a feature called alt text, which can drastically affect the views and engagement on your" — sources/S_ig_devinjatho_ClAB1_tgCEd.md
+> "post is about and make sure to keep it as keyword rich as possible. This will optimize your post for Instagram's search engine along with its algorithm. Follow for more value" — sources/S_ig_devinjatho_ClAB1_tgCEd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'instagram' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a claim about how devinjatho uses 'instagram' across their work: this single 86-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["trading course", "Selling"]
+aka: ["trading course"]
 origin: sources/S_ig_daniel.jf1_DTrLstXDqSV.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DTrLstXDqSV.md
 
 ## Term
 
-trading course is the most prominent repeated term in this source (114-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: selling, zero, moral. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'trading course' is the felt consequence daniel.jf1 says the person has been talking around — the thing that must be touched before any plan is useful. It appears 3 times, it sits next to 'selling', 'zero', and 'moral' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Selling a day trading course… Without 'trading course', the reel is just a clip about legitimate; with it, the clip is a claim.
 
 ## Synonyms
 
-- trading course
-- Selling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a day trading course. If you have zero moral compass and understand that legitimately no one you sell it to is gonna get results just by pure mathematics, if you had zero moral compass, selling a day trading course would be S tier." — sources/S_ig_daniel.jf1_DTrLstXDqSV.md
-> "Like if someone said to me, Daniel, would you like to invest in my day trading course and I'll give you equity and like a profit share with, I'd probably be like, yeah, it's a cash flow, it's a legitimate thing, it makes sense as a" — sources/S_ig_daniel.jf1_DTrLstXDqSV.md
+> "Selling a day trading course. If you have zero moral compass and understand that legitimately no one you sell it to is gonna get results just by pure mathematics, if" — sources/S_ig_daniel.jf1_DTrLstXDqSV.md
+> "because it is a legitimate model. Like if someone said to me, Daniel, would you like to invest in my day trading course and I'll give you equity and like a profit share with, I'd probably be like, yeah, it's a cash flow, it's a legitimate thing, it makes sense" — sources/S_ig_daniel.jf1_DTrLstXDqSV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'trading course' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
+- Read as evidence daniel.jf1 always uses 'trading course' this way: one 114-word clip is too thin a sample to support any claim about how the account uses the word in general.

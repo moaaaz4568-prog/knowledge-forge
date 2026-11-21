@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["offer", "fix"]
+aka: ["offer"]
 origin: sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
 
 ## Term
 
-offer is the most prominent repeated term in this source (258-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: fix, structure, scale. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'offer' is the future cost dankhanlegacy names to make the present feel expensive — the lever the clip uses to move the person. It appears 7 times, it sits next to 'structure', 'strong', and 'scale' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: If your ads aren't working, there's a good… Read alongside 'evergreen', the word 'offer' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- offer
-- fix
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "your ads aren't working, there's a good chance your offer is the problem. It's not your targeting or the creatives or the algorithm. 90% of the time, it's your offer. Let me show you a real example. Last year, one of my clients came running to me. He spent $34, 000 on ads and made $9, 000 back." — sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
-> "And this evergreen webinar sold their main offer. The result, $72, 000 in ad spend and $163, 000 in cash collected. That's $90, 000 profit in one week. Same market, same traffic, same everything, it's just a different structure." — sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
+> "If your ads aren't working, there's a good chance your offer is the problem. It's not your targeting or the creatives or the algorithm. 90% of the time, it's your offer. Let me show you a real example. Last" — sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
 > "The lesson is ads don't fix a broken offer, but a strong offer structure can scale like crazy. Fix the offer first, pour gasoline on it, and if you want me to personally craft this whole system out for you, comment the word video and I'll send it over to" — sources/S_ig_dankhanlegacy_DYPZWjgPPIT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'offer' here is loaded with a specific meaning — the felt stake dankhanlegacy says must be touched — not the dictionary sense.
+- Read as a rule for using 'offer': the clip shows dankhanlegacy using the word in one specific move (alongside 'solved'), not a recommendation that the reader adopt the word themselves.

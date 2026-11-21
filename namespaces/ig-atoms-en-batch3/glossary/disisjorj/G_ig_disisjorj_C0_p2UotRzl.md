@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "social"]
+aka: ["meaningful relationships"]
 origin: sources/S_ig_disisjorj_C0_p2UotRzl.md
 ---
 
-# G_ig_disisjorj_C0_p2UotRzl — content
+# G_ig_disisjorj_C0_p2UotRzl — meaningful relationships
 
 ## Term
 
-content is the most prominent repeated term in this source (71-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: social, media, majority. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'meaningful relationships' is the public-facing half of the work — disisjorj uses the word to mark the line between private effort and visible output. It appears once in the transcript, and it sits next to 'finding', 'like-minded', and 'building' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: And although you should train yourself to stay… This is the word the clip is built to deliver; 'creating' is texture around it, not the point.
 
 ## Synonyms
 
-- content
-- social
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of the most underrated parts of content creation is accountability. And although you should train yourself to stay accountable for what you set out to do, finding like-minded people and building genuine and meaningful relationships with them can help you tremendously in this" — sources/S_ig_disisjorj_C0_p2UotRzl.md
-> "with them can help you tremendously in this demanding and ever-changing world of social media. The majority of the world consumes content. A very small percentage chooses to create." — sources/S_ig_disisjorj_C0_p2UotRzl.md
+> "to stay accountable for what you set out to do, finding like-minded people and building genuine and meaningful relationships with them can help you tremendously in this demanding and ever-changing world of social media. The majority of the world consumes" — sources/S_ig_disisjorj_C0_p2UotRzl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'meaningful relationships' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'finding' makes that visible.
+- Read as a recommendation to use 'meaningful relationships' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'finding'); it does not argue the reader should adopt it.

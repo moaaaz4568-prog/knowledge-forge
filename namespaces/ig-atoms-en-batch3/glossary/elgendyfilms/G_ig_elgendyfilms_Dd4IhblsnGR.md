@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["touches", "pushes"]
+aka: ["stay cold"]
 origin: sources/S_ig_elgendyfilms_Dd4IhblsnGR.md
 ---
 
-# G_ig_elgendyfilms_Dd4IhblsnGR — touches
+# G_ig_elgendyfilms_Dd4IhblsnGR — stay cold
 
 ## Term
 
-This source is very short (30 words), so no term repeats enough for a frequency-based entry; touches is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'stay cold' names the distinction elgendyfilms draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'crash', 'pass', and 'built' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where elgendyfilms names the thing a person cannot outsource — nearby: Stay cold… This is the word the clip is built to deliver; 'breaks' is texture around it, not the point.
 
 ## Synonyms
 
-- touches
-- pushes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The world is loud. It pushes. It burns. It breaks what it touches. Don't move. Let it crash. Let it pass. You were built before the noise." — sources/S_ig_elgendyfilms_Dd4IhblsnGR.md
+> "It breaks what it touches. Don't move. Let it crash. Let it pass. You were built before the noise. Stay cold" — sources/S_ig_elgendyfilms_Dd4IhblsnGR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'stay cold' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'stay cold' next to 'touches') may not be load-bearing in elgendyfilms's wider body of work.

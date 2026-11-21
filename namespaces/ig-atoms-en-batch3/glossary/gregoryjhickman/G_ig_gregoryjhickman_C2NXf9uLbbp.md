@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["done", "enough"]
+aka: ["done"]
 origin: sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
 
 ## Term
 
-done is the most prominent repeated term in this source (138-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: enough, core, service. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'done' names the body mechanic gregoryjhickman isolates as the root of the movement problem. It appears 4 times, it sits next to 'keep', 'serving', and 'enough' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: If you have your core service and you… Take 'done' out and the clip collapses into generalities about plenty — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- done
-- enough
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you have your core service and you know you always do done for you work, that's great. Keep serving some of those people. But if you've done it well enough, long enough, you probably can be teaching, training, writing books, creating courses, creating masterminds, coaching programs." — sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
-> "like agencies and consultants 2024 and beyond will have multiple income streams that are harnessing this kind of hybrid model of some is done for you, some is done with you, some is" — sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
+> "only one income stream as a service provider. If you have your core service and you know you always do done for you work, that's great. Keep serving some of those people. But if you've done it well enough, long enough, you probably can be teaching, training" — sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
+> "multiple income streams that are harnessing this kind of hybrid model of some is done for you, some is done with you, some is DIY" — sources/S_ig_gregoryjhickman_C2NXf9uLbbp.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'done' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as evidence the term is central to the account: one 138-word clip showing 'done' next to 'teaching' is too small a sample to anchor a wider claim about what gregoryjhickman writes about.

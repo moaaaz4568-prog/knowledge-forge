@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["clients", "target"]
+aka: ["biggest misconception"]
 origin: sources/S_ig_daniel.jf1_DSlH79Cj297.md
 ---
 
-# G_ig_daniel.jf1_DSlH79Cj297 — clients
+# G_ig_daniel.jf1_DSlH79Cj297 — biggest misconception
 
 ## Term
 
-clients is the most prominent repeated term in this source (92-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: target, cheaper, products. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'biggest misconception' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'lower', 'prices', and 'means' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This is the biggest misconception in business… Anything else in the clip orbits this word — strip out 'biggest misconception' and the rest reads as filler around 'company'.
 
 ## Synonyms
 
-- clients
-- target
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "think lower prices means more clients. This is the biggest misconception in business. People think that if you target clients with cheaper products, those clients will be easier to acquire." — sources/S_ig_daniel.jf1_DSlH79Cj297.md
+> "You think lower prices means more clients. This is the biggest misconception in business. People think that if you target clients with cheaper products, those clients will be easier to acquire. They'll think" — sources/S_ig_daniel.jf1_DSlH79Cj297.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'biggest misconception' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as a recommendation to use 'biggest misconception' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'possible'); it does not argue the reader should adopt it.

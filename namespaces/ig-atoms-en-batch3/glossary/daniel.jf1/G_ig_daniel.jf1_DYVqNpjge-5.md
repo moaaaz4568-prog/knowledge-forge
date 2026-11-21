@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["government", "assistance"]
+aka: ["government assistance"]
 origin: sources/S_ig_daniel.jf1_DYVqNpjge-5.md
 ---
 
-# G_ig_daniel.jf1_DYVqNpjge-5 — government
+# G_ig_daniel.jf1_DYVqNpjge-5 — government assistance
 
 ## Term
 
-government is the most prominent repeated term in this source (161-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: assistance, works, cliff. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'government assistance' names the move the clip is really making — the distinction daniel.jf1 says a person must accept before the rest can apply. It appears 3 times, it sits next to 'cliff', 'requires', and 'probably' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: The way that government assistance works is it… Take 'government assistance' out and the clip collapses into generalities about whatever — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- government
-- assistance
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The quality of life that you could live 50 years ago now requires $100,000, probably more. The way that government assistance works is it works on a cliff. Say you have a job and you're making $35,000 a year and then you get a raise to $45,000 a year." — sources/S_ig_daniel.jf1_DYVqNpjge-5.md
-> "But the differential of the amount of money that you made is less than the lost benefit of the government assistance. So it's a cliff. So you made $10,000 a year more, but you effectively make less money. This works on a tiered system for all sorts of government assistance. It's a step ladder all the way up to like $100,000 a year." — sources/S_ig_daniel.jf1_DYVqNpjge-5.md
-> "Now magically what happens is that your government subsidized SNAP or EBT or whatever, that gets taken away because now you make too much money. But the differential of the amount of money that you made is less than the lost benefit of the government assistance. So it's a cliff." — sources/S_ig_daniel.jf1_DYVqNpjge-5.md
+> "quality of life that you could live 50 years ago now requires $100,000, probably more. The way that government assistance works is it works on a cliff. Say you have a job and you're making $35,000 a year and then you get a raise to $45,000 a year. Now" — sources/S_ig_daniel.jf1_DYVqNpjge-5.md
+> "000 a year more, but you effectively make less money. This works on a tiered system for all sorts of government assistance. It's a step ladder all the way up to like $100,000 a year. If you make less than $100,000 a year, you live in poverty" — sources/S_ig_daniel.jf1_DYVqNpjge-5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'government assistance' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as polished prose: this is a verbatim transcript of a 161-word Instagram clip, and the wording around 'government assistance' (including the collocation with 'differential') is spoken speech, not edited writing.

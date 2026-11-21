@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["mute", "finished"]
+aka: ["mechanic's inspection"]
 origin: sources/S_ig_disisjorj_CyDY3IpNAhu.md
 ---
 
-# G_ig_disisjorj_CyDY3IpNAhu — mute
+# G_ig_disisjorj_CyDY3IpNAhu — mechanic's inspection
 
 ## Term
 
-mute is the most prominent repeated term in this source (91-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: finished, editing, social. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'mechanic's inspection' is the visual or structural choice disisjorj says is the actual carrier of meaning in the piece. It appears once in the transcript, and it sits next to 'used', 'passed', and 'never' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: You buy a used car only when you… This is the word the clip is built to deliver; 'attention' is texture around it, not the point.
 
 ## Synonyms
 
-- mute
-- finished
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I bet you never thought of doing the same thing for your videos. When you have finished editing your video, mute it and watch it all the way through. Do your visuals, zooms, B-roll, or even captions get and hold the attention? It's no breaking news that 85% of all videos on social media are watched on mute." — sources/S_ig_disisjorj_CyDY3IpNAhu.md
+> "way to dramatically improve your videos. You buy a used car only when you know that it has passed a mechanic's inspection. I bet you never thought of doing the same thing for your videos. When you have finished editing your video, mute it and watch it" — sources/S_ig_disisjorj_CyDY3IpNAhu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in disisjorj's clip, 'mechanic's inspection' names one specific visual or structural choice, not the whole craft of design.
+- Read as a rule for using 'mechanic's inspection': the clip shows disisjorj using the word in one specific move (alongside 'later'), not a recommendation that the reader adopt the word themselves.

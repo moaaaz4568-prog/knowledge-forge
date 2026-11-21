@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["ask", "trust"]
+aka: ["educating yourself"]
 origin: sources/S_ig_disisjorj_DEsQB7yoUy6.md
 ---
 
-# G_ig_disisjorj_DEsQB7yoUy6 — ask
+# G_ig_disisjorj_DEsQB7yoUy6 — educating yourself
 
 ## Term
 
-ask is the most prominent repeated term in this source (207-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: trust, accountant, friend. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'educating yourself' is the distinction disisjorj is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'hours', 'spent', and 'perfecting' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: The hours you've spent perfecting your craft, learning… The argument only stays upright while 'educating yourself' is doing the work — pull it and 'different' loses its anchor.
 
 ## Synonyms
 
-- ask
-- trust
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "many people are scared to ask for money, and I was definitely one of them. It felt wrong and scammy to ask for something that in my head I thought it was beginner level stuff. But see, we all live in our little small bubbles." — sources/S_ig_disisjorj_DEsQB7yoUy6.md
-> "But see, we all live in our little small bubbles. And if you don't trust me, go and ask your accountant friend to open up Instagram and see how different his feed is compared to yours." — sources/S_ig_disisjorj_DEsQB7yoUy6.md
+> "different his feed is compared to yours. The hours you've spent perfecting your craft, learning and educating yourself in whatever it is that you do, is the reason why not only people are looking for someone like you, but they would happily pay to learn" — sources/S_ig_disisjorj_DEsQB7yoUy6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'educating yourself' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a rule for using 'educating yourself': the clip shows disisjorj using the word in one specific move (alongside 'definitely'), not a recommendation that the reader adopt the word themselves.

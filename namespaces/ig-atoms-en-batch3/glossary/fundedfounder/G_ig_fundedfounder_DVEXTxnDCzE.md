@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["Jeffrey Epstein", "carry"]
+aka: ["jeffrey epstein"]
 origin: sources/S_ig_fundedfounder_DVEXTxnDCzE.md
 ---
 
-# G_ig_fundedfounder_DVEXTxnDCzE — Jeffrey Epstein
+# G_ig_fundedfounder_DVEXTxnDCzE — jeffrey epstein
 
 ## Term
 
-Jeffrey Epstein is the most prominent repeated term in this source (21-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: carry, files, fight. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'jeffrey epstein' in this source is the working idea fundedfounder argues a person cannot skip past and still expect the rest to apply. It appears twice, it sits next to 'fight', 'carry', and 'files' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment fundedfounder turns from describing to prescribing — the pivot runs: We are Jeffrey Epstein… It is the one word in this source that, if removed, would leave 'Epstein' without a frame to hang on.
 
 ## Synonyms
 
-- Jeffrey Epstein
-- carry
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are Jeffrey Epstein. We carry the files. We'll fight for the island. We'll honor his parties." — sources/S_ig_fundedfounder_DVEXTxnDCzE.md
+> "We are Jeffrey Epstein. We carry the files. We'll fight for the island. We'll honor his parties. We are Jeffrey Epstein" — sources/S_ig_fundedfounder_DVEXTxnDCzE.md
+> "are Jeffrey Epstein. We carry the files. We'll fight for the island. We'll honor his parties. We are Jeffrey Epstein" — sources/S_ig_fundedfounder_DVEXTxnDCzE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'jeffrey epstein' as a working concept fundedfounder is installing in this clip, not a generic self-help label.
+- Read as evidence fundedfounder always uses 'jeffrey epstein' this way: one 21-word clip is too thin a sample to support any claim about how the account uses the word in general.

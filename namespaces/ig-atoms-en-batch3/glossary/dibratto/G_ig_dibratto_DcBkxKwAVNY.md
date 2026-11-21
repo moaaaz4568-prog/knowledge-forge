@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["Whisperflow", "Fireflies"]
+aka: ["call transcripts"]
 origin: sources/S_ig_dibratto_DcBkxKwAVNY.md
 ---
 
-# G_ig_dibratto_DcBkxKwAVNY — Whisperflow
+# G_ig_dibratto_DcBkxKwAVNY — call transcripts
 
 ## Term
 
-This source is very short (36 words), so no term repeats enough for a frequency-based entry; Whisperflow is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dibratto's framing, 'call transcripts' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'fireflies', 'claude', and 'research' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Fireflies for call transcripts, Claude for research, Whisperflow… The argument only stays upright while 'call transcripts' is doing the work — pull it and 'analytics' loses its anchor.
 
 ## Synonyms
 
-- Whisperflow
-- Fireflies
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "for call transcripts, Claude for research, Whisperflow for dictation, Notion or Docs for drafting, Canva for graphics, LinkedIn's own analytics for reporting, Riverside for recording video if you want, and GojiBerry for identifying warm" — sources/S_ig_dibratto_DcBkxKwAVNY.md
+> "Fireflies for call transcripts, Claude for research, Whisperflow for dictation, Notion or Docs for drafting, Canva for graphics, LinkedIn's own analytics for reporting" — sources/S_ig_dibratto_DcBkxKwAVNY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'call transcripts' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 36-word Instagram clip, and the wording around 'call transcripts' (including the collocation with 'dictation') is spoken speech, not edited writing.

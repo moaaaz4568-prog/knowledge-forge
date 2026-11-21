@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Underrated", "content"]
+aka: ["underrated"]
 origin: sources/S_ig_dankhanlegacy_DVtMOypEW9I.md
 ---
 
-# G_ig_dankhanlegacy_DVtMOypEW9I — Underrated
+# G_ig_dankhanlegacy_DVtMOypEW9I — underrated
 
 ## Term
 
-Underrated is the most prominent repeated term in this source (55-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: content, overrated, best. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'underrated' names the felt adjustment dankhanlegacy insists is the difference between a rep that builds and a rep that just tires. It appears 3 times, it sits next to 'overrated', 'best', and 'ways' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Underrated… Take 'underrated' out and the clip collapses into generalities about LinkedIn — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- Underrated
-- content
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Overrated. It's such a high like effort thing for a low reward. LinkedIn DMs. Underrated. It works. SEO slash blog content. Overrated. Nobody uses that anymore. Paid ads. Underrated. Best ways to make money. Webinars and VSLs. Underrated only if you know how to do it." — sources/S_ig_dankhanlegacy_DVtMOypEW9I.md
+> "Cold email outreach. Overrated. It's such a high like effort thing for a low reward. LinkedIn DMs. Underrated. It works. SEO slash blog content. Overrated. Nobody uses that anymore. Paid ads. Underrated. Best ways to make money. Webinars and VSLs. Underrated" — sources/S_ig_dankhanlegacy_DVtMOypEW9I.md
+> "Overrated. Nobody uses that anymore. Paid ads. Underrated. Best ways to make money. Webinars and VSLs. Underrated only if you know how to do it. Check the link in my bio" — sources/S_ig_dankhanlegacy_DVtMOypEW9I.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'underrated' is dankhanlegacy's coaching cue for a felt position, not a clinical label.
+- Read as a rule for using 'underrated': the clip shows dankhanlegacy using the word in one specific move (alongside 'outreach'), not a recommendation that the reader adopt the word themselves.

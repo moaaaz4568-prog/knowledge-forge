@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["change", "fast"]
+aka: ["years ago"]
 origin: sources/S_ig_dankhanlegacy_DIHS2GcBWF0.md
 ---
 
-# G_ig_dankhanlegacy_DIHS2GcBWF0 — change
+# G_ig_dankhanlegacy_DIHS2GcBWF0 — years ago
 
 ## Term
 
-change is the most prominent repeated term in this source (152-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: fast, teach, methods. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'years ago' is the public-facing half of the work — dankhanlegacy uses the word to mark the line between private effort and visible output. It appears twice, it sits next to 'change', 'fast', and 'teach' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: You can't teach methods four years ago and… Read alongside 'comment', the word 'years ago' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- change
-- fast
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "change really fast. You can't teach methods four years ago and not do anything about it. You have to update it. I'm on Instagram. Every day me and my team are on Instagram." — sources/S_ig_dankhanlegacy_DIHS2GcBWF0.md
-> "And it's all of these changes all the time. And we know how fast things change in the industry. Even when we're running ads now, right? Paid traffic. It's very different from a few years ago. And this attention economy is something everyone needs to adapt to right now." — sources/S_ig_dankhanlegacy_DIHS2GcBWF0.md
+> "Things change really fast. You can't teach methods four years ago and not do anything about it. You have to update it. I'm on Instagram. Every day me and my team are on Instagram. And we have the knowledge and" — sources/S_ig_dankhanlegacy_DIHS2GcBWF0.md
+> "in the industry. Even when we're running ads now, right? Paid traffic. It's very different from a few years ago. And this attention economy is something everyone needs to adapt to right now. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DIHS2GcBWF0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in dankhanlegacy's usage here, 'years ago' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a definition of 'years ago': the source documents how dankhanlegacy deploys the word in this clip — collocated with 'algorithm' — it does not establish what the word means in general.

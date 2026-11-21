@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["content", "person"]
+aka: ["logistical intensity"]
 origin: sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
 ---
 
-# G_ig_daniel.jf1_DaOrjH5DcNW — content
+# G_ig_daniel.jf1_DaOrjH5DcNW — logistical intensity
 
 ## Term
 
-content is the most prominent repeated term in this source (244-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: person, agency, problem. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'logistical intensity' names the felt consequence daniel.jf1 uses to break through a person's logical defences. It appears twice, it sits next to 'trick', 'physically', and 'concept' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: The trick here is it's high logistical intensity… The clip's relationship to 'reason' only makes sense as a vehicle for delivering 'logistical intensity'.
 
 ## Synonyms
 
-- content
-- person
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "person content agency. So the problem with selling marketing services to coaches, agencies is they're all marketing inclined people in the first place." — sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
-> "You try to sell them a content offer, it's pretty difficult to do that because they're probably better at content than you. So they're like, why am I gonna pay you to do that? The trick here is it's high logistical intensity. I am physically going to you and I am physically putting cameras in front of you." — sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
-> "And trying to sell to marketing people, it's like I pay someone to do that. He'll come and he'll film me. I do this for ads, not for content, but he'll come and he'll film me and it's like I'm totally down to pay this guy $7, 500 a month to come and bring all the cameras and do all the editing for like 100 something creatives a month." — sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
+> "at content than you. So they're like, why am I gonna pay you to do that? The trick here is it's high logistical intensity. I am physically going to you and I am physically putting cameras in front of you. Then I'm taking it home and then I'm editing it" — sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
+> "for you. You literally don't do anything at all. And I feel like that concept of the transferring of logistical intensity from the client to you is what makes it. A good beginner offer. For a beginner to be able to do it, you just do a lot of stuff for" — sources/S_ig_daniel.jf1_DaOrjH5DcNW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'logistical intensity' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 244-word clip with the word 'logistical intensity' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

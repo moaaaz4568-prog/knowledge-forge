@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["control", "calendar"]
+aka: ["couple hours"]
 origin: sources/S_ig_gregoryjhickman_C8rxIuusqkZ.md
 ---
 
-# G_ig_gregoryjhickman_C8rxIuusqkZ — control
+# G_ig_gregoryjhickman_C8rxIuusqkZ — couple hours
 
 ## Term
 
-control is the most prominent repeated term in this source (198-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: calendar, clients, leave. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'couple hours' is the buyer-side lever gregoryjhickman says the seller must surface before any pricing talk can land. It appears twice, it sits next to 'devote', 'saturdays', and 'pretty' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: But then also, you know, I don't do… It is the one word in this source that, if removed, would leave 'meetings' without a frame to hang on.
 
 ## Synonyms
 
-- control
-- calendar
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "biggest revelation that I had to come to terms with was like I can control my calendar and not let the clients control it. So like before, I would just leave these open windows where people could schedule and they could schedule, you know, up to the day before, and so I would have meetings pop up last minute." — sources/S_ig_gregoryjhickman_C8rxIuusqkZ.md
+> "stuff on the weekends anymore, which that was a pretty regular routine is, you know, I would devote a couple hours here and there on Saturdays, a couple hours on Sundays, and then miss some key stuff that I didn't want to miss anymore. And now like, you" — sources/S_ig_gregoryjhickman_C8rxIuusqkZ.md
+> "a pretty regular routine is, you know, I would devote a couple hours here and there on Saturdays, a couple hours on Sundays, and then miss some key stuff that I didn't want to miss anymore. And now like, you know, since the start of the year, I haven" — sources/S_ig_gregoryjhickman_C8rxIuusqkZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'couple hours' to a specific move gregoryjhickman says is missing here, not a universal recommendation.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'couple hours' (e.g. the collocation with 'couple') is the speech of one clip, not a stylistic pattern that can be generalised.

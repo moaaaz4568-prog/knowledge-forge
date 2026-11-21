@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["realize", "point"]
+aka: ["relentlessly towards"]
 origin: sources/S_ig_disisjorj_Cts6SwvuFGO.md
 ---
 
-# G_ig_disisjorj_Cts6SwvuFGO — realize
+# G_ig_disisjorj_Cts6SwvuFGO — relentlessly towards
 
 ## Term
 
-realize is the most prominent repeated term in this source (88-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: point, turning, decision. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'relentlessly towards' names the distinction disisjorj draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'goals', 'achieving', and 'single' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Set your goals and work relentlessly towards achieving… 'relentlessly towards' is what the rest of the clip is trying to justify — even 'towards' reads as evidence for it.
 
 ## Synonyms
 
-- realize
-- point
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You turn 40, you don't care at all. When you turn 60, you realize that no one ever thought of you in the first place. See, there's no point turning 60 to realize that. I made the decision to assume that it's true and work as if no one is watching." — sources/S_ig_disisjorj_Cts6SwvuFGO.md
+> "made the decision to assume that it's true and work as if no one is watching. Set your goals and work relentlessly towards achieving them every single day. I hope this finds you well. Follow for more" — sources/S_ig_disisjorj_Cts6SwvuFGO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'relentlessly towards' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'relentlessly towards' next to 'decision') may not be load-bearing in disisjorj's wider body of work.

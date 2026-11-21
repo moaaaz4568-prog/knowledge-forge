@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["digitally rendered", "done"]
+aka: ["digitally rendered"]
 origin: sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
 
 ## Term
 
-digitally rendered is the most prominent repeated term in this source (105-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: done, service, sell. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the daniel.jf1 clip, 'digitally rendered' is the lever daniel.jf1 says separates people who make progress from people who stay put. It appears twice, it sits next to 'done', 'scalable', and 'sell' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: What you need to sell is a done… The clip's relationship to 'social' only makes sense as a vehicle for delivering 'digitally rendered'.
 
 ## Synonyms
 
-- digitally rendered
-- done
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What you need to sell is a done for you digitally rendered service. You have to imagine the combinations of what I just said here. A done for you digitally rendered service does not require your physical presence." — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
+> "capacity, you're just some guy, you just want a scalable business. What you need to sell is a done for you digitally rendered service. You have to imagine the combinations of what I just said here. A done for you digitally rendered service does not require your" — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
+> "digitally rendered service. You have to imagine the combinations of what I just said here. A done for you digitally rendered service does not require your physical presence. It does not require you to have a high level of authority or social proof, and you" — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'digitally rendered' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 105-word clip with the word 'digitally rendered' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

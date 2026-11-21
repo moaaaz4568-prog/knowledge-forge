@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["niche", "easy"]
+aka: ["niche", "niching"]
 origin: sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
 
 ## Term
 
-niche is the most prominent repeated term in this source (263-word transcript from the Instagram account daniel.jf1): it occurs 8 times literally in the text, most often collocated with: easy, whatever, try. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'niche' is the move that separates finished from polished — daniel.jf1 treats it as the moment a piece of work starts being seen. It appears 8 times, it sits next to 'easy', 'agency', and 'lead' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: So like you might say you start a… The clip's claim about 'specific' is conditional on 'niche' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- niche
-- easy
+- niching
 
 ## Live Example
 
-> "So like you might say you start a content agency or an e-comm email agency or a lead gen agency, whatever, and you try this niche and this niche, and you end up working with like a whole different ton of different people. There's one specific subcategory or customer segment that's super easy for you to get results for." — sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
-> "That's when you would specialize. You don't pick a niche for all no reason. You think that, say you sell a lead gen service and you're like, I generate B2B companies 20 sales calls a month." — sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
-> "Like just saying you do it for this niche does not make that niche more probable to work with you. It doesn't work like" — sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
+> "you start a content agency or an e-comm email agency or a lead gen agency, whatever, and you try this niche and this niche, and you end up working with like a whole different ton of different people. There's one specific subcategory or customer segment" — sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
+> "results for them or it's easy to sign them. Like just saying you do it for this niche does not make that niche more probable to work with you. It doesn't work like that" — sources/S_ig_daniel.jf1_Dc7M0FFj38K.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'niche' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a recommendation to use 'niche' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'interested'); it does not argue the reader should adopt it.

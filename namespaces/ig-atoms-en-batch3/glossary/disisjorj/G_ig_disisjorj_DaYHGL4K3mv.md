@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["subtitles", "generate"]
+aka: ["creation process"]
 origin: sources/S_ig_disisjorj_DaYHGL4K3mv.md
 ---
 
-# G_ig_disisjorj_DaYHGL4K3mv — subtitles
+# G_ig_disisjorj_DaYHGL4K3mv — creation process
 
 ## Term
 
-subtitles is the most prominent repeated term in this source (145-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: generate, automatically, ready. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'creation process' is the visual or structural choice disisjorj says is the actual carrier of meaning in the piece. It appears once in the transcript, and it sits next to 'entire' and 'little' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: I run my entire content creation process with… Strip the clip down to its claim and you are left with 'creation process'; 'entire' and 'export' are how the claim is delivered.
 
 ## Synonyms
 
-- subtitles
-- generate
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And all I have to do from there is right click and generate my subtitles. Automatically, we have our subtitles ready to go. You can have presets here to make sure that it looks exactly as you'd like it to look." — sources/S_ig_disisjorj_DaYHGL4K3mv.md
+> "I run my entire content creation process with this little guy over here and the software you're looking at right now. Because all I have to do, everything is connected, as you" — sources/S_ig_disisjorj_DaYHGL4K3mv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'creation process' to mark the choice that does the work, not the choice that only looks good.
+- Read as a clean transcript: the wording around 'creation process' (including the run-on near 'entire') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

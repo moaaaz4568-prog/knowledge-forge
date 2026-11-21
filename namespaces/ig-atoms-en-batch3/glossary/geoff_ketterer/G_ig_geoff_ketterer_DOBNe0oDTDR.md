@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["whatever", "suggest"]
+aka: ["question-based selling"]
 origin: sources/S_ig_geoff_ketterer_DOBNe0oDTDR.md
 ---
 
-# G_ig_geoff_ketterer_DOBNe0oDTDR — whatever
+# G_ig_geoff_ketterer_DOBNe0oDTDR — question-based selling
 
 ## Term
 
-whatever is the most prominent repeated term in this source (204-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: suggest, less, expensive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'question-based selling' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears once in the transcript, and it sits next to 'sales', 'teach', and 'consultative' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: And so the type of sales that I… The sentence around 'hasn't' only carries weight because 'question-based selling' is what the sentence is really about.
 
 ## Synonyms
 
-- whatever
-- suggest
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And if you can, great. If you can't for whatever reason, you should not try and sell that person. You should make a recommendation, suggest other things, maybe a less expensive program, whatever it may be. But that's the first thing I teach reps." — sources/S_ig_geoff_ketterer_DOBNe0oDTDR.md
+> "done for fifteen years, maybe longer. And so the type of sales that I teach is a far more consultative, question-based selling process that feels very natural, as opposed to just trying to shoehorn money out of somebody. When you have a conversation with" — sources/S_ig_geoff_ketterer_DOBNe0oDTDR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'question-based selling' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a definition of 'question-based selling': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'salespeople' — it does not establish what the word means in general.

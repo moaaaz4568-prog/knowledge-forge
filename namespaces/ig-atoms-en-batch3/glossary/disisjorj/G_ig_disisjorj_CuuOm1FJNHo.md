@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["pain", "Change"]
+aka: ["negative visualization"]
 origin: sources/S_ig_disisjorj_CuuOm1FJNHo.md
 ---
 
-# G_ig_disisjorj_CuuOm1FJNHo — pain
+# G_ig_disisjorj_CuuOm1FJNHo — negative visualization
 
 ## Term
 
-pain is the most prominent repeated term in this source (114-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: change, staying, greater. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'negative visualization' is the underlying driver disisjorj says the person must touch before they will accept any plan. It appears once in the transcript, and it sits next to 'truly', 'believe', and 'push' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I truly believe that negative visualization will push… Take 'negative visualization' out and the clip collapses into generalities about greater — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- pain
-- Change
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "happens when the pain of staying the same is greater than the pain of" — sources/S_ig_disisjorj_CuuOm1FJNHo.md
-> "be once you do reach your goal will only give you what, a week, two weeks, a month worth of motivation. Eventually, that's gonna run out. Pain and anger are emotions full of energy. How you channel that energy is what makes the difference. If that resonates with you, there's probably someone else that needs to hear this." — sources/S_ig_disisjorj_CuuOm1FJNHo.md
+> "I truly believe that negative visualization will push you even further towards achieving your goals rather than positive. It comes down to that Tony Robbins quote" — sources/S_ig_disisjorj_CuuOm1FJNHo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'negative visualization' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as a stylistic choice by disisjorj: the wording around 'negative visualization' (e.g. the collocation with 'rather') is the speech of one clip, not a stylistic pattern that can be generalised.

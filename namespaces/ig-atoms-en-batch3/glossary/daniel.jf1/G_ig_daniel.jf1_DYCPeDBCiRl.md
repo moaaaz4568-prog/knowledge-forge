@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["parasocial relationship", "love"]
+aka: ["parasocial relationship"]
 origin: sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
 
 ## Term
 
-parasocial relationship is the most prominent repeated term in this source (106-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: love, feel, indebted. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'parasocial relationship' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears twice, it sits next to 'amount', 'value', and 'indebted' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: Build a parasocial relationship… Without 'parasocial relationship', the reel is just a clip about purchase; with it, the clip is a claim.
 
 ## Synonyms
 
-- parasocial relationship
-- love
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What's the best way to do that? Is to give you such an extreme amount of value that you feel indebted to me. Build a parasocial relationship. If you walked around and someone came up to you and they go" — sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
-> "You have no idea who they are. They love you. It's a parasocial relationship. They love you. You don't know they exist." — sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
+> "way to do that? Is to give you such an extreme amount of value that you feel indebted to me. Build a parasocial relationship. If you walked around and someone came up to you and they go" — sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
+> "You have no idea who they are. They love you. It's a parasocial relationship. They love you. You don't know they exist. That's what you are trying to do" — sources/S_ig_daniel.jf1_DYCPeDBCiRl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'parasocial relationship' here is daniel.jf1's working label for the felt pressure in the room, not a diagnostic category.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'parasocial relationship' next to 'walked') may not be load-bearing in daniel.jf1's wider body of work.

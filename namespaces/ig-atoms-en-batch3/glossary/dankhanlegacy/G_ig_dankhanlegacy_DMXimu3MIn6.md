@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["real", "build"]
+aka: ["real"]
 origin: sources/S_ig_dankhanlegacy_DMXimu3MIn6.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DMXimu3MIn6.md
 
 ## Term
 
-real is the most prominent repeated term in this source (115-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: build, skills, run. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy reel, 'real' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 3 times, it sits next to 'build', 'skills', and 'businesses' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: I'm here for people who want to build… It is the one word in this source that, if removed, would leave 'without' without a frame to hang on.
 
 ## Synonyms
 
-- real
-- build
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let's grow business together. I'm not here to argue about politics or pronouns. I'm here for people who want to build real skills, run real businesses, and make real money without any followers. If you're tired of the fluff, the fake gurus, and the same recycled content, you're in the right place." — sources/S_ig_dankhanlegacy_DMXimu3MIn6.md
+> "business together. I'm not here to argue about politics or pronouns. I'm here for people who want to build real skills, run real businesses, and make real money without any followers. If you're tired of the fluff, the fake gurus, and the same recycled content" — sources/S_ig_dankhanlegacy_DMXimu3MIn6.md
+> "politics or pronouns. I'm here for people who want to build real skills, run real businesses, and make real money without any followers. If you're tired of the fluff, the fake gurus, and the same recycled content, you're in the right place. Comment the word" — sources/S_ig_dankhanlegacy_DMXimu3MIn6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'real' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a rule for using 'real': the clip shows dankhanlegacy using the word in one specific move (alongside 'multiple'), not a recommendation that the reader adopt the word themselves.

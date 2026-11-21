@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["Claude", "Smartlead"]
+aka: ["claude"]
 origin: sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
 ---
 
-# G_ig_divyannshisharma_Dcq0nmpyEUR — Claude
+# G_ig_divyannshisharma_Dcq0nmpyEUR — claude
 
 ## Term
 
-Claude is the most prominent repeated term in this source (121-word transcript from the Instagram account divyannshisharma): it occurs 5 times literally in the text, most often collocated with: smartlead, outreach, team. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'claude' is the sales move divyannshisharma argues is the difference between an objection that sticks and one that dissolves. It appears 5 times, it sits next to 'smartlead', 'outreach', and 'team' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: How to build B two B outreach team… Pull 'claude' and the clip's spine comes loose — 'multi-channel' would still be there but would not point at anything.
 
 ## Synonyms
 
-- Claude
-- Smartlead
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to build B two B outreach team inside Claude and get four to five high paying clients per month. Start by connecting Claude to Smartlead using Smartlead MCP." — sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
-> "LinkedIn groups and find a group where your ideal clients are hanging out and scrape the members using Apify. Bring your list to the Claude and use Smartlead MCP to enrich those leads. Then use Smartlead MCP to create a multi-channel sequence for you. Review it, approve it and launch your campaign directly from Claude." — sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
-> "And once it's live, get all your campaign updates on your Slack. Now you have a B two B outreach team inside Claude. Comment workflow and I will send you the exact" — sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
+> "How to build B two B outreach team inside Claude and get four to five high paying clients per month. Start by connecting Claude to Smartlead using Smartlead MCP. Then go to LinkedIn, LinkedIn groups" — sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
+> "it's live, get all your campaign updates on your Slack. Now you have a B two B outreach team inside Claude. Comment workflow and I will send you the exact setup" — sources/S_ig_divyannshisharma_Dcq0nmpyEUR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'claude' here is loaded with a specific working meaning by divyannshisharma, not a buzzword.
+- Read as a definition of 'claude': the source documents how divyannshisharma deploys the word in this clip — collocated with 'Review' — it does not establish what the word means in general.

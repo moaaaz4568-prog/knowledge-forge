@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["viewer", "keep"]
+aka: ["viewer entertained"]
 origin: sources/S_ig_devinjatho_Cmrrpu5Dnbj.md
 ---
 
-# G_ig_devinjatho_Cmrrpu5Dnbj — viewer
+# G_ig_devinjatho_Cmrrpu5Dnbj — viewer entertained
 
 ## Term
 
-viewer is the most prominent repeated term in this source (49-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: keep, needs, happen. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For devinjatho, 'viewer entertained' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'creating', 'needs', and 'happen' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: Every two seconds, when you're creating a video… Take 'viewer entertained' out and the clip collapses into generalities about Follow — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- viewer
-- keep
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "two seconds, when you're creating a video, something needs to happen to keep that viewer entertained. Whether that be subtitles, zoom ins and outs, flipping your face, or anything else to interrupt the pattern of the video to keep your viewer engaged." — sources/S_ig_devinjatho_Cmrrpu5Dnbj.md
+> "Every two seconds, when you're creating a video, something needs to happen to keep that viewer entertained. Whether that be subtitles, zoom ins and outs, flipping your face, or anything else to interrupt the pattern of the video to keep your" — sources/S_ig_devinjatho_Cmrrpu5Dnbj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'viewer entertained' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a rule for using 'viewer entertained': the clip shows devinjatho using the word in one specific move (alongside 'subtitles'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Lockdown", "mind"]
+aka: ["lockdown"]
 origin: sources/S_ig_disisjorj_DEXWTpPoOQ4.md
 ---
 
-# G_ig_disisjorj_DEXWTpPoOQ4 — Lockdown
+# G_ig_disisjorj_DEXWTpPoOQ4 — lockdown
 
 ## Term
 
-This source is very short (15 words), so no term repeats enough for a frequency-based entry; Lockdown is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'lockdown' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears once in the transcript, and it sits next to 'heart', 'mind', and 'inside' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Lockdown, I've been inside… It is the one word in this source that, if removed, would leave 'inside' without a frame to hang on.
 
 ## Synonyms
 
-- Lockdown
-- mind
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "heart been telling me yes, mind been telling me no. Lockdown, I've been" — sources/S_ig_disisjorj_DEXWTpPoOQ4.md
+> "My heart been telling me yes, mind been telling me no. Lockdown, I've been inside" — sources/S_ig_disisjorj_DEXWTpPoOQ4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'lockdown' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as a rule for using 'lockdown': the clip shows disisjorj using the word in one specific move (alongside 'inside'), not a recommendation that the reader adopt the word themselves.

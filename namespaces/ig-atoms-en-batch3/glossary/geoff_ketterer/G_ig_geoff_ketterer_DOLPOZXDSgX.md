@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["hear", "sometimes"]
+aka: ["hear"]
 origin: sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
 
 ## Term
 
-hear is the most prominent repeated term in this source (143-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: sometimes, difficult, easy. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'hear' is the sales move geoff_ketterer argues is the difference between an objection that sticks and one that dissolves. It appears 4 times, it sits next to 'because', 'sometimes', and 'easy' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: Good sales, in my opinion, comes from head… What makes the word 'hear' the term here is that the rest — 'difficult', 'sometimes', everything else — is staged for it.
 
 ## Synonyms
 
-- hear
-- sometimes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Do you know what I mean? It's easy to be nice. It's easy to say what they want to hear because they've probably got friends and family around them that tell them what they want to hear all the time." — sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
-> "What's much more difficult is to have an honest conversation, being kind to them and telling them sometimes what they need to hear. Because sometimes what they need to hear is, dude, you need to get out of your own way because you're in it, which is why you've been stuck for the last three" — sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
+> "it's being kind. Do you know what I mean? It's easy to be nice. It's easy to say what they want to hear because they've probably got friends and family around them that tell them what they want to hear all the time. What's much more difficult is to have" — sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
+> "kind to them and telling them sometimes what they need to hear. Because sometimes what they need to hear is, dude, you need to get out of your own way because you're in it, which is why you've been stuck for the last three years" — sources/S_ig_geoff_ketterer_DOLPOZXDSgX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'hear' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as evidence geoff_ketterer always uses 'hear' this way: one 143-word clip is too thin a sample to support any claim about how the account uses the word in general.

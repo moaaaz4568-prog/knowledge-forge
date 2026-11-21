@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["Saturday", "Grab"]
+aka: ["three behind-the-scenes"]
 origin: sources/S_ig_gincontent_DUZMVGKkqO_.md
 ---
 
-# G_ig_gincontent_DUZMVGKkqO_ — Saturday
+# G_ig_gincontent_DUZMVGKkqO_ — three behind-the-scenes
 
 ## Term
 
-Saturday is the most prominent repeated term in this source (71-word transcript from the Instagram account gincontent): it occurs 3 times literally in the text, most often collocated with: grab, couple, hours. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gincontent's clip, 'three behind-the-scenes' is the design choice gincontent treats as the hinge between pretty and effective. It appears once in the transcript, and it sits next to 'idea', 'favorite', and 'educational' — a single occurrence that nonetheless anchors the clip's argument. gincontent drops it precisely where the cost of skipping it shows up — the surrounding move runs: My favorite mix for a week is three… Cut 'three behind-the-scenes' and the clip's aboutness shifts from a claim to a description of behind-the-scenes and Sunday.
 
 ## Synonyms
 
-- Saturday
-- Grab
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm too busy working on my designs. Save everything for Saturday. Saturday? Yeah. Grab a couple hours each Saturday, record all your videos for the week, and post one each per day. That's actually a good idea. It works." — sources/S_ig_gincontent_DUZMVGKkqO_.md
+> "week, and post one each per day. That's actually a good idea. It works. My favorite mix for a week is three behind-the-scenes, two educational, and one storytelling video. Rest posting on Sunday to save energy. God bless you" — sources/S_ig_gincontent_DUZMVGKkqO_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a design jargon word: 'three behind-the-scenes' here is loaded with a specific working meaning — the choice that carries the meaning the words do not.
+- Read as evidence gincontent always uses 'three behind-the-scenes' this way: one 71-word clip is too thin a sample to support any claim about how the account uses the word in general.

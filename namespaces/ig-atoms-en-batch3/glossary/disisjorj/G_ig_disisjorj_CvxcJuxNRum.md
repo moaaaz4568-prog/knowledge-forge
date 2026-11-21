@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["performance", "Aaron"]
+aka: ["performance"]
 origin: sources/S_ig_disisjorj_CvxcJuxNRum.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_disisjorj_CvxcJuxNRum.md
 
 ## Term
 
-This source is very short (31 words), so no term repeats enough for a frequency-based entry; performance is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'performance' is the distinction disisjorj is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'interview' and 'aaron' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Today is the interview with Aaron, and at… This is the word the clip is built to deliver; 'interview' is texture around it, not the point.
 
 ## Synonyms
 
-- performance
-- Aaron
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Today is the interview with Aaron, and at night I have the live performance" — sources/S_ig_disisjorj_CvxcJuxNRum.md
+> "vloggy kind of videos, I think I like it. Today is the interview with Aaron, and at night I have the live performance" — sources/S_ig_disisjorj_CvxcJuxNRum.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'performance' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as evidence disisjorj always uses 'performance' this way: one 31-word clip is too thin a sample to support any claim about how the account uses the word in general.

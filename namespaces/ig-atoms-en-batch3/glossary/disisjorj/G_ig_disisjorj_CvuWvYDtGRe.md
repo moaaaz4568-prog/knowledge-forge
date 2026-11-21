@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Tuesday", "Check"]
+aka: ["one-on-one meeting"]
 origin: sources/S_ig_disisjorj_CvuWvYDtGRe.md
 ---
 
-# G_ig_disisjorj_CvuWvYDtGRe — Tuesday
+# G_ig_disisjorj_CvuWvYDtGRe — one-on-one meeting
 
 ## Term
 
-This source is very short (49 words), so no term repeats enough for a frequency-based entry; Tuesday is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj reel, 'one-on-one meeting' is the concept disisjorj keeps returning to as the thing that decides whether the rest of the advice lands. It appears once in the transcript, and it sits next to 'perform', 'managed', and 'well' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: I didn't have to perform, but I still… The clip's relationship to 'Tuesday' only makes sense as a vehicle for delivering 'one-on-one meeting'.
 
 ## Synonyms
 
-- Tuesday
-- Check
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "this out. Monday and Tuesday are done. That means today is the third day. It's been a long day today. I didn't have to perform, but I still managed to have a one-on-one meeting, which went very well." — sources/S_ig_disisjorj_CvuWvYDtGRe.md
+> "is the third day. It's been a long day today. I didn't have to perform, but I still managed to have a one-on-one meeting, which went very well. Tomorrow is gonna be fun, so stick around for that" — sources/S_ig_disisjorj_CvuWvYDtGRe.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in disisjorj's usage, 'one-on-one meeting' is loaded with a specific working meaning (visible in the collocation with 'perform'), not the dictionary sense.
+- Read as a claim about how disisjorj uses 'one-on-one meeting' across their work: this single 49-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

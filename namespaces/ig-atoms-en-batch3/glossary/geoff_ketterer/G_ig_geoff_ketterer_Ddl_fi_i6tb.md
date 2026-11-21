@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["pressure", "call"]
+aka: ["pressure"]
 origin: sources/S_ig_geoff_ketterer_Ddl_fi_i6tb.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_geoff_ketterer_Ddl_fi_i6tb.md
 
 ## Term
 
-pressure is the most prominent repeated term in this source (116-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: call, load, feel. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'pressure' is the emotional core geoff_ketterer insists is the real subject of the conversation — not the topic the person says they came for. It appears 3 times, it sits next to 'load', 'call', and 'levity' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: We don't need to have this huge weight… The argument only stays upright while 'pressure' is doing the work — pull it and 'higher' loses its anchor.
 
 ## Synonyms
 
-- pressure
-- call
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's okay to have a bit more levity. We don't need to have this huge weight of pressure in the call, specifically as an SDR. Right, you want them to show up to the next call. If you put a load of pressure on them, you make them feel a load of pressure in that initial call. There's a higher chance they won't show." — sources/S_ig_geoff_ketterer_Ddl_fi_i6tb.md
+> "go and fuck yourself. It's okay to have a bit more levity. We don't need to have this huge weight of pressure in the call, specifically as an SDR. Right, you want them to show up to the next call. If you put a load of pressure on them, you make them feel" — sources/S_ig_geoff_ketterer_Ddl_fi_i6tb.md
+> "them to show up to the next call. If you put a load of pressure on them, you make them feel a load of pressure in that initial call. There's a higher chance they won't show. Don't mistake kindness for weakness. Right, I'm not saying be a pushover. That" — sources/S_ig_geoff_ketterer_Ddl_fi_i6tb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'pressure' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as a definition of 'pressure': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'specifically' — it does not establish what the word means in general.

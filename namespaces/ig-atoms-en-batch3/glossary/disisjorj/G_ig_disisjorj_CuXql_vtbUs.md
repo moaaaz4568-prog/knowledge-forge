@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["hundred thousand", "understand"]
+aka: ["hundred thousand"]
 origin: sources/S_ig_disisjorj_CuXql_vtbUs.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CuXql_vtbUs.md
 
 ## Term
 
-hundred thousand is the most prominent repeated term in this source (103-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: understand, account, order. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'hundred thousand' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears twice, it sits next to 'happens', 'understand', and 'five' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I understand this is not a hundred thousand… This is the word the clip is built to deliver; 'created' is texture around it, not the point.
 
 ## Synonyms
 
-- hundred thousand
-- understand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "being here and let you know that it is indeed true when they say nothing happens and then everything happens. I understand this is not a hundred thousand, five hundred thousand account, but in order to get there, you need to get to here. I hope this finds you well." — sources/S_ig_disisjorj_CuXql_vtbUs.md
+> "is indeed true when they say nothing happens and then everything happens. I understand this is not a hundred thousand, five hundred thousand account, but in order to get there, you need to get to here. I hope this finds you well. Follow for more" — sources/S_ig_disisjorj_CuXql_vtbUs.md
+> "they say nothing happens and then everything happens. I understand this is not a hundred thousand, five hundred thousand account, but in order to get there, you need to get to here. I hope this finds you well. Follow for more" — sources/S_ig_disisjorj_CuXql_vtbUs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'hundred thousand' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as proof the term is load-bearing for disisjorj in general: a 103-word clip with the word 'hundred thousand' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

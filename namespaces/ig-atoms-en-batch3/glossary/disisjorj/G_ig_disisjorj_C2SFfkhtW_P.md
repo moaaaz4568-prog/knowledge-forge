@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["improve", "change"]
+aka: ["two"]
 origin: sources/S_ig_disisjorj_C2SFfkhtW_P.md
 ---
 
-# G_ig_disisjorj_C2SFfkhtW_P — improve
+# G_ig_disisjorj_C2SFfkhtW_P — two
 
 ## Term
 
-improve is the most prominent repeated term in this source (114-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: change, implement, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'two' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears 3 times, it sits next to 'answers', 'questions', and 'change' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: The steps I'm taking are number one, a… Pull 'two' and the clip's spine comes loose — 'editing' would still be there but would not point at anything.
 
 ## Synonyms
 
-- improve
-- change
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In fact, December was my lowest month in terms of growth. But here's what I focus on to change that. Analysis. You can't improve what you don't measure. The steps I'm taking are number one, a monthly and weekly report of the content produced that answers two questions: what works and what doesn't." — sources/S_ig_disisjorj_C2SFfkhtW_P.md
-> "Number two, what are two things I can change or implement to improve my content? Scripting, editing, filming, whatever it is, what can I do to make it better?" — sources/S_ig_disisjorj_C2SFfkhtW_P.md
+> "The steps I'm taking are number one, a monthly and weekly report of the content produced that answers two questions: what works and what doesn't. Number two, what are two things I can change or implement to improve my content? Scripting, editing, filming" — sources/S_ig_disisjorj_C2SFfkhtW_P.md
+> "of the content produced that answers two questions: what works and what doesn't. Number two, what are two things I can change or implement to improve my content? Scripting, editing, filming, whatever it is, what can I do to make it better? Save this and" — sources/S_ig_disisjorj_C2SFfkhtW_P.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'two' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'weekly' makes that visible.
+- Read as a stylistic choice by disisjorj: the wording around 'two' (e.g. the collocation with 'weekly') is the speech of one clip, not a stylistic pattern that can be generalised.

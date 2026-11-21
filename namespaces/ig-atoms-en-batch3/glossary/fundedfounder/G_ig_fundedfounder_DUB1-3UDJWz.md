@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["papa", "est"]
+aka: ["ton papa"]
 origin: sources/S_ig_fundedfounder_DUB1-3UDJWz.md
 ---
 
-# G_ig_fundedfounder_DUB1-3UDJWz — papa
+# G_ig_fundedfounder_DUB1-3UDJWz — ton papa
 
 ## Term
 
-papa is the most prominent repeated term in this source (34-word transcript from the Instagram account fundedfounder): it occurs 3 times literally in the text, most often collocated with: est, ton, ou. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In fundedfounder's framing, 'ton papa' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears twice, it sits next to 'bien', 'accompagn', and 'vrai' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where fundedfounder names the thing a person cannot outsource — nearby: Où est ton papa … The clip is engineered so that 'parler' lands as setup, not payoff; the payoff is the move 'ton papa' names.
 
 ## Synonyms
 
-- papa
-- est
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "bien mieux qu'être mal accompagné, pas vrai ? Où est ton papa ? Dis-moi où est ton papa ? Sans même devoir lui parler, c'est ce qui ne va pas." — sources/S_ig_fundedfounder_DUB1-3UDJWz.md
+> "Bien, bien mieux qu'être mal accompagné, pas vrai ? Où est ton papa ? Dis-moi où est ton papa ? Sans même devoir lui parler, c'est ce qui ne va pas. À chaque papa" — sources/S_ig_fundedfounder_DUB1-3UDJWz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'ton papa' as a working label for an idea fundedfounder is arguing, not as a tagline to be repeated.
+- Read as a claim about how fundedfounder uses 'ton papa' across their work: this single 34-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

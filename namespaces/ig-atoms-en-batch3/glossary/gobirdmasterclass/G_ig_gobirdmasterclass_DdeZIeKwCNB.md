@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["Skeuomorphism", "Neumorphism"]
+aka: ["mid-century modern"]
 origin: sources/S_ig_gobirdmasterclass_DdeZIeKwCNB.md
 ---
 
-# G_ig_gobirdmasterclass_DdeZIeKwCNB — Skeuomorphism
+# G_ig_gobirdmasterclass_DdeZIeKwCNB — mid-century modern
 
 ## Term
 
-This source is very short (25 words), so no term repeats enough for a frequency-based entry; Skeuomorphism is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'mid-century modern' names the visual or structural move gobirdmasterclass says carries the meaning the words do not. It appears once in the transcript, and it sits next to 'inflated', 'isometric', and 'ukiyo-e' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gobirdmasterclass names the thing a person cannot outsource — nearby: Skeuomorphism, Neumorphism, Art Nouveau, Liquid Chrome, De Stijl… The argument only stays upright while 'mid-century modern' is doing the work — pull it and 'Memphis' loses its anchor.
 
 ## Synonyms
 
-- Skeuomorphism
-- Neumorphism
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Skeuomorphism, Neumorphism, Art Nouveau, Liquid Chrome, De Stijl, Memphis, Psychedelic, Vaporwave, Steampunk, Grunge, Paper Cutout, Glitch, Anti-Design, 3D Inflated, Isometric, Ukiyo-e, Brutalism, Bauhaus, Mid-Century" — sources/S_ig_gobirdmasterclass_DdeZIeKwCNB.md
+> "Steampunk, Grunge, Paper Cutout, Glitch, Anti-Design, 3D Inflated, Isometric, Ukiyo-e, Brutalism, Bauhaus, Mid-Century Modern" — sources/S_ig_gobirdmasterclass_DdeZIeKwCNB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in gobirdmasterclass's usage, 'mid-century modern' is a specific design move, not a category of design choices.
+- Read as evidence gobirdmasterclass always uses 'mid-century modern' this way: one 25-word clip is too thin a sample to support any claim about how the account uses the word in general.

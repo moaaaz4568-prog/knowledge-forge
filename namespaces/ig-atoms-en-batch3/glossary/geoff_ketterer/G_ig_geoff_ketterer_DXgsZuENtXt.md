@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["weekends", "drink"]
+aka: ["geoff_ketterer"]
 origin: sources/S_ig_geoff_ketterer_DXgsZuENtXt.md
 ---
 
-# G_ig_geoff_ketterer_DXgsZuENtXt — weekends
+# G_ig_geoff_ketterer_DXgsZuENtXt — People that don't drink, what are y'all doing on the weekend…
 
 ## Term
 
-This source is very short (13 words), so no term repeats enough for a frequency-based entry; weekends is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 13-word short caption from geoff_ketterer — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "People that don't drink, what are y'all doing on the weekends? Fuck knows.".
 
 ## Synonyms
 
-- weekends
-- drink
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "that don't drink, what are y'all doing on the weekends? Fuck" — sources/S_ig_geoff_ketterer_DXgsZuENtXt.md
+> "People that don't drink, what are y'all doing on the weekends? Fuck knows" — sources/S_ig_geoff_ketterer_DXgsZuENtXt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'drink') is what carries the mood, not a label being defined.
+- Read as a caption worth treating as a domain entry: this 13-word source does not have the conceptual weight to support one, even when the wording (e.g. 'drink') sounds like a slogan.

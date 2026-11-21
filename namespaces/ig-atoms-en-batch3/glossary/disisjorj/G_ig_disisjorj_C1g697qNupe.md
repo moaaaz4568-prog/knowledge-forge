@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["goal", "deviates"]
+aka: ["goal"]
 origin: sources/S_ig_disisjorj_C1g697qNupe.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_C1g697qNupe.md
 
 ## Term
 
-goal is the most prominent repeated term in this source (138-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: deviates, path, achieving. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'goal' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears 3 times, it sits next to 'deviates', 'path', and 'ability' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: I came to realize that the ability to… Take 'goal' out and the clip collapses into generalities about happen — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- goal
-- deviates
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I came to realize that the ability to stay focused and consistent on one single goal is what made the difference in the end. And that can only happen if you learn to say no to every new opportunity that comes your way. Hormozzi calls it the woman in the red dress. I personally look at it like ice cream. Hear me out." — sources/S_ig_disisjorj_C1g697qNupe.md
-> "But what I personally fail to realize when it comes to content creation and solopreneurship is you can only choose one scoop. Set a goal and learn to neglect anything that deviates your path from achieving that" — sources/S_ig_disisjorj_C1g697qNupe.md
+> "importance of focus. I came to realize that the ability to stay focused and consistent on one single goal is what made the difference in the end. And that can only happen if you learn to say no to every new opportunity that comes your way. Hormozzi calls" — sources/S_ig_disisjorj_C1g697qNupe.md
+> "choose one scoop. Set a goal and learn to neglect anything that deviates your path from achieving that goal" — sources/S_ig_disisjorj_C1g697qNupe.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'goal' here is the public-facing act, distinct from the private work of creating.
+- Read as proof the term is load-bearing for disisjorj in general: a 138-word clip with the word 'goal' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

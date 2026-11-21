@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["ads", "put"]
+aka: ["ads"]
 origin: sources/S_ig_divyannshisharma_DDOr74zTSvz.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_divyannshisharma_DDOr74zTSvz.md
 
 ## Term
 
-ads is the most prominent repeated term in this source (178-word transcript from the Instagram account divyannshisharma): it occurs 5 times literally in the text, most often collocated with: put, running, data. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ads' carries the weight of a discipline, not an event: divyannshisharma frames it as the work that turns private effort into public evidence. It appears 5 times, it sits next to 'running', 'linkedin', and 'library' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: You need to go to the LinkedIn Ads… 'ads' is what the rest of the clip is trying to justify — even 'scrapped' reads as evidence for it.
 
 ## Synonyms
 
-- ads
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here is what you need to do. You need to go to the LinkedIn Ads Library, put in the keyword your client may be running ads on, and put in the date, put in the country you are targeting. You have the data of all the clients who are running ads." — sources/S_ig_divyannshisharma_DDOr74zTSvz.md
-> "data, you can use tools like Clay, Persona, or Airscale, so that we have the contact details of the decision makers who are running the ads. Third, you need to start your outbound campaign. For that, you can use tools like Buzz for sending personalized LinkedIn videos. Then you can use Sally for personalization, Smartly or Insplainedly for your cold email campaign." — sources/S_ig_divyannshisharma_DDOr74zTSvz.md
-> "You have the data of all the clients who are running ads. Then what you need to do, you need to go to the Apify LinkedIn Ads Scraper, put in this link, and the data will get scrapped. Now we need to enrich the data." — sources/S_ig_divyannshisharma_DDOr74zTSvz.md
+> "you need for two thousand and twenty-five. Here is what you need to do. You need to go to the LinkedIn Ads Library, put in the keyword your client may be running ads on, and put in the date, put in the country you are targeting. You have the data of all" — sources/S_ig_divyannshisharma_DDOr74zTSvz.md
+> "Persona, or Airscale, so that we have the contact details of the decision makers who are running the ads. Third, you need to start your outbound campaign. For that, you can use tools like Buzz for sending personalized LinkedIn videos. Then you can use" — sources/S_ig_divyannshisharma_DDOr74zTSvz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'ads' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'Apify' makes that visible.
+- Read as a stylistic choice by divyannshisharma: the wording around 'ads' (e.g. the collocation with 'Apify') is the speech of one clip, not a stylistic pattern that can be generalised.

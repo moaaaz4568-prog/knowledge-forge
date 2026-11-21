@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["interesting", "fact"]
+aka: ["interesting fact"]
 origin: sources/S_ig_disisjorj_CxnQ32htgOQ.md
 ---
 
-# G_ig_disisjorj_CxnQ32htgOQ — interesting
+# G_ig_disisjorj_CxnQ32htgOQ — interesting fact
 
 ## Term
 
-This source is very short (42 words), so no term repeats enough for a frequency-based entry; interesting is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj reel, 'interesting fact' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears once in the transcript, and it sits next to 'creation' and 'honestly' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: This is the most interesting fact about content… 'interesting fact' is what the rest of the clip is trying to justify — even 'online' reads as evidence for it.
 
 ## Synonyms
 
-- interesting
-- fact
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is the most interesting fact about content creation, and honestly, one of the main reasons I started posting online. See, we take bets daily with our time, attention, and money. The least you can do is bet on you." — sources/S_ig_disisjorj_CxnQ32htgOQ.md
+> "This is the most interesting fact about content creation, and honestly, one of the main reasons I started posting online. See, we take bets daily with our time, attention" — sources/S_ig_disisjorj_CxnQ32htgOQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'interesting fact' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 42-word Instagram clip, and the wording around 'interesting fact' (including the collocation with 'reasons') is spoken speech, not edited writing.

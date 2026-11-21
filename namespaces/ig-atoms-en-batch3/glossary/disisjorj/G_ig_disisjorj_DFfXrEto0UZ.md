@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Knowing", "powerful"]
+aka: ["completely flopped"]
 origin: sources/S_ig_disisjorj_DFfXrEto0UZ.md
 ---
 
-# G_ig_disisjorj_DFfXrEto0UZ — Knowing
+# G_ig_disisjorj_DFfXrEto0UZ — completely flopped
 
 ## Term
 
-Knowing is the most prominent repeated term in this source (159-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: powerful, flopped, rather. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'completely flopped' names the felt adjustment disisjorj insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'learn', 'having', and 'hundred' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: But the truth is, you'll learn so much… The argument only stays upright while 'completely flopped' is doing the work — pull it and 'training' loses its anchor.
 
 ## Synonyms
 
-- Knowing
-- powerful
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But the truth is, you'll learn so much more from having a hundred posts that completely flopped rather than one that did insanely well. Knowing what not to do is as powerful as knowing what to do. But the only way to get there is when you actually sit down and do it, not if you sit down and think about doing it." — sources/S_ig_disisjorj_DFfXrEto0UZ.md
+> "each and every detail. But the truth is, you'll learn so much more from having a hundred posts that completely flopped rather than one that did insanely well. Knowing what not to do is as powerful as knowing what to do. But the only way to get there is" — sources/S_ig_disisjorj_DFfXrEto0UZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'completely flopped' to point at one specific mechanic disisjorj says is failing in the movement shown.
+- Read as a definition of 'completely flopped': the source documents how disisjorj deploys the word in this clip — collocated with 'learn' — it does not establish what the word means in general.

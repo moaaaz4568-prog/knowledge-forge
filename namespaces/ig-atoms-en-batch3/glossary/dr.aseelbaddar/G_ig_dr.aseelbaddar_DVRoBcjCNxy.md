@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dr.aseelbaddar
-aka: ["records", "favorite"]
+aka: ["little complacent"]
 origin: sources/S_ig_dr.aseelbaddar_DVRoBcjCNxy.md
 ---
 
-# G_ig_dr.aseelbaddar_DVRoBcjCNxy — records
+# G_ig_dr.aseelbaddar_DVRoBcjCNxy — little complacent
 
 ## Term
 
-records is the most prominent repeated term in this source (54-word transcript from the Instagram account dr.aseelbaddar): it occurs 2 times literally in the text, most often collocated with: favorite, bands, rip. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'little complacent' in this source is the working idea dr.aseelbaddar argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'ready', 'kill', and 'outrageous' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dr.aseelbaddar turns from describing to prescribing — the pivot runs: Motherfuckers more than a little complacent, ready to… Take 'little complacent' out and the clip collapses into generalities about records — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- records
-- favorite
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "ahead of the curve, writing the records your favorite bands rip off from the records. You're all so fucking outrageous, I can't take it. Motherfuckers more than a little complacent, ready to kill, ready to kill us all. Just like the fuck, don't pay attention." — sources/S_ig_dr.aseelbaddar_DVRoBcjCNxy.md
+> "rip off from the records. You're all so fucking outrageous, I can't take it. Motherfuckers more than a little complacent, ready to kill, ready to kill us all. Just like the fuck, don't pay attention. There's too much noise, but I second listen" — sources/S_ig_dr.aseelbaddar_DVRoBcjCNxy.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'little complacent' here is pinned to one specific claim in this clip, and the same word in another source from dr.aseelbaddar may carry a different load.
+- Read as a stylistic choice by dr.aseelbaddar: the wording around 'little complacent' (e.g. the collocation with 'writing') is the speech of one clip, not a stylistic pattern that can be generalised.

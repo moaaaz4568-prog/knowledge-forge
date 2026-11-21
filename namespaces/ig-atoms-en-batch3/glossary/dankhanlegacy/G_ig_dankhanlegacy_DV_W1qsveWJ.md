@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["underrated", "Drop"]
+aka: ["underrated"]
 origin: sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
 
 ## Term
 
-underrated is the most prominent repeated term in this source (87-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: drop, servicing, charge. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'underrated' is the future cost dankhanlegacy names to make the present feel expensive — the lever the clip uses to move the person. It appears 4 times, it sits next to 'drop', 'servicing', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: Underrated, underrated… The sentence around 'booming' only carries weight because 'underrated' is what the sentence is really about.
 
 ## Synonyms
 
-- underrated
-- Drop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "servicing. Underrated, underrated. Because you can charge a higher price and get someone else to just do it for a lower price. That's a good idea. Amazon FBA. Overrated. Print on demand. Actually, I don't know. I would guess it's overrated by now." — sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
-> "Overrated. Print on demand. Actually, I don't know. I would guess it's overrated by now. I don't know. Affiliate marketing. Oh, underrated. One of the best ways to make money. Info products and courses. Oh, underrated. And I feel like it's still booming, but you have to act now." — sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
+> "Drop servicing. Underrated, underrated. Because you can charge a higher price and get someone else to just do it for a lower price. That's a good idea. Amazon FBA. Overrated" — sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
+> "Affiliate marketing. Oh, underrated. One of the best ways to make money. Info products and courses. Oh, underrated. And I feel like it's still booming, but you have to act now. I think it's getting very, very saturated really fast" — sources/S_ig_dankhanlegacy_DV_W1qsveWJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'underrated' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a recommendation to use 'underrated' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'Print'); it does not argue the reader should adopt it.

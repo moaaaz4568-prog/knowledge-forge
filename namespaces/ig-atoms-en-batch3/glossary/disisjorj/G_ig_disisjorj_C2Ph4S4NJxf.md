@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["details", "content"]
+aka: ["arguably unimportant"]
 origin: sources/S_ig_disisjorj_C2Ph4S4NJxf.md
 ---
 
-# G_ig_disisjorj_C2Ph4S4NJxf — details
+# G_ig_disisjorj_C2Ph4S4NJxf — arguably unimportant
 
 ## Term
 
-details is the most prominent repeated term in this source (123-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: content, ability, point. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'arguably unimportant' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'guitar', 'line', and 'bass' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Small and arguably unimportant music choices for someone… Read alongside 'doubles', the word 'arguably unimportant' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- details
-- content
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The same thing goes for your content. Your ability to point out the small details, the editing transition, the hook of the script, the pacing and cadence of the entire video is what makes you a creator and not a consumer." — sources/S_ig_disisjorj_C2Ph4S4NJxf.md
-> "of the script, the pacing and cadence of the entire video is what makes you a creator and not a consumer. Learn to capture and study those details because those are the micro improvements you need to level up your content." — sources/S_ig_disisjorj_C2Ph4S4NJxf.md
+> "out the delay throws in the pre-chorus, or the guitar line, the bass doubles on the chorus. Small and arguably unimportant music choices for someone who's not a musician. The same thing goes for your content. Your ability to point out the small details" — sources/S_ig_disisjorj_C2Ph4S4NJxf.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'arguably unimportant' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'music' makes that visible.
+- Read as a definition of 'arguably unimportant': the source documents how disisjorj deploys the word in this clip — collocated with 'music' — it does not establish what the word means in general.

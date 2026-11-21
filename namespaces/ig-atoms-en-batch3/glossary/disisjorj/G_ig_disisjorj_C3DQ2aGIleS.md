@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["personal", "brand"]
+aka: ["personal"]
 origin: sources/S_ig_disisjorj_C3DQ2aGIleS.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_disisjorj_C3DQ2aGIleS.md
 
 ## Term
 
-personal is the most prominent repeated term in this source (36-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: brand, matter, untuned. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'personal' names the resource or move disisjorj argues a person must use to compound effort into outcome. It appears twice, it sits next to 'definition', 'matter', and 'untuned' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: The very definition of a personal brand is… Cut 'personal' and the clip's aboutness shifts from a claim to a description of definition and capable.
 
 ## Synonyms
 
-- personal
-- brand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "very definition of a personal brand is that it's personal. So no matter how untuned your guitar is or how afraid you are of showing what you know and what you're capable of, do" — sources/S_ig_disisjorj_C3DQ2aGIleS.md
+> "The very definition of a personal brand is that it's personal. So no matter how untuned your guitar is or how afraid you are of showing what you know and what you're capable of" — sources/S_ig_disisjorj_C3DQ2aGIleS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business word: in disisjorj's reel, 'personal' is the specific resource or move disisjorj says compounds effort, not the vague sense of business leverage.
+- Read as a tagline worth extracting: the source shows disisjorj using 'personal' as a working label in one specific argument (visible in the collocation with 'matter'), not as a slogan the reader is meant to repeat.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["life", "face"]
+aka: ["full potential"]
 origin: sources/S_ig_disisjorj_C8mnSRHNgXz.md
 ---
 
-# G_ig_disisjorj_C8mnSRHNgXz — life
+# G_ig_disisjorj_C8mnSRHNgXz — full potential
 
 ## Term
 
-life is the most prominent repeated term in this source (406-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: face, realization, fair. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'full potential' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears twice, it sits next to 'became', 'obsessed', and 'reaching' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Having the loss of my father as a… Pull 'full potential' and the clip's spine comes loose — 'seemed' would still be there but would not point at anything.
 
 ## Synonyms
 
-- life
-- face
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "For those who don't know, I'm George, I'm 26, and I come from a very small island in the Mediterranean. For the majority of my life, I was known as the guy who sings, the guy who plays the guitar, and writes songs. I started performing from a young age at small bars, pubs, and eventually as time went by, I got my fair share of working in the nightlife." — sources/S_ig_disisjorj_C8mnSRHNgXz.md
-> "At 18, after a big loss in my family, I came face to face with the realization that life isn't always fair. You think you have all the time in the world, but you don't. And if life doesn't owe you shit, don't expect that anyone else does either." — sources/S_ig_disisjorj_C8mnSRHNgXz.md
+> "meant for more, but you don't have a say at when it's time to go, I became obsessed with reaching my full potential. It didn't take long to realize that on the other side of self-growth is entrepreneurship. Reaching your limits, standing daily outside" — sources/S_ig_disisjorj_C8mnSRHNgXz.md
+> "but I will say that I will. I feel that it's a genuine shame for people not to reach their true and full potential, and that's why I create these videos. Hopefully helping you along your journey, sharing knowledge, skills, and mindset shifts that have" — sources/S_ig_disisjorj_C8mnSRHNgXz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'full potential' here is a working concept disisjorj is installing, not a tagline the reader is meant to repeat.
+- Read as a tagline worth extracting: the source shows disisjorj using 'full potential' as a working label in one specific argument (visible in the collocation with 'topics'), not as a slogan the reader is meant to repeat.

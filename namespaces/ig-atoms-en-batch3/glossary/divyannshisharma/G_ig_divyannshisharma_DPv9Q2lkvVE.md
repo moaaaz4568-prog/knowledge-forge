@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["AI", "agent"]
+aka: ["agent", "agents"]
 origin: sources/S_ig_divyannshisharma_DPv9Q2lkvVE.md
 ---
 
-# G_ig_divyannshisharma_DPv9Q2lkvVE — AI
+# G_ig_divyannshisharma_DPv9Q2lkvVE — agent
 
 ## Term
 
-AI is the most prominent repeated term in this source (86-word transcript from the Instagram account divyannshisharma): it occurs 5 times literally in the text, most often collocated with: agent, build, building. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For divyannshisharma, 'agent' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 4 times, it sits next to 'build', 'no-code', and 'instruction' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: Stop using N8N and use active pieces instead… Anything else in the clip orbits this word — strip out 'agent' and the rest reads as filler around 'instead'.
 
 ## Synonyms
 
-- AI
-- agent
+- agents
 
 ## Live Example
 
-> "using N8N and use active pieces instead to build your no-code AI agent. You just need to type in the instruction, mention the tools, and it will build the complete AI agent. Like right now, it's building an AI agent for enrichment. You can use it for completely free." — sources/S_ig_divyannshisharma_DPv9Q2lkvVE.md
-> "Just type in send and I will send you instruction on how you can build your first no-code AI" — sources/S_ig_divyannshisharma_DPv9Q2lkvVE.md
+> "Stop using N8N and use active pieces instead to build your no-code AI agent. You just need to type in the instruction, mention the tools, and it will build the complete AI agent. Like right now, it's building an AI agent" — sources/S_ig_divyannshisharma_DPv9Q2lkvVE.md
+> "agents. Just type in send and I will send you instruction on how you can build your first no-code AI agent" — sources/S_ig_divyannshisharma_DPv9Q2lkvVE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'agent' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a definition of 'agent': the source documents how divyannshisharma deploys the word in this clip — collocated with 'complete' — it does not establish what the word means in general.

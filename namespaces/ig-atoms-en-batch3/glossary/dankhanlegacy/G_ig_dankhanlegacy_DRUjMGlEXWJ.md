@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["scale", "ads"]
+aka: ["whether organically"]
 origin: sources/S_ig_dankhanlegacy_DRUjMGlEXWJ.md
 ---
 
-# G_ig_dankhanlegacy_DRUjMGlEXWJ — scale
+# G_ig_dankhanlegacy_DRUjMGlEXWJ — whether organically
 
 ## Term
 
-scale is the most prominent repeated term in this source (180-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: ads, try, early. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy reel, 'whether organically' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears once in the transcript, and it sits next to 'prove', 'referrals', and 'scale' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: The first thing is prove it, whether organically… Every other word in the source, including 'organically', is in service to the move 'whether organically' names.
 
 ## Synonyms
 
-- scale
-- ads
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Once you hit 10k to 20k per month, invest in ads and that's when you scale. Most people try to scale too early. They spend 5k on ads before they've even proven whether their offer works or not. And then they lose everything. You don't do that." — sources/S_ig_dankhanlegacy_DRUjMGlEXWJ.md
-> "And then they lose everything. You don't do that. The first thing is prove it, whether organically or referrals, then scale with paid traffic. This is the exact path that I teach to a lot of my clients. No audience, no problem. Okay, but there's a specific funnel that works for it." — sources/S_ig_dankhanlegacy_DRUjMGlEXWJ.md
+> "their offer works or not. And then they lose everything. You don't do that. The first thing is prove it, whether organically or referrals, then scale with paid traffic. This is the exact path that I teach to a lot of my clients. No audience, no problem. Okay" — sources/S_ig_dankhanlegacy_DRUjMGlEXWJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'whether organically' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a claim about how dankhanlegacy uses 'whether organically' across their work: this single 180-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

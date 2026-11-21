@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["hard mode", "economics"]
+aka: ["clients' businesses"]
 origin: sources/S_ig_daniel.jf1_DXfejFzq7n3.md
 ---
 
-# G_ig_daniel.jf1_DXfejFzq7n3 — hard mode
+# G_ig_daniel.jf1_DXfejFzq7n3 — clients' businesses
 
 ## Term
 
-hard mode is the most prominent repeated term in this source (85-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: economics, difficult, money. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'apply', 'rules', and 'ignore' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The same rules that apply to your business… What makes the word 'clients' businesses' the term here is that the rest — 'difficult', 'Simply', everything else — is staged for it.
 
 ## Synonyms
 
-- hard mode
-- economics
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the reason why everybody says to sell high ticket. It's because the economics any other way are on hard mode. It's too difficult to make money. And there is absolutely zero reason at all why you need to relegate your life to playing on hard mode." — sources/S_ig_daniel.jf1_DXfejFzq7n3.md
+> "The same rules that apply to your business also apply to your clients' businesses. And if you ignore this fact, you will not make any money in your agency. This is the reason why everybody says to sell high ticket" — sources/S_ig_daniel.jf1_DXfejFzq7n3.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'clients' businesses' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
+- Read as a recommendation to use 'clients' businesses' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'because'); it does not argue the reader should adopt it.

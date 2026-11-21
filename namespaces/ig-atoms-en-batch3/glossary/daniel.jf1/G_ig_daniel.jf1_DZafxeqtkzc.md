@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["hella", "max"]
+aka: ["hella"]
 origin: sources/S_ig_daniel.jf1_DZafxeqtkzc.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DZafxeqtkzc.md
 
 ## Term
 
-hella is the most prominent repeated term in this source (198-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: max, hard, cash. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'hella' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 4 times, it sits next to 'hard', 'flow', and 'relatively' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It's actually like, you could just make hella… Anything else in the clip orbits this word — strip out 'hella' and the rest reads as filler around 'selling'.
 
 ## Synonyms
 
-- hella
-- max
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's like, it's just so stupid. It's literally so stupid. It's actually like, you could just make hella money, profit max hella hard, cash flow max hella hard, live like a relatively chill lifestyle, like do whatever the you want, invest to like hella excess of that cash flow into the S&P 500 and just like become rich really slow and for" — sources/S_ig_daniel.jf1_DZafxeqtkzc.md
+> "time. It's like, it's just so stupid. It's literally so stupid. It's actually like, you could just make hella money, profit max hella hard, cash flow max hella hard, live like a relatively chill lifestyle, like do whatever the you want, invest to like hella" — sources/S_ig_daniel.jf1_DZafxeqtkzc.md
+> "max hella hard, live like a relatively chill lifestyle, like do whatever the you want, invest to like hella excess of that cash flow into the S&P 500 and just like become rich really slow and for sure. Stop trying to like make your business like a lottery" — sources/S_ig_daniel.jf1_DZafxeqtkzc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'hella' is loaded by daniel.jf1 with a specific working meaning (visible in the collocation with 'relatively'), not the dictionary sense.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'hella' as a working label in one specific argument (visible in the collocation with 'relatively'), not as a slogan the reader is meant to repeat.

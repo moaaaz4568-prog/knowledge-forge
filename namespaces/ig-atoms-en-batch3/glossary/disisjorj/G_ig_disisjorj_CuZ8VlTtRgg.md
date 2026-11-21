@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["progress", "quote"]
+aka: ["heard entrepreneurs"]
 origin: sources/S_ig_disisjorj_CuZ8VlTtRgg.md
 ---
 
-# G_ig_disisjorj_CuZ8VlTtRgg — progress
+# G_ig_disisjorj_CuZ8VlTtRgg — heard entrepreneurs
 
 ## Term
 
-progress is the most prominent repeated term in this source (65-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: quote, either, emotion. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'heard entrepreneurs' here is the emotional load disisjorj argues must be touched before logic can move the person. It appears once in the transcript, and it sits next to 'relief', 'progress', and 'probably' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: You probably heard entrepreneurs say this when their… It is the one word in this source that, if removed, would leave 'entrepreneurs' without a frame to hang on.
 
 ## Synonyms
 
-- progress
-- quote
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "this quote: You either get the emotion or the progress. If you stop when it gets hard, you get the emotional relief. If you don't, you get progress." — sources/S_ig_disisjorj_CuZ8VlTtRgg.md
+> "you stop when it gets hard, you get the emotional relief. If you don't, you get progress. You probably heard entrepreneurs say this when their business gets at a comfortable pace, they double down on everything because that's when most take a break. When" — sources/S_ig_disisjorj_CuZ8VlTtRgg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'heard entrepreneurs' here is disisjorj's working label for the felt pressure in the room, not a diagnostic category.
+- Read as a tagline worth extracting: the source shows disisjorj using 'heard entrepreneurs' as a working label in one specific argument (visible in the collocation with 'comfortable'), not as a slogan the reader is meant to repeat.

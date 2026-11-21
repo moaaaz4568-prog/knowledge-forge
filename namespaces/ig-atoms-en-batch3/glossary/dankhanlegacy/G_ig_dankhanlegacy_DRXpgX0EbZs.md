@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["funnel", "plus"]
+aka: ["funnel"]
 origin: sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
 
 ## Term
 
-funnel is the most prominent repeated term in this source (169-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: plus, methods, type. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'funnel' in this clip is the lever that converts effort into reach — dankhanlegacy insists the value sits in the doing, not the perfecting. It appears 4 times, it sits next to 'plus', 'months', and 'application' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: If you need cash this week, not in… The clip is engineered so that 'systems' lands as setup, not payoff; the payoff is the move 'funnel' names.
 
 ## Synonyms
 
-- funnel
-- plus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you need cash this week, not in three months, not in six months, but right now, only one type of funnel will work. It's application funnel plus manual sales call. Here's why. Your time to first sale is fast. You can book a call today and close a deal tomorrow. No waiting for ads to optimize, no waiting for webinar funnel to convert." — sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
-> "Your time to first sale is critical when you're broke. So I've scored all six methods and all funnel methods on this exact metric plus four others in my masterclass. Want the full breakdown?" — sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
+> "If you need cash this week, not in three months, not in six months, but right now, only one type of funnel will work. It's application funnel plus manual sales call. Here's why. Your time to first sale is fast. You can book a call today and close a deal" — sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
+> "move. Your time to first sale is critical when you're broke. So I've scored all six methods and all funnel methods on this exact metric plus four others in my masterclass. Want the full breakdown? Comment the word free and I'll send it over to you" — sources/S_ig_dankhanlegacy_DRXpgX0EbZs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'funnel' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a claim about how dankhanlegacy uses 'funnel' across their work: this single 169-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

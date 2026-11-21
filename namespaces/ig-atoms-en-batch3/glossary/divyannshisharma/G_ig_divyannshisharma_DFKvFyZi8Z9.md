@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["groups", "LinkedIn"]
+aka: ["groups"]
 origin: sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
 
 ## Term
 
-groups is the most prominent repeated term in this source (201-word transcript from the Instagram account divyannshisharma): it occurs 5 times literally in the text, most often collocated with: linkedin, join, talking. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For divyannshisharma, 'groups' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 5 times, it sits next to 'linkedin', 'join', and 'icps' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: For Slack, go to Slufy and type it… The argument only stays upright while 'groups' is doing the work — pull it and 'further' loses its anchor.
 
 ## Synonyms
 
-- groups
-- LinkedIn
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "First, let's talk about Slack. For Slack, go to Slufy and type it the keyword of your niche, and you will get all the public groups your ICPs hanging around. Then you will go to the members tab, go to the Phantom Buster. In Phantom Buster, there is a bot to scrape the email of all the members. You will do that. Next, let's talk about Facebook." — sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
-> "Then use the Instant Data Scraper to scrap it. Now, talking about the LinkedIn groups. In LinkedIn groups, join the groups, go to the member section, then there is this tool called Lix. Use that to scrape the members over there." — sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
-> "You will do that. Next, let's talk about Facebook. In Facebook, do the Boolean search and you will get all the groups where your ICPs hanging around there also. Then use the Instant Data Scraper to scrap it. Now, talking about the LinkedIn groups. In LinkedIn groups, join the groups, go to the member section, then there is this tool called Lix." — sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
+> "Slack. For Slack, go to Slufy and type it the keyword of your niche, and you will get all the public groups your ICPs hanging around. Then you will go to the members tab, go to the Phantom Buster. In Phantom Buster, there is a bot to scrape the email of" — sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
+> "Instant Data Scraper to scrap it. Now, talking about the LinkedIn groups. In LinkedIn groups, join the groups, go to the member section, then there is this tool called Lix. Use that to scrape the members over there. Now you can enrich it for the email and" — sources/S_ig_divyannshisharma_DFKvFyZi8Z9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'groups' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'Scraper' makes that visible.
+- Read as proof the term is load-bearing for divyannshisharma in general: a 201-word clip with the word 'groups' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["friends", "WhatsApp"]
+aka: ["whatsapp group"]
 origin: sources/S_ig_geoff_ketterer_DYpbiMnClak.md
 ---
 
-# G_ig_geoff_ketterer_DYpbiMnClak — friends
+# G_ig_geoff_ketterer_DYpbiMnClak — whatsapp group
 
 ## Term
 
-friends is the most prominent repeated term in this source (27-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: whatsapp, group, contents. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'whatsapp group' in this clip is the lever that converts effort into reach — geoff_ketterer insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'friends' and 'contents' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: If you don't have a WhatsApp group with… 'whatsapp group' is what the rest of the clip is trying to justify — even 'contents' reads as evidence for it.
 
 ## Synonyms
 
-- friends
-- WhatsApp
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you don't have a WhatsApp group with your friends in it, the contents of which would probably land you in prison, you don't have any" — sources/S_ig_geoff_ketterer_DYpbiMnClak.md
+> "If you don't have a WhatsApp group with your friends in it, the contents of which would probably land you in prison, you don't have any friends" — sources/S_ig_geoff_ketterer_DYpbiMnClak.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'whatsapp group' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a rule for using 'whatsapp group': the clip shows geoff_ketterer using the word in one specific move (alongside 'group'), not a recommendation that the reader adopt the word themselves.

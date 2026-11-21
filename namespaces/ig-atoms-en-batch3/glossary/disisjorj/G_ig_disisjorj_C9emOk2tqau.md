@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Artlist", "voice"]
+aka: ["artlist"]
 origin: sources/S_ig_disisjorj_C9emOk2tqau.md
 ---
 
-# G_ig_disisjorj_C9emOk2tqau — Artlist
+# G_ig_disisjorj_C9emOk2tqau — artlist
 
 ## Term
 
-Artlist is the most prominent repeated term in this source (111-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: voice, artists, exclusive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'artlist' is the visual or structural choice disisjorj says is the actual carrier of meaning in the piece. It appears 3 times, it sits next to 'let's', 'face', and 'equal' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Artlist is the first creative asset platform to… 'artlist' is what the rest of the clip is trying to justify — even 'hundreds' reads as evidence for it.
 
 ## Synonyms
 
-- Artlist
-- voice
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But let's face it, not all are made equal. Artlist is the first creative asset platform to offer a voiceover generator built especially for video creators. You can now generate narrations for your videos with voice artists exclusive to Artlist." — sources/S_ig_disisjorj_C9emOk2tqau.md
-> "sound effects, footage, and now a catalog of over 25 high-quality voiceover generators fitting right into your workflow. Head over to artlist.io and check it" — sources/S_ig_disisjorj_C9emOk2tqau.md
+> "point helping creators share their stories through video. But let's face it, not all are made equal. Artlist is the first creative asset platform to offer a voiceover generator built especially for video creators. You can now generate narrations for your" — sources/S_ig_disisjorj_C9emOk2tqau.md
+> "catalog of over 25 high-quality voiceover generators fitting right into your workflow. Head over to artlist.io and check it out" — sources/S_ig_disisjorj_C9emOk2tqau.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in disisjorj's usage, 'artlist' is a specific design move, not a category of design choices.
+- Read as a clean transcript: the wording around 'artlist' (including the run-on near 'check') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

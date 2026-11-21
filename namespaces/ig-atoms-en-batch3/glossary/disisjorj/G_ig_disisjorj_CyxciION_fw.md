@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["dirty tap", "switch"]
+aka: ["consistently trying"]
 origin: sources/S_ig_disisjorj_CyxciION_fw.md
 ---
 
-# G_ig_disisjorj_CyxciION_fw — dirty tap
+# G_ig_disisjorj_CyxciION_fw — consistently trying
 
 ## Term
 
-dirty tap is the most prominent repeated term in this source (130-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: switch, flow, shit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'consistently trying' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'flowing', 'better', and 'improve' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: You will only get better through consistently trying… Cut 'consistently trying' and the clip's aboutness shifts from a claim to a description of Sheeran and requires.
 
 ## Synonyms
 
-- dirty tap
-- switch
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "what Ed Sheeran can teach you about content. You view it as a dirty tap. When you switch a dirty tap on, it's gonna flow shit water out for a substantial amount of time, and then clean water is gonna start flowing. You will only get better through consistently trying to improve what you're capable of." — sources/S_ig_disisjorj_CyxciION_fw.md
+> "substantial amount of time, and then clean water is gonna start flowing. You will only get better through consistently trying to improve what you're capable of. There's no way around it. Just like songwriting, you need to start posting no matter how bad you" — sources/S_ig_disisjorj_CyxciION_fw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'consistently trying' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'consistently trying' next to 'check') may not be load-bearing in disisjorj's wider body of work.

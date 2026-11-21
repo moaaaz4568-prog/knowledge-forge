@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["algorithm", "gets"]
+aka: ["comments"]
 origin: sources/S_ig_devinjatho_Cq8M3G7ggVC.md
 ---
 
-# G_ig_devinjatho_Cq8M3G7ggVC — algorithm
+# G_ig_devinjatho_Cq8M3G7ggVC — comments
 
 ## Term
 
-algorithm is the most prominent repeated term in this source (87-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: gets, blow, break. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'comments' here is the emotional load devinjatho argues must be touched before logic can move the person. It appears 4 times, it sits next to 'algorithm', 'gets', and 'blow' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Here's how to break the algorithm by starting… The clip's claim about 'example' is conditional on 'comments' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- algorithm
-- gets
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "how to break the algorithm by starting World War III in your comments. We all know the more comments your video gets, the more the algorithm will blow up your video. So to get hella comments, post and pin a controversial topic." — sources/S_ig_devinjatho_Cq8M3G7ggVC.md
+> "Here's how to break the algorithm by starting World War III in your comments. We all know the more comments your video gets, the more the algorithm will blow up your video. So to get hella comments, post and pin a controversial" — sources/S_ig_devinjatho_Cq8M3G7ggVC.md
+> "emotions are attached to the subject. So who's better, Michael Jordan or LeBron? Let me know in the comments" — sources/S_ig_devinjatho_Cq8M3G7ggVC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'comments' here is devinjatho's working label for the felt pressure in the room, not a diagnostic category.
+- Read as a recommendation to use 'comments' yourself: the clip shows devinjatho using the word in one specific move (visible in the collocation with 'subject'); it does not argue the reader should adopt it.

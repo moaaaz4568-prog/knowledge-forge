@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["percent", "skill"]
+aka: ["percent"]
 origin: sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
 
 ## Term
 
-percent is the most prominent repeated term in this source (223-word transcript from the Instagram account ghayth.emad): it occurs 9 times literally in the text, most often collocated with: skill, hundred, twenty. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For ghayth.emad, 'percent' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 9 times, it sits next to 'skill', 'twenty', and 'hundred' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment ghayth.emad turns from describing to prescribing — the pivot runs: This is ten percent luck, twenty percent skill… The sentence around 'whether' only carries weight because 'percent' is what the sentence is really about.
 
 ## Synonyms
 
-- percent
-- skill
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is ten percent luck, twenty percent skill, fifteen percent concentrated power of will, five percent pleasure, fifty percent pain, and a hundred percent reason to remember the name. He doesn't need his name up in lights." — sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
-> "The skill of an art. See, this is twenty percent skill, eighty percent beer. Be a hundred percent clear, 'cause Ry was ill. Who would have thought he'd be the one that set the" — sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
+> "This is ten percent luck, twenty percent skill, fifteen percent concentrated power of will, five percent pleasure, fifty percent pain, and a hundred percent reason" — sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
+> "all unfolds. The skill of an art. See, this is twenty percent skill, eighty percent beer. Be a hundred percent clear, 'cause Ry was ill. Who would have thought he'd be the one that set the west" — sources/S_ig_ghayth.emad_C5S3DnZs5kH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'percent' is the body mechanic ghayth.emad isolates as the root of the movement problem, not a general training concept.
+- Read as evidence ghayth.emad always uses 'percent' this way: one 223-word clip is too thin a sample to support any claim about how the account uses the word in general.

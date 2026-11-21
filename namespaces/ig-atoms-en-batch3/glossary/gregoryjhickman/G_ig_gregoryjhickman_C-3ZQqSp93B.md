@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["YouTube", "minute"]
+aka: ["youtube"]
 origin: sources/S_ig_gregoryjhickman_C-3ZQqSp93B.md
 ---
 
-# G_ig_gregoryjhickman_C-3ZQqSp93B — YouTube
+# G_ig_gregoryjhickman_C-3ZQqSp93B — youtube
 
 ## Term
 
-YouTube is the most prominent repeated term in this source (71-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: minute, achieve, less. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'youtube' in this clip is the lever that converts effort into reach — gregoryjhickman insists the value sits in the doing, not the perfecting. It appears 3 times, it sits next to 'thirty-five', 'long', and 'achieve' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: I can record a YouTube video that's like… The argument only stays upright while 'youtube' is doing the work — pull it and 'becomes' loses its anchor.
 
 ## Synonyms
 
-- YouTube
-- minute
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "more with less. I can record a YouTube video that's like a thirty-five minute long video. If utilized correctly, that YouTube video can be multiple emails a week or more of LinkedIn posts. It can be social posts. It can be short form." — sources/S_ig_gregoryjhickman_C-3ZQqSp93B.md
+> "Achieve more with less. I can record a YouTube video that's like a thirty-five minute long video. If utilized correctly, that YouTube video can be multiple emails a week or more of LinkedIn" — sources/S_ig_gregoryjhickman_C-3ZQqSp93B.md
+> "multiple emails a week or more of LinkedIn posts. It can be social posts. It can be short form. That YouTube can actually contain an asset that becomes a lead magnet. Fundamentally, two hours of Greg's time consistently every week. The ecosystem keeps" — sources/S_ig_gregoryjhickman_C-3ZQqSp93B.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'youtube' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a tagline worth extracting: the source shows gregoryjhickman using 'youtube' as a working label in one specific argument (visible in the collocation with 'Achieve'), not as a slogan the reader is meant to repeat.

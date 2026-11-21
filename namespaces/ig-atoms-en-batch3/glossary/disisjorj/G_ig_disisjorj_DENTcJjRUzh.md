@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["creating", "hundred"]
+aka: ["ten percent"]
 origin: sources/S_ig_disisjorj_DENTcJjRUzh.md
 ---
 
-# G_ig_disisjorj_DENTcJjRUzh — creating
+# G_ig_disisjorj_DENTcJjRUzh — ten percent
 
 ## Term
 
-This source is very short (36 words), so no term repeats enough for a frequency-based entry; creating is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'ten percent' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'hundred' and 'creating' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Out of a hundred people who want to… The clip's relationship to 'percent' only makes sense as a vehicle for delivering 'ten percent'.
 
 ## Synonyms
 
-- creating
-- hundred
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of a hundred people who want to start creating content, only ten percent will do, and out of those ten, only one will see it through." — sources/S_ig_disisjorj_DENTcJjRUzh.md
+> "Out of a hundred people who want to start creating content, only ten percent will do, and out of those ten, only one will see it through. So might as well make that one be you" — sources/S_ig_disisjorj_DENTcJjRUzh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'ten percent' here is the public-facing act, distinct from the private work of creating.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'ten percent' next to 'percent') may not be load-bearing in disisjorj's wider body of work.

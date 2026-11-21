@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["number", "Reason"]
+aka: ["calls", "call"]
 origin: sources/S_ig_geoff_ketterer_DTiFTF5jB_P.md
 ---
 
-# G_ig_geoff_ketterer_DTiFTF5jB_P — number
+# G_ig_geoff_ketterer_DTiFTF5jB_P — calls
 
 ## Term
 
-number is the most prominent repeated term in this source (194-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: reason, running, major. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'calls' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 4 times, it sits next to 'asked', 'well', and 'record' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: One of the questions that I asked is… The clip's relationship to 'problem' only makes sense as a vehicle for delivering 'calls'.
 
 ## Synonyms
 
-- number
-- Reason
+- call
 
 ## Live Example
 
-> "So I asked him why, and his response was. Because the closer doesn't want to record the call. And this is a major problem for a number of reasons. Reason number one, who's running your business, you or your closer?" — sources/S_ig_geoff_ketterer_DTiFTF5jB_P.md
-> "any sort and somebody wants to take you to court, standing in the dark and saying, well, we don't record our calls is no form of defense. Number three, how the hell are you ever going to be able to teach and train a closer if you're not helping them review their calls to improve?" — sources/S_ig_geoff_ketterer_DTiFTF5jB_P.md
+> "systems, that kind of stuff. One of the questions that I asked is, well, when you're diagnosing his calls, doing call reviews, that sort of stuff, what do you think the problem is? And do you know what he said? We don't record the calls. So I asked him" — sources/S_ig_geoff_ketterer_DTiFTF5jB_P.md
+> "hell are you ever going to be able to teach and train a closer if you're not helping them review their calls to improve? I give up" — sources/S_ig_geoff_ketterer_DTiFTF5jB_P.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'calls' is geoff_ketterer's coaching cue for a felt position, not a clinical label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'calls' next to 'diagnosing') may not be load-bearing in geoff_ketterer's wider body of work.

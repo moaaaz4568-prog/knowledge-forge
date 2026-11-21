@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankndripwear
-aka: ["fight", "feeling"]
+aka: ["fight"]
 origin: sources/S_ig_dankndripwear_DX6upwLM6ge.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_dankndripwear_DX6upwLM6ge.md
 
 ## Term
 
-fight is the most prominent repeated term in this source (9-word transcript from the Instagram account dankndripwear): it occurs 2 times literally in the text, most often collocated with: feeling. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'fight' is what dankndripwear names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears twice — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment dankndripwear turns from describing to prescribing — the pivot runs: I can't fight this feeling… This is the word the clip is built to deliver; 'clip' is texture around it, not the point.
 
 ## Synonyms
 
-- fight
-- feeling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can't fight this feeling. I can't fight it." — sources/S_ig_dankndripwear_DX6upwLM6ge.md
+> "I can't fight this feeling. I can't fight it" — sources/S_ig_dankndripwear_DX6upwLM6ge.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'fight' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as proof the term is load-bearing for dankndripwear in general: a 9-word clip with the word 'fight' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

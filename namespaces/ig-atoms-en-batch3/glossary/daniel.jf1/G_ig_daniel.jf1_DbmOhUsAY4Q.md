@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["wall", "hiring"]
+aka: ["wall", "walls"]
 origin: sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
 
 ## Term
 
-wall is the most prominent repeated term in this source (156-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: hiring, past, thirty. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'wall' names the distinction daniel.jf1 draws in this clip — the line that separates what works from what only feels like it works. It appears 6 times, it sits next to 'always', 'thirty', and 'forty' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It's a really hard wall… What makes the word 'wall' the term here is that the rest — 'acquired', 'important', everything else — is staged for it.
 
 ## Synonyms
 
-- wall
-- hiring
+- walls
 
 ## Live Example
 
-> "Why? Because if you can't, it always happens between like thirty and forty. It's a really hard wall. You always have walls and like there's a wall behind thirty and forty. It's always hiring people is what it is. And like fulfillment and that's always what it is." — sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
-> "The skill that must be acquired at that level is systems and fulfillment and operations and hiring people. That is what that wall is. If you always give up on some or you make another offer, you're just gonna run. Wow, you're gonna run into the same wall with that one." — sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
-> "Wow, you're gonna run into the same wall with that one. It's like the most important wall to get" — sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
+> "month. Why? Because if you can't, it always happens between like thirty and forty. It's a really hard wall. You always have walls and like there's a wall behind thirty and forty. It's always hiring people is what it is. And like fulfillment and that's always" — sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
+> "just gonna run. Wow, you're gonna run into the same wall with that one. It's like the most important wall to get past" — sources/S_ig_daniel.jf1_DbmOhUsAY4Q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'wall' here is pinned to one specific claim in this clip, and the same word in another source from daniel.jf1 may carry a different load.
+- Read as a clean transcript: the wording around 'wall' (including the run-on near 'acquired') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

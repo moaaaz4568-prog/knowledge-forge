@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["business", "customers"]
+aka: ["single-handedly changed"]
 origin: sources/S_ig_disisjorj_DIjTDnBI3Wg.md
 ---
 
-# G_ig_disisjorj_DIjTDnBI3Wg — business
+# G_ig_disisjorj_DIjTDnBI3Wg — single-handedly changed
 
 ## Term
 
-business is the most prominent repeated term in this source (177-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: customers, knowing, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'single-handedly changed' in this clip is the lever that converts effort into reach — disisjorj insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'past', 'weeks', and 'obsessing' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I've spent the past two weeks obsessing over… The argument only stays upright while 'single-handedly changed' is doing the work — pull it and 'campaigns' loses its anchor.
 
 ## Synonyms
 
-- business
-- customers
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "spent the past two weeks obsessing over one single metric that has single-handedly changed my entire approach to scaling my business through Instagram. If you were to ask me a year ago how I was planning to make six figures through Instagram, I would have told you four big product launches, email campaigns, sequences, content, and stories to get people to my product." — sources/S_ig_disisjorj_DIjTDnBI3Wg.md
-> "In the span of 84 days, I've been able to add 72 new customers to my business. Not leads, customers. All because of automations, content, and knowing how to make Instagram work for my business, not the other way" — sources/S_ig_disisjorj_DIjTDnBI3Wg.md
-> "Most people obsess over likes and views for each video they post, but if you're running an actual business, you don't care about any of that. What you genuinely care about is leads or even better, past customers." — sources/S_ig_disisjorj_DIjTDnBI3Wg.md
+> "I've spent the past two weeks obsessing over one single metric that has single-handedly changed my entire approach to scaling my business through Instagram. If you were to ask me a year ago how I was planning to make six figures" — sources/S_ig_disisjorj_DIjTDnBI3Wg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'single-handedly changed' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term is load-bearing for disisjorj in general: a 177-word clip with the word 'single-handedly changed' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

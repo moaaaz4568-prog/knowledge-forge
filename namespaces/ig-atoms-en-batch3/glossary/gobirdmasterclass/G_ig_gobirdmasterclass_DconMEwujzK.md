@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["Try", "GPT"]
+aka: ["try"]
 origin: sources/S_ig_gobirdmasterclass_DconMEwujzK.md
 ---
 
-# G_ig_gobirdmasterclass_DconMEwujzK — Try
+# G_ig_gobirdmasterclass_DconMEwujzK — try
 
 ## Term
 
-Try is the most prominent repeated term in this source (37-word transcript from the Instagram account gobirdmasterclass): it occurs 4 times literally in the text, most often collocated with: gpt, type, chat. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'try' names the distinction gobirdmasterclass draws in this clip — the line that separates what works from what only feels like it works. It appears 4 times, it sits next to 'chat', 'comment', and 'send' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Try to type this in Chat GPT and… The reel earns its keep only because 'try' is doing the lifting; 'Comment' alone would be filler.
 
 ## Synonyms
 
-- Try
-- GPT
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Try to type this in Chat GPT and this is what you get. Now try this. You get this. Try this, you get this. Try this, you get this." — sources/S_ig_gobirdmasterclass_DconMEwujzK.md
+> "Try to type this in Chat GPT and this is what you get. Now try this. You get this. Try this, you get this. Try this, you get this. Comment GPT, I'll send" — sources/S_ig_gobirdmasterclass_DconMEwujzK.md
+> "type this in Chat GPT and this is what you get. Now try this. You get this. Try this, you get this. Try this, you get this. Comment GPT, I'll send you the full guide" — sources/S_ig_gobirdmasterclass_DconMEwujzK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'try' as a working label for an idea gobirdmasterclass is arguing, not as a tagline to be repeated.
+- Read as evidence gobirdmasterclass always uses 'try' this way: one 37-word clip is too thin a sample to support any claim about how the account uses the word in general.

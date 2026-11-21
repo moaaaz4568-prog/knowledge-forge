@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["dollars", "thousand"]
+aka: ["offer"]
 origin: sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
 ---
 
-# G_ig_daniel.jf1_DZJDLNcKA9- — dollars
+# G_ig_daniel.jf1_DZJDLNcKA9- — offer
 
 ## Term
 
-dollars is the most prominent repeated term in this source (290-word transcript from the Instagram account daniel.jf1): it occurs 7 times literally in the text, most often collocated with: thousand, hundred, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'offer' is what daniel.jf1 argues a person must already be before any external change can hold. It appears 6 times, it sits next to 'cold', 'email', and 'done' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: We spent like three million dollars on ads… Without 'offer', the reel is just a clip about quarterly; with it, the clip is a claim.
 
 ## Synonyms
 
-- dollars
-- thousand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "spent like three million dollars on ads to a done for you cold email setup slash done for you cold email management offer over at ListKit. Made like thirteen million dollars with that offer. But it's just like it's super low ticket." — sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
-> "But then we started a done for you cold calling offer. And the price to do that is six thousand dollars a month, or you could pay quarterly with a ten percent discount." — sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
-> "That's like what it is at scale when we spend like six thousand or eight thousand dollars a day on ads. Now the cost to acquire customer on the cold calling offer where we're charging six thousand a month, nine thousand a month, and like successfully selling people at that is the same CAC as the cheap cold email offer." — sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
+> "three million dollars on ads to a done for you cold email setup slash done for you cold email management offer over at ListKit. Made like thirteen million dollars with that offer. But it's just like it's super low ticket. Like we're selling like monthly packages" — sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
+> "thousand a month, and like successfully selling people at that is the same CAC as the cheap cold email offer. So it's like you gotta imagine what's happening. We're going from like a one point oh to one point three x cash ROAS to like a two point five x" — sources/S_ig_daniel.jf1_DZJDLNcKA9-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'offer' here is the specific frame daniel.jf1 argues from, not a generic motivational label.
+- Read as a claim about how daniel.jf1 uses 'offer' across their work: this single 290-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

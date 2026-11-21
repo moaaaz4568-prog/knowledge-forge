@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["agents", "cold"]
+aka: ["agents"]
 origin: sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
 
 ## Term
 
-agents is the most prominent repeated term in this source (89-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: cold, email, ai. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In divyannshisharma's reel, 'agents' is the move divyannshisharma says the person must make before the prospect will commit. It appears 4 times, it sits next to 'cold', 'email', and 'templates' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: It has found eleven plus cold email AI… It is the one word in this source that, if removed, would leave 'percent' without a frame to hang on.
 
 ## Synonyms
 
-- agents
-- cold
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "has found eleven plus cold email AI agents to sign your next dollar ten K client. So even if you have zero percent reply rate, these agents will still help you. So what you will do, you will go to Smartly." — sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
-> "So what you will do, you will go to Smartly. Then what you are going to do, you are just going to click on Smart Agents and then go to templates and you will find so many AI agents that are related to cold email, multi-channel outreach, comment email, and I will send you the whole" — sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
+> "It has found eleven plus cold email AI agents to sign your next dollar ten K client. So even if you have zero percent reply rate, these agents will still help you. So what you will do, you will" — sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
+> "do, you are just going to click on Smart Agents and then go to templates and you will find so many AI agents that are related to cold email, multi-channel outreach, comment email, and I will send you the whole workflow" — sources/S_ig_divyannshisharma_DUs5NYnkuAh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'agents' here is loaded with a specific working meaning by divyannshisharma, not a buzzword.
+- Read as a recommendation to use 'agents' yourself: the clip shows divyannshisharma using the word in one specific move (visible in the collocation with 'workflow'); it does not argue the reader should adopt it.

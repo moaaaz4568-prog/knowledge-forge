@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["friends", "hand"]
+aka: ["strong crowd"]
 origin: sources/S_ig_gregoryjhickman_BCdQgNASdYh.md
 ---
 
-# G_ig_gregoryjhickman_BCdQgNASdYh — friends
+# G_ig_gregoryjhickman_BCdQgNASdYh — strong crowd
 
 ## Term
 
-This source is very short (33 words), so no term repeats enough for a frequency-based entry; friends is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'strong crowd' in this source is the working idea gregoryjhickman argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'icon', 'sure', and 'hand' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I'm sure it's a strong crowd… Every other word in the source, including 'friends', is in service to the move 'strong crowd' names.
 
 ## Synonyms
 
-- friends
-- hand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm sure it's a strong crowd. Can we have a hand for our first timers, please, my friends" — sources/S_ig_gregoryjhickman_BCdQgNASdYh.md
+> "Raise your hands if you've never been to Icon and this is your first time. I'm sure it's a strong crowd. Can we have a hand for our first timers, please, my friends" — sources/S_ig_gregoryjhickman_BCdQgNASdYh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'strong crowd' here is pinned to one specific claim in this clip, and the same word in another source from gregoryjhickman may carry a different load.
+- Read as a claim about how gregoryjhickman uses 'strong crowd' across their work: this single 33-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

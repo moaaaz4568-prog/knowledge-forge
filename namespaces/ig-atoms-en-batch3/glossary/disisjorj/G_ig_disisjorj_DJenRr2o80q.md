@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["feeling", "fire"]
+aka: ["fire"]
 origin: sources/S_ig_disisjorj_DJenRr2o80q.md
 ---
 
-# G_ig_disisjorj_DJenRr2o80q — feeling
+# G_ig_disisjorj_DJenRr2o80q — fire
 
 ## Term
 
-feeling is the most prominent repeated term in this source (13-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: fire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'fire' is the felt pressure disisjorj locates underneath the stated problem. It appears once in the transcript — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Feeling, you got me feeling like I'm on… Cut 'fire' and the clip's aboutness shifts from a claim to a description of clip and the rest.
 
 ## Synonyms
 
-- feeling
-- fire
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Feeling, you got me feeling like I'm on fire. You got me" — sources/S_ig_disisjorj_DJenRr2o80q.md
+> "Feeling, you got me feeling like I'm on fire. You got me feeling" — sources/S_ig_disisjorj_DJenRr2o80q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'fire' to a specific kind of felt weight (the kind that surfaces around 'the clip'), not to feeling in general.
+- Read as a clean transcript: the wording around 'fire' (including the run-on near 'the clip') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

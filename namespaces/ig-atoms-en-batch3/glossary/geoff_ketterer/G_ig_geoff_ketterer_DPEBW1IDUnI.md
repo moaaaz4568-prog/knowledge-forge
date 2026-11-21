@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["spell", "lost"]
+aka: ["geoff_ketterer"]
 origin: sources/S_ig_geoff_ketterer_DPEBW1IDUnI.md
 ---
 
-# G_ig_geoff_ketterer_DPEBW1IDUnI — spell
+# G_ig_geoff_ketterer_DPEBW1IDUnI — Looks like we're making up for lost time. Need you to spell.
 
 ## Term
 
-This source is very short (12 words), so no term repeats enough for a frequency-based entry; spell is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 12-word short caption from geoff_ketterer — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Looks like we're making up for lost time. Need you to spell.".
 
 ## Synonyms
 
-- spell
-- lost
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "like we're making up for lost time. Need you to spell" — sources/S_ig_geoff_ketterer_DPEBW1IDUnI.md
+> "Looks like we're making up for lost time. Need you to spell" — sources/S_ig_geoff_ketterer_DPEBW1IDUnI.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'spell') is what carries the mood, not a label being defined.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

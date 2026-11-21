@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["work", "success"]
+aka: ["completely wrong"]
 origin: sources/S_ig_daniel.jf1_Dbb7a4okvJO.md
 ---
 
-# G_ig_daniel.jf1_Dbb7a4okvJO — work
+# G_ig_daniel.jf1_Dbb7a4okvJO — completely wrong
 
 ## Term
 
-work is the most prominent repeated term in this source (109-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: success, tolerate, promise. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'completely wrong' is the mindset daniel.jf1 insists comes before any technique — the thing without which the rest of the advice does not land. It appears once in the transcript, and it sits next to 'agree', 'minimum', and 'amount' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: I think that's completely wrong… Cut 'completely wrong' and the clip's aboutness shifts from a claim to a description of achieve and amount.
 
 ## Synonyms
 
-- work
-- success
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "idea that you should just work all the time, I just don't agree with that. I think that's completely wrong. I think you should work the minimum amount that is necessary to achieve the maximum amount of success you can tolerate." — sources/S_ig_daniel.jf1_Dbb7a4okvJO.md
-> "And you can just like start your own business and make like 20, 30, 40, 50 grand a month profit and work like 20 hours a week. You can just do" — sources/S_ig_daniel.jf1_Dbb7a4okvJO.md
+> "The idea that you should just work all the time, I just don't agree with that. I think that's completely wrong. I think you should work the minimum amount that is necessary to achieve the maximum amount of success you can tolerate. If I need to" — sources/S_ig_daniel.jf1_Dbb7a4okvJO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'completely wrong' is a stance daniel.jf1 says a person must adopt before action, not a feeling they happen to have.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'completely wrong' next to 'success') may not be load-bearing in daniel.jf1's wider body of work.

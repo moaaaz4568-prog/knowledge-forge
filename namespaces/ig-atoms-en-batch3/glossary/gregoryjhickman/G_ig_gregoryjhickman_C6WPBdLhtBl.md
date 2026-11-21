@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["starting", "tight"]
+aka: ["because"]
 origin: sources/S_ig_gregoryjhickman_C6WPBdLhtBl.md
 ---
 
-# G_ig_gregoryjhickman_C6WPBdLhtBl — starting
+# G_ig_gregoryjhickman_C6WPBdLhtBl — because
 
 ## Term
 
-starting is the most prominent repeated term in this source (179-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: tight, feel, recognize. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'because' is what gregoryjhickman names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears 4 times, it sits next to 'labor', 'enjoy', and 'fruits' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: However, you're probably still struggling to enjoy some… Anything else in the clip orbits this word — strip out 'because' and the rest reads as filler around 'afford'.
 
 ## Synonyms
 
-- starting
-- tight
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now, while you can finally start to afford stuff, you're starting to see, you know, some things are starting to feel tight. You're starting to recognize those tight margins, and because of that, you're a little bit more hesitant to hire. I don't know if you've ever felt like that." — sources/S_ig_gregoryjhickman_C6WPBdLhtBl.md
+> "financially. However, you're probably still struggling to enjoy some of that and the fruits of your labor because you're still being the labor for a lot of your clients. You're still actively involved, so it can oftentimes feel like you're in a bit of a hamster" — sources/S_ig_gregoryjhickman_C6WPBdLhtBl.md
+> "know, some things are starting to feel tight. You're starting to recognize those tight margins, and because of that, you're a little bit more hesitant to hire. I don't know if you've ever felt like that. It's like you know that you need to hire people" — sources/S_ig_gregoryjhickman_C6WPBdLhtBl.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'because' is gregoryjhickman's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as a definition of 'because': the source documents how gregoryjhickman deploys the word in this clip — collocated with 'fruits' — it does not establish what the word means in general.

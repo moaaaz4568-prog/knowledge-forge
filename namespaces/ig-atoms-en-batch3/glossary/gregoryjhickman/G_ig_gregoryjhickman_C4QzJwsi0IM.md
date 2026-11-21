@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["GM", "frankly"]
+aka: ["growth curve"]
 origin: sources/S_ig_gregoryjhickman_C4QzJwsi0IM.md
 ---
 
-# G_ig_gregoryjhickman_C4QzJwsi0IM — GM
+# G_ig_gregoryjhickman_C4QzJwsi0IM — growth curve
 
 ## Term
 
-GM is the most prominent repeated term in this source (161-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: frankly, around, ability. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'growth curve' names the specific advantage gregoryjhickman argues is missing in the person's current setup — the lever they have not yet pulled. It appears twice, it sits next to 'keep', 'exponential', and 'serious' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: So if like if you want to keep… Without 'growth curve', the reel is just a clip about probably; with it, the clip is a claim.
 
 ## Synonyms
 
-- GM
-- frankly
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "very hard to just hire a GM and have your business keep growing without you because there's something about you know a founder around like the ability to take risks." — sources/S_ig_gregoryjhickman_C4QzJwsi0IM.md
-> "So if like if you want to keep on an exponential growth curve or like a serious growth curve like probably not going to get that with a GM if you want to leave complete because frankly like that's not what the GM's for. The GM's really for like running the day to day, making sure train stays on the tracks, all that good stuff which is very important." — sources/S_ig_gregoryjhickman_C4QzJwsi0IM.md
+> "taker and like you do need with risk comes reward. So if like if you want to keep on an exponential growth curve or like a serious growth curve like probably not going to get that with a GM if you want to leave complete because frankly like that's not" — sources/S_ig_gregoryjhickman_C4QzJwsi0IM.md
+> "with risk comes reward. So if like if you want to keep on an exponential growth curve or like a serious growth curve like probably not going to get that with a GM if you want to leave complete because frankly like that's not what the GM's for. The GM's really" — sources/S_ig_gregoryjhickman_C4QzJwsi0IM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'growth curve' is loaded by gregoryjhickman with a specific working meaning (visible in the collocation with 'important'), not the dictionary sense.
+- Read as a tagline worth extracting: the source shows gregoryjhickman using 'growth curve' as a working label in one specific argument (visible in the collocation with 'important'), not as a slogan the reader is meant to repeat.

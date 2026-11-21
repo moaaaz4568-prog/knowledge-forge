@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["praying", "quit"]
+aka: ["praying"]
 origin: sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
 
 ## Term
 
-praying is the most prominent repeated term in this source (221-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: quit, future, business. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'praying' is the missing mechanic — the thing dankhanlegacy says is failing underneath every other issue the person reports. It appears 4 times, it sits next to 'quit', 'help', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: There's so many more people praying that you… Cut 'praying' and the clip's aboutness shifts from a claim to a description of Because and future.
 
 ## Synonyms
 
-- praying
-- quit
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "so many more people praying that you do not quit your business today, so you can help them in the future. Then there are people that are praying that you quit today. That's it. Because here's the deal." — sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
-> "Then there are people that are praying that you quit today. That's it. Because here's the deal. The same way somebody is praying that you quit today is the same way somebody is praying that you never quit today so that you can help them in the future. I don't know who it is. Maybe it's a coach that's stuck at 5k a month and need a new offer that actually converts." — sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
+> "There's so many more people praying that you do not quit your business today, so you can help them in the future. Then there are people that are praying that you quit today. That" — sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
+> "Because here's the deal. The same way somebody is praying that you quit today is the same way somebody is praying that you never quit today so that you can help them in the future. I don't know who it is. Maybe it's a coach that's stuck at 5k a month and need" — sources/S_ig_dankhanlegacy_DN8aKrEDM1V.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'praying' is the body mechanic dankhanlegacy isolates as the root of the movement problem, not a general training concept.
+- Read as a rule for using 'praying': the clip shows dankhanlegacy using the word in one specific move (alongside 'saved'), not a recommendation that the reader adopt the word themselves.

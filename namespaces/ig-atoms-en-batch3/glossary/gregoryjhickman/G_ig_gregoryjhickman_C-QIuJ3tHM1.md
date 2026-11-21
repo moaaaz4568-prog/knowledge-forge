@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["working", "retail"]
+aka: ["curriculum"]
 origin: sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
 ---
 
-# G_ig_gregoryjhickman_C-QIuJ3tHM1 — working
+# G_ig_gregoryjhickman_C-QIuJ3tHM1 — curriculum
 
 ## Term
 
-working is the most prominent repeated term in this source (762-word transcript from the Instagram account gregoryjhickman): it occurs 8 times literally in the text, most often collocated with: retail, collaborate, grow. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'curriculum' names the felt adjustment gregoryjhickman insists is the difference between a rep that builds and a rep that just tires. It appears 7 times, it sits next to 'parts', 'delivery', and 'process' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: It's that, hey, parts of the delivery process… What makes the word 'curriculum' the term here is that the rest — 'collective', 'diamond', everything else — is staged for it.
 
 ## Synonyms
 
-- working
-- retail
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so we wanna make sure that as we're working with our members and as we're working with those that have transacted with us, that we need to probably have certain touch points along the way to make sure that they continue to make progress towards the outcome, towards the deliverable" — sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
-> "And we came together quarterly to share strategies and like, hey, what's working for you? What's working when you think of mobile retail? What's working for you over here?" — sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
-> "component where you and all of your clients come together in some capacity and share ideas, collaborate, share what's working, what's not working, and grow as a collective. This also actually will help you have your clients and members support other of your clients and members, which actually will take some of the load off of you in your own fulfillment." — sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
+> "everything now becomes a course. It's that, hey, parts of the delivery process might lean into coursework or curriculum, and then other parts might be more skewed towards one-on-one implementation. And so depending upon what you deliver, parts of your service" — sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
+> "upon your service and your type of clientele, the way in which you use each of these four ingredients, curriculum, customization, continuity, and community will be unique to you because your deliverables, your transformation, your pathway, the outcomes that" — sources/S_ig_gregoryjhickman_C-QIuJ3tHM1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'curriculum' is the body mechanic gregoryjhickman isolates as the root of the movement problem, not a general training concept.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 762-word clip with the word 'curriculum' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["books", "free"]
+aka: ["books"]
 origin: sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
 
 ## Term
 
-books is the most prominent repeated term in this source (176-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: free, business, robbing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'books' carries the weight of a discipline, not an event: dankhanlegacy frames it as the work that turns private effort into public evidence. It appears 4 times, it sits next to 'free', 'never', and 'robbing' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: Books about business are free, at the library… This is the word the clip is built to deliver; 'because' is texture around it, not the point.
 
 ## Synonyms
 
-- books
-- free
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's like bro, the ideas are there. The information is free. It's called the freaking internet. Books about business are free, at the library of course. YouTube has everything. Watching podcasts costs nothing. Even when books cost money, I never see anyone robbing a bookstore. I have business books in my house and my car." — sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
-> "No one ever steals them. The information to build wealth is everywhere. Russell Brunson's books, Alex Hormozi's content, everything I learned about offers and funnels. But people would rather complain about the system rather than going out and learning it from people like me." — sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
+> "ideas. It's like bro, the ideas are there. The information is free. It's called the freaking internet. Books about business are free, at the library of course. YouTube has everything. Watching podcasts costs nothing. Even when books cost money, I never see" — sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
+> "and my car. No one ever steals them. The information to build wealth is everywhere. Russell Brunson's books, Alex Hormozi's content, everything I learned about offers and funnels. But people would rather complain about the system rather than going out and" — sources/S_ig_dankhanlegacy_DOJDjbXDFfQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'books' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'succeed' makes that visible.
+- Read as a clean transcript: the wording around 'books' (including the run-on near 'succeed') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

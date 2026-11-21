@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["answer", "fluffy"]
+aka: ["challenging question", "challenging questions"]
 origin: sources/S_ig_geoff_ketterer_Dcg62fvi-m5.md
 ---
 
-# G_ig_geoff_ketterer_Dcg62fvi-m5 — answer
+# G_ig_geoff_ketterer_Dcg62fvi-m5 — challenging question
 
 ## Term
 
-answer is the most prominent repeated term in this source (152-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: fluffy, real, internal. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'challenging question' names the body mechanic geoff_ketterer isolates as the root of the movement problem. It appears 3 times, it sits next to 'says', 'answer', and 'real' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: A lot of people struggle with asking these… The clip's relationship to 'permission-based' only makes sense as a vehicle for delivering 'challenging question'.
 
 ## Synonyms
 
-- answer
-- fluffy
+- challenging questions
 
 ## Live Example
 
-> "going to ask you a very challenging question, and I want the real answer, not the fluffy" — sources/S_ig_geoff_ketterer_Dcg62fvi-m5.md
-> "And give me the real answer. I don't want the fluffy answer. I want the internal answer." — sources/S_ig_geoff_ketterer_Dcg62fvi-m5.md
+> "I'm going to ask you a very challenging question, and I want the real answer, not the fluffy answer" — sources/S_ig_geoff_ketterer_Dcg62fvi-m5.md
+> "want the fluffy answer. I want the internal answer. That's the easiest way to be able to ask a really challenging question" — sources/S_ig_geoff_ketterer_Dcg62fvi-m5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'challenging question' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as proof the term is load-bearing for geoff_ketterer in general: a 152-word clip with the word 'challenging question' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

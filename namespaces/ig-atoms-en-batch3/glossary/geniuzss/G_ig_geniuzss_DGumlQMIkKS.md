@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geniuzss
-aka: ["crumble", "heart"]
+aka: ["sky falls"]
 origin: sources/S_ig_geniuzss_DGumlQMIkKS.md
 ---
 
-# G_ig_geniuzss_DGumlQMIkKS — crumble
+# G_ig_geniuzss_DGumlQMIkKS — sky falls
 
 ## Term
 
-This source is very short (23 words), so no term repeats enough for a frequency-based entry; crumble is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'sky falls' is the distinction geniuzss is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'name', 'never', and 'heart' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: If the sky falls and you crumble… The clip's relationship to 'crumble' only makes sense as a vehicle for delivering 'sky falls'.
 
 ## Synonyms
 
-- crumble
-- heart
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can take my number, you can take my name, but you'll never have my heart. If the sky falls and you crumble" — sources/S_ig_geniuzss_DGumlQMIkKS.md
+> "You can take my number, you can take my name, but you'll never have my heart. If the sky falls and you crumble" — sources/S_ig_geniuzss_DGumlQMIkKS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'sky falls' as a working label for an idea geniuzss is arguing, not as a tagline to be repeated.
+- Read as a clean transcript: the wording around 'sky falls' (including the run-on near 'never') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

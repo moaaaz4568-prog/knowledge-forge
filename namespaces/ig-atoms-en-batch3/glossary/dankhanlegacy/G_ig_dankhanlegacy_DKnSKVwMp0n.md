@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["anger", "fake"]
+aka: ["anger"]
 origin: sources/S_ig_dankhanlegacy_DKnSKVwMp0n.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DKnSKVwMp0n.md
 
 ## Term
 
-anger is the most prominent repeated term in this source (204-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: fake, gurus, past. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'anger' is what dankhanlegacy argues a person must already be before any external change can hold. It appears 3 times, it sits next to 'started', 'results', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: But don't confuse obsession with anger… It is the one word in this source that, if removed, would leave 'failures' without a frame to hang on.
 
 ## Synonyms
 
-- anger
-- fake
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Quietly, daily, and do it without feeling sorry. But don't confuse obsession with anger. I tried that. I used to be pissed off at everything. The system, my failures, the fake gurus, my own past. And sure, anger got me started, but it didn't get me results. Because when the anger fades, you're tired, broke, and alone." — sources/S_ig_dankhanlegacy_DKnSKVwMp0n.md
+> "distractions, be obsessed. Quietly, daily, and do it without feeling sorry. But don't confuse obsession with anger. I tried that. I used to be pissed off at everything. The system, my failures, the fake gurus, my own past. And sure, anger got me started, but it" — sources/S_ig_dankhanlegacy_DKnSKVwMp0n.md
+> "fake gurus, my own past. And sure, anger got me started, but it didn't get me results. Because when the anger fades, you're tired, broke, and alone. You need something deeper. That's when discipline steps in. That's when clarity becomes fuel. That's when" — sources/S_ig_dankhanlegacy_DKnSKVwMp0n.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'anger' is a stance dankhanlegacy says a person must adopt before action, not a feeling they happen to have.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 204-word clip with the word 'anger' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

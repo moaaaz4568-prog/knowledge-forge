@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["culture", "high"]
+aka: ["culture"]
 origin: sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
 
 ## Term
 
-culture is the most prominent repeated term in this source (269-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: high, performance, managers. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'culture' names the felt adjustment geoff_ketterer insists is the difference between a rep that builds and a rep that just tires. It appears 4 times, it sits next to 'pressure', 'performance', and 'call' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: If your sales team needs constant pressure to… Read alongside 'turning', the word 'culture' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- culture
-- high
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "your sales team needs constant pressure to perform, then you don't have a high performance culture. What you've got is more like a pressure cooker, and yes, there's a difference." — sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
-> "And the really uncomfortable bit is that when your numbers or your figures take a shit, most managers won't look to even fix the culture. What they do instead is tighten the thumb screws, and they'll implement more meetings and more training and more tracking, which in my experience of managing multiple seven and eight figure sales teams creates less trust and less" — sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
-> "high, keep the numbers visible, but if nobody enjoys being on your team, don't call it high performance. Call it what it is. It's a bad culture with good" — sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
+> "If your sales team needs constant pressure to perform, then you don't have a high performance culture. What you've got is more like a pressure cooker, and yes, there's a difference. A lot of managers wear high standards a bit like a badge of honour" — sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
+> "if nobody enjoys being on your team, don't call it high performance. Call it what it is. It's a bad culture with good spreadsheets" — sources/S_ig_geoff_ketterer_DdllI2hq1Qo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'culture' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a definition of 'culture': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'standards' — it does not establish what the word means in general.

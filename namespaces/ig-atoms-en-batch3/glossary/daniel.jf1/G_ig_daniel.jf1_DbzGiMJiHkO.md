@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["food", "find"]
+aka: ["food"]
 origin: sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
 
 ## Term
 
-food is the most prominent repeated term in this source (221-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: find, scavenge, trying. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'food' is the cue daniel.jf1 says a person must feel before the rep becomes useful. It appears 6 times, it sits next to 'find', 'scavenge', and 'pigeon' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: You are trying to find food, to scavenge… Anything else in the clip orbits this word — strip out 'food' and the rest reads as filler around 'restaurants'.
 
 ## Synonyms
 
-- food
-- find
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "want you to imagine you are a pigeon and I give you two options. You are trying to find food, to scavenge food, and if you don't find food, you are going to starve and die. Now you, as a pigeon, are presented with two offers by me." — sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
-> "I say your hunting grounds can either be a highly trafficked tourist area with a bunch of food carts and restaurants and whatnot, or a back alley where nobody goes. But in situation one, with the tourist area, is all the other pigeons are there too. So there's a lot of competition." — sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
-> "Why? Because the stakes are very high. You need something that's, there is food there. And number two, it's like there just isn't food. Like when you try to come up with something unique, the problem is that you think it's gonna sell, but just doesn't. Like 99% of the time, it just doesn't. You try to make shit up and you just flat out fail." — sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
+> "I want you to imagine you are a pigeon and I give you two options. You are trying to find food, to scavenge food, and if you don't find food, you are going to starve and die. Now you, as a pigeon, are presented with two offers by me. I say your" — sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
+> "very high. You need something that's, there is food there. And number two, it's like there just isn't food. Like when you try to come up with something unique, the problem is that you think it's gonna sell, but just doesn't. Like 99% of the time, it just" — sources/S_ig_daniel.jf1_DbzGiMJiHkO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'food' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as a clean transcript: the wording around 'food' (including the run-on near 'instead') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

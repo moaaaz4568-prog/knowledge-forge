@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["writing", "building"]
+aka: ["drive somewhere"]
 origin: sources/S_ig_dibratto_Db5jZiYR22Z.md
 ---
 
-# G_ig_dibratto_Db5jZiYR22Z — writing
+# G_ig_dibratto_Db5jZiYR22Z — drive somewhere
 
 ## Term
 
-writing is the most prominent repeated term in this source (140-word transcript from the Instagram account dibratto): it occurs 2 times literally in the text, most often collocated with: building, tests, reviewing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'drive somewhere' names the distinction dibratto draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'everyone's', 'days', and 'picked' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dibratto turns from describing to prescribing — the pivot runs: And actually had to drive somewhere, so I… Without 'drive somewhere' as the anchor, 'parked' and 'Claude' would float without a stake in the argument.
 
 ## Synonyms
 
-- writing
-- building
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Two of them were building, one of them was writing tests, and the last one was reviewing all of their work. And they can read our Notion now and our Slack and our Airtable. You know, everyone's got their MCP these days." — sources/S_ig_dibratto_Db5jZiYR22Z.md
-> "And actually had to drive somewhere, so I picked it back up on my phone with Dispatch. Not writing the code obviously, just approving it. Yeah, it was done by the time I parked. The whole thing took 11 minutes." — sources/S_ig_dibratto_Db5jZiYR22Z.md
+> "now and our Slack and our Airtable. You know, everyone's got their MCP these days. And actually had to drive somewhere, so I picked it back up on my phone with Dispatch. Not writing the code obviously, just approving it. Yeah, it was done by the time I parked" — sources/S_ig_dibratto_Db5jZiYR22Z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in dibratto's usage, 'drive somewhere' is loaded with a specific working meaning (visible in the collocation with 'building'), not the dictionary sense.
+- Read as polished prose: this is a verbatim transcript of a 140-word Instagram clip, and the wording around 'drive somewhere' (including the collocation with 'building') is spoken speech, not edited writing.

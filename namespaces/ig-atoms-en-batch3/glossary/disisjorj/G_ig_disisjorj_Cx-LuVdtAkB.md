@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["effect", "highlights"]
+aka: ["forty percent"]
 origin: sources/S_ig_disisjorj_Cx-LuVdtAkB.md
 ---
 
-# G_ig_disisjorj_Cx-LuVdtAkB — effect
+# G_ig_disisjorj_Cx-LuVdtAkB — forty percent
 
 ## Term
 
-effect is the most prominent repeated term in this source (53-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: highlights, lastly, use. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'forty percent' names the move the clip is really making — the distinction disisjorj says a person must accept before the rest can apply. It appears once in the transcript, and it sits next to 'gaussian', 'blur', and 'effect' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Duplicate your footage, add a Luma Keyer effect… The argument only stays upright while 'forty percent' is doing the work — pull it and 'highlights' loses its anchor.
 
 ## Synonyms
 
-- effect
-- highlights
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Duplicate your footage, add a Luma Keyer effect, affecting the highlights, and lastly, use a Gaussian Blur effect with the amount at thirty to forty percent." — sources/S_ig_disisjorj_Cx-LuVdtAkB.md
+> "effect, affecting the highlights, and lastly, use a Gaussian Blur effect with the amount at thirty to forty percent. Save this and thank me later" — sources/S_ig_disisjorj_Cx-LuVdtAkB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'forty percent' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as a stylistic choice by disisjorj: the wording around 'forty percent' (e.g. the collocation with 'footage') is the speech of one clip, not a stylistic pattern that can be generalised.

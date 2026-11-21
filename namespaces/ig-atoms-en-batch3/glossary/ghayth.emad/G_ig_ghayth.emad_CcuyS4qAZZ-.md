@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["supporting", "hard"]
+aka: ["biggest fan"]
 origin: sources/S_ig_ghayth.emad_CcuyS4qAZZ-.md
 ---
 
-# G_ig_ghayth.emad_CcuyS4qAZZ- — supporting
+# G_ig_ghayth.emad_CcuyS4qAZZ- — biggest fan
 
 ## Term
 
-This source is very short (53 words), so no term repeats enough for a frequency-based entry; supporting is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In ghayth.emad's framing, 'biggest fan' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'exactly', 'become', and 'believe' — a single occurrence that nonetheless anchors the clip's argument. ghayth.emad drops it precisely where the cost of skipping it shows up — the surrounding move runs: And that is exactly why you have to… Cut 'biggest fan' and the clip's aboutness shifts from a claim to a description of exactly and supporting.
 
 ## Synonyms
 
-- supporting
-- hard
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "hard to keep going when no one is supporting you, when no one is clapping for you. And that is exactly why you have to become your own biggest fan. You really do have to believe in yourself when no one else does." — sources/S_ig_ghayth.emad_CcuyS4qAZZ-.md
+> "supporting you, when no one is clapping for you. And that is exactly why you have to become your own biggest fan. You really do have to believe in yourself when no one else does. If you don't, I'm sorry, but you won't achieve" — sources/S_ig_ghayth.emad_CcuyS4qAZZ-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'biggest fan' is loaded by ghayth.emad with a specific working meaning, not the dictionary sense.
+- Read as a rule for using 'biggest fan': the clip shows ghayth.emad using the word in one specific move (alongside 'exactly'), not a recommendation that the reader adopt the word themselves.

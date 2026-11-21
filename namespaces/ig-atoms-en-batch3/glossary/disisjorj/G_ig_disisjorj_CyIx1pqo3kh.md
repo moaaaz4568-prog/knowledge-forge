@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["towards", "move"]
+aka: ["eleven fifty-eight"]
 origin: sources/S_ig_disisjorj_CyIx1pqo3kh.md
 ---
 
-# G_ig_disisjorj_CyIx1pqo3kh — towards
+# G_ig_disisjorj_CyIx1pqo3kh — eleven fifty-eight
 
 ## Term
 
-towards is the most prominent repeated term in this source (117-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: move, dreams, goals. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'eleven fifty-eight' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'concept', 'zero', and 'days' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: The idea is that even if it's eleven… The clip is engineered so that 'nothing' lands as setup, not payoff; the payoff is the move 'eleven fifty-eight' names.
 
 ## Synonyms
 
-- towards
-- move
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the grand scheme of things, that enables you to actually move towards your dreams and towards your goals. Just do something, because something is always better than" — sources/S_ig_disisjorj_CyIx1pqo3kh.md
+> "point, I keep reminding myself of this one concept: no more zero days. The idea is that even if it's eleven fifty-eight at night, you still got two minutes. Write one sentence for a new script, do one push-up if you want to get fit, read one more page" — sources/S_ig_disisjorj_CyIx1pqo3kh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': disisjorj draws the line explicitly — 'eleven fifty-eight' here is the public-facing act, distinct from the private work of creating.
+- Read as a clean transcript: the wording around 'eleven fifty-eight' (including the run-on near 'towards') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["cold email", "builds"]
+aka: ["cold email"]
 origin: sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
 
 ## Term
 
-cold email is the most prominent repeated term in this source (84-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: builds, whole, sequence. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'cold email' is the buyer-side lever divyannshisharma says the seller must surface before any pricing talk can land. It appears 4 times, it sits next to 'builds', 'clore', and 'tool' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: Clore plus cold email can give you fifty… Even the move around 'Enable' only registers as a move because 'cold email' is the thing being moved toward.
 
 ## Synonyms
 
-- cold email
-- builds
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "plus cold email can give you fifty meetings a month. Here is the setup. First, go to SmartLead and generate your API key. Open your Clore desktop app, settings, developer, edit configuration, paste your SmartLead MCP configuration into the file." — sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
-> "Now you can do cold email using your Clore. It finds the prospects, intense signals, builds your lead list, writes a personalized cold email, and builds the whole sequence. Comment cold email and I will send you the" — sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
+> "Clore plus cold email can give you fifty meetings a month. Here is the setup. First, go to SmartLead and generate your API key. Open your Clore desktop app, settings" — sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
+> "signals, builds your lead list, writes a personalized cold email, and builds the whole sequence. Comment cold email and I will send you the tool" — sources/S_ig_divyannshisharma_DcMA0OGyKC6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'cold email' here is loaded with a specific working meaning by divyannshisharma, not a buzzword.
+- Read as a claim about how divyannshisharma uses 'cold email' across their work: this single 84-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["clients", "hyper"]
+aka: ["clients", "client"]
 origin: sources/S_ig_daniel.jf1_Da6dB9DDZlg.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_Da6dB9DDZlg.md
 
 ## Term
 
-clients is the most prominent repeated term in this source (145-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: hyper, logistically, intense. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'clients' is the buyer-side lever daniel.jf1 says the seller must surface before any pricing talk can land. It appears 3 times, it sits next to 'hyper', 'logistically', and 'intense' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: You are gonna have ten hyper logistically intense… 'clients' is what the rest of the clip is trying to justify — even 'nothing' reads as evidence for it.
 
 ## Synonyms
 
-- clients
-- hyper
+- client
 
 ## Live Example
 
-> "Let's say we want one hundred thousand dollars a month business. You are gonna have ten hyper logistically intense clients or eighty clients who are the same over and over and over again. You just have like a Trello system army of VAs just fulfilling this. That's it. And people would say, oh, you have a bunch of clients, it's a bunch of people to talk to." — sources/S_ig_daniel.jf1_Da6dB9DDZlg.md
+> "want one hundred thousand dollars a month business. You are gonna have ten hyper logistically intense clients or eighty clients who are the same over and over and over again. You just have like a Trello system army of VAs just fulfilling this. That's it" — sources/S_ig_daniel.jf1_Da6dB9DDZlg.md
+> "Trello system army of VAs just fulfilling this. That's it. And people would say, oh, you have a bunch of clients, it's a bunch of people to talk to. It's like, no, you just fulfill this. There's nothing to talk about. You hire people to fulfill and like that" — sources/S_ig_daniel.jf1_Da6dB9DDZlg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'clients' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as a recommendation to use 'clients' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'system'); it does not argue the reader should adopt it.

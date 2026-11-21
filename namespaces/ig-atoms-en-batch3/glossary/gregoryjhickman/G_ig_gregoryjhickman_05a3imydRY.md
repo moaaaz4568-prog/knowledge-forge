@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["believers", "Politicians"]
+aka: ["believers"]
 origin: sources/S_ig_gregoryjhickman_05a3imydRY.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gregoryjhickman_05a3imydRY.md
 
 ## Term
 
-believers is the most prominent repeated term in this source (18-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: politicians, leaders, preachers. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'believers' is the move gregoryjhickman says the person must make before the prospect will commit. It appears 3 times, it sits next to 'politicians', 'leaders', and 'preachers' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Politicians, leaders, preachers, believers, believers, believers, I stand… Read alongside 'Politicians', the word 'believers' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- believers
-- Politicians
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "leaders, preachers, believers, believers, believers, I stand out to be champions." — sources/S_ig_gregoryjhickman_05a3imydRY.md
+> "Politicians, leaders, preachers, believers, believers, believers, I stand out to be champions. We are citizens of our faith" — sources/S_ig_gregoryjhickman_05a3imydRY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all sales tip: the source pins 'believers' to a specific move gregoryjhickman says is missing here, not a universal recommendation.
+- Read as evidence the term is central to the account: one 18-word clip showing 'believers' next to 'preachers' is too small a sample to anchor a wider claim about what gregoryjhickman writes about.

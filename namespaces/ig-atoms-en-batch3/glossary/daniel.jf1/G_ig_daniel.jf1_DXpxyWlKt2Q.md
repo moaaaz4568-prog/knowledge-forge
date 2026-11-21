@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["buy", "continue"]
+aka: ["buy"]
 origin: sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
 
 ## Term
 
-buy is the most prominent repeated term in this source (163-word transcript from the Instagram account daniel.jf1): it occurs 8 times literally in the text, most often collocated with: continue, lead, non. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's reel, 'buy' is the move daniel.jf1 says the person must make before the prospect will commit. It appears 8 times, it sits next to 'continue', 'lead', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: I use something called Pyros, and what Pyros… The clip's claim about 'non-buyers' is conditional on 'buy' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- buy
-- continue
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I use something called Pyros, and what Pyros lets me do is I can see if someone came in from a free lead magnet, did they ever buy anything at all ever, and I can figure out their LTV. People who get free lead magnets never buy anything because they're non-buyers. They just don't buy. There's nothing you could do to make them buy." — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
-> "You just need to get them to pay any amount of money at all because the people who buy stuff continue to buy stuff. For the audience listening, don't ever promote a free lead magnet to cold traffic. You can do it to warm traffic on your YouTube video because it doesn't cost you money. Don't do it." — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
-> "They just don't buy. There's nothing you could do to make them buy. The people who do buy stuff continue to buy stuff. If you make your lead magnet $1, it magically works out with LTV. You just need to get them to pay any amount of money at all because the people who buy stuff continue to buy stuff." — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
+> "Pyros, and what Pyros lets me do is I can see if someone came in from a free lead magnet, did they ever buy anything at all ever, and I can figure out their LTV. People who get free lead magnets never buy anything because they're non-buyers. They just don" — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
+> "just need to get them to pay any amount of money at all because the people who buy stuff continue to buy stuff. For the audience listening, don't ever promote a free lead magnet to cold traffic. You can do it to warm traffic on your YouTube video because" — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'buy' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as a recommendation to use 'buy' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'listening'); it does not argue the reader should adopt it.

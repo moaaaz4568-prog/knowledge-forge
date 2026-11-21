@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "process"]
+aka: ["clients", "client"]
 origin: sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
 
 ## Term
 
-clients is the most prominent repeated term in this source (587-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: process, create, onboard. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'clients' is the cue gregoryjhickman says a person must feel before the rep becomes useful. It appears 6 times, it sits next to 'correctly', 'always', and 'refer' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: I always refer to this process as how… 'clients' is what the rest of the clip is trying to justify — even 'automation' reads as evidence for it.
 
 ## Synonyms
 
-- clients
-- process
+- client
 
 ## Live Example
 
-> "always refer to this process as how to create great clients because when you onboard people correctly, you kind of teach them how to be good clients. Like that can be taught. So let's flashback. We have the transaction, right? They buy something." — sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
-> "The goal of it is, hey, here's what to expect when we work together. Here is how to win, right? Our most successful clients that get the result that you're after typically do these things. Here's how we're gonna help you, right? How to get help during this process. This is where you really set a lot of your boundaries, right?" — sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
-> "finding you on Facebook Messenger and messaging you on the weekends, unless you set the rules for how the game is played. Now with our clients, we actually give them a presentation template with a script that they can modify to their business that could actually all be done in one video where they set the expectations here." — sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
+> "I always refer to this process as how to create great clients because when you onboard people correctly, you kind of teach them how to be good clients. Like that can be taught. So let's flashback. We have" — sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
+> "and messaging you on the weekends, unless you set the rules for how the game is played. Now with our clients, we actually give them a presentation template with a script that they can modify to their business that could actually all be done in one video" — sources/S_ig_gregoryjhickman_C-5Y0ZttSMU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'clients' is gregoryjhickman's coaching cue for a felt position, not a clinical label.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'clients' (e.g. the collocation with 'onboard') is the speech of one clip, not a stylistic pattern that can be generalised.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["ready", "Drag"]
+aka: ["ready"]
 origin: sources/S_ig_disisjorj_DULJ-SJCBRZ.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_DULJ-SJCBRZ.md
 
 ## Term
 
-ready is the most prominent repeated term in this source (87-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: drag, drop, edit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'ready' is the design lever disisjorj treats as the difference between work that looks right and work that lands. It appears 3 times, it sits next to 'drag', 'drop', and 'edit' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I have my script and bullet points ready… Pull 'ready' and the clip's spine comes loose — 'camera' would still be there but would not point at anything.
 
 ## Synonyms
 
-- ready
-- Drag
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I color grade my footage beforehand so everything looks good. I have my script and bullet points ready to go. And once I'm done recording, I just open up FCP, which is Final Cut Pro, and then I click on this folder here that says verticals, and then I have all of my videos ready to go." — sources/S_ig_disisjorj_DULJ-SJCBRZ.md
-> "Pro, and then I click on this folder here that says verticals, and then I have all of my videos ready to go. Drag and drop, and now I'm ready to" — sources/S_ig_disisjorj_DULJ-SJCBRZ.md
+> "computer. I color grade my footage beforehand so everything looks good. I have my script and bullet points ready to go. And once I'm done recording, I just open up FCP, which is Final Cut Pro, and then I click on this folder here that says verticals, and then" — sources/S_ig_disisjorj_DULJ-SJCBRZ.md
+> "folder here that says verticals, and then I have all of my videos ready to go. Drag and drop, and now I'm ready to edit" — sources/S_ig_disisjorj_DULJ-SJCBRZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'ready' to mark the choice that does the work, not the choice that only looks good.
+- Read as evidence the term is central to the account: one 87-word clip showing 'ready' next to 'finished' is too small a sample to anchor a wider claim about what disisjorj writes about.

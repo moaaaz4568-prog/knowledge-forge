@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["abandoned", "cart"]
+aka: ["abandoned cart", "abandoned carts"]
 origin: sources/S_ig_dankhanlegacy_DPrWsELkan5.md
 ---
 
-# G_ig_dankhanlegacy_DPrWsELkan5 — abandoned
+# G_ig_dankhanlegacy_DPrWsELkan5 — abandoned cart
 
 ## Term
 
-abandoned is the most prominent repeated term in this source (259-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: cart, emails, sequence. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'abandoned cart' is the layer dankhanlegacy says sits under the surface complaint — the thing a person must feel before they will act. It appears 3 times, it sits next to 'emails', 'amateur', and 'real' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: The real money is in the entire abandoned… Every other word in the source, including 'percent', is in service to the move 'abandoned cart' names.
 
 ## Synonyms
 
-- abandoned
-- cart
+- abandoned carts
 
 ## Live Example
 
-> "That's amateur hour. The real money is in the entire abandoned cart sequence. The urgency that makes them come back. The psychology behind that urgency, which isn't about being pushy, but understanding human behavior at the fundamental level. People abandon carts for two reasons: fear or distraction." — sources/S_ig_dankhanlegacy_DPrWsELkan5.md
-> "Each email serves a purpose. Remove objections, create urgency, show opportunity cost. One client was losing fifty k a month with abandoned carts. We implemented this sequence, now they recovered forty percent of their lost sales. That's an extra twenty k monthly, just from emails. Your abandoned cart emails shouldn't beg, they should convert." — sources/S_ig_dankhanlegacy_DPrWsELkan5.md
-> "People abandon carts for two reasons: fear or distraction. Your job is to eliminate the fear and recapture attention. Here are some abandoned cart emails for you. Still thinking it over? I get it, but here's what happens to people who wait. Quick question, what's holding you back? Hit reply and tell me. Last chance, cart expires in two hours. Here's why waiting costs you more." — sources/S_ig_dankhanlegacy_DPrWsELkan5.md
+> "That's amateur hour. The real money is in the entire abandoned cart sequence. The urgency that makes them come back. The psychology behind that urgency, which isn't about being pushy, but understanding human" — sources/S_ig_dankhanlegacy_DPrWsELkan5.md
+> "recovered forty percent of their lost sales. That's an extra twenty k monthly, just from emails. Your abandoned cart emails shouldn't beg, they should convert. If you want fill in the blank templates for all my emails and my sales material sales scripts" — sources/S_ig_dankhanlegacy_DPrWsELkan5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'abandoned cart' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 259-word clip with the word 'abandoned cart' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

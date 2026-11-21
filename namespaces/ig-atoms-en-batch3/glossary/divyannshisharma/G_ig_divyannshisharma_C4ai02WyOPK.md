@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["popular", "Hop"]
+aka: ["popular"]
 origin: sources/S_ig_divyannshisharma_C4ai02WyOPK.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_divyannshisharma_C4ai02WyOPK.md
 
 ## Term
 
-popular is the most prominent repeated term in this source (23-word transcript from the Instagram account divyannshisharma): it occurs 2 times literally in the text, most often collocated with: hop, back, dream. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For divyannshisharma, 'popular' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears twice, it sits next to 'knees', 'dream', and 'cause' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where divyannshisharma names the thing a person cannot outsource — nearby: Begging on their knees to be popular… Take 'popular' out and the clip collapses into generalities about poppin' — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- popular
-- Hop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "with me 'cause you know I'm poppin'. Begging on their knees to be popular. Hop back to the dream to be" — sources/S_ig_divyannshisharma_C4ai02WyOPK.md
+> "Shawty with me 'cause you know I'm poppin'. Begging on their knees to be popular. Hop back to the dream to be popular" — sources/S_ig_divyannshisharma_C4ai02WyOPK.md
+> "with me 'cause you know I'm poppin'. Begging on their knees to be popular. Hop back to the dream to be popular" — sources/S_ig_divyannshisharma_C4ai02WyOPK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'popular' as a working concept divyannshisharma is installing in this clip, not a generic self-help label.
+- Read as a recommendation to use 'popular' yourself: the clip shows divyannshisharma using the word in one specific move (visible in the collocation with 'knees'); it does not argue the reader should adopt it.

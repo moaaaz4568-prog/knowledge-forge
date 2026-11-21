@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["mindset", "shift"]
+aka: ["mindset"]
 origin: sources/S_ig_disisjorj_CxNkxsKt7Gu.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_CxNkxsKt7Gu.md
 
 ## Term
 
-mindset is the most prominent repeated term in this source (89-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: shift, terms, niche. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'mindset' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears 3 times, it sits next to 'full-on', 'module', and 'based' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: The people who made it, they would have… 'mindset' is what the rest of the clip is trying to justify — even 'develop' reads as evidence for it.
 
 ## Synonyms
 
-- mindset
-- shift
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The people who made it, they would have like a full-on module based on mindset, and I'd be like" — sources/S_ig_disisjorj_CxNkxsKt7Gu.md
-> "But actually, that's the beginning of everything. If you don't have that, if your mindset doesn't shift in terms of how do you create content, build a community, how do you become a niche of one, all of those things are mindset shifts." — sources/S_ig_disisjorj_CxNkxsKt7Gu.md
+> "used to get courses, courses. The people who made it, they would have like a full-on module based on mindset, and I'd be like" — sources/S_ig_disisjorj_CxNkxsKt7Gu.md
+> "do you create content, build a community, how do you become a niche of one, all of those things are mindset shifts. False beliefs that you had that need to break, and you need to develop new beliefs" — sources/S_ig_disisjorj_CxNkxsKt7Gu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a personality trait: the source treats 'mindset' as a decision a person makes, not a fixed characteristic they either have or lack.
+- Read as a tagline worth extracting: the source shows disisjorj using 'mindset' as a working label in one specific argument (visible in the collocation with 'develop'), not as a slogan the reader is meant to repeat.

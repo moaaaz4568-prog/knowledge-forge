@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["responsibility", "Google"]
+aka: ["transformation begins"]
 origin: sources/S_ig_dankhanlegacy_DJrCMhvPyd4.md
 ---
 
-# G_ig_dankhanlegacy_DJrCMhvPyd4 — responsibility
+# G_ig_dankhanlegacy_DJrCMhvPyd4 — transformation begins
 
 ## Term
 
-responsibility is the most prominent repeated term in this source (162-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: google, facebook, complaining. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'transformation begins' is the disposition dankhanlegacy says a person cannot skip past and still expect results. It appears once in the transcript, and it sits next to 'game', 'owning', and 'exact' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: But the moment you stop the blame game… Without 'transformation begins' as the anchor, 'complain' and 'Traffic' would float without a stake in the argument.
 
 ## Synonyms
 
-- responsibility
-- Google
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Know where that got me? Nowhere. The day I started taking responsibility for everything, my failures, my broke ass situation, that's when things changed. I built my business on this principle. If my client's funnel not converting well, it's my fault. I need to make it better. Traffic cost too high?" — sources/S_ig_dankhanlegacy_DJrCMhvPyd4.md
-> "I need to make it better. Traffic cost too high? My problem to solve, not Google or Facebook. Complaining is comfortable. Taking responsibility is hard. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DJrCMhvPyd4.md
+> "control. But the moment you stop the blame game and start owning everything is the exact moment your transformation begins and you become unstoppable. I learned this the hard way. Broke college student blaming the system, the economy, everything but myself" — sources/S_ig_dankhanlegacy_DJrCMhvPyd4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'transformation begins' here is the specific frame dankhanlegacy argues from, not a generic motivational label.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'transformation begins' (e.g. the collocation with 'Traffic') is the speech of one clip, not a stylistic pattern that can be generalised.

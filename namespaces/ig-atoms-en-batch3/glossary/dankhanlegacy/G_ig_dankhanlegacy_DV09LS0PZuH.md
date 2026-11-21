@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["passive", "rentals"]
+aka: ["passive"]
 origin: sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
 
 ## Term
 
-passive is the most prominent repeated term in this source (106-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: rentals, overrated, sales. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'passive' names the felt consequence dankhanlegacy uses to break through a person's logical defences. It appears 4 times, it sits next to 'estate', 'because', and 'real' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: It's a little bit low, yes, but it's… The clip is engineered so that 'Licensing' lands as setup, not payoff; the payoff is the move 'passive' names.
 
 ## Synonyms
 
-- passive
-- rentals
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Overrated. So safe. It's a little bit low, yes, but it's like guaranteed passive income. Real estate rentals. Overrated, only because it's not as passive for what people say it is. YouTube ad revenue. Underrated, I guess. Yeah, it's like digital real estate. Course sales. Underrated, because it is very, very passive." — sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
-> "The only part that wouldn't be is customers and delivery and stuff like that. But the sales itself, it is passive. Licensing slash royalties. Oh, massively underrated. Having a royalty on someone's business and the funnel, that's how Mr." — sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
+> "Dividend stocks. Overrated. So safe. It's a little bit low, yes, but it's like guaranteed passive income. Real estate rentals. Overrated, only because it's not as passive for what people say it is. YouTube ad revenue. Underrated, I guess. Yeah" — sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
+> "only part that wouldn't be is customers and delivery and stuff like that. But the sales itself, it is passive. Licensing slash royalties. Oh, massively underrated. Having a royalty on someone's business and the funnel, that's how Mr. Bean got very rich" — sources/S_ig_dankhanlegacy_DV09LS0PZuH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'passive' here is loaded with a specific meaning — the felt stake dankhanlegacy says must be touched — not the dictionary sense.
+- Read as a clean transcript: the wording around 'passive' (including the run-on near 'Course') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

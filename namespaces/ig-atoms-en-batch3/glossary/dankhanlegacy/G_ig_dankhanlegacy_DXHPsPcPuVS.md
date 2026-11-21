@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["possible", "soon"]
+aka: ["become procrastination"]
 origin: sources/S_ig_dankhanlegacy_DXHPsPcPuVS.md
 ---
 
-# G_ig_dankhanlegacy_DXHPsPcPuVS — possible
+# G_ig_dankhanlegacy_DXHPsPcPuVS — become procrastination
 
 ## Term
 
-possible is the most prominent repeated term in this source (56-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: soon, fast, start. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'become procrastination' is the distinction dankhanlegacy is actually drawing — the line the rest of the clip is staged to make stick. It appears once in the transcript, and it sits next to 'point', 'learning', and 'early' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: At what point does learning more become procrastination… It is the one word in this source that, if removed, would leave 'because' without a frame to hang on.
 
 ## Synonyms
 
-- possible
-- soon
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Oh, very early. I think if you take a course or program, yes, you should learn the skills, but as soon as possible, like as fast as possible, you need to start implementing." — sources/S_ig_dankhanlegacy_DXHPsPcPuVS.md
+> "At what point does learning more become procrastination? Oh, very early. I think if you take a course or program, yes, you should learn the skills, but as soon as possible, like as fast" — sources/S_ig_dankhanlegacy_DXHPsPcPuVS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in dankhanlegacy's usage, 'become procrastination' is loaded with a specific working meaning (visible in the collocation with 'practicality'), not the dictionary sense.
+- Read as a recommendation to use 'become procrastination' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'practicality'); it does not argue the reader should adopt it.

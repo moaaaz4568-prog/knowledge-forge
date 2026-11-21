@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["percent", "podcast"]
+aka: ["differentiating factor"]
 origin: sources/S_ig_disisjorj_C1Hipm5tuSj.md
 ---
 
-# G_ig_disisjorj_C1Hipm5tuSj — percent
+# G_ig_disisjorj_C1Hipm5tuSj — differentiating factor
 
 ## Term
 
-percent is the most prominent repeated term in this source (93-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: podcast, episodes, top. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj clip, 'differentiating factor' is the lever disisjorj says separates people who make progress from people who stay put. It appears once in the transcript, and it sits next to 'arguably', 'amount', and 'information' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Since we all have access to the same… Every other word in the source, including 'sticking', is in service to the move 'differentiating factor' names.
 
 ## Synonyms
 
-- percent
-- podcast
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "find it fascinating that ninety-nine percent of people use their computer and phones purely for entertainment, while others run entire businesses out of those exact same devices." — sources/S_ig_disisjorj_C1Hipm5tuSj.md
-> "Jack Butcher states that based on the numbers, it takes twenty-one podcast episodes to be in the top one percent of podcasters globally. Taking action and sticking with it, that's what makes the" — sources/S_ig_disisjorj_C1Hipm5tuSj.md
+> "access to the same tools, the same platforms, and arguably the same amount of information, what's the differentiating factor between those who succeed and those who don't? Jack Butcher states that based on the numbers, it takes twenty-one podcast episodes" — sources/S_ig_disisjorj_C1Hipm5tuSj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'differentiating factor' is loaded by disisjorj with a specific working meaning (visible in the collocation with 'numbers'), not the dictionary sense.
+- Read as a tagline worth extracting: the source shows disisjorj using 'differentiating factor' as a working label in one specific argument (visible in the collocation with 'numbers'), not as a slogan the reader is meant to repeat.

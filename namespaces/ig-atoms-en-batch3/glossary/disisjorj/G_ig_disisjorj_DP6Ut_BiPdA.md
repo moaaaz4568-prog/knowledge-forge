@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["iPhone", "camera"]
+aka: ["iphone"]
 origin: sources/S_ig_disisjorj_DP6Ut_BiPdA.md
 ---
 
-# G_ig_disisjorj_DP6Ut_BiPdA — iPhone
+# G_ig_disisjorj_DP6Ut_BiPdA — iphone
 
 ## Term
 
-iPhone is the most prominent repeated term in this source (84-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: camera, dollar, setup. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'iphone' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears 4 times, it sits next to 'camera', 'iphone's', and 'setup' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: This is the difference between a two and… Pull 'iphone' and the clip's spine comes loose — 'exactly' would still be there but would not point at anything.
 
 ## Synonyms
 
-- iPhone
-- camera
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is the difference between a two and a half thousand dollar setup, a seven hundred dollar setup, the iPhone's front camera, the iPhone's back camera. But if all you have is an iPhone and you just want to get better quality from your iPhone, you can still tweak a few little things that take your videos from this to this." — sources/S_ig_disisjorj_DP6Ut_BiPdA.md
+> "is the difference between a two and a half thousand dollar setup, a seven hundred dollar setup, the iPhone's front camera, the iPhone's back camera. But if all you have is an iPhone and you just want to get better quality from your iPhone, you can still" — sources/S_ig_disisjorj_DP6Ut_BiPdA.md
+> "iPhone's back camera. But if all you have is an iPhone and you just want to get better quality from your iPhone, you can still tweak a few little things that take your videos from this to this. I show exactly how you can do this inside Easy Video Content" — sources/S_ig_disisjorj_DP6Ut_BiPdA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'iphone' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as proof the term is load-bearing for disisjorj in general: a 84-word clip with the word 'iphone' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

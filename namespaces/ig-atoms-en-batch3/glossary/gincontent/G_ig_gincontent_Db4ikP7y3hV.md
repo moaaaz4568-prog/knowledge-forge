@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["business", "become"]
+aka: ["long-term relationship"]
 origin: sources/S_ig_gincontent_Db4ikP7y3hV.md
 ---
 
-# G_ig_gincontent_Db4ikP7y3hV — business
+# G_ig_gincontent_Db4ikP7y3hV — long-term relationship
 
 ## Term
 
-business is the most prominent repeated term in this source (130-word transcript from the Instagram account gincontent): it occurs 3 times literally in the text, most often collocated with: become, whole, becomes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gincontent's reel, 'long-term relationship' is the point where the stated problem becomes emotional — the moment gincontent says the sale actually happens. It appears once in the transcript, and it sits next to 'uses', 'marketing', and 'tool' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gincontent turns from describing to prescribing — the pivot runs: Become a business owner who uses content as… The argument only stays upright while 'long-term relationship' is doing the work — pull it and 'people's' loses its anchor.
 
 ## Synonyms
 
-- business
-- become
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well yeah, but the problem is once you run out of clients, then you don't have any income. Your whole business becomes dependent on other people's business. That's why you should have something of your own, whether it's a product, a service, or simply marketing what you do. That's why I always say: don't become an influencer." — sources/S_ig_gincontent_Db4ikP7y3hV.md
+> "That's how you build a long-term relationship as a creator. God bless you" — sources/S_ig_gincontent_Db4ikP7y3hV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: gincontent uses 'long-term relationship' here in the framing of a sales conversation, not as a portfolio term.
+- Read as a stylistic choice by gincontent: the wording around 'long-term relationship' (e.g. the collocation with 'money-printing') is the speech of one clip, not a stylistic pattern that can be generalised.

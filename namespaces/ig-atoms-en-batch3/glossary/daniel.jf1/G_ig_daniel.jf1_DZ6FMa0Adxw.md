@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["proper", "audio"]
+aka: ["logistically intense"]
 origin: sources/S_ig_daniel.jf1_DZ6FMa0Adxw.md
 ---
 
-# G_ig_daniel.jf1_DZ6FMa0Adxw — proper
+# G_ig_daniel.jf1_DZ6FMa0Adxw — logistically intense
 
 ## Term
 
-proper is the most prominent repeated term in this source (142-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: audio, lighting, camera. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'logistically intense' is the future-pain frame daniel.jf1 uses to make the present situation feel unsustainable. It appears once in the transcript, and it sits next to 'proper', 'camera', and 'setup' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Because to figure out and know how to… The clip's claim about 'filming' is conditional on 'logistically intense' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- proper
-- audio
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can almost surely be booked up all of the time. Why? Because to figure out and know how to do all this proper audio, proper lighting, proper camera setup, knowing how to deal with it, it's logistically intense. The supply is pretty low. You can therefore charge a pretty good amount of money. Same premise everywhere, dude." — sources/S_ig_daniel.jf1_DZ6FMa0Adxw.md
+> "to do all this proper audio, proper lighting, proper camera setup, knowing how to deal with it, it's logistically intense. The supply is pretty low. You can therefore charge a pretty good amount of money. Same premise everywhere, dude. This is why like" — sources/S_ig_daniel.jf1_DZ6FMa0Adxw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'logistically intense' here is loaded with a specific meaning — the felt stake daniel.jf1 says must be touched — not the dictionary sense.
+- Read as evidence the term is central to the account: one 142-word clip showing 'logistically intense' next to 'e-com' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.

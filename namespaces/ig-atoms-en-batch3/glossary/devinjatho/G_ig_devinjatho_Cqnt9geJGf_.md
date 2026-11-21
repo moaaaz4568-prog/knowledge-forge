@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["hashtags", "generate"]
+aka: ["keywords everywhere"]
 origin: sources/S_ig_devinjatho_Cqnt9geJGf_.md
 ---
 
-# G_ig_devinjatho_Cqnt9geJGf_ — hashtags
+# G_ig_devinjatho_Cqnt9geJGf_ — keywords everywhere
 
 ## Term
 
-hashtags is the most prominent repeated term in this source (71-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: generate, best, keyword. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For devinjatho, 'keywords everywhere' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears twice, it sits next to 'tool', 'allows', and 'generate' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: The tool Keywords Everywhere allows you to generate… This is the word the clip is built to deliver; 'allows' is texture around it, not the point.
 
 ## Synonyms
 
-- hashtags
-- generate
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "tool Keywords Everywhere allows you to generate hashtags and gives you the best ones to use. Go onto the Google Extension Store and search Keywords Everywhere. Now just add it to your Chrome." — sources/S_ig_devinjatho_Cqnt9geJGf_.md
-> "Now just add it to your Chrome. Once added, go to Instagram and at the bottom left click Generate Hashtags and then type in a specific keyword relevant to your niche. You now have the best hashtags for that keyword." — sources/S_ig_devinjatho_Cqnt9geJGf_.md
+> "The tool Keywords Everywhere allows you to generate hashtags and gives you the best ones to use. Go onto the Google Extension Store and search Keywords Everywhere" — sources/S_ig_devinjatho_Cqnt9geJGf_.md
+> "generate hashtags and gives you the best ones to use. Go onto the Google Extension Store and search Keywords Everywhere. Now just add it to your Chrome. Once added, go to Instagram and at the bottom left click Generate Hashtags and then type in a specific" — sources/S_ig_devinjatho_Cqnt9geJGf_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'keywords everywhere' here is pinned to one specific claim in this clip, and the same word in another source from devinjatho may carry a different load.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'keywords everywhere' next to 'niche') may not be load-bearing in devinjatho's wider body of work.

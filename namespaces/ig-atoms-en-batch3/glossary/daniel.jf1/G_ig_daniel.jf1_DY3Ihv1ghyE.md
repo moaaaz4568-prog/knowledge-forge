@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["raise", "price"]
+aka: ["scarcity campaigns"]
 origin: sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
 ---
 
-# G_ig_daniel.jf1_DY3Ihv1ghyE — raise
+# G_ig_daniel.jf1_DY3Ihv1ghyE — scarcity campaigns
 
 ## Term
 
-raise is the most prominent repeated term in this source (116-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: price, nearly, double. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'scarcity campaigns' names the distinction daniel.jf1 draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'price', 'well', and 'never' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I would run scarcity campaigns that the price… The argument only stays upright while 'scarcity campaigns' is doing the work — pull it and 'having' loses its anchor.
 
 ## Synonyms
 
-- raise
-- price
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went from forty five and then it was like seventy five, and I like played with this a lot." — sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
+> "buy it. What I did, which worked so stupidly well, is I would never run discounts ever. I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went" — sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'scarcity campaigns' is loaded by daniel.jf1 with a specific working meaning, not the dictionary sense.
+- Read as a claim about how daniel.jf1 uses 'scarcity campaigns' across their work: this single 116-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

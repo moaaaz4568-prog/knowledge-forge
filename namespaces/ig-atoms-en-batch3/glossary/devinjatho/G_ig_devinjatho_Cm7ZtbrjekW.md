@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["stupid", "short"]
+aka: ["sixth-grade reading"]
 origin: sources/S_ig_devinjatho_Cm7ZtbrjekW.md
 ---
 
-# G_ig_devinjatho_Cm7ZtbrjekW — stupid
+# G_ig_devinjatho_Cm7ZtbrjekW — sixth-grade reading
 
 ## Term
 
-stupid is the most prominent repeated term in this source (82-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: short, answer, keep. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'sixth-grade reading' in this clip is the lever that converts effort into reach — devinjatho insists the value sits in the doing, not the perfecting. It appears once in the transcript, and it sits next to 'stupid', 'fifty-four', and 'percent' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: Fifty-four percent of Americans read below a sixth-grade… Anything else in the clip orbits this word — strip out 'sixth-grade reading' and the rest reads as filler around 'Follow'.
 
 ## Synonyms
 
-- stupid
-- short
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And no, I don't mean actual kissing. On your videos, you need to keep it stupid simple. Why? Well, the short answer is because people are f***ing stupid. Fifty-four percent of Americans read below a sixth-grade reading level. And even intelligent people don't come on social media to think." — sources/S_ig_devinjatho_Cm7ZtbrjekW.md
+> "the short answer is because people are f***ing stupid. Fifty-four percent of Americans read below a sixth-grade reading level. And even intelligent people don't come on social media to think. So make your videos so simple that a four-year-old can understand" — sources/S_ig_devinjatho_Cm7ZtbrjekW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'sixth-grade reading' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as evidence the term is central to the account: one 82-word clip showing 'sixth-grade reading' next to 'simple' is too small a sample to anchor a wider claim about what devinjatho writes about.

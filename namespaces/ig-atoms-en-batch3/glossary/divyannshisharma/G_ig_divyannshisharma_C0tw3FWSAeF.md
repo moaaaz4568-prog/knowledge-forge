@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["попробуй", "мант"]
+aka: ["divyannshisharma"]
 origin: sources/S_ig_divyannshisharma_C0tw3FWSAeF.md
+language: ru
 ---
 
-# G_ig_divyannshisharma_C0tw3FWSAeF — попробуй
+# G_ig_divyannshisharma_C0tw3FWSAeF — Попробуй мант мант, попробуй чага чага, попробуй ууу ууу.
 
 ## Term
 
-попробуй is the most prominent repeated term in this source (9-word transcript from the Instagram account divyannshisharma): it occurs 3 times literally in the text, most often collocated with: мант, чага, ууу. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 9-word caption from divyannshisharma — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Попробуй мант мант, попробуй чага чага, попробуй ууу ууу.". The source is in Russian; the words are documented as they appear in the source, not translated.
 
 ## Synonyms
 
-- попробуй
-- мант
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Попробуй мант мант, попробуй чага чага, попробуй ууу" — sources/S_ig_divyannshisharma_C0tw3FWSAeF.md
+> "Попробуй мант мант, попробуй чага чага, попробуй ууу ууу" — sources/S_ig_divyannshisharma_C0tw3FWSAeF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'the clip') is what carries the mood, not a label being defined.
+- Read as evidence of account-wide themes: one 9-word clip is too thin a sample to support a claim about what divyannshisharma writes about in general.

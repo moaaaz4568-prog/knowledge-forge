@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Number", "roll"]
+aka: ["lighting support"]
 origin: sources/S_ig_disisjorj_Cyiv0DINKD8.md
 ---
 
-# G_ig_disisjorj_Cyiv0DINKD8 — Number
+# G_ig_disisjorj_Cyiv0DINKD8 — lighting support
 
 ## Term
 
-Number is the most prominent repeated term in this source (93-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: roll, showcasing, product. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'lighting support' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'rather', 'equipment', and 'using' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: And number three is lighting support… Strip the clip down to its claim and you are left with 'lighting support'; 'personally' and 'extend' are how the claim is delivered.
 
 ## Synonyms
 
-- Number
-- roll
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are three ways you can use a C-stand to level up your content. Number one is the overhead angle. I personally use it for B-roll or showcasing a product. Number two is a boom mic holder." — sources/S_ig_disisjorj_Cyiv0DINKD8.md
-> "You can extend the arm and hang a boom microphone so people get to focus more on you rather than the equipment you're using. And number three is lighting support. You can mount your LED panels or strobes and position them exactly where you want them to be." — sources/S_ig_disisjorj_Cyiv0DINKD8.md
+> "microphone so people get to focus more on you rather than the equipment you're using. And number three is lighting support. You can mount your LED panels or strobes and position them exactly where you want them to be. If you found this helpful, follow for more" — sources/S_ig_disisjorj_Cyiv0DINKD8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'lighting support' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a recommendation to use 'lighting support' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'found'); it does not argue the reader should adopt it.

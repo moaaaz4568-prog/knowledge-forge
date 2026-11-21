@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["captions", "anywhere"]
+aka: ["captions"]
 origin: sources/S_ig_devinjatho_CqlAzgHA4J0.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_CqlAzgHA4J0.md
 
 ## Term
 
-captions is the most prominent repeated term in this source (68-word transcript from the Instagram account devinjatho): it occurs 4 times literally in the text, most often collocated with: anywhere, attention, put. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'captions' is the public-facing half of the work — devinjatho uses the word to mark the line between private effort and visible output. It appears 4 times, it sits next to 'anywhere', 'never', and 'chin' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: You are ruining your videos if you don't… Cut 'captions' and the clip's aboutness shifts from a claim to a description of bottom and screen.
 
 ## Synonyms
 
-- captions
-- anywhere
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are ruining your videos if you don't do this with your captions. Never put your captions anywhere other than right below your chin. Captions are meant to retain attention and help the viewer follow along." — sources/S_ig_devinjatho_CqlAzgHA4J0.md
-> "So if you put them in the middle or even the bottom of the screen, you're making the viewer choose between paying attention to you or your captions. Follow for more" — sources/S_ig_devinjatho_CqlAzgHA4J0.md
+> "You are ruining your videos if you don't do this with your captions. Never put your captions anywhere other than right below your chin. Captions are meant to retain attention and help the viewer follow along. So" — sources/S_ig_devinjatho_CqlAzgHA4J0.md
+> "even the bottom of the screen, you're making the viewer choose between paying attention to you or your captions. Follow for more value" — sources/S_ig_devinjatho_CqlAzgHA4J0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'captions' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as proof the term is load-bearing for devinjatho in general: a 68-word clip with the word 'captions' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

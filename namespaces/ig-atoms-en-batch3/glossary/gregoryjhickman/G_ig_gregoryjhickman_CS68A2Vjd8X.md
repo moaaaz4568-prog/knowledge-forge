@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["performers", "low"]
+aka: ["performers"]
 origin: sources/S_ig_gregoryjhickman_CS68A2Vjd8X.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CS68A2Vjd8X.md
 
 ## Term
 
-performers is the most prominent repeated term in this source (131-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: low, high, tolerate. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'performers' is the mindset gregoryjhickman insists comes before any technique — the thing without which the rest of the advice does not land. It appears 3 times, it sits next to 'tolerate', 'level', and 'risk' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: So if you're cultivating a bunch of high… The sentence around 'negative' only carries weight because 'performers' is what the sentence is really about.
 
 ## Synonyms
 
-- performers
-- low
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if you're cultivating a bunch of high performers and then you tolerate a few low, you know, low level performers, you're gonna risk losing those high performers to either to another company or their performance is gonna go down. They might have a rough month." — sources/S_ig_gregoryjhickman_CS68A2Vjd8X.md
+> "mindset, and you want to instill that to your team as well. So if you're cultivating a bunch of high performers and then you tolerate a few low, you know, low level performers, you're gonna risk losing those high performers to either to another company" — sources/S_ig_gregoryjhickman_CS68A2Vjd8X.md
+> "and then you tolerate a few low, you know, low level performers, you're gonna risk losing those high performers to either to another company or their performance is gonna go down. They might have a rough month. They're gonna be like, well, nothing, there" — sources/S_ig_gregoryjhickman_CS68A2Vjd8X.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'performers' is loaded by gregoryjhickman with a specific meaning tied to 'either', not the dictionary sense.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 131-word clip with the word 'performers' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

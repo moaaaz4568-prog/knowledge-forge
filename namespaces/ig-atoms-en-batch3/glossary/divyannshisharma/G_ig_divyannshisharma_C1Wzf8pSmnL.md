@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["low", "context of account divyannshisharma"]
+aka: ["divyannshisharma"]
 origin: sources/S_ig_divyannshisharma_C1Wzf8pSmnL.md
 ---
 
-# G_ig_divyannshisharma_C1Wzf8pSmnL — low
+# G_ig_divyannshisharma_C1Wzf8pSmnL — I'm at an all time low, low, low, low, low, low, low, low, l…
 
 ## Term
 
-low is the most prominent repeated term in this source (21-word transcript from the Instagram account divyannshisharma): it occurs 16 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The divyannshisharma clip is a short caption of 21 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "I'm at an all time low, low, low, low, low, low, low, low, low, low, low, low, low, low, low, low.".
 
 ## Synonyms
 
-- low
-- context of account divyannshisharma
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "at an all time low, low, low, low, low, low, low, low, low, low, low, low, low, low, low" — sources/S_ig_divyannshisharma_C1Wzf8pSmnL.md
+> "I'm at an all time low, low, low, low, low, low, low, low, low, low, low, low, low, low, low, low" — sources/S_ig_divyannshisharma_C1Wzf8pSmnL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 21-word divyannshisharma clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

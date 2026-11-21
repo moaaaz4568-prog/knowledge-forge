@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["his", "whole"]
+aka: ["positioning"]
 origin: sources/S_ig_dankhanlegacy_DYxJgMgvnoA.md
 ---
 
-# G_ig_dankhanlegacy_DYxJgMgvnoA — his
+# G_ig_dankhanlegacy_DYxJgMgvnoA — positioning
 
 ## Term
 
-his is the most prominent repeated term in this source (204-word transcript from the Instagram account dankhanlegacy): it occurs 6 times literally in the text, most often collocated with: whole, sales, positioning. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'positioning' is the buyer-side lever dankhanlegacy says the seller must surface before any pricing talk can land. It appears 5 times, it sits next to 'whole', 'page', and 'headline' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: One of the biggest mistakes that online businesses… The sentence around 'instead' only carries weight because 'positioning' is what the sentence is really about.
 
 ## Synonyms
 
-- his
-- whole
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He was already doing well. He was making five, ten K a day. But his problem was he was only using organic traffic. And what happened was when you use organic traffic and he was using his sales page that was put on his Instagram and YouTube, it didn't convert on paid ads. Why?" — sources/S_ig_dankhanlegacy_DYxJgMgvnoA.md
-> "Why? Because the offer, the positioning of the product was only meant for warm traffic. So he came to me and I redid his whole sales page, his whole headline, his whole positioning. Instead of positioning it as a software and an AI store builder, we positioned it as a done for you e-commerce business that you can launch in a few clicks." — sources/S_ig_dankhanlegacy_DYxJgMgvnoA.md
+> "make is explaining their offer instead of repositioning it. Your job isn't to explain the product. The positioning of the product is everything. Look at this message. A client of mine, Ramin Poplau, came to me and he runs AI powered e-commerce stores. He" — sources/S_ig_dankhanlegacy_DYxJgMgvnoA.md
+> "positioned it as a done for you e-commerce business that you can launch in a few clicks. So much better positioning, same product. And right now he's making twenty to thirty thousand dollars per day. If you want the same result, just comment the word video" — sources/S_ig_dankhanlegacy_DYxJgMgvnoA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'positioning' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a tagline worth extracting: the source shows dankhanlegacy using 'positioning' as a working label in one specific argument (visible in the collocation with 'thousand'), not as a slogan the reader is meant to repeat.

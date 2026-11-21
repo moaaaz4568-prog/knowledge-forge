@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["waitlist", "actual"]
+aka: ["one-click setup"]
 origin: sources/S_ig_disisjorj_DQWk4O5iNbT.md
 ---
 
-# G_ig_disisjorj_DQWk4O5iNbT — waitlist
+# G_ig_disisjorj_DQWk4O5iNbT — one-click setup
 
 ## Term
 
-waitlist is the most prominent repeated term in this source (116-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: actual, landing, pricing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'one-click setup' here is the emotional load disisjorj argues must be touched before logic can move the person. It appears twice, it sits next to 'opened', 'doors', and 'waitlist' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Yesterday I opened the doors to the one-click… The clip is engineered so that 'majority' lands as setup, not payoff; the payoff is the move 'one-click setup' names.
 
 ## Synonyms
 
-- waitlist
-- actual
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I opened the doors to the one-click setup for the waitlist members, and the majority of them did not receive a, the actual email and b, the actual landing page with the waitlist pricing on it. So it's my bad. It's just an issue with my email service provider. Unfortunately, it is what it is." — sources/S_ig_disisjorj_DQWk4O5iNbT.md
-> "But if you're seeing this and you're part of the waitlist and did not receive the email, feel free to reach back to me in the" — sources/S_ig_disisjorj_DQWk4O5iNbT.md
+> "Yesterday I opened the doors to the one-click setup for the waitlist members, and the majority of them did not receive a, the actual email and b, the actual landing page with the waitlist" — sources/S_ig_disisjorj_DQWk4O5iNbT.md
+> "service provider. Unfortunately, it is what it is. But here's what I'm doing. Number one, using the one-click setup to record this video in like this in minutes rather than hours, and also reaching to all of you on the DMs. But if you're seeing this and" — sources/S_ig_disisjorj_DQWk4O5iNbT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'one-click setup' in this clip names a specific bodily sensation disisjorj is trying to surface, not a general state of mind.
+- Read as polished prose: this is a verbatim transcript of a 116-word Instagram clip, and the wording around 'one-click setup' (including the collocation with 'reaching') is spoken speech, not edited writing.

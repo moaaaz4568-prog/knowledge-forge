@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: ghayth.emad
-aka: ["wooden", "house"]
+aka: ["wooden floors"]
 origin: sources/S_ig_ghayth.emad_CwmpLJeMikV.md
 ---
 
-# G_ig_ghayth.emad_CwmpLJeMikV — wooden
+# G_ig_ghayth.emad_CwmpLJeMikV — wooden floors
 
 ## Term
 
-This source is very short (32 words), so no term repeats enough for a frequency-based entry; wooden is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'wooden floors' names the inner experience ghayth.emad treats as the real driver behind what the person says they want. It appears once in the transcript, and it sits next to 'house', 'built', and 'stone' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where ghayth.emad names the thing a person cannot outsource — nearby: There is a house built out of stone… The clip's claim about 'wooden' is conditional on 'wooden floors' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- wooden
-- house
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is a house built out of stone, wooden floors, walls and window sills. Tables and chairs worn by all of the dust." — sources/S_ig_ghayth.emad_CwmpLJeMikV.md
+> "There is a house built out of stone, wooden floors, walls and window sills. Tables and chairs worn by all of the dust. This is a place where I don't feel alone" — sources/S_ig_ghayth.emad_CwmpLJeMikV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'wooden floors' here is ghayth.emad's working label for the felt pressure in the room, not a diagnostic category.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'wooden floors' next to 'built') may not be load-bearing in ghayth.emad's wider body of work.

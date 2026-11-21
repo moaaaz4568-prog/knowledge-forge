@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["clients", "lose"]
+aka: ["premium designer"]
 origin: sources/S_ig_gincontent_DVcWLy3kn9r.md
 ---
 
-# G_ig_gincontent_DVcWLy3kn9r — clients
+# G_ig_gincontent_DVcWLy3kn9r — premium designer
 
 ## Term
 
-clients is the most prominent repeated term in this source (62-word transcript from the Instagram account gincontent): it occurs 2 times literally in the text, most often collocated with: lose, handle, rates. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'premium designer' names the visual or structural move gincontent says carries the meaning the words do not. It appears once in the transcript, and it sits next to 'better', 'become', and 'bless' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gincontent names the thing a person cannot outsource — nearby: That's how you become a premium designer… It is the one word in this source that, if removed, would leave 'better' without a frame to hang on.
 
 ## Synonyms
 
-- clients
-- lose
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "getting a lot of clients. It's actually more than I can handle. Mm-hmm. They start raising your rates. Huh? But what if I lose clients? Exactly. Lose enough until you can handle every work. Wow." — sources/S_ig_gincontent_DVcWLy3kn9r.md
+> "making the same income, but now I have more time to make better design works. That's how you become a premium designer. God bless you" — sources/S_ig_gincontent_DVcWLy3kn9r.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic creative word: the source uses 'premium designer' to mark the hinge between pretty and effective, not a vague aesthetic preference.
+- Read as a stylistic choice by gincontent: the wording around 'premium designer' (e.g. the collocation with 'Exactly') is the speech of one clip, not a stylistic pattern that can be generalised.

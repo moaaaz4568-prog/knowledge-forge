@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["alright", "context of account fundedfounder"]
+aka: ["cause"]
 origin: sources/S_ig_fundedfounder_DVi73E6DDPS.md
 ---
 
-# G_ig_fundedfounder_DVi73E6DDPS — alright
+# G_ig_fundedfounder_DVi73E6DDPS — cause
 
 ## Term
 
-This source is very short (17 words), so no term repeats enough for a frequency-based entry; alright is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'cause' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears once in the transcript — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where fundedfounder names the thing a person cannot outsource — nearby: 'Cause it's alright, I think we're gonna make… Every other word in the source, including 'clip', is in service to the move 'cause' names.
 
 ## Synonyms
 
-- alright
-- context of account fundedfounder
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "it's alright, I think we're gonna make it. Think it might just work out this" — sources/S_ig_fundedfounder_DVi73E6DDPS.md
+> "'Cause it's alright, I think we're gonna make it. Think it might just work out this time" — sources/S_ig_fundedfounder_DVi73E6DDPS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'cause' here is pinned to one specific claim in this clip, and the same word in another source from fundedfounder may carry a different load.
+- Read as a recommendation to use 'cause' yourself: the clip shows fundedfounder using the word in one specific move (visible in the collocation with 'the clip'); it does not argue the reader should adopt it.

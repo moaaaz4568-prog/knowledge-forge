@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["circle", "write"]
+aka: ["circle", "circles"]
 origin: sources/S_ig_explained.marketing_Cz_lJlgtUFw.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_explained.marketing_Cz_lJlgtUFw.md
 
 ## Term
 
-circle is the most prominent repeated term in this source (96-word transcript from the Instagram account explained.marketing): it occurs 4 times literally in the text, most often collocated with: write, love, feel. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'circle' is what explained.marketing names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears 4 times, it sits next to 'three', 'write', and 'truly' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. explained.marketing drops it precisely where the cost of skipping it shows up — the surrounding move runs: Grab a pen and draw four overlapping circles… Even the move around 'together' only registers as a move because 'circle' is the thing being moved toward.
 
 ## Synonyms
 
-- circle
-- write
+- circles
 
 ## Live Example
 
-> "Grab a pen and draw four overlapping circles. In the first circle, write down three things you love doing. In the next circle, list three things you feel the world truly needs. In the third circle, write down three things you can get paid for. In the last circle, put three things you're really great at." — sources/S_ig_explained.marketing_Cz_lJlgtUFw.md
+> "right path for you, use this Japanese method. Grab a pen and draw four overlapping circles. In the first circle, write down three things you love doing. In the next circle, list three things you feel the world truly needs. In the third circle, write down three" — sources/S_ig_explained.marketing_Cz_lJlgtUFw.md
+> "the world truly needs. In the third circle, write down three things you can get paid for. In the last circle, put three things you're really great at. See where all those circles come together? That spot is what the Japanese call your ikigai. It's basically" — sources/S_ig_explained.marketing_Cz_lJlgtUFw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'circle' here is explained.marketing's working label for the felt pressure in the room, not a diagnostic category.
+- Read as a claim about how explained.marketing uses 'circle' across their work: this single 96-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

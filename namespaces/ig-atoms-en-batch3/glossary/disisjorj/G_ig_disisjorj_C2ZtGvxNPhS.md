@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["systems", "predictable"]
+aka: ["systems"]
 origin: sources/S_ig_disisjorj_C2ZtGvxNPhS.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_C2ZtGvxNPhS.md
 
 ## Term
 
-systems is the most prominent repeated term in this source (156-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: predictable, reliable, guarantee. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'systems' is the disposition disisjorj says a person cannot skip past and still expect results. It appears 3 times, it sits next to 'predictable', 'reliable', and 'guarantee' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: A successful brand is built on systems, predictable… The reel earns its keep only because 'systems' is doing the lifting; 'Comment' alone would be filler.
 
 ## Synonyms
 
-- systems
-- predictable
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Motivation is fragile and a fleeting emotion. The odds are stacked against you. A successful brand is built on systems, predictable and reliable systems that guarantee results. Systems allow success to be a matter of when rather a matter of how." — sources/S_ig_disisjorj_C2ZtGvxNPhS.md
+> "is fragile and a fleeting emotion. The odds are stacked against you. A successful brand is built on systems, predictable and reliable systems that guarantee results. Systems allow success to be a matter of when rather a matter of how. I'll be teaching" — sources/S_ig_disisjorj_C2ZtGvxNPhS.md
+> "you. A successful brand is built on systems, predictable and reliable systems that guarantee results. Systems allow success to be a matter of when rather a matter of how. I'll be teaching my exact content ecosystem that allowed me to reach more than eighty" — sources/S_ig_disisjorj_C2ZtGvxNPhS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'systems' is a stance disisjorj says a person must adopt before action, not a feeling they happen to have.
+- Read as evidence disisjorj always uses 'systems' this way: one 156-word clip is too thin a sample to support any claim about how the account uses the word in general.

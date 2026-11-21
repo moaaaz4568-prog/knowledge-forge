@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankndripwear
-aka: ["knocking", "Kimber"]
+aka: ["four five"]
 origin: sources/S_ig_dankndripwear_C6yt4RjN-qB.md
 ---
 
-# G_ig_dankndripwear_C6yt4RjN-qB — knocking
+# G_ig_dankndripwear_C6yt4RjN-qB — four five
 
 ## Term
 
-This source is very short (25 words), so no term repeats enough for a frequency-based entry; knocking is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'four five' in this source is the working idea dankndripwear argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'real', 'member', and 'leave' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Four five on me, it's a Kimber… Every other word in the source, including 'member', is in service to the move 'four five' names.
 
 ## Synonyms
 
-- knocking
-- Kimber
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Leave a art code like December. Four five on me, it's a Kimber. AK knocking out trees like" — sources/S_ig_dankndripwear_C6yt4RjN-qB.md
+> "Bitch, for real, I'm a member. Leave a art code like December. Four five on me, it's a Kimber. AK knocking out trees like timber" — sources/S_ig_dankndripwear_C6yt4RjN-qB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in dankndripwear's usage, 'four five' is loaded with a specific working meaning (visible in the collocation with 'December'), not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'four five' next to 'December') may not be load-bearing in dankndripwear's wider body of work.

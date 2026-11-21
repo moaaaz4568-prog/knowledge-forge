@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["email", "cold"]
+aka: ["email", "emails"]
 origin: sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
 
 ## Term
 
-email is the most prominent repeated term in this source (167-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: cold, stats, local. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'email' names the felt consequence daniel.jf1 uses to break through a person's logical defences. It appears 5 times, it sits next to 'cold', 'stats', and 'local' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Some audiences are simply not responsive for email… What makes the word 'email' the term here is that the rest — 'simply', 'little', everything else — is staged for it.
 
 ## Synonyms
 
-- email
-- cold
+- emails
 
 ## Live Example
 
-> "audiences are simply not responsive for email. So like tradespeople, contractors, local services, they literally do not open their email." — sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
-> "So like tradespeople, contractors, local services, they literally do not open their email. Yeah, you could send cold email, but like the stats that you would get on cold email to these people are wildly lower than you would get on a standard kind of niche that actually actively uses their email. So what would that mean?" — sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
+> "Some audiences are simply not responsive for email. So like tradespeople, contractors, local services, they literally do not open their email. Yeah, you could send cold email, but like the stats that" — sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
+> "people are wildly lower than you would get on a standard kind of niche that actually actively uses their email. So what would that mean? It just means that you would need to send five times more emails for those specific people. So what does that also mean" — sources/S_ig_daniel.jf1_Ddh0x7uFWhX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'email' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as a stylistic choice by daniel.jf1: the wording around 'email' (e.g. the collocation with 'understand') is the speech of one clip, not a stylistic pattern that can be generalised.

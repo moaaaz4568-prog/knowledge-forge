@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["editing", "content"]
+aka: ["editing"]
 origin: sources/S_ig_disisjorj_CzJOGwjtWKs.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_CzJOGwjtWKs.md
 
 ## Term
 
-editing is the most prominent repeated term in this source (127-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: content, upcoming, cohort. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'editing' is the public-facing half of the work — disisjorj uses the word to mark the line between private effort and visible output. It appears 3 times, it sits next to 'wrong', 'crossed', and 'plus' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Although hooks, retention editing, copywriting have played a… The clip is engineered so that 'nothing' lands as setup, not payoff; the payoff is the move 'editing' names.
 
 ## Synonyms
 
-- editing
-- content
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "took me two months to reach my first 1000 followers, and four months after that, I crossed the 60,000 plus mark. Although hooks, retention editing, copywriting have played a major role, nothing has helped me more than systemizing my process for content creation. If you're writing a new script every day, you're doing it wrong." — sources/S_ig_disisjorj_CzJOGwjtWKs.md
-> "I'll be teaching all of my systems in my upcoming cohort from content ideation, content creation, and editing. Check the first link in" — sources/S_ig_disisjorj_CzJOGwjtWKs.md
+> "1000 followers, and four months after that, I crossed the 60,000 plus mark. Although hooks, retention editing, copywriting have played a major role, nothing has helped me more than systemizing my process for content creation. If you're writing a new script" — sources/S_ig_disisjorj_CzJOGwjtWKs.md
+> "ll be teaching all of my systems in my upcoming cohort from content ideation, content creation, and editing. Check the first link in bio" — sources/S_ig_disisjorj_CzJOGwjtWKs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'editing' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term is load-bearing for disisjorj in general: a 127-word clip with the word 'editing' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

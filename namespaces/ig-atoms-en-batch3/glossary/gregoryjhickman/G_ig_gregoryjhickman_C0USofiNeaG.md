@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["experiencing", "others"]
+aka: ["everyone's potentially"]
 origin: sources/S_ig_gregoryjhickman_C0USofiNeaG.md
 ---
 
-# G_ig_gregoryjhickman_C0USofiNeaG — experiencing
+# G_ig_gregoryjhickman_C0USofiNeaG — everyone's potentially
 
 ## Term
 
-experiencing is the most prominent repeated term in this source (174-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: others, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'everyone's potentially' is the sales move gregoryjhickman argues is the difference between an objection that sticks and one that dissolves. It appears once in the transcript, and it sits next to 'while', 'finish', and 'clients' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: How do we finish this year while still… The argument only stays upright while 'everyone's potentially' is doing the work — pull it and 'ourselves' loses its anchor.
 
 ## Synonyms
 
-- experiencing
-- others
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm saying this because A, to myself, and B, to all of you, because if one of you is experiencing this, I know that there's others experiencing this. I had a call with one of you the other day, and the is I need leads, I need clients now. We lost a client, or you know, things have been going slower." — sources/S_ig_gregoryjhickman_C0USofiNeaG.md
+> "like prepare ourselves and weaponize. How do we finish this year while still getting clients, while everyone's potentially slowing down because of the holidays and all that stuff? The potential, are we in a recession? Are we not in a recession? Talk" — sources/S_ig_gregoryjhickman_C0USofiNeaG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'everyone's potentially' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'everyone's potentially' (e.g. the collocation with 'prepare') is the speech of one clip, not a stylistic pattern that can be generalised.

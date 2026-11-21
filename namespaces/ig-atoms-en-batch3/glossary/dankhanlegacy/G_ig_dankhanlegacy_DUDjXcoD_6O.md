@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Step", "build"]
+aka: ["realistic step-by-step"]
 origin: sources/S_ig_dankhanlegacy_DUDjXcoD_6O.md
 ---
 
-# G_ig_dankhanlegacy_DUDjXcoD_6O — Step
+# G_ig_dankhanlegacy_DUDjXcoD_6O — realistic step-by-step
 
 ## Term
 
-Step is the most prominent repeated term in this source (148-word transcript from the Instagram account dankhanlegacy): it occurs 12 times literally in the text, most often collocated with: build, exact, roadmap. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'realistic step-by-step' is the moment in the sale dankhanlegacy says a person cannot skip and still expect the deal to close. It appears once in the transcript, and it sits next to 'years' and 'breakdown' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: This video is gonna be a very realistic… Strip the clip down to its claim and you are left with 'realistic step-by-step'; 'step-by-step' and 'seconds' are how the claim is delivered.
 
 ## Synonyms
 
-- Step
-- build
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This video is gonna be a very realistic step-by-step breakdown on how I did it. In 50 seconds, I'm going to show you the exact step-by-step roadmap I followed, and step five is the most important one. Step one, learn one valuable skill. Step two, you work for free to build proof." — sources/S_ig_dankhanlegacy_DUDjXcoD_6O.md
-> "Step five, you build systems so you're not the bottleneck. Step six, you scale with paid ads once the offer works. Step seven, you hire people smarter than you. That's it. That's how you go from zero to $3.6 million." — sources/S_ig_dankhanlegacy_DUDjXcoD_6O.md
-> "Step two, you work for free to build proof. Step three, you charge low, then raise prices as you improve. Step four, you niche down to one type of client. Step five, you build systems so you're not the bottleneck. Step six, you scale with paid ads once the offer works. Step seven, you hire people smarter than you. That's it." — sources/S_ig_dankhanlegacy_DUDjXcoD_6O.md
+> "From broke college student to $3.6 million in less than six years. This video is gonna be a very realistic step-by-step breakdown on how I did it. In 50 seconds, I'm going to show you the exact step-by-step roadmap I followed, and step five is the" — sources/S_ig_dankhanlegacy_DUDjXcoD_6O.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in dankhanlegacy's reel, 'realistic step-by-step' is the specific move dankhanlegacy says a person must make before the prospect will commit.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'realistic step-by-step' (e.g. the collocation with 'smarter') is the speech of one clip, not a stylistic pattern that can be generalised.

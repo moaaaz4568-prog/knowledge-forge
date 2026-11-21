@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["talent", "service"]
+aka: ["talent"]
 origin: sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
 
 ## Term
 
-talent is the most prominent repeated term in this source (181-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: service, custom, finding. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's framing, 'talent' is the part of the conversation gregoryjhickman treats as load-bearing — the move the rest of the close is built to set up. It appears 4 times, it sits next to 'custom', 'finding', and 'recruiting' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: When your service is custom, finding talent, recruiting… Cut 'talent' and the clip's aboutness shifts from a claim to a description of motion and complexity.
 
 ## Synonyms
 
-- talent
-- service
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "your service is custom, finding talent, recruiting talent, hiring talent becomes not only costly because you need to go hire experts for things you don't know enough about, but it's really difficult to train." — sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
-> "still developing as a leader and now you're stacking on all of the burden of, well, now you got to figure out how to train and onboard new talent to take stuff off your plate, you're adding complexity to your business oftentimes at a stage that's way too early for where you need to be doing that, when you could have simply just gotten more productized and solved fewer problems and" — sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
+> "When your service is custom, finding talent, recruiting talent, hiring talent becomes not only costly because you need to go hire experts for things you don't know enough about, but it's really" — sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
+> "you're stacking on all of the burden of, well, now you got to figure out how to train and onboard new talent to take stuff off your plate, you're adding complexity to your business oftentimes at a stage that's way too early for where you need to be doing" — sources/S_ig_gregoryjhickman_C87HBHFCoCR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'talent' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as evidence gregoryjhickman always uses 'talent' this way: one 181-word clip is too thin a sample to support any claim about how the account uses the word in general.

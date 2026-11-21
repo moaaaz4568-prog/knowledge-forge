@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["productized", "version"]
+aka: ["productized"]
 origin: sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
 
 ## Term
 
-productized is the most prominent repeated term in this source (154-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: version, service, design. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'productized' names the visual or structural move gregoryjhickman says carries the meaning the words do not. It appears 4 times, it sits next to 'version', 'pickle', and 'historically' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: Now historically, when people think about productized services… Every other word in the source, including 'outcome', is in service to the move 'productized' names.
 
 ## Synonyms
 
-- productized
-- version
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "historically, when people think about productized services, they think of companies like Design Pickle, where it's a flat monthly rate and you get unlimited requests." — sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
-> "That is one version of a productized service. Just like Design Pickle is a version of a productized service, where it's a flat rate of three hundred to a thousand bucks a month, you get a dedicated designer, but they do only certain types of design. They do a lot of different things." — sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
-> "They do a lot of different things. And oftentimes in a productized service, you actually don't do a lot of different things." — sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
+> "Now historically, when people think about productized services, they think of companies like Design Pickle, where it's a flat monthly rate and you get unlimited requests. This concept of unlimited" — sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
+> "designer, but they do only certain types of design. They do a lot of different things. And oftentimes in a productized service, you actually don't do a lot of different things. You actually sell one particular outcome" — sources/S_ig_gregoryjhickman_C4VyHuCsUbx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in gregoryjhickman's clip, 'productized' names one specific visual or structural choice, not the whole craft of design.
+- Read as a claim about how gregoryjhickman uses 'productized' across their work: this single 154-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

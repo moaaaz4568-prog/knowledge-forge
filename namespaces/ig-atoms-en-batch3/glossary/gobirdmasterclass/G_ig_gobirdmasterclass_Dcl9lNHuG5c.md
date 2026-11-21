@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["art", "cyberpunk"]
+aka: ["art"]
 origin: sources/S_ig_gobirdmasterclass_Dcl9lNHuG5c.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gobirdmasterclass_Dcl9lNHuG5c.md
 
 ## Term
 
-art is the most prominent repeated term in this source (31-word transcript from the Instagram account gobirdmasterclass): it occurs 4 times literally in the text, most often collocated with: cyberpunk, pop, glass. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gobirdmasterclass's clip, 'art' is the design choice gobirdmasterclass treats as the hinge between pretty and effective. It appears 4 times, it sits next to 'cyberpunk', 'glass', and 'morphism' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gobirdmasterclass names the thing a person cannot outsource — nearby: Minimalism, maximalism, futuristic, vector art, collage art, retro… Cut 'art' and the clip's aboutness shifts from a claim to a description of graffiti and bohemian.
 
 ## Synonyms
 
-- art
-- cyberpunk
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "maximalism, futuristic, vector art, collage art, retro, cyberpunk, pop art, glass morphism, clay style, pixel art, editorial, Y two K, Swiss design, surreal design, bohemian, Victorian style, graffiti, aurora" — sources/S_ig_gobirdmasterclass_Dcl9lNHuG5c.md
+> "Minimalism, maximalism, futuristic, vector art, collage art, retro, cyberpunk, pop art, glass morphism, clay style, pixel art, editorial, Y two K, Swiss design, surreal design, bohemian, Victorian" — sources/S_ig_gobirdmasterclass_Dcl9lNHuG5c.md
+> "maximalism, futuristic, vector art, collage art, retro, cyberpunk, pop art, glass morphism, clay style, pixel art, editorial, Y two K, Swiss design, surreal design, bohemian, Victorian style, graffiti, aurora, handwritten" — sources/S_ig_gobirdmasterclass_Dcl9lNHuG5c.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in gobirdmasterclass's usage, 'art' is a specific design move, not a category of design choices.
+- Read as a stylistic choice by gobirdmasterclass: the wording around 'art' (e.g. the collocation with 'maximalism') is the speech of one clip, not a stylistic pattern that can be generalised.

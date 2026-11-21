@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sales", "dial"]
+aka: ["sales page"]
 origin: sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
 ---
 
-# G_ig_gregoryjhickman_CUNcfmpjHLZ — sales
+# G_ig_gregoryjhickman_CUNcfmpjHLZ — sales page
 
 ## Term
 
-sales is the most prominent repeated term in this source (164-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: dial, deep, game. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'sales page' is the felt thing the conversation is actually about — the source treats it as more real than the stated goal. It appears 3 times, it sits next to 'plenty', 'specialty', and 'courses' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: There are plenty of them out there, just… The sentence around 'because' only carries weight because 'sales page' is what the sentence is really about.
 
 ## Synonyms
 
-- sales
-- dial
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you kind of have the fundamentals in place, but you wanna really dial deep on your sales game, you should probably go get a one-off course or mentor or program that's really focused on that." — sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
-> "And that's where I feel like at least for us, the systems-based programs are really important because, cool, so you have a great sales page, but now that you have a great sales page, how does that integrate into the rest of your" — sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
-> "There are plenty of them out there, just like there are plenty of specialty courses and programs on how to build a sales page or how to launch a Facebook ad. But what I've found is what a lot of those specialty programs lack is the, hey, once you have this skill or the deliverable of the specialty, how do you go plug that back into your business?" — sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
+> "plenty of them out there, just like there are plenty of specialty courses and programs on how to build a sales page or how to launch a Facebook ad. But what I've found is what a lot of those specialty programs lack is the, hey, once you have this skill or" — sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
+> "programs are really important because, cool, so you have a great sales page, but now that you have a great sales page, how does that integrate into the rest of your business" — sources/S_ig_gregoryjhickman_CUNcfmpjHLZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'sales page' to a specific kind of felt weight (the kind that surfaces around 'found'), not to feeling in general.
+- Read as a recommendation to use 'sales page' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'found'); it does not argue the reader should adopt it.

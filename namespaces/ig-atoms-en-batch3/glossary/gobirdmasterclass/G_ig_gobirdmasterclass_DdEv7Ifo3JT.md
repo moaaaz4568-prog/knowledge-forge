@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["effect", "Drop"]
+aka: ["drag-and-drop preset"]
 origin: sources/S_ig_gobirdmasterclass_DdEv7Ifo3JT.md
 ---
 
-# G_ig_gobirdmasterclass_DdEv7Ifo3JT — effect
+# G_ig_gobirdmasterclass_DdEv7Ifo3JT — drag-and-drop preset
 
 ## Term
 
-effect is the most prominent repeated term in this source (79-word transcript from the Instagram account gobirdmasterclass): it occurs 2 times literally in the text, most often collocated with: drop, simple, instantly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'drag-and-drop preset' names the distinction gobirdmasterclass draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'finish', 'drop', and 'shadow' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gobirdmasterclass turns from describing to prescribing — the pivot runs: I've packed the full effect into a drag-and-drop… What makes the word 'drag-and-drop preset' the term here is that the rest — 'instantly', 'finish', everything else — is staged for it.
 
 ## Synonyms
 
-- effect
-- Drop
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "simple effect can instantly make your edits stand out. Watch till the end to recreate it. Start by adding Turbulent Displace to your image or text. Then use these settings to create the jitter." — sources/S_ig_gobirdmasterclass_DdEv7Ifo3JT.md
-> "Need more impact? Apply Glow or Deep Glow, then finish with Drop Shadow. I've packed the full effect into a drag-and-drop preset. Comment" — sources/S_ig_gobirdmasterclass_DdEv7Ifo3JT.md
+> "more impact? Apply Glow or Deep Glow, then finish with Drop Shadow. I've packed the full effect into a drag-and-drop preset. Comment" — sources/S_ig_gobirdmasterclass_DdEv7Ifo3JT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'drag-and-drop preset' here is pinned to one specific claim in this clip, and the same word in another source from gobirdmasterclass may carry a different load.
+- Read as a stylistic choice by gobirdmasterclass: the wording around 'drag-and-drop preset' (e.g. the collocation with 'jitter') is the speech of one clip, not a stylistic pattern that can be generalised.

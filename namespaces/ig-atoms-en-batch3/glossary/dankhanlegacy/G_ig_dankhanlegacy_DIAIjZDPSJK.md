@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["crazy", "matter"]
+aka: ["crazy"]
 origin: sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
 
 ## Term
 
-crazy is the most prominent repeated term in this source (197-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: matter, mind, sound. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'crazy' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 4 times, it sits next to 'goals', 'matter', and 'mind' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Your crazy goals matter… Without 'crazy' as the anchor, 'Because' and 'yourself' would float without a stake in the argument.
 
 ## Synonyms
 
-- crazy
-- matter
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "crazy goals matter. Mind it. This is gonna sound super crazy. The more you are yourself, the less people cheer you on. No joke. Why?" — sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
-> "That's your call, not theirs. Funny thing is, those who doubted you, they'll start wondering, 'Hey, what's that crazy kid been up to? ' And when they see you've made it big, those 'you're crazy' comments, they turn into 'wow, we're so proud of you'." — sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
+> "Your crazy goals matter. Mind it. This is gonna sound super crazy. The more you are yourself, the less people cheer you on. No joke. Why? Because when you're" — sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
+> "wondering, 'Hey, what's that crazy kid been up to? ' And when they see you've made it big, those 'you're crazy' comments, they turn into 'wow, we're so proud of you'. If you are a coach, consultant, expert or digital product creator looking to scale to seven" — sources/S_ig_dankhanlegacy_DIAIjZDPSJK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'crazy' is loaded by dankhanlegacy with a specific working meaning (visible in the collocation with 'theirs'), not the dictionary sense.
+- Read as polished prose: this is a verbatim transcript of a 197-word Instagram clip, and the wording around 'crazy' (including the collocation with 'theirs') is spoken speech, not edited writing.

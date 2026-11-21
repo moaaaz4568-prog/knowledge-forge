@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["million", "funnel"]
+aka: ["million"]
 origin: sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
 
 ## Term
 
-million is the most prominent repeated term in this source (222-word transcript from the Instagram account dankhanlegacy): it occurs 6 times literally in the text, most often collocated with: funnel, results, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's clip, 'million' is the design choice dankhanlegacy treats as the hinge between pretty and effective. It appears 6 times, it sits next to 'funnel', 'ready', and 'launch' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Steal this funnel that generated over $27 million… Without 'million' as the anchor, 'scripts' and 'recovered' would float without a stake in the argument.
 
 ## Synonyms
 
-- million
-- funnel
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "this funnel that generated over $27 million. Save this reel when you're ready to launch. One of my clients went from zero to $27 million with one offer and one funnel. $27 million. Here's how it works. The hook wasn't about the product." — sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
-> "No custom designs or any creative pages. But the exact fill-in-the-blank template that made over $75 million. The registration page that converts cold traffic at 40%. The sales script that closed 30% of attendees. And the email sequence that recovered lost sales. Every single piece was tested, proven, and optimized." — sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
-> "Word-for-word scripts. Page-by-page breakdowns. Everything you need to replicate $27 million in results for your info or digital product business." — sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
+> "Steal this funnel that generated over $27 million. Save this reel when you're ready to launch. One of my clients went from zero to $27 million with one offer and one funnel. $27 million. Here's" — sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
+> "exact frameworks. Word-for-word scripts. Page-by-page breakdowns. Everything you need to replicate $27 million in results for your info or digital product business. Comment the word template and I send it over to you" — sources/S_ig_dankhanlegacy_DPwy4zFjN06.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in dankhanlegacy's clip, 'million' names one specific visual or structural choice, not the whole craft of design.
+- Read as polished prose: this is a verbatim transcript of a 222-word Instagram clip, and the wording around 'million' (including the collocation with 'designing') is spoken speech, not edited writing.

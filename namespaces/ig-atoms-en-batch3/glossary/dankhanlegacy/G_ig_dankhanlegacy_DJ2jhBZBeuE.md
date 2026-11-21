@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["prompts", "ChatGPT"]
+aka: ["prompts"]
 origin: sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
 
 ## Term
 
-prompts is the most prominent repeated term in this source (194-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: chatgpt, part, continuation. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'prompts' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears 5 times, it sits next to 'chatgpt', 'part', and 'continuation' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Nine ChatGPT prompts to start your own business… It is the one word in this source that, if removed, would leave 'journey' without a frame to hang on.
 
 ## Synonyms
 
-- prompts
-- ChatGPT
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "ChatGPT prompts to start your own business. Did you know 50 million startups launch every year and 30% of them crash and burn within three years of its launch? And only 40% of the remaining 20% ever make profits." — sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
-> "Make sure you have watched the part one and part two as these prompts are the continuation. Here are three ChatGPT prompts that'll flip this stats in your favour. Number one, what are some common pitfalls first time entrepreneurs face in your area or industry niche and how can I prepare for them?" — sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
-> "Take these prompts one by one and keep thinking until you have made your plan. Check caption to literally steal the prompts. Go and try these and follow for more" — sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
+> "Nine ChatGPT prompts to start your own business. Did you know 50 million startups launch every year and 30% of them crash and burn within three years of its launch" — sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
+> "prompts one by one and keep thinking until you have made your plan. Check caption to literally steal the prompts. Go and try these and follow for more value" — sources/S_ig_dankhanlegacy_DJ2jhBZBeuE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'prompts' here is the specific frame dankhanlegacy argues from, not a generic motivational label.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'prompts' (e.g. the collocation with 'pitfalls') is the speech of one clip, not a stylistic pattern that can be generalised.

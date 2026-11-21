@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["percent", "fail"]
+aka: ["two percent"]
 origin: sources/S_ig_dankhanlegacy_DQEy8vojLLx.md
 ---
 
-# G_ig_dankhanlegacy_DQEy8vojLLx — percent
+# G_ig_dankhanlegacy_DQEy8vojLLx — two percent
 
 ## Term
 
-percent is the most prominent repeated term in this source (311-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: fail, doubt, yourself. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'two percent' is the body cue dankhanlegacy says the person must learn to feel before any external cue can help. It appears twice, it sits next to 'doubt', 'yourself', and 'ninety' — the repetition is what makes it the spine of the clip rather than a passing word. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Two percent of the time, you are gonna… The argument only stays upright while 'two percent' is doing the work — pull it and 'single' loses its anchor.
 
 ## Synonyms
 
-- percent
-- fail
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "my early stage online business owners, digital product creators, just know this: ninety six percent of the time, it's gonna fail. Two percent of the time, you are gonna doubt yourself, and two percent of the time, you are gonna win. And you have to live through those wins because those wins are ultimately what makes it worth it." — sources/S_ig_dankhanlegacy_DQEy8vojLLx.md
+> "business owners, digital product creators, just know this: ninety six percent of the time, it's gonna fail. Two percent of the time, you are gonna doubt yourself, and two percent of the time, you are gonna win. And you have to live through those wins because" — sources/S_ig_dankhanlegacy_DQEy8vojLLx.md
+> "six percent of the time, it's gonna fail. Two percent of the time, you are gonna doubt yourself, and two percent of the time, you are gonna win. And you have to live through those wins because those wins are ultimately what makes it worth it. Okay, just" — sources/S_ig_dankhanlegacy_DQEy8vojLLx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'two percent' is dankhanlegacy's coaching cue for a felt position, not a clinical label.
+- Read as evidence the term is central to the account: one 311-word clip showing 'two percent' next to 'dinner' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: ["football", "became"]
+aka: ["football"]
 origin: sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
 
 ## Term
 
-football is the most prominent repeated term in this source (102-word transcript from the Instagram account elgendyfilms): it occurs 3 times literally in the text, most often collocated with: became, goal, world. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'football' names what elgendyfilms argues the game is actually for — the meaning that survives only when the cameras are off. It appears 3 times, it sits next to 'became', 'nothing', and 'ball' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. elgendyfilms drops it precisely where the cost of skipping it shows up — the surrounding move runs: Back then, football wasn't a business… Cut 'football' and the clip's aboutness shifts from a claim to a description of breath and nothing.
 
 ## Synonyms
 
-- football
-- became
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Just a ball, a street, and a heartbeat. Back then, football wasn't a business. It was a breath of freedom. Played in dust, in mud, under rain. No cameras, no fans, just passion. But something happened. The world saw it, felt it, needed it. And slowly, it grew." — sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
-> "The world saw it, felt it, needed it. And slowly, it grew. From the alleys of yesterday to the arenas of today. Football became more than a game. It became the voice of the people, their pride, their joy. Because in ninety minutes, a nation can dream. And in one goal, a world can erupt." — sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
+> "It started with nothing. Just a ball, a street, and a heartbeat. Back then, football wasn't a business. It was a breath of freedom. Played in dust, in mud, under rain. No cameras, no fans, just passion. But something happened" — sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
+> "their joy. Because in ninety minutes, a nation can dream. And in one goal, a world can erupt. This is football, and it never stops" — sources/S_ig_elgendyfilms_DKco4rMs-Z4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching word: the source uses 'football' to name what the game is actually about, beneath the cameras and the money.
+- Read as evidence elgendyfilms always uses 'football' this way: one 102-word clip is too thin a sample to support any claim about how the account uses the word in general.

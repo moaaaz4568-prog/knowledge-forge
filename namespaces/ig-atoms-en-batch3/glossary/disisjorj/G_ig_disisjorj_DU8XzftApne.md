@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["iPhone", "Yet"]
+aka: ["capture high-quality"]
 origin: sources/S_ig_disisjorj_DU8XzftApne.md
 ---
 
-# G_ig_disisjorj_DU8XzftApne — iPhone
+# G_ig_disisjorj_DU8XzftApne — capture high-quality
 
 ## Term
 
-iPhone is the most prominent repeated term in this source (123-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: yet, still, using. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'capture high-quality' carries the weight of a discipline, not an event: disisjorj frames it as the work that turns private effort into public evidence. It appears once in the transcript, and it sits next to 'outside', 'studio', and 'able' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: When I'm outside of the studio, I still… Take 'capture high-quality' out and the clip collapses into generalities about outside — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- iPhone
-- Yet
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "camera setup will cost you right around $5,000. Yet I'm still using my iPhone to record these videos. When I'm outside of the studio, I still want to be able to capture high-quality content without me having to change lenses, take out the SD, open up my laptop, open up the editing software and start editing." — sources/S_ig_disisjorj_DU8XzftApne.md
-> "me having to change lenses, take out the SD, open up my laptop, open up the editing software and start editing. Now, the reason why your iPhone videos don't look quite like mine is because you're still using the native camera app that iPhones come with. I use a different one." — sources/S_ig_disisjorj_DU8XzftApne.md
-> "app and the exact settings that I'm using so that you can replicate them and start getting this level of quality straight out of your iPhone" — sources/S_ig_disisjorj_DU8XzftApne.md
+> "still using my iPhone to record these videos. When I'm outside of the studio, I still want to be able to capture high-quality content without me having to change lenses, take out the SD, open up my laptop, open up the editing software and start editing. Now" — sources/S_ig_disisjorj_DU8XzftApne.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'capture high-quality' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a claim about how disisjorj uses 'capture high-quality' across their work: this single 123-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

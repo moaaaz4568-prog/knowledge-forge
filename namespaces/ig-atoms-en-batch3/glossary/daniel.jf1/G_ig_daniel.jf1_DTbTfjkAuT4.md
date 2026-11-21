@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["business", "white"]
+aka: ["white"]
 origin: sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
 ---
 
-# G_ig_daniel.jf1_DTbTfjkAuT4 — business
+# G_ig_daniel.jf1_DTbTfjkAuT4 — white
 
 ## Term
 
-business is the most prominent repeated term in this source (171-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: white, high, level. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'white' names the specific advantage daniel.jf1 argues is missing in the person's current setup — the lever they have not yet pulled. It appears 5 times, it sits next to 'level', 'label', and 'human' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: This is the same caliber as like trying… Strip the clip down to its claim and you are left with 'white'; 'squeak' and 'paying' are how the claim is delivered.
 
 ## Synonyms
 
-- business
-- white
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is where like you'll see, oh, take this AI voice agent and sell it to a business and rent it to a business or something like that. Complete bullshit. That's not gonna work. This is the same caliber as like trying to scale like a Go High Level white label business." — sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
-> "No one's paying you in 2K a month, 3K a month to white label your AI tool. Therefore, this goes in D tier. Garbage business model. Doesn't" — sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
-> "Every human on the planet who makes a lot of money white labeling Go High Level is selling a business opportunity course that teaches other people how to white label Go High Level, and then they signed up under them, and then the amount of people that they managed to squeak out, like they get another layer of affiliate commission." — sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
+> "bullshit. That's not gonna work. This is the same caliber as like trying to scale like a Go High Level white label business. What you need to understand about that is no human on the planet makes a lot of money just white labeling Go High Level. Every human" — sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
+> "layer of affiliate commission. It's a pyramid scheme. No one's paying you in 2K a month, 3K a month to white label your AI tool. Therefore, this goes in D tier. Garbage business model. Doesn't work" — sources/S_ig_daniel.jf1_DTbTfjkAuT4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'white' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
+- Read as evidence daniel.jf1 always uses 'white' this way: one 171-word clip is too thin a sample to support any claim about how the account uses the word in general.

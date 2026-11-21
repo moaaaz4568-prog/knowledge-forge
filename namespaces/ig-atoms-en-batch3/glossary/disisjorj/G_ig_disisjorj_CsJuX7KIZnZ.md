@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["leverage", "opportunity"]
+aka: ["leverage"]
 origin: sources/S_ig_disisjorj_CsJuX7KIZnZ.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_disisjorj_CsJuX7KIZnZ.md
 
 ## Term
 
-leverage is the most prominent repeated term in this source (106-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: opportunity, amount, output. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'leverage' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears 3 times, it sits next to 'amount', 'matter', and 'hard' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: When a small amount of input brings a… Without 'leverage' as the anchor, 'brings' and 'points' would float without a stake in the argument.
 
 ## Synonyms
 
-- leverage
-- opportunity
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When a small amount of input brings a big amount of output, we call that leverage. Warren Buffett said" — sources/S_ig_disisjorj_CsJuX7KIZnZ.md
-> "That is leverage of opportunity. You could perform every day, seven days a week, for a whole month, and still make less than an average Joe. Aside from how draining that would be, it points out how finite of an opportunity that is." — sources/S_ig_disisjorj_CsJuX7KIZnZ.md
-> "Aside from how draining that would be, it points out how finite of an opportunity that is. Start identifying ways to leverage your skills, your knowledge, and technology. If you don't know where to start, start here." — sources/S_ig_disisjorj_CsJuX7KIZnZ.md
+> "Musicians listen very closely. When a small amount of input brings a big amount of output, we call that leverage. Warren Buffett said" — sources/S_ig_disisjorj_CsJuX7KIZnZ.md
+> "draining that would be, it points out how finite of an opportunity that is. Start identifying ways to leverage your skills, your knowledge, and technology. If you don't know where to start, start here. Drop a follow and I'll see you tomorrow" — sources/S_ig_disisjorj_CsJuX7KIZnZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'leverage' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as proof the term is load-bearing for disisjorj in general: a 106-word clip with the word 'leverage' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

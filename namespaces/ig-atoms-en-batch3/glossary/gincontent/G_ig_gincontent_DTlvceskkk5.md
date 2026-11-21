@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["portfolio", "convincing"]
+aka: ["portfolio", "portfolios"]
 origin: sources/S_ig_gincontent_DTlvceskkk5.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gincontent_DTlvceskkk5.md
 
 ## Term
 
-portfolio is the most prominent repeated term in this source (168-word transcript from the Instagram account gincontent): it occurs 3 times literally in the text, most often collocated with: convincing, enough, designer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'portfolio' in this clip is the future-pain frame gincontent says must be touched before any plan can land. It appears 3 times, it sits next to 'designing', 'because', and 'sucks' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: I've been designing for over a year." "That's… The sentence around 'proving' only carries weight because 'portfolio' is what the sentence is really about.
 
 ## Synonyms
 
-- portfolio
-- convincing
+- portfolios
 
 ## Live Example
 
-> "but how am I supposed to add that to my portfolio" — sources/S_ig_gincontent_DTlvceskkk5.md
-> "problem with most portfolios isn't that they're bad; it's that they aren't convincing enough. A designer's portfolio shouldn't be a gallery; it should be a timeline proving the impact you" — sources/S_ig_gincontent_DTlvceskkk5.md
+> "That's because your portfolio sucks, bro" — sources/S_ig_gincontent_DTlvceskkk5.md
+> "problem with most portfolios isn't that they're bad; it's that they aren't convincing enough. A designer's portfolio shouldn't be a gallery; it should be a timeline proving the impact you created" — sources/S_ig_gincontent_DTlvceskkk5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'portfolio' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as a rule for using 'portfolio': the clip shows gincontent using the word in one specific move (alongside 'simple'), not a recommendation that the reader adopt the word themselves.

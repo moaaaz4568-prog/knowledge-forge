@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["green screen", "download"]
+aka: ["green screen"]
 origin: sources/S_ig_disisjorj_CtVwElUt64z.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CtVwElUt64z.md
 
 ## Term
 
-green screen is the most prominent repeated term in this source (74-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: download, com, search. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'green screen' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears 3 times, it sits next to 'head', 'choose', and 'download' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Com and search in the video section for… The clip is engineered so that 'search' lands as setup, not payoff; the payoff is the move 'green screen' names.
 
 ## Synonyms
 
-- green screen
-- download
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Head onto Canva. Com and search in the video section for green screen money. From there, you can choose any video that you like that has a green screen. Your download would look something like this. Place the green screen video on top of your original video. Head over to Effects, All, and search Keyer." — sources/S_ig_disisjorj_CtVwElUt64z.md
+> "Here's how I add this in my video. Head onto Canva. Com and search in the video section for green screen money. From there, you can choose any video that you like that has a green screen. Your download would look something like this. Place the" — sources/S_ig_disisjorj_CtVwElUt64z.md
+> "video that you like that has a green screen. Your download would look something like this. Place the green screen video on top of your original video. Head over to Effects, All, and search Keyer. From there, drag Keyer on top of your file, and now" — sources/S_ig_disisjorj_CtVwElUt64z.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'green screen' is loaded by disisjorj with a specific working meaning, not the dictionary sense.
+- Read as a claim about how disisjorj uses 'green screen' across their work: this single 74-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

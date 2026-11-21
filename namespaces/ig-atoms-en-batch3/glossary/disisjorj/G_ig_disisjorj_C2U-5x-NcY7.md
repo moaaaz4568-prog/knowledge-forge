@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "overlap"]
+aka: ["nobody tells"]
 origin: sources/S_ig_disisjorj_C2U-5x-NcY7.md
 ---
 
-# G_ig_disisjorj_C2U-5x-NcY7 — content
+# G_ig_disisjorj_C2U-5x-NcY7 — nobody tells
 
 ## Term
 
-content is the most prominent repeated term in this source (98-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: overlap, create, tells. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'nobody tells' is the missing mechanic — the thing disisjorj says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'creation', 'value', and 'word' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Here's what nobody tells you about content creation… This is the word the clip is built to deliver; 'follow' is texture around it, not the point.
 
 ## Synonyms
 
-- content
-- overlap
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "what nobody tells you about content creation. Value is a word that everyone throws out there, so let me help you with just that. Make it worth their time. Create with the intention of actually helping someone else." — sources/S_ig_disisjorj_C2U-5x-NcY7.md
-> "What do they want to learn and what can you teach them? The overlap of those two is the content you create. That's how you make it worthwhile for them, but staying true to your curiosities, interests, and skills." — sources/S_ig_disisjorj_C2U-5x-NcY7.md
+> "Here's what nobody tells you about content creation. Value is a word that everyone throws out there, so let me help you with just that. Make it worth their time. Create" — sources/S_ig_disisjorj_C2U-5x-NcY7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'nobody tells' is disisjorj's coaching cue for a felt position, not a clinical label.
+- Read as a definition of 'nobody tells': the source documents how disisjorj deploys the word in this clip — collocated with 'throws' — it does not establish what the word means in general.

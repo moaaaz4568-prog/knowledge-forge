@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["rich", "gets"]
+aka: ["rich"]
 origin: sources/S_ig_dankhanlegacy_DNN4H5PsqoL.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DNN4H5PsqoL.md
 
 ## Term
 
-rich is the most prominent repeated term in this source (94-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: gets, cooking, line. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'rich' names the felt consequence dankhanlegacy uses to break through a person's logical defences. It appears 4 times, it sits next to 'gets', 'outside', and 'market' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: A chef doesn't get rich from cooking… Cut 'rich' and the clip's aboutness shifts from a claim to a description of funnel and market.
 
 ## Synonyms
 
-- rich
-- gets
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You get paid for how well the market responds to what you do. A chef doesn't get rich from cooking. He gets rich when people line up outside his restaurant. A funnel builder doesn't get rich from building funnels. He gets rich when the offer prints money. The market doesn't care how hard you work." — sources/S_ig_dankhanlegacy_DNN4H5PsqoL.md
+> "paid to do the work. You get paid for how well the market responds to what you do. A chef doesn't get rich from cooking. He gets rich when people line up outside his restaurant. A funnel builder doesn't get rich from building funnels. He gets rich when" — sources/S_ig_dankhanlegacy_DNN4H5PsqoL.md
+> "people line up outside his restaurant. A funnel builder doesn't get rich from building funnels. He gets rich when the offer prints money. The market doesn't care how hard you work. It only cares how well you solve the problem. That's business. Stop thinking" — sources/S_ig_dankhanlegacy_DNN4H5PsqoL.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'rich' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'rich' (e.g. the collocation with 'outside') is the speech of one clip, not a stylistic pattern that can be generalised.

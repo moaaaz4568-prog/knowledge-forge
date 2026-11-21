@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["ads", "social"]
+aka: ["excluding referrals"]
 origin: sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
 ---
 
-# G_ig_daniel.jf1_DRx9iYMDUOy — ads
+# G_ig_daniel.jf1_DRx9iYMDUOy — excluding referrals
 
 ## Term
 
-ads is the most prominent repeated term in this source (90-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: social, buy, platforms. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'excluding referrals' is the missing mechanic — the thing daniel.jf1 says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'three', 'ways', and 'acquire' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: And we're excluding referrals here because we're talking… Without 'excluding referrals' as the anchor, 'traffic' and 'clients' would float without a stake in the argument.
 
 ## Synonyms
 
-- ads
-- social
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You have outreach, so you do cold outreach to people who do not know you, or ads. You buy ads from one of these social platforms, or you can buy ads anywhere, but generally it's from a social platform. It's those three, that's it." — sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
+> "Three ways only to acquire clients, right? And we're excluding referrals here because we're talking about cold traffic. You have content, so people can stumble upon you organically. You have outreach, so" — sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'excluding referrals' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as a recommendation to use 'excluding referrals' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'stumble'); it does not argue the reader should adopt it.

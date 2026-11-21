@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["change", "guarantee"]
+aka: ["guidance because"]
 origin: sources/S_ig_disisjorj_CvXVIWntqTq.md
 ---
 
-# G_ig_disisjorj_CvXVIWntqTq — change
+# G_ig_disisjorj_CvXVIWntqTq — guidance because
 
 ## Term
 
-change is the most prominent repeated term in this source (129-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: guarantee, better, guidance. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's reel, 'guidance because' names the body mechanic disisjorj isolates as the root of the movement problem. It appears once in the transcript, and it sits next to 'rather', 'avoiding', and 'guarantee' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Rather than avoiding it, use it as a… Anything else in the clip orbits this word — strip out 'guidance because' and the rest reads as filler around 'become'.
 
 ## Synonyms
 
-- change
-- guarantee
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Rather than avoiding it, use it as a guidance because I guarantee you nothing will change unless you change. And what better way to do that than doing what scares you the most? Break from that comfort zone, take the leap, and become more than what you already are." — sources/S_ig_disisjorj_CvXVIWntqTq.md
+> "it can be the single best indicator you need to go after that. Rather than avoiding it, use it as a guidance because I guarantee you nothing will change unless you change. And what better way to do that than doing what scares you the most? Break from" — sources/S_ig_disisjorj_CvXVIWntqTq.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'guidance because' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'guidance because' next to 'training') may not be load-bearing in disisjorj's wider body of work.

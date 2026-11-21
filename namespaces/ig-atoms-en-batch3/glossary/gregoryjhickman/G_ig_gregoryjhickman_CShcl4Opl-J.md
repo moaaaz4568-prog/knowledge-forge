@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["continuity", "anchor"]
+aka: ["continuity"]
 origin: sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
 
 ## Term
 
-continuity is the most prominent repeated term in this source (183-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: anchor, ongoing, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'continuity' names the inner experience gregoryjhickman treats as the real driver behind what the person says they want. It appears 3 times, it sits next to 'ongoing', 'recurring', and 'offer' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: It's actually beneficial to sell a project or… Even the move around 'invited' only registers as a move because 'continuity' is the thing being moved toward.
 
 ## Synonyms
 
-- continuity
-- anchor
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "project or a program or a front-end experience that clients have to go through before they actually get invited into an ongoing recurring continuity type offer. The fourth reason to have a project or program up front is that it actually will create a price anchor for the ongoing offer, the continuity, the monthly recurring revenue." — sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
-> "They're not, most people won't look at it at 24, 000 dollars a year. Or maybe it's a six month continuity, right? So the ability to anchor the back end so that it feels less expensive, even though you're giving more and it's gonna expand over more time, will play into your favor, making the upsell a whole lot easier." — sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
+> "experience that clients have to go through before they actually get invited into an ongoing recurring continuity type offer. The fourth reason to have a project or program up front is that it actually will create a price anchor for the ongoing offer, the" — sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
+> "month. They're not, most people won't look at it at 24, 000 dollars a year. Or maybe it's a six month continuity, right? So the ability to anchor the back end so that it feels less expensive, even though you're giving more and it's gonna expand over more" — sources/S_ig_gregoryjhickman_CShcl4Opl-J.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'continuity' in this clip names a specific bodily sensation gregoryjhickman is trying to surface, not a general state of mind.
+- Read as a claim about how gregoryjhickman uses 'continuity' across their work: this single 183-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

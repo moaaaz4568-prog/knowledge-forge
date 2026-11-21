@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["Claude", "skills"]
+aka: ["claude skills"]
 origin: sources/S_ig_divyannshisharma_DYfDeeqSlTk.md
 ---
 
-# G_ig_divyannshisharma_DYfDeeqSlTk — Claude
+# G_ig_divyannshisharma_DYfDeeqSlTk — claude skills
 
 ## Term
 
-Claude is the most prominent repeated term in this source (134-word transcript from the Instagram account divyannshisharma): it occurs 5 times literally in the text, most often collocated with: skills, using, tested. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For divyannshisharma, 'claude skills' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 4 times, it sits next to 'surface', 'using', and 'purely' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: The only 10 Claude skills you should be… The argument only stays upright while 'claude skills' is doing the work — pull it and 'extension' loses its anchor.
 
 ## Synonyms
 
-- Claude
-- skills
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "only 10 Claude skills you should be using. I made a SOP for them using Tango. You don't have to sit through endless YouTube videos or random Instagram posts to figure out Claude skills. Most people are purely scratching the surface of Claude skills." — sources/S_ig_divyannshisharma_DYfDeeqSlTk.md
-> "Most people are purely scratching the surface of Claude skills. I actually tested these 10 Claude skills live inside Claude using different scenarios. Then I used Tango's free Chrome extension and it captured everything automatically. Step by step, high resolution screenshot and zero manual effort." — sources/S_ig_divyannshisharma_DYfDeeqSlTk.md
+> "The only 10 Claude skills you should be using. I made a SOP for them using Tango. You don't have to sit through endless YouTube videos or random Instagram posts to" — sources/S_ig_divyannshisharma_DYfDeeqSlTk.md
+> "Claude skills. Most people are purely scratching the surface of Claude skills. I actually tested these 10 Claude skills live inside Claude using different scenarios. Then I used Tango's free Chrome extension and it captured everything automatically. Step by" — sources/S_ig_divyannshisharma_DYfDeeqSlTk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': divyannshisharma draws the line explicitly — 'claude skills' here is the public-facing act, distinct from the private work of creating.
+- Read as a stylistic choice by divyannshisharma: the wording around 'claude skills' (e.g. the collocation with 'automatically') is the speech of one clip, not a stylistic pattern that can be generalised.

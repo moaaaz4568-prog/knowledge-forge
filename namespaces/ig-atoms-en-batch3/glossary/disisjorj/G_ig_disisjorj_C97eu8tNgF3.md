@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["design", "into"]
+aka: ["google calendar"]
 origin: sources/S_ig_disisjorj_C97eu8tNgF3.md
 ---
 
-# G_ig_disisjorj_C97eu8tNgF3 — design
+# G_ig_disisjorj_C97eu8tNgF3 — google calendar
 
 ## Term
 
-design is the most prominent repeated term in this source (88-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: into, place, live. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'google calendar' is the structural move disisjorj says is doing the heavy lifting — the choice the rest of the design is built around. It appears once in the transcript, and it sits next to 'view', 'concept', and 'called' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: You create a new Google Calendar and you… The reel earns its keep only because 'google calendar' is doing the lifting; 'Calendar' alone would be filler.
 
 ## Synonyms
 
-- design
-- into
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You create a new Google Calendar and you assume that you are working within your week on something that you like, but you get to design that week. So based on our ideal week, how can we start positioning the content, the products, the strategy?" — sources/S_ig_disisjorj_C97eu8tNgF3.md
-> "Everything starts falling into place because you live a life by design and not by" — sources/S_ig_disisjorj_C97eu8tNgF3.md
+> "that same approach. They don't have that same view. The concept is called ideal week. You create a new Google Calendar and you assume that you are working within your week on something that you like, but you get to design that week. So based on our ideal" — sources/S_ig_disisjorj_C97eu8tNgF3.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in disisjorj's usage, 'google calendar' is a specific design move, not a category of design choices.
+- Read as a recommendation to use 'google calendar' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'concept'); it does not argue the reader should adopt it.

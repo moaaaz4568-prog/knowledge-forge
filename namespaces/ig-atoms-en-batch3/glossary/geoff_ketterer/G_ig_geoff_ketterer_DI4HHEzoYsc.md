@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sign", "contract"]
+aka: ["sign"]
 origin: sources/S_ig_geoff_ketterer_DI4HHEzoYsc.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_geoff_ketterer_DI4HHEzoYsc.md
 
 ## Term
 
-sign is the most prominent repeated term in this source (174-word transcript from the Instagram account geoff_ketterer): it occurs 5 times literally in the text, most often collocated with: contract, life, away. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'sign' names the felt adjustment geoff_ketterer insists is the difference between a rep that builds and a rep that just tires. It appears 5 times, it sits next to 'contract', 'sure', and 'phrase' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: One of the most successful tips anybody ever… Take 'sign' out and the clip collapses into generalities about phrase — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- sign
-- contract
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "sure you read every word before you sign" — sources/S_ig_geoff_ketterer_DI4HHEzoYsc.md
+> "Make sure you read every word before you sign anything" — sources/S_ig_geoff_ketterer_DI4HHEzoYsc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'sign' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as a clean transcript: the wording around 'sign' (including the run-on near 'follow') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

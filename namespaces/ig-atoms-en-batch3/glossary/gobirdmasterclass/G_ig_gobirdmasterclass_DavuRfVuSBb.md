@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["contrast", "size"]
+aka: ["contrast"]
 origin: sources/S_ig_gobirdmasterclass_DavuRfVuSBb.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gobirdmasterclass_DavuRfVuSBb.md
 
 ## Term
 
-contrast is the most prominent repeated term in this source (71-word transcript from the Instagram account gobirdmasterclass): it occurs 4 times literally in the text, most often collocated with: size, use, among. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'contrast' is the visual or structural choice gobirdmasterclass says is the actual carrier of meaning in the piece. It appears 4 times, it sits next to 'square', 'color', and 'among' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gobirdmasterclass turns from describing to prescribing — the pivot runs: I can make you see this circle first… Without 'contrast', the reel is just a clip about elements; with it, the clip is a claim.
 
 ## Synonyms
 
-- contrast
-- size
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can make you see this circle first among all the elements, and this is contrast in shape. I can also make you notice this square among all these squares, and this is contrast in color. And I can make you see this square first even though it has the same shape and color, but this is contrast in size." — sources/S_ig_gobirdmasterclass_DavuRfVuSBb.md
+> "I can make you see this circle first among all the elements, and this is contrast in shape. I can also make you notice this square among all these squares, and this is contrast in color. And I can make you see this square first" — sources/S_ig_gobirdmasterclass_DavuRfVuSBb.md
+> "first even though it has the same shape and color, but this is contrast in size. This is how we use contrast to direct the viewer's eye" — sources/S_ig_gobirdmasterclass_DavuRfVuSBb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in gobirdmasterclass's clip, 'contrast' names one specific visual or structural choice, not the whole craft of design.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'contrast' next to 'shape') may not be load-bearing in gobirdmasterclass's wider body of work.

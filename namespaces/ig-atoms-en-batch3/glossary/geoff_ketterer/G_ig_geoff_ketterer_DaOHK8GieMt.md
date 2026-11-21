@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["skepticism", "less"]
+aka: ["skepticism"]
 origin: sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
 
 ## Term
 
-skepticism is the most prominent repeated term in this source (160-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: less, keen, somewhere. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'skepticism' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 3 times, it sits next to 'obviously', 'hang', and 'prove' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: For somebody who's a bit more sophisticated, they've… Even the move around 'sophisticated' only registers as a move because 'skepticism' is the thing being moved toward.
 
 ## Synonyms
 
-- skepticism
-- less
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "somebody who's a bit more sophisticated, they've obviously got money and their hang up is just skepticism. You know that if you can prove results to those people, they're going to be like" — sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
-> "We were talking, you were 100% on board. Little bit of time has elapsed. Obviously now you're less keen. There's obviously some skepticism there somewhere, which is fine. Just help me understand. Talk to me. What's going on? And now he's either going to go, no, no, no, I'm not skeptical at all." — sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
-> "It's this, and give you the real objection, or he's going to admit to it and go, yeah, you're right. Okay, it is skepticism and here's why. So just always seek to understand the objection thoroughly" — sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
+> "For somebody who's a bit more sophisticated, they've obviously got money and their hang up is just skepticism. You know that if you can prove results to those people, they're going to be like" — sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
+> "and give you the real objection, or he's going to admit to it and go, yeah, you're right. Okay, it is skepticism and here's why. So just always seek to understand the objection thoroughly first" — sources/S_ig_geoff_ketterer_DaOHK8GieMt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'skepticism' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a definition of 'skepticism': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'handling' — it does not establish what the word means in general.

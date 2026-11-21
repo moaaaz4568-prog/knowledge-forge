@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["house manager", "personally"]
+aka: ["house manager"]
 origin: sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
 
 ## Term
 
-house manager is the most prominent repeated term in this source (123-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: personally, part, executive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'house manager' here is the emotional load gregoryjhickman argues must be touched before logic can move the person. It appears twice, it sits next to 'personally', 'part-time', and 'executive' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: Yeah, I actually, for me personally, I want… Take 'house manager' out and the clip collapses into generalities about manager — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- house manager
-- personally
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I would like to get another one. Yes, so you saw the value in. Yeah, I actually, for me personally, I want a part-time house manager before I get an executive assistant. My inbox isn't crazy, and right now I don't feel like while calendaring and scheduling is a pain in the ass, it's not that bad." — sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
-> "There's a lot of other things that I feel like would streamline my life at home if we had like a 10-hour-a-week house manager. It's just my wife doesn't want to give up some of those things, but like that would unlock a lot of space for other stuff." — sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
+> "get another one. Yes, so you saw the value in. Yeah, I actually, for me personally, I want a part-time house manager before I get an executive assistant. My inbox isn't crazy, and right now I don't feel like while calendaring and scheduling is a pain in" — sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
+> "lot of other things that I feel like would streamline my life at home if we had like a 10-hour-a-week house manager. It's just my wife doesn't want to give up some of those things, but like that would unlock a lot of space for other stuff. So like that" — sources/S_ig_gregoryjhickman_C0PJCxbrJAW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'house manager' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as evidence gregoryjhickman always uses 'house manager' this way: one 123-word clip is too thin a sample to support any claim about how the account uses the word in general.

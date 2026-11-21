@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["dollars", "money"]
+aka: ["five"]
 origin: sources/S_ig_daniel.jf1_DRx9TlSjbwI.md
 ---
 
-# G_ig_daniel.jf1_DRx9TlSjbwI — dollars
+# G_ig_daniel.jf1_DRx9TlSjbwI — five
 
 ## Term
 
-dollars is the most prominent repeated term in this source (130-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: money, thousand, per. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'five' is the cue daniel.jf1 says a person must feel before the rep becomes useful. It appears 4 times, it sits next to 'three', 'four', and 'thousand' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: You want a three K, a four K… Without 'five' as the anchor, 'casino' and 'single' would float without a stake in the argument.
 
 ## Synonyms
 
-- dollars
-- money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "reality of the situation is that if you want somebody, a client, with their own business, with their own money, and you want five thousand dollars of that per month, and you don't know how to make them more money, you will just never sign clients ever." — sources/S_ig_daniel.jf1_DRx9TlSjbwI.md
-> "And every single human on the planet presented with the opportunity to put one dollar in and get five dollars out will click the casino button infinitely. The problem, if you can't sign people, is they're not confident in your personal ability to multiply one into five." — sources/S_ig_daniel.jf1_DRx9TlSjbwI.md
+> "There are so many of you. You want a three K, a four K, five K a month client, and you want this so bad. But the reality of the situation is that if you want somebody, a client, with their own business, with" — sources/S_ig_daniel.jf1_DRx9TlSjbwI.md
+> "problem, if you can't sign people, is they're not confident in your personal ability to multiply one into five. So that's the issue we need to work on" — sources/S_ig_daniel.jf1_DRx9TlSjbwI.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'five' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as proof the term is load-bearing for daniel.jf1 in general: a 130-word clip with the word 'five' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

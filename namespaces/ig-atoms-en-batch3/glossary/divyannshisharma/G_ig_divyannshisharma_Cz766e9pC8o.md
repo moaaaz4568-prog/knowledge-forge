@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["showed", "lights"]
+aka: ["showed"]
 origin: sources/S_ig_divyannshisharma_Cz766e9pC8o.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_divyannshisharma_Cz766e9pC8o.md
 
 ## Term
 
-showed is the most prominent repeated term in this source (14-word transcript from the Instagram account divyannshisharma): it occurs 2 times literally in the text, most often collocated with: lights, sky, blind. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'showed' is the distinction divyannshisharma is actually drawing — the line the rest of the clip is staged to make stick. It appears twice, it sits next to 'lights' and 'blind' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: You showed me lights in the sky… 'showed' is what the rest of the clip is trying to justify — even 'lights' reads as evidence for it.
 
 ## Synonyms
 
-- showed
-- lights
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "showed me lights in the sky. You showed me when I was" — sources/S_ig_divyannshisharma_Cz766e9pC8o.md
+> "You showed me lights in the sky. You showed me when I was blind" — sources/S_ig_divyannshisharma_Cz766e9pC8o.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'showed' as a working label for an idea divyannshisharma is arguing, not as a tagline to be repeated.
+- Read as polished prose: this is a verbatim transcript of a 14-word Instagram clip, and the wording around 'showed' (including the collocation with 'blind') is spoken speech, not edited writing.

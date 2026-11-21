@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["show", "leads"]
+aka: ["show"]
 origin: sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 
 ## Term
 
-show is the most prominent repeated term in this source (184-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: leads, whole, system. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'show' in this clip is the lever that converts effort into reach — daniel.jf1 insists the value sits in the doing, not the perfecting. It appears 3 times, it sits next to 'leads', 'whole', and 'system' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: I'll show you what I'm doing… Anything else in the clip orbits this word — strip out 'show' and the rest reads as filler around 'probably'.
 
 ## Synonyms
 
-- show
-- leads
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What you could say instead is, well, what if I set up the whole system for you? I'll show you what I'm doing. I'll show you how to do it. And I'll get the leads for you. I'll show you how to scrape the leads. I'll write your first couple of scripts, how to set up the tech and how to do the reply handling and all that." — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
+> "sense for them. What you could say instead is, well, what if I set up the whole system for you? I'll show you what I'm doing. I'll show you how to do it. And I'll get the leads for you. I'll show you how to scrape the leads. I'll write your first couple" — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
+> "you? I'll show you what I'm doing. I'll show you how to do it. And I'll get the leads for you. I'll show you how to scrape the leads. I'll write your first couple of scripts, how to set up the tech and how to do the reply handling and all that. And they" — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in daniel.jf1's usage here, 'show' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as evidence daniel.jf1 always uses 'show' this way: one 184-word clip is too thin a sample to support any claim about how the account uses the word in general.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["ads", "start"]
+aka: ["ads"]
 origin: sources/S_ig_daniel.jf1_DTyXuczAh5i.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DTyXuczAh5i.md
 
 ## Term
 
-ads is the most prominent repeated term in this source (235-word transcript from the Instagram account daniel.jf1): it occurs 5 times literally in the text, most often collocated with: start, running, spent. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ads' names the conversational lever daniel.jf1 treats as the thing that turns a maybe into a yes. It appears 5 times, it sits next to 'expectation', 'running', and 'deluded' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: A lot of people have a deluded expectation… The sentence around 'spawns' only carries weight because 'ads' is what the sentence is really about.
 
 ## Synonyms
 
-- ads
-- start
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "lot of people have a deluded expectation about ads. Like they go watch some videos about ads, you think that you just start running ads and money like spawns out of the ether, like it just works like that." — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
-> "This is why I tell people, it's like you really shouldn't be doing ads until you've got like $20, 000, $30, 000 saved up and you're profiting like free cash flow like $15, 000 a month, like bare minimum at" — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
-> "What'll happen with you is you'll have spent like $200 on ads and you're like, this isn't working, you shut it off and like you just can never revisit the concept of making a business ever again. But the problem is that you just didn't have the capital prepared in order to start with that." — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
+> "A lot of people have a deluded expectation about ads. Like they go watch some videos about ads, you think that you just start running ads and money like spawns out of the ether, like it just works like" — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
+> "prepared in order to start with that. This is why I tell people, it's like you really shouldn't be doing ads until you've got like $20, 000, $30, 000 saved up and you're profiting like free cash flow like $15, 000 a month, like bare minimum at least" — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in daniel.jf1's reel, 'ads' is the specific move daniel.jf1 says a person must make before the prospect will commit.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'ads' as a working label in one specific argument (visible in the collocation with 'revisit'), not as a slogan the reader is meant to repeat.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["room", "speak"]
+aka: ["room"]
 origin: sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
 
 ## Term
 
-room is the most prominent repeated term in this source (45-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: speak, love, into. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'room' is the distinction gregoryjhickman is actually drawing — the line the rest of the clip is staged to make stick. It appears 3 times, it sits next to 'always', 'tonight', and 'front' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: Before I speak, I always love to get… What makes the word 'room' the term here is that the rest — 'tonight', 'always', everything else — is staged for it.
 
 ## Synonyms
 
-- room
-- speak
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I speak, I always love to get into the room that I'm gonna speak in, and this is the room I'll be speaking in tonight. In front of what looks like could be maybe 200 people, we'll see." — sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
-> "In front of what looks like could be maybe 200 people, we'll see. But let's pack this room" — sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
+> "Before I speak, I always love to get into the room that I'm gonna speak in, and this is the room I'll be speaking in tonight. In front of what looks like could be maybe 200 people, we'll see. But let" — sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
+> "speaking in tonight. In front of what looks like could be maybe 200 people, we'll see. But let's pack this room, baby" — sources/S_ig_gregoryjhickman_BCdMXl8SdQ6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in gregoryjhickman's usage, 'room' is loaded with a specific working meaning (visible in the collocation with 'maybe'), not the dictionary sense.
+- Read as a recommendation to use 'room' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'maybe'); it does not argue the reader should adopt it.

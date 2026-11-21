@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["tier", "Ogilvy"]
+aka: ["tier"]
 origin: sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
 
 ## Term
 
-tier is the most prominent repeated term in this source (137-word transcript from the Instagram account dankhanlegacy): it occurs 9 times literally in the text, most often collocated with: ogilvy, advertising, david. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy clip, 'tier' is the lever dankhanlegacy says separates people who make progress from people who stay put. It appears 9 times, it sits next to 'ogilvy', 'industry', and 'book' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: A tier, A tier, but doesn't really relate… 'tier' is what the rest of the clip is trying to justify — even 'Gerber' reads as evidence for it.
 
 ## Synonyms
 
-- tier
-- Ogilvy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Lean Startup by Eric Ries. Nah. A tier, A tier, but doesn't really relate to my industry that much. Influence by Robert Cialdini. Oh, A tier, very good book. Ogilvy on Advertising by David Ogilvy. Yeah, S tier. Building a StoryBrand by Donald Miller. S tier." — sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
-> "So I'll give it a C tier. Atomic Habits by James Clear. Yeah, S tier. Start with Why by Simon Sinek. A tier. I think that was a really good book, yeah." — sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
-> "Yeah, S tier. Building a StoryBrand by Donald Miller. S tier. The E-Myth Revisited by Michael Gerber. C tier. The 4-Hour Workweek by Tim Ferriss. This guy, he sold that book. He doesn't even work four hours. I mean, the idea is nice, the book was nice to read, but he didn't work four hours. So I'll give it a C tier. Atomic Habits by James Clear." — sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
+> "The Lean Startup by Eric Ries. Nah. A tier, A tier, but doesn't really relate to my industry that much. Influence by Robert Cialdini. Oh, A tier, very good book. Ogilvy on Advertising by David" — sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
+> "I'll give it a C tier. Atomic Habits by James Clear. Yeah, S tier. Start with Why by Simon Sinek. A tier. I think that was a really good book, yeah. But don't get too caught up with the why, although it is very important" — sources/S_ig_dankhanlegacy_DU-iLhDDzmX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'tier' to name a move dankhanlegacy says is missing in this person's case, not a universal recommendation.
+- Read as a stylistic choice by dankhanlegacy: the wording around 'tier' (e.g. the collocation with 'Startup') is the speech of one clip, not a stylistic pattern that can be generalised.

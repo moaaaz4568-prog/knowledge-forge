@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["Konnichiwa", "curiosity"]
+aka: ["explained.marketing"]
 origin: sources/S_ig_explained.marketing_CzLzV2-NDW2.md
 ---
 
-# G_ig_explained.marketing_CzLzV2-NDW2 — Konnichiwa
+# G_ig_explained.marketing_CzLzV2-NDW2 — Let's see what curiosity can do. Hmm. Hmm. Hmm. Whoa. Ah. Ko…
 
 ## Term
 
-This source is very short (13 words), so no term repeats enough for a frequency-based entry; Konnichiwa is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This short caption from explained.marketing carries no conceptual term — it is a 13-word string whose job is to land a mood, not to name an idea. Treating any single word as the term would inflate a filler or lyric hook into a concept it is not. The clip's full text reads: "Let's see what curiosity can do. Hmm. Hmm. Hmm. Whoa. Ah. Konnichiwa. There.".
 
 ## Synonyms
 
-- Konnichiwa
-- curiosity
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "see what curiosity can do. Hmm. Hmm. Hmm. Whoa. Ah. Konnichiwa." — sources/S_ig_explained.marketing_CzLzV2-NDW2.md
+> "Let's see what curiosity can do. Hmm. Hmm. Hmm. Whoa. Ah. Konnichiwa. There" — sources/S_ig_explained.marketing_CzLzV2-NDW2.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content keyword: the words here exist for rhythm or mood, not as labels for an idea a person is working with — even 'Let's' is phrasing, not a concept.
+- Read as a caption worth treating as a domain entry: this 13-word source does not have the conceptual weight to support one, even when the wording (e.g. 'Let's') sounds like a slogan.

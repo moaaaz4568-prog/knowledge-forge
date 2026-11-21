@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["plan", "Remember"]
+aka: ["plan"]
 origin: sources/S_ig_disisjorj_CxXQ3rENkrn.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CxXQ3rENkrn.md
 
 ## Term
 
-plan is the most prominent repeated term in this source (30-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: remember, better, process. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'plan' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'because', 'process', and 'remember' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Remember that any plan is better than no… Without 'plan' as the anchor, 'Remember' and 'changed' would float without a stake in the argument.
 
 ## Synonyms
 
-- plan
-- Remember
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "changed everything for me. Remember that any plan is better than no plan, because in the process of defining the future, the plan begins to shape itself into" — sources/S_ig_disisjorj_CxXQ3rENkrn.md
+> "This changed everything for me. Remember that any plan is better than no plan, because in the process of defining the future, the plan begins to shape itself into reality" — sources/S_ig_disisjorj_CxXQ3rENkrn.md
+> "me. Remember that any plan is better than no plan, because in the process of defining the future, the plan begins to shape itself into reality" — sources/S_ig_disisjorj_CxXQ3rENkrn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'plan' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as a clean transcript: the wording around 'plan' (including the run-on near 'future') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["machine", "cans"]
+aka: ["machine", "machines"]
 origin: sources/S_ig_explained.marketing_Cy826DSoJWT.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_explained.marketing_Cy826DSoJWT.md
 
 ## Term
 
-machine is the most prominent repeated term in this source (139-word transcript from the Instagram account explained.marketing): it occurs 4 times literally in the text, most often collocated with: cans, technique, manipulates. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'machine' is the future cost explained.marketing names to make the present feel expensive — the lever the clip uses to move the person. It appears 4 times, it sits next to 'cans', 'assuming', and 'technique' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Imagine a Coke machine in your business or… What makes the word 'machine' the term here is that the rest — 'Imagine', 'campus', everything else — is staged for it.
 
 ## Synonyms
 
-- machine
-- cans
+- machines
 
 ## Live Example
 
-> "marketing technique manipulates you every day. Imagine a Coke machine in your business or on your campus, assuming it sells 100 cans a day. Now if we put a Pepsi machine right next to it, how many cans do you think each machine will sell? Now you'll probably see 50 to 50 or 60 to 40." — sources/S_ig_explained.marketing_Cy826DSoJWT.md
-> "Well no, chances are it's going to be 200 cans each, but why? Because when there's only one machine, the question you ask yourself is, am I going to drink a Coke or not? But when there are two machines, the question becomes, do I want a Coke or Pepsi?" — sources/S_ig_explained.marketing_Cy826DSoJWT.md
+> "This marketing technique manipulates you every day. Imagine a Coke machine in your business or on your campus, assuming it sells 100 cans a day. Now if we put a Pepsi machine right next to it, how many cans do you think" — sources/S_ig_explained.marketing_Cy826DSoJWT.md
+> "60 to 40. Well no, chances are it's going to be 200 cans each, but why? Because when there's only one machine, the question you ask yourself is, am I going to drink a Coke or not? But when there are two machines, the question becomes, do I want a Coke or" — sources/S_ig_explained.marketing_Cy826DSoJWT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'machine' is the emotional lever explained.marketing uses to surface commitment, not a market mechanic.
+- Read as a stylistic choice by explained.marketing: the wording around 'machine' (e.g. the collocation with 'strategies') is the speech of one clip, not a stylistic pattern that can be generalised.

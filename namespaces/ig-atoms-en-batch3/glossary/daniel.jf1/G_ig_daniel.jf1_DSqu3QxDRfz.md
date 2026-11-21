@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["place", "lived"]
+aka: ["place"]
 origin: sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
 
 ## Term
 
-place is the most prominent repeated term in this source (143-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: lived, downtown, tampa. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'place' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears 3 times, it sits next to 'island', 'super', and 'nice' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: In 2019, we lived in downtown Tampa, Harbor… Pull 'place' and the clip's spine comes loose — 'downtown' would still be there but would not point at anything.
 
 ## Synonyms
 
-- place
-- lived
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Everything is stupidly more expensive. In 2019, we lived in downtown Tampa, Harbor Island, super nice place. It was $1,800 a month. That same place now is like $4,200 a month. Same place, wasn't renovated or anything." — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
+> "Everything is stupidly more expensive. In 2019, we lived in downtown Tampa, Harbor Island, super nice place. It was $1,800 a month. That same place now is like $4,200 a month. Same place, wasn't renovated or anything. It's just inflation" — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
+> "Harbor Island, super nice place. It was $1,800 a month. That same place now is like $4,200 a month. Same place, wasn't renovated or anything. It's just inflation" — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'place' as a working concept daniel.jf1 is installing in this clip, not a generic self-help label.
+- Read as a clean transcript: the wording around 'place' (including the run-on near 'triple') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

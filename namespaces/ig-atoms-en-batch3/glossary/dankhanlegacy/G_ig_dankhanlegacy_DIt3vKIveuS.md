@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["whatever", "work"]
+aka: ["female entrepreneurs"]
 origin: sources/S_ig_dankhanlegacy_DIt3vKIveuS.md
 ---
 
-# G_ig_dankhanlegacy_DIt3vKIveuS — whatever
+# G_ig_dankhanlegacy_DIt3vKIveuS — female entrepreneurs
 
 ## Term
 
-whatever is the most prominent repeated term in this source (106-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: work, milestones, hit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'female entrepreneurs' names the specific advantage dankhanlegacy argues is missing in the person's current setup — the lever they have not yet pulled. It appears once in the transcript, and it sits next to 'message' each time it appears — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: I just want you to talk to the… Pull 'female entrepreneurs' and the clip's spine comes loose — 'message' would still be there but would not point at anything.
 
 ## Synonyms
 
-- whatever
-- work
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "First of all, find your passion. And when you know what your passion is, find a way to turn it into an income. And whatever you do, no matter how passionate you are about it and how hard you work and how many milestones you hit or whatever, don't ever attach your self-esteem to your accomplishments or your bank account." — sources/S_ig_dankhanlegacy_DIt3vKIveuS.md
+> "I just want you to talk to the female entrepreneurs and what would be your message to them. First of all, find your passion. And when you know what your passion is, find a way to turn" — sources/S_ig_dankhanlegacy_DIt3vKIveuS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'female entrepreneurs' to name a move dankhanlegacy says is missing in this person's case, not a universal recommendation.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'female entrepreneurs' next to 'sense') may not be load-bearing in dankhanlegacy's wider body of work.

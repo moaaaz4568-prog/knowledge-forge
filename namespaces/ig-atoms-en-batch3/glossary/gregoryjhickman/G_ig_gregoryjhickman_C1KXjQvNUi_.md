@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["hybrid specialty", "firm"]
+aka: ["hybrid specialty"]
 origin: sources/S_ig_gregoryjhickman_C1KXjQvNUi_.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C1KXjQvNUi_.md
 
 ## Term
 
-hybrid specialty is the most prominent repeated term in this source (165-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: firm, led, rise. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'hybrid specialty' names the felt adjustment gregoryjhickman insists is the difference between a rep that builds and a rep that just tires. It appears twice, it sits next to 'firm', 'automation', and 'rise' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: All of this has led to a rise… Without 'hybrid specialty' as the anchor, 'growth' and 'agencies' would float without a stake in the argument.
 
 ## Synonyms
 
-- hybrid specialty
-- firm
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All of this has led to a rise in this kind of hybrid specialty firm, if you will. Now, it's these hybrid specialty firms that cater to solving specific problems for a specific type of client, and it's actually showing that focus allows them to be a whole lot more flexible and the growth has been" — sources/S_ig_gregoryjhickman_C1KXjQvNUi_.md
+> "the training market, education, strategy, automation. All of this has led to a rise in this kind of hybrid specialty firm, if you will. Now, it's these hybrid specialty firms that cater to solving specific problems for a specific type of client, and it" — sources/S_ig_gregoryjhickman_C1KXjQvNUi_.md
+> "automation. All of this has led to a rise in this kind of hybrid specialty firm, if you will. Now, it's these hybrid specialty firms that cater to solving specific problems for a specific type of client, and it's actually showing that focus allows them to be a" — sources/S_ig_gregoryjhickman_C1KXjQvNUi_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'hybrid specialty' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a rule for using 'hybrid specialty': the clip shows gregoryjhickman using the word in one specific move (alongside 'growth'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["exclusion", "lastly"]
+aka: ["feed lately"]
 origin: sources/S_ig_disisjorj_C-XBEXTNX03.md
 ---
 
-# G_ig_disisjorj_C-XBEXTNX03 — exclusion
+# G_ig_disisjorj_C-XBEXTNX03 — feed lately
 
 ## Term
 
-This source is very short (48 words), so no term repeats enough for a frequency-based entry; exclusion is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'feed lately' is the move that separates finished from polished — disisjorj treats it as the moment a piece of work starts being seen. It appears once in the transcript, and it sits next to 'effect', 'show', and 'exactly' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: This caption effect has been all over your… Anything else in the clip orbits this word — strip out 'feed lately' and the rest reads as filler around 'increase'.
 
 ## Synonyms
 
-- exclusion
-- lastly
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When you want to emphasize a word in your script, make it bold, increase the size, and lastly, change the blend mode from normal to exclusion" — sources/S_ig_disisjorj_C-XBEXTNX03.md
+> "This caption effect has been all over your feed lately, so let me show you exactly how you can get it too. When you want to emphasize a word in your script, make it bold, increase the size, and" — sources/S_ig_disisjorj_C-XBEXTNX03.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'feed lately' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'increase' makes that visible.
+- Read as proof the term is load-bearing for disisjorj in general: a 48-word clip with the word 'feed lately' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

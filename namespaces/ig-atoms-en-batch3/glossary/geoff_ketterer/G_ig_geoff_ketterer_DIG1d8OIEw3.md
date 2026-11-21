@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["Number", "John"]
+aka: ["sales call"]
 origin: sources/S_ig_geoff_ketterer_DIG1d8OIEw3.md
 ---
 
-# G_ig_geoff_ketterer_DIG1d8OIEw3 — Number
+# G_ig_geoff_ketterer_DIG1d8OIEw3 — sales call
 
 ## Term
 
-Number is the most prominent repeated term in this source (107-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: john, favourite, best. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'sales call' is the buyer-side lever geoff_ketterer says the seller must surface before any pricing talk can land. It appears 3 times, it sits next to 'john', 'reward', and 'totally' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: This is a sales call… Strip the clip down to its claim and you are left with 'sales call'; 'reward' and 'honesty' are how the claim is delivered.
 
 ## Synonyms
 
-- Number
-- John
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "researched over 100 hours of cold call openers so that you don't have to, and these are the three best that I found. Number three is my favourite, but let me know what you think. Number one is, hi John, I'll be totally upfront with you. This is a sales call. You can either give me 30 seconds or put the phone down, totally up to you." — sources/S_ig_geoff_ketterer_DIG1d8OIEw3.md
-> "Number two is, hi John, would I completely ruin your Wednesday if I told you this was a sales call? Number three is, hi John, would you reward my honesty if I told you this was a sales" — sources/S_ig_geoff_ketterer_DIG1d8OIEw3.md
+> "but let me know what you think. Number one is, hi John, I'll be totally upfront with you. This is a sales call. You can either give me 30 seconds or put the phone down, totally up to you. Number two is, hi John, would I completely ruin your Wednesday" — sources/S_ig_geoff_ketterer_DIG1d8OIEw3.md
+> "this was a sales call? Number three is, hi John, would you reward my honesty if I told you this was a sales call" — sources/S_ig_geoff_ketterer_DIG1d8OIEw3.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'sales call' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a rule for using 'sales call': the clip shows geoff_ketterer using the word in one specific move (alongside 'seconds'), not a recommendation that the reader adopt the word themselves.

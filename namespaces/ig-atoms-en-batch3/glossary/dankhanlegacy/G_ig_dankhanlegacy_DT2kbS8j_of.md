@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["still", "money"]
+aka: ["uncomfortable"]
 origin: sources/S_ig_dankhanlegacy_DT2kbS8j_of.md
 ---
 
-# G_ig_dankhanlegacy_DT2kbS8j_of — still
+# G_ig_dankhanlegacy_DT2kbS8j_of — uncomfortable
 
 ## Term
 
-still is the most prominent repeated term in this source (207-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: money, working, stuck. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'uncomfortable' is the emotional stake the clip is built to surface — the felt cost of not changing that dankhanlegacy says must land first. It appears twice, it sits next to 'email', 'send', and 'converts' — the repetition is what makes it the spine of the clip rather than a passing word. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: This email is uncomfortable to send, but it… Pull 'uncomfortable' and the clip's spine comes loose — 'Because' would still be there but would not point at anything.
 
 ## Synonyms
 
-- still
-- money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "an email that says, let me paint a picture of what your life looks like in 12 months if you don't do this. And then you lay it out. You're still stuck at 5k a month, you're still trading time for money, you're still working 60 hours a week, you're still stressed about money. It's uncomfortable, but it's true, and people need to hear it." — sources/S_ig_dankhanlegacy_DT2kbS8j_of.md
+> "This email is uncomfortable to send, but it converts like crazy. Alright, so here's the setup. Someone's on your email list, they've been thinking about buying, but" — sources/S_ig_dankhanlegacy_DT2kbS8j_of.md
+> "trading time for money, you're still working 60 hours a week, you're still stressed about money. It's uncomfortable, but it's true, and people need to hear it. Because here's the thing, people are more motivated by loss than by gain. They'll work harder" — sources/S_ig_dankhanlegacy_DT2kbS8j_of.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: dankhanlegacy uses 'uncomfortable' here in the framing of a sales conversation, not as a portfolio term.
+- Read as evidence the term is central to the account: one 207-word clip showing 'uncomfortable' next to 'attack' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

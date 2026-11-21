@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["inconsistent", "amazing"]
+aka: ["unqualified prospects"]
 origin: sources/S_ig_gregoryjhickman_C3ssVVlvVgw.md
 ---
 
-# G_ig_gregoryjhickman_C3ssVVlvVgw — inconsistent
+# G_ig_gregoryjhickman_C3ssVVlvVgw — unqualified prospects
 
 ## Term
 
-inconsistent is the most prominent repeated term in this source (188-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: amazing, word, mouth. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'unqualified prospects' is the future cost gregoryjhickman names to make the present feel expensive — the lever the clip uses to move the person. It appears once in the transcript, and it sits next to 'process', 'wasting', and 'instead' — a single occurrence that nonetheless anchors the clip's argument. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: You also probably want to have a way… 'unqualified prospects' is what the rest of the clip is trying to justify — even 'unqualified' reads as evidence for it.
 
 ## Synonyms
 
-- inconsistent
-- amazing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And instead of hoping and praying and relying on only word of mouth and referrals, which are inconsistent, while they're great and amazing, it's inconsistent and can't be repeatable all the time. You need to have a way to go get your ideal clients coming to you, whether that's through organic marketing, partnerships, or paid advertising." — sources/S_ig_gregoryjhickman_C3ssVVlvVgw.md
+> "who might be a bad fit early on in the sales process so that you're not wasting your time talking to unqualified prospects. And instead of hoping and praying and relying on only word of mouth and referrals, which are inconsistent, while they're great and" — sources/S_ig_gregoryjhickman_C3ssVVlvVgw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: gregoryjhickman uses 'unqualified prospects' here in the framing of a sales conversation, not as a portfolio term.
+- Read as polished prose: this is a verbatim transcript of a 188-word Instagram clip, and the wording around 'unqualified prospects' (including the collocation with 'completely') is spoken speech, not edited writing.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["record", "says"]
+aka: ["says record"]
 origin: sources/S_ig_disisjorj_DRup4RRiLFA.md
 ---
 
-# G_ig_disisjorj_DRup4RRiLFA — record
+# G_ig_disisjorj_DRup4RRiLFA — says record
 
 ## Term
 
-record is the most prominent repeated term in this source (88-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: says, guy, click. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'says record' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears twice, it sits next to 'little', 'left', and 'press' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: But the best part, can also calibrate everything… What makes the word 'says record' the term here is that the rest — 'one-click', 'horizontal', everything else — is staged for it.
 
 ## Synonyms
 
-- record
-- says
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "far one of the best things about the one-click setup is not only that you can record vertical video and horizontal video at the same time, and as I do that, it shows up there." — sources/S_ig_disisjorj_DRup4RRiLFA.md
-> "so that I can set it up once, and then every single time, all there's left to do from my end is press this little guy that says record, and that little guy that says record with one click, and you're ready to" — sources/S_ig_disisjorj_DRup4RRiLFA.md
+> "up once, and then every single time, all there's left to do from my end is press this little guy that says record, and that little guy that says record with one click, and you're ready to go" — sources/S_ig_disisjorj_DRup4RRiLFA.md
+> "all there's left to do from my end is press this little guy that says record, and that little guy that says record with one click, and you're ready to go" — sources/S_ig_disisjorj_DRup4RRiLFA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'says record' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a recommendation to use 'says record' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'one-click'); it does not argue the reader should adopt it.

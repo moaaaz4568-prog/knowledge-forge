@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["challenges", "couple"]
+aka: ["gregoryjhickman"]
 origin: sources/S_ig_gregoryjhickman_BKs_BmMAz3H.md
 ---
 
-# G_ig_gregoryjhickman_BKs_BmMAz3H — challenges
+# G_ig_gregoryjhickman_BKs_BmMAz3H — In your day-to-day business. We had a couple other hands ove…
 
 ## Term
 
-This source is very short (16 words), so no term repeats enough for a frequency-based entry; challenges is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This short caption from gregoryjhickman carries no conceptual term — it is a 16-word string whose job is to land a mood, not to name an idea. Treating any single word as the term would inflate a filler or lyric hook into a concept it is not. The clip's full text reads: "In your day-to-day business. We had a couple other hands over here. Any challenges? Yes. Awesome.".
 
 ## Synonyms
 
-- challenges
-- couple
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We had a couple other hands over here. Any challenges? Yes." — sources/S_ig_gregoryjhickman_BKs_BmMAz3H.md
+> "In your day-to-day business. We had a couple other hands over here. Any challenges? Yes. Awesome" — sources/S_ig_gregoryjhickman_BKs_BmMAz3H.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a topic tag: a 16-word gregoryjhickman clip has no load-bearing word; every word in it is in service of feel, not a claim.
+- Read as polished prose: the source is a verbatim transcript of a short Instagram clip, and any awkwardness in the wording is the speech itself, not edited text.

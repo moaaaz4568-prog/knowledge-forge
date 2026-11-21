@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["twenty", "simply"]
+aka: ["follow"]
 origin: sources/S_ig_dibratto_DbYKVFTObXd.md
 ---
 
-# G_ig_dibratto_DbYKVFTObXd — twenty
+# G_ig_dibratto_DbYKVFTObXd — follow
 
 ## Term
 
-twenty is the most prominent repeated term in this source (128-word transcript from the Instagram account dibratto): it occurs 2 times literally in the text, most often collocated with: simply, build, custom. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'follow' is what dibratto says the game used to carry and is at risk of losing — the soul the spectacle is covering up. It appears 3 times, it sits next to 'twenty', 'connection', and 'requests' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: To do it, you simply build a custom… Strip the clip down to its claim and you are left with 'follow'; 'chances' and 'comment' are how the claim is delivered.
 
 ## Synonyms
 
-- twenty
-- simply
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To do it, you simply build a custom feed of twenty to twenty five people that your ICP follow. Then each day, twice per dalton y, open it and sort by latest. Each time, write three to five thoughtful comments that actually add value to whatever post you are seeing. Do not pitch anything." — sources/S_ig_dibratto_DbYKVFTObXd.md
+> "nine months. To do it, you simply build a custom feed of twenty to twenty five people that your ICP follow. Then each day, twice per dalton y, open it and sort by latest. Each time, write three to five thoughtful comments that actually add value to whatever" — sources/S_ig_dibratto_DbYKVFTObXd.md
+> "builds you as an authority, and yes, inbound connection requests from them will follow. Anyway, try it. Follow for more" — sources/S_ig_dibratto_DbYKVFTObXd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tactics term: 'follow' in this clip is what the sport meant before it became spectacle, not a move on the field.
+- Read as a stylistic choice by dibratto: the wording around 'follow' (e.g. the collocation with 'requests') is the speech of one clip, not a stylistic pattern that can be generalised.

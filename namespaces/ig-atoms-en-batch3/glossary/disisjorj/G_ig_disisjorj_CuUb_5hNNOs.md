@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["eye level", "create"]
+aka: ["interested because"]
 origin: sources/S_ig_disisjorj_CuUb_5hNNOs.md
 ---
 
-# G_ig_disisjorj_CuUb_5hNNOs — eye level
+# G_ig_disisjorj_CuUb_5hNNOs — interested because
 
 ## Term
 
-eye level is the most prominent repeated term in this source (97-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: create, tracker, head. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'interested because' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'shot' each time it appears — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: If you want your videos to look like… It is the one word in this source that, if removed, would leave 'choice' without a frame to hang on.
 
 ## Synonyms
 
-- eye level
-- create
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is exactly how you can create your own eye-level tracker. Head over to your software of choice, create a shape, choose a rectangle, and then narrow it down enough to fit both of your eyes." — sources/S_ig_disisjorj_CuUb_5hNNOs.md
-> "Drag the shape throughout your whole video, and now, whenever you zoom in and out, make sure to adjust your video in order for your eye level to be the same in every shot. If you want your videos to look like my videos, DM me interested because I have something for" — sources/S_ig_disisjorj_CuUb_5hNNOs.md
+> "for your eye level to be the same in every shot. If you want your videos to look like my videos, DM me interested because I have something for you" — sources/S_ig_disisjorj_CuUb_5hNNOs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'interested because' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as evidence the term is central to the account: one 97-word clip showing 'interested because' next to 'narrow' is too small a sample to anchor a wider claim about what disisjorj writes about.

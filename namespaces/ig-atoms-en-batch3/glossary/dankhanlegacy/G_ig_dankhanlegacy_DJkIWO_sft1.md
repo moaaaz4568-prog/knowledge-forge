@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Number", "actions"]
+aka: ["ronaldo"]
 origin: sources/S_ig_dankhanlegacy_DJkIWO_sft1.md
 ---
 
-# G_ig_dankhanlegacy_DJkIWO_sft1 — Number
+# G_ig_dankhanlegacy_DJkIWO_sft1 — ronaldo
 
 ## Term
 
-Number is the most prominent repeated term in this source (187-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: actions, goal, break. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'ronaldo' is the inner orientation the clip is built to install — not a tactic but a stance the tactics rest on. It appears 3 times, it sits next to 'crushing', 'talent', and 'discipline' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: You see Ronaldo crushing it and you think… The clip's relationship to 'single' only makes sense as a vehicle for delivering 'ronaldo'.
 
 ## Synonyms
 
-- Number
-- actions
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Day in, day out, grinding when others were sleeping. Here's the map to crushing it like Ronaldo. Number one, set a goal. Make it big. Make it scary. Number two, break it down into daily actions. Number three, do those actions every single day. Number four, no excuses, no days off. Number five, keep going, even when it sucks." — sources/S_ig_dankhanlegacy_DJkIWO_sft1.md
+> "Everyone wants to be Cristiano, but I give you the map. You think you will do it that? You see Ronaldo crushing it and you think, I want that. But the truth is, it's not just about what you want or what talent you have. It's 80% the discipline. You" — sources/S_ig_dankhanlegacy_DJkIWO_sft1.md
+> "the same way. Day in, day out, grinding when others were sleeping. Here's the map to crushing it like Ronaldo. Number one, set a goal. Make it big. Make it scary. Number two, break it down into daily actions. Number three, do those actions every single" — sources/S_ig_dankhanlegacy_DJkIWO_sft1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'ronaldo' here is the specific frame dankhanlegacy argues from, not a generic motivational label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'ronaldo' next to 'needs') may not be load-bearing in dankhanlegacy's wider body of work.

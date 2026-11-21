@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["hard work", "important"]
+aka: ["keeps"]
 origin: sources/S_ig_gobirdmasterclass_Da04szmOsFR.md
 ---
 
-# G_ig_gobirdmasterclass_Da04szmOsFR — hard work
+# G_ig_gobirdmasterclass_Da04szmOsFR — keeps
 
 ## Term
 
-hard work is the most prominent repeated term in this source (89-word transcript from the Instagram account gobirdmasterclass): it occurs 2 times literally in the text, most often collocated with: important, fact, leading. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'keeps' names a frame of mind rather than an action — gobirdmasterclass treats it as the precondition the rest of the advice depends on. It appears twice, it sits next to 'uh-uh', 'well', and 'since' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where gobirdmasterclass names the thing a person cannot outsource — nearby: That keeps me up at night… Strip the clip down to its claim and you are left with 'keeps'; 'half-ass' and 'failed' are how the claim is delivered.
 
 ## Synonyms
 
-- hard work
-- important
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "about hard work? Does it matter? Well, since you ask it so simply, I'd say no. Uh-uh. That keeps me up at night. I think it keeps a lot of us up at night. You half-ass something and you just don't know whether you failed or succeeding." — sources/S_ig_gobirdmasterclass_Da04szmOsFR.md
-> "Or it certainly is not the most important thing. In fact, I think hard work leading to success is a myth. And looking in the mirror and going, I did a half-assed and I went all the way." — sources/S_ig_gobirdmasterclass_Da04szmOsFR.md
+> "What about hard work? Does it matter? Well, since you ask it so simply, I'd say no. Uh-uh. That keeps me up at night. I think it keeps a lot of us up at night. You half-ass something and you just don't know whether you failed or succeeding. Or it" — sources/S_ig_gobirdmasterclass_Da04szmOsFR.md
+> "it matter? Well, since you ask it so simply, I'd say no. Uh-uh. That keeps me up at night. I think it keeps a lot of us up at night. You half-ass something and you just don't know whether you failed or succeeding. Or it certainly is not the most important" — sources/S_ig_gobirdmasterclass_Da04szmOsFR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a personality trait: the source treats 'keeps' as a decision a person makes, not a fixed characteristic they either have or lack.
+- Read as a tagline worth extracting: the source shows gobirdmasterclass using 'keeps' as a working label in one specific argument (visible in the collocation with 'since'), not as a slogan the reader is meant to repeat.

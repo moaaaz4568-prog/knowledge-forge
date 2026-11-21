@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["broke", "eat"]
+aka: ["nobody else"]
 origin: sources/S_ig_fundedfounder_DV6nztmDISj.md
 ---
 
-# G_ig_fundedfounder_DV6nztmDISj — broke
+# G_ig_fundedfounder_DV6nztmDISj — nobody else
 
 ## Term
 
-broke is the most prominent repeated term in this source (20-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: eat, nigga, power. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For fundedfounder, 'nobody else' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'broke', 'power', and 'change' — a single occurrence that nonetheless anchors the clip's argument. fundedfounder drops it precisely where the cost of skipping it shows up — the surrounding move runs: Nobody else… Read alongside 'Nobody', the word 'nobody else' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- broke
-- eat
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can't eat. I'm broke, nigga. I'm broke. And you got the power to change that, Kev. Nobody else." — sources/S_ig_fundedfounder_DV6nztmDISj.md
+> "I can't eat. I'm broke, nigga. I'm broke. And you got the power to change that, Kev. Nobody else. You" — sources/S_ig_fundedfounder_DV6nztmDISj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'nobody else' here is loaded with a specific felt-position meaning by fundedfounder, not a vague cue.
+- Read as a rule for using 'nobody else': the clip shows fundedfounder using the word in one specific move (alongside 'change'), not a recommendation that the reader adopt the word themselves.

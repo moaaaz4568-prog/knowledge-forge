@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["blue", "wearing"]
+aka: ["blue"]
 origin: sources/S_ig_devinjatho_CkTkPiDpZPy.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_CkTkPiDpZPy.md
 
 ## Term
 
-blue is the most prominent repeated term in this source (79-word transcript from the Instagram account devinjatho): it occurs 4 times literally in the text, most often collocated with: wearing, money, customers. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's clip, 'blue' is the design choice devinjatho treats as the hinge between pretty and effective. It appears 4 times, it sits next to 'wearing', 'widely', and 'known' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. devinjatho drops it precisely where the cost of skipping it shows up — the surrounding move runs: Did you know wearing blue in your videos… Every other word in the source, including 'tension', is in service to the move 'blue' names.
 
 ## Synonyms
 
-- blue
-- wearing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you know wearing blue in your videos make you more money? Blue is widely known as the color of trust because it has effects on the brain like reducing tension, calming the mind, and it suggests predictability." — sources/S_ig_devinjatho_CkTkPiDpZPy.md
-> "This is the exact reason why doctors, nurses, and surgeons are required to wear blue. So if you're looking to get more people to buy from you and get more customers and leads, try wearing some blue clothing in your" — sources/S_ig_devinjatho_CkTkPiDpZPy.md
+> "Did you know wearing blue in your videos make you more money? Blue is widely known as the color of trust because it has effects on the brain like reducing tension, calming" — sources/S_ig_devinjatho_CkTkPiDpZPy.md
+> "you're looking to get more people to buy from you and get more customers and leads, try wearing some blue clothing in your videos" — sources/S_ig_devinjatho_CkTkPiDpZPy.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in devinjatho's usage, 'blue' is a specific design move, not a category of design choices.
+- Read as proof the term is load-bearing for devinjatho in general: a 79-word clip with the word 'blue' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

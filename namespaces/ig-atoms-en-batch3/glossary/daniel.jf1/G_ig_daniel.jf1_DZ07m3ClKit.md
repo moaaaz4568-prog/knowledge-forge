@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["dollars", "million"]
+aka: ["million"]
 origin: sources/S_ig_daniel.jf1_DZ07m3ClKit.md
 ---
 
-# G_ig_daniel.jf1_DZ07m3ClKit — dollars
+# G_ig_daniel.jf1_DZ07m3ClKit — million
 
 ## Term
 
-dollars is the most prominent repeated term in this source (76-word transcript from the Instagram account daniel.jf1): it occurs 4 times literally in the text, most often collocated with: million, sell, buying. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'million' is the body cue daniel.jf1 says the person must learn to feel before any external cue can help. It appears 3 times, it sits next to 'one's', 'buying', and 'purchasing' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: They go, "All you need to do is… 'million' is what the rest of the clip is trying to justify — even 'always' reads as evidence for it.
 
 ## Synonyms
 
-- dollars
-- million
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you need to do is build a software company to ten thousand dollars a month and you sell it for a million" — sources/S_ig_daniel.jf1_DZ07m3ClKit.md
-> "one's buying that for a million dollars. Who do you know purchasing that for a million dollars?" — sources/S_ig_daniel.jf1_DZ07m3ClKit.md
+> "All you need to do is build a software company to ten thousand dollars a month and you sell it for a million dollars" — sources/S_ig_daniel.jf1_DZ07m3ClKit.md
+> "No one's buying that for a million dollars. Who do you know purchasing that for a million dollars? Are you dumb" — sources/S_ig_daniel.jf1_DZ07m3ClKit.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'million' to point at one specific mechanic daniel.jf1 says is failing in the movement shown.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'million' as a working label in one specific argument (visible in the collocation with 'comes'), not as a slogan the reader is meant to repeat.

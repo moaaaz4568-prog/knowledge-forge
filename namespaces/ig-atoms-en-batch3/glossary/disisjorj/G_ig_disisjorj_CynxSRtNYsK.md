@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["sound effect", "reverse"]
+aka: ["sound effect"]
 origin: sources/S_ig_disisjorj_CynxSRtNYsK.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CynxSRtNYsK.md
 
 ## Term
 
-sound effect is the most prominent repeated term in this source (48-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: reverse, pro, tip. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'sound effect' names the move the clip is really making — the distinction disisjorj says a person must accept before the rest can apply. It appears twice, it sits next to 'software', 'reverse', and 'clip' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Search for a service bell sound effect and… The sentence around 'reverse' only carries weight because 'sound effect' is what the sentence is really about.
 
 ## Synonyms
 
-- sound effect
-- reverse
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a little known hack for unique risers. Search for a service bell sound effect and in your software reverse the clip. Pro tip: add an impact sound effect right after that." — sources/S_ig_disisjorj_CynxSRtNYsK.md
+> "Here's a little known hack for unique risers. Search for a service bell sound effect and in your software reverse the clip. Pro tip: add an impact sound effect right after that. I got more insights like this on my page, so" — sources/S_ig_disisjorj_CynxSRtNYsK.md
+> "Search for a service bell sound effect and in your software reverse the clip. Pro tip: add an impact sound effect right after that. I got more insights like this on my page, so be sure to check them out" — sources/S_ig_disisjorj_CynxSRtNYsK.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'sound effect' as a working concept disisjorj is installing in this clip, not a generic self-help label.
+- Read as a rule for using 'sound effect': the clip shows disisjorj using the word in one specific move (alongside 'Search'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["working", "grand"]
+aka: ["helped"]
 origin: sources/S_ig_geoff_ketterer_DTu9-0eDGaU.md
 ---
 
-# G_ig_geoff_ketterer_DTu9-0eDGaU — working
+# G_ig_geoff_ketterer_DTu9-0eDGaU — helped
 
 ## Term
 
-working is the most prominent repeated term in this source (132-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: grand, sales, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'helped' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears 3 times, it sits next to 'apart', 'pete', and 'doubt' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: I doubt you've ever helped anybody… Even the move around 'millions' only registers as a move because 'helped' is the thing being moved toward.
 
 ## Synonyms
 
-- working
-- grand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a content system so good that he now makes 10 grand in a single day without ever taking a sales call. Or Devon, who said that before working with me he did 45 grand a year and the following year after working with me did a million dollars. Or Tyler, who said everything I taught him enabled him to make 54, 000 in a single month." — sources/S_ig_geoff_ketterer_DTu9-0eDGaU.md
+> "I doubt you've ever helped anybody. Lol. Yeah, Pete, you got me. Apart from Julian, who I helped get millions of views, tens of thousands of followers, and create a content" — sources/S_ig_geoff_ketterer_DTu9-0eDGaU.md
+> "and I'm amazing at what I do. Or scores of other people. But you're right, apart from them, I've never helped anyone" — sources/S_ig_geoff_ketterer_DTu9-0eDGaU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'helped' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as a claim about how geoff_ketterer uses 'helped' across their work: this single 132-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

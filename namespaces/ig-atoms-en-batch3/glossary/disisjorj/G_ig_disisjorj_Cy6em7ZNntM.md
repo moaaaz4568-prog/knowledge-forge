@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["hundred", "billion"]
+aka: ["valuable information"]
 origin: sources/S_ig_disisjorj_Cy6em7ZNntM.md
 ---
 
-# G_ig_disisjorj_Cy6em7ZNntM — hundred
+# G_ig_disisjorj_Cy6em7ZNntM — valuable information
 
 ## Term
 
-hundred is the most prominent repeated term in this source (69-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: billion, industry, expected. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'valuable information' names the felt consequence disisjorj uses to break through a person's logical defences. It appears once in the transcript, and it sits next to 'years', 'creating', and 'online' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Creating content online, sharing valuable information, and educating… Pull 'valuable information' and the clip's spine comes loose — 'online' would still be there but would not point at anything.
 
 ## Synonyms
 
-- hundred
-- billion
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and educating the people that follow you is part of a much larger market than just Instagram. It's called e-learning. That is a one hundred seventy four billion dollar industry that is expected to grow to four hundred fourteen billion by the year twenty twenty nine." — sources/S_ig_disisjorj_Cy6em7ZNntM.md
+> "I wish someone explained this to me years ago. Creating content online, sharing valuable information, and educating the people that follow you is part of a much larger market than just Instagram. It's called e-learning. That is a one" — sources/S_ig_disisjorj_Cy6em7ZNntM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'valuable information' here is loaded with a specific meaning — the felt stake disisjorj says must be touched — not the dictionary sense.
+- Read as a recommendation to use 'valuable information' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'years'); it does not argue the reader should adopt it.

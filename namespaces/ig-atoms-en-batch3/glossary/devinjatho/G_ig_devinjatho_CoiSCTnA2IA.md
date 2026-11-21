@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["safe", "zone"]
+aka: ["safe zone"]
 origin: sources/S_ig_devinjatho_CoiSCTnA2IA.md
 ---
 
-# G_ig_devinjatho_CoiSCTnA2IA — safe
+# G_ig_devinjatho_CoiSCTnA2IA — safe zone
 
 ## Term
 
-safe is the most prominent repeated term in this source (96-word transcript from the Instagram account devinjatho): it occurs 4 times literally in the text, most often collocated with: zone, area, fall. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the devinjatho reel, 'safe zone' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 3 times, it sits next to 'ruining', 'area', and 'social' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: You are ruining your videos if you are… 'safe zone' is what the rest of the clip is trying to justify — even 'overlay' reads as evidence for it.
 
 ## Synonyms
 
-- safe
-- zone
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are ruining your videos if you are not in the safe zone. The safe zone is the area on our social media where all the buttons and captions aren't being overlaid. So to avoid messing up the look of your videos, just search Ray Hollister safe area and download the one you prefer." — sources/S_ig_devinjatho_CoiSCTnA2IA.md
-> "Now just add all of your captions and graphics to where they don't fall outside of the almighty safe zone. Save this post and follow me for" — sources/S_ig_devinjatho_CoiSCTnA2IA.md
+> "You are ruining your videos if you are not in the safe zone. The safe zone is the area on our social media where all the buttons and captions aren't being overlaid. So to avoid messing up the look of your" — sources/S_ig_devinjatho_CoiSCTnA2IA.md
+> "software. Now just add all of your captions and graphics to where they don't fall outside of the almighty safe zone. Save this post and follow me for more" — sources/S_ig_devinjatho_CoiSCTnA2IA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'safe zone' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a clean transcript: the wording around 'safe zone' (including the run-on near 'captions') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

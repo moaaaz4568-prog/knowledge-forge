@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["success", "missing"]
+aka: ["success"]
 origin: sources/S_ig_disisjorj_C0G0P4Ht19G.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_C0G0P4Ht19G.md
 
 ## Term
 
-success is the most prominent repeated term in this source (76-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: missing, neglect, amount. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'success' is the disposition disisjorj says a person cannot skip past and still expect results. It appears 4 times, it sits next to 'neglect', 'amount', and 'failures' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I struggle to understand how people seek for… Cut 'success' and the clip's aboutness shifts from a claim to a description of understand and overcoming.
 
 ## Synonyms
 
-- success
-- missing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I struggle to understand how people seek for success but neglect the amount of failures needed for that success to be meaningful. You will always need the yin to the yang." — sources/S_ig_disisjorj_C0G0P4Ht19G.md
-> "discomfort and overcoming failures day in and day out, you finally have the reference point of failure that shines a light on your success. More often than not, that's the missing piece to finding" — sources/S_ig_disisjorj_C0G0P4Ht19G.md
+> "Sometimes you win and sometimes you learn. I struggle to understand how people seek for success but neglect the amount of failures needed for that success to be meaningful. You will always need the yin to the yang. And through embracing discomfort" — sources/S_ig_disisjorj_C0G0P4Ht19G.md
+> "failure that shines a light on your success. More often than not, that's the missing piece to finding success" — sources/S_ig_disisjorj_C0G0P4Ht19G.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'success' here is the specific frame disisjorj argues from, not a generic motivational label.
+- Read as a recommendation to use 'success' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'piece'); it does not argue the reader should adopt it.

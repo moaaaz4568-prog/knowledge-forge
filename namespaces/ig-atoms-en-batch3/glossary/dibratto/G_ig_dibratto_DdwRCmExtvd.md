@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["Ask", "decision"]
+aka: ["ask"]
 origin: sources/S_ig_dibratto_DdwRCmExtvd.md
 ---
 
-# G_ig_dibratto_DdwRCmExtvd — Ask
+# G_ig_dibratto_DdwRCmExtvd — ask
 
 ## Term
 
-Ask is the most prominent repeated term in this source (166-word transcript from the Instagram account dibratto): it occurs 8 times literally in the text, most often collocated with: decision, timeline, budget. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'ask' names the posture a person takes toward the work — dibratto treats it as the foundation, not a tip. It appears 8 times, it sits next to 'decision', 'else', and 'involved' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: Ask them to walk you through their current… The clip's claim about 'brainer' is conditional on 'ask' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- Ask
-- decision
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Say you did some research on them beforehand. Claude did some research on them beforehand. Ask them to walk you through their current process. Type loudly for a few minutes. Ask what made them take the call. Ask what would happen if they did nothing about this problem." — sources/S_ig_dibratto_DdwRCmExtvd.md
-> "And most importantly, ask if there is anyone else involved in the decision. Ask about timeline. Ask about budget range. Ask what a solution like this would need to do to be a no brainer. Suddenly you have four minutes left and you haven't even shown them the product yet." — sources/S_ig_dibratto_DdwRCmExtvd.md
+> "don't care. Say you did some research on them beforehand. Claude did some research on them beforehand. Ask them to walk you through their current process. Type loudly for a few minutes. Ask what made them take the call. Ask what would happen if they did" — sources/S_ig_dibratto_DdwRCmExtvd.md
+> "no brainer. Suddenly you have four minutes left and you haven't even shown them the product yet. So ask them if it makes sense to get time on the calendar for next week. Pipe the call transcript to Claude and have it generate a recap email just restating" — sources/S_ig_dibratto_DdwRCmExtvd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'ask' here is the specific frame dibratto argues from, not a generic motivational label.
+- Read as evidence the term is central to the account: one 166-word clip showing 'ask' next to 'happen' is too small a sample to anchor a wider claim about what dibratto writes about.

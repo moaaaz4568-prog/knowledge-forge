@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["content", "introverts"]
+aka: ["record"]
 origin: sources/S_ig_gincontent_DZWK2pbS1f4.md
 ---
 
-# G_ig_gincontent_DZWK2pbS1f4 — content
+# G_ig_gincontent_DZWK2pbS1f4 — record
 
 ## Term
 
-content is the most prominent repeated term in this source (139-word transcript from the Instagram account gincontent): it occurs 4 times literally in the text, most often collocated with: introverts, wow, listening. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'record' in this clip is the lever that converts effort into reach — gincontent insists the value sits in the doing, not the perfecting. It appears 4 times, it sits next to 'instead', 'hands', and 'narration' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gincontent turns from describing to prescribing — the pivot runs: Here is the transcript: "I'm scared to record… Pull 'record' and the clip's spine comes loose — 'scared' would still be there but would not point at anything.
 
 ## Synonyms
 
-- content
-- introverts
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "scared to record myself. Is there a way I can still create content? Yes. In fact, many creators are introverts like you. So here are some content formats for introverts. Wow, okay, I'm listening. Number one: voiceover content." — sources/S_ig_gincontent_DZWK2pbS1f4.md
-> "What about using AI avatars instead of myself? No, never do that. As soon as people notice, your content loses trust and they'll leave immediately." — sources/S_ig_gincontent_DZWK2pbS1f4.md
+> "I'm scared to record myself. Is there a way I can still create content? Yes. In fact, many creators are introverts like you. So here are some content formats for introverts" — sources/S_ig_gincontent_DZWK2pbS1f4.md
+> "Yeah, I've seen a lot of those. Anything else? Number two: caption-on-head. Instead of speaking at all, record yourself or your work and add captions on top like this. These videos are short as [inaudible]... What about using AI avatars instead of myself" — sources/S_ig_gincontent_DZWK2pbS1f4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': gincontent draws the line explicitly — 'record' here is the public-facing act, distinct from the private work of creating.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'record' next to 'using') may not be load-bearing in gincontent's wider body of work.

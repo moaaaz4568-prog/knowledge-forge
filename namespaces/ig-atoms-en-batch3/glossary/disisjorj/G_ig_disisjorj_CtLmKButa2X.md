@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["add", "better"]
+aka: ["add"]
 origin: sources/S_ig_disisjorj_CtLmKButa2X.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CtLmKButa2X.md
 
 ## Term
 
-add is the most prominent repeated term in this source (90-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: better, overlay, sound. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's clip, 'add' is the design choice disisjorj treats as the hinge between pretty and effective. It appears 3 times, it sits next to 'sound', 'overlay', and 'come' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: You can add this overlay, which is a… 'add' is what the rest of the clip is trying to justify — even 'introduce' reads as evidence for it.
 
 ## Synonyms
 
-- add
-- better
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let's assume that you have a colored clip and a black and white clip, and you have this transition in between. You can add this overlay, which is a film burn overlay. I come to opacity, 100%, and blend mode, I put it on add. To make this even better, you add some sound design. I use a DSLR camera sound, a paper flip, and a whoosh. You go from this to this." — sources/S_ig_disisjorj_CtLmKButa2X.md
+> "you have a colored clip and a black and white clip, and you have this transition in between. You can add this overlay, which is a film burn overlay. I come to opacity, 100%, and blend mode, I put it on add. To make this even better, you add some sound" — sources/S_ig_disisjorj_CtLmKButa2X.md
+> "burn overlay. I come to opacity, 100%, and blend mode, I put it on add. To make this even better, you add some sound design. I use a DSLR camera sound, a paper flip, and a whoosh. You go from this to this. Follow for more" — sources/S_ig_disisjorj_CtLmKButa2X.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic creative word: the source uses 'add' to mark the hinge between pretty and effective, not a vague aesthetic preference.
+- Read as evidence disisjorj always uses 'add' this way: one 90-word clip is too thin a sample to support any claim about how the account uses the word in general.

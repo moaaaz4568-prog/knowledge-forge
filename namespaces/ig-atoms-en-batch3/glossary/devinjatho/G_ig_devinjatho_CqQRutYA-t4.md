@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["audio", "rename"]
+aka: ["instagram"]
 origin: sources/S_ig_devinjatho_CqQRutYA-t4.md
 ---
 
-# G_ig_devinjatho_CqQRutYA-t4 — audio
+# G_ig_devinjatho_CqQRutYA-t4 — instagram
 
 ## Term
 
-audio is the most prominent repeated term in this source (75-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: rename, name, niche. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'instagram' is the public-facing half of the work — devinjatho uses the word to mark the line between private effort and visible output. It appears 3 times, it sits next to 'hack', 'allows', and 'change' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where devinjatho names the thing a person cannot outsource — nearby: Here's an Instagram hack that most people don't… Even the move around 'affect' only registers as a move because 'instagram' is the thing being moved toward.
 
 ## Synonyms
 
-- audio
-- rename
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When posting your reel, scroll down and find rename audio. Now you want to name this audio with as many niche keywords as possible, summarizing your reel. This will optimize your post for Instagram's search engine along with its algorithm." — sources/S_ig_devinjatho_CqQRutYA-t4.md
+> "Here's an Instagram hack that most people don't know about. Instagram allows you to change the name of your sound, which can drastically affect the views and engagement" — sources/S_ig_devinjatho_CqQRutYA-t4.md
+> "audio with as many niche keywords as possible, summarizing your reel. This will optimize your post for Instagram's search engine along with its algorithm. Follow for more value" — sources/S_ig_devinjatho_CqQRutYA-t4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'instagram' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a definition of 'instagram': the source documents how devinjatho deploys the word in this clip — collocated with 'engagement' — it does not establish what the word means in general.

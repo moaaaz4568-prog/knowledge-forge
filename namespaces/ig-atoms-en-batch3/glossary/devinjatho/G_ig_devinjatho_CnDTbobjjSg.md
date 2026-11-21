@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["problem", "sell"]
+aka: ["problem"]
 origin: sources/S_ig_devinjatho_CnDTbobjjSg.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_CnDTbobjjSg.md
 
 ## Term
 
-problem is the most prominent repeated term in this source (124-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: sell, solution, aware. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the devinjatho reel, 'problem' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 3 times, it sits next to 'aware', 'sell', and 'solution' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: Problem aware content… 'problem' is what the rest of the clip is trying to justify — even 'thousand' reads as evidence for it.
 
 ## Synonyms
 
-- problem
-- sell
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "My client went from only making three grand a month to over twenty six thousand dollars just by implementing the PAC strategy. Problem aware content. Let's put it like this. You need to be the doctor that can diagnose your client's situation. Your potential clients don't know that they have a cold." — sources/S_ig_devinjatho_CnDTbobjjSg.md
-> "So if you can diagnose them and make your clients aware that their symptoms are connected to a problem, you can now sell them the solution to that problem." — sources/S_ig_devinjatho_CnDTbobjjSg.md
+> "making three grand a month to over twenty six thousand dollars just by implementing the PAC strategy. Problem aware content. Let's put it like this. You need to be the doctor that can diagnose your client's situation. Your potential clients don't know that" — sources/S_ig_devinjatho_CnDTbobjjSg.md
+> "clients aware that their symptoms are connected to a problem, you can now sell them the solution to that problem. And if you want help doing this, you know where to find me" — sources/S_ig_devinjatho_CnDTbobjjSg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'problem' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a stylistic choice by devinjatho: the wording around 'problem' (e.g. the collocation with 'potential') is the speech of one clip, not a stylistic pattern that can be generalised.

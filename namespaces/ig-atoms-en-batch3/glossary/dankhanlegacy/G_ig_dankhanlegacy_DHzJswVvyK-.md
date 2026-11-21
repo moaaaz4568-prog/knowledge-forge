@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["student", "broke"]
+aka: ["electrical engineering"]
 origin: sources/S_ig_dankhanlegacy_DHzJswVvyK-.md
 ---
 
-# G_ig_dankhanlegacy_DHzJswVvyK- — student
+# G_ig_dankhanlegacy_DHzJswVvyK- — electrical engineering
 
 ## Term
 
-student is the most prominent repeated term in this source (156-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: broke, atm, alright. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'electrical engineering' is the future cost dankhanlegacy names to make the present feel expensive — the lever the clip uses to move the person. It appears once in the transcript, and it sits next to 'born', 'else's', and 'passive' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I was studying electrical engineering because society said… What makes the word 'electrical engineering' the term here is that the rest — 'affiliate', 'failed', everything else — is staged for it.
 
 ## Synonyms
 
-- student
-- broke
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not someone's walking ATM, alright? When I was a broke college student, I heard this crazy idea that hit me like a truck: you were not born to be someone else's passive income. I was studying electrical engineering because society said it was safe. I knew there had to be a way out." — sources/S_ig_dankhanlegacy_DHzJswVvyK-.md
-> "When you laser focus on high-income skills, anything is possible. Doesn't matter if you're a broke student or working a dead-end job. Start now. Keep grinding, keep learning, and for the love of God, stop being someone else's" — sources/S_ig_dankhanlegacy_DHzJswVvyK-.md
+> "idea that hit me like a truck: you were not born to be someone else's passive income. I was studying electrical engineering because society said it was safe. I knew there had to be a way out. So I dove into the online world, failed at dropshipping, e-com" — sources/S_ig_dankhanlegacy_DHzJswVvyK-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'electrical engineering' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as evidence dankhanlegacy always uses 'electrical engineering' this way: one 156-word clip is too thin a sample to support any claim about how the account uses the word in general.

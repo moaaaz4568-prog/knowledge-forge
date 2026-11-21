@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["opportunity", "person"]
+aka: ["musicians understand"]
 origin: sources/S_ig_disisjorj_CzRX9IZNW9A.md
 ---
 
-# G_ig_disisjorj_CzRX9IZNW9A — opportunity
+# G_ig_disisjorj_CzRX9IZNW9A — musicians understand
 
 ## Term
 
-This source is very short (85 words), so no term repeats enough for a frequency-based entry; opportunity is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'musicians understand' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'creating', 'helped', and 'importance' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I remember starting this account and creating content… Even the move around 'reason' only registers as a move because 'musicians understand' is the thing being moved toward.
 
 ## Synonyms
 
-- opportunity
-- person
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and creating content that helped musicians understand the importance of diversified income, the one person business, and how big of an opportunity the creator's economy is. Needless to say, those videos didn't get much attention, and the reason is the only way you can truly inspire someone is to lead by example." — sources/S_ig_disisjorj_CzRX9IZNW9A.md
+> "don't like being told what to do. I remember starting this account and creating content that helped musicians understand the importance of diversified income, the one person business, and how big of an opportunity the creator's economy is. Needless to" — sources/S_ig_disisjorj_CzRX9IZNW9A.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague content verb: in disisjorj's usage here, 'musicians understand' is pinned to the moment of shipping, not the whole content pipeline.
+- Read as a clean transcript: the wording around 'musicians understand' (including the run-on near 'Needless') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["numbers", "ask"]
+aka: ["close friends"]
 origin: sources/S_ig_dankhanlegacy_DNF_pa0s8AP.md
 ---
 
-# G_ig_dankhanlegacy_DNF_pa0s8AP — numbers
+# G_ig_dankhanlegacy_DNF_pa0s8AP — close friends
 
 ## Term
 
-numbers is the most prominent repeated term in this source (98-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: ask, magic, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'close friends' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'dinner', 'spend', and 'recharge' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: I still spend time with my close friends… Read alongside 'sunsets', the word 'close friends' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- numbers
-- ask
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "wants to hit big numbers, but they're on vacation every other week, posting sunsets, cocktails, and pretending like they've made it. Then they ask me" — sources/S_ig_dankhanlegacy_DNF_pa0s8AP.md
+> "fluff, no distractions, just execution. Yeah, I still go out for dinner. I still spend time with my close friends, but that's my recharge. It's not my reward. Because I haven't won yet. And until I do, you won't outwork me. You can't win me. If you enjoyed" — sources/S_ig_dankhanlegacy_DNF_pa0s8AP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'close friends' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a recommendation to use 'close friends' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'numbers'); it does not argue the reader should adopt it.

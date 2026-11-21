@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["persuading", "asking"]
+aka: ["persuading"]
 origin: sources/S_ig_geoff_ketterer_DdMMfTStQtj.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DdMMfTStQtj.md
 
 ## Term
 
-persuading is the most prominent repeated term in this source (167-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: asking, questions, push. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'persuading' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears 3 times, it sits next to 'well', 'push', and 'asking' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: The line when somebody says, "Oh, you're a… Pull 'persuading' and the clip's spine comes loose — 'nothing' would still be there but would not point at anything.
 
 ## Synonyms
 
-- persuading
-- asking
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is it me that's good at persuading, or am I just asking you questions and you're persuading" — sources/S_ig_geoff_ketterer_DdMMfTStQtj.md
+> "Well, you know, you're good at persuading" — sources/S_ig_geoff_ketterer_DdMMfTStQtj.md
+> "Well, is it me that's good at persuading, or am I just asking you questions and you're persuading yourself" — sources/S_ig_geoff_ketterer_DdMMfTStQtj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'persuading' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a claim about how geoff_ketterer uses 'persuading' across their work: this single 167-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["art", "living"]
+aka: ["government dictated"]
 origin: sources/S_ig_daniel.jf1_DTgKIROgcYE.md
 ---
 
-# G_ig_daniel.jf1_DTgKIROgcYE — art
+# G_ig_daniel.jf1_DTgKIROgcYE — government dictated
 
 ## Term
 
-art is the most prominent repeated term in this source (85-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: living, demand, socialist. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'government dictated' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'stamping', 'metal', and 'hours' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: What's gonna happen is you're gonna be in… The clip's claim about 'factory' is conditional on 'government dictated' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- art
-- living
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "we're in the socialist utopia, I'm gonna make art for a" — sources/S_ig_daniel.jf1_DTgKIROgcYE.md
-> "Well, there's no demand for art. What's gonna happen is you're gonna be in the factory stamping metal for 10 hours a day because that's what the government dictated is needed. Congratulations, that's what you do." — sources/S_ig_daniel.jf1_DTgKIROgcYE.md
+> "gonna happen is you're gonna be in the factory stamping metal for 10 hours a day because that's what the government dictated is needed. Congratulations, that's what you do. There is no art, there's no fun, there's no freedom of choice" — sources/S_ig_daniel.jf1_DTgKIROgcYE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'government dictated' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'government dictated' as a working label in one specific argument (visible in the collocation with 'Socialism'), not as a slogan the reader is meant to repeat.

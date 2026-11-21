@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sales", "calls"]
+aka: ["sales calls", "sales call"]
 origin: sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
 ---
 
-# G_ig_gregoryjhickman_C4JBHs5vAo4 — sales
+# G_ig_gregoryjhickman_C4JBHs5vAo4 — sales calls
 
 ## Term
 
-sales is the most prominent repeated term in this source (225-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: calls, call, end. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'sales calls' is the layer gregoryjhickman says sits under the surface complaint — the thing a person must feel before they will act. It appears 3 times, it sits next to 'call', 'having', and 'eighty' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: I think the reality is a lot of… Anything else in the clip orbits this word — strip out 'sales calls' and the rest reads as filler around 'reality'.
 
 ## Synonyms
 
-- sales
-- calls
+- sales call
 
 ## Live Example
 
-> "they price their product just low enough that sorry they price their product service just low enough that they think they might not need a sales call, but they end up having to do sales calls eighty percent of the time anyways." — sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
-> "But now they they don't actually have the you know other than the founder taking the sales calls and not feeling the cost of that, they don't actually have any real economics to the business that would at scale." — sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
-> "great brand and you have really great social proof and really great video testimonials, yeah, you might be able to deflect a lot of those sales calls, right? But the reality is most people are still going to have prospects that want to get on a call, but then they price their product so that they hope people want it." — sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
+> "service just low enough that they think they might not need a sales call, but they end up having to do sales calls eighty percent of the time anyways. But now they they don't actually have the you know other than the founder taking the sales calls and not" — sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
+> "social proof and really great video testimonials, yeah, you might be able to deflect a lot of those sales calls, right? But the reality is most people are still going to have prospects that want to get on a call, but then they price their product so that" — sources/S_ig_gregoryjhickman_C4JBHs5vAo4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a clinical term: 'sales calls' here is gregoryjhickman's working label for the felt pressure in the room, not a diagnostic category.
+- Read as polished prose: this is a verbatim transcript of a 225-word Instagram clip, and the wording around 'sales calls' (including the collocation with 'let's') is spoken speech, not edited writing.

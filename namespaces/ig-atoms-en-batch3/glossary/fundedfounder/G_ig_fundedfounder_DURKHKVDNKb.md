@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["mistake", "every"]
+aka: ["mistake"]
 origin: sources/S_ig_fundedfounder_DURKHKVDNKb.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_fundedfounder_DURKHKVDNKb.md
 
 ## Term
 
-mistake is the most prominent repeated term in this source (25-word transcript from the Instagram account fundedfounder): it occurs 2 times literally in the text, most often collocated with: every, son, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'mistake' names the distinction fundedfounder draws in this clip — the line that separates what works from what only feels like it works. It appears twice, it sits next to 'since', 'call', and 'anymore' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Look, I made a mistake, and I've thought… Cut 'mistake' and the clip's aboutness shifts from a claim to a description of anymore and the rest.
 
 ## Synonyms
 
-- mistake
-- every
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I made a mistake, and I've thought about you every day since. A mistake? Son." — sources/S_ig_fundedfounder_DURKHKVDNKb.md
+> "Look, I made a mistake, and I've thought about you every day since. A mistake? Son. No, you don't get to call me that anymore" — sources/S_ig_fundedfounder_DURKHKVDNKb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'mistake' is loaded by fundedfounder with a specific working meaning, not the dictionary sense.
+- Read as a definition of 'mistake': the source documents how fundedfounder deploys the word in this clip — collocated with 'since' — it does not establish what the word means in general.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["change", "past"]
+aka: ["compounding effect"]
 origin: sources/S_ig_disisjorj_C6WQO9HNRof.md
 ---
 
-# G_ig_disisjorj_C6WQO9HNRof — change
+# G_ig_disisjorj_C6WQO9HNRof — compounding effect
 
 ## Term
 
-change is the most prominent repeated term in this source (51-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: past, habits, thoughts. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'compounding effect' in this disisjorj clip is the internal stance disisjorj argues a person must hold before technique can help them. It appears once in the transcript, and it sits next to 'direct', 'reflection', and 'regrets' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: The place you are right now watching this… The reel earns its keep only because 'compounding effect' is doing the lifting; 'regrets' alone would be filler.
 
 ## Synonyms
 
-- change
-- past
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "now watching this video is a direct reflection, a compounding effect of all your regrets and choices from the past years. Nothing will change unless you change the habits, thoughts and actions you take." — sources/S_ig_disisjorj_C6WQO9HNRof.md
+> "reward if there's no risk. The place you are right now watching this video is a direct reflection, a compounding effect of all your regrets and choices from the past years. Nothing will change unless you change the habits, thoughts and actions you take" — sources/S_ig_disisjorj_C6WQO9HNRof.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'compounding effect' is loaded by disisjorj with a specific meaning tied to 'makes', not the dictionary sense.
+- Read as a recommendation to use 'compounding effect' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'makes'); it does not argue the reader should adopt it.

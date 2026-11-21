@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["instant gratification", "dreams"]
+aka: ["instant gratification"]
 origin: sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
 
 ## Term
 
-instant gratification is the most prominent repeated term in this source (85-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: dreams, addiction, alex. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'instant gratification' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears twice, it sits next to 'kills', 'people's', and 'dreams' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Number one thing that kills most people's dreams… Strip the clip down to its claim and you are left with 'instant gratification'; 'process' and 'results' are how the claim is delivered.
 
 ## Synonyms
 
-- instant gratification
-- dreams
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Number one thing that kills most people's dreams is the addiction to instant gratification. Alex Hormozi said" — sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
-> "Here's how to beat instant gratification. Set big scary goals. Break them into daily actions. Trust the process even when you see no results. Keep pushing when others quit." — sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
+> "significant comes into their life. Number one thing that kills most people's dreams is the addiction to instant gratification. Alex Hormozi said" — sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
+> "Here's how to beat instant gratification. Set big scary goals. Break them into daily actions. Trust the process even when you see no results. Keep pushing when others quit" — sources/S_ig_dankhanlegacy_DJojzRFMZJT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'instant gratification' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a tagline worth extracting: the source shows dankhanlegacy using 'instant gratification' as a working label in one specific argument (visible in the collocation with 'bigger'), not as a slogan the reader is meant to repeat.

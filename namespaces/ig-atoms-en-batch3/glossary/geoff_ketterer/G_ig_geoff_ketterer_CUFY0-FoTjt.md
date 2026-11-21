@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["side effects", "Number"]
+aka: ["side effects"]
 origin: sources/S_ig_geoff_ketterer_CUFY0-FoTjt.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_geoff_ketterer_CUFY0-FoTjt.md
 
 ## Term
 
-side effects is the most prominent repeated term in this source (26-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: number, severe, major. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'side effects' is the distinction geoff_ketterer is actually drawing — the line the rest of the clip is staged to make stick. It appears twice, it sits next to 'porn', 'cause', and 'severe' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Did you know that watching too much porn… Cut 'side effects' and the clip's aboutness shifts from a claim to a description of effects and severe.
 
 ## Synonyms
 
-- side effects
-- Number
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you know that watching too much porn can cause severe side effects? There are three major side effects. Number one is memory loss." — sources/S_ig_geoff_ketterer_CUFY0-FoTjt.md
+> "Did you know that watching too much porn can cause severe side effects? There are three major side effects. Number one is memory loss. Number two" — sources/S_ig_geoff_ketterer_CUFY0-FoTjt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'side effects' as a working label for an idea geoff_ketterer is arguing, not as a tagline to be repeated.
+- Read as evidence the term is central to the account: one 26-word clip showing 'side effects' next to 'memory' is too small a sample to anchor a wider claim about what geoff_ketterer writes about.

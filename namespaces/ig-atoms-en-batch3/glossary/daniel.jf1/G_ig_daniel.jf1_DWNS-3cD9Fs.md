@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["raise", "price"]
+aka: ["scarcity campaigns"]
 origin: sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
 ---
 
-# G_ig_daniel.jf1_DWNS-3cD9Fs — raise
+# G_ig_daniel.jf1_DWNS-3cD9Fs — scarcity campaigns
 
 ## Term
 
-raise is the most prominent repeated term in this source (117-word transcript from the Instagram account daniel.jf1): it occurs 2 times literally in the text, most often collocated with: price, nearly, double. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's framing, 'scarcity campaigns' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'price', 'well', and 'never' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I would run scarcity campaigns that the price… Every other word in the source, including 'discounts', is in service to the move 'scarcity campaigns' names.
 
 ## Synonyms
 
-- raise
-- price
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went from forty five and then it was like seventy five, and I like played with this a lot." — sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
+> "buy it. What I did, which worked so stupidly well, is I would never run discounts ever. I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went" — sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'scarcity campaigns' as a working label for an idea daniel.jf1 is arguing, not as a tagline to be repeated.
+- Read as a definition of 'scarcity campaigns': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'stupidly' — it does not establish what the word means in general.

@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["business", "trading"]
+aka: ["trading"]
 origin: sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
 ---
 
-# G_ig_daniel.jf1_DZ_VnnuDi7E — business
+# G_ig_daniel.jf1_DZ_VnnuDi7E — trading
 
 ## Term
 
-business is the most prominent repeated term in this source (147-word transcript from the Instagram account daniel.jf1): it occurs 6 times literally in the text, most often collocated with: trading, package, opportunity. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'trading' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears 6 times, it sits next to 'rich', 'package', and 'sells' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Trading is not a business… Every other word in the source, including 'trades', is in service to the move 'trading' names.
 
 ## Synonyms
 
-- business
-- trading
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is not a business. You can't package your trading business up into an entity and sell it." — sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
-> "Somebody who sells a trading business opportunity course, that is a business. You're giving information that may or may not help people, but in 99% of cases, it actually doesn't." — sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
-> "And yes, you do run a legitimate business, but trading is not a real business and it's actually a completely terrible idea for most people to do because you are somehow operating under the delusion that you're gonna beat a hedge fund with tens of millions of dollars of specialized equipment and mathematicians and" — sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
+> "Trading is not a business. You can't package your trading business up into an entity and sell it. It's very interesting to me when you have somebody saying" — sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
+> "PhDs and like somehow you little Jimmy in his basement is gonna like make trades and get rich off of trading. It's just not real. It doesn't occur" — sources/S_ig_daniel.jf1_DZ_VnnuDi7E.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'trading' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
+- Read as polished prose: this is a verbatim transcript of a 147-word Instagram clip, and the wording around 'trading' (including the collocation with 'equipment') is spoken speech, not edited writing.

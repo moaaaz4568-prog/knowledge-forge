@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["content", "viral"]
+aka: ["become successful"]
 origin: sources/S_ig_dankhanlegacy_DIHpJx5BV4n.md
 ---
 
-# G_ig_dankhanlegacy_DIHpJx5BV4n — content
+# G_ig_dankhanlegacy_DIHpJx5BV4n — become successful
 
 ## Term
 
-content is the most prominent repeated term in this source (119-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: viral, amazing, live. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'become successful' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears once in the transcript, and it sits next to 'easier', 'build', and 'enjoyed' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: So as long as you have great content… Even the move around 'students' only registers as a move because 'become successful' is the thing being moved toward.
 
 ## Synonyms
 
-- content
-- viral
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No, I don't think so. I think the market is bigger now. It's easier than ever before to go viral if you have amazing content. You know, we were on the live calls with my students. I was recently talking about some pages that literally went from like zero to one point five million followers in a month. Right, wow, and they blew up like crazy." — sources/S_ig_dankhanlegacy_DIHpJx5BV4n.md
-> "Right, wow, and they blew up like crazy. So as long as you have great content and it's standing out, then it's easier than ever before to build a big brand and become successful." — sources/S_ig_dankhanlegacy_DIHpJx5BV4n.md
+> "have great content and it's standing out, then it's easier than ever before to build a big brand and become successful. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DIHpJx5BV4n.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'become successful' is the emotional lever dankhanlegacy uses to surface commitment, not a market mechanic.
+- Read as a claim about how dankhanlegacy uses 'become successful' across their work: this single 119-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

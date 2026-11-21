@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["building", "sales"]
+aka: ["building engines"]
 origin: sources/S_ig_gregoryjhickman_Bz-758FnWfO.md
 ---
 
-# G_ig_gregoryjhickman_Bz-758FnWfO — building
+# G_ig_gregoryjhickman_Bz-758FnWfO — building engines
 
 ## Term
 
-building is the most prominent repeated term in this source (168-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: sales, engines, fell. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'building engines' is the emotional core gregoryjhickman insists is the real subject of the conversation — not the topic the person says they came for. It appears twice, it sits next to 'builder', 'versus', and 'crew' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: Builder versus the pit crew, and so we… The clip's claim about 'engine' is conditional on 'building engines' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- building
-- sales
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "versus the pit crew, and so we fell in love with building engines, right? Building your sales funnel, your sales process, your new client onboarding—how do you use automation to streamline your back office operations?" — sources/S_ig_gregoryjhickman_Bz-758FnWfO.md
+> "Builder versus the pit crew, and so we fell in love with building engines, right? Building your sales funnel, your sales process, your new client onboarding—how do you use automation to streamline your back office" — sources/S_ig_gregoryjhickman_Bz-758FnWfO.md
+> "client onboarding—how do you use automation to streamline your back office operations? Like we were building engines and machines that helped our clients' businesses run more smoothly, right? And after a certain amount of time working with any particular" — sources/S_ig_gregoryjhickman_Bz-758FnWfO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface complaint: the source uses 'building engines' to point at the layer underneath the stated problem, not at the problem itself.
+- Read as a stylistic choice by gregoryjhickman: the wording around 'building engines' (e.g. the collocation with 'certain') is the speech of one clip, not a stylistic pattern that can be generalised.

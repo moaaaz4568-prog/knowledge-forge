@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["message", "gets"]
+aka: ["message"]
 origin: sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
 
 ## Term
 
-message is the most prominent repeated term in this source (237-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: gets, free, craft. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'message' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears 4 times, it sits next to 'gets', 'assuming', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. geoff_ketterer drops it precisely where the cost of skipping it shows up — the surrounding move runs: And the reason I'm assuming that is because… The reel earns its keep only because 'message' is doing the lifting; 'refund' alone would be filler.
 
 ## Synonyms
 
-- message
-- gets
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the reason I'm assuming that is because this must be the fourth or fifth message in a row that sounds exactly the same. So I want you to do two things. Number one, if that's the case and you've paid somebody to teach you this bullshit, I want you to ask them for a fucking refund immediately." — sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
-> "you to message me back on Instagram and I will jump on a 30 minute Zoom with you and I will show you for free how to craft an outreach message that actually gets read, that actually gets clicked, that actually gets opened and actually gets people to pay attention to what you're saying instead of this bollocks." — sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
+> "you have been taught to. And the reason I'm assuming that is because this must be the fourth or fifth message in a row that sounds exactly the same. So I want you to do two things. Number one, if that's the case and you've paid somebody to teach you this" — sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
+> "gets opened and actually gets people to pay attention to what you're saying instead of this bollocks. Message me" — sources/S_ig_geoff_ketterer_DX6iT8HNbYk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cliché: 'message' here is loaded with a specific felt-position meaning by geoff_ketterer, not a vague cue.
+- Read as proof the term is load-bearing for geoff_ketterer in general: a 237-word clip with the word 'message' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

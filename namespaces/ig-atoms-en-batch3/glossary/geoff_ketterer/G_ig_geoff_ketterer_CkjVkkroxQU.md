@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["structure", "script"]
+aka: ["normal conversation"]
 origin: sources/S_ig_geoff_ketterer_CkjVkkroxQU.md
 ---
 
-# G_ig_geoff_ketterer_CkjVkkroxQU — structure
+# G_ig_geoff_ketterer_CkjVkkroxQU — normal conversation
 
 ## Term
 
-structure is the most prominent repeated term in this source (163-word transcript from the Instagram account geoff_ketterer): it occurs 2 times literally in the text, most often collocated with: script, internalized, person. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'normal conversation' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears once in the transcript, and it sits next to 'sense' each time it appears — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: No fluff, no, no fussing about, so that… The clip's relationship to 'structure' only makes sense as a vehicle for delivering 'normal conversation'.
 
 ## Synonyms
 
-- structure
-- script
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "okay, this is, this is like a normal conversation, which is how somebody should feel all the way through. Even if you have a script and a structure, you should have internalized that script and structure so well that the person you're speaking to doesn't ever feel like it's" — sources/S_ig_geoff_ketterer_CkjVkkroxQU.md
+> "right? No fluff, no, no fussing about, so that they get the sense of, oh, okay, this is, this is like a normal conversation, which is how somebody should feel all the way through. Even if you have a script and a structure, you should have internalized that" — sources/S_ig_geoff_ketterer_CkjVkkroxQU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'normal conversation' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a claim about how geoff_ketterer uses 'normal conversation' across their work: this single 163-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

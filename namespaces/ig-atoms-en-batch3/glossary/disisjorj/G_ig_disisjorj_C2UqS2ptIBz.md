@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["eight", "apart"]
+aka: ["eight months"]
 origin: sources/S_ig_disisjorj_C2UqS2ptIBz.md
 ---
 
-# G_ig_disisjorj_C2UqS2ptIBz — eight
+# G_ig_disisjorj_C2UqS2ptIBz — eight months
 
 ## Term
 
-eight is the most prominent repeated term in this source (67-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: apart, decade, embarrassing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'eight months' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears twice, it sits next to 'apart', 'five', and 'years' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: That's eight months apart, not five years or… Without 'eight months', the reel is just a clip about results; with it, the clip is a claim.
 
 ## Synonyms
 
-- eight
-- apart
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This book was a turning point in my musical career. That was one of my first reels. Embarrassing to say the least. That's eight months apart, not five years or a decade, eight months. Maybe don't quit content creation after three months of no results. Remember to make action the goal and not the outcome." — sources/S_ig_disisjorj_C2UqS2ptIBz.md
+> "turning point in my musical career. That was one of my first reels. Embarrassing to say the least. That's eight months apart, not five years or a decade, eight months. Maybe don't quit content creation after three months of no results. Remember to make action" — sources/S_ig_disisjorj_C2UqS2ptIBz.md
+> "my first reels. Embarrassing to say the least. That's eight months apart, not five years or a decade, eight months. Maybe don't quit content creation after three months of no results. Remember to make action the goal and not the outcome. I hope this finds" — sources/S_ig_disisjorj_C2UqS2ptIBz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'eight months' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term is load-bearing for disisjorj in general: a 67-word clip with the word 'eight months' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

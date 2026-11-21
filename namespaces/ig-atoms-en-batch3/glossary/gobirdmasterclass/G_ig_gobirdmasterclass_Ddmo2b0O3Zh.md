@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["direito", "de"]
+aka: ["gobirdmasterclass"]
 origin: sources/S_ig_gobirdmasterclass_Ddmo2b0O3Zh.md
 ---
 
-# G_ig_gobirdmasterclass_Ddmo2b0O3Zh — direito
+# G_ig_gobirdmasterclass_Ddmo2b0O3Zh — Ela é de direito, direito, direito, direito, direito, direit…
 
 ## Term
 
-direito is the most prominent repeated term in this source (23-word transcript from the Instagram account gobirdmasterclass): it occurs 20 times literally in the text, most often collocated with: de, ela. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+There is no domain term in this 23-word short caption from gobirdmasterclass — what is here is phrasing, not a concept, and the only honest entry is one that says so. The full text: "Ela é de direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito,".
 
 ## Synonyms
 
-- direito
-- de
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "é de direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito" — sources/S_ig_gobirdmasterclass_Ddmo2b0O3Zh.md
+> "Ela é de direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito, direito" — sources/S_ig_gobirdmasterclass_Ddmo2b0O3Zh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a domain term in the account's wider body of work: this single short clip cannot establish that any word in it functions as a concept for gobirdmasterclass.
+- Read as a caption worth treating as a domain entry: this 23-word source does not have the conceptual weight to support one, even when the wording (e.g. 'direito') sounds like a slogan.

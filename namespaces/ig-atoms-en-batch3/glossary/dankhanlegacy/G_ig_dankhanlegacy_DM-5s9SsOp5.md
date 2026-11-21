@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["opportunity", "success"]
+aka: ["claim ambition"]
 origin: sources/S_ig_dankhanlegacy_DM-5s9SsOp5.md
 ---
 
-# G_ig_dankhanlegacy_DM-5s9SsOp5 — opportunity
+# G_ig_dankhanlegacy_DM-5s9SsOp5 — claim ambition
 
 ## Term
 
-This source is very short (55 words), so no term repeats enough for a frequency-based entry; opportunity is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'claim ambition' is the inner orientation the clip is built to install — not a tactic but a stance the tactics rest on. It appears once in the transcript, and it sits next to 'opportunity', 'strangers', and 'sleep' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: People claim ambition but sleep in every day… The argument only stays upright while 'claim ambition' is doing the work — pull it and 'demand' loses its anchor.
 
 ## Synonyms
 
-- opportunity
-- success
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Successful people don't know how to stop. People demand success but refuse to work weekends. People want opportunity but won't talk to strangers. People claim ambition but sleep in every day." — sources/S_ig_dankhanlegacy_DM-5s9SsOp5.md
+> "demand success but refuse to work weekends. People want opportunity but won't talk to strangers. People claim ambition but sleep in every day. We are the result of our actions, not our aspirations" — sources/S_ig_dankhanlegacy_DM-5s9SsOp5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'claim ambition' here is a working concept dankhanlegacy is installing, not a tagline the reader is meant to repeat.
+- Read as polished prose: this is a verbatim transcript of a 55-word Instagram clip, and the wording around 'claim ambition' (including the collocation with 'weekends') is spoken speech, not edited writing.

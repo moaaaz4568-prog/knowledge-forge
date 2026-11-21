@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["planning", "build"]
+aka: ["intent signals"]
 origin: sources/S_ig_divyannshisharma_DZSiNhOyyDo.md
 ---
 
-# G_ig_divyannshisharma_DZSiNhOyyDo — planning
+# G_ig_divyannshisharma_DZSiNhOyyDo — intent signals
 
 ## Term
 
-planning is the most prominent repeated term in this source (170-word transcript from the Instagram account divyannshisharma): it occurs 3 times literally in the text, most often collocated with: build, tools, automation. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In divyannshisharma's reel, 'intent signals' is the move divyannshisharma says the person must make before the prospect will commit. It appears twice, it sits next to 'build', 'leads', and 'based' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment divyannshisharma turns from describing to prescribing — the pivot runs: I told it to build a web app… Every other word in the source, including 'breaks', is in service to the move 'intent signals' names.
 
 ## Synonyms
 
-- planning
-- build
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I used Tray, and they just merged their solo and builder into a solo agent. So instead of going back and forth between coding and planning, I just described it what to build and it built it instantly. I told it to build a web app that finds leads based on various intent signals like hiring, recruiting, new funding round, and all these factors." — sources/S_ig_divyannshisharma_DZSiNhOyyDo.md
-> "The second later, the tool is live and I can filter 50k leads based on various intent signals. If you're planning to build tools automation for your agency and planning to scale it, this is worth trying." — sources/S_ig_divyannshisharma_DZSiNhOyyDo.md
+> "what to build and it built it instantly. I told it to build a web app that finds leads based on various intent signals like hiring, recruiting, new funding round, and all these factors. So the solo agent starts building. It builds the front end, the back" — sources/S_ig_divyannshisharma_DZSiNhOyyDo.md
+> "being in the workflow. The second later, the tool is live and I can filter 50k leads based on various intent signals. If you're planning to build tools automation for your agency and planning to scale it, this is worth trying. Comment tool and I will send" — sources/S_ig_divyannshisharma_DZSiNhOyyDo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'intent signals' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a claim about how divyannshisharma uses 'intent signals' across their work: this single 170-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

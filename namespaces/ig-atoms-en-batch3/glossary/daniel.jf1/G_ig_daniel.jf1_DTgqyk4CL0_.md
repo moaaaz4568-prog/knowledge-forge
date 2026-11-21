@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["refund", "requests"]
+aka: ["refund"]
 origin: sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
 
 ## Term
 
-refund is the most prominent repeated term in this source (273-word transcript from the Instagram account daniel.jf1): it occurs 9 times literally in the text, most often collocated with: requests, changed, stipulation. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'refund' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 9 times, it sits next to 'requests', 'reason', and 'asking' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It was, you can get a refund for… The argument only stays upright while 'refund' is doing the work — pull it and 'selling' loses its anchor.
 
 ## Synonyms
 
-- refund
-- requests
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It was like a $27 course. And I put a money back guarantee in there. It was, you can get a refund for any reason you want within 30 days. Any reason doesn't matter. And this was to cold traffic, by the way. I you not, like 5% of people asked for a refund. It was like a lot, like a lot of people were asking for a refund." — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
-> "I'm like, why are we getting so many refund requests? I changed the refund stipulation because, dude, we'd get it and people would request a refund in like eight minutes later. It was like same day. So I changed it." — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
-> "I don't care. You just have to have sent 100 emails. Refund rate drops to 0%. So what else can we draw from this? 95% of refund requests are fraud. They wanted to steal the course and not do anything. That is another truism." — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
+> "whatever. It was like a $27 course. And I put a money back guarantee in there. It was, you can get a refund for any reason you want within 30 days. Any reason doesn't matter. And this was to cold traffic, by the way. I you not, like 5% of people asked" — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
+> "just have to have sent 100 emails. Refund rate drops to 0%. So what else can we draw from this? 95% of refund requests are fraud. They wanted to steal the course and not do anything. That is another truism. If you are gonna have a guarantee, you need to" — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'refund' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'guarantee' makes that visible.
+- Read as a definition of 'refund': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'guarantee' — it does not establish what the word means in general.

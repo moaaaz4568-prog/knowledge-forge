@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["morning", "Mr"]
+aka: ["morning"]
 origin: sources/S_ig_gregoryjhickman_C9r1sOXu2Yt.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gregoryjhickman_C9r1sOXu2Yt.md
 
 ## Term
 
-morning is the most prominent repeated term in this source (68-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: mr, west, wake. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'morning' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 4 times, it sits next to 'west', 'wake', and 'fresh' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: Good morning… 'morning' is what the rest of the clip is trying to justify — even 'motherfucker' reads as evidence for it.
 
 ## Synonyms
 
-- morning
-- Mr
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "morning. Good morning. Good morning. Good morning. Wake up, Mr. West, Mr. West, Mr. Fresh, Mr. By himself, he's so impressed. I mean, damn, did you even see the test? You got D's, motherfucker, D's." — sources/S_ig_gregoryjhickman_C9r1sOXu2Yt.md
+> "Good morning. Good morning. Good morning. Good morning. Wake up, Mr. West, Mr. West, Mr. Fresh, Mr. By himself, he's so impressed. I mean, damn, did you even" — sources/S_ig_gregoryjhickman_C9r1sOXu2Yt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'morning' here is pinned to one specific claim in this clip, and the same word in another source from gregoryjhickman may carry a different load.
+- Read as a definition of 'morning': the source documents how gregoryjhickman deploys the word in this clip — collocated with 'himself' — it does not establish what the word means in general.

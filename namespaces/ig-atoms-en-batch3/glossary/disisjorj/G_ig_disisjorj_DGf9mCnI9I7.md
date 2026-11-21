@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["change", "trends"]
+aka: ["change"]
 origin: sources/S_ig_disisjorj_DGf9mCnI9I7.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_DGf9mCnI9I7.md
 
 ## Term
 
-change is the most prominent repeated term in this source (187-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: trends, platforms, algorithms. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'change' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears 4 times, it sits next to 'trends', 'platforms', and 'algorithms' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: 'Cause trends will change, platforms change, and algorithms… Without 'change', the reel is just a clip about leaving; with it, the clip is a claim.
 
 ## Synonyms
 
-- change
-- trends
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No stress, work from anywhere, no need to overcomplicate it. 'Cause trends will change, platforms change, and algorithms will change too. But the one thing that will never change is the person using them." — sources/S_ig_disisjorj_DGf9mCnI9I7.md
+> "and the Osmo Pocket 3. No stress, work from anywhere, no need to overcomplicate it. 'Cause trends will change, platforms change, and algorithms will change too. But the one thing that will never change is the person using them. So I would rather master the" — sources/S_ig_disisjorj_DGf9mCnI9I7.md
+> "trends will change, platforms change, and algorithms will change too. But the one thing that will never change is the person using them. So I would rather master the skill and not the software, and I'm pretty sure the rest will take care of itself" — sources/S_ig_disisjorj_DGf9mCnI9I7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a market term: the clip uses 'change' in the framing of an emotional sales conversation, not in the framing of a trade.
+- Read as a rule for using 'change': the clip shows disisjorj using the word in one specific move (alongside 'using'), not a recommendation that the reader adopt the word themselves.

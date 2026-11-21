@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gincontent
-aka: ["retention", "end"]
+aka: ["search-based platform"]
 origin: sources/S_ig_gincontent_DW9l4OeybQy.md
 ---
 
-# G_ig_gincontent_DW9l4OeybQy — retention
+# G_ig_gincontent_DW9l4OeybQy — search-based platform
 
 ## Term
 
-retention is the most prominent repeated term in this source (108-word transcript from the Instagram account gincontent): it occurs 2 times literally in the text, most often collocated with: end, called, higher. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the gincontent reel, 'search-based platform' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears once in the transcript, and it sits next to 'find', 'tiktok', and 'youtube' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gincontent turns from describing to prescribing — the pivot runs: First, YouTube is a search-based platform… Every other word in the source, including 'search-based', is in service to the move 'search-based platform' names.
 
 ## Synonyms
 
-- retention
-- end
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You need to grab their attention in the first three seconds to keep them watching until the end. This is called retention—the higher the retention, the more the algorithm will push your content." — sources/S_ig_gincontent_DW9l4OeybQy.md
+> "difference between YouTube, Instagram and TikTok? How do people find your videos? First, YouTube is a search-based platform. People search keywords to find content, and that's why it's important to focus on the title, adding the right keywords. Huh. What" — sources/S_ig_gincontent_DW9l4OeybQy.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'search-based platform' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'search-based platform' next to 'algorithm-based') may not be load-bearing in gincontent's wider body of work.

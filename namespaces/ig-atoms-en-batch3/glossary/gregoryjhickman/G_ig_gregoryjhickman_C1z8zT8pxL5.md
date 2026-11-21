@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["Sunday", "win"]
+aka: ["everything's blocked"]
 origin: sources/S_ig_gregoryjhickman_C1z8zT8pxL5.md
 ---
 
-# G_ig_gregoryjhickman_C1z8zT8pxL5 — Sunday
+# G_ig_gregoryjhickman_C1z8zT8pxL5 — everything's blocked
 
 ## Term
 
-Sunday is the most prominent repeated term in this source (97-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: win, starts, walk. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the gregoryjhickman reel, 'everything's blocked' is the concept gregoryjhickman keeps returning to as the thing that decides whether the rest of the advice lands. It appears once in the transcript, and it sits next to 'to-do', 'list', and 'ready' — a single occurrence that nonetheless anchors the clip's argument. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: And I have my to-do list ready to… This is the word the clip is built to deliver; 'little' is texture around it, not the point.
 
 ## Synonyms
 
-- Sunday
-- win
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to win the week, it starts on Sunday. I like getting out for a walk, clear my head a little bit. It helps me kind of get clear on what are the top things that I want to get done for the week." — sources/S_ig_gregoryjhickman_C1z8zT8pxL5.md
-> "And I spend about 15, 25 minutes, sometimes Sunday, where I plan out when all those things are going to get done, what days of the week, what time. And I have my to-do list ready to go, everything's blocked in the calendar, and that's how you win." — sources/S_ig_gregoryjhickman_C1z8zT8pxL5.md
+> "things are going to get done, what days of the week, what time. And I have my to-do list ready to go, everything's blocked in the calendar, and that's how you win. Starts on Sunday" — sources/S_ig_gregoryjhickman_C1z8zT8pxL5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in gregoryjhickman's usage, 'everything's blocked' is loaded with a specific working meaning (visible in the collocation with 'Sunday'), not the dictionary sense.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'everything's blocked' next to 'Sunday') may not be load-bearing in gregoryjhickman's wider body of work.

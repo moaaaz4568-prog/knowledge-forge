@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["funnel", "happening"]
+aka: ["funnel"]
 origin: sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
 
 ## Term
 
-funnel is the most prominent repeated term in this source (101-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: happening, into, brand. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy reel, 'funnel' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 4 times, it sits next to 'happening', 'sales', and 'mechanism' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: What I have learned throughout the time is… The sentence around 'automated' only carries weight because 'funnel' is what the sentence is really about.
 
 ## Synonyms
 
-- funnel
-- happening
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I have learned throughout the time is why most people never get started online is because they don't know how to build a funnel. They don't know what's happening on the technical aspect. They get, okay, I have to post a video, but yeah, but how do you turn that views into buyers? You do that through a funnel." — sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
-> "You do that through a funnel. And if you are brand new and don't know what a funnel is, it's an automated sales mechanism that makes people, when they come into the funnel, there is certain things that is happening that turns them into buyers on" — sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
+> "throughout the time is why most people never get started online is because they don't know how to build a funnel. They don't know what's happening on the technical aspect. They get, okay, I have to post a video, but yeah, but how do you turn that views into" — sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
+> "know what a funnel is, it's an automated sales mechanism that makes people, when they come into the funnel, there is certain things that is happening that turns them into buyers on autopilot" — sources/S_ig_dankhanlegacy_DIOngvqhZ9X.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'funnel' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a recommendation to use 'funnel' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'sales'); it does not argue the reader should adopt it.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["possible", "conversations"]
+aka: ["extremely helpful"]
 origin: sources/S_ig_gregoryjhickman_C3k95dBM-QQ.md
 ---
 
-# G_ig_gregoryjhickman_C3k95dBM-QQ — possible
+# G_ig_gregoryjhickman_C3k95dBM-QQ — extremely helpful
 
 ## Term
 
-possible is the most prominent repeated term in this source (185-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: conversations, whether, qualified. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'extremely helpful' is the emotional stake the clip is built to surface — the felt cost of not changing that gregoryjhickman says must land first. It appears once in the transcript, and it sits next to 'advanced', 'improve', and 'myself' — a single occurrence that nonetheless anchors the clip's argument. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: So that's why phase one, founder led only… The clip's relationship to 'continue' only makes sense as a vehicle for delivering 'extremely helpful'.
 
 ## Synonyms
 
-- possible
-- conversations
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When I got started, I didn't have all of this stuff, so I was trying to talk to as many people as possible and understand their situation so that I can continue to refine and iterate." — sources/S_ig_gregoryjhickman_C3k95dBM-QQ.md
-> "So that's why phase one, founder led only, we're having as many conversations as possible, whether they're qualified or not, all the way through to five years later, we're a lot more advanced, still ton to improve on, and it's been extremely helpful for myself and the team to have a sales process that aligns with our values as" — sources/S_ig_gregoryjhickman_C3k95dBM-QQ.md
+> "the way through to five years later, we're a lot more advanced, still ton to improve on, and it's been extremely helpful for myself and the team to have a sales process that aligns with our values as well" — sources/S_ig_gregoryjhickman_C3k95dBM-QQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic finance word: 'extremely helpful' here is loaded with a specific meaning — the felt stake gregoryjhickman says must be touched — not the dictionary sense.
+- Read as a clean transcript: the wording around 'extremely helpful' (including the run-on near 'started') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: explained.marketing
-aka: ["nine", "point"]
+aka: ["nine"]
 origin: sources/S_ig_explained.marketing_C1cOmVJtyfx.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_explained.marketing_C1cOmVJtyfx.md
 
 ## Term
 
-nine is the most prominent repeated term in this source (92-word transcript from the Instagram account explained.marketing): it occurs 4 times literally in the text, most often collocated with: point, product, perceive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'nine' is the future cost explained.marketing names to make the present feel expensive — the lever the clip uses to move the person. It appears 4 times, it sits next to 'point', 'instead', and 'almost' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. explained.marketing drops it precisely where the cost of skipping it shows up — the surrounding move runs: I don't know if you've noticed, but the… Pull 'nine' and the clip's spine comes loose — 'convince' would still be there but would not point at anything.
 
 ## Synonyms
 
-- nine
-- point
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't know if you've noticed, but the price of almost every product at the market ends with a point nine nine instead of a simple whole number. This strategy creates a shortcut perception that works like a charm." — sources/S_ig_explained.marketing_C1cOmVJtyfx.md
-> "The brain processes from the left to right and will perceive a two point nine nine priced product to be as cheap as two dollars instead of running it up to three" — sources/S_ig_explained.marketing_C1cOmVJtyfx.md
+> "don't know if you've noticed, but the price of almost every product at the market ends with a point nine nine instead of a simple whole number. This strategy creates a shortcut perception that works like a charm. The brain processes from the left to right" — sources/S_ig_explained.marketing_C1cOmVJtyfx.md
+> "that works like a charm. The brain processes from the left to right and will perceive a two point nine nine priced product to be as cheap as two dollars instead of running it up to three dollars" — sources/S_ig_explained.marketing_C1cOmVJtyfx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: explained.marketing uses 'nine' here in the framing of a sales conversation, not as a portfolio term.
+- Read as a definition of 'nine': the source documents how explained.marketing deploys the word in this clip — collocated with 'creates' — it does not establish what the word means in general.

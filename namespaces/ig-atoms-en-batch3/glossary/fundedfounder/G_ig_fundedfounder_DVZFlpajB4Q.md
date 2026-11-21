@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: ["buttoned", "black"]
+aka: ["fundedfounder"]
 origin: sources/S_ig_fundedfounder_DVZFlpajB4Q.md
 ---
 
-# G_ig_fundedfounder_DVZFlpajB4Q — buttoned
+# G_ig_fundedfounder_DVZFlpajB4Q — It's a black top, blue buttoned peach shirt, crew.
 
 ## Term
 
-This source is very short (9 words), so no term repeats enough for a frequency-based entry; buttoned is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The fundedfounder clip is a caption of 9 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "It's a black top, blue buttoned peach shirt, crew.".
 
 ## Synonyms
 
-- buttoned
-- black
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a black top, blue buttoned peach shirt, crew." — sources/S_ig_fundedfounder_DVZFlpajB4Q.md
+> "It's a black top, blue buttoned peach shirt, crew" — sources/S_ig_fundedfounder_DVZFlpajB4Q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content keyword: the words here exist for rhythm or mood, not as labels for an idea a person is working with — even 'shirt' is phrasing, not a concept.
+- Read as a caption worth treating as a domain entry: this 9-word source does not have the conceptual weight to support one, even when the wording (e.g. 'shirt') sounds like a slogan.

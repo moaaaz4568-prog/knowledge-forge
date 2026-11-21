@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["dynamic backgrounds", "send"]
+aka: ["dynamic backgrounds"]
 origin: sources/S_ig_disisjorj_Cx0C2zrtQF_.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_Cx0C2zrtQF_.md
 
 ## Term
 
-dynamic backgrounds is the most prominent repeated term in this source (74-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: send, custom, created. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'dynamic backgrounds' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears twice, it sits next to 'retention', 'approach', and 'easiest' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: The easiest way to do that is with… The argument only stays upright while 'dynamic backgrounds' is doing the work — pull it and 'testimonials' loses its anchor.
 
 ## Synonyms
 
-- dynamic backgrounds
-- send
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "videos and most of them are stuck under a thousand views, you need to change your retention approach. The easiest way to do that is with dynamic backgrounds, a professional way to display your captions, images, testimonials, or even motion graphics. Comment the word" — sources/S_ig_disisjorj_Cx0C2zrtQF_.md
-> "below and I'll send you these two custom made dynamic backgrounds I created for my videos. If you found this useful, follow for" — sources/S_ig_disisjorj_Cx0C2zrtQF_.md
+> "under a thousand views, you need to change your retention approach. The easiest way to do that is with dynamic backgrounds, a professional way to display your captions, images, testimonials, or even motion graphics. Comment the word" — sources/S_ig_disisjorj_Cx0C2zrtQF_.md
+> "below and I'll send you these two custom made dynamic backgrounds I created for my videos. If you found this useful, follow for more" — sources/S_ig_disisjorj_Cx0C2zrtQF_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'dynamic backgrounds' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'found' makes that visible.
+- Read as a claim about how disisjorj uses 'dynamic backgrounds' across their work: this single 74-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

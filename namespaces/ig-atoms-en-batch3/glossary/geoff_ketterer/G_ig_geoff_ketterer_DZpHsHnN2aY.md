@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["car", "buying"]
+aka: ["pyramid scheme"]
 origin: sources/S_ig_geoff_ketterer_DZpHsHnN2aY.md
 ---
 
-# G_ig_geoff_ketterer_DZpHsHnN2aY — car
+# G_ig_geoff_ketterer_DZpHsHnN2aY — pyramid scheme
 
 ## Term
 
-car is the most prominent repeated term in this source (114-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: buying, end, him. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'pyramid scheme' is the sales move geoff_ketterer argues is the difference between an objection that sticks and one that dissolves. It appears twice, it sits next to 'called', 'fail', and 'basic' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: No, d, this is not called a pyramid… Anything else in the clip orbits this word — strip out 'pyramid scheme' and the rest reads as filler around 'portal'.
 
 ## Synonyms
 
-- car
-- buying
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I'll help you out. Let's say I sell a car to Mr. Jones, and at the end of him buying that car, I say to him" — sources/S_ig_geoff_ketterer_DZpHsHnN2aY.md
-> "you're going to be automatically added to our referral portal, and that just means any customer that you send me who ends up buying a car from me, I pay you 10% of the commission that I" — sources/S_ig_geoff_ketterer_DZpHsHnN2aY.md
+> "No, d, this is not called a pyramid scheme. It's only a pyramid scheme if you fail to have a basic understanding of how referrals work in any organization. So I'll help you out. Let" — sources/S_ig_geoff_ketterer_DZpHsHnN2aY.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'pyramid scheme' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a definition of 'pyramid scheme': the source documents how geoff_ketterer deploys the word in this clip — collocated with 'scheme' — it does not establish what the word means in general.

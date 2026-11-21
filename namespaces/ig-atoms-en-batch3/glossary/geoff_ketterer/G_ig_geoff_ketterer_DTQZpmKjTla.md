@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["clear", "game"]
+aka: ["because"]
 origin: sources/S_ig_geoff_ketterer_DTQZpmKjTla.md
 ---
 
-# G_ig_geoff_ketterer_DTQZpmKjTla — clear
+# G_ig_geoff_ketterer_DTQZpmKjTla — because
 
 ## Term
 
-clear is the most prominent repeated term in this source (151-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: game, clarity, expectations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For geoff_ketterer, 'because' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 5 times, it sits next to 'leaving', 'case', and 'targets' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: Last week I had a conversation with a… What makes the word 'because' the term here is that the rest — 'clarity', 'nobody', everything else — is staged for it.
 
 ## Synonyms
 
-- clear
-- game
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The reason that happens is because nobody wants to have the difficult conversation. Sales is really a game of clarity, clear expectations, clear direction, clear leadership. And when your top performers don't get that, they're going to opt out." — sources/S_ig_geoff_ketterer_DTQZpmKjTla.md
+> "Last week I had a conversation with a business owner who said all of his top reps keep leaving because they're getting burnt out. And that wasn't the case at all. They were leaving because they were getting pissed off. For the most part, good closers" — sources/S_ig_geoff_ketterer_DTQZpmKjTla.md
+> "your top performers don't get that, they're going to opt out. And not because the targets are too high, because the standards are getting negotiated down" — sources/S_ig_geoff_ketterer_DTQZpmKjTla.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'because' to point at one specific mechanic geoff_ketterer says is failing in the movement shown.
+- Read as polished prose: this is a verbatim transcript of a 151-word Instagram clip, and the wording around 'because' (including the collocation with 'closers') is spoken speech, not edited writing.

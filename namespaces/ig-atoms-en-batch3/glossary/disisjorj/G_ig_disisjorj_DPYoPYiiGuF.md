@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["needs", "seconds"]
+aka: ["needs"]
 origin: sources/S_ig_disisjorj_DPYoPYiiGuF.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_DPYoPYiiGuF.md
 
 ## Term
 
-needs is the most prominent repeated term in this source (345-word transcript from the Instagram account disisjorj): it occurs 5 times literally in the text, most often collocated with: seconds, hook, long. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's clip, 'needs' is the design choice disisjorj treats as the hinge between pretty and effective. It appears 5 times, it sits next to 'seconds', 'hook', and 'three' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: This goes against everything you hear online when… The argument only stays upright while 'needs' is doing the work — pull it and 'online' loses its anchor.
 
 ## Synonyms
 
-- needs
-- seconds
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "goes against everything you hear online when it comes to your hook needs to be three seconds, your visual hook, your title hook, your this, your that, retention time two seconds long, etc, etc, etc." — sources/S_ig_disisjorj_DPYoPYiiGuF.md
-> "And this is what a lot of people get wrong because they get obsessed over the idea of, holy shit, my hook needs to be six words and it needs to be three seconds long and it needs to cut at every two seconds and it needs to be punchy and short and big titles and small captions and B-roll and this and that and flashy and they get overwhelmed by everything because clearly they're" — sources/S_ig_disisjorj_DPYoPYiiGuF.md
+> "This goes against everything you hear online when it comes to your hook needs to be three seconds, your visual hook, your title hook, your this, your that, retention time two seconds long, etc, etc, etc. If someone wants to" — sources/S_ig_disisjorj_DPYoPYiiGuF.md
+> "to be six words and it needs to be three seconds long and it needs to cut at every two seconds and it needs to be punchy and short and big titles and small captions and B-roll and this and that and flashy and they get overwhelmed by everything because clearly" — sources/S_ig_disisjorj_DPYoPYiiGuF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in disisjorj's clip, 'needs' names one specific visual or structural choice, not the whole craft of design.
+- Read as evidence disisjorj always uses 'needs' this way: one 345-word clip is too thin a sample to support any claim about how the account uses the word in general.

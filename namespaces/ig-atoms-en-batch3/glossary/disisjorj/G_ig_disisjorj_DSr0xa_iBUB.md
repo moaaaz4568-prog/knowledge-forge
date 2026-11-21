@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["horizontal", "vertical"]
+aka: ["horizontal"]
 origin: sources/S_ig_disisjorj_DSr0xa_iBUB.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_DSr0xa_iBUB.md
 
 ## Term
 
-horizontal is the most prominent repeated term in this source (111-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: vertical, recording, click. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'horizontal' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'vertical', 'record', and 'recording' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is the one-click setup where you can… The clip's relationship to 'button' only makes sense as a vehicle for delivering 'horizontal'.
 
 ## Synonyms
 
-- horizontal
-- vertical
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the one-click setup where you can record horizontal and vertical videos with a click of a button that says record both. So now we're recording vertical, recording horizontal." — sources/S_ig_disisjorj_DSr0xa_iBUB.md
-> "When we're ready, we stop it and then we open up the folders to see our vertical videos and our horizontal" — sources/S_ig_disisjorj_DSr0xa_iBUB.md
+> "ready to record, everything is there waiting for you. This is the one-click setup where you can record horizontal and vertical videos with a click of a button that says record both. So now we're recording vertical, recording horizontal. When we're ready" — sources/S_ig_disisjorj_DSr0xa_iBUB.md
+> "horizontal. When we're ready, we stop it and then we open up the folders to see our vertical videos and our horizontal videos" — sources/S_ig_disisjorj_DSr0xa_iBUB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in disisjorj's usage, 'horizontal' is loaded with a specific working meaning (visible in the collocation with 'button'), not the dictionary sense.
+- Read as evidence the term is central to the account: one 111-word clip showing 'horizontal' next to 'button' is too small a sample to anchor a wider claim about what disisjorj writes about.

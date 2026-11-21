@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankndripwear
-aka: ["slipping", "happens"]
+aka: ["slipping"]
 origin: sources/S_ig_dankndripwear_DWCWJM3jHxe.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_dankndripwear_DWCWJM3jHxe.md
 
 ## Term
 
-This source is very short (26 words), so no term repeats enough for a frequency-based entry; slipping is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'slipping' in this source is the working idea dankndripwear argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript, and it sits next to 'happens', 'crown', and 'tears' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankndripwear names the thing a person cannot outsource — nearby: Your crown is slipping down… The reel earns its keep only because 'slipping' is doing the lifting; 'happens' alone would be filler.
 
 ## Synonyms
 
-- slipping
-- happens
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "happens and you get down. Your crown is slipping down. Tears and words won't bring it back." — sources/S_ig_dankndripwear_DWCWJM3jHxe.md
+> "Shit happens and you get down. Your crown is slipping down. Tears and words won't bring it back. So take the punches and roll with that" — sources/S_ig_dankndripwear_DWCWJM3jHxe.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague motivational word: the source uses 'slipping' as a working concept dankndripwear is installing in this clip, not a generic self-help label.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'slipping' next to 'Tears') may not be load-bearing in dankndripwear's wider body of work.

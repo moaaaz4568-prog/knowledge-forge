@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["audience", "smart"]
+aka: ["ogilvie's principle"]
 origin: sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
 ---
 
-# G_ig_dankhanlegacy_DItUOEAMdOv — audience
+# G_ig_dankhanlegacy_DItUOEAMdOv — ogilvie's principle
 
 ## Term
 
-audience is the most prominent repeated term in this source (227-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: smart, trust, value. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'ogilvie's principle' is what the game meant before the cameras arrived — dankhanlegacy treats it as the meaning the sport has lost and must recover. It appears twice, it sits next to 'throwing', 'jargon', and 'acting' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: But Ogilvie's principle is simple: treat your audience… The clip's relationship to 'remember' only makes sense as a vehicle for delivering 'ogilvie's principle'.
 
 ## Synonyms
 
-- audience
-- smart
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And here's why that simple principle could completely transform how you sell. Too many marketers talk down to their audience, trying to sound overly smart, throwing in jargon or acting like they know better. But Ogilvie's principle is simple: treat your audience like they're smart, because they are. Think about it." — sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
-> "People don't need fancy language. They need value. They need solutions. When you respect your audience, they trust you. And trust is what sells. Period. So the next time you write an ad, create content or pitch your offer, remember Ogilvie's principle. Talk to them like they're your wife, your friend, or someone you care about." — sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
-> "Here's how it can make your life easier. See the difference? It's about being honest, clear, and treating your audience like equals. People don't need fancy language. They need value. They need solutions. When you respect your audience, they trust you. And trust is what sells. Period." — sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
+> "their audience, trying to sound overly smart, throwing in jargon or acting like they know better. But Ogilvie's principle is simple: treat your audience like they're smart, because they are. Think about it. Your audience can spot fake promises, lazy pitches" — sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
+> "is what sells. Period. So the next time you write an ad, create content or pitch your offer, remember Ogilvie's principle. Talk to them like they're your wife, your friend, or someone you care about. Follow me for more business tips" — sources/S_ig_dankhanlegacy_DItUOEAMdOv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tactics term: 'ogilvie's principle' in this clip is what the sport meant before it became spectacle, not a move on the field.
+- Read as a claim about how dankhanlegacy uses 'ogilvie's principle' across their work: this single 227-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

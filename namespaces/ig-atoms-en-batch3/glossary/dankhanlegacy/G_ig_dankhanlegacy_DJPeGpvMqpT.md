@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["women", "feminine"]
+aka: ["women"]
 origin: sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
 
 ## Term
 
-women is the most prominent repeated term in this source (152-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: feminine, nurturing, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's reel, 'women' is the underlying driver dankhanlegacy says the person must touch before they will accept any plan. It appears 7 times, it sits next to 'feminine', 'nurturing', and 'bring' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: We need to bring back actual women, like… Even the move around 'enjoyed' only registers as a move because 'women' is the thing being moved toward.
 
 ## Synonyms
 
-- women
-- feminine
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "need to bring back actual women, like feminine, nurturing, graceful women. Not this Instagram-filtered boss bitch fantasy. Listen, I respect ambitious women. I work with a lot of entrepreneurs that are women." — sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
-> "You don't have to pick between being strong and being nurturing. Real women know how to be both. And real men, we value that deeply." — sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
-> "Listen, I respect ambitious women. I work with a lot of entrepreneurs that are women. But somewhere along the way, we convinced women that the only way to be valuable is to act like men. Like be cold, dominant, fuck the emotions, chase the bag. And I'm like, yo, if I wanted to date a man, I would. There's nothing wrong with being feminine." — sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
+> "We need to bring back actual women, like feminine, nurturing, graceful women. Not this Instagram-filtered boss bitch fantasy. Listen, I respect ambitious women. I work with a lot of" — sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
+> "be better, not compete with me. You don't have to pick between being strong and being nurturing. Real women know how to be both. And real men, we value that deeply. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DJPeGpvMqpT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'women' in this clip names a specific bodily sensation dankhanlegacy is trying to surface, not a general state of mind.
+- Read as evidence the term is central to the account: one 152-word clip showing 'women' next to 'dominant' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

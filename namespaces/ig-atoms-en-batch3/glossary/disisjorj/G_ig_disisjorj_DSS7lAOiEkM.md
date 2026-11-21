@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["horizontal", "vertical"]
+aka: ["horizontal"]
 origin: sources/S_ig_disisjorj_DSS7lAOiEkM.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_DSS7lAOiEkM.md
 
 ## Term
 
-horizontal is the most prominent repeated term in this source (91-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: vertical, ipad, click. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'horizontal' names the distinction disisjorj draws in this clip — the line that separates what works from what only feels like it works. It appears 3 times, it sits next to 'vertical', 'ipad', and 'inside' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: You definitely don't have to do this, but… Strip the clip down to its claim and you are left with 'horizontal'; 'connect' and 'vertical' are how the claim is delivered.
 
 ## Synonyms
 
-- horizontal
-- vertical
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "if you have two cameras, one here and one right there, you can connect both of them inside the One Click Setup so that you can have one horizontal and then one vertical video. And then at the same time, you can come here, link those two scenes together, and now you have a vertical with your iPad and then a horizontal with your iPad so that you can do stuff like this." — sources/S_ig_disisjorj_DSS7lAOiEkM.md
+> "and one right there, you can connect both of them inside the One Click Setup so that you can have one horizontal and then one vertical video. And then at the same time, you can come here, link those two scenes together, and now you have a vertical with" — sources/S_ig_disisjorj_DSS7lAOiEkM.md
+> "with your iPad and then a horizontal with your iPad so that you can do stuff like this. You see it on horizontal, you see it on vertical" — sources/S_ig_disisjorj_DSS7lAOiEkM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'horizontal' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as a claim about how disisjorj uses 'horizontal' across their work: this single 91-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

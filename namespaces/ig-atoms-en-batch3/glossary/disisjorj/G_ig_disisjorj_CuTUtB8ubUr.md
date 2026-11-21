@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["matter", "expertise"]
+aka: ["matter"]
 origin: sources/S_ig_disisjorj_CuTUtB8ubUr.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_CuTUtB8ubUr.md
 
 ## Term
 
-matter is the most prominent repeated term in this source (91-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: expertise, friend, listen. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'matter' in this source is the working idea disisjorj argues a person cannot skip past and still expect the rest to apply. It appears 3 times, it sits next to 'expertise', 'exposure', and 'well' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: No matter how talented you are, if no… The sentence around 'unreasonable' only carries weight because 'matter' is what the sentence is really about.
 
 ## Synonyms
 
-- matter
-- expertise
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "friend, listen. No matter how talented you are, if no one knows you, what's the point? Whether you like it or not, it's not only a matter of expertise, but it's a matter of exposure as well." — sources/S_ig_disisjorj_CuTUtB8ubUr.md
+> "My friend, listen. No matter how talented you are, if no one knows you, what's the point? Whether you like it or not, it's not only a matter of expertise, but it's a matter" — sources/S_ig_disisjorj_CuTUtB8ubUr.md
+> "knows you, what's the point? Whether you like it or not, it's not only a matter of expertise, but it's a matter of exposure as well. The honest truth is that we all play on the same field, but very few choose to suffer in the short term so they can reap what" — sources/S_ig_disisjorj_CuTUtB8ubUr.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'matter' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a recommendation to use 'matter' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'Whether'); it does not argue the reader should adopt it.

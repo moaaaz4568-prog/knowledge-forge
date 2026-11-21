@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["start", "seeing"]
+aka: ["delay gratification"]
 origin: sources/S_ig_disisjorj_C0WjLW6Nu1d.md
 ---
 
-# G_ig_disisjorj_C0WjLW6Nu1d — start
+# G_ig_disisjorj_C0WjLW6Nu1d — delay gratification
 
 ## Term
 
-start is the most prominent repeated term in this source (90-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: seeing, results, ability. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'delay gratification' is the frame the rest of the clip hangs on — pull it and the advice collapses into technique without a base. It appears once in the transcript, and it sits next to 'ability', 'trust', and 'yourself' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: The ability to trust yourself, put in the… Cut 'delay gratification' and the clip's aboutness shifts from a claim to a description of results and minimal.
 
 ## Synonyms
 
-- start
-- seeing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to start creating content online, understand that it is scary, it is embarrassing, and it's going to take a while before you start seeing results." — sources/S_ig_disisjorj_C0WjLW6Nu1d.md
+> "to take a while before you start seeing results. The ability to trust yourself, put in the work, and delay gratification is what makes the difference. Most people seek for success with minimal amounts of effort. So be honest with me for a second. If it" — sources/S_ig_disisjorj_C0WjLW6Nu1d.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'delay gratification' here is a working concept disisjorj is installing, not a tagline the reader is meant to repeat.
+- Read as proof the term is load-bearing for disisjorj in general: a 90-word clip with the word 'delay gratification' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

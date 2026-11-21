@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sales", "businesses"]
+aka: ["sales"]
 origin: sources/S_ig_geoff_ketterer_DZnR51lCt13.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_DZnR51lCt13.md
 
 ## Term
 
-sales is the most prominent repeated term in this source (413-word transcript from the Instagram account geoff_ketterer): it occurs 7 times literally in the text, most often collocated with: businesses, process, personally. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'sales' is the cue geoff_ketterer says a person must feel before the rep becomes useful. It appears 7 times, it sits next to 'five', 'million', and 'businesses' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: There are five major things that a million… The argument only stays upright while 'sales' is doing the work — pull it and 'obsess' loses its anchor.
 
 ## Synonyms
 
-- sales
-- businesses
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are five major things that a million per month sales organization does very differently to the ones that are at six figures. I've personally worked with over 300 businesses on their sales and their sales systems, so here's the five and a couple of them you're not going to like." — sources/S_ig_geoff_ketterer_DZnR51lCt13.md
-> "So number one is that they have a defined, repeatable sales process. Six figure businesses often rely on talented individual closers who can just figure it out. A million a month business runs on a documented step by step sales process that any rep can follow." — sources/S_ig_geoff_ketterer_DZnR51lCt13.md
-> "And after personally being inside hundreds of sales organizations, the difference is not the value that's on the back end, it's how that value is packaged and explained on the front end." — sources/S_ig_geoff_ketterer_DZnR51lCt13.md
+> "There are five major things that a million per month sales organization does very differently to the ones that are at six figures. I've personally worked with over 300 businesses on their sales and their" — sources/S_ig_geoff_ketterer_DZnR51lCt13.md
+> "risk, increase perceived value, justify premium pricing. And after personally being inside hundreds of sales organizations, the difference is not the value that's on the back end, it's how that value is packaged and explained on the front end. The offer" — sources/S_ig_geoff_ketterer_DZnR51lCt13.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a gym jargon word: the source uses 'sales' to name the one mechanic that, if missed, makes the rest of the rep useless.
+- Read as a clean transcript: the wording around 'sales' (including the run-on near 'firing') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

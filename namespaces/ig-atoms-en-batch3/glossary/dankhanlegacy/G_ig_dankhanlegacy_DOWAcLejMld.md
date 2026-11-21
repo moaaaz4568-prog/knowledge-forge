@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["shit", "Life"]
+aka: ["come"]
 origin: sources/S_ig_dankhanlegacy_DOWAcLejMld.md
 ---
 
-# G_ig_dankhanlegacy_DOWAcLejMld — shit
+# G_ig_dankhanlegacy_DOWAcLejMld — come
 
 ## Term
 
-shit is the most prominent repeated term in this source (145-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: life, tryna, ties. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'come' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'light', 'outside', and 'well' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Just come outside for the night, take your… Without 'come', the reel is just a clip about butcher; with it, the clip is a claim.
 
 ## Synonyms
 
-- shit
-- Life
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the night, come alive, and it's me, ain't it, ain't it, ain't it me. Sure, for, for, for, for, for. That's me, pop my shit, it's dated. Life, first shit, tryna come up at the shit, if I be in your ties, no shit, I know" — sources/S_ig_dankhanlegacy_DOWAcLejMld.md
+> "Just come outside for the night, take your time, get your light, dirty dime. The career is more at stake when you wear your promise. Fuck that paper, baby" — sources/S_ig_dankhanlegacy_DOWAcLejMld.md
+> "t it me. Sure, for, for, for, for, for. That's me, pop my shit, it's dated. Life, first shit, tryna come up at the shit, if I be in your ties, no shit, I know why" — sources/S_ig_dankhanlegacy_DOWAcLejMld.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in dankhanlegacy's usage, 'come' is loaded with a specific working meaning (visible in the collocation with 'butcher'), not the dictionary sense.
+- Read as a recommendation to use 'come' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'butcher'); it does not argue the reader should adopt it.

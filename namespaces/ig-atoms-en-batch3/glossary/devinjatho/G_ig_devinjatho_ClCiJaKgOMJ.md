@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["questions", "contain"]
+aka: ["contain questions"]
 origin: sources/S_ig_devinjatho_ClCiJaKgOMJ.md
 ---
 
-# G_ig_devinjatho_ClCiJaKgOMJ — questions
+# G_ig_devinjatho_ClCiJaKgOMJ — contain questions
 
 ## Term
 
-questions is the most prominent repeated term in this source (78-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: contain, answered, congratulations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the devinjatho reel, 'contain questions' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears once in the transcript, and it sits next to 'comments', 'head', and 'filter' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Head to the comments and filter them to… Read alongside 'unlimited', the word 'contain questions' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- questions
-- contain
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Head to the comments and filter them to comments that only contain questions. Now you know all the questions that people want to have answered. Congratulations, you have unlimited content ideas." — sources/S_ig_devinjatho_ClCiJaKgOMJ.md
+> "search for a popular video within your niche. Head to the comments and filter them to comments that only contain questions. Now you know all the questions that people want to have answered. Congratulations, you have unlimited content ideas. Now do me a favor" — sources/S_ig_devinjatho_ClCiJaKgOMJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': devinjatho draws the line explicitly — 'contain questions' here is the public-facing act, distinct from the private work of creating.
+- Read as a recommendation to use 'contain questions' yourself: the clip shows devinjatho using the word in one specific move (visible in the collocation with 'search'); it does not argue the reader should adopt it.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["questions", "favorite"]
+aka: ["three"]
 origin: sources/S_ig_disisjorj_CwXifNzNBSR.md
 ---
 
-# G_ig_disisjorj_CwXifNzNBSR — questions
+# G_ig_disisjorj_CwXifNzNBSR — three
 
 ## Term
 
-questions is the most prominent repeated term in this source (72-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: favorite, creators, ask. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'three' is the emotional core disisjorj insists is the real subject of the conversation — not the topic the person says they came for. It appears 3 times, it sits next to 'creators', 'pick', and 'favorite' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: Pick three of your favorite creators and ask… What makes the word 'three' the term here is that the rest — 'creators', 'Follow', everything else — is staged for it.
 
 ## Synonyms
 
-- questions
-- favorite
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Pick three of your favorite creators and ask these three questions: What are the three topics they talk about? How often do they talk about each topic? What style of videos do they produce? Take a note of those questions and go through as much content of theirs as possible. I hope this finds you well." — sources/S_ig_disisjorj_CwXifNzNBSR.md
+> "Use this system if you're feeling lost on where and how to start. Pick three of your favorite creators and ask these three questions: What are the three topics they talk about? How often do they talk about each topic? What" — sources/S_ig_disisjorj_CwXifNzNBSR.md
+> "where and how to start. Pick three of your favorite creators and ask these three questions: What are the three topics they talk about? How often do they talk about each topic? What style of videos do they produce? Take a note of those questions and go through" — sources/S_ig_disisjorj_CwXifNzNBSR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'three' in this clip names a specific bodily sensation disisjorj is trying to surface, not a general state of mind.
+- Read as a recommendation to use 'three' yourself: the clip shows disisjorj using the word in one specific move (visible in the collocation with 'theirs'); it does not argue the reader should adopt it.

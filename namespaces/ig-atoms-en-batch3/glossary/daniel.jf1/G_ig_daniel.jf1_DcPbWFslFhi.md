@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["lead generation", "zero"]
+aka: ["lead generation"]
 origin: sources/S_ig_daniel.jf1_DcPbWFslFhi.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_daniel.jf1_DcPbWFslFhi.md
 
 ## Term
 
-lead generation is the most prominent repeated term in this source (167-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: zero, point, agency. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'lead generation' is the felt consequence daniel.jf1 says the person has been talking around — the thing that must be touched before any plan is useful. It appears 3 times, it sits next to 'zero', 'point', and 'selling' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: I'll give you one for instance, lead generation… The clip's relationship to 'individual' only makes sense as a vehicle for delivering 'lead generation'.
 
 ## Synonyms
 
-- lead generation
-- zero
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "hundreds of thousands or millions or sometimes legitimately billions of dollars selling a specific thing. I'll give you one for instance, lead generation. That's like a two hundred something billion dollar market per year. Like that's what is spent on that. You think if you make a lead generation agency you can't take like point zero zero zero one percent of the lead generation market." — sources/S_ig_daniel.jf1_DcPbWFslFhi.md
+> "sometimes legitimately billions of dollars selling a specific thing. I'll give you one for instance, lead generation. That's like a two hundred something billion dollar market per year. Like that's what is spent on that. You think if you make a lead generation" — sources/S_ig_daniel.jf1_DcPbWFslFhi.md
+> "think if you make a lead generation agency you can't take like point zero zero zero one percent of the lead generation market. You actually think that? It's just completely ridiculous. The reason why something is saturated is because it works and people" — sources/S_ig_daniel.jf1_DcPbWFslFhi.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'lead generation' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
+- Read as a tagline worth extracting: the source shows daniel.jf1 using 'lead generation' as a working label in one specific argument (visible in the collocation with 'market'), not as a slogan the reader is meant to repeat.

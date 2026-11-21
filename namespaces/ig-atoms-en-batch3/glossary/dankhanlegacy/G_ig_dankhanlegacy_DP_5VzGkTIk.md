@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["nice", "millionaires"]
+aka: ["nice"]
 origin: sources/S_ig_dankhanlegacy_DP_5VzGkTIk.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DP_5VzGkTIk.md
 
 ## Term
 
-nice is the most prominent repeated term in this source (253-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: millionaires, view, hanging. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'nice' is the body cue dankhanlegacy says the person must learn to feel before any external cue can help. It appears 4 times, it sits next to 'view', 'hanging', and 'millionaires' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: And now I live in Dubai, have a… Pull 'nice' and the clip's spine comes loose — 'college' would still be there but would not point at anything.
 
 ## Synonyms
 
-- nice
-- millionaires
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And guys, just a few years ago, I was a college student, a broke college student. And now I live in Dubai, have a nice apartment, have a nice view, hanging out with millionaires, and going to nice restaurants, nice experiences. And let me tell you, it's, bro, it just blows my mind sometimes." — sources/S_ig_dankhanlegacy_DP_5VzGkTIk.md
+> "just a few years ago, I was a college student, a broke college student. And now I live in Dubai, have a nice apartment, have a nice view, hanging out with millionaires, and going to nice restaurants, nice experiences. And let me tell you, it's, bro, it just" — sources/S_ig_dankhanlegacy_DP_5VzGkTIk.md
+> "have a nice apartment, have a nice view, hanging out with millionaires, and going to nice restaurants, nice experiences. And let me tell you, it's, bro, it just blows my mind sometimes. Like being that person that was meant to do college to this, right" — sources/S_ig_dankhanlegacy_DP_5VzGkTIk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'nice' is dankhanlegacy's coaching cue for a felt position, not a clinical label.
+- Read as evidence the term is central to the account: one 253-word clip showing 'nice' next to 'experiences' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["impossible", "fact"]
+aka: ["impossible"]
 origin: sources/S_ig_disisjorj_C5jNIXgtl_5.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_C5jNIXgtl_5.md
 
 ## Term
 
-impossible is the most prominent repeated term in this source (39-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: fact, seems, perish. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'impossible' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears twice, it sits next to 'fact', 'seems', and 'purpose' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Nietzsche said, "I know of no better life… Without 'impossible', the reel is just a clip about perish; with it, the clip is a claim.
 
 ## Synonyms
 
-- impossible
-- fact
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "know of no better life purpose than to perish in attempting the great and impossible" — sources/S_ig_disisjorj_C5jNIXgtl_5.md
-> "The fact that something seems impossible shouldn't be a reason to not pursue it. That's exactly what makes it worth" — sources/S_ig_disisjorj_C5jNIXgtl_5.md
+> "I know of no better life purpose than to perish in attempting the great and impossible" — sources/S_ig_disisjorj_C5jNIXgtl_5.md
+> "The fact that something seems impossible shouldn't be a reason to not pursue it. That's exactly what makes it worth pursuing" — sources/S_ig_disisjorj_C5jNIXgtl_5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'impossible' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as a clean transcript: the wording around 'impossible' (including the run-on near 'better') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

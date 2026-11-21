@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["personal", "brand"]
+aka: ["personal"]
 origin: sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
 
 ## Term
 
-personal is the most prominent repeated term in this source (187-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: brand, story, zero. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For dankhanlegacy, 'personal' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 5 times, it sits next to 'face', 'brands', and 'zero' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: Everyone's obsessed with building a personal brand… Cut 'personal' and the clip's aboutness shifts from a claim to a description of because and YouTube.
 
 ## Synonyms
 
-- personal
-- brand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "obsessed with building a personal brand. Post every day, show your face, tell your story. Cool. But here's the truth. Personal brands are overrated. I have one, but I don't rely on it. Here's why." — sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
-> "Your offer, your funnel, your system. I've built offers that make 50k to 100k a month with zero personal brand. No Instagram, no YouTube, no personal story. Just paid advertising, a great offer, and a funnel that converts strangers. Right? Personal brands are great for getting started if you want to say that." — sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
+> "Everyone's obsessed with building a personal brand. Post every day, show your face, tell your story. Cool. But here's the truth. Personal brands are overrated. I have one, but I don't rely" — sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
+> "no personal story. Just paid advertising, a great offer, and a funnel that converts strangers. Right? Personal brands are great for getting started if you want to say that. But if you want to scale, you need systems that work without you. I post content" — sources/S_ig_dankhanlegacy_DRR-VLTkT6R.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'personal' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a claim about how dankhanlegacy uses 'personal' across their work: this single 187-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

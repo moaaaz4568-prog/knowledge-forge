@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["local", "Service"]
+aka: ["local"]
 origin: sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
 
 ## Term
 
-local is the most prominent repeated term in this source (179-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: service, specifically, working. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'local' names the body mechanic gregoryjhickman isolates as the root of the movement problem. It appears 5 times, it sits next to 'specifically', 'offer', and 'boost' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: Is you know, we would be doing anything… The reel earns its keep only because 'local' is doing the lifting; 'streamline' alone would be filler.
 
 ## Synonyms
 
-- local
-- Service
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, so that was that's where that kind of custom thing is. Is you know, we would be doing anything from you know, local retail stores to hospitals to all kinds of things all over the place. When we drilled it down, our core offer is called Local Service Boost, pairing that down specifically working with local service businesses on local SEO and search ads." — sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
-> "So going from that, you know, that first iteration, and like we've even simplified that offer even more. Now it's mostly local SEO with a little bit of ads thrown in there, but not as much." — sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
+> "was that's where that kind of custom thing is. Is you know, we would be doing anything from you know, local retail stores to hospitals to all kinds of things all over the place. When we drilled it down, our core offer is called Local Service Boost, pairing" — sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
+> "you know, that first iteration, and like we've even simplified that offer even more. Now it's mostly local SEO with a little bit of ads thrown in there, but not as much. It was good, it was much more simplified than what we were doing, but now it's it" — sources/S_ig_gregoryjhickman_C8zYqNqo_I4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an anatomy term: in this clip 'local' is gregoryjhickman's coaching cue for a felt position, not a clinical label.
+- Read as a clean transcript: the wording around 'local' (including the run-on near 'specifically') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

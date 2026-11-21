@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["greets", "meet"]
+aka: ["clear indication"]
 origin: sources/S_ig_disisjorj_CtQkkrrPwOU.md
 ---
 
-# G_ig_disisjorj_CtQkkrrPwOU — greets
+# G_ig_disisjorj_CtQkkrrPwOU — clear indication
 
 ## Term
 
-greets is the most prominent repeated term in this source (102-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: meet, private, events. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'clear indication' is the discipline of putting work out unfinished — disisjorj argues it is what separates people who progress from people who perfect. It appears once in the transcript, and it sits next to 'able', 'whether', and 'moving' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Aside from what it will be able to… Every other word in the source, including 'generation', is in service to the move 'clear indication' names.
 
 ## Synonyms
 
-- greets
-- meet
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What if you are now able to host private events, concerts, meet and greets? Meet and greets. Aside from what it will be able to do, whether we like it or not, it's a clear indication that we're moving towards a digital future." — sources/S_ig_disisjorj_CtQkkrrPwOU.md
+> "and greets? Meet and greets. Aside from what it will be able to do, whether we like it or not, it's a clear indication that we're moving towards a digital future. If you want to adapt and take advantage of this opportunity, tag along and follow for more" — sources/S_ig_disisjorj_CtQkkrrPwOU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'clear indication' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'course' makes that visible.
+- Read as a claim about how disisjorj uses 'clear indication' across their work: this single 102-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

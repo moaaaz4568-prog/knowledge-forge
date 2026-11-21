@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: ["LinkedIn", "SmartLead"]
+aka: ["linkedin"]
 origin: sources/S_ig_divyannshisharma_DUTCjWJEg5j.md
 ---
 
-# G_ig_divyannshisharma_DUTCjWJEg5j — LinkedIn
+# G_ig_divyannshisharma_DUTCjWJEg5j — linkedin
 
 ## Term
 
-LinkedIn is the most prominent repeated term in this source (128-word transcript from the Instagram account divyannshisharma): it occurs 4 times literally in the text, most often collocated with: smartlead, smart, agent. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'linkedin' names the conversational lever divyannshisharma treats as the thing that turns a maybe into a yes. It appears 4 times, it sits next to 'smartlead', 'smart', and 'agent' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. divyannshisharma drops it precisely where the cost of skipping it shows up — the surrounding move runs: How I collect 5000 leads per month with… Pull 'linkedin' and the clip's spine comes loose — 'template' would still be there but would not point at anything.
 
 ## Synonyms
 
-- LinkedIn
-- SmartLead
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I collect 5000 leads per month with LinkedIn. So this SmartLead smart agent watches my LinkedIn DM 24/7 and let me know whenever someone goes through. What you are going to do, just go to SmartLead and just click on Smart Agent. You're going to go to templates." — sources/S_ig_divyannshisharma_DUTCjWJEg5j.md
-> "You're going to go to templates. There are lots of templates and we are going to go to this one, Daily LinkedIn Lead Auto Push. Just click on use template. You just need to connect your Infosfox account. Basically Infosfox is for LinkedIn automation and connect your Slack." — sources/S_ig_divyannshisharma_DUTCjWJEg5j.md
+> "How I collect 5000 leads per month with LinkedIn. So this SmartLead smart agent watches my LinkedIn DM 24/7 and let me know whenever someone goes through. What you are going to do, just go to" — sources/S_ig_divyannshisharma_DUTCjWJEg5j.md
+> "Just click on use template. You just need to connect your Infosfox account. Basically Infosfox is for LinkedIn automation and connect your Slack. And what this is going to do, it's going to fetch your lead categories, your inbox replies, profile campaigns" — sources/S_ig_divyannshisharma_DUTCjWJEg5j.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in divyannshisharma's reel, 'linkedin' is the specific move divyannshisharma says a person must make before the prospect will commit.
+- Read as a definition of 'linkedin': the source documents how divyannshisharma deploys the word in this clip — collocated with 'categories' — it does not establish what the word means in general.

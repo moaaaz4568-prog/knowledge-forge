@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["money", "asset"]
+aka: ["learn"]
 origin: sources/S_ig_daniel.jf1_DZED7n6ErgP.md
 ---
 
-# G_ig_daniel.jf1_DZED7n6ErgP — money
+# G_ig_daniel.jf1_DZED7n6ErgP — learn
 
 ## Term
 
-money is the most prominent repeated term in this source (196-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: asset, buy, swapping. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'learn' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears 3 times, it sits next to 'youtube', 'information', and 'poor' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: A lot of poor people think that, "Oh… Strip the clip down to its claim and you are left with 'learn'; 'purchased' and 'swapping' are how the claim is delivered.
 
 ## Synonyms
 
-- money
-- asset
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "think buying something means losing money. They might say" — sources/S_ig_daniel.jf1_DZED7n6ErgP.md
-> "Well, your understanding is that you didn't lose money. You're swapping it for an asset that is worth the same amount of money. You buy a car, you're swapping a currency, and the value of the car might actually go up." — sources/S_ig_daniel.jf1_DZED7n6ErgP.md
+> "Oh, I can learn all this on YouTube. I can learn everything I need" — sources/S_ig_daniel.jf1_DZED7n6ErgP.md
+> "No, you can't. But you can learn the base level of like what you need to know, but there's alpha that you're not gonna be shown. And you don't know this because it's an unknown unknown" — sources/S_ig_daniel.jf1_DZED7n6ErgP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'learn' here is pinned to one specific claim in this clip, and the same word in another source from daniel.jf1 may carry a different load.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'learn' next to 'YouTube') may not be load-bearing in daniel.jf1's wider body of work.

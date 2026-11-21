@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["handsome men", "example"]
+aka: ["handsome men"]
 origin: sources/S_ig_devinjatho_CkwhrjRAC4F.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_devinjatho_CkwhrjRAC4F.md
 
 ## Term
 
-handsome men is the most prominent repeated term in this source (82-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: example, speaking, overlay. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For devinjatho, 'handsome men' is the emotional stake the clip is built to surface — the felt cost of not changing that devinjatho says must land first. It appears twice, it sits next to 'overlay', 'example', and 'footage' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: This could be stock footage with subtitles such… The clip is engineered so that 'psychological' lands as setup, not payoff; the payoff is the move 'handsome men' names.
 
 ## Synonyms
 
-- handsome men
-- example
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This could be stock footage with subtitles such as this, or for example, if you're speaking about handsome men, you know what I'm saying, you should overlay your footage with handsome men. Helping your viewers visualize your content triggers a psychological effect when you do this and keeps your viewer more inclined to watch your videos." — sources/S_ig_devinjatho_CkwhrjRAC4F.md
+> "video. This could be stock footage with subtitles such as this, or for example, if you're speaking about handsome men, you know what I'm saying, you should overlay your footage with handsome men. Helping your viewers visualize your content triggers a psychological" — sources/S_ig_devinjatho_CkwhrjRAC4F.md
+> "if you're speaking about handsome men, you know what I'm saying, you should overlay your footage with handsome men. Helping your viewers visualize your content triggers a psychological effect when you do this and keeps your viewer more inclined to watch" — sources/S_ig_devinjatho_CkwhrjRAC4F.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for the surface problem: the clip uses 'handsome men' to point at the felt cost of not changing, not at the trading problem itself.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'handsome men' next to 'entertain') may not be load-bearing in devinjatho's wider body of work.

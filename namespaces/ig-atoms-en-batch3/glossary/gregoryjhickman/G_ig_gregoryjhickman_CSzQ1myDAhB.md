@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "build"]
+aka: ["clients"]
 origin: sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
 
 ## Term
 
-clients is the most prominent repeated term in this source (195-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: build, chris, bayless. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'clients' is the moment in the sale gregoryjhickman says a person cannot skip and still expect the deal to close. It appears 4 times, it sits next to 'build', 'seven-figure', and 'stop' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: How do you stop working with your clients… Even the move around 'offering' only registers as a move because 'clients' is the thing being moved toward.
 
 ## Synonyms
 
-- clients
-- build
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "do you stop working with your clients one on one, yet still build a seven-figure business while getting your clients even better results? That's what we're talking about today. Let's dive in." — sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
-> "Well, I want to hop over to a conversation that I was having with one of our clients, Chris Bayless. It was being able to take all this crap that I've built over the years that I knew worked and turn it into intellectual, my intellectual property." — sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
-> "And he's now even removed himself from most of the fulfillment to the point where his clients aren't even upset, but they're actually asking to work more directly with his team, not just" — sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
+> "How do you stop working with your clients one on one, yet still build a seven-figure business while getting your clients even better results? That's what we're talking about today. Let" — sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
+> "our offering. And he's now even removed himself from most of the fulfillment to the point where his clients aren't even upset, but they're actually asking to work more directly with his team, not just him" — sources/S_ig_gregoryjhickman_CSzQ1myDAhB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'clients' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as a recommendation to use 'clients' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'familiar'); it does not argue the reader should adopt it.

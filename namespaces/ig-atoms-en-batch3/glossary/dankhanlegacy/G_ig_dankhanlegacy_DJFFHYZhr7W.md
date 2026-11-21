@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["marketing", "products"]
+aka: ["digital"]
 origin: sources/S_ig_dankhanlegacy_DJFFHYZhr7W.md
 ---
 
-# G_ig_dankhanlegacy_DJFFHYZhr7W — marketing
+# G_ig_dankhanlegacy_DJFFHYZhr7W — digital
 
 ## Term
 
-marketing is the most prominent repeated term in this source (186-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: products, learn, digital. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'digital' names the felt consequence dankhanlegacy uses to break through a person's logical defences. It appears 3 times, it sits next to 'knowledge', 'turning', and 'period' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: You will learn everything you need to know… Without 'digital' as the anchor, 'booming' and 'knowledge' would float without a stake in the argument.
 
 ## Synonyms
 
-- marketing
-- products
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You could have made a lot of money back in 2016 when dropshipping was booming and people were not aware that the products were from China. Marketing agency, B. It's funny I put this at B because this is literally what I do for a living. But you need to have skills in order to help other businesses and make a lot of money. OnlyFans, H. Yes, this goes into the haram tier." — sources/S_ig_dankhanlegacy_DJFFHYZhr7W.md
-> "One of the easiest ways to make money online. Period. You will learn everything you need to know about digital marketing without the headaches of actually owning any products. Selling information, S. This is the new and fastest way to become a millionaire. It's by taking your knowledge and expertise and turning it into a digital course." — sources/S_ig_dankhanlegacy_DJFFHYZhr7W.md
+> "One of the easiest ways to make money online. Period. You will learn everything you need to know about digital marketing without the headaches of actually owning any products. Selling information, S. This is the new and fastest way to become a millionaire" — sources/S_ig_dankhanlegacy_DJFFHYZhr7W.md
+> "you have knowledge to share. If you need help crafting your offer and turning your knowledge into a digital product, comment the word video and I'll literally do everything for you" — sources/S_ig_dankhanlegacy_DJFFHYZhr7W.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a financial-planning word: dankhanlegacy uses 'digital' here in the framing of a sales conversation, not as a portfolio term.
+- Read as a rule for using 'digital': the clip shows dankhanlegacy using the word in one specific move (alongside 'Selling'), not a recommendation that the reader adopt the word themselves.

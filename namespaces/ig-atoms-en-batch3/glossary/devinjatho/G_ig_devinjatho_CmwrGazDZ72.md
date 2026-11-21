@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["strategy", "money"]
+aka: ["people's attention"]
 origin: sources/S_ig_devinjatho_CmwrGazDZ72.md
 ---
 
-# G_ig_devinjatho_CmwrGazDZ72 — strategy
+# G_ig_devinjatho_CmwrGazDZ72 — people's attention
 
 ## Term
 
-strategy is the most prominent repeated term in this source (89-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: money, ton, views. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'people's attention' names a frame of mind rather than an action — devinjatho treats it as the precondition the rest of the advice depends on. It appears once in the transcript, and it sits next to 'common', 'misbelief', and 'within' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: It's called the false hook, where you state… This is the word the clip is built to deliver; 'gotten' is texture around it, not the point.
 
 ## Synonyms
 
-- strategy
-- money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's what most people think. However, using this one specific strategy, you'll be able to make loads of money and get a ton of views. This strategy has gotten my clients results like this, and I actually did it at the start of this video." — sources/S_ig_devinjatho_CmwrGazDZ72.md
+> "It's called the false hook, where you state a common misbelief within your niche as a hook to grab people's attention and then break down why it's wrong. Follow for more value" — sources/S_ig_devinjatho_CmwrGazDZ72.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: 'people's attention' here is a working concept devinjatho is installing, not a tagline the reader is meant to repeat.
+- Read as a recommendation to use 'people's attention' yourself: the clip shows devinjatho using the word in one specific move (visible in the collocation with 'strategy'); it does not argue the reader should adopt it.

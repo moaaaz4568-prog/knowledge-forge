@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["world", "working"]
+aka: ["drastically change"]
 origin: sources/S_ig_disisjorj_CtCDdcPP3my.md
 ---
 
-# G_ig_disisjorj_CtCDdcPP3my — world
+# G_ig_disisjorj_CtCDdcPP3my — drastically change
 
 ## Term
 
-world is the most prominent repeated term in this source (84-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: working, online, business. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'drastically change' in this source is the operating principle disisjorj returns to whenever the conversation turns to scaling. It appears once in the transcript, and it sits next to 'three' and 'months' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: You can drastically change your life in three… 'drastically change' is what the rest of the clip is trying to justify — even 'Netflix' reads as evidence for it.
 
 ## Synonyms
 
-- world
-- working
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "use Netflix to chill, YouTube to learn, and Instagram to keep up with the world. This little thing determines so many things in your life, and one of them is your career. You can drastically change your life in three to six months with two hours a day working on your online business." — sources/S_ig_disisjorj_CtCDdcPP3my.md
+> "world. This little thing determines so many things in your life, and one of them is your career. You can drastically change your life in three to six months with two hours a day working on your online business. In a world where people pay for knowledge and" — sources/S_ig_disisjorj_CtCDdcPP3my.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic business word: in disisjorj's reel, 'drastically change' is the specific resource or move disisjorj says compounds effort, not the vague sense of business leverage.
+- Read as a tagline worth extracting: the source shows disisjorj using 'drastically change' as a working label in one specific argument (visible in the collocation with 'learn'), not as a slogan the reader is meant to repeat.

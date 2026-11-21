@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["subconsciously", "personally"]
+aka: ["subconsciously sabotaging"]
 origin: sources/S_ig_daniel.jf1_DajYuOoES8v.md
 ---
 
-# G_ig_daniel.jf1_DajYuOoES8v — subconsciously
+# G_ig_daniel.jf1_DajYuOoES8v — subconsciously sabotaging
 
 ## Term
 
-This source is very short (89 words), so no term repeats enough for a frequency-based entry; subconsciously is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's reel, 'subconsciously sabotaging' is the move daniel.jf1 says the person must make before the prospect will commit. It appears once in the transcript, and it sits next to 'personally', 'responsible', and 'sales' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I am like, "Bro, what's actually happening here… Every other word in the source, including 'thirty', is in service to the move 'subconsciously sabotaging' names.
 
 ## Synonyms
 
-- subconsciously
-- personally
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "happening here is that you hate fulfilling for clients so much because you were the one who was personally responsible for it, so you were subconsciously sabotaging your sales" — sources/S_ig_daniel.jf1_DajYuOoES8v.md
+> "fulfilling for clients so much because you were the one who was personally responsible for it, so you were subconsciously sabotaging your sales calls" — sources/S_ig_daniel.jf1_DajYuOoES8v.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'subconsciously sabotaging' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a recommendation to use 'subconsciously sabotaging' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'complete'); it does not argue the reader should adopt it.

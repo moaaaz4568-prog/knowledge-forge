@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["step", "roadmap"]
+aka: ["demonstrate expertise"]
 origin: sources/S_ig_gregoryjhickman_C1uXLSqsF9m.md
 ---
 
-# G_ig_gregoryjhickman_C1uXLSqsF9m — step
+# G_ig_gregoryjhickman_C1uXLSqsF9m — demonstrate expertise
 
 ## Term
 
-step is the most prominent repeated term in this source (149-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: roadmap, usually, unpack. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'demonstrate expertise' is the design decision the clip is built to defend — the choice that does the work the rest of the layout is supporting. It appears twice, it sits next to 'solve', 'help', and 'helping' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: The first way to demonstrate expertise is to… The sentence around 'methodology' only carries weight because 'demonstrate expertise' is what the sentence is really about.
 
 ## Synonyms
 
-- step
-- roadmap
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Something that we do with a lot of our clients is unpack their core service into a step-by-step roadmap, and usually it's a nine-step visual framework that fits on one page that we can move our clients through as we have sales conversations. We can literally show them, hey, this is how we're going to work together." — sources/S_ig_gregoryjhickman_C1uXLSqsF9m.md
-> "We can literally show them, hey, this is how we're going to work together. Step one, we do this. Step two, we do this. Step three, we do this. And they start to see themselves inside of your work." — sources/S_ig_gregoryjhickman_C1uXLSqsF9m.md
+> "The first way to demonstrate expertise is to actually just solve their problem. It's kind of that age-old secret of show someone that you can help them by actually helping" — sources/S_ig_gregoryjhickman_C1uXLSqsF9m.md
+> "age-old secret of show someone that you can help them by actually helping them. Now the second way to demonstrate expertise is to share a process. Something that we do with a lot of our clients is unpack their core service into a step-by-step roadmap, and" — sources/S_ig_gregoryjhickman_C1uXLSqsF9m.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an art-school term: in gregoryjhickman's usage, 'demonstrate expertise' is a specific design move, not a category of design choices.
+- Read as a recommendation to use 'demonstrate expertise' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'solve'); it does not argue the reader should adopt it.

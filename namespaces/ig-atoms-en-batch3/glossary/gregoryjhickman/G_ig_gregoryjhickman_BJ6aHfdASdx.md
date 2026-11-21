@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["feeling better", "Koda"]
+aka: ["better"]
 origin: sources/S_ig_gregoryjhickman_BJ6aHfdASdx.md
 ---
 
-# G_ig_gregoryjhickman_BJ6aHfdASdx — feeling better
+# G_ig_gregoryjhickman_BJ6aHfdASdx — better
 
 ## Term
 
-feeling better is the most prominent repeated term in this source (13-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: koda, chilling. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'better' is the felt pressure gregoryjhickman locates underneath the stated problem. It appears twice, it sits next to 'koda' and 'chilling' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: Hey, are you feeling better… The argument only stays upright while 'better' is doing the work — pull it and 'Chilling' loses its anchor.
 
 ## Synonyms
 
-- feeling better
-- Koda
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are you feeling better? Koda, Koda. Hey. Are you feeling better?" — sources/S_ig_gregoryjhickman_BJ6aHfdASdx.md
+> "Hey, are you feeling better? Koda, Koda. Hey. Are you feeling better? Chilling" — sources/S_ig_gregoryjhickman_BJ6aHfdASdx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an abstract noun: 'better' in this clip names a specific bodily sensation gregoryjhickman is trying to surface, not a general state of mind.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'better' next to 'Chilling') may not be load-bearing in gregoryjhickman's wider body of work.

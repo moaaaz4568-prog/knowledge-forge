@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["interesting", "cad"]
+aka: ["better outputs"]
 origin: sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
 ---
 
-# G_ig_daniel.jf1_DWXnxM7AoaR — interesting
+# G_ig_daniel.jf1_DWXnxM7AoaR — better outputs
 
 ## Term
 
-This source is very short (59 words), so no term repeats enough for a frequency-based entry; interesting is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For daniel.jf1, 'better outputs' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'claude', 'tends', and 'reason' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: This is really interesting, but if you're like… What makes the word 'better outputs' the term here is that the rest — 'Claude', 'outputs', everything else — is staged for it.
 
 ## Synonyms
 
-- interesting
-- cad
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is really interesting, but if you're like a cad to Claude, it tends to give you better outputs for some reason. I don't know why, but it's really weird. You need to bully it and actually tell it to stop speaking like a weirdo. You know what I mean?" — sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
+> "This is really interesting, but if you're like a cad to Claude, it tends to give you better outputs for some reason. I don't know why, but it's really weird. You need to bully it and actually tell it to stop speaking like a weirdo. You" — sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in daniel.jf1's usage, 'better outputs' is loaded with a specific working meaning (visible in the collocation with 'interesting'), not the dictionary sense.
+- Read as polished prose: this is a verbatim transcript of a 59-word Instagram clip, and the wording around 'better outputs' (including the collocation with 'interesting') is spoken speech, not edited writing.

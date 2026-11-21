@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["Type", "context of account gobirdmasterclass"]
+aka: ["understood"]
 origin: sources/S_ig_gobirdmasterclass_DdAIRVguwdd.md
 ---
 
-# G_ig_gobirdmasterclass_DdAIRVguwdd — Type
+# G_ig_gobirdmasterclass_DdAIRVguwdd — understood
 
 ## Term
 
-Type is the most prominent repeated term in this source (39-word transcript from the Instagram account gobirdmasterclass): it occurs 5 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'understood' in this source is the working idea gobirdmasterclass argues a person cannot skip past and still expect the rest to apply. It appears once in the transcript — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment gobirdmasterclass turns from describing to prescribing — the pivot runs: And if you understood me, watch the video… Every other word in the source, including 'clip', is in service to the move 'understood' names.
 
 ## Synonyms
 
-- Type
-- context of account gobirdmasterclass
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Type this and you'll get this. Type this and you'll get this. Type this and you'll get this. Type this and you'll get this. Type this and you'll get this." — sources/S_ig_gobirdmasterclass_DdAIRVguwdd.md
+> "Type this and you'll get this. Type this and you'll get this. Type this and you'll get this. And if you understood me, watch the video again" — sources/S_ig_gobirdmasterclass_DdAIRVguwdd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic English word: in this source 'understood' is loaded by gobirdmasterclass with a specific working meaning, not the dictionary sense.
+- Read as evidence the term is central to the account: one 39-word clip showing 'understood' next to 'the clip' is too small a sample to anchor a wider claim about what gobirdmasterclass writes about.

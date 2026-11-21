@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["business taught", "automations"]
+aka: ["backend development"]
 origin: sources/S_ig_disisjorj_C1M1g7stqDV.md
 ---
 
-# G_ig_disisjorj_C1M1g7stqDV — business taught
+# G_ig_disisjorj_C1M1g7stqDV — backend development
 
 ## Term
 
-business taught is the most prominent repeated term in this source (90-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: automations, failed, backend. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'backend development' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears once in the transcript, and it sits next to 'taught', 'automations', and 'failed' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: My failed SaaS business taught me everything I… Pull 'backend development' and the clip's spine comes loose — 'knowledge' would still be there but would not point at anything.
 
 ## Synonyms
 
-- business taught
-- automations
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "months than the past five years combined because the knowledge I've gathered throughout that time allowed me to do so. My failed SaaS business taught me everything I know about automations and backend development. My failed SMM business taught me branding and content. You need to start stacking your skills to your favor." — sources/S_ig_disisjorj_C1M1g7stqDV.md
+> "time allowed me to do so. My failed SaaS business taught me everything I know about automations and backend development. My failed SMM business taught me branding and content. You need to start stacking your skills to your favor. You don't need to be" — sources/S_ig_disisjorj_C1M1g7stqDV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'backend development' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'backend' makes that visible.
+- Read as proof the term is load-bearing for disisjorj in general: a 90-word clip with the word 'backend development' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

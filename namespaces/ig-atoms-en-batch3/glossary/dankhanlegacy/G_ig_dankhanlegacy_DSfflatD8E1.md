@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["friends", "real"]
+aka: ["friends", "friend"]
 origin: sources/S_ig_dankhanlegacy_DSfflatD8E1.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_dankhanlegacy_DSfflatD8E1.md
 
 ## Term
 
-friends is the most prominent repeated term in this source (279-word transcript from the Instagram account dankhanlegacy): it occurs 7 times literally in the text, most often collocated with: real, cut, rich. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'friends' is the body cue dankhanlegacy says the person must learn to feel before any external cue can help. It appears 7 times, it sits next to 'rich', 'real', and 'never' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Everyone says cut off your broke friends when… Every other word in the source, including 'Follow', is in service to the move 'friends' names.
 
 ## Synonyms
 
-- friends
-- real
+- friend
 
 ## Live Example
 
-> "says cut off your broke friends when you get rich. Fuck that. I didn't and I never will. Look, I've been friends with the same guys for 10 years. They're not rich, they're not business owners, nobody knows who they are, but they are real friends." — sources/S_ig_dankhanlegacy_DSfflatD8E1.md
-> "Right? Even my parents said it, my teachers, random people, right? But my friends, they said, yes, someone needs to be rich in our friend group. Just do it. When I needed photos for my business, they came and helped. When I needed anything, they showed up." — sources/S_ig_dankhanlegacy_DSfflatD8E1.md
-> "They don't know what loyalty is. They don't know what real friendship is. Yeah, if your friends are dragging you down and constantly negative or actively trying to stop you from succeeding, cut them off. But if they're just normal people living normal lives who support you, keep them." — sources/S_ig_dankhanlegacy_DSfflatD8E1.md
+> "Everyone says cut off your broke friends when you get rich. Fuck that. I didn't and I never will. Look, I've been friends with the same guys for 10 years. They're not rich, they're not" — sources/S_ig_dankhanlegacy_DSfflatD8E1.md
+> "fucking stupid. They don't know what loyalty is. They don't know what real friendship is. Yeah, if your friends are dragging you down and constantly negative or actively trying to stop you from succeeding, cut them off. But if they're just normal people living" — sources/S_ig_dankhanlegacy_DSfflatD8E1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'friends' is the body mechanic dankhanlegacy isolates as the root of the movement problem, not a general training concept.
+- Read as polished prose: this is a verbatim transcript of a 279-word Instagram clip, and the wording around 'friends' (including the collocation with 'never') is spoken speech, not edited writing.

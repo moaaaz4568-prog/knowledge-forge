@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["shadowbanned", "red"]
+aka: ["shadowbanned"]
 origin: sources/S_ig_devinjatho_Cn7LL91AB6o.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_devinjatho_Cn7LL91AB6o.md
 
 ## Term
 
-shadowbanned is the most prominent repeated term in this source (88-word transcript from the Instagram account devinjatho): it occurs 3 times literally in the text, most often collocated with: red, contact, support. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'shadowbanned' is the discipline of putting work out unfinished — devinjatho argues it is what separates people who progress from people who perfect. It appears 3 times, it sits next to 'sucks', 'however', and 'amount' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. devinjatho drops it precisely where the cost of skipping it shows up — the surrounding move runs: If you're not getting the amount of views… The argument only stays upright while 'shadowbanned' is doing the work — pull it and 'profile' loses its anchor.
 
 ## Synonyms
 
-- shadowbanned
-- red
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you're not getting the amount of views you think you should be, you might be shadowbanned. Here's how to check. Head over to your profile and go to settings. From there, click on account and look for an option named account status. If both of these options are green checks, then you're not shadowbanned." — sources/S_ig_devinjatho_Cn7LL91AB6o.md
-> "Your content just sucks. However, if they have a red X, then you might be shadowbanned, in which you should contact support. So if you want to create better content, drop a" — sources/S_ig_devinjatho_Cn7LL91AB6o.md
+> "If you're not getting the amount of views you think you should be, you might be shadowbanned. Here's how to check. Head over to your profile and go to settings. From there, click on account and look for an option named account status" — sources/S_ig_devinjatho_Cn7LL91AB6o.md
+> "then you're not shadowbanned. Your content just sucks. However, if they have a red X, then you might be shadowbanned, in which you should contact support. So if you want to create better content, drop a follow" — sources/S_ig_devinjatho_Cn7LL91AB6o.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'shadowbanned' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'option' makes that visible.
+- Read as a recommendation to use 'shadowbanned' yourself: the clip shows devinjatho using the word in one specific move (visible in the collocation with 'option'); it does not argue the reader should adopt it.

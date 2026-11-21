@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["QR code", "transparent"]
+aka: ["hosting workshops"]
 origin: sources/S_ig_disisjorj_DR4-cJRiHIa.md
 ---
 
-# G_ig_disisjorj_DR4-cJRiHIa — QR code
+# G_ig_disisjorj_DR4-cJRiHIa — hosting workshops
 
 ## Term
 
-QR code is the most prominent repeated term in this source (132-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: transparent, image, means. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'hosting workshops' is the sales move disisjorj argues is the difference between an objection that sticks and one that dissolves. It appears once in the transcript, and it sits next to 'enter', 'code', and 'filming' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: You're filming YouTube videos, you're hosting workshops, and… Anything else in the clip orbits this word — strip out 'hosting workshops' and the rest reads as filler around 'one-click'.
 
 ## Synonyms
 
-- QR code
-- transparent
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now this is a transparent image, which means you can enter a QR code. You're filming YouTube videos, you're hosting workshops, and you just want to have that little QR code that people can go and scan with their phone and get your workbook." — sources/S_ig_disisjorj_DR4-cJRiHIa.md
+> "this is a transparent image, which means you can enter a QR code. You're filming YouTube videos, you're hosting workshops, and you just want to have that little QR code that people can go and scan with their phone and get your workbook. For example, you can" — sources/S_ig_disisjorj_DR4-cJRiHIa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'hosting workshops' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a definition of 'hosting workshops': the source documents how disisjorj deploys the word in this clip — collocated with 'little' — it does not establish what the word means in general.

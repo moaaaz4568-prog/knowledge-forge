@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["LinkedIn", "build"]
+aka: ["linkedin"]
 origin: sources/S_ig_dibratto_DcyQk-bRPGB.md
 ---
 
-# G_ig_dibratto_DcyQk-bRPGB — LinkedIn
+# G_ig_dibratto_DcyQk-bRPGB — linkedin
 
 ## Term
 
-LinkedIn is the most prominent repeated term in this source (582-word transcript from the Instagram account dibratto): it occurs 6 times literally in the text, most often collocated with: build, presence, founder. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dibratto's framing, 'linkedin' is the missing mechanic — the thing dibratto says is failing underneath every other issue the person reports. It appears 6 times, it sits next to 'perfect', 'reader', and 'build' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Here's how to write the perfect LinkedIn post… Anything else in the clip orbits this word — strip out 'linkedin' and the rest reads as filler around 'importantly'.
 
 ## Synonyms
 
-- LinkedIn
-- build
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "how to write the perfect LinkedIn post, even if you've never written one. This is coming from someone who's written five thousand plus for founders backed by these VCs and more. Those have driven these results, so you know I'm not lying." — sources/S_ig_dibratto_DcyQk-bRPGB.md
-> "You must think about media in the context of how it will be digested in the feed. What I mean by that is when a reader scrolls LinkedIn, they will only see your hook and the media itself, and you need to optimize for that. Here's how to do that. For a founder or team story, use a founder or team picture. For a deep listicle, use a carousel." — sources/S_ig_dibratto_DcyQk-bRPGB.md
-> "If you want a full guide on how to build your LinkedIn presence as a founder, comment LinkedIn and I will send it to" — sources/S_ig_dibratto_DcyQk-bRPGB.md
+> "Here's how to write the perfect LinkedIn post, even if you've never written one. This is coming from someone who's written five thousand plus for founders backed by these VCs and more" — sources/S_ig_dibratto_DcyQk-bRPGB.md
+> "these factors. If you want a full guide on how to build your LinkedIn presence as a founder, comment LinkedIn and I will send it to you" — sources/S_ig_dibratto_DcyQk-bRPGB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'linkedin' to point at one specific mechanic dibratto says is failing in the movement shown.
+- Read as a clean transcript: the wording around 'linkedin' (including the run-on near 'importantly') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

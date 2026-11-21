@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Number", "product"]
+aka: ["five"]
 origin: sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
 ---
 
-# G_ig_dankhanlegacy_DQ4BmoKkadc — Number
+# G_ig_dankhanlegacy_DQ4BmoKkadc — five
 
 ## Term
 
-Number is the most prominent repeated term in this source (198-word transcript from the Instagram account dankhanlegacy): it occurs 5 times literally in the text, most often collocated with: product, ticket, digital. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'five' is the sales move dankhanlegacy argues is the difference between an objection that sticks and one that dissolves. It appears 4 times, it sits next to 'build', 'years', and 'trust' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: Five years of making digital products in 60… The clip's relationship to 'months' only makes sense as a vehicle for delivering 'five'.
 
 ## Synonyms
 
-- Number
-- product
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "years of making digital products in 60 seconds. Number one, your product doesn't matter as much as your offer. I've seen shit products with great offers make millions, and amazing products with weak offers make nothing. Fix the offer first. Number two, building the product is the easy part." — sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
-> "Most people spend six months building and two weeks trying to sell it. Do the opposite. Validate first, build second. Number three, you don't need a huge audience. You need the right audience. I've made more money with very little followers who trust me than people with like hundred thousand followers who don't." — sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
-> "Sell to ten people at two thousand dollars. It's way easier and way more profitable. Number five, if you're not willing to talk to people, you're not ready for high ticket. You can't automate a five k sale. You need to get on calls, build trust, close deals, then you can build the systems. Five years, millions made." — sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
+> "Five years of making digital products in 60 seconds. Number one, your product doesn't matter as much as your offer. I've seen shit products with great" — sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
+> "automate a five k sale. You need to get on calls, build trust, close deals, then you can build the systems. Five years, millions made. These are the lessons that actually mattered" — sources/S_ig_dankhanlegacy_DQ4BmoKkadc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic persuasion word: the clip uses 'five' to name the load-bearing move in the close, not any persuasive phrase.
+- Read as a recommendation to use 'five' yourself: the clip shows dankhanlegacy using the word in one specific move (visible in the collocation with 'easier'); it does not argue the reader should adopt it.

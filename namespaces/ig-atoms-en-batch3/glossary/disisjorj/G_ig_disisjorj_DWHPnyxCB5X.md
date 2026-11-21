@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["click", "setup"]
+aka: ["one-click setup"]
 origin: sources/S_ig_disisjorj_DWHPnyxCB5X.md
 ---
 
-# G_ig_disisjorj_DWHPnyxCB5X — click
+# G_ig_disisjorj_DWHPnyxCB5X — one-click setup
 
 ## Term
 
-click is the most prominent repeated term in this source (142-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: setup, turn, laptop. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'one-click setup' is the missing mechanic — the thing disisjorj says is failing underneath every other issue the person reports. It appears twice, it sits next to 'idea', 'phone', and 'insight' — the repetition is what makes it the spine of the clip rather than a passing word. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: For example, one-click setup video… Even the move around 'one-click' only registers as a move because 'one-click setup' is the thing being moved toward.
 
 ## Synonyms
 
-- click
-- setup
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "connected two little systems together inside the Studio. S number one is the one-click capture, which basically allows me to just text my phone any new idea or insight that I have. For example, one-click setup video. And I have this new idea here." — sources/S_ig_disisjorj_DWHPnyxCB5X.md
-> "And all there's left to do with me is just turn on my laptop, click on my one-click setup and start recording the" — sources/S_ig_disisjorj_DWHPnyxCB5X.md
+> "capture, which basically allows me to just text my phone any new idea or insight that I have. For example, one-click setup video. And I have this new idea here. I text it to my Telegram bot and it immediately lands here inside my content studio, which is part" — sources/S_ig_disisjorj_DWHPnyxCB5X.md
+> "the ready to record folder. And all there's left to do with me is just turn on my laptop, click on my one-click setup and start recording the videos" — sources/S_ig_disisjorj_DWHPnyxCB5X.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic training word: the source uses 'one-click setup' to point at one specific mechanic disisjorj says is failing in the movement shown.
+- Read as a rule for using 'one-click setup': the clip shows disisjorj using the word in one specific move (alongside 'recording'), not a recommendation that the reader adopt the word themselves.

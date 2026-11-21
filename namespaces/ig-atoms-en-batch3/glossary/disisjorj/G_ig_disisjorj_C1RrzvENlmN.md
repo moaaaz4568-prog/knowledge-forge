@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["change", "outcome"]
+aka: ["six months"]
 origin: sources/S_ig_disisjorj_C1RrzvENlmN.md
 ---
 
-# G_ig_disisjorj_C1RrzvENlmN — change
+# G_ig_disisjorj_C1RrzvENlmN — six months
 
 ## Term
 
-change is the most prominent repeated term in this source (204-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: outcome, understand, encourage. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj reel, 'six months' names the act of pushing work out where it can be seen — the source treats it as the bottleneck between making and being read. It appears 3 times, it sits next to 'worth', 'monk', and 'mode' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I remember I used to watch so many… 'six months' is what the rest of the clip is trying to justify — even 'outcome' reads as evidence for it.
 
 ## Synonyms
 
-- change
-- outcome
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you should go monk mode for six months, you should grind it out, you should hustle, you should do everything it takes and watch your life change. And I used to believe that to an extent. Of course, anything that you put in six months worth of time and effort into will result at you being way better at that one thing." — sources/S_ig_disisjorj_C1RrzvENlmN.md
-> "Make action the goal and not the outcome. Understand that for things to change, you need to change and do what most" — sources/S_ig_disisjorj_C1RrzvENlmN.md
-> "So for those of you who actually want to do this, I would encourage you to change your perspective. Make action the goal and not the outcome." — sources/S_ig_disisjorj_C1RrzvENlmN.md
+> "for being here. I remember I used to watch so many of the videos that said you should go monk mode for six months, you should grind it out, you should hustle, you should do everything it takes and watch your life change. And I used to believe that to an" — sources/S_ig_disisjorj_C1RrzvENlmN.md
+> "being way better at that one thing. And I would argue that not a lot of people are willing to put in six months worth of work into anything, let alone content creation. So for those of you who actually want to do this, I would encourage you to change your" — sources/S_ig_disisjorj_C1RrzvENlmN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a journalism term: the source uses 'six months' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'action' makes that visible.
+- Read as a definition of 'six months': the source documents how disisjorj deploys the word in this clip — collocated with 'action' — it does not establish what the word means in general.

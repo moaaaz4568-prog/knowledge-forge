@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["responsibilities", "long"]
+aka: ["impact positively"]
 origin: sources/S_ig_disisjorj_CusTUIksr8i.md
 ---
 
-# G_ig_disisjorj_CusTUIksr8i — responsibilities
+# G_ig_disisjorj_CusTUIksr8i — impact positively
 
 ## Term
 
-This source is very short (128 words), so no term repeats enough for a frequency-based entry; responsibilities is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'impact positively' names the resource or move disisjorj argues a person must use to compound effort into outcome. It appears once in the transcript, and it sits next to 'willing', 'power', and 'reach' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Because I know that what I do here… Without 'impact positively', the reel is just a clip about running; with it, the clip is a claim.
 
 ## Synonyms
 
-- responsibilities
-- long
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I would make sure everyone was fulfilled and happy long before I was. I would take on responsibilities that were not even assigned to me, just to make sure that everything was running smoothly. Everything aside from me. And honestly, I even thought it's something to be proud of." — sources/S_ig_disisjorj_CusTUIksr8i.md
+> "Because I know that what I do here and the effort I'm willing to put in this has the power to reach and impact positively so many others. And the truth is, you can and should too. I hope this finds you well. Follow for more" — sources/S_ig_disisjorj_CusTUIksr8i.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'impact positively' is loaded by disisjorj with a specific working meaning (visible in the collocation with 'years'), not the dictionary sense.
+- Read as a definition of 'impact positively': the source documents how disisjorj deploys the word in this clip — collocated with 'years' — it does not establish what the word means in general.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["form", "record"]
+aka: ["form"]
 origin: sources/S_ig_disisjorj_DVd2ZQpiBiv.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_DVd2ZQpiBiv.md
 
 ## Term
 
-form is the most prominent repeated term in this source (92-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: record, long, short. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'form' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears 4 times, it sits next to 'record', 'both', and 'long' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is all you need in order to… Pull 'form' and the clip's spine comes loose — 'scenes' would still be there but would not point at anything.
 
 ## Synonyms
 
-- form
-- record
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is all you need in order to record both long form videos and also short form videos at the same time. You can create different scenes that allow you to do this. For example, looking at the camera, and this is what it looks like." — sources/S_ig_disisjorj_DVd2ZQpiBiv.md
-> "And then from there, I can use my iPad, just start doodling away, and I can record that both on short form and long form at the same time. This is called the one click setup." — sources/S_ig_disisjorj_DVd2ZQpiBiv.md
+> "This is all you need in order to record both long form videos and also short form videos at the same time. You can create different scenes that allow you to do this. For example, looking at the camera" — sources/S_ig_disisjorj_DVd2ZQpiBiv.md
+> "there, I can use my iPad, just start doodling away, and I can record that both on short form and long form at the same time. This is called the one click setup. You can install it actually in less than 20 minutes" — sources/S_ig_disisjorj_DVd2ZQpiBiv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the term in another sense: 'form' here is pinned to one specific claim in this clip, and the same word in another source from disisjorj may carry a different load.
+- Read as polished prose: this is a verbatim transcript of a 92-word Instagram clip, and the wording around 'form' (including the collocation with 'looks') is spoken speech, not edited writing.

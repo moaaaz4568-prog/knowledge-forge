@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "enjoyed"]
+aka: ["started dropshipping"]
 origin: sources/S_ig_dankhanlegacy_DIb-QkwhCxA.md
 ---
 
-# G_ig_dankhanlegacy_DIb-QkwhCxA — business
+# G_ig_dankhanlegacy_DIb-QkwhCxA — started dropshipping
 
 ## Term
 
-business is the most prominent repeated term in this source (156-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: enjoyed, tips, couple. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the dankhanlegacy clip, 'started dropshipping' is the lever dankhanlegacy says separates people who make progress from people who stay put. It appears once in the transcript, and it sits next to 'uncap', 'francis', and 'gymshark' — a single occurrence that nonetheless anchors the clip's argument. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Look at Ben Francis, Gymshark, started dropshipping… Read alongside 'enjoyed', the word 'started dropshipping' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- business
-- enjoyed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "which might not even give them enough profit to live a great life, than spend a couple hundred dollars trying to test an online business out, which could go on to make you six, seven, eight, maybe even nine figures. You just don't even know how high you could honestly take it. Yeah, it's uncap. It's uncap. Look at Ben Francis, Gymshark, started dropshipping." — sources/S_ig_dankhanlegacy_DIb-QkwhCxA.md
-> "There's no limits to where you can really take this. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DIb-QkwhCxA.md
+> "know how high you could honestly take it. Yeah, it's uncap. It's uncap. Look at Ben Francis, Gymshark, started dropshipping. Now it's a billion dollar company. There's no limits to where you can really take this. If you enjoyed that video, follow me for" — sources/S_ig_dankhanlegacy_DIb-QkwhCxA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'started dropshipping' to name a move dankhanlegacy says is missing in this person's case, not a universal recommendation.
+- Read as evidence dankhanlegacy always uses 'started dropshipping' this way: one 156-word clip is too thin a sample to support any claim about how the account uses the word in general.

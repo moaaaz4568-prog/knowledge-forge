@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["different", "set"]
+aka: ["different set"]
 origin: sources/S_ig_disisjorj_CvVb-YANp1O.md
 ---
 
-# G_ig_disisjorj_CvVb-YANp1O — different
+# G_ig_disisjorj_CvVb-YANp1O — different set
 
 ## Term
 
-different is the most prominent repeated term in this source (90-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: set, needs, actions. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here 'different set' names a frame of mind rather than an action — disisjorj treats it as the precondition the rest of the advice depends on. It appears twice, it sits next to 'build', 'needs', and 'actions' — the repetition is what makes it the spine of the clip rather than a passing word. The clip uses it to mark where the work actually happens — the framing runs: Every step of the way in whatever it… Pull 'different set' and the clip's spine comes loose — 'conquer' would still be there but would not point at anything.
 
 ## Synonyms
 
-- different
-- set
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Every step of the way in whatever it is that you do or build needs a different set of actions and a different set of skills, but most importantly, a different mindset. And just like the video games we play, in order to get to the next step of your business or your lifestyle, you need to eliminate the enemies." — sources/S_ig_disisjorj_CvVb-YANp1O.md
+> "something I realized recently. Every step of the way in whatever it is that you do or build needs a different set of actions and a different set of skills, but most importantly, a different mindset. And just like the video games we play, in order to get" — sources/S_ig_disisjorj_CvVb-YANp1O.md
+> "Every step of the way in whatever it is that you do or build needs a different set of actions and a different set of skills, but most importantly, a different mindset. And just like the video games we play, in order to get to the next step of your business" — sources/S_ig_disisjorj_CvVb-YANp1O.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a vague self-improvement word: in this clip, 'different set' is loaded by disisjorj with a specific meaning tied to 'enemies', not the dictionary sense.
+- Read as a definition of 'different set': the source documents how disisjorj deploys the word in this clip — collocated with 'enemies' — it does not establish what the word means in general.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["cohort", "learned"]
+aka: ["cohort", "cohorts"]
 origin: sources/S_ig_disisjorj_C8ZLC-ptR_N.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_disisjorj_C8ZLC-ptR_N.md
 
 ## Term
 
-cohort is the most prominent repeated term in this source (96-word transcript from the Instagram account disisjorj): it occurs 3 times literally in the text, most often collocated with: learned, graduate, best. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'cohort' is the distinction disisjorj is actually drawing — the line the rest of the clip is staged to make stick. It appears 3 times, it sits next to 'seriously', 'graduate', and 'best' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: What really took me to the next level… Take 'cohort' out and the clip collapses into generalities about absent — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- cohort
-- learned
+- cohorts
 
 ## Live Example
 
-> "What really took me to the next level is taking courses and cohorts, but very very seriously. I wanted to graduate from the cohort as the best student in the class. That was like, okay, most of the people will watch the cohort and for the next month they'll do something about it and then the second month they're just going to be absent." — sources/S_ig_disisjorj_C8ZLC-ptR_N.md
-> "I was like, for the next six months, all I'm doing is what I've learned in this cohort" — sources/S_ig_disisjorj_C8ZLC-ptR_N.md
+> "the next level is taking courses and cohorts, but very very seriously. I wanted to graduate from the cohort as the best student in the class. That was like, okay, most of the people will watch the cohort and for the next month they'll do something about" — sources/S_ig_disisjorj_C8ZLC-ptR_N.md
+> "going to be absent. I was like, for the next six months, all I'm doing is what I've learned in this cohort" — sources/S_ig_disisjorj_C8ZLC-ptR_N.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a tagline to be quoted: 'cohort' here is a working label for an idea being argued, not a slogan meant to be repeated.
+- Read as a stylistic choice by disisjorj: the wording around 'cohort' (e.g. the collocation with 'comes') is the speech of one clip, not a stylistic pattern that can be generalised.

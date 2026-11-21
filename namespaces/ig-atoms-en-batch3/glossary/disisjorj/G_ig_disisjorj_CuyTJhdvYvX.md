@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["workflow", "editing"]
+aka: ["three-minute process"]
 origin: sources/S_ig_disisjorj_CuyTJhdvYvX.md
 ---
 
-# G_ig_disisjorj_CuyTJhdvYvX — workflow
+# G_ig_disisjorj_CuyTJhdvYvX — three-minute process
 
 ## Term
 
-This source is very short (70 words), so no term repeats enough for a frequency-based entry; workflow is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'three-minute process' is the visual or structural choice disisjorj says is the actual carrier of meaning in the piece. It appears once in the transcript, and it sits next to 'hack', 'helped', and 'speed' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment disisjorj turns from describing to prescribing — the pivot runs: I had the same three-minute process every time… It is the one word in this source that, if removed, would leave 'process' without a frame to hang on.
 
 ## Synonyms
 
-- workflow
-- editing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a quick editing hack that helped me speed up my workflow. I had the same three-minute process every time I sat down to edit my videos. All I have to do is sync my audio with my video, drag and drop this preset that rotates, scales, and color grades the whole video in a matter of seconds." — sources/S_ig_disisjorj_CuyTJhdvYvX.md
+> "Here's a quick editing hack that helped me speed up my workflow. I had the same three-minute process every time I sat down to edit my videos. All I have to do is sync my audio with my video, drag and drop this preset that rotates" — sources/S_ig_disisjorj_CuyTJhdvYvX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for pretty: the source uses 'three-minute process' to mark the choice that does the work, not the choice that only looks good.
+- Read as a rule for using 'three-minute process': the clip shows disisjorj using the word in one specific move (alongside 'preset'), not a recommendation that the reader adopt the word themselves.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["tech", "informed"]
+aka: ["completely rebuilt"]
 origin: sources/S_ig_dibratto_DeDTTkHg1np.md
 ---
 
-# G_ig_dibratto_DeDTTkHg1np — tech
+# G_ig_dibratto_DeDTTkHg1np — completely rebuilt
 
 ## Term
 
-tech is the most prominent repeated term in this source (196-word transcript from the Instagram account dibratto): it occurs 3 times literally in the text, most often collocated with: informed, scott, galloway. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'completely rebuilt' in this clip is the future-pain frame dibratto says must be touched before any plan can land. It appears once in the transcript, and it sits next to 'boring', 'industry', and 'software' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: You think every boring industry is just one… Without 'completely rebuilt' as the anchor, 'capital' and 'somehow' would float without a stake in the argument.
 
 ## Synonyms
 
-- tech
-- informed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is what I think your favorite tech podcast says about you, part three. If it's Anything Scott Galloway, you have an opinion on tech, markets, masculinity, higher education, and geopolitics before lunch." — sources/S_ig_dibratto_DeDTTkHg1np.md
-> "You've explained an AI controversy to your friends because Kevin and Casey covered this. You consider yourself informed but not tech bro informed. If it's Invest Like the Best, you cannot simply like a company. You need to understand its capital allocation, unit economics, incentives, and why the founder is special." — sources/S_ig_dibratto_DeDTTkHg1np.md
+> "You love a good market map. You think every boring industry is just one software layer away from being completely rebuilt. If it's Hard Fork, you know exactly which OpenAI executives left this week. You've explained an AI controversy to your friends because" — sources/S_ig_dibratto_DeDTTkHg1np.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trading-technique term: in this source 'completely rebuilt' is the emotional lever dibratto uses to surface commitment, not a market mechanic.
+- Read as a rule for using 'completely rebuilt': the clip shows dibratto using the word in one specific move (alongside 'special'), not a recommendation that the reader adopt the word themselves.

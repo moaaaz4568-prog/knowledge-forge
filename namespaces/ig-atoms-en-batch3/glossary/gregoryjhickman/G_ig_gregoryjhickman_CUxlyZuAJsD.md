@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["transition", "rip"]
+aka: ["three years"]
 origin: sources/S_ig_gregoryjhickman_CUxlyZuAJsD.md
 ---
 
-# G_ig_gregoryjhickman_CUxlyZuAJsD — transition
+# G_ig_gregoryjhickman_CUxlyZuAJsD — three years
 
 ## Term
 
-transition is the most prominent repeated term in this source (141-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: rip, bandaid, happen. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In gregoryjhickman's reel, 'three years' is the move gregoryjhickman says the person must make before the prospect will commit. It appears twice, it sits next to 'well', 'allow', and 'reframed' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where gregoryjhickman names the thing a person cannot outsource — nearby: But there are some changes and things that… Without 'three years', the reel is just a clip about mistake; with it, the clip is a claim.
 
 ## Synonyms
 
-- transition
-- rip
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's more risk of overworking and having too many work hours or work days, working nights and weekends just to make this transition possible. Or we could find little opportunities to rip the bandaid right now and make this transition happen in the next 12" — sources/S_ig_gregoryjhickman_CUxlyZuAJsD.md
+> "make right now that would make it less risky if you just reframed your perspective of well, what if in three years if we allow this thing to take three years to happen, we could lose really good people that we currently have on the team. We could get burned" — sources/S_ig_gregoryjhickman_CUxlyZuAJsD.md
+> "if you just reframed your perspective of well, what if in three years if we allow this thing to take three years to happen, we could lose really good people that we currently have on the team. We could get burned out. There's more risk of overworking and" — sources/S_ig_gregoryjhickman_CUxlyZuAJsD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'three years' here is loaded with a specific working meaning by gregoryjhickman, not a buzzword.
+- Read as a rule for using 'three years': the clip shows gregoryjhickman using the word in one specific move (alongside 'hours'), not a recommendation that the reader adopt the word themselves.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: devinjatho
-aka: ["positive question", "fun"]
+aka: ["positive question"]
 origin: sources/S_ig_devinjatho_CqTEPp3AMt6.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_devinjatho_CqTEPp3AMt6.md
 
 ## Term
 
-positive question is the most prominent repeated term in this source (87-word transcript from the Instagram account devinjatho): it occurs 2 times literally in the text, most often collocated with: fun, part, respond. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In devinjatho's reel, 'positive question' is the felt pressure devinjatho locates underneath the stated problem. It appears twice, it sits next to 'part', 'reply', and 'single' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment devinjatho turns from describing to prescribing — the pivot runs: After posting your video, reply to every single… Without 'positive question', the reel is just a clip about single; with it, the clip is a claim.
 
 ## Synonyms
 
-- positive question
-- fun
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "After posting your video, reply to every single comment immediately with a positive question. Now here's the fun part. After they respond to that positive question, go onto a burner alt account and trigger controversy with the response that they won't like." — sources/S_ig_devinjatho_CqTEPp3AMt6.md
+> "s how to get a f*** ton. After posting your video, reply to every single comment immediately with a positive question. Now here's the fun part. After they respond to that positive question, go onto a burner alt account and trigger controversy with the" — sources/S_ig_devinjatho_CqTEPp3AMt6.md
+> "single comment immediately with a positive question. Now here's the fun part. After they respond to that positive question, go onto a burner alt account and trigger controversy with the response that they won't like. Now we've officially mindf***d the commenter" — sources/S_ig_devinjatho_CqTEPp3AMt6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as therapy jargon: 'positive question' is devinjatho's on-the-fly label for the felt thing the conversation is about, not a clinical category.
+- Read as evidence the term is central to the account: one 87-word clip showing 'positive question' next to 'response' is too small a sample to anchor a wider claim about what devinjatho writes about.

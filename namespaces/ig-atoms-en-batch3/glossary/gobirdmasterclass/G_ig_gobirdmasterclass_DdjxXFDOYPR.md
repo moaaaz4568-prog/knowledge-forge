@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["plus", "Use"]
+aka: ["gobirdmasterclass"]
 origin: sources/S_ig_gobirdmasterclass_DdjxXFDOYPR.md
 ---
 
-# G_ig_gobirdmasterclass_DdjxXFDOYPR — plus
+# G_ig_gobirdmasterclass_DdjxXFDOYPR — Use this plus this to get this. Use this plus this to get th…
 
 ## Term
 
-plus is the most prominent repeated term in this source (35-word transcript from the Instagram account gobirdmasterclass): it occurs 5 times literally in the text, most often collocated with: use. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This short caption from gobirdmasterclass carries no conceptual term — it is a 35-word string whose job is to land a mood, not to name an idea. Treating any single word as the term would inflate a filler or lyric hook into a concept it is not. The clip's full text reads: "Use this plus this to get this. Use this plus this to get this. Use this plus this to get this. Use this plus this to get this. Use this plus this to get this.".
 
 ## Synonyms
 
-- plus
-- Use
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "this plus this to get this. Use this plus this to get this. Use this plus this to get this. Use this plus this to get this." — sources/S_ig_gobirdmasterclass_DdjxXFDOYPR.md
+> "Use this plus this to get this. Use this plus this to get this. Use this plus this to get this. Use this plus this to get this. Use this plus this to get this" — sources/S_ig_gobirdmasterclass_DdjxXFDOYPR.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content keyword: the words here exist for rhythm or mood, not as labels for an idea a person is working with — even 'the clip' is phrasing, not a concept.
+- Read as proof gobirdmasterclass returns to a theme: a single short clip is too thin to anchor any wider claim about the account's body of work.

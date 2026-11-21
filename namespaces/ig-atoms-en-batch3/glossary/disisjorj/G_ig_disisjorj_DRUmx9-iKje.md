@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["use", "expensive"]
+aka: ["use"]
 origin: sources/S_ig_disisjorj_DRUmx9-iKje.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_disisjorj_DRUmx9-iKje.md
 
 ## Term
 
-use is the most prominent repeated term in this source (89-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: expensive, cameras, headphones. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'use' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears 4 times, it sits next to 'expensive', 'cameras', and 'iphone' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: This is how you can start showing up… Even the move around 'vertical' only registers as a move because 'use' is the thing being moved toward.
 
 ## Synonyms
 
-- use
-- expensive
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is how you can start showing up on video, regardless if you use one of these expensive cameras or just your iPhone. You can use your headphones to capture audio. Also, you can use this. Whether you want to post both vertical and horizontal, you can use your iPad here, for example." — sources/S_ig_disisjorj_DRUmx9-iKje.md
+> "This is how you can start showing up on video, regardless if you use one of these expensive cameras or just your iPhone. You can use your headphones to capture audio. Also, you can use this. Whether you want to post" — sources/S_ig_disisjorj_DRUmx9-iKje.md
+> "capture audio. Also, you can use this. Whether you want to post both vertical and horizontal, you can use your iPad here, for example. You can draw different things. You can see it, it's already happening there. And then you can change and customize it" — sources/S_ig_disisjorj_DRUmx9-iKje.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a marketing jargon word: the clip uses 'use' as a working label for the move that actually gets work seen, not as a buzzword.
+- Read as a rule for using 'use': the clip shows disisjorj using the word in one specific move (alongside 'regardless'), not a recommendation that the reader adopt the word themselves.

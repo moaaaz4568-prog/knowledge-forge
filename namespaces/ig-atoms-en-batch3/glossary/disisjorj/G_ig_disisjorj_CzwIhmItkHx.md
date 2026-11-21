@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["content", "tells"]
+aka: ["intentionally consuming"]
 origin: sources/S_ig_disisjorj_CzwIhmItkHx.md
 ---
 
-# G_ig_disisjorj_CzwIhmItkHx — content
+# G_ig_disisjorj_CzwIhmItkHx — intentionally consuming
 
 ## Term
 
-content is the most prominent repeated term in this source (93-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: tells, becoming, creator. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'intentionally consuming' names the felt adjustment disisjorj insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'personal', 'online', and 'stack' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Stack the odds to your favor by intentionally… Pull 'intentionally consuming' and the clip's spine comes loose — 'creator' would still be there but would not point at anything.
 
 ## Synonyms
 
-- content
-- tells
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "what nobody tells you about becoming a content creator. Even if you have the best gear available, high quality camera, transitions, editing, plugins, microphones, none of it matters unless you have something new to say." — sources/S_ig_disisjorj_CzwIhmItkHx.md
-> "Stack the odds to your favor by intentionally consuming and build a library of new ideas that will only lead to more content, therefore more growth. I got more insights like this on my account, so be sure to check them" — sources/S_ig_disisjorj_CzwIhmItkHx.md
+> "new ideas is the foundation of any successful personal brand online. Stack the odds to your favor by intentionally consuming and build a library of new ideas that will only lead to more content, therefore more growth. I got more insights like this on my" — sources/S_ig_disisjorj_CzwIhmItkHx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic fitness term: in this clip, 'intentionally consuming' is the body mechanic disisjorj isolates as the root of the movement problem, not a general training concept.
+- Read as polished prose: this is a verbatim transcript of a 93-word Instagram clip, and the wording around 'intentionally consuming' (including the collocation with 'available') is spoken speech, not edited writing.

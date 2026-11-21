@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["Looks", "miss"]
+aka: ["little"]
 origin: sources/S_ig_disisjorj_Cv0TNfRtPmD.md
 ---
 
-# G_ig_disisjorj_Cv0TNfRtPmD — Looks
+# G_ig_disisjorj_Cv0TNfRtPmD — little
 
 ## Term
 
-Looks is the most prominent repeated term in this source (47-word transcript from the Instagram account disisjorj): it occurs 4 times literally in the text, most often collocated with: miss, woo, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In disisjorj's framing, 'little' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 4 times, it sits next to 'looks', 'miss', and 'call' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Looks a little something like this… Without 'little', the reel is just a clip about clip; with it, the clip is a claim.
 
 ## Synonyms
 
-- Looks
-- miss
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Looks a little something like this. Looks a little bit like I can't miss. Hey, is this what you call a bop? What? This is what you call a bop." — sources/S_ig_disisjorj_Cv0TNfRtPmD.md
-> "Hey, is this what you call a bop? What? This is what you call a bop. If it looks a little something like this, looks a little bit like I can't" — sources/S_ig_disisjorj_Cv0TNfRtPmD.md
+> "Woo! Looks a little something like this. Looks a little bit like I can't miss. Hey, is this what you call a bop? What? This is what you call a bop. If it looks a little" — sources/S_ig_disisjorj_Cv0TNfRtPmD.md
+> "you call a bop? What? This is what you call a bop. If it looks a little something like this, looks a little bit like I can't miss" — sources/S_ig_disisjorj_Cv0TNfRtPmD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'little' as a working label for an idea disisjorj is arguing, not as a tagline to be repeated.
+- Read as proof the term is load-bearing for disisjorj in general: a 47-word clip with the word 'little' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

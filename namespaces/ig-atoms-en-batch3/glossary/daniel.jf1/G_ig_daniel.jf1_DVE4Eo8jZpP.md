@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["guarantee", "life"]
+aka: ["guarantee"]
 origin: sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
 
 ## Term
 
-guarantee is the most prominent repeated term in this source (137-word transcript from the Instagram account daniel.jf1): it occurs 3 times literally in the text, most often collocated with: life, client, asks. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In daniel.jf1's reel, 'guarantee' is the move daniel.jf1 says the person must make before the prospect will commit. It appears 3 times, it sits next to 'interesting', 'asks', and 'younger' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: It said, "What to say when a client… Without 'guarantee', the reel is just a clip about titled; with it, the clip is a claim.
 
 ## Synonyms
 
-- guarantee
-- life
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to say when a client asks for a guarantee" — sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
-> "here's what you tell the prospect. Does anything in life have a guarantee" — sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
+> "What to say when a client asks for a guarantee" — sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
+> "Well, here's what you tell the prospect. Does anything in life have a guarantee" — sources/S_ig_daniel.jf1_DVE4Eo8jZpP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a sales jargon word: 'guarantee' here is loaded with a specific working meaning by daniel.jf1, not a buzzword.
+- Read as evidence daniel.jf1 always uses 'guarantee' this way: one 137-word clip is too thin a sample to support any claim about how the account uses the word in general.

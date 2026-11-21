@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["creating", "future"]
+aka: ["future belongs"]
 origin: sources/S_ig_disisjorj_Czlt3g_t3m9.md
 ---
 
-# G_ig_disisjorj_Czlt3g_t3m9 — creating
+# G_ig_disisjorj_Czlt3g_t3m9 — future belongs
 
 ## Term
 
-creating is the most prominent repeated term in this source (94-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: future, belongs, create. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this clip, 'future belongs' is what disisjorj argues a person must already be before any external change can hold. It appears once in the transcript, and it sits next to 'scrolling', 'belief', and 'create' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: It is my belief that the future belongs… The argument only stays upright while 'future belongs' is doing the work — pull it and 'learning' loses its anchor.
 
 ## Synonyms
 
-- creating
-- future
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you don't invest your time and efforts in creating a better tomorrow for yourself, then who will? The human brain is capable of literally changing and adapting in response to new experiences and learning. That's what neuroplasticity is all about." — sources/S_ig_disisjorj_Czlt3g_t3m9.md
-> "It is my belief that the future belongs to those who create. So start creating" — sources/S_ig_disisjorj_Czlt3g_t3m9.md
+> "majority of our days on a sofa in a room scrolling away day in and day out. It is my belief that the future belongs to those who create. So start creating" — sources/S_ig_disisjorj_Czlt3g_t3m9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a self-help cliché: 'future belongs' here is the specific frame disisjorj argues from, not a generic motivational label.
+- Read as a claim about how disisjorj uses 'future belongs' across their work: this single 94-word clip only shows the term's use in this one piece, not its role in the account's wider argument.

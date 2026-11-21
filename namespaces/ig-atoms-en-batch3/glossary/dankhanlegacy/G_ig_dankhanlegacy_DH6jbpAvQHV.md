@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "model"]
+aka: ["amazon shutdown"]
 origin: sources/S_ig_dankhanlegacy_DH6jbpAvQHV.md
 ---
 
-# G_ig_dankhanlegacy_DH6jbpAvQHV — business
+# G_ig_dankhanlegacy_DH6jbpAvQHV — amazon shutdown
 
 ## Term
 
-business is the most prominent repeated term in this source (170-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: model, space, zero. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'amazon shutdown' in this source is the operating principle dankhanlegacy returns to whenever the conversation turns to scaling. It appears once in the transcript, and it sits next to 'risk', 'worry', and 'fluctuation' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: You don't have to worry about ads, the… Cut 'amazon shutdown' and the clip's aboutness shifts from a claim to a description of million and shutdown.
 
 ## Synonyms
 
-- business
-- model
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Especially in our space, I think like it's the only business model where you just go from zero to a million in like a week. It's de-risked, but it's also a huge win-win. Like you're helping, there's so many people out there that don't want to fulfill. It's just such a business model." — sources/S_ig_dankhanlegacy_DH6jbpAvQHV.md
-> "It's like it's a match made in heaven. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DH6jbpAvQHV.md
+> "when you really look at the core, it's no risk. You don't have to worry about ads, the fluctuation, Amazon shutdown. There's a lot to it, right? Affiliates are happy because they're making money and they don't have to fulfill. As long as you have a good" — sources/S_ig_dankhanlegacy_DH6jbpAvQHV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'amazon shutdown' to name a move dankhanlegacy says is missing in this person's case, not a universal recommendation.
+- Read as evidence the term is central to the account: one 170-word clip showing 'amazon shutdown' next to 'Amazon' is too small a sample to anchor a wider claim about what dankhanlegacy writes about.

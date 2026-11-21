@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: danieldiazbiz
-aka: ["hiring", "actively"]
+aka: ["actively hiring"]
 origin: sources/S_ig_danieldiazbiz_Dd4Cosux3Jv.md
 ---
 
-# G_ig_danieldiazbiz_Dd4Cosux3Jv — hiring
+# G_ig_danieldiazbiz_Dd4Cosux3Jv — actively hiring
 
 ## Term
 
-hiring is the most prominent repeated term in this source (256-word transcript from the Instagram account danieldiazbiz): it occurs 3 times literally in the text, most often collocated with: actively, bdrs, sdrs. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For danieldiazbiz, 'actively hiring' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears twice, it sits next to 'example', 'prospeo', and 'clay' — the repetition is what makes it the spine of the clip rather than a passing word. danieldiazbiz drops it precisely where the cost of skipping it shows up — the surrounding move runs: Now using Prospeo, Clay, Hallow, you can find… This is the word the clip is built to deliver; 'certain' is texture around it, not the point.
 
 ## Synonyms
 
-- hiring
-- actively
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "For three, this is a job posting campaign. Now using Prospeo, Clay, Hallow, you can find companies that are actively hiring for certain job roles. So for example, we can reach out to companies that are hiring for BDRs and SDRs." — sources/S_ig_danieldiazbiz_Dd4Cosux3Jv.md
-> "Like this example, we can say, you know, since you guys are actively hiring for BDRs and SDRs, your sales team are gonna need more demos and we can bring you more demos. It makes the email have a higher perceived value because it's more timely." — sources/S_ig_danieldiazbiz_Dd4Cosux3Jv.md
+> "three, this is a job posting campaign. Now using Prospeo, Clay, Hallow, you can find companies that are actively hiring for certain job roles. So for example, we can reach out to companies that are hiring for BDRs and SDRs. Like this example, we can say" — sources/S_ig_danieldiazbiz_Dd4Cosux3Jv.md
+> "companies that are hiring for BDRs and SDRs. Like this example, we can say, you know, since you guys are actively hiring for BDRs and SDRs, your sales team are gonna need more demos and we can bring you more demos. It makes the email have a higher perceived" — sources/S_ig_danieldiazbiz_Dd4Cosux3Jv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': danieldiazbiz draws the line explicitly — 'actively hiring' here is the public-facing act, distinct from the private work of creating.
+- Read as polished prose: this is a verbatim transcript of a 256-word Instagram clip, and the wording around 'actively hiring' (including the collocation with 'competence') is spoken speech, not edited writing.

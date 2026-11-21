@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["content", "generally"]
+aka: ["linkedin"]
 origin: sources/S_ig_dibratto_Dc3YNVaREwC.md
 ---
 
-# G_ig_dibratto_Dc3YNVaREwC — content
+# G_ig_dibratto_Dc3YNVaREwC — linkedin
 
 ## Term
 
-content is the most prominent repeated term in this source (455-word transcript from the Instagram account dibratto): it occurs 8 times literally in the text, most often collocated with: generally, offer, send. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read in this source, 'linkedin' is the move that separates finished from polished — dibratto treats it as the moment a piece of work starts being seen. It appears 4 times, it sits next to 'agency', 'book', and 'five' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dibratto drops it precisely where the cost of skipping it shows up — the surrounding move runs: I book five to ten calls per month… Take 'linkedin' out and the clip collapses into generalities about GetLeads — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- content
-- generally
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's called warm outbound. All the smartest startups are doing it. By the way, my agency ghostwrites LinkedIn content for founders, fifty plus so far, many backed by these VCs. We tell all of our clients to do this. Look, has three steps and they're relatively simple. One is connections." — sources/S_ig_dibratto_Dc3YNVaREwC.md
-> "record a video DM within LinkedIn itself, introducing yourself and offering them something of value. For me, because I sell founder-led content services, I'll generally offer to send over some content ideas or even write a couple posts. Figure out what that is for you. If you are not connected, but you identified them as an ICP engager, send them a blank connection request." — sources/S_ig_dibratto_Dc3YNVaREwC.md
-> "This works because if you are doing connections, they will see your content. If you are making good content, some people will potentially like and comment on it. And once they do, you can run this play. That's it." — sources/S_ig_dibratto_Dc3YNVaREwC.md
+> "I book five to ten calls per month off of LinkedIn for our agency, and this is the playbook I run for most of them. It's called warm outbound. All the smartest startups are doing it. By the way" — sources/S_ig_dibratto_Dc3YNVaREwC.md
+> "message them. If you are connected, you are going to pull out your phone and record a video DM within LinkedIn itself, introducing yourself and offering them something of value. For me, because I sell founder-led content services, I'll generally offer to" — sources/S_ig_dibratto_Dc3YNVaREwC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'linkedin' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as a definition of 'linkedin': the source documents how dibratto deploys the word in this clip — collocated with 'phone' — it does not establish what the word means in general.

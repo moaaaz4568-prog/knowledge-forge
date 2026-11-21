@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["company", "AI"]
+aka: ["company"]
 origin: sources/S_ig_dibratto_Da8IWBfAKnx.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_dibratto_Da8IWBfAKnx.md
 
 ## Term
 
-company is the most prominent repeated term in this source (104-word transcript from the Instagram account dibratto): it occurs 4 times literally in the text, most often collocated with: ai, front, name. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dibratto's framing, 'company' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 4 times, it sits next to 'front', 'name', and 'francisco' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where dibratto names the thing a person cannot outsource — nearby: Name your company the thing company of San… Without 'company', the reel is just a clip about Remove; with it, the clip is a claim.
 
 ## Synonyms
 
-- company
-- AI
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Pick a legacy industry that sounds boring: plumbing, trucking, dental, it doesn't matter. Put AI for in front of it. Name your company the thing company of San Francisco as if you're the only one doing it. Use instrument serif font and nothing else. Remove all pricing from your pricing page and change it to book a demo." — sources/S_ig_dibratto_Da8IWBfAKnx.md
-> "Pay $150,000 out of your $20 million Series A for a 90 second launch video and fake engagement on X. Make oddly good company merch. You are now an AI company in the modern" — sources/S_ig_dibratto_Da8IWBfAKnx.md
+> "that sounds boring: plumbing, trucking, dental, it doesn't matter. Put AI for in front of it. Name your company the thing company of San Francisco as if you're the only one doing it. Use instrument serif font and nothing else. Remove all pricing from your" — sources/S_ig_dibratto_Da8IWBfAKnx.md
+> "a 90 second launch video and fake engagement on X. Make oddly good company merch. You are now an AI company in the modern age" — sources/S_ig_dibratto_Da8IWBfAKnx.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a one-size-fits-all tactic: the source uses 'company' to name a move dibratto says is missing in this person's case, not a universal recommendation.
+- Read as evidence the term is central to the account: one 104-word clip showing 'company' next to 'startup' is too small a sample to anchor a wider claim about what dibratto writes about.

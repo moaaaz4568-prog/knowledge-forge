@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["answer", "give"]
+aka: ["answer"]
 origin: sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
 
 ## Term
 
-answer is the most prominent repeated term in this source (160-word transcript from the Instagram account geoff_ketterer): it occurs 4 times literally in the text, most often collocated with: give, feel, tend. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'answer' is the felt pressure geoff_ketterer locates underneath the stated problem. It appears 4 times, it sits next to 'sales', 'neutral', and 'false' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where geoff_ketterer names the thing a person cannot outsource — nearby: And the answer is because you want your… Take 'answer' out and the clip collapses into generalities about comfortable — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- answer
-- give
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Words like possibly, maybe, perhaps. And the answer is because you want your client to open up to you. Let me explain. Sometimes the perception is that on a sales call you need to come across strong and bold, but think about it from your client's perspective." — sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
-> "You're phrasing those questions in such a way is that they feel like they're neutral. They don't feel pressured to give you a false answer, so they tend to give you a correct answer." — sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
-> "If you do that, what are the chances they're going to feel comfortable enough around you to actually answer your questions honestly? Almost zero. As opposed to using phrases like, is this possibly what you're looking for? Do you feel like this might be on the cards for you?" — sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
+> "day, why do we use neutral language in our sales calls? Words like possibly, maybe, perhaps. And the answer is because you want your client to open up to you. Let me explain. Sometimes the perception is that on a sales call you need to come across strong" — sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
+> "re neutral. They don't feel pressured to give you a false answer, so they tend to give you a correct answer. That's why you use neutral language on a sales call" — sources/S_ig_geoff_ketterer_CalOVjaK53Y.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any strong feeling: the source pins 'answer' to a specific kind of felt weight (the kind that surfaces around 'cards'), not to feeling in general.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'answer' next to 'cards') may not be load-bearing in geoff_ketterer's wider body of work.

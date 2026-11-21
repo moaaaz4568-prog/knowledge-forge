@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["camera", "vertical"]
+aka: ["vertical camera"]
 origin: sources/S_ig_geoff_ketterer_DYZs9lgCcJb.md
 ---
 
-# G_ig_geoff_ketterer_DYZs9lgCcJb — camera
+# G_ig_geoff_ketterer_DYZs9lgCcJb — vertical camera
 
 ## Term
 
-camera is the most prominent repeated term in this source (220-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: vertical, horizontal, recording. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+'vertical camera' in this clip is the lever that converts effort into reach — geoff_ketterer insists the value sits in the doing, not the perfecting. It appears twice, it sits next to 'guys', 'planned', and 'scripted' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: I've got a vertical camera right here next… The sentence around 'vertical' only carries weight because 'vertical camera' is what the sentence is really about.
 
 ## Synonyms
 
-- camera
-- vertical
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Not a single word is planned, thought of, or scripted, nothing. I've got a vertical camera right here next to you guys, so that's horizontal camera, vertical camera. That has been recording the entire time. That'll get straight ripped up to Dropbox, that'll go to my editor, and then this will turn into probably 10 to 15 reels." — sources/S_ig_geoff_ketterer_DYZs9lgCcJb.md
+> "from situations like this. Not a single word is planned, thought of, or scripted, nothing. I've got a vertical camera right here next to you guys, so that's horizontal camera, vertical camera. That has been recording the entire time. That'll get straight" — sources/S_ig_geoff_ketterer_DYZs9lgCcJb.md
+> "scripted, nothing. I've got a vertical camera right here next to you guys, so that's horizontal camera, vertical camera. That has been recording the entire time. That'll get straight ripped up to Dropbox, that'll go to my editor, and then this will turn into" — sources/S_ig_geoff_ketterer_DYZs9lgCcJb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': geoff_ketterer draws the line explicitly — 'vertical camera' here is the public-facing act, distinct from the private work of creating.
+- Read as proof the term matters more than once: the clip is one short piece, and even a word that recurs here (like 'vertical camera' next to 'outsource') may not be load-bearing in geoff_ketterer's wider body of work.

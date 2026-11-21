@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dibratto
-aka: ["cancel", "Help"]
+aka: ["dibratto"]
 origin: sources/S_ig_dibratto_DbViE8DRZDw.md
 ---
 
-# G_ig_dibratto_DbViE8DRZDw — cancel
+# G_ig_dibratto_DbViE8DRZDw — I'd like to cancel. Are you sure? Yeah, I'd like to cancel. …
 
 ## Term
 
-cancel is the most prominent repeated term in this source (72-word transcript from the Instagram account dibratto): it occurs 6 times literally in the text, most often collocated with: help, discount, makes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The dibratto clip is a song lyric of 72 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "I'd like to cancel. Are you sure? Yeah, I'd like to cancel. What makes you want to cancel? It's too expensive. Help me cancel. How about a discount? No. Help me cancel. Fifty percent off for the next…".
 
 ## Synonyms
 
-- cancel
-- Help
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "like to cancel. Are you sure? Yeah, I'd like to cancel. What makes you want to cancel? It's too expensive. Help me cancel. How about a discount? No. Help me cancel. Fifty percent off for the next six months? No, I want to cancel." — sources/S_ig_dibratto_DbViE8DRZDw.md
+> "I'd like to cancel. Are you sure? Yeah, I'd like to cancel. What makes you want to cancel? It's too expensive. Help me cancel. How about a discount? No" — sources/S_ig_dibratto_DbViE8DRZDw.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a hook worth indexing: the clip's phrasing (including 'cancel') is what carries the mood, not a label being defined.
+- Read as a caption worth treating as a domain entry: this 72-word source does not have the conceptual weight to support one, even when the wording (e.g. 'cancel') sounds like a slogan.

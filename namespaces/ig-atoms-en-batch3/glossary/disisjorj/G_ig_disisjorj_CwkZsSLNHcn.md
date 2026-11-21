@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["scripts", "ideas"]
+aka: ["valuable information"]
 origin: sources/S_ig_disisjorj_CwkZsSLNHcn.md
 ---
 
-# G_ig_disisjorj_CwkZsSLNHcn — scripts
+# G_ig_disisjorj_CwkZsSLNHcn — valuable information
 
 ## Term
 
-scripts is the most prominent repeated term in this source (89-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: ideas, write, better. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For disisjorj, 'valuable information' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears once in the transcript, and it sits next to 'scripts', 'medium', and 'tons' — a single occurrence that nonetheless anchors the clip's argument. disisjorj drops it precisely where the cost of skipping it shows up — the surrounding move runs: Tons of valuable information in the form of… Without 'valuable information', the reel is just a clip about better; with it, the clip is a claim.
 
 ## Synonyms
 
-- scripts
-- ideas
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "two apps I use every single day to come up with ideas and write better scripts for my videos. Number one is Medium.com. Tons of valuable information in the form of articles that you can not only learn from but utilize as your content ideas." — sources/S_ig_disisjorj_CwkZsSLNHcn.md
-> "Hemingway Editor helps me do just that. Pro tip: try to keep your scripts below fourth grade level. Follow for more insights like" — sources/S_ig_disisjorj_CwkZsSLNHcn.md
+> "day to come up with ideas and write better scripts for my videos. Number one is Medium.com. Tons of valuable information in the form of articles that you can not only learn from but utilize as your content ideas. Making sure that what you say can be understood" — sources/S_ig_disisjorj_CwkZsSLNHcn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic productivity word: in this source 'valuable information' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
+- Read as polished prose: this is a verbatim transcript of a 89-word Instagram clip, and the wording around 'valuable information' (including the collocation with 'level') is spoken speech, not edited writing.

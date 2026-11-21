@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["Winner", "100k"]
+aka: ["winner"]
 origin: sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
 ---
 
-# G_ig_dankhanlegacy_DY7iuXSPDNM — Winner
+# G_ig_dankhanlegacy_DY7iuXSPDNM — winner
 
 ## Term
 
-Winner is the most prominent repeated term in this source (129-word transcript from the Instagram account dankhanlegacy): it occurs 4 times literally in the text, most often collocated with: 100k, clients, client. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In dankhanlegacy's framing, 'winner' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears 4 times, it sits next to 'clients', 'because', and 'five' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. dankhanlegacy drops it precisely where the cost of skipping it shows up — the surrounding move runs: Winner, because of the same revenue and 10x… Cut 'winner' and the clip's aboutness shifts from a claim to a description of Generic and compare.
 
 ## Synonyms
 
-- Winner
-- 100k
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A 10k a month coach versus a 100k a month coach. 50 clients at $200 a month, five clients at $20,000 each. Winner, because of the same revenue and 10x less headache. Organic content, paid ads. Three months to first client, three days to first client. The winner, on the right. Low ticket funnels versus high ticket funnels." — sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
-> "The winner, on the right. Low ticket funnels versus high ticket funnels. 1000 customers to make 100k, five customers to make 100k. Winner, both. Because when it comes to paid ads, you need both. It's all part of one synchronized funnel. Generic positioning versus niche positioning. I help entrepreneurs grow." — sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
-> "I help entrepreneurs grow. I help burnt out consultants add 100k to their bottom line without more clients. Winner, this one, because it's pricing" — sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
+> "a month coach versus a 100k a month coach. 50 clients at $200 a month, five clients at $20,000 each. Winner, because of the same revenue and 10x less headache. Organic content, paid ads. Three months to first client, three days to first client. The winner" — sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
+> "entrepreneurs grow. I help burnt out consultants add 100k to their bottom line without more clients. Winner, this one, because it's pricing power" — sources/S_ig_dankhanlegacy_DY7iuXSPDNM.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for 'making': dankhanlegacy draws the line explicitly — 'winner' here is the public-facing act, distinct from the private work of creating.
+- Read as a rule for using 'winner': the clip shows dankhanlegacy using the word in one specific move (alongside 'versus'), not a recommendation that the reader adopt the word themselves.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gobirdmasterclass
-aka: ["product", "add"]
+aka: ["cinematic studio"]
 origin: sources/S_ig_gobirdmasterclass_DZ71DH9od7t.md
 ---
 
-# G_ig_gobirdmasterclass_DZ71DH9od7t — product
+# G_ig_gobirdmasterclass_DZ71DH9od7t — cinematic studio
 
 ## Term
 
-product is the most prominent repeated term in this source (32-word transcript from the Instagram account gobirdmasterclass): it occurs 3 times literally in the text, most often collocated with: add, premium, shots. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'cinematic studio' is the operating lever gobirdmasterclass says determines whether the work scales or just gets repeated. It appears once in the transcript, and it sits next to 'gemini', 'upload', and 'keywords' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: Use Gemini, upload your product, then add these… The clip's claim about 'premium' is conditional on 'cinematic studio' doing the work — without it, the claim is just mood.
 
 ## Synonyms
 
-- product
-- add
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "premium product shots? Use Gemini, upload your product, then add these keywords: cinematic studio lighting, glossy product reflections, luxury soft glow, clean output, and luxury mood. That's it." — sources/S_ig_gobirdmasterclass_DZ71DH9od7t.md
+> "Want premium product shots? Use Gemini, upload your product, then add these keywords: cinematic studio lighting, glossy product reflections, luxury soft glow, clean output, and luxury mood. That's it. Follow and save" — sources/S_ig_gobirdmasterclass_DZ71DH9od7t.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'cinematic studio' here is the multiplier on effort, not the effort itself.
+- Read as a clean transcript: the wording around 'cinematic studio' (including the run-on near 'reflections') is spoken speech, with the run-ons and fillers that come with that — not edited prose.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["team", "clients"]
+aka: ["team"]
 origin: sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
 
 ## Term
 
-team is the most prominent repeated term in this source (229-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: clients, equals, members. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For gregoryjhickman, 'team' is the moment in the sale gregoryjhickman says a person cannot skip and still expect the deal to close. It appears 5 times, it sits next to 'members', 'clients', and 'equals' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment gregoryjhickman turns from describing to prescribing — the pivot runs: I realized some of these problems because I… Even the move around 'leader' only registers as a move because 'team' is the thing being moved toward.
 
 ## Synonyms
 
-- team
-- clients
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But most founders actually think that that's the only way to grow and is just to build your team. But more clients often equals more team members, aka more overhead, and puts you more quickly into the I have to be able to manage a bunch of people." — sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
-> "game, trying to continue to master the craft and become a leader all the same time is very difficult. And I find that you can have a lean team, work on the leadership, and make more money while working less by expanding through monetizing your intellectual property versus just hiring more people. So more clients equals more team members and more overhead." — sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
+> "But most founders actually think that that's the only way to grow and is just to build your team. But more clients often equals more team members, aka more overhead, and puts you more quickly into the I have to be able to manage a bunch of people" — sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
+> "just hiring more people. So more clients equals more team members and more overhead. So if you have a team and you don't want to be micromanaging them and setting the vision of what's next for them, we want to make sure we're avoiding that" — sources/S_ig_gregoryjhickman_C6guUWWoGFG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic sales word: in gregoryjhickman's reel, 'team' is the specific move gregoryjhickman says a person must make before the prospect will commit.
+- Read as proof the term is load-bearing for gregoryjhickman in general: a 229-word clip with the word 'team' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

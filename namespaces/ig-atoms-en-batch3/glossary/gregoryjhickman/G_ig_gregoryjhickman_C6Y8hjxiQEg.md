@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["hire", "buy"]
+aka: ["hire"]
 origin: sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
 
 ## Term
 
-hire is the most prominent repeated term in this source (214-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: buy, back, revenue. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Read here, 'hire' is the structural move gregoryjhickman says is doing the heavy lifting — the choice the rest of the design is built around. It appears 5 times, it sits next to 'manage', 'clients', and 'always' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. gregoryjhickman drops it precisely where the cost of skipping it shows up — the surrounding move runs: We always hire to buy back our time… Read alongside 'called', the word 'hire' is what the clip is asking the viewer to take seriously.
 
 ## Synonyms
 
-- hire
-- buy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Martel wrote a great book on this called Buy Back Your Time. We always hire to buy back our time first and then hire for capacity." — sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
-> "have to do with client support or just the day-to-day running the business, it's gonna be way easier for you to delegate that than to go hire someone to replace you that is equally as good of a designer as you." — sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
-> "So yes, revenue might go up, but if you hire some people to take on, like if you manage 10 clients and you hire someone else to manage 10 clients, yes, revenue will go up, but you're still going to be overworked and miserable. So we need to buy back our time first, clean that part up, and then bring on people to expand capacity." — sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
+> "Dan Martel wrote a great book on this called Buy Back Your Time. We always hire to buy back our time first and then hire for capacity. So if you're spending most of your time on a lot of admin work, back and forth things that" — sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
+> "revenue might go up, but if you hire some people to take on, like if you manage 10 clients and you hire someone else to manage 10 clients, yes, revenue will go up, but you're still going to be overworked and miserable. So we need to buy back our time" — sources/S_ig_gregoryjhickman_C6Y8hjxiQEg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a generic design word: in gregoryjhickman's clip, 'hire' names one specific visual or structural choice, not the whole craft of design.
+- Read as polished prose: this is a verbatim transcript of a 214-word Instagram clip, and the wording around 'hire' (including the collocation with 'always') is spoken speech, not edited writing.

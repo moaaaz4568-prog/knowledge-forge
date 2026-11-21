@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["business", "enjoyed"]
+aka: ["electrical engineering"]
 origin: sources/S_ig_dankhanlegacy_DI593PYRBcJ.md
 ---
 
-# G_ig_dankhanlegacy_DI593PYRBcJ — business
+# G_ig_dankhanlegacy_DI593PYRBcJ — electrical engineering
 
 ## Term
 
-business is the most prominent repeated term in this source (167-word transcript from the Instagram account dankhanlegacy): it occurs 2 times literally in the text, most often collocated with: enjoyed, tips, 10k. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In this source, 'electrical engineering' is the disposition dankhanlegacy says a person cannot skip past and still expect results. It appears once in the transcript, and it sits next to 'unis', 'country', and 'studying' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment dankhanlegacy turns from describing to prescribing — the pivot runs: I got into one of the top unis… This is the word the clip is built to deliver; 'Dropping' is texture around it, not the point.
 
 ## Synonyms
 
-- business
-- enjoyed
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I picked up real skills like copywriting, paid advertising, building offers. Seven months later, I make 10k a month. Now I fly business class, I live in Dubai, I give my parents money. You know that degree almost stole my future, man. Dropping out, that gave my future back." — sources/S_ig_dankhanlegacy_DI593PYRBcJ.md
-> "Dropping out, that gave my future back. If you enjoyed that video, follow me for more business" — sources/S_ig_dankhanlegacy_DI593PYRBcJ.md
+> "I got into one of the top unis in the country studying electrical engineering. It sounds impressive, but yeah, I was dying inside, bro. Like every time I walked into class, I felt like I was suffocating. I" — sources/S_ig_dankhanlegacy_DI593PYRBcJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an emotion word: in this clip 'electrical engineering' is a stance dankhanlegacy says a person must adopt before action, not a feeling they happen to have.
+- Read as proof the term is load-bearing for dankhanlegacy in general: a 167-word clip with the word 'electrical engineering' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.

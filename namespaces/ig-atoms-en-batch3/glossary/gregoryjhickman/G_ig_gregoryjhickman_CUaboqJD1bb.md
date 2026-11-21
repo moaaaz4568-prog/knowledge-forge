@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["deliverable", "buying"]
+aka: ["deliverable", "deliverables"]
 origin: sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
 
 ## Term
 
-deliverable is the most prominent repeated term in this source (111-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: buying, backed, into. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the gregoryjhickman reel, 'deliverable' is the concept gregoryjhickman keeps returning to as the thing that decides whether the rest of the advice lands. It appears 5 times, it sits next to 'buying', 'selling', and 'hours' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Commonly, we'll see people sell blocks of time… Take 'deliverable' out and the clip collapses into generalities about deliver — that is what makes it the term here, not just a word.
 
 ## Synonyms
 
-- deliverable
-- buying
+- deliverables
 
 ## Live Example
 
-> "we'll see people sell blocks of time thinking that that's a deliverable, but that's still really an input. When I think of deliverables, I think of there is a specific thing that is being handed over as a part of the deliverable that they are buying, right? And that you're selling." — sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
-> "And it's priced basically and sold basically on you selling them on the deliverable and them buying the deliverable. It's not, hey, how many hours does it take you to get to that deliverable?" — sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
+> "Commonly, we'll see people sell blocks of time thinking that that's a deliverable, but that's still really an input. When I think of deliverables, I think of there is a specific thing that is being handed over as a part of" — sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
+> "deliverable and them buying the deliverable. It's not, hey, how many hours does it take you to get to that deliverable? Maybe you backed into that somehow, shape or form, but" — sources/S_ig_gregoryjhickman_CUaboqJD1bb.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the clip uses 'deliverable' as a working label for an idea gregoryjhickman is arguing, not as a tagline to be repeated.
+- Read as a recommendation to use 'deliverable' yourself: the clip shows gregoryjhickman using the word in one specific move (visible in the collocation with 'priced'); it does not argue the reader should adopt it.

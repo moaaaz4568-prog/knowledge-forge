@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: ["sales", "found"]
+aka: ["pink elephant"]
 origin: sources/S_ig_geoff_ketterer_CcKdg6TKWuQ.md
 ---
 
-# G_ig_geoff_ketterer_CcKdg6TKWuQ — sales
+# G_ig_geoff_ketterer_CcKdg6TKWuQ — pink elephant
 
 ## Term
 
-sales is the most prominent repeated term in this source (125-word transcript from the Instagram account geoff_ketterer): it occurs 3 times literally in the text, most often collocated with: found, whole, give. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In geoff_ketterer's reel, 'pink elephant' is the move geoff_ketterer says the person must make before the prospect will commit. It appears twice, it sits next to 'brain', 'words', and 'powerful' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment geoff_ketterer turns from describing to prescribing — the pivot runs: If I say pink elephant, you do not… The sentence around 'hundreds' only carries weight because 'pink elephant' is what the sentence is really about.
 
 ## Synonyms
 
-- sales
-- found
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "going to give you the most powerful sales technique I've ever found in the whole history of my sales career that has literally been responsible for hundreds of millions of dollars. I'm also going to give you some examples towards the end of the video. And the technique is this." — sources/S_ig_geoff_ketterer_CcKdg6TKWuQ.md
-> "And the technique is this. It's using analogies during your sales calls. And here's why it's so powerful. The human brain thinks in pictures. If I say pink elephant, you do not think about the words. What you see is an image of a pink elephant." — sources/S_ig_geoff_ketterer_CcKdg6TKWuQ.md
+> "during your sales calls. And here's why it's so powerful. The human brain thinks in pictures. If I say pink elephant, you do not think about the words. What you see is an image of a pink elephant. So if the brain understands everything we're saying in images" — sources/S_ig_geoff_ketterer_CcKdg6TKWuQ.md
+> "in pictures. If I say pink elephant, you do not think about the words. What you see is an image of a pink elephant. So if the brain understands everything we're saying in images, it makes sense to put what you're trying to sell and the things you're trying" — sources/S_ig_geoff_ketterer_CcKdg6TKWuQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for any closing tactic: the source uses 'pink elephant' to mark a specific conversational lever, not the whole category of closing moves.
+- Read as a rule for using 'pink elephant': the clip shows geoff_ketterer using the word in one specific move (alongside 'explain'), not a recommendation that the reader adopt the word themselves.

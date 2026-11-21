@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: dankhanlegacy
-aka: ["money", "nature"]
+aka: ["seven figures"]
 origin: sources/S_ig_dankhanlegacy_DNGGOuNsYI_.md
 ---
 
-# G_ig_dankhanlegacy_DNGGOuNsYI_ — money
+# G_ig_dankhanlegacy_DNGGOuNsYI_ — seven figures
 
 ## Term
 
-money is the most prominent repeated term in this source (72-word transcript from the Instagram account dankhanlegacy): it occurs 3 times literally in the text, most often collocated with: nature, culture, trees. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Here, 'seven figures' names the specific advantage dankhanlegacy argues is missing in the person's current setup — the lever they have not yet pulled. It appears once in the transcript, and it sits next to 'fine', 'yourself', and 'chance' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where dankhanlegacy names the thing a person cannot outsource — nearby: If it's not, fine, at least you made… The clip's relationship to 'culture' only makes sense as a vehicle for delivering 'seven figures'.
 
 ## Synonyms
 
-- money
-- nature
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "always say Dubai has no culture, there's no nature. Bro, the culture is making money, and the nature? Money trees. Stop being so gay about it. Just come here, make money, then decide if it's for you or not. If it's not, fine, at least you made six seven figures. But at least give yourself a chance to win first." — sources/S_ig_dankhanlegacy_DNGGOuNsYI_.md
+> "come here, make money, then decide if it's for you or not. If it's not, fine, at least you made six seven figures. But at least give yourself a chance to win first. If you enjoyed that video, follow me for more business tips" — sources/S_ig_dankhanlegacy_DNGGOuNsYI_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for effort: 'seven figures' here is the multiplier on effort, not the effort itself.
+- Read as a definition of 'seven figures': the source documents how dankhanlegacy deploys the word in this clip — collocated with 'Dubai' — it does not establish what the word means in general.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: disisjorj
-aka: ["adapting", "comes"]
+aka: ["advantageous point"]
 origin: sources/S_ig_disisjorj_Ct8-vrcNtsH.md
 ---
 
-# G_ig_disisjorj_Ct8-vrcNtsH — adapting
+# G_ig_disisjorj_Ct8-vrcNtsH — advantageous point
 
 ## Term
 
-adapting is the most prominent repeated term in this source (88-word transcript from the Instagram account disisjorj): it occurs 2 times literally in the text, most often collocated with: comes, life, business. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In the disisjorj clip, 'advantageous point' is the lever disisjorj says separates people who make progress from people who stay put. It appears once in the transcript, and it sits next to 'better', 'embracing', and 'benefit' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where disisjorj names the thing a person cannot outsource — nearby: Adapting is the power to understand what's happening… Even the move around 'embracing' only registers as a move because 'advantageous point' is the thing being moved toward.
 
 ## Synonyms
 
-- adapting
-- comes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "jujitsu concept has helped me tremendously when it comes to life and business. The importance of adapting. Things are gonna happen to you whether you like it or not. You're gonna be faced with situations that you didn't expect, or even worse, didn't even think were possible." — sources/S_ig_disisjorj_Ct8-vrcNtsH.md
+> "power to understand what's happening and find a way out, or even better, embracing it and making it an advantageous point that you can use to your own benefit. Hope this finds you well. Follow for more" — sources/S_ig_disisjorj_Ct8-vrcNtsH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a buzzword: in this clip 'advantageous point' is loaded by disisjorj with a specific working meaning (visible in the collocation with 'comes'), not the dictionary sense.
+- Read as a rule for using 'advantageous point': the clip shows disisjorj using the word in one specific move (alongside 'comes'), not a recommendation that the reader adopt the word themselves.
