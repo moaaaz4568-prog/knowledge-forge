@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch3)
 
-YouTube English video transcripts batch 3 glossaries (sub-batches 1–3 of 20, 150 files of 1,000): one G_ entry per T_ atom file — 150 files, zero exclusions, misc-dl collection. Sub-batch 1 codes Ieb3Gp0j3Ls–J42QA_Nptxc; sub-batch 2 codes J4JF9uIopjw–JRFMrCrSFP4; sub-batch 3 codes JRKYtC7--iU–JtmkKi_9BMs. 150 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,150 entities, 0 rejected).
+YouTube English video transcripts batch 3 glossaries (sub-batches 1–4 of 20, 200 files of 1,000): one G_ entry per T_ atom file — 200 files, zero exclusions, misc-dl collection. Sub-batch 1 codes Ieb3Gp0j3Ls–J42QA_Nptxc; sub-batch 2 codes J4JF9uIopjw–JRFMrCrSFP4; sub-batch 3 codes JRKYtC7--iU–JtmkKi_9BMs; sub-batch 4 codes JtolbefPUtg–KJB3HVvImZI. 200 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,200 entities, 0 rejected).
 | glossary/misc-dl/G_yt_Ieb3Gp0j3Ls_en.md | white collar | 1 |
 | glossary/misc-dl/G_yt_Ife81EN4pEQ_en.md | grand | 1 |
 | glossary/misc-dl/G_yt_IfjNqBWaw94_en.md | cold email | 1 |
@@ -151,3 +151,53 @@ YouTube English video transcripts batch 3 glossaries (sub-batches 1–3 of 20, 1
 | glossary/misc-dl/G_yt_Js3DDW4PJA8_en.md | brand | 1 |
 | glossary/misc-dl/G_yt_JtIWMqWgOv8_en.md | sales | 1 |
 | glossary/misc-dl/G_yt_JtmkKi_9BMs_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_JtolbefPUtg_en.md | money | 1 |
+| glossary/misc-dl/G_yt_JtzcDeqA7Pk_en.md | business | 1 |
+| glossary/misc-dl/G_yt_JuGjdd0-u2g_en.md | content | 1 |
+| glossary/misc-dl/G_yt_Jv9HqRXLEG4_en.md | brand | 1 |
+| glossary/misc-dl/G_yt_Jvt3FxRKDzU_en.md | playbook | 1 |
+| glossary/misc-dl/G_yt_Jx9-pOPCv1Y_en.md | job | 1 |
+| glossary/misc-dl/G_yt_JxK33bCi070_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_JxjWZT8On0k_en.md | business | 1 |
+| glossary/misc-dl/G_yt_Jz1uF7ive1Y_en.md | funnel | 1 |
+| glossary/misc-dl/G_yt_JzUtuPof7f0_en.md | system | 1 |
+| glossary/misc-dl/G_yt_K-RovRqwbCc_en.md | vssl | 1 |
+| glossary/misc-dl/G_yt_K-XClfRQWek_en.md | saturated | 1 |
+| glossary/misc-dl/G_yt_K0GSOTkIqrE_en.md | ai | 1 |
+| glossary/misc-dl/G_yt_K0dI82q-mqE_en.md | clients | 1 |
+| glossary/misc-dl/G_yt_K0f5Bfcwt50_en.md | venture capital | 1 |
+| glossary/misc-dl/G_yt_K0vZzk734sQ_en.md | poster | 1 |
+| glossary/misc-dl/G_yt_K1fPPILM3p0_en.md | content | 1 |
+| glossary/misc-dl/G_yt_K21YcfRGRz0_en.md | clean | 1 |
+| glossary/misc-dl/G_yt_K2bWXD4sI7s_en.md | poster | 1 |
+| glossary/misc-dl/G_yt_K2j_lN6PdjU_en.md | content | 1 |
+| glossary/misc-dl/G_yt_K3-DA6I4D1M_en.md | text | 1 |
+| glossary/misc-dl/G_yt_K3lewT2Yllc_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_K5TDxk90tgY_en.md | problem | 1 |
+| glossary/misc-dl/G_yt_K5mHJqRSe4E_en.md | clients | 1 |
+| glossary/misc-dl/G_yt_K5wo_RaSIyQ_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_K6gc84a2awY_en.md | money | 1 |
+| glossary/misc-dl/G_yt_K7yun8nww8E_en.md | truth | 1 |
+| glossary/misc-dl/G_yt_K8UgjzJTdHw_en.md | business | 1 |
+| glossary/misc-dl/G_yt_K9Mj9OztoiY_en.md | business | 1 |
+| glossary/misc-dl/G_yt_K9rwBMabEvk_en.md | game | 1 |
+| glossary/misc-dl/G_yt_KAV8FRGROYM_en.md | typeface | 1 |
+| glossary/misc-dl/G_yt_KBFAUTcnPYQ_en.md | close rate | 1 |
+| glossary/misc-dl/G_yt_KCFVYFiHfuI_en.md | selling | 1 |
+| glossary/misc-dl/G_yt_KCNfPa7mINU_en.md | competition | 1 |
+| glossary/misc-dl/G_yt_KCPR3S6Drhk_en.md | assessment | 1 |
+| glossary/misc-dl/G_yt_KCPlS6y7aRk_en.md | niche | 1 |
+| glossary/misc-dl/G_yt_KCgElROFRIg_en.md | team | 1 |
+| glossary/misc-dl/G_yt_KE4zqD0ONDI_en.md | thumbnail | 1 |
+| glossary/misc-dl/G_yt_KENAR1bLrF8_en.md | problem | 1 |
+| glossary/misc-dl/G_yt_KEUmmTkdX2M_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_KEs1gAX1ZYU_en.md | copywriter | 1 |
+| glossary/misc-dl/G_yt_KGGqRPHNldA_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_KHECWa-a0zs_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_KHWDrAXPuik_en.md | brand | 1 |
+| glossary/misc-dl/G_yt_KI4Jrdc69Pw_en.md | social selling | 1 |
+| glossary/misc-dl/G_yt_KIWLJ4pns78_en.md | perspective | 1 |
+| glossary/misc-dl/G_yt_KIezk1wn4hs_en.md | Dora | 1 |
+| glossary/misc-dl/G_yt_KIsvugrdCRA_en.md | account management | 1 |
+| glossary/misc-dl/G_yt_KJ8n-xGuvVE_en.md | organic | 1 |
+| glossary/misc-dl/G_yt_KJB3HVvImZI_en.md | marketing | 1 |
