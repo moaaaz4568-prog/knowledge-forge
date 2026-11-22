@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [real estate, optimizedjake account context]
+aka: [method to the madness]
 origin: sources/S_ig_optimizedjake_DK67FQdNl65.md
 ---
 
-# G_ig_optimizedjake_DK67FQdNl65 — real estate
+# G_ig_optimizedjake_DK67FQdNl65 — method to the madness
 
 ## Term
 
-"real estate" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: estate, real, space, experience. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The method to the madness is what optimizedjake says appears when there is a story and a reason behind the marketing. The phrase appears once in the source, beside "real estate", "clout", "depth of brand" and "VSL". His partner had a lot of experience in real estate, got into marketing for himself, became successful in real estate, and took that to other agents — so the seller is not just a basement marketer who decided to sell marketing to real estate agents, but someone who used to be a real estate agent, with clout and news articles as another piece of the formula. His concrete follow-through is a VSL after somebody books an appointment, breaking down how they got started and why they are so successful, with client success stories, to solidify the brand, charge more and sign up more customers.
 
 ## Synonyms
 
-- real estate
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We were in the real estate space, and my partner, I had a lot of experience in real estate, so we were able to leverage his, you know, his experience because you know he got into marketing for himself, and that's how he became successful in real estate. Took that and obviously did that for other agents. So when there's a story, when there's a reason, there's a method to the madness." — sources/S_ig_optimizedjake_DK67FQdNl65.md
-> "You're not just a basement marketer that decided to sell marketing to real estate agents. That you used to be a real estate agent. Now you're able to help all these people and you have all of this clout, all these news articles too. That's another piece of the formula." — sources/S_ig_optimizedjake_DK67FQdNl65.md
+> "So when there's a story, when there's a reason, there's a method to the madness." — sources/S_ig_optimizedjake_DK67FQdNl65.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "real estate": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as story replacing results: the story sits next to client success stories and results in the VSL, not instead of them.
+- Read as any backstory working: the story has to be real experience in the industry — he used to be a real estate agent.

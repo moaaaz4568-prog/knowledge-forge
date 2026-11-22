@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [gonna, optimizedjake account context]
+aka: [accountability Zoom call]
 origin: sources/S_ig_optimizedjake_DLhjFMROVVd.md
 ---
 
-# G_ig_optimizedjake_DLhjFMROVVd — gonna
+# G_ig_optimizedjake_DLhjFMROVVd — accountability Zoom call
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: reciprocate, find, people, individuals. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An accountability Zoom call is the morning routine optimizedjake had with his brother Julian when starting out. The phrase appears once in the source, beside "networking", "top of mind", "duds" and "Julian". Building relationships and networking comes down to how much time is put into a specific relationship: get on a call, ask what they do, give them value, spitting game a little, and they reciprocate, so you stay top of mind. His concrete examples are referring a competitor when somebody needs a developer, and the people who become partners later — while the duds are simply let be, because finding good people and finding duds is just what it is.
 
 ## Synonyms
 
-- gonna
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So this is an interesting topic, and it is building relationships inside the business space and actually networking with individuals. So, thankfully for me, I've never had issues building relationships and networking with individuals. It's really gonna be and come down to how much time you put into a specific relationship. If you're getting on a call, you know, hey bro, what do you do?" — sources/S_ig_optimizedjake_DLhjFMROVVd.md
-> "Giving them value, spitting game a little bit. They're gonna reciprocate that. You're gonna be top of mind. I've had people that are competitors I've gotten calls with. I see something that, you know, somebody's saying, hey, I'm looking for somebody with a developer. I shoot that guy over. I refer that person in my network." — sources/S_ig_optimizedjake_DLhjFMROVVd.md
-> "And you're gonna find good people and you're gonna find duds, and that's what it is. The duds, you just unfortunately let it be. And it's really at the end of the day, having these relationships, networking, it's all about how much value can I give somebody." — sources/S_ig_optimizedjake_DLhjFMROVVd.md
+> "We actually had an accountability Zoom call every morning when I was starting, and still, you know, good friends with him." — sources/S_ig_optimizedjake_DLhjFMROVVd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as networking meaning selling: giving value and referrals come first, with no selling in the call.
+- Read as every contact becoming a partner: there are duds too, and those are just let be.

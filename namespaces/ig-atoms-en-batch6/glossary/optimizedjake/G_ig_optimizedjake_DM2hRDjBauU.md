@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [front end, optimizedjake account context]
+aka: [milking your pipeline]
 origin: sources/S_ig_optimizedjake_DM2hRDjBauU.md
 ---
 
-# G_ig_optimizedjake_DM2hRDjBauU — front end
+# G_ig_optimizedjake_DM2hRDjBauU — milking your pipeline
 
 ## Term
 
-"front end" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: obsess, like, end, front. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Milking your pipeline is the phrase optimizedjake uses for salespeople doing everything they can to convert as many leads into deals as possible. The phrase appears once in the source, beside "front end", "KPIs", "data driven decisions" and "show rates". The takeaway is to stick with something, and not to worry so much about the back end but to really obsess over the front end numbers, because that makes or breaks the business: a bad back end can break things, but cash flow fixes it, while an unprofitable front end kills. His concrete test is data over opinion: the sales manager said lead quality was bad, but show rates were exactly the same as the last six months, so the issue is not the leads — obsess over the numbers and make data driven decisions.
 
 ## Synonyms
 
-- front end
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Give us another takeaway. What's another so stick with something, stick with it, stick with it. Yeah, yeah, that's a great takeaway. What else? Absolutely. Specifically for my perspective, it's been, folks, don't worry so much about your back end and like really obsess over your front end numbers because it'll make or break your business." — sources/S_ig_optimizedjake_DM2hRDjBauU.md
 > "If you don't have a front end that's profitable, you know your marketing campaigns aren't profitable or if your salespeople aren't performing, they're not, we like to call it milking your pipeline, but they're not doing everything that they can be doing to convert as many leads into deals as possible." — sources/S_ig_optimizedjake_DM2hRDjBauU.md
-> "I guess you could broaden that out, like obviously worry about your front end, but like obsess over the KPIs, obsess over the numbers. You know, I talked to the sales manager, they said that the lead quality is bad. Well, your show rates are the exact same that they've been for the last six months. That's just, you know, an opinion, that's not actual fact." — sources/S_ig_optimizedjake_DM2hRDjBauU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "front end": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as ignoring the back end: a bad back end can break things, but the cash flow from the front end is what fixes it.
+- Read as lead quality being the issue: show rates unchanged for six months proves it is opinion, not fact.

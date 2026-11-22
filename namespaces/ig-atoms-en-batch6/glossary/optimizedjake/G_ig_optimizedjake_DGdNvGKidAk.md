@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [little bit, optimizedjake account context]
+aka: [unique pricing]
 origin: sources/S_ig_optimizedjake_DGdNvGKidAk.md
 ---
 
-# G_ig_optimizedjake_DGdNvGKidAk — little bit
+# G_ig_optimizedjake_DGdNvGKidAk — unique pricing
 
 ## Term
 
-"little bit" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: different, bit, little, edge. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Unique pricing is the first half of optimizedjake's rule for standing out in an industry, paired with a unique angle. The phrase appears once in the source, beside "unique angle", "different", "too different" and "voice AI". The rule comes from a book he read when starting out, the principles of marketing: to be successful in a market you need to be different, but you cannot be too different, or the thing becomes alien and people are not even willing to try it. His concrete example is voice AI, which is definitely more adoptable to businesses now, though when it first started people did not know about it — and for lead generation, the small difference could be specializing in YouTube ads.
 
 ## Synonyms
 
-- little bit
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So at the end of the day, it's have an offer, have a product that stands out, that's a little bit different, has a little bit of an edge, a little bit of a difference. If you're doing lead generation, maybe specialize in YouTube ads or something like that. Like have something that makes you a little bit different. Again, for us, it's voice AI." — sources/S_ig_optimizedjake_DGdNvGKidAk.md
+> "Having unique pricing and a unique angle for your industry." — sources/S_ig_optimizedjake_DGdNvGKidAk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "little bit": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as being as different as possible: the book's rule is different but not too different, and an alien offer is the failure case, not the goal.
+- Read as voice AI being the only valid edge: voice AI is their example, and the rule also covers any small difference, like specializing in YouTube ads for lead generation.

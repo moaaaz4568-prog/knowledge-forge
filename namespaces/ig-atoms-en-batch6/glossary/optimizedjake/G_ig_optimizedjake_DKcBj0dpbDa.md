@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [really, optimizedjake account context]
+aka: [review sites]
 origin: sources/S_ig_optimizedjake_DKcBj0dpbDa.md
 ---
 
-# G_ig_optimizedjake_DKcBj0dpbDa — really
+# G_ig_optimizedjake_DKcBj0dpbDa — review sites
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, kind, website, number. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Review sites are one of the biggest things optimizedjake names for branding and marketing, under branding, storytelling and depth. The phrase appears twice in the source, beside "branding", "storytelling", "Endorsel" and "five star reviews". Branding with depth is one of the biggest reasons his first marketing company had so much success, and it is part of the blueprint now — not just throwing up a business page with a bunch of bullshit services. His concrete rule is to pick the sites: do not put yourself on the BBB or Yelp, where a fake review cannot be controlled — people got pitched wrong and went to leave bad reviews — but use specific review sites, embedded social and Endorsel, so five star reviews from customers sit on the website and rank.
 
 ## Synonyms
 
-- really
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One of the biggest things that I think is important for any company, and it's really one of the biggest reasons why we had so much success with our first marketing company, it's obviously part of our blueprint now, is branding, storytelling, having depth to a company, not so much just throwing up a business page with a bunch of bullshit services." — sources/S_ig_optimizedjake_DKcBj0dpbDa.md
-> "You need to have all of these different things that really kind of go into and fall under the marketing umbrella for somebody to really kind of, you know, not only buy into your brand because that's at the end of the day what they're doing, but also trust you and end up, you know, picking you over a specific competitor." — sources/S_ig_optimizedjake_DKcBj0dpbDa.md
-> "We've had people get pitched, not like our pitch, and go leave bad reviews when we've had stuff up like that. So there's specific review sites, there's embedded social, there's Endorsel, there's a lot of few ones that'll rank, and being able to have those five star reviews from customers on your website. Number one, really, really good." — sources/S_ig_optimizedjake_DKcBj0dpbDa.md
+> "So some of the biggest things that I think are very important for branding and for marketing is review sites." — sources/S_ig_optimizedjake_DKcBj0dpbDa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as all review sites being equal: the BBB and Yelp are explicitly excluded, because a fake review there cannot be controlled.
+- Read as reviews replacing the brand: reviews sit under branding, storytelling and depth, and people buy into the brand.

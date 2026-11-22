@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [content, optimizedjake account context]
+aka: [surface level]
 origin: sources/S_ig_optimizedjake_DGao42PIwpP.md
 ---
 
-# G_ig_optimizedjake_DGao42PIwpP — content
+# G_ig_optimizedjake_DGao42PIwpP — surface level
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: biggest, mover, depending, much. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Surface level is the depth optimizedjake says content must go beyond, and getting past it is the payoff of actually making content. The phrase appears twice in the source, beside "biggest mover", "block in your calendar", "shoot the content" and "meaningful content". The biggest mover for content is actually making it: put a block in the calendar every week or every day, sit down for an hour or two and actually shoot the content. His concrete mechanism is that shooting is the only way to get good at it and to dig deeper, so that once you are used to talking you can get into things and put out more meaningful content than stuff that is just very basic and surface level.
 
 ## Synonyms
 
-- content
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And really, at the end of the day, the biggest thing, the biggest mover for content is going to be actually making it." — sources/S_ig_optimizedjake_DGao42PIwpP.md
-> "Having a block in your calendar every week, every day, whatever it might be, depending on how much content you want to be producing, go out there and literally sit down for an hour, two hours, whatever it might be, and actually shoot the content because that is the only way that number one, you're gonna get good at it, but you're gonna be able to dig deeper into more like stuff that's not surface" — sources/S_ig_optimizedjake_DGao42PIwpP.md
+> "So you'll actually be able to, once you're talking, once you're used to it, you'll be able to get into things that and put out more meaningful content than stuff that's just very basic and surface level." — sources/S_ig_optimizedjake_DGao42PIwpP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as content volume being the goal: the source measures the payoff in depth — more meaningful content than surface-level stuff — not in hours filmed.
+- Read as needing to be good before starting: getting good comes from shooting the content, and the deeper material only appears once you are used to talking.

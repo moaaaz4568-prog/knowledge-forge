@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [email, emails]
+aka: [two by one rule]
 origin: sources/S_ig_optimizedjake_DJtrWzsvw6e.md
 ---
 
-# G_ig_optimizedjake_DJtrWzsvw6e — email
+# G_ig_optimizedjake_DJtrWzsvw6e — two by one rule
 
 ## Term
 
-"email" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: marketing, tips, like, value. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The two by one rule is optimizedjake's rule for email marketing: two value emails, one sales email. The phrase appears once in the source, beside "value emails", "sales email", "direct response" and "subject". At the end of the day, email marketing is all about the subject and then the content, and getting in front of those people again, like retargeting — while a lot of people make money with crafted emails, copy, hooks and analytics, which he says is really good. His concrete model is direct response: the ad converts to a booked appointment, the appointment converts to a call, the call converts to an offer, the offer to a close — and email is just a way to get in front of those individuals during those processes.
 
 ## Synonyms
 
-- email
-- emails (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So email marketing, what are my tips for email marketing? I like to go by the two by one rule, which is two value emails, one sales email. But for me, at the end of the day, email marketing is all about what's your subject and then what's your content, and that's pretty much it. Because at the end of the day, it's you getting in front of those people again. It's like retargeting." — sources/S_ig_optimizedjake_DJtrWzsvw6e.md
-> "I think there's a lot of people that make a lot of money in the email marketing space by having these crafted emails and this copy, this hook and everything like that, which I think is really good. And it's good to track those analytics and everything. But for my world, I don't operate my businesses off of, you know, get somebody's email and then have a big email list and just blast shit out." — sources/S_ig_optimizedjake_DJtrWzsvw6e.md
-> "It's definitely a benefit of what we do, but we do more direct response. So we want the ad converting to a booked appointment, booked appointment converting to a call, call converting to an offer, offer to a close. That's all we care about. Email is just a way for us to get in front of those individuals during those processes." — sources/S_ig_optimizedjake_DJtrWzsvw6e.md
+> "So email marketing, what are my tips for email marketing? I like to go by the two by one rule, which is two value emails, one sales email." — sources/S_ig_optimizedjake_DJtrWzsvw6e.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "email": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on big email lists: he says blasting a big list is a benefit of what they do, just not how they operate.
+- Read as the subject not mattering: the subject is number one, and it comes from the headline in the marketing on the ads.

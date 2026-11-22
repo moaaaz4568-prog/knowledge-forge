@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [people buy, optimizedjake account context]
+aka: [video testimonials]
 origin: sources/S_ig_optimizedjake_DKreUxateOy.md
 ---
 
-# G_ig_optimizedjake_DKreUxateOy — people buy
+# G_ig_optimizedjake_DKreUxateOy — video testimonials
 
 ## Term
 
-"people buy" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, people, brands, day. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Video testimonials are the second branding element optimizedjake lists, after the story: video testimonials from clients. The phrase appears once in the source, beside "brand", "social media posts", "blog" and "bios". It all plays a role into the brand: social media posts embedded on the website, links to all socials showing the business is active, some kind of a blog, a book, a podcast, video content posted on the website, and the owner and the team with bios about every single individual linked to their individual socials. His concrete payoff is trust: at the end of the day people buy into brands, people buy and trust the story — how did the owner get into starting this actual company.
 
 ## Synonyms
 
-- people buy
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can have video content that you make videos, post that on your website, and then have the owner, have the team, have bios about every single individual and link to their individual socials. Along with obviously, you know, showing off your program and your services. But at the end of the day, people buy into brands, people buy and trust the story." — sources/S_ig_optimizedjake_DKreUxateOy.md
+> "Number two is gonna be video testimonials from your clients as well." — sources/S_ig_optimizedjake_DKreUxateOy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people buy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as testimonials being decoration: they play a role into the brand alongside posts, blog, book, podcast and bios.
+- Read as the story being optional: people buy and trust the story, and the owner's origin is the point.

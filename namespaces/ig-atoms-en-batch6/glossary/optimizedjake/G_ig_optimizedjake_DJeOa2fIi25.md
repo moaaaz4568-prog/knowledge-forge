@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [partner, partners]
+aka: [drone]
 origin: sources/S_ig_optimizedjake_DJeOa2fIi25.md
 ---
 
-# G_ig_optimizedjake_DJeOa2fIi25 — partner
+# G_ig_optimizedjake_DJeOa2fIi25 — drone
 
 ## Term
 
-"partner" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: individual, partner, projects, drone. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A drone is the product optimizedjake got into developing, designing and engineering, after an earlier invention. The word appears four times in the source, beside "life alert bear", "firefighters", "startup world" and "partner". Before the drone there was a bear, like a life alert bear for kids, that would alert the police if they pressed the arm in a dangerous situation — and then a drone for firefighters to scout search and rescue and wildfires. His concrete reason it died out is the startup world: doing a lot of work towards nothing, towards no money — and his partner on the drone was never really as committed as he was, while he was eat, breathe, sleep doing it and listening to Gary Vee.
 
 ## Synonyms
 
-- partner
-- partners (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I was like, hey, I had done this, you know, advertising stuff. And getting back to, you know, about partners, throughout, you know, all these projects, I had a partner, individual partner on the drone. Again, I had my other partner for the prototype and stuff. And my partner was never really as committed as I was into what we were doing." — sources/S_ig_optimizedjake_DJeOa2fIi25.md
-> "So it's kind of hard when, you know, you're doing all this work, you're busting your ass and your partner, and again, love these kids if they're listening to it and they realize who they are, like nothing against them, it's just I was in my lane and I like I was eat, breathe, sleep doing this shit, listening to Gary Vee and all that kind of stuff." — sources/S_ig_optimizedjake_DJeOa2fIi25.md
+> "The biggest thing I got into was actually helping develop and design and engineer a drone." — sources/S_ig_optimizedjake_DJeOa2fIi25.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "partner": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the drone business succeeding: he says a lot of it died out, because in the startup world the work went towards no money.
+- Read as blaming the partner: he says nothing against them, only that their commitment differed and he was in his lane.

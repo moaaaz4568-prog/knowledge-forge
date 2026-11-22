@@ -1,8 +1,10 @@
 # Index — glossary/ (ig-atoms-en-batch6)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,211 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,147 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 Chunk 1 rebuild (2026-11-22, lines 1501-1550 of ig-batch6-list.txt): 50 files rebuilt in place (16 onlyzita + 34 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
+
+Chunk 2 rebuild (2026-11-22, lines 1551-1600 of ig-batch6-list.txt): 50 files rebuilt in place (50 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1556,56 +1558,56 @@ Chunk 1 rebuild (2026-11-22, lines 1501-1550 of ig-batch6-list.txt): 50 files re
 | glossary/optimizedjake/G_ig_optimizedjake_DFj0NggR15l.md | personal brand | 1 |
 | glossary/optimizedjake/G_ig_optimizedjake_DFmZAT6sVw2.md | Inc five thousand award | 1 |
 | glossary/optimizedjake/G_ig_optimizedjake_DFo9slPofrv.md | bootstrapped | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGVfXartJTX.md | think | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGYEHMwqlWZ.md | content | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGao42PIwpP.md | content | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGdNvGKidAk.md | little bit | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGfye6HqPiU.md | thousand | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGiXUZBvGUo.md | golf courses | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGlFyMupAvD.md | personal brand | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DGsqh27sQO7.md | motivated team | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DH5zd1ZNR4E.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHDu3hqPdW3.md | product | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHLdKeMxHdR.md | working | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHTLkO9vXKG.md | profit margin | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHa5537qDyW.md | people | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHioTQkyl6U.md | different | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHqWvRVPVvl.md | business | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DHyFLcJP6X-.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DI3mjMbuAQm.md | hundred | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJ1ZnxNSRRe.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJ9H-JPI-4x.md | email | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJHDURYMwa-.md | specific point | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJPKX-aSTi9.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJWgGCuJ9Qe.md | product | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJeOa2fIi25.md | partner | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJl81wpuhT5.md | support | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DJtrWzsvw6e.md | email | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DK67FQdNl65.md | real estate | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKE2ZkmI0aG.md | email marketing | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKMkyIhSZXJ.md | people | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKUTJb-SB_b.md | small business | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKcBj0dpbDa.md | really | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKjv6ZNo6lg.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKreUxateOy.md | people buy | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DKzMu_mv3r6.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DL4uKWyxVv0.md | different | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLCpe7ap4Yj.md | know | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLKX15VA2KB.md | person | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLSGQBbSu1y.md | obviously | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLZ0oUutK3C.md | know | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLhjFMROVVd.md | gonna | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLpRaXLBa8t.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DLw_vxxtsu4.md | crazy | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DM-PlkqyANs.md | went through | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DM2hRDjBauU.md | front end | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMAciv1KYx0.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMIK7v7p52R.md | right now | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMP5Wbvihw3.md | something | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMXnvxvq3V-.md | marketing | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMfWKYosC6L.md | day | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMnEbPvIp38.md | hundred pound | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DMuy1W-sI0t.md | bridge | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGVfXartJTX.md | study the algorithm | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGYEHMwqlWZ.md | Podmatch | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGao42PIwpP.md | surface level | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGdNvGKidAk.md | unique pricing | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGfye6HqPiU.md | secret sauce | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGiXUZBvGUo.md | sales teams | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGlFyMupAvD.md | grassroots | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DGsqh27sQO7.md | holding people accountable | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DH5zd1ZNR4E.md | hamburger stand | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHDu3hqPdW3.md | customer retention | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHLdKeMxHdR.md | one on one coaching | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHTLkO9vXKG.md | profit margins | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHa5537qDyW.md | riches are in the niches | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHioTQkyl6U.md | stand out | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHqWvRVPVvl.md | separate your businesses | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DHyFLcJP6X-.md | sick of being in contracts | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DI3mjMbuAQm.md | gift cards | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJ1ZnxNSRRe.md | meta | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJ9H-JPI-4x.md | top of mind | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJHDURYMwa-.md | being a consumer | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJPKX-aSTi9.md | lead gen | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJWgGCuJ9Qe.md | customer experience journey | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJeOa2fIi25.md | drone | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJl81wpuhT5.md | self onboard | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DJtrWzsvw6e.md | two by one rule | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DK67FQdNl65.md | method to the madness | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKE2ZkmI0aG.md | give value | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKMkyIhSZXJ.md | cold audit | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKUTJb-SB_b.md | practitioners | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKcBj0dpbDa.md | review sites | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKjv6ZNo6lg.md | hiring around your strengths | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKreUxateOy.md | video testimonials | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DKzMu_mv3r6.md | find the right partner | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DL4uKWyxVv0.md | just different | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLCpe7ap4Yj.md | bulletproof | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLKX15VA2KB.md | equity partner | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLSGQBbSu1y.md | retarget before the appointment | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLZ0oUutK3C.md | cost per acquisition | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLhjFMROVVd.md | accountability Zoom call | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLpRaXLBa8t.md | giving free value | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DLw_vxxtsu4.md | support office | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DM-PlkqyANs.md | lonely period | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DM2hRDjBauU.md | milking your pipeline | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMAciv1KYx0.md | JV offer | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMIK7v7p52R.md | that cycle | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMP5Wbvihw3.md | pizza method | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMXnvxvq3V-.md | done with you offer | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMfWKYosC6L.md | morning cardio | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMnEbPvIp38.md | chip at it | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DMuy1W-sI0t.md | bridge the gap | 1 |
 | glossary/optimizedjake/G_ig_optimizedjake_DN3N5ybWgwh.md | sales | 2 |
 | glossary/optimizedjake/G_ig_optimizedjake_DN5d6GOCYRk.md | new businesses | 2 |
 | glossary/optimizedjake/G_ig_optimizedjake_DNNsXKrPVdq.md | know | 2 |

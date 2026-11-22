@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [different, optimizedjake account context]
+aka: [stand out]
 origin: sources/S_ig_optimizedjake_DHioTQkyl6U.md
 ---
 
-# G_ig_optimizedjake_DHioTQkyl6U — different
+# G_ig_optimizedjake_DHioTQkyl6U — stand out
 
 ## Term
 
-"different" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: angle, different, tweak, pricing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To stand out is what optimizedjake says anybody can do in an industry, with one limit: just do not stand out too much. The phrase appears three times in the source, beside "different angle", "competitor research", "two thousand dollars" and "don't recreate the wheel". The method is to create a product that stands out with a different angle or tweak, not something completely new, because a completely new thing becomes alien and people are not willing to try it — so do competitor research, understand their offer, and tweak it a little bit. His concrete example is real estate marketing: everybody charged two thousand dollars a month, so they charged two thousand dollars one time plus a little subscription on the back end, and the ads basically run themselves, which let them stand out.
 
 ## Synonyms
 
-- different
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Anybody can stand out in an industry, just don't stand out too much. Basically, what it means is create a product that stands out, that has a different angle, a different tweak, but don't create something that's completely new because it becomes alien and people aren't willing to actually try it out." — sources/S_ig_optimizedjake_DHioTQkyl6U.md
-> "So you know, don't recreate the wheel and offer some crazy thing. Tweak it a little bit, come up with a different pricing structure, different angle. Maybe everybody's used to Facebook ads, get them into YouTube or something like that, and then you know, go out there and get in front, and then obviously adapt and change things up along the way based off the feedback that you are getting." — sources/S_ig_optimizedjake_DHioTQkyl6U.md
+> "Anybody can stand out in an industry, just don't stand out too much." — sources/S_ig_optimizedjake_DHioTQkyl6U.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "different": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as inventing something entirely new: he says do not recreate the wheel and do not offer some crazy thing — tweak it a little bit.
+- Read as a one-time tweak: the offer is adapted and changed along the way based on the feedback received.

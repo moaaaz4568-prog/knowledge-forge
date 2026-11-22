@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [person, optimizedjake account context]
+aka: [equity partner]
 origin: sources/S_ig_optimizedjake_DLKX15VA2KB.md
 ---
 
-# G_ig_optimizedjake_DLKX15VA2KB — person
+# G_ig_optimizedjake_DLKX15VA2KB — equity partner
 
 ## Term
 
-"person" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: always, mean, analytical, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An equity partner is the one form of partnership optimizedjake warns against assuming: finding the right partner does not always mean an equity partner. The phrase appears once in the source, beside "operator", "avatars", "puzzle" and "salesperson". It can also mean finding the right team member who fits and fills a space where you are not the most proficient, because most likely everybody leans one way or another: a salesperson, an analytical person, a business person. His concrete picture is a puzzle: pull a salesperson, a back end person, and fit all the pieces together — there are a lot of different avatars and characters, so an ideas person might need to go find an operator to put the ideas into place.
 
 ## Synonyms
 
-- person
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Finding the right partner doesn't always mean that that person has to be an equity partner. It can also just mean finding the right team member that fits and kind of fills in a space where you're not the most proficient. Because most likely everybody leans towards one way or another." — sources/S_ig_optimizedjake_DLKX15VA2KB.md
-> "They might be a salesperson, might be an analytical person, might be more of a business person. Where you want to go pull a salesperson, a back end person, and kind of like fit all these pieces into a puzzle. There's a lot of different avatars, a lot of different characters in this space, and you might be an ideas person." — sources/S_ig_optimizedjake_DLKX15VA2KB.md
+> "Finding the right partner doesn't always mean that that person has to be an equity partner." — sources/S_ig_optimizedjake_DLKX15VA2KB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "person": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as everyone needing a partner: the point is fitting pieces where you are not proficient, and different people need different pieces.
+- Read as equity being the default: equity is explicitly only one option, and often not the right one.

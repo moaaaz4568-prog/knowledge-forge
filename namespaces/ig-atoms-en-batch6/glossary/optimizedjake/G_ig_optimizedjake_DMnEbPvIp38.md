@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [hundred pound, optimizedjake account context]
+aka: [chip at it]
 origin: sources/S_ig_optimizedjake_DMnEbPvIp38.md
 ---
 
-# G_ig_optimizedjake_DMnEbPvIp38 — hundred pound
+# G_ig_optimizedjake_DMnEbPvIp38 — chip at it
 
 ## Term
 
-"hundred pound" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bench, press, two, pound. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To chip at it is optimizedjake's rule for progress: a little bit more every single day. The phrase appears once in the source, beside "bench press", "five pounds", "nine to five" and "twenty weeks". In the gym, he does not go from a hundred pound bench press to a two hundred pound bench press in a week: every single week he adds five pounds, and eventually, in twenty weeks, he is at his goal and can bench two hundred. His concrete application is business, especially with a lot going on: if you have a nine to five, you are working, and it is just every day chipping at it a little bit more.
 
 ## Synonyms
 
-- hundred pound
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Like in the gym and in lifting, like I don't go from a hundred pound bench press to a two hundred pound bench press in a week. Every single week I add five pounds, and eventually, you know, in twenty weeks I am at my goal. I can bench two hundred." — sources/S_ig_optimizedjake_DMnEbPvIp38.md
+> "It's just every day chip at it a little bit more." — sources/S_ig_optimizedjake_DMnEbPvIp38.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hundred pound": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as slow progress being failure: the five-pounds-a-week math is the point, and twenty weeks reaches the goal.
+- Read as needing to quit the job: the advice explicitly covers having a nine-to-five and chipping at it daily.

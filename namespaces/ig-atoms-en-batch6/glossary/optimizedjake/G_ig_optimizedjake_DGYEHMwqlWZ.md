@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [content, optimizedjake account context]
+aka: [Podmatch]
 origin: sources/S_ig_optimizedjake_DGYEHMwqlWZ.md
 ---
 
-# G_ig_optimizedjake_DGYEHMwqlWZ — content
+# G_ig_optimizedjake_DGYEHMwqlWZ — Podmatch
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, one, making, put. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Podmatch is the site optimizedjake recommends for getting featured on podcasts, as part of positioning professionals as leaders through personal branding. The name appears once in the source, beside "Matchmaker FM", "podcasts", "PR articles" and "20 to 30 minute video". The method is to put an hour on the calendar every week to film content — record a 20 to 30 minute video and clip out 10 to 15 pieces — book yourself on podcasts, get PR articles released, and have a presence on a website or some kind of offering. His concrete claim is that getting on podcasts is super easy even when just starting out, and the two sites he recommends by far are Matchmaker FM and Podmatch.
 
 ## Synonyms
 
-- content
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So from a personal branding perspective, how can professionals position themselves as leaders in the industry? And I'm gonna be very honest with everybody. It's not hard. You don't have to have a lot of followers. I think number one is making content. Put an hour down on your calendar every single week to film content." — sources/S_ig_optimizedjake_DGYEHMwqlWZ.md
-> "You could probably record a 20 to 30 minute video and clip out 10 to 15 pieces of content from that. Book yourself on podcasts, get PR articles released about you, and have some kind of a presence on, you know, a website or some kind of an offering. And that is literally all you need. Because here's the thing. Your shorts can be posted anywhere. Your clips can be posted anywhere." — sources/S_ig_optimizedjake_DGYEHMwqlWZ.md
-> "Then you have podcast long form. That's gonna be, you know, showing up in your search, but you don't actually have to go out there and make those YouTube videos. You have shorts and then you have the podcast content. If you're wondering where to get featured on podcast, there is Matchmaker FM and there's a site called Podmatch. Those are the two that I recommend by far." — sources/S_ig_optimizedjake_DGYEHMwqlWZ.md
+> "If you're wondering where to get featured on podcast, there is Matchmaker FM and there's a site called Podmatch." — sources/S_ig_optimizedjake_DGYEHMwqlWZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as needing a lot of followers first: he says you do not have to have a lot of followers, and the hour a week plus the two podcast sites is literally all you need.
+- Read as a requirement to make YouTube videos: the long form is the podcast, and the shorts and clips can be posted anywhere without making YouTube videos.

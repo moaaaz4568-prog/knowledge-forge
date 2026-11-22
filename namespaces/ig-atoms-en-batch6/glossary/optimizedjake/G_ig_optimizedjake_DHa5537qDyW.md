@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [people, optimizedjake account context]
+aka: [riches are in the niches]
 origin: sources/S_ig_optimizedjake_DHa5537qDyW.md
 ---
 
-# G_ig_optimizedjake_DHa5537qDyW — people
+# G_ig_optimizedjake_DHa5537qDyW — riches are in the niches
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, biggest, thing, tell. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The riches are in the niches is the line optimizedjake uses for his first rule for somebody starting out: stick to one niche. The phrase appears once in the source, beside "stick to one niche", "revenue producing activities", "cold calls" and "SOPs". The advice is twofold: find your industry and stick to it until it works, because he guarantees it will work once the right offer is figured out — and then focus on revenue producing activities, not on building SOPs, the backend system or the first employee. His concrete work list is setting meetings, getting in front of people, perfecting an offer the industry likes, and then cold calls, email and Facebook DMs, or a little ad spend, while learning from the people talked to what the niche actually needs and will bite at.
 
 ## Synonyms
 
-- people
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The biggest thing I tell people whenever I talk to somebody starting out, and we went through it, I went through it personally, and it is kind of twofold. But stick to one niche. Niche down. The riches are in the niches. So find your industry and stick to it until it works because I guarantee you it will work. You just have to figure out the right offer." — sources/S_ig_optimizedjake_DHa5537qDyW.md
-> "And then focus on revenue producing activities. Don't try to build out your SOPs and your backend system and your first employee that you're gonna hire. Focus on setting meetings, getting in front of people, perfecting your offer and an offer that that industry likes, and then the rest kind of falls into place. You know, focus on cold calls, reach out to people with email, Facebook DM." — sources/S_ig_optimizedjake_DHa5537qDyW.md
-> "If you have a little bit of money to spend, run some ads and then just perfect that offer and really kind of understand what does this niche actually need? What does this industry actually need and what are they gonna bite at? Because people will just talk and talk and talk all day and you'll learn a lot from the people that you're talking to." — sources/S_ig_optimizedjake_DHa5537qDyW.md
+> "But stick to one niche. Niche down. The riches are in the niches." — sources/S_ig_optimizedjake_DHa5537qDyW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as never expanding beyond one niche: sticking is until it works, and the rest falls into place after the offer is perfected.
+- Read as SOPs being useless: the point is sequencing — meetings and the offer first, the backend system later.

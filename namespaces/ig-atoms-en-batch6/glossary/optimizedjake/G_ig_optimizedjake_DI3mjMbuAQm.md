@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [hundred, optimizedjake account context]
+aka: [gift cards]
 origin: sources/S_ig_optimizedjake_DI3mjMbuAQm.md
 ---
 
-# G_ig_optimizedjake_DI3mjMbuAQm — hundred
+# G_ig_optimizedjake_DI3mjMbuAQm — gift cards
 
 ## Term
 
-"hundred" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: two, hundred, five, bucks. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Gift cards are the half-price arbitrage that optimizedjake says sparked his entrepreneurship as a kid. The phrase appears twice in the source, beside "half price", "iPhone", "PS four" and "prototyping". They would pay one hundred for a two hundred dollar gift card, take five gift cards, buy an iPhone and a PS4, and then get rid of the brand new, in-plastic iPhone for about six hundred bucks — with the profit being the unopened PS4 sold for about two hundred bucks. His concrete next step was the prototyping business: taking people's ideas and turning them into legitimate products, with access to 3D printers through engineering school, starting with projects like chopstick holders and an inside organizer for a gym bag, found through his first advertising.
 
 ## Synonyms
 
-- hundred
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And we were getting these gift cards for about half price. So we'd pay one hundred for a two hundred gift card, take five gift cards, buy an iPhone and a PS four. Now we're five hundred into it, and we would go. We could get rid of the iPhone for about six hundred bucks." — sources/S_ig_optimizedjake_DI3mjMbuAQm.md
-> "These are brand new and in plastic, and then our profit was the PS four that we were selling for like you know again unopened two hundred bucks. So you know that obviously sparked some entrepreneurship, and then got into doing the prototyping business. So with the prototyping business, basically it's just as you say, somebody has an idea. Again, as a kid, that's what we were doing." — sources/S_ig_optimizedjake_DI3mjMbuAQm.md
+> "And we were getting these gift cards for about half price." — sources/S_ig_optimizedjake_DI3mjMbuAQm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hundred": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a business model to copy today: it is a childhood story about what sparked entrepreneurship, not a current offer.
+- Read as the prototyping business being about his own ideas: it turns other people's ideas into legitimate products.

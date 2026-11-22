@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [thousand, optimizedjake account context]
+aka: [secret sauce]
 origin: sources/S_ig_optimizedjake_DGfye6HqPiU.md
 ---
 
-# G_ig_optimizedjake_DGfye6HqPiU — thousand
+# G_ig_optimizedjake_DGfye6HqPiU — secret sauce
 
 ## Term
 
-"thousand" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: two, dollars, pay, signed. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The secret sauce is what optimizedjake calls his pricing structure: an upfront fee with a little bit of reoccurring revenue on the back end. The phrase appears once in the source, beside "upfront", "reoccurring", "seven thousand five hundred" and "subscriptions". They have signed up like seven thousand five hundred people since starting the business, all with an upfront fee and subscriptions on the back end. His concrete comparison is the rest of the industry: either a six month contract at two or three thousand dollars a month, or three or four hundred dollars a month — against which they say, do not pay twelve thousand dollars, pay us two thousand and fifty to sixty dollars a month.
 
 ## Synonyms
 
-- thousand
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We've signed up like seven thousand five hundred people since we started our business, all with an upfront fee and subscriptions on the back end. And that's been our secret sauce because we're in an industry where everybody else is trying to either sell you a six month contract at two or three thousand dollars a month, or it's three four hundred dollars a month." — sources/S_ig_optimizedjake_DGfye6HqPiU.md
-> "Which at the end of the day, we can go in and say for either of those, say, hey, don't go pay twelve thousand dollars for this because you can pay us two thousand and you know fifty to sixty dollars a month." — sources/S_ig_optimizedjake_DGfye6HqPiU.md
+> "And that's been our secret sauce because we're in an industry where everybody else is trying to either sell you a six month contract at two or three thousand dollars a month, or it's three four hundred dollars a month." — sources/S_ig_optimizedjake_DGfye6HqPiU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thousand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the pricing is unique: he says it is not obviously unique, and the point is only that it has helped them sign up.
+- Read as the cheapest option on the market: they also compete with the two ninety seven and three ninety seven sellers by charging a little more upfront for the setup.
