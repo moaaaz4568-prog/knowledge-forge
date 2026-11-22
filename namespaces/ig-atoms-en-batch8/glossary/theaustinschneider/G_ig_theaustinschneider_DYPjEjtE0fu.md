@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [Use, theaustinschneider account context]
+aka: [agency operating system]
 origin: sources/S_ig_theaustinschneider_DYPjEjtE0fu.md
 ---
 
-# G_ig_theaustinschneider_DYPjEjtE0fu — Use
+# G_ig_theaustinschneider_DYPjEjtE0fu — agency operating system
 
 ## Term
 
-"Use" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: entire, minichat, automating, dms. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An agency operating system is the whole business in one tool, here: use Notion for your entire agency operating system. The phrase appears 1 time, beside "entire agency", "automating DMs", and "AI appointment setting", and it opens the exact tool list the speaker uses to run a three-million-dollar agency — MiniChat for automating DMs, Pointwise for AI appointment setting, GoHighLevel for sales management, Loom for SOP creation, Zapier to automate tasks, Fathom for meeting notes, Claude for writing, and Victor as an AI assistant. The list is the offer: comment "software" and he will send them all over.
 
 ## Synonyms
 
-- Use
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The exact tools I use to run a $3 million agency. Save this for later. Use Notion for your entire agency operating system. Use MiniChat for automating DMs. Use Pointwise for AI appointment setting. Use GoHighLevel for sales management. Use Loom for SOP creation. Use Zapier to automate tasks. Use Fathom for meeting notes. Use Claude for writing, and use Victor as an AI assistant." — sources/S_ig_theaustinschneider_DYPjEjtE0fu.md
+> "Use Notion for your entire agency operating system." — sources/S_ig_theaustinschneider_DYPjEjtE0fu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Use": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Notion being the whole business: Notion holds the operating system — the eight other tools do the DMs, appointments, sales, SOPs, tasks, notes, writing, and assisting around it.
+- Read as the speaker's measured stack: the clip is a recommendation list for a three-million-dollar agency, not a tested comparison of the tools against alternatives.

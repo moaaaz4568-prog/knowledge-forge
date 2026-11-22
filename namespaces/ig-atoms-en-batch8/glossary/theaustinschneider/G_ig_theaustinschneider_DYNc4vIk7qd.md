@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [offer, theaustinschneider account context]
+aka: [productize my offer]
 origin: sources/S_ig_theaustinschneider_DYNc4vIk7qd.md
 ---
 
-# G_ig_theaustinschneider_DYNc4vIk7qd — offer
+# G_ig_theaustinschneider_DYNc4vIk7qd — productize my offer
 
 ## Term
 
-"offer" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, productize, serve, different. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To productize my offer is the questioner's problem: he serves different types of clients and asks how to pick one thing and stick to it without leaving money on the table. The phrase appears 1 time, beside "leaving money on the table", "different types of clients", and "the outcome that your customer actually wants", and the speaker's answer is that almost seven hundred agencies struggle with this exact thing — good skill sets, afraid that focusing on one type of offer means missing out on revenue. The way through, he says, is to think about the customer instead: what outcome does the customer actually want, and how do you serve that without leaving revenue on the table, being selfless, and still having a good offer.
 
 ## Synonyms
 
-- offer
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yeah, I know I need to productize my offer, but I serve different types of clients. How do I pick one thing and stick to it without leaving money on the table? Yeah, we've worked with almost 700 agencies right now, and most of them struggle with is this exact same thing." — sources/S_ig_theaustinschneider_DYNc4vIk7qd.md
-> "They have really good skill sets and they're worried that if they just focus on one type of offer, then they're going to miss out on revenue, right? Because that makes a lot of sense. How you do this without leaving your revenue on the table and being selfless and actually have a good offer is you think about the customer. What's the outcome that your customer actually wants?" — sources/S_ig_theaustinschneider_DYNc4vIk7qd.md
+> "Yeah, I know I need to productize my offer, but I serve different types of clients." — sources/S_ig_theaustinschneider_DYNc4vIk7qd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "offer": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as dropping every other client type: productizing here means picking the offer by the customer's outcome, not abandoning clients — the fear of lost revenue is the problem, not the instruction.
+- Read as the speaker's own offer: the question comes from a client asking for help; the speaker's part is the answer, not the offer being productized.

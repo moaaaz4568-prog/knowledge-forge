@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [please, theaustinschneider account context]
+aka: [you get what you give]
 origin: sources/S_ig_theaustinschneider_DYNnbKlkmrL.md
 ---
 
-# G_ig_theaustinschneider_DYNnbKlkmrL — please
+# G_ig_theaustinschneider_DYNnbKlkmrL — you get what you give
 
 ## Term
 
-"please" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: please, sell, ready. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"You get what you give" is the principle this testimonial is built on: put in the work, and you get what you put in and more. The phrase appears 1 time, beside "started off at zero", "six-month contract", and "$3,500 package", and the results attached to it are concrete — started at zero, then last week two clients closed for three thousand dollars a month on a joint account for a six-month contract, and yesterday a meeting with someone highly interested in the thirty-five-hundred-dollar package. The speakers love Agency U, found it very easy to follow and very informative, and say it made them look really good — and they close by thanking all of Agency U for letting agencies like theirs be part of the program.
 
 ## Synonyms
 
-- please
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've got it... Let's see... This is how we sell it and... Please, please, please. If you're ready to see us, we got nothing but good things to say. It's like what they said: you get what you give. So if you put in the work, you're gonna get what you put in and more. And uh, I know we actually started off at zero." — sources/S_ig_theaustinschneider_DYNnbKlkmrL.md
+> "you get what you give. So if you put in the work, you're gonna get what you put in and more." — sources/S_ig_theaustinschneider_DYNnbKlkmrL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "please": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a law of returns: the line is a proverb the speakers quote for their own results — two clients, a six-month contract — not a measured rule that work always pays back.
+- Read as the program's promise: the speakers credit their own work put in, not Agency U alone, for what they got back.

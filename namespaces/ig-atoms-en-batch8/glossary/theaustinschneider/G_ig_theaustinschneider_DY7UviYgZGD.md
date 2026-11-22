@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [Meta ads, theaustinschneider account context]
+aka: [Meta ads plus video]
 origin: sources/S_ig_theaustinschneider_DY7UviYgZGD.md
 ---
 
-# G_ig_theaustinschneider_DY7UviYgZGD — Meta ads
+# G_ig_theaustinschneider_DY7UviYgZGD — Meta ads plus video
 
 ## Term
 
-"Meta ads" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 15 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ads, meta, video, plus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Meta ads plus video is the winner of every matchup it enters in this rapid either-or tournament of agency services. The phrase appears 8 times, beside "versus logo designer", "or PPC", and "or cold email", and the format never changes: two services are named, one is picked, and the clip moves on — PPC over graphic design, cold email over web design, email marketing over SEO, and AI agency over social management. The final round settles it: asked "Meta ads only or meta ads plus video?", the answer is still Meta ads plus video.
 
 ## Synonyms
 
-- Meta ads
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Meta ads plus video versus logo designer? Meta ads plus video. PPC or graphic design? PPC. Cold email or web design? Cold email. SEO or email marketing? Email marketing. Social management or AI agency? AI agency. Video only or meta ads? Meta ads. Meta ads plus video or PPC? Meta ads plus video. Cold email or email marketing? Cold email. AI agency or meta ads? Meta ads." — sources/S_ig_theaustinschneider_DY7UviYgZGD.md
-> "Meta ads plus video or cold email? Meta ads plus video. Cold email or meta ads? Meta ads. Meta ads only or meta ads plus video? Meta ads plus video." — sources/S_ig_theaustinschneider_DY7UviYgZGD.md
+> "Meta ads plus video or PPC? Meta ads plus video." — sources/S_ig_theaustinschneider_DY7UviYgZGD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Meta ads": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a verdict on Meta ads alone: the winning offer here is Meta ads plus video as a package, and the clip treats Meta ads only as a different, losing option in the final round.
+- Read as a ranking of all services: the clip only ever compares two at a time and never ranks the losers against each other, so no full ladder follows from it.

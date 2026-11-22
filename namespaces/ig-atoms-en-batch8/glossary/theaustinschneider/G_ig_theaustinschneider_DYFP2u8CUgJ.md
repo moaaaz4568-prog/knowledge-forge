@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [instrumental, theaustinschneider account context]
+aka: [instrumental]
 origin: sources/S_ig_theaustinschneider_DYFP2u8CUgJ.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_theaustinschneider_DYFP2u8CUgJ.md
 
 ## Term
 
-No content word repeats often enough in this short source (12 words) to form a repeated term, so this entry documents the source's central term "instrumental" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Instrumental is the whole content of this source: the audio is entirely instrumental, with no spoken parts at all. The word appears 1 time, beside "Nothing", "entirely", and "no spoken parts", and the twelve-word source is a note, not a transcript — the answer to what was spoken is "Nothing", and there is no claim, no advice, and no story from the account owner here. The entry records the word exactly as it stands: a description of audio with no speech in it, not a concept in the speaker's work.
 
 ## Synonyms
 
-- instrumental
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (12 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "instrumental": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim about the video's message: there is no message — the audio has no spoken parts, so nothing was said to interpret.
+- Read as "instrumental" meaning background music with a purpose: here it only states the audio has no speech, not what the music does.

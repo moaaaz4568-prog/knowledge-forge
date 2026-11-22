@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [send, theaustinschneider account context]
+aka: [sales intake form]
 origin: sources/S_ig_theaustinschneider_DYF46HIlTxv.md
 ---
 
-# G_ig_theaustinschneider_DYF46HIlTxv — send
+# G_ig_theaustinschneider_DYF46HIlTxv — sales intake form
 
 ## Term
 
-"send" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: call, invoice, send, contract. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A sales intake form is the tool the speaker credits with his first client, a month into Agency U: the form they give you automates everything, so you can do it on the call, send the invoice, send the contract, and it makes it really easy and quick. The phrase appears 1 time, beside "first client", "automates everything", and "send the invoice", and the whole sixty-three-word clip is the testimonial — almost a month in, first client landed, and excitement for what else happens next. The form is the reason he names for getting the client, not the pitch or the offer.
 
 ## Synonyms
 
-- send
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I'm a month into Agency U, almost, and already got my first client... The reason I got him was because of the sales intake form that they give you, which automates everything so you can do it on the call, send the invoice, send the contract, and makes it really easy and quick, and I'm excited to see what else happens next." — sources/S_ig_theaustinschneider_DYF46HIlTxv.md
+> "The reason I got him was because of the sales intake form that they give you, which automates everything" — sources/S_ig_theaustinschneider_DYF46HIlTxv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "send": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of clients: one new member's first client in his first month is his own result, not a measured result for everyone.
+- Read as the form doing the selling: the form automates the intake, invoice, and contract on the call — the clip says nothing about it closing the client on its own.

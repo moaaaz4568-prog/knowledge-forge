@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [responsibility, theaustinschneider account context]
+aka: [artificial intelligence]
 origin: sources/S_ig_theaustinschneider_DYIrm5dGczU.md
 ---
 
-# G_ig_theaustinschneider_DYIrm5dGczU — responsibility
+# G_ig_theaustinschneider_DYIrm5dGczU — artificial intelligence
 
 ## Term
 
-No content word repeats often enough in this short source (80 words) to form a repeated term, so this entry documents the source's central term "responsibility" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Artificial intelligence is the subject of this formal address: a speech that opens "Good evening, ladies and gentlemen" and treats AI as a force developing rapidly in recent years, from self-driving cars to smart assistants, changing lives in ways never imagined. The phrase appears 1 time, beside "developing rapidly", "self-driving cars", and "smart assistants", and the speech's argument is one of responsibility — with this progress comes the duty to ensure AI is used ethically and safely, because technology should serve humanity, not the other way around. It is a formal address, not the speaker's agency content, and the entry records it as it stands.
 
 ## Synonyms
 
-- responsibility
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Good evening, ladies and gentlemen. It is my great honor to be here today. I want to talk about something very important: artificial intelligence. As we all know, AI has been developing rapidly in recent years. From self-driving cars to smart assistants, it's changing our lives in ways we never imagined. But with this progress comes responsibility." — sources/S_ig_theaustinschneider_DYIrm5dGczU.md
+> "technology should serve humanity, not the other way around." — sources/S_ig_theaustinschneider_DYIrm5dGczU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "responsibility": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker's view on AI in agencies: the speech is a formal address about AI in life generally, and it says nothing about agencies, clients, or the speaker's business.
+- Read as a technical claim about AI: the examples — self-driving cars, smart assistants — are illustrations of rapid development, not evidence or a forecast.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [system, systems]
+aka: [productized offer]
 origin: sources/S_ig_theaustinschneider_DYAbD8sJLQz.md
 ---
 
-# G_ig_theaustinschneider_DYAbD8sJLQz — system
+# G_ig_theaustinschneider_DYAbD8sJLQz — productized offer
 
 ## Term
 
-"system" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: roi, lead-gen, mouth, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A productized offer is the first of the seven things agencies over a hundred thousand dollars a month have in common: an offer that actually gets clients an ROI. The phrase appears 1 time, beside "gets clients an ROI", "lead-gen system", and "sales system", and it opens a list that runs from acquiring leads without referrals and word of mouth, through converting cold audiences into paying clients, to a personal brand that scales trust and an operating system that runs the business and handles fulfillment and client organization. The list closes with hiring systems that attract A-players and an AI system to build AI employees inside the organization — but the productized offer is the starting point, the thing the ROI is measured against.
 
 ## Synonyms
 
-- system
-- systems (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "000 a month and stay there all have these seven things in common: a productized offer that actually gets clients an ROI; a lead-gen system so that they can acquire leads without relying on referrals and word of mouth; a sales system that can help convert those cold audiences into actually paying clients; a personal brand that scales trust; an operating system that runs their business and handles" — sources/S_ig_theaustinschneider_DYAbD8sJLQz.md
-> "all their fulfillment and client organization; hiring systems that allow them to attract A-players... talent and an AI system to build AI employees inside of their organization." — sources/S_ig_theaustinschneider_DYAbD8sJLQz.md
+> "a productized offer that actually gets clients an ROI" — sources/S_ig_theaustinschneider_DYAbD8sJLQz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "system": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as packaging any service: here productized means the offer actually gets clients an ROI — the result is the test, not the packaging.
+- Read as the whole seven-item system: the offer is only the first of seven things in common, and the clip never claims it works without the lead-gen, sales, and operating systems beside it.

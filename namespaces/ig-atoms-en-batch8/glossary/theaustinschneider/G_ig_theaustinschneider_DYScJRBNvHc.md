@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [Agency owner, theaustinschneider account context]
+aka: [same offer]
 origin: sources/S_ig_theaustinschneider_DYScJRBNvHc.md
 ---
 
-# G_ig_theaustinschneider_DYScJRBNvHc — Agency owner
+# G_ig_theaustinschneider_DYScJRBNvHc — same offer
 
 ## Term
 
-"Agency owner" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: owner, agency, business, freedom. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The same offer is the fix here: the agency owner builds a business and wants freedom, works hard, and has no freedom — because every project is different, there is no system, and the owner is doing everything. The phrase appears 1 time, beside "every project different", "system" (4 times), and "just lead", and the fix runs in short steps: same offer every time, the system does the work, AI runs the system and the team runs the system, and the agency owner just leads. The promised end state is the client happy, the business growing, and the agency owner free.
 
 ## Synonyms
 
-- Agency owner
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Agency owner build business. Agency owner want freedom. Agency owner work hard, no freedom. Why? Every project different. No system. Agency owner doing everything. Bad. Fix. Same offer every time. System do the work. AI run the system and team run the system. Agency owner just lead. Client happy, business grow, agency owner free." — sources/S_ig_theaustinschneider_DYScJRBNvHc.md
+> "Fix. Same offer every time. System do the work." — sources/S_ig_theaustinschneider_DYScJRBNvHc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Agency owner": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as one offer for every client forever: the clip's point is the repeatable offer that lets a system do the work — it does not discuss which offer, or exceptions for different clients.
+- Read as AI replacing the team: the system is run by AI and by the team together, while the owner just leads — the team is still in the picture.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [build, theaustinschneider account context]
+aka: [time audit]
 origin: sources/S_ig_theaustinschneider_DYAcDLYTrRU.md
 ---
 
-# G_ig_theaustinschneider_DYAcDLYTrRU — build
+# G_ig_theaustinschneider_DYAcDLYTrRU — time audit
 
 ## Term
 
-"build" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: employee, somebody, element, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A time audit is the procedure that answers whether to hire somebody or build an AI employee: spend the next week writing down everything you do inside the business, literally thirty minutes by thirty minutes. The phrase appears 1 time, beside "30 minutes by 30 minutes", "segment them into a new list", and "human element", and the logic is that the list will be lengthy and the waste obvious — things you probably should not be doing. Those things go into a new list, and each one is decided the same way: does it need a human element, or can an AI employee execute the task.
 
 ## Synonyms
 
-- build
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. Let me just pull that out for you. Should you hire somebody or should you build an AI employee? Here's exactly how you can figure it out. The reality is, is it's no different figuring out if you should hire somebody than it is if you should hire an AI employee—like that's just like the reality of it. What you want to do first is you want to do a time audit." — sources/S_ig_theaustinschneider_DYAcDLYTrRU.md
-> "So what you want to do with those things that you probably shouldn't be doing is segment them into a new list. And then from that new list, what you'll be able to decide is, okay, does this need a human element, or can I build an AI employee to execute this task for me?" — sources/S_ig_theaustinschneider_DYAcDLYTrRU.md
-> "If you want to see how we build our AI employees, just comment the word 'build' down below and I'll show you our doc explaining it all." — sources/S_ig_theaustinschneider_DYAcDLYTrRU.md
+> "What you want to do first is you want to do a time audit." — sources/S_ig_theaustinschneider_DYAcDLYTrRU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "build": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as tracking time for its own sake: the audit exists to segment the list and decide hire-versus-AI-employee per item, not to log hours.
+- Read as proof that AI employees replace hiring: the audit's question is per task — some things need a human element — so the outcome can be a hire, not only an AI employee.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [feel like, theaustinschneider account context]
+aka: [systems]
 origin: sources/S_ig_theaustinschneider_DYIdsWMCauk.md
 ---
 
-# G_ig_theaustinschneider_DYIdsWMCauk — feel like
+# G_ig_theaustinschneider_DYIdsWMCauk — systems
 
 ## Term
 
-"feel like" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, business, like, feel. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Systems here mean the programmed setup that lets the business breathe: for the first time the speaker can breathe, confident they can scale and sign a new client without it feeling like extra work, because everything is already programmed. The word appears 3 times, beside "for the first time I can breathe", "everything's already programmed", and "biggest W", and the before-and-after is the whole point — before, there were no systems and no way of tracking which client, what offer, where the videos were going, or how to share them, and barely a product at all. Now every editor has a template showing exactly what each editor is working on, the work is easier for them, and edits and videos turn around a lot quicker — which the speaker calls the biggest win in the systems.
 
 ## Synonyms
 
-- feel like
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Like how does the business feel now with like the systems and stuff? I feel like for the first time I can breathe. I'm confident in knowing that we can scale, we can sign a new client, and it's not going to feel like extra work that everything's already programmed." — sources/S_ig_theaustinschneider_DYIdsWMCauk.md
+> "I think that was the biggest like W in the systems." — sources/S_ig_theaustinschneider_DYIdsWMCauk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "feel like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as software in general: the systems here are the specific programmed setup — tracking clients, offers, and videos, plus a template per editor — not any tool with "system" in its name.
+- Read as a promise that systems remove all work: the speaker's claim is that signing a client no longer feels like extra work, not that the work disappears — the editors still do the edits, faster.

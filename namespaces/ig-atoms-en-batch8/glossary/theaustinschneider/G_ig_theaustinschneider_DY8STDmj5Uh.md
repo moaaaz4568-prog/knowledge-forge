@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [want, theaustinschneider account context]
+aka: [refrain]
 origin: sources/S_ig_theaustinschneider_DY8STDmj5Uh.md
 ---
 
-# G_ig_theaustinschneider_DY8STDmj5Uh — want
+# G_ig_theaustinschneider_DY8STDmj5Uh — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (17 words) to form a repeated term, so this entry documents the source's central term "want" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label refrain is a type label only, marking a sung lyric line rather than a concept in the speaker's work. The whole source is seventeen words, one lyric line about coming home and being told it is okay, with no business content, no claim, and no repeated content word to define. There is nothing here to turn into a glossary concept, so the entry records the line as a refrain and nothing more.
 
 ## Synonyms
 
-- want
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (17 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker welcoming someone home: the line is a sung lyric, not a statement about his life or business.
+- Read as reassurance he is giving: "it's okay" belongs to the song fragment, not to any counsel in the source.

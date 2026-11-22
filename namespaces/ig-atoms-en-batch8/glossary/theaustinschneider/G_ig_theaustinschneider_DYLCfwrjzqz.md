@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [systems, theaustinschneider account context]
+aka: [three-month retainers]
 origin: sources/S_ig_theaustinschneider_DYLCfwrjzqz.md
 ---
 
-# G_ig_theaustinschneider_DYLCfwrjzqz — systems
+# G_ig_theaustinschneider_DYLCfwrjzqz — three-month retainers
 
 ## Term
 
-"systems" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, really, place, besides. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Three-month retainers are the packaged offer the speaker built inside Agency U: before joining, he felt more like a freelancer, working closer to eighty hours a week than forty, without confidence to talk to people, without a clear offer, and without systems beyond his brain and pure chaos and adrenaline. The phrase appears 1 time, beside "built out packages", "clear offer", and "pure chaos and adrenaline", and the learning started with the offer before systems — diving into the offer and the deliverables, building out packages and three-month retainers — so that he could finally talk to people and confidently know what he had to deliver on and whether he had the capacity. What sets Agency U apart, he says, is the systems plus the help to actually implement what the business needs, not one specific area.
 
 ## Synonyms
 
-- systems
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "didn't feel confident and going out and talking to those people not having a clear offer was also a big thing for me and then having no systems really in place besides just my brain and pure chaos and adrenaline. I thought I need systems I need a change. So some of the biggest things that I learned were obviously with systems but before I even got into that..." — sources/S_ig_theaustinschneider_DYLCfwrjzqz.md
-> "always have to have someone um so if you're gonna do it like there are really great people out there I feel like what sets Agency U apart too is also the systems and the help to actually implement the things you need in your business not just focusing on one specific area." — sources/S_ig_theaustinschneider_DYLCfwrjzqz.md
+> "we built out packages we built out like three-month retainers" — sources/S_ig_theaustinschneider_DYLCfwrjzqz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "systems": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole transformation: the retainers are the packaged offer — the confidence came from knowing what to deliver and having capacity, which also took systems and implementation help.
+- Read as a promise of confidence: the speaker's confidence followed the offer work; the clip does not claim retainers alone create it.

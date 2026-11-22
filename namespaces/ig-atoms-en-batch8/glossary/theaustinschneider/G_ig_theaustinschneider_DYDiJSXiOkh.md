@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [translation, theaustinschneider account context]
+aka: [spoken content]
 origin: sources/S_ig_theaustinschneider_DYDiJSXiOkh.md
 ---
 
-# G_ig_theaustinschneider_DYDiJSXiOkh — translation
+# G_ig_theaustinschneider_DYDiJSXiOkh — spoken content
 
 ## Term
 
-No content word repeats often enough in this short source (14 words) to form a repeated term, so this entry documents the source's central term "translation" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Spoken content is the only material this source names, and it belongs to the transcriber, not the speaker: the whole fourteen-word source is the instruction "I'll focus solely on the spoken content without any additional analysis or translation." The phrase appears 1 time, beside "focus solely", "additional analysis", and "translation", and there is no content from the account owner here at all — no claim, no advice, no story. The entry records the phrase exactly as it stands: a transcriber's rule for this one transcript, not a concept in the speaker's work.
 
 ## Synonyms
 
-- translation
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (14 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "translation": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that spoken content needs no analysis: the line only limits the transcriber to the spoken words for this transcript, saying nothing about whether the content itself deserves analysis.
+- Read as a ban on translation in general: the instruction bars additional analysis or translation of this one transcript, not translation of spoken content as a practice.

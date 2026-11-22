@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [rumble, theaustinschneider account context]
+aka: [slogan]
 origin: sources/S_ig_theaustinschneider_DYIMUG3N4TV.md
 ---
 
-# G_ig_theaustinschneider_DYIMUG3N4TV — rumble
+# G_ig_theaustinschneider_DYIMUG3N4TV — slogan
 
 ## Term
 
-No content word repeats often enough in this short source (11 words) to form a repeated term, so this entry documents the source's central term "rumble" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label slogan is a type label only, marking a borrowed hype catchphrase rather than a concept in the speaker's work. The whole source is eleven words, two exclamations — "Let's get ready to rumble!" and "I'm going to make some noise!" — with no business content, no claim, and no repeated content word to define. There is nothing here to turn into a glossary concept, so the entry records the lines as a slogan and nothing more.
 
 ## Synonyms
 
-- rumble
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (11 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "rumble": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker's own catchphrase: the line is a famous borrowed ring-announcer call, not a phrase he coined or a claim about his work.
+- Read as an announcement of something coming: the source names nothing after the hype — no event, no offer, no next step.

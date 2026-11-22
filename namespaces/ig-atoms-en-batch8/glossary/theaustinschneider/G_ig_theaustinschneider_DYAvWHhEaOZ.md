@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [long, theaustinschneider account context]
+aka: [Agency U]
 origin: sources/S_ig_theaustinschneider_DYAvWHhEaOZ.md
 ---
 
-# G_ig_theaustinschneider_DYAvWHhEaOZ — long
+# G_ig_theaustinschneider_DYAvWHhEaOZ — Agency U
 
 ## Term
 
-"long" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hours, day, long, time. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Agency U is the program the speaker credits with pulling his agency back from quitting: eight years in, twenty different offers, completely unsustainable, underpriced, the only one doing fulfillment, drowning in super long hours, about to get another job. The name appears 2 times, beside "a game changer", "actually scalable", and "priced correctly", and the change he reports is concrete — an offer that is actually scalable and priced correctly, some fulfillment outsourced, and a new client landed for the first time in a long time. He describes the program as a ramp with steps to follow, and promises success as long as the steps are followed.
 
 ## Synonyms
 
-- long
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've been running a social media agency for eight years, and I had twenty different offers that I was giving to all of my clients, and it was completely unsustainable. I was underpriced, I was the only one doing fulfillment, and I was completely drowning in it working super long hours all day long. And I was honestly about to quit." — sources/S_ig_theaustinschneider_DYAvWHhEaOZ.md
-> "I started outsourcing some of the fulfillment, which has been such a weight off of my shoulders, and I also landed a new client for the first time in a long time, and it's... it's exciting. I am so excited, so grateful for Agency U and all of the resources, the community, the coaching..." — sources/S_ig_theaustinschneider_DYAvWHhEaOZ.md
-> "It's just a ramp that you have to go on, you follow the steps that they give you, and you will succeed as long as you follow the steps. Um, do it, it's awesome." — sources/S_ig_theaustinschneider_DYAvWHhEaOZ.md
+> "I found Agency U, and it's been such a game changer." — sources/S_ig_theaustinschneider_DYAvWHhEaOZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "long": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee: the speaker's promise — succeed as long as you follow the steps — is his testimonial claim, not a measured result for everyone.
+- Read as the program doing the fulfillment: he outsourced some fulfillment himself after joining; the program gave the offer, resources, community, and coaching, not a done-for-you service.

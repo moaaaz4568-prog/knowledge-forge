@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [gotta, theaustinschneider account context]
+aka: [admin work, administrative work]
 origin: sources/S_ig_theaustinschneider_DYAZIC9pP3f.md
 ---
 
-# G_ig_theaustinschneider_DYAZIC9pP3f — gotta
+# G_ig_theaustinschneider_DYAZIC9pP3f — admin work
 
 ## Term
 
-"gotta" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: somebody, find, gotta, access. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Admin work is the bottleneck that keeps agency owners stuck when scaling: not getting clients, but the five-dollar-an-hour tasks that should not be on their plate at all. The phrase appears 1 time, beside "five dollar an hour tasks", "should completely not be on their plate", and "the biggest bottlenecks", with its longer form "administrative work" once more when the fix is named. The traditional fix is hiring — finding someone, hoping they do a good job, giving access, onboarding for hours — and the new way he proposes is hiring AI agents instead: build an AI employee in an AI organization to do the administrative work without the onboarding, stress, and risk of hiring a person.
 
 ## Synonyms
 
-- gotta
-- theaustinschneider account context (no variant form of the term appears in this source)
+- administrative work (the longer form used for the work the AI employee takes on)
 
 ## Live Example
 
-> "And traditionally what you'd have to do is you'd have to like okay cool now I gotta find somebody I gotta hire somebody and hope that they do a good job I gotta get them access to everything I gotta onboard and it takes hours. But there's a new way of hiring that I want you guys to start thinking about. Okay? Instead of stressing yourself out about hiring people you can now hire AI agents." — sources/S_ig_theaustinschneider_DYAZIC9pP3f.md
+> "the thing that keeps them stuck is admin work." — sources/S_ig_theaustinschneider_DYAZIC9pP3f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gotta": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as all admin tasks being worthless: the point is the owner's plate — five-dollar-an-hour tasks that should not be there — not that the work itself has no value.
+- Read as a claim that AI hiring has no risk at all: he contrasts it with the stress and risk of hiring people; the clip names no AI-side risk, so the comparison is his, not a measured fact.

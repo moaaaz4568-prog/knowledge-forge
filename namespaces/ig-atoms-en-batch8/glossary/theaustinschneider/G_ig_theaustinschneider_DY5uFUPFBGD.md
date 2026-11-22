@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [transcribe, theaustinschneider account context]
+aka: [transcribe]
 origin: sources/S_ig_theaustinschneider_DY5uFUPFBGD.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_theaustinschneider_DY5uFUPFBGD.md
 
 ## Term
 
-No content word repeats often enough in this short source (14 words) to form a repeated term, so this entry documents the source's central term "transcribe" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Transcribe is the only content word this source has, and it belongs to the transcriber, not the speaker: the whole fourteen-word source is the instruction "I will strictly transcribe only the spoken words and ignore all background elements." The word appears 1 time, beside "strictly", "spoken words", and "background elements", and there is no content from the account owner here at all — no claim, no advice, no story. The entry records the word exactly as it stands: a transcriber's rule for this one transcript, not a concept in the speaker's work.
 
 ## Synonyms
 
-- transcribe
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (14 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "transcribe": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker's advice: the line is the transcriber's own instruction, not something the account owner said or teaches.
+- Read as a method for transcription work: the sentence states a rule for this one transcript only, and the source gives no method beyond it.

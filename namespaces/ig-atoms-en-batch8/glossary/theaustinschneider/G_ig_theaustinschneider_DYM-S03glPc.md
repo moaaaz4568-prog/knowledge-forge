@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [Home service, theaustinschneider account context]
+aka: [home service]
 origin: sources/S_ig_theaustinschneider_DYM-S03glPc.md
 ---
 
-# G_ig_theaustinschneider_DYM-S03glPc — Home service
+# G_ig_theaustinschneider_DYM-S03glPc — home service
 
 ## Term
 
-"Home service" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: service, home, chiropractors, medspas. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Home service is the winner of this rapid either-or tournament of agency niches, beating law firms, coaches, and finally chiropractors in the last round. The phrase appears 7 times, three of them as the winning answer, beside "med spas", "chiropractors", and "plastic surgeons", and the bracket runs eleven rounds — med spas beat mortgage and then home service once, software beats coaches, gyms beat e-commerce, plastic surgeons beat dentists, chiropractors beat real estate and plastic surgeons, and e-commerce beats coaches. Home service takes the final: asked "Chiropractors or home service?", the answer is home service.
 
 ## Synonyms
 
-- Home service
-- theaustinschneider account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here is the transcript: Law firms or home service? Home service. Medspas or mortgage? Medspas. Coaches or software? Software. E-commerce or gyms? Gyms. Dentists or plastic surgeons? Plastic surgeons. Real estate or chiropractors? Chiropractors. Home service or med spas? Med spas. Coaches or e-commerce? E-commerce. Plastic surgeons or chiropractors? Chiropractors. Home service or coaches?" — sources/S_ig_theaustinschneider_DYM-S03glPc.md
-> "Home service. Chiropractors or home service? Home service." — sources/S_ig_theaustinschneider_DYM-S03glPc.md
+> "Chiropractors or home service? Home service." — sources/S_ig_theaustinschneider_DYM-S03glPc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Home service": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a verdict that home service is the best niche: the clip only ever compares two niches at a time and never ranks the losers against each other, so no full ladder follows from it.
+- Read as a verdict on home service alone: home service also loses once in the bracket — to med spas — so the win is the tournament result, not a claim that it beats every niche outright.

@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [agency, theaustinschneider account context]
+aka: [implementation, implement, implementing]
 origin: sources/S_ig_theaustinschneider_DY20EvCEpWv.md
 ---
 
-# G_ig_theaustinschneider_DY20EvCEpWv — agency
+# G_ig_theaustinschneider_DY20EvCEpWv — implementation
 
 ## Term
 
-"agency" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: join, agency, inside, actually. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Implementation here means going into the client's agency and building systems for them, not teaching modules or pointing in the right direction. The word appears 2 times, beside "versus information", "inside of your agency", and "build systems", and the speaker draws the contrast sharply: information is dying, people do not need another video to watch, they need help implementing inside their business. The concrete test he gives is an Agency U employee who literally logs into the business, builds the system, and helps build an AI employee to work the systems.
 
 ## Synonyms
 
-- agency
-- theaustinschneider account context (no variant form of the term appears in this source)
+- implement (the verb form the speaker uses when asking what it means)
+- implementing (the form used for the help clients actually need)
 
 ## Live Example
 
-> "Yeah a lot of our marketing is surrounded around implementation versus information because information is dying like people don't need more information they don't need another video to watch they don't need to consume more they actually need help implementing it inside of their business and when we say hey we're going to implement this inside of your agency when you join Agency U we actually" — sources/S_ig_theaustinschneider_DY20EvCEpWv.md
-> "mean we are going to go into your agency and build systems for you okay not..." — sources/S_ig_theaustinschneider_DY20EvCEpWv.md
-> "Just gonna teach you how to do it not just gonna show you some more modules and point you in the right direction we have an employee Agency U that literally logs into your business will build the system and we'll build help you build an AI employee to work the systems that we have so that's what we mean when we say implementation it's not just a marketing like ploy." — sources/S_ig_theaustinschneider_DY20EvCEpWv.md
+> "a lot of our marketing is surrounded around implementation versus information because information is dying" — sources/S_ig_theaustinschneider_DY20EvCEpWv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agency": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as doing the work for the client once: here implementation means building systems inside the agency plus an AI employee to run them, not a one-off done-for-you task.
+- Read as a marketing slogan: the speaker insists it is not a ploy, and his proof is operational — someone logs in and builds — so treating the word as a tagline misses the test he gives.

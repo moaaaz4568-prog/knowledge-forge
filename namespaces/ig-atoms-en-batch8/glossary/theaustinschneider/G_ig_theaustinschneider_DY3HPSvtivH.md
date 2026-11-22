@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: theaustinschneider
-aka: [business, theaustinschneider account context]
+aka: [AI employee, AI employees, AI agent]
 origin: sources/S_ig_theaustinschneider_DY3HPSvtivH.md
 ---
 
-# G_ig_theaustinschneider_DY3HPSvtivH — business
+# G_ig_theaustinschneider_DY3HPSvtivH — AI employee
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaustinschneider account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: inside, super, owner, wanting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An AI employee is AI hired the way people are hired: the speaker says to think about AI inside the business as an employee, and to build an AI organization the way you would hire people. The phrase appears 2 times, beside "hire people", "SOPs", and "task audit", and the condition is strict — without systems, processes, and SOPs in place first, the AI employee cannot succeed, just like a real employee. The practical start he prescribes is a five-day task audit: write down every task, quantify the time each takes, then ask AI which tasks it can remove and do completely. He still feels overwhelmed and behind even with seventeen AI employees, which is his proof that headcount alone is not the fix.
 
 ## Synonyms
 
-- business
-- theaustinschneider account context (no variant form of the term appears in this source)
+- AI employees (the plural he uses for the seventeen they run)
+- AI agent (the form used in the same sentence when the build step is described)
 
 ## Live Example
 
-> "If you're super bullish on using AI inside of your business but you're super overwhelmed because all of the noise on social media, this is going to be the most practical video for you if you are a business owner wanting to incorporate AI. First things first, we need to get our mindset of what is AI inside of our business." — sources/S_ig_theaustinschneider_DY3HPSvtivH.md
-> "So once we have processes in place and we've worked those processes and they're actually solid, then what we like to start with is basically a task audit. For the next five days, write down everything that you're doing inside of your business, all like spend actual time writing down all of the tasks that you're doing inside of your business and quantify how much time you're spending on each task." — sources/S_ig_theaustinschneider_DY3HPSvtivH.md
-> "Then what you can do is you can ask AI, what of all my... Tasks can you actually remove for me and completely do for me? We personally use a tool called Victor. You could also do this with Claude. You could do this with Taskade. Whatever tool you want to use, AI will help you determine what practical way that you could use AI inside of your business versus building a fancy dashboard." — sources/S_ig_theaustinschneider_DY3HPSvtivH.md
+> "Instead, how we need to think about AI is as an employee." — sources/S_ig_theaustinschneider_DY3HPSvtivH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a tool you plug in: here the AI employee fails without systems, processes, and SOPs first, exactly like a real hire with no infrastructure.
+- Read as a cure for overwhelm: he runs seventeen AI employees and still feels overwhelmed and behind, so counting AI staff is not the fix — the task audit is the starting point.

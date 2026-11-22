@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch8)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,049 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,007 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY2-NxLiXFH.md | AgencyU | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY20EvCEpWv.md | agency | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY2K70Qkdol.md | Underrated | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY3HPSvtivH.md | business | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY3I1vJkhyq.md | watching | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY4v02siM22.md | agency owners | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY5Y3aXjxK9.md | SOPs | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY5i_J8ETiX.md | offer | 3 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY2-NxLiXFH.md | AgencyU | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY20EvCEpWv.md | implementation | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY2K70Qkdol.md | team dashboard | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY3HPSvtivH.md | AI employee | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY3I1vJkhyq.md | refrain | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY4v02siM22.md | new agency owners | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY5Y3aXjxK9.md | SOPs | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY5i_J8ETiX.md | offer | 1 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DY5uFUPFBGD.md | transcribe | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY79m_2Dd-M.md | thousand dollars | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY7UviYgZGD.md | Meta ads | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY8STDmj5Uh.md | want | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY8ZEY_ietU.md | Agency | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DY95VWBlGFg.md | every single | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYA9pxYjx7Y.md | Keep putting | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAGUApDa6o.md | month agency | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAZIC9pP3f.md | gotta | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAbD8sJLQz.md | system | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAcDLYTrRU.md | build | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAk6bdCSO1.md | niche | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYAvWHhEaOZ.md | long | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYCrJnMCep-.md | Agency owner | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYD24pft9oM.md | use | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYDH28eEz4f.md | gonna | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYDUHa6gp04.md | now | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYDiJSXiOkh.md | translation | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYDlV4CNGSr.md | person | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYF46HIlTxv.md | send | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY79m_2Dd-M.md | future casting | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY7UviYgZGD.md | Meta ads plus video | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY8STDmj5Uh.md | refrain | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY8ZEY_ietU.md | Agency U | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DY95VWBlGFg.md | AI employee | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYA9pxYjx7Y.md | chant | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAGUApDa6o.md | 100k month agency | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAZIC9pP3f.md | admin work | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAbD8sJLQz.md | productized offer | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAcDLYTrRU.md | time audit | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAk6bdCSO1.md | niche on the outcome | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYAvWHhEaOZ.md | Agency U | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYCrJnMCep-.md | infrastructure | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYD24pft9oM.md | adaptability | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYDH28eEz4f.md | leverage AI | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYDUHa6gp04.md | thirty sixty ninety day plan | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYDiJSXiOkh.md | spoken content | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYDlV4CNGSr.md | AI bubble | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYF46HIlTxv.md | sales intake form | 1 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DYFP2u8CUgJ.md | instrumental | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYFunKDCVG6.md | goods sold | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYGG1nvjGy6.md | celebrate | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYH0oGHDt4N.md | keep | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYIMUG3N4TV.md | rumble | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYITR4fDwlV.md | positioning yourself | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYIdsWMCauk.md | feel like | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYIrm5dGczU.md | responsibility | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYKZXd8lYAB.md | Underrated | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYLCfwrjzqz.md | systems | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYLXRX6kgTj.md | learning | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYM-S03glPc.md | Home service | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYN1OWviSBO.md | never | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYNc4vIk7qd.md | offer | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYNnbKlkmrL.md | please | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYPjEjtE0fu.md | Use | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYQBrXnkkbW.md | business | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYQMG9Vj8MC.md | profit | 2 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYQZ8ZUNUzy.md | because | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYFunKDCVG6.md | cost of goods sold | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYGG1nvjGy6.md | beauty of life and love | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYH0oGHDt4N.md | automated onboarding | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYIMUG3N4TV.md | slogan | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYITR4fDwlV.md | pre-call engine | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYIdsWMCauk.md | systems | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYIrm5dGczU.md | artificial intelligence | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYKZXd8lYAB.md | chief expectation officer | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYLCfwrjzqz.md | three-month retainers | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYLXRX6kgTj.md | stepping stone | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYM-S03glPc.md | home service | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYN1OWviSBO.md | refrain | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYNc4vIk7qd.md | productize my offer | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYNnbKlkmrL.md | you get what you give | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYPjEjtE0fu.md | agency operating system | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYQBrXnkkbW.md | shiny object syndrome | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYQMG9Vj8MC.md | profit margin | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYQZ8ZUNUzy.md | mindset | 1 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DYS-6uCgV82.md | transcription | 1 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYSIFccjSca.md | clients | 3 |
-| glossary/theaustinschneider/G_ig_theaustinschneider_DYScJRBNvHc.md | Agency owner | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYSIFccjSca.md | ads plus content | 1 |
+| glossary/theaustinschneider/G_ig_theaustinschneider_DYScJRBNvHc.md | same offer | 1 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DYSmedylVRI.md | right now | 2 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DYSw6WZkiYK.md | client acquisition | 3 |
 | glossary/theaustinschneider/G_ig_theaustinschneider_DYUswnFDJ45.md | thousand dollars | 1 |
@@ -3867,3 +3867,4 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/therealbrianmark/G_ig_therealbrianmark_DIeD8VoJwMY.md | follower | 2 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DIeZiWjvMq4.md | book | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DIfKf65z_d9.md | because | 1 |
+
