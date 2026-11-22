@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [head start, therealbrianmark account context]
+aka: ["baby face"]
 origin: sources/S_ig_therealbrianmark_DJP_AIkSU0P.md
 ---
 
-# G_ig_therealbrianmark_DJP_AIkSU0P — head start
+# G_baby_face — baby face
 
 ## Term
 
-"head start" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fine, start, head, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Baby face is the nickname for Brian's clean-shaven look after Kirsten shaved his face as a prank, and the clip is the couple's argument about whether it looks good. The phrase appears once, beside shaved my fucking face, that's fucked up, and I need to shave. Brian's first reaction is that it looks ugly and that a man whose wife shaves his face has something to answer for, then he softens: he actually doesn't look bad, and he loves it with the rest of the shave finished. The baby face is the punchline of the prank and the thing he ends up accepting.
 
 ## Synonyms
 
-- head start
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So Kirsten just shaved my fucking face. He's did worse pranks on me. What the fuck is wrong with you? I like your YouTube baby face. That's fucked up. If you are a man and you think that that is fucked up that your wife shaves your face, tell me. He said that he was maybe gonna do it, so I was like, I'll just get a head start on it. Fine. I'm gonna head start on it. Finish it. Okay." — sources/S_ig_therealbrianmark_DJP_AIkSU0P.md
+> "I like your YouTube baby face. That's fucked up." — sources/S_ig_therealbrianmark_DJP_AIkSU0P.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "head start": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a beauty claim: the baby face is a joke label for a prank shave in one video, not a grooming recommendation or a look Brian says to copy.
+- Read as Brian being angry throughout: his verdict flips inside the same clip, from ugly to actually not bad, so the first reaction alone misstates his final view.

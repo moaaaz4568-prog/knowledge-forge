@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [photoshoots, therealbrianmark account context]
+aka: ["AI generated lookalikes"]
 origin: sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
 ---
 
-# G_ig_therealbrianmark_DJNJ8BOSKij — photoshoots
+# G_ai_generated_lookalikes — AI generated lookalikes
 
 ## Term
 
-"photoshoots" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: year, two, three, million. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+AI generated lookalikes are the digital models H&M now uses instead of real photoshoots around the world, according to the ad Brian saw: near-identical AI versions of a person, built from a few real shoots. The phrase appears once, beside two to three photoshoots a year, thousands of different photos, and profit margins. His math is the point: two or three shoots produce thousands of posed model photos, AI generates the rest of the year's shoots, and the spend drops from 50 million a year to 5 million. The lookalikes are his evidence that technology is advancing faster than most people can keep up with, and that parents pushing kids down old paths are stuck in the past.
 
 ## Synonyms
 
-- photoshoots
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Like bro, you can go online right now and make an AI generated version of you that looks almost identical to you. I saw an ad from H&M today where H&M is now replacing all of their photoshoots that they're doing around the world with AI generated lookalikes." — sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
-> "So they're doing two to three photoshoots a year, and instead of doing thousands of photoshoots across the world, they're taking those two to three photoshoots, they're getting like thousands of different photos with models in different poses, and then they're AI generating all of the photoshoots that they do throughout the year across the board, which instantly increases their profit margins" — sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
-> "because now they don't have to spend $50 million a year on photoshoots. Now they're gonna spend $5 million a year on photoshoots and all of a sudden the company makes more money." — sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
+> "I saw an ad from H&M today where H&M is now replacing all of their photoshoots that they're doing around the world with AI generated lookalikes." — sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "photoshoots": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a verified H&M fact: the claim comes from an ad Brian says he saw, and the clip gives no source beyond his account of it.
+- Read as Brian's own practice: the lookalikes are H&M's, used as an example of the wider shift, not something Brian says he uses himself.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [thousand five, therealbrianmark account context]
+aka: [mindset]
 origin: sources/S_ig_therealbrianmark_DJRRYv7RN8U.md
 ---
 
-# G_ig_therealbrianmark_DJRRYv7RN8U — thousand five
+# G_mindset — mindset
 
 ## Term
 
-"thousand five" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: month, six, hundred, five. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Mindset is the trainer's one-word answer for going from zero to six thousand five hundred a month: the identity problem underneath the income gap. The word appears once, beside point A, point B, and associating with the version of themselves that's at point A. His explanation is that the gap to point B feels unrealistic and fake, like a scammer's promise, and unless you believe you can do it and actually see the vision, it never happens. The daily practice he gives is a morning routine of vision, journaling, meditation, and positive self-talk, all aimed at believing you are capable of it.
 
 ## Synonyms
 
-- thousand five
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How much money do you make as a personal trainer? Six thousand five hundred a month. Six thousand five hundred a month, nice. Where were you at when you first started? Zero. Zero? So what are some of the things you did to go from zero to six thousand five hundred a month? Mindset, man." — sources/S_ig_therealbrianmark_DJRRYv7RN8U.md
+> "Mindset, man. I feel like a lot of people they struggle with the identity, like associating with the version of themselves that's at point A, but you want to get to point B, and that gap between there might just seem unrealistic, might seem fake, like, oh, this guy's a fucking scammer." — sources/S_ig_therealbrianmark_DJRRYv7RN8U.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thousand five": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a motivational slogan: the mindset here is tied to a specific identity gap between point A and point B, with named practices, not a generic call to think positive.
+- Read as the only thing the trainer did: the clip reports his income and his mindset work, but it never claims belief alone, without the business itself, produced the six thousand five hundred.

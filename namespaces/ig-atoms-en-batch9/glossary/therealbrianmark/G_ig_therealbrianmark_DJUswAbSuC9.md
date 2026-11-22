@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [whole squad, therealbrianmark account context]
+aka: ["whole squad's winning"]
 origin: sources/S_ig_therealbrianmark_DJUswAbSuC9.md
 ---
 
-# G_ig_therealbrianmark_DJUswAbSuC9 — whole squad
+# G_whole_squads_winning — whole squad's winning
 
 ## Term
 
-"whole squad" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: winning, squad, whole, exciting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Whole squad's winning is Brian's celebration line for a month that came three hundred dollars short of forty K: the whole squad is winning, said twice, as if the near-miss belongs to everyone. The phrase appears twice, beside last month was incredible, that was exciting, and forty k. The clip gives no breakdown of who the squad is or what each person earned; the winning is collective and the number is the team's. The repetition is the point: the line is chanted, not explained, and it turns a shortfall of three hundred dollars into a shared victory.
 
 ## Synonyms
 
-- whole squad
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So last month was incredible. We almost, I was, we were three hundred dollars short of forty k. Hey, so that was exciting. The whole squad's winning. The whole squad's winning." — sources/S_ig_therealbrianmark_DJUswAbSuC9.md
+> "The whole squad's winning. The whole squad's winning." — sources/S_ig_therealbrianmark_DJUswAbSuC9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "whole squad": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report that forty K was hit: Brian says they were three hundred dollars short of it, so the winning is about the near-miss and the momentum, not the milestone itself.
+- Read as a list of winners: no squad member is named and no individual result is given, so the line claims a team mood rather than any person's income.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [yourself, therealbrianmark account context]
+aka: ["gateway to belief"]
 origin: sources/S_ig_therealbrianmark_DJH60wrylt-.md
 ---
 
-# G_ig_therealbrianmark_DJH60wrylt- — yourself
+# G_gateway_to_belief — gateway to belief
 
 ## Term
 
-"yourself" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: convince, yourself, lie, something. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Gateway to belief is Brian's method for reaching a goal he cannot yet picture himself achieving, like earning over fifty: stop trying to convince yourself you can do it, and start with possibility instead. The phrase appears once, beside lie to yourself, convince yourself of something that you don't believe to be true, and it's possible. His move is a language swap: replace "I can do that" with "it's possible", because possibility opens the doorway from not believing to believing. The belief itself is not forced; the gateway is the smaller claim that lets it arrive.
 
 ## Synonyms
 
-- yourself
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't think I can picture myself as that in the sense of like making that or any one who's doing like over fifty. I don't think I can actually see myself doing it, even though like I want that. I don't think mentally I am like yeah I can do that. I don't think that you can lie to yourself and convince yourself of something that you don't believe to be true." — sources/S_ig_therealbrianmark_DJH60wrylt-.md
-> "So if I want to open the gateway to belief, this is how I do it. Possibility is what opens the doorway from like I don't believe this to I do believe this. So instead of trying to convince yourself that you can, I want you to start saying to yourself it's possible." — sources/S_ig_therealbrianmark_DJH60wrylt-.md
+> "So if I want to open the gateway to belief, this is how I do it." — sources/S_ig_therealbrianmark_DJH60wrylt-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "yourself": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as positive affirmations: Brian explicitly rejects lying to yourself with claims you do not believe, so repeating "I can" is the move he warns against.
+- Read as a guarantee of the goal: possibility is only the doorway, and the clip never says the belief, once opened, delivers the income on its own.

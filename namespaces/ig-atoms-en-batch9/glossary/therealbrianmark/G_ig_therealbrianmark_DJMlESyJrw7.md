@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [hooks, hook]
+aka: ["hook bank"]
 origin: sources/S_ig_therealbrianmark_DJMlESyJrw7.md
 ---
 
-# G_ig_therealbrianmark_DJMlESyJrw7 — hooks
+# G_hook_bank — hook bank
 
 ## Term
 
-"hooks" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: probably, because, steal, chatgpt. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hook bank is the collection Brian's stolen ChatGPT prompt builds: twenty-five real hooks on one core topic, five versions in each of five tones. The phrase appears once, beside losing body fat after fifty, humorous, aggressive, relatable, data driven, and emotion heavy. Each hook must stay under ten words and be punchy enough to stop a scroll, and the prompt exists because the viewer's own hooks are why their views suck. The bank is the deliverable: a stockpile of openings to draw from, sorted by tone, instead of inventing a fresh hook for every video.
 
 ## Synonyms
 
-- hooks
-- hook (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If your views suck donkey balls, it's probably because of your hooks. So steal this ChatGPT prompt to help you come up with viral hooks for your videos. Create a hook bank of twenty five real hooks based on this core topic: losing body fat after fifty. Generate five versions for each one of these tones: humorous, aggressive, relatable, data driven, and emotion heavy." — sources/S_ig_therealbrianmark_DJMlESyJrw7.md
+> "Create a hook bank of twenty five real hooks based on this core topic: losing body fat after fifty." — sources/S_ig_therealbrianmark_DJMlESyJrw7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hooks": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as twenty-five finished videos: the bank holds hooks only, and the clip never says the prompt writes the videos behind them.
+- Read as proof the hooks will go viral: the prompt's promise is punchy, short hooks in five tones, and Brian offers no results for the bank itself.

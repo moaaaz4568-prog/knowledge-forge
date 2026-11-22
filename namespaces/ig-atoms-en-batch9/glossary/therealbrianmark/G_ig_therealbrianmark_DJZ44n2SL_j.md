@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [seven days, therealbrianmark account context]
+aka: ["ten K in seven days"]
 origin: sources/S_ig_therealbrianmark_DJZ44n2SL_j.md
 ---
 
-# G_ig_therealbrianmark_DJZ44n2SL_j — seven days
+# G_ten_k_in_seven_days — ten K in seven days
 
 ## Term
 
-"seven days" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ten, days, really, seven. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ten K in seven days is the win Brian reports while the team is rolling: a VA hired, a second coach rolling, and ten K hit in a week, really eleven K, about ten point nine. The phrase appears once, beside got the team rolling, trying to keep that up for the month, and have a record month. The clip is a short momentum update, not a lesson: the seven-day figure is the pace he wants to hold for the whole month. The correction inside the sentence matters, ten K rounded down from ten point nine, because he is tracking the pace honestly rather than inflating it.
 
 ## Synonyms
 
-- seven days
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Wins, I got the team rolling. Got a VA now, got the second coach rolling. Just hit ten K in seven days, or really it's eleven K. Well, it's about a hundred short, but ten point nine in seven days. So I am trying to keep that up for the month and have a record month." — sources/S_ig_therealbrianmark_DJZ44n2SL_j.md
+> "Just hit ten K in seven days, or really it's eleven K." — sources/S_ig_therealbrianmark_DJZ44n2SL_j.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "seven days": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a monthly result: the figure is seven days of pace, and the record month is the goal he is trying to reach by keeping it up, not something already achieved.
+- Read as profit: the clip reports revenue taken in, and says nothing about costs, refunds, or what the team was paid.

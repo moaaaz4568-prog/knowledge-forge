@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [seventy-five, therealbrianmark account context]
+aka: ["investment property"]
 origin: sources/S_ig_therealbrianmark_DJT1WvFRf6N.md
 ---
 
-# G_ig_therealbrianmark_DJT1WvFRf6N — seventy-five
+# G_investment_property — investment property
 
 ## Term
 
-No content word repeats often enough in this short source (24 words) to form a repeated term, so this entry documents the source's central term "seventy-five" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Investment property is the purchase Brian announces after a seventy-five K month: an offer accepted on a property in Austin, Texas, worth over half a milli. The phrase appears once, beside last month, seventy-five K, and there we go, bro. The clip is three short sentences of celebration with no detail about the property, the price, or the plan for it. The investment property is the proof of the month's result: the income turned into an asset, stated as a win rather than explained as a deal.
 
 ## Synonyms
 
-- seventy-five
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Last month, seventy-five K. Just got an offer accepted on an investment property in Austin, Texas. Over half a milli. There we go, bro." — sources/S_ig_therealbrianmark_DJT1WvFRf6N.md
+> "Just got an offer accepted on an investment property in Austin, Texas." — sources/S_ig_therealbrianmark_DJT1WvFRf6N.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "seventy-five": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a completed purchase: an accepted offer is the step Brian reports, and the clip says nothing about closing, financing, or ownership.
+- Read as investment advice: the property is one announcement with no numbers beyond half a milli, so it cannot support any claim about returns.

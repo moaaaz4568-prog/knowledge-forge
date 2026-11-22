@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [budget, therealbrianmark account context]
+aka: [budget]
 origin: sources/S_ig_therealbrianmark_DJ5bLiDvLky.md
 ---
 
-# G_ig_therealbrianmark_DJ5bLiDvLky — budget
+# G_budget — budget
 
 ## Term
 
-"budget" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: went, oops, want, making. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Budget is the money Brian keeps overspending in this clip, and the joke is that every "oops" is another purchase he cannot defend. The word appears three times, beside $500, Amazon packages, and going online to buy even more. His partner's comments about the spending are what he is answering, and his answer is defiance rather than a plan: a bra that fits becomes the reason to order more. The clip treats the budget as a running argument in the relationship, not as a number he tracks.
 
 ## Synonyms
 
-- budget
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Oops, I spent another $500. Oops, I went over my budget. Oops." — sources/S_ig_therealbrianmark_DJ5bLiDvLky.md
-> "That's how the budget's going. I want to talk to you about the comments that you're making about my fucking budget. If you get mad at me for shopping, I had no bras that fit me and this one fits me, so I'm going online and I'm buying even more. I just ordered these and they all look fucking perfect. Yes. They're great." — sources/S_ig_therealbrianmark_DJ5bLiDvLky.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "budget": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a budgeting method: Brian never shows a limit, a tally, or a rule for staying inside one, so the word here names the thing being blown, not a system.
+- Read as a complaint about his partner: the comments he quotes are the setup for his punchline about buying more, not evidence that the spending itself is the problem he wants solved.

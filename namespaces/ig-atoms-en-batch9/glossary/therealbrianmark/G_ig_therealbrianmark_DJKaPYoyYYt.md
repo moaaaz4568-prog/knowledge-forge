@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [month, therealbrianmark account context]
+aka: ["done is better than perfect"]
 origin: sources/S_ig_therealbrianmark_DJKaPYoyYYt.md
 ---
 
-# G_ig_therealbrianmark_DJKaPYoyYYt — month
+# G_done_is_better_than_perfect — done is better than perfect
 
 ## Term
 
-"month" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 45k, month, damn, personal. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Done is better than perfect is the trainer's rule for going from zero to 45K a month: show up when you don't feel like it, do it messy, and choose progress over perfection. The phrase appears once, beside lawyer money, zero to 100 bucks, and showing up when you don't feel like it. The interview frames it as one of the two biggest lessons on the way from 100 dollars to 45 thousand a month. The advice to viewers is the same spirit in institutional form: join PT Dom, the coaching program he credits, but the lesson itself is about shipping imperfect work rather than waiting to feel ready.
 
 ## Synonyms
 
-- month
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How much money do you make as a personal trainer? 45k a month. 45k a month? Damn, that's lawyer money, son. Yes, sir. Taking them to court over here. Yeah. Okay, so what were you on when you first started online coaching? Zero, like zero to 100 bucks. So 100 to $45, 000 a month, what would you say are one of the two biggest lessons that you learned on the way?" — sources/S_ig_therealbrianmark_DJKaPYoyYYt.md
+> "Progress over perfection at the end of the day, and done is better than perfect." — sources/S_ig_therealbrianmark_DJKaPYoyYYt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as permission to ship sloppy work forever: the clip pairs done with showing up and progressing, so messy is the start of the work, not a standard to settle at.
+- Read as the only lesson: it is one of two biggest lessons, alongside showing up when you don't feel like it, and the trainer's income is his own result, not a promised outcome.

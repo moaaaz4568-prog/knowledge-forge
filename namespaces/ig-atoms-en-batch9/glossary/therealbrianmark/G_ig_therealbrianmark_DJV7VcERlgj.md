@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [really happy, therealbrianmark account context]
+aka: ["one hundred K"]
 origin: sources/S_ig_therealbrianmark_DJV7VcERlgj.md
 ---
 
-# G_ig_therealbrianmark_DJV7VcERlgj — really happy
+# G_one_hundred_k — one hundred K
 
 ## Term
 
-"really happy" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: happy, really, month, good. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+One hundred K is the monthly target Brian is glad he did not hit last month, because missing it gives him something to work for. The phrase appears once, beside twenty K in six days, really happy, and not from an arrogant standpoint. Six days into the month he is already twenty K in, which he calls good, and the happiness about the miss is deliberate: the unhit target keeps the hunger alive. The hundred K is not a complaint or a failure here; it is the next rung he wants to keep reaching for.
 
 ## Synonyms
 
-- really happy
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Six days into the month, we're twenty K in, which is good. So I am really happy with that. I feel like last month, I am really happy I didn't hit the one hundred K, and not from an arrogant standpoint, but just gives me something to work for. You know what I mean." — sources/S_ig_therealbrianmark_DJV7VcERlgj.md
+> "I feel like last month, I am really happy I didn't hit the one hundred K, and not from an arrogant standpoint, but just gives me something to work for." — sources/S_ig_therealbrianmark_DJV7VcERlgj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really happy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Brian saying a hundred K is out of reach: he frames the miss as motivation, and the clip gives no reason to think the target is impossible for him.
+- Read as a monthly income report: twenty K in six days is the only current figure, and last month's total is never stated, so no full month can be reconstructed from the clip.

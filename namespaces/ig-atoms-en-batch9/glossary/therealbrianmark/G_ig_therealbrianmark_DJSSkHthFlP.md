@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [cheapest option, therealbrianmark account context]
+aka: ["cheapest option"]
 origin: sources/S_ig_therealbrianmark_DJSSkHthFlP.md
 ---
 
-# G_ig_therealbrianmark_DJSSkHthFlP — cheapest option
+# G_cheapest_option — cheapest option
 
 ## Term
 
-"cheapest option" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: looking, option, refer, cheapest. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cheapest option is the choice Brian offers against his own program when a prospect says the price is too expensive: take the cheap route with other trainers, or take the program with guaranteed results and premium coaching. The phrase appears twice, beside a steakhouse dinner, McDonald's, and low quality service that won't be the best. He never justifies the price directly; he asks the prospect to compare the two dinners and explain why the steakhouse is better, then maps that same reasoning onto coaching. The referral to cheaper trainers is the pressure valve: it makes the prospect say out loud which kind of buyer they want to be.
 
 ## Synonyms
 
-- cheapest option
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now they're gonna explain that the food will be better, the service will be better, etc. Okay, that makes sense. Now, if you're looking for the cheapest option, I can refer you to some other trainers that will give you a low quality service that won't be the best. However, if you're looking for something that comes with guaranteed results and premium coaching, this is the program for you." — sources/S_ig_therealbrianmark_DJSSkHthFlP.md
-> "So are you looking for the cheapest option or do you want the best option? Boom, you're welcome. Follow for more value." — sources/S_ig_therealbrianmark_DJSSkHthFlP.md
+> "Now, if you're looking for the cheapest option, I can refer you to some other trainers that will give you a low quality service that won't be the best." — sources/S_ig_therealbrianmark_DJSSkHthFlP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cheapest option": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a genuine referral service: no cheaper trainer is named in the clip, and the referral works as a contrast inside the script rather than a real handoff.
+- Read as Brian saying cheap coaching is always bad: the line is a sales framing that ties low price to low quality in this pitch, not a study of every low-priced trainer.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [felt like, therealbrianmark account context]
+aka: ["self-destructive path"]
 origin: sources/S_ig_therealbrianmark_DJAc5suToGD.md
 ---
 
-# G_ig_therealbrianmark_DJAc5suToGD — felt like
+# G_self_destructive_path — self-destructive path
 
 ## Term
 
-"felt like" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, loss, felt, biggest. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Self-destructive path is how Brian describes his best friend's behaviour before he fired him: a course that was dragging down the business while everyone else could already see it. The phrase appears twice, beside clients complaining, his wife seeing it, and the first million-dollar month six months later. Firing his friend felt like the biggest loss at the time, because he felt he had let him down and had not done everything he could. The clip's lesson is that the hard thing he was going through was the thing leading to his biggest breakthrough, and the path names the cost of refusing to see what was in front of him.
 
 ## Synonyms
 
-- felt like
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The things that you're going through right now that are fucking hard might actually be the very thing that's gonna lead you to the biggest breakthrough you've ever had. Firing my best friend is one of the hardest things I ever had to do, and at the time it felt like the biggest loss because I felt like I let him down. I felt like I wasn't there for him." — sources/S_ig_therealbrianmark_DJAc5suToGD.md
-> "I felt like I didn't do everything I possibly could. But the reality of the situation is he was on a self-destructive path, and that self-destructive path was dragging down the business. And clients were complaining about it. My wife could see it. My friends could see it, but I just refused to see it because he was my best friend. Six months later, we hit our first million-dollar month." — sources/S_ig_therealbrianmark_DJAc5suToGD.md
+> "he was on a self-destructive path, and that self-destructive path was dragging down the business." — sources/S_ig_therealbrianmark_DJAc5suToGD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "felt like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a clinical diagnosis: Brian uses the phrase for a friend's work behaviour and its effect on the business, not as a medical claim about anyone's health.
+- Read as proof the firing caused the million-dollar month: the six-month gap is his timeline, not a causal experiment, and the clip only says the breakthrough followed the hard decision.

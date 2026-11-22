@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch9)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,278 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,226 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -54,56 +54,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ4kbB6PEQU.md | ado | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ4rL5tSCCX.md | million | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ5CG4DhqTu.md | video | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ5bLiDvLky.md | budget | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ6-S9TpmFR.md | whole street | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ74mYmygHN.md | prospect | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ7TByAScbW.md | next person | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ9n9dipcfZ.md | app | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJAc5suToGD.md | felt like | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJAl_VCz00j.md | five | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJAvDWyJ_JZ.md | money | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJB3QrXRRZG.md | cheapest option | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJCAg3qp6nW.md | biggest month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJCVM7TpSq6.md | five | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJDIdVjN1Zr.md | money | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJEymduNg03.md | people | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJF5pYJNBZJ.md | bro | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJFA9oZxaED.md | question | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJFd9JzSI04.md | opinion | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJH60wrylt-.md | yourself | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJHb11FtFMH.md | because | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJHtJlDR6o7.md | every single | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJIANtMyZCD.md | know | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJJ-pQYJjNE.md | content | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJJi4N_RxHy.md | parasocial relationship | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJK7dJwtwZr.md | content | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJKaPYoyYYt.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJMlESyJrw7.md | hooks | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJNJ8BOSKij.md | photoshoots | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJNcjlWNOZ5.md | gonna | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJO0rt4xfVv.md | where | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJO_d4gxmuR.md | Yeah | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJPXrGxxn-2.md | poll | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJP_AIkSU0P.md | head start | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJRRYv7RN8U.md | thousand five | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJSD4mYyg_7.md | event | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJSSkHthFlP.md | cheapest option | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJT1WvFRf6N.md | seventy-five | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJUHn4hxxOH.md | thoughts | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJUWJhHtRGJ.md | hook | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJUswAbSuC9.md | whole squad | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJV7VcERlgj.md | really happy | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJVOGGly7CO.md | want | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJYB0jXplhe.md | gonna | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJZ44n2SL_j.md | seven days | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJZX3GAR7aS.md | every single | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJZqJrXPqkW.md | extra work | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJaYFh6yzvU.md | words | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJb7yV2Rlmn.md | stopped | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJcHf88pi4O.md | Number | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJcXO2WS6eB.md | clients | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJczTuwBAKA.md | objection | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJdRUW3xZQg.md | gets | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ5bLiDvLky.md | budget | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ6-S9TpmFR.md | own the whole street | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ74mYmygHN.md | matching the energy | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ7TByAScbW.md | steal like an artist | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ9n9dipcfZ.md | retention graph | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJAc5suToGD.md | self-destructive path | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJAl_VCz00j.md | hook | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJAvDWyJ_JZ.md | systems | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJB3QrXRRZG.md | cheapest option | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJCAg3qp6nW.md | do the work | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJCVM7TpSq6.md | 30-day content calendar | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJDIdVjN1Zr.md | no finish line | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJEymduNg03.md | stitch | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJF5pYJNBZJ.md | record month | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJFA9oZxaED.md | micro shift | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJFd9JzSI04.md | violent action | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJH60wrylt-.md | gateway to belief | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJHb11FtFMH.md | step back | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJHtJlDR6o7.md | three hundred and sixty five days | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJIANtMyZCD.md | surround yourself | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJJ-pQYJjNE.md | leads, not likes | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJJi4N_RxHy.md | parasocial relationship | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJK7dJwtwZr.md | 100 DMs a day | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJKaPYoyYYt.md | done is better than perfect | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJMlESyJrw7.md | hook bank | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJNJ8BOSKij.md | AI generated lookalikes | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJNcjlWNOZ5.md | pre-frame | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJO0rt4xfVv.md | transformation story | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJO_d4gxmuR.md | routine | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJPXrGxxn-2.md | story poll | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJP_AIkSU0P.md | baby face | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJRRYv7RN8U.md | mindset | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJSD4mYyg_7.md | pull back the curtain | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJSSkHthFlP.md | cheapest option | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJT1WvFRf6N.md | investment property | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJUHn4hxxOH.md | refrain | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJUWJhHtRGJ.md | hook | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJUswAbSuC9.md | whole squad's winning | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJV7VcERlgj.md | one hundred K | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJVOGGly7CO.md | awareness ads | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJYB0jXplhe.md | dollar per follower | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJZ44n2SL_j.md | ten K in seven days | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJZX3GAR7aS.md | Project Best B Mark | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJZqJrXPqkW.md | text hook | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJaYFh6yzvU.md | banned words | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJb7yV2Rlmn.md | stopped dreaming | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJcHf88pi4O.md | unlimited content ideas | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJcXO2WS6eB.md | leap of faith | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJczTuwBAKA.md | full transparency | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJdRUW3xZQg.md | participation trophies | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJe5A2GSkqM.md | business | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJehgDOxG8l.md | because | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJfLS-cBVOW.md | results like | 1 |

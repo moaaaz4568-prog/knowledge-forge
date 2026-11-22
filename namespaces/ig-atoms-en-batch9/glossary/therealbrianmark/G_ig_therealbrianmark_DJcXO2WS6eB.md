@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [clients, therealbrianmark account context]
+aka: ["leap of faith"]
 origin: sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
 ---
 
-# G_ig_therealbrianmark_DJcXO2WS6eB — clients
+# G_leap_of_faith — leap of faith
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: service, done, brian, delivery. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Leap of faith is how Nate describes joining PT Domination after hesitating: he saw the program online, thought everything was too good to be true, and doubted he could do what the other clients had done. The phrase appears twice, beside $13,000 within the first four months, mindset coaching help, and a community of like-minded individuals. Taking the leap got him everything he was looking for, from content creation and delivery of service to things he didn't even know he needed. The testimonial ends as a recommendation to anyone hesitating who wants a dream career in fitness, and Brian closes by offering the exact system Nate was taught, from posting content to signing clients.
 
 ## Synonyms
 
-- clients
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I saw this program online and thought everything was too good to be true, and I honestly thought I just couldn't do what all the other clients have done in Brian's ecosystem in the past." — sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
-> "However, when I entered the program from the start and I took that leap of faith, I got everything I was looking for from content creation, help with delivery of service to clients, and things that I didn't even know I needed like mindset coaching help and just a community of other like-minded individuals to push you beyond barriers you never thought you could push past through." — sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
-> "If you want to learn the exact system that we taught Nate, we taught him how to post content, how to get DMs, how to get on sales calls, how to sign clients, and how to deliver an amazing service to those clients. If you want to learn exactly how we did it, comment or DM me 10K and I'll reach out to you to see if I can help." — sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
+> "when I entered the program from the start and I took that leap of faith, I got everything I was looking for from content creation, help with delivery of service to clients, and things that I didn't even know I needed like mindset coaching help" — sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a typical client result: Nate's $13,000 in four months is one testimonial, and the clip never says what other clients earned or how many matched it.
+- Read as Brian's own words: the leap and the hesitation are Nate's, speaking on camera, and Brian's part is the closing offer of the system.

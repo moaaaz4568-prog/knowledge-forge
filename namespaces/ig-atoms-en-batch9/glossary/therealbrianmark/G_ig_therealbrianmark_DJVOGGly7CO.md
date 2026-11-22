@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [want, therealbrianmark account context]
+aka: ["awareness ads"]
 origin: sources/S_ig_therealbrianmark_DJVOGGly7CO.md
 ---
 
-# G_ig_therealbrianmark_DJVOGGly7CO — want
+# G_awareness_ads — awareness ads
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: organic, content, instead, master. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Awareness ads are the middle step in Brian's ad sequence: master organic content first, then use awareness ads to get followers, and only then run DM ads to people already watching your content. The phrase appears once, beside DM me to apply for coaching, cold audience, and warm response. His warning is that running a "DM me to apply" ad to a cold audience that has never seen you is the dumbest thing you can do. The awareness ad earns the audience first, so the later DM ad lands on people who have already seen the content and are far more likely to answer warmly.
 
 ## Synonyms
 
-- want
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Instead, what you want to do is you want to master organic content and you want to use awareness ads to get followers and then run DM ads to people that are already watching and consuming your content." — sources/S_ig_therealbrianmark_DJVOGGly7CO.md
-> "This way, when you're targeting people, the chances of you getting a warm response from somebody that's already seen your content is a lot more likely than sending that ad to completely cold traffic. Now, if you want the exact script for the DM ad that I get my clients to run, comment the word script and I'll send it over." — sources/S_ig_therealbrianmark_DJVOGGly7CO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on DM ads: Brian runs DM ads himself, but only to the warm audience the awareness ads built, so the sequence matters more than any single ad type.
+- Read as a promise of warm replies: the awareness step makes a warm response more likely, and the clip never guarantees that any particular viewer will reply.

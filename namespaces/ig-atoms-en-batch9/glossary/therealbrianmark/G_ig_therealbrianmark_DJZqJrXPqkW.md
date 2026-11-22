@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [extra work, therealbrianmark account context]
+aka: ["text hook"]
 origin: sources/S_ig_therealbrianmark_DJZqJrXPqkW.md
 ---
 
-# G_ig_therealbrianmark_DJZqJrXPqkW — extra work
+# G_text_hook — text hook
 
 ## Term
 
-"extra work" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, work, instead, keeping. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Text hook is the on-screen line in Brian's trick for posting twice as much content with no extra work: use the client's own question as the text hook, with their face in the bottom left and their question playing. The phrase appears once, beside record the Zoom call, pick out the best questions, and ten extra pieces of content each day. The method is to combine coaching and recording time, film the calls, then chop up the best part of the answer for the value. The client's question does double duty: it is the hook that stops the scroll and the proof that the content answers something real people asked.
 
 ## Synonyms
 
-- extra work
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's a sneaky trick to post twice as much content with no extra work. Instead of keeping your coaching and recording time separate, combine them. When you're doing coaching calls with your clients, set your phone on the side to record yourself and make sure you record the Zoom call. After that, go back and pick out the best questions your clients asked and turn them into reels like this." — sources/S_ig_therealbrianmark_DJZqJrXPqkW.md
-> "Five to ten calls in the same day. If you wanted to do some sort of checking, you still could. Put their face in the bottom left and then let their question play. Use their question as the text hook on screen and then chop up the best part of the answer for the value. Now you get ten extra pieces of content each day that you do a coaching call with zero extra work on your end." — sources/S_ig_therealbrianmark_DJZqJrXPqkW.md
+> "Use their question as the text hook on screen and then chop up the best part of the answer for the value." — sources/S_ig_therealbrianmark_DJZqJrXPqkW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "extra work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a caption: the text hook sits on screen over the client's face and question, so it is part of the video's opening, not a caption written after posting.
+- Read as zero work in total: the calls still happen and the clips still get chopped, so the saving is the recording time, not the editing.

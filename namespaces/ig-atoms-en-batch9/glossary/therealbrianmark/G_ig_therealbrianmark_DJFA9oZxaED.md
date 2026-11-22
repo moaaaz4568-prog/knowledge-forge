@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [question, therealbrianmark account context]
+aka: ["micro shift"]
 origin: sources/S_ig_therealbrianmark_DJFA9oZxaED.md
 ---
 
-# G_ig_therealbrianmark_DJFA9oZxaED — question
+# G_micro_shift — micro shift
 
 ## Term
 
-"question" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: question, through, script, roll. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Micro shift is Brian's name for the tiny change that books more sales calls: when a prospect opens up about a real problem, answer with a voice note instead of firing the next scripted question. The phrase appears once, beside DM script, voice note, and five to ten sales calls a week. His example voice note thanks Nick for opening up, repeats back that he has struggled for a long time, and asks for his number one goal, showing care before continuing the script. The shift is small in effort and large in effect, because the prospect feels heard rather than processed.
 
 ## Synonyms
 
-- question
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to start booking five to ten sales calls a week in your DMs. See, most of you dorks use a DM script and then you just roll through from question to question to question. And your DM script usually sucks. So if you want a good one, comment script and I'll send it." — sources/S_ig_therealbrianmark_DJFA9oZxaED.md
-> "However, if you wanna book more sales calls, you need to show your prospects that you actually care, and here's how you do that. When somebody opens up to you and talks to you about one of their main problems, instead of just sending them the next question in the script, send them a voice note. Hey Nick, thanks so much for opening up to me, brother. I really appreciate you sharing that with me." — sources/S_ig_therealbrianmark_DJFA9oZxaED.md
+> "Boom, just like that, that micro shift is gonna make a massive difference in the amount of calls that you book." — sources/S_ig_therealbrianmark_DJFA9oZxaED.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "question": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a new script to memorize: the shift is about pausing the script to respond like a person, so turning the voice note into another rigid template defeats it.
+- Read as a guarantee of five to ten calls a week: the number is the goal of the whole clip, and the shift is one change offered toward it, not a promise attached to a single voice note.

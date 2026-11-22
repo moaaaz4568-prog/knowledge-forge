@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [bro, therealbrianmark account context]
+aka: ["record month"]
 origin: sources/S_ig_therealbrianmark_DJF5pYJNBZJ.md
 ---
 
-# G_ig_therealbrianmark_DJF5pYJNBZJ — bro
+# G_record_month — record month
 
 ## Term
 
-"bro" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: let, actually, thanks, proud. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Record month is the milestone the client celebrates four months into the CLA PT: ten K broken, then a record month of thirteen K. The phrase appears once, beside let's go, thanks dog, and I am so proud of you, bro. The clip is pure celebration, two voices trading excitement over the numbers, with no lesson and no method attached. The record is the proof that the four months worked, stated as a personal best rather than a comparison with anyone else.
 
 ## Synonyms
 
-- bro
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yo, four months into the CLA PT, I just broke ten K. Hit my record month of thirteen K. Actually, let's go, bro! Let's go! Thanks, dog. I am so proud of you, bro. That's amazing." — sources/S_ig_therealbrianmark_DJF5pYJNBZJ.md
+> "Yo, four months into the CLA PT, I just broke ten K. Hit my record month of thirteen K." — sources/S_ig_therealbrianmark_DJF5pYJNBZJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bro": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a typical result: the clip reports one client's fourth month, and nothing in it says every client hits ten K in four months.
+- Read as a full income report: ten K and thirteen K are the only figures given, with no mention of costs, refunds, or what the months before looked like.

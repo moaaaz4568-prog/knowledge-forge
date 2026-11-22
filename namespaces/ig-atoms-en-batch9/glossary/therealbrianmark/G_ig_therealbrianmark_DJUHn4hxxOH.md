@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [thoughts, therealbrianmark account context]
+aka: [refrain]
 origin: sources/S_ig_therealbrianmark_DJUHn4hxxOH.md
 ---
 
-# G_ig_therealbrianmark_DJUHn4hxxOH — thoughts
+# G_refrain — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (25 words) to form a repeated term, so this entry documents the source's central term "thoughts" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a short sung lyric about pain, bad thoughts, and demons, and "refrain" here is only the entry's type label, not a concept Brian teaches. The lyric runs through not running away from the pain, feeling like going insane, bad thoughts filling the brain, and demons swimming inside the veins, closing on the words Two seconds. Nothing in it names a method, a business idea, or a lesson; it is a mood piece set to music, and the refrain label marks that form rather than any meaning to extract from it.
 
 ## Synonyms
 
-- thoughts
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Can't run away from the pain. I feel like I'm going insane. Bad thoughts filling up my brain. Demons swimming inside my veins. Two seconds." — sources/S_ig_therealbrianmark_DJUHn4hxxOH.md
+> "Can't run away from the pain. I feel like I'm going insane. Bad thoughts filling up my brain. Demons swimming inside my veins." — sources/S_ig_therealbrianmark_DJUHn4hxxOH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thoughts": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Brian stating his own feelings: the lines are song lyrics over a clip, and the source gives no sign they describe his life or his views.
+- Read as a teaching about pain or mental health: the lyric offers images with no advice, no method, and no conclusion, so no lesson can be drawn from it.

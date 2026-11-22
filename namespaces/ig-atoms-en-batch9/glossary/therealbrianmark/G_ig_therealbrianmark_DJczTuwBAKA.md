@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [objection, therealbrianmark account context]
+aka: ["full transparency"]
 origin: sources/S_ig_therealbrianmark_DJczTuwBAKA.md
 ---
 
-# G_ig_therealbrianmark_DJczTuwBAKA — objection
+# G_full_transparency — full transparency
 
 ## Term
 
-"objection" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: comes, way, overcome, later. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Full transparency is how Brian opens his lesson on the spouse objection: the best way to overcome it is before it comes up. The phrase appears once, beside speak with your wife, smokescreen of wife, and refer back to what they said. His method is to catch the mention of a family, spouse, or significant other early in the call and ask about them right away: how long together, does she know about the call, is she supportive of the fitness journey. If the prospect later says they must talk to their spouse, he refers back to those answers, and he also asks what objection the partner might have, because that question reveals the actual objection underneath the smokescreen.
 
 ## Synonyms
 
-- objection
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, so yeah, you just need to speak with your wife. Now, full transparency, the best way to overcome this objection is before it comes up. During the call, as you're listening, if they say they have a family or a spouse or a significant other, you need to catch that right away. Oh, that's amazing. How long have you been with your significant other? Two years? That's awesome." — sources/S_ig_therealbrianmark_DJczTuwBAKA.md
-> "If you do this before the objection comes up, later on in the call, if they do say that they have to talk to their spouse, you can refer back to what they said at the start of the conversation. Now that script also works for the end of the call once they give you that objection. Does she know that we're speaking today and are they supportive of your goal?" — sources/S_ig_therealbrianmark_DJczTuwBAKA.md
-> "The next question you would ask would be this. So Nick, if, you know, let's just say you did end up going to speak to your partner and she did have some sort of objection to you moving forward today, what do you think that objection would be? This question will reveal their actual objection underneath the smokescreen of wife." — sources/S_ig_therealbrianmark_DJczTuwBAKA.md
+> "Now, full transparency, the best way to overcome this objection is before it comes up." — sources/S_ig_therealbrianmark_DJczTuwBAKA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "objection": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the spouse is never the real issue: the clip says the objection hides the actual one underneath, but it never rules out a partner who genuinely objects.
+- Read as a script for the end of the call only: Brian says the same questions work at the end once the objection is given, but the lesson is to ask them before it comes up.
