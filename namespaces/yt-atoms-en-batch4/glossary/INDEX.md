@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch4)
 
-Batches 1–2 (codes 1–100 of the 1,000-code list): 100 glossary files, one live example each (100 live examples total). Self-check §12: batch 1 50/50, batch 2 50/50. Gates result recorded in PROGRESS.md.
+Batches 1–3 (codes 1–150 of the 1,000-code list): 150 glossary files, one live example each (150 live examples total). Self-check §12: batch 1 50/50, batch 2 50/50, batch 3 50/50. Gates result recorded in PROGRESS.md.
 
 | file | term | live examples |
 | --- | --- | --- |
@@ -104,3 +104,53 @@ Batches 1–2 (codes 1–100 of the 1,000-code list): 100 glossary files, one li
 | glossary/misc-dl/G_yt_TOxYsg8xdYo_en.md | Law of Contraction | 1 |
 | glossary/misc-dl/G_yt_TPfzthfCcVk_en.md | thinking objectively | 1 |
 | glossary/misc-dl/G_yt_TQNpKx-UbJo_en.md | president | 1 |
+| glossary/misc-dl/G_yt_TQhaWirAz2Y_en.md | content | 1 |
+| glossary/misc-dl/G_yt_TR3oqNc1PUQ_en.md | time and money | 1 |
+| glossary/misc-dl/G_yt_TTPIpNyF76k_en.md | weekly rhythm | 1 |
+| glossary/misc-dl/G_yt_TU6abz16X90_en.md | franchise | 1 |
+| glossary/misc-dl/G_yt_TUERhuW8Tx0_en.md | retainers | 1 |
+| glossary/misc-dl/G_yt_TV9kqfKP1Sw_en.md | extended brain | 1 |
+| glossary/misc-dl/G_yt_TVWJtmyNnFA_en.md | edutainment | 1 |
+| glossary/misc-dl/G_yt_TVg5T0PS6nc_en.md | pre-call asset | 1 |
+| glossary/misc-dl/G_yt_TWMtRgBgA74_en.md | origin story | 1 |
+| glossary/misc-dl/G_yt_TXIttwG6P20_en.md | geometric logotype | 1 |
+| glossary/misc-dl/G_yt_TXSLC_2iGoI_en.md | reflection effect | 1 |
+| glossary/misc-dl/G_yt_TXV013ZY03Y_en.md | voice agents | 1 |
+| glossary/misc-dl/G_yt_TXhsspcJPSQ_en.md | music | 1 |
+| glossary/misc-dl/G_yt_TXynmHJHo7I_en.md | LinkedIn profile | 1 |
+| glossary/misc-dl/G_yt_TYVh8vxBAoo_en.md | graphic design course | 1 |
+| glossary/misc-dl/G_yt_TZKM9J70KHg_en.md | inflation | 1 |
+| glossary/misc-dl/G_yt_TZhljgIbp4U_en.md | digital course | 1 |
+| glossary/misc-dl/G_yt_TZvfru0AS-k_en.md | webinar | 1 |
+| glossary/misc-dl/G_yt_TZzV9WbB7FU_en.md | direct selection tool | 1 |
+| glossary/misc-dl/G_yt_T_aXgB4H-Ag_en.md | fill it in | 1 |
+| glossary/misc-dl/G_yt_T_hLBCuNiy0_en.md | time-saving tip | 1 |
+| glossary/misc-dl/G_yt_Ta5hywdHPWU_en.md | leading | 1 |
+| glossary/misc-dl/G_yt_TaRRSH19SVY_en.md | content upgrade | 1 |
+| glossary/misc-dl/G_yt_TadB4KziN38_en.md | brand identity | 1 |
+| glossary/misc-dl/G_yt_TcP4lOv7jS0_en.md | super car | 1 |
+| glossary/misc-dl/G_yt_TeAGsgfPYTM_en.md | specialization | 1 |
+| glossary/misc-dl/G_yt_TedjTUuP-pM_en.md | micromanaging | 1 |
+| glossary/misc-dl/G_yt_Tfgnwuk7GkA_en.md | myfonts.com | 1 |
+| glossary/misc-dl/G_yt_TgR-y4Oal8A_en.md | Astra 6 | 1 |
+| glossary/misc-dl/G_yt_TglU40u2szM_en.md | visibility problem | 1 |
+| glossary/misc-dl/G_yt_TgtEI_XnImE_en.md | housing market | 1 |
+| glossary/misc-dl/G_yt_TgzvSl46xYo_en.md | first dollar | 1 |
+| glossary/misc-dl/G_yt_Thx3o_rA8ZM_en.md | gross margin | 1 |
+| glossary/misc-dl/G_yt_TiPRw-cCt5w_en.md | Facebook advertising | 1 |
+| glossary/misc-dl/G_yt_Tj35JuOj55U_en.md | blend | 1 |
+| glossary/misc-dl/G_yt_TjRDzT6YKfw_en.md | contrast | 1 |
+| glossary/misc-dl/G_yt_TjsfmBV-bGE_en.md | ADHD | 1 |
+| glossary/misc-dl/G_yt_Tjtr2LrP7wU_en.md | lead generation | 1 |
+| glossary/misc-dl/G_yt_TjuarXRQzSQ_en.md | double click | 1 |
+| glossary/misc-dl/G_yt_TkaqoxFMGE0_en.md | moments | 1 |
+| glossary/misc-dl/G_yt_Tl0tlYey0Nk_en.md | type face | 1 |
+| glossary/misc-dl/G_yt_Tl8TeV-pudY_en.md | x-pen pro | 1 |
+| glossary/misc-dl/G_yt_TlUoq7CPjfE_en.md | target audience | 1 |
+| glossary/misc-dl/G_yt_Tm25IxJQPWM_en.md | hierarchy | 1 |
+| glossary/misc-dl/G_yt_TmN9GPQXh40_en.md | sales appointment | 1 |
+| glossary/misc-dl/G_yt_TmgEhK5sRVk_en.md | face tracking | 1 |
+| glossary/misc-dl/G_yt_TnSNBRlfX-o_en.md | Clay | 1 |
+| glossary/misc-dl/G_yt_TnqpYRfMowo_en.md | belief systems | 1 |
+| glossary/misc-dl/G_yt_TosWR5cTkLY_en.md | visual impact | 1 |
+| glossary/misc-dl/G_yt_TpW3auAQAbs_en.md | visual gravity | 1 |
