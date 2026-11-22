@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch5)
 
-Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 200 glossary files, 200 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 250 glossary files, 250 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -204,3 +204,53 @@ Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file —
 | glossary/misc-dl/G_yt_cLieMKqT1fc_en.md | the chosen | 1 |
 | glossary/misc-dl/G_yt_cMJXiD0Cjt4_en.md | offer | 1 |
 | glossary/misc-dl/G_yt_cNZ8ekskYzM_en.md | aida | 1 |
+| glossary/misc-dl/G_yt_cNzJkkfIhYw_en.md | positioning | 1 |
+| glossary/misc-dl/G_yt_cP6sEVzYt_U_en.md | constraint | 1 |
+| glossary/misc-dl/G_yt_cPdL1zaYVQY_en.md | recraft | 1 |
+| glossary/misc-dl/G_yt_cQOIDhZfJkA_en.md | gestalt theory | 1 |
+| glossary/misc-dl/G_yt_cQRAkdtbrH8_en.md | relevance line | 1 |
+| glossary/misc-dl/G_yt_cRqCrEx05Ro_en.md | typography | 1 |
+| glossary/misc-dl/G_yt_cSJnjmVE66o_en.md | sharpness | 1 |
+| glossary/misc-dl/G_yt_cTyh0moDd78_en.md | time audit | 1 |
+| glossary/misc-dl/G_yt_cVgWFuyOE60_en.md | identity | 1 |
+| glossary/misc-dl/G_yt_cWk4k3GHI5c_en.md | badge logo | 1 |
+| glossary/misc-dl/G_yt_cYMW4cwMJrE_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_cYSR71REvfA_en.md | job | 1 |
+| glossary/misc-dl/G_yt_cYxCHBmVsrk_en.md | simplest possible route | 1 |
+| glossary/misc-dl/G_yt_c_ZA5FPxkAo_en.md | blend | 1 |
+| glossary/misc-dl/G_yt_ca4xbLavQgY_en.md | brand | 1 |
+| glossary/misc-dl/G_yt_ca5h47tJsdE_en.md | Bumble | 1 |
+| glossary/misc-dl/G_yt_caAYfs8Elj4_en.md | Epic email | 1 |
+| glossary/misc-dl/G_yt_caEkn5qExdM_en.md | speed | 1 |
+| glossary/misc-dl/G_yt_cai40ROkTYM_en.md | artificial intelligence | 1 |
+| glossary/misc-dl/G_yt_caiXTlREo_Y_en.md | naming companies | 1 |
+| glossary/misc-dl/G_yt_cbAy-Xsi78o_en.md | perfectionism | 1 |
+| glossary/misc-dl/G_yt_cboXyBcJ2NY_en.md | prole drift | 1 |
+| glossary/misc-dl/G_yt_cc3hrngZd24_en.md | psychology of achievements | 1 |
+| glossary/misc-dl/G_yt_cdOxHw6Vn1o_en.md | offer | 1 |
+| glossary/misc-dl/G_yt_cg2DrYYjFoE_en.md | inbound lead | 1 |
+| glossary/misc-dl/G_yt_cgBLrEGLFH8_en.md | value model | 1 |
+| glossary/misc-dl/G_yt_cgKherxHH_s_en.md | niche | 1 |
+| glossary/misc-dl/G_yt_cgiE9E76myM_en.md | ICP | 1 |
+| glossary/misc-dl/G_yt_cgsKl4_WkO4_en.md | sales process | 1 |
+| glossary/misc-dl/G_yt_ch1RVxCA9K4_en.md | strategic narrative | 1 |
+| glossary/misc-dl/G_yt_chdKuYME09o_en.md | empty-handed | 1 |
+| glossary/misc-dl/G_yt_chlZR1w7tfw_en.md | Accidental entrepreneurship | 1 |
+| glossary/misc-dl/G_yt_chsw8L3skPU_en.md | builder | 1 |
+| glossary/misc-dl/G_yt_cimg4zIPIoA_en.md | booklet | 1 |
+| glossary/misc-dl/G_yt_civiOO2bkUs_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_cj86eFeEtkA_en.md | design principle | 1 |
+| glossary/misc-dl/G_yt_cjm9cN4Gje0_en.md | event | 1 |
+| glossary/misc-dl/G_yt_cjpejmjcLtY_en.md | growth forecast | 1 |
+| glossary/misc-dl/G_yt_cjuaLnL0UIA_en.md | mask | 1 |
+| glossary/misc-dl/G_yt_ck1jsbVR22s_en.md | incubator | 1 |
+| glossary/misc-dl/G_yt_ckAzkRtPxdA_en.md | illustrator | 1 |
+| glossary/misc-dl/G_yt_ckSpE0Oh43c_en.md | portfolio review | 1 |
+| glossary/misc-dl/G_yt_clcsEm-Y6DI_en.md | headlines | 1 |
+| glossary/misc-dl/G_yt_clix9IC8HfE_en.md | leadership | 1 |
+| glossary/misc-dl/G_yt_cnngZccBJ9I_en.md | collateral | 1 |
+| glossary/misc-dl/G_yt_co0Tjw08dVw_en.md | niche targeting | 1 |
+| glossary/misc-dl/G_yt_cpHtamvjwHY_en.md | business development | 1 |
+| glossary/misc-dl/G_yt_cq2VW37z1vQ_en.md | Benson | 1 |
+| glossary/misc-dl/G_yt_cqMpTbTrMW4_en.md | Claude | 1 |
+| glossary/misc-dl/G_yt_cqgTMWGaK1M_en.md | hot buttons | 1 |
