@@ -1,54 +1,106 @@
 # Index — glossary/
 
-| File | Notes |
-|---|---|
-| glossary/misc-dl/G_yt_jGV8jpHE2po_ar.md | glossary |
-| glossary/misc-dl/G_yt_jH3JRQqSkas_ar.md | glossary |
-| glossary/misc-dl/G_yt_jHDVpTCCdfk_ar.md | glossary |
-| glossary/misc-dl/G_yt_jHgxCj8qm2E_ar.md | glossary |
-| glossary/misc-dl/G_yt_jHxXBGthuOk_ar.md | glossary |
-| glossary/misc-dl/G_yt_jI0AhWZkEJw_ar.md | glossary |
-| glossary/misc-dl/G_yt_jIwI7HxOqeQ_ar.md | glossary |
-| glossary/misc-dl/G_yt_jJWEU76EOG4_ar.md | glossary |
-| glossary/misc-dl/G_yt_jJaZDt9pRHI_ar.md | glossary |
-| glossary/misc-dl/G_yt_jJfv2IcE-BY_ar.md | glossary |
-| glossary/misc-dl/G_yt_jK68WsdasKc_ar.md | glossary |
-| glossary/misc-dl/G_yt_jKNsaybYSes_ar.md | glossary |
-| glossary/misc-dl/G_yt_jKd5TUlRjJc_ar.md | glossary |
-| glossary/misc-dl/G_yt_jKxWyAj5RPg_ar.md | glossary |
-| glossary/misc-dl/G_yt_jL4Exf4iL4s_ar.md | glossary |
-| glossary/misc-dl/G_yt_jLTbb0kT1OI_ar.md | glossary |
-| glossary/misc-dl/G_yt_jLqYIXm0WdQ_ar.md | glossary |
-| glossary/misc-dl/G_yt_jLzjZoTU_M4_ar.md | glossary |
-| glossary/misc-dl/G_yt_jLzmZdb2J9g_ar.md | glossary |
-| glossary/misc-dl/G_yt_jM10LqMwaXY_ar.md | glossary |
-| glossary/misc-dl/G_yt_jML-mA7Yvbo_ar.md | glossary |
-| glossary/misc-dl/G_yt_jMU3MHbIClM_ar.md | glossary |
-| glossary/misc-dl/G_yt_jM_JhNIE0vo_ar.md | glossary |
-| glossary/misc-dl/G_yt_jMhXWpwP6ns_ar.md | glossary |
-| glossary/misc-dl/G_yt_jMv9du0nBxw_ar.md | glossary |
-| glossary/misc-dl/G_yt_jNgAHeUJmas_ar.md | glossary |
-| glossary/misc-dl/G_yt_jO4jTYKNOJQ_ar.md | glossary |
-| glossary/misc-dl/G_yt_jPJL5csn7j0_ar.md | glossary |
-| glossary/misc-dl/G_yt_jPLNMDIa7Cc_ar.md | glossary |
-| glossary/misc-dl/G_yt_jPQljLi58ow_ar.md | glossary |
-| glossary/misc-dl/G_yt_jPepd6XiF5g_ar.md | glossary |
-| glossary/misc-dl/G_yt_jPkRhVQKbdw_ar.md | glossary |
-| glossary/misc-dl/G_yt_jQWIKkPXqgc_ar.md | glossary |
-| glossary/misc-dl/G_yt_jQZDC0foUmU_ar.md | glossary |
-| glossary/misc-dl/G_yt_jQljulwy14U_ar.md | glossary |
-| glossary/misc-dl/G_yt_jR-nHUaZ2Ls_ar.md | glossary |
-| glossary/misc-dl/G_yt_jRLNfaAmFf8_ar.md | glossary |
-| glossary/misc-dl/G_yt_jRpjD9SdXHY_ar.md | glossary |
-| glossary/misc-dl/G_yt_jSLm2bI6aLU_ar.md | glossary |
-| glossary/misc-dl/G_yt_jSviU35C3j8_ar.md | glossary |
-| glossary/misc-dl/G_yt_jT7B_Oy4Ejs_ar.md | glossary |
-| glossary/misc-dl/G_yt_jTdktHfB9XU_ar.md | glossary |
-| glossary/misc-dl/G_yt_jTllbia448o_ar.md | glossary |
-| glossary/misc-dl/G_yt_jTsTjCFk-RY_ar.md | glossary |
-| glossary/misc-dl/G_yt_jU9MwD1TJ-s_ar.md | glossary |
-| glossary/misc-dl/G_yt_jUCDzeWCOyE_ar.md | glossary |
-| glossary/misc-dl/G_yt_jULhNLPSdfI_ar.md | glossary |
-| glossary/misc-dl/G_yt_jUUFfqRT0Bw_ar.md | glossary |
-| glossary/misc-dl/G_yt_jUrv2WL6HIo_ar.md | glossary |
-| glossary/misc-dl/G_yt_jUspsW1jJzA_ar.md | glossary |
+Glossary of YouTube batch 2 (Arabic sources): one G_ entry per atom T_ file — 100 glossary files, 100 live literal examples so far (target 4,997 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (Arabic).
+
+| File | Term | Live examples |
+|---|---|---|
+| glossary/adriandimac/G_yt_qXcHUhb9QIk_ar.md | الحظر الخفي | 1 |
+| glossary/costanatomy56/G_yt_qXbUUNwF9As_ar.md | هامش الربح | 1 |
+| glossary/creator_toby/G_yt_qQBd7XjWYa8_ar.md | مساعدي الذكاء الاصطناعي | 1 |
+| glossary/ctthedisrupter/G_yt_qNWB8ZD3PKU_ar.md | مُعرّف المنشور | 1 |
+| glossary/ctthedisrupter/G_yt_qQeT9Lj3cSc_ar.md | تكلفة الألف ظهور | 1 |
+| glossary/ctthedisrupter/G_yt_qTzNGe9q_KI_ar.md | البيع المباشر للمستهلك | 1 |
+| glossary/ctthedisrupter/G_yt_qWpUFRqO3ak_ar.md | برنامج إعلانات فيسبوك | 1 |
+| glossary/ctthedisrupter/G_yt_qZ1ao_yhanI_ar.md | إسناد اللمسات المتعددة | 1 |
+| glossary/guillermobusiness/G_yt_qSrZ6fNX4KE_ar.md | ملف تعريف العميل | 1 |
+| glossary/hakeem.podcast/G_yt_qUsz4G0pSjg_ar.md | الخبره | 1 |
+| glossary/jaceengland/G_yt_qRwb33hrIeA_ar.md | chant | 1 |
+| glossary/jaceengland/G_yt_qYU20colNRE_ar.md | فعالية خطابية | 1 |
+| glossary/maximiliandier/G_yt_qOi3Z5xUqD4_ar.md | سمسار عقارات | 1 |
+| glossary/maximiliandier/G_yt_qPojAIiEUz8_ar.md | عدم الاتصال | 1 |
+| glossary/maximiliandier/G_yt_qUC2vhicQc0_ar.md | الإفلاس بموجب الفصل 13 | 1 |
+| glossary/misc-dl/G_yt_jGV8jpHE2po_ar.md | العقد | 1 |
+| glossary/misc-dl/G_yt_jH3JRQqSkas_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/misc-dl/G_yt_jHDVpTCCdfk_ar.md | نظام بيع | 1 |
+| glossary/misc-dl/G_yt_jHgxCj8qm2E_ar.md | المسودة الأولى | 1 |
+| glossary/misc-dl/G_yt_jHxXBGthuOk_ar.md | قرار توظيف | 1 |
+| glossary/misc-dl/G_yt_jI0AhWZkEJw_ar.md | البورصة | 1 |
+| glossary/misc-dl/G_yt_jIwI7HxOqeQ_ar.md | سيستم برومت | 1 |
+| glossary/misc-dl/G_yt_jJWEU76EOG4_ar.md | العقل المدبر | 1 |
+| glossary/misc-dl/G_yt_jJaZDt9pRHI_ar.md | أفضل الصفقات | 1 |
+| glossary/misc-dl/G_yt_jJfv2IcE-BY_ar.md | الهوية | 1 |
+| glossary/misc-dl/G_yt_jK68WsdasKc_ar.md | الكونتنت التعليمي | 1 |
+| glossary/misc-dl/G_yt_jKNsaybYSes_ar.md | الإعدادات الافتراضية | 1 |
+| glossary/misc-dl/G_yt_jKd5TUlRjJc_ar.md | تصميم الخدمات | 1 |
+| glossary/misc-dl/G_yt_jKxWyAj5RPg_ar.md | مكالمة مبيعات | 1 |
+| glossary/misc-dl/G_yt_jL4Exf4iL4s_ar.md | التثقيف الجنسي | 1 |
+| glossary/misc-dl/G_yt_jLTbb0kT1OI_ar.md | المستوطنون غير الشرعيين | 1 |
+| glossary/misc-dl/G_yt_jLqYIXm0WdQ_ar.md | رد إيجابي | 1 |
+| glossary/misc-dl/G_yt_jLzjZoTU_M4_ar.md | الجزر اليونانية | 1 |
+| glossary/misc-dl/G_yt_jLzmZdb2J9g_ar.md | القوى الخمس | 1 |
+| glossary/misc-dl/G_yt_jM10LqMwaXY_ar.md | الإخراج الفني | 1 |
+| glossary/misc-dl/G_yt_jML-mA7Yvbo_ar.md | المتابعة الذكية | 1 |
+| glossary/misc-dl/G_yt_jMU3MHbIClM_ar.md | الطين | 1 |
+| glossary/misc-dl/G_yt_jM_JhNIE0vo_ar.md | الثقة بالنفس | 1 |
+| glossary/misc-dl/G_yt_jMhXWpwP6ns_ar.md | عمق التكامل | 1 |
+| glossary/misc-dl/G_yt_jMv9du0nBxw_ar.md | تكلفة الاكتساب | 1 |
+| glossary/misc-dl/G_yt_jNgAHeUJmas_ar.md | معادلة الانضباط | 1 |
+| glossary/misc-dl/G_yt_jO4jTYKNOJQ_ar.md | الرسالة | 1 |
+| glossary/misc-dl/G_yt_jPJL5csn7j0_ar.md | التارجت | 1 |
+| glossary/misc-dl/G_yt_jPLNMDIa7Cc_ar.md | قمع النقرات | 1 |
+| glossary/misc-dl/G_yt_jPQljLi58ow_ar.md | الزوايا الحادة | 1 |
+| glossary/misc-dl/G_yt_jPepd6XiF5g_ar.md | البيع الإضافي | 1 |
+| glossary/misc-dl/G_yt_jPkRhVQKbdw_ar.md | العلامة التجارية | 1 |
+| glossary/misc-dl/G_yt_jQWIKkPXqgc_ar.md | وكيل الباحث | 1 |
+| glossary/misc-dl/G_yt_jQZDC0foUmU_ar.md | نظام تشغيل | 1 |
+| glossary/misc-dl/G_yt_jQljulwy14U_ar.md | مقاطع فيديو المصافحة | 1 |
+| glossary/misc-dl/G_yt_jR-nHUaZ2Ls_ar.md | الحزب الشيوعي الصيني | 1 |
+| glossary/misc-dl/G_yt_jRLNfaAmFf8_ar.md | الاستثمار الملائكي | 1 |
+| glossary/misc-dl/G_yt_jRpjD9SdXHY_ar.md | تجارة التراب | 1 |
+| glossary/misc-dl/G_yt_jSLm2bI6aLU_ar.md | الرصاصة الباردة | 1 |
+| glossary/misc-dl/G_yt_jSviU35C3j8_ar.md | نتائج ملموسة | 1 |
+| glossary/misc-dl/G_yt_jT7B_Oy4Ejs_ar.md | مقر المصممين | 1 |
+| glossary/misc-dl/G_yt_jTdktHfB9XU_ar.md | البريد العشوائي | 1 |
+| glossary/misc-dl/G_yt_jTllbia448o_ar.md | التسويق عبر وسائل التواصل الاجتماعي | 1 |
+| glossary/misc-dl/G_yt_jTsTjCFk-RY_ar.md | ملاءمة المنتج للسوق | 1 |
+| glossary/misc-dl/G_yt_jU9MwD1TJ-s_ar.md | التسويق الداخلي | 1 |
+| glossary/misc-dl/G_yt_jUCDzeWCOyE_ar.md | نظارات عميل | 1 |
+| glossary/misc-dl/G_yt_jULhNLPSdfI_ar.md | تكلفة المعيشة | 1 |
+| glossary/misc-dl/G_yt_jUUFfqRT0Bw_ar.md | برنامج MetaMBA | 1 |
+| glossary/misc-dl/G_yt_jUrv2WL6HIo_ar.md | التمويل الإبداعي | 1 |
+| glossary/misc-dl/G_yt_jUspsW1jJzA_ar.md | شركة تسجيل الملكية | 1 |
+| glossary/misc-dl/G_yt_qNTLaB1Vpws_ar.md | الأسئلة الصعبة | 1 |
+| glossary/misc-dl/G_yt_qORlXMV4E5w_ar.md | محرك الحقيقة | 1 |
+| glossary/misc-dl/G_yt_qOeUVs7UGvw_ar.md | المبيعات الجماعية | 1 |
+| glossary/misc-dl/G_yt_qPAqFJLRWE0_ar.md | الطباعة المُقتطعة | 1 |
+| glossary/misc-dl/G_yt_qPI6OGaIm8c_ar.md | الرسوم المتحركة | 1 |
+| glossary/misc-dl/G_yt_qQXrYGcrFpw_ar.md | النمط الهندسي | 1 |
+| glossary/misc-dl/G_yt_qQfyYdzmHc0_ar.md | التسويق المؤثر | 1 |
+| glossary/misc-dl/G_yt_qR6KRyW3nNY_ar.md | رؤساء تنفيذيين لأنفسنا | 1 |
+| glossary/misc-dl/G_yt_qRYwYAuPMaY_ar.md | الحرب العالمية الثانية | 1 |
+| glossary/misc-dl/G_yt_qSM3ZZ-Ygw0_ar.md | مقاولي تركيب الأسقف | 1 |
+| glossary/misc-dl/G_yt_qTSDNyjjAvg_ar.md | البطاقات التعليمية | 1 |
+| glossary/misc-dl/G_yt_qWoOqk0Kw34_ar.md | العملاء المحتملين | 1 |
+| glossary/misc-dl/G_yt_qWvmrSbb36o_ar.md | الرسوم الجمركية | 1 |
+| glossary/misc-dl/G_yt_qXg7EHtsGVE_ar.md | تقييم صحي شامل | 1 |
+| glossary/misc-dl/G_yt_q_8aILN2hpQ_ar.md | تحديد مواعيد نهائية | 1 |
+| glossary/misc-dl/G_yt_q_O5fpBs5C8_ar.md | إعادة تصميم العلامات التجارية | 1 |
+| glossary/mostafa.qandil/G_yt_q_iihQH6dUo_ar.md | كلام الناس | 1 |
+| glossary/muhamdhelal/G_yt_qPdc9nfNDKA_ar.md | 3 دي | 1 |
+| glossary/officialjpmiddleton/G_yt_qRPE11RJrYM_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/omarsaied/G_yt_qRFkSKjDazE_ar.md | الانسب | 1 |
+| glossary/omarsaied/G_yt_qTkowCai1bY_ar.md | تاثير الناق | 1 |
+| glossary/omarsaied/G_yt_qVjRNfpRn7I_ar.md | المكالمات البيعيه | 1 |
+| glossary/orenmeetsworld/G_yt_qUT0Nd44hiI_ar.md | متاجر البقالة الفاخرة الاستعراضية | 1 |
+| glossary/raffaiofm/G_yt_qQZfmk7GK7A_ar.md | برنامج الدردشة الآلي | 1 |
+| glossary/ryandeissofficial/G_yt_qU99pHzsChU_ar.md | متوسط قيمة العميل | 1 |
+| glossary/ryandeissofficial/G_yt_qVgMU29ZRgI_ar.md | معرفة القراءة والكتابة | 1 |
+| glossary/saminyasar_/G_yt_qOSpreQw1LY_ar.md | أداة ذكاء اصطناعي | 1 |
+| glossary/saminyasar_/G_yt_qQd_UXLVLIs_ar.md | نموذج أولي | 1 |
+| glossary/saminyasar_/G_yt_q_B3Ste69eI_ar.md | واجهة برمجة التطبيقات | 1 |
+| glossary/takimoore/G_yt_qNqdTJXagCQ_ar.md | ندوة عبر الإنترنت | 1 |
+| glossary/takimoore/G_yt_qOD0hGFoOB0_ar.md | الإنجازات السريعة | 1 |
+| glossary/takimoore/G_yt_qT3-aQJnuSE_ar.md | عشرة آلاف دولار شهريًا | 1 |
+| glossary/takimoore/G_yt_qUlfzF4A0XM_ar.md | المساءلة الذاتية | 1 |
+| glossary/takimoore/G_yt_q_acWli_3ZA_ar.md | الطريقة القديمة | 1 |
+| glossary/tylerhennessee/G_yt_qVrkH9A670Q_ar.md | إرث | 1 |
