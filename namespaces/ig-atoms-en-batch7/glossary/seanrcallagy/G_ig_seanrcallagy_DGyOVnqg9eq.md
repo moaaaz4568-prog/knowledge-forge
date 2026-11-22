@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [risk management, seanrcallagy account context]
+aka: [risk management]
 origin: sources/S_ig_seanrcallagy_DGyOVnqg9eq.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DGyOVnqg9eq.md
 
 ## Term
 
-"risk management" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: primary, outcome, management, protection. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "risk management" for the primary outcome of giant corporations that have already created billions: protect what exists rather than grow it. The phrase appears twice, beside "corporatized, sanitized professional", "protecting what they have", and "HR handbooks". His friend became corporatized after their entrepreneurship talks, and in the corporate space they do not do Zeus energy or leadership talk. His concrete arithmetic is the ten billion: they would rather not make ten billion and one if it presents any risk, and would rather protect the ten billion.
 
 ## Synonyms
 
-- risk management
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if they're doing 10 billion, they would rather not do 10 billion and 1 first if it prevents, I'm sorry, presents any risk." — sources/S_ig_seanrcallagy_DGyOVnqg9eq.md
+> "We don't do that there because giant corporations' primary outcome is risk management and protection because they've already created billions and billions of dollars." — sources/S_ig_seanrcallagy_DGyOVnqg9eq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "risk management": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as prudent business: Sean presents risk management as the corporate outcome that sanitizes communication and prevents lawsuits, set against entrepreneurship.
+- Read as a claim that corporations never grow: the source says they protect the billions already created, and the choice is framed as preferring protection over one more billion.

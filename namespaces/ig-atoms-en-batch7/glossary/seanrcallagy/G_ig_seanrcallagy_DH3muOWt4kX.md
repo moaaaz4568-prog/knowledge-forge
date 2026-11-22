@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [committed, seanrcallagy account context]
+aka: [committed to mastery]
 origin: sources/S_ig_seanrcallagy_DH3muOWt4kX.md
 ---
 
-# G_ig_seanrcallagy_DH3muOWt4kX — committed
+# G_ig_seanrcallagy_DH3muOWt4kX — committed to mastery
 
 ## Term
 
-"committed" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mastery, committed, means, formula. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "committed to mastery" for the realization that you will never arrive, and keep finding your way toward your ultimate mission, vision, and purpose. The phrase appears five times, beside "you will never arrive", "perfectionism is the destruction of all things", and "a commitment to growth". Committed to mastery does not mean perfect, he says, and perfectionism destroys all things. His concrete measure is growth at a level that makes sense for you, integrated to your mission, vision, and purpose.
 
 ## Synonyms
 
-- committed
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I am committed to mastery. Committed to mastery, by the way, doesn't mean you're perfect. Like perfectionism is the destruction of all things." — sources/S_ig_seanrcallagy_DH3muOWt4kX.md
+> "I am committed to mastery. Committed to mastery, by the way, doesn't mean you're perfect." — sources/S_ig_seanrcallagy_DH3muOWt4kX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "committed": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a demand for perfection: Sean explicitly separates the commitment from perfectionism, and calls perfectionism the destruction of all things.
+- Read as a finish line: the phrase means never arriving, with always more out there, so the commitment is the path, not the arrival.

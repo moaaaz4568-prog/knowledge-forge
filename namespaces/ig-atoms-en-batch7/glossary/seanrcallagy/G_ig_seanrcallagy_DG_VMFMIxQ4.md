@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [life, seanrcallagy account context]
+aka: [Unblinded]
 origin: sources/S_ig_seanrcallagy_DG_VMFMIxQ4.md
 ---
 
-# G_ig_seanrcallagy_DG_VMFMIxQ4 — life
+# G_ig_seanrcallagy_DG_VMFMIxQ4 — Unblinded
 
 ## Term
 
-"life" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: unblinded, think, single, area. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean's followers use "Unblinded" for the system itself, and here a participant calls it life, applying to every area and not just sales. The word appears twice, beside "applies to every single area", "genuine and heartfelt", and "Sean Callagy, Fernando, and the whole group". She says we are always selling something, and the mastery is talking to people so they feel important and can feel it. Her concrete praise is the wish to move here and work in this space, because the week was amazing.
 
 ## Synonyms
 
-- life
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I just love Unblinded. I literally want to move here so that I can work here in this space. That's how much I love it." — sources/S_ig_seanrcallagy_DG_VMFMIxQ4.md
+> "Unblinded to me is life, and I think it applies to every single area in your life, not just for sales, not just for anything that you're trying to do with business." — sources/S_ig_seanrcallagy_DG_VMFMIxQ4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "life": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sales course: the speaker says it applies to every single area of life, not just sales or business, and names its use as genuine, heartfelt talk.
+- Read as Sean's own claim: this source is a participant's testimonial, thanking Sean, Fernando, and the group, not Sean describing his own system.

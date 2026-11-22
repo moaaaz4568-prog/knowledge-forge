@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [integrative complexity, seanrcallagy account context]
+aka: [integrative complexity]
 origin: sources/S_ig_seanrcallagy_DHbR5RcvG-p.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DHbR5RcvG-p.md
 
 ## Term
 
-"integrative complexity" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: concept, called, complexity, integrative. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "integrative complexity" for the high-level space of doing things for many reasons and holding many contexts at once. The phrase appears twice, beside "a critical dynamic once we see this gap", "more than five reasons", and "designed to create the framework". The exercise just done was not designed simply to inspire or as a goal-setting exercise, but also to create a framework to refer back to for every other human being. His concrete use is the felt experience: after feeling it, you begin mastering how to take other people through it, and that increases the likelihood of tremendous outcome.
 
 ## Synonyms
 
-- integrative complexity
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It wasn't designed to simply inspire you. It wasn't designed simply as a goal set exercise. It was also designed to create the framework so we could refer back to it of what's going on for every other human being." — sources/S_ig_seanrcallagy_DHbR5RcvG-p.md
+> "There's a concept called integrative complexity, and this is a space of a high level of integrative complexity." — sources/S_ig_seanrcallagy_DHbR5RcvG-p.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "integrative complexity": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a psychology term borrowed for decoration: Sean defines it in the source as doing things for many reasons and holding many contexts, and uses it to frame the exercise.
+- Read as a claim the exercise had one purpose: he says it was done for more than five reasons, and names inspiration, goal setting, and framework-building among them.

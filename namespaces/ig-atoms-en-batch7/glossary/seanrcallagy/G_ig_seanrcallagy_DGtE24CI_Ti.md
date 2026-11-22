@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [Martin Luther, seanrcallagy account context]
+aka: [gave their lives, gave his life]
 origin: sources/S_ig_seanrcallagy_DGtE24CI_Ti.md
 ---
 
-# G_ig_seanrcallagy_DGtE24CI_Ti — Martin Luther
+# G_ig_seanrcallagy_DGtE24CI_Ti — gave their lives
 
 ## Term
 
-"Martin Luther" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: king, malcolm, gave, life. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "gave their lives" for what Washington, Lincoln, Martin Luther King, and Malcolm X risked or gave for what they believed in. The phrase appears once, beside "gave his life to birth", "the ultimate vision and dream", and "is it worth it". Washington risked being seen as the darkest side of humanity by the British Empire, and Lincoln, King, and Malcolm gave their lives so we could have what we have. His concrete question is the challenge: is it worth it to you to rise to and maybe beyond their influence.
 
 ## Synonyms
 
-- Martin Luther
-- seanrcallagy account context (no variant form of the term appears in this source)
+- gave his life (the singular form Sean uses for Washington and Lincoln)
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_seanrcallagy_DGtE24CI_Ti.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Martin Luther": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a history lesson: the lives given are the setup for Sean's question about what the listener is willing to risk for influence.
+- Read as praise for Bruce Springsteen only: Springsteen enters as the man whose heart is beautiful and pure after giving everything for 75 years, but the lives given belong to Washington, Lincoln, King, and Malcolm X.

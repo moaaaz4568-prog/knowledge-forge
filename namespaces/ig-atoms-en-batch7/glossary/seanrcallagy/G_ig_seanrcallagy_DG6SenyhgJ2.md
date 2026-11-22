@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [individuals, seanrcallagy account context]
+aka: [individuals]
 origin: sources/S_ig_seanrcallagy_DG6SenyhgJ2.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_seanrcallagy_DG6SenyhgJ2.md
 
 ## Term
 
-"individuals" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: heartfelt, hearing, passion, learned. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Individuals" here names the people a speaker learns to care for once the ego is set aside, and the source is a 36-word testimonial. The word appears twice, beside "segregate my ego", "passion", and "heartfelt, hearing individuals". The speaker says the work changed how he sees the world and what he learned here is priceless. His concrete picture is hearing people with a heartfelt passion for them, rather than listening through the ego.
 
 ## Synonyms
 
-- individuals
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_seanrcallagy_DG6SenyhgJ2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "individuals": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a generic word for people: here it marks the specific shift from ego-filtered seeing to heartfelt hearing of others.
+- Read as a claim about crowds: the source is about one speaker's change toward the individuals in front of him, not about audiences in general.

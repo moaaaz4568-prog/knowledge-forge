@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [space becoming, seanrcallagy account context]
+aka: [space]
 origin: sources/S_ig_seanrcallagy_DHYvu-sBkcI.md
 ---
 
-# G_ig_seanrcallagy_DHYvu-sBkcI — space becoming
+# G_ig_seanrcallagy_DHYvu-sBkcI — space
 
 ## Term
 
-"space becoming" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: becoming, billionaire, space, liquid. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "space" for the same game as the neighboring source, and this near-identical take spells the goal with a hyphen: a liquid multi multi-millionaire. The word appears three times, beside "five million dollars a year", "five hours a month", and "a massive amount of time for you". The ability to make five million a year, work five hours a month, and love your life is completely within your control. His concrete boundary is the same correction: not the space of becoming a billionaire, but the space of becoming a liquid multi multi-millionaire with time for yourself.
 
 ## Synonyms
 
-- space becoming
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I am in the space of telling you you're in space becoming a liquid multi multi-millionaire who can have a massive amount of time for you." — sources/S_ig_seanrcallagy_DHYvu-sBkcI.md
+> "The ability to make five million dollars a year and to work five hours a month and to love your life is completely within your control." — sources/S_ig_seanrcallagy_DHYvu-sBkcI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "space becoming": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a different claim from the neighboring take: the wording matches it almost exactly, differing only in the hyphen in multi-millionaire, so the space names the same game.
+- Read as a guarantee of five million a year: Sean frames it as an ability within your control, and the game is played with absolute precision.

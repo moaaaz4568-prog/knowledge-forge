@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [people, seanrcallagy account context]
+aka: [unconditional love]
 origin: sources/S_ig_seanrcallagy_DH8yEETtQMD.md
 ---
 
-# G_ig_seanrcallagy_DH8yEETtQMD — people
+# G_ig_seanrcallagy_DH8yEETtQMD — unconditional love
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: loving, people, respect, trauma. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "unconditional love" for the first thing he invites the room into, paired with boundaries, instead of bonding over trauma. The phrase appears twice, beside "unconditional love with boundaries", "unconditional respect for people", and "not loving their actions". He refuses the personal-development pattern of connecting people through wildly painful, traumatic openness, calling it unhealthy. His concrete pair is the invitation: unconditional love with boundaries first, unconditional respect for people second, loving and respecting all people while not loving or respecting all their actions.
 
 ## Synonyms
 
-- people
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so when people have trauma, they have pain, and they want to feel better about their pain. Going to offer and invite you into is this." — sources/S_ig_seanrcallagy_DH8yEETtQMD.md
+> "First, unconditional love. The first is unconditional love with boundaries." — sources/S_ig_seanrcallagy_DH8yEETtQMD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as love without limits: Sean attaches boundaries to the love in the same breath, and the second half of the invitation is unconditional respect, not approval.
+- Read as a rejection of vulnerability: he rejects bonding through trauma as a connection source, not openness itself, and replaces it with love and respect.

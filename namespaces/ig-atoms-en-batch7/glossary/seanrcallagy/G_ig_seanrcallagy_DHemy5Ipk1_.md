@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [sides, seanrcallagy account context]
+aka: [sides]
 origin: sources/S_ig_seanrcallagy_DHemy5Ipk1_.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DHemy5Ipk1_.md
 
 ## Term
 
-"sides" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sides, george, twenty-six, thousand. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "sides" for the twenty-six thousand dollars' worth of side dishes George ordered with a porterhouse from Argentina and expensive champagne. The word appears five times, beside "Porterhouse from Argentina", "expensive champagne", and "Tell him about the sides, George". The story is a single remembered dinner: they had to buy champagne, George ordered all the sides, and the sides alone cost twenty-six thousand dollars. His concrete punchline is the repetition itself, sides, sides, twenty-six thousand dollars worth of sides.
 
 ## Synonyms
 
-- sides
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We had to buy champagne and you ordered all the sides. Tell him about the sides, George. Sides, sides, twenty-six thousand dollars worth of sides." — sources/S_ig_seanrcallagy_DHemy5Ipk1_.md
+> "Tell him about the sides, George. Sides, sides, twenty-six thousand dollars worth of sides." — sources/S_ig_seanrcallagy_DHemy5Ipk1_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sides": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a menu item: the sides here are the whole point of the anecdote, a $26,000 order that Sean retells as a story about excess.
+- Read as a claim about George's wealth: the source names no reason for the order, only the dishes, the champagne, and the price.

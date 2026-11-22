@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch7)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,628 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,621 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/seanrcallagy/G_ig_seanrcallagy_DFqd2CLob8w.md | people register | 2 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DFrUGBChrhs.md | Chewy | 2 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DFvRqjhopTx.md | firm | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DFx14UWpA5U.md | say | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DFx14UWpA5U.md | survival self | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DG--3QFPP18.md | transfer energy | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DG0zHhmP_CG.md | one | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DG0zHhmP_CG.md | merge ecosystems | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DG3Ye6KprXM.md | conversion | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DG59UBTvWp6.md | deer | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DG59UBTvWp6.md | cause yes | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DG6SenyhgJ2.md | individuals | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DG6SeqxBgis.md | individuals | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DG8hfcxNHq7.md | people | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGBSwLFI8xJ.md | against | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGD3d5xvrjK.md | real estate | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DG6SeqxBgis.md | ego | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DG8hfcxNHq7.md | steal | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGBSwLFI8xJ.md | blindness | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGD3d5xvrjK.md | residual | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGGcSWgpMzM.md | ecosystem merger | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGJBCA5sPGu.md | Zeus energy | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGLl0kaslfn.md | dopamine | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGOKyu-vO1G.md | action | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGQwBumvOV8.md | Mary | 2 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGOKyu-vO1G.md | zone action | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGQwBumvOV8.md | sales meetings | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGRdxp1PQ-8.md | formula | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGTUNwCMxPX.md | grateful | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGV5nKxpMdK.md | sales | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGWnXQUqRqU.md | almost | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGYfi1Oiy6x.md | Martin Luther | 2 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DG_VMFMIxQ4.md | life | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGV5nKxpMdK.md | lever three | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGWnXQUqRqU.md | fabric | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGYfi1Oiy6x.md | Zeus energy | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DG_VMFMIxQ4.md | Unblinded | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGbCpowt3z9.md | wash brains | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGbzPWkheAn.md | diagnostic tool | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGdn-t7KsIW.md | sales meetings | 2 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGgMxGGv13J.md | want | 2 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGixmo9CHOj.md | sales | 2 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGlWXZtST1Y.md | energy | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGn7KWcBl_T.md | trial attorneys | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGdn-t7KsIW.md | causing yes | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGgMxGGv13J.md | magic | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGixmo9CHOj.md | eight | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGlWXZtST1Y.md | transfer energy | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGn7KWcBl_T.md | relationship capital | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGqf8uZooXx.md | friends | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGtE24CI_Ti.md | Martin Luther | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DGvpiL3oaCy.md | people | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGtE24CI_Ti.md | gave their lives | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DGvpiL3oaCy.md | modeling | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DGyOVnqg9eq.md | risk management | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DH1B14atsyF.md | greatest mindset | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DH3muOWt4kX.md | committed | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DH1B14atsyF.md | mindset | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DH3muOWt4kX.md | committed to mastery | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DH6NKNBvvwa.md | zone action | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DH8yEETtQMD.md | people | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHBkQYXo1Cb.md | people | 2 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DH8yEETtQMD.md | unconditional love | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHBkQYXo1Cb.md | lightning bolts | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHEIc0nxxnz.md | ecosystem merge | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHGtzs2N8AN.md | against | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHHqBqttvqV.md | birthday | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHJyrQDo0lR.md | champion | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHRg2ubo4iS.md | champions | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHTkbcYtfLt.md | building | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHYviB8quVq.md | space becoming | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHYvu-sBkcI.md | space becoming | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DH_VC2FtkuX.md | actually right | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHGtzs2N8AN.md | lightning rod | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHHqBqttvqV.md | immersion | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHJyrQDo0lR.md | chant | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHRg2ubo4iS.md | refrain | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHTkbcYtfLt.md | St. Patrick's Day | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHYviB8quVq.md | space | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHYvu-sBkcI.md | space | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DH_VC2FtkuX.md | mission, vision, and purpose | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHbR5RcvG-p.md | integrative complexity | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHd4a-COk_h.md | extra | 2 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHd4a-COk_h.md | money primary | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHemy5Ipk1_.md | sides | 1 |
-| glossary/seanrcallagy/G_ig_seanrcallagy_DHgbjGHMwwd.md | possible | 1 |
+| glossary/seanrcallagy/G_ig_seanrcallagy_DHgbjGHMwwd.md | simple as possible | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHhSap5tJT6.md | learned plenty | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHhSlXtxEBq.md | learned plenty | 1 |
 | glossary/seanrcallagy/G_ig_seanrcallagy_DHjARFyuVB2.md | ten hours | 1 |

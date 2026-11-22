@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [birthday, seanrcallagy account context]
+aka: [immersion, Unblinded Immersion]
 origin: sources/S_ig_seanrcallagy_DHHqBqttvqV.md
 ---
 
-# G_ig_seanrcallagy_DHHqBqttvqV — birthday
+# G_ig_seanrcallagy_DHHqBqttvqV — immersion
 
 ## Term
 
-"birthday" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yes, new, toys, selena. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "immersion" for the multi-day Unblinded gathering of hundreds of business owners, entrepreneurs, and professionals. The word appears twice, beside "before you have an immersion", "the Unblinded Immersion", and "Dilly Bars from Dairy Queen". The before-scene is Sean sitting with his daughter Selena on the stage, eating Dilly Bars while the song Ariel plays. His concrete send-off is Selena's line, "Go, Dad, go," and the birthday note that she got a lot of new toys for her birthday on May 5th, Cinco de Mayo.
 
 ## Synonyms
 
-- birthday
-- seanrcallagy account context (no variant form of the term appears in this source)
+- Unblinded Immersion (the full name of the event)
 
 ## Live Example
 
-> "Be ready, Selena. You say go, Dad, go. Go, Dad, go. All right, we'll see you tomorrow. Yes. When my birthday and I got a lot of new toys for my birthday." — sources/S_ig_seanrcallagy_DHHqBqttvqV.md
+> "So this is the before as we get ready to go into the Unblinded Immersion." — sources/S_ig_seanrcallagy_DHHqBqttvqV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "birthday": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a training event only: the source shows the immersion's before-scene as a father and daughter on stage, and the gathering is framed by family, not by curriculum.
+- Read as a concert: Ariel is the song playing before the immersion, and the event itself is the gathering of owners, entrepreneurs, and professionals.

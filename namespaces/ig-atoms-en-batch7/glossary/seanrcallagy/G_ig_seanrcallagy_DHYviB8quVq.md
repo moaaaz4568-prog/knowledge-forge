@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [space becoming, seanrcallagy account context]
+aka: [space]
 origin: sources/S_ig_seanrcallagy_DHYviB8quVq.md
 ---
 
-# G_ig_seanrcallagy_DHYviB8quVq — space becoming
+# G_ig_seanrcallagy_DHYviB8quVq — space
 
 ## Term
 
-"space becoming" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: multi, becoming, billionaire, space. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "space" for the game he plays with absolute precision: becoming a liquid multi multi millionaire with a massive amount of time. The word appears three times, beside "five million dollars a year", "five hours a month", and "completely within your control". He says the ability to make five million a year working five hours a month and loving your life is within your control. His concrete boundary is the correction: he is not telling you that you are in the space of becoming a billionaire, but in the space of becoming a liquid multi multi millionaire.
 
 ## Synonyms
 
-- space becoming
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_seanrcallagy_DHYviB8quVq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "space becoming": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a physical place: the space here is the game of money and time played with absolute precision, not a room.
+- Read as a promise of billions: Sean explicitly corrects the listener away from billionaire to liquid multi multi millionaire.

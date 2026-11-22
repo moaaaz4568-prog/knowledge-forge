@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [building, seanrcallagy account context]
+aka: [St. Patrick's Day]
 origin: sources/S_ig_seanrcallagy_DHTkbcYtfLt.md
 ---
 
-# G_ig_seanrcallagy_DHTkbcYtfLt — building
+# G_ig_seanrcallagy_DHTkbcYtfLt — St. Patrick's Day
 
 ## Term
 
-"building" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: walking, irish, through, come. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "St. Patrick's Day" for the certification day after a four-day immersion, celebrated in the building with Irish music, Irish dancing, and a bagpiper. The phrase appears three times, beside "Happy St. Patrick's Day", "Erin Go Bragh", and "the old shoe we live". He walks through the building hearing Irish music on the loudspeakers, then finds it is us: surgical centers and hospital people Irish dancing through the roof, with their leprechaun playing the bagpipes behind them. His concrete credit is to Nicole Mayala making the magic happen, and to Sean Callagy, Madam Biden, Callagy Law, and Callagy Recovery.
 
 ## Synonyms
 
-- building
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I walk up, it's us! There's all kinds of surgical centers and hospital people in the building. They're Irish dancing through the roof." — sources/S_ig_seanrcallagy_DHTkbcYtfLt.md
+> "Happy St. Patrick's Day coming from Sean Callagy, Madam Biden, Callagy Law, Callagy Recovery, take Nicole Mayala making this magic happen." — sources/S_ig_seanrcallagy_DHTkbcYtfLt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "building": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a holiday greeting: the day here is the certification day after the immersion, and the celebration is the building's own people dancing, not a public parade.
+- Read as a claim the building staged it: Sean first thinks it is a coincidence, then learns the music is theirs, so the surprise is part of the story.

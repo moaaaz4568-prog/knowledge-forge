@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [one, seanrcallagy account context]
+aka: [merge ecosystems, ecosystem merger]
 origin: sources/S_ig_seanrcallagy_DG0zHhmP_CG.md
 ---
 
-# G_ig_seanrcallagy_DG0zHhmP_CG — one
+# G_ig_seanrcallagy_DG0zHhmP_CG — merge ecosystems
 
 ## Term
 
-"one" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, together, equals, something. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "merge ecosystems" for putting two groups together so one and one equals far more than two — a million, a billion, a trillion. The phrase appears twice, beside "ecosystem merger", "the greatest influential skill set", and "public speaking". He ranks it with speaking in front of a group and leading and managing people as the most vital influential skill sets. His concrete picture is arithmetic: one plus one does not stay two once the ecosystems merge.
 
 ## Synonyms
 
-- one
-- seanrcallagy account context (no variant form of the term appears in this source)
+- ecosystem merger (the noun form the source opens with)
 
 ## Live Example
 
-> "The ability to speak in front of a group of people, to lead, manage people in group, or and or the ability to merge ecosystems, those two influential skill sets are the most vital pieces of it all." — sources/S_ig_seanrcallagy_DG0zHhmP_CG.md
+> "You understanding how to merge ecosystems is literally the greatest influential skill set you can acquire, besides public speaking." — sources/S_ig_seanrcallagy_DG0zHhmP_CG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "one": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a business merger of companies: Sean means joining audiences and groups, and his example is speaking to a group, not buying a firm.
+- Read as simply adding two lists together: the point is the multiplier, one and one equaling a million, not the sum.

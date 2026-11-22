@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [against, seanrcallagy account context]
+aka: [blindness]
 origin: sources/S_ig_seanrcallagy_DGBSwLFI8xJ.md
 ---
 
-# G_ig_seanrcallagy_DGBSwLFI8xJ — against
+# G_ig_seanrcallagy_DGBSwLFI8xJ — blindness
 
 ## Term
 
-"against" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ignorance, nothing, people, non-integrous. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "blindness" for the state of being driven by ignorance and the survival brain instead of truth, and he stands against it. The word appears twice, beside "against ignorance, darkness", "I am for being unblinded", and "a stand for truth". He lists what he is against — non-integrous inference, the survival brain leading, ignorance, darkness — and what he is for: being unblinded. His concrete anchor is Bruce Springsteen's song 41 Shots, which he calls a song of empathy and reality, not a song against the police.
 
 ## Synonyms
 
-- against
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I am against ignorance, darkness. I am against blindness. I am for being unblinded. Therefore, I am against blindness and a stand for truth." — sources/S_ig_seanrcallagy_DGBSwLFI8xJ.md
+> "I am against ignorance, darkness. I am against blindness." — sources/S_ig_seanrcallagy_DGBSwLFI8xJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "against": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as literal eyesight: blindness here is the survival brain driving the higher self, and its opposite is being unblinded to truth.
+- Read as an attack on the police: Sean says the song was not against the police, and he repeats his love and gratitude for them.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [ecosystem merger, seanrcallagy account context]
+aka: [ecosystem merger, ecosystem merging]
 origin: sources/S_ig_seanrcallagy_DGGcSWgpMzM.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DGGcSWgpMzM.md
 
 ## Term
 
-"ecosystem merger" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mentioned, merger, ecosystem, need. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An "ecosystem merger" here is joining with a bigger group so a speaking engagement generates far more quality sales meetings. The phrase appears twice, beside "exponentially more higher quantity of quality sales meetings", "lever point five", and "BNI". Sean tells how he created his own BNI chapter in 1997, found it really painful, and realized he needed bigger groups. His concrete example is the Northern New Jersey Chiropractic Society merger he had just mentioned.
 
 ## Synonyms
 
-- ecosystem merger
-- seanrcallagy account context (no variant form of the term appears in this source)
+- ecosystem merging (the form Sean uses for the same distinction)
 
 ## Live Example
 
-> "I had lever point five. I was in BNI. I created my own BNI chapter in 1997. Is this Networkers International?" — sources/S_ig_seanrcallagy_DGGcSWgpMzM.md
+> "We need to have an ecosystem merger. I just mentioned that the ecosystem merger was with the Northern New Jersey Chiropractic Society." — sources/S_ig_seanrcallagy_DGGcSWgpMzM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ecosystem merger": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as calling a group and asking to speak: Sean says that is better than not calling, but no — the merger needs lever point five behind it.
+- Read as a merger of two companies: the source merges audiences, a speaker with a chiropractic society, not firms.

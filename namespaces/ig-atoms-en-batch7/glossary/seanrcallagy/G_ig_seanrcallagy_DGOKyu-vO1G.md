@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [action, seanrcallagy account context]
+aka: [zone action]
 origin: sources/S_ig_seanrcallagy_DGOKyu-vO1G.md
 ---
 
-# G_ig_seanrcallagy_DGOKyu-vO1G — action
+# G_ig_seanrcallagy_DGOKyu-vO1G — zone action
 
 ## Term
 
-"action" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: zone, take, action, means. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "zone action" for the most efficient action step toward an outcome, as opposed to hard work or massive action. The phrase appears four times, beside "self mastery", "most efficient action step", and "Tony Robbins' massive action". He warns most of us have no idea what those steps are, so we work really hard and get nothing. His concrete question is the diagnostic: what is destroying your ability to take zone action, at what level of mastery do we stop doing the opposite of what we want.
 
 ## Synonyms
 
-- action
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What is your self mastery destroying your ability to take zone action? So that we're in this massive, crazy, ridiculous world of doing the silliest, craziest, most ridiculous things imaginable." — sources/S_ig_seanrcallagy_DGOKyu-vO1G.md
+> "Self mastery is about how you get yourself to take zone action." — sources/S_ig_seanrcallagy_DGOKyu-vO1G.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "action": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as simply working harder: Sean separates zone action from hard work and from massive action, and the test is efficiency toward the outcome.
+- Read as a trick for effortless results: the source still demands effort, but effort aimed at the most efficient step, not scattered doing.

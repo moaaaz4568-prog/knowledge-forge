@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [energy, seanrcallagy account context]
+aka: [transfer energy, transfer of energy]
 origin: sources/S_ig_seanrcallagy_DGlWXZtST1Y.md
 ---
 
-# G_ig_seanrcallagy_DGlWXZtST1Y — energy
+# G_ig_seanrcallagy_DGlWXZtST1Y — transfer energy
 
 ## Term
 
-"energy" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: transfer, say, because, influence. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "transfer energy" for moving an idea, a concept, or a thought from one person's mind, heart, and soul into another's, so they receive it and act on it. The phrase appears once, beside "gratitude is the antidote", "mind, heart, soul, being", and "that transfer needs energy". Gratitude is the antidote to sadness, unhappiness, and frustration, he says, and love is the antidote too. His concrete physics is simple: you cannot move an object from one person to another without energy, so the transfer of energy is what moves the idea between us.
 
 ## Synonyms
 
-- energy
-- seanrcallagy account context (no variant form of the term appears in this source)
+- transfer of energy (the form Sean uses for the same movement)
 
 ## Live Example
 
-> "We're taking something from our being, heart, mind, soul, and we're transferring it to someone else." — sources/S_ig_seanrcallagy_DGlWXZtST1Y.md
+> "But a second reason is we say transfer energy because influence is taking an idea, a concept, a thought, a thing from our mind, our heart, our being, our soul." — sources/S_ig_seanrcallagy_DGlWXZtST1Y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "energy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as telepathy: Sean describes a transfer of an idea from one being to another through energy, and the receiver must receive it in mind, heart, soul, and being before acting.
+- Read as a feeling only: the source ties the transfer to gratitude and love as antidotes, but the mechanism named is energy moving the idea.

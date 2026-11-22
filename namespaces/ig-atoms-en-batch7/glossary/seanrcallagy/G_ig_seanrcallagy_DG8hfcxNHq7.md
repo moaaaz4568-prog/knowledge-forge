@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [people, seanrcallagy account context]
+aka: [steal]
 origin: sources/S_ig_seanrcallagy_DG8hfcxNHq7.md
 ---
 
-# G_ig_seanrcallagy_DG8hfcxNHq7 — people
+# G_ig_seanrcallagy_DG8hfcxNHq7 — steal
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: people, tyrannize, bully, bolt. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "steal" for what people do when they sense no boundary: they take money, identity, business, time, and energy, then justify it and blame you. The word appears three times, beside "weakest links", "survival self", and "boundaries". His rule is that people look for the weakest links in dynamics when they are in their own survival self, so the goal is protection, not bullying. His concrete list is the inventory of what gets taken: money, identity, business, time, energy, all of it non-integrously.
 
 ## Synonyms
 
-- people
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They will steal it, they'll take it non-integrously, and then they'll justify and blame you. Some people, not all the time, but a lot more people than you think." — sources/S_ig_seanrcallagy_DG8hfcxNHq7.md
+> "People will steal your money, they'll steal your identity, your business, your time, your energy." — sources/S_ig_seanrcallagy_DG8hfcxNHq7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to bully people first: Sean opens by saying the goal is not to bully and tyrannize, and the stealing is what happens when others feel no fear of taking advantage.
+- Read as a claim about everyone: he says some people, not all the time, but far more people than you think.

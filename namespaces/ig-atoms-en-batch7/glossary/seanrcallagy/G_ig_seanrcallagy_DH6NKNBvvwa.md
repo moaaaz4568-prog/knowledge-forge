@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [zone action, seanrcallagy account context]
+aka: [zone action]
 origin: sources/S_ig_seanrcallagy_DH6NKNBvvwa.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DH6NKNBvvwa.md
 
 ## Term
 
-"zone action" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: action, zone, take, efficient. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "zone action" as the better name for how-to: the most efficient action step toward your ultimate mission, vision, and purpose. The phrase appears three times, beside "how to fulfill our ultimate mission", "most efficient action step", and "money, time, and magic". He was committed to developing the how-to, then realized how-to translated into two better words, zone action. His concrete definition is the efficiency test: the most efficient steps toward the outcomes and their sub-outcomes are zone action, and that is the how-to.
 
 ## Synonyms
 
-- zone action
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And what zone action is the most efficient action step you can take to bring about your ultimate mission, vision, and purpose, and the sub-outcomes of money, time, and magic, and their sub-outcomes." — sources/S_ig_seanrcallagy_DH6NKNBvvwa.md
+> "And how to is zone action. And what zone action is the most efficient action step you can take to bring about your ultimate mission, vision, and purpose, and the sub-outcomes of money, time, and magic, and their sub-outcomes." — sources/S_ig_seanrcallagy_DH6NKNBvvwa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "zone action": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a new name for hard work: Sean replaces how-to with zone action precisely because it is the most efficient step, not the hardest one.
+- Read as a slogan: the source defines it twice over, as the most efficient step toward mission, vision, purpose, money, time, and magic.

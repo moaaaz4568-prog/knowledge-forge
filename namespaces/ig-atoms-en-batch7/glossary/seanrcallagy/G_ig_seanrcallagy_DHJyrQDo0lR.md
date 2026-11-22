@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [champion, seanrcallagy account context]
+aka: [chant]
 origin: sources/S_ig_seanrcallagy_DHJyrQDo0lR.md
 ---
 
-# G_ig_seanrcallagy_DHJyrQDo0lR — champion
+# G_ig_seanrcallagy_DHJyrQDo0lR — chant
 
 ## Term
 
-"champion" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: champion, come. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a spoken chant, and the label `chant` here says only what kind of passage this is — a repeated declaration — not the name of any idea in it. The line "I'm the champion" appears twelve times, once before "I've come to win" and once as the answer to "Who am I?", with no other words in the source except "I've come to win" and "Who am I?". It pictures a speaker declaring himself the champion over and over, with winning as the stated purpose of coming. The entry records the chant exactly as spoken and does not turn it into a coaching concept.
 
 ## Synonyms
 
-- champion
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm the champion. I'm the champion. I'm the champion. I'm the champion. I'm the champion. I'm the champion." — sources/S_ig_seanrcallagy_DHJyrQDo0lR.md
+> "I'm the champion. I've come to win. Who am I? I'm the champion." — sources/S_ig_seanrcallagy_DHJyrQDo0lR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "champion": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a coaching cue about confidence: the source is a bare repeated declaration, and it gives no instruction for building confidence.
+- Read as a claim that the speaker won: the chant says he came to win, and the source shows no contest and no result.

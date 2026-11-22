@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [formula, seanrcallagy account context]
+aka: [formula]
 origin: sources/S_ig_seanrcallagy_DGRdxp1PQ-8.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DGRdxp1PQ-8.md
 
 ## Term
 
-"formula" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ecosystem, actualize, money, follow. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "formula" for the single way to actualize money, time, and magic, which he says no other ecosystem teaches. The word appears three times, beside "Unblinded is valuable", "there is no other ecosystem", and "the sustainability of business". He dismisses the many other things out there as teaching crazy things, and insists there is really one way. His concrete promise is that following the formula makes business sustainability like nothing else.
 
 ## Synonyms
 
-- formula
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's a lot of other things out there that teach a lot of crazy things, but really there is one way." — sources/S_ig_seanrcallagy_DGRdxp1PQ-8.md
+> "Unblinded is valuable to me because there is no other formula." — sources/S_ig_seanrcallagy_DGRdxp1PQ-8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "formula": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a magic shortcut: the formula here is a taught sequence to follow, and Sean ties it to sustainability, not to effortless results.
+- Read as a claim that nothing else has value: he says other teachings exist and teach a lot, but only this ecosystem holds the formula for actualizing money, time, and magic.

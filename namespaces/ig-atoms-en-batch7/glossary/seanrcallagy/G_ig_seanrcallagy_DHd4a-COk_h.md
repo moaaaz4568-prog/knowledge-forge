@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [extra, seanrcallagy account context]
+aka: [money primary]
 origin: sources/S_ig_seanrcallagy_DHd4a-COk_h.md
 ---
 
-# G_ig_seanrcallagy_DHd4a-COk_h — extra
+# G_ig_seanrcallagy_DHd4a-COk_h — money primary
 
 ## Term
 
-"extra" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hundred, week, ten, hours. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "money primary" for people whose primary outcome is money, as against service-driven people. The phrase appears twice, beside "an extra fifty to four hundred percent", "there is no right answer", and "I am service driven". He asks whether you would work an extra ten hours a week for an extra fifty to four hundred percent, or an extra hundred thousand dollars, and says there is no right or wrong answer. His concrete distinction is the nervous-system test: saying yes to the extra hours reveals the truth, and saying no means it would not be money primary.
 
 ## Synonyms
 
-- extra
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you would do that now, there is nothing wrong. I wouldn't do that. This is a question for you. There is no right wrong answer." — sources/S_ig_seanrcallagy_DHd4a-COk_h.md
-> "We're not measuring assessing it. It's like I am not money driven. I am service driven. It's not money driven in a greed way, but it's what your primary outcome is." — sources/S_ig_seanrcallagy_DHd4a-COk_h.md
+> "And you are going to be called the money primary people." — sources/S_ig_seanrcallagy_DHd4a-COk_h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "extra": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a judgment that money-driven is greedy: Sean says it is not money driven in a greed way, and pairs it with service driven as an equally named orientation.
+- Read as a trick question with a right answer: he repeats that there is no right answer, only the answer, and the question exists to help you understand who you are.

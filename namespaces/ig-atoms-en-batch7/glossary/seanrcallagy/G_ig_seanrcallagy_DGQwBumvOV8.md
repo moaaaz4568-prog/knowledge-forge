@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [Mary, seanrcallagy account context]
+aka: [sales meetings]
 origin: sources/S_ig_seanrcallagy_DGQwBumvOV8.md
 ---
 
-# G_ig_seanrcallagy_DGQwBumvOV8 — Mary
+# G_ig_seanrcallagy_DGQwBumvOV8 — sales meetings
 
 ## Term
 
-"Mary" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: practice, comes, blind, client. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "sales meetings" for the lever-three outcome Mary's practice turns into revenue: more meetings, more yeses, more money. The phrase appears once, beside "12 and a half people who say yes", "$125, 000 per month", and "a $1.5 million a year accounting practice". Mary raises her ability to cause yes until half the people say yes, and the same 25 meetings become $125,000 a month. His concrete contrast is the neighbor at church with a $120,000 practice complaining about the economy, the president, and the weather while Mary earns $1.5 million.
 
 ## Synonyms
 
-- Mary
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's a very different thing. And at $10, 000 a client, Mary now has, she has $125, 000 per month in revenue, 125." — sources/S_ig_seanrcallagy_DGQwBumvOV8.md
-> "5 million practice and they think Mary got lucky or God blessed her with a miracle. And that's what people do all day, every day in America." — sources/S_ig_seanrcallagy_DGQwBumvOV8.md
+> "So now when she has 12 and a half, 25 sales meetings, she has 12 and a half people who say yes." — sources/S_ig_seanrcallagy_DGQwBumvOV8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Mary": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as luck or a miracle: the source says people think Mary got lucky or God blessed her, while Sean presents the meetings and the yes rate as the mechanism.
+- Read as a claim that meetings alone create revenue: the phrase only pays when the meetings convert to yeses, and Mary's half saying yes is the step that matters.

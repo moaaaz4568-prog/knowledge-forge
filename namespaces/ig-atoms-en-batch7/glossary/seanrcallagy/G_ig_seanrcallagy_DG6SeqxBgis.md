@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [individuals, seanrcallagy account context]
+aka: [ego]
 origin: sources/S_ig_seanrcallagy_DG6SeqxBgis.md
 ---
 
-# G_ig_seanrcallagy_DG6SeqxBgis — individuals
+# G_ig_seanrcallagy_DG6SeqxBgis — ego
 
 ## Term
 
-"individuals" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: heartfelt, hearing, passion, learned. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Ego" here is the filter a speaker learns to segregate so he can see the world and hear people clearly. The word appears once, beside "segregate my ego", "passion for individuals", and "heartfelt, hearing individuals". The source is a 36-word testimonial, identical in wording to the neighboring source, and its whole claim is that this segregating changed how the speaker sees the world. His concrete picture is passion for individuals replacing ego-driven seeing, with the learning called priceless.
 
 ## Synonyms
 
-- individuals
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It has changed the way in which I see the world and learning to be able to segregate my ego, to have passion for individuals, to be heartfelt, hearing individuals." — sources/S_ig_seanrcallagy_DG6SeqxBgis.md
+> "It has changed the way in which I see the world and learning to be able to segregate my ego, to have passion for individuals, to be heartfelt, hearing individuals. What I've learned here is priceless." — sources/S_ig_seanrcallagy_DG6SeqxBgis.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "individuals": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as self-confidence to be built up: Sean's speaker segregates the ego to get it out of the way, not to strengthen it.
+- Read as a psychology lecture: the source is a first-person testimonial about changed seeing, not a definition of the ego.

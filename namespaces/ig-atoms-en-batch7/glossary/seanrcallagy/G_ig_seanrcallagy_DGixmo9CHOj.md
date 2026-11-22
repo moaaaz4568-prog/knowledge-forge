@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [sales, seanrcallagy account context]
+aka: [eight]
 origin: sources/S_ig_seanrcallagy_DGixmo9CHOj.md
 ---
 
-# G_ig_seanrcallagy_DGixmo9CHOj — sales
+# G_ig_seanrcallagy_DGixmo9CHOj — eight
 
 ## Term
 
-"sales" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: really, great, meetings, eight. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "eight" as a score on his scale for someone really bad at sales, a creature-level iguana. The word appears four times, beside "an eight at sales", "An eight in our scale is really bad", and "one out of five people to say yes". The eight gets 20 percent, one out of five, and the example is an accountant with five sales meetings a month at $10,000 average value. His concrete picture is the accountant seeing a Facebook ad for sales training and wanting to get better because it will help the business.
 
 ## Synonyms
 
-- sales
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But are you really great at creating sales meetings? Let's take somebody who is a an eight at sales." — sources/S_ig_seanrcallagy_DGixmo9CHOj.md
-> "And the accountant goes and sees a Facebook ad scrolling by and says, oh, I see this is sales training." — sources/S_ig_seanrcallagy_DGixmo9CHOj.md
+> "Let's take somebody who is a an eight at sales. An eight in our scale is really bad, but they're at sales, they're an eight." — sources/S_ig_seanrcallagy_DGixmo9CHOj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a good score: on Sean's scale an eight is really bad, and the iguana image marks the creature level.
+- Read as a grade for the accountant as a person: the eight scores the sales ability only, and the accountant's five meetings and $10,000 value are the business facts around it.

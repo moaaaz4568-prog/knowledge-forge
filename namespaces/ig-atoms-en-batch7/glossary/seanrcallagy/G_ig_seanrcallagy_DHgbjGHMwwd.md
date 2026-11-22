@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [possible, seanrcallagy account context]
+aka: [simple as possible]
 origin: sources/S_ig_seanrcallagy_DHgbjGHMwwd.md
 ---
 
-# G_ig_seanrcallagy_DHgbjGHMwwd — possible
+# G_ig_seanrcallagy_DHgbjGHMwwd — simple as possible
 
 ## Term
 
-"possible" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: simple, everything, simpler, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "simple as possible" for the Einstein standard his work must meet: condense three decades of study into the most efficient form. The phrase appears four times, beside "Make everything as simple as possible, but not simpler", "fulfill the money, the magic, or this third category of time", and "I've studied the masters and I found their gaps". The "that" to simplify is not generically having goals, which gets overwhelming, but fulfilling money, magic, or time. His concrete work is the condensing itself: finding where the masters have not made it as simple as possible, and closing those gaps.
 
 ## Synonyms
 
-- possible
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Before we can make how to do that as simple as possible, we want to say what's the that, and the that isn't just generically have goals." — sources/S_ig_seanrcallagy_DHgbjGHMwwd.md
+> "Our job, our work is so you can fulfill the money, the magic, or this third category of time, you can fulfill that, and we want to make it as simple as possible." — sources/S_ig_seanrcallagy_DHgbjGHMwwd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "possible": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a call to oversimplify: Einstein's "but not simpler" is part of the quote, and Sean's target is the most efficient form, not the shortest.
+- Read as a claim the work is finished: he says the work is finding the masters' gaps, which is ongoing, not a completed simplification.

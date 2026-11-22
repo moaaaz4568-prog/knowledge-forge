@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [say, seanrcallagy account context]
+aka: [survival self]
 origin: sources/S_ig_seanrcallagy_DFx14UWpA5U.md
 ---
 
-# G_ig_seanrcallagy_DFx14UWpA5U — say
+# G_ig_seanrcallagy_DFx14UWpA5U — survival self
 
 ## Term
 
-"say" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, failed, never, deathbed. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source Sean uses "survival self" for the lower, pain-avoiding part of the brain that keeps us chasing safety instead of pleasure. The phrase appears once, beside "lower self survival brain", "higher self thriving component", and "we never fully escape". He contrasts it with the higher self that thrives: the survival self never fully leaves, so the work is to act from the higher component while the lower one still runs. A concrete use is his claim that we do things to avoid pain rather than gain pleasure because the survival self is driving.
 
 ## Synonyms
 
-- say
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "For me, it is wholly un. This is not what I say. I don't say if I never, if I'm blinded, doesn't impact a billion people, I will lie on my deathbed and say I failed." — sources/S_ig_seanrcallagy_DFx14UWpA5U.md
+> "We never fully escape our survival self." — sources/S_ig_seanrcallagy_DFx14UWpA5U.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "say": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a synonym for the whole brain: the survival self here is only the lower, pain-avoiding part, not the higher self thriving component Sean sets against it.
+- Read as something Sean says we can outgrow: he says we never fully escape it, so the phrase marks a permanent part of us, not a phase to finish.

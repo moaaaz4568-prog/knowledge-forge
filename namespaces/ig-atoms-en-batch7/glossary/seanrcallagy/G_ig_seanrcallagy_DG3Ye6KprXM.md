@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [conversion, seanrcallagy account context]
+aka: [conversion, converting]
 origin: sources/S_ig_seanrcallagy_DG3Ye6KprXM.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DG3Ye6KprXM.md
 
 ## Term
 
-"conversion" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: saying, mean, conversion, converting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Conversion" here is the lever-four step of turning sales meetings into yeses, and Sean insists it matters less than causing the meetings in the first place. The word appears four times, beside "exponential growing sales meetings", "lever three", and "reasonable to good to great to masterful". He grants that no conversion means you are doomed, then argues the move from reasonable to masterful conversion is still only a linear shift. His concrete contrast is lever three's exponential growth in meetings against lever four's linear improvement in converting them.
 
 ## Synonyms
 
-- conversion
-- seanrcallagy account context (no variant form of the term appears in this source)
+- converting (the form Sean uses for the same step)
 
 ## Live Example
 
-> "Without conversion, I'm not saying that no conversion, I mean no conversion means you're doomed, but I'm talking about going from reasonable to good to great to masterful conversion is still a linear shift, but you're nowhere near the exponential and the infinite possibility." — sources/S_ig_seanrcallagy_DG3Ye6KprXM.md
+> "Without conversion, I'm not saying that no conversion, I mean no conversion means you're doomed, but I'm talking about going from reasonable to good to great to masterful conversion is still a linear shift" — sources/S_ig_seanrcallagy_DG3Ye6KprXM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "conversion": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole sales job: Sean separates conversion from causing meetings, and says the meetings matter way more.
+- Read as unimportant because it is linear: he still calls no conversion doomed, so the phrase marks a necessary step, not a worthless one.

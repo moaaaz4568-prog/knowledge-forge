@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [diagnostic tool, seanrcallagy account context]
+aka: [diagnostic tool]
 origin: sources/S_ig_seanrcallagy_DGbzPWkheAn.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DGbzPWkheAn.md
 
 ## Term
 
-"diagnostic tool" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: determine, holistic, tool, diagnostic. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "diagnostic tool" for the formula that shows why you do not have what you want, whether personal or business. The phrase appears twice, beside "the only holistic", "determine why you don't have what you want", and "more money, more time, more magic". Everybody wants more, he says, and pointing at this tool shows both the lack and how to achieve it. His concrete use is the pointer: in understanding Unblinded and the formula, you point toward the tool and determine the why and the how.
 
 ## Synonyms
 
-- diagnostic tool
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Everybody wants more. More money, more time, more magic, all three. And in understanding Unblinded and the formula, you can point toward that diagnostic tool and determine why you don't have what you want and how to go about it and achieve it." — sources/S_ig_seanrcallagy_DGbzPWkheAn.md
+> "It is a formula and it is the only holistic and diagnostic tool to determine why you don't have what you want." — sources/S_ig_seanrcallagy_DGbzPWkheAn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "diagnostic tool": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a medical device: the tool diagnoses a life and business gap, and its output is the reason you lack money, time, or magic.
+- Read as a claim that one tool fits everyone: Sean says it is all the same whether personal or business, and the sameness is the point.

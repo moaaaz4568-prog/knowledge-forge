@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [friends, seanrcallagy account context]
+aka: [friends]
 origin: sources/S_ig_seanrcallagy_DGqf8uZooXx.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_seanrcallagy_DGqf8uZooXx.md
 
 ## Term
 
-"friends" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: pick, things, grammar, school. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "friends" for the grammar-school friends who, social science has proven, most shape what you think about money, time, and magic. The word appears four times, beside "third grade, fifth grade, seventh grade", "most optimally affect your future", and "I didn't like hearing this". He argues it was not genetics and not even kindergarten teachers or grandparents: the most indicative element is who your friends were. His concrete test is the question he puts to parents: did you intentionally pick the best friends to help your money, time, and magic, and his answer is that he did not either.
 
 ## Synonyms
 
-- friends
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you did not pick the friends in third grade, fifth grade, seventh grade, even through high school, if you did not pick the friends that would most optimally affect your future money, time, and magic beliefs, if you didn't do that, say yes." — sources/S_ig_seanrcallagy_DGqf8uZooXx.md
+> "What is the most indicative element of what you think about things is who your friends are in grammar school." — sources/S_ig_seanrcallagy_DGqf8uZooXx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "friends": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to pick friends for profit: Sean says nobody intentionally picked them, and the point is the proven influence, not a scheme to shop for friends.
+- Read as a claim about adult friends: the source is explicit that it is grammar-school friends, third grade through high school, that most shape beliefs.

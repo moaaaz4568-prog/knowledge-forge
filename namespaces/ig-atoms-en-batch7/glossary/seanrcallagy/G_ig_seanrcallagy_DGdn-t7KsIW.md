@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: seanrcallagy
-aka: [sales meetings, seanrcallagy account context]
+aka: [causing yes]
 origin: sources/S_ig_seanrcallagy_DGdn-t7KsIW.md
 ---
 
-# G_ig_seanrcallagy_DGdn-t7KsIW — sales meetings
+# G_ig_seanrcallagy_DGdn-t7KsIW — causing yes
 
 ## Term
 
-"sales meetings" is the most frequent repeated content term in this source (a transcribed Instagram video from the seanrcallagy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: meetings, sales, exponential, growth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sean uses "causing yes" for the master skill of getting willing yeses everywhere, not only in sales meetings. The phrase appears four times, beside "master of causing yes", "ecosystem partner", and "live and virtual speaking engagements". The yeses he wants are in the exponential growth of sales meetings, in bringing on ecosystem partners, and in speaking engagements. His concrete reassurance is the 1997 example: he never created thousands of sales meetings, only dozens, but they were super high quality, unbelievable, and residual.
 
 ## Synonyms
 
-- sales meetings
-- seanrcallagy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To do that, you've got to become masterful causing yes, have people come to your shared experience, masterful causing yes for people to become your ecosystem partner, and masterful causing yes for your live and virtual speaking engagements." — sources/S_ig_seanrcallagy_DGdn-t7KsIW.md
-> "I created dozens, but they were super high quality. They were unbelievable and they were residual and it was incredible." — sources/S_ig_seanrcallagy_DGdn-t7KsIW.md
+> "You want to become a master of causing yes, but the yeses you want to cause are not just the yeses in sales meetings." — sources/S_ig_seanrcallagy_DGdn-t7KsIW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales meetings": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a quota of thousands of meetings: Sean says you do not need thousands, and his own dozens were enough because they were high quality and residual.
+- Read as a sales-only skill: the source extends causing yes to partners and speaking engagements, and calls residual the greatest thing to sell in the entire world.
