@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [gonna, optimizedjake account context]
+aka: [deliverable]
 origin: sources/S_ig_optimizedjake_DEKgcxpRFb1.md
 ---
 
-# G_ig_optimizedjake_DEKgcxpRFb1 — gonna
+# G_ig_optimizedjake_DEKgcxpRFb1 — deliverable
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: appointments, like, give, leads. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The deliverable is the client-facing result optimizedjake's agency keeps making more in-depth as the years go on. The word appears twice in the source, beside "booked appointments", "AI call up your leads", "pre-sell" and "qualify them". It started as just leads with name, phone and email, then became booked appointments, and now it is leads, booked appointments, and AI calling up the leads to pre-sell them and qualify them before the client talks to them. His concrete point is that the agency's edge is being able to give clients a better deliverable, not a better pitch about the same one.
 
 ## Synonyms
 
-- gonna
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "As years go on, your deliverable gets more in-depth developed, you know, whatnot. So it's like before it was like we're just gonna give you leads, name, phone, email. Then we're gonna get you booked appointments." — sources/S_ig_optimizedjake_DEKgcxpRFb1.md
-> "Now we're going to get you leads, booked appointments, and we're gonna have AI call up your leads, pre-sell them, qualify them, and then you're gonna talk to them. So it's crazy. But at the end of the day, it's us being able to give our clients a better deliverable." — sources/S_ig_optimizedjake_DEKgcxpRFb1.md
+> "But at the end of the day, it's us being able to give our clients a better deliverable." — sources/S_ig_optimizedjake_DEKgcxpRFb1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a product the client owns: the deliverable here is a service the agency performs — leads, appointments and AI calls — not a file handed over.
+- Read as the deliverable getting easier: each stage adds work — AI calls, pre-selling, qualifying — and the source never says the newer deliverable costs the agency less.

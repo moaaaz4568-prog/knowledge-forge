@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [day, optimizedjake account context]
+aka: [make time for yourself, making time for yourself]
 origin: sources/S_ig_optimizedjake_DEeSt70pFEt.md
 ---
 
-# G_ig_optimizedjake_DEeSt70pFEt — day
+# G_ig_optimizedjake_DEeSt70pFEt — make time for yourself
 
 ## Term
 
-"day" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: control, start, rest, getting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To make time for yourself is the discipline optimizedjake calls the biggest thing for controlling the day. The phrase "make time for yourself" appears once in the source, and the form "making time for yourself" appears once more, beside "exercise", "in control", "chaotic" and "dragged through the day". The mechanism is simple: get up in the morning, exercise, and feel in control for the rest of the day — but skip the workout, wake up late, and the day drags you through it instead of you directing it. His concrete test is the outcome of the day: if you cannot make time to work on yourself, the day is set up to be chaotic rather than controlled.
 
 ## Synonyms
 
-- day
-- optimizedjake account context (no variant form of the term appears in this source)
+- making time for yourself (the form used in this source)
 
 ## Live Example
 
-> "The biggest thing is that you need to make time for yourself because if you're not making time for yourself, everything else can't fall into place. Because let's just say you know you want to get up in the morning and exercise. That's awesome. And you start the day, you do that, and you feel like you're in control the rest of the day." — sources/S_ig_optimizedjake_DEeSt70pFEt.md
-> "When you get up and you skip that workout and now you didn't wake up early and now you're just behind and you're just kind of getting dragged through the day." — sources/S_ig_optimizedjake_DEeSt70pFEt.md
+> "The biggest thing is that you need to make time for yourself because if you're not making time for yourself, everything else can't fall into place." — sources/S_ig_optimizedjake_DEeSt70pFEt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "day": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as self-care as a luxury after work: the source puts it first — make time for yourself so everything else can fall into place — not as a reward once the work is done.
+- Read as a morning routine that guarantees control: the source only says it sets the day up to be directed rather than chaotic, and a skipped workout is presented as the way the day slips away.

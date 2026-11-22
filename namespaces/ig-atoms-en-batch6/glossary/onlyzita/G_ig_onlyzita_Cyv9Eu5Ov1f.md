@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: onlyzita
-aka: [script, onlyzita account context]
+aka: [Viral Finder]
 origin: sources/S_ig_onlyzita_Cyv9Eu5Ov1f.md
 ---
 
-# G_ig_onlyzita_Cyv9Eu5Ov1f — script
+# G_ig_onlyzita_Cyv9Eu5Ov1f — Viral Finder
 
 ## Term
 
-"script" is the most frequent repeated content term in this source (a transcribed Instagram video from the onlyzita account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: transcribe, entire, video, step. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Viral Finder is the site onlyzita opens in step one of his three-step process for going viral on Instagram every single time. The name appears once in the source, beside "Snap Insta", "Descript", "transcribe" and "most popular videos". The process is to input the username of someone crushing it in the niche, get a list of their most popular videos, download one with Snap Insta, transcribe its script in Descript, and paste the script into ChatGPT with the exact prompt on screen for a more engaging version. His own framing is blunt: it is not luck, it is calculated, and the rewritten script is one he stole.
 
 ## Synonyms
 
-- script
-- onlyzita account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Step two, download their video using Snap Insta and throw it into Descript, then wait for it to transcribe the entire video script. Step three, copy and paste the fully transcribed script, then open up ChatGPT and put down this exact prompt you see on the screen right now. In a few seconds, you'll have a much more engaging version of the script that you stole." — sources/S_ig_onlyzita_Cyv9Eu5Ov1f.md
+> "Step one, head over to the site called Viral Finder and input the username of someone who's absolutely crushing it in your niche." — sources/S_ig_onlyzita_Cyv9Eu5Ov1f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "script": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of going viral: the source claims the process works every single time, but the only evidence offered is his own assertion and the videos he points at.
+- Read as original content creation: the process starts by downloading someone else's video and transcribing its script, and the source itself calls the result a script that was stolen.

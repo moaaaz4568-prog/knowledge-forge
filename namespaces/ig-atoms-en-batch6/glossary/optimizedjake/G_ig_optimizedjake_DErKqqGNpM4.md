@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [know, optimizedjake account context]
+aka: [prototyping]
 origin: sources/S_ig_optimizedjake_DErKqqGNpM4.md
 ---
 
-# G_ig_optimizedjake_DErKqqGNpM4 — know
+# G_ig_optimizedjake_DErKqqGNpM4 — prototyping
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: inventing, stuff, product, development. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prototyping is the field optimizedjake got into at nineteen, in college, and it led him into marketing and the agencies he runs now. The word appears three times in the source, beside "engineering", "grandma's house", "prototyping company" and "marketing". He was in school for engineering and talked at his grandma's house about wanting to do prototyping and eventually owning a prototyping company, and his uncle's advice was to graduate, get a job, and look at it once he had experience. His concrete reply was stubbornness: he refused to wait, got into prototyping, and that led to meeting his current partner and the agencies, which later allowed him into real estate and other things.
 
 ## Synonyms
 
-- know
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I got started when again, when I was nineteen years old, I was in college. Long story short, I've always kind of been into you know inventing stuff, product development, and I was in school for engineering." — sources/S_ig_optimizedjake_DErKqqGNpM4.md
-> "Basically what he said is you know graduate, get a job, and that's something you could definitely look at once you have experience. And I am very stubborn. I think a lot of people from my generation are, and I was like, fuck that. I'm gonna just rip it. And I was just like, why am I gonna wait? Like who are you to tell me what to do?" — sources/S_ig_optimizedjake_DErKqqGNpM4.md
-> "So I just, I got into prototyping that led to get me, led me getting into marketing, you know meeting my partner that I currently had a few business with now, and us having you know the agencies we do, which again has allowed me to get into real estate and some other stuff. So that's a little bit about me and my history. I'm excited to share a little bit more about." — sources/S_ig_optimizedjake_DErKqqGNpM4.md
+> "I remember the clearest day we were at my grandma's house, and I had talked about you know potentially wanting obviously in engineering, wanted to get into doing like prototyping and eventually owning a prototyping company." — sources/S_ig_optimizedjake_DErKqqGNpM4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a business he still runs: prototyping was the start that led into marketing, and the source presents it as history, not as a current business.
+- Read as a plan that followed his uncle's advice: he did the opposite — he refused to wait for a job and experience, and got into prototyping right away.

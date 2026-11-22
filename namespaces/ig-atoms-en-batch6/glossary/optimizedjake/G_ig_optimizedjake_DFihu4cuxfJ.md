@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [dentist, optimizedjake account context]
+aka: [voice AI]
 origin: sources/S_ig_optimizedjake_DFihu4cuxfJ.md
 ---
 
-# G_ig_optimizedjake_DFihu4cuxfJ — dentist
+# G_ig_optimizedjake_DFihu4cuxfJ — voice AI
 
 ## Term
 
-"dentist" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: send, message, says, hey. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Voice AI is the product optimizedjake sells, and this source is about how custom the message about it has to be for each industry. The phrase appears twice in the source, beside "dental practices", "patient cleanings", "teeth whitening" and "dentist". Saying the agency offers voice AI that answers phone calls sounds okay to anyone, but sending a dentist a message that the voice AI specializes in dental practices, schedules patient cleanings and upsells teeth whitening services sounds far better. His concrete rule is that the more custom the message can get for the industry, the more likely the prospect gets on a call, signs up and actually uses it.
 
 ## Synonyms
 
-- dentist
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You know, if I send that to a dentist and I send that to a golf course, but if I send a message to a dentist that says, hey, we have voice AI specializing in dental practices that can schedule patient cleanings, upsell additional teeth whitening services, like the more custom your message can get for that industry, the better it's gonna sound, the more likely they're gonna get on and more likely" — sources/S_ig_optimizedjake_DFihu4cuxfJ.md
+> "If I say, oh, you know, we offer AI, voice AI that can answer clients or people's phone calls when they call in, like that sounds okay." — sources/S_ig_optimizedjake_DFihu4cuxfJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dentist": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as voice AI being one generic product: the source sells the same voice AI, but the message changes per industry, and the dental version is presented as a different pitch, not a different product.
+- Read as a promise that a custom message always closes: the source only says the prospect is more likely to get on, sign up and use it, and no signed dentist is shown.

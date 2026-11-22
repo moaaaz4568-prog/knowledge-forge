@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: onlyzita
-aka: [make money, onlyzita account context]
+aka: [untapped business ideas]
 origin: sources/S_ig_onlyzita_CzB14gMr_NE.md
 ---
 
-# G_ig_onlyzita_CzB14gMr_NE — make money
+# G_ig_onlyzita_CzB14gMr_NE — untapped business ideas
 
 ## Term
 
-"make money" is the most frequent repeated content term in this source (a transcribed Instagram video from the onlyzita account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ways, skill, money, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Untapped business ideas are the output onlyzita says a ChatGPT prompt produces for someone starting a business. The phrase appears once in the source, beside "contrarian ways", "skill set", "make money" and "start making that bread". The prompt asks for advice on unconventional ways to make money with the user's skill set, with context on what they are really good at, and then asks for 10 unique contrarian ways to make money with it. His concrete instruction is to pick one of the ten ideas produced in a few seconds and start making money with what the person is already good at.
 
 ## Synonyms
 
-- make money
-- onlyzita account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In a few seconds, 10 untapped business ideas to make money with what you're good at will be produced. Pick one and start making that bread." — sources/S_ig_onlyzita_CzB14gMr_NE.md
+> "In a few seconds, 10 untapped business ideas to make money with what you're good at will be produced." — sources/S_ig_onlyzita_CzB14gMr_NE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as ideas nobody else has tried: the source only calls them untapped and unique, and it never checks whether anyone else is already doing them.
+- Read as a business plan: the prompt produces ten ideas to pick from, and the source shows no validation, customer or sale for any of them.

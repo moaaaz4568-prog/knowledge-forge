@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: onlyzita
-aka: [Elon Musk, onlyzita account context]
+aka: [mentor]
 origin: sources/S_ig_onlyzita_CzZGl98uYAh.md
 ---
 
-# G_ig_onlyzita_CzZGl98uYAh — Elon Musk
+# G_ig_onlyzita_CzZGl98uYAh — mentor
 
 ## Term
 
-"Elon Musk" is the most frequent repeated content term in this source (a transcribed Instagram video from the onlyzita account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: musk, elon, one, thousand. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A mentor is the billionaire figure onlyzita says ChatGPT can replicate so the user gets coached for free. The word appears twice in the source, beside "billionaire", "Elon Musk", "actionable advice" and "scale our business". The prompt replaces the word billionaire with the mentor wanted — Bill Gates, Elon Musk or Steve Jobs — and in a few seconds an AI replicating that person asks questions about the business and gives actionable advice for current challenges. His concrete example is Elon Musk, with the AI telling the user how to scale the business to the moon like Tesla.
 
 ## Synonyms
 
-- Elon Musk
-- onlyzita account context (no variant form of the term appears in this source)
+- mentored (the verb form used in this source)
 
 ## Live Example
 
-> "How much would you pay to be mentored one on one by Elon Musk? A thousand dollars? Ten thousand dollars? A hundred thousand dollars? What if I told you you could be mentored by Bill Gates, Elon Musk, or Steve Jobs for completely free? Let me show you how. Go to ChatGPT and put in this prompt you see on the screen right now. Replace where it says billionaire with the mentor you want." — sources/S_ig_onlyzita_CzZGl98uYAh.md
-> "In this example, we'll use Elon Musk. Then in a few seconds, an AI that replicates Elon Musk will ask us questions relating to our business and give us actionable advice to solve current challenges and tell us how we can scale our business to the moon like Tesla. Use this prompt with whatever mentor you look up to and get coached for completely free." — sources/S_ig_onlyzita_CzZGl98uYAh.md
+> "Use this prompt with whatever mentor you look up to and get coached for completely free." — sources/S_ig_onlyzita_CzZGl98uYAh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Elon Musk": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as real mentoring from the person named: the mentor is an AI replicating Elon Musk, not Elon Musk himself, and the source never claims he said any of it.
+- Read as free advice with no trade-off: the coaching costs nothing, but it is a prompt reply, and the source shows no result from following its advice.

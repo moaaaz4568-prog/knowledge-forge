@@ -2,6 +2,8 @@
 
 Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,211 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
+Chunk 1 rebuild (2026-11-22, lines 1501-1550 of ig-batch6-list.txt): 50 files rebuilt in place (16 onlyzita + 34 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
+
 | File | Term | Live examples |
 |---|---|---|
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV-o0DVEZH5.md | model | 2 |
@@ -1504,56 +1506,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/onlyzita/G_ig_onlyzita_Cy0-qFbreUw.md | ChatGPT | 2 |
 | glossary/onlyzita/G_ig_onlyzita_Cy6I8EYOpDp.md | create | 1 |
 | glossary/onlyzita/G_ig_onlyzita_CyECtylrF4t.md | help | 3 |
-| glossary/onlyzita/G_ig_onlyzita_CyLxGQVLdi5.md | Drippy | 2 |
-| glossary/onlyzita/G_ig_onlyzita_CyQ5hblOu_h.md | prompt | 2 |
-| glossary/onlyzita/G_ig_onlyzita_CyWCh4WO6Hn.md | use | 3 |
-| glossary/onlyzita/G_ig_onlyzita_CyYmyUtuTbG.md | lead magnet | 3 |
-| glossary/onlyzita/G_ig_onlyzita_CylhXXaun5y.md | find | 2 |
-| glossary/onlyzita/G_ig_onlyzita_CyqrES9Lwa0.md | offer | 2 |
-| glossary/onlyzita/G_ig_onlyzita_Cyv9Eu5Ov1f.md | script | 1 |
-| glossary/onlyzita/G_ig_onlyzita_Cz4COaaLkWl.md | screen right | 3 |
-| glossary/onlyzita/G_ig_onlyzita_CzB14gMr_NE.md | make money | 1 |
-| glossary/onlyzita/G_ig_onlyzita_CzHBZFArDfl.md | video | 2 |
-| glossary/onlyzita/G_ig_onlyzita_CzMI5Mkr0wF.md | ChatGPT plugin | 1 |
-| glossary/onlyzita/G_ig_onlyzita_CzT6a0brn13.md | video | 3 |
-| glossary/onlyzita/G_ig_onlyzita_CzZGl98uYAh.md | Elon Musk | 2 |
-| glossary/onlyzita/G_ig_onlyzita_Cz_u-f7rtcJ.md | Adobe Podcast | 1 |
-| glossary/onlyzita/G_ig_onlyzita_CzeNsGrONVz.md | use | 3 |
-| glossary/onlyzita/G_ig_onlyzita_Czl-oc_uwqY.md | article | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DE1d2vehUH4.md | really | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DE4CprgBMrO.md | really | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DE6ngGdNl1s.md | another thing | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEHHfMdsB87.md | business | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEKgcxpRFb1.md | gonna | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DENboRhq5ey.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DERavtRP-U3.md | main software | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEWkRBDMR1p.md | clients | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEZJDE7tH35.md | think | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEZyR3cpVMc.md | business | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DE_xEoTPxfT.md | outsourced support | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEcXKuaqniR.md | team members | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEeSt70pFEt.md | day | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEg3j4JPPa8.md | prompt | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEmBEiTIccW.md | support | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEol2NpPcfr.md | something | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DErKqqGNpM4.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DEtvgUfNHKh.md | hours | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFCV2VaOEWb.md | set | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFE6njgI3wr.md | High Level | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFHfbLiCgbe.md | producing activities | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFKEPoqvvnq.md | know | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFMpIMiJjaL.md | every single | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFPNyFkPk11.md | pay somebody | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFRykZ3tX9h.md | gonna | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFUXXZPiZS2.md | know | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFW8KpfOZGN.md | want | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFZg9ljMMM8.md | marketing | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFcFv-cs76N.md | marketing | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFeqh-Nsq2P.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFihu4cuxfJ.md | dentist | 1 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFj0NggR15l.md | know | 3 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFmZAT6sVw2.md | know | 2 |
-| glossary/optimizedjake/G_ig_optimizedjake_DFo9slPofrv.md | know | 3 |
+| glossary/onlyzita/G_ig_onlyzita_CyLxGQVLdi5.md | Drippy AI | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CyQ5hblOu_h.md | Prompt Perfect | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CyWCh4WO6Hn.md | Viral Finder | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CyYmyUtuTbG.md | lead magnet | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CylhXXaun5y.md | AI Tool Hunt | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CyqrES9Lwa0.md | $100 million offer | 1 |
+| glossary/onlyzita/G_ig_onlyzita_Cyv9Eu5Ov1f.md | Viral Finder | 1 |
+| glossary/onlyzita/G_ig_onlyzita_Cz4COaaLkWl.md | cold email | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzB14gMr_NE.md | untapped business ideas | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzHBZFArDfl.md | Bardeen | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzMI5Mkr0wF.md | Bardeen | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzT6a0brn13.md | video summary plugin | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzZGl98uYAh.md | mentor | 1 |
+| glossary/onlyzita/G_ig_onlyzita_Cz_u-f7rtcJ.md | HeyGen | 1 |
+| glossary/onlyzita/G_ig_onlyzita_CzeNsGrONVz.md | faces videos | 1 |
+| glossary/onlyzita/G_ig_onlyzita_Czl-oc_uwqY.md | controversial script | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DE1d2vehUH4.md | unlimited accounts | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DE4CprgBMrO.md | voice | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DE6ngGdNl1s.md | self confidence | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEHHfMdsB87.md | niche down | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEKgcxpRFb1.md | deliverable | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DENboRhq5ey.md | sales manager | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DERavtRP-U3.md | octopus | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEWkRBDMR1p.md | revenue producing activities | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEZJDE7tH35.md | personal development | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEZyR3cpVMc.md | burn the bridges | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DE_xEoTPxfT.md | outsourced support team | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEcXKuaqniR.md | operator | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEeSt70pFEt.md | make time for yourself | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEg3j4JPPa8.md | prompting | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEmBEiTIccW.md | transparency | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEol2NpPcfr.md | unemotional | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DErKqqGNpM4.md | prototyping | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DEtvgUfNHKh.md | grind | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFCV2VaOEWb.md | upfront fee | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFE6njgI3wr.md | Go High Level | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFHfbLiCgbe.md | non-revenue producing activities | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFKEPoqvvnq.md | speed to response | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFMpIMiJjaL.md | solid routine | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFPNyFkPk11.md | handcuffed | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFRykZ3tX9h.md | voice agents | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFUXXZPiZS2.md | old head | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFW8KpfOZGN.md | burning time | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFZg9ljMMM8.md | marketing trends | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFcFv-cs76N.md | unique offer | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFeqh-Nsq2P.md | facade | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFihu4cuxfJ.md | voice AI | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFj0NggR15l.md | personal brand | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFmZAT6sVw2.md | Inc five thousand award | 1 |
+| glossary/optimizedjake/G_ig_optimizedjake_DFo9slPofrv.md | bootstrapped | 1 |
 | glossary/optimizedjake/G_ig_optimizedjake_DGVfXartJTX.md | think | 3 |
 | glossary/optimizedjake/G_ig_optimizedjake_DGYEHMwqlWZ.md | content | 3 |
 | glossary/optimizedjake/G_ig_optimizedjake_DGao42PIwpP.md | content | 2 |

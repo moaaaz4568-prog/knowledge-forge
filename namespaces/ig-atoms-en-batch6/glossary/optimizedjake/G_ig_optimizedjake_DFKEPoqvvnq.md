@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [know, optimizedjake account context]
+aka: [speed to response]
 origin: sources/S_ig_optimizedjake_DFKEPoqvvnq.md
 ---
 
-# G_ig_optimizedjake_DFKEPoqvvnq — know
+# G_ig_optimizedjake_DFKEPoqvvnq — speed to response
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: delay, because, know, synth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Speed to response is the advance optimizedjake calls by far the coolest thing in voice AI technology, measured by how small the delay has become. The phrase appears once in the source, beside "delay", "Synth", "voicemails" and "five to 10 seconds". With Air, where they started, a reply could take five to ten seconds while it processed, but with Synth the delay is ridiculously fast — so fast they had to increase most of their default settings so it would not reply so fast. His concrete second example is voicemail: being able to auto leave voicemails, which he takes as proof the technology is here to stay and will be used in the future.
 
 ## Synonyms
 
-- know
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "By far the coolest that I think the technologies come, you know, a long way with is the speed to response, how like the delay. Because I know in, you know, in synth, the delay is ridiculously fast. Yeah, there's not much of a delay, right? So we've actually had to take most of our default settings and actually increase the delay so it's not replying so fast." — sources/S_ig_optimizedjake_DFKEPoqvvnq.md
-> "So that to me has been the coolest thing to see because with air, because that's where we started, you know, sometimes it would take up to five to 10 seconds to reply because it's, you know, processing or whatever. But with synth and even as we, you know, continue to use synth, it's definitely that delay has gotten so small." — sources/S_ig_optimizedjake_DFKEPoqvvnq.md
+> "By far the coolest that I think the technologies come, you know, a long way with is the speed to response, how like the delay." — sources/S_ig_optimizedjake_DFKEPoqvvnq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that instant replies are always better: they actually increased the delay on purpose, because replying too fast looked wrong to the caller.
+- Read as a speed comparison with numbers: the only numbers in the source are Air at five to ten seconds against Synth's delay being ridiculously fast, and no measured figure for Synth is given.

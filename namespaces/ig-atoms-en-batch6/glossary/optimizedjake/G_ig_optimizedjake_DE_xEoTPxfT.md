@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [outsourced support, optimizedjake account context]
+aka: [outsourced support team]
 origin: sources/S_ig_optimizedjake_DE_xEoTPxfT.md
 ---
 
-# G_ig_optimizedjake_DE_xEoTPxfT — outsourced support
+# G_ig_optimizedjake_DE_xEoTPxfT — outsourced support team
 
 ## Term
 
-"outsourced support" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: team, support, currently, outsourced. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An outsourced support team is the arrangement optimizedjake names as the biggest failure on the back end of bootstrapping. The phrase appears twice in the source, beside "$7,000 a month per head", "$2,000", "internal" and "synchronized". For a long time the team was outsourced, paying somebody a monthly fee per head, and the agency paid $7,000 a month per head while those employees were getting about $2,000 to $2,500 a month. His concrete damage is two businesses outstanding that were not producing, burning $28,000 to $30,000 a month, until the team came internal and synchronized enough to pull a couple of hours a day from somebody for a new offer without hiring anyone.
 
 ## Synonyms
 
-- outsourced support
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The other biggest thing that I think would be a failure on the back end of bootstrapping was definitely when we had our outsourced support team. So currently, all of our people are internal, but for a long time we had an outsourced support team, which means we were paying somebody a monthly fee per head, and then obviously they were, you know, going turning around paying that person a salary." — sources/S_ig_optimizedjake_DE_xEoTPxfT.md
+> "The other biggest thing that I think would be a failure on the back end of bootstrapping was definitely when we had our outsourced support team." — sources/S_ig_optimizedjake_DE_xEoTPxfT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "outsourced support": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that outsourcing always fails: the failure was this relationship at this price — $7,000 per head against $2,000 paid — and the source never says every outsourced team fails.
+- Read as a saving once the team went internal: the gain he names is synchronization and the ability to test new offers with existing people, not a lower wage bill.

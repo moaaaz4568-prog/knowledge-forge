@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [know, optimizedjake account context]
+aka: [facade]
 origin: sources/S_ig_optimizedjake_DFeqh-Nsq2P.md
 ---
 
-# G_ig_optimizedjake_DFeqh-Nsq2P — know
+# G_ig_optimizedjake_DFeqh-Nsq2P — facade
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: success, school, communities, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A facade is what optimizedjake says the fake-successful people hide behind, and it is the reason he would not associate with them. The word appears once in the source, beside "rented Lamborghini", "millionaire", "mentor" and "hard worker". Real successful people — quote unquote millionaires — mostly want to help people below them, and he mentors a couple of people for free, giving advice because he was once in that position. His concrete contrast is the person who is not actually a millionaire, who might have a rented Lamborghini or whatever, and whose success came from selling some course: that is the facade, and the people to take after are the ones in the community and online who show hard work and effort.
 
 ## Synonyms
 
-- know
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If somebody from that success, you know, somebody's a quote unquote millionaire, that's successful, most of them are wanting and willing to help out people that are below them." — sources/S_ig_optimizedjake_DFeqh-Nsq2P.md
 > "And I think it's the ones that are not actually millionaires, they might have a rented Lamborghini or you know whatever, it's more of a facade, that those are the type of individuals that I wouldn't associate with because they're not truly successful." — sources/S_ig_optimizedjake_DFeqh-Nsq2P.md
-> "They might have got you know success selling some course, but the people that you really wanna take after, they're out there, they're in your community, they're online, you know school communities. You know, all it takes is mentoring and just getting in front of people." — sources/S_ig_optimizedjake_DFeqh-Nsq2P.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that all course sellers are fake: the source only distrusts the ones whose success is a facade — a rented Lamborghini and a course — not everyone who sells a course.
+- Read as mentoring being available to anyone: he mentors people who show they are hard workers continuing to put in the effort, and the source ties the help to that effort being visible.

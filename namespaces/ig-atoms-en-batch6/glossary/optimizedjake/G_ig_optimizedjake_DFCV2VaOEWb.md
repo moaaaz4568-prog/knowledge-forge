@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [set, optimizedjake account context]
+aka: [upfront fee]
 origin: sources/S_ig_optimizedjake_DFCV2VaOEWb.md
 ---
 
-# G_ig_optimizedjake_DFCV2VaOEWb — set
+# G_ig_optimizedjake_DFCV2VaOEWb — upfront fee
 
 ## Term
 
-"set" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: everything, ads, properly, basically. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An upfront fee is what optimizedjake charges so his team can set a client up properly, and he calls adaptation and integration the two biggest things that dictate the life of a client. The phrase appears twice in the source, beside "setup fee", "GHL account", "A2P" and "integrated". The fee is basically a setup fee that gets the client access to the system, and the team sets up the ads, the AI, the GHL account, the phone number and A2P verification — everything set up and ready to go. His concrete reason is that if the system is not integrated into the client's day to day, most normal people will not take the time to do it themselves, and the chances of them actually using it are very small.
 
 ## Synonyms
 
-- set
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adaptation and integration are the two biggest things that's gonna dictate the life of a client. Because if they're not integrated into their system and their day to day and it's not set up properly and they're using it, they're not gonna stick on." — sources/S_ig_optimizedjake_DFCV2VaOEWb.md
-> "So we charge an upfront fee, basically like a setup fee that gets them access to our system and basically we're gonna set up everything for them. So we'll set up your ads, we'll set up the AI, we'll set up your GHL account, we'll get everything verified, phone number, A2P, like everything, everything set up and ready to go." — sources/S_ig_optimizedjake_DFCV2VaOEWb.md
+> "So we charge an upfront fee, basically like a setup fee that gets them access to our system and basically we're gonna set up everything for them." — sources/S_ig_optimizedjake_DFCV2VaOEWb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "set": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a fee for the software license: the fee funds the team to go set the client up and integrate everything, and the source frames it as paying for the setup work, not the software.
+- Read as a guarantee the client will stick: adaptation and integration only dictate the life of a client when the system is set up properly and actually used, and the fee is what pays for that setup.

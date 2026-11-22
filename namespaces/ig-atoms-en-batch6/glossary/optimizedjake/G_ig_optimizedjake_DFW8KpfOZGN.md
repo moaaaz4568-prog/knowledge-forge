@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [want, optimizedjake account context]
+aka: [burning time]
 origin: sources/S_ig_optimizedjake_DFW8KpfOZGN.md
 ---
 
-# G_ig_optimizedjake_DFW8KpfOZGN — want
+# G_ig_optimizedjake_DFW8KpfOZGN — burning time
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, people, leads, appointments. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Burning time is what optimizedjake says an entrepreneur does when they raise money to pay for setup before talking to anyone. The phrase appears once in the source, beside "$40,000", "website", "social media marketing" and "leads". His example is trying to raise $40,000 to pay somebody $10,000 to build a website and hire an employee for a first business, when that time could be used far better by throwing something up, talking to people and pitching them. His concrete test is to ask people what they want: if the offer is social media marketing but people want leads, appointments, branding or a social media manager, the offer can change quickly and start selling, instead of building a big brand first and finding out nobody wanted it.
 
 ## Synonyms
 
-- want
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You could be used a lot better by just throwing something up and start talking to people, start pitching people, ask people what they want because you'll find out really quickly that if you're offering social media marketing and people want business, they want leads, they want appointments, or maybe they want branding or a social media manager, you can" — sources/S_ig_optimizedjake_DFW8KpfOZGN.md
+> "If you're trying to raise $40, 000 so you can pay somebody 10, 000 to build you a website and hire an employee for your first business, you're burning time." — sources/S_ig_optimizedjake_DFW8KpfOZGN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on spending money on a website: the waste is raising $40,000 and waiting before talking to people, not the website itself, which can be thrown up cheaply.
+- Read as a promise that pitching always finds demand: the source only says you find out really quickly what people want, and the offer still has to change to match it.

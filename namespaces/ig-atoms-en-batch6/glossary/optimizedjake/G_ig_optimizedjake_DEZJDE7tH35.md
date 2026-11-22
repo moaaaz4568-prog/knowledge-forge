@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [think, optimizedjake account context]
+aka: [personal development]
 origin: sources/S_ig_optimizedjake_DEZJDE7tH35.md
 ---
 
-# G_ig_optimizedjake_DEZJDE7tH35 — think
+# G_ig_optimizedjake_DEZJDE7tH35 — personal development
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: personal, development, health, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Personal development is the part of life optimizedjake says he had to relearn after starting all-in on business with very little time for anything else. The phrase appears twice in the source, beside "physical health", "mental health", "spiritual health" and "thought processes". Working fourteen, fifteen, sixteen hours a day is unhealthy, and much of that time is probably not used well, so he argues for more potent time when working and then things for yourself. His concrete challenge is to dedicate an hour or two or three every single day to working on yourself physically and mentally, and to really think about thought processes and how you interact with work.
 
 ## Synonyms
 
-- think
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So work on having more potent and more potent time when you are working, and then have things for yourself. You know, from a personal development. When people think about like personal development, they think reading books and learning things about business, and I think it's more than that. It's it's you know your physical body and improving your physical health." — sources/S_ig_optimizedjake_DEZJDE7tH35.md
-> "Um, I think mental health, spiritual health, but then also understanding those things and your thought processes, and your habits. So I would challenge somebody to, dedicate, you know, an hour or two or three every single day where you are really you know working on yourself physically, mentally, but then also really trying to, think about, those thought processes and how you interact with work." — sources/S_ig_optimizedjake_DEZJDE7tH35.md
+> "When people think about like personal development, they think reading books and learning things about business, and I think it's more than that." — sources/S_ig_optimizedjake_DEZJDE7tH35.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as personal development meaning business books: the source explicitly says it is more than reading books and learning things about business — physical, mental and spiritual health count too.
+- Read as working fewer hours for its own sake: the point is more potent time while working, not fewer hours as a goal, and the daily self-work is added on top.

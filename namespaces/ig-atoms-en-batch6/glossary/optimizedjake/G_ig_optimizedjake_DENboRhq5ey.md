@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [know, optimizedjake account context]
+aka: [sales manager]
 origin: sources/S_ig_optimizedjake_DENboRhq5ey.md
 ---
 
-# G_ig_optimizedjake_DENboRhq5ey — know
+# G_ig_optimizedjake_DENboRhq5ey — sales manager
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lot, years, now, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A sales manager is the hire optimizedjake names as one of his first biggest failures in almost ten years of business. The phrase appears once in the source, beside "commission", "salary", "couple hundred dollars a month" and "grow your business". He and a friend had a couple of clients paying a couple hundred dollars a month, were not even paying their bills, and still hired a sales manager on salary with a little bit of business money. His concrete lesson is not to hire somebody on a salary to do sales, because realistically they need to be on commission and motivated — and hiring someone does not mean they will do a good job or grow the business.
 
 ## Synonyms
 
-- know
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I mean, I've failed. I feel like throughout my whole career. Again, I've been doing this for almost 10 years now. And you know, there's a lot. You know, one of the first biggest failures that just sticks out to me is, you know, it was me and a friend. We had gotten a couple clients paying us a couple hundred dollars a month, so we weren't racking it in." — sources/S_ig_optimizedjake_DENboRhq5ey.md
 > "We weren't even paying our bills, but we had a little bit of business money and we ended up hiring a sales manager, which, you know, there's a lesson there." — sources/S_ig_optimizedjake_DENboRhq5ey.md
-> "Don't hire somebody on a salary to do sales for you because, you know, realistically they need to be on commission and motivated. So that was definitely one of the first things that it's like, just because you hire someone doesn't mean that they're gonna do a good job and doesn't mean they're gonna grow your business." — sources/S_ig_optimizedjake_DENboRhq5ey.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that sales managers never work: the failure was the salary structure, and later in his career a commission-only sales manager did really well for him.
+- Read as a hiring rule for every role: the lesson is specific to sales — commission and motivation — and the source says nothing about how to hire for other jobs.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [business, optimizedjake account context]
+aka: [niche down, niched down]
 origin: sources/S_ig_optimizedjake_DEHHfMdsB87.md
 ---
 
-# G_ig_optimizedjake_DEHHfMdsB87 — business
+# G_ig_optimizedjake_DEHHfMdsB87 — niche down
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, everybody, because, rather. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To niche down is optimizedjake's first key to making content that resonates with an audience: talk about what the audience follows you for, not business in general. The phrase "niche down" appears once in the source and the form "niched down" appears once more, beside "Hormozy", "specific things", "marketing" and "business". His test is whether the listener would rather follow a stranger talking about business or a big name like Hormozy who actually does big business, so the content has to be more niched down than general business. The concrete rule is to speak only about the specific thing you can talk about — for him marketing and business, eaten, breathed and slept for almost ten years — and never about random subjects researched on ChatGPT.
 
 ## Synonyms
 
-- business
-- optimizedjake account context (no variant form of the term appears in this source)
+- niched down (the form used in this source)
 
 ## Live Example
 
-> "Most people are gonna need to niche down more than just oh I do business, because everybody can talk about business and would you rather follow somebody that they don't, you know, you don't really know of, or the people that are actually big names like a Hormozy or somebody like that that actually does big business." — sources/S_ig_optimizedjake_DEHHfMdsB87.md
-> "So it's definitely being more niched down than just general business or whatever your industry might be and then being able to speak towards specific things. Obviously don't be a fake, don't be somebody that can't talk about specific things." — sources/S_ig_optimizedjake_DEHHfMdsB87.md
-> "I can talk about marketing, I can talk about business, all that kind of stuff all day because I've literally eat, breathe and sleeped it for the last almost 10 years now, nine years. Be able to speak about that specific thing you're making content about. Don't go out there and just speak about random shit that you researched on ChatGPT." — sources/S_ig_optimizedjake_DEHHfMdsB87.md
+> "So it's definitely being more niched down than just general business or whatever your industry might be and then being able to speak towards specific things." — sources/S_ig_optimizedjake_DEHHfMdsB87.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as picking a small topic once: niching down here is a standing discipline — only talk about the specific thing you live, not a topic label chosen for one video.
+- Read as a ban on using ChatGPT: he says ChatGPT is fine for ideas and planning content, and the ban is only on speaking about random subjects researched on it with no experience behind them.

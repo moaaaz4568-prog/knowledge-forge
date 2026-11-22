@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [clients, client]
+aka: [revenue producing activities]
 origin: sources/S_ig_optimizedjake_DEWkRBDMR1p.md
 ---
 
-# G_ig_optimizedjake_DEWkRBDMR1p — clients
+# G_ig_optimizedjake_DEWkRBDMR1p — revenue producing activities
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: actually, getting, good, results. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Revenue producing activities are the work optimizedjake says a marketing agency or consultancy must focus on after bringing a client in. The phrase appears twice in the source, beside "good results", "meetings", "appointments" and "predictable". The sequence is to get the client good results with a good, replicatable product, then dial in the revenue producing activities — meetings and appointments — until they are predictable, and only then hire a salesperson and automate the back end. His concrete warning is not to worry about the back end before having clients and a scalable, predictable front end, because that predictability comes only from perfecting the offer and having as many meetings as possible.
 
 ## Synonyms
 
-- clients
-- client (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The other thing that is super important is actually getting your clients good results. So if you own marketing agency, if you do consulting, you need to one hundred percent make sure that you are getting your clients good results, and that is also gonna be where you wanna focus on." — sources/S_ig_optimizedjake_DEWkRBDMR1p.md
 > "After you bring the client in, after you are, you know, doing your revenue producing activities, you wanna make sure that you are actually getting your clients good results, putting out a good product, having success, and that it's something that's replicatable." — sources/S_ig_optimizedjake_DEWkRBDMR1p.md
-> "Because then what happens is, once you dial in your revenue producing activities, your meetings, appointments, and that is predictable, and you have a good offer with results, you plug that in, you start to sign up clients left and right, you scale, and once it's predictable, you hire a salesperson, they're getting you clients, and then you start automating the back end." — sources/S_ig_optimizedjake_DEWkRBDMR1p.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as activities that produce revenue by themselves: the phrase covers meetings and appointments, and the source says they only pay off once the offer is perfected and the client is getting good results.
+- Read as a reason to skip the back end forever: automating the back end comes after the front end is predictable, not instead of it, and the source still hires a salesperson first.

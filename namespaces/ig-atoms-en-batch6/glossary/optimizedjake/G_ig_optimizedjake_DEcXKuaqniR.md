@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [team members, optimizedjake account context]
+aka: [operator]
 origin: sources/S_ig_optimizedjake_DEcXKuaqniR.md
 ---
 
-# G_ig_optimizedjake_DEcXKuaqniR — team members
+# G_ig_optimizedjake_DEcXKuaqniR — operator
 
 ## Term
 
-"team members" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: members, know, team, employees. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An operator is the hire optimizedjake says he needs because he does not work a fixed nine-to-five day. The word appears once in the source, beside "nine to five", "manager", "unorganized" and "gym". Some days he starts at four in the morning and some days at eleven, and if he wants to go to the gym at twelve or one he wants to be able to do that — so he needs somebody who can be more of an operator and more of a manager, comfortable being there nine to five to make sure the other team members do what they need to do. His concrete worry is that leading from an unorganized point of view rubs off on the team, which is not good for any business.
 
 ## Synonyms
 
-- team members
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So that means I need to then go hire somebody that can be more of an operator and can be more of a manager that is comfortable being there nine to five to make sure all the other team members, you know, are doing what they need to do. Because if I lead from an unorganized point of view, that means my employees or my team members are gonna be, you know, unorganized." — sources/S_ig_optimizedjake_DEcXKuaqniR.md
+> "So that means I need to then go hire somebody that can be more of an operator and can be more of a manager that is comfortable being there nine to five to make sure all the other team members, you know, are doing what they need to do." — sources/S_ig_optimizedjake_DEcXKuaqniR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "team members": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a boss who does nothing: the operator covers the fixed hours and the team, while he still leads — and his own reason is that his disorganization would otherwise rub off on everyone.
+- Read as a nine-to-five job he is offering himself: the operator is the person hired to be there nine to five, and he is explicit that he is not that person.

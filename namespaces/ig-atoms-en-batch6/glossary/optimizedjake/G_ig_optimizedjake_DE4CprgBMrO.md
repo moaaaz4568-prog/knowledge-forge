@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: optimizedjake
-aka: [really, optimizedjake account context]
+aka: [voice]
 origin: sources/S_ig_optimizedjake_DE4CprgBMrO.md
 ---
 
-# G_ig_optimizedjake_DE4CprgBMrO — really
+# G_ig_optimizedjake_DE4CprgBMrO — voice
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed Instagram video from the optimizedjake account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: little, bit, differently, take. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Voice is the voice-AI layer optimizedjake's clients get integrated into their systems, and the word carries that specific meaning here rather than the sound of a human speaking. The word appears twice in the source, beside "integrated into their system", "prompting", "scripting" and "ecstatic". Clients complain about the prompting and scripting he gives them, so things have to go back and change, but overall they are ecstatic just to have voice integrated, because everybody uses voice and sells it a little bit differently. His concrete contrast is his own approach: he does not play the SaaS game, but charges an upfront fee and integrates the voice system into the client's business so they see its full capability working.
 
 ## Synonyms
 
-- really
-- optimizedjake account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We really take a step. We don't play the SaaS game. We charge an upfront fee and we really integrate it into people's businesses. So when they are seeing it working, they're seeing like really the full capability of it. So they actually appreciate it and have nothing but mostly good things to say unless there's some prompt stuff that we have to change out." — sources/S_ig_optimizedjake_DE4CprgBMrO.md
+> "Overall, they're ecstatic just to have voice integrated into their system because again, I think everybody kind of uses voice and sells this a little bit differently." — sources/S_ig_optimizedjake_DE4CprgBMrO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as clients loving the whole product: the source is clear the complaints are real — about prompting and scripting — and only the voice integration itself delights them.
+- Read as a hands-off software sale: he charges an upfront fee and integrates it into the business himself, which is the opposite of handing over a login and walking away.

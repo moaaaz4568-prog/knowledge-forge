@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: onlyzita
-aka: [prompt, prompts]
+aka: [Prompt Perfect]
 origin: sources/S_ig_onlyzita_CyQ5hblOu_h.md
 ---
 
-# G_ig_onlyzita_CyQ5hblOu_h — prompt
+# G_ig_onlyzita_CyQ5hblOu_h — Prompt Perfect
 
 ## Term
 
-"prompt" is the most frequent repeated content term in this source (a transcribed Instagram video from the onlyzita account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: perfect, put, way, prompt. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prompt Perfect is the ChatGPT plugin onlyzita presents as the way to turn ChatGPT into a nuclear weapon for prompts. The name appears twice in the source, beside "ChatGPT plugin store", "more detailed", "more in depth" and "the exact result I wanted". The method is to put the word perfect before any prompt, so the plugin rewrites it into a prompt that is way more detailed and in depth, and then ChatGPT returns exactly the result he wanted. His concrete example is a prompt he fed into Prompt Perfect that came back as a longer, more detailed prompt and produced the exact result he was after.
 
 ## Synonyms
 
-- prompt
-- prompts (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This one tool will turn ChatGPT into a nuclear weapon, and it does this by making your prompts a thousand times more powerful. All you need to do is go to the ChatGPT plugin store and download Prompt Perfect. Then before you write any prompt, put perfect before it, and it will significantly improve the prompt to get way better results." — sources/S_ig_onlyzita_CyQ5hblOu_h.md
-> "For example, I put this prompt into Prompt Perfect, and it generated me a prompt that is way more detailed, more in depth, and gave me the exact result I wanted. Save this post so you can turn ChatGPT into the ultimate hack for your business." — sources/S_ig_onlyzita_CyQ5hblOu_h.md
+> "All you need to do is go to the ChatGPT plugin store and download Prompt Perfect." — sources/S_ig_onlyzita_CyQ5hblOu_h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prompt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a plugin that writes the prompt for you from nothing: the source still starts from a prompt he writes himself, and Prompt Perfect only improves it before ChatGPT runs it.
+- Read as proof the improved prompt always works: the source shows one example where it gave him the exact result he wanted, and nothing about the prompts where it might not.

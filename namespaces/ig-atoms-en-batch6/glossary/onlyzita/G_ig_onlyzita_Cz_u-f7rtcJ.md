@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: onlyzita
-aka: [Adobe Podcast, onlyzita account context]
+aka: [HeyGen]
 origin: sources/S_ig_onlyzita_Cz_u-f7rtcJ.md
 ---
 
-# G_ig_onlyzita_Cz_u-f7rtcJ — Adobe Podcast
+# G_ig_onlyzita_Cz_u-f7rtcJ — HeyGen
 
 ## Term
 
-"Adobe Podcast" is the most frequent repeated content term in this source (a transcribed Instagram video from the onlyzita account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: podcast, adobe, six, turn. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+HeyGen is the second of seven AI tools onlyzita wishes he knew about earlier, for content creators. The name appears twice in the source, beside "AI avatar", "show your face", "realistic" and "creating content". It creates videos using a realistic AI avatar, so the creator never has to show their face when creating content. The other tools in the same list are Submagic for captions and B-roll, Midro for scripts from 10,000 viral scripts, Veed for eye tracking, ChatGPT for viral scripts, Adobe Podcast for studio-quality audio, and Postwise for viral tweets and threads.
 
 ## Synonyms
 
-- Adobe Podcast
-- onlyzita account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Most of you are using ChatGPT wrong, so you can use this prompt you see on the screen right now to get it to write actual viral scripts for you. Six is Adobe Podcast. With Adobe Podcast, you can turn your raspy and garbage audio into studio quality in just a few seconds. Finally, number seven is Postwise, which is an AI that can write viral tweets and threads for you." — sources/S_ig_onlyzita_Cz_u-f7rtcJ.md
+> "Second is HeyGen. HeyGen can create amazing videos using a realistic AI avatar, so you never have to show your face when creating content." — sources/S_ig_onlyzita_Cz_u-f7rtcJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Adobe Podcast": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real person on camera: the video is made with an AI avatar, and the source is explicit that the creator never shows their face.
+- Read as a tool that writes the video too: HeyGen here only creates the video from an avatar, and the script comes from the other tools in the list, like Midro and ChatGPT.
