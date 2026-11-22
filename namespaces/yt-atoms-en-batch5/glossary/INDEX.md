@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch5)
 
-Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 150 glossary files, 150 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 200 glossary files, 200 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -154,3 +154,53 @@ Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file —
 | glossary/misc-dl/G_yt_brzjHzzxD0E_en.md | normalizing | 1 |
 | glossary/misc-dl/G_yt_bsGF8syLCq8_en.md | niching down | 1 |
 | glossary/misc-dl/G_yt_bsbFFRU5eck_en.md | call-to-action button | 1 |
+| glossary/misc-dl/G_yt_btuzOYltFEY_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_bu4o8J-YvLE_en.md | hill that you would die on | 1 |
+| glossary/misc-dl/G_yt_bu_UC-9kwiQ_en.md | negative space | 1 |
+| glossary/misc-dl/G_yt_bupSfWJHMH0_en.md | critical thinking | 1 |
+| glossary/misc-dl/G_yt_bvBWmGp8ygk_en.md | founder | 1 |
+| glossary/misc-dl/G_yt_bvg1BbZTt_0_en.md | followers | 1 |
+| glossary/misc-dl/G_yt_bw5HEh1uSjc_en.md | typography | 1 |
+| glossary/misc-dl/G_yt_bws6iU0f7fM_en.md | gradient tool | 1 |
+| glossary/misc-dl/G_yt_bwsXKFVTGL0_en.md | typographic logo | 1 |
+| glossary/misc-dl/G_yt_bxgSIV8nSg8_en.md | systemology | 1 |
+| glossary/misc-dl/G_yt_c-WfMtPvugo_en.md | cash flow | 1 |
+| glossary/misc-dl/G_yt_c-nc2HBsAOo_en.md | AI agent | 1 |
+| glossary/misc-dl/G_yt_c-zk6oPeXXo_en.md | beliefs | 1 |
+| glossary/misc-dl/G_yt_c0-paxMe6Dk_en.md | gradient | 1 |
+| glossary/misc-dl/G_yt_c0g2_nxdwY0_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_c0hd54NOADE_en.md | graphic designer | 1 |
+| glossary/misc-dl/G_yt_c0tYmRlgsDo_en.md | deserve | 1 |
+| glossary/misc-dl/G_yt_c19T1lhcU9k_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_c1AjlbD8T_A_en.md | advertisers | 1 |
+| glossary/misc-dl/G_yt_c1GfYnl6jn4_en.md | swatch group | 1 |
+| glossary/misc-dl/G_yt_c1_FEkw9kM4_en.md | root ball | 1 |
+| glossary/misc-dl/G_yt_c2cY9m1bx6Y_en.md | funnel | 1 |
+| glossary/misc-dl/G_yt_c3jjyT0tbuY_en.md | pattern | 1 |
+| glossary/misc-dl/G_yt_c4moevveKWg_en.md | email marketing machine | 1 |
+| glossary/misc-dl/G_yt_c4rOSG8fdes_en.md | growth specialist | 1 |
+| glossary/misc-dl/G_yt_c5HHs3FA7e0_en.md | chat GPT | 1 |
+| glossary/misc-dl/G_yt_c5pKVlQwTew_en.md | influencer marketing | 1 |
+| glossary/misc-dl/G_yt_c6ovTnU3164_en.md | making money | 1 |
+| glossary/misc-dl/G_yt_c8Q-ykjAn3w_en.md | acquisition | 1 |
+| glossary/misc-dl/G_yt_c9HypKGZy7Q_en.md | data GPT | 1 |
+| glossary/misc-dl/G_yt_cBP1fXWJxnM_en.md | adventure | 1 |
+| glossary/misc-dl/G_yt_cBoONiQ9u0Q_en.md | blur | 1 |
+| glossary/misc-dl/G_yt_cBsHck5tO2s_en.md | pauses | 1 |
+| glossary/misc-dl/G_yt_cC5N4xIkhCU_en.md | skill | 1 |
+| glossary/misc-dl/G_yt_cDtA9A8LLwM_en.md | font pair | 1 |
+| glossary/misc-dl/G_yt_cE6S788IFGE_en.md | test | 1 |
+| glossary/misc-dl/G_yt_cEny8xOmFiU_en.md | systems | 1 |
+| glossary/misc-dl/G_yt_cF0wTWOQE1s_en.md | title | 1 |
+| glossary/misc-dl/G_yt_cFa5R8j1GsE_en.md | tariffs | 1 |
+| glossary/misc-dl/G_yt_cGLMsglDZ8E_en.md | CoWork | 1 |
+| glossary/misc-dl/G_yt_cGS5UEGPMhQ_en.md | lifestyle | 1 |
+| glossary/misc-dl/G_yt_cGsCgJh2bsU_en.md | movie poster | 1 |
+| glossary/misc-dl/G_yt_cJE6KxYL_UA_en.md | call to action | 1 |
+| glossary/misc-dl/G_yt_cJUMhI63HXg_en.md | email | 1 |
+| glossary/misc-dl/G_yt_cJmbncvBYJM_en.md | Midjourney | 1 |
+| glossary/misc-dl/G_yt_cJwYKzvDX_s_en.md | communication | 1 |
+| glossary/misc-dl/G_yt_cKPd5dqALlU_en.md | personal brand | 1 |
+| glossary/misc-dl/G_yt_cLieMKqT1fc_en.md | the chosen | 1 |
+| glossary/misc-dl/G_yt_cMJXiD0Cjt4_en.md | offer | 1 |
+| glossary/misc-dl/G_yt_cNZ8ekskYzM_en.md | aida | 1 |
