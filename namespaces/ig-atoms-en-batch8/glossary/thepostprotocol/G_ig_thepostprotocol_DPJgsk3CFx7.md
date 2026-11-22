@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [prompt, thepostprotocol account context]
+aka: [story ideas]
 origin: sources/S_ig_thepostprotocol_DPJgsk3CFx7.md
 ---
 
-# G_ig_thepostprotocol_DPJgsk3CFx7 — prompt
+# G_ig_thepostprotocol_DPJgsk3CFx7 — story ideas
 
 ## Term
 
-"prompt" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: chatgpt, paste, hit, enter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Story ideas are the product of the one thing this video tells viewers never to skip: pasting a prompt into ChatGPT and getting 100 high-converting Instagram story ideas in seconds. The phrase appears once, in the sentence describing what the prompt returns, and the four jobs those ideas do are named — hooking with storytelling, boosting engagement with polls and quizzes, creating urgency with countdowns, and building trust with behind the scenes. The video never shows the prompt itself; it is offered to anyone who comments, so the story ideas are a promised output rather than a demonstrated one. The entire video is the setup for that exchange: one action, one prompt, one hundred ideas.
 
 ## Synonyms
 
-- prompt
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Never ever post a story on Instagram again without doing this one thing. Go to ChatGPT, paste this prompt, and hit enter. In seconds, you'll get 100 high-converting Instagram story ideas that hook with storytelling, boost engagement with polls and quizzes, create urgency with countdowns, and build trust with behind the scenes. Comment the word" — sources/S_ig_thepostprotocol_DPJgsk3CFx7.md
+> "In seconds, you'll get 100 high-converting Instagram story ideas that hook with storytelling, boost engagement with polls and quizzes, create urgency with countdowns, and build trust with behind the scenes." — sources/S_ig_thepostprotocol_DPJgsk3CFx7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prompt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a review of ChatGPT story ideas: the video never displays a single idea the prompt returns, so the quality of the hundred ideas cannot be judged from it.
+- Read as a guarantee of conversion: high-converting describes the promised ideas, and the video offers no result from anyone who used them.

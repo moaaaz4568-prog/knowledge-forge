@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [look confident, theianchristianson account context]
+aka: [focus, focusing]
 origin: sources/S_ig_theianchristianson_DTftq8qEgll.md
 ---
 
-# G_ig_theianchristianson_DTftq8qEgll — look confident
+# G_ig_theianchristianson_DTftq8qEgll — focus
 
 ## Term
 
-"look confident" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: feeling, perfect, confident, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Focus is the hinge of this video's lesson about looking confident: not how you feel inside, but where you put your attention. The word appears once, in the realization that confidence is about where you put your focus, while the verb focusing appears twice — first on himself, then on the person in front of him. The story is the door-to-door window washing service, where every opening door set his heart racing as he wondered what they would think of his idea and how he could sell himself. The moment his attention left himself and landed on the other person, his body relaxed, his voice steadied, and his ideas came out clearer — and he could make the sale because they liked who he was.
 
 ## Synonyms
 
-- look confident
-- theianchristianson account context (no variant form of the term appears in this source)
+- focusing
 
 ## Live Example
 
-> "Here's exactly how to look confident even if you feel awkward. Years ago, I had a window washing service where I would go door to door selling my business and pitching myself. Knock upon knock, I would hit each door in the neighborhood with my heart racing every time that dang door opened. I couldn't stop thinking" — sources/S_ig_theianchristianson_DTftq8qEgll.md
-> "I could actually make the sale because they liked who I was. And so you don't look confident by feeling perfect. You look confident when your attention fully leaves you and lands on the other person." — sources/S_ig_theianchristianson_DTftq8qEgll.md
+> "And so what changed everything for me was realizing that confidence isn't about how you feel. It's about where you put your focus." — sources/S_ig_theianchristianson_DTftq8qEgll.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "look confident": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as ignoring your own feelings: the point is redirecting attention during the interaction, not denying nervousness, and the speaker still describes his heart racing at every door.
+- Read as a sales trick: the shift described is attention moving to the other person, and the sale follows from being liked, not from a scripted pitch.

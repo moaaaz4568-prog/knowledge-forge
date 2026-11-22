@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [people, theianchristianson account context]
+aka: [performance]
 origin: sources/S_ig_theianchristianson_DTOG9TzEj9g.md
 ---
 
-# G_ig_theianchristianson_DTOG9TzEj9g — people
+# G_ig_theianchristianson_DTOG9TzEj9g — performance
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: become, obsessed, myth, false. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Performance is what the speaker says happens when pressure hits: around people who seem impressive or more important, the speaker starts trying to be sharp, say something interesting, and say the right thing. The word appears once, in the sentence that under pressure you switch into a performance, and the cost is that the other person feels neediness rather than leadership. The fix has three parts — stop trying to impress, slow down speech more than feels natural so meaning can be injected and the next line can be thought through, and decide one thing to say before opening your mouth. Say that one thing and do not ramble: that, the speaker says, is literally how simple the correction is.
 
 ## Synonyms
 
-- people
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you do not leave every conversation with that person being obsessed with you, then you are doing something seriously wrong. Now, there's this myth that people become obsessed with you or like you because you impress them, but that's false. People become obsessed with you because they feel confident around you. Listen, most people can talk fine." — sources/S_ig_theianchristianson_DTOG9TzEj9g.md
-> "They're smart, they're articulate, but this confidence problem only shows up when you are talking to people that are impressive or that you believe are more important than you. And when that type of pressure hits, you start to switch into a performance." — sources/S_ig_theianchristianson_DTOG9TzEj9g.md
+> "And when that type of pressure hits, you start to switch into a performance." — sources/S_ig_theianchristianson_DTOG9TzEj9g.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on preparing what to say: the video's third step is to decide the one thing in advance, so the target is performing for approval, not preparation itself.
+- Read as advice to act unimpressed: stopping the effort to impress is not the same as indifference, and the speaker pairs it with slower, more meaningful speech, not with coldness.

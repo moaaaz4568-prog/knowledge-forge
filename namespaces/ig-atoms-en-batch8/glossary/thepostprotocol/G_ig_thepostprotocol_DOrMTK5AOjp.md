@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [experiment, thepostprotocol account context]
+aka: [trial reels]
 origin: sources/S_ig_thepostprotocol_DOrMTK5AOjp.md
 ---
 
-# G_ig_thepostprotocol_DOrMTK5AOjp — experiment
+# G_ig_thepostprotocol_DOrMTK5AOjp — trial reels
 
 ## Term
 
-"experiment" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: first, place, five, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Trial reels are the speaker's recommended way to experiment with Instagram growth: a low-risk test of what resonates now, since what works today might not work in a couple of months. The phrase appears once, at the end of a five-point list — no watermarks or logos, reels under three minutes, music or dynamic audio, posting regularly in theme, and experimenting. The logic of the list is consistency a follower can predict: if people know what they will get by following you, they are more likely to follow in the first place. The full list is offered as a PDF to anyone who comments, so trial reels sit in this video as the practical tool for the experiment step rather than as a growth guarantee.
 
 ## Synonyms
 
-- experiment
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If people know what they're gonna get by following you, they're more likely to follow you in the first place. And five, experiment, because what resonates now might not resonate in a couple months. And a great way to experiment is to use trial reels. Don't worry about remembering everything. Just comment PDF and I'll send you the full list." — sources/S_ig_thepostprotocol_DOrMTK5AOjp.md
+> "And a great way to experiment is to use trial reels." — sources/S_ig_thepostprotocol_DOrMTK5AOjp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "experiment": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that trial reels bring followers: the video offers them as a way to experiment, not as a result, and the follower logic it gives is about predictable theme, not about the tool.
+- Read as a full growth course: the video explicitly says it teaches more in 45 seconds than any course, but its content is five short rules, so it cannot stand in for the detail a course would carry.

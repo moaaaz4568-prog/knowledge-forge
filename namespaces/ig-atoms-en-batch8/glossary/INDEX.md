@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch8)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,007 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,954 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1554,55 +1554,55 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/theianchristianson/G_ig_theianchristianson_DNRul1nPJ-y.md | people | 3 |
 | glossary/theianchristianson/G_ig_theianchristianson_DNV1cuGx1Gh.md | people | 2 |
 | glossary/theianchristianson/G_ig_theianchristianson_DNV4Lw_xlKy.md | life | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DNmDOHdSXF-.md | starting | 1 |
-| glossary/theianchristianson/G_ig_theianchristianson_DNn22SRxU3q.md | conversations | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOR9hIKgU2u.md | confidence | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOR9kN5gRLB.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOWExV0kTix.md | brain | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOWFKCukWDX.md | opportunities | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOoikD9kgim.md | memorable | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DOtnkrVAZH3.md | people | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DQXHTuXD9YG.md | say something | 1 |
-| glossary/theianchristianson/G_ig_theianchristianson_DQejfvLEQTo.md | respond | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DSqDuiXEiGK.md | people | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DSqKmZhAb53.md | where | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DTDl_YoEqdt.md | because | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DTOG9TzEj9g.md | people | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DTftq8qEgll.md | look confident | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DTihMFEDnKA.md | conviction | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DU80a8kkhtT.md | people listen | 1 |
-| glossary/theianchristianson/G_ig_theianchristianson_DUSGMSZEi0e.md | never | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DUyVN2FD_Ca.md | every | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DVT4IPVD7EY.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DX95vUmyH7E.md | kind | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DXZhF0akuGp.md | top | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DXhULoXEilZ.md | confident | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DZ6YCdoSJ1W.md | even | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DaJJ4y9ysy0.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_Db6rnShhrGm.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DbEzCC9SRkx.md | nervous system | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DbJkyDhyBkQ.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_Dbe7SO6Sp2H.md | confidence | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_Dbmf3lTyB3v.md | Number | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_Dd6onWXOcet.md | because | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DNlulypsxKb.md | Bucket Challenge | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DOrMTK5AOjp.md | experiment | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DOthc4UCL0z.md | Number | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DOv00-piP74.md | works because | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DP3YQHFCDG4.md | hook | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DP4XW01gBlz.md | website | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DP6f4uFCH_r.md | because | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPCIjR5iDP2.md | trigger | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPHIqoiCP97.md | automation | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPJgsk3CFx7.md | prompt | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPa3gVmiBov.md | question | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPcAeTZAFy-.md | because | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPereCZAMYj.md | time | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPgxgZxiLHm.md | buying | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPqK34IiA9O.md | website | 2 |
+| glossary/theianchristianson/G_ig_theianchristianson_DNmDOHdSXF-.md | refrain | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DNn22SRxU3q.md | small talk | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOR9hIKgU2u.md | confidence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOR9kN5gRLB.md | confidence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOWExV0kTix.md | micro signals | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOWFKCukWDX.md | certainty | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOoikD9kgim.md | presence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DOtnkrVAZH3.md | excitement | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DQXHTuXD9YG.md | emotion | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DQejfvLEQTo.md | chemistry | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DSqDuiXEiGK.md | neuroscience | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DSqKmZhAb53.md | evidence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DTDl_YoEqdt.md | confidence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DTOG9TzEj9g.md | performance | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DTftq8qEgll.md | focus | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DTihMFEDnKA.md | conviction | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DU80a8kkhtT.md | attention | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DUSGMSZEi0e.md | prerequisite | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DUyVN2FD_Ca.md | script | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DVT4IPVD7EY.md | predictability | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DX95vUmyH7E.md | ego | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DXZhF0akuGp.md | eye contact | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DXhULoXEilZ.md | power communicating | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DZ6YCdoSJ1W.md | neurocharismatic engineering | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DaJJ4y9ysy0.md | oxytocin | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_Db6rnShhrGm.md | attention | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DbEzCC9SRkx.md | evidence | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DbJkyDhyBkQ.md | serotonin | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_Dbe7SO6Sp2H.md | predictions | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_Dbmf3lTyB3v.md | charisma | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_Dd6onWXOcet.md | clarity | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DNlulypsxKb.md | ALS Ice Bucket Challenge | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DOrMTK5AOjp.md | trial reels | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DOthc4UCL0z.md | professional | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DOv00-piP74.md | contrast hook | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DP3YQHFCDG4.md | hook | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DP4XW01gBlz.md | visual hook | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DP6f4uFCH_r.md | hair | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPCIjR5iDP2.md | trigger words | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPHIqoiCP97.md | DM automation | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPJgsk3CFx7.md | story ideas | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPa3gVmiBov.md | hook | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPcAeTZAFy-.md | hair | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPereCZAMYj.md | background songs | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPgxgZxiLHm.md | chant | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPqK34IiA9O.md | B-rolls | 1 |
 | glossary/thepostprotocol/G_ig_thepostprotocol_DPrGO6iCHCG.md | audit | 1 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DPs7LLnCG2H.md | clips | 2 |
-| glossary/thepostprotocol/G_ig_thepostprotocol_DQGe3-miKON.md | proven | 2 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DPs7LLnCG2H.md | trending clips | 1 |
+| glossary/thepostprotocol/G_ig_thepostprotocol_DQGe3-miKON.md | original | 1 |
 | glossary/thepostprotocol/G_ig_thepostprotocol_DQJCYyQiB3U.md | Minichat | 1 |
 | glossary/thepostprotocol/G_ig_thepostprotocol_DQM-SC4gIox.md | disrupt | 1 |
 | glossary/thepostprotocol/G_ig_thepostprotocol_DQOJLBQiJaP.md | cracked screen | 2 |

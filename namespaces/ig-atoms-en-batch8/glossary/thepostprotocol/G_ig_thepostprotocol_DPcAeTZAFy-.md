@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [because, thepostprotocol account context]
+aka: [hair]
 origin: sources/S_ig_thepostprotocol_DPcAeTZAFy-.md
 ---
 
-# G_ig_thepostprotocol_DPcAeTZAFy- — because
+# G_ig_thepostprotocol_DPcAeTZAFy- — hair
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: point, six, million, likes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hair is again the planted detail this video credits with two hundred million views and one point six million likes: a single hair that makes people stop and look closer to identify what it is. The word appears once, in the claim that the reel succeeded because of this single hair, and the mechanism here adds a second beat — viewers may share it with a friend, which is just what the algorithm needs. The trick is described as done on purpose, and the offer that follows is a cheat guide that generates millions of views daily, sent to anyone who comments hook below. The payoff this version names is the share itself: the pause makes people look closer, and the share is what the algorithm needs.
 
 ## Synonyms
 
-- because
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This reel got two hundred million views and one point six million likes because of this single hair. That's a trick done on purpose. This is because people stop and look closer to identify what it is or maybe share it with a friend, just what the algorithm needs. Comment hook below and I'll send you a cheat guide that generates millions of views daily." — sources/S_ig_thepostprotocol_DPcAeTZAFy-.md
+> "This reel got two hundred million views and one point six million likes because of this single hair." — sources/S_ig_thepostprotocol_DPcAeTZAFy-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that a hair alone drives the algorithm: the video's own chain is pause, then look closer, then share, and the algorithm is fed by the share, not by the hair directly.
+- Read as a how-to for staging the trick: the video never shows where the hair sits or how it was placed, so the mechanism is described but not demonstrated.

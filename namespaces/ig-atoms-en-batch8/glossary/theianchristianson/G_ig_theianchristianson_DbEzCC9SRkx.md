@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [nervous system, theianchristianson account context]
+aka: [evidence]
 origin: sources/S_ig_theianchristianson_DbEzCC9SRkx.md
 ---
 
-# G_ig_theianchristianson_DbEzCC9SRkx — nervous system
+# G_ig_theianchristianson_DbEzCC9SRkx — evidence
 
 ## Term
 
-"nervous system" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, system, nervous, brain. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Evidence is what the speaker says the nervous system actually learns from — not experience, but evidence and iteration. The word appears three times, in the claim that the nervous system learns from evidence and iteration, in the story of the second salesperson who gathers new evidence after every conversation, and in the purpose of Neuro-Charismatic Engineering itself. The contrast is two people with five years in sales: one gets rejected, overthinks, replays conversations, and slowly believes people are difficult to talk to, while the other reflects, changes one thing, and teaches his brain that conversations are predictable and engineerable. Most people, the speaker says, do not have ten years of communication experience but one year repeated ten times, because more conversations only make you more of what you are already building.
 
 ## Synonyms
 
-- nervous system
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't become charismatic by talking to more people. You become charismatic by teaching your brain and your nervous system that talking to other people is safe. The biggest communication myth is that experience automatically makes you better. Because if that were true, every single salesperson with 20 years of experience would be insanely charismatic." — sources/S_ig_theianchristianson_DbEzCC9SRkx.md
-> "Every executive would have executive presence, married couples would have no problems whatsoever. And obviously that's not what happens, because your nervous system doesn't learn from experience. It learns from evidence and iteration. Think about two people who both spend five years in sales." — sources/S_ig_theianchristianson_DbEzCC9SRkx.md
-> "It's built around engineering better evidence for your brain and nervous system. Because once your nervous system expects connection instead of danger, then your communication changes before you ever open your mouth." — sources/S_ig_theianchristianson_DbEzCC9SRkx.md
+> "And obviously that's not what happens, because your nervous system doesn't learn from experience. It learns from evidence and iteration." — sources/S_ig_theianchristianson_DbEzCC9SRkx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "nervous system": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that practice is worthless: the video attacks unguided repetition, not practice, and its own method is built on deliberate iteration after every conversation.
+- Read as a neuroscience fact: the evidence-and-iteration claim is the speaker's teaching model for how the nervous system learns, offered without a cited study.

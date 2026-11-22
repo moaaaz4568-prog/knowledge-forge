@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [website, thepostprotocol account context]
+aka: [B-rolls]
 origin: sources/S_ig_thepostprotocol_DPqK34IiA9O.md
 ---
 
-# G_ig_thepostprotocol_DPqK34IiA9O — website
+# G_ig_thepostprotocol_DPqK34IiA9O — B-rolls
 
 ## Term
 
-"website" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: describe, clip, link. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+B-rolls are the generic filler clips the speaker says never to use again, set against iconic movie clips that work because viewers instantly recognize them. The term appears once, in the opening warning, and the reason given is that recognition triggers familiarity and emotion, which makes content unforgettable. The replacement workflow is the whole second half: go to a website, describe the clip needed, and get a perfectly matched movie moment, with the link sent to anyone who comments clips below. B-rolls here are the foil — the forgettable default — while the movie clip is the upgrade that carries the recognition.
 
 ## Synonyms
 
-- website
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Never ever use generic B-rolls like these in your videos again. Instead, use iconic movie clips like these that they actually work because your viewers instantly recognize them and triggering familiarity and emotion that makes your content unforgettable. Just simply go over to this website, describe the clip you need, and it will find a perfectly matched movie moment for you. Great advice." — sources/S_ig_thepostprotocol_DPqK34IiA9O.md
-> "Comment clips below and I'll send you the link of the website." — sources/S_ig_thepostprotocol_DPqK34IiA9O.md
+> "Never ever use generic B-rolls like these in your videos again." — sources/S_ig_thepostprotocol_DPqK34IiA9O.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "website": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on all B-roll footage: the target is generic clips that carry no recognition, not any supporting footage, and the replacement is chosen for instant familiarity.
+- Read as a review of the website: the site is described only by what it does — find a matched movie moment — with no name, test, or verdict offered.

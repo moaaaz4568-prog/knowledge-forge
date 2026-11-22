@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [proven, thepostprotocol account context]
+aka: [original]
 origin: sources/S_ig_thepostprotocol_DQGe3-miKON.md
 ---
 
-# G_ig_thepostprotocol_DQGe3-miKON — proven
+# G_ig_thepostprotocol_DQGe3-miKON — original
 
 ## Term
 
-"proven" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: concept, already, viewers, knew. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Original is the requirement this video says creators do not need: a creator took an idea from a viral video, made a small tweak, and still pulled nearly 16 million views without creating anything new. The word appears once, in the proof sentence — you don't have to be original — after the same idea, same structure, and a couple of adjustments are named as the whole method. The reason given is that the concept was already proven: viewers knew what to expect and still watched again, so the tweak rode on a tested expectation. The instruction that follows is direct — take what's working, adjust it slightly, and post it — with a viral proven Instagram growth folder offered to anyone who comments.
 
 ## Synonyms
 
-- proven
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This creator took this idea from this viral video, made a small tweak, and still pulled nearly 16 million views. He didn't create anything new. Same idea, same structure, just a couple of adjustments. And it worked because the concept was already proven. Viewers knew what to expect, and they still watched again. This proves one thing: you don't have to be original." — sources/S_ig_thepostprotocol_DQGe3-miKON.md
-> "and I'll send you our viral proven Instagram growth folder." — sources/S_ig_thepostprotocol_DQGe3-miKON.md
+> "This proves one thing: you don't have to be original." — sources/S_ig_thepostprotocol_DQGe3-miKON.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "proven": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a license to copy videos wholesale: the video's method is a small tweak to a proven idea, not a re-upload, and the tweak is presented as the work.
+- Read as a claim that originality never matters: the proof is one creator's 16 million views on a tweaked idea, and the video generalizes from that single case.

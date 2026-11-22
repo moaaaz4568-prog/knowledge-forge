@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [confidence, theianchristianson account context]
+aka: [confidence, confident]
 origin: sources/S_ig_theianchristianson_DOR9hIKgU2u.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_theianchristianson_DOR9hIKgU2u.md
 
 ## Term
 
-"confidence" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: remember, confidence, like, disappears. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here confidence is the feeling of being at ease in a group, and the speaker describes losing it the moment other people are around: fine alone, then overthinking every word and replaying conversations after they end. The word appears four times, beside group, disappears, dropped, and kills, and the cause named is the belief that everyone else in the room is better than you. That belief makes the speaker abandon himself and say what sounds right instead of what he really thinks, which is presented as the mechanism that kills confidence. The remedy offered is staying authentic rather than performing, speaking the thought actually held, because people connect with realness, not perfection.
 
 ## Synonyms
 
-- confidence
-- theianchristianson account context (no variant form of the term appears in this source)
+- confident
 
 ## Live Example
 
-> "You probably feel confident when you're alone, but the second you're in a group, it's like your confidence disappears. That used to be me. I was fine on my own, but as soon as I was around people, my confidence dropped. I'd start overthinking every word, replaying conversations in my head, and walk away feeling invisible." — sources/S_ig_theianchristianson_DOR9hIKgU2u.md
-> "After much trial and error, I figured out what the problem was and how to solve it. The reason is because you assume that everyone else in the room is better than you. That belief makes you abandon yourself. You stop saying what you really think and instead you try to say what sounds right. And that kills confidence." — sources/S_ig_theianchristianson_DOR9hIKgU2u.md
-> "Just remember that confidence in groups isn't about performing, it's about staying authentic. Speak the thought that you actually have, not the one that you think is going to impress people. People connect with realness, not perfection." — sources/S_ig_theianchristianson_DOR9hIKgU2u.md
+> "Just remember that confidence in groups isn't about performing, it's about staying authentic." — sources/S_ig_theianchristianson_DOR9hIKgU2u.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "confidence": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as stage fright about speaking skill: the speaker's problem is not delivery but the comparison belief that others are better, so drills on wording alone miss the cause he names.
+- Read as a promise that authenticity ends nervousness: the video offers staying real as the way to hold confidence in groups, not as a guarantee that the overthinking never returns.

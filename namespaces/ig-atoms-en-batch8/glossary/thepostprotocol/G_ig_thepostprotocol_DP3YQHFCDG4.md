@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [hook, hooks]
+aka: [hook]
 origin: sources/S_ig_thepostprotocol_DP3YQHFCDG4.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_thepostprotocol_DP3YQHFCDG4.md
 
 ## Term
 
-"hook" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: plus, shock, forbidden, knowledge. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hook is the word the speaker attaches to every example in this video, naming three different hook formulas in one breath: a controversial shock plus forbidden knowledge hook, an authority-based curiosity controversial hook, and a negative relatable plus motivational wisdom hook. The word appears three times, once per formula, and each formula is demonstrated with a single line — Balenciaga will kill me for this, why is Sam Sulek doing half reps, and most people live the same six months a hundred times and then die. The video's own teaching is minimal: generate dangerously creative thoughts out of thin air as someone who is not even creative, then hand the viewer 25 plus handpicked viral proven hooks for commenting database. Hook here is the unit of the whole video — the named opening move, repeated in three flavors.
 
 ## Synonyms
 
-- hook
-- hooks (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Balenciaga will kill me for this. How to generate dangerously creative thoughts out of thin air as someone who's not even creative. This is a controversial shock plus forbidden knowledge hook. Why is Sam Sulek doing half reps? This is a authority-based curiosity controversial hook. Most people don't change. They live the same six months of their lives, hundred times in a row, and then they die." — sources/S_ig_thepostprotocol_DP3YQHFCDG4.md
-> "This is a negative relatable plus motivational wisdom hook. Comment the word database and I'll send you 25 plus handpicked viral proven hooks." — sources/S_ig_thepostprotocol_DP3YQHFCDG4.md
+> "This is a controversial shock plus forbidden knowledge hook." — sources/S_ig_thepostprotocol_DP3YQHFCDG4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hook": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as three tested formulas: the speaker names and demonstrates each hook once, with no evidence in the video that any of them performed, so the labels are claims about style, not results.
+- Read as a creativity method: the opening promise is about generating creative thoughts, but the video delivers hook labels and examples, not a method for thinking them up.

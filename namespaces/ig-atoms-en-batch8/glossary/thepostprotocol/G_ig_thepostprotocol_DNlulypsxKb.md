@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [Bucket Challenge, thepostprotocol account context]
+aka: [ALS Ice Bucket Challenge]
 origin: sources/S_ig_thepostprotocol_DNlulypsxKb.md
 ---
 
-# G_ig_thepostprotocol_DNlulypsxKb — Bucket Challenge
+# G_ig_thepostprotocol_DNlulypsxKb — ALS Ice Bucket Challenge
 
 ## Term
 
-"Bucket Challenge" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: als, ice, challenge, bucket. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The ALS Ice Bucket Challenge is the entire content of this video: a single sentence, repeated twice, in which the speaker says he has been called out by everybody for it. The name appears twice, once in each repetition of the sentence, and no other subject, instruction, or idea ever appears in the twenty-four-word transcript. The repetition is the whole device — the same claim, said again, with no elaboration about the challenge itself, no call to action, and no second thought. The entry therefore records the name exactly as the speaker uses it: a named challenge he has been called out for, twice over, with nothing added.
 
 ## Synonyms
 
-- Bucket Challenge
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've been called out by everybody for the ALS Ice Bucket Challenge. I've been called out by everybody for the ALS Ice Bucket Challenge." — sources/S_ig_thepostprotocol_DNlulypsxKb.md
+> "I've been called out by everybody for the ALS Ice Bucket Challenge." — sources/S_ig_thepostprotocol_DNlulypsxKb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Bucket Challenge": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an explanation of the challenge: the video says nothing about what the challenge is or how it works, so the name cannot support any description beyond the call-out itself.
+- Read as a boast or complaint: the sentence only reports that everybody called him out, and its tone and intent are not stated anywhere in the transcript.

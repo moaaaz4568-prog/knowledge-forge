@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [buying, thepostprotocol account context]
+aka: [chant]
 origin: sources/S_ig_thepostprotocol_DPgxgZxiLHm.md
 ---
 
-# G_ig_thepostprotocol_DPgxgZxiLHm — buying
+# G_ig_thepostprotocol_DPgxgZxiLHm — chant
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "buying" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is twenty-one words of song lyrics, and chant is only the entry's type label for the repeated sung line. The speaker says he will not get mad, calls himself young, black, and rich, and refuses what she is trying to sell, with no argument, lesson, or idea developed beyond the lyric itself. The four short clauses arrive as a performed fragment — a boast and a refusal set to music — and the transcript ends there, with no second thought to attach a meaning to. The entry therefore records the lyric as a performed fragment, not as a term the speaker is defining or teaching.
 
 ## Synonyms
 
-- buying
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (21 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "buying": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a statement of the speaker's views: the lines are lyrics performed in a clip, and the transcript gives no context for who is speaking or to whom.
+- Read as a complete song: the twenty-one words are a fragment, and no verse, chorus, or title is present to say what the full song contains.

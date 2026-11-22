@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [top, theianchristianson account context]
+aka: [eye contact]
 origin: sources/S_ig_theianchristianson_DXZhF0akuGp.md
 ---
 
-# G_ig_theianchristianson_DXZhF0akuGp — top
+# G_ig_theianchristianson_DXZhF0akuGp — eye contact
 
 ## Term
 
-"top" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: communicators, already, now, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Eye contact is the first rung of the speaker's ladder of communicator tiers: hold it without feeling weird and you are already in the top 50% of communicators. The phrase appears once, at the head of a five-step ladder that climbs from eye contact through storytelling, comfort with strangers, and reading emotional states mid-conversation to the top 1%. The final tier adds making the other person feel like the most interesting person in the room, and the speaker insists the whole ladder is a trainable skill set rather than charisma. Most people are stuck at 50%, he says, not because they are awkward or introverted but because nobody ever taught them this stuff.
 
 ## Synonyms
 
-- top
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you can hold eye contact without feeling weird, then you are already in the top 50% of communicators. If you can tell a story and actually keep everybody's attention all the way through, then you are in the top 30%. If you can walk into a room full of strangers and feel completely relaxed and comfortable, then you are in the top 20% of communicators." — sources/S_ig_theianchristianson_DXZhF0akuGp.md
-> "And if you can read somebody's emotional state mid-conversation and adjust how you're showing up based on that, then you are in the top 10% of communicators. And if you can do all of that while also making the other person feel like they're the most interesting person in the room, then you are in the top 1% of communicators." — sources/S_ig_theianchristianson_DXZhF0akuGp.md
-> "Now this is not just charisma, it's literally a skill set, and every single one of those skills is trainable. And most people are stuck at 50% not because they're awkward or introverted, but because nobody ever taught them this stuff. Follow me if you want to get to that top 1% because I am the only page on TikTok that breaks this stuff down." — sources/S_ig_theianchristianson_DXZhF0akuGp.md
+> "If you can hold eye contact without feeling weird, then you are already in the top 50% of communicators." — sources/S_ig_theianchristianson_DXZhF0akuGp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "top": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a literal ranking backed by data: the percentages are the speaker's own tiers for teaching, not measured statistics, and the video offers no study behind them.
+- Read as a claim that eye contact alone makes a top communicator: it is only the first rung, and the ladder keeps climbing through story, comfort, and emotional reading.

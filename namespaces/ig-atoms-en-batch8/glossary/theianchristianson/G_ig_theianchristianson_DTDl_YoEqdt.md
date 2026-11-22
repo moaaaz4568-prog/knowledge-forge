@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [because, theianchristianson account context]
+aka: [confidence]
 origin: sources/S_ig_theianchristianson_DTDl_YoEqdt.md
 ---
 
-# G_ig_theianchristianson_DTDl_YoEqdt — because
+# G_ig_theianchristianson_DTDl_YoEqdt — confidence
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: became, louder, wrong, part. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Confidence here is the undeniable kind that people, employers, and connections reward ahead of effort: not working harder, but being the person others pick first. The word appears once, in the claim that rewards go to undeniable confidence, and the speaker's own history is the proof — doing everything right while watching less talented men walk away with the deal because they could hold a sentence and captivate a room. The shift he describes is learning how people decide who they trust and who they listen to, and signaling that he was a man worth listening to before he ever spoke. He did not become louder; he went from forgettable to chosen, and the exact shifts are offered to viewers who comment for them.
 
 ## Synonyms
 
-- because
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's a secret that nobody tells you and yet your entire life depends on it. I used to think that opportunities came from working harder, but I was wrong. Because the part that nobody explains is that people, employers, and connections don't just reward effort, they reward undeniable confidence." — sources/S_ig_theianchristianson_DTDl_YoEqdt.md
-> "I worked hard to do everything right and yet I still watched other guys less talented than me walk away with the deal. They were the ones who got picked first simply because of their speaking ability. They could say a sentence and have people captivated immediately at what they were saying. And I hated, absolutely hated, that I could not do the same." — sources/S_ig_theianchristianson_DTDl_YoEqdt.md
-> "But years down the line, once I learned how people decide who they trust and how they decide who they listen to, things changed fast for me. Not because I became louder, but because I started signaling to other people that I was a man worth listening to before I ever spoke. And that was the shift that took me from forgettable to chosen." — sources/S_ig_theianchristianson_DTDl_YoEqdt.md
+> "Because the part that nobody explains is that people, employers, and connections don't just reward effort, they reward undeniable confidence." — sources/S_ig_theianchristianson_DTDl_YoEqdt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that effort does not matter: the speaker says effort alone went unrewarded, not that effort is useless — the missing piece was the signal, not the work.
+- Read as a trick for seeming trustworthy: the signaling described is a change in how he carries himself before speaking, presented as a learned skill rather than a mask.

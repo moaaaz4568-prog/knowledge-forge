@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [people, theianchristianson account context]
+aka: [excitement, excited, excites]
 origin: sources/S_ig_theianchristianson_DOtnkrVAZH3.md
 ---
 
-# G_ig_theianchristianson_DOtnkrVAZH3 — people
+# G_ig_theianchristianson_DOtnkrVAZH3 — excitement
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: around, genuinely, follow, boring. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Excitement is the energy the speaker says other people follow: not boredom, not a flat routine, but direction, momentum, and something visibly being chased. The word excitement appears once, beside excited and excites, in the claim that people follow excitement, direction, momentum, and that nobody follows a person who is bored with his own life. The test offered is blunt — if you are not excited about your life, why would anybody else be — and the energy is described as contagious, something the viewer can feel through the screen. The prescription is to pick up a hobby, hit the gym, learn a skill, and talk about something being chased, because a life that excites its owner is one other people can feel.
 
 ## Synonyms
 
-- people
-- theianchristianson account context (no variant form of the term appears in this source)
+- excited
+- excites
 
 ## Live Example
 
-> "If you wake up bored, move through your day flat and have nothing that you're building, why would anybody want to be around you? Why would they want to be around that? Genuinely, people don't follow boring. They follow excitement, direction, momentum. The people who are passionate about something, that's who everybody remembers." — sources/S_ig_theianchristianson_DOtnkrVAZH3.md
-> "So pick up a hobby, hit the gym, learn a skill, talk about something that you are chasing. Live a life that excites you, because when you do, people feel it." — sources/S_ig_theianchristianson_DOtnkrVAZH3.md
+> "Genuinely, people don't follow boring. They follow excitement, direction, momentum." — sources/S_ig_theianchristianson_DOtnkrVAZH3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as hype or loud enthusiasm: excitement here is a lived direction — building something, chasing something — not volume or a performance of energy.
+- Read as a claim that bored people have no value: the speaker's point is about what draws others toward you, not a judgment on quiet people, and the fix he offers is a pursuit, not a personality transplant.

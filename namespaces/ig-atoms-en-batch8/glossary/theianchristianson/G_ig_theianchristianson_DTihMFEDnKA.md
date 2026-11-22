@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [conviction, theianchristianson account context]
+aka: [conviction]
 origin: sources/S_ig_theianchristianson_DTihMFEDnKA.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_theianchristianson_DTihMFEDnKA.md
 
 ## Term
 
-"conviction" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, spoke, learn, art. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Conviction is the art the speaker says makes opportunities chase you: speaking with such undeniable self-belief that no one can stop you, whether in a meeting, with an executive, or chatting with a friend. The word appears five times, including the speaker's own definition — speaking with strong belief, confidence, and sincerity, showing you are certain your message is true and valuable. His own example is social media: a personal brand grown to 130,000 followers in under a year, which he credits to speaking with conviction and certainty. The payoff he claims is gravity: conviction turns ideas into direction and words into leadership, letting a speaker direct whole conversations and lead rooms.
 
 ## Synonyms
 
-- conviction
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you can master this skill, then opportunities will chase you. You need to learn the art of conviction because when you can speak with such undeniable self-belief, then no one, and I mean no one, can stop you. Whether you're speaking up in a meeting, talking to an executive, or just chatting with a friend, how you speak changes how other people see you. For me, it's been in social media." — sources/S_ig_theianchristianson_DTihMFEDnKA.md
-> "In under a year, I was able to build up my personal brand to 130, 000 followers simply because of my confidence and my conviction. I spoke with so much conviction and certainty that thousands and thousands and thousands of people followed me for what I was doing." — sources/S_ig_theianchristianson_DTihMFEDnKA.md
-> "Now the definition of conviction means speaking with strong belief, confidence, and sincerity, showing you are certain your message is true and valuable. And so why does that matter? It's because conviction creates gravity. It turns ideas into direction and words into leadership. And if you can do that, then you can direct entire conversations and lead rooms." — sources/S_ig_theianchristianson_DTihMFEDnKA.md
+> "Now the definition of conviction means speaking with strong belief, confidence, and sincerity, showing you are certain your message is true and valuable." — sources/S_ig_theianchristianson_DTihMFEDnKA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "conviction": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as stubbornness: conviction here is belief plus sincerity in the message, not refusing to listen, and the definition the speaker gives centers on certainty that the message is true and valuable.
+- Read as a claim that followers prove the method: the 130,000 followers are his own illustration, and the video's teaching is the definition and the gravity claim, not a study of the audience.

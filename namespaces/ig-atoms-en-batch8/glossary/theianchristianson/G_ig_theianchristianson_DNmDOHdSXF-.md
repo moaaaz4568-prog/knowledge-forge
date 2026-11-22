@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [starting, theianchristianson account context]
+aka: [refrain]
 origin: sources/S_ig_theianchristianson_DNmDOHdSXF-.md
 ---
 
-# G_ig_theianchristianson_DNmDOHdSXF- — starting
+# G_ig_theianchristianson_DNmDOHdSXF- — refrain
 
 ## Term
 
-"starting" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: starting, everybody. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is nine words of greeting, and refrain is only the entry's type label for the repeated opening line. The speaker says hello twice, greets everybody, then repeats Hi, I'm starting twice, so the whole clip is an opening flourish rather than a point being made. The repeated line lands twice in the nine-word transcript, beside hello and everybody, and it works as a warm-up cadence before any subject arrives. Treat it as the video's doorway, not as a word the speaker is defining or teaching.
 
 ## Synonyms
 
-- starting
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_theianchristianson_DNmDOHdSXF-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "starting": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the speaker is teaching a word: nothing here is explained or defined, so the repeated greeting cannot support a lesson about starting anything.
+- Read as a song lyric or chant with a message: the two repeated lines are a spoken hello, not a chorus, and no second idea ever arrives to give them one.

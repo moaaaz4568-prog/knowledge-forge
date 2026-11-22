@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [Number, thepostprotocol account context]
+aka: [professional]
 origin: sources/S_ig_thepostprotocol_DOthc4UCL0z.md
 ---
 
-# G_ig_thepostprotocol_DOthc4UCL0z — Number
+# G_ig_thepostprotocol_DOthc4UCL0z — professional
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: three, settings, one, platform. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Professional is the account type the speaker says to switch to first: going to settings, account type and tools, and switching the account to professional boosts visibility across the platform much more effectively. The word appears once, as the target of the first of three settings, followed by choosing a niche category in edit profile and clearing all searches in account center. Each setting has its own promised effect — visibility, reaching a target audience ten times easier, and reaching a new brand audience — and the video presents them as things to do before ever posting. The top ten most viral hooks of 2025 are offered to anyone who comments the word reach, so the settings are framed as the groundwork beneath the hooks.
 
 ## Synonyms
 
-- Number
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Don't ever post on Instagram without these three settings. Number one, go to settings, click account type and tools, and switch your account to professional. This boosts your visibility across the platform much more effectively. Number two, click on edit profile, go to category, and choose your niche. This will enable you to reach your target audience ten times easier." — sources/S_ig_thepostprotocol_DOthc4UCL0z.md
-> "Number three, go to account center, your information and permissions, and clear all searches. This will help you reach a new brand audience. Comment the word" — sources/S_ig_thepostprotocol_DOthc4UCL0z.md
+> "Number one, go to settings, click account type and tools, and switch your account to professional." — sources/S_ig_thepostprotocol_DOthc4UCL0z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of reach: the video claims the switch boosts visibility more effectively, not that it guarantees any audience, and the other two settings carry their own separate promises.
+- Read as a complete posting guide: the three settings are preparation steps, and the video gives no advice about what to post once they are switched on.

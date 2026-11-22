@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [conversations, conversation]
+aka: [small talk]
 origin: sources/S_ig_theianchristianson_DNn22SRxU3q.md
 ---
 
-# G_ig_theianchristianson_DNn22SRxU3q — conversations
+# G_ig_theianchristianson_DNn22SRxU3q — small talk
 
 ## Term
 
-"conversations" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, using, small, talk. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this video small talk names the shallow question-and-answer habit the speaker wants viewers to drop: asking what do you do or how's your day keeps a conversation in information exchange mode instead of connection mode. The phrase appears once, at the opening promise to teach a way to never run out of things to say, and it is set against deeper questions, storytelling, and opinion. The fix the speaker offers is to ditch the safe, boring questions and ask ones that invite emotion, so small talk here is the foil for the whole method: questions that collect facts rather than feelings. A viewer who swaps how was your weekend for did anything surprise you recently is doing exactly what the speaker means by leaving small talk behind.
 
 ## Synonyms
 
-- conversations
-- conversation (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to never run out of things to say without using small talk. Your conversations keep dying because you're stuck in information exchange mode, not connection mode. You ask questions like what do you do or how's your day, but you don't invite emotions, storytelling, or opinion into the conversation. So here's your fix. Ditch the safe, boring questions and ask deeper, interesting ones." — sources/S_ig_theianchristianson_DNn22SRxU3q.md
-> "And a little hack of mine is that whenever somebody mentions something in a conversation, let's just say they mention their brother, then zoom in on that. Say something like, wait, you mentioned your brother. What's he like? Chase curiosity like a detective. That's how conversations stay alive. Lastly, you need to kill the pressure to perform." — sources/S_ig_theianchristianson_DNn22SRxU3q.md
-> "Your conversations die because you're trying too hard to be interesting. Instead, be interested, be present, and let them breathe. Because people remember how they felt around you, not how clever or smart you were." — sources/S_ig_theianchristianson_DNn22SRxU3q.md
+> "Here's how to never run out of things to say without using small talk." — sources/S_ig_theianchristianson_DNn22SRxU3q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "conversations": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on casual questions altogether: the speaker attacks questions that stay on facts, not every light opener, and he keeps how was your weekend as the example of what to replace rather than what to fear.
+- Read as a synonym for being boring: small talk here is a mode of exchanging information, and a person can be warm and dull at once while still stuck in it.

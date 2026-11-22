@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [even, theianchristianson account context]
+aka: [neurocharismatic engineering]
 origin: sources/S_ig_theianchristianson_DZ6YCdoSJ1W.md
 ---
 
-# G_ig_theianchristianson_DZ6YCdoSJ1W — even
+# G_ig_theianchristianson_DZ6YCdoSJ1W — neurocharismatic engineering
 
 ## Term
 
-"even" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ever, explain, offer, forming. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Neurocharismatic engineering is the framework the speaker says he and his team use to change how coaches communicate on sales calls and client calls, building identity and communication together. The phrase appears twice, first as the framework behind the change and later as the thing a coach can learn by messaging the word engineer. The reason clients trust immediately, he argues, is that trust starts forming before any offer is explained: people are constantly reading subtle signals, looking for certainty, presence, conviction, warmth, and a balance of empathy. The framework is the answer to that reading — a way of speaking with conviction and strength and power from the first signal, before testimonials or methodology ever appear.
 
 ## Synonyms
 
-- even
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There are some clients that hop onto your offer and they trust you immediately. The thing is that trust starts forming before you ever even explain your offer, before you even state what you do, before you ever even sell them, right? It's before you show testimonials, before you even explain your methodology." — sources/S_ig_theianchristianson_DZ6YCdoSJ1W.md
-> "People are constantly always always reading signals, no matter what you're communicating, whether you're on a client call, a sales call, a pitch, whether you're even in person, whatever it is, people are always looking out for these subtle signals. They're looking out for certain things like certainty. Do you have presence? Do you have conviction? Do you have warmth? Can you balance empathy?" — sources/S_ig_theianchristianson_DZ6YCdoSJ1W.md
+> "And so what we've done with a lot of the coaches that we've worked with in building up their identity and their communication is we have changed how they communicate, how they address clients, both on sales calls and on client calls, through a framework called neurocharismatic engineering." — sources/S_ig_theianchristianson_DZ6YCdoSJ1W.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "even": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a scientific discipline: neurocharismatic engineering here is the speaker's own named framework for coaching communication, not an established field of study.
+- Read as a promise that trust can be manufactured: the video claims trust forms from signals before the offer, and the framework is presented as training those signals, not as a guarantee of any sale.

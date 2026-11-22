@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [kind, theianchristianson account context]
+aka: [ego]
 origin: sources/S_ig_theianchristianson_DX95vUmyH7E.md
 ---
 
-# G_ig_theianchristianson_DX95vUmyH7E — kind
+# G_ig_theianchristianson_DX95vUmyH7E — ego
 
 ## Term
 
-"kind" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: nice, feeling, see, right. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ego is the speaker's own word for the gap he reports to his coach: a fat ego alongside super low confidence, able to outdo a bad colleague a million times better and still haunted by insecurity. The word appears once, in the opening sentence, and the tension it names runs through the whole exchange — thinking someone is super bad at the job while fearing they can sense the lack of confidence and see right through him. The change he describes is measured in meetings and in daily life: five conversations started in a day, thoughts organized instead of rushed, and a voice that is now slower and calmer. He calls the shift a complete, almost complete 180, from talking too fast with too much to say to hearing himself as he speaks and feeling the difference.
 
 ## Synonyms
 
-- kind
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'll have this kind of feeling that they're almost judging me as I'm talking to them. Like, can they sense that I lack confidence, that I'm not so knowledgeable about what I'm talking about? Can they like see right through me kind of thing? Scares me and lowers my confidence when I talk to people. So can you give me just kind of a comparison of like say week zero you to week four, week five you?" — sources/S_ig_theianchristianson_DX95vUmyH7E.md
-> "And then now I just don't feel that at all. Like I can hear myself as I'm speaking now, I'm just a lot slower, calmer. I could just feel the difference between me now and then when we started this. I'm like, huh, this is nice. This is kind of nice." — sources/S_ig_theianchristianson_DX95vUmyH7E.md
+> "I have a fat ego, but I have super low confidence." — sources/S_ig_theianchristianson_DX95vUmyH7E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "kind": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a diagnosis of the speaker: ego here is his own self-description in a coaching conversation, not a clinical label, and the video's interest is the contrast with his confidence.
+- Read as a claim that ego causes low confidence: the two sit side by side in his account, and the improvement he reports comes from coaching and practice, not from shrinking his ego.

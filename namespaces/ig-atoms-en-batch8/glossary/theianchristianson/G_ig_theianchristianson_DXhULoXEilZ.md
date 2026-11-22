@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [confident, theianchristianson account context]
+aka: [power communicating]
 origin: sources/S_ig_theianchristianson_DXhULoXEilZ.md
 ---
 
-# G_ig_theianchristianson_DXhULoXEilZ — confident
+# G_ig_theianchristianson_DXhULoXEilZ — power communicating
 
 ## Term
 
-"confident" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: perceived, actually, brain, bro. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Power communicating is the name the speaker gives his three-pronged method for rewiring the brain's automatic response to conversations. The phrase appears once, after the claim that what gets wired can be rewired, and it is offered as the alternative to the quotes that do not work — fake it till you make it, just be you, just follow your passion. The three prongs are knowing the neuroscience behind why you freeze, so conversations stop feeling like something you were just born with; repetition of evidence that you are actually confident, so the brain has something to fall back on; and identity work that makes the change last a lifetime. The point he stresses is that there is a system and a mechanism behind this, not a motivational quote to repeat in the mirror.
 
 ## Synonyms
 
-- confident
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Just fake it till you make it. Just be you. Just follow your passion. How many times have you heard those quotes? When you go and you ask your family and your friends on how do I be confident? How can I be perceived as confident? And if you've tried any of those quotes, then you already know why they don't work. Because you can perform confidence all day long like an actor and nothing will budge." — sources/S_ig_theianchristianson_DXhULoXEilZ.md
-> "First of all, you need to know the neuroscience behind why you freeze so that your conversations stop being, I was just born this way. You need repetition of evidence that you are actually confident so that your brain has something to fall back on. And then lastly, you need identity work that makes all of this last for a lifetime. This isn't just be confident, bro." — sources/S_ig_theianchristianson_DXhULoXEilZ.md
+> "And if you want to rewire this response, then you need what I call power communicating, which is a three pronged method." — sources/S_ig_theianchristianson_DXhULoXEilZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "confident": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a synonym for confident speaking: power communicating here is a named three-part method — neuroscience, evidence repetition, and identity work — not a style of delivery.
+- Read as a quick fix: the method's third prong is identity work meant to last a lifetime, so the video presents rewiring as a system, not a single trick.

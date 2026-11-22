@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thepostprotocol
-aka: [Minichat, thepostprotocol account context]
+aka: [Minichat]
 origin: sources/S_ig_thepostprotocol_DQJCYyQiB3U.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_thepostprotocol_DQJCYyQiB3U.md
 
 ## Term
 
-"Minichat" is the most frequent repeated content term in this source (a transcribed Instagram video from the thepostprotocol account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: minichat, still, using, probably. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Minichat is the tool this video says to leave behind: named six times in a row at the opening, then once more in the warning that users probably live in Dubai because the charge per contact is increasing rapidly. The name appears seven times in total, and the whole video is built around replacing it — a website where a post is picked from the dashboard, Setup Link DM is hit, and a link, headline, description, button name, and image are added. The setup continues through Trigger Setup, where the keyword trigger is set, and ends with saving, after which the comment word DM delivers the website's link. Minichat here is a named product, not a generic idea: the concept is the tool and its rising per-contact charge, and the video is a walkthrough of its replacement.
 
 ## Synonyms
 
-- Minichat
-- thepostprotocol account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Minichat. Minichat. Minichat. Minichat. Minichat. Minichat. If you're still using Minichat, you probably live in Dubai because the charge per contact is increasing rapidly. But what if I told you there is another way to do it? Just go over to this website, pick a post from your dashboard and hit Setup Link DM." — sources/S_ig_thepostprotocol_DQJCYyQiB3U.md
+> "If you're still using Minichat, you probably live in Dubai because the charge per contact is increasing rapidly." — sources/S_ig_thepostprotocol_DQJCYyQiB3U.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Minichat": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a review of Minichat: the video gives one complaint — the rising charge per contact — and no comparison of features, so it cannot support a verdict on the tool itself.
+- Read as a claim that the replacement is free: the video never states the replacement's price, and the walkthrough covers setup steps only, not cost.
