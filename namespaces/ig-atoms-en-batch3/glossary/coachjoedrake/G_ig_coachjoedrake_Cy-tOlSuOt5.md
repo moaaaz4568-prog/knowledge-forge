@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["yielding", "overcoming"]
+aka: ["yielding isometric"]
 origin: sources/S_ig_coachjoedrake_Cy-tOlSuOt5.md
 ---
 
-# G_ig_coachjoedrake_Cy-tOlSuOt5 — yielding
+# G_ig_coachjoedrake_Cy-tOlSuOt5 — yielding isometric
 
 ## Term
 
-yielding is the most prominent repeated term in this source (185-word transcript from the Instagram account coachjoedrake): it occurs 5 times literally in the text, most often collocated with: overcoming, gravity, cool. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Yielding isometric here is the hold Joe teaches with a glute bridge: giving in to gravity for twenty to thirty seconds so the client feels exactly where the glutes are. The phrase appears once, beside motor learning, mind-muscle connection, and isometric control and stability, as the answer to his own question about what kind of hold a plain bridge is. He contrasts it with overcoming, where the client drives hard against something, and shows both at once by holding the bridge while pressing the opposite hand down. The hold works as a teaching tool for body awareness, not as a strength test.
 
 ## Synonyms
 
-- yielding
-- overcoming
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I also like this position 'cause it's actually a pretty cool one. We can get overcoming and yielding together. So if I'm just holding that bridge, what do you think, overcoming or yielding? Well, I'm yielding to gravity, so it's gonna be a yielding isometric. I can hold it for longer. Well, I can actually integrate in." — sources/S_ig_coachjoedrake_Cy-tOlSuOt5.md
-> "If I take this opposite hand, drive it in as hard as possible, now we kind of also have overcoming, right? Yielding and overcoming on opposite" — sources/S_ig_coachjoedrake_Cy-tOlSuOt5.md
+> "Well, I'm yielding to gravity, so it's gonna be a yielding isometric." — sources/S_ig_coachjoedrake_Cy-tOlSuOt5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim that holding is the whole exercise: the yielding isometric is a teaching hold for glute awareness, and Joe pairs it with overcoming work in the same position.
+- Read as a fixed twenty-second rule: the twenty to thirty seconds is Joe's guarantee for feeling the glutes, not a prescription for every client.

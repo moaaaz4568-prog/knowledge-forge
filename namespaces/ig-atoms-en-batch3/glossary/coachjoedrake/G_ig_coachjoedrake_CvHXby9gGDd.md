@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["knows", "smart"]
+aka: [LPHC, "lumbo-pelvic-hip complex"]
 origin: sources/S_ig_coachjoedrake_CvHXby9gGDd.md
 ---
 
-# G_ig_coachjoedrake_CvHXby9gGDd — knows
+# G_ig_coachjoedrake_CvHXby9gGDd — LPHC
 
 ## Term
 
-knows is the most prominent repeated term in this source (180-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: smart, jess, assessed. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+LPHC here is Joe's shorthand for the lumbo-pelvic-hip complex, the region he checks after the foot and ankle and the knees in a full-body assessment. The abbreviation appears once, beside first checkpoint, knees, and shoulder complex, introduced with its full form in the same breath. He points to the female pelvis on screen and the muscles that attach to that portion of the body, placing the region in a top-to-bottom order that ends at the head and neck. The term works as one stop on a fixed assessment route, not as a diagnosis of anything wrong.
 
 ## Synonyms
 
-- knows
-- smart
+- lumbo-pelvic-hip complex (the full form Joe gives right after the abbreviation)
 
 ## Live Example
 
-> "Jess knows right now, she knows she's smart. She knows she's being assessed. Okay, so there is always this battle of like, are you getting real information or do you say assessment and all of a sudden we pull ourselves in the perfect spot?" — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
+> "And then we'll take a look at what we call our LPHC, this lumbo-pelvic-hip complex, as you can see right here with our female pelvis, all the muscles that attach to this portion of the body." — sources/S_ig_coachjoedrake_CvHXby9gGDd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a diagnosis: LPHC here names a body region Joe looks at during assessment, not a condition or a finding.
+- Read as the whole assessment: the complex is one checkpoint among five, from foot and ankle up to head and neck, not the entire screen.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["warmth", "touch"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CvIKdSbAJLp.md
 ---
 
-# G_ig_coachjoedrake_CvIKdSbAJLp — warmth
+# G_ig_coachjoedrake_CvIKdSbAJLp — refrain
 
 ## Term
 
-warmth is the most prominent repeated term in this source (26-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: touch, play, love. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The line about my love and my touch up above repeats twice, beside play with the warmth of my, as a soft sung fragment rather than any spoken point. Its words picture touch and warmth above, and the line breaks off unfinished. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- warmth
-- touch
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "love and my touch, up above. Play with the warmth of my, my love and my touch, up above. Play with the warmth of" — sources/S_ig_coachjoedrake_CvIKdSbAJLp.md
+> "My love and my touch, up above. Play with the warmth of my, my love and my touch, up above." — sources/S_ig_coachjoedrake_CvIKdSbAJLp.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe speaking about love: the lines are a sung fragment, not Joe's own statement.
+- Read as a finished lyric: the fragment cuts off mid-phrase, so it states no complete idea.

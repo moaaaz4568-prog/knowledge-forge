@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["easy", "ground"]
+aka: [assessment]
 origin: sources/S_ig_coachjoedrake_CuncggYgl7p.md
 ---
 
-# G_ig_coachjoedrake_CuncggYgl7p — easy
+# G_ig_coachjoedrake_CuncggYgl7p — assessment
 
 ## Term
 
-easy is the most prominent repeated term in this source (249-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: ground, her, band. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Assessment here is the first session Joe runs with a new client, and he frames it as getting information and getting to know each other rather than testing hard. The word appears once, beside first time, fill out forms, and feel better, at the head of a walk-through of one woman's first morning with him. His version is deliberately easy: some mobility on the ground, easy band work, a push, a pull, a lunge, a squat, a hinge, and a little core stability, finished early so nothing drags on. When someone is ready to commit, he says, the trainer should put no barriers in the way and simply book the next week.
 
 ## Synonyms
 
-- easy
-- ground
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "like, I just want to get some information, us to get to know each other and we'll see what happens and go from there. Thankfully for her, easy scenario, honestly rare person, no injuries, no issues. She wasn't looking for major like number changes. She just wanted to feel better. She wanted to be working out consistently because she hadn't been doing it." — sources/S_ig_coachjoedrake_CuncggYgl7p.md
-> "We did some very easy mobility on the ground. We went through some very easy band exercises. I just took her through simply a push, a pull, a lunge, a squat, a hinge, and then we did a little bit of like core stability work so that she still felt like she did a little bit of something." — sources/S_ig_coachjoedrake_CuncggYgl7p.md
+> "What are you actually doing in an assessment or a first time?" — sources/S_ig_coachjoedrake_CuncggYgl7p.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a formal testing battery: Joe's assessment here is a light first meeting with easy movement, not a scored screen of the whole body.
+- Read as a sales pitch: the session ends by booking next week because the client is ready, not by pressuring someone who is not.

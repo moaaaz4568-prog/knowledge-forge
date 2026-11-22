@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ad spend", "double"]
+aka: ["ad spend"]
 origin: sources/S_ig_conner.bluhm_DZkOiNypP49.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_conner.bluhm_DZkOiNypP49.md
 
 ## Term
 
-ad spend is the most prominent repeated term in this source (149-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: double, comes, twin. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Ad spend here is the money Conner tells agency owners to double, and he treats every excuse against it as the growth plan itself. The phrase appears four times, beside double your ad spend, making excuses, and vending machine that print endless money, as the lever of the whole video. Fulfillment can't handle it means build better systems, the closer has no space means get a second closer, the setter can't handle more leads means get another one. Ads, in his image, are a vending machine that prints endless money, so the question is only why the owner is not putting more in.
 
 ## Synonyms
 
-- ad spend
-- double
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "twin, double your ad spend. 'Cause for the last six months, you've been making excuses not to. Oh, my fulfillment can't handle it. Oh, my closer doesn't have enough space on his calendar. Oh, my setter can't handle more lead flow. Well, I got news for you, twin." — sources/S_ig_conner.bluhm_DZkOiNypP49.md
-> "So why are you not putting more money into it? Just ask yourself, why not double ad spend? And then do the thing that comes up. Then, double ad spend" — sources/S_ig_conner.bluhm_DZkOiNypP49.md
-> "Well, I got news for you, twin. All those excuses you're making on why you can't double ad spend are literally just telling you exactly what to do to grow your business. Your fulfillment can't handle it? Build better systems. Your closer can't take more calls? Get a second closer. Your setter can't handle more leads?" — sources/S_ig_conner.bluhm_DZkOiNypP49.md
+> "Yo twin, double your ad spend. 'Cause for the last six months, you've been making excuses not to." — sources/S_ig_conner.bluhm_DZkOiNypP49.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a guarantee that ads print money: the vending machine is Conner's image for ads, not a promise that doubling spend always returns profit.
+- Read as advice to spend recklessly: doubling ad spend here comes with fixing the bottleneck the excuse names, not with ignoring fulfillment, sales, and setting.

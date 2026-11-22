@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["coaching", "hone"]
+aka: ["in-person coaching"]
 origin: sources/S_ig_coachjoedrake_CuVWrN3AayG.md
 ---
 
-# G_ig_coachjoedrake_CuVWrN3AayG — coaching
+# G_ig_coachjoedrake_CuVWrN3AayG — in-person coaching
 
 ## Term
 
-coaching is the most prominent repeated term in this source (166-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: hone, skills, strictly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+In-person coaching here is the foundation Joe says an online coach must have before going online, and he treats it as the base that makes the rest possible. The phrase appears once, beside good base, identifying problems, and being better at communicating, as the groundwork for honing skills. Joe's point is that face-to-face work teaches a coach to read people and respond in the moment, which check-ins and video replies cannot replace. A trainer who skips that base, in his account, will find online coaching much harder to do well.
 
 ## Synonyms
 
-- coaching
-- hone
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I think that it's going to be very hard for you to hone your skills by strictly doing online coaching. I think that once again, the foundation needs to be having a good base of in-person coaching because it'll help you with identifying problems and being better at communicating." — sources/S_ig_coachjoedrake_CuVWrN3AayG.md
+> "the foundation needs to be having a good base of in-person coaching because it'll help you with identifying problems and being better at communicating." — sources/S_ig_coachjoedrake_CuVWrN3AayG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a preference for gyms over screens: Joe calls in-person coaching the foundation for online work, not a verdict that online coaching itself is worthless.
+- Read as a claim about credentials: the phrase names hands-on coaching time with real clients, not a certificate or a course.

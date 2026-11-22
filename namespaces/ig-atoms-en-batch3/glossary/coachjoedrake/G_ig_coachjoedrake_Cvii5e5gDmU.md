@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["every", "single"]
+aka: ["Mr. Universe"]
 origin: sources/S_ig_coachjoedrake_Cvii5e5gDmU.md
 ---
 
-# G_ig_coachjoedrake_Cvii5e5gDmU — every
+# G_ig_coachjoedrake_Cvii5e5gDmU — Mr. Universe
 
 ## Term
 
-every is the most prominent repeated term in this source (123-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: single, set, repetition. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Mr. Universe here is the title the speaker is shooting for, named as the goal that makes every rep and every set worth doing. The phrase appears once, beside shooting for gold, every rep that I do, and turn this goal into reality, inside a quoted answer about why he smiles through five or six hours of training a day. Others work just as hard and look sour, he says, because they lack the vision that pulls him forward: each repetition and each weight lifted gets him a step closer to the title. The title works as the speaker's fixed star, not as a claim about any training method.
 
 ## Synonyms
 
-- every
-- single
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to me, I'm shooting for gold in front of Mr. Mr. Universe title. So every rep that I do gets me closer to accomplishing that goal, to make this goal, this vision turn into reality. Every single set that I do, every repetition, every weight that I lift will get me a step closer to turn this goal into reality." — sources/S_ig_coachjoedrake_Cvii5e5gDmU.md
+> "Because to me, I'm shooting for gold in front of Mr. Mr. Universe title." — sources/S_ig_coachjoedrake_Cvii5e5gDmU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe's own goal: the Mr. Universe talk is a quoted speaker answering why he trains so hard, not Joe stating his own ambition.
+- Read as a promise that hard work wins titles: the speaker ties every rep to his vision, but the source proves nothing about who actually wins.

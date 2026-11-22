@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["couple", "traveling"]
+aka: [surgery]
 origin: sources/S_ig_coachjoedrake_CzWZa-_g3g1.md
 ---
 
-# G_ig_coachjoedrake_CzWZa-_g3g1 — couple
+# G_ig_coachjoedrake_CzWZa-_g3g1 — surgery
 
 ## Term
 
-couple is the most prominent repeated term in this source (23-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: traveling, happened, around. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Surgery here is one item in a broken list of reasons people were away: a couple of weeks around surgery and traveling, and now everyone is back. The word appears once, beside traveling, a couple weeks, and everyone's back to like, inside a fragment that trails off without finishing its thought. Nothing is said about whose surgery it was or what it changed, only that time passed and people returned. The term works as a passing mention of an absence, not as a topic the video takes up.
 
 ## Synonyms
 
-- couple
-- traveling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "couple weeks around, maybe surgery, traveling, like this happened to me like a couple weeks, and now like everyone's back to" — sources/S_ig_coachjoedrake_CzWZa-_g3g1.md
+> "A couple weeks around, maybe surgery, traveling, like this happened to me like a couple weeks, and now like everyone's back to like." — sources/S_ig_coachjoedrake_CzWZa-_g3g1.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a story about surgery: the word is a passing mention inside an unfinished fragment, and the source tells nothing about any operation.
+- Read as a complete update: the sentence breaks off mid-thought, so it states no finished news about anyone's return.

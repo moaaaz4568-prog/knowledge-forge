@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["feeling", "mind"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cugt0cGgcuG.md
 ---
 
-# G_ig_coachjoedrake_Cugt0cGgcuG — feeling
+# G_ig_coachjoedrake_Cugt0cGgcuG — refrain
 
 ## Term
 
-This source is very short (22 words), so no term repeats enough for a frequency-based entry; feeling is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The fragment runs once through, beside get me out of my mind, can't stop this feeling inside, and a song in my, as a few bars of music rather than any spoken point. Its words picture being pulled out of one's own head by a feeling, and the line cuts off mid-phrase. The entry records the fragment exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- feeling
-- mind
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You get me out of my mind, can't stop this feeling inside. All day, a song in" — sources/S_ig_coachjoedrake_Cugt0cGgcuG.md
+> "And I'm ready to. You get me out of my mind, can't stop this feeling inside. All day, a song in my." — sources/S_ig_coachjoedrake_Cugt0cGgcuG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe talking about his mindset: the lines are a song fragment, not Joe describing his own feelings.
+- Read as a complete statement: the lyric breaks off mid-phrase, so it states no finished idea at all.

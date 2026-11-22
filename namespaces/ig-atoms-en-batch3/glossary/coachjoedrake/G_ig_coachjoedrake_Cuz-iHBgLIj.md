@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["Niggas", "ask"]
+aka: ["hamstring exercise"]
 origin: sources/S_ig_coachjoedrake_Cuz-iHBgLIj.md
 ---
 
-# G_ig_coachjoedrake_Cuz-iHBgLIj — Niggas
+# G_ig_coachjoedrake_Cuz-iHBgLIj — hamstring exercise
 
 ## Term
 
-Niggas is the most prominent repeated term in this source (83-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: ask, livin, real. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Hamstring exercise here is Joe's claim about a single movement: the toughest one in existence, in his words. The phrase appears once, beside toughest and in existence, as the opening line before the video cuts to rap music. He states the superlative and lets the lift speak for it, with no breakdown of sets, reps, or setup in this source. The phrase works as a headline for the exercise shown, not as a program or a technique cue.
 
 ## Synonyms
 
-- Niggas
-- ask
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I took a L, but now I'm back, gang winnin'. Look, and I'm doin' well. Don't even ask how I'm livin'. Niggas ain't real, they cat. Ride around with the seat laid back. They told me to chill, I'm itchin' to clap. If I pull up, somebody get whacked. Boy tie your laces, niggas trippin'." — sources/S_ig_coachjoedrake_Cuz-iHBgLIj.md
+> "This might be a toughest hamstring exercise in existence." — sources/S_ig_coachjoedrake_Cuz-iHBgLIj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a measured ranking: toughest here is Joe's own superlative for the exercise shown, not a tested comparison against every hamstring exercise.
+- Read as a full exercise guide: the source names the exercise's claim and then plays music, giving no setup or execution detail.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["into", "put"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CutwoYSg9Ni.md
 ---
 
-# G_ig_coachjoedrake_CutwoYSg9Ni — into
+# G_ig_coachjoedrake_CutwoYSg9Ni — refrain
 
 ## Term
 
-into is the most prominent repeated term in this source (54-word transcript from the Instagram account coachjoedrake): it occurs 6 times literally in the text, most often collocated with: put, ass, tick. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The paired lines about putting your back into it and putting your ass into it repeat twice each, beside tick tick boom and hear me banging down these, as the song's chant-like hook. The words are a rhythmic dare to put effort in, and the verse breaks off before finishing its last line. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- into
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can do it, put your back into it. I can do it, put your ass into it. You can do it, put your back into it. I can do it, put your ass into it. Put your one into it, put your ass into it." — sources/S_ig_coachjoedrake_CutwoYSg9Ni.md
+> "You can do it, put your back into it. I can do it, put your ass into it." — sources/S_ig_coachjoedrake_CutwoYSg9Ni.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe's own coaching cue: the lines are song lyrics about effort, not Joe telling a client how to train.
+- Read as a complete song: the lyric cuts off mid-line, so it carries no finished statement beyond the repeated hook.

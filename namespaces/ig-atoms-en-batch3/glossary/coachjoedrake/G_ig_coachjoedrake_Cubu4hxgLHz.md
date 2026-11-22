@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["running", "side"]
+aka: ["10 reps"]
 origin: sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
 ---
 
-# G_ig_coachjoedrake_Cubu4hxgLHz — running
+# G_ig_coachjoedrake_Cubu4hxgLHz — 10 reps
 
 ## Term
 
-This source is very short (18 words), so no term repeats enough for a frequency-based entry; running is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+10 reps here is Joe's minimum standard before someone should run: ten repetitions on each side of the movement he is testing. The phrase appears once, beside perform, on each side, and shouldn't be running, as a pass-or-fail bar for readiness. His rule is blunt: fall short of ten clean reps per side and running is off the table for now. The number works as a gate, not as a training target to chase for its own sake.
 
 ## Synonyms
 
-- running
-- side
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you can't perform at least 10 reps on each side, then chances are you shouldn't be running" — sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
+> "If you can't perform at least 10 reps on each side, then chances are you shouldn't be running." — sources/S_ig_coachjoedrake_Cubu4hxgLHz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a workout prescription: 10 reps is a readiness test Joe states before running, not a set-and-rep scheme for building strength.
+- Read as a promise about injury: meeting the ten-rep bar is Joe's condition for running here, not a guarantee that running will then be pain-free.

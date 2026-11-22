@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["stop", "game"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
 ---
 
-# G_ig_coachjoedrake_CxxW2TjAXeJ — stop
+# G_ig_coachjoedrake_CxxW2TjAXeJ — refrain
 
 ## Term
 
-stop is the most prominent repeated term in this source (33-word transcript from the Instagram account coachjoedrake): it occurs 7 times literally in the text, most often collocated with: game, yourself, addicted. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The line I can't stop repeats seven times, beside addicted to the shooting game and jump yourself in the game, as the song's hook rather than any spoken point. Its words picture being unable to quit a game, and the lyric breaks off before its last line finishes. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- stop
-- game
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can't stop, I can't stop. I can't stop addicted to the shooting game. Jump, jump yourself, yourself in the game. I can't stop, I can't stop." — sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
-> "Jump, jump yourself, yourself in the game. I can't stop, I can't stop. I can't stop, I can't stop" — sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
+> "I can't stop, I can't stop. I can't stop addicted to the shooting game." — sources/S_ig_coachjoedrake_CxxW2TjAXeJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe talking about addiction: the I can't stop lines are a song hook about a game, not Joe describing his own habits.
+- Read as a statement about shooting: the shooting game in the lyric is the song's image, and the source gives it no training meaning.

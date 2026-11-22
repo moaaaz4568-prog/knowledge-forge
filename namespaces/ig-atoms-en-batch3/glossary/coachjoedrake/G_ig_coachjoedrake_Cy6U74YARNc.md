@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["willing", "capable"]
+aka: [willing]
 origin: sources/S_ig_coachjoedrake_Cy6U74YARNc.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_coachjoedrake_Cy6U74YARNc.md
 
 ## Term
 
-willing is the most prominent repeated term in this source (62-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: capable, plenty, fewer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Willing here is the quality the speaker says matters more than capability, and he states it four times in a short speech. The word appears four times, beside it's not what you capable of, everybody hear me, and will is a powerful thing, as the whole argument of the passage. He knows plenty of people who are capable and far fewer who are willing, so the question he leaves is the direct one: what are you willing to do. The term works as a challenge to act, not as a measure of talent.
 
 ## Synonyms
 
-- willing
-- capable
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's not what you capable of, it's what you willing to do. Everybody hear me? It's not what you capable of, it's what you willing to do. I know plenty of people that are capable. I know fewer people that are willing. You know what I mean? Will is a powerful thing." — sources/S_ig_coachjoedrake_Cy6U74YARNc.md
-> "I know fewer people that are willing. You know what I mean? Will is a powerful thing. Ask yourself, what are you willing" — sources/S_ig_coachjoedrake_Cy6U74YARNc.md
+> "Hear me, hear me. It's not what you capable of, it's what you willing to do." — sources/S_ig_coachjoedrake_Cy6U74YARNc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim that capability does not matter: the speaker says willingness decides more than capability, not that capability is worthless.
+- Read as Joe's own speech: the willing talk is a quoted speaker addressing a crowd, not Joe laying out his own philosophy.

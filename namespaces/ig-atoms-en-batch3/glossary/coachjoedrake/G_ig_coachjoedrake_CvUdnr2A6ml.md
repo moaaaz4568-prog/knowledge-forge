@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["tryna", "kitchen"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CvUdnr2A6ml.md
 ---
 
-# G_ig_coachjoedrake_CvUdnr2A6ml — tryna
+# G_ig_coachjoedrake_CvUdnr2A6ml — refrain
 
 ## Term
 
-tryna is the most prominent repeated term in this source (77-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: kitchen, wildin, catch. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a rap verse, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The verse runs once through, beside my body different, cooking up I'm in the kitchen, and gang winnin', as music laid over the video rather than any spoken point. Its lines boast about bouncing back after taking a loss and doing well now, and the verse cuts off before its last line finishes. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- tryna
-- kitchen
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "body different. Shorty said she tryna kick it. I'm in her mouth, son, like a dentist. Cooking up, I'm in the kitchen. Big bro wildin', tryna catch a victim. I took a L, but now I'm back, gang winnin'. Look, and I'm doing well. Don't even ask how I'm living." — sources/S_ig_coachjoedrake_CvUdnr2A6ml.md
+> "My body different. Shorty said she tryna kick it. I'm in her mouth, son, like a dentist." — sources/S_ig_coachjoedrake_CvUdnr2A6ml.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe describing his own comeback: the verse is rap music, not Joe talking about his life or his training.
+- Read as a coaching line about resilience: the comeback talk belongs to the song, and the source gives no training meaning for it.

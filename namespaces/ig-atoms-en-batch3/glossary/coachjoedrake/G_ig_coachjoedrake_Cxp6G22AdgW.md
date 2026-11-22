@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["workout", "design"]
+aka: ["prep and prime"]
 origin: sources/S_ig_coachjoedrake_Cxp6G22AdgW.md
 ---
 
-# G_ig_coachjoedrake_Cxp6G22AdgW — workout
+# G_ig_coachjoedrake_Cxp6G22AdgW — prep and prime
 
 ## Term
 
-workout is the most prominent repeated term in this source (255-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: design, primary, movements. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Prep and prime here is the warm-up work Joe does after designing the workout, and he says it gets much easier once the workout is planned first. The phrase appears twice, beside design the workout first, flow well, and get some shoulder mobility, as the payoff for planning instead of winging it. His order is fixed: lay out the session's squatting, lunging, and pulling, then choose the mobility and the less intense versions of those same moves to fire the right muscles. Trainers who wing it are easy to spot, he says, because clients can tell who is prepared and who is not.
 
 ## Synonyms
 
-- workout
-- design
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "with the workout, right? I've never shown up winging it. It happens, maybe a client, maybe you have an open time slot and someone jumps in last minute, you know, but there's still a structure." — sources/S_ig_coachjoedrake_Cxp6G22AdgW.md
-> "Does it flow well? All that stuff. And it just takes time. But I say that you go design the workout first, and then from the workout, then it actually becomes much easier to do your prep and prime." — sources/S_ig_coachjoedrake_Cxp6G22AdgW.md
-> "workout first, and then from the workout, then it actually becomes much easier to do your prep and prime. Because I know if I know in my workout that some of our primary movements, we're gonna be doing some squatting, some lunging, and maybe some pulling, well I know, all right, I need to make sure that I'm mobile through the hips, right?" — sources/S_ig_coachjoedrake_Cxp6G22AdgW.md
+> "But I say that you go design the workout first, and then from the workout, then it actually becomes much easier to do your prep and prime." — sources/S_ig_coachjoedrake_Cxp6G22AdgW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a warm-up routine on its own: prep and prime here follows from a designed workout, and its moves are chosen to match the session's primary lifts.
+- Read as a claim that clients judge trainers harshly: Joe says clients can pick up on preparation, and the point is to design first, not to fear the client's eye.

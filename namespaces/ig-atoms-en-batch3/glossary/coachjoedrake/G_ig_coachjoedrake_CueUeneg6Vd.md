@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["pop", "Ooh"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CueUeneg6Vd.md
 ---
 
-# G_ig_coachjoedrake_CueUeneg6Vd — pop
+# G_ig_coachjoedrake_CueUeneg6Vd — refrain
 
 ## Term
 
-pop is the most prominent repeated term in this source (86-word transcript from the Instagram account coachjoedrake): it occurs 9 times literally in the text, most often collocated with: ooh, feel, body. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The line about making it pop repeats three times, beside make it feel like I gotta ooh and makes my body dance for you, as the song's hook rather than any coaching point. Its words picture dancing and breath close by, and nothing in them states a training idea. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- pop
-- Ooh
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "make it pop, make it pop, make it feel like I gotta ooh, make it pop, makes my body dance for you. Ooh, make it pop, make it pop, make it feel like I gotta ooh, make it pop, makes my body dance for you." — sources/S_ig_coachjoedrake_CueUeneg6Vd.md
-> "Ooh, make it pop, make it pop, make it feel like I gotta ooh, make it pop, makes my body dance for you. I wanna hear your breath just next to my soul." — sources/S_ig_coachjoedrake_CueUeneg6Vd.md
+> "Ooh, make it pop, make it pop, make it feel like I gotta ooh, make it pop, makes my body dance for you." — sources/S_ig_coachjoedrake_CueUeneg6Vd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a coaching cue about making training pop: the line is a song hook about dancing, not an instruction for trainers.
+- Read as Joe's own words about his body: the lyric is sung music laid over the video, not something Joe says about training.

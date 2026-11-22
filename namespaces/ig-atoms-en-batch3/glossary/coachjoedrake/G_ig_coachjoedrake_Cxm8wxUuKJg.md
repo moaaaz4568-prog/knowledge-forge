@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["consistency", "name"]
+aka: [consistency]
 origin: sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
 
 ## Term
 
-consistency is the most prominent repeated term in this source (93-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: name, game. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Consistency here is the name of the game, and the speaker hammers it three times in a row before saying anything else. The word appears three times, beside keep going every single day, don't stop, and grind every day, as the whole argument of the passage. His claim is that showing up daily while the competition takes days off and falls off is what wins: one foot in front of the other for a year, and you will be lapping people who were never ready for prime time. The term works as a demand for daily showing up, not as a schedule or a program.
 
 ## Synonyms
 
-- consistency
-- name
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Consistency, consistency, consistency, man, that's the name of the game, bro. If you keep going every single day and don't stop, your competition will fall off, bro. These niggas ain't cut like you, bro. They ain't ready for prime time." — sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
+> "Consistency, consistency, consistency, man, that's the name of the game, bro." — sources/S_ig_coachjoedrake_Cxm8wxUuKJg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a promise that showing up guarantees success: the speaker promises you will lap the competition if you grind daily, but the source proves nothing about results.
+- Read as Joe's own voice: the consistency talk is a quoted speaker's rant, not Joe laying out his own training week.

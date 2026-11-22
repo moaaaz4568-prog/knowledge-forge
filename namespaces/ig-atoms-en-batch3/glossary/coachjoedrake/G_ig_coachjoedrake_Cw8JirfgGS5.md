@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["positive", "short"]
+aka: ["first impression"]
 origin: sources/S_ig_coachjoedrake_Cw8JirfgGS5.md
 ---
 
-# G_ig_coachjoedrake_Cw8JirfgGS5 — positive
+# G_ig_coachjoedrake_Cw8JirfgGS5 — first impression
 
 ## Term
 
-positive is the most prominent repeated term in this source (127-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: short, window, creating. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+First impression here is the brief opening moment Joe says decides whether a stranger in a big box gym will ever think of you when they want a trainer. The phrase appears once, beside very short window, positive interaction, and always on stage, as the start of a warning about looking the part. People are always shopping your training, he says, even when they are not thinking about training right now, and the moment they do decide, someone will come to mind. Coming in looking scraggly in sweatpants serves neither the clients you have nor the potential ones watching, so the impression has to be professional from the first seconds.
 
 ## Synonyms
 
-- positive
-- short
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "short window of creating a positive interaction, a positive first experience or first impression, and especially if you're in a busier, bigger box gym, you are always on stage." — sources/S_ig_coachjoedrake_Cw8JirfgGS5.md
-> "Not only with the clients that you've got and maintaining this positive professional image, but also with all the other potential people out there who could be your" — sources/S_ig_coachjoedrake_Cw8JirfgGS5.md
+> "Very short window of creating a positive interaction, a positive first experience or first impression, and especially if you're in a busier, bigger box gym, you are always on stage." — sources/S_ig_coachjoedrake_Cw8JirfgGS5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim about looks over skill: Joe's first impression is about a professional image that keeps you in mind, not a verdict that appearance replaces coaching ability.
+- Read as advice only for busy gyms: the always-on-stage point is sharpest in a big box gym, but the short window applies to any first meeting with a potential client.

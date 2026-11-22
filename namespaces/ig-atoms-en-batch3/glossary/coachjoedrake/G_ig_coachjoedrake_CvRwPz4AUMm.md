@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["training", "into"]
+aka: [passion]
 origin: sources/S_ig_coachjoedrake_CvRwPz4AUMm.md
 ---
 
-# G_ig_coachjoedrake_CvRwPz4AUMm — training
+# G_ig_coachjoedrake_CvRwPz4AUMm — passion
 
 ## Term
 
-training is the most prominent repeated term in this source (191-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: into, careers, fitness. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Passion here is the love of fitness Joe says will not pay the bills on its own, and he repeats the warning across the whole video. The word appears three times, beside does not pay the bills, second careers, and keep in mind, with passionate twice more for the people working out without earning. His point is that trainers who stay unsuccessful at something monetarily long enough will stop doing it even if it is fun, and that walking into an average gym shows plenty of passionate people training nobody and making no money. Passion is an important piece of the job, but it has to come with the other things that turn it into a living.
 
 ## Synonyms
 
-- training
-- into
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Passion does not pay the bills. And regardless of why you're getting into training or why you've been training, if you've been doing it for a little while, I find that if we're not successful at something even monetarily long enough, we're not going to keep doing it, even if it's fun, right?" — sources/S_ig_coachjoedrake_CvRwPz4AUMm.md
-> "Very common right now in our industry, which I think is amazing. Second careers, third careers, retirement, get into fitness and training. Like, oh, I don't really need to make money from it. But I think it's also an indication that you're doing a great job. You're connecting with people. So just keep in mind, passion doesn't pay the bills." — sources/S_ig_coachjoedrake_CvRwPz4AUMm.md
-> "walk into your average gym, whatever it is, you're going to see people who are passionate about fitness working out, but they're not training anybody. They're not making any money doing it, right?" — sources/S_ig_coachjoedrake_CvRwPz4AUMm.md
+> "But guess what? Passion does not pay the bills." — sources/S_ig_coachjoedrake_CvRwPz4AUMm.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a dismissal of passion: Joe calls passion an important piece of training, and his warning is only that it cannot carry the business alone.
+- Read as a claim that trainers should quit for money: the video argues for adding business sense to passion, not for abandoning training for a richer career.

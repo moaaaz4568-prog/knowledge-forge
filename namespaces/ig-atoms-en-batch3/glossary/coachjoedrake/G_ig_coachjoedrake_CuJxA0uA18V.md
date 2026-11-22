@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["workouts", "dumb"]
+aka: ["dumb workouts"]
 origin: sources/S_ig_coachjoedrake_CuJxA0uA18V.md
 ---
 
-# G_ig_coachjoedrake_CuJxA0uA18V — workouts
+# G_ig_coachjoedrake_CuJxA0uA18V — dumb workouts
 
 ## Term
 
-This source is very short (19 words), so no term repeats enough for a frequency-based entry; workouts is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Dumb workouts here is a heckler's label for the workouts Joe posts, not Joe's own word for his training. The phrase appears once, beside post and visit your mother once in a while, inside a single quoted comment that makes up the whole source. It dismisses his posted sessions as pointless showing off without arguing against any exercise in them. The line works as a quoted attack on the training, and nothing in the source turns it into a coaching idea.
 
 ## Synonyms
 
-- workouts
-- dumb
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you do anything other than post your dumb workouts? Go and visit your mother once in a" — sources/S_ig_coachjoedrake_CuJxA0uA18V.md
+> "Do you do anything other than post your dumb workouts? Go and visit your mother once in a while." — sources/S_ig_coachjoedrake_CuJxA0uA18V.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe's own verdict on his workouts: the phrase is a stranger's insult quoted in the source, not Joe calling his own training dumb.
+- Read as a training term: dumb workouts names no exercise or method here, only the heckler's contempt for posting workouts at all.

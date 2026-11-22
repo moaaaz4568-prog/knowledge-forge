@@ -54,56 +54,56 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | barefoot warm-ups | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cu9IEw6gzxU.md | soft skills | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | engaged coach | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuJxA0uA18V.md | workouts | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuVWrN3AayG.md | coaching | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | running | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CueUeneg6Vd.md | pop | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CufGGY6gQik.md | weekly | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cugt0cGgcuG.md | feeling | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuncggYgl7p.md | easy | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CutwoYSg9Ni.md | into | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuwYHTxgSV7.md | coaching | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cuz-iHBgLIj.md | Niggas | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cv3DxuyASoF.md | lift | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvHXby9gGDd.md | knows | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvIKdSbAJLp.md | warmth | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvNLldyA0KM.md | realize | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvPIUiLgp1x.md | different | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvRwPz4AUMm.md | training | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvUdnr2A6ml.md | tryna | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvXRGmHAYah.md | love | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvcXhF-Ae_t.md | leg | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cvii5e5gDmU.md | every | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvlC4GRgqmG.md | Makeba | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CvzQsuRAYz3.md | fitness | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cw8JirfgGS5.md | positive | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxaHyXqg2Ki.md | experience | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxdpHQdAI5G.md | faithless | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cxfp5-cga59.md | shoulder | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxknyNCgnDK.md | Quote | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuJxA0uA18V.md | dumb workouts | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuVWrN3AayG.md | in-person coaching | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | 10 reps | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CueUeneg6Vd.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CufGGY6gQik.md | income goals | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cugt0cGgcuG.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuncggYgl7p.md | assessment | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CutwoYSg9Ni.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuwYHTxgSV7.md | coaching | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cuz-iHBgLIj.md | hamstring exercise | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cv3DxuyASoF.md | arena | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvHXby9gGDd.md | LPHC | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvIKdSbAJLp.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvNLldyA0KM.md | weird old dude | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvPIUiLgp1x.md | before and after | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvRwPz4AUMm.md | passion | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvUdnr2A6ml.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvXRGmHAYah.md | I love it | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvcXhF-Ae_t.md | leg burnout | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cvii5e5gDmU.md | Mr. Universe | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvlC4GRgqmG.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CvzQsuRAYz3.md | escape | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cw8JirfgGS5.md | first impression | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxaHyXqg2Ki.md | experience | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxdpHQdAI5G.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cxfp5-cga59.md | retraction | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxknyNCgnDK.md | day one | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cxm8wxUuKJg.md | consistency | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cxp6G22AdgW.md | workout | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CxxW2TjAXeJ.md | stop | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cy-tOlSuOt5.md | yielding | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cy4OvuyNU6u.md | ice | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cy6U74YARNc.md | willing | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CyyMQDygZiB.md | Slim Shady | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cxp6G22AdgW.md | prep and prime | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CxxW2TjAXeJ.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cy-tOlSuOt5.md | yielding isometric | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cy4OvuyNU6u.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cy6U74YARNc.md | willing | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CyyMQDygZiB.md | refrain | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cz8co56AzPc.md | resistance | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CzJHyv9gS4o.md | exercises | 3 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CzJHyv9gS4o.md | movement categories | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CzTLej0geCE.md | cramping | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CzWZa-_g3g1.md | couple | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cz_F1Kzgl8F.md | training | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CzyS6izgYhY.md | accomplishing | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_xU7OV6lT3r.md | shoes | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_yUPvaHFT01.md | sprint | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DZkOiNypP49.md | ad spend | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DaAjXw2Jpov.md | hundred | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DavLdHcJaCP.md | achieve | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Db0SDXgJaZy.md | ads | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Db2jrfGpZBh.md | decided | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Db5PjwqJcYQ.md | agency | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Db74ZLWJgh5.md | per | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbDaXYZJisa.md | sell | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CzWZa-_g3g1.md | surgery | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cz_F1Kzgl8F.md | recurring package | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CzyS6izgYhY.md | spatial programming | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_xU7OV6lT3r.md | refrain | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_yUPvaHFT01.md | sprint work | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DZkOiNypP49.md | ad spend | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DaAjXw2Jpov.md | back end | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DavLdHcJaCP.md | conviction | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Db0SDXgJaZy.md | golden niche | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Db2jrfGpZBh.md | risk | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Db5PjwqJcYQ.md | expertise | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Db74ZLWJgh5.md | mathematical equation | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbDaXYZJisa.md | client retention | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbI1GOyJivj.md | Spend | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbLUJVrJVak.md | single | 3 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbQTVqQpqGL.md | product | 3 |

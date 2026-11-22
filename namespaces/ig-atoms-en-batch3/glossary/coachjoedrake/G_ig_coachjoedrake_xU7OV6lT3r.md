@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["shoes", "wear"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_xU7OV6lT3r.md
 ---
 
-# G_ig_coachjoedrake_xU7OV6lT3r — shoes
+# G_ig_coachjoedrake_xU7OV6lT3r — refrain
 
 ## Term
 
-shoes is the most prominent repeated term in this source (36-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: wear, dress. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The lines run once through, beside this ain't work for me, this ain't no three-piece suit, and I don't wear any shoes, as a song fragment rather than any spoken point. Its words refuse the idea of dressing up for work, and the passage ends on the claim about shoes. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- shoes
-- wear
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This ain't work for me. This ain't no three-piece suit, man. And this is my dress up here. I got shoes on today, and they'll tell you I don't wear any" — sources/S_ig_coachjoedrake_xU7OV6lT3r.md
+> "You don't get it. This ain't work for me. This ain't no three-piece suit, man." — sources/S_ig_coachjoedrake_xU7OV6lT3r.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe talking about his work clothes: the lines are song lyrics refusing formal dress, not Joe describing his own job.
+- Read as a statement about trainers: the three-piece suit line belongs to the song, and the source gives it no coaching meaning.

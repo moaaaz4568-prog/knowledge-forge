@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["per", "hundred"]
+aka: ["mathematical equation"]
 origin: sources/S_ig_conner.bluhm_Db74ZLWJgh5.md
 ---
 
-# G_ig_conner.bluhm_Db74ZLWJgh5 — per
+# G_ig_conner.bluhm_Db74ZLWJgh5 — mathematical equation
 
 ## Term
 
-per is the most prominent repeated term in this source (275-word transcript from the Instagram account conner.bluhm): it occurs 8 times literally in the text, most often collocated with: hundred, agency, owners. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Mathematical equation here is what Conner says replaces a luck based channel of acquisition when an agency grows from ten thousand a month to a hundred thousand. The phrase appears once, beside consistent, count on scaling predictably, and like clockwork, as the definition of the biggest shift he teaches. The switch is usually from cold outreach to paid ads, paired with a second switch from selling deliverables to selling outcomes — clients gained and six packs, not Facebook ads or fitness coaching. Once the acquisition system and the closing and setting team are built, he says, the first fifty to a hundred thousand a month follows within weeks.
 
 ## Synonyms
 
-- per
-- hundred
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is how I take agencies from ten K per month to one hundred K per month like clockwork." — sources/S_ig_conner.bluhm_Db74ZLWJgh5.md
-> "I work with with ten K per month agency owners is switching from selling deliverables to selling outcomes. The thing that one hundred K per month agency owners understand that ten K per month agency owners don't is that nobody cares about what they do. They only care about what they can achieve for them." — sources/S_ig_conner.bluhm_Db74ZLWJgh5.md
-> "And after doing all of that, getting to one hundred K per month, quarter million dollars a month, half a million dollars a month, or a million dollars a month is effectively" — sources/S_ig_conner.bluhm_Db74ZLWJgh5.md
+> "Now the biggest shift in going from a ten K per month business to a hundred thousand dollar a month plus business is switching from a luck based channel of acquisition to a consistent mathematical equation so that you can count on scaling predictably." — sources/S_ig_conner.bluhm_Db74ZLWJgh5.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a literal formula: the mathematical equation is Conner's image for predictable scaling, and the source gives no numbers or formula to plug in.
+- Read as a guarantee of a hundred thousand a month: the shift to ads and outcomes is the pattern Conner sees in agencies that scale, not a promise for any single business.

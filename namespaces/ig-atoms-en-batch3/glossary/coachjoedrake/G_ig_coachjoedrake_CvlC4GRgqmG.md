@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["Makeba", "gift"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CvlC4GRgqmG.md
 ---
 
-# G_ig_coachjoedrake_CvlC4GRgqmG — Makeba
+# G_ig_coachjoedrake_CvlC4GRgqmG — refrain
 
 ## Term
 
-Makeba is the most prominent repeated term in this source (81-word transcript from the Instagram account coachjoedrake): it occurs 12 times literally in the text, most often collocated with: gift, love, girl. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The Makeba lines repeat four times, beside my gift is love, girl I gotta ooh, and makes my body dance for you, as the song's chorus rather than any spoken point. Its words picture a gift of love that makes the body dance, and the passage ends on a line about breath next to the soul. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- Makeba
-- gift
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Makeba, Makeba, my gift is love. Girl, I gotta ooh. Makeba makes my body dance for you. Makeba, Makeba, my gift is love. Girl, I gotta ooh. Makeba makes my body dance for you. Makeba, Makeba, my gift is love. Girl, I gotta ooh." — sources/S_ig_coachjoedrake_CvlC4GRgqmG.md
-> "Girl, I gotta ooh. Makeba makes my body dance for you. Makeba, Makeba, my gift is love. Girl, I gotta ooh. Makeba makes my body dance for you. I wanna hear your breath just next to my soul." — sources/S_ig_coachjoedrake_CvlC4GRgqmG.md
+> "Makeba, Makeba, my gift is love. Girl, I gotta ooh. Makeba makes my body dance for you." — sources/S_ig_coachjoedrake_CvlC4GRgqmG.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe talking about dance: the Makeba lines are a song chorus, not Joe describing his own training or dancing.
+- Read as a claim that love is a gift: the gift-of-love line belongs to the song, and the source gives it no coaching meaning.

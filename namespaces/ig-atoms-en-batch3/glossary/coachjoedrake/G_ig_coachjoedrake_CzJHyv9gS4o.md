@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["exercises", "put"]
+aka: ["movement categories"]
 origin: sources/S_ig_coachjoedrake_CzJHyv9gS4o.md
 ---
 
-# G_ig_coachjoedrake_CzJHyv9gS4o — exercises
+# G_ig_coachjoedrake_CzJHyv9gS4o — movement categories
 
 ## Term
 
-exercises is the most prominent repeated term in this source (195-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: put, into, boxes. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Movement categories here are Joe's way of organizing the hundreds and thousands of exercises a trainer carries in their head, and he introduces them as the first step out of staring at a blank page. The phrase appears once, beside start adopting this concept, organize them in an Excel spreadsheet, and little boxes, as the system the video will teach. His picture is simple: sort exercises into boxes — minus accessory single-joint work like bicep curls — and the mechanics and challenges at each joint, starting with the shoulder, become easier to see. The term works as an organizing idea, not as a list of the categories themselves.
 
 ## Synonyms
 
-- exercises
-- put
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "And I believe that the first step to getting to the other side and knowing that you're choosing the right exercises for your client is to start adopting this concept of movement categories." — sources/S_ig_coachjoedrake_CzJHyv9gS4o.md
-> "And I'm gonna give you guys our way of categorizing exercise in this video, so stay with me. If you think about all the exercises that are out there and how they might be put into little boxes, minus some accessory exercises like single joint stuff, bicep curls." — sources/S_ig_coachjoedrake_CzJHyv9gS4o.md
-> "So imagine this, let's pretend someone asked you to take the hundreds and thousands of exercises that you have in your head and organize them in an Excel spreadsheet or a Google sheet, whatever you might use. And I'm gonna give you guys our way of categorizing exercise in this video, so stay with me." — sources/S_ig_coachjoedrake_CzJHyv9gS4o.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the full category list: movement categories here names the organizing idea, and the source does not yet list the categories.
+- Read as a claim that every exercise fits neatly: Joe sets accessory single-joint work aside, so the boxes do not cover everything.

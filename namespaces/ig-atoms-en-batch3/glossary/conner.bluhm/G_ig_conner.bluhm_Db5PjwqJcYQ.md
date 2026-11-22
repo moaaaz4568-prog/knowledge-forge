@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["agency", "place"]
+aka: [expertise]
 origin: sources/S_ig_conner.bluhm_Db5PjwqJcYQ.md
 ---
 
-# G_ig_conner.bluhm_Db5PjwqJcYQ — agency
+# G_ig_conner.bluhm_Db5PjwqJcYQ — expertise
 
 ## Term
 
-agency is the most prominent repeated term in this source (255-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: place, every, override. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Expertise here is what Conner says an entrepreneur stops leveraging the moment they start telling a hired agency what to do. The word appears once, beside override an agency's judgment, renting their labor, and execute your guesses, as the thing being wasted. His picture is of an owner who pays ten thousand dollars for help, then rewrites the ads and the VSL script on gut feeling, turning experts into hands on a keyboard. Being good at building a business does not automatically make you the best at everything inside it, he says, and repeating what you already did with someone else's hands is Einstein's definition of insanity.
 
 ## Synonyms
 
-- agency
-- place
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "reminder, twin, you hired that agency because they know what they're doing. One of the dumbest things I see entrepreneurs do is they'll pay an agency $10,000 to help them with something, and the second they start working, they will tell them what to do." — sources/S_ig_conner.bluhm_Db5PjwqJcYQ.md
-> "That is literally why you hired it out in the first place. Every time you override an agency's judgment with your gut feeling, you are no longer leveraging their expertise. You are simply renting their labor to execute your guesses." — sources/S_ig_conner.bluhm_Db5PjwqJcYQ.md
+> "Every time you override an agency's judgment with your gut feeling, you are no longer leveraging their expertise." — sources/S_ig_conner.bluhm_Db5PjwqJcYQ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a ban on giving feedback: Conner's point is against overriding an agency's judgment with gut feeling, not against ever discussing the work.
+- Read as a claim that agencies are always right: the video argues for leveraging hired expertise, and it says nothing about what to do when the agency is wrong.

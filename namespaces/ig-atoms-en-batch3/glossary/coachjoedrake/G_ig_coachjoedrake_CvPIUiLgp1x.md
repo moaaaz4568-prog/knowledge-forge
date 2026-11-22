@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["different", "looks"]
+aka: ["before and after"]
 origin: sources/S_ig_coachjoedrake_CvPIUiLgp1x.md
 ---
 
-# G_ig_coachjoedrake_CvPIUiLgp1x — different
+# G_ig_coachjoedrake_CvPIUiLgp1x — before and after
 
 ## Term
 
-different is the most prominent repeated term in this source (167-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: looks, body, person. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Before and after here is the pair of photos a client sent Joe, and he uses them to show a change that goes past the body. The phrase appears once, beside look back at those photos, sent me over, and different person, at the start of a conversation about what the pictures show. His client is proud not only of the body built through hard work and consistency and struggle, but of a changed mindset — no longer sucking in to look skinny and uncomfortable, then beaming on stage and empowered. The photos work as proof of a mental shift, not just a physical one.
 
 ## Synonyms
 
-- different
-- looks
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Because you sent me over your kind of your before and after, and it's like it's not just a different, it's not just a different body; like it looks like a it looks like a different person. Yeah, I mean, I'm super proud. I'm not afraid to say that." — sources/S_ig_coachjoedrake_CvPIUiLgp1x.md
+> "How do you feel when you look back at those photos? Because you sent me over your kind of your before and after, and it's like it's not just a different, it's not just a different body; like it looks like a it looks like a different person." — sources/S_ig_coachjoedrake_CvPIUiLgp1x.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a transformation ad: the before and after photos here open a talk about pride and mindset, not a pitch for a program.
+- Read as proof that the body alone changed: Joe's point is that the thoughts changed too, and the photos show both.

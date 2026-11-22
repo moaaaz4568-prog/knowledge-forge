@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["fitness", "fallen"]
+aka: [escape]
 origin: sources/S_ig_coachjoedrake_CvzQsuRAYz3.md
 ---
 
-# G_ig_coachjoedrake_CvzQsuRAYz3 — fitness
+# G_ig_coachjoedrake_CvzQsuRAYz3 — escape
 
 ## Term
 
-fitness is the most prominent repeated term in this source (235-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: fallen, love, became. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Escape here is what fitness became for Joe when he was stuck at a desk for twelve hours a day in finance, and he names it twice. The word appears twice, beside fallen in love with fitness, stuck at a desk, and corporate gym in the building, as the reason he trained in the morning and sometimes sneaked in at lunch. The same passage ties the escape to a strict deadline: his lease ending on the thirtieth of July, one more year and no renewal, with homelessness or leaving as the only two outcomes. The deadline forced the leap, and the escape explains why fitness was worth leaping for.
 
 ## Synonyms
 
-- fitness
-- fallen
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So for me, that was that was key. I knew that, you know, at that stage of my career, I felt comfortable enough with fitness because I had done everything. I had fallen in love with fitness. You know, fitness became my escape when I was stuck at a desk for twelve hours a day." — sources/S_ig_coachjoedrake_CvzQsuRAYz3.md
+> "I had fallen in love with fitness. You know, fitness became my escape when I was stuck at a desk for twelve hours a day." — sources/S_ig_coachjoedrake_CvzQsuRAYz3.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim that fitness fixes a bad job: escape here is Joe's own word for how training got him through long desk days, not a prescription for quitting finance.
+- Read as a story about a lease: the deadline matters because it forced a decision, and the passage is about leaving to train, not about renting flats.

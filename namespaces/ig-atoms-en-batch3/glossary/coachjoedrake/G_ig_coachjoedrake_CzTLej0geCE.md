@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["cramping", "whole"]
+aka: [cramping]
 origin: sources/S_ig_coachjoedrake_CzTLej0geCE.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_coachjoedrake_CzTLej0geCE.md
 
 ## Term
 
-cramping is the most prominent repeated term in this source (16-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: whole, back, kevin. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Cramping here is what Joe says he felt the whole time: in his back, through the whole session, while Kevin watched. The word appears twice, beside the whole time, just cramping, and in my back, as the entire content of a two-sentence report. There is no cause named and no fix offered, only the flat fact of a back that would not stop cramping. The term works as a plain complaint about a session, not as a diagnosis or a treatment.
 
 ## Synonyms
 
-- cramping
-- whole
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I was cramping the whole time. Just cramping the whole time in my back" — sources/S_ig_coachjoedrake_CzTLej0geCE.md
+> "No, I was cramping the whole time. Just cramping the whole time in my back, Kevin." — sources/S_ig_coachjoedrake_CzTLej0geCE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a medical claim: cramping here is Joe reporting what he felt, and the source names no cause and no cure.
+- Read as a training cue: the lines describe a past session's discomfort, not an instruction for anyone else's back.

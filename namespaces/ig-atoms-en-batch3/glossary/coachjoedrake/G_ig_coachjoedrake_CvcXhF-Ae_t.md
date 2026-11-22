@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["leg", "workout"]
+aka: ["leg burnout"]
 origin: sources/S_ig_coachjoedrake_CvcXhF-Ae_t.md
 ---
 
-# G_ig_coachjoedrake_CvcXhF-Ae_t — leg
+# G_ig_coachjoedrake_CvcXhF-Ae_t — leg burnout
 
 ## Term
 
-leg is the most prominent repeated term in this source (48-word transcript from the Instagram account coachjoedrake): it occurs 3 times literally in the text, most often collocated with: workout, intelligent, sneaky. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Leg burnout here is the finisher Joe adds at the end of a leg workout: a superset he calls intelligent but sneaky, aimed at the quads. The phrase appears once, beside superset, ten to fifteen reps, and leg extension, as the name for the burn he is chasing. His recipe is ten to fifteen reps on the leg extension followed by about another ten to fifteen on the squat to row, with the second move turning the finisher into a trap. The term works as a label for a short, sharp ending to the session, not as a full leg day.
 
 ## Synonyms
 
-- leg
-- workout
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "like this superset at the end of a leg workout as an intelligent but a sneaky little leg burnout for the quads." — sources/S_ig_coachjoedrake_CvcXhF-Ae_t.md
-> "Go for about ten to fifteen reps on the leg extension, followed up by about another ten to fifteen reps on the squat to" — sources/S_ig_coachjoedrake_CvcXhF-Ae_t.md
+> "I like this superset at the end of a leg workout as an intelligent but a sneaky little leg burnout for the quads." — sources/S_ig_coachjoedrake_CvcXhF-Ae_t.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a whole leg workout: the leg burnout is a finisher at the end of a session, not the workout itself.
+- Read as a beginner move: Joe presents the superset as a sneaky finisher for the quads, not as an easy starter set.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["resistance", "long"]
+aka: [resistance]
 origin: sources/S_ig_coachjoedrake_Cz8co56AzPc.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_coachjoedrake_Cz8co56AzPc.md
 
 ## Term
 
-This source is very short (18 words), so no term repeats enough for a frequency-based entry; resistance is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Resistance here is what Joe asks for mid-set: more of it, out, for four more reps. The word appears once, beside check this long half here, let's go, and four more, as a live coaching cue during an exercise. The line is short and practical — a check of the position, a call for more resistance, and a count of what is left — with no explanation of the movement around it. The term works as a real-time adjustment, not as a concept the video defines.
 
 ## Synonyms
 
-- resistance
-- long
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can check this long half here. And then give me more resistance out. Let's go four" — sources/S_ig_coachjoedrake_Cz8co56AzPc.md
+> "I can check this long half here. And then give me more resistance out. Let's go four more." — sources/S_ig_coachjoedrake_Cz8co56AzPc.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a training principle: resistance here is a one-word cue inside a live set, not a lesson about progressive overload.
+- Read as a complete exercise description: the source gives a position check and a rep count, but names no exercise or muscle.

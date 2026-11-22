@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["faithless", "feeling"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CxdpHQdAI5G.md
 ---
 
-# G_ig_coachjoedrake_CxdpHQdAI5G — faithless
+# G_ig_coachjoedrake_CxdpHQdAI5G — refrain
 
 ## Term
 
-This source is very short (32 words), so no term repeats enough for a frequency-based entry; faithless is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The two lines appear once each, beside feeling so faithless, lost under the surface, and the pressure of walking in your shoes, as the song's verse rather than any spoken point. Its words picture being dragged along by someone else's expectations, with every step counted as another mistake. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- faithless
-- feeling
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of being what you want me to be, feeling so faithless, lost under the surface. Don't know what you're expecting of me, put under the pressure of walking in your" — sources/S_ig_coachjoedrake_CxdpHQdAI5G.md
+> "Tired of being what you want me to be, feeling so faithless, lost under the surface." — sources/S_ig_coachjoedrake_CxdpHQdAI5G.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe talking about pressure: the lines are song lyrics about being dragged under by expectations, not Joe describing his own training.
+- Read as a coaching cue about pressure: the pressure in the lyric is the song's image, and the source gives it no training meaning.

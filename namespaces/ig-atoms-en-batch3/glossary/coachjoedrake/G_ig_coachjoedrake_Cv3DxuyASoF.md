@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["lift", "call"]
+aka: [arena]
 origin: sources/S_ig_coachjoedrake_Cv3DxuyASoF.md
 ---
 
-# G_ig_coachjoedrake_Cv3DxuyASoF — lift
+# G_ig_coachjoedrake_Cv3DxuyASoF — arena
 
 ## Term
 
-lift is the most prominent repeated term in this source (81-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: call, heavy, ego. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Arena here is where Joe places the person who acts: in it with a sword in hand, while the critics sit in the stands with a biscuit in theirs. The word appears once, beside you are in the arena and they are in the stands, as the close of a list of double binds — lift heavy and you are an ego lifter, lift light and you are weak, hide your physique and you are insecure, show it and you are showing off. His moral is that people will talk smack about whatever you do in every circumstance, so the talk itself proves nothing. The image separates doing from judging, and puts the speaker on the side of doing.
 
 ## Synonyms
 
-- lift
-- call
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "lift heavy and they call you an ego lifter. Lift light and they call you weak. You hide your physique and they say you're insecure. You show it confidently and they say you're showing off." — sources/S_ig_coachjoedrake_Cv3DxuyASoF.md
+> "But you are in the arena with a sword in your hand." — sources/S_ig_coachjoedrake_Cv3DxuyASoF.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a literal place: the arena is Joe's image for taking action under criticism, not a gym or a competition venue.
+- Read as permission to ignore all feedback: Joe's point is that the crowd's talk follows any choice, not that no criticism is ever worth hearing.

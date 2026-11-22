@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["ice", "cream"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cy4OvuyNU6u.md
 ---
 
-# G_ig_coachjoedrake_Cy4OvuyNU6u — ice
+# G_ig_coachjoedrake_Cy4OvuyNU6u — refrain
 
 ## Term
 
-ice is the most prominent repeated term in this source (67-word transcript from the Instagram account coachjoedrake): it occurs 4 times literally in the text, most often collocated with: cream, clean, top. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a rap verse, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The verse runs once through, beside rolling like a big shot, fresh paint job, and ice cream, as music laid over the video rather than any spoken point. Its lines boast about a showy car and a big-shot entrance, and the verse ends on a repeated chant of ice cream. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- ice
-- cream
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All the wheels spinning, pull it right through. Lean back, right hand on the top. Frame on the inside, clean on the top. Ice cream, ice ice ice" — sources/S_ig_coachjoedrake_Cy4OvuyNU6u.md
+> "Yo, it's the show double R. I say yeah boo. Rolling like a big shot, Chevy tone look like a NASCAR pit stop." — sources/S_ig_coachjoedrake_Cy4OvuyNU6u.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe describing his car: the verse is rap music about a flashy ride, not Joe talking about his own life.
+- Read as a claim about wealth: the big-shot talk belongs to the song, and the source gives it no meaning beyond the music.

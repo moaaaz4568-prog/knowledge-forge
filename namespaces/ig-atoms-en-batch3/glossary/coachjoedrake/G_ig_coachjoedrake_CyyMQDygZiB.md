@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: ["Slim Shady", "stand"]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CyyMQDygZiB.md
 ---
 
-# G_ig_coachjoedrake_CyyMQDygZiB — Slim Shady
+# G_ig_coachjoedrake_CyyMQDygZiB — refrain
 
 ## Term
 
-Slim Shady is the most prominent repeated term in this source (65-word transcript from the Instagram account coachjoedrake): it occurs 2 times literally in the text, most often collocated with: stand, real, repeat. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The question about the real Slim Shady appears twice, beside I repeat, we're gonna have a problem, and a steel knife in my windpipe, as the song's opening hook. Its words stage a stand-up challenge and a fight for breath, and the passage cuts off mid-line. The entry records the lyric exactly as sung and keeps it as music, not as a concept.
 
 ## Synonyms
 
-- Slim Shady
-- stand
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the real Slim Shady please stand up? I repeat, will the real Slim Shady please stand up? We're gonna have a problem. I can't tell you what it really is. I can only tell you what it feels like. And right now there's a steel knife in my windpipe." — sources/S_ig_coachjoedrake_CyyMQDygZiB.md
+> "Will the real Slim Shady please stand up? I repeat, will the real Slim Shady please stand up?" — sources/S_ig_coachjoedrake_CyyMQDygZiB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as Joe introducing himself: the Slim Shady lines are song lyrics, not Joe talking about who he is.
+- Read as a statement about identity: the stand-up challenge belongs to the song, and the source gives it no training meaning.
