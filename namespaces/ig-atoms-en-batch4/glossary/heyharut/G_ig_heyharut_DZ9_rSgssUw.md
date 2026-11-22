@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: heyharut
-aka: [bluebirds, heyharut account context]
+aka: [refrain]
 origin: sources/S_ig_heyharut_DZ9_rSgssUw.md
 ---
 
-# G_ig_heyharut_DZ9_rSgssUw — bluebirds
+# G_ig_heyharut_DZ9_rSgssUw — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (16 words) to form a repeated term, so this entry documents the source's central term "bluebirds" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a short sung lyric, and the label `refrain` is a type label only — it says what kind of passage this is, not the name of any idea in it. The lines picture looking at the flowers, sitting for hours, and telling all the bluebirds, closing on the billion cool birds. Nothing in the passage names a method, a product, or a business idea, so there is no term to document from it. It is kept here as a lyric, exactly as sung, rather than turned into a business concept.
 
 ## Synonyms
 
-- bluebirds
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (16 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bluebirds": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a business metaphor: the flowers and bluebirds are images in a sung lyric, not coded advice about content or clients.
+- Read as a claim about the singer: the lyric gives no speaker, no story, and no teaching, so nothing here describes Harut or his work.

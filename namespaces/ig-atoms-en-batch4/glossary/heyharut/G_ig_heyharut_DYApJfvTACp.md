@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [content, heyharut account context]
+aka: [premium offer]
 origin: sources/S_ig_heyharut_DYApJfvTACp.md
 ---
 
-# G_ig_heyharut_DYApJfvTACp — content
+# G_ig_heyharut_DYApJfvTACp — premium offer
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, three, build, system. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A premium offer is the single expensive offer Harut puts at step two of scaling to 100K a month in sixty seconds: one offer, not three tiers and not ten different products. It appears once in this source, beside pick one client, ideal avatar, and highest leverage thing. The offer has to be the best he can make for one ideal client, taking them from point A to point B, and it is typically sold high ticket on sales calls. Around it he builds a content system that speaks to that avatar's dreams, pains, aspirations, and fears, plus a team for sales and delivery.
 
 ## Synonyms
 
-- content
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Typically it will be high ticket, you'll be selling with sales calls, but that's what I would do. Number three, build a content system that talks to your ideal avatar and talks to their dreams and pains and aspirations and fears, etc. And build a system around it so you can make high volume of content consistently without burnout." — sources/S_ig_heyharut_DYApJfvTACp.md
-> "So this is where you need to have a good team when it comes to content so they can help you to consistently put it out there and your content can scale. And number four is team. You need to have a team that helps you with sales and delivery and everything else so you can be focused on the highest leverage thing. So if I had 60 seconds, this is what I would say, which are now over." — sources/S_ig_heyharut_DYApJfvTACp.md
+> "Number two, have one premium offer, not three tiers, not 10 different products." — sources/S_ig_heyharut_DYApJfvTACp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any expensive product: a premium offer here is one offer for one client and one outcome, not a catalogue of high-priced items.
+- Read as the whole sixty-second plan: the premium offer is only step two — it sits between picking one client and building a content system and a team around it.

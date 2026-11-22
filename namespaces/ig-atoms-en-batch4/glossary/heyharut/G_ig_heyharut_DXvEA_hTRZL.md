@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [man, heyharut account context]
+aka: [community]
 origin: sources/S_ig_heyharut_DXvEA_hTRZL.md
 ---
 
-# G_ig_heyharut_DXvEA_hTRZL — man
+# G_ig_heyharut_DXvEA_hTRZL — community
 
 ## Term
 
-"man" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: always, next, like, six. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Community is the audience Harud is building on here, the people who see his name and show up to his content. It appears once in this source, beside always on here, growing, and seeing your name. Harut's message is a short encouragement: keep showing up, and the community around your name will keep growing. The hope is aimed at Harud himself, not at Harut's own audience.
 
 ## Synonyms
 
-- man
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You better be a millionaire in the next like six months, man. You're always on here, man. What's up? Harud, I always see your name, man. I hope you're growing your community." — sources/S_ig_heyharut_DXvEA_hTRZL.md
+> "Harud, I always see your name, man. I hope you're growing your community." — sources/S_ig_heyharut_DXvEA_hTRZL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "man": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Harut's own audience: the community here is Harud's, the person being greeted, not the followers of the heyharut account.
+- Read as a promise of growth: Harut only hopes the community grows; the source gives no number, no timeline, and no method for growing it.

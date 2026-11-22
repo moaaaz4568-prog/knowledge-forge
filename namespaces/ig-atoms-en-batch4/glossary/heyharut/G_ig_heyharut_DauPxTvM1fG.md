@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [Harut, heyharut account context]
+aka: [the Council]
 origin: sources/S_ig_heyharut_DauPxTvM1fG.md
 ---
 
-# G_ig_heyharut_DauPxTvM1fG — Harut
+# G_ig_heyharut_DauPxTvM1fG — the Council
 
 ## Term
 
-"Harut" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: call, council, yes, kumar. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The Council is the joke caller in this skit: an incoming call from the Council, telling Harut that Kumar is gone and Hormozy is on parental leave, and asking why him. The phrase appears once in this source, beside Incoming call, We've been watching you, and Find Kumar. The skit ends the same way as the other greetings — a dare to be a millionaire in six months — and Harut answers by introducing himself at 23 and asking what he has to do. The Council is a made-up authority in a comedy bit, not a real group or a business concept.
 
 ## Synonyms
 
-- Harut
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Incoming call, the Council. Yes? Harut Kumar is gone. Who? Cyrus. Fucking Cyrus. What about Hormozy? He is on a parental leave. Why me? We've been watching you. Fuck it. You better be a millionaire in the next like six months. Harut, you motherfucker, here we go. Hi guys, my name is Harut. Do I see you on the lives all the time? But I'm only 23. What do I have to do? Find Kumar." — sources/S_ig_heyharut_DauPxTvM1fG.md
+> "Incoming call, the Council. Yes? Harut Kumar is gone." — sources/S_ig_heyharut_DauPxTvM1fG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Harut": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real organization: the Council here is a fictional caller in a skit — it assigns no work, holds no meetings, and exists only in the joke.
+- Read as a business council: nothing in the skit is about advising or deciding — the call is a setup for the millionaire dare and Harut's introduction.

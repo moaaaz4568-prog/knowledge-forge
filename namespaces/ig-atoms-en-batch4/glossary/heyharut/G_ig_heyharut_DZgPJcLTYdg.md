@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [business, heyharut account context]
+aka: [personal problems]
 origin: sources/S_ig_heyharut_DZgPJcLTYdg.md
 ---
 
-# G_ig_heyharut_DZgPJcLTYdg — business
+# G_ig_heyharut_DZgPJcLTYdg — personal problems
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: grow, problems, because, growth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Personal problems are Harut's answer to why a business stalls: maybe you do not have business problems, maybe you have personal problems that show up inside the business. The phrase appears once in this source, beside your growth in business does not depend on your tactics, your personal issues or your personal success, and suck our energy and attention. His own growth came fast when he looked at this, and the examples he names are TikTok, Instagram, watching videos that don't help, and scrolling Twitter or LinkedIn. Cutting those energy drains, he says, grows the business on its own.
 
 ## Synonyms
 
-- business
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No one believes me when I say this, but your growth in business does not depend on your tactics or strategy that you use. And it's hard to admit, but a lot of the success is because of your personal issues or your personal success. So let me explain." — sources/S_ig_heyharut_DZgPJcLTYdg.md
-> "For some of us it is TikTok or Instagram or watching videos that don't really help us, or I don't know, being on Twitter or LinkedIn, whatever it is that you do. Eliminating some of these things that like suck our energy and attention is gonna automatically grow your business." — sources/S_ig_heyharut_DZgPJcLTYdg.md
-> "So consider thinking about this because when I did, my business grew very fast." — sources/S_ig_heyharut_DZgPJcLTYdg.md
+> "If you're watching this and you want to grow, consider the fact that maybe you don't have business problems, maybe you have personal problems that manifest themselves in your business." — sources/S_ig_heyharut_DZgPJcLTYdg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a therapy claim: personal problems here are named as energy and attention drains — the scrolling and the distractions — not a diagnosis of anyone.
+- Read as tactics being useless: Harut says growth does not depend on tactics, not that tactics never matter — the point is the personal side comes first.

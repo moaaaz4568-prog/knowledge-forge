@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [content, heyharut account context]
+aka: [ideal avatar]
 origin: sources/S_ig_heyharut_Db15t0fx42L.md
 ---
 
-# G_ig_heyharut_Db15t0fx42L — content
+# G_ig_heyharut_Db15t0fx42L — ideal avatar
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, free, content, advance. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ideal avatar is the person Harut says to picture before posting: the ideal client, and whether this video helps them move from where they are to where they want to be. The phrase appears once in this source, beside is this video, is this post going to help my ideal client, and go from where they are to where they want to be. The test is the content itself: if it entertains without moving anyone to act, it attracts views but not clients, and if it answers a real question and gets a result before any call, the viewer trusts that working together grows them more. The best proof, he says, is helping people before they ever pay.
 
 ## Synonyms
 
-- content
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Content that is going to help people to get what they want in advance from our content for free. What content should I make if I want clients, not just views? So let's say if I want to help people to grow their brands, etc." — sources/S_ig_heyharut_Db15t0fx42L.md
-> "If I make content that they watch and it's entertaining or it's interesting, but as a result of it, they don't take any action and they don't grow their business, then my content is not going to be attracting as many clients as I would like." — sources/S_ig_heyharut_Db15t0fx42L.md
-> "But if I make content like this, for example, where I'm answering real questions and it helps you to get the answer that you were looking for, go and implement, and then you get the results without ever talking to me first, then you are going to believe that if you work with me, you can grow even more. Because the best way to prove people that you can help them is by helping them." — sources/S_ig_heyharut_Db15t0fx42L.md
+> "So before you post, ask yourself, is this video, is this post going to help my ideal client, my ideal avatar to go from where they are to where they want to be?" — sources/S_ig_heyharut_Db15t0fx42L.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a profile picture: an ideal avatar here is a person — the ideal client — not an image or a username.
+- Read as targeting everyone: the avatar is one specific client with a starting point and a goal, and content that helps no one in particular fails the test.

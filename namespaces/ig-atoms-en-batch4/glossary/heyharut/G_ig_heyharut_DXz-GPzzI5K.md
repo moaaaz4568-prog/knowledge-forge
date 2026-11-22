@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [lived experience]
 origin: sources/S_ig_heyharut_DXz-GPzzI5K.md
 ---
 
-# G_ig_heyharut_DXz-GPzzI5K — people
+# G_ig_heyharut_DXz-GPzzI5K — lived experience
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: around, something, because, set. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lived experience is the material Harut says content must come from: things he actually did, calls he sat on, people he met in real life. It appears once in this source, beside an in-person client meetup, inner circle clients, and failing and trying things. The claim is that stories from real doing cannot be copied, while videos made by sitting and talking to the camera can. He points to this very video as the example, saying it grew out of a full day spent with an inner circle client.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One of the biggest reasons why you are not yet making one hundred k month with your personal brand is because you are not doing enough things in real life to talk about that gives you undeniable proof for people to trust you. I'll give an example. Most people think that they need to make content, right? So they take their phone and think, oh my god, I am gonna like, I need to say something, right?" — sources/S_ig_heyharut_DXz-GPzzI5K.md
-> "So things like this are what set people, set creators apart in twenty twenty six from everyone else, because everyone is making content, but no one is making content about things that they have done." — sources/S_ig_heyharut_DXz-GPzzI5K.md
-> "But you are doing cool things and they want to be a part of it, especially nowadays when, you know, people are lonely, so they want to be around other people and especially around other legit people. So consider this tweak in your content and I promise that it will start performing way better." — sources/S_ig_heyharut_DXz-GPzzI5K.md
+> "or it's something based on your lived experience." — sources/S_ig_heyharut_DXz-GPzzI5K.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any personal story: lived experience here means doing things in real life first — client calls, meetups, experiments — not memories retold without action behind them.
+- Read as a ban on talking to the camera: Harut still films and talks, but the video has to report something he did rather than invent something to say.

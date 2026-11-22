@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [LTV]
 origin: sources/S_ig_heyharut_DYnBIzIzO8n.md
 ---
 
-# G_ig_heyharut_DYnBIzIzO8n — people
+# G_ig_heyharut_DYnBIzIzO8n — LTV
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: good, attract, people, happens. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+LTV is the lifetime value Harut says grows when clients renew and refer friends instead of churning after one sale. It appears once in this source, beside save me prospects, the good people will attract more people like them, and a way leaner team. The trap is selling to everyone who says yes, especially people in the most pain who expect the biggest results and rarely get them. Selling instead to fewer clients who get good results means less front-end sales but more renewals, more referrals, and more per client, which is how the business compounds.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Why am I getting sales every week but my business is still not growing? That's a great question. Actually, that might be the reason why your business isn't growing. Even if my offer, content, and sales are good. Yes. So what happens is people get good at selling and you get clients, but the reason why you can't scale or it's not consistent or predictable is because it doesn't compound." — sources/S_ig_heyharut_DYnBIzIzO8n.md
-> "So what you need to do is to stop selling to everyone that says yes, because sometimes what people do is they go and they sell to people in the most pain, like the save me prospects, and then sure they pay you because they're in a lot of pain and they don't know anything and they expect the biggest results, but right after they are in the program, they are not likely or in your service" — sources/S_ig_heyharut_DYnBIzIzO8n.md
-> "The good people will attract more people like them, they'll refer their friends, you'll be able to make more per client and you can scale beyond 100K a month and have a way leaner team, a higher profit margins, and it can be so much more sustainable." — sources/S_ig_heyharut_DYnBIzIzO8n.md
+> "And the reason is because it's one thing to sell and it's another thing to create value for people so they renew, so your LTV goes up, so they refer friends." — sources/S_ig_heyharut_DYnBIzIzO8n.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the price of one sale: LTV here counts renewals and referrals over time, not the first payment a client makes.
+- Read as a reason to sell to more people: the source says the opposite — stop selling to everyone who says yes and look for the people who will actually get results.

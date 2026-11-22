@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch4)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,388 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,318 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/heyharut/G_ig_heyharut_DXpopuzv6aJ.md | think | 3 |
-| glossary/heyharut/G_ig_heyharut_DXsrDjJk8aS.md | Better | 2 |
-| glossary/heyharut/G_ig_heyharut_DXvEA_hTRZL.md | man | 1 |
-| glossary/heyharut/G_ig_heyharut_DXvPcFhTTW0.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_DXyECMJTaGd.md | Best | 2 |
-| glossary/heyharut/G_ig_heyharut_DXz-GPzzI5K.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DXzssFzzls2.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DY-h1mOTeFw.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DY2dvJMzIGx.md | thousand dollars | 3 |
-| glossary/heyharut/G_ig_heyharut_DY5ks3tzF5k.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_DY8QvnizU1J.md | offer | 3 |
-| glossary/heyharut/G_ig_heyharut_DYA7DDiT2QU.md | because | 3 |
-| glossary/heyharut/G_ig_heyharut_DYApJfvTACp.md | content | 2 |
-| glossary/heyharut/G_ig_heyharut_DYBH2EIzkTw.md | way | 3 |
-| glossary/heyharut/G_ig_heyharut_DYD2W_3z-2r.md | make | 3 |
-| glossary/heyharut/G_ig_heyharut_DYDWeQFTvOj.md | clients | 3 |
-| glossary/heyharut/G_ig_heyharut_DYDls6tzTj5.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DYILTqgzjrn.md | hard | 2 |
-| glossary/heyharut/G_ig_heyharut_DYaLVVczqyb.md | Harut | 3 |
-| glossary/heyharut/G_ig_heyharut_DYcXGtYTrYn.md | Achieve Greatness | 3 |
-| glossary/heyharut/G_ig_heyharut_DYfl9lEzW7D.md | through better | 1 |
-| glossary/heyharut/G_ig_heyharut_DYiBdEpzQz9.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DYnBIzIzO8n.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DYpqL0Gsicu.md | because | 2 |
-| glossary/heyharut/G_ig_heyharut_DYpqUmDTwUT.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_DZ9_rSgssUw.md | bluebirds | 1 |
-| glossary/heyharut/G_ig_heyharut_DZD9e1Th4hg.md | clients | 3 |
-| glossary/heyharut/G_ig_heyharut_DZGNoJpzsHj.md | Stop | 3 |
-| glossary/heyharut/G_ig_heyharut_DZJFyMHTsDy.md | Harut | 1 |
-| glossary/heyharut/G_ig_heyharut_DZNdauSzGcn.md | working | 2 |
-| glossary/heyharut/G_ig_heyharut_DZQ-rrjzmvL.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DZTQNkcTPOq.md | Achieve Greatness | 2 |
-| glossary/heyharut/G_ig_heyharut_DZYlv2YT9tJ.md | know | 3 |
-| glossary/heyharut/G_ig_heyharut_DZgPJcLTYdg.md | business | 3 |
-| glossary/heyharut/G_ig_heyharut_DZsPv8WTClL.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DaJkOZyh5gx.md | one thing | 1 |
-| glossary/heyharut/G_ig_heyharut_DaLCD9KvjZG.md | Yeah | 2 |
-| glossary/heyharut/G_ig_heyharut_DaSl3RoM1QQ.md | Harut | 1 |
-| glossary/heyharut/G_ig_heyharut_Da_15SfxS0X.md | millionaire | 2 |
-| glossary/heyharut/G_ig_heyharut_Da_atINTNQZ.md | clients | 3 |
-| glossary/heyharut/G_ig_heyharut_DabEnQBhBY0.md | next | 1 |
-| glossary/heyharut/G_ig_heyharut_DagsKVxTKqF.md | already | 3 |
-| glossary/heyharut/G_ig_heyharut_Dak8Vx1vbN5.md | man | 1 |
-| glossary/heyharut/G_ig_heyharut_Daq8k2RzwtJ.md | one hundred | 3 |
-| glossary/heyharut/G_ig_heyharut_DauPxTvM1fG.md | Harut | 1 |
-| glossary/heyharut/G_ig_heyharut_Dav6IP6TrOI.md | content | 1 |
-| glossary/heyharut/G_ig_heyharut_DawQ6eFzlHg.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_Db-HIdhx6gt.md | making | 2 |
-| glossary/heyharut/G_ig_heyharut_Db15t0fx42L.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_Db2E77ORcpT.md | content | 3 |
+| glossary/heyharut/G_ig_heyharut_DXpopuzv6aJ.md | call to action | 1 |
+| glossary/heyharut/G_ig_heyharut_DXsrDjJk8aS.md | high ticket | 1 |
+| glossary/heyharut/G_ig_heyharut_DXvEA_hTRZL.md | community | 1 |
+| glossary/heyharut/G_ig_heyharut_DXvPcFhTTW0.md | one thing at a time | 1 |
+| glossary/heyharut/G_ig_heyharut_DXyECMJTaGd.md | trust | 1 |
+| glossary/heyharut/G_ig_heyharut_DXz-GPzzI5K.md | lived experience | 1 |
+| glossary/heyharut/G_ig_heyharut_DXzssFzzls2.md | slow to trust | 1 |
+| glossary/heyharut/G_ig_heyharut_DY-h1mOTeFw.md | live workshop | 1 |
+| glossary/heyharut/G_ig_heyharut_DY2dvJMzIGx.md | double down | 1 |
+| glossary/heyharut/G_ig_heyharut_DY5ks3tzF5k.md | good friction | 1 |
+| glossary/heyharut/G_ig_heyharut_DY8QvnizU1J.md | qualified leads | 1 |
+| glossary/heyharut/G_ig_heyharut_DYA7DDiT2QU.md | outlast | 1 |
+| glossary/heyharut/G_ig_heyharut_DYApJfvTACp.md | premium offer | 1 |
+| glossary/heyharut/G_ig_heyharut_DYBH2EIzkTw.md | compounding | 1 |
+| glossary/heyharut/G_ig_heyharut_DYD2W_3z-2r.md | highlight funnel | 1 |
+| glossary/heyharut/G_ig_heyharut_DYDWeQFTvOj.md | worth more | 1 |
+| glossary/heyharut/G_ig_heyharut_DYDls6tzTj5.md | fake | 1 |
+| glossary/heyharut/G_ig_heyharut_DYILTqgzjrn.md | shiny object | 1 |
+| glossary/heyharut/G_ig_heyharut_DYaLVVczqyb.md | comfort zone | 1 |
+| glossary/heyharut/G_ig_heyharut_DYcXGtYTrYn.md | tiny niche | 1 |
+| glossary/heyharut/G_ig_heyharut_DYfl9lEzW7D.md | inconsistent months | 1 |
+| glossary/heyharut/G_ig_heyharut_DYiBdEpzQz9.md | ROAS | 1 |
+| glossary/heyharut/G_ig_heyharut_DYnBIzIzO8n.md | LTV | 1 |
+| glossary/heyharut/G_ig_heyharut_DYpqL0Gsicu.md | cheering people | 1 |
+| glossary/heyharut/G_ig_heyharut_DYpqUmDTwUT.md | pre-sold | 1 |
+| glossary/heyharut/G_ig_heyharut_DZ9_rSgssUw.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_DZD9e1Th4hg.md | AI-proof | 1 |
+| glossary/heyharut/G_ig_heyharut_DZGNoJpzsHj.md | A players | 1 |
+| glossary/heyharut/G_ig_heyharut_DZJFyMHTsDy.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DZNdauSzGcn.md | Meta ads | 1 |
+| glossary/heyharut/G_ig_heyharut_DZQ-rrjzmvL.md | VSL | 1 |
+| glossary/heyharut/G_ig_heyharut_DZTQNkcTPOq.md | low voltage technician | 1 |
+| glossary/heyharut/G_ig_heyharut_DZYlv2YT9tJ.md | fallacy of marketing | 1 |
+| glossary/heyharut/G_ig_heyharut_DZgPJcLTYdg.md | personal problems | 1 |
+| glossary/heyharut/G_ig_heyharut_DZsPv8WTClL.md | relevance | 1 |
+| glossary/heyharut/G_ig_heyharut_DaJkOZyh5gx.md | demonstrating proof | 1 |
+| glossary/heyharut/G_ig_heyharut_DaLCD9KvjZG.md | bottleneck | 1 |
+| glossary/heyharut/G_ig_heyharut_DaSl3RoM1QQ.md | in the game | 1 |
+| glossary/heyharut/G_ig_heyharut_Da_15SfxS0X.md | high-ticket coaching program | 1 |
+| glossary/heyharut/G_ig_heyharut_Da_atINTNQZ.md | clients maxing | 1 |
+| glossary/heyharut/G_ig_heyharut_DabEnQBhBY0.md | next opponent | 1 |
+| glossary/heyharut/G_ig_heyharut_DagsKVxTKqF.md | subscribers | 1 |
+| glossary/heyharut/G_ig_heyharut_Dak8Vx1vbN5.md | community | 1 |
+| glossary/heyharut/G_ig_heyharut_Daq8k2RzwtJ.md | New Meta Funnel | 1 |
+| glossary/heyharut/G_ig_heyharut_DauPxTvM1fG.md | the Council | 1 |
+| glossary/heyharut/G_ig_heyharut_Dav6IP6TrOI.md | content funnel | 1 |
+| glossary/heyharut/G_ig_heyharut_DawQ6eFzlHg.md | Hormozi Highlight Funnel | 1 |
+| glossary/heyharut/G_ig_heyharut_Db-HIdhx6gt.md | tangible | 1 |
+| glossary/heyharut/G_ig_heyharut_Db15t0fx42L.md | ideal avatar | 1 |
+| glossary/heyharut/G_ig_heyharut_Db2E77ORcpT.md | signals | 1 |
 | glossary/heyharut/G_ig_heyharut_Db9exDhThjM.md | content | 2 |
 | glossary/heyharut/G_ig_heyharut_DbCWekRzMji.md | daily routine | 2 |
 | glossary/heyharut/G_ig_heyharut_DbCuxwHRiIz.md | one | 3 |

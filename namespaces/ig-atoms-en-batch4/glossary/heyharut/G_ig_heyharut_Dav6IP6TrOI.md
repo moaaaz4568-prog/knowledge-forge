@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [content, heyharut account context]
+aka: [content funnel]
 origin: sources/S_ig_heyharut_Dav6IP6TrOI.md
 ---
 
-# G_ig_heyharut_Dav6IP6TrOI — content
+# G_ig_heyharut_Dav6IP6TrOI — content funnel
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, gets, comments, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Content funnel is the system Harut promises to reveal live: Alex Hormozi's funnel that makes his team over 100k a month of profit. The phrase appears once in this source, beside content that gets comments like these, attracts qualified leads, and comment the word live below. The hook is attention first — the video opens with a line meant to stop the scroll — and the funnel is the payoff for commenting live and registering free. It is a funnel built from content that attracts the right viewers, not from ads or cold outreach.
 
 ## Synonyms
 
-- content
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, that got your attention. So if you want to do content that gets comments like these and attracts qualified leads, I'm going to go live to reveal Alex Hormozi's content funnel that's making us over 100k month of profit. If you're interested, comment the word live below and I'll send you the link to register for free." — sources/S_ig_heyharut_Dav6IP6TrOI.md
+> "I'm going to go live to reveal Alex Hormozi's content funnel that's making us over 100k month of profit." — sources/S_ig_heyharut_Dav6IP6TrOI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the funnel itself: the source only promises to reveal the content funnel in a live session — the video gives no steps, no pages, and no structure.
+- Read as any content that gets views: this funnel is tied to content that attracts qualified leads, not to content that merely gets comments.

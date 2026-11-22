@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [clients, heyharut account context]
+aka: [worth more]
 origin: sources/S_ig_heyharut_DYDWeQFTvOj.md
 ---
 
-# G_ig_heyharut_DYDWeQFTvOj — clients
+# G_ig_heyharut_DYDWeQFTvOj — worth more
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 19 times in the text (whole-word matches, case folded), and the words most often collocated with it are: handle, need, make, worth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Worth more is one of the two levers Harut gives a business stuck under one hundred k a month: make each client worth more instead of getting more clients. The phrase appears five times in this source, beside thirty clients, close to capacity, and increase prices. The moves he names are raising prices, hiring team members who service clients, and building AI tools, automations, and systems that templatize and productize the service. His arithmetic is plain: thirty clients at three thousand dollars a month is ninety k, and the same thirty at ten thousand is three hundred k.
 
 ## Synonyms
 
-- clients
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If your business is stuck under one hundred k a month, there's two things that you can do to grow it. Number one, you can get more clients. Number two, you can make them worth more. So what, how do you know which one to start with? Well, if you have more clients than you can handle, then usually you need to make your clients worth more." — sources/S_ig_heyharut_DYDWeQFTvOj.md
-> "So don't try to get more clients, just increase prices, upgrade your avatar, and see how you can hire team members and build systems to be able to handle more clients. The second thing, if you can handle more customers, is to get more customers. There's nothing else you can do to grow your business." — sources/S_ig_heyharut_DYDWeQFTvOj.md
-> "So if you are not yet growing, you either are not trying to get more clients and wasting your time somewhere else, or you can't handle more clients, which means you need to solve that first." — sources/S_ig_heyharut_DYDWeQFTvOj.md
+> "Number two, you can make them worth more." — sources/S_ig_heyharut_DYDWeQFTvOj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as charging more for nothing: making clients worth more here also means hiring and building systems so the business can actually service them at the higher price.
+- Read as the only lever: it applies when there are already more clients than the business can handle — when it can handle more, the lever flips to getting more customers instead.

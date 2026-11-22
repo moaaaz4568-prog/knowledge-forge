@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [man, heyharut account context]
+aka: [community]
 origin: sources/S_ig_heyharut_Dak8Vx1vbN5.md
 ---
 
-# G_ig_heyharut_Dak8Vx1vbN5 — man
+# G_ig_heyharut_Dak8Vx1vbN5 — community
 
 ## Term
 
-"man" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: always, next, like, six. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Community is the thing the caller hopes Harut is growing: he greets him by name, says he always sees his name, and wishes the community well. The word appears once in this source, beside You better be a millionaire in the next like six months, man, You're always on here, man, and What's up. The clip is the same rowdy greeting as the millionaire dare — the same voices, the same jokes — and the community line is a friendly wish tucked between them. It is a wish for Harut's work, not a description of any community feature.
 
 ## Synonyms
 
-- man
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You better be a millionaire in the next like six months, man. You're always on here, man. What's up? Harud, I always see your name, man. I hope you're growing your community." — sources/S_ig_heyharut_Dak8Vx1vbN5.md
+> "Harud, I always see your name, man. I hope you're growing your community." — sources/S_ig_heyharut_Dak8Vx1vbN5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "man": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a community-building lesson: the line is a greeting wishing Harut's community grows — it teaches nothing about running one.
+- Read as a different video from the millionaire dare: the same clip carries both lines, so the community wish and the dare belong to one greeting, not two lessons.

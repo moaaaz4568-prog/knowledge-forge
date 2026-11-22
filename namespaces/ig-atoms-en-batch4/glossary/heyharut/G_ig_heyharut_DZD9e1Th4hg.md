@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [clients, heyharut account context]
+aka: [AI-proof]
 origin: sources/S_ig_heyharut_DZD9e1Th4hg.md
 ---
 
-# G_ig_heyharut_DZD9e1Th4hg — clients
+# G_ig_heyharut_DZD9e1Th4hg — AI-proof
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: showing, already, because, getting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+AI-proof is Harut's name for content that survives a feed full of generic AI output: it has to feel real, and he gives two ways to make it so — live and interactive. It appears once in this source, beside a little bit more livable, a little bit more authentic, and moments that you can't fake. The more generic content floods the feed, the more real content stands out, and he models it on Hormozi coaching businesses on video. The format can be a conversation instead of a scripted video, or a documented session with a real client, like a testimonial or a funnel being built.
 
 ## Synonyms
 
-- clients
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This feels a little bit more livable, a bit more authentic, and a little bit more like a conversation versus just me talking with a scripted video. And another way is to do it interactive and to do it with your clients." — sources/S_ig_heyharut_DZD9e1Th4hg.md
-> "And nowadays, when there's a fight for attention everywhere, the people that are gonna get the most clients are not necessarily people that are gonna get the most views, but they are the people that are going to build the most trust." — sources/S_ig_heyharut_DZD9e1Th4hg.md
-> "And the more live, interactive, real content you post, the more you will build trust with your audience, and the more trust you have, the more clients you are going to get." — sources/S_ig_heyharut_DZD9e1Th4hg.md
+> "The best content strategy in 2026 to scale your business to 100k a month is making content which is AI-proof." — sources/S_ig_heyharut_DZD9e1Th4hg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as anti-AI content: AI-proof here means content AI cannot fake — live, interactive, real — not content made without any AI tools.
+- Read as a format rule: live and interactive are the two ways he names, but the test is whether it feels real, not which format label it carries.
