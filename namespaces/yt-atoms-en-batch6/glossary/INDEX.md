@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch6)
 
-YouTube English video transcripts batch 6 glossaries (sub-batches 1-5: codes 1-300 of 1,000): one G_ entry per T_ atom file — 250 files, zero exclusions, misc-dl collection. 250 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1200 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last mRRN8-iDRbc (sub-batch 5).
+YouTube English video transcripts batch 6 glossaries (sub-batches 1-5: codes 1-300 of 1,000): one G_ entry per T_ atom file — 300 files, zero exclusions, misc-dl collection. 300 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1200 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last mRRN8-iDRbc (sub-batch 5).
 | glossary/misc-dl/G_yt_js9-JPCC-U4_en.md | align | 1 |
 | glossary/misc-dl/G_yt_jsseHVKseyk_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_jtJLUR-bePM_en.md | brand name | 1 |
@@ -201,6 +201,56 @@ YouTube English video transcripts batch 6 glossaries (sub-batches 1-5: codes 1-3
 | glossary/misc-dl/G_yt_lXUHIEZ-fis_en.md | podcast guesting | 8 |
 | glossary/misc-dl/G_yt_lXYHFEVMxig_en.md | EBITDA | 3 |
 | glossary/misc-dl/G_yt_lYWLURg3xtI_en.md | traffic | 3 |
+| glossary/misc-dl/G_yt_lZDOqDS-M7A_en.md | pricing model | 1 |
+| glossary/misc-dl/G_yt_lZGePPbYMfA_en.md | brain | 1 |
+| glossary/misc-dl/G_yt_lZc30sUfx64_en.md | artificial intelligence | 1 |
+| glossary/misc-dl/G_yt_l_FUhnQnDtA_en.md | wrong problem | 1 |
+| glossary/misc-dl/G_yt_l_Hd6HZTd-M_en.md | goal | 1 |
+| glossary/misc-dl/G_yt_laJNhfk5JWQ_en.md | Claude code | 1 |
+| glossary/misc-dl/G_yt_laSvHJzzFHU_en.md | reserve currency | 1 |
+| glossary/misc-dl/G_yt_lb2D5xKQSJ8_en.md | visual language | 1 |
+| glossary/misc-dl/G_yt_lbZKB1hVH_s_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_lbbxs7vbMQY_en.md | visual identity | 1 |
+| glossary/misc-dl/G_yt_lcOH0Qveggs_en.md | old money | 1 |
+| glossary/misc-dl/G_yt_lcjysPHVI2Q_en.md | value assignment | 1 |
+| glossary/misc-dl/G_yt_ldBUUKRQR9M_en.md | poster design | 1 |
+| glossary/misc-dl/G_yt_ldnk0Rj9Rvc_en.md | earned insights | 1 |
+| glossary/misc-dl/G_yt_lfQEVuE3ZZs_en.md | personal brand | 1 |
+| glossary/misc-dl/G_yt_lgPiJ3k4dpc_en.md | client ascension | 1 |
+| glossary/misc-dl/G_yt_lj7GfJ1DMsU_en.md | sales tax | 1 |
+| glossary/misc-dl/G_yt_ljBtqaX8MIY_en.md | brief | 1 |
+| glossary/misc-dl/G_yt_ljCwmqfPUYQ_en.md | leverage | 1 |
+| glossary/misc-dl/G_yt_lje_mAGd9qY_en.md | cold outreach | 1 |
+| glossary/misc-dl/G_yt_ljt9jHvaEkY_en.md | agency Sidekicks | 1 |
+| glossary/misc-dl/G_yt_lk2VsajMK8c_en.md | color | 1 |
+| glossary/misc-dl/G_yt_lk7Kc9hhI4c_en.md | financial trauma | 1 |
+| glossary/misc-dl/G_yt_lkeg9Vu6p00_en.md | appointment setting | 1 |
+| glossary/misc-dl/G_yt_lkgIUwwIbjQ_en.md | grain effect | 1 |
+| glossary/misc-dl/G_yt_ll_MEL2fun4_en.md | facebook group | 1 |
+| glossary/misc-dl/G_yt_llrSoSdiwAU_en.md | repeat | 1 |
+| glossary/misc-dl/G_yt_lmRbpaSvn78_en.md | snap suggestion | 1 |
+| glossary/misc-dl/G_yt_lmpENEX_jLc_en.md | traffic | 1 |
+| glossary/misc-dl/G_yt_ln3U_e-bu-Y_en.md | direct sales pitch | 1 |
+| glossary/misc-dl/G_yt_lnqpxjWX-qo_en.md | capital gains tax | 1 |
+| glossary/misc-dl/G_yt_loA-5YffbdM_en.md | paid acquisition | 1 |
+| glossary/misc-dl/G_yt_loX1Sa9fH84_en.md | associations | 1 |
+| glossary/misc-dl/G_yt_lolRWBQ9mmQ_en.md | color group | 1 |
+| glossary/misc-dl/G_yt_lqdvDbQRMoA_en.md | infrastructure | 1 |
+| glossary/misc-dl/G_yt_lrSwy44FuRY_en.md | run toward the roar | 1 |
+| glossary/misc-dl/G_yt_luB-mLAhVKk_en.md | one-liner | 1 |
+| glossary/misc-dl/G_yt_lunbjJJzFiI_en.md | brand | 1 |
+| glossary/misc-dl/G_yt_luo7w9jGDrE_en.md | data | 1 |
+| glossary/misc-dl/G_yt_lv-C-HOV6S8_en.md | margin | 1 |
+| glossary/misc-dl/G_yt_lv-SkeUyLsI_en.md | biotech | 1 |
+| glossary/misc-dl/G_yt_lvTragmYUFU_en.md | leads | 1 |
+| glossary/misc-dl/G_yt_lvala4h9NcU_en.md | emotion | 1 |
+| glossary/misc-dl/G_yt_lx_TfBfxxl0_en.md | contract value | 1 |
+| glossary/misc-dl/G_yt_lyETM3iYppU_en.md | personal brand | 1 |
+| glossary/misc-dl/G_yt_lyuh43rGQs4_en.md | middle class | 1 |
+| glossary/misc-dl/G_yt_lzsO09jGYAw_en.md | fast pass | 1 |
+| glossary/misc-dl/G_yt_m16v8-Lnekc_en.md | high agency | 1 |
+| glossary/misc-dl/G_yt_m1RGrPBvcLI_en.md | sales process | 1 |
+| glossary/misc-dl/G_yt_m2Gz54cYPk8_en.md | viewer satisfaction | 1 |
 | glossary/misc-dl/G_yt_m2J8CKAPrRI_en.md | business | 1 |
 | glossary/misc-dl/G_yt_m2JnEWcoEf8_en.md | phase | 1 |
 | glossary/misc-dl/G_yt_m2ZVjvwmMA8_en.md | methodology | 1 |
