@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [hey bro, heyharut account context]
+aka: [invoice]
 origin: sources/S_ig_heyharut_DcbHOYjR6FV.md
 ---
 
-# G_ig_heyharut_DcbHOYjR6FV — hey bro
+# G_ig_heyharut_DcbHOYjR6FV — invoice
 
 ## Term
 
-"hey bro" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bro, hey, chance. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An invoice is the last thing Harut sends in this skit before the client explodes: final files, full access, all the information, access to the community, and then the invoice, whenever the client gets the chance. The word appears once in this source, beside final files, full access, and access to the community, and the whole clip is the delivery followed by a bewildered outburst from the other side. The client got everything and still reacts as if something went wrong. An invoice here is the bill that lands after full delivery, not a request for payment up front.
 
 ## Synonyms
 
-- hey bro
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yes, man, I just sent over the final files, full access, all the information. I gave you access to the community and also sent you the invoice, so whenever you get the chance. Hey bro, hey bro, bro, what the f***?" — sources/S_ig_heyharut_DcbHOYjR6FV.md
+> "I gave you access to the community and also sent you the invoice, so whenever you get the chance." — sources/S_ig_heyharut_DcbHOYjR6FV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hey bro": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a client complaint: the outburst follows full delivery and the invoice, so the clip shows the reaction, not a dispute about the work.
+- Read as proof the client was scammed: everything was delivered with full access, so the shock is the joke, not evidence of wrongdoing.

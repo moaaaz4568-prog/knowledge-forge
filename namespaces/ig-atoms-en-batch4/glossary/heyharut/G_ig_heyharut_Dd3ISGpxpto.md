@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [gonna, heyharut account context]
+aka: [$5,000 client]
 origin: sources/S_ig_heyharut_Dd3ISGpxpto.md
 ---
 
-# G_ig_heyharut_Dd3ISGpxpto — gonna
+# G_ig_heyharut_Dd3ISGpxpto — $5,000 client
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: scammer, guarantee, scam, huge. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The $5,000 client is the one who sends the money and says thank you, while the $50 client asks how it works, whether there is a guarantee, and whether Harut will scam him. The phrase appears once in this source, beside money sent, $50 client, and I'm special, and the cheap client's rant runs through Dubai distrust, blame, and a plea for help. The expensive client asks nothing and the cheap client asks everything, which is the whole skit. The $5,000 client here is the proof that price filters doubt, not a customer profile.
 
 ## Synonyms
 
-- gonna
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "$5,000 client. Money sent. Thank you. $50 client. Oh, how does it work? Is there a guarantee? Are you gonna scam me? But you are from Dubai, so I don't trust you because everyone is a huge scammer. I'm gonna stay in the same position and everyone else is blamed for my problems. I'm a loser. You are a scammer. It's not gonna work for me. I'm special. Help me." — sources/S_ig_heyharut_Dd3ISGpxpto.md
+> "$5,000 client. Money sent. Thank you. $50 client. Oh, how does it work?" — sources/S_ig_heyharut_Dd3ISGpxpto.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof the fifty-dollar client is a scammer's victim: he calls Harut a scammer while begging for help, so the clip shows his contradiction, not a fraud.
+- Read as advice to only sell high-ticket: the point is how price changes behaviour, so the rant is the evidence, not the rule.

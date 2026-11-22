@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [dog, heyharut account context]
+aka: [refrain]
 origin: sources/S_ig_heyharut_DcQj72Yhzi1.md
 ---
 
-# G_ig_heyharut_DcQj72Yhzi1 — dog
+# G_ig_heyharut_DcQj72Yhzi1 — refrain
 
 ## Term
 
-"dog" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dog. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `refrain` is a type label only, because the whole source is one meme line repeated seven times with nothing to define. The line asks what the dog is doing, over and over, and no business idea, instruction, or named concept appears anywhere in the twenty-eight words. The refrain is quoted as a joke fragment, so the entry records its wording and nothing more. Any reading that treats the dog as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- dog
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What the dog doing? What the dog doing? What the dog doing? What the dog doing? What the dog doing? What the dog doing? What the dog doing?" — sources/S_ig_heyharut_DcQj72Yhzi1.md
+> "What the dog doing? What the dog doing? What the dog doing?" — sources/S_ig_heyharut_DcQj72Yhzi1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dog": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a question about a dog: the line is a meme repeated seven times, so it asks nothing and answers nothing.
+- Read as Harut's own words: the phrase is a quoted meme, so it carries no view of his about animals or content.

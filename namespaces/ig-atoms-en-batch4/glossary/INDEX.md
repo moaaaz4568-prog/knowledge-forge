@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch4)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,264 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 2, codes 51-100, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (ig-batch4-part2 chunk 1, codes 1501-1550, jun_yuh): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,221 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 2, codes 51-100, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (ig-batch4-part2 chunk 1, codes 1501-1550, jun_yuh): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 3, codes 101-150, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -104,56 +104,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/heyharut/G_ig_heyharut_DcF0XEjRCD7.md | one thing | 1 |
 | glossary/heyharut/G_ig_heyharut_DcF6dF9hcaf.md | public commitment | 1 |
 | glossary/heyharut/G_ig_heyharut_DcFKFM7Tk1g.md | transformation | 1 |
-| glossary/heyharut/G_ig_heyharut_DcLKY_lxaiA.md | talk | 1 |
-| glossary/heyharut/G_ig_heyharut_DcLYniyxsgO.md | say | 1 |
-| glossary/heyharut/G_ig_heyharut_DcNpN6NxnkV.md | funnel | 2 |
-| glossary/heyharut/G_ig_heyharut_DcOKyhuRaZG.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DcOTiQBxLLU.md | million followers | 1 |
-| glossary/heyharut/G_ig_heyharut_DcParbHTQly.md | dollar client | 1 |
-| glossary/heyharut/G_ig_heyharut_DcQEeITxi7R.md | think | 2 |
-| glossary/heyharut/G_ig_heyharut_DcQaG3IxibC.md | five | 3 |
-| glossary/heyharut/G_ig_heyharut_DcQj72Yhzi1.md | dog | 1 |
-| glossary/heyharut/G_ig_heyharut_DcS8_CJxwMR.md | Rosalind | 1 |
-| glossary/heyharut/G_ig_heyharut_DcSS-dLRTQW.md | murdered | 1 |
-| glossary/heyharut/G_ig_heyharut_DcSdIdiRdpH.md | know | 3 |
-| glossary/heyharut/G_ig_heyharut_DcStxW7h9TE.md | say | 1 |
-| glossary/heyharut/G_ig_heyharut_DcU9iCFx1YX.md | morning routine | 2 |
-| glossary/heyharut/G_ig_heyharut_DcVTgyzxTJb.md | Harut | 1 |
-| glossary/heyharut/G_ig_heyharut_DcViGlLRKtl.md | million dollars | 2 |
-| glossary/heyharut/G_ig_heyharut_DcVu4E-xKqg.md | actually | 1 |
-| glossary/heyharut/G_ig_heyharut_DcXZzBZRqdH.md | Hormozi | 2 |
-| glossary/heyharut/G_ig_heyharut_DcYJEHEx94C.md | videos | 3 |
-| glossary/heyharut/G_ig_heyharut_DcYVN7lxSJC.md | one | 3 |
-| glossary/heyharut/G_ig_heyharut_DcYcKOIRKi3.md | trial reels | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc_zjiCT4PN.md | free | 3 |
-| glossary/heyharut/G_ig_heyharut_DcaCJbERY6d.md | Haroot | 1 |
-| glossary/heyharut/G_ig_heyharut_DcaLi1Yx5-Z.md | much | 2 |
-| glossary/heyharut/G_ig_heyharut_DcaeJSrxV0Z.md | yeah | 1 |
-| glossary/heyharut/G_ig_heyharut_DcbHOYjR6FV.md | hey bro | 1 |
-| glossary/heyharut/G_ig_heyharut_DceVrnVz1ql.md | community | 1 |
-| glossary/heyharut/G_ig_heyharut_DcgIeisxytG.md | little bit | 1 |
-| glossary/heyharut/G_ig_heyharut_DcgkxWZBXh4.md | haberte | 1 |
+| glossary/heyharut/G_ig_heyharut_DcLKY_lxaiA.md | entrepreneurship | 1 |
+| glossary/heyharut/G_ig_heyharut_DcLYniyxsgO.md | lives | 1 |
+| glossary/heyharut/G_ig_heyharut_DcNpN6NxnkV.md | playground | 1 |
+| glossary/heyharut/G_ig_heyharut_DcOKyhuRaZG.md | human edge | 1 |
+| glossary/heyharut/G_ig_heyharut_DcOTiQBxLLU.md | face reveal | 1 |
+| glossary/heyharut/G_ig_heyharut_DcParbHTQly.md | ten thousand dollar client | 1 |
+| glossary/heyharut/G_ig_heyharut_DcQEeITxi7R.md | high views | 1 |
+| glossary/heyharut/G_ig_heyharut_DcQaG3IxibC.md | hiring a virtual assistant | 1 |
+| glossary/heyharut/G_ig_heyharut_DcQj72Yhzi1.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_DcS8_CJxwMR.md | Matilda effect | 1 |
+| glossary/heyharut/G_ig_heyharut_DcSS-dLRTQW.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_DcSdIdiRdpH.md | impact | 1 |
+| glossary/heyharut/G_ig_heyharut_DcStxW7h9TE.md | how you say it | 1 |
+| glossary/heyharut/G_ig_heyharut_DcU9iCFx1YX.md | morning routine | 1 |
+| glossary/heyharut/G_ig_heyharut_DcVTgyzxTJb.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DcViGlLRKtl.md | million dollars | 1 |
+| glossary/heyharut/G_ig_heyharut_DcVu4E-xKqg.md | pull it off | 1 |
+| glossary/heyharut/G_ig_heyharut_DcXZzBZRqdH.md | ideal client | 1 |
+| glossary/heyharut/G_ig_heyharut_DcYJEHEx94C.md | hooks | 1 |
+| glossary/heyharut/G_ig_heyharut_DcYVN7lxSJC.md | content creation | 1 |
+| glossary/heyharut/G_ig_heyharut_DcYcKOIRKi3.md | trial reel | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc_zjiCT4PN.md | free | 1 |
+| glossary/heyharut/G_ig_heyharut_DcaCJbERY6d.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DcaLi1Yx5-Z.md | feedback | 1 |
+| glossary/heyharut/G_ig_heyharut_DcaeJSrxV0Z.md | record month | 1 |
+| glossary/heyharut/G_ig_heyharut_DcbHOYjR6FV.md | invoice | 1 |
+| glossary/heyharut/G_ig_heyharut_DceVrnVz1ql.md | private community | 1 |
+| glossary/heyharut/G_ig_heyharut_DcgIeisxytG.md | a little bit more | 1 |
+| glossary/heyharut/G_ig_heyharut_DcgkxWZBXh4.md | refrain | 1 |
 | glossary/heyharut/G_ig_heyharut_Dciss9gRpW8.md | Claude | 1 |
-| glossary/heyharut/G_ig_heyharut_Dcl2X_5PUwA.md | three seconds | 2 |
-| glossary/heyharut/G_ig_heyharut_DclSpNKx5Vq.md | Harut | 3 |
-| glossary/heyharut/G_ig_heyharut_DcmHjg3z_h9.md | one | 3 |
-| glossary/heyharut/G_ig_heyharut_DcoRlbYx2F4.md | fucking | 1 |
-| glossary/heyharut/G_ig_heyharut_DcoY3kJTU7F.md | teach | 2 |
-| glossary/heyharut/G_ig_heyharut_Dcq27nJT27J.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_Dcq8ginv-P_.md | say | 1 |
-| glossary/heyharut/G_ig_heyharut_DcrNPmOzffc.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DcuLPVzzUwf.md | think | 3 |
-| glossary/heyharut/G_ig_heyharut_DcuTqlGhlRm.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_DcvAVEzzn49.md | need | 2 |
-| glossary/heyharut/G_ig_heyharut_DcwSdhNTak_.md | gonna | 3 |
-| glossary/heyharut/G_ig_heyharut_Dcwaqr2Pcy8.md | think | 1 |
-| glossary/heyharut/G_ig_heyharut_Dcy9p9_TX8f.md | real life | 1 |
-| glossary/heyharut/G_ig_heyharut_DczAExVhLnu.md | Alex Hermozzi | 1 |
-| glossary/heyharut/G_ig_heyharut_DczOW6eBr3J.md | Okay | 1 |
-| glossary/heyharut/G_ig_heyharut_Dd0AlVkTkSw.md | Yeah | 3 |
-| glossary/heyharut/G_ig_heyharut_Dd1d8EdTzBB.md | business | 3 |
-| glossary/heyharut/G_ig_heyharut_Dd2pzM9TtA4.md | gonna | 3 |
-| glossary/heyharut/G_ig_heyharut_Dd3ISGpxpto.md | gonna | 1 |
+| glossary/heyharut/G_ig_heyharut_Dcl2X_5PUwA.md | first three seconds | 1 |
+| glossary/heyharut/G_ig_heyharut_DclSpNKx5Vq.md | sales calls | 1 |
+| glossary/heyharut/G_ig_heyharut_DcmHjg3z_h9.md | highest leverage | 1 |
+| glossary/heyharut/G_ig_heyharut_DcoRlbYx2F4.md | skit | 1 |
+| glossary/heyharut/G_ig_heyharut_DcoY3kJTU7F.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_Dcq27nJT27J.md | ideal avatar | 1 |
+| glossary/heyharut/G_ig_heyharut_Dcq8ginv-P_.md | lives | 1 |
+| glossary/heyharut/G_ig_heyharut_DcrNPmOzffc.md | in person | 1 |
+| glossary/heyharut/G_ig_heyharut_DcuLPVzzUwf.md | attention ecosystem | 1 |
+| glossary/heyharut/G_ig_heyharut_DcuTqlGhlRm.md | emotionally care | 1 |
+| glossary/heyharut/G_ig_heyharut_DcvAVEzzn49.md | more human | 1 |
+| glossary/heyharut/G_ig_heyharut_DcwSdhNTak_.md | impressive things | 1 |
+| glossary/heyharut/G_ig_heyharut_Dcwaqr2Pcy8.md | audience content market fit | 1 |
+| glossary/heyharut/G_ig_heyharut_Dcy9p9_TX8f.md | more impressive | 1 |
+| glossary/heyharut/G_ig_heyharut_DczAExVhLnu.md | chant | 1 |
+| glossary/heyharut/G_ig_heyharut_DczOW6eBr3J.md | north star | 1 |
+| glossary/heyharut/G_ig_heyharut_Dd0AlVkTkSw.md | aligned | 1 |
+| glossary/heyharut/G_ig_heyharut_Dd1d8EdTzBB.md | beginner mindset | 1 |
+| glossary/heyharut/G_ig_heyharut_Dd2pzM9TtA4.md | in person | 1 |
+| glossary/heyharut/G_ig_heyharut_Dd3ISGpxpto.md | $5,000 client | 1 |
 | glossary/heyharut/G_ig_heyharut_Dd3eFtfzOON.md | everyone | 3 |
 | glossary/heyharut/G_ig_heyharut_Dd4lA82zg9l.md | think | 2 |
 | glossary/heyharut/G_ig_heyharut_Dd5KxZTxriU.md | pass | 1 |

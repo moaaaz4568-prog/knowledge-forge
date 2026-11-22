@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: heyharut
-aka: [Claude, heyharut account context]
+aka: [Claude]
 origin: sources/S_ig_heyharut_Dciss9gRpW8.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_heyharut_Dciss9gRpW8.md
 
 ## Term
 
-"Claude" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: plus, claude, money, airbnb. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Claude is the tool Harut plugs into everything in this joke list about the fastest way to make money: Claude plus Airbnb, Claude plus Netflix to summarise series, Claude plus your grandma, and Claude plus another Claude for double Claude. The name appears seven times in this source, beside fastest way to make money, ChatGPT more Claude, and double Claude, and the gag escalates from plausible pairings to convincing grandma you are full. The list is a riff on AI hype, where every combination promises money or convenience. Claude here is the prop for the joke, not a tool review.
 
 ## Synonyms
 
-- Claude
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The fastest way to make money. Claude plus Airbnb. Claude plus Netflix, so you can just summarize all the series and you don't even have to watch them anymore. Claude plus your grandma, so you can finally convince her that you are not hungry anymore and you are full. Claude plus another Claude, so you can have double Claude and also ChatGPT, so you can just ChatGPT more Claude, you know." — sources/S_ig_heyharut_Dciss9gRpW8.md
+> "The fastest way to make money. Claude plus Airbnb." — sources/S_ig_heyharut_Dciss9gRpW8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Claude": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real automation guide: every pairing is a joke, from Netflix summaries to convincing grandma, so nothing in the list is a working setup.
+- Read as a claim that Claude replaces work: the fastest way to make money is the setup for the joke, and the pairings get sillier as the list goes on.

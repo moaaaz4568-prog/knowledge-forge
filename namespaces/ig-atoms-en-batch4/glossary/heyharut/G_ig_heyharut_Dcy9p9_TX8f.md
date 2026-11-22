@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [real life, heyharut account context]
+aka: [more impressive]
 origin: sources/S_ig_heyharut_Dcy9p9_TX8f.md
 ---
 
-# G_ig_heyharut_Dcy9p9_TX8f — real life
+# G_ig_heyharut_Dcy9p9_TX8f — more impressive
 
 ## Term
 
-"real life" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: life, real, experiences, things. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+More impressive is what Harut says to become instead of trying to sound impressive: Hormozi's one sentence made him over a million dollars at twenty-three, not because the words were magic but because of who said them. The phrase appears three times in this source, beside you better be a billionaire, what you do inspires me, and real life experiences, and the advice was a dare to be a billionaire in six months, which helped him twenty-one times his business in ninety days. A client later told him that what he does inspires more often than what he says, so the work is to do epic things and collect proof. More impressive here is the person, not the pitch.
 
 ## Synonyms
 
-- real life
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if you're watching this, I think that we all will benefit more by trying to get more real life experiences, go and get more proof, do epic things, and by doing that, we become more impressive. We have more stories that make us someone worth listening to. And the more of those things you do in real life, the easier it is to create content, not the other way around." — sources/S_ig_heyharut_Dcy9p9_TX8f.md
+> "If you want to get more clients, if you want to get more views, you need to stop trying to say something impressive, and you need to work on becoming more impressive yourself." — sources/S_ig_heyharut_Dcy9p9_TX8f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "real life": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that one sentence makes millions: the sentence worked because Hormozi said it, so the power was in who spoke, not the words.
+- Read as advice to sound impressive: Harut says the opposite, to stop performing smartness and get better at the work, so the impressive part is the doing.

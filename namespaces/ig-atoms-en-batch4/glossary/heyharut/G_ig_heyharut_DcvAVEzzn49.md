@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [need, heyharut account context]
+aka: [more human]
 origin: sources/S_ig_heyharut_DcvAVEzzn49.md
 ---
 
-# G_ig_heyharut_DcvAVEzzn49 — need
+# G_ig_heyharut_DcvAVEzzn49 — more human
 
 ## Term
 
-"need" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: use, think, goal, simple. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+More human is the goal of the satirical meeting in this clip: use more AI to make it more human, use AI to identify the emotions that make him human, and let AI write the authentic personal stories. The phrase appears twice in this source, beside use more AI, authentic personal stories, and that's a wild idea, and the joke peaks when someone suggests he just talk like himself and the room calls it a wild idea. The team agrees to stick to its roots and keep using AI instead. More human here is the punchline of outsourcing authenticity to AI, not a strategy.
 
 ## Synonyms
 
-- need
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The goal is simple. We need to use more AI to make it more human. Sorry to jump in here, but I really think we need to use more AI to identify what emotions make him really be more human. That's huge. Then AI can write the authentic personal stories. Exactly. And I have a suggestion. What if he actually just talks like himself? Let's not get crazy here. That's a wild idea." — sources/S_ig_heyharut_DcvAVEzzn49.md
-> "I think we just need to stick to our roots here and just keep using AI." — sources/S_ig_heyharut_DcvAVEzzn49.md
+> "The goal is simple. We need to use more AI to make it more human." — sources/S_ig_heyharut_DcvAVEzzn49.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "need": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real strategy meeting: the suggestions are satire, so using AI to write authentic stories is the joke, not the plan.
+- Read as a claim that talking like yourself is crazy: the room calls it a wild idea, which is the punchline, and the sane suggestion is the one they reject.

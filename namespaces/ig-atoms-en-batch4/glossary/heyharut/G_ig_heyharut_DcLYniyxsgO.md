@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [say, heyharut account context]
+aka: [lives]
 origin: sources/S_ig_heyharut_DcLYniyxsgO.md
 ---
 
-# G_ig_heyharut_DcLYniyxsgO — say
+# G_ig_heyharut_DcLYniyxsgO — lives
 
 ## Term
 
-"say" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, guys, name. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lives are the live sessions where Harut recognises his regulars, greeting them by name and telling them he sees them there all the time. The word appears once in this source, beside my name is Harut, see you, and all the time, and the whole clip is a twenty-two-word hello with no lesson attached. He opens with a warning not to say he never said so, then introduces himself as if the regulars already know him. Lives here are the recurring room where the audience gathers, not a broadcast he performs at them.
 
 ## Synonyms
 
-- say
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Don't say I didn't say. Hi guys, my name is Harut. We see you on the lives all the time. Yeah." — sources/S_ig_heyharut_DcLYniyxsgO.md
+> "Hi guys, my name is Harut. We see you on the lives all the time." — sources/S_ig_heyharut_DcLYniyxsgO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "say": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an announcement: the clip gives no date, topic, or link, so it is a greeting to regulars, not an invitation to a live.
+- Read as proof of a big audience: he addresses people he already sees on the lives, so the greeting shows regulars, not reach.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [fucking, heyharut account context]
+aka: [skit]
 origin: sources/S_ig_heyharut_DcoRlbYx2F4.md
 ---
 
-# G_ig_heyharut_DcoRlbYx2F4 — fucking
+# G_ig_heyharut_DcoRlbYx2F4 — skit
 
 ## Term
 
-"fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, stop, fucking, calling. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `skit` is a type label only, because the whole source is an angry rant fragment with nothing to define. The speaker demands to know how the caller got his number and shouts that this is the eighth person to call this morning, and no business idea, instruction, or named concept appears anywhere in the forty words. The skit is quoted as a comedy fragment, so the entry records its wording and nothing more. Any reading that treats the threats as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- fucking
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What was that? How the fuck did you get my fucking number? Stop fucking calling me. You're the eighth person to call this fucking morning. Who the fuck are you guys? I'm gonna fucking find you. I'm gonna shut all." — sources/S_ig_heyharut_DcoRlbYx2F4.md
+> "Stop fucking calling me. You're the eighth person to call this fucking morning." — sources/S_ig_heyharut_DcoRlbYx2F4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real phone call: the rant is a comedy skit, so the caller, the number, and the threats are performed, not reported.
+- Read as Harut's own anger: the speaker is a character in the skit, so the shouting belongs to the bit, not to Harut.

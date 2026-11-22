@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [think, heyharut account context]
+aka: [high views]
 origin: sources/S_ig_heyharut_DcQEeITxi7R.md
 ---
 
-# G_ig_heyharut_DcQEeITxi7R — think
+# G_ig_heyharut_DcQEeITxi7R — high views
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: maybe, content, right, instead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+High views are the whole of Harut's sarcastic idea for a fellow creator: instead of posting videos that get low views, just post content that gets high views, and more views will bring more clients. The phrase appears once in this source, beside low views, more clients, and just an idea, and the joke is that the advice states the goal as if it were the method. He presents it as a generous tip the creator somehow never thought of, then wishes him luck. High views here are the punchline of a tautology, not a strategy.
 
 ## Synonyms
 
-- think
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey bro, what's up? So I just had an idea I wanted to share with you. I mean, I see you're posting content, right? But I think instead of posting videos that get low views, you should just post content that gets high views. Because I mean, if we get more views, I think we're gonna get more clients. I think maybe you didn't think about it, so yeah." — sources/S_ig_heyharut_DcQEeITxi7R.md
-> "And yeah, I mean, you're doing content anyway, so rather just post to us that do well, and I think this will really help. But anyways, just an idea. I know you got it, so good luck bro. Appreciate you." — sources/S_ig_heyharut_DcQEeITxi7R.md
+> "you should just post content that gets high views." — sources/S_ig_heyharut_DcQEeITxi7R.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as real advice: the idea restates the goal as the method, so following it literally means doing nothing new.
+- Read as a claim that low-view videos are worthless: the joke is aimed at the tautology, not at small creators, and the clip never says what makes views high.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [teach, heyharut account context]
+aka: [refrain]
 origin: sources/S_ig_heyharut_DcoY3kJTU7F.md
 ---
 
-# G_ig_heyharut_DcoY3kJTU7F — teach
+# G_ig_heyharut_DcoY3kJTU7F — refrain
 
 ## Term
 
-"teach" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: play, swoop. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `refrain` is a type label only, because the whole source is a few sung lyric lines with nothing to define. The lines ask to be taught how to play the game and say all that is needed is a beat that is super bumping, and no business idea, instruction, or named concept appears anywhere in the forty-eight words. The refrain is quoted as a song fragment, so the entry records its wording and nothing more. Any reading that treats the game or the beat as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- teach
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Teach me how to play the game. They be like" — sources/S_ig_heyharut_DcoY3kJTU7F.md
-> "Can you teach me how to play? You know why? 'Cause all the bitches love it. All I need is a beat that's super bumping. Every you, you, you to back it up and dust it." — sources/S_ig_heyharut_DcoY3kJTU7F.md
+> "All I need is a beat that's super bumping." — sources/S_ig_heyharut_DcoY3kJTU7F.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "teach": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lesson about games: the lines are song lyrics asking to be taught to play, so they teach no game and name no rules.
+- Read as Harut's own taste in music: the lyric is a quoted fragment, so it shows what he sings, not what he believes.

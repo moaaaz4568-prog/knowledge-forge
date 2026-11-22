@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [Haroot, heyharut account context]
+aka: [millionaire]
 origin: sources/S_ig_heyharut_DcaCJbERY6d.md
 ---
 
-# G_ig_heyharut_DcaCJbERY6d — Haroot
+# G_ig_heyharut_DcaCJbERY6d — millionaire
 
 ## Term
 
-"Haroot" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: motherfucker, fucking, haroot, better. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Millionaire is the dare Hormozi shouts at Haroot in this clip, greeting him by name and telling him he had better be a millionaire in the next six months. The word appears once in this source, beside Haroot, fucking Haroot, and I see you on the live, and the whole clip is Hormozi speaking, not Harut, with Harut answering only by introducing himself as the man on the live. The spelling Haroot is the transcript's rendering of the name, and the dare is the same six-month challenge from the other clips. Millionaire here is a challenge issued by a mentor on a live, not a title Haroot holds.
 
 ## Synonyms
 
-- Haroot
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so, Haroot, you motherfucker, here we go. Haroot, fucking Haroot, you better be a millionaire in the next like six months, man. Hi guys, my name is Haroot. I see you on the live all the time. Yes, now he's here." — sources/S_ig_heyharut_DcaCJbERY6d.md
+> "Haroot, fucking Haroot, you better be a millionaire in the next like six months, man." — sources/S_ig_heyharut_DcaCJbERY6d.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Haroot": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Harut already being a millionaire: Hormozi's dare sets a six-month target, so the word is a goal, and the greeting is the challenge, not the result.
+- Read as a random outburst: Hormozi greets Haroot by name and names the dare, so the shouting is a challenge to a regular, not an insult to a stranger.

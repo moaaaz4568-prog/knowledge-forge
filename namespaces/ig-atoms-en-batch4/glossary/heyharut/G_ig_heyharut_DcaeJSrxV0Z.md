@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [yeah, heyharut account context]
+aka: [record month]
 origin: sources/S_ig_heyharut_DcaeJSrxV0Z.md
 ---
 
-# G_ig_heyharut_DcaeJSrxV0Z — yeah
+# G_ig_heyharut_DcaeJSrxV0Z — record month
 
 ## Term
 
-"yeah" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah, understand, way, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A record month is the stakes in this sales push: Harut told all of Instagram that the team is having a record month, and the deal must close on the last day of the month for it to be true. The phrase appears twice in this source, beside last day of the month, my reputation, and my personal brand, and the ask is whether the prospect is in, with no way out offered. He frames the close as a matter of his reputation and personal brand rather than the deal itself. A record month here is a public promise that pressures the close, not a report.
 
 ## Synonyms
 
-- yeah
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yeah, yeah, I understand, I really do, but I mean, I told Instagram, all my audience, that we're having a record month, so like this is the last day of the month and we need this deal to close to actually have a record month, so I mean, I think you should start really thinking about my reputation and my personal brand at this point. So I mean, yeah, there is no way. So yeah, are you in?" — sources/S_ig_heyharut_DcaeJSrxV0Z.md
+> "we need this deal to close to actually have a record month" — sources/S_ig_heyharut_DcaeJSrxV0Z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "yeah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a closed deal: the clip is a push to close on the last day, so the record month is still at stake when he asks.
+- Read as a claim about the product: the pressure comes from his public promise and reputation, not from the offer itself.

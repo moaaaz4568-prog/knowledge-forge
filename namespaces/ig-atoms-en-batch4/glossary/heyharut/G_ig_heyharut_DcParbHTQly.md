@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [dollar client, heyharut account context]
+aka: [ten thousand dollar client]
 origin: sources/S_ig_heyharut_DcParbHTQly.md
 ---
 
-# G_ig_heyharut_DcParbHTQly — dollar client
+# G_ig_heyharut_DcParbHTQly — ten thousand dollar client
 
 ## Term
 
-"dollar client" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thank, ten, thousand, client. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The ten thousand dollar client is the one who simply sends the money and says thank you, while the one hundred dollar client asks how it works, whether it will work, and whether there is a guarantee. The phrase appears once in this source, beside money sent, one hundred dollar client, and speak to my wife, and the whole clip is a two-line skit contrasting the two reactions. The cheap client also wants to know the competitors and how Harut is better, while the expensive one asks nothing. The ten thousand dollar client here is the proof that price filters doubt, not a customer profile.
 
 ## Synonyms
 
-- dollar client
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ten thousand dollar client, money sent. Thank you. One hundred dollar client, wait, what? How does it work? It's a lot of money. I don't know if it's gonna work for me. I need to speak to my wife. What are your competitors? How are you better? Is there a guarantee?" — sources/S_ig_heyharut_DcParbHTQly.md
+> "Ten thousand dollar client, money sent. Thank you." — sources/S_ig_heyharut_DcParbHTQly.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dollar client": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that cheap clients never buy: the hundred-dollar client is still in the conversation asking questions, so the skit contrasts attitudes, not outcomes.
+- Read as advice to only sell high-ticket: the point is how price changes behaviour, not that low prices are always wrong.

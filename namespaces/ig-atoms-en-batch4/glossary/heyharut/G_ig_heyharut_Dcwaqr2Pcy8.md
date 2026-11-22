@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [think, heyharut account context]
+aka: [audience content market fit]
 origin: sources/S_ig_heyharut_Dcwaqr2Pcy8.md
 ---
 
-# G_ig_heyharut_Dcwaqr2Pcy8 — think
+# G_ig_heyharut_Dcwaqr2Pcy8 — audience content market fit
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: okay, necessarily, views, problem. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Audience content market fit is the jargon the satirical meeting lands on for why a video underperformed: it is not a views problem, it is a misalignment of audience, content, and market. The phrase appears once in this source, beside founder led narrative architecture, reimagine, and what if the video just sucked, and the room adds wheels to sandwiches and authenticity before someone asks the obvious question. The meeting ends with no decision, only a promise to circle back next week. Audience content market fit here is the parody of strategy language, not a diagnosis.
 
 ## Synonyms
 
-- think
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, I don't think it's necessarily a views problem. Exactly, I think it's more of an audience content market fit misalignment. That's huge. And if I can add another wheel to the sandwich here, please, excuse me. I think we need to completely reimagine the founder led narrative architecture. Hundred percent. Maybe we need more authenticity. Exactly. What if the video just sucked?" — sources/S_ig_heyharut_Dcwaqr2Pcy8.md
+> "Exactly, I think it's more of an audience content market fit misalignment." — sources/S_ig_heyharut_Dcwaqr2Pcy8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real diagnosis: the jargon is the joke, and the video might simply have sucked, so the fit language explains nothing by itself.
+- Read as a decision: the meeting ends by circling back next week, so nothing was decided and no post was planned.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [in person, in-person]
 origin: sources/S_ig_heyharut_DcrNPmOzffc.md
 ---
 
-# G_ig_heyharut_DcrNPmOzffc — people
+# G_ig_heyharut_DcrNPmOzffc — in person
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: real, life, want, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In person is the direction Harut says personal branding is moving: from online to real life, because people want real things more after the online world and the post-COVID years left them less connected. The phrase appears twice in this source, with six more uses as in-person, beside real life things, the pendulum is swinging, and being in the room, and the trend covers concert tickets, sports, and events, all getting more expensive as demand rises. The payoff is twofold: more fun and real connections, and content that makes viewers feel they are in the room. In person here is the experience people now crave, not a filming location.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- in-person
 
 ## Live Example
 
-> "Here's a trend that's happening in the online personal branding space that you can take advantage of that most people haven't caught up yet. And if you do it now, you'll be ahead of all of your competitors. It's very simple, but it's very, very effective. So it is going from online to real life or in person." — sources/S_ig_heyharut_DcrNPmOzffc.md
-> "Second benefit is, is that that experience when it's getting captured in content online also gives people the feeling of them being there, being in the room, of them belonging to something, right? So that's why someone like Hormoz is doing the in-person content for his shorts, it's for a short-form strategy. On Instagram, they are posting him coaching business owners like in person." — sources/S_ig_heyharut_DcrNPmOzffc.md
-> "And also you get to capture that and post it out there and people are gonna watch that type of content way more nowadays and it's gonna make them feel more connected even if it's online. And that will bring you more views, more clients, and more fun along the way. So use it." — sources/S_ig_heyharut_DcrNPmOzffc.md
+> "So it is going from online to real life or in person." — sources/S_ig_heyharut_DcrNPmOzffc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a prediction that online content dies: Harut says the pendulum swings toward real life, so in-person content rises beside online content, not instead of it.
+- Read as advice to only meet people in real life: the benefits are fun and connection, but the content still goes online, so the real-life moment is captured, not kept offline.

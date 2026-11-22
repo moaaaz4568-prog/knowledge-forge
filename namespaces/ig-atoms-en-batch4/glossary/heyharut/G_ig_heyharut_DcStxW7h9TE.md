@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [say, heyharut account context]
+aka: [how you say it]
 origin: sources/S_ig_heyharut_DcStxW7h9TE.md
 ---
 
-# G_ig_heyharut_DcStxW7h9TE — say
+# G_ig_heyharut_DcStxW7h9TE — how you say it
 
 ## Term
 
-"say" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: none (no content word recurs near it). The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+How you say it is what matters over what you say, in the line Harut repeats three times without adding anything else. The phrase appears three times in this source, beside what you say, it's about, and the repetition itself, and the whole clip is the single sentence said three times in a row. The delivery carries the point, since nothing new is introduced after the first hearing. How you say it here is a repeated aphorism about delivery, not a developed lesson.
 
 ## Synonyms
 
-- say
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's not about what you say, it's about how you say it. It's not about what you say, it's about how you say it. It's not about what you say, it's about how you say it." — sources/S_ig_heyharut_DcStxW7h9TE.md
+> "It's not about what you say, it's about how you say it." — sources/S_ig_heyharut_DcStxW7h9TE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "say": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete lesson: the line is repeated three times with nothing added, so the clip states the idea without teaching how to apply it.
+- Read as a claim that content does not matter: the line says delivery matters more than wording, not that the message itself is irrelevant.
