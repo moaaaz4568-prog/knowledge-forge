@@ -202,3 +202,53 @@
 | glossary/misc-dl/G_yt_jFPBpiSBkWg_ar.md | glossary |
 | glossary/misc-dl/G_yt_jFrCYvnIA3E_ar.md | glossary |
 | glossary/misc-dl/G_yt_jFwxPq3U3Jc_ar.md | glossary |
+| glossary/misc-dl/G_yt_q4_jHQru_LQ_ar.md | مساحة بيضاء | 2 |
+| glossary/muhamdhelal/G_yt_q4okDye8Xw4_ar.md | نل اوبجيكت | 1 |
+| glossary/takimoore/G_yt_q5JgeKIKvgI_ar.md | ورشة عمل | 2 |
+| glossary/misc-dl/G_yt_q6_LZhs4t6M_ar.md | العلامة التجارية | 2 |
+| glossary/omarsaied/G_yt_q6sqHT5XTG0_ar.md | الحيره | 1 |
+| glossary/takimoore/G_yt_q6yf4zeUcZI_ar.md | زيارات المبيعات | 2 |
+| glossary/matthewlucero/G_yt_q71imtqZclg_ar.md | موعد مكالمة | 2 |
+| glossary/misc-dl/G_yt_q7544gNkjsE_ar.md | الصورة الرمزية | 2 |
+| glossary/misc-dl/G_yt_q7wo6zJoLzU_ar.md | تحديد المواعيد | 2 |
+| glossary/ctthedisrupter/G_yt_q85eu6zIkyc_ar.md | الاستهداف الواسع | 1 |
+| glossary/misc-dl/G_yt_q8_NjqIYh9g_ar.md | وسائل التواصل الاجتماعي | 2 |
+| glossary/saminyasar_/G_yt_q8pibdaEafs_ar.md | الذكاء الاصطناعي | 2 |
+| glossary/tylerhennessee/G_yt_q9253jW5wHM_ar.md | زمن المجيء | 1 |
+| glossary/adriandimac/G_yt_q9qVCJ9UhFo_ar.md | إطارات صور إلكترونية | 1 |
+| glossary/ctthedisrupter/G_yt_qA8sgZG4jSo_ar.md | حلقة مفرغة | 1 |
+| glossary/terrencekruse/G_yt_qAXclWKqkQE_ar.md | الشركات الصغيرة والمتوسطة | 1 |
+| glossary/saminyasar_/G_yt_qAjRhfNV3as_ar.md | أبحاث العملاء | 1 |
+| glossary/jaceengland/G_yt_qArpxS-9Y1U_ar.md | إجراءات التشغيل القياسية | 2 |
+| glossary/misc-dl/G_yt_qB0G0uqyzsk_ar.md | الاعتراضات | 2 |
+| glossary/takimoore/G_yt_qB6tparO5S4_ar.md | الملكية الفكرية | 1 |
+| glossary/takimoore/G_yt_qBWDGrs0L9Q_ar.md | مكالمة هاتفية تمهيدية | 1 |
+| glossary/misc-dl/G_yt_qBoxweaXzwU_ar.md | منصات العمل الحر | 1 |
+| glossary/misc-dl/G_yt_qC7qeH5ACmY_ar.md | خطة الله | 2 |
+| glossary/muhamdhelal/G_yt_qD92Q0QACEI_ar.md | ترانزيشن السلايد | 1 |
+| glossary/misc-dl/G_yt_qDXHYbCsVUQ_ar.md | معدل التحويل | 2 |
+| glossary/tylerhennessee/G_yt_qDmUf1M4NLo_ar.md | خط ائتمان ملكية المنزل | 2 |
+| glossary/maximiliandier/G_yt_qDt1YCIbSPk_ar.md | القيمة السوقية | 2 |
+| glossary/misc-dl/G_yt_qDw8zT7pCdQ_ar.md | تقلب معدل ضربات القلب | 2 |
+| glossary/misc-dl/G_yt_qE4DglKrCdI_ar.md | مواعدة سريعة للمؤسسين | 1 |
+| glossary/ctthedisrupter/G_yt_qE5BITbRQJE_ar.md | الإعلانات الديناميكية | 2 |
+| glossary/misc-dl/G_yt_qE7E58DoDzs_ar.md | مسار المدير | 1 |
+| glossary/cbwritescopy/G_yt_qEkkd5dItes_ar.md | عبارة الحث على اتخاذ إجراء | 2 |
+| glossary/omarsaied/G_yt_qEplA-wuKOI_ar.md | تجربه نفسيه | 1 |
+| glossary/ryandeissofficial/G_yt_qFwcGsGiFuc_ar.md | مدير مبيعات | 1 |
+| glossary/misc-dl/G_yt_qGqxG6pru80_ar.md | إيرادات متكررة | 1 |
+| glossary/moe-alhakeem/G_yt_qH-0rSPEgtw_ar.md | بالي | 2 |
+| glossary/misc-dl/G_yt_qHCIiZft3-I_ar.md | القيادة | 1 |
+| glossary/omarsaied/G_yt_qHgNrBs7clw_ar.md | التحليل الاستراتيجي | 1 |
+| glossary/misc-dl/G_yt_qI9lJNJ9l7E_ar.md | اختصارات لوحة المفاتيح | 2 |
+| glossary/misc-dl/G_yt_qIUtUdBxwNw_ar.md | البريد الإلكتروني البارد | 2 |
+| glossary/adriandimac/G_yt_qIf_kICg7aI_ar.md | زين دروب | 1 |
+| glossary/misc-dl/G_yt_qIvhzoCHzpA_ar.md | الفائز | 2 |
+| glossary/alexanderthecreate/G_yt_qJQTFppyshY_ar.md | هيكل أساسي | 1 |
+| glossary/omarsaied/G_yt_qKiM42XG8NA_ar.md | مدير محترف | 1 |
+| glossary/misc-dl/G_yt_qLQRImXrOFk_ar.md | العمل الحر | 2 |
+| glossary/misc-dl/G_yt_qMJkr7t8r7g_ar.md | دوامة التدفق النقدي | 1 |
+| glossary/orenmeetsworld/G_yt_qMOD1_as7yk_ar.md | المبيعات المسبقة | 1 |
+| glossary/matthewlucero/G_yt_qMa87Ok3qPQ_ar.md | التواجد على أمازون | 1 |
+| glossary/misc-dl/G_yt_qMb1RN3hXwA_ar.md | البريد الإلكتروني البارد | 1 |
+| glossary/misc-dl/G_yt_qNC4_XxrIYI_ar.md | رفع الأسعار | 2 |
