@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [review manipulation]
 origin: sources/S_ig_airesearcherguy_COvhYFnnXkp.md
 ---
 
-# G_ig_airesearcherguy_COvhYFnnXkp — Amazon
+# G_ig_airesearcherguy_COvhYFnnXkp — review manipulation
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: news, coming, buyers, big. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Review manipulation is the shady tactic the speaker says big brands on Amazon engage in, like incentivizing five star reviews with gift cards — and Amazon, he says, never did anything about it until recently. The phrase appears once, beside MPow, Aukey, and a billion dollars in combined sales. Amazon just suspended a whole bunch of really big sellers, including MPow and Aukey, both suspended for over ten days with no sign of getting their accounts back. His point is the scale of the news: the suspended brands' sales exceed a billion dollars, and most buyers never knew the manipulation was happening.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Combined, their sales exceed a billion dollars. Two of the most notable brands are MPow and Aukey. Both brands have been suspended for over ten days, so it doesn't look like they're just gonna turn around and get their accounts back. And we'll see what happens." — sources/S_ig_airesearcherguy_COvhYFnnXkp.md
+> "Most buyers won't know what us sellers have known for years, and that's that big brands on Amazon often engage in shady review manipulation tactics, like incentivizing five star reviews with gift cards." — sources/S_ig_airesearcherguy_COvhYFnnXkp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that all big brands manipulate reviews: he names the tactic and two suspended brands, and the suspensions are the news, not a verdict on every seller.
+- Read as proof the accounts are gone for good: both brands have been suspended for over ten days, and he says it does not look like they will get their accounts back — a reading of the situation, not a ruling.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [cognitive, airesearcherguy account context]
+aka: [cognitive]
 origin: sources/S_ig_airesearcherguy_CN-7BetH-l7.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CN-7BetH-l7.md
 
 ## Term
 
-"cognitive" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: cognitive, marketing, talk, gurus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cognitive is the word the speaker repeats six times as he opens a thought he never finishes: he wants to talk about cognitive, then stalls between marketing gurus and a remark about what gurus always talk about. The word appears six times in a thirty-five-word fragment, beside marketing gurus, high, and a burst of yeahs and a yay. Nothing in the fragment says what about cognition he means — no study, no tip, and no example follows the repetition. The entry records the repetition itself as the content, because the source offers no completed idea to document.
 
 ## Synonyms
 
-- cognitive
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yeah, yeah, yeah. Yay! Damn it. All right, today I want to talk to you about cognitive, cognitive, cognitive, cognitive, cognitive, cognitive. In between marketing gurus, gurus, what marketing gurus always talk about high. Mm." — sources/S_ig_airesearcherguy_CN-7BetH-l7.md
+> "All right, today I want to talk to you about cognitive, cognitive, cognitive, cognitive, cognitive, cognitive." — sources/S_ig_airesearcherguy_CN-7BetH-l7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cognitive": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lesson about cognition: the speaker never states a claim about it, so the fragment teaches nothing beyond the repeated word.
+- Read as a critique of marketing gurus: the gurus are only the aside he drifts into, and the fragment never delivers the criticism it seems to start.

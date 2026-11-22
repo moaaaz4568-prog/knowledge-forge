@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [potential customer, airesearcherguy account context]
+aka: [leaky hose]
 origin: sources/S_ig_airesearcherguy_CObbbrVH6M1.md
 ---
 
-# G_ig_airesearcherguy_CObbbrVH6M1 — potential customer
+# G_ig_airesearcherguy_CObbbrVH6M1 — leaky hose
 
 ## Term
 
-"potential customer" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: customer, potential, step, typical. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The leaky hose is the funnel building and optimization tool the speaker takes from The Seven Secrets of Persuasion: map every step a potential customer takes to purchase, then look for leaks in the hose. The phrase appears once, beside Google search, the landing page, and the appointment with a salesperson. Mapping the steps also shows where the business must be visible — search content for the search step, an optimized landing page for the website step. The question he stresses is not how to optimize a step but what the customer is doing instead, because a competitor may be running a more efficient process the seller never sees.
 
 ## Synonyms
 
-- potential customer
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ask the question, what is the potential customer doing instead? You may have all the copy, all the colors, everything optimized as much as it can be. But if you don't ask the question, what are they doing instead? You might miss out on a more efficient or new process that maybe a competitor is implementing. I just thought that was really cool, so hope that helps." — sources/S_ig_airesearcherguy_CObbbrVH6M1.md
+> "In the book The Seven Secrets of Persuasion, the author introduces this concept called the leaky hose, which is basically a funnel building and optimization tool." — sources/S_ig_airesearcherguy_CObbbrVH6M1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "potential customer": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a funnel template: the hose is a way to map steps and find leaks, and the map changes with every product's customer path.
+- Read as advice to fix the leakiest step: he says to ask what the customer does instead, because the better process may belong to a competitor.

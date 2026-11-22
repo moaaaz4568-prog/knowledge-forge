@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [bracelets, airesearcherguy account context]
+aka: [side hustle]
 origin: sources/S_ig_airesearcherguy_CNA14iRHUHw.md
 ---
 
-# G_ig_airesearcherguy_CNA14iRHUHw — bracelets
+# G_ig_airesearcherguy_CNA14iRHUHw — side hustle
 
 ## Term
 
-"bracelets" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trying, sell, online, little. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A side hustle is the speaker's experiment of selling bracelets online, started on Mercari, where they did pretty good until the pandemic stopped the trend. The phrase appears once, beside AliExpress, Walmart, and a box of about fifty bracelets. With the bracelets unsold, he lists them on Walmart.com, where listing creation is straightforward — details, photos, and the listing is live. He closes by promising to keep viewers posted, so the hustle is an open experiment, not a finished result.
 
 ## Synonyms
 
-- bracelets
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I've had a box of about 50 of these bracelets I got off AliExpress. You know what? I still have a Walmart. Com account, so I'll just list them there. So I created the listing today. Listing creation is pretty straightforward, like any other marketplace. Put in the details and your photos, etc. And we're live. I'll keep you posted." — sources/S_ig_airesearcherguy_CNA14iRHUHw.md
+> "Alright, so I've been running this side hustle experiment, trying to sell these bracelets online for a little while." — sources/S_ig_airesearcherguy_CNA14iRHUHw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bracelets": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a success story: the bracelets sold a small handful and then stopped, and the Walmart listing is a new attempt, not a win.
+- Read as a guide to selling on Walmart: he only notes that listing creation is straightforward, and the experiment's outcome is still unknown.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [idea virus, airesearcherguy account context]
+aka: [idea virus]
 origin: sources/S_ig_airesearcherguy_CNN1iP4nh9F.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CNN1iP4nh9F.md
 
 ## Term
 
-"idea virus" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: recommend, unleashing, virus, seth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The idea virus is the title of the Seth Godin book the speaker recommends to marketers, business owners, and advertisers: Unleashing the Idea Virus, a book about making ideas go viral, or at least making a message easily consumed by the masses. The phrase appears twice, beside Seth Godin, a PDF download, and a Google search for the free book. His pitch is that the book is amazing and completely free, available on Seth's blog as a PDF download. The recommendation is the whole source — no summary of the book's ideas follows it.
 
 ## Synonyms
 
-- idea virus
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Attention marketers, business owners, advertisers. I would like to make a book recommendation. I recommend unleashing the idea virus by Seth Godin. It's an amazing book about how to make ideas essentially go viral, or at least how to make your message easily consumed by the masses. And the best part is it's completely free. You can just Google" — sources/S_ig_airesearcherguy_CNN1iP4nh9F.md
+> "I recommend unleashing the idea virus by Seth Godin." — sources/S_ig_airesearcherguy_CNN1iP4nh9F.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "idea virus": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a summary of the book: he names the book and its subject only, and no idea from inside it is stated.
+- Read as a paid promotion: he stresses that the book is completely free, and the download is on the author's own blog.

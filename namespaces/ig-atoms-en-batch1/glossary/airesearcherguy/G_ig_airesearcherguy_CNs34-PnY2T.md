@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [suppliers, airesearcherguy account context]
+aka: [Import Yeti]
 origin: sources/S_ig_airesearcherguy_CNs34-PnY2T.md
 ---
 
-# G_ig_airesearcherguy_CNs34-PnY2T — suppliers
+# G_ig_airesearcherguy_CNs34-PnY2T — Import Yeti
 
 ## Term
 
-"suppliers" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: find, difference, lululemon, illustrate. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Import Yeti is the tool the speaker uses to show how finding a brand's suppliers is supposed to work, this time with Lululemon. The name appears once, beside big conglomerates, plushies that went viral on TikTok, and Alibaba. His finding is that almost all of Lululemon's suppliers are big conglomerates owning many factories, so picking one factory is hard — though he did find one apparel manufacturer that might take a contract. His lesson is that the method works best on small to medium-sized brands, whose suppliers sit on Alibaba, want more business, and can be reached for a contract.
 
 ## Synonyms
 
-- suppliers
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To illustrate, you see these cute plushies that went viral on TikTok. If you look up their brand, you can find all their suppliers too. The difference is their suppliers are on Alibaba, and they want more business, so you can actually look them up, reach out to them, and secure a contract for things like plushies." — sources/S_ig_airesearcherguy_CNs34-PnY2T.md
+> "So if you look up Lululemon on Import Yeti, you see a lot of their entities show up." — sources/S_ig_airesearcherguy_CNs34-PnY2T.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "suppliers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a list of Lululemon's factories: the suppliers shown are conglomerates, and he names no single factory that works with Lululemon.
+- Read as a method that works for any brand: he says it works best on small to medium brands, and the plushie example is the case where the suppliers answer.

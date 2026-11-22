@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Steve Patterson, airesearcherguy account context]
+aka: [Amazon Brand Halo]
 origin: sources/S_ig_airesearcherguy_COtUN6oHq5O.md
 ---
 
-# G_ig_airesearcherguy_COtUN6oHq5O — Steve Patterson
+# G_ig_airesearcherguy_COtUN6oHq5O — Amazon Brand Halo
 
 ## Term
 
-"Steve Patterson" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: space, patterson, steve, ppc. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The Amazon Brand Halo is the webinar the speaker invites viewers to, with the godfather of PPC himself, Brian Johnson, and the copywriter Steve Patterson, on Thursday, May 13th at two p.m. Eastern. The phrase appears once, beside branding, the webinar, and facebook.com/canopy.management. He says viewers who liked his branding discussion will hear it again there, this time with Johnson and Patterson alongside him. The invitation is the whole source: a date, a time, two names, and a link — no branding lesson follows it.
 
 ## Synonyms
 
-- Steve Patterson
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And if you like that discussion, I'll be talking about it again, but this time on a webinar with the godfather of PPC himself, Brian Johnson, and one of the most talented copywriters and creatives I've met in this space, Steve Patterson." — sources/S_ig_airesearcherguy_COtUN6oHq5O.md
+> "Godfather of PPC, me, Steve Patterson, the Amazon Brand Halo." — sources/S_ig_airesearcherguy_COtUN6oHq5O.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Steve Patterson": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lesson about brand halos: the source announces a webinar by that name and teaches nothing about what a brand halo is.
+- Read as a scheduled event you can still join: the date given is Thursday, May 13th, and the source carries no year or replay link.

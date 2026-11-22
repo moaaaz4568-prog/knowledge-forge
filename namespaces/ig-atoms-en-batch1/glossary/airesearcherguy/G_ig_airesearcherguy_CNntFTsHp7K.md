@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [asking, airesearcherguy account context]
+aka: [foot in the door, foot in the door method]
 origin: sources/S_ig_airesearcherguy_CNntFTsHp7K.md
 ---
 
-# G_ig_airesearcherguy_CNntFTsHp7K — asking
+# G_ig_airesearcherguy_CNntFTsHp7K — foot in the door
 
 ## Term
 
-"asking" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, favor, people, better. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The foot in the door is the method the speaker names for selling anything: if somebody has already given you a favor in the past, they are significantly more likely to give you another one. The phrase appears once, beside the free trial, the happy face on a review, and a bigger ask that follows. His rule is to make a small ask first, something very easy to say yes to — a free trial signup or a click on the happy face. When the bigger ask comes, the earlier yes makes the new yes much more likely, which is why most people who guessed that one favor beats two were wrong.
 
 ## Synonyms
 
-- asking
-- airesearcherguy account context (no variant form of the term appears in this source)
+- foot in the door method (the full name he uses when introducing the method)
 
 ## Live Example
 
-> "It turns out that if somebody has already given you a favor in the past, they are significantly more likely to give you another one. So if you're ever trying to sell anything, make a small ask, something very easy to say yes to. Ask somebody to sign up for a free trial or click the happy face on a review. When you come in for a bigger ask, you are much more likely to get a yes from them." — sources/S_ig_airesearcherguy_CNntFTsHp7K.md
+> "Neuro marketing tip. This is called the foot in the door method." — sources/S_ig_airesearcherguy_CNntFTsHp7K.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "asking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a trick to extract favors: the method is a small easy ask first, and the bigger ask only works because the person already said yes once.
+- Read as a claim that one ask always beats two: the survey answer he corrects is about asking once versus twice, and the finding is about favors already given, not about asking less.

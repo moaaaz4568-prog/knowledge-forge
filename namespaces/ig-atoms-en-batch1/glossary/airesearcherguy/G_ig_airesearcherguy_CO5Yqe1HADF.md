@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [think, airesearcherguy account context]
+aka: [market research]
 origin: sources/S_ig_airesearcherguy_CO5Yqe1HADF.md
 ---
 
-# G_ig_airesearcherguy_CO5Yqe1HADF — think
+# G_ig_airesearcherguy_CO5Yqe1HADF — market research
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, people, feel, illustrates. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Market research is the subject of David Ogilvy's line the speaker quotes: people do not think what they feel, they do not say what they think, and they do not do what they say. The phrase appears once, beside the legendary advertiser, communicating with humans, and marketers. The speaker extends the point beyond research: the same gap between feeling, thinking, saying, and doing is the trouble with communicating with humans in general. His lesson is for marketers to understand that gap, not to fix it with a better survey.
 
 ## Synonyms
 
-- think
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CO5Yqe1HADF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rejection of market research: Ogilvy's trouble is that people misreport themselves, and the speaker's point is to understand the gap, not to abandon research.
+- Read as a quote the speaker endorses word for word: he says he thinks the line also illustrates a wider human problem, and the extension is his own.

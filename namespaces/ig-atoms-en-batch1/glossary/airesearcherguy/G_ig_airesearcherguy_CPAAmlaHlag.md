@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [emotion, airesearcherguy account context]
+aka: [ladder up to the emotion]
 origin: sources/S_ig_airesearcherguy_CPAAmlaHlag.md
 ---
 
-# G_ig_airesearcherguy_CPAAmlaHlag — emotion
+# G_ig_airesearcherguy_CPAAmlaHlag — ladder up to the emotion
 
 ## Term
 
-"emotion" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ladder, number, one, copywriting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ladder up to the emotion is the copywriting tip the speaker gives: do not stop at benefits, take it a step further and focus on the emotion the benefit lets the buyer feel. The phrase appears twice, beside features, benefits, and a baby carrier. His example runs the ladder: the feature is that the carrier straps the baby to the chest so the hands are free, the benefit is free hands to get stuff done while holding the baby, and the emotion is feeling accomplished because the buyer is getting stuff done while holding the baby. The lesson is the extra step itself — every benefit has an emotion above it, and the copy should climb to that rung.
 
 ## Synonyms
 
-- emotion
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But you should take it a step further and focus on the emotion that that benefit will allow you to feel. Sticking with the same example, the emotion would be feel accomplished because you're actually getting stuff done while holding onto your baby. So just take it a step further than just benefit and ladder up to the emotion." — sources/S_ig_airesearcherguy_CPAAmlaHlag.md
+> "Copywriting tip: Ladder up to the emotion." — sources/S_ig_airesearcherguy_CPAAmlaHlag.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "emotion": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a call to sell feelings instead of facts: the ladder starts at the feature and passes through the benefit, and the emotion is the top rung, not the whole message.
+- Read as a formula for any product: the example is a baby carrier, and the emotion named is feeling accomplished — a different product needs its own climb.

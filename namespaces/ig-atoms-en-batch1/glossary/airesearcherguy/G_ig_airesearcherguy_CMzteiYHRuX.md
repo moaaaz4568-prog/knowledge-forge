@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [currency symbol, airesearcherguy account context]
+aka: [currency symbol]
 origin: sources/S_ig_airesearcherguy_CMzteiYHRuX.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CMzteiYHRuX.md
 
 ## Term
 
-"currency symbol" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: simple, number, symbol, decimals. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A currency symbol is, in this source, the small reminder of money that switches the brain from emotion to logic — and most consumer purchases happen on an emotional level, so the reminder can be detrimental. The phrase appears twice, beside menu pricing, Brainfluence, and neuroscience research on how customers order. The study he cites found that menus with one simple number, no currency symbol and no decimals, prompt more purchases than menus that show the symbol. His advice to restaurant owners is direct: take the currency symbol and the decimal away and leave one small number, so there are fewer reminders of money and more emotional purchases.
 
 ## Synonyms
 
-- currency symbol
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the book Brainfluence, the author talks about neuroscience research that was done on menu pricing. Menus that have one simple number, no currency symbol, no decimals, prompt customers to make more purchases. If you run a restaurant, take the currency symbol and decimal away. Have one small number. Less reminders of money, more emotional purchases." — sources/S_ig_airesearcherguy_CMzteiYHRuX.md
+> "Menus that have one simple number, no currency symbol, no decimals, prompt customers to make more purchases." — sources/S_ig_airesearcherguy_CMzteiYHRuX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "currency symbol": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that hiding prices sells more: the study is about removing the symbol and decimals, not hiding the number, and the number itself stays visible.
+- Read as a rule for all purchases: he limits the tip to menus and restaurants, where the purchase is emotional, and the brain's switch to logic is the mechanism.

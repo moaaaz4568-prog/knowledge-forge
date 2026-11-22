@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [supplier, suppliers]
+aka: [negotiation]
 origin: sources/S_ig_airesearcherguy_CNs_l6_ncRp.md
 ---
 
-# G_ig_airesearcherguy_CNs_l6_ncRp — supplier
+# G_ig_airesearcherguy_CNs_l6_ncRp — negotiation
 
 ## Term
 
-"supplier" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: negotiation, alibaba, part, two. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Negotiation is the subject of this real-time look at an Alibaba supplier deal, and the speaker's first rule of it is to always ask for what you want. The word appears twice, beside the test order, the sample, and the bulk order. Five suppliers started the process, two eliminated themselves before the sample, one failed to send all the parts, and two remained for a test order of two hundred units. He asked for unbranded product at two dollars fifty a unit: one supplier refused to move, the other settled at two dollars eighty, which also left room to push the bulk order down from its original quote.
 
 ## Synonyms
 
-- supplier
-- suppliers (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This supplier, however, says okay, but we can't give you 2.50. We'll give you 2.80. So not only did I get a great deal on this order, but for the bulk order, this will give me a lot more room to talk them down from their original quote." — sources/S_ig_airesearcherguy_CNs_l6_ncRp.md
+> "And this brings us to the first rule of negotiation." — sources/S_ig_airesearcherguy_CNs_l6_ncRp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "supplier": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a haggling trick: the rule is to state the price you want plainly, and the result came from the ask plus the competing supplier, not from pressure alone.
+- Read as a finished deal: the two eighty price covers the test order, and the bulk order is still only room to negotiate.

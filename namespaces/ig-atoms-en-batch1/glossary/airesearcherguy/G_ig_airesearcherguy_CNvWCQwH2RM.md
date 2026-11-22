@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [China, airesearcherguy account context]
+aka: [made in China]
 origin: sources/S_ig_airesearcherguy_CNvWCQwH2RM.md
 ---
 
-# G_ig_airesearcherguy_CNvWCQwH2RM — China
+# G_ig_airesearcherguy_CNvWCQwH2RM — made in China
 
 ## Term
 
-"China" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: stuff, made, comes, products. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Made in China is the label the speaker says people misread as cheap: cheap products are made in China, but they are also made in America and in Europe, and many very quality products are made in China too. The phrase appears three times, beside cell phones, refrigerators, and manufacturing capabilities. His argument is about volume, not quality: more stuff comes out of China because more stuff is made there, so it only seems like more cheap stuff comes from China. The idea that things made in the US are higher quality and things made in China are lower quality is, he says, just not accurate.
 
 ## Synonyms
 
-- China
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I think it just seems like more cheap stuff comes out of China because more stuff comes out of China. Their infrastructure is set up so they have a lot more manufacturing capabilities than the US. But the idea that things made in the US are higher quality and things made in China are lower quality is just not accurate." — sources/S_ig_airesearcherguy_CNvWCQwH2RM.md
+> "Cheap products are made in China, are made in America, are made in Europe." — sources/S_ig_airesearcherguy_CNvWCQwH2RM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "China": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a defense of every Chinese product: his claim is that quality varies everywhere, and the perception comes from volume, not from a guarantee about any product.
+- Read as a claim that American products are worse: he denies the quality gap in both directions, and the point is that origin alone proves nothing.

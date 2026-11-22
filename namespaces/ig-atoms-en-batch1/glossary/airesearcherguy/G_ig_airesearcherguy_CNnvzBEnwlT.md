@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [make sure, airesearcherguy account context]
+aka: [confidence]
 origin: sources/S_ig_airesearcherguy_CNnvzBEnwlT.md
 ---
 
-# G_ig_airesearcherguy_CNnvzBEnwlT — make sure
+# G_ig_airesearcherguy_CNnvzBEnwlT — confidence
 
 ## Term
 
-"make sure" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: confident, sales, messages, sure. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Confidence is what the speaker says makes people believe you, more than being correct: neuroscience has shown people are more likely to believe those that are confident than even experts that are correct. The word appears once, beside multiple studies, marketing messages, and the link in his bio. The studies he cites found that people believed the most confident speakers were right even after being shown multiple times that they were in fact wrong. His advice is to be confident and unwavering in marketing and sales messages, and not to offer too many alternative possibilities, because that signals uncertainty.
 
 ## Synonyms
 
-- make sure
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So in your marketing and sales messages, make sure that you are confident. Make sure you are unwavering and don't offer too many alternative possibilities because that signals uncertainty. You want to learn how to apply that kind of stuff to Amazon? Check out the link in my bio." — sources/S_ig_airesearcherguy_CNnvzBEnwlT.md
+> "Multiple studies showed that people believed that those with the highest levels of confidence were right, even after proving to them multiple times that they were in fact wrong." — sources/S_ig_airesearcherguy_CNnvzBEnwlT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make sure": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to fake expertise: he never says to be wrong with confidence, and the finding is about how listeners judge speakers, not about what to claim.
+- Read as a claim that experts lose: the comparison is between confident speakers and correct experts, and the point is the listener's bias, not the expert's value.

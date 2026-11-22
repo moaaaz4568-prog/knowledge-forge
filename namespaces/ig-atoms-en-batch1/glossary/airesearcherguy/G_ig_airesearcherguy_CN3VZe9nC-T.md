@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [first, airesearcherguy account context]
+aka: [implicit egotism]
 origin: sources/S_ig_airesearcherguy_CN3VZe9nC-T.md
 ---
 
-# G_ig_airesearcherguy_CN3VZe9nC-T — first
+# G_ig_airesearcherguy_CN3VZe9nC-T — implicit egotism
 
 ## Term
 
-"first" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dominate, competition, let, talk. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Implicit egotism is the neuroscience finding the speaker builds his ninja marketing hack on: humans generally prefer anything connected to us, which is why we love the sound of our own name. The phrase appears once, beside testimonials, the sales funnel, and dominating the competition. His hack is to dynamically change a testimonial to come from someone who shares the prospect's first name, so the testimonial feels connected to the reader. He claims the matched name will convert more sales than the same testimonial from a stranger.
 
 ## Synonyms
 
-- first
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if you have a whole bunch of testimonials in your sales funnel, if you could dynamically change a testimonial to be from someone who shares the first name of your prospect, you will convert more sales." — sources/S_ig_airesearcherguy_CN3VZe9nC-T.md
+> "First, let's talk about implicit egotism." — sources/S_ig_airesearcherguy_CN3VZe9nC-T.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "first": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as flattery: the mechanism is not praise but connection — the testimonial works because the name matches the prospect's own.
+- Read as a guarantee of more sales: he presents it as a hack that will convert more, but the source offers no test or number behind the claim.

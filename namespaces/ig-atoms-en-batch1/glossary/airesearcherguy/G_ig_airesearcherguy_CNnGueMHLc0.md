@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [West Elm, airesearcherguy account context]
+aka: [Import Yeti]
 origin: sources/S_ig_airesearcherguy_CNnGueMHLc0.md
 ---
 
-# G_ig_airesearcherguy_CNnGueMHLc0 — West Elm
+# G_ig_airesearcherguy_CNnGueMHLc0 — Import Yeti
 
 ## Term
 
-"West Elm" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: elm, west, manufacturer, tencel. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Import Yeti is the tool the speaker uses to find who manufactures a brand's products: he looked up West Elm on it and found nothing, then traced the ownership to Williams Sonoma and found plenty there. The name appears twice, beside Al Karam Textile Mills, Sapphire Textile Mills, and the West Elm parent company. The mills he names both manufacture sheets and pillowcases from Pakistan, and the parent company also offers contract services. His help is the method itself — look the brand up, follow the ownership, and check what the tool holds.
 
 ## Synonyms
 
-- West Elm
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I found plenty on Import Yeti about Williams Sonoma, particularly Al Karam Textile Mills and Sapphire Textile Mills, both who manufacture sheets and pillowcases based in Pakistan. Also, the West Elm parent company offers contract services. Hope this helps." — sources/S_ig_airesearcherguy_CNnGueMHLc0.md
+> "So I looked up West Elm on Import Yeti and unfortunately I couldn't find anything." — sources/S_ig_airesearcherguy_CNnGueMHLc0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "West Elm": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a finding about West Elm's manufacturer: the tool held nothing on West Elm itself, and the mills he names make for Williams Sonoma.
+- Read as proof of where West Elm sheets are made: the mills are linked through the parent company, and he never claims they make West Elm's sheets.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [brand, brands]
+aka: [availability heuristic]
 origin: sources/S_ig_airesearcherguy_COBhW3HHflT.md
 ---
 
-# G_ig_airesearcherguy_COBhW3HHflT — brand
+# G_ig_airesearcherguy_COBhW3HHflT — availability heuristic
 
 ## Term
 
-"brand" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: people, loyal, bother, building. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The availability heuristic is the reason the speaker gives for building a brand on Amazon: humans tend to be swayed more by the thing most readily available in memory, so people shop with brands they are familiar with. The phrase appears once, beside brand loyalty, self-reported surveys, and being recognizable. He notes that gurus say not to bother because people are not brand loyal, and surveys back that up — but people still claim no loyalty while shopping familiar brands. His conclusion is that getting the brand in front of people more often makes it recognizable, and recognition is what wins the purchase.
 
 ## Synonyms
 
-- brand
-- brands (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is because of something called the availability heuristic. We as humans tend to be swayed more by the thing most readily available in our memory. So I say this is the reason why branding is important. The more you can get your brand in front of people, the more likely you'll end up being recognizable." — sources/S_ig_airesearcherguy_COBhW3HHflT.md
+> "This is because of something called the availability heuristic." — sources/S_ig_airesearcherguy_COBhW3HHflT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "brand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that shoppers are brand loyal: the surveys say people claim they are not loyal, and the heuristic explains familiarity, not loyalty.
+- Read as a call to advertise everywhere: his point is recognition through repeated exposure, and the mechanism is memory, not reach alone.

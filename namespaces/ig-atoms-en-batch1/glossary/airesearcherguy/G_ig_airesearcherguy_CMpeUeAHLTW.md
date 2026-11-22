@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [love, airesearcherguy account context]
+aka: [fall in love with doing]
 origin: sources/S_ig_airesearcherguy_CMpeUeAHLTW.md
 ---
 
-# G_ig_airesearcherguy_CMpeUeAHLTW — love
+# G_ig_airesearcherguy_CMpeUeAHLTW — fall in love with doing
 
 ## Term
 
-"love" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fall. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Falling in love with doing is the speaker's answer to work you do not love: you do not have to love what you do, as long as you can fall in love with doing it. The phrase appears once, and it is the whole source — a single eighteen-word sentence with no example, no product, and no story attached. His point is that the feeling belongs to the activity itself, not to the job title or the outcome. The entry records that one sentence as the complete lesson rather than stretching it into a method.
 
 ## Synonyms
 
-- love
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CMpeUeAHLTW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "love": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as permission to hate your work: he still asks you to love something — the doing — and the sentence offers no excuse for doing nothing.
+- Read as a career strategy: the line names no job, no field, and no next step, so it cannot be applied as a plan for choosing work.

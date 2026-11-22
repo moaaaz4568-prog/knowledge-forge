@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [private label, airesearcherguy account context]
+aka: [private label]
 origin: sources/S_ig_airesearcherguy_CNkmzxrHHdL.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CNkmzxrHHdL.md
 
 ## Term
 
-"private label" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: label, private, suppliers, another. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Private label is the supplier search the speaker demonstrates for the UK: Googling it finds a handful of cosmetic and food suppliers, plus two directories with whole lists of companies. The phrase appears four times, beside Europages, great.gov.uk, and the international trade search. The first directory is Europages.co.uk, under company supplier service providers private label, and the second is great.gov.uk under the international trade search. His point is only that the directories exist and hold the lists — no supplier is named, contacted, or judged.
 
 ## Synonyms
 
-- private label
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Uk, and that's under company supplier service providers private label. A whole bunch of companies right there. And great. Gov. Uk under the international trade search private label, another list of private label suppliers." — sources/S_ig_airesearcherguy_CNkmzxrHHdL.md
+> "To find private label suppliers in the UK, let's take a look." — sources/S_ig_airesearcherguy_CNkmzxrHHdL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "private label": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a vetted supplier list: he names two directories, not suppliers, and no company in either list is evaluated.
+- Read as a guide to UK private label: the source is a look at where the lists live, and the actual finding work is left to the viewer.

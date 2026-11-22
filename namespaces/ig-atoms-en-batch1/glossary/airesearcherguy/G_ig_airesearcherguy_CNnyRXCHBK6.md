@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [penny, airesearcherguy account context]
+aka: [predictive text machine]
 origin: sources/S_ig_airesearcherguy_CNnyRXCHBK6.md
 ---
 
-# G_ig_airesearcherguy_CNnyRXCHBK6 — penny
+# G_ig_airesearcherguy_CNnyRXCHBK6 — predictive text machine
 
 ## Term
 
-"penny" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: saved, penny, spent, caught. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A predictive text machine is the speaker's image for how the brain listens: as you listen to somebody speak, you are actually predicting what they are going to say next. The phrase appears once, beside a penny saved, a common phrase, and the brain snapping into focus. His tactic is to use unexpected or misplaced words in copywriting, so the brain's prediction breaks and attention snaps back. He demonstrates it by starting a familiar saying — a penny saved is a penny earned — and swapping the ending for a penny not spent.
 
 ## Synonyms
 
-- penny
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the reason is because the brain works like a predictive text machine. As you're listening to somebody speak, you're actually predicting what they're going to say next. So when they say something unexpected, it grabs your attention. And that's why when I say." — sources/S_ig_airesearcherguy_CNnyRXCHBK6.md
+> "And the reason is because the brain works like a predictive text machine." — sources/S_ig_airesearcherguy_CNnyRXCHBK6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "penny": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim about phones: the machine here is the brain's own prediction while listening, not a keyboard feature.
+- Read as a call to confuse readers: the unexpected word snaps the brain into focus, and the tactic fails if the listener cannot follow what comes next.

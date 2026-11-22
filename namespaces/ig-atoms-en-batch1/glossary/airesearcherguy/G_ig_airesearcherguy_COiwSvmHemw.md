@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [private label business]
 origin: sources/S_ig_airesearcherguy_COiwSvmHemw.md
 ---
 
-# G_ig_airesearcherguy_COiwSvmHemw — Amazon
+# G_ig_airesearcherguy_COiwSvmHemw — private label business
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: million, added, fba, opportunity. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A private label business is what the speaker invites viewers to learn about, after declaring the Amazon FBA opportunity dead and then arguing the opposite with numbers. The phrase appears once, beside ten million sellers, fifty million new Prime members, and the link in his bio. His numbers: almost ten million sellers with one point nine million active, about a million new sellers a year, and two hundred thousand new active sellers a year against seventeen million new Prime members a year. His conclusion is that more demand is added than sellers can keep up with, so the opportunity he just called dead is still open for beginners and current sellers alike.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "However, Amazon added 50 million new Prime members since April 2018, which is a rate of 17 million per year, which means there's more demand added on Amazon than people who can keep up with it every year. You wanna learn more about how to start an Amazon private label business, or even if you already sell on Amazon, check out the link in my bio. Got some insights that might be helpful." — sources/S_ig_airesearcherguy_COiwSvmHemw.md
+> "You wanna learn more about how to start an Amazon private label business, or even if you already sell on Amazon, check out the link in my bio." — sources/S_ig_airesearcherguy_COiwSvmHemw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof the FBA opportunity is dead: his own numbers show demand growing faster than active sellers, and the headline contradicts the argument that follows it.
+- Read as a count of sellers to compete with: the ten million includes inactive sellers, and the active figure is one point nine million, not ten.

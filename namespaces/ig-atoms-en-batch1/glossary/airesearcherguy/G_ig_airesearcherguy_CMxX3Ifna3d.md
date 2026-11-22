@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [really, airesearcherguy account context]
+aka: [advanced skills]
 origin: sources/S_ig_airesearcherguy_CMxX3Ifna3d.md
 ---
 
-# G_ig_airesearcherguy_CMxX3Ifna3d — really
+# G_ig_airesearcherguy_CMxX3Ifna3d — advanced skills
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: good, really, fast, amazon. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Advanced skills are the missing piece the speaker identifies after a pattern repeats across hip hop dancing, Amazon selling, and social media: he masters the beginner basics really quickly, then hits a wall while his peers keep growing and surpass him. The phrase appears once, beside beginner basics, muscle memory, and the next level. In dancing his muscle memory kept jumping into old steps, on Amazon his business stagnated, and on social media he stalled near fifty thousand TikTok followers while his peers passed him. His conclusion is that fast early mastery is not the same as attaining the advanced skills needed to jump to the next level, and he ends by saying he needs to figure out how to fix that.
 
 ## Synonyms
 
-- really
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But now I've hit a wall and all my peers have kept growing and now they've all surpassed me. So I learned that clearly when I jump into something, I master the beginner basics really quickly. But for some reason, I'm not attaining the advanced skills necessary to jump to the next level. So I need to figure out how to fix that." — sources/S_ig_airesearcherguy_CMxX3Ifna3d.md
+> "But for some reason, I'm not attaining the advanced skills necessary to jump to the next level." — sources/S_ig_airesearcherguy_CMxX3Ifna3d.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint that his peers are better: the pattern he names is his own fast start and slow finish, and the peers only show the wall he keeps hitting.
+- Read as a claim that beginners cannot improve: he got really good really fast three times, and the missing part is specifically the advanced skills, not talent or effort at the start.

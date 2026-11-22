@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch1)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,452 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,450 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1554,56 +1554,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMSq-5MHj3v.md | aggressive positivity | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMXaIvpnw1l.md | due diligence | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMYVnz4nf1v.md | copy | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMdFAuYHqCI.md | said | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMdVidYn8Vz.md | blood | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMhvwLHnlil.md | manufactured | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMdFAuYHqCI.md | starving crowd | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMdVidYn8Vz.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMhvwLHnlil.md | inspection service | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMiF_SbH23G.md | mental funk | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMnELpmnTCh.md | add | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMpeUeAHLTW.md | love | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMxX3Ifna3d.md | really | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMz-MZInha1.md | write | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMnELpmnTCh.md | add to cart | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMpeUeAHLTW.md | fall in love with doing | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMxX3Ifna3d.md | advanced skills | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMz-MZInha1.md | avatar | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMzteiYHRuX.md | currency symbol | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CN-7BetH-l7.md | cognitive | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN3N42gn2el.md | self | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN3QTKLHjbA.md | marketing | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN3VZe9nC-T.md | first | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN53xv5nWc4.md | lead magnet | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN5TFpYHxO4.md | supplements | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN5l52PH4cz.md | people | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN5v742HfoV.md | ask | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CN5y48inItZ.md | picture themselves | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNA14iRHUHw.md | bracelets | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNFxGz2HbG7.md | architects | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNGJvA6nCtc.md | Snapchat | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNGQv9sneiy.md | aching | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNISydAnhFq.md | advertising | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNIb9ftnNHn.md | emotional connection | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN3N42gn2el.md | want self | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN3QTKLHjbA.md | expectation | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN3VZe9nC-T.md | implicit egotism | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN53xv5nWc4.md | reverse reciprocity | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN5TFpYHxO4.md | contract manufacturer | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN5l52PH4cz.md | standard operating procedure | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN5v742HfoV.md | survey | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CN5y48inItZ.md | ownership prompts | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNA14iRHUHw.md | side hustle | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNFxGz2HbG7.md | small business architects | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNGJvA6nCtc.md | Snapchat ads | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNGQv9sneiy.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNISydAnhFq.md | bid multiplier | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNIb9ftnNHn.md | product inserts | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CNN1iP4nh9F.md | idea virus | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CNkmzxrHHdL.md | private label | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNnGueMHLc0.md | West Elm | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNntFTsHp7K.md | asking | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNnvzBEnwlT.md | make sure | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNnyRXCHBK6.md | penny | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNs34-PnY2T.md | suppliers | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNs_l6_ncRp.md | supplier | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNtCq60nm_E.md | Hydro Flask | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNnGueMHLc0.md | Import Yeti | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNntFTsHp7K.md | foot in the door | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNnvzBEnwlT.md | confidence | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNnyRXCHBK6.md | predictive text machine | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNs34-PnY2T.md | Import Yeti | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNs_l6_ncRp.md | negotiation | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNtCq60nm_E.md | Import Yeti | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CNvFwOinbEE.md | bad profits | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CNvWCQwH2RM.md | China | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CO5Yqe1HADF.md | think | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CNvWCQwH2RM.md | made in China | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CO5Yqe1HADF.md | market research | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_COBaSTDnuQ3.md | cognitive dissonance | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COBcMeAHmxG.md | product | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COBcMeAHmxG.md | raving fans | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_COBeAuXHxRd.md | hole punch | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COBhW3HHflT.md | brand | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COGdTtaH6c8.md | wife | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CObbbrVH6M1.md | potential customer | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COdbhginnCr.md | great things | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COgC8Z_Hwni.md | attitudes | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COiwSvmHemw.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COlF78qHBd_.md | identified | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COtUN6oHq5O.md | Steve Patterson | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COvhYFnnXkp.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_COvpYhNnrqT.md | TikTok | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPAAmlaHlag.md | emotion | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COBhW3HHflT.md | availability heuristic | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COGdTtaH6c8.md | happy memory | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CObbbrVH6M1.md | leaky hose | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COdbhginnCr.md | subject matter expert | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COgC8Z_Hwni.md | self-perception theory | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COiwSvmHemw.md | private label business | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COlF78qHBd_.md | find a need and fulfill it | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COtUN6oHq5O.md | Amazon Brand Halo | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COvhYFnnXkp.md | review manipulation | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_COvpYhNnrqT.md | Gen Zers | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPAAmlaHlag.md | ladder up to the emotion | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CPAD1FZHvOY.md | repetition | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CPAJCM_HUfb.md | uncertainty | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CPJl0gJHwHN.md | chant | 1 |

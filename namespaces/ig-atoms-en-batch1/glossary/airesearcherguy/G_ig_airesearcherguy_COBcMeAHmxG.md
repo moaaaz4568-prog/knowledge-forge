@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [product, airesearcherguy account context]
+aka: [raving fans]
 origin: sources/S_ig_airesearcherguy_COBcMeAHmxG.md
 ---
 
-# G_ig_airesearcherguy_COBcMeAHmxG — product
+# G_ig_airesearcherguy_COBcMeAHmxG — raving fans
 
 ## Term
 
-"product" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: purchase, right, now, share. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Raving fans are the customers the speaker says a share-for-discount offer can build: give buyers two options, purchase now or earn a twenty percent discount by sharing the product with a friend. The phrase appears once, beside the chatbot funnel, the sales funnel, and the checkout page. His condition is that the friend has to actually click the link before the buyer gets credit, so the share is a real referral rather than a button press. He presents it as an opportunity to find, not a promise — try it in the funnel and see if the fans appear.
 
 ## Synonyms
 
-- product
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And if you can make it to where the friend has to actually click the link before they get credit, I think you might find that you have the opportunity to build some serious raving fans." — sources/S_ig_airesearcherguy_COBcMeAHmxG.md
+> "I think you might find that you have the opportunity to build some serious raving fans." — sources/S_ig_airesearcherguy_COBcMeAHmxG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "product": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a discount giveaway: the discount is earned by a share that must be clicked, and the goal is fans who spread the product, not cheap sales.
+- Read as a proven fan-building method: he says you might find the opportunity, and the source reports no test of the offer.

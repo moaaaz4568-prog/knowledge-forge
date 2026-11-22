@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [wife, airesearcherguy account context]
+aka: [happy memory]
 origin: sources/S_ig_airesearcherguy_COGdTtaH6c8.md
 ---
 
-# G_ig_airesearcherguy_COGdTtaH6c8 — wife
+# G_ig_airesearcherguy_COGdTtaH6c8 — happy memory
 
 ## Term
 
-"wife" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, restaurant, job, year. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A happy memory is what the speaker shares from his early Amazon days: after two jobs, a wife working, and a one-year-old watched for free by his wife's best friend, his first month of Amazon and service work brought in double what both their jobs paid. The phrase appears once, beside two jobs, a restaurant on Sundays, and putting in a notice. He came home that day and told his wife she could put in her notice if she did not want to work anymore, while she kept asking whether they could afford it. He ends the story where he began it — that was a good memory — with no lesson attached beyond the telling.
 
 ## Synonyms
 
-- wife
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We had a one year old who my wife's best friend watched for free every day because she's an amazing human being." — sources/S_ig_airesearcherguy_COGdTtaH6c8.md
-> "So after I started all of that, after the first month, I had brought in double the amount of money that me and my wife both brought in through our jobs." — sources/S_ig_airesearcherguy_COGdTtaH6c8.md
+> "Once upon a time, not too long ago actually, I had two jobs, a day job and I worked Sundays at a restaurant." — sources/S_ig_airesearcherguy_COGdTtaH6c8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "wife": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a how-to for quitting your job: the story reports one month's income doubling the couple's jobs, and no method or timeline is given for repeating it.
+- Read as a claim that Amazon made him rich: the month combined Amazon with service work and handed-off clients, and the memory is about the moment, not the money.

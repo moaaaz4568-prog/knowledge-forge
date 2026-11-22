@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [identified, airesearcherguy account context]
+aka: [find a need and fulfill it]
 origin: sources/S_ig_airesearcherguy_COlF78qHBd_.md
 ---
 
-# G_ig_airesearcherguy_COlF78qHBd_ — identified
+# G_ig_airesearcherguy_COlF78qHBd_ — find a need and fulfill it
 
 ## Term
 
-No content word repeats often enough in this short source (26 words) to form a repeated term, so this entry documents the source's central term "identified" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Find a need and fulfill it is the typical advice the speaker quotes for achieving business success — and then undercuts it: all human needs have been identified already. The phrase appears once, beside Maslow, business success, and a smart remark about Maslow himself. His point is that the advice cannot be followed literally, because there is no unidentified need left to find. The entry records the twenty-six-word fragment as it stands, a jab at the advice rather than a method for using it.
 
 ## Synonyms
 
-- identified
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Find a need and fulfill it—that's the typical advice to achieve business success. All human needs have been identified already. Maslow was a smart a mether." — sources/S_ig_airesearcherguy_COlF78qHBd_.md
+> "Find a need and fulfill it—that's the typical advice to achieve business success." — sources/S_ig_airesearcherguy_COlF78qHBd_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "identified": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as business advice to follow: the speaker quotes the advice only to point out that every human need is already identified, so the advice has nowhere to go.
+- Read as a lesson about Maslow: Maslow is only the punchline of the fragment, and no theory of needs is stated.

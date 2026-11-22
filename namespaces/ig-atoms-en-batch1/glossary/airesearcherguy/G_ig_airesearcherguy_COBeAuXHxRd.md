@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [hole punch, airesearcherguy account context]
+aka: [hole punch, hole punches]
 origin: sources/S_ig_airesearcherguy_COBeAuXHxRd.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_COBeAuXHxRd.md
 
 ## Term
 
-"hole punch" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: punch, hole, studies, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A hole punch is the unit of the reward card in the behavioral studies the speaker cites: one group got a card with ten empty punches, another got twelve with the first two already punched, and the pre-punched group made more purchases. The phrase appears four times, beside mints, tips, and the reward system he proposes. The second study found that waiters who walked away and came back to give extra mints earned significantly higher tips than waiters who gave mints once. His marketing idea combines both: give customers a digital punch card with the first hole punch already in it, then later add an extra punch as a thank you for being a customer.
 
 ## Synonyms
 
-- hole punch
-- airesearcherguy account context (no variant form of the term appears in this source)
+- hole punches (the plural form he uses for the ten empty punches on the card)
 
 ## Live Example
 
-> "Give them a digital punch card, maybe with the first hole punch already in it. Then sometime later, turn around and send them a message saying you've been randomly selected to have an extra hole punch just to say thank you for being a customer. I bet those customers end up coming back for more." — sources/S_ig_airesearcherguy_COBeAuXHxRd.md
+> "Give them a digital punch card, maybe with the first hole punch already in it." — sources/S_ig_airesearcherguy_COBeAuXHxRd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hole punch": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a loyalty program that is already proven: the studies are about punch cards and mints, and his digital version is an idea he bets will work, not a tested result.
+- Read as a trick to hand out free products: the free eleventh purchase and the extra punch are the reward, and the point is the progress customers can see, not the freebie alone.

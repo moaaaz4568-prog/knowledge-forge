@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [write, airesearcherguy account context]
+aka: [avatar]
 origin: sources/S_ig_airesearcherguy_CMz-MZInha1.md
 ---
 
-# G_ig_airesearcherguy_CMz-MZInha1 — write
+# G_ig_airesearcherguy_CMz-MZInha1 — avatar
 
 ## Term
 
-"write" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: best, articles, example, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An avatar is the specific reader the speaker writes for: he creates an avatar and then goes deeper than anybody else in answering what a change means for that avatar. The word appears three times, beside industry standards, the ideal seller, and the best content in a niche. His example is Amazon terms of service changes, where most writers cover the surface or the general selling audience while he asks what it means for the ideal seller he wants reading — revenue changes, business operations, five-year implications, opportunities, and challenges. The payoff he claims is recognition: everybody who identifies with that avatar thinks the article was basically written for them.
 
 ## Synonyms
 
-- write
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What it means in terms of how they run their business? What the implications are five years from now? What are the opportunities? What are the challenges? Then everybody that identifies with that avatar who reads the article thinks that it was basically written for them, and that's how you write the best content in your niche." — sources/S_ig_airesearcherguy_CMz-MZInha1.md
+> "I create an avatar, and then I go deeper than anybody else in answering the question, what does that mean for that avatar?" — sources/S_ig_airesearcherguy_CMz-MZInha1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "write": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a buyer persona template: he uses the avatar to decide which questions to answer in depth, not as a demographic profile to fill in.
+- Read as a trick for sounding personal: the depth is in the follow-up questions about revenue and operations, and a shallow article with an avatar label would not do it.

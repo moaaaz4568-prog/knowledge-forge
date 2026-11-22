@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [architects, airesearcherguy account context]
+aka: [small business architects]
 origin: sources/S_ig_airesearcherguy_CNFxGz2HbG7.md
 ---
 
-# G_ig_airesearcherguy_CNFxGz2HbG7 — architects
+# G_ig_airesearcherguy_CNFxGz2HbG7 — small business architects
 
 ## Term
 
-"architects" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: small, business, architects, metaphorically. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Small business architects are what the speaker calls people like him, who steal nighttime hours to grind at their dreams after the children have been read to and time has been set aside for mental health. The phrase appears once, beside hustler, dreamers, and crafting futures brick by brick. He rejects the word hustler — he hustles, he says, but not at the expense of everything else — and replaces it with a builder's image: dreamers who do more than dream, who take action and craft their futures. The welcome he offers is to anyone the description fits, as a club of people building small businesses piece by piece.
 
 ## Synonyms
 
-- architects
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "See, we're dreamers, but we do more than just dream. We take action. We craft our futures brick by brick. We're not really hustlers so much as we're architects. Small business architects, metaphorically speaking. So if that describes you, welcome to the club." — sources/S_ig_airesearcherguy_CNFxGz2HbG7.md
+> "Small business architects, metaphorically speaking." — sources/S_ig_airesearcherguy_CNFxGz2HbG7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "architects": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a job title: the phrase is a metaphor for how he and people like him build, not a profession anyone holds.
+- Read as a rejection of hard work: he says he hustles and grinds at night, and the point is that the work does not cost everything else.
