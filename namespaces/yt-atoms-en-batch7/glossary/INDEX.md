@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch7)
 
-Glossary of YouTube batch 7 (English sources): one G_ entry per atom T_ file — 50 glossary files, 97 live literal examples so far (target 727 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of YouTube batch 7 (English sources): one G_ entry per atom T_ file — 100 glossary files, 195 live literal examples so far (target 727 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -54,3 +54,53 @@ Glossary of YouTube batch 7 (English sources): one G_ entry per atom T_ file —
 | glossary/misc-dl/G_yt_tSMSyQAtDXE_en.md | lifestyle business | 2 |
 | glossary/misc-dl/G_yt_tST9WJVwleE_en.md | cold email | 2 |
 | glossary/misc-dl/G_yt_tU7Xlc48SrM_en.md | personal brand | 2 |
+| glossary/misc-dl/G_yt_tBE-ke9_51o_en.md | logo type | 2 |
+| glossary/misc-dl/G_yt_tVMHEr2OtY8_en.md | hyper agent | 2 |
+| glossary/misc-dl/G_yt_tVd1n2og4T4_en.md | flow state | 2 |
+| glossary/misc-dl/G_yt_tVzWz-_zwjM_en.md | retainer | 2 |
+| glossary/misc-dl/G_yt_tVztCZmwGwE_en.md | color theory | 2 |
+| glossary/misc-dl/G_yt_tWuVKfgl7fI_en.md | case studies | 2 |
+| glossary/misc-dl/G_yt_tYu7HdJQwnk_en.md | payoff | 2 |
+| glossary/misc-dl/G_yt_tYyvpMQIiDA_en.md | content marketing | 2 |
+| glossary/misc-dl/G_yt_tZpyGeXo9qY_en.md | compensatory drive | 2 |
+| glossary/misc-dl/G_yt_tZrEG2l1aAc_en.md | client flow | 2 |
+| glossary/misc-dl/G_yt_t_cHR2tT_Fc_en.md | cliche | 2 |
+| glossary/misc-dl/G_yt_ta9kd7mlmqQ_en.md | mindset shift | 2 |
+| glossary/misc-dl/G_yt_tb0xPS8I_VI_en.md | micro niche | 2 |
+| glossary/misc-dl/G_yt_tbnJa0mucCY_en.md | coaching program | 2 |
+| glossary/misc-dl/G_yt_tcPOPXuqAUU_en.md | show rate | 2 |
+| glossary/misc-dl/G_yt_tcxncBI64VI_en.md | conviction | 2 |
+| glossary/misc-dl/G_yt_td_-2d8M5bM_en.md | accidental agency owner | 1 |
+| glossary/misc-dl/G_yt_tdlazTvFQws_en.md | back end | 2 |
+| glossary/misc-dl/G_yt_teuIlgaUXhU_en.md | flying blind | 2 |
+| glossary/misc-dl/G_yt_teux3CIp5bU_en.md | gross margin | 2 |
+| glossary/misc-dl/G_yt_tf_H7B-reT8_en.md | positioning | 2 |
+| glossary/misc-dl/G_yt_tfdNcXO5MWw_en.md | italian loophole | 2 |
+| glossary/misc-dl/G_yt_tgDjT6G5VZo_en.md | brand strategy | 2 |
+| glossary/misc-dl/G_yt_tgemxESv8bQ_en.md | white label | 2 |
+| glossary/misc-dl/G_yt_tghoTHS1RlY_en.md | data centers | 2 |
+| glossary/misc-dl/G_yt_tgsIx69XN3k_en.md | two questions | 2 |
+| glossary/misc-dl/G_yt_th0nnZQMxvc_en.md | bank statement | 2 |
+| glossary/misc-dl/G_yt_tiClTJoNyNE_en.md | rectangle tool | 2 |
+| glossary/misc-dl/G_yt_tjjKO1QkIG4_en.md | use case | 2 |
+| glossary/misc-dl/G_yt_tksMFlVMKas_en.md | organic e-commerce | 2 |
+| glossary/misc-dl/G_yt_tl7eL4RdL9c_en.md | cold email | 2 |
+| glossary/misc-dl/G_yt_tlUf1Rai_oM_en.md | growth creator | 2 |
+| glossary/misc-dl/G_yt_tmG8I8IPprE_en.md | stylescape | 2 |
+| glossary/misc-dl/G_yt_tnCt9O3CJEo_en.md | bite-sized agency briefs | 2 |
+| glossary/misc-dl/G_yt_toAUg0VRhng_en.md | life expectancy | 2 |
+| glossary/misc-dl/G_yt_toQ_UhNw8pY_en.md | dirt cheap | 2 |
+| glossary/misc-dl/G_yt_tpEYPp_NvO4_en.md | info product | 2 |
+| glossary/misc-dl/G_yt_tqlsMUmsQ54_en.md | identity | 2 |
+| glossary/misc-dl/G_yt_trP-r8BAxr4_en.md | hook builder | 1 |
+| glossary/misc-dl/G_yt_tre5Wk9Q0jA_en.md | visual identity | 2 |
+| glossary/misc-dl/G_yt_trzeMg6vwFQ_en.md | fuel source | 2 |
+| glossary/misc-dl/G_yt_tsGdLrdaJ2E_en.md | conversation workflow | 2 |
+| glossary/misc-dl/G_yt_tsi84VM23F0_en.md | cold outreach | 2 |
+| glossary/misc-dl/G_yt_tslsqTcQj8s_en.md | visual language | 2 |
+| glossary/misc-dl/G_yt_ttDaQwL5QwA_en.md | lead magic | 2 |
+| glossary/misc-dl/G_yt_ttZ1eUFqrvQ_en.md | blend tool | 2 |
+| glossary/misc-dl/G_yt_tvYDYtQhreo_en.md | word mark | 2 |
+| glossary/misc-dl/G_yt_tw1VBrz_JIo_en.md | mosaic balance | 2 |
+| glossary/misc-dl/G_yt_twmqTntr0Xs_en.md | grid tool | 2 |
+| glossary/misc-dl/G_yt_twwbFd9LcsE_en.md | retouching | 2 |
