@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [need, theaiclubhouse account context]
+aka: ["family patriarch"]
 origin: sources/S_ig_theaiclubhouse_DUjt736ERQz.md
 ---
 
-# G_ig_theaiclubhouse_DUjt736ERQz — need
+# G_ig_theaiclubhouse_DUjt736ERQz — family patriarch
 
 ## Term
 
-"need" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fucking, harder, guess, clients. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The family patriarch is the provider Sam says a man must become: it appears 1 time, beside emergency, provide anything, and seven-figure client. The clip frames the role as a test of authority: could you hand someone money in an emergency, the bread, without it hurting you financially. That standard is set against 10 to 20K a month, which he says does not cover private school, serious investments in real estate, or buying out companies. The concrete case is the emergency itself: someone asks you for money, and the patriarch can give it on the spot.
 
 ## Synonyms
 
-- need
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's not gonna cover serious investments in real estate, in other companies, in buying out companies." — sources/S_ig_theaiclubhouse_DUjt736ERQz.md
-> "Are you going to be the family patriarch that's able to provide anything? Case an emergency comes up, or even fucking emergency, what if someone just asks you for money?" — sources/S_ig_theaiclubhouse_DUjt736ERQz.md
+> "Are you going to be the family patriarch that's able to provide anything?" — sources/S_ig_theaiclubhouse_DUjt736ERQz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "need": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a job title or business role: the patriarch here is a family provider, not a position inside a company.
+- Read as a call to earn more for luxuries: the clip explicitly drops the supercars and measures the role by covering family needs and emergencies, not by display.

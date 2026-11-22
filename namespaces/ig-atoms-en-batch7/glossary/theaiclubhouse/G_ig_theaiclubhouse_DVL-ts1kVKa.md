@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [personal brand, theaiclubhouse account context]
+aka: ["inbound"]
 origin: sources/S_ig_theaiclubhouse_DVL-ts1kVKa.md
 ---
 
-# G_ig_theaiclubhouse_DVL-ts1kVKa — personal brand
+# G_ig_theaiclubhouse_DVL-ts1kVKa — inbound
 
 ## Term
 
-"personal brand" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: brand, personal, build, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Inbound is the side Sam says he specializes in: it appears 3 times, beside outbound, personal brand, and the girl-chooses-the-guy comparison. The clip explains it with a dating comparison: when a guy approaches a girl who is used to it, the girl chooses the guy she goes after, which would technically count as inbound. That choice is then contrasted with outbound systems, which he says fail because gurus brainwashed kids into spamming emails with fake promises and fake testimonials. The verdict is conditional: inbound is winning if you have the personal brand, and if you do not have one, you should build one.
 
 ## Synonyms
 
-- personal brand
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's pretty similar to when a guy goes up to a girl and she's used to it. The girl will choose the guy she goes after, which would technically count as inbound, which is what I specialize in." — sources/S_ig_theaiclubhouse_DVL-ts1kVKa.md
+> "The girl will choose the guy she goes after, which would technically count as inbound, which is what I specialize in." — sources/S_ig_theaiclubhouse_DVL-ts1kVKa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "personal brand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on outbound: the clip says inbound is winning now and that he specializes in it, not that outbound can never work.
+- Read as a dating claim: the girl comparison is an analogy for how buyers choose, not a statement about dating itself.

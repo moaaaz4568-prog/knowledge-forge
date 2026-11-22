@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [Venture Studio, theaiclubhouse account context]
+aka: ["AI Venture Studio"]
 origin: sources/S_ig_theaiclubhouse_DWkFKMFEaGG.md
 ---
 
-# G_ig_theaiclubhouse_DWkFKMFEaGG — Venture Studio
+# G_ig_theaiclubhouse_DWkFKMFEaGG — AI Venture Studio
 
 ## Term
 
-"Venture Studio" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: full, studio, guide, goes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The AI Venture Studio is the subject of the free guide Sam offers instead of a coaching pitch: it appears 2 times, beside 386 deals, 50 builds, and the 40-minute video. He opens with over 386 deals in AI as proof he is not larping, then offers the full guide with the essential resources to set up the studio. The guide also includes over 50 builds in industry that he and his team contributed, plus a 40-minute video on funnels, setup, and client acquisition strategies. The concrete ask is one word in the comments: comment studio below and he sends it all.
 
 ## Synonyms
 
-- Venture Studio
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Plus, I give you over 50 builds in industry that I've built and my team has contributed on. But it's not done." — sources/S_ig_theaiclubhouse_DWkFKMFEaGG.md
+> "I'm gonna share my full AI Venture Studio guide, which goes through absolutely everything you need to know, including the essential resources to set up your AI Venture Studio." — sources/S_ig_theaiclubhouse_DWkFKMFEaGG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Venture Studio": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a paid program: the guide, the 50 builds, and the video are all offered for free here, explicitly instead of a coaching program pitch.
+- Read as a promise of 386 deals for the viewer: the 386 deals are Sam's own history, not a result the guide guarantees to anyone who reads it.

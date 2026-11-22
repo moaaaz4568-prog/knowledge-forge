@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [quit, theaiclubhouse account context]
+aka: ["pay stub"]
 origin: sources/S_ig_theaiclubhouse_DdoXsu1EnjU.md
 ---
 
-# G_ig_theaiclubhouse_DdoXsu1EnjU — quit
+# G_ig_theaiclubhouse_DdoXsu1EnjU — pay stub
 
 ## Term
 
-"quit" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: job, grand, right, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The pay stub is the proof Sam's skit demands for a 73-grand month: it appears 1 time, beside 73 last month, quit my job, and masterclass. The scene is a staged chat in a building: a neighbor who builds AI for companies says he made 73 last month, and Sam answers that he will quit his job and work for the neighbor if the pay stub shows 73 grand on it. The joke is the instant quit: Sam says he quits on the spot, and the neighbor tells him he only needs to show up Sunday to the free live masterclass. The concrete point is the proof standard itself: a claimed month counts only when the pay stub shows it.
 
 ## Synonyms
 
-- quit
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "73 last month. Get out of here. You show me a pay stub with 73 grand on it, I quit my job right now and I work for you." — sources/S_ig_theaiclubhouse_DdoXsu1EnjU.md
+> "You show me a pay stub with 73 grand on it, I quit my job right now and I work for you." — sources/S_ig_theaiclubhouse_DdoXsu1EnjU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "quit": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real conversation: the exchange is a staged skit to promote the Sunday masterclass, not a recorded chat with a real neighbor.
+- Read as proof of 73 grand a month: the pay stub is demanded precisely because the claim is unverified, and the clip never shows one.

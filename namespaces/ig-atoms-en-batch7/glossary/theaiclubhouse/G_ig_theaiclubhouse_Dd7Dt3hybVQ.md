@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [OpenCloud, theaiclubhouse account context]
+aka: ["OpenCloud"]
 origin: sources/S_ig_theaiclubhouse_Dd7Dt3hybVQ.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_theaiclubhouse_Dd7Dt3hybVQ.md
 
 ## Term
 
-"OpenCloud" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: offer, hell, happened, million. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+OpenCloud is the trend Sam says vanished from his feed: it appears 3 times, beside a million guys, in-person business installations, and OpenCloud offer. The clip asks what happened to it after a million guys spammed his feed saying they were doing in-person business installations, with videos of people doing it that he knew would not work. Now he has not heard it mentioned in five months, six months, and the guys in his space literally converted their offer into an OpenCloud offer. The concrete questions are the whole clip: where are their clients, what happened, and are the clients still using it.
 
 ## Synonyms
 
-- OpenCloud
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But now I haven't heard OpenCloud mentioned in like five months, six months. There was guys in my space that literally converted their offer into an OpenCloud offer." — sources/S_ig_theaiclubhouse_Dd7Dt3hybVQ.md
+> "But now I haven't heard OpenCloud mentioned in like five months, six months." — sources/S_ig_theaiclubhouse_Dd7Dt3hybVQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "OpenCloud": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof OpenCloud failed: the clip reports only that Sam stopped hearing about it, and asks for answers, rather than showing it collapsed.
+- Read as a claim about a million people: a million guys is Sam's exaggeration for a crowded feed, not a counted number of sellers.

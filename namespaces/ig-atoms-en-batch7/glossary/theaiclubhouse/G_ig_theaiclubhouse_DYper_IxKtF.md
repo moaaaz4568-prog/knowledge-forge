@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [Lovable, theaiclubhouse account context]
+aka: ["Lovable"]
 origin: sources/S_ig_theaiclubhouse_DYper_IxKtF.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_theaiclubhouse_DYper_IxKtF.md
 
 ## Term
 
-"Lovable" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: people, need, stop, using. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lovable is the tool Sam tells viewers to stop using immediately: it appears 3 times, beside Claude Pro, Claude Code, and the usage window. The charge is specific: it does not remember changes, and new changes override past changes, and it is two and a half times more expensive than Claude Pro, which gives access to Claude Code to build everything. The clip also calls the web design shit and the usage window terrible, with limits hit after an hour of work. The concrete case is his client projects: they start on Lovable thinking it will be simple, then hit the same failures, which is why he says to stay away by all means.
 
 ## Synonyms
 
-- Lovable
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It doesn't remember changes, and then if you make new changes, it overrides past changes. And it's two and a half times more expensive than Claude Pro, which you get access to Claude Code and you can build everything on that." — sources/S_ig_theaiclubhouse_DYper_IxKtF.md
+> "I don't know who needs to hear this, but you need to stop using Lovable immediately." — sources/S_ig_theaiclubhouse_DYper_IxKtF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Lovable": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a measured review: the clip is an angry rant that calls Lovable the worst tool, not a comparison with tested benchmarks.
+- Read as a claim nobody earns from Lovable: the clip says the only guys making money off it are people teaching it, which is his accusation, not a measured fact.

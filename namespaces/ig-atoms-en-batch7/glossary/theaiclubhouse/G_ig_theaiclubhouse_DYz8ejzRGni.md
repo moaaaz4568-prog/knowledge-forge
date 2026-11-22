@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [ChatGPT, theaiclubhouse account context]
+aka: ["defensible businesses"]
 origin: sources/S_ig_theaiclubhouse_DYz8ejzRGni.md
 ---
 
-# G_ig_theaiclubhouse_DYz8ejzRGni — ChatGPT
+# G_ig_theaiclubhouse_DYz8ejzRGni — defensible businesses
 
 ## Term
 
-"ChatGPT" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: solving, problems, chatgpt, big. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Defensible businesses are what Sam's students build in the mid-market gap: it appears 1 time, beside ChatGPT, GoHighLevel, and problems ChatGPT wouldn't even touch. The clip defines defensible by contrast: not competing with ChatGPT, but solving problems ChatGPT would not touch, for companies with real budgets and expensive problems. The examples are the locksmith company spending 200K on dispatchers and the financing firm processing 300 transactions a month, both glad to pay for custom work. The concrete trade is the locksmith deal: 8K a month to save 100K in a year, which a ChatGPT wrapper cannot deliver.
 
 ## Synonyms
 
-- ChatGPT
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_theaiclubhouse_DYz8ejzRGni.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ChatGPT": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise of protection: defensible here means hard for ChatGPT to copy, not legally protected or guaranteed against competition.
+- Read as a claim about all students: the businesses are what his students build in this gap, and the clip gives two examples rather than a survey of all of them.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [client, theaiclubhouse account context]
+aka: ["wheelhouse"]
 origin: sources/S_ig_theaiclubhouse_Dc6Zl1cxAyX.md
 ---
 
-# G_ig_theaiclubhouse_Dc6Zl1cxAyX — client
+# G_ig_theaiclubhouse_Dc6Zl1cxAyX — wheelhouse
 
 ## Term
 
-"client" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, guys, choosing, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The wheelhouse is the set of industries Sam will stay inside: it appears 1 time, beside healthcare, finance, and private equity. Choosing a client is compared to choosing a wife: if you are not willing to stay long term, you inherit all the negative with the positive, and the same holds for a client. His wheelhouse is healthcare, finance, and private equity, and a German dating website is the example of work outside it that will never be the biggest thing for him. The concrete test is the venture outside: it might be unique and empty of competitors, but there is probably a reason behind that.
 
 ## Synonyms
 
-- client
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's never going to be the biggest thing for me, right? For me, like I want to be more in healthcare, finance, private equity." — sources/S_ig_theaiclubhouse_Dc6Zl1cxAyX.md
+> "That's my wheelhouse. So if I decide to venture out of that, it doesn't necessarily give me an advantage, right?" — sources/S_ig_theaiclubhouse_Dc6Zl1cxAyX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "client": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on new industries: the wheelhouse is where Sam says he has an advantage, and the clip warns about leaving it rather than forbidding it outright.
+- Read as a claim that empty niches are bad: the clip says an empty niche probably has a reason behind it, which is a suspicion, not proof the niche is worthless.

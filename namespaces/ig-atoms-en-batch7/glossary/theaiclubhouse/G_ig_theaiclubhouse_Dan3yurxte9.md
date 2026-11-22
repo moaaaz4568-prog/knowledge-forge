@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [cash collected, theaiclubhouse account context]
+aka: ["cash collected"]
 origin: sources/S_ig_theaiclubhouse_Dan3yurxte9.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_theaiclubhouse_Dan3yurxte9.md
 
 ## Term
 
-"cash collected" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: collected, saw, cash, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cash collected is the number Sam says actually counts, against claimed revenue: it appears 2 times, beside revenue number, 50K revenue month, and accounts receivable. The clip calls it the most cowardly thing to claim a revenue number and then follow it up with cash collected, giving the example of a guy posting a 50K revenue month while only 22K was cash collected in small letters. The point is the gap: you make 22K, and God knows if you can actually collect the rest. The concrete rule is the close: if the business were strong enough, the seller would collect in full upfront or through financing.
 
 ## Synonyms
 
-- cash collected
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You're not fucking Costco. You're not some big shipping company that has accounts receivable. You make 22K, and God knows if you can actually collect the rest." — sources/S_ig_theaiclubhouse_Dan3yurxte9.md
+> "Guys, the most cowardly thing you can do is claim a revenue number and then follow it up with cash collected." — sources/S_ig_theaiclubhouse_Dan3yurxte9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cash collected": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof the seller lied: the clip accuses the poster of hiding the real number in small letters, but it never names the poster or shows the post.
+- Read as a ban on payment plans: the clip demands collecting in full upfront or through financing, which is a rule for strong businesses, not a claim that instalments never work.

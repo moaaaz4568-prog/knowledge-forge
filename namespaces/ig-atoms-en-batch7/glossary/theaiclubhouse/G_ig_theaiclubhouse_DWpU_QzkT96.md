@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [lot, theaiclubhouse account context]
+aka: ["5k minimum rule"]
 origin: sources/S_ig_theaiclubhouse_DWpU_QzkT96.md
 ---
 
-# G_ig_theaiclubhouse_DWpU_QzkT96 — lot
+# G_ig_theaiclubhouse_DWpU_QzkT96 — 5k minimum rule
 
 ## Term
 
-"lot" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: think, times, people, seen. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The 5k minimum rule is Sam's price floor for filtering bad clients: it appears 1 time, beside bad clients, profitable business, and six to eight weeks. He says there is no particular price point in general and it is always job dependent, but the 5k minimum has been very good for attracting people who are not looking for a deal. Those buyers are already running a pretty profitable business and are looking to expand their company. The concrete contrast is the beginner's timeline: with a decent network, a first deal lands in six to eight weeks, and the floor is what keeps the wrong buyers out while that happens.
 
 ## Synonyms
 
-- lot
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But I've seen a lot of guys landed within the first three weeks just 'cause they have great networks and people are willing to take a chance on them 'cause they were high achievers in their past." — sources/S_ig_theaiclubhouse_DWpU_QzkT96.md
-> "I think this is where a lot of times people think they're gonna make the sale is based off of their client being excited about AI, but you do need to have the outcomes there for them to know exactly what they're investing in." — sources/S_ig_theaiclubhouse_DWpU_QzkT96.md
+> "we've noticed the 5k minimum rule has been very good for us for attracting people that aren't looking for a deal, but they're actually looking to expand their company and they're running already a pretty profitable business." — sources/S_ig_theaiclubhouse_DWpU_QzkT96.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "lot": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a universal price point: Sam says explicitly there is no particular price point and it is always job dependent, so the 5k figure is his filter, not a law.
+- Read as a promise of fast deals: the six-to-eight-week timeline is given for someone with a decent network, not for a beginner starting from zero.

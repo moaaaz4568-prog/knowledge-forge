@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [importantly, theaiclubhouse account context]
+aka: ["Sales Navigator"]
 origin: sources/S_ig_theaiclubhouse_DYxCNOPRubC.md
 ---
 
-# G_ig_theaiclubhouse_DYxCNOPRubC — importantly
+# G_ig_theaiclubhouse_DYxCNOPRubC — Sales Navigator
 
 ## Term
 
-"importantly" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: scrolling, want, need, booking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sales Navigator is the LinkedIn tool that finds exactly who Sam is looking for: it appears 1 time, beside decision makers, lists, and campaigns. The clip places it in a playbook that starts with the profile as a landing page and lead magnets as content, then uses Sales Navigator to filter by title, company size, industry, and geography. The filters build multiple lists of decision makers saved for specific campaigns, which the setter then works daily. The concrete case is the targeting step itself: instead of guessing, the seller builds a list of the right titles in the right companies before anyone sends a message.
 
 ## Synonyms
 
-- importantly
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The sequences go out, the qualified responses come back and they get flagged. And more importantly, your pipeline fills up without you always having to touch it." — sources/S_ig_theaiclubhouse_DYxCNOPRubC.md
+> "Next, Sales Navigator finds exactly who you're looking for." — sources/S_ig_theaiclubhouse_DYxCNOPRubC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "importantly": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a free tool: Sales Navigator is a paid LinkedIn product, and the clip never discusses its price or claims it is free.
+- Read as a guarantee of replies: finding the right decision makers is one step, and the clip still needs the setter, the sequences, and Lead Shark to turn the list into calls.

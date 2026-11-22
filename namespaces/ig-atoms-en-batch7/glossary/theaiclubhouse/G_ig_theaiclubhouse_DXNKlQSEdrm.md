@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [sell, theaiclubhouse account context]
+aka: ["rev share"]
 origin: sources/S_ig_theaiclubhouse_DXNKlQSEdrm.md
 ---
 
-# G_ig_theaiclubhouse_DXNKlQSEdrm — sell
+# G_ig_theaiclubhouse_DXNKlQSEdrm — rev share
 
 ## Term
 
-"sell" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: united, states, three, verticals. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Rev share is the payment Sam says to take for the systems you built: it appears 1 time, beside uncertain, 5k retainer, and millions. The clip tells sellers to take rev share and then answers the objection itself: what if they do not make money, and what if they do, start making millions, and you are still stuck earning a 5k retainer. The contrast is the point: a fixed retainer caps the upside while rev share follows the client's growth. The concrete case is the what-if itself: the client starts making millions and the builder's pay stays flat unless rev share is in place.
 
 ## Synonyms
 
-- sell
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And finally, you should take rev share for the systems you built. Oh, but that's uncertain. What if they don't make money?" — sources/S_ig_theaiclubhouse_DXNKlQSEdrm.md
+> "And finally, you should take rev share for the systems you built." — sources/S_ig_theaiclubhouse_DXNKlQSEdrm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sell": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a demand for equity: rev share here is a share of revenue from systems built, not ownership of the client's company.
+- Read as a promise of millions: the millions are a hypothetical what-if used to argue for rev share, not a result the clip reports.

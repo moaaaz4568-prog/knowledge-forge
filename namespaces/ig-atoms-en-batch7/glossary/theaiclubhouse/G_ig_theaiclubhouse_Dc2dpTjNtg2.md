@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [especially, theaiclubhouse account context]
+aka: ["full potential"]
 origin: sources/S_ig_theaiclubhouse_Dc2dpTjNtg2.md
 ---
 
-# G_ig_theaiclubhouse_Dc2dpTjNtg2 — especially
+# G_ig_theaiclubhouse_Dc2dpTjNtg2 — full potential
 
 ## Term
 
-"especially" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: great, think, product, mind. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Full potential is what Sam says most people are not playing to: it appears 1 time, beside playing under a shadow, urgency, and risk-taking. The clip calls out brilliant people in the room whose urgency and risk-taking are not there, saying the only risk they have taken is paying for his program. Playing under a shadow or not playing to full potential is what kills most, in his words, and the push is to take it to the next level. The concrete spur is comparison: friends making double what he makes who go harder than him make him pissed, and that feeling is what should drive the listener to go hard.
 
 ## Synonyms
 
-- especially
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_theaiclubhouse_Dc2dpTjNtg2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "especially": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a measurable claim: full potential here is a motivational standard in a pep talk, not a metric the clip defines or measures.
+- Read as an insult to the audience: the call-out is aimed at brilliant people holding back, and the clip pairs it with his own envy of friends who go harder.

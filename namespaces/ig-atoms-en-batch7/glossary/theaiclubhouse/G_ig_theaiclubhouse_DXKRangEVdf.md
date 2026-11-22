@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [Nobody cares, theaiclubhouse account context]
+aka: ["license"]
 origin: sources/S_ig_theaiclubhouse_DXKRangEVdf.md
 ---
 
-# G_ig_theaiclubhouse_DXKRangEVdf — Nobody cares
+# G_ig_theaiclubhouse_DXKRangEVdf — license
 
 ## Term
 
-"Nobody cares" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: cloud, code, cares, nobody. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+License is the move that turns one custom build into scale: it appears 1 time, beside standardize, productize, and 50k month. Sam's model is to build a custom solution for a client, then standardize it, productize it, and take it to the market using the client's network, because a client's best friends are usually in the same industry. The licensing step is what limits his work while it ups his scaling: one build, sold across an industry. The concrete case is the partner client: instead of slaving for clients, he partners with them and then licenses the same build to their peers.
 
 ## Synonyms
 
-- Nobody cares
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And they could care less how you do it or what tools you use or whatever. That's why instead of slaving for my clients like most of these bums, I partner with them instead." — sources/S_ig_theaiclubhouse_DXKRangEVdf.md
-> "We take it to them and we sell it and license it across and limits my work but ups my scaling. So if you're interested in how this model works and how to run it and how to hit your first 50k month, all you have to do is just comment live below and I'll see you on my mastermind on Sunday." — sources/S_ig_theaiclubhouse_DXKRangEVdf.md
+> "We take it to them and we sell it and license it across and limits my work but ups my scaling." — sources/S_ig_theaiclubhouse_DXKRangEVdf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Nobody cares": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as selling the same build once: licensing here means selling it across an industry to many companies, not a single resale.
+- Read as a legal claim about IP: the clip never discusses licenses, contracts, or ownership terms, only the business move of selling one build many times.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [schools, school]
+aka: ["network"]
 origin: sources/S_ig_theaiclubhouse_DWmzrvJkZs-.md
 ---
 
-# G_ig_theaiclubhouse_DWmzrvJkZs- — schools
+# G_ig_theaiclubhouse_DWmzrvJkZs- — network
 
 ## Term
 
-"schools" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: top, law, schools, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The network is what the brilliant lawyer should have used instead of chasing easy targets: it appears 1 time, beside HVAC shops, former lawyers, and classmates. Sam describes a lawyer from top business and law schools, an MBA JD, who was convinced to target HVAC shops with AI even though he wants to charge eight, ten, twelve K. The point is the mismatch: instead of contacting former lawyers or classmates from school, he competes with guys quoting five hundred bucks a month. The concrete failure is the target choice itself: a man with a high-value network chasing the cheapest niche because videos psyoped him into doing what is easy.
 
 ## Synonyms
 
-- schools
-- school (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That he's literally competing with guys quoting five hundred bucks a month and he wants to charge eight, ten, twelve K." — sources/S_ig_theaiclubhouse_DWmzrvJkZs-.md
+> "instead of actually just looking at his network and story and thinking" — sources/S_ig_theaiclubhouse_DWmzrvJkZs-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "schools": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a networking tip: the network here is the lawyer's own classmates and former colleagues, not a general instruction to network more.
+- Read as a claim that HVAC is worthless: the clip calls the targeting insane for this lawyer at his price, not for every seller in every market.

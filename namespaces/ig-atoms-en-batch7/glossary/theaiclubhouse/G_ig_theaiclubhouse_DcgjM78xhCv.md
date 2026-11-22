@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [performance review, theaiclubhouse account context]
+aka: ["quiet quit"]
 origin: sources/S_ig_theaiclubhouse_DcgjM78xhCv.md
 ---
 
-# G_ig_theaiclubhouse_DcgjM78xhCv — performance review
+# G_ig_theaiclubhouse_DcgjM78xhCv — quiet quit
 
 ## Term
 
-"performance review" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: put, review, performance, let. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The quiet quit is the tactic Sam used to leave RBC Capital Markets with severance: it appears 1 time, beside performance review, six months of salary, and real estate investment banker. He was the youngest intern ever at the bank, came back full time, stayed seven to eight months, and got agitated, so instead of quitting and losing money he purposely ruined the quality of his work and his punctuality until they put him on a performance review. Once on review, if they let him go they had to give him six months of salary, which he knew because he had seen somebody do it right before. The concrete payoff is the exit itself: he left with the payout and went on to fail at a real estate AI startup until February 2023, when GPT changed his direction.
 
 ## Synonyms
 
-- performance review
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I did something we like to call a, we in the business we would call it a quiet, a quiet quit. So instead of me quitting and losing money, I purposely ruined the quality of my work and showing up on time to where they had to put me on a performance review." — sources/S_ig_theaiclubhouse_DcgjM78xhCv.md
+> "So I did something we like to call a, we in the business we would call it a quiet, a quiet quit." — sources/S_ig_theaiclubhouse_DcgjM78xhCv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "performance review": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a recommendation: the quiet quit is Sam's own story of how he left a bank job, not advice the clip tells viewers to copy.
+- Read as a claim that quiet quitting always pays: the six months of salary depended on that employer's review policy, which the clip never presents as universal.

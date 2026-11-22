@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [month retainers, theaiclubhouse account context]
+aka: ["AI venture studio", "AI venture studios"]
 origin: sources/S_ig_theaiclubhouse_DUWT44PEVSa.md
 ---
 
-# G_ig_theaiclubhouse_DUWT44PEVSa — month retainers
+# G_ig_theaiclubhouse_DUWT44PEVSa — AI venture studio
 
 ## Term
 
-"month retainers" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: stupid, retainers, month, 50k. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The AI venture studio is Sam's replacement for the AI agency: it appears 2 times, once singular and once as AI venture studios, beside ChatGPT agent builder, Google Gemini, commoditizing, and retainers. Where an agency sells a service and gets replaced by tools, the studio builds custom infrastructure for mid-market companies that big tech cannot swallow, like voice AI call centers and custom CRMs. The clip prices that work at 25K projects and 50K a month retainers, against the stupid $500 a month retainers the tools are replacing. The concrete case is the government deal: he and his infrastructure partners close it with a studio build, not with a chatbot.
 
 ## Synonyms
 
-- month retainers
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- AI venture studios (the plural form the source uses)
 
 ## Live Example
 
 > "ChatGPT agent builder and Google Gemini are coming after everyone, and they're commoditizing every agency, and they're replacing all these stupid $500 a month retainers." — sources/S_ig_theaiclubhouse_DUWT44PEVSa.md
-> "And that's exactly how me and my infrastructure partners close government deals and 50K a month retainers." — sources/S_ig_theaiclubhouse_DUWT44PEVSa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month retainers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rebrand of the AI agency: a studio builds infrastructure and partners with clients, while the agency the clip describes sells services and competes on price.
+- Read as a promise that studios are safe from AI tools: the clip says only custom infrastructure for mid-market companies is hard for big tech to swallow, not every studio build.

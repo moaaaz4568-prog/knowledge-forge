@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [want, theaiclubhouse account context]
+aka: ["standardize"]
 origin: sources/S_ig_theaiclubhouse_DXSh25TEZ1f.md
 ---
 
-# G_ig_theaiclubhouse_DXSh25TEZ1f — want
+# G_ig_theaiclubhouse_DXSh25TEZ1f — standardize
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agency, owner, corporate, job. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Standardize is the step that turns one client's build into a product for the industry: it appears 1 time, beside dream client, license, and go-to-market guide. Sam's way is to work with the dream client, standardize their build, and license it across the industry, instead of spamming the AI agency model every stupid coach pushes. The clip offers the same idea as a masterclass with 10 industry guides and a full LinkedIn acquisition go-to-market guide for landing clients on day one. The concrete move is the sequence itself: one custom build first, then the standard version, then the industry-wide license.
 
 ## Synonyms
 
-- want
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Instead of spamming the AI agency model, which every stupid coach will push on you, I want to show you a unique way on how you can work with your dream client, standardize their build, and license it across the industry." — sources/S_ig_theaiclubhouse_DXSh25TEZ1f.md
+> "I want to show you a unique way on how you can work with your dream client, standardize their build, and license it across the industry." — sources/S_ig_theaiclubhouse_DXSh25TEZ1f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as copying one build unchanged: standardizing here means making a reusable version of a custom build, not shipping the identical system to everyone.
+- Read as a free masterclass promise: the registration and the 10 guides are the offer, and the clip never claims the model works without the dream client first.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [client, clients]
+aka: ["dream client"]
 origin: sources/S_ig_theaiclubhouse_DXIYE9kkVJ1.md
 ---
 
-# G_ig_theaiclubhouse_DXIYE9kkVJ1 — client
+# G_ig_theaiclubhouse_DXIYE9kkVJ1 — dream client
 
 ## Term
 
-"client" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: find, high, value, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The dream client is the high value client the AI Venture Studio model starts from: it appears 1 time, beside high value client, custom build, and standard version. Sam's model is to find that client, partner with them on a custom build, then create a standard version of it once it is built. The client then becomes the number one salesperson, using their network as the sales team and acting as a technical expert on the team. The concrete payoff is the funnel: a funnel full of inbound leads and clients that want to invest and work with you, which he says is the fastest way to go.
 
 ## Synonyms
 
-- client
-- clients (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the fastest way to go. And on April 19th at 2 p. M. , I'm gonna walk you through exactly how to execute this model so you have a funnel full of inbound leads and clients that want to invest and work with you." — sources/S_ig_theaiclubhouse_DXIYE9kkVJ1.md
+> "It's where you find a high value client, which I like to call a dream client." — sources/S_ig_theaiclubhouse_DXIYE9kkVJ1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "client": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any big client: the dream client here is a partner who lends a network and expertise after the build, not just a large buyer.
+- Read as a promise of inbound leads: the funnel full of inbound leads is what the model is meant to produce, and the clip teaches it in a masterclass rather than guaranteeing it.

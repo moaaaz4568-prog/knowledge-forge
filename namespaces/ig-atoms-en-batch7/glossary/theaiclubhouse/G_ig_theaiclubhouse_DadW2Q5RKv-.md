@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [good, theaiclubhouse account context]
+aka: ["chant"]
 origin: sources/S_ig_theaiclubhouse_DadW2Q5RKv-.md
 ---
 
-# G_ig_theaiclubhouse_DadW2Q5RKv- — good
+# G_ig_theaiclubhouse_DadW2Q5RKv- — chant
 
 ## Term
 
-"good" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: said, rap, better, telling. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: chant is a type-only label for the repeated song lines that make up the whole clip, not a concept the speaker explains. The phrase "for it" is repeated 4 times, beside die for it, alive for it, and cut ties for it. The clip is sung lyrics about a decision made last night, the city, and what it takes to be alive, with no business idea stated anywhere in it. The concrete content is the refrain itself: the same "for it" closes four lines about dying, living, being hung out to dry, and cutting ties.
 
 ## Synonyms
 
-- good
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I made a decision last night that I would die for it. Just to show the city what it takes to be alive for it." — sources/S_ig_theaiclubhouse_DadW2Q5RKv-.md
+> "I made a decision last night that I would die for it." — sources/S_ig_theaiclubhouse_DadW2Q5RKv-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "good": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Sam's own decision: the lines are sung song lyrics, not the speaker's account of a business decision he made.
+- Read as a business term: chant labels the repeated lines only, and the decision in the lyrics is about the city and the life in it, not about a deal.

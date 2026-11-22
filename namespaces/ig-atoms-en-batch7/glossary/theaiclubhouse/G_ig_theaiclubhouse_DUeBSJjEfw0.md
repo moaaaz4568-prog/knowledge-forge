@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [ChatGPT, theaiclubhouse account context]
+aka: ["mid-market"]
 origin: sources/S_ig_theaiclubhouse_DUeBSJjEfw0.md
 ---
 
-# G_ig_theaiclubhouse_DUeBSJjEfw0 — ChatGPT
+# G_ig_theaiclubhouse_DUeBSJjEfw0 — mid-market
 
 ## Term
 
-"ChatGPT" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: solving, problems, chatgpt, big. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Mid-market names the in-between segment Sam calls the $10 million gap: it appears 1 time, as the comment keyword for the playbook, beside sweet spot, real budgets, proven business model, and defensible businesses. The segment is companies too big for the garbage ChatGPT and GoHighLevel builds and without enough money to fork up 500K for an enterprise contract. His examples are a locksmith company doing around $5 million a year and spending 200K on dispatchers, and a financing firm processing around 300 transactions a month. The locksmiths were dying to pay 8K a month to save 100K in a year, which is the kind of trade the mid-market label marks.
 
 ## Synonyms
 
-- ChatGPT
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And this is where my students build defensible businesses, not competing with ChatGPT, but solving problems ChatGPT wouldn't even touch." — sources/S_ig_theaiclubhouse_DUeBSJjEfw0.md
+> "These companies have real budgets, expensive problems, and a proven business model." — sources/S_ig_theaiclubhouse_DUeBSJjEfw0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ChatGPT": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as small business: the mid-market companies here are explicitly too big for small-business builds, with real budgets and expensive problems.
+- Read as enterprise: the same companies cannot afford a 500K enterprise contract, so the label marks the gap between the two, not the top end.

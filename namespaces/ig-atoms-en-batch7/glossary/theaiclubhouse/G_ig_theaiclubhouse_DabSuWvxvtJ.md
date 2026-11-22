@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [importantly, theaiclubhouse account context]
+aka: ["setter"]
 origin: sources/S_ig_theaiclubhouse_DabSuWvxvtJ.md
 ---
 
-# G_ig_theaiclubhouse_DabSuWvxvtJ — importantly
+# G_ig_theaiclubhouse_DabSuWvxvtJ — setter
 
 ## Term
 
-"importantly" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: scrolling, want, need, booking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The setter is the person on the account who books the calls: it appears 2 times, beside booking appointments, connection requests, and Lead Shark. In the LinkedIn playbook, the setter works the account daily, sending connection requests, doing multiple comments, and responding to sequences, and more importantly booking the calls so Sam shows up and closes. The setter sits between the content and the close: the profile and lead magnets attract, the setter books, and the pipeline fills up without Sam touching it. The concrete case is the viral post: when it goes viral, the setter is already inside it sending the lead magnet and booking appointments.
 
 ## Synonyms
 
-- importantly
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The sequences go out, the qualified responses come back and they get flagged. And more importantly, your pipeline fills up without you always having to touch it." — sources/S_ig_theaiclubhouse_DabSuWvxvtJ.md
+> "Next, we have a setter on our accounts daily." — sources/S_ig_theaiclubhouse_DabSuWvxvtJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "importantly": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an automated tool: the setter here is a person working the account, distinct from Lead Shark, which automates the inbound flow.
+- Read as a closer: the setter books the calls, and Sam is the one who shows up and closes them.

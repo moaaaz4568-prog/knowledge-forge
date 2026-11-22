@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [outbound, theaiclubhouse account context]
+aka: ["outbound"]
 origin: sources/S_ig_theaiclubhouse_DcPY08VxfXQ.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_theaiclubhouse_DcPY08VxfXQ.md
 
 ## Term
 
-"outbound" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: problem, scale, typically, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Outbound is the first of three acquisition methods Sam compares: it appears 7 times, beside organic, paid ads, and evergreenness. Outbound is pretty easy to do, free in theory, and a lot of brute effort, and its inherent problem is that it has no evergreenness: the second you stop sending or calling, it is done. Against it, organic is the cheapest and the golden middle layer that keeps working when you stop posting, and paid ads are fast and scalable but expensive and not evergreen either. The concrete verdict is the mix: in an ideal world you need all three, and for the listener right now, keep the outbound but start the inbound.
 
 ## Synonyms
 
-- outbound
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_theaiclubhouse_DcPY08VxfXQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "outbound": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that outbound is free: the clip says free in theory, then adds that it costs time and brute effort and stops the moment you stop.
+- Read as a verdict against outbound: the clip keeps outbound in the ideal mix and tells the listener to keep it, not to drop it.

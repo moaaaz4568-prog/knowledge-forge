@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [gonna, theaiclubhouse account context]
+aka: ["fall through the cracks"]
 origin: sources/S_ig_theaiclubhouse_DcRDl35OC-Q.md
 ---
 
-# G_ig_theaiclubhouse_DcRDl35OC-Q — gonna
+# G_ig_theaiclubhouse_DcRDl35OC-Q — fall through the cracks
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: away, spend, money, cause. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Fall through the cracks is what happens to clients a seller stops following up: it appears 1 time, beside funnel, exact same services, and lotto. The clip warns that a client who cannot afford the service today may get rich or win the lotto tomorrow and want to work with you right away, so letting them out of the funnel wastes the earlier investment in AI and implementation. The loss is concrete: they will probably go with somebody else doing the exact same services, even though you might be better. The phrase names that quiet loss: the client was in the funnel, nobody kept them, and the deal went to a rival.
 
 ## Synonyms
 
-- gonna
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Cause they're probably gonna go with somebody else that's doing the exact same services, even though you might be better." — sources/S_ig_theaiclubhouse_DcRDl35OC-Q.md
+> "That's what happens when they fall through the cracks." — sources/S_ig_theaiclubhouse_DcRDl35OC-Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim about the lottery: winning the lotto is a hypothetical for a client suddenly affording the service, not a plan the clip recommends.
+- Read as a promise the client returns: the clip says the client might come back tomorrow, and the warning is about losing them, not a guarantee they will return.

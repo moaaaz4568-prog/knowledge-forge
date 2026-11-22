@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: theaiclubhouse
-aka: [company, theaiclubhouse account context]
+aka: ["AI receptionist"]
 origin: sources/S_ig_theaiclubhouse_DchUcTexnx-.md
 ---
 
-# G_ig_theaiclubhouse_DchUcTexnx- — company
+# G_ig_theaiclubhouse_DchUcTexnx- — AI receptionist
 
 ## Term
 
-"company" is the most frequent repeated content term in this source (a transcribed Instagram video from the theaiclubhouse account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: responds, fastest, likely, first. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The AI receptionist is the fix Sam offers for businesses that never answer the phone: it appears 1 time, beside AI booking bot, fifty percent, and windshield. The principle is that the company that responds fastest is likely the company you go to, and the stats say fifty percent of the time you just go with the first company that responds. His example is calling six windshield shops after cracking his windshield: none answered, and one guy called back twenty thirty minutes later. The concrete fix is the bot's message: sorry you missed your call, do you want to come in now, or here are some times you can come in.
 
 ## Synonyms
 
-- company
-- theaiclubhouse account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "None of them answered, and then one guy called me back twenty thirty minutes later. But this could have been easily solved if they had an AI receptionist or they just had an AI booking bot saying, hey sorry you missed your call, you want to come in now or here's some times you can come in." — sources/S_ig_theaiclubhouse_DchUcTexnx-.md
+> "But this could have been easily solved if they had an AI receptionist or they just had an AI booking bot saying, hey sorry you missed your call, you want to come in now or here's some times you can come in." — sources/S_ig_theaiclubhouse_DchUcTexnx-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "company": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a measured statistic: the fifty percent figure is Sam's stated stat, and the clip gives no source for it.
+- Read as a claim that a bot replaces service: the receptionist here only answers and books the visit, and the clip never says it does the repair work itself.

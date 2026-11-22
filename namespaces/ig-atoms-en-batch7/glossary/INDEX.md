@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch7)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,621 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,608 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3004,56 +3004,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DRcwG-KEV6M.md | Build | 2 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DRdg3exkW3C.md | living | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DRgD1vlESlR.md | Build | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DRiAPLgkQuh.md | look | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DRiDh0TEUfH.md | offer | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUWT44PEVSa.md | month retainers | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUZcB1CESBG.md | venture studios | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DU_ftxtkZAR.md | businesses | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUeBSJjEfw0.md | ChatGPT | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUjt736ERQz.md | need | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DV9KZuIkbW5.md | month retainers | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DVEj-7Gkf8M.md | handles | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DVL-ts1kVKa.md | personal brand | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWAJfeSETn8.md | lead magnet | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWkFKMFEaGG.md | Venture Studio | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWmzrvJkZs-.md | schools | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWpU_QzkT96.md | lot | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXIYE9kkVJ1.md | client | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXKRangEVdf.md | Nobody cares | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXKipjIkbsQ.md | ChatGPT | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXNKlQSEdrm.md | sell | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXSh25TEZ1f.md | want | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYnFxUyRcGj.md | offer | 2 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DRiAPLgkQuh.md | chant | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DRiDh0TEUfH.md | standard offer | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUWT44PEVSa.md | AI venture studio | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUZcB1CESBG.md | venture studio | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DU_ftxtkZAR.md | custom build | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUeBSJjEfw0.md | mid-market | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DUjt736ERQz.md | family patriarch | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DV9KZuIkbW5.md | retainer | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DVEj-7Gkf8M.md | client acquisition channel | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DVL-ts1kVKa.md | inbound | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWAJfeSETn8.md | lead magnet | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWkFKMFEaGG.md | AI Venture Studio | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWmzrvJkZs-.md | network | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DWpU_QzkT96.md | 5k minimum rule | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXIYE9kkVJ1.md | dream client | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXKRangEVdf.md | license | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXKipjIkbsQ.md | proven business model | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXNKlQSEdrm.md | rev share | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DXSh25TEZ1f.md | standardize | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYnFxUyRcGj.md | AI command centers | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DYper_IxKtF.md | Lovable | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYsoZ-gxIEk.md | Step | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYvN3SQR8-h.md | handles | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYxCNOPRubC.md | importantly | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYz8ejzRGni.md | ChatGPT | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DZ5f2ENxVNB.md | feel | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DZ8DRCoRfLb.md | pressure | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DaN22s6xL0w.md | handles | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DaTLN1pRljU.md | ChatGPT | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DabSuWvxvtJ.md | importantly | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DadW2Q5RKv-.md | good | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYsoZ-gxIEk.md | AI SaaS | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYvN3SQR8-h.md | second brain | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYxCNOPRubC.md | Sales Navigator | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DYz8ejzRGni.md | defensible businesses | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DZ5f2ENxVNB.md | chant | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DZ8DRCoRfLb.md | chant | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DaN22s6xL0w.md | developer on demand | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DaTLN1pRljU.md | custom CRM | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DabSuWvxvtJ.md | setter | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DadW2Q5RKv-.md | chant | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_Dan3yurxte9.md | cash collected | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbUcgyLxcZ5.md | million | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dbo2ZPtxdV2.md | gonna | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dbqqt5txTRz.md | give | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbrZiH6RmUr.md | need | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbwnynJRcf0.md | buying | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dc2dpTjNtg2.md | especially | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dc6Zl1cxAyX.md | client | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbUcgyLxcZ5.md | say no | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dbo2ZPtxdV2.md | sales call | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dbqqt5txTRz.md | ballpark | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbrZiH6RmUr.md | complete solution | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DbwnynJRcf0.md | private equity | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dc2dpTjNtg2.md | full potential | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Dc6Zl1cxAyX.md | wheelhouse | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DcPY08VxfXQ.md | outbound | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DcRDl35OC-Q.md | gonna | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DcgjM78xhCv.md | performance review | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DchUcTexnx-.md | company | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DcRDl35OC-Q.md | fall through the cracks | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DcgjM78xhCv.md | quiet quit | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DchUcTexnx-.md | AI receptionist | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_Dd7Dt3hybVQ.md | OpenCloud | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdCwHkqRtep.md | lifetime customer | 2 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddm9RU7R7kO.md | Rich people | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdmG2bSx1jb.md | Venture Studio | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddmu8sBxLyI.md | one | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddo6K-6xxzu.md | company | 1 |
-| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdoXsu1EnjU.md | quit | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdCwHkqRtep.md | lifetime customer value | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddm9RU7R7kO.md | niche | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdmG2bSx1jb.md | AI Venture Studio | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddmu8sBxLyI.md | custom system | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddo6K-6xxzu.md | 20 grand | 1 |
+| glossary/theaiclubhouse/G_ig_theaiclubhouse_DdoXsu1EnjU.md | pay stub | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddq8fkDjNeF.md | much | 2 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_Ddr6NjFFW4h.md | want | 1 |
 | glossary/theaiclubhouse/G_ig_theaiclubhouse_DdrX62clJwB.md | want | 2 |
