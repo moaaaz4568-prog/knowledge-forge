@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [THB, suprava.ss account context]
+aka: [double-verify]
 origin: sources/S_igocr_suprava.ss_DMX68CTJrXQ.md
 ---
 
-# G_igocr_suprava.ss_DMX68CTJrXQ — THB
+# G_igocr_suprava.ss_DMX68CTJrXQ — double-verify
 
 ## Term
 
-"THB" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: personalisation, skip, website, sucks. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Double-verify is the standing rule in Suprava's enrichment step — after starting with Icypros and then Bettercontact, always double-verify the list. The phrase appears once, beside 'Always', 'Bettercontact', and 'Icypros'. The step it belongs to is waterfall enrichment: enrich the list with one tool, then the next, and verify twice rather than trusting a single source. The source around it is fragmented — the slide is cut off mid-sentence — but the rule itself is complete: verification is the last word of the step, not an optional extra.
 
 ## Synonyms
 
-- THB
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "THB In Personalisation Doesn Skip the lazy line:" — sources/S_igocr_suprava.ss_DMX68CTJrXQ.md
-> "Loved the work you're c AI is used to make and e If their website sucks, so THB" — sources/S_igocr_suprava.ss_DMX68CTJrXQ.md
+> "THE AI 2. Enrich the list (Smart Use Waterfall Enrichm - Start with Icypros - Then Bettercontact - Always double-verify -" — sources/S_igocr_suprava.ss_DMX68CTJrXQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "THB": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as verifying once with a second tool: double-verify here is a separate pass after the waterfall — Icypros, then Bettercontact, then verify — not just using two tools in sequence.
+- Read as a guarantee of clean data: the post orders verification but shows no result for it, so the entry records the rule without claiming the list ends up accurate.

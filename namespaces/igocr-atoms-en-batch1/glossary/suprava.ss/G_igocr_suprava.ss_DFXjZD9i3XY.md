@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [leads, suprava.ss account context]
+aka: [Personalized Video]
 origin: sources/S_igocr_suprava.ss_DFXjZD9i3XY.md
 ---
 
-# G_igocr_suprava.ss_DFXjZD9i3XY — leads
+# G_igocr_suprava.ss_DFXjZD9i3XY — Personalized Video
 
 ## Term
 
-"leads" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: prospeo, find, andfilter, exportlead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Personalized Video is Suprava's LinkedIn method for booking three or more clients a month — a 60-second video that addresses each prospect's specific challenges, built with Vinna AI and sent through a HeyReach outreach campaign. The phrase appears once, beside '60-Sec Video', 'Specific Challenges', and 'LinkedIN'. The flow around it is mechanical: Sales Navigator and Prospeo find and filter the leads, the data is uploaded, the video is created custom, and the campaign goes out. The video is personal because it names the prospect's challenge, not because it is filmed live.
 
 ## Synonyms
 
-- leads
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DFXjZD9i3XY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "leads": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a generic video ad: the video here is one-to-one, sixty seconds, built around a named challenge for a named lead, and sent inside an outreach campaign.
+- Read as the reason clients book: the post credits the whole chain — finding, filtering, exporting, uploading, then the video, then the campaign — so the video alone is not the booking mechanism.

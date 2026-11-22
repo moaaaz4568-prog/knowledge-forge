@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Yes, suprava.ss account context]
+aka: [Cold Email]
 origin: sources/S_igocr_suprava.ss_DViCj-mEh8b.md
 ---
 
-# G_igocr_suprava.ss_DViCj-mEh8b — Yes
+# G_igocr_suprava.ss_DViCj-mEh8b — Cold Email
 
 ## Term
 
-"Yes" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yes, askaquestionthatmakes, themcurious, pickonefollow-upmove. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cold Email here is the skill the flowchart teaches in eight steps — research, write short, build a hook, one CTA, write short again, track opens, wait and listen, then scale. The phrase appears once, beside 'master', 'Quick and Easy', and 'STEP1: Research'. Each step is one move with one check: find a trigger today, cut the email under 40 words, make the opening catch attention, ask for just one thing. The scoreboard tracks one metric per step — research checked, writing word count, hook attention, CTA clarity — and the rule repeats daily: one email list, one metric, one improvement.
 
 ## Synonyms
 
-- Yes
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "How to master Cold Email Quick and Easy Start here pickONEresearchmove: No Readtheirrecentposts STEP1:Research ·ChecktheirLinkedln Didyoufindatriggertoday? Lookfortheirpain ·Findsomeoneyouknow themwith Yes pickONEwrittingmove: .Removeunnecessarywords No Usesimplelanguageonly STEP2:WriteShort ·Deleteextrasentences Isitunder40words?" — sources/S_igocr_suprava.ss_DViCj-mEh8b.md
-> "Research:howmanychecked/ howmanytriggers Sent Writing:wordcount/reading dothisnow： STEP6:Trackopens No ease Checkifitgotdelivered Hook:attentionscore/how Did peopleactuallyseeit? UseMaildosotool relevant Checkyoursenderscore CTA:howclear/starts Yes Sendtoanewlist conversation STEP1:WaitListen fxONEthing： No Did yougetareply? Openingwasn'tstrongenough Did they click.Reply.Save.Comment." — sources/S_igocr_suprava.ss_DViCj-mEh8b.md
-> "Needmoreproof Youraskwastoomuch dothisevery day. Yes Needbetterresearchnexttime .Sameresearch. ·Same40words. Yes STEP8:Scaleit No .Same opening. gobacktoresearch. Diditwork? .Trackwhatworks Buildmoretrust.Ask Gotasale.Trialstarted.Callbooked. againlater. DOTHISEVERYDAY.ONEEMAILLIST. ONEMETRIC.ONEIMPROVEMENT. SupravaSabat" — sources/S_igocr_suprava.ss_DViCj-mEh8b.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Yes": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a template for one email: the post is a daily system — eight steps with a scoreboard — and the same research, same 40 words, and same opening repeat every day.
+- Read as a promise that the steps guarantee replies: every step ends in a question — did you find a trigger, is it under 40 words, did you get a reply — so a 'no' sends the reader back to research, not forward to scale.

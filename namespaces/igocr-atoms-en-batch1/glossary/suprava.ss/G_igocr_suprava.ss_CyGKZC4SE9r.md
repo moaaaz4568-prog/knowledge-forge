@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [onlyneedyourphoneand, suprava.ss account context]
+aka: [scam]
 origin: sources/S_igocr_suprava.ss_CyGKZC4SE9r.md
 ---
 
-# G_igocr_suprava.ss_CyGKZC4SE9r — onlyneedyourphoneand
+# G_igocr_suprava.ss_CyGKZC4SE9r — scam
 
 ## Term
 
-No content word repeats often enough in this short source (26 words) to form a repeated term, so this entry documents the source's central term "onlyneedyourphoneand" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A scam here is a pitch that promises easy money with words like 'Sidehustle', 'Quit your 9-5', and 'An extra $10K/mo'. The word appears once, beside 'Sidehustle', 'Quit your 9-5', and 'You only need your phone and internet'. Suprava's test is the vocabulary itself: when a post leans on those phrases, she calls it a scam and asks the reader what they think. The term names the pattern of language, not a named company or a proven fraud.
 
 ## Synonyms
 
-- onlyneedyourphoneand
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (26 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "onlyneedyourphoneand": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a legal accusation: the post never names a person or company — scam here is a label for a style of promise, judged from the words used.
+- Read as a warning about side hustles themselves: the post attacks the pitch ('quit your 9-5', '$10K/mo from your phone'), not the idea of earning on the side.

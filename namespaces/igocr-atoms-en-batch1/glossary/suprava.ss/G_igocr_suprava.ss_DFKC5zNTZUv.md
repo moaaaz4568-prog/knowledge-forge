@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [lead details, suprava.ss account context]
+aka: [Lead Capture]
 origin: sources/S_igocr_suprava.ss_DFKC5zNTZUv.md
 ---
 
-# G_igocr_suprava.ss_DFKC5zNTZUv — lead details
+# G_igocr_suprava.ss_DFKC5zNTZUv — Lead Capture
 
 ## Term
 
-"lead details" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: needs, withtypeform, gather, details. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lead Capture is step one of the AI agent Suprava builds — collect the first information, name and email and needs, with Typeform, before any research or calling happens. The phrase appears once, beside 'Start with', 'Typeform', and 'Automate Lead Research'. The agent's flow runs capture first, then research, then a personalized voice call, then follow-up across channels and CRM updates. Capture here is only the intake: the form gathers, and the later steps enrich and act.
 
 ## Synonyms
 
-- lead details
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DFKC5zNTZUv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "lead details": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as the whole agent: capture is only step one — the post gives research, voice calls, follow-up, and CRM updates their own steps after it.
+- Read as a landing page: the capture here is a Typeform that collects name, email, and needs, not a page that sells or explains anything.

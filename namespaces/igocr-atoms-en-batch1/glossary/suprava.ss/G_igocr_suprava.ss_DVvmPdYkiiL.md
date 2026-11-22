@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Suprava Sabat, suprava.ss account context]
+aka: [spin-tax]
 origin: sources/S_igocr_suprava.ss_DVvmPdYkiiL.md
 ---
 
-# G_igocr_suprava.ss_DVvmPdYkiiL — Suprava Sabat
+# G_igocr_suprava.ss_DVvmPdYkiiL — spin-tax
 
 ## Term
 
-"Suprava Sabat" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sabat, suprava, step, campaign. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Spin-tax here is the variation trick that keeps AI-written campaigns deliverable — each campaign gets spin-tax variations on top of its three email sequences, so the same message goes out in different wordings. The word appears three times, beside 'variations', 'deliverability', and 'email sequences'. The system Suprava shows builds six campaigns in about four minutes: campaign ideation, AI copy, human review, then automatic creation — and the reported result is 2,281 leads contacted, 223 replies, and 32 positive replies. Spin-tax is the step that stops the automation from looking automated.
 
 ## Synonyms
 
-- Suprava Sabat
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Suprava Sabat Step 1: Campaign Ideation The system generates: • Campaign hypotheses • Different messaging angles • ICP targeting ideas • Market triggers • Testing strategies Instead of 1 campaign idea... You get 6+ immediately." — sources/S_igocr_suprava.ss_DVvmPdYkiiL.md
+> "Suprava Sabat Step 2: AI Writes the Campaign Copy For each campaign it creates: • Email 1 • Follow-up 1 • Follow-up 2 Plus spin-tax variations for deliverability. This used to take hours. Now it takes under 2 minutes. Email Writing Assistant Transform your thoughts into polished, professional emails with AI assistance Your Thoughts" — sources/S_igocr_suprava.ss_DVvmPdYkiiL.md
 > "Suprava Sabat Result: In ~4 minutes the system creates: • 6 campaigns • 3 email sequences each • Spin-tax variations • Ready-to-launch campaigns Something that used to take half a day. 2,281 Total Leads Contacted 223 Unique Replied (9.78%) 32 Unique Positive Replies (14.35%)" — sources/S_igocr_suprava.ss_DVvmPdYkiiL.md
-> "Suprava Sabat And the best part: The system learns over time. It analyzes: • Replies • Campaign performance • Winning angles Then uses that data to create better campaigns next time." — sources/S_igocr_suprava.ss_DVvmPdYkiiL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Suprava Sabat": the usage here is bounded to an OCR-transcribed Instagram carousel of 9 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as rewriting the message: spin-tax varies the wording of the same message — the post keeps the campaign idea, the angles, and the sequences fixed while the variations change.
+- Read as the reason for the reply rate: the post credits the whole system — ideation, copy, review, creation — and spin-tax is named only for deliverability, not for replies.

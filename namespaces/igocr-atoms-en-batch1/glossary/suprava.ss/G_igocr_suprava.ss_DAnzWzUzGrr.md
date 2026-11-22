@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [bounce rate, suprava.ss account context]
+aka: [bounce rate]
 origin: sources/S_igocr_suprava.ss_DAnzWzUzGrr.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_igocr_suprava.ss_DAnzWzUzGrr.md
 
 ## Term
 
-"bounce rate" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: keep, rate, bounce, constantly. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bounce rate here is the share of cold emails that never arrive, and Suprava's rule is to keep it under 2% with constant IP rotation. The phrase appears twice, beside 'UNDER 2%', 'IP ROTATION', and 'Stats Overview'. The post shows its own numbers — a 1.2% bounce rate against 0.0% on the second line — and pairs the cap with a second rule, keeping emails under 40–60 words with a mobile-friendly headline. A low bounce rate in this source is proof the sending setup works, not a deliverability theory.
 
 ## Synonyms
 
-- bounce rate
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DAnzWzUzGrr.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bounce rate": the usage here is bounded to an OCR-transcribed Instagram carousel of 3 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as an open rate problem: bounce rate here counts emails that never reach the inbox at all, which is why the fix is IP rotation rather than better subject lines.
+- Read as a target to hit once: the post says to do IP rotation constantly, so the under-2% figure is a standing ceiling, not a one-off result.

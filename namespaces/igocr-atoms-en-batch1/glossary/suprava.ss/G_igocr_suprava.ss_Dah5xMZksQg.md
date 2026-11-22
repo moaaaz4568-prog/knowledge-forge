@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Framework, suprava.ss account context]
+aka: [storytelling frameworks, storytelling framework]
 origin: sources/S_igocr_suprava.ss_Dah5xMZksQg.md
 ---
 
-# G_igocr_suprava.ss_Dah5xMZksQg — Framework
+# G_igocr_suprava.ss_Dah5xMZksQg — storytelling frameworks
 
 ## Term
 
-"Framework" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: name, hey, human, psychology. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Storytelling frameworks here are the seven cold-email structures Suprava borrows from Hormozi's content — the External Villain, the Mid-Action Hook, the Dark Moment, the Open Loop, the Two Timelines, the False Start, and the Chain. The phrase appears once, beside 'human psychology', 'cold outreach', and 'hormozi', and its singular 'storytelling framework' appears once more. Each framework is a named move with a psychology note: blame shifts to a shared enemy, vulnerability earns trust, loss aversion casts the reader into a timeline, and 'but... therefore' makes a plot where 'and... and... and' only makes a list. The post ends with a choice: one reader saves and never implements, the other picks a template and sends the email.
 
 ## Synonyms
 
-- Framework
-- suprava.ss account context (no variant form of the term appears in this source)
+- storytelling framework (singular form used in the source)
 
 ## Live Example
 
-> "I used the same framework in cold outreach that hormozi uses in his content The results are insane: 3:50 PM Jacob Whatever you are selling I'm interested" — sources/S_igocr_suprava.ss_Dah5xMZksQg.md
-> "The Mid-Action Hook Framework: [name] – ran [their company] through [tool/process] at like 1am and found [specific finding] not trying to scare you, just wanted to flag it before you found out the hard way can send what i found if you want it? It makes them see the issue their competitor is having by doing a specific thing and it triggers an emotion to reply" — sources/S_igocr_suprava.ss_Dah5xMZksQg.md
-> "The Chain Framework: [name] – [target audience] all want [outcome] BUT [obstacle nobody accounts for] THEREFORE the ones winning are doing [counterintuitive move] instead took us [timeframe] to see it. you can skip that part haha happy to send over the stuff that worked. cheers!" — sources/S_igocr_suprava.ss_Dah5xMZksQg.md
+> "And after sending 1000+ cold emails.. here are some of the best storytelling frameworks you can use today." — sources/S_igocr_suprava.ss_Dah5xMZksQg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Framework": the usage here is bounded to an OCR-transcribed Instagram carousel of 12 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as Hormozi's own frameworks: the frameworks are Suprava's adaptation of Hormozi's content storytelling to cold outreach — she says she used the same framework he uses, not that he wrote these.
+- Read as seven templates to copy: each framework is a structure with bracketed slots — [name], [target audience], [specific finding] — and the post gives the shape, not a finished email.

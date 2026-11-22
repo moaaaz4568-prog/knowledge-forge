@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [name, suprava.ss account context]
+aka: [Cold email framework]
 origin: sources/S_igocr_suprava.ss_DY4H0qekjSr.md
 ---
 
-# G_igocr_suprava.ss_DY4H0qekjSr — name
+# G_igocr_suprava.ss_DY4H0qekjSr — Cold email framework
 
 ## Term
 
-"name" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: name, monkey, com, specific. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cold email framework here is the proven template Suprava uses — tested over more than a million email copies — built from a specific problem noticed about the prospect's company, one line on how she can help, and a no-risk CTA. The phrase appears once, beside 'Tested over 1M+ email copies', 'Specific problem', and 'No risk CTA'. It is step three of starting an agency for free, after validating the offer on Reddit and finding emails with the Apollo Chrome extension, and before using Google Maps for cold calling and Claude for research. The framework is a three-slot structure, not a script to paste.
 
 ## Synonyms
 
-- name
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Use this proven cold email framework Tested over 1M+ email copies networks, and more at Stripe Online - Stripe Online bump on this – the blueprint I mentioned covers—a free event on 3 June {your name} x {their name} monkey@company.com 27, 2026) {your name} x {their name} Name- {Specific problem you noticed about their company} {How you can help them in one liner} {No risk CTA} Mail Track for Gmail" — sources/S_igocr_suprava.ss_DY4H0qekjSr.md
+> "3. Use this proven cold email framework Tested over 1M+ email copies" — sources/S_igocr_suprava.ss_DY4H0qekjSr.md
+> "1. Validate your offer Make sure people want your offer before you even launch 🚀 Use this subreddit to find out what people wants reddit r/agency Seeking mentorship" — sources/S_igocr_suprava.ss_DY4H0qekjSr.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "name": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a copy-paste template: the framework has three slots to fill — the specific problem, the one-line help, the no-risk CTA — and the post gives no filled-in example.
+- Read as the whole agency plan: the framework is step three of seven, after offer validation and email finding, so it covers only the email, not the agency.

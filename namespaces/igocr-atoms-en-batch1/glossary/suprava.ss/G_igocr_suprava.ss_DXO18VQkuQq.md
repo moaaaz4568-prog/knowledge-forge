@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [people, suprava.ss account context]
+aka: [Loss Aversion]
 origin: sources/S_igocr_suprava.ss_DXO18VQkuQq.md
 ---
 
-# G_igocr_suprava.ss_DXO18VQkuQq — people
+# G_igocr_suprava.ss_DXO18VQkuQq — Loss Aversion
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: start, ignore, hot, list. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Loss Aversion here is the third device in Suprava's list — people act faster to avoid loss than to gain something new, credited to Kahneman. The phrase appears once, beside 'Kahneman', 'avoid loss', and 'inaction feel expensive'. The instruction is to frame the message as 'You’re likely losing X every month by not fixing Y', so inaction feels expensive. It sits among six devices: a compressed one-line pitch, loss aversion, signal versus noise, commitment and consistency, and Bayesian updating. The device is a framing rule for the message, not a claim about the prospect.
 
 ## Synonyms
 
-- people
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "daily 20-30 people already showing signals Start conversations" — sources/S_igocr_suprava.ss_DXO18VQkuQq.md
-> "4 Differentiate Signal vs Noise (Attention Theory) People ignore what looks familiar. What to do: Pattern interrupt with specificity: Reference something real about them a sharp assumption" — sources/S_igocr_suprava.ss_DXO18VQkuQq.md
-> "6 Use Bayesian Updating Every interaction = data. Most people ignore it. What to do: Track patterns: • who replies • what angle worked • where they drop" — sources/S_igocr_suprava.ss_DXO18VQkuQq.md
+> "③ Start Loss Aversion (Kahneman) People act faster to avoid loss than to gain something new." — sources/S_igocr_suprava.ss_DXO18VQkuQq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as threatening the prospect: loss aversion here frames the cost of inaction — losing X every month — rather than threatening any harm.
+- Read as a general psychology lesson: the post gives the device as a message template with a fill-in-the-blank sentence, so the entry is about the wording, not the theory.

@@ -3004,56 +3004,56 @@ Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ 
 | glossary/suprava.ss/G_igocr_suprava.ss_C-kImsDz2eV.md | lead gen | 2 |
 | glossary/suprava.ss/G_igocr_suprava.ss_C-mXOZzzgyi.md | com | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_C9_vsKITLRk.md | Suprava Sabat | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_C9jXAbVTFMc.md | Use | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_C9zV2rCC8BF.md | Acquisition | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_C_2e3qFz809.md | employee | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_CyGKZC4SE9r.md | onlyneedyourphoneand | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_C9jXAbVTFMc.md | Lead magnet | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_C9zV2rCC8BF.md | leads | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_C_2e3qFz809.md | software | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_CyGKZC4SE9r.md | scam | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_DAnzWzUzGrr.md | bounce rate | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DC6StLhTHJt.md | pain point | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DC83_rQzfwU.md | marketing | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DDJ08tYzV1g.md | WAH TEA | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DFKC5zNTZUv.md | lead details | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DFXjZD9i3XY.md | leads | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DG5LTZsMg5u.md | Suprava Sabat | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DIREsxDzTDo.md | Sabat Co-founder | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DIbjKYkC9jI.md | Add | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DKbYWEHp3de.md | yourmarketingirl_ | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DKrH6iaJy8X.md | Add | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DMX68CTJrXQ.md | THB | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DC6StLhTHJt.md | PEC Formula | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DC83_rQzfwU.md | market research | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DDJ08tYzV1g.md | Warm emails | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DFKC5zNTZUv.md | Lead Capture | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DFXjZD9i3XY.md | Personalized Video | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DG5LTZsMg5u.md | triggers | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DIREsxDzTDo.md | deliverability | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DIbjKYkC9jI.md | ice breakers | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DKbYWEHp3de.md | handwritten letters | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DKrH6iaJy8X.md | Handwrytten | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DMX68CTJrXQ.md | double-verify | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_DRNFUdhkord.md | Cloudflare | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DV03BqMkjLq.md | Clients | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVgRlH_khly.md | Share Ask | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVi3xs4kpJC.md | Claude | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DViCj-mEh8b.md | Yes | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVlEHH8EaBD.md | Hormozi | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVqaqYFEgmx.md | client | 3 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DV03BqMkjLq.md | clients | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVgRlH_khly.md | clients | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVi3xs4kpJC.md | fake employees | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DViCj-mEh8b.md | Cold Email | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVlEHH8EaBD.md | cold outreach | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVqaqYFEgmx.md | Social proof | 2 |
 | glossary/suprava.ss/G_igocr_suprava.ss_DVqpJ-lkv4z.md | GitHub | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVvmPdYkiiL.md | Suprava Sabat | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DVyQCkjErLO.md | Claude Code | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DW23T4JkbYu.md | Claude | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWHAhP2kqud.md | Suprava Sabat | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWOerZ6klVD.md | User | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWRMauekoaE.md | research | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWT1DmJkvSn.md | claude | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWTtNvnknCN.md | Suprava Sabat | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWYluDmEpVY.md | Sales Call | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWbjksOEpZ7.md | ago | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWgbrexkvu7.md | expected path | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWi30nuEnur.md | ago | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DWlShR_DsUV.md | Subject | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DXMvos3kkGD.md | people | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DXO18VQkuQq.md | people | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DXRGROvkRdb.md | ago | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DY4H0qekjSr.md | name | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DYFWF7mEjFT.md | Find | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DYNKQ9cEs_y.md | Saas | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DYRsrZgEtSq.md | Suprava Sabat | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DZ67Omfkeh1.md | Reddit | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DZm-zTzSc_N.md | people | 1 |
-| glossary/suprava.ss/G_igocr_suprava.ss_Dah5xMZksQg.md | Framework | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DalCK1-kiAj.md | ago | 3 |
-| glossary/suprava.ss/G_igocr_suprava.ss_Danc_P6kgjp.md | LinkedIn | 2 |
-| glossary/suprava.ss/G_igocr_suprava.ss_DaqHIlAEpyv.md | Subject | 3 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVvmPdYkiiL.md | spin-tax | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DVyQCkjErLO.md | Claude Code | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DW23T4JkbYu.md | first 100 users | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWHAhP2kqud.md | InMail | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWOerZ6klVD.md | cold-email-formula-builder | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWRMauekoaE.md | Claude Skill | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWT1DmJkvSn.md | Claude | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWTtNvnknCN.md | referrals | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWYluDmEpVY.md | Lead Generation | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWbjksOEpZ7.md | brand | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWgbrexkvu7.md | expected path | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWi30nuEnur.md | Sales Machine | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DWlShR_DsUV.md | Pattern Interrupt | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DXMvos3kkGD.md | viral loop | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DXO18VQkuQq.md | Loss Aversion | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DXRGROvkRdb.md | cold email | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DY4H0qekjSr.md | Cold email framework | 2 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DYFWF7mEjFT.md | directories | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DYNKQ9cEs_y.md | GTM | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DYRsrZgEtSq.md | leverage | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DZ67Omfkeh1.md | reddit-researcher | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DZm-zTzSc_N.md | act | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_Dah5xMZksQg.md | storytelling frameworks | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DalCK1-kiAj.md | cold calling | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_Danc_P6kgjp.md | acquisition funnel | 1 |
+| glossary/suprava.ss/G_igocr_suprava.ss_DaqHIlAEpyv.md | Cold email templates | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_DaskXp1ErKS.md | EFFECT | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_DavTKIYks50.md | Artifacts Search | 1 |
 | glossary/suprava.ss/G_igocr_suprava.ss_Daw8rLdEf4q.md | pitch deck | 1 |

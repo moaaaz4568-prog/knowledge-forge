@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [claude, suprava.ss account context]
+aka: [Claude]
 origin: sources/S_igocr_suprava.ss_DWT1DmJkvSn.md
 ---
 
-# G_igocr_suprava.ss_DWT1DmJkvSn — claude
+# G_igocr_suprava.ss_DWT1DmJkvSn — Claude
 
 ## Term
 
-"claude" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: milking, right, now, claude. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Claude here is the tool content creators are milking right now — the whole source is one line, 'Content creators milking claude right now: Claude', and the name appears twice. Milking means extracting value from it while it is hot, and the post gives no method, no result, and no example — the claim is the entire content. The entry records the two mentions and the verb that ties them together, nothing more.
 
 ## Synonyms
 
-- claude
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DWT1DmJkvSn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "claude": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a tutorial: the source contains no steps at all — it names the tool and the behavior, and stops there.
+- Read as criticism of the creators: 'milking' describes heavy use, and the post takes no position on whether that use is good or bad.

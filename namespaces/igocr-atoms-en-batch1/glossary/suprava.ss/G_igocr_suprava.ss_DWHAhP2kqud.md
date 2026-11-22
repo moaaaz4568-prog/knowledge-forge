@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Suprava Sabat, suprava.ss account context]
+aka: [InMail, InMails]
 origin: sources/S_igocr_suprava.ss_DWHAhP2kqud.md
 ---
 
-# G_igocr_suprava.ss_DWHAhP2kqud — Suprava Sabat
+# G_igocr_suprava.ss_DWHAhP2kqud — InMail
 
 ## Term
 
-"Suprava Sabat" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sabat, suprava, step, build. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+InMail here is one of the two LinkedIn channels the Claude Code system runs — the system finds leads on LinkedIn, sends connection requests and InMails, and classifies cold email replies. The word appears twice, once as 'InMails' and once in 'InMail Queue', beside 'connection requests', 'Sample Leads', and 'Blacklist'. The spreadsheet Claude builds has four tabs — Sample Leads, Blacklist, InMail Queue, and Connection Queue — and the n8n workflow moves warm or hot replies into the queue by priority. An InMail in this source is a queued message to a lead, not a cold blast.
 
 ## Synonyms
 
-- Suprava Sabat
-- suprava.ss account context (no variant form of the term appears in this source)
+- InMails (plural form used in the source)
 
 ## Live Example
 
 > "Suprava Sabat Step 2: Build the spreadsheet Open Claude Code → paste the spreadsheet prompt Claude builds 4 tabs: • Sample Leads • Blacklist • InMail Queue • Connection Queue Replace sample leads with your real list." — sources/S_igocr_suprava.ss_DWHAhP2kqud.md
-> "Suprava Sabat The live demo It actually works. Test leads: Gary Vee, Alex Hormozi, Leila Hormozi • Agent visits profile • Finds Connect button or clicks three dot menu • Sends connection request • All 3 went through live on camera Add a note to your invitation? Personalize your invitation to Alex Hormozi by adding a note. LinkedIn members are more likely to accept invitations that include a note." — sources/S_igocr_suprava.ss_DWHAhP2kqud.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Suprava Sabat": the usage here is bounded to an OCR-transcribed Instagram carousel of 11 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as LinkedIn's paid messaging feature in general: InMail here is a queue inside a spreadsheet the system manages — leads enter it by priority after a warm or hot reply, not by buying credits.
+- Read as the same as a connection request: the system sends both, but they sit in separate queues — InMail Queue and Connection Queue — and the workflow treats them as different steps.

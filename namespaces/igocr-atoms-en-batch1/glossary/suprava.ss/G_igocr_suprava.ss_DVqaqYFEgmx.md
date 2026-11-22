@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [client, suprava.ss account context]
+aka: [Social proof]
 origin: sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
 ---
 
-# G_igocr_suprava.ss_DVqaqYFEgmx — client
+# G_igocr_suprava.ss_DVqaqYFEgmx — Social proof
 
 ## Term
 
-"client" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: steve, find, top, success. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Social proof here is the force that kills fear — people copy what works for others — and Suprava builds three strategies on it: content posting as mini case studies, connection requests that mention a prospect's post, and a referral system that tags happy clients. The phrase appears twice, beside 'kills fear', 'People copy', and 'referral'. The numbers are concrete: post 2–3 times a week on Tuesday, Wednesday, or Thursday between 9 and 11 AM, structure each post as problem, solution, result, and ask a specific question. Trust transfers in this source: the trust in a past client rubs off on the prospect.
 
 ## Synonyms
 
-- client
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "prospects ent Connection request Find top 5 client success stories Create case study posts Tagging them Look through their connections Post 2-3 times (not 3-5 times daily like Post on Tuesday (Employees) Focus on one client proble in Steve I noticed [client], Steve Would you be Do you have done for you ?" — sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
-> "I noticed you're connected to [client]. We helped them [transformation]. I think this could work for your [industry]." — sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
-> "Trust transfer their trust in your past client rubs off on the prospect happy client = dozens of referral Network effect ral sources nailed it!" — sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
+> "Social proof kills fear. People copy what works for others." — sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
+> "Suprava Sab Hey Steve, we a little on your requirements :) Their trust in your past client rubs off on the prospect Every happy client = dozens of referral sour work Ask specific question, not fect Social proof ki People copy what wo HOW TO GET CLIENTS USING LinkedIn Swipe →" — sources/S_igocr_suprava.ss_DVqaqYFEgmx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "client": the usage here is bounded to an OCR-transcribed Instagram carousel of 4 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as posting testimonials: social proof here is a system — case-study posts, warm connection requests, and referrals that tag clients — not a quote pasted on a page.
+- Read as a trick to look popular: the post's proof is specific — response rates jumping from 1% to 12%, a named client transformation — so vague claims of popularity do not count as proof in this source.

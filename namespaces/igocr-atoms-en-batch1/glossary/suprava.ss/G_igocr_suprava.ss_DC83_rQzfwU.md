@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [marketing, suprava.ss account context]
+aka: [market research]
 origin: sources/S_igocr_suprava.ss_DC83_rQzfwU.md
 ---
 
-# G_igocr_suprava.ss_DC83_rQzfwU — marketing
+# G_igocr_suprava.ss_DC83_rQzfwU — market research
 
 ## Term
 
-"marketing" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: oversees, marketing, typically, officer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Market research here is the ChatGPT workflow that maps a market before any outreach — identify the target industry, the job titles behind the outcome, and the roles with authority to decide. The phrase appears three times, beside 'ChatGPT', 'ICP', and 'B2B SaaS'. The post walks it step by step: a prompt that states the target market and the ICP, then a second prompt that lists the responsible titles from CMO down to BDR, then a third that names the decision-makers. The research ends in an email template, with a Lead Formatter step to segment the leads it finds.
 
 ## Synonyms
 
-- marketing
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Sales Development Representative (SDR): Focuses on outbound prospecting, generating and qualifying leads, and scheduling meetings for the sales team. 5. Business Development Representative (BDR): Similar to SDRs, responsible for prospecting and generating leads, often in collaboration with marketing." — sources/S_igocr_suprava.ss_DC83_rQzfwU.md
+> "You We want to conduct market research on B2B SaaS companies in order to better sell them our Lead Generation Services. Our ICP is B2B SaaS companies, located in the USA, with at least 10 employees and doing over $1 million a year. Please respond" — sources/S_igocr_suprava.ss_DC83_rQzfwU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "marketing": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as generic web searching: the research here is three named ChatGPT prompts with a filled-in ICP — industry, job titles, decision authority — not a browse for background reading.
+- Read as a one-off exercise: the post applies the research straight to email templates through a Lead Formatter step, so research that never reaches an email is unfinished work in this post.

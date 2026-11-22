@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Clients, suprava.ss account context]
+aka: [clients]
 origin: sources/S_igocr_suprava.ss_DV03BqMkjLq.md
 ---
 
-# G_igocr_suprava.ss_DV03BqMkjLq — Clients
+# G_igocr_suprava.ss_DV03BqMkjLq — clients
 
 ## Term
 
-"Clients" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: never, lose, customer, attract. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Clients here are what the five books teach you to win and keep — how to get clients, never lose a customer again, hug your customers, make $100M offers, and win without pitching. The word appears six times, beside 'GET', 'Attract', and 'Retain'. The post sorts the books by job: Sell Like Crazy attracts clients, Win Without Pitching closes them, The Trusted Advisor builds trust, and Never Lose a Customer Again retains them. A client in this source is the person the books revolve around, from first attraction to lifelong loyalty in 100 days.
 
 ## Synonyms
 
-- Clients
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "✦ TOP 5 BOOKS ✦ That will teach you HOW TO GET CLIENTS NEVER LOSE A CUSTOMER AGAIN JOEY COLEMAN HUG YOUR CUSTOMERS JACK MITCHELL $100M OFFERS ALEX HORMOZI ALEX HORMOZI THE TRUSTED ADVISOR DAVID H. MAISTER, CHARLES H. GREEN & ROBERT M. GALFORD Win Without Pitching Manifesto Blair Enns" — sources/S_igocr_suprava.ss_DV03BqMkjLq.md
-> "(Close Clients) The Win Without Pitching Manifesto Blair Enns" — sources/S_igocr_suprava.ss_DV03BqMkjLq.md
-> "(Retain Clients) NEVER LOSE A CUSTOMER AGAIN Turn Any Sale into Lifelong Loyalty in 100 Days JOEY COLEMAN" — sources/S_igocr_suprava.ss_DV03BqMkjLq.md
+> "(Attract Clients) SELL LIKE CRAZY HOW TO GET AS MANY CLIENTS, CUSTOMERS AND SALES AS YOU CAN POSSIBLY HANDLE. SABRI SUBY" — sources/S_igocr_suprava.ss_DV03BqMkjLq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Clients": the usage here is bounded to an OCR-transcribed Instagram carousel of 5 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a ranking of the books: the post never says which book is best — it assigns each one a job, attract, close, trust, or retain, and the five together cover the client lifecycle.
+- Read as a claim that reading them wins clients: the books are recommendations with subtitles and authors, and the post shows no result from reading them.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [WAH TEA, suprava.ss account context]
+aka: [Warm emails, warm emailing]
 origin: sources/S_igocr_suprava.ss_DDJ08tYzV1g.md
 ---
 
-# G_igocr_suprava.ss_DDJ08tYzV1g — WAH TEA
+# G_igocr_suprava.ss_DDJ08tYzV1g — Warm emails
 
 ## Term
 
-"WAH TEA" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tea, wah, clients, sign. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Warm emails are Suprava's replacement for cold email in 2025 — the post declares cold email dead by comparison and lays out five warm moves, from lead magnets to retargeting newsletter subscribers. The phrase appears once, beside 'cold email', '2025', and 'sign clients', and its verb form 'warm emailing' appears once more. Warm here means the prospect has already met the brand — through a lead magnet click, a tracked social signal, or a LinkedIn funnel — so the email arrives after contact, not before it. The post's proof is the system around the email, not the email alone.
 
 ## Synonyms
 
-- WAH TEA
-- suprava.ss account context (no variant form of the term appears in this source)
+- warm emailing (the verb form the source uses)
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DDJ08tYzV1g.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "WAH TEA": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a friendlier tone of cold email: warm in this post is about prior contact — a clicked lead magnet, a tracked post, a LinkedIn funnel — not about writing more politely to strangers.
+- Read as a prediction that cold email stops working: the post says warm emails will kill cold email, but its own five steps still use email throughout, so the change is in how the contact starts.

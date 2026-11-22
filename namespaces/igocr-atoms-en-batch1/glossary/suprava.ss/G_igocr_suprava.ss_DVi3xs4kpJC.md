@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Claude, suprava.ss account context]
+aka: [fake employees]
 origin: sources/S_igocr_suprava.ss_DVi3xs4kpJC.md
 ---
 
-# G_igocr_suprava.ss_DVi3xs4kpJC — Claude
+# G_igocr_suprava.ss_DVi3xs4kpJC — fake employees
 
 ## Term
 
-"Claude" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: app, claude, open, meet. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Fake employees are the ten AI tools Suprava hired that never ask for a raise — and she credits them with helping reach $100k MRR. The phrase appears once, beside 'never ask for a raise', '$100k MRR', and 'Swipe'. The post then tours the hires by job: Trigify and ReactIn for social listening and intent data, Perplexity and Claude for research, Gamma and Notion for decks, Smartlead and Zapmail for outreach, ClickUp and Breakcold for CRM. A fake employee here is a named tool doing one team's job, not a person and not a joke about layoffs.
 
 ## Synonyms
 
-- Claude
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "For Research Perplexity Claude perplexity Open in App What do you want to know? Claude Open in App Meet Claude Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work. with Claude Create with Claude Draft and iterate on websites, graphics, documents, and code alongside your chat with Artifacts." — sources/S_igocr_suprava.ss_DVi3xs4kpJC.md
+> "I hired 10 fake employees (who never ask for a raise) And has helped us reach $100k MRR !! Swipe →" — sources/S_igocr_suprava.ss_DVi3xs4kpJC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Claude": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a claim that AI replaced a team: the post lists tools by category and gives no headcount before or after, so the $100k MRR is attached to the tool stack, not to a firing.
+- Read as ten employees in the literal sense: every 'employee' named after the hook is a product — Trigify, Claude, Gamma, Smartlead — and the post never describes a human hire.

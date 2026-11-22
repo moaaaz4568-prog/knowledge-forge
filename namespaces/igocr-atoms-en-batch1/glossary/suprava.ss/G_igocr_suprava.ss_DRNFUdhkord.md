@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Cloudflare, suprava.ss account context]
+aka: [Cloudflare]
 origin: sources/S_igocr_suprava.ss_DRNFUdhkord.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_igocr_suprava.ss_DRNFUdhkord.md
 
 ## Term
 
-No content word repeats often enough in this short source (9 words) to form a repeated term, so this entry documents the source's central term "Cloudflare" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cloudflare here is the service whose check the page is stuck on — the whole source is three stray words, 'Alcohol', 'Weed', 'Cocaine', followed by 'Waiting for Cloudflare... to get fixed'. The name appears once, beside 'Waiting for', 'to get fixed', and the three nouns. There is no argument or advice in the source; Cloudflare is named only as the gate the page is waiting on. The entry records that single use rather than inventing a concept the fragment does not contain.
 
 ## Synonyms
 
-- Cloudflare
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (9 words) to form a re
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Cloudflare": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a claim about Cloudflare's product: the source says nothing about what Cloudflare does — it only shows a page waiting for a Cloudflare check to finish.
+- Read as a list of topics the post covers: the three nouns before the Cloudflare line have no connection to each other or to the check, so the source has no subject beyond the waiting screen.

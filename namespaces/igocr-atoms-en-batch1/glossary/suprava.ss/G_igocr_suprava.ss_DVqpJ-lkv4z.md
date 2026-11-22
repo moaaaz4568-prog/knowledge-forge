@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [GitHub, suprava.ss account context]
+aka: [GitHub]
 origin: sources/S_igocr_suprava.ss_DVqpJ-lkv4z.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_igocr_suprava.ss_DVqpJ-lkv4z.md
 
 ## Term
 
-"GitHub" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: commun, githubprojects, please, something. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+GitHub here is the platform Theo says needs replacing — 'It’s probably time for something new to replace GitHub' — and the replies ask for the repo link. The name appears four times, three as a standalone word and once glued into 'GithubProjects', beside 'replace', 'GitHub Projects', and 'repo link'. The post is a screenshot of a short exchange: Theo's claim, engagement numbers, and a GitHub Projects account asking for the repository link. No replacement is named and no reason is given — the claim stands alone.
 
 ## Synonyms
 
-- GitHub
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_DVqpJ-lkv4z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "GitHub": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as an argument against GitHub: the post states that something new should replace GitHub but gives no flaw, no alternative, and no evidence — it is a provocation, not a case.
+- Read as Suprava's opinion: the words belong to Theo of t3.gg, reposted on Suprava's account, and the only other voice asks for the repo link.

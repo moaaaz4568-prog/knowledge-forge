@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [yourmarketingirl_, suprava.ss account context]
+aka: [handwritten letters]
 origin: sources/S_igocr_suprava.ss_DKbYWEHp3de.md
 ---
 
-# G_igocr_suprava.ss_DKbYWEHp3de — yourmarketingirl_
+# G_igocr_suprava.ss_DKbYWEHp3de — handwritten letters
 
 ## Term
 
-"yourmarketingirl_" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, people, 13m, handwritten. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Handwritten letters here are the unscalable move that closes $100K+ deals while cold emails get ignored — a slightly crooked envelope, a name written in pen, ink that smudges a little when touched. The phrase appears once, beside '$100K+ deals', 'cold emails', and 'Effort is rare'. The post's example is a founder who closed a $70K deal from one letter, with no subject line, no follow-up, and no tech stack. The letter works because effort is rare in a world of bots, and the post's rule is high friction means high conversion.
 
 ## Synonyms
 
-- yourmarketingirl_
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "yourmarketingirl_ 13m Handwritten letters are closing $100K+ deals while cold emails get ignored. In a world racing to automate everything, the most unscalable move is now the most effective. Here’s the biggest shift in lead generation no one saw coming 📜👇" — sources/S_igocr_suprava.ss_DKbYWEHp3de.md
-> "yourmarketingirl_ 4m AI gets you in the door. Being human gets you remembered. Let the bots handle the backend. You handle the part that actually builds trust" — sources/S_igocr_suprava.ss_DKbYWEHp3de.md
-> "yourmarketingirl_ 2m Most people want shortcuts. That's why they'll stay average. The winners? They're writing with pens while everyone else is engineering prompt stacks. They're humanizing the game. And they're getting insane response rates... with zero automation." — sources/S_igocr_suprava.ss_DKbYWEHp3de.md
+> "yourmarketingirl_ 6m A founder I know closed a $70K deal from ONE letter. No subject line. No follow-up. No tech stack. Just a raw, messy, honest message. Because in a world of bots... 👉 Effort is rare. And rare is valuable." — sources/S_igocr_suprava.ss_DKbYWEHp3de.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "yourmarketingirl_": the usage here is bounded to an OCR-transcribed Instagram carousel of 9 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a rejection of AI: the post says AI gets you in the door and being human gets you remembered — the letter is for the part that builds trust, while bots still handle the backend.
+- Read as a mass-mailing tactic: the letter works because exactly one person got it — a founder who closed $70K from one letter — so sending letters in bulk would break the effect the post describes.

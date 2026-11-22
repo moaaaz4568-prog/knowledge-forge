@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Claude Code, suprava.ss account context]
+aka: [Claude Code, Claude]
 origin: sources/S_igocr_suprava.ss_DVyQCkjErLO.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_igocr_suprava.ss_DVyQCkjErLO.md
 
 ## Term
 
-"Claude Code" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: claude, code, builds, research. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Claude Code here is the tool that builds small lead-gen tools — tell it what you want, it builds the tool, you click run. The phrase appears six times, beside 'lead puller', 'One tool', and '$200/mo'. The post's rule is to pick one bottleneck, not build a whole system: hate pulling leads manually, build a lead puller; hate cleaning lists, build a list cleaner; hate uploading to SmartLead, build an auto-pusher. The stack is Claude Code at $200 a month, GitHub to save the code, and Railway to run the tools all day without the laptop open. The pitch is that no coding is needed — the user has to talk like an operator.
 
 ## Synonyms
 
-- Claude Code
-- suprava.ss account context (no variant form of the term appears in this source)
+- Claude (the short form the source uses)
 
 ## Live Example
 
-> "Suprava Sabat @supravasabat How to generate leads using Claude Code Swipe ->" — sources/S_igocr_suprava.ss_DVyQCkjErLO.md
+> "Suprava Sabat @supravasabat Claude Code builds small tools that do your boring lead gen work. You tell it what you want:" — sources/S_igocr_suprava.ss_DVyQCkjErLO.md
 > "Suprava Sabat @supravasabat Here's what you need: • Claude Code ($200/mo) - builds your tools • GitHub - saves your code so nothing gets lost • Railway - runs your tools 24/7 without your laptop open Per month/ per seat $200" — sources/S_igocr_suprava.ss_DVyQCkjErLO.md
-> "if you need a guide on how you can build lead gen systems with claude. CLAUDE CODE" — sources/S_igocr_suprava.ss_DVyQCkjErLO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Claude Code": the usage here is bounded to an OCR-transcribed Instagram carousel of 5 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a coding course: the post says you do not need to code — the work is describing the bottleneck like an operator, and Claude Code writes the tool.
+- Read as a complete lead-gen system: the post warns against building a whole system and insists on one tool for one bottleneck, then stacking wins one at a time.

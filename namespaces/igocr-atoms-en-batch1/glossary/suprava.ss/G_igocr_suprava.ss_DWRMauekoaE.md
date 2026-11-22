@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [research, suprava.ss account context]
+aka: [Claude Skill]
 origin: sources/S_igocr_suprava.ss_DWRMauekoaE.md
 ---
 
-# G_igocr_suprava.ss_DWRMauekoaE — research
+# G_igocr_suprava.ss_DWRMauekoaE — Claude Skill
 
 ## Term
 
-"research" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 18 times in the text (whole-word matches, case folded), and the words most often collocated with it are: marketing, skill, research, strategy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Claude Skill here is the reusable package Suprava builds from her own process — take the marketing research process already followed, paste it into a skill, and let Claude search the web with it. The phrase appears twice, beside 'Marketing-research-strategy', 'Perplexity MCP', and 'reusable'. The post builds five of them: marketing research, social content, creative design, data analysis, and campaign presenting — and packages all five into a plugin called 'ai-marketing-skills' with a custom /landing-page command. A skill in this source is a saved process with its SOP and examples, not a prompt typed fresh each time.
 
 ## Synonyms
 
-- research
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Skills Content Design Marketing Research Brand Growth Projects Systems Marketing Research Type Skill Add property Add a comment... Customer research Competitor research Skill 1: Marketing research Go to your google docs or notion. Find the research process you already follow. Copy it." — sources/S_igocr_suprava.ss_DWRMauekoaE.md
-> "Paste that process into a claude flexibility so it can search the web. connect perplexity so it can search the web. that's it. Your research assistant is ready." — sources/S_igocr_suprava.ss_DWRMauekoaE.md
+> "that generates on-branded social media content using these best practices for any given topic or direction from the user. The skill should also use the Perplexity MCP to find relevant trending conversations and hot Add your writing framework how you structure hooks, stories, CTAs. Claude reads all of it and now writes posts the way you write them." — sources/S_igocr_suprava.ss_DWRMauekoaE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "research": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a prompt: a skill here is a saved process — the SOP, the examples, the writing framework — that Claude reads every time, not a one-off instruction.
+- Read as five separate tools: the post ends by packaging all five skills into one plugin, so they are meant to run together with the right one picked per task.

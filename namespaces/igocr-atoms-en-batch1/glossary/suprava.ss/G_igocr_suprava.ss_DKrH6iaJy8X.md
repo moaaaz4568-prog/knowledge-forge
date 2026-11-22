@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [Add, suprava.ss account context]
+aka: [Handwrytten]
 origin: sources/S_igocr_suprava.ss_DKrH6iaJy8X.md
 ---
 
-# G_igocr_suprava.ss_DKrH6iaJy8X — Add
+# G_igocr_suprava.ss_DKrH6iaJy8X — Handwrytten
 
 ## Term
 
-"Add" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: requested, date, edit, new. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Handwrytten is the service Suprava uses to send handwritten cards at scale — AI-powered connections in pen and ink, ordered through a ten-step flow from account creation to payment. The name appears seven times, beside 'Your words', 'In pen + ink', and 'BULK SEND'. The steps the post shows are concrete: install the Instant Data Scraper, open Custom Cards, bulk-send, add the requested date, upload the bulk list with location and letter, then add a company address and pay — the example order is $4.48. Each card must stay under 500 characters, and every field must be filled.
 
 ## Synonyms
 
-- Add
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
+> "handwrytten.com handwrytten Business Features Integrations Pricing 1. Create an account on handwrytten Your words. In pen + ink. START WRITING Handwrytten. AI-powered Connections at Scale. Hello Brittany! From all of us at ... wanted to thank ... not be disappointe ... coming out this m ... new customer ... that we can ... client-s ... MacBook Air" — sources/S_igocr_suprava.ss_DKrH6iaJy8X.md
 > "Make sure to properly customise it properly Handwrytten Back Customization HEADER Open Sans + OR ADD YOUR LOGO Recommended resolution: 225px Hello! This is a sample handwrytten message. You will type your own message & choose your handwrytten style by clicking" — sources/S_igocr_suprava.ss_DKrH6iaJy8X.md
-> "Download a Template Add a Tag to Your Contacts Add/Update recipients in address book Custom Inserts (Optional) Inc. | Privacy Policy | Contact Us" — sources/S_igocr_suprava.ss_DKrH6iaJy8X.md
-> "9. Add your company address Edit Address Suprava Sabat AcquisitionX 55 Front Street West Address 2 (Optional) I united states13 / 25 United States AZ M5J 1E6 7 / 10 12 / 45 Characters 12 / 45 Phone (Optional) 20 / 45 13 / 25 7 / 10 Advanced 55 Front S Bladensbu Washingto washington tional)" — sources/S_igocr_suprava.ss_DKrH6iaJy8X.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Add": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as handwriting the cards yourself: Handwrytten here is a service with robots that write in pen and ink — the user types the message and picks a style, and the service writes and sends it.
+- Read as a free tool: the post ends at a payment step with a $4.48 order, so the cards are bought per order, not generated for free.

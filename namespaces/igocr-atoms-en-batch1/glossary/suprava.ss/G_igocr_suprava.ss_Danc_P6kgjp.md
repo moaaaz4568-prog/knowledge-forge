@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [LinkedIn, suprava.ss account context]
+aka: [acquisition funnel]
 origin: sources/S_igocr_suprava.ss_Danc_P6kgjp.md
 ---
 
-# G_igocr_suprava.ss_Danc_P6kgjp — LinkedIn
+# G_igocr_suprava.ss_Danc_P6kgjp — acquisition funnel
 
 ## Term
 
-"LinkedIn" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: growth, tracks, title, changes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Acquisition funnel here is the best one working for a company that tracks LinkedIn title changes — when a head of growth turns fractional or consultant, that is a layoff, and the company recruits them as channel partners at 20% commission. The phrase appears once, beside 'title changes', '20% commission', and 'relationships'. The post collects three such hacks: the title-change funnel, an agency whose whole outbound is replying to prospects' LinkedIn posts with two likes, and a 19-year-old who scrapes app-store reviews for 'I wish it could' and builds mini SaaS from the wishes. The funnel works because the new partners still hold relationships with every vendor decision-maker at their old company and five others.
 
 ## Synonyms
 
-- LinkedIn
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "2. one company tracks title changes on linkedin from" — sources/S_igocr_suprava.ss_Danc_P6kgjp.md
-> "5. one agency's entire outbound is replying to prospects' LinkedIn posts with 2 likes. the founder actually reads your reply when nobody else showed up. They run LinkedIn growth agency" — sources/S_igocr_suprava.ss_Danc_P6kgjp.md
+> "that’s a layoff they recruits them as channel partners and offers them 20% commission cuz they still have relationships with every vendor decision-maker at their old company and five others. This is the best acquisition funnel that’s working for them" — sources/S_igocr_suprava.ss_Danc_P6kgjp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "LinkedIn": the usage here is bounded to an OCR-transcribed Instagram carousel of 4 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a hiring tactic: the funnel does not hire the laid-off growth leads — it recruits them as channel partners who bring their old vendor relationships.
+- Read as a proven playbook: the post calls it the best acquisition funnel working for them, but gives no numbers for it — the proof offered is the mechanism, not a result.

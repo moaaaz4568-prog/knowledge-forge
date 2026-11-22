@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: suprava.ss
-aka: [employee, suprava.ss account context]
+aka: [software]
 origin: sources/S_igocr_suprava.ss_C_2e3qFz809.md
 ---
 
-# G_igocr_suprava.ss_C_2e3qFz809 — employee
+# G_igocr_suprava.ss_C_2e3qFz809 — software
 
 ## Term
 
-"employee" is the most frequent repeated content term in this source (an Instagram OCR post from the suprava.ss account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: software, asoftwarecandothesamework3xfaster, choose, scale. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Software here is the thing to buy instead of hiring — if a piece of software does the same work three times faster than an employee, choose the software. The word appears three times, beside '3x faster', 'employee', and '$700'. The post prices the choice directly: $700 of software against a $300 employee, and argues for high margin over a low-return team. Saving time is the point — the more time you save, the better you scale.
 
 ## Synonyms
 
-- employee
-- suprava.ss account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_suprava.ss_C_2e3qFz809.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "employee": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as any app the team uses: software counts here only when it replaces an employee's work at three times the speed — the post is about substitution, not about tools in general.
+- Read as a cost-saving tip: the comparison is $700 of software against a $300 employee, so the software costs more up front and wins on speed and margin, not on price.
