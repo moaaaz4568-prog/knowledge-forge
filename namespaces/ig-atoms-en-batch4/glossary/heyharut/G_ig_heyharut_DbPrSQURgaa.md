@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: heyharut
-aka: [one, heyharut account context]
+aka: [the easier path]
 origin: sources/S_ig_heyharut_DbPrSQURgaa.md
 ---
 
-# G_ig_heyharut_DbPrSQURgaa — one
+# G_ig_heyharut_DbPrSQURgaa — the easier path
 
 ## Term
 
-"one" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ever, watching, gym, waking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The easier path is the choice Harut says people keep making for years because it feels safer: waking up at 5am and going to the gym is hard, but the harder thing is realising you spent years on the safe route while no one was watching. The phrase appears once in this source, beside a little bit more courage, leg day in the gym, and no one was keeping score, and the turn is that nobody was thinking about you at all, so the fear that kept you safe was wasted. The life you wanted was waiting on the other side of a little bit more courage all along, and the easier path is what stood between you and it. It is a regret framed as a question, not a plan.
 
 ## Synonyms
 
-- one
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_heyharut_DbPrSQURgaa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "one": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to skip the gym: the 5am gym trip is the easy comparison, and the hard thing is the years of safe choices, so the gym is not the enemy.
+- Read as a claim that people judge you: the source insists no one was watching and no one was keeping score, so the audience that scared you never existed.

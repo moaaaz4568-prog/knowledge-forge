@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: heyharut
-aka: [murdered, heyharut account context]
+aka: [refrain]
 origin: sources/S_ig_heyharut_DbJvUr4Trjv.md
 ---
 
-# G_ig_heyharut_DbJvUr4Trjv — murdered
+# G_ig_heyharut_DbJvUr4Trjv — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (16 words) to form a repeated term, so this entry documents the source's central term "murdered" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `refrain` is a type label only, because the whole source is two sung lyric lines with nothing to define. The lines ask whether you are coming to the tree and say a man was strung up for murdering three, and no business idea, instruction, or named concept appears anywhere in the sixteen words. The refrain is quoted as a lyric fragment, so the entry records its wording and nothing more. Any reading that treats the tree or the three murders as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- murdered
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (16 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "murdered": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Harut's advice: the lines are song lyrics he sings, so they carry no instruction about business or content.
+- Read as a reference to a real event: the lyric is a quoted fragment with no context in the source, so it proves nothing about anything Harut believes.

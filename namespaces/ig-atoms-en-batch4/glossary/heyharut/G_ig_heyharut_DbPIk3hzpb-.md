@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [think, heyharut account context]
+aka: [one thousand times]
 origin: sources/S_ig_heyharut_DbPIk3hzpb-.md
 ---
 
-# G_ig_heyharut_DbPIk3hzpb- — think
+# G_ig_heyharut_DbPIk3hzpb- — one thousand times
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: post, itharmozzi, people, many. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+One thousand times is how often Harut says he posted the Hormozi clip, and the point of the number is that the audience kept watching anyway. The phrase appears once in this source, beside keep watching, keep liking and commenting, and continue annoying you, and the joke is that people ask how many times he can post the same clip while still watching it. He answers by promising to keep annoying them with videos like this, so the thousand reposts are proof that repetition works rather than a complaint about the audience. The number is the argument: the same clip, posted again, still earns attention.
 
 ## Synonyms
 
-- think
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And you know what's funny? Every time that we post to Itharmozzi, people think" — sources/S_ig_heyharut_DbPIk3hzpb-.md
-> "So I guess you guys like it, so I think we're gonna continue annoying you with videos like this." — sources/S_ig_heyharut_DbPIk3hzpb-.md
+> "You posted one thousand times, and yet they keep watching and they keep liking and commenting." — sources/S_ig_heyharut_DbPIk3hzpb-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an exact count: Harut rounds the reposts to one thousand, so the phrase is a boast about repetition, not an analytics report.
+- Read as proof the audience loves the clip: they keep watching and liking, but Harut frames it as annoying them, so the watching is tolerance, not fandom.

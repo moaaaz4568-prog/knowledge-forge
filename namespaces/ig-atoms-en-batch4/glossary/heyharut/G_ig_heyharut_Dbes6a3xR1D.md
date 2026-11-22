@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [becomes, heyharut account context]
+aka: [avatar]
 origin: sources/S_ig_heyharut_Dbes6a3xR1D.md
 ---
 
-# G_ig_heyharut_Dbes6a3xR1D — becomes
+# G_ig_heyharut_Dbes6a3xR1D — avatar
 
 ## Term
 
-"becomes" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: market, offer, becomes, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Avatar is what Harut niches down instead of the positioning: he does not like coming up with the positioning or niching down, he likes niching down the avatar, talking to the avatar, and seeing what they want and need. The word appears three times in this source, beside niching down, the pattern, and what I market, and the method is to ask the avatar what they are struggling with until a pattern shows up. That pattern becomes what he markets, becomes his offer, and becomes what he helps people with, so the avatar's own words write the offer. An avatar here is the specific person to serve, not a demographic label.
 
 ## Synonyms
 
-- becomes
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'll see the pattern that becomes what I market, that becomes my offer, that becomes what I help people with. If you talk to them, they'll tell you not me, and then that becomes exactly what they want." — sources/S_ig_heyharut_Dbes6a3xR1D.md
+> "I don't like coming up niching down. I like niching down the avatar." — sources/S_ig_heyharut_Dbes6a3xR1D.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "becomes": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as picking a niche market: Harut rejects niching down the market and niches the person instead, so the avatar is a who, not a what.
+- Read as guessing what people want: the avatar tells Harut what they struggle with, so the offer comes from their words, not from his assumptions.

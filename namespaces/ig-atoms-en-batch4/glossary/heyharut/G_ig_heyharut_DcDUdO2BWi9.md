@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [faster, heyharut account context]
+aka: [faster results]
 origin: sources/S_ig_heyharut_DcDUdO2BWi9.md
 ---
 
-# G_ig_heyharut_DcDUdO2BWi9 — faster
+# G_ig_heyharut_DcDUdO2BWi9 — faster results
 
 ## Term
 
-"faster" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: results, therefore, faster, create. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Faster results is the goal Harut sets for client work: if a client joins and gets fifty things to do, they will be confused and not grow, so the work is to simplify everything until the path is clear. The phrase appears twice in this source, beside simplifying everything, mental bandwidth, and prioritize one thing, and the method is to identify the most important thing they should do, name what they should stop doing, and give back time and mental bandwidth. Because it is simpler and they have clarity, the client moves faster, and faster results mean more case studies, more referrals, and more upsells. Faster results here is the outcome of removing steps, not of pushing the client harder.
 
 ## Synonyms
 
-- faster
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if a client joins you and you give them fifty things to do, they are going to be confused and not grow. How do I create results faster for clients? By simplifying everything. The path is too complicated. So identify what's the most important thing they should do." — sources/S_ig_heyharut_DcDUdO2BWi9.md
-> "Identify what are the things that they are doing that they should stop doing, so they get back time, mental bandwidth, stop the things that are actively hurting them, and then prioritize one thing. And because it's simpler and they have clarity, it will lead into more speed and faster execution. Therefore, they'll get faster results." — sources/S_ig_heyharut_DcDUdO2BWi9.md
-> "And faster results means more case studies, more referrals, more upsells for you, which is great." — sources/S_ig_heyharut_DcDUdO2BWi9.md
+> "And because it's simpler and they have clarity, it will lead into more speed and faster execution. Therefore, they'll get faster results." — sources/S_ig_heyharut_DcDUdO2BWi9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "faster": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as rushing the client: the speed comes from a simpler path with fewer steps, so the client does less, not more, and does it sooner.
+- Read as a claim that simplicity alone sells: the results must actually arrive for the case studies and referrals to follow, so the simplification has to work, not just feel clear.

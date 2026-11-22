@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [full volume]
 origin: sources/S_ig_heyharut_Dc7MzUBhDpy.md
 ---
 
-# G_ig_heyharut_Dc7MzUBhDpy — people
+# G_ig_heyharut_Dc7MzUBhDpy — full volume
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: opinions, like, people, yes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Full volume is Harut's definition of growth in this source: growth is usually not a new idea, it is an old idea done at a full volume, and the proof is a Hormozi clip posted over 1,000 times that brought tens of millions of views. The phrase appears once in this source, beside 24 threads a day, do way more of what works, and people need to be reminded, and the method is to take what already worked, repeat it shamelessly for ninety days, and let the extra data show what works better. He admits people complain they have seen the clip before, and answers that 99% of people have never seen you and the rest forgot, so repetition still reaches new people. Full volume here is the old idea repeated until it compounds, not a new idea.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the reason why we posted that Hormozi clip so many times is because it works. And yes, sure, some people say I already have seen it, or you're only posting this, but I don't care. I'm not gonna stop other people's opinions from doing what's best for me. If people like it, if people keep watching it, even if they complain, they still watch it, I'm gonna do more of that." — sources/S_ig_heyharut_Dc7MzUBhDpy.md
-> "And I think so many of us let other people's opinions and our fear of judgment stop us from doing what works. So if you're just posting one reel a day, and I'm posting three or four, and I'm posting 10 viral reels a day, and I'm posting 24 threads a day, and we are keeping the quality high, and also we get more data on what actually works to go and do higher quality, how are you gonna compete?" — sources/S_ig_heyharut_Dc7MzUBhDpy.md
-> "Because some couple of percentage of people will complain that they already saw it. Who cares? They can just swipe and they never see you again. Do what's best for your business. Even this video is literally one that I already have made before. Here's the proof. I literally said almost the same thing there. Here I just added a little bit more nuance. And yet, have you seen that previous video?" — sources/S_ig_heyharut_Dc7MzUBhDpy.md
+> "Growth is usually not a new idea, it's an old idea done at a full volume." — sources/S_ig_heyharut_Dc7MzUBhDpy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a licence to spam: the volume is aimed at proven material, and Harut's test is whether people keep watching, so untested repetition is outside the claim.
+- Read as a claim that quality does not matter: Harut redefines quality as what works, so the volume is the way to find quality, not a replacement for it.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: heyharut
-aka: [ton papa, heyharut account context]
+language: fr
+aka: [refrain]
 origin: sources/S_ig_heyharut_DbjYhdeBEr4.md
 ---
 
-# G_ig_heyharut_DbjYhdeBEr4 — ton papa
+# G_ig_heyharut_DbjYhdeBEr4 — refrain
 
 ## Term
 
-"ton papa" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: est, dis-moi, papa, ton. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `refrain` is a type label only, because the whole source is a few sung French lyric lines with nothing to define. The lines ask where your father is, twice over, and the source is in French, so the entry keeps the lyric in its original French wording. No business idea, instruction, or named concept appears anywhere in the thirty-seven words, and the refrain is quoted as a song fragment, so the entry records its wording and nothing more. Any reading that treats the missing father as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- ton papa
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Y a mieux qu'être mal accompagné, pas vrai? Où est ton papa? Dis-moi où est ton papa? Sans même devoir lui parler, il sait ce qu'il ne va pas. À chaque repas, dis-moi où est du caché." — sources/S_ig_heyharut_DbjYhdeBEr4.md
+> "Où est ton papa? Dis-moi où est ton papa?" — sources/S_ig_heyharut_DbjYhdeBEr4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ton papa": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Harut's question to the viewer: the lines are French song lyrics he sings, so they are not a question he asks his audience.
+- Read as a statement about fathers: the lyric is a quoted fragment with no context in the source, so it proves nothing about anything Harut believes.

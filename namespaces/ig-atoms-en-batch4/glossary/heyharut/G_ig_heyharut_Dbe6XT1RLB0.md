@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: heyharut
-aka: [community, heyharut account context]
+aka: [community]
 origin: sources/S_ig_heyharut_Dbe6XT1RLB0.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_heyharut_Dbe6XT1RLB0.md
 
 ## Term
 
-"community" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: software, even, added, getting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Community is what Harut tells the questioner to get working before adding software: first focus on getting sales from your community, and only then worry about software with the community. The word appears six times in this source, beside SaaS, software, and funnel, and the order matters because building SaaS is a lot of work and the community is what reveals the real problems a software could solve. Once the community is working, he asks members what problems they have and builds software for that specific problem to make the community or funnel even more valuable. The community here is the source of the product idea, not an audience to sell software to.
 
 ## Synonyms
 
-- community
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No, I don't like that idea. I would not do that. They say I have when I have some community, I have added some software or SaaS. No, I don't like that idea. I would not do that. It makes a lot of work to actually make SaaS work. I would first focus on getting sales from your community. Then you can go and worry about let's also have software with the community, so it's even better." — sources/S_ig_heyharut_Dbe6XT1RLB0.md
-> "Let's get the community work first, then you add software. Once the community is working, I'll ask people what problems do you have? And when I learn about their real problems, I can create a software that solves that specific problem to make my community or funnel even more valuable." — sources/S_ig_heyharut_Dbe6XT1RLB0.md
+> "I would first focus on getting sales from your community." — sources/S_ig_heyharut_Dbe6XT1RLB0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "community": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on SaaS: Harut says he would not add software first, not never, since the software comes after the community works.
+- Read as advice to build the community around software: the order is reversed in the source, and the software is built from the members' stated problems.

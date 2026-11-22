@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [Aru, heyharut account context]
+aka: [misunderstood]
 origin: sources/S_ig_heyharut_DbEK0deT9RU.md
 ---
 
-# G_ig_heyharut_DbEK0deT9RU — Aru
+# G_ig_heyharut_DbEK0deT9RU — misunderstood
 
 ## Term
 
-"Aru" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: see, misunderstood, fuck, better. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Misunderstood is the price Harut puts on greatness in this shout-out to Aru: being misunderstood is what happens while you are growing, not a sign you should stop. The word appears twice in this source, beside the price of greatness, be a millionaire in the next like six months, and growing your community, and the whole clip is a live greeting in which Harut cheers Aru on by name. He tells Aru he will be so misunderstood precisely because he keeps showing up on the lives, and the encouragement only makes sense if misunderstanding is treated as proof of standing out. The term is a badge here, not an insult.
 
 ## Synonyms
 
-- Aru
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The price of greatness is being misunderstood. Fuck it, Aru. You better be a millionaire in the next like six months, man. You are going to be so misunderstood. You're always on here, man. What's up? Aru, I always see your name, man. I hope you're growing your community. Hi guys, my name is Aru. Do I see you on the lives all the time? Yeah." — sources/S_ig_heyharut_DbEK0deT9RU.md
+> "The price of greatness is being misunderstood." — sources/S_ig_heyharut_DbEK0deT9RU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Aru": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint about critics: Harut presents being misunderstood as the cost of the path, so it is praise for Aru, not a grievance.
+- Read as a prediction that Aru will fail: the millionaire dare sits in the same breath, so the misunderstanding is tied to ambition, not to a mistake.

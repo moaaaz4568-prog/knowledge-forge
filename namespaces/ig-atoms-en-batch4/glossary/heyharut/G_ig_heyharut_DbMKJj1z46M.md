@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [videos, video]
+aka: [creator, creators']
 origin: sources/S_ig_heyharut_DbMKJj1z46M.md
 ---
 
-# G_ig_heyharut_DbMKJj1z46M — videos
+# G_ig_heyharut_DbMKJj1z46M — creator
 
 ## Term
 
-"videos" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: download, still, illegally, creators. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Creator is the title Harut denies to people who download other creators' videos and sit beside them talking while the original plays. The word appears once in this source, beside thief, illegally download, and monetize, with one more use as creators', and the charge is that re-uploading someone else's video with a reaction on the side is theft, not creation. He says he has downloads turned off on his own videos and people still take them illegally, so the contrast is between making the video and sitting next to it. A creator here is someone who makes the thing, not someone who borrows it for views.
 
 ## Synonyms
 
-- videos
-- video (variant form used in the source)
+- creators'
 
 ## Live Example
 
-> "If you download other creators' videos and then you sit on the side of their video while they talking, doing this, you're not a creator. You're a thief. I have downloads turned off on my videos and people still illegally download my videos and then do this dumb shit on the side of my video and monetize." — sources/S_ig_heyharut_DbMKJj1z46M.md
+> "If you download other creators' videos and then you sit on the side of their video while they talking, doing this, you're not a creator." — sources/S_ig_heyharut_DbMKJj1z46M.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "videos": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on reacting to videos: Harut's charge is aimed at downloading and re-uploading the video to monetize it, not at talking about someone else's work.
+- Read as a claim that reaction videos never count: the source judges the downloaded re-upload, so a reaction made without stealing the file is outside what he condemns.

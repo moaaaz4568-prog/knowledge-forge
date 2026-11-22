@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [clients, client]
+aka: [LTV]
 origin: sources/S_ig_heyharut_DbpXI5RxIYB.md
 ---
 
-# G_ig_heyharut_DbpXI5RxIYB — clients
+# G_ig_heyharut_DbpXI5RxIYB — LTV
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: getting, every, day, paying. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+LTV is the number Harut uses to show why getting clients every day can be the worst thing for a business: a $99 offer brought many clients a day who paid but did not implement and did not get results. The term appears three times in this source, beside $81, 000, 810 times more revenue, and real ICP, and after raising prices the LTV of some clients reached $81, 000, which is 810 times more than before, while the average LTV stayed hundreds of times higher. The fix he gives is to look at the past 10 clients, find what the top two or three have in common, and cross out everyone else, since that is the real ICP. LTV here is the value of one client over time, and it is why fewer, better clients beat more cheap ones.
 
 ## Synonyms
 
-- clients
-- client (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's why getting clients every day might be the worst thing that can happen to your business. So we had an offer that was just $99 and we were getting not only one client a day, we were getting many clients every single day. But you see, here's the problem. They weren't the right clients. They were paying us, but they were not implementing and they were not getting results." — sources/S_ig_heyharut_DbpXI5RxIYB.md
-> "And if you don't do that, you get more clients at lower prices, so your margins collapse because they need more support, so the business goes down because you get distracted or you need to hire people to help them, which means again your profit margins go down. Another thing happens is that your reputation drops because the bad fit clients always write the loudest reviews." — sources/S_ig_heyharut_DbpXI5RxIYB.md
-> "Then you can slowly start increasing your prices by 50%, 100%, etc. And you will see that your ideal clients will still be paying. And if you stick to it and you're able to say no to money in the short term, you'll be able to scale so much faster because you'll have fewer clients, more profit, more time and better results for everyone, which ultimately leads to a better life." — sources/S_ig_heyharut_DbpXI5RxIYB.md
+> "So since then, in the past one and a half years, we significantly increased our prices and now we have some clients where our LTV is $81, 000." — sources/S_ig_heyharut_DbpXI5RxIYB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that every client is worth $81, 000: Harut says that is some clients, not the average, so the number is the top end, not the typical client.
+- Read as advice to raise prices blindly: the prices rise only after identifying the real ICP from past clients, so the increase follows the filter, it does not replace it.

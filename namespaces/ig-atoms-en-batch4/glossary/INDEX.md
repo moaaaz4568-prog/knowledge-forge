@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch4)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,318 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,270 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 2, codes 51-100, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -54,56 +54,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/heyharut/G_ig_heyharut_Db-HIdhx6gt.md | tangible | 1 |
 | glossary/heyharut/G_ig_heyharut_Db15t0fx42L.md | ideal avatar | 1 |
 | glossary/heyharut/G_ig_heyharut_Db2E77ORcpT.md | signals | 1 |
-| glossary/heyharut/G_ig_heyharut_Db9exDhThjM.md | content | 2 |
-| glossary/heyharut/G_ig_heyharut_DbCWekRzMji.md | daily routine | 2 |
-| glossary/heyharut/G_ig_heyharut_DbCuxwHRiIz.md | one | 3 |
-| glossary/heyharut/G_ig_heyharut_DbEK0deT9RU.md | Aru | 1 |
-| glossary/heyharut/G_ig_heyharut_DbG-HcksrR9.md | Harut | 1 |
-| glossary/heyharut/G_ig_heyharut_DbJvUr4Trjv.md | murdered | 1 |
-| glossary/heyharut/G_ig_heyharut_DbKTHf2RodQ.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_DbMKJj1z46M.md | videos | 1 |
-| glossary/heyharut/G_ig_heyharut_DbMYcP2znEt.md | Claude Code | 3 |
-| glossary/heyharut/G_ig_heyharut_DbMrn-0RXqD.md | excellent | 2 |
-| glossary/heyharut/G_ig_heyharut_DbO_lwYTWKd.md | great | 1 |
-| glossary/heyharut/G_ig_heyharut_DbPIk3hzpb-.md | think | 2 |
-| glossary/heyharut/G_ig_heyharut_DbPrSQURgaa.md | one | 1 |
-| glossary/heyharut/G_ig_heyharut_DbRXGSuTB9I.md | poor | 1 |
-| glossary/heyharut/G_ig_heyharut_DbRsxmUzemf.md | guys | 3 |
-| glossary/heyharut/G_ig_heyharut_DbXpgzbxgSa.md | Kumar | 3 |
-| glossary/heyharut/G_ig_heyharut_DbcbYMORKPL.md | content | 3 |
-| glossary/heyharut/G_ig_heyharut_Dbe6XT1RLB0.md | community | 2 |
-| glossary/heyharut/G_ig_heyharut_DbeNm1tTF4w.md | work | 1 |
-| glossary/heyharut/G_ig_heyharut_Dbes6a3xR1D.md | becomes | 1 |
-| glossary/heyharut/G_ig_heyharut_Dbh19dqR0XL.md | make content | 2 |
-| glossary/heyharut/G_ig_heyharut_DbhJFAgzKtu.md | Farouk | 1 |
-| glossary/heyharut/G_ig_heyharut_DbhZi-8Payb.md | hooks | 3 |
-| glossary/heyharut/G_ig_heyharut_DbjKgF2zhOf.md | twenty | 3 |
-| glossary/heyharut/G_ig_heyharut_DbjYhdeBEr4.md | ton papa | 1 |
-| glossary/heyharut/G_ig_heyharut_DbkIMBQRy8B.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_Dbl3rGczKsu.md | make content | 2 |
-| glossary/heyharut/G_ig_heyharut_DbmTKhJTNCN.md | man | 1 |
-| glossary/heyharut/G_ig_heyharut_DbmxFCVRSaQ.md | next | 1 |
-| glossary/heyharut/G_ig_heyharut_Dboi19mTyAm.md | one hundred | 2 |
-| glossary/heyharut/G_ig_heyharut_Dboz86-zrbv.md | through better | 1 |
-| glossary/heyharut/G_ig_heyharut_DbpXI5RxIYB.md | clients | 3 |
-| glossary/heyharut/G_ig_heyharut_DbrCFvvzv_Q.md | fire away | 1 |
-| glossary/heyharut/G_ig_heyharut_Dc3-r-fhl5e.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc4yzDQB1JL.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc6ujIezPmd.md | perfect | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc7MzUBhDpy.md | people | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc80TUnvbhE.md | call | 3 |
-| glossary/heyharut/G_ig_heyharut_Dc8NQAfxntU.md | second channel | 2 |
-| glossary/heyharut/G_ig_heyharut_DcAOxx5xlc9.md | premium | 2 |
-| glossary/heyharut/G_ig_heyharut_DcAXFnCvPgg.md | conversions | 2 |
+| glossary/heyharut/G_ig_heyharut_Db9exDhThjM.md | volume | 1 |
+| glossary/heyharut/G_ig_heyharut_DbCWekRzMji.md | daily routine | 1 |
+| glossary/heyharut/G_ig_heyharut_DbCuxwHRiIz.md | one thing | 1 |
+| glossary/heyharut/G_ig_heyharut_DbEK0deT9RU.md | misunderstood | 1 |
+| glossary/heyharut/G_ig_heyharut_DbG-HcksrR9.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DbJvUr4Trjv.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_DbKTHf2RodQ.md | community | 1 |
+| glossary/heyharut/G_ig_heyharut_DbMKJj1z46M.md | creator | 1 |
+| glossary/heyharut/G_ig_heyharut_DbMYcP2znEt.md | Claude Code | 1 |
+| glossary/heyharut/G_ig_heyharut_DbMrn-0RXqD.md | excellent | 1 |
+| glossary/heyharut/G_ig_heyharut_DbO_lwYTWKd.md | peace of mind | 1 |
+| glossary/heyharut/G_ig_heyharut_DbPIk3hzpb-.md | one thousand times | 1 |
+| glossary/heyharut/G_ig_heyharut_DbPrSQURgaa.md | the easier path | 1 |
+| glossary/heyharut/G_ig_heyharut_DbRXGSuTB9I.md | selection effect | 1 |
+| glossary/heyharut/G_ig_heyharut_DbRsxmUzemf.md | go live | 1 |
+| glossary/heyharut/G_ig_heyharut_DbXpgzbxgSa.md | story | 1 |
+| glossary/heyharut/G_ig_heyharut_DbcbYMORKPL.md | emotionally invested | 1 |
+| glossary/heyharut/G_ig_heyharut_Dbe6XT1RLB0.md | community | 1 |
+| glossary/heyharut/G_ig_heyharut_DbeNm1tTF4w.md | slogan | 1 |
+| glossary/heyharut/G_ig_heyharut_Dbes6a3xR1D.md | avatar | 1 |
+| glossary/heyharut/G_ig_heyharut_Dbh19dqR0XL.md | younger self | 1 |
+| glossary/heyharut/G_ig_heyharut_DbhJFAgzKtu.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DbhZi-8Payb.md | hook | 1 |
+| glossary/heyharut/G_ig_heyharut_DbjKgF2zhOf.md | Heart Funnel | 1 |
+| glossary/heyharut/G_ig_heyharut_DbjYhdeBEr4.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_DbkIMBQRy8B.md | community | 1 |
+| glossary/heyharut/G_ig_heyharut_Dbl3rGczKsu.md | viral packaging | 1 |
+| glossary/heyharut/G_ig_heyharut_DbmTKhJTNCN.md | millionaire | 1 |
+| glossary/heyharut/G_ig_heyharut_DbmxFCVRSaQ.md | next level | 1 |
+| glossary/heyharut/G_ig_heyharut_Dboi19mTyAm.md | data | 1 |
+| glossary/heyharut/G_ig_heyharut_Dboz86-zrbv.md | inconsistent months | 1 |
+| glossary/heyharut/G_ig_heyharut_DbpXI5RxIYB.md | LTV | 1 |
+| glossary/heyharut/G_ig_heyharut_DbrCFvvzv_Q.md | refrain | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc3-r-fhl5e.md | learn from others | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc4yzDQB1JL.md | alone | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc6ujIezPmd.md | binary mindset | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc7MzUBhDpy.md | full volume | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc80TUnvbhE.md | 60 seconds | 1 |
+| glossary/heyharut/G_ig_heyharut_Dc8NQAfxntU.md | Hormozi Highlight | 1 |
+| glossary/heyharut/G_ig_heyharut_DcAOxx5xlc9.md | premium | 1 |
+| glossary/heyharut/G_ig_heyharut_DcAXFnCvPgg.md | more leads | 1 |
 | glossary/heyharut/G_ig_heyharut_DcAd8jrv9GO.md | VSL | 1 |
-| glossary/heyharut/G_ig_heyharut_DcAl7vMP5MG.md | matter | 1 |
+| glossary/heyharut/G_ig_heyharut_DcAl7vMP5MG.md | follow up | 1 |
 | glossary/heyharut/G_ig_heyharut_DcC2wlWvq7U.md | client wins | 1 |
 | glossary/heyharut/G_ig_heyharut_DcCqfZizFLc.md | bragging | 1 |
-| glossary/heyharut/G_ig_heyharut_DcDOCskR4Hb.md | time | 2 |
-| glossary/heyharut/G_ig_heyharut_DcDUdO2BWi9.md | faster | 3 |
-| glossary/heyharut/G_ig_heyharut_DcF0XEjRCD7.md | one thing | 3 |
-| glossary/heyharut/G_ig_heyharut_DcF6dF9hcaf.md | one hundred | 2 |
-| glossary/heyharut/G_ig_heyharut_DcFKFM7Tk1g.md | case study | 2 |
+| glossary/heyharut/G_ig_heyharut_DcDOCskR4Hb.md | time study | 1 |
+| glossary/heyharut/G_ig_heyharut_DcDUdO2BWi9.md | faster results | 1 |
+| glossary/heyharut/G_ig_heyharut_DcF0XEjRCD7.md | one thing | 1 |
+| glossary/heyharut/G_ig_heyharut_DcF6dF9hcaf.md | public commitment | 1 |
+| glossary/heyharut/G_ig_heyharut_DcFKFM7Tk1g.md | transformation | 1 |
 | glossary/heyharut/G_ig_heyharut_DcLKY_lxaiA.md | talk | 1 |
 | glossary/heyharut/G_ig_heyharut_DcLYniyxsgO.md | say | 1 |
 | glossary/heyharut/G_ig_heyharut_DcNpN6NxnkV.md | funnel | 2 |

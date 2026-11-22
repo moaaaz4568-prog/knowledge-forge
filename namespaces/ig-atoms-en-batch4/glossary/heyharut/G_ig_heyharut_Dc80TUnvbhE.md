@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [call, calls]
+aka: [60 seconds]
 origin: sources/S_ig_heyharut_Dc80TUnvbhE.md
 ---
 
-# G_ig_heyharut_Dc80TUnvbhE — call
+# G_ig_heyharut_Dc80TUnvbhE — 60 seconds
 
 ## Term
 
-"call" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: leads, seconds, minutes, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+60 seconds is the perfect speed Harut uses for calling a lead, taken from a roofer who closed 55% of Google leads because his aunt called every lead the moment it came in, even from a movie theater. The phrase appears four times in this source, beside three calls a day, 60 or 70, 000 a year, and be better than the second place, and the point is that the perfect minute is not the rule: if you cannot call in 60 seconds, call in 10 minutes, then an hour, then six, because faster than the competitor still wins. Harut admits his own team does not call within a minute either, and still books calls through voice messages, texts, and handled objections. The 60 seconds here is the ideal to chase, not a pass mark that makes slower follow-up worthless.
 
 ## Synonyms
 
-- call
-- calls (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's the only job she has. She only has to make three calls a day. It's just I don't know when they're gonna come in. And he was paying her 60 or 70, 000 a year just to make three calls a day. That is how he was able to close half of his leads. Well, I know what you are thinking. You are probably thinking that I can't call my leads within 60 seconds." — sources/S_ig_heyharut_Dc80TUnvbhE.md
-> "They are missing the whole point is that it doesn't have to be one minute, it doesn't have to be perfect, that's the perfect scenario. It's better than five minutes, it's better than 10 minutes, but do it faster. If you have a lead and you call them faster, in two hours, in two freaking hours, and the competitor calls in 12 hours, you might already have made the sale." — sources/S_ig_heyharut_Dc80TUnvbhE.md
-> "So please, don't look at this and think, oh, I can't pay 760k a year or I don't want to, or I can't call within one minute. Can you do it faster than you were doing it before? Because if yes, you win. That's all it takes to become successful. Don't be perfect, be better than the second place." — sources/S_ig_heyharut_Dc80TUnvbhE.md
+> "Well, I know what you are thinking. You are probably thinking that I can't call my leads within 60 seconds." — sources/S_ig_heyharut_Dc80TUnvbhE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "call": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule that slow follow-up is useless: Harut says calling in two hours beats a competitor calling in twelve, so the win is relative speed, not the minute itself.
+- Read as a claim that Hormozi's team is slow: the people filming the 60-second test missed the point, since the ideal is to be faster than the alternative, not perfect.

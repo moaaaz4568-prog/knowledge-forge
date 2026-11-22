@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [matter, matters]
+aka: [follow up]
 origin: sources/S_ig_heyharut_DcAl7vMP5MG.md
 ---
 
-# G_ig_heyharut_DcAl7vMP5MG — matter
+# G_ig_heyharut_DcAl7vMP5MG — follow up
 
 ## Term
 
-"matter" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: matter, think, follow, annoying. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Follow up is what Harut says to do without worrying that it annoys people: stop thinking that you matter, because you do not matter, no one else matters, and the only people that matter are them and their loved ones. The phrase appears three times in this source, beside how do I follow up without being annoying, no one cares, and don't spam people, and the reasoning is that most people will not even see the message, or they will block you or ignore you. The limit he draws is not to spam people, but short of that, the follow-up is just something to do. Following up here is persistence without self-importance, not pestering.
 
 ## Synonyms
 
-- matter
-- matters (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "By stopping to think that you matter, how do I follow up without being annoying? I don't matter, you don't matter, no one else matters. The only people that matter are them, themselves, and their loved ones. We all are overestimating our importance on other people, on their moods, our effect on their day. No one cares." — sources/S_ig_heyharut_DcAl7vMP5MG.md
+> "By stopping to think that you matter, how do I follow up without being annoying?" — sources/S_ig_heyharut_DcAl7vMP5MG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "matter": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as permission to spam: Harut says not to spam people, so the follow-up is bounded by doing it not too much, and the excess is still wrong.
+- Read as advice to ignore rejection: blocking and ignoring are the expected outcomes for most messages, so the point is to keep going anyway, not to chase the people who blocked you.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: heyharut
-aka: [bragging, heyharut account context]
+aka: [bragging]
 origin: sources/S_ig_heyharut_DcCqfZizFLc.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_heyharut_DcCqfZizFLc.md
 
 ## Term
 
-"bragging" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bragging, never, state, facts. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bragging is what Harut says showing proof never is: just state the facts and tell the truth, because this client did this, and you are not saying the next person will do it. The word appears three times in this source, beside state the facts, tell the truth, and take it or leave it, and the whole source is the answer to how to show proof without sounding like bragging. The line between proof and bragging is whether you report what happened or promise what will happen, and Harut's version reports only what happened. Bragging here is the worry, not the act, and the facts are the cure.
 
 ## Synonyms
 
-- bragging
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's never bragging. Just state the facts and tell the truth. How do I show proof without sounding bragging? Why is it bragging? This client did this. Not saying you are gonna do it. This is what happened. Take it or leave it. Truth, facts." — sources/S_ig_heyharut_DcCqfZizFLc.md
+> "It's never bragging. Just state the facts and tell the truth." — sources/S_ig_heyharut_DcCqfZizFLc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bragging": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on sharing results: Harut tells the viewer to state the facts, so sharing what a client did is the advice, and silence is not required.
+- Read as a promise to the next client: the source insists you are not saying the next person will do it, so the fact stays in the past tense.

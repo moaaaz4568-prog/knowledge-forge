@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [man, heyharut account context]
+aka: [millionaire]
 origin: sources/S_ig_heyharut_DbmTKhJTNCN.md
 ---
 
-# G_ig_heyharut_DbmTKhJTNCN — man
+# G_ig_heyharut_DbmTKhJTNCN — millionaire
 
 ## Term
 
-"man" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: always, next, like, six. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Millionaire is the dare Harut repeats to Haroon on a live greeting: you better be a millionaire in the next like six months, man, because Haroon is always on the lives. The word appears once in this source, beside growing your community, always on here, and I always see your name, and the whole clip is thirty-two words of greeting and encouragement with no lesson attached. Harut pairs the dare with the hope that Haroon is growing his community, so the millionaire target is the horizon for a familiar face, not a plan. It is a cheer shouted at a regular, not a claim about Haroon's money.
 
 ## Synonyms
 
-- man
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You better be a millionaire in the next like six months, man. You're always on here, man. What's up? Haroon, I always see your name, man. I hope you're growing your community." — sources/S_ig_heyharut_DbmTKhJTNCN.md
+> "You better be a millionaire in the next like six months, man." — sources/S_ig_heyharut_DbmTKhJTNCN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "man": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a business lesson: the clip is a greeting with a dare and no instruction, so it teaches nothing beyond the target itself.
+- Read as a promise to Haroon: Harut hopes Haroon is growing, but the millionaire line is a dare with a deadline, not a guarantee.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: heyharut
-aka: [next, heyharut account context]
+aka: [next level]
 origin: sources/S_ig_heyharut_DbmxFCVRSaQ.md
 ---
 
-# G_ig_heyharut_DbmxFCVRSaQ — next
+# G_ig_heyharut_DbmxFCVRSaQ — next level
 
 ## Term
 
-"next" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: level, next, opponent, moving. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Next level is the congratulation in this eleven-word fragment: congratulations, you are moving to the next level, and your next opponent is waiting. The phrase appears once in this source, beside your next opponent is, and the line cuts off before the opponent is named, so the fragment gives a level-up announcement and nothing else. There is no lesson, no product, and no wider concept developed around the phrase, and the entry records the line as it stands. The next level here is simply the step up the fragment celebrates.
 
 ## Synonyms
 
-- next
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_heyharut_DbmxFCVRSaQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "next": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a game guide: the line borrows the language of games, but the source names no game and gives no instruction, so it is a congratulation, not advice.
+- Read as a claim about Harut's own progress: the congratulation is addressed to you, the viewer, so the level belongs to whoever hears it, not to Harut.

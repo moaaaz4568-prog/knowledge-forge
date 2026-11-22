@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: heyharut
-aka: [premium, heyharut account context]
+aka: [premium]
 origin: sources/S_ig_heyharut_DcAOxx5xlc9.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_heyharut_DcAOxx5xlc9.md
 
 ## Term
 
-"premium" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, making, premium, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Premium is what Harut says an offer has to actually be: you cannot make it premium if it is not, and you cannot call a shoddy thing premium and expect people to feel it is. The word appears six times in this source, beside price determines the worth, how good they are, and how good your stuff is actually, and the test he gives is price, the team, yourself, and the quality of the stuff itself. The perception of worth follows the price, but the price only works when the offer, the people, and the material are genuinely good. Premium here is a property of the offer, not a label on it.
 
 ## Synonyms
 
-- premium
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can't make it premium if it's not. How do I make my offer feel premium? By making it premium. You can't, like, say it's this premium thing and people join it, it's a shitty thing. No, it's not gonna be premium. So your price determines the worth of it, the perception of it at least. If you have a team, how good they are, how good are you, and how good your stuff is actually." — sources/S_ig_heyharut_DcAOxx5xlc9.md
-> "You know, I think that's how you need to make it premium." — sources/S_ig_heyharut_DcAOxx5xlc9.md
+> "How do I make my offer feel premium? By making it premium." — sources/S_ig_heyharut_DcAOxx5xlc9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "premium": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to raise the price: the price sets the perception, but Harut's condition is that the offer must actually be premium first, so a dear shoddy offer fails the test.
+- Read as a claim that branding makes things premium: the source lists price, team, self, and stuff, so the label alone never makes it premium.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: heyharut
-aka: [fire away, heyharut account context]
+aka: [refrain]
 origin: sources/S_ig_heyharut_DbrCFvvzv_Q.md
 ---
 
-# G_ig_heyharut_DbrCFvvzv_Q — fire away
+# G_ig_heyharut_DbrCFvvzv_Q — refrain
 
 ## Term
 
-"fire away" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: away, fire, lose, nothing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `refrain` is a type label only, because the whole source is a nine-word sung lyric fragment with nothing to define. The lines say I am bulletproof with nothing to lose, then fire away twice, and no business idea, instruction, or named concept appears anywhere in the nine words. The refrain is quoted as a lyric fragment, so the entry records its wording and nothing more. Any reading that treats being bulletproof as Harut's teaching would invent a meaning the source never states.
 
 ## Synonyms
 
-- fire away
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_heyharut_DbrCFvvzv_Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fire away": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Harut's advice to be fearless: the lines are song lyrics he sings, so they carry no instruction about business or content.
+- Read as a statement about Harut himself: the lyric is a quoted fragment with no context in the source, so it proves nothing about who he is.

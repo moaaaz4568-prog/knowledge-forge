@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [poor, heyharut account context]
+aka: [selection effect]
 origin: sources/S_ig_heyharut_DbRXGSuTB9I.md
 ---
 
-# G_ig_heyharut_DbRXGSuTB9I — poor
+# G_ig_heyharut_DbRXGSuTB9I — selection effect
 
 ## Term
 
-"poor" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: poor, like, everyone. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Selection effect is Harut's name for why difficulty makes him happier: if something is hard enough that no one else will follow, the hardship itself filters the competition out. The phrase appears once in this source, beside no one else will follow, oh poor me, and oh poor everyone else, and the shift he describes is from this is hard to no one else will be able to do this. Once the frame flips, the pity moves from himself to everyone else who will have to try, and the hard thing becomes an advantage instead of a burden. A selection effect here is difficulty working as a moat, not a complaint about effort.
 
 ## Synonyms
 
-- poor
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I get happier about the harder it is because I know that no one else will follow. It's a selection effect. And I think if you can shift from this is hard to no one else will be able to do this, then it flips from being this thing that you're like, oh poor me, to oh poor everyone else who's going to have to fucking try." — sources/S_ig_heyharut_DbRXGSuTB9I.md
+> "I get happier about the harder it is because I know that no one else will follow. It's a selection effect." — sources/S_ig_heyharut_DbRXGSuTB9I.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "poor": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as enjoying suffering: Harut is happy because the hardness selects out competitors, so the feeling is strategic, not a love of pain.
+- Read as a claim that hard things are always good: the effect only matters when others quit, so a hard task nobody wants is still just a hard task.

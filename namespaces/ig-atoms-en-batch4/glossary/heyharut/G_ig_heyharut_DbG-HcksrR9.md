@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [Harut, heyharut account context]
+aka: [millionaire]
 origin: sources/S_ig_heyharut_DbG-HcksrR9.md
 ---
 
-# G_ig_heyharut_DbG-HcksrR9 — Harut
+# G_ig_heyharut_DbG-HcksrR9 — millionaire
 
 ## Term
 
-"Harut" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fucking, six, months, harut. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Millionaire is the dare at the centre of this message to Alex Hormozi: Harut was challenged to become a millionaire in six months, and now he answers the challenge in public. The word appears twice in this source, beside biggest business influencer in the world, I am in the game, and time for you to be a father, and the clip mixes the dare with a congratulation on Hormozi having a son. Harut says he is no longer in the comments but in the game, and the millionaire target is the measure he sets for himself against Hormozi's example. It is a deadline he accepted, not a claim he has already reached it.
 
 ## Synonyms
 
-- Harut
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is a message to Alex Hormozi. My name is Harut. You challenged me to become a millionaire in six months. Harut, fucking Harut, you better be a millionaire in the next like six months, man. I'm canceling. You're not allowed to come to these calls. So I did. You called me fucking Harut. Well, now just watch me. I'm not in your comments anymore. I am in the game. I heard you're having a son." — sources/S_ig_heyharut_DbG-HcksrR9.md
+> "You challenged me to become a millionaire in six months." — sources/S_ig_heyharut_DbG-HcksrR9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Harut": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim of wealth: Harut is answering a challenge to become a millionaire, so the word marks a goal with a six-month clock, not money already made.
+- Read as an attack on Hormozi: the message ends with love and a congratulation, so the dare is a public commitment made to a mentor, not a rivalry.

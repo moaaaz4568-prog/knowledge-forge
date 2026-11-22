@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [community]
 origin: sources/S_ig_heyharut_DbkIMBQRy8B.md
 ---
 
-# G_ig_heyharut_DbkIMBQRy8B — people
+# G_ig_heyharut_DbkIMBQRy8B — community
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: around, gonna, trying, surprise. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Community is what Harut says will survive AI: when information costs nothing, people will still pay to be around other people, inside an environment where they meet killers like Emma and each other. The word appears six times in this source, beside AI-proof, achievers, and achieve greatness, and the argument runs on two tracks, content that only you can make and a community that gives people an identity. He warns that calling people achievers does not make them think they are achievers, so the identity has to be earned by bringing others up and highlighting the best clients. A community here is a room people pay to be in, not a comment section.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And AI is gonna make information cost nothing. AI is gonna. I can go and ask, how do I grow my business? And it will just answer me, right? But will you guys be go talk to ChatGPT and be around Emma, around me, around other people that we have in the community that are killers? No." — sources/S_ig_heyharut_DbkIMBQRy8B.md
-> "It's highlighting your best clients. It's like me giving shout out to Emma is a part of that. I'm trying to bring other people up a little bit at my own power. So like that's what a real community is. So trying to give people an identity, surprise, surprise, why are you guys achievers? That's an identity, achieve greatness. So I thought about it in advance, creating the company." — sources/S_ig_heyharut_DbkIMBQRy8B.md
-> "They meet with each other, they see Hormozy, they get inspired. I myself, for me, meeting Hormozy, meeting some other people in person was very meaningful for me just because of that fact that, oh, he's a real person, I can do big things too. And also you see the real humor, humanity." — sources/S_ig_heyharut_DbkIMBQRy8B.md
+> "But if you join, you are inside and in that environment, or if you join free community or you watch content and that is a community, it's gonna help people, it's gonna be more AI-proof." — sources/S_ig_heyharut_DbkIMBQRy8B.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that AI kills content: Harut says content becomes more important, since only content that helps people get what they want survives.
+- Read as a naming trick: calling members achievers is the small thing Harut says does not work on its own, so the identity must come from how the community treats people.

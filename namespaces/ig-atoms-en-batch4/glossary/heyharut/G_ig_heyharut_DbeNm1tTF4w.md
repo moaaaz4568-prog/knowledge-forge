@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [work, heyharut account context]
+aka: [slogan]
 origin: sources/S_ig_heyharut_DbeNm1tTF4w.md
 ---
 
-# G_ig_heyharut_DbeNm1tTF4w — work
+# G_ig_heyharut_DbeNm1tTF4w — slogan
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: late, hard, love, follow. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `slogan` is a type label only, because the whole source is a run of inverted jokes with nothing to define. Each line flips a piece of advice backwards, from don't love your job, job your love to don't follow for more, more for your followers, and no line develops an idea beyond the wordplay. The slogans are quoted as a joke list, so the entry records their wording and nothing more. Any reading that treats one inversion as Harut's actual advice would mistake the joke for the message.
 
 ## Synonyms
 
-- work
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Don't love your job, job your love. Don't work late, be late for work. Don't follow your dreams, dream of being followed. Don't work hard, be hard while working. Don't face your fear, fear your face. Don't die trying, try dying. Don't follow for more, more for your followers." — sources/S_ig_heyharut_DbeNm1tTF4w.md
+> "Don't love your job, job your love. Don't work late, be late for work." — sources/S_ig_heyharut_DbeNm1tTF4w.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as real advice: every line is an inversion played for laughs, so following them literally would mean doing the opposite of what Harut teaches elsewhere.
+- Read as a single slogan: the source is seven separate flips, so no one line is the point and the list only works as a whole.

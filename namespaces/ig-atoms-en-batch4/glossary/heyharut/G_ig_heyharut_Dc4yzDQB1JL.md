@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: heyharut
-aka: [people, heyharut account context]
+aka: [alone]
 origin: sources/S_ig_heyharut_Dc4yzDQB1JL.md
 ---
 
-# G_ig_heyharut_Dc4yzDQB1JL — people
+# G_ig_heyharut_Dc4yzDQB1JL — alone
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the heyharut account): it occurs 17 times in the text (whole-word matches, case folded), and the words most often collocated with it are: group, know, around, next. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Alone is the feeling Harut says many entrepreneurs misjudge: he feels very alone at times, and the stress comes from judging that feeling as bad, when the fastest way to solve it is to decide it is not a problem. The word appears four times in this source, beside Entrepreneurship's lonely, you are not a tree, and like-minded people, and the trap he names is outgrowing one group without yet having the standing to join the next, for years at a time. His answer is to move: you are not a tree, you can move to another place, meet people, and ask, since the worst thing is a rejection and the best is building toward ambitious goals with people who share the vision. Alone here is a feeling to act on, not a price of ambition.
 
 ## Synonyms
 
-- people
-- heyharut account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I feel very alone at times as an entrepreneur, and honestly, I feel like that's why I go to a lot of these things is just to you know be around people who are like that. Entrepreneurship's lonely, you know. I think the biggest issue is that the faster you grow, the more you outgrow." — sources/S_ig_heyharut_Dc4yzDQB1JL.md
-> "and so many people have been messaging me and asking, hey, when is it gonna be? And I want to join, etc. And so many of them are incredibly successful and some even more successful than me by far. So they are not, they don't want to be there to like just get something from me necessarily. Sometimes people do want connection. So will this work with everyone?" — sources/S_ig_heyharut_Dc4yzDQB1JL.md
-> "Makes the journey so much more fun, enjoyable, sustainable, so many more memories, and then you can achieve the goals even faster because you are not alone and you are working on something bigger than yourself with other people that also care about the same mission." — sources/S_ig_heyharut_Dc4yzDQB1JL.md
+> "I feel very alone at times as an entrepreneur, and honestly, I feel like that's why I go to a lot of these things is just to you know be around people who are like that." — sources/S_ig_heyharut_Dc4yzDQB1JL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that success requires loneliness: Harut says it does not have to be like that, and that working with others makes the journey more fun and the goals faster.
+- Read as advice to ignore the feeling: deciding alone is not a problem is only the first move, and Harut's second move is to go and meet people.
