@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [position]
+aka: ["psychology of power"]
 origin: sources/S_ig_coachjoedrake_Cny4HMVA5pw.md
 ---
 
-# G_ig_coachjoedrake_Cny4HMVA5pw — position
+# G_psychology_of_power — psychology of power
 
 ## Term
 
-Position is the coaching concept this clip teaches: where the trainer stands relative to the client, chosen deliberately for its psychology rather than convenience. It occurs 4 times, each marking a placement judgment — "a kneeling position" beside a client on the ground, "my client's standing, I'm next to them and behind them so they feel supported", and the warning never to stand "directly over top of people" ("a subservant position", "this almost militarized position of dominance"). The surrounding vocabulary — psychology of power, co-creation, supported — frames positioning as part of building the client's narrative instead of issuing orders.
+The psychology of power names how body position changes what a client feels: a trainer standing over a client on the ground makes the client feel small and subservient, while kneeling beside them keeps the interaction equal. The phrase appears once, beside kneeling position, subservant position, and co-creation, and Joe refuses to go deep into the theory behind it. His rule is positional and practical: when the client is on the ground he gets on the ground too, and when the client stands he stands next to or behind them so they feel supported. He rejects the boss-and-order model of personal training outright, describing the work instead as a co-creation of the person's narrative through fitness and sometimes nutrition.
 
 ## Synonyms
 
@@ -18,9 +18,8 @@ Position is the coaching concept this clip teaches: where the trainer stands rel
 ## Live Example
 
 > "When your client is on the ground, you should be on the ground with them, not laying down like you're tanning, but like in a kneeling position because of the psychology of power." — sources/S_ig_coachjoedrake_Cny4HMVA5pw.md
-> "My client's standing, I'm next to them and behind them so they feel supported. I never want to position myself directly over top of people like this because it is naturally putting them in this almost militarized position of dominance." — sources/S_ig_coachjoedrake_Cny4HMVA5pw.md
 
 ## When the Meaning Breaks
 
-- Read as exercise technique: every occurrence is about the trainer's body placement around the client, not the client's form in a lift — nothing here cues squats or posture.
-- Read as a strict no-standing rule: the speaker's own contrast is standing over a lying client versus kneeling beside them; he stands next to and behind standing clients, so the principle is avoiding dominance, never towering.
+- Read as a claim about dominance techniques: Joe uses the phrase to warn trainers away from standing over clients, not to teach them how to dominate.
+- Read as a rule that the trainer must always kneel: the kneeling applies when the client is on the ground, and the wider rule is matching the client's level so they feel supported, not kneeling in every position.

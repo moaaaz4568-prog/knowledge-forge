@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [streak]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 ---
 
-# G_ig_coachjoedrake_Cr2wB-IgQDd — streak
+# G_ig_coachjoedrake_Cr2wB-IgQDd — coachjoedrake
 
 ## Term
 
-Streak appears once in this captioned lyric clip, inside a work-rate bar: "I'm doing ten in a week. How long I been on the streak?" Around it, the verse stacks the grind it measures — "Studio right in my yard", "Dream about working my sleep", "I got a lock on the streets". In this usage a streak is the unbroken run of creative output (ten studio sessions a week), worn as proof of commitment. The word arrives as a rhetorical question the song answers by living it; the clip carries no coaching content.
+This source has no conceptual term: it is a sung verse, and lock on the streets is one boast inside it, not a named idea or method. The phrase appears once, beside demons just got out of Kent, ten in a week, and dream about working my sleep, and the verse goes on through a shout-out, a yard studio, and brothers. No line in the verse names a concept, and the source contains no coaching content at all. The entry keeps the verse as a verse and claims no coaching idea for it.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Streak appears once in this captioned lyric clip, inside a work-rate bar: "I'm d
 
 ## Live Example
 
-> "Studio right in my yard. I'm doing ten in a week. How long I been on the streak? Dream about working my sleep." — sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
+> "Okay, I got a lock on the streets. Shout out to T to three." — sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 
 ## When the Meaning Breaks
 
-- Read as the trainer's training streak: the streak in the lyric is about studio output — ten sessions a week, dreaming about work — not consecutive workout days or habit coaching.
-- Read as a documented, datable run: the lyric poses "How long I been on the streak?" and never answers it; the transcript records no count or timespan for the streak.
+- Read as a claim about Joe's reputation: the line belongs to the song's narrator, and the source never applies it to Joe or to coaching.
+- Read as a statement about work ethic: dream about working my sleep is the lyric's image, and the source gives it no training meaning.

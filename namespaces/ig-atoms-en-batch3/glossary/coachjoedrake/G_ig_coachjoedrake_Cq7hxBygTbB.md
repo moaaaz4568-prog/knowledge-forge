@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [personal brand]
+aka: ["personal brand"]
 origin: sources/S_ig_coachjoedrake_Cq7hxBygTbB.md
 ---
 
-# G_ig_coachjoedrake_Cq7hxBygTbB — personal brand
+# G_personal_brand — personal brand
 
 ## Term
 
-Personal brand is the identity this content-creation clip pushes trainers to start thinking in terms of. The phrase occurs twice — "fine tune this whole concept of personal brand" and "you start to think about yourself as a personal brand" — with evolve, concept, and communicator around it. The argument is double-edged: publishing content with minimal audience makes you "so much better at communicating what you do" (the "relevant content... might be a while" before it returns anything), and it forces the self-definition that a brand requires, which he frames as "an ever evolving process" that changes as you coach different people in different environments.
+A personal brand is how a coach describes what they do for people, and Joe presents it as something that keeps changing as the coach evolves. The phrase is used twice, beside communicating what you do, confidence and rapport, and ever evolving process, and he ties it to a concrete habit: recording and putting out content with almost no audience watching. The habit pays twice, he says: it forces the coach to think about what they say and how it comes across, and it builds confidence and rapport with potential clients in the moment. The content itself should be relevant rather than a pitch about training in general, because relevance is what comes back down the road.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Personal brand is the identity this content-creation clip pushes trainers to sta
 
 ## Live Example
 
-> "And the other piece of that is it's also just gonna make you a much better communicator and it's gonna really help you continue to fine tune this whole concept of personal brand." — sources/S_ig_coachjoedrake_Cq7hxBygTbB.md
 > "But the key piece here is that you start to think about yourself as a personal brand." — sources/S_ig_coachjoedrake_Cq7hxBygTbB.md
 
 ## When the Meaning Breaks
 
-- Read as a marketing scheme to launch now: the clip's premise is posting with minimal or no audience purely to practice communication and self-definition — the payoff it promises first is skill, and "it might be a while" before content returns anything.
-- Read as a fixed identity to choose once: the speaker's own framing is an ever evolving process that changes as you grow as a coach, not a one-time positioning exercise.
+- Read as a logo or a social media image: Joe's personal brand is the coach's own account of what they do for people, built by communicating, not by design.
+- Read as a brand fixed once and kept: the source calls it an ever evolving process that changes with new people and environments, so a finished brand would contradict it.

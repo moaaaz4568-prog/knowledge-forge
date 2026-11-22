@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [turnovers]
+aka: ["accolades"]
 origin: sources/S_ig_coachjoedrake_Ct09Kh6AYG3.md
 ---
 
-# G_ig_coachjoedrake_Ct09Kh6AYG3 — turnovers
+# G_accolades — accolades
 
 ## Term
 
-Turnovers is the industry-failure word this interview clip uses for staff churn: "you do see a lot of gym turnovers, a lot of trainer turnovers, because it can be very egotistical, self centered and just narcissistic." The word occurs twice (gym turnovers, trainer turnovers), and the paragraph around it explains his refusal of accolades and attention — "the job's just never done", it's about "our community... the clientele... my employees... everything that we've all built" — maybe taking attention at seventy when he leaves the game. In his diagnosis, ego-driven operators peak and then "start to trend down instead of keep going up"; the turnover statistic is the visible cost.
+Accolades are the attention and praise Joe says he does not like, because the job is just never done. The word appears once, beside the attention, community, and clientele, and he defers any praise until he is seventy and out of the game. His reason is that the work belongs to everyone who built it — the community, the clientele, the employees — and not to him alone. He ties the dislike to the industry's fault: gyms and trainers turn over, he says, because the work can become egotistical, self-centred, and narcissistic, and the people who trend down are the ones who take the attention for themselves.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Turnovers is the industry-failure word this interview clip uses for staff churn:
 
 ## Live Example
 
-> "You know, and that's why I think you do see a lot of gym turnovers, a lot of trainer turnovers, because it can be very egotistical, self centered and just narcissistic to some point." — sources/S_ig_coachjoedrake_Ct09Kh6AYG3.md
+> "So that's why I think, I don't really like the accolades, the attention or something because the job's just never done." — sources/S_ig_coachjoedrake_Ct09Kh6AYG3.md
 
 ## When the Meaning Breaks
 
-- Read as revenue turnover (gym finance): the word here is staff and member churn driven by ego culture, not the financial turnover of a business's sales.
-- Read as proven industry data: the claim is this owner's impression from experience ("you know and that's why I think"), offered in conversation, not a cited statistic about retention rates.
+- Read as false modesty: Joe gives a reason for refusing praise — the work is shared and unfinished — and the source names the egotism he sees when trainers accept it.
+- Read as a claim that attention is always harmful: the source objects to attention taken before the work is done, and Joe allows it once he is seventy and out of the game.

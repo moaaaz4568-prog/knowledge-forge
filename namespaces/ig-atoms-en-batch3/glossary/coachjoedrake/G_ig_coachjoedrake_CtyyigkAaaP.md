@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [tripping on faith]
+aka: [coachjoedrake]
 origin: sources/S_ig_coachjoedrake_CtyyigkAaaP.md
 ---
 
-# G_ig_coachjoedrake_CtyyigkAaaP — tripping on faith
+# G_ig_coachjoedrake_CtyyigkAaaP — coachjoedrake
 
 ## Term
 
-Tripping on faith is the central phrase of this 17-word captioned lyric clip: "Yeah, tripping on faith for the next six songs. Gotta tell her back then I never stayed run." It occurs once, heading the verse, with six songs and the closing confessional line as its only companions. As lyric language, tripping on faith pairs stumbling with belief — moving forward on faith alone for the length of a short set of songs. The source contains nothing else, and no coaching content appears in it.
+This source has no conceptual term: it is a sung lyric fragment, and tripping on faith is its opening image, not a named idea or method. The phrase appears once, beside for the next six songs, gotta tell her, and never stayed run, and the whole source is two short lines with no other content. The lines are the song's own words, and nothing in the source explains faith, the six songs, or the staying, or connects any of them to training. The entry keeps the fragment as sung and makes no concept of it.
 
 ## Synonyms
 
@@ -21,5 +21,5 @@ Tripping on faith is the central phrase of this 17-word captioned lyric clip: "Y
 
 ## When the Meaning Breaks
 
-- Read as a religious statement by the account owner: the phrase is transcribed song lyric captioned on the reel, not the trainer's own profession of faith.
-- Read as complete, parseable lyric documentation: the second line ("Gotta tell her back then I never stayed run") is transcription-tangled; beyond the central phrase, the clip's wording cannot be reliably interpreted.
+- Read as Joe's statement about faith: the line is sung, and the source contains no coaching content at all.
+- Read as a claim about six songs as a plan: the six songs are the lyric's own count, and the source gives them no meaning beyond the line.

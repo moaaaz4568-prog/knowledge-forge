@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [asymmetrical]
+aka: ["asymmetrical", "asymmetries"]
 origin: sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 ---
 
-# G_ig_coachjoedrake_CoZY8_ugNfJ — asymmetrical
+# G_asymmetrical — asymmetrical
 
 ## Term
 
-Asymmetrical is this clip's word for what coaches must learn to see: left-right difference in how a body moves. It occurs twice — "how asymmetrical the human body really is", then "Very asymmetrical, meaning different on one side versus the other" — with the plural asymmetries appearing once more in "20% asymmetries in your hip are statistically considered natural". The usage is observational: the speaker describes noticing a client's stance at the urinal, one shoulder blade moving more than the other during lat pulls, and calls noticing the first step, with 20% hip and 70% shoulder differences framed as normal rather than pathological.
+Asymmetrical describes Joe's central observation that the human body does not move the same on both sides, something trainers start seeing everywhere once they learn to look. The word is used twice, beside 20% differences, hip, and shoulder, and he stresses that the differences are natural rather than faults to fix. His numbers make the point concrete: 20% differences in the hip count as statistically natural, and the shoulder can run to 70% asymmetry from arm dominance alone, more again in overhead athletes. The coaching advice that follows is to watch clients, slow them down on lat pulls and single-arm work, and notice whether one shoulder blade moves more than the other, because noticing is the first step.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- asymmetries (the plural noun form, used for the 20% hip differences)
 
 ## Live Example
 
-> "And the conversation in the gym, funny enough, this past week with a lot of clients and different coaches, has just been like the surprise of how asymmetrical the human body really is. Right? Very asymmetrical, meaning different on one side versus the other." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
-> "But 20% differences are natural. Right? Like 20% asymmetries in your hip are statistically considered natural." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
+> "And the conversation in the gym, funny enough, this past week with a lot of clients and different coaches, has just been like the surprise of how asymmetrical the human body really is." — sources/S_ig_coachjoedrake_CoZY8_ugNfJ.md
 
 ## When the Meaning Breaks
 
-- Read as a defect to fix: the speaker explicitly normalizes the numbers — 20% hip asymmetries are statistically natural and 70% shoulder difference comes from arm dominance — so asymmetry here is an observation to expect, not automatically a problem.
-- Read as a measurement standard: the 20% and 70% figures are conversational benchmarks he cites while coaching observation, not lab normative values; the clip gives no testing protocol.
+- Read as a diagnosis that one side is injured: Joe calls 20% hip differences natural, so asymmetry in this source is an expected difference, not a problem to correct.
+- Read as a call to even both sides out: the source asks trainers to notice asymmetry and keep watching, and it never prescribes making the two sides identical.

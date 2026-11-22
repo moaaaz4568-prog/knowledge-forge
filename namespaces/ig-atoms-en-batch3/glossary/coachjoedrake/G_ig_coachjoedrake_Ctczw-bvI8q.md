@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [systems precede creativity]
+aka: ["systems precede creativity"]
 origin: sources/S_ig_coachjoedrake_Ctczw-bvI8q.md
 ---
 
-# G_ig_coachjoedrake_Ctczw-bvI8q — systems precede creativity
+# G_systems_precede_creativity — systems precede creativity
 
 ## Term
 
-Systems precede creativity is the philosophy this clip states in its first two sentences: "The longer that I've been training, the more that I personally believe that systems precede creativity." The phrase occurs once, and the distinction it draws organizes the rest — "the difference between just being randomly innovative and creative and being systematically." His reasoning is cognitive load: a new coach already spends brain power on "all the X's and O's of the actual training session", and improvising "in the moment just making things up like so many coaches do" leaves no capacity for the individual experience, the best service, or the fun. The conclusion: "You just have more mental energy, brain power, and time to actually be creative when you're working off of a consistent system."
+Systems precede creativity is Joe's claim that a consistent system frees the mind to be creative, while inventing in the moment eats the brain power needed to serve the client. The phrase appears once, beside innovative, creative, and mental capacity, and he contrasts randomly innovative coaches with systematically creative ones. A new coach, he says, already manages the session's X's and O's, so making things up on the spot leaves nothing for the individual experience, the fun, or the personality of the session. Working off a system returns that energy, and the creativity that follows is built on a base rather than on improvisation.
 
 ## Synonyms
 
@@ -18,9 +18,8 @@ Systems precede creativity is the philosophy this clip states in its first two s
 ## Live Example
 
 > "The longer that I've been training, the more that I personally believe that systems precede creativity." — sources/S_ig_coachjoedrake_Ctczw-bvI8q.md
-> "You just have more mental energy, brain power, and time to actually be creative when you're working off systems." — sources/S_ig_coachjoedrake_Ctczw-bvI8q.md
 
 ## When the Meaning Breaks
 
-- Read as systems replacing creativity: the claim is the reverse — the consistent system is what buys the mental energy and time that creativity needs; random innovation is the failure mode, not creativity itself.
-- Read as a rule for every domain: the argument is built from coaching sessions (X's and O's, individual client experience); the clip does not generalize it beyond running training sessions.
+- Read as a ban on creativity for new coaches: the source says creativity comes after the system, not instead of it, and the system is what makes room for it.
+- Read as a claim that systems alone are enough: Joe pairs the system with creative delivery for the individual, and the source treats both as needed.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [shoulder blades, shoulder blade]
+aka: ["retraction", "retract"]
 origin: sources/S_ig_coachjoedrake_CnRTd72oJjW.md
 ---
 
-# G_ig_coachjoedrake_CnRTd72oJjW — shoulder blades
+# G_retraction — retraction
 
 ## Term
 
-The shoulder blades are the anatomy lesson of this clip: the speaker walks through every direction they can move and why a coach should know it ("it's important that we know what they can do"). The plural occurs 10 times with the singular shoulder blade 3 more, and the text names their paired movements — retraction ("squeeze those shoulder blades back together"), protraction, elevation, depression, and the upward and downward rotation he ties to overhead pressing and pull-ups. The usage is instructional: each motion is demonstrated on camera and then recapped, so the term functions as the organizing anatomical object of the whole lesson.
+Retraction names the shoulder-blade action of squeezing the blades back together around the rib cage, the first of five motions Joe teaches in this source. The word appears three times, beside protraction, shoulder blades, and squeeze together, and Joe pairs it each time with its opposite so the listener can feel the contrast. He demonstrates it by squeezing his own blades back, then asks the listener to retract theirs, describing it as simply bringing the blades closer together in the back. In the closing recap it sits in the full set with elevation, depression, protraction, and upward and downward rotation.
 
 ## Synonyms
 
-- shoulder blade
+- retract (the verb form, used when he tells the listener to perform the movement)
 
 ## Live Example
 
-> "First one, as I squeeze my shoulder blades back together, right, those shoulder blades come back around the rib cage and squeeze together. That's retraction. So retract your shoulder blades. You might have heard that before." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
-> "And those ones will be important as you guys look at the push-pull assessments and what's going on at the neck and the shoulders that we're able to bring ourselves out of elevation and into depression." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
+> "As they push apart, that's called protraction. So retraction, squeezing those shoulder blades back together." — sources/S_ig_coachjoedrake_CnRTd72oJjW.md
 
 ## When the Meaning Breaks
 
-- Read as a shoulder-pain fix: the clip catalogs normal motion (retraction, protraction, elevation, depression, rotation) for exercise selection, not a diagnosis or correction protocol for pain.
-- Read as independent cues: the speaker's point is the opposite — during an exercise "we may or may not want them to be moving", so knowing the six motions is what lets a coach decide when the blades should stay still.
+- Read as pinching the shoulders up toward the ears: retraction squeezes the blades together across the back, while lifting them toward the ears is elevation, a different motion in this same lesson.
+- Read as a cue to hold the blades still during every exercise: Joe says the blades may or may not move during exercises, and the point of the lesson is knowing what they can do, not freezing them in retraction.

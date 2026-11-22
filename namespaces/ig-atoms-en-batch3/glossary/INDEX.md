@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7425 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7387 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cn1VIBsgicZ.md | undertow | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnMlELqI9Ub.md | flexibility training | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnOzPuuoV8e.md | worth | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CnRTd72oJjW.md | shoulder blades | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cnbp2dUq1xL.md | go after | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cny4HMVA5pw.md | position | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cn1VIBsgicZ.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnMlELqI9Ub.md | flexibility training | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnOzPuuoV8e.md | know your worth | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CnRTd72oJjW.md | retraction | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cnbp2dUq1xL.md | all your eggs in one basket | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cny4HMVA5pw.md | psychology of power | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Co0VTbQpu28.md | constant improvement | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | marathon | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | asymmetrical | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | non-negotiable | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | cue | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | motto | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | certification | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | science | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Co6-R9dgxft.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CoZY8_ugNfJ.md | asymmetrical | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CozZN82AO-r.md | non-negotiable | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpAHl6GgUmw.md | external cue | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpLfeKhAZFg.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpQFIMFpau_.md | certification | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpXj-FgAV4U.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CpbJnmbAHOd.md | coachjoedrake | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | confident | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CpuS_XZgi0E.md | rapport | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | mobility | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | dough | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq0W_T3gbnb.md | prime | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq5BY3Ygc66.md | axis of rotation | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | personal brand | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqDbTWcAH0G.md | full body | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | on stage | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | first session | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CqtDLtcpOAp.md | niche | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | coachjoedrake | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | streak | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cr8J5IMADe4.md | spatial programming | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrAsBLLAvom.md | passive income | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpkWU6IAqsQ.md | confident | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CpuS_XZgi0E.md | genuine rapport | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cpw3zNQgMZI.md | mobility | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq-LdDAg3Sx.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq0W_T3gbnb.md | integrated activation | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq5BY3Ygc66.md | axis of rotation | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cq7hxBygTbB.md | personal brand | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqDbTWcAH0G.md | full body | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqlhWshAP6I.md | first impression | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqprsVfgqpL.md | ideal training schedule | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CqtDLtcpOAp.md | niche | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr-ircRgMdy.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr2wB-IgQDd.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cr8J5IMADe4.md | spatial programming | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrAsBLLAvom.md | passive income | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CrGAmrKAD37.md | verbal cue | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrIrsA5AG_L.md | semi-private and small group training | 3 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | undulating periodization | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | athletic stance | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | systems over exercises | 2 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrIrsA5AG_L.md | semi-private and small group training | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrQKN74gihh.md | undulating periodization | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrjdMjkAymL.md | athletic stance | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CrvDyzzA4Z4.md | systems over exercises | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs-2IRJAXnB.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cs0o3Y-AmCK.md | coachjoedrake | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | isometric | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | spatial programming | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | adductor strength | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | plank | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | mind muscle connection | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cs3G8srgiFB.md | yielding isometric | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsBDF9Qg0LO.md | spatial programming | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsEUY6kAKg_.md | lateral plank progression | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsIyUR4AOx-.md | plank | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CsOtHIsAoyz.md | light bulb moments | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Csi82KOgKik.md | coachjoedrake | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CsqTpNWgYCh.md | coachjoedrake | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | turnovers | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | systems precede creativity | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | tripping on faith | 1 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | barefoot | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_Cu9IEw6gzxU.md | soft skills | 2 |
-| glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | ninety degree angles | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Ct09Kh6AYG3.md | accolades | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Ctczw-bvI8q.md | systems precede creativity | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CtyyigkAaaP.md | coachjoedrake | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cu7wSUSAX4b.md | barefoot warm-ups | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_Cu9IEw6gzxU.md | soft skills | 1 |
+| glossary/coachjoedrake/G_ig_coachjoedrake_CuHHJPTAn5s.md | engaged coach | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuJxA0uA18V.md | workouts | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_CuVWrN3AayG.md | coaching | 1 |
 | glossary/coachjoedrake/G_ig_coachjoedrake_Cubu4hxgLHz.md | running | 1 |

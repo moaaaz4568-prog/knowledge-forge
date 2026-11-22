@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [systems over exercises]
+aka: ["systems over exercises"]
 origin: sources/S_ig_coachjoedrake_CrvDyzzA4Z4.md
 ---
 
-# G_ig_coachjoedrake_CrvDyzzA4Z4 — systems over exercises
+# G_systems_over_exercises — systems over exercises
 
 ## Term
 
-Systems over exercises is this clip's directive in its first line: "Seek out systems over exercises, and hear me out for a second on this." The phrase occurs once, and the story around it defines it — as a new trainer he succeeded on personality and "cool exercise variation" (people would ask "what is this guy doing and how does he come up with this stuff?"), but he now rates that approach below having "more of a reason why I was doing what I was doing, a system and a process to put it all together." The instruction to trainers in their first five years: seek continuing education that teaches "how to think about training" and "how to put all the pieces together" — after which equipment certifications (TRX, kettlebell) become more useful, and clients get better results.
+Systems over exercises is Joe's advice to new coaches: learn how to think about training and put the pieces together before collecting equipment certifications. The phrase appears once, beside first five years, continuing education, and TRX and kettlebell, and he speaks from his own start, when personality and exercise variety carried him well with clients. He says a system would have made his business, his programming, and his client results better, because a reason for each choice beats a pile of variations. The education he recommends is the kind that teaches thinking rather than equipment, so that later certifications are used better and clients get better results.
 
 ## Synonyms
 
@@ -18,9 +18,8 @@ Systems over exercises is this clip's directive in its first line: "Seek out sys
 ## Live Example
 
 > "Seek out systems over exercises, and hear me out for a second on this." — sources/S_ig_coachjoedrake_CrvDyzzA4Z4.md
-> "Had I had more of a reason why I was doing what I was doing, a system and a process to put it all together." — sources/S_ig_coachjoedrake_CrvDyzzA4Z4.md
 
 ## When the Meaning Breaks
 
-- Read as exercise variety being bad: the story credits exercise variation with early client success; the directive is about what to seek in education (thinking and assembly), not a ban on variety.
-- Read as dismissing equipment certifications: TRX and kettlebell certifications are explicitly worthwhile in the clip's model — but after the system-thinking layer that makes them usable.
+- Read as a claim that exercises do not matter: Joe says he did well with exercise variety, and the point is that variety without a system wastes its value rather than having none.
+- Read as advice against certifications: the source tells coaches to take equipment certifications after they can think in systems, not to skip them.

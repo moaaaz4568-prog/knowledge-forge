@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
 
 ## Term
 
-This reel's caption is a two-line rap hook looped four times and nothing else: "Gotta get the money, I ain't got none" plus its answering line, repeated as the song's own loop. The hook is chanted rather than used: it names no idea, method, or distinction, and the four passes are one loop, not four separate teachings. The source accordingly has no conceptual term, and this entry makes no term claim. Nothing varies across the four passes — the transcript is a single chant block with no surrounding verse at all.
+This source has no conceptual term: it is a sung lyric, and gotta get the money is its repeated refrain, not a named idea or method. The phrase appears four times, beside all it takes is a nigga man, motherfucking bitch, and the whole source is that two-line couplet sung four times over. The repetition is the song's hook, and nothing in the source turns the want of money into a concept about earning or business. The entry keeps the couplet as a song hook and makes no business claim from it.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ This reel's caption is a two-line rap hook looped four times and nothing else: "
 
 ## Live Example
 
-> "Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch. Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch." — sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
+> "Gotta get the money, I ain't got none. All it takes is a nigga man, motherfucking bitch." — sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
 
 ## When the Meaning Breaks
 
-- Read as the trainer's own financial statement: the caption is transcribed song lyric — a looped chant about being broke and hustling — not the account owner speaking about his money.
-- Read as four stanzas of content: the four repetitions are one hook looped, and the transcript holds no verses and no attribution beyond the chant itself.
+- Read as Joe's advice about making money: the line is sung, and the source contains no coaching or business content at all.
+- Read as a claim about what it takes to get money: the second line is the lyric's own boast, and the source explains nothing about earning.

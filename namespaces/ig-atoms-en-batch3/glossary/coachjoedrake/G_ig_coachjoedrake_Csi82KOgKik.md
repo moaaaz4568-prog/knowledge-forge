@@ -9,7 +9,7 @@ origin: sources/S_ig_coachjoedrake_Csi82KOgKik.md
 
 ## Term
 
-This reel's caption transcribes one sung line: "When you come alive, when you drop your reason, when you feel the love, when you feel the weight." The phrase come alive heads four parallel when-clauses, but it is lyric vocabulary — sung, not used as a concept — and drop your reason, feel the love, and feel the weight are the same sung imagery. Nothing here names an idea, method, or distinction, so the source carries no conceptual term; no term claim is made. One line, four when-clauses, no second sentence — the transcript ends where the hook ends.
+This source has no conceptual term: it is a sung lyric, and when you come alive is its opening line, not a named idea or method. The phrase appears once, beside when you drop your reason, when you feel the love, and when you feel the weight, and the whole source is that single sentence. The four when-clauses stack as a lyric, and nothing in the source says what coming alive means or connects it to training. The entry keeps the line as a sung sentence and draws no coaching lesson from it.
 
 ## Synonyms
 
@@ -21,5 +21,5 @@ This reel's caption transcribes one sung line: "When you come alive, when you dr
 
 ## When the Meaning Breaks
 
-- Read as a training-arousal or energy-systems concept: coming alive is sung imagery about dropping reason and feeling love and weight, not a physiological state of readiness.
-- Read as four distinct teachings: the when-clauses are one lyric's parallel structure, not a list of separate claims to analyze individually.
+- Read as Joe's advice about feeling alive in training: the line is sung, and the source contains no coaching content at all.
+- Read as a claim about love or weight as training ideas: love and weight are the lyric's images, and the source gives neither of them a training meaning.
