@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [people, therealbrianmark account context]
+aka: [sidelines]
 origin: sources/S_ig_therealbrianmark_Cv8nfSwtX7t.md
 ---
 
-# G_ig_therealbrianmark_Cv8nfSwtX7t — people
+# G_ig_therealbrianmark_Cv8nfSwtX7t — sidelines
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fucking, talk, sidelines, always. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "the sidelines" is where Brian Mark puts the people talking about you: they are not playing the game, they are watching it, and their opinions do not matter. The word appears once, in "The people on the sidelines always have an opinion on the people playing the game", and the video's whole message is the shrug that opens it — who cares if they are talking about you, let them talk. His concrete contrast is between the talkers on the sidelines and the players in the game, and the advice is to ignore the first group entirely.
 
 ## Synonyms
 
-- people
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Who gives a fuck if they're talking about you? Let them fucking talk. The people on the sidelines always have an opinion on the people playing the game." — sources/S_ig_therealbrianmark_Cv8nfSwtX7t.md
+> "The people on the sidelines always have an opinion on the people playing the game." — sources/S_ig_therealbrianmark_Cv8nfSwtX7t.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "the sidelines" is read as a literal sports bench: here it is a position in life — watching and judging others — set against playing the game yourself.
+- When the message is read as caring what is said: the video opens by dismissing the talk itself, so the point is indifference to the opinions, not an answer to them.

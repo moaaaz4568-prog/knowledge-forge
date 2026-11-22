@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [expensive, therealbrianmark account context]
+aka: [paid in full]
 origin: sources/S_ig_therealbrianmark_CvDbnU7gcS_.md
 ---
 
-# G_ig_therealbrianmark_CvDbnU7gcS_ — expensive
+# G_ig_therealbrianmark_CvDbnU7gcS_ — paid in full
 
 ## Term
 
-"expensive" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: super, make, program, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "paid in full" is the cheaper of the two prices Brian Mark offers after first making his program look cheap against an in-person trainer: his program with training, nutrition, and accountability is only 1,500 for 16 weeks against about $3,000 for 16 weeks of in-person training with no nutrition plan, and the paid in full option saves a full $500 over the $500-a-month plan. The phrase appears once, in the choice he puts to the prospect — "Which option works better for you?" — and the video claims they will go for the discount to save the money, no questions asked. The psychology hack is the comparison itself: shit on a more expensive and worse option, then give them the choice of choosing you or you.
 
 ## Synonyms
 
-- expensive
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's a psychology hack to make your super expensive program look super fucking cheap. All you do is shit on a more expensive and worse option and then give them the choice of choosing you or you. Here's what that looks like. Okay, so if you were to hire an in-person trainer, it would cost you about $3,000 for 16 weeks and you wouldn't get a nutrition plan." — sources/S_ig_therealbrianmark_CvDbnU7gcS_.md
+> "Or you can do monthly and it's $500 a month, but the paid in full saves you a full $500." — sources/S_ig_therealbrianmark_CvDbnU7gcS_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "expensive": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "paid in full" is read as the only price: here it is one of two options — 1,500 paid in full or 500 a month — and its job is to look like the saving against the monthly plan.
+- When the hack is read as discounting the program: the program's price is unchanged; the trick is anchoring it against the $3,000 in-person trainer with no nutrition plan.

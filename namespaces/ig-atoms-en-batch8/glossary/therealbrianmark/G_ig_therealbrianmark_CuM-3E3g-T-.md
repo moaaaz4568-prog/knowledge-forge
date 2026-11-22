@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [agreement, therealbrianmark account context]
+aka: [agreement]
 origin: sources/S_ig_therealbrianmark_CuM-3E3g-T-.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_therealbrianmark_CuM-3E3g-T-.md
 
 ## Term
 
-"agreement" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: protects, because, agreement, want. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "agreement" is Brian Mark's reframe of the contract a prospect fears being stuck in: instead of rebutting the fear, the coach asks what could go wrong that would make the prospect feel stuck, then presents the agreement as the thing that protects the client by forcing the coach to fulfil the promise made. The word appears 3 times, alongside "stuck in a contract", "protects them", and "protects you and it protects me", and the script ends with the coach telling the prospect the agreement makes sure they get the service they paid for. His worked example is the word-for-word line "So what do you feel like could go wrong based on what we've talked about that would make you feel stuck?", which turns the prospect's own answer into the real concern to overcome.
 
 ## Synonyms
 
-- agreement
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, the truth is our clients actually want to have an agreement because the agreement protects them to make sure that we fulfill on the promise that we made. So the agreement really just protects you and it protects me and makes sure that you get the service that you paid for." — sources/S_ig_therealbrianmark_CuM-3E3g-T-.md
+> "Well, the truth is our clients actually want to have an agreement because the agreement protects them to make sure that we fulfill on the promise that we made." — sources/S_ig_therealbrianmark_CuM-3E3g-T-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agreement": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "agreement" is read as a legal trap the prospect should fear: here it is presented as the client's protection, the mechanism that guarantees the promised service is delivered.
+- When the reframe is read as a rebuttal: the video explicitly replaces rebutting with asking what could go wrong, so treating the agreement pitch as an argument against the objection misses the technique.

@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch8)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,988 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,956 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3054,56 +3054,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/therealbrianmark/G_ig_therealbrianmark_Cu8TTBLAXuF.md | $50 deposit | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuC98VUg9lG.md | investment options | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuFpnSAAFml.md | the word but | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuIRIHdgST5.md | videos | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuIRIHdgST5.md | branding | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuM-3E3g-T-.md | agreement | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuQkKwUAknQ.md | good job | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cujx54Jgo8m.md | successful | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CukX6mtATya.md | Number | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CumVcdfghR7.md | lose weight | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cuo86Vdg0ne.md | sales | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CurgVFJgTqH.md | content | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuQkKwUAknQ.md | red flags | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cujx54Jgo8m.md | action | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CukX6mtATya.md | three questions | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CumVcdfghR7.md | three step close | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cuo86Vdg0ne.md | loss | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CurgVFJgTqH.md | macro micro strategy | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_Cus7ECzgjjo.md | redemption story | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CusOyBxALHO.md | themselves | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cuu1yhDgCMp.md | keep | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuuLqX0g7HD.md | love handles | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cuw8RJvg4th.md | clients | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cuxsf55gk9D.md | every | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cuz2TwrgNHe.md | important | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuzOzCHg7hQ.md | next | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CusOyBxALHO.md | conviction | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cuu1yhDgCMp.md | goodwill | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuuLqX0g7HD.md | pain language close | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cuw8RJvg4th.md | consistency | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cuxsf55gk9D.md | good influence | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cuz2TwrgNHe.md | dump, chunk, and sequence | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuzOzCHg7hQ.md | buyer's remorse | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_Cv-KYuGg9Db.md | environment | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cv50qtggwBE.md | fifteen hundred | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cv75efEgWjc.md | Johnson | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cv8nfSwtX7t.md | people | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvBGvVuAemI.md | want | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvCxA5ZgCT1.md | keep | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvDbnU7gcS_.md | expensive | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvFMG4JAhoX.md | self worth | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvGhSMMJUWd.md | forward today | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvHwj3jAr96.md | problems | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvIes1NgxL9.md | work | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvJMoAdgSVm.md | important | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvKc3nnAu6Z.md | Step number | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvLHrDOgMWY.md | people | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvM5v0cAMWs.md | goals | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvNvqmVguvA.md | development | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvOjXOvg-6B.md | work | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvPiu8_g2ND.md | money | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvT0lmhA2z4.md | people | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvVWJFbgZSo.md | opinion | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvX8xKyAGZs.md | problem | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvXOOg-AB3h.md | fitness trainer | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvYjDhUAELJ.md | gonna | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvZ1g1vAMxA.md | time | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvahfzNg_rG.md | help | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvbMChYgfw7.md | start something | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvcWCYbgT0_.md | attract | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cvc_35Yg_kU.md | four minute | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvdtWAjJ24G.md | fat loss | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cv50qtggwBE.md | fast action discount close | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cv75efEgWjc.md | voice note | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cv8nfSwtX7t.md | sidelines | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvBGvVuAemI.md | expensive compared to what | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvCxA5ZgCT1.md | protect your dreams | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvDbnU7gcS_.md | paid in full | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvFMG4JAhoX.md | self worth | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvGhSMMJUWd.md | perfect program | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvHwj3jAr96.md | old self | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvIes1NgxL9.md | commit | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvJMoAdgSVm.md | discipline | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvKc3nnAu6Z.md | story views | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvLHrDOgMWY.md | toxic people | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvM5v0cAMWs.md | ghosted | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvNvqmVguvA.md | embrace loneliness | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvOjXOvg-6B.md | work ethic | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvPiu8_g2ND.md | cash runway account | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvT0lmhA2z4.md | scarcity | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvVWJFbgZSo.md | trade places | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvX8xKyAGZs.md | the solution | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvXOOg-AB3h.md | transformation | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvYjDhUAELJ.md | resistance | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvZ1g1vAMxA.md | early is on time | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvahfzNg_rG.md | Engage, Qualify, Confirm, and Convert | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvbMChYgfw7.md | fear of failure | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvcWCYbgT0_.md | dress the part | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cvc_35Yg_kU.md | four minute mile | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvdtWAjJ24G.md | hot lead | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_Cve8ltjAKW9.md | unconditional | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cvfoi08gaQ5.md | fitness program | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CvgZkKFg7Hz.md | Start | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cvhg2vLAH-8.md | need | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CviJqdng657.md | know | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cvfoi08gaQ5.md | consultation | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CvgZkKFg7Hz.md | gratitude | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cvhg2vLAH-8.md | PPVCO | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CviJqdng657.md | block out | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_Cvk49EcAiOC.md | Step number | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CvmsmMJAb8L.md | life | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CvqkA9DJ60b.md | self made | 1 |

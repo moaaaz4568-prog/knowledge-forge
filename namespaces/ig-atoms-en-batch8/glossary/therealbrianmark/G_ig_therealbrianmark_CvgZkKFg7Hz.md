@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Start, therealbrianmark account context]
+aka: [gratitude]
 origin: sources/S_ig_therealbrianmark_CvgZkKFg7Hz.md
 ---
 
-# G_ig_therealbrianmark_CvgZkKFg7Hz — Start
+# G_ig_therealbrianmark_CvgZkKFg7Hz — gratitude
 
 ## Term
 
-"Start" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, goes, gratitude, start. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "gratitude" is how Brian Mark says to start the day instead of social media: your day already sucks because you start it with social media — a negative comment, a client wanting to cancel — and instantly you are in a bad mood. The word appears once, in the sequence "Start with gratitude. Start by working on your mindset. Start by thinking about your goals", and the claim is that how you start your day determines how your day goes. His concrete alternative is a positive, optimistic attitude built in the morning and carried through the day.
 
 ## Synonyms
 
-- Start
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Your day already sucks donkey balls because you started it with social media. Get a negative comment on your post, client wants to cancel. As soon as you wake up, instantly you're in a bad mood. How you start your day determines how your day goes. Start with gratitude. Start by working on your mindset. Start by thinking about your goals." — sources/S_ig_therealbrianmark_CvgZkKFg7Hz.md
+> "How you start your day determines how your day goes. Start with gratitude." — sources/S_ig_therealbrianmark_CvgZkKFg7Hz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Start": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "gratitude" is read as ignoring bad news: here it is the morning's starting input, chosen before social media sets the mood, not a denial that a client wants to cancel.
+- When the day is read as ruined by one comment: the video's claim is about the starting habit — social media first puts you in a bad mood instantly — and gratitude replaces that first input.

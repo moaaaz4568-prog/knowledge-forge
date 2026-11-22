@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [attract, therealbrianmark account context]
+aka: [dress the part]
 origin: sources/S_ig_therealbrianmark_CvcWCYbgT0_.md
 ---
 
-# G_ig_therealbrianmark_CvcWCYbgT0_ — attract
+# G_ig_therealbrianmark_CvcWCYbgT0_ — dress the part
 
 ## Term
 
-"attract" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thirsty, women, trying, dress. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, to "dress the part" means to look like the coach your target client wants: Brian Mark mocks dudes in stringers posting sick arm workouts while their bio says women's weight loss coach, and asks who they are kidding. The phrase appears 2 times, next to "the only girls you're going to attract are thirsty women that like scrawny dudes" and the Lamborghini analogy — if he were selling Lamborghinis wearing thrift-store clothes, people probably would not buy from him. His concrete instruction is to think about the person you are trying to attract and dress for that person, so the content draws them in.
 
 ## Synonyms
 
-- attract
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Dress the part if you want to make money as an online coach. I see dudes in stringers posting sick arm workouts, but then they've got women's weight loss coach in their bio. Who you kidding, homie? The only girls you're going to attract are thirsty women that like scrawny dudes. And yes, I called you scrawny." — sources/S_ig_therealbrianmark_CvcWCYbgT0_.md
-> "Look at it this way: if I was trying to sell Lamborghinis at the dealership and I was wearing clothes from the thrift store, people probably wouldn't buy from me. Think about the person that you are trying to attract and dress the part for that person so that you can draw them in with your content. Now save this video and follow me for more value." — sources/S_ig_therealbrianmark_CvcWCYbgT0_.md
+> "Dress the part if you want to make money as an online coach." — sources/S_ig_therealbrianmark_CvcWCYbgT0_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "attract": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "dress the part" is read as dressing expensively: here it means dressing to match the client you want to attract — the women's weight loss coach should not look like a stringer-wearing lifter.
+- When the Lamborghini line is read as a claim about cars: it is an analogy for credibility — thrift-store clothes would not sell Lamborghinis, just as the wrong look does not sell coaching to the intended client.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [important, therealbrianmark account context]
+aka: [discipline]
 origin: sources/S_ig_therealbrianmark_CvJMoAdgSVm.md
 ---
 
-# G_ig_therealbrianmark_CvJMoAdgSVm — important
+# G_ig_therealbrianmark_CvJMoAdgSVm — discipline
 
 ## Term
 
-"important" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: goals, needing, success, rest. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "discipline" is doing what you say you are going to do even when it is not convenient, and Brian Mark pairs it with integrity on a Sunday he had planned to take off. The word appears once, after a busy week in which he did not get to film, and he explains that he made time on Sunday because his success and his goals are more important than his needing to take time off. His concrete proof is the output itself: 30 short form talking videos and two YouTubes filmed on the supposed day off, offered as evidence that his success matters more than his rest.
 
 ## Synonyms
 
-- important
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I love taking Sundays off, but discipline and integrity means doing what you say you're gonna do even when it's not convenient. And I had a busy week, I didn't get to film this week, and so I needed to make sure I made time for it on Sunday because my success and my goals are more important than my needing to take time off." — sources/S_ig_therealbrianmark_CvJMoAdgSVm.md
-> "So even though today was supposed to be my day off, I filmed 30 short form talking videos and two YouTubes. My success is more important than my rest. How about you?" — sources/S_ig_therealbrianmark_CvJMoAdgSVm.md
+> "I love taking Sundays off, but discipline and integrity means doing what you say you're gonna do even when it's not convenient." — sources/S_ig_therealbrianmark_CvJMoAdgSVm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "important": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "discipline" is read as never resting: here it is keeping a stated commitment on one inconvenient Sunday, while the love of Sundays off is stated openly alongside it.
+- When the 30 videos are read as the goal: the filming is the demonstration of discipline, and the claim is that success and goals outrank rest on that day.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [start something, therealbrianmark account context]
+aka: [fear of failure]
 origin: sources/S_ig_therealbrianmark_CvbMChYgfw7.md
 ---
 
-# G_ig_therealbrianmark_CvbMChYgfw7 — start something
+# G_ig_therealbrianmark_CvbMChYgfw7 — fear of failure
 
 ## Term
 
-"start something" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: start, best, time, something. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "fear of failure" is why Brian Mark says the viewer has not started their online coaching business: you will never have it all figured out, and there will always be something more to learn. The phrase appears once, next to "start before you're ready" and the line that the second best time to start something is tomorrow while the first best time is today. His concrete instruction is to start now, unready, rather than waiting for the fear to disappear through more learning.
 
 ## Synonyms
 
-- start something
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Your fear of failure is why you haven't started your online coaching business. You're never gonna have it all figured out and there's always gonna be something more to learn. The second best time to start something is tomorrow. The first best time to start something is today. Start before you're ready." — sources/S_ig_therealbrianmark_CvbMChYgfw7.md
+> "Your fear of failure is why you haven't started your online coaching business." — sources/S_ig_therealbrianmark_CvbMChYgfw7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "start something": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "fear of failure" is read as a lack of knowledge: here the video says there will always be more to learn, so learning is not the cure — starting before you are ready is.
+- When starting is read as having a plan first: the video's order is reversed — start today, unready, and figure it out from there.

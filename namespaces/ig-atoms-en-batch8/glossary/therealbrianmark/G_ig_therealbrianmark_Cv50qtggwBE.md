@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fifteen hundred, therealbrianmark account context]
+aka: [fast action discount close]
 origin: sources/S_ig_therealbrianmark_Cv50qtggwBE.md
 ---
 
-# G_ig_therealbrianmark_Cv50qtggwBE — fifteen hundred
+# G_ig_therealbrianmark_Cv50qtggwBE — fast action discount close
 
 ## Term
 
-"fifteen hundred" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dollars, hack, close, hundred. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, the "fast action discount close" is Brian Mark's sales hack for closing fifteen hundred dollar fitness programs: right before presenting the price, tell the prospect that the clients who get the best results are the ones who take fast action, and offer an action taker discount for deciding now. The phrase appears once, worked out as nineteen ninety seven for sixteen weeks reduced by five hundred dollars to fifteen hundred, covering training, nutrition, and accountability to lose twenty pounds, and the close ends with "Is that fair?" so the prospect feels they are being given a crazy deal. The discount only exists for the immediate decision, which is what makes it a close rather than a price cut.
 
 ## Synonyms
 
-- fifteen hundred
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's a sales hack to close fifteen hundred dollar fitness programs like fucking hot cake. It's called the fast action discount close. Right before you present your price, say this: My clients that get the best results are the ones that take fast action. So we actually do have an action taker discount." — sources/S_ig_therealbrianmark_Cv50qtggwBE.md
-> "Usually my program is nineteen ninety seven for sixteen weeks, but if you decide to invest right now, I'll knock five hundred dollars off of that. So it would be fifteen hundred dollars for sixteen weeks of training, nutrition, and accountability to help you lose that twenty pounds. Is that fair?" — sources/S_ig_therealbrianmark_Cv50qtggwBE.md
+> "It's called the fast action discount close." — sources/S_ig_therealbrianmark_Cv50qtggwBE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fifteen hundred": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When the "fast action discount close" is read as a standing sale price: here the five hundred dollars off exists only if the prospect invests right now, and the urgency is the point.
+- When it is read as a discount for fast results: the video ties the discount to the speed of the decision, not to how quickly the client loses the twenty pounds.

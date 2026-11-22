@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [people, therealbrianmark account context]
+aka: [scarcity]
 origin: sources/S_ig_therealbrianmark_CvT0lmhA2z4.md
 ---
 
-# G_ig_therealbrianmark_CvT0lmhA2z4 — people
+# G_ig_therealbrianmark_CvT0lmhA2z4 — scarcity
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: become, irresistible, begging, buy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "scarcity" is the psychology Brian Mark uses to make an offer irresistible: three hacks — personal scarcity, shutting down access, and sales scarcity — that make people beg to buy. The word appears 3 times, in "use scarcity in your marketing", "create personal scarcity", and "create sales scarcity", and each hack is demonstrated: personal scarcity makes customers feel the pain of putting off action, shutting down access means enrolment actually closes on a firm deadline so the next opening draws begging buyers, and sales scarcity raises the pre-sale price from $79 until the 10th to $150 until the 21st. The throughline is that the limit must be real — "when you say enrollments closed, you actually have to mean it".
 
 ## Synonyms
 
-- people
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to make your offer become irresistible and have people begging to buy from you, here are three psychology hacks to use scarcity in your marketing. Number one, create personal scarcity. Make your customers feel the pain of what it's gonna be like if they put off taking action. How much longer are you willing to put things off? How long are you willing to accept less from yourself?" — sources/S_ig_therealbrianmark_CvT0lmhA2z4.md
-> "Number two, shut down access to buy your s***. But when you say enrollments closed, you actually have to mean it. Have an extremely firm deadline where people miss enrollment, it's closed. This will make people feel like they missed out, and the next time you open enrollment, they'll be begging to pay. Number three, create sales scarcity." — sources/S_ig_therealbrianmark_CvT0lmhA2z4.md
-> "As an example, the pre-sale price is $79 until the 10th, and from the 10th to the 21st, it's $150 to enroll. This will incentivize people to take action now and not later. If this video is valuable, save it and follow me for more." — sources/S_ig_therealbrianmark_CvT0lmhA2z4.md
+> "If you want to make your offer become irresistible and have people begging to buy from you, here are three psychology hacks to use scarcity in your marketing." — sources/S_ig_therealbrianmark_CvT0lmhA2z4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "scarcity" is read as simply raising the price: here the price rise is only the third hack, and the first two are about the pain of delay and a genuinely closed enrolment.
+- When a closed enrolment is read as a marketing line: the video insists the deadline must be firm and missed enrolments really closed, or the scarcity stops working.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [people, therealbrianmark account context]
+aka: [toxic people]
 origin: sources/S_ig_therealbrianmark_CvLHrDOgMWY.md
 ---
 
-# G_ig_therealbrianmark_CvLHrDOgMWY — people
+# G_ig_therealbrianmark_CvLHrDOgMWY — toxic people
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: cut, toxic, hold, back. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "toxic people" are the ones Brian Mark says to cut out so your entire life can change: alongside the alcohol, the weed, and the partying every single weekend, they are the habits and company holding you back. The phrase appears once, next to "early mornings under the bar" — trading nights out at the bar for early mornings under the bar — and the video's instruction is to let go of the people, the places, and the habits that hold you back. Taking care of yourself is presented as the decision that starts the change, and cutting the toxic people is its first act.
 
 ## Synonyms
 
-- people
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Your entire fucking life is gonna change when you start taking care of yourself. When you cut out the toxic people that hold you back. When you stop with the alcohol and the weed and the partying every single weekend. When you trade the nights out at the bar for the early mornings under the bar." — sources/S_ig_therealbrianmark_CvLHrDOgMWY.md
-> "You need to make the decision that you're gonna let go of the people, the places, and the habits that are holding you back." — sources/S_ig_therealbrianmark_CvLHrDOgMWY.md
+> "When you cut out the toxic people that hold you back." — sources/S_ig_therealbrianmark_CvLHrDOgMWY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "toxic people" is read as anyone who disagrees with you: here they are named alongside drinking, weed, and weekend partying — a pattern of habits that holds you back, not a difference of opinion.
+- When cutting them out is read as a fitness tip alone: the video ties it to a whole-life change — people, places, and habits together — with the barbell mornings replacing the bar nights.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [work, therealbrianmark account context]
+aka: [commit]
 origin: sources/S_ig_therealbrianmark_CvIes1NgxL9.md
 ---
 
-# G_ig_therealbrianmark_CvIes1NgxL9 — work
+# G_ig_therealbrianmark_CvIes1NgxL9 — commit
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: convincing, like, guarantee, put. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, to "commit" is the line Brian Mark draws for a prospect who is about to buy but not ready to seal the deal: "I can't help you until you commit to this. But what I can do is I can promise you that when you commit, I will not let you fail." The word appears 2 times, next to "guarantee", "put in the work", and "the ball in the prospect's court", and the close that follows asks whether they are ready to finally lose that 20 pounds or whether the goal just is not that important to them right now. The commitment is framed as the prospect's own decision to take control, not as pressure from the coach.
 
 ## Synonyms
 
-- work
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If someone is just about to buy but they're not quite ready to seal the deal, here's what to say to push them over the line. Instead of convincing them to work with you like a dumb, write down and say this. No really, write this down. Listen, John, I can't help you until you commit to this. But what I can do is I can promise you that when you commit, I will not let you fail." — sources/S_ig_therealbrianmark_CvIes1NgxL9.md
-> "I guarantee that this will work for you if you put in the work. Are you ready to make the change in your life and finally lose that 20 pounds? Or is that goal just not that important to you right now? This question put the ball in the prospect's court and makes them feel like they have full control over the situation." — sources/S_ig_therealbrianmark_CvIes1NgxL9.md
+> "Listen, John, I can't help you until you commit to this." — sources/S_ig_therealbrianmark_CvIes1NgxL9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "commit" is read as signing the contract on the spot: here it is the prospect's decision to take the change seriously, and the coach pairs it with a promise not to let them fail if they put in the work.
+- When the guarantee is read as unconditional: the video's promise is tied to the prospect putting in the work — "I guarantee that this will work for you if you put in the work".

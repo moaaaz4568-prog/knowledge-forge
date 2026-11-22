@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [keep, therealbrianmark account context]
+aka: [goodwill]
 origin: sources/S_ig_therealbrianmark_Cuu1yhDgCMp.md
 ---
 
-# G_ig_therealbrianmark_Cuu1yhDgCMp — keep
+# G_ig_therealbrianmark_Cuu1yhDgCMp — goodwill
 
 ## Term
 
-"keep" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: keep, delivering, showing, value. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "goodwill" is the deposit Brian Mark says compounds: keep showing up, keep delivering value, and keep depositing goodwill, and eventually it comes back tenfold. The word appears once, at the end of a three-part habit — showing up, delivering value, depositing goodwill — and the video offers no tactic for spending it, only the belief that steady deposits return multiplied. His concrete picture is a slow build where the return arrives later and larger, ten times what was put in.
 
 ## Synonyms
 
-- keep
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_therealbrianmark_Cuu1yhDgCMp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "keep": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "goodwill" is read as a favour owed by a specific person: here it is a general balance built by showing up and delivering value, repaid tenfold without a named debtor.
+- When compounding is read as a guaranteed schedule: the video states it as a belief that served him well, not as a dated promise of return.

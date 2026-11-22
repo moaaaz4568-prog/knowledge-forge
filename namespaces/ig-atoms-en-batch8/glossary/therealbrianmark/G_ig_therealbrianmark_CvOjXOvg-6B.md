@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [work, therealbrianmark account context]
+aka: [work ethic]
 origin: sources/S_ig_therealbrianmark_CvOjXOvg-6B.md
 ---
 
-# G_ig_therealbrianmark_CvOjXOvg-6B — work
+# G_ig_therealbrianmark_CvOjXOvg-6B — work ethic
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hours, eight, somebody, four. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "work ethic" is what Brian Mark calls atrocious in the viewer who puts eight hours into somebody else's dream and then claims to have no four hours for their own: wife, kids, mortgage, and baby are all answered with "Wake up earlier, homie". The phrase appears once, and the video's claim is that until the viewer accepts that their work ethic is atrocious and starts working harder, they will never see any growth. His concrete arithmetic is the contrast between eight hours for an employer and zero hours for yourself, with earlier mornings as the only remedy offered.
 
 ## Synonyms
 
-- work
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You put in eight hours of work for somebody else's dream, and when you come home, you don't have four hours to work on your own. But Brian, I have a wife, I have kids, I have a mortgage, I have a baby. Wake up earlier, homie. Your work ethic is atrocious, and until you accept that fact and start working harder, you're never gonna see any growth." — sources/S_ig_therealbrianmark_CvOjXOvg-6B.md
+> "Wake up earlier, homie. Your work ethic is atrocious, and until you accept that fact and start working harder, you're never gonna see any growth." — sources/S_ig_therealbrianmark_CvOjXOvg-6B.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "work ethic" is read as hours already worked: here the eight hours for somebody else's dream count against the viewer, and the ethic is measured by the hours given to their own dream.
+- When the family excuses are read as valid reasons: the video dismisses wife, kids, mortgage, and baby as a block and answers all of them with waking up earlier.

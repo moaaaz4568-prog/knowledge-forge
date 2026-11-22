@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Number, therealbrianmark account context]
+aka: [three questions]
 origin: sources/S_ig_therealbrianmark_CukX6mtATya.md
 ---
 
-# G_ig_therealbrianmark_CukX6mtATya — Number
+# G_ig_therealbrianmark_CukX6mtATya — three questions
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, two, sell, anything. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, the "three questions" are Brian Mark's replacement for coaching people in the DMs: three questions that make the prospect aware they need help, picturing their dream future, and holding a personal reason to book a call. The phrase appears 2 times, and the questions are "what's the biggest struggle that you have in your journey right now?", "what's your number one goal in your journey right now?", and "why is that goal important to you?", each tied to a purpose — awareness, dream future, strong reason. Once the prospect has answered all three, the coach offers a free 15-minute consult and sells the program on that call, so the questions are a bridge to the call rather than the sale itself.
 
 ## Synonyms
 
-- Number
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Stop coaching people in the DMs. It's why you're not making any cash. Instead, use these three questions to sell anything to anyone. Number one, what's the biggest struggle that you have in your journey right now? Asking this question in the DMs makes them aware that they need your help. Number two, what's your number one goal in your journey right now?" — sources/S_ig_therealbrianmark_CukX6mtATya.md
-> "This makes them think about their dream future. Number three, why is that goal important to you? This gives them a strong reason why personally that they need to book a call with you. After they've answered these three questions, you can offer a free 15-minute consult and on that call, you can offer your program and selling your product. You're welcome. Now save this video and go book some calls." — sources/S_ig_therealbrianmark_CukX6mtATya.md
+> "Instead, use these three questions to sell anything to anyone." — sources/S_ig_therealbrianmark_CukX6mtATya.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When the "three questions" are read as a script to paste into the DMs: here they are a sequence with a distinct job for each question — struggle, goal, importance — and the sale happens later on the consult call.
+- When the questions are read as free coaching: the video's point is that answering them earns the prospect a call, and the program is offered on that call, not in the messages.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [time, therealbrianmark account context]
+aka: [early is on time]
 origin: sources/S_ig_therealbrianmark_CvZ1g1vAMxA.md
 ---
 
-# G_ig_therealbrianmark_CvZ1g1vAMxA — time
+# G_ig_therealbrianmark_CvZ1g1vAMxA — early is on time
 
 ## Term
 
-"time" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: late, time, early, person. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "early is on time" is Brian Mark's rule for commitments: early is on time, on time is late, and late is go fuck yourself, so when you have committed to a client, a friend, or a business meeting, show up early out of respect for the other person's time. The phrase appears once, as the first of three short verdicts, and the video gives no exception for who the meeting is with — the rule covers clients, friends, and business meetings alike. His concrete measure is the other person's time, not your own schedule.
 
 ## Synonyms
 
-- time
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Early is on time. On time is late. Late is go fuck yourself. When you've made a commitment to a client, a friend, or a business meeting, show up early and have some respect for the other person's time." — sources/S_ig_therealbrianmark_CvZ1g1vAMxA.md
+> "Early is on time. On time is late. Late is go fuck yourself." — sources/S_ig_therealbrianmark_CvZ1g1vAMxA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "time": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "early is on time" is read as advice to arrive hours ahead: here it is a standard for respect — being early is the on-time — set against the verdict that late is unacceptable.
+- When the rule is read as applying only to clients: the video names a client, a friend, and a business meeting in one line, so the commitment, not the relationship, triggers it.

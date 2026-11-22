@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [self worth, therealbrianmark account context]
+aka: [self worth]
 origin: sources/S_ig_therealbrianmark_CvFMG4JAhoX.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_therealbrianmark_CvFMG4JAhoX.md
 
 ## Term
 
-"self worth" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: worth, defined, self, determines. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "self worth" is what Brian Mark says social media numbers cannot define: it is not defined by how many views a video gets, by how many followers you have, or by a stranger's opinion in your comment section. The phrase appears 2 times, next to "views", "followers", and "stranger's opinion", and the video's claim is that the value you bring to this planet has nothing to do with those counts. His concrete reframe is that social media is a tool to impact this planet, not the measuring stick that determines your self worth.
 
 ## Synonyms
 
-- self worth
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't know who needs to hear this, but your self worth isn't defined by how many views you get in a video. The value that you bring to this planet has nothing to do with how many followers that you have. The way that you feel about yourself cannot be defined by a stranger's opinion in your comment section. Social media is a tool that we can use to impact this planet." — sources/S_ig_therealbrianmark_CvFMG4JAhoX.md
-> "It's not the measuring stick that determines your self worth." — sources/S_ig_therealbrianmark_CvFMG4JAhoX.md
+> "I don't know who needs to hear this, but your self worth isn't defined by how many views you get in a video." — sources/S_ig_therealbrianmark_CvFMG4JAhoX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "self worth": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "self worth" is read as something followers prove: here followers and views are explicitly excluded as measures, and the value is tied to the impact you bring instead.
+- When the video is read as telling creators to quit social media: it calls social media a tool for impact, and only rejects it as the stick that measures a person.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Step number, therealbrianmark account context]
+aka: [story views]
 origin: sources/S_ig_therealbrianmark_CvKc3nnAu6Z.md
 ---
 
-# G_ig_therealbrianmark_CvKc3nnAu6Z — Step number
+# G_ig_therealbrianmark_CvKc3nnAu6Z — story views
 
 ## Term
 
-"Step number" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, step, five, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "story views" are what Brian Mark promises to multiply tenfold with five steps: delete all of your Instagram stories, post one photo that looks like a 12, put up a controversial poll such as "do you think pineapples belong on pizza?", then post nothing else for 12 hours. The phrase appears 2 times, once as the thing to 10x and once as the result — "10 times more story views than you've ever seen" — and the fifth step is to save the video, follow him, and come back and comment once it works. The poll is the engine: engagement on a single story while the account stays silent for half a day.
 
 ## Synonyms
 
-- Step number
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to 10x your Instagram story views in five simple steps. Step number one, delete all of your Instagram stories. Step number two, post one photo on your Instagram stories. Pick a fire photo that you look like a 12. Step number three, put a controversial poll up. As an example, do you think pineapples belong on pizza? Obviously they do." — sources/S_ig_therealbrianmark_CvKc3nnAu6Z.md
-> "Step number four, once you're done, don't post any other stories for 12 hours. Come back and you'll see 10 times more story views than you've ever seen. Step number five, save this video, follow me, and come back and comment once that works." — sources/S_ig_therealbrianmark_CvKc3nnAu6Z.md
+> "Here's how to 10x your Instagram story views in five simple steps." — sources/S_ig_therealbrianmark_CvKc3nnAu6Z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Step number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "story views" is read as a count of followers: here it is views on a single story after clearing the slate, and the method depends on posting one story and then nothing for 12 hours.
+- When the controversial poll is read as the whole trick: the poll only works inside the sequence — delete everything, one fire photo, the poll, then silence — not as a standalone post.

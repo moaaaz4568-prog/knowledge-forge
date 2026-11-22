@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [opinion, therealbrianmark account context]
+aka: [trade places]
 origin: sources/S_ig_therealbrianmark_CvVWJFbgZSo.md
 ---
 
-# G_ig_therealbrianmark_CvVWJFbgZSo — opinion
+# G_ig_therealbrianmark_CvVWJFbgZSo — trade places
 
 ## Term
 
-"opinion" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: always, block, end. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, to "trade places" is Brian Mark's test for whose advice to take: never take advice from somebody you would not trade places with, because unless they have the results you want to create, you should block out their opinion. The phrase appears once, next to "everybody's always got an opinion" and "learn to block out their opinion", and the warning is that listening to the wrong people leaves you just like them. His concrete rule is results-based — the adviser must already have what you want — not credentials-based.
 
 ## Synonyms
 
-- opinion
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Never take advice from somebody that you wouldn't trade places with. Everybody's always got an opinion on what you should or shouldn't do with your own life. Now unless they have the results that you want to create, learn to block out their opinion or you might end up just like them." — sources/S_ig_therealbrianmark_CvVWJFbgZSo.md
+> "Never take advice from somebody that you wouldn't trade places with." — sources/S_ig_therealbrianmark_CvVWJFbgZSo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "opinion": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "trade places" is read as swapping jobs for a day: here it means taking on the adviser's whole life and results, and the test fails if you would not want their outcome.
+- When the advice is read as ignoring all criticism: the video filters advice by the adviser's results, not by whether the advice is comfortable to hear.

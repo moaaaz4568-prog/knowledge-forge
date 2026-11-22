@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [sales, therealbrianmark account context]
+aka: [loss]
 origin: sources/S_ig_therealbrianmark_Cuo86Vdg0ne.md
 ---
 
-# G_ig_therealbrianmark_Cuo86Vdg0ne — sales
+# G_ig_therealbrianmark_Cuo86Vdg0ne — loss
 
 ## Term
 
-"sales" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: calls, extra, use, scientific. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "loss" is the lever of Brian Mark's persuasion hack: human beings are more afraid of loss than excited about gain, so on a sales call the coach should paint the negative vision of what happens if the prospect does not buy. The word appears once, in the contrast between finding a $100 bill — six out of 10 excited — and losing a $100 bill meant for rent — 10 out of 10 sad — and the hack is demonstrated on a fitness coach's call with John, where doing nothing for 12 months means gaining 15 pounds, losing confidence, and having less energy to play with his kids. Once the prospect says that future would not feel good, the coach goes for the close.
 
 ## Synonyms
 
-- sales
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's a persuasion hack you can use on your sales calls to 10 extra sales. It's a scientific fact that human beings are more afraid of loss than they are excited about gain. Like imagine if you found a $100 bill on the ground, you'd be six out of 10 excited about that." — sources/S_ig_therealbrianmark_Cuo86Vdg0ne.md
-> "Now imagine if you had a $100 bill in your pocket and you had to use that money to pay your rent and you lost that, you'd be 10 out of 10 sad about that. So on your sales calls, paint the negative vision if they don't buy your . Here's what that looks like for a fitness coach. So John, let's play devil's advocate here for a minute and let's pretend you don't take action today." — sources/S_ig_therealbrianmark_Cuo86Vdg0ne.md
-> "Next 12 months go by, you gain 15 pounds, you lose more confidence and you have less energy to play with your kids that you love. How would that make you feel? Once they say it wouldn't make them feel very good, now you can go for the close. Save this video and use it on your next sales call." — sources/S_ig_therealbrianmark_Cuo86Vdg0ne.md
+> "It's a scientific fact that human beings are more afraid of loss than they are excited about gain." — sources/S_ig_therealbrianmark_Cuo86Vdg0ne.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "loss" is read as losing money on the program: here the loss is the future the prospect suffers by not acting — weight gained, confidence and energy lost — not the price of the coaching.
+- When the negative vision is read as threatening the prospect: the video frames it as playing devil's advocate and asking how that future would feel, so the prospect names the pain themselves before the close.

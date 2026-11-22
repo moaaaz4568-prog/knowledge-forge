@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Johnson, therealbrianmark account context]
+aka: [voice note, voice notes]
 origin: sources/S_ig_therealbrianmark_Cv75efEgWjc.md
 ---
 
-# G_ig_therealbrianmark_Cv75efEgWjc — Johnson
+# G_ig_therealbrianmark_Cv75efEgWjc — voice note
 
 ## Term
 
-"Johnson" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: haven, seen, years, instead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a "voice note" is Brian Mark's replacement for a DM script: when a prospect opens up — in his example, saying "I hate the person that I see in the mirror and I haven't seen my Johnson in years" — the coach answers with a personal voice note instead of a typed message. The singular appears once and the plural "voice notes" once, and the note he scripts is "I totally hear you, man. Thank you so much for opening up to me", followed by asking how much their life would change if they lost the 20 pounds. The point is the personal touch that makes prospects want to book a call, and the instruction is to do it consistently to book five to ten calls a week from the DMs.
 
 ## Synonyms
 
-- Johnson
-- therealbrianmark account context (no variant form of the term appears in this source)
+- voice notes (plural form used in the source)
 
 ## Live Example
 
-> "I hate the person that I see in the mirror and I haven't seen my Johnson in years." — sources/S_ig_therealbrianmark_Cv75efEgWjc.md
-> "Instead of replying with a message, send a voice note. I totally hear you, man. Thank you so much for opening up to me. Now let me ask you a question. How much would your life change if we were able to lose that 20 pounds and you were finally able to see your Johnson? Sending personal voice notes will add that special touch that will make your prospects wanna book a call with you." — sources/S_ig_therealbrianmark_Cv75efEgWjc.md
+> "Instead of replying with a message, send a voice note." — sources/S_ig_therealbrianmark_Cv75efEgWjc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Johnson": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When a "voice note" is read as a recorded sales pitch: here it is a personal reply to something the prospect confided, thanking them and asking one question, not a pre-recorded offer.
+- When the tactic is read as a one-off trick: the video says to do it consistently, and the five to ten calls a week come from repeating the personal touch, not from a single note.

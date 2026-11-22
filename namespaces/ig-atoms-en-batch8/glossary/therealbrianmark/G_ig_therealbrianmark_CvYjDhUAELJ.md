@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [gonna, therealbrianmark account context]
+aka: [resistance]
 origin: sources/S_ig_therealbrianmark_CvYjDhUAELJ.md
 ---
 
-# G_ig_therealbrianmark_CvYjDhUAELJ — gonna
+# G_ig_therealbrianmark_CvYjDhUAELJ — resistance
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, know, mrs, prospect. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "resistance" is what Brian Mark names out loud when a prospect is closed off and clearly not going to buy, opening by saying he senses a little bit of resistance and is just gonna be transparent. The word appears once, and naming it is the opening move — he says he is not there to sell anything they do not need, only to collect data so he can point them in the right direction, and asks whether that is fair. Once they agree to that frame, he repeats the last question he asked — their number one fitness goal — and gets them to expand on how much weight they want to lose and why it matters, turning a cold prospect hot.
 
 ## Synonyms
 
-- gonna
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have you ever been on a sales call where the prospect is being an asshole? When they're closed off and you know they're not gonna buy, here's what you're gonna do. Mrs. Prospect, I'm sensing a little bit of resistance, and I'm just gonna be transparent. I'm not here to sell you anything that you don't need today." — sources/S_ig_therealbrianmark_CvYjDhUAELJ.md
-> "But I do need to collect some data from you, so even if you don't buy today, I'm gonna be able to point you in the right direction and get you the help that you need. Is that fair? Okay, yeah, that's fair. Once they say yes, they've agreed to the frame that you've set. Then what you wanna do is you wanna repeat the last question that you just asked them and get them to expand on that." — sources/S_ig_therealbrianmark_CvYjDhUAELJ.md
+> "Mrs. Prospect, I'm sensing a little bit of resistance, and I'm just gonna be transparent." — sources/S_ig_therealbrianmark_CvYjDhUAELJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "resistance" is read as an objection to answer: here it is named, not rebutted, and the coach pivots to collecting data and restating the frame the prospect has already agreed to.
+- When the transparency is read as giving up the sale: the video uses it to keep the conversation going — the prospect agrees it is fair, then expands on their goal, and the sale resumes from there.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fat loss, therealbrianmark account context]
+aka: [hot lead]
 origin: sources/S_ig_therealbrianmark_CvdtWAjJ24G.md
 ---
 
-# G_ig_therealbrianmark_CvdtWAjJ24G — fat loss
+# G_ig_therealbrianmark_CvdtWAjJ24G — hot lead
 
 ## Term
 
-"fat loss" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: instagram, post, loss, fiverr. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a "hot lead" is what a poll voter becomes once they receive the free fat loss ebook link in the DMs: the ebook is built from the best-performing Instagram post about fat loss, turned into a PDF on Fiverr with the three best client transformations, uploaded to Dropbox, and shortened to a custom bit.ly link such as bit.ly/fatlosssecrets. The phrase appears once, after the poll asks "do you want a free copy of my fat loss ebook that's helped 100 plus clients lose 10 pounds or more?" with "Yes or hell yes" as the answers, and anyone who votes gets the link. From there the coach books a phone call to sell the $1,000 fitness program, and doing it once a week means needing a bigger wallet.
 
 ## Synonyms
 
-- fat loss
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to turn a free ebook into $1,000 fitness client. And I'm feeling generous. I'm gonna give this away for free. Take your best performing Instagram post about fat loss. Go to fiverr. Com and search PDF. Hire somebody on Fiverr to turn that post into a PDF using your three best client transformations. Once you get the PDF back, upload it to Dropbox. Take that share link and go to bit. Ly." — sources/S_ig_therealbrianmark_CvdtWAjJ24G.md
-> "This is a URL shortener where you can actually customize the back half of that link. So you could call it bit. Ly/fatlosssecrets. Now go to your Instagram stories and make a poll that says, do you want a free copy of my fat loss ebook that's helped 100 plus clients lose 10 pounds or more? Yes or hell yes." — sources/S_ig_therealbrianmark_CvdtWAjJ24G.md
+> "Now that person is officially a hot lead." — sources/S_ig_therealbrianmark_CvdtWAjJ24G.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fat loss": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When a "hot lead" is read as anyone who saw the post: here the person has voted on the poll and received the ebook link in the DMs, which is what makes them hot.
+- When the ebook is read as the product: the ebook is free bait built from a post and three transformations, and the sale it leads to is the $1,000 program on a phone call.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [content, therealbrianmark account context]
+aka: [macro micro strategy]
 origin: sources/S_ig_therealbrianmark_CurgVFJgTqH.md
 ---
 
-# G_ig_therealbrianmark_CurgVFJgTqH — content
+# G_ig_therealbrianmark_CurgVFJgTqH — macro micro strategy
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: pillars, idea, hack, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, the "macro micro strategy" is Brian Mark's method for generating a month's worth of content in ten minutes: pick one macro topic, split it into subcategories, split those into content pillars, and ask ChatGPT for ten ideas per pillar. The phrase appears once, worked through with the example of women's weight loss as the macro topic, mindset, exercise, and nutrition as the three subcategories, and myths, mistakes, processes, and stories as the four content pillars. The final prompt he gives is "give me ten women's weight loss nutrition myths", and the result is described as an unlimited amount of content ideas to use and go viral with.
 
 ## Synonyms
 
-- content
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This content idea hack is gonna blow your off. But I don't have. You can create a month's worth of content in ten minutes with what I call the macro micro strategy. First, let's find your macro topic. Let's call it women's weight loss. Then let's separate that macro category into three subcategories: mindset, exercise, and nutrition." — sources/S_ig_therealbrianmark_CurgVFJgTqH.md
-> "Now let's separate those three subtopics into four different content pillars: myths, mistakes, processes, and stories. Now go to ChatGPT and ask it for ten of one of the content pillars. For an example, give me ten women's weight loss nutrition myths. And boom, now you have an unlimited amount of content ideas to use and go viral with. Wow, if I did, you would definitely be the one off." — sources/S_ig_therealbrianmark_CurgVFJgTqH.md
+> "You can create a month's worth of content in ten minutes with what I call the macro micro strategy." — sources/S_ig_therealbrianmark_CurgVFJgTqH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When the "macro micro strategy" is read as a posting schedule: here it is a way of splitting one topic into smaller and smaller idea buckets, not a calendar for when to post.
+- When the ChatGPT step is read as the whole method: the prompt only works because the macro topic has already been broken into subcategories and pillars first.

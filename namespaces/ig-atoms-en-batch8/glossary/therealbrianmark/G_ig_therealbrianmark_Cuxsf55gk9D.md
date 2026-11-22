@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [every, therealbrianmark account context]
+aka: [good influence]
 origin: sources/S_ig_therealbrianmark_Cuxsf55gk9D.md
 ---
 
-# G_ig_therealbrianmark_Cuxsf55gk9D — every
+# G_ig_therealbrianmark_Cuxsf55gk9D — good influence
 
 ## Term
 
-"every" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: inviting, single, weekend, good. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a "good influence" is the test for who stays in your life: anyone drinking all the time, smoking weed, or inviting you out every single weekend fails it, and Brian Mark tells the viewer to cut such people out to grow. The phrase appears once, in the negative — "is not a good influence on you" — and the video describes the pattern of those people calling you lame, no fun, and changed every time you choose to stay in. His concrete verdict is to get rid of these losers if you want to grow in life, so the influence test is a cut list, not a reform project.
 
 ## Synonyms
 
-- every
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You gotta be willing to cut people the fuck out. Anyone who's drinking all the time, smoking weed, or inviting you out every single weekend is not a good influence on you. Every time you say you want to stay in, they say that you're lame and that you're no fun and that you've changed. Get rid of these fucking losers if you want to grow in life." — sources/S_ig_therealbrianmark_Cuxsf55gk9D.md
+> "Anyone who's drinking all the time, smoking weed, or inviting you out every single weekend is not a good influence on you." — sources/S_ig_therealbrianmark_Cuxsf55gk9D.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "every": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When a "good influence" is read as someone with good intentions: here the test is behaviour — drinking, smoking, weekly invitations out — not what the person means by it.
+- When cutting people out is read as a temporary break: the video's instruction is to get rid of them if you want to grow, not to pause the friendship.

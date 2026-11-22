@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [want, therealbrianmark account context]
+aka: [expensive compared to what]
 origin: sources/S_ig_therealbrianmark_CvBGvVuAemI.md
 ---
 
-# G_ig_therealbrianmark_CvBGvVuAemI — want
+# G_ig_therealbrianmark_CvBGvVuAemI — expensive compared to what
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mcdouble, exactly, look, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "expensive compared to what?" is Brian Mark's answer to "you're too expensive": do not justify the price, stay silent, then ask the question, and when the prospect names someone cheaper, answer with the steakhouse-versus-McDonald's comparison. The phrase appears once, and the script runs: would you take your family to a steakhouse or to McDonald's — probably a steakhouse — so if you want to look like you have a McDonald's personal trainer he can refer you to somebody cheaper, but a program with guaranteed results and elite level service is this program. The close is the choice he leaves them with: "Do you want a McDouble or do you want the best?"
 
 ## Synonyms
 
-- want
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So Matt, let me ask you, if you were to take your family out for a nice dinner, would you take them to a steakhouse or would you take them to McDonald's? Well, probably a steakhouse. Exactly. So if you want to look like you have a McDonald's personal trainer, I can refer you to somebody cheaper. But if you want a program with guaranteed results and elite level service, this is the program for you." — sources/S_ig_therealbrianmark_CvBGvVuAemI.md
-> "So what do you say? Do you want a McDouble or do you want the best? Boom, you're welcome. Go make some money." — sources/S_ig_therealbrianmark_CvBGvVuAemI.md
+> "Shut the f**k up and then ask them, expensive compared to what?" — sources/S_ig_therealbrianmark_CvBGvVuAemI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When the question is read as a request for the competitor's price: here it is a reframe that forces a comparison — steakhouse against McDonald's — not a fact-finding question about what others charge.
+- When the steakhouse comparison is read as an insult to the prospect: the video uses it to sort the buyer — McDonald's trainer or elite service — and lets the prospect pick, rather than calling them cheap.

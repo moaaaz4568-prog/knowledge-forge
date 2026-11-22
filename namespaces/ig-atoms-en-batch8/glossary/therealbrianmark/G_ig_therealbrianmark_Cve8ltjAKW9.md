@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [unconditional, therealbrianmark account context]
+aka: [unconditional]
 origin: sources/S_ig_therealbrianmark_Cve8ltjAKW9.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_therealbrianmark_Cve8ltjAKW9.md
 
 ## Term
 
-"unconditional" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: motherfucker, need, become, means. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, "unconditional" is Brian Mark's standard for doing the work: to be unconditional means you do the work regardless of the circumstance, and he lists the excuses it overrides — being tired, having kids, already working 10 hours — answering each with dismissal. The word appears 2 times, once in "You need to become an unconditional motherfucker" and once in the definition itself, "to be unconditional, it means you do the work regardless of the circumstance". His concrete test is the circumstance: the work happens whether you are tired, busy, or already worked a full day.
 
 ## Synonyms
 
-- unconditional
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Oh, you're tired? I don't give a fuck. Oh, you have kids? It doesn't fucking matter. Oh, you already work for 10 hours? Who fucking cares? You need to become an unconditional motherfucker. And to be unconditional, it means you do the work regardless of the circumstance." — sources/S_ig_therealbrianmark_Cve8ltjAKW9.md
+> "You need to become an unconditional motherfucker." — sources/S_ig_therealbrianmark_Cve8ltjAKW9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "unconditional": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "unconditional" is read as feeling motivated all the time: here it is defined by action regardless of circumstance — tired, kids, a 10-hour day — not by mood.
+- When the excuses are read as legitimate limits: the video answers each one with "I don't give a fuck" or "Who fucking cares?", so the circumstance is explicitly not a reason to stop.

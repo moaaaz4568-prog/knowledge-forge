@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fitness trainer, therealbrianmark account context]
+aka: [transformation, transformations]
 origin: sources/S_ig_therealbrianmark_CvXOOg-AB3h.md
 ---
 
-# G_ig_therealbrianmark_CvXOOg-AB3h — fitness trainer
+# G_ig_therealbrianmark_CvXOOg-AB3h — transformation
 
 ## Term
 
-"fitness trainer" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: in-person, trainer, sell, fitness. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a "transformation" is what an online fitness trainer sells instead of hours: an in-person trainer sells 12 sessions at $100 an hour as a $1,200 package, while a 16-week transformation program sells for $1,500 and takes only five to 10 hours of work across the 16 weeks. The singular appears 2 times and the plural "transformations" once, next to "stop charging by the hour", "increase your prices", and "study more nutrition and exercise science", and the logic is that better transformations justify higher prices. His concrete arithmetic is the point: the same trainer earns more for far fewer hours by pricing the outcome, not the clock.
 
 ## Synonyms
 
-- fitness trainer
-- therealbrianmark account context (no variant form of the term appears in this source)
+- transformations (plural form used in the source)
 
 ## Live Example
 
-> "Stop getting paid by the hour. That's why you're broke. When you're an in-person fitness trainer, you sell the amount of hours that you're working with a client. So 12 sessions at $100 an hour is a $1,200 package. As an online fitness trainer, when you're selling a package, you're selling the transformation that you're providing." — sources/S_ig_therealbrianmark_CvXOOg-AB3h.md
+> "As an online fitness trainer, when you're selling a package, you're selling the transformation that you're providing." — sources/S_ig_therealbrianmark_CvXOOg-AB3h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fitness trainer": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When "transformation" is read as a before-and-after photo: here it is the priced product itself — a 16-week program — sold in place of an hourly package.
+- When the higher price is read as charging more for the same hours: the video's claim is the opposite — fewer hours, higher price — because the client pays for the outcome.
