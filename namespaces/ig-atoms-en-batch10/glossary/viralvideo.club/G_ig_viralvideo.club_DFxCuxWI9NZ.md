@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [decision fatigue, viralvideo.club account context]
+aka: [decision fatigue]
 origin: sources/S_ig_viralvideo.club_DFxCuxWI9NZ.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_viralvideo.club_DFxCuxWI9NZ.md
 
 ## Term
 
-"decision fatigue" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: called, fatigue, decision, eliminate. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Decision fatigue appears twice in this source, where it names what happens when people are offered too many choices and end up making no choice at all. The speaker's evidence is a study in which 24 varieties of jam sold significantly less than six jams, a plain take-it-or-leave-it offer that asks for one decision. The same failure shows up when creators demand subscribe, follow, share, comment, buy my things, come to my gig, and watch my videos on repeat while you sleep: by asking for so much, they receive nothing at all. The remedy is to pick the single most important action people can take and ask for just that, which makes it significantly more likely they will act as wanted.
 
 ## Synonyms
 
-- decision fatigue
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So there's this fascinating study that shows that when you offer people 24 varieties of jam, they buy significantly less than when you offer them six jams. What you see is what you get, take it or leave it. This is called decision fatigue. When we're offered too many choices, we end up making no choice at all." — sources/S_ig_viralvideo.club_DFxCuxWI9NZ.md
-> "By doing this, we eliminate decision fatigue and make it significantly more likely that people will act in the way that we want them to." — sources/S_ig_viralvideo.club_DFxCuxWI9NZ.md
+> "What you see is what you get, take it or leave it. This is called decision fatigue." — sources/S_ig_viralvideo.club_DFxCuxWI9NZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "decision fatigue": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a ban on giving viewers any choice: the source's fix is one clear ask, not zero asks, and the jam study still offers six varieties, so the point is fewer choices, not none.
+- Taken as a claim that the jam result proves creators should never promote: the study is about the number of simultaneous demands, and the speaker still wants the creator to ask for the one most important action.

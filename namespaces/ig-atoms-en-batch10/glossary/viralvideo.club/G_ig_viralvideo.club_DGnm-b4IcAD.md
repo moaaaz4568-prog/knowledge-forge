@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [pattern interrupt, viralvideo.club account context]
+aka: [subversion of expectations]
 origin: sources/S_ig_viralvideo.club_DGnm-b4IcAD.md
 ---
 
-# G_ig_viralvideo.club_DGnm-b4IcAD — pattern interrupt
+# G_ig_viralvideo.club_DGnm-b4IcAD — subversion of expectations
 
 ## Term
 
-"pattern interrupt" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: interrupt, subversion, pattern, shocking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Subversion of expectations appears once in this source, where it names the clash that makes a real-estate video viral: an old, awkward, cute woman paired with Gen Z meme culture, plus an AI gorilla couch. The speaker says whoever orchestrated this understands the power of bringing two polar opposites together, and the same logic covers a super jacked and manly figure sat wearing a mini skirt and knitting. Bringing things in conflict together creates surprise and delight, and combined with a shocking pattern interrupt it sends the chances of going viral through the roof. The formula the source leaves behind is simple: find the opposites, collide them, and let the audience enjoy the wrongness of the fit.
 
 ## Synonyms
 
-- pattern interrupt
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You have an old, awkward, cute woman, and then Gen Z meme culture. Then you combine that with the pattern interrupt and the subversion of expectations, and you have a viral video on your hands. If you're super jacked and manly, maybe you're sat there wearing a mini skirt and knitting. Bring things in conflict together and it creates surprise and delight." — sources/S_ig_viralvideo.club_DGnm-b4IcAD.md
-> "Then combine this with a shocking pattern interrupt, and the chances of you going viral go through the roof. If you like this, give us a follow." — sources/S_ig_viralvideo.club_DGnm-b4IcAD.md
+> "Then you combine that with the pattern interrupt and the subversion of expectations, and you have a viral video on your hands." — sources/S_ig_viralvideo.club_DGnm-b4IcAD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "pattern interrupt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a rule that any random pairing goes viral: the source's pairs are chosen opposites with a visible tension, and a collision with no contrast to notice would not create the surprise.
+- Taken as a claim that the real-estate pitch matters: the three-bedroom tour is only the vehicle, and the viral engine is the clash of opposites, not the property.

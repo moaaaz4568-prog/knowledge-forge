@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [make, viralvideo.club account context]
+aka: [Pope in the pool]
 origin: sources/S_ig_viralvideo.club_DIqlClIIGbp.md
 ---
 
-# G_ig_viralvideo.club_DIqlClIIGbp — make
+# G_ig_viralvideo.club_DIqlClIIGbp — Pope in the pool
 
 ## Term
 
-"make" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: viral, strategy, sure, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Pope in the pool appears twice in this source, where it names a viral strategy for keeping people interested while being educated: add something visually interesting instead of just talking straight to camera. The speaker explains it as a spoonful of sugar to make the medicine go down, massively increasing views by giving viewers something to watch while they listen. The method can be anything, like applying makeup or playing basketball while delivering the information, and the speaker points out he has been using this exact method the whole time. The name comes from film, but in this source it is a practical device: the visual interest carries the lesson.
 
 ## Synonyms
 
-- make
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Don't post another video before trying this. The Pope in the pool method is a viral strategy that will make sure people don't lose interest in what you're saying. So when you're about to make a video, I want you to do this. When you want to educate the audience, instead of just talking straight to camera, add in something visually interesting as well." — sources/S_ig_viralvideo.club_DIqlClIIGbp.md
-> "This keeps viewers hooked by giving them a spoonful of sugar to make the medicine go down, massively increasing views. And if you've been paying attention, you'll have realised I've been using this exact same method the whole time. Pope in the pool can be anything like applying makeup or playing basketball whilst you deliver the information. Oh, and before I forget." — sources/S_ig_viralvideo.club_DIqlClIIGbp.md
+> "The Pope in the pool method is a viral strategy that will make sure people don't lose interest in what you're saying." — sources/S_ig_viralvideo.club_DIqlClIIGbp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that any background activity teaches: the source's examples occupy the eye while the information is delivered, and a distracting visual that drowns the lesson would break the method.
+- Taken as proof the speaker invented the method: the name is borrowed from film, and the speaker only claims to be using it in this video, not to have created it.

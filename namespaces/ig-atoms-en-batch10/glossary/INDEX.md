@@ -1,7 +1,8 @@
 # Index — glossary/ (ig-atoms-en-batch10)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,803 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,769 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
+Rebuilt chunk ig-batch10-part3 c1 (codes 3001-3050, viralvideo.club): 50 files, self-check 50/50, gates 100 entities 0 rejected (sparse checkout).
 | File | Term | Live examples |
 |---|---|---|
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_C6kcdfFJvXp.md | coffee alternative | 1 |
@@ -3004,56 +3005,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/viralvideo.club/G_ig_viralvideo.club_DFQOQ7TI-nG.md | late | 3 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DFQRB2-IP7u.md | something | 2 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DFX4mFVo15R.md | mean | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFfX5j4o-46.md | video | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFkyONLoitj.md | value | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFpwHZdoiTS.md | attention | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFqBo42IxbS.md | Ethan | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFsOKP9qth3.md | video | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFvctL7IZ5M.md | rich | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFxCuxWI9NZ.md | decision fatigue | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DFxYr0VCyCe.md | right | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DG25TLJNsPq.md | million views | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DG5liGqK5rN.md | medias res | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFfX5j4o-46.md | recency bias | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFkyONLoitj.md | value | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFpwHZdoiTS.md | attention | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFqBo42IxbS.md | Kintsugi | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFsOKP9qth3.md | experimentation | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFvctL7IZ5M.md | authority bias | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFxCuxWI9NZ.md | decision fatigue | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DFxYr0VCyCe.md | exposure therapy | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DG25TLJNsPq.md | retention mechanism | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DG5liGqK5rN.md | in medias res | 1 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DGApBHyItMJ.md | pattern interrupt | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGDZvDhIPVQ.md | need something | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGLTsNKIR6W.md | viewer | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGOAsx4pHeQ.md | right now | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGOiWFHIQFj.md | directed | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGTbWvaooQv.md | because | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGd6MSiIHBN.md | one wants | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGkyNTcIOx-.md | Maybe | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGnm-b4IcAD.md | pattern interrupt | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DGyHu9QiirP.md | happens | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DH-o1-mIYJ2.md | looking forward | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DH4EtARoL7o.md | content | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DH5wPQPINxx.md | say | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DH9K9NAod_0.md | make sure | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHDufQ9sMYX.md | life | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHI3FzdIPT-.md | bicep curls | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHLknH-oAD5.md | one | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHN_ZZwo0Lr.md | see | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHUBTTdow9s.md | attention | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHYVJK-oG1N.md | terrified | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHan-T2Ic5p.md | art | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHbb_Gzo2ia.md | matrix | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHdV_TdoEKO.md | Maybe | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHeQOVVIVWD.md | unwilling | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHn2xUVI70a.md | Poppy | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHqifbeIO4p.md | never | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHs8HEDo4h9.md | multi-sensory | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DHvWSwoIh_a.md | say | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIBWpwdIxfo.md | worked | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIGlp7iofIe.md | followers | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIONVOuIMKS.md | twenty | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIRYPumImEm.md | videos | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DITlLoMIMdx.md | video | 3 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIV8p_eIhfm.md | because | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIb_v79I78v.md | everyone | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIdyoUZoMAH.md | shots | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIi5l2tIhQx.md | every single | 1 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIqlClIIGbp.md | make | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DItQGzTosRl.md | product | 2 |
-| glossary/viralvideo.club/G_ig_viralvideo.club_DIvtXP3IEyH.md | finish | 2 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGDZvDhIPVQ.md | implied payoff | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGLTsNKIR6W.md | visual pacifier | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGOAsx4pHeQ.md | passionate | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGOiWFHIQFj.md | crossover content | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGTbWvaooQv.md | storytelling | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGd6MSiIHBN.md | personality | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGkyNTcIOx-.md | suffering | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGnm-b4IcAD.md | subversion of expectations | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DGyHu9QiirP.md | therefore | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DH-o1-mIYJ2.md | connect the dots | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DH4EtARoL7o.md | algorithm whack-a-mole | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DH5wPQPINxx.md | expose | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DH9K9NAod_0.md | connected reach | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHDufQ9sMYX.md | four hours a week | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHI3FzdIPT-.md | VVP | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHLknH-oAD5.md | stakes | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHN_ZZwo0Lr.md | consequence | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHUBTTdow9s.md | redirect | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHYVJK-oG1N.md | mindset | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHan-T2Ic5p.md | starving artist | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHbb_Gzo2ia.md | creator matrix | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHdV_TdoEKO.md | post | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHeQOVVIVWD.md | hard work | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHn2xUVI70a.md | Poppy AI | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHqifbeIO4p.md | judgment | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHs8HEDo4h9.md | curiosity hook | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DHvWSwoIh_a.md | stop ignoring | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIBWpwdIxfo.md | post daily | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIGlp7iofIe.md | game | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIONVOuIMKS.md | mastermind | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIRYPumImEm.md | paralysis by analysis | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DITlLoMIMdx.md | pain point | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIV8p_eIhfm.md | verbal hook | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIb_v79I78v.md | compare | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIdyoUZoMAH.md | short sentences | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIi5l2tIhQx.md | negative underdog | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIqlClIIGbp.md | Pope in the pool | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DItQGzTosRl.md | product pairing | 1 |
+| glossary/viralvideo.club/G_ig_viralvideo.club_DIvtXP3IEyH.md | showing up | 1 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DIyeEBTI-wG.md | writer | 1 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DJ1wAo3MKJj.md | finish | 2 |
 | glossary/viralvideo.club/G_ig_viralvideo.club_DJ4MaF3MR-K.md | Ninety-five percent | 1 |

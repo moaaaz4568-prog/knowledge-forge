@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [videos, video]
+aka: [paralysis by analysis]
 origin: sources/S_ig_viralvideo.club_DIRYPumImEm.md
 ---
 
-# G_ig_viralvideo.club_DIRYPumImEm — videos
+# G_ig_viralvideo.club_DIRYPumImEm — paralysis by analysis
 
 ## Term
 
-"videos" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mostly, comes, youtube, gorkz. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Paralysis by analysis appears once in this source, where it names what happens when creators consume everything hoping to finally get good: they worry they have nothing interesting to say and make nothing. The speaker's example is a teenager who draws inspiration from YouTube videos, binge watching creators like Gorkz and Sleepy Charlie, then sits down to make a video and has no ideas. The advice is to step back, draw inspiration from life experiences, and go out into the big, beautiful world and live, because living gives you things to say and videos to make. The source's contrast is sharp: consumption promises skill and delivers paralysis, while experience promises nothing and delivers the material.
 
 ## Synonyms
 
-- videos
-- video (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What is your inspiration? Art, music. Mine mostly comes from YouTube videos. You've got Gorkz, Sleepy Charlie. They each have their own amazing styles. That leads to binge watching every single one of their videos. And then when it's time to make your video. . . I don't have any ideas. So take a step back. Draw inspiration from life experiences." — sources/S_ig_viralvideo.club_DIRYPumImEm.md
-> "But if instead of consuming, we go and live our lives, then we will inherently have interesting things to say. So please put down your phone and go out into the big, beautiful world and live your life. And I promise you, you will have things to say and videos to make galore." — sources/S_ig_viralvideo.club_DIRYPumImEm.md
+> "But what ends up happening is paralysis by analysis." — sources/S_ig_viralvideo.club_DIRYPumImEm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "videos": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a ban on watching other creators: the source's complaint is overconsumption that replaces making, and the teenager's binge watching is the excess, not the act of watching itself.
+- Taken as a promise that living guarantees ideas: the speaker promises the creator will have things to say after living, but the ideas still have to be turned into videos, which is the work the source does not describe.

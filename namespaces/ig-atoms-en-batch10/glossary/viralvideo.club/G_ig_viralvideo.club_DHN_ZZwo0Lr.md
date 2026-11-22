@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [see, viralvideo.club account context]
+aka: [consequence]
 origin: sources/S_ig_viralvideo.club_DHN_ZZwo0Lr.md
 ---
 
-# G_ig_viralvideo.club_DHN_ZZwo0Lr — see
+# G_ig_viralvideo.club_DHN_ZZwo0Lr — consequence
 
 ## Term
 
-"see" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: find, want, suffer, pain. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Consequence appears once in this source, where it names the forfeit that makes a game worth watching: one of the players has to eat something awful, like the hottest hot sauce the speaker could find. The video's three viral strategies are spelled out as pleasure from someone else's pain, curiosity about whether Oreo lands while the outcome stays unclear, and the consequence that gives the game meaning. Stakes give the audience a reason to care, and the speaker's proof is the viewer who cannot look away while waiting to see who suffers. The lesson is to add such elements to the next video and watch the views skyrocket.
 
 ## Synonyms
 
-- see
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the hottest hot sauce I could find. You want to see me suffer, don't you? You big freak. Now while we play, let me break down the three viral strategies keeping you hooked. This is when you get pleasure from someone else's pain. I see you're into the kinky shit. You're waiting to see whether Oreo lands, and this curiosity pulls you through the video." — sources/S_ig_viralvideo.club_DHN_ZZwo0Lr.md
+> "By introducing a consequence, like one of us having to eat something awful, I've made this game mean something." — sources/S_ig_viralvideo.club_DHN_ZZwo0Lr.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "see": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that pain alone holds viewers: the source lists the consequence third, after schadenfreude and curiosity, so the forfeit works because the game already matters.
+- Taken as advice to make the forfeit as cruel as possible: the speaker's example is eating something awful, and a harsher penalty would not add the curiosity that actually pulls viewers through.

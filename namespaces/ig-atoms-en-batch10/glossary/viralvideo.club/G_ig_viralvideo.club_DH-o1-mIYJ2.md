@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [looking forward, viralvideo.club account context]
+aka: [connect the dots]
 origin: sources/S_ig_viralvideo.club_DH-o1-mIYJ2.md
 ---
 
-# G_ig_viralvideo.club_DH-o1-mIYJ2 — looking forward
+# G_ig_viralvideo.club_DH-o1-mIYJ2 — connect the dots
 
 ## Term
 
-"looking forward" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: connect, dots, cannot, forward. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Connect the dots appears twice in this source, where it names the impossibility of seeing the pattern of a life while looking forward, quoted from Steve Jobs. The speaker's own story proves it: at 27 he became homeless, which looked categorically bad, yet the experience turned a very lazy boy into one of the hardest working people he has ever met and led to a seven-figure business. The lesson drawn is that there is no rush and no evidence that the viewer is not right on time, because everything is going to plan even when it looks otherwise. Rushing the process ruins the process, and putting too much pressure on the creative act ruins that too, so the only move is to trust that even suffering can become the reason for success.
 
 ## Synonyms
 
-- looking forward
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The biggest myth is that you have to act now and there's a rush. There is no rush. There's no evidence to suggest that you're not right on time. Everything's going to plan. There's no evidence to support that that's not the case for you. As Steve Jobs would say, you cannot connect the dots looking forward. Ultimately, you have to trust in the process." — sources/S_ig_viralvideo.club_DH-o1-mIYJ2.md
-> "We cannot connect the dots looking forward because rushing the process ruins the process. And when we put too much pressure on the creative act, we ruin it." — sources/S_ig_viralvideo.club_DH-o1-mIYJ2.md
+> "As Steve Jobs would say, you cannot connect the dots looking forward." — sources/S_ig_viralvideo.club_DH-o1-mIYJ2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "looking forward": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a promise that every hardship pays off: the source only claims the dots cannot be judged in advance, and the speaker's own turnaround is one story, not a guarantee for every bad turn.
+- Taken as advice to wait passively: the speaker's homeless period ended in becoming one of the hardest working people he knew, so trusting the process here includes the work, not just the waiting.

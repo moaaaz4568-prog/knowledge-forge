@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [right now, viralvideo.club account context]
+aka: [passionate]
 origin: sources/S_ig_viralvideo.club_DGOAsx4pHeQ.md
 ---
 
-# G_ig_viralvideo.club_DGOAsx4pHeQ — right now
+# G_ig_viralvideo.club_DGOAsx4pHeQ — passionate
 
 ## Term
 
-"right now" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, right, check, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Passionate appears once in this source, where it describes what kept Marcus Brownlee going when he had only 74 subscribers after his first hundred videos. The speaker asks whether the viewer would have given up, then gives three reasons Brownlee did not: he found something he was truly passionate about, he did not stop and celebrated every small win, and he improved with every single video by watching his own work back and fixing mistakes. The passion is specific — he fucking loves tech — and the speaker turns it into a test: if you cannot see yourself loving your topic for years to come, it is not for you. The payoff the source reports is 18 million subscribers and 4 billion views, reached by hitting publish over and over and getting better.
 
 ## Synonyms
 
-- right now
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so what I'm gonna go into is that right now I have, I'm gonna check right now, right now I have approximately 70-ish subscribers. I'm just looking at, yeah, I've, oh wait, no. If I go to my page, youtube. Com/marcusbrownley, just click on the link over there, I have 74 subscribers. But what I want to know is, would you have given up? Most creators give up if they don't see results immediately." — sources/S_ig_viralvideo.club_DGOAsx4pHeQ.md
+> "One, he found something he was truly passionate about." — sources/S_ig_viralvideo.club_DGOAsx4pHeQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right now": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that passion alone built the channel: the source lists not stopping and relentless improvement beside passion, so the word names the fuel, not the whole engine.
+- Taken as advice to pick whatever excites you this week: the speaker's test is whether you can love the topic for years, so a passing enthusiasm fails the very check the source sets.

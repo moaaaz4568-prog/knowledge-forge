@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [make sure, viralvideo.club account context]
+aka: [connected reach]
 origin: sources/S_ig_viralvideo.club_DH9K9NAod_0.md
 ---
 
-# G_ig_viralvideo.club_DH9K9NAod_0 — make sure
+# G_ig_viralvideo.club_DH9K9NAod_0 — connected reach
 
 ## Term
 
-"make sure" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: audio, sure, make, second. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Connected reach appears once in this source, where it names the ranking for accounts that already follow the creator, set against recommendations or unconnected reach for everyone else. The speaker reports four takeaways from the head of Instagram: watch average watch time, likes per reach, and sends per reach, which ask how quickly people get bored, whether they give a damn, and whether they care enough to share. Audio matters too, with soundtracks treated like seasoning, and videos should run three minutes or less, while originality is king and straight-up stolen content is playing with fire. The source's image for the whole system is an audition to the algorithm: once the creator has proved itself, the platform rolls out the red carpet to reach.
 
 ## Synonyms
 
-- make sure
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And do people give a damn enough to share it with their friends? Second, audio matters. Make sure you add audio, particularly important for photos and carousels. It's wild, but Instagram is treating soundtracks like seasoning. No audio, no flavor. And it doesn't even have to be trending audio, just something to keep the vibe alive. Silence is out." — sources/S_ig_viralvideo.club_DH9K9NAod_0.md
-> "Third, if you are posting a video, make sure that it's three minutes long or less. If your video is longer than three minutes, Instagram's probably like, yeah, no thanks. And the fourth one, and this one's truly underrated, make sure that the content is original. Originality is king." — sources/S_ig_viralvideo.club_DH9K9NAod_0.md
+> "There's one for accounts you follow, we call that connected reach, and there's another for accounts that do not follow you yet, we call that recommendations or unconnected reach." — sources/S_ig_viralvideo.club_DH9K9NAod_0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make sure": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that connected reach is the only ranking that matters: the source gives it as one of two types, and the Explore page the speaker opens with is precisely the unconnected side.
+- Taken as a recipe that guarantees the Explore page: the four takeaways are what Instagram says to look at, and the speaker frames the result as an audition, not a promise.

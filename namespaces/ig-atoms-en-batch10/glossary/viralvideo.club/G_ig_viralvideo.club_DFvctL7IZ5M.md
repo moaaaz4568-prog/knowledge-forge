@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [rich, viralvideo.club account context]
+aka: [authority bias]
 origin: sources/S_ig_viralvideo.club_DFvctL7IZ5M.md
 ---
 
-# G_ig_viralvideo.club_DFvctL7IZ5M — rich
+# G_ig_viralvideo.club_DFvctL7IZ5M — authority bias
 
 ## Term
 
-"rich" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: assume, look, rich, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Authority bias appears once in this source, where it names the shortcut of believing someone because they look rich, illustrated by an influencer who rented an Airbnb to promote and sell more. The speaker sets it beside a second bias, that when price increases we think value increases too, so the most expensive bottle of wine is assumed to be the best tasting. Both shortcuts exist because humans make hundreds of decisions every day and need fast rules, but in the modern day looking rich can easily be faked. The speaker's guard against it is a single question: is the free stuff applicable and valuable, since fake gurus tap into fears and desires rather than giving technical or practical advice.
 
 ## Synonyms
 
-- rich
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And though this might be often true, there are many instances in which the most expensive thing is definitely not the best thing. And the bias the guy in this video is talking about is the authority bias, right? When we see someone who looks rich, we assume they are rich and then we believe everything they say." — sources/S_ig_viralvideo.club_DFvctL7IZ5M.md
-> "And though it's a fair assumption to think those who look rich are rich, in the modern day this can easily be faked. So if you want to buy a course, a program, a boot camp, and you want to make sure that your biases don't fuck you in the ass, and here's what I recommend you do. The first question I ask myself is, is the free stuff applicable and valuable?" — sources/S_ig_viralvideo.club_DFvctL7IZ5M.md
+> "And the bias the guy in this video is talking about is the authority bias, right?" — sources/S_ig_viralvideo.club_DFvctL7IZ5M.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "rich": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a rule that rich-looking people are always lying: the source calls the assumption fair and often true, and its warning is only that the signal can be faked, not that wealth proves dishonesty.
+- Taken as advice to buy the cheapest option instead: the wine example says the most expensive bottle is often, though not always, the best, so the bias is a shortcut to check, not a rule to invert.

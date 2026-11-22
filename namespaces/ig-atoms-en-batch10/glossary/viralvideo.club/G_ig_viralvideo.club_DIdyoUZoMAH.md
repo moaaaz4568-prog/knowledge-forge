@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [shots, viralvideo.club account context]
+aka: [short sentences]
 origin: sources/S_ig_viralvideo.club_DIdyoUZoMAH.md
 ---
 
-# G_ig_viralvideo.club_DIdyoUZoMAH — shots
+# G_ig_viralvideo.club_DIdyoUZoMAH — short sentences
 
 ## Term
 
-"shots" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: wides, mediums, detail, replace. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Short sentences appears once in this source, where it names the first step for turning boring low-view content into viral content: take the script and break it into short sentences. From there the boring one-take shots can be replaced with wides, mediums, detail shots, and asides, while the filming location stays the same. The key is matching each line to alternating shots, marking each line with one of these, so the viewer has to watch. The speaker's authority for the rule is Netflix: all the top-performing shows apply it, and the alternating shots are what force attention line by line.
 
 ## Synonyms
 
-- shots
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to turn your boring low-view content into viral every time kind of content. First, take your script and break it into short sentences. From here, we can replace those boring one-take shots with wides, mediums, detail shots, and asides. Now, your filming location, that can remain the same, but matching your lines to alternating shots is key." — sources/S_ig_viralvideo.club_DIdyoUZoMAH.md
+> "First, take your script and break it into short sentences." — sources/S_ig_viralvideo.club_DIdyoUZoMAH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "shots": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that short sentences alone make content viral: the source pairs the broken script with alternating shots, and the sentences are only the first step of the method.
+- Taken as a rule that the location must change too: the speaker says the filming location can remain the same, and it is the shots that alternate, not the place.

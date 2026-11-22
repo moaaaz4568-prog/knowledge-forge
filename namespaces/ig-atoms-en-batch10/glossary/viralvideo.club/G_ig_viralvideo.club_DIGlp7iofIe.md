@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [followers, viralvideo.club account context]
+aka: [game]
 origin: sources/S_ig_viralvideo.club_DIGlp7iofIe.md
 ---
 
-# G_ig_viralvideo.club_DIGlp7iofIe — followers
+# G_ig_viralvideo.club_DIGlp7iofIe — game
 
 ## Term
 
-No content word repeats often enough in this short source (51 words) to form a repeated term, so this entry documents the source's central term "followers" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Game appears once in this source, where it names how the speaker frames content performance after listing what a million followers did not buy: a partner that could not care less, a baby who will grow up to think the videos are cringe, and parents who do not even know what social media is. When a video does not perform, the speaker does not beat himself up, because it is all a fucking game, and the score of one video does not touch the life around it. The point is perspective rather than indifference: the followers are real, but they did not change the family, so a flop cannot ruin the day. The game framing lets the creator keep playing without letting any single result decide his worth.
 
 ## Synonyms
 
-- followers
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I have over a million followers, but a partner that couldn't care less, a baby that will grow up to think my videos are cringe, and parents that don't even know what social media is. So when a video doesn't perform, I'm not beating myself up. It's all a fucking game." — sources/S_ig_viralvideo.club_DIGlp7iofIe.md
+> "So when a video doesn't perform, I'm not beating myself up. It's all a fucking game." — sources/S_ig_viralvideo.club_DIGlp7iofIe.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "followers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that the creator does not care about views: the source's game framing is about not beating himself up after a flop, not about ignoring performance, and the million followers are still the context.
+- Taken as advice to treat the audience as opponents: the game here is against the creator's own disappointment, and the partner, baby, and parents in the source are not players in it.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [Maybe, viralvideo.club account context]
+aka: [post]
 origin: sources/S_ig_viralvideo.club_DHdV_TdoEKO.md
 ---
 
-# G_ig_viralvideo.club_DHdV_TdoEKO — Maybe
+# G_ig_viralvideo.club_DHdV_TdoEKO — post
 
 ## Term
 
-"Maybe" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gonna, judge, snake. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Post appears once in this source, where it is the verb for the whole message: stop worrying and just post the fucking content. The speaker lists the worries that stall a creator, that the gear is kind of shit, that people will judge it, that a snake might be needed, that they are just not good enough. None of the worries is answered or argued with; the entire reply is the single command to post. The clip's point is that the judgment feared in advance never gets tested until the content is actually out.
 
 ## Synonyms
 
-- Maybe
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "My gear's kind of shit. I'm really worried people are gonna judge me. Maybe I should get a snake. Maybe I'm just not good enough. Just post the fucking content." — sources/S_ig_viralvideo.club_DHdV_TdoEKO.md
+> "Maybe I'm just not good enough. Just post the fucking content." — sources/S_ig_viralvideo.club_DHdV_TdoEKO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Maybe": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as advice to post without any preparation: the source attacks the worrying that prevents posting, not the craft itself, and nothing here says a planned video is worse than a rushed one.
+- Taken as a claim that posting removes judgment: the speaker only says the fear should not block the post, and the judgment may still arrive once the content is out.

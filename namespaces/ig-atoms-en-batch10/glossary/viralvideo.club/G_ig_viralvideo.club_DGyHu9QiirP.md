@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [happens, happen]
+aka: [therefore]
 origin: sources/S_ig_viralvideo.club_DGyHu9QiirP.md
 ---
 
-# G_ig_viralvideo.club_DGyHu9QiirP — happens
+# G_ig_viralvideo.club_DGyHu9QiirP — therefore
 
 ## Term
 
-"happens" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: happens, therefore, right, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Therefore appears 4 times in this source, where it names one of the two words the South Park writers say must join the beats of an outline, the other being but. If the words and then belong between the beats, the story is boring; with therefore or but between every beat, each event causes or complicates the next, so the outline earns the viewer's care. The speaker shows it in a vlog example: today I got up for work, but then I was running late, therefore I had to run to the station, which made me sweaty, so I had to change my shirt. The technique also demands vulnerability, admitting shortcomings and failures, which few creators are willing to do, and that reluctance is exactly the opening to stand out.
 
 ## Synonyms
 
-- happens
-- happen (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Right? So what I'm saying is that you come up with an idea and it's like, okay, this happens, right? And then this happens. No, no, no. It should be this happens and therefore this happens. But this happens, therefore this happens. So this is one of the easiest ways for you to go viral. But more importantly, for people to care about you and your brand." — sources/S_ig_viralvideo.club_DGyHu9QiirP.md
+> "It should be this happens and therefore this happens." — sources/S_ig_viralvideo.club_DGyHu9QiirP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "happens": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a grammar lesson: the source cares about therefore as a causal joint between story beats, not as correct English, and a grammatically fine therefore between unrelated events would still fail the test.
+- Taken as a trick that removes the need for honesty: the speaker says the technique works best when the beats admit real shortcomings, so therefore alone cannot carry a story that hides everything bad.

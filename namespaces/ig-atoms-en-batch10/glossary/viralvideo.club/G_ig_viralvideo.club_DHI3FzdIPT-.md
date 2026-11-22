@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: viralvideo.club
-aka: [bicep curls, viralvideo.club account context]
+aka: [VVP]
 origin: sources/S_ig_viralvideo.club_DHI3FzdIPT-.md
 ---
 
-# G_ig_viralvideo.club_DHI3FzdIPT- — bicep curls
+# G_ig_viralvideo.club_DHI3FzdIPT- — VVP
 
 ## Term
 
-"bicep curls" is the most frequent repeated content term in this source (a transcribed Instagram video from the viralvideo.club account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bro, curls, jacked, bicep. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+VVP appears once in this source, where it names the opening formula of every video from a fitness creator who gained over 800,000 followers from 37 videos just pumping iron. The letters stand for voiceover, visual focus, and payoff, and the speaker calls the double V the most important part, since 90% of viewers are visual learners who must be shown, not just told. The same creator's videos are study focused, replacing trust-me claims with data like a recent study finding 37% more muscle growth, and almost all of them follow the exact same structure. The payoff of repeating what works is literal: one video got 33 million views, and rinsing the format brought another nice 15 million.
 
 ## Synonyms
 
-- bicep curls
-- viralvideo.club account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "say this. A recent study found that these bicep curls cause 37% more muscle growth. Finally, almost all of the videos follow the exact same structure. Take this video for example. It got him 33 million views. So rather than fixing what wasn't broken, he rinsed the format for another nice 15 million." — sources/S_ig_viralvideo.club_DHI3FzdIPT-.md
+> "First, every video starts off with VVP. Here are my top three biceps exercises of all time." — sources/S_ig_viralvideo.club_DHI3FzdIPT-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bicep curls": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that any voiceover opens a video well: the formula needs all three parts, and a voiceover without the visual focus and the payoff would not be VVP at all.
+- Taken as proof the format works in any niche: the source's evidence is one fitness creator's 37 videos, and the speaker never tests the same opening outside pumping iron.
