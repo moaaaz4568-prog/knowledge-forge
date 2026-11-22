@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [Let, mattyr_ecom account context]
+aka: [orders]
 origin: sources/S_ig_mattyr_ecom_CewoJ0CpUib.md
 ---
 
-# G_ig_mattyr_ecom_CewoJ0CpUib — Let
+# G_ig_mattyr_ecom_CewoJ0CpUib — orders
 
 ## Term
 
-"Let" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, six, alright, put. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Orders are what Matt packs on camera in this timestamped walkthrough: he shows the receipts first so nobody flames him, then packs all these orders while the camera rolls. The word appears twice, beside receipts, envelopes, and an average order of 50-ish dollars, as the physical parcels he fills and ships. He treats the packing as the entertainment itself, asking what else he can film to keep viewers watching while he does the same routine. The orders here are the show: envelopes going out the door, not a system he teaches.
 
 ## Synonyms
 
-- Let
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's kind of hot today. Let's go for shorts." — sources/S_ig_mattyr_ecom_CewoJ0CpUib.md
-> "Hey guys, let me know... Do you guys want to see more YouTube videos? If enough people subscribe to it, I'll make more content. Or do you want to see me on Twitch? Let me know!" — sources/S_ig_mattyr_ecom_CewoJ0CpUib.md
+> "So now we're gonna pack all these orders." — sources/S_ig_mattyr_ecom_CewoJ0CpUib.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Let": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof of a fixed income per order: the 50-ish dollars is an average for an envelope, and the video shows no totals for the day.
+- Read as a packing guide: Matt shows the envelopes and the receipts, but no step of the packing itself is explained.

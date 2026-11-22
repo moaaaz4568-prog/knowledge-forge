@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [okay, mattyr_ecom account context]
+aka: [highs and lows]
 origin: sources/S_ig_mattyr_ecom_CewUvKPpcGZ.md
 ---
 
-# G_ig_mattyr_ecom_CewUvKPpcGZ — okay
+# G_ig_mattyr_ecom_CewUvKPpcGZ — highs and lows
 
 ## Term
 
-"okay" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, want, life, rest. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Highs and lows is the frame Matt gives for the life his viewers want exposed: the ups and downs they ask to know about. The phrase appears once, beside life exposed, rest, and stretch, as the summary of what a tell-all would contain. He answers with three seasons instead of a confession: a summer of rest, a New Year of stretch, and a Valentine's Day he sums up in one blunt line. The phrase here promises a full picture, but the video delivers only three punchlines, one per holiday.
 
 ## Synonyms
 
-- okay
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, they want my life exposed, they want to know about the highs and lows. Well, summer all I did was rest, okay? And New Year's all I did was stretch, okay? And Valentine's Day I had sex, okay?" — sources/S_ig_mattyr_ecom_CewUvKPpcGZ.md
+> "they want to know about the highs and lows." — sources/S_ig_mattyr_ecom_CewUvKPpcGZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "okay": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise to expose his real life: Matt answers the request with three jokey one-liners, and no actual high or low is shown.
+- Read as a list of his year's events: summer, New Year's, and Valentine's Day are the only three moments named, not a calendar of the year.

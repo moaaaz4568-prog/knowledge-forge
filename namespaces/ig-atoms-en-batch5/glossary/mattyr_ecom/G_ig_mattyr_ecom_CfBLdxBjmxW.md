@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [heartbeat, mattyr_ecom account context]
+aka: [heartbeat]
 origin: sources/S_ig_mattyr_ecom_CfBLdxBjmxW.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_CfBLdxBjmxW.md
 
 ## Term
 
-No content word repeats often enough in this short source (23 words) to form a repeated term, so this entry documents the source's central term "heartbeat" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Heartbeat is the closing image of this sung line: every time they kiss he swears he could fly, and then he asks whether she can feel his heartbeat, before adding that he wants to survive. The word appears once, beside feeling, kiss, and survive, as the bodily proof of the feeling the song describes. The line gives no story beyond the kiss and the lift, and the heartbeat is the one physical detail in it. The word here is the song's pulse: a heartbeat standing in for a feeling too big for the lyric to name.
 
 ## Synonyms
 
-- heartbeat
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I get this feeling, and every time we kiss, I swear I could fly. Can't you feel my heartbeat? I want to survive." — sources/S_ig_mattyr_ecom_CfBLdxBjmxW.md
+> "Can't you feel my heartbeat? I want to survive." — sources/S_ig_mattyr_ecom_CfBLdxBjmxW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "heartbeat": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report of a real kiss: the source is a sung lyric, and no kiss or person is shown or named.
+- Read as a medical claim about a heart: the heartbeat is the song's image for feeling, and the source measures nothing.

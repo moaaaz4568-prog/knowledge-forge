@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [dead, mattyr_ecom account context]
+aka: [dropshipping]
 origin: sources/S_ig_mattyr_ecom_CeJjjGdjRCz.md
 ---
 
-# G_ig_mattyr_ecom_CeJjjGdjRCz — dead
+# G_ig_mattyr_ecom_CeJjjGdjRCz — dropshipping
 
 ## Term
 
-"dead" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dropshipping, one, told, come. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dropshipping is the claim under attack in this video: Matt asks whether it is dead, then answers with his own daily and weekly takings at 50% profit. The word appears once, beside dead, fifty percent profit, and link in my bio, while dead itself is repeated three times as the rumour he is mocking. He dares viewers who think it is dead to explain his numbers, and points the curious to a video showing the whole product and his mentorship. The use is defensive: dropshipping here is a business model Matt is publicly defending against the claim that it no longer works.
 
 ## Synonyms
 
-- dead
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No! Dropshipping is dead? And no one told me? If it's so dead, how come I can make this in a day? Or how can I make this in a week with 50% profit? Do you guys think it's dead? Let me know. Also, for the ones really curious about this, I show the whole product and everything I did to get this. Link in my bio. It also includes my one-on-one mentorship." — sources/S_ig_mattyr_ecom_CeJjjGdjRCz.md
+> "No! Dropshipping is dead? And no one told me?" — sources/S_ig_mattyr_ecom_CeJjjGdjRCz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dead": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof dropshipping is dead: Matt's point is the opposite, using his own daily takings to mock the rumour.
+- Read as a promise that anyone makes 50% profit: the figure is his own margin on his own products, shown to defend the model rather than guarantee it.

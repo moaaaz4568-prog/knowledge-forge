@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [Facebook, mattyr_ecom account context]
+aka: ["ISO 14 update"]
 origin: sources/S_ig_mattyr_ecom_CeWfkYYjMkq.md
 ---
 
-# G_ig_mattyr_ecom_CeWfkYYjMkq — Facebook
+# G_ig_mattyr_ecom_CeWfkYYjMkq — ISO 14 update
 
 ## Term
 
-"Facebook" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: think, ads, done, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The ISO 14 update is the event Matt blames for breaking Facebook ads tracking: after it, he says, the platform misses orders and its numbers cannot be trusted. The phrase appears twice, beside Facebook ads, cost per click, and ROAS, the metrics he still quotes to show his newest brand is working. His argument is that a good marketer still makes a lot of schmickles despite the update, because the ads still convert even when the tracking is wrong. The update is not presented as the end of Facebook ads, but as a handicap that separates good marketers from the rest.
 
 ## Synonyms
 
-- Facebook
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Alright, hear me out. Just ignore this. If you think Facebook ads are done after the ISO 14 update, then you're wrong. Let me show you my newest brand's... So we spent 700... Cost per click for conversions purchase... CTR... ROAS is looking good, huh? Mmm, and this... they probably missed like 20 orders. Yeah, Facebook is not the best at tracking orders, I will give you that." — sources/S_ig_mattyr_ecom_CeWfkYYjMkq.md
+> "If you think Facebook ads are done after the ISO 14 update, then you're wrong." — sources/S_ig_mattyr_ecom_CeWfkYYjMkq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Facebook": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the end of Facebook ads: Matt's argument is that a good marketer still profits after the update, with ROAS looking good despite the broken tracking.
+- Read as proof the tracking numbers are reliable: he says Facebook probably missed like twenty orders, so the reported figures undercount the real sales.

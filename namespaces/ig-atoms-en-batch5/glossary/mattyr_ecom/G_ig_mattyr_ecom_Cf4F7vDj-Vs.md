@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [feeling, mattyr_ecom account context]
+aka: [heart beat]
 origin: sources/S_ig_mattyr_ecom_Cf4F7vDj-Vs.md
 ---
 
-# G_ig_mattyr_ecom_Cf4F7vDj-Vs — feeling
+# G_ig_mattyr_ecom_Cf4F7vDj-Vs — heart beat
 
 ## Term
 
-No content word repeats often enough in this short source (20 words) to form a repeated term, so this entry documents the source's central term "feeling" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Heart beat is the closing image of this sung line: every time they kiss he swears he could fly, and then he asks whether she can feel his heart beat. The phrase appears once, beside feeling, kiss, and fly, as the physical proof of the feeling the song describes. The line gives no story beyond the kiss and the lift, and the heartbeat is the one bodily detail in it. The phrase here works as a love-song signal: a racing heart standing in for the feeling itself.
 
 ## Synonyms
 
-- feeling
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I get this feeling and every time we kiss, I swear I could fly. Can't you feel my heart beat?" — sources/S_ig_mattyr_ecom_Cf4F7vDj-Vs.md
+> "I swear I could fly. Can't you feel my heart beat?" — sources/S_ig_mattyr_ecom_Cf4F7vDj-Vs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "feeling": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Matt's own words about a real person: the source is a sung lyric, and no person or relationship is identified.
+- Read as a claim that kissing causes flight: the flying is the song's metaphor, and the heartbeat is the only literal body in the line.

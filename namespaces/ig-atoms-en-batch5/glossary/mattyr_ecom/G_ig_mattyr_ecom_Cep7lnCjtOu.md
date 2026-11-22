@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_Cep7lnCjtOu.md
 
 ## Term
 
-"billionaire" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: road, take, one, let. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Billionaire is the goal Matt names this series after: road to a billionaire, take one, a journey to become one at a young age. The word appears twice, beside road to, young age, and immigrant, with the plural billionaires used once more for the shared ending he imagines. He introduces himself as Matt, an immigrant documenting the whole journey, and invites viewers to follow along and press the plus sign. The billionaire here is a destination for the series, not a status he claims yet.
 
 ## Synonyms
 
-- billionaire
-- billionaires (variant form used in the source)
+- billionaires (the plural form Matt uses for the shared goal)
 
 ## Live Example
 
-> "Road to a billionaire. Take one. So let me introduce myself. My name is Matt. This TikTok is going to document my whole journey. I'm going to become a billionaire at a young age. If you want to follow this immigrant and who knows, maybe follow along. So we all become billionaires. You can do so by pressing this little plus sign. Thanks for the support." — sources/S_ig_mattyr_ecom_Cep7lnCjtOu.md
+> "Road to a billionaire. Take one. So let me introduce myself." — sources/S_ig_mattyr_ecom_Cep7lnCjtOu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "billionaire": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim Matt is already a billionaire: the series is a road to becoming one, and he introduces himself as an immigrant at the start of the journey.
+- Read as a promise viewers will become billionaires too: he invites them to follow along, but the only commitment shown is his own documentation of the trip.

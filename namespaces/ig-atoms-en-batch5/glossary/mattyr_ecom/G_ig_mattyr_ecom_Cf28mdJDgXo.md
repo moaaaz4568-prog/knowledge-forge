@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [details, mattyr_ecom account context]
+aka: [shout]
 origin: sources/S_ig_mattyr_ecom_Cf28mdJDgXo.md
 ---
 
-# G_ig_mattyr_ecom_Cf28mdJDgXo — details
+# G_ig_mattyr_ecom_Cf28mdJDgXo — shout
 
 ## Term
 
-No content word repeats often enough in this short source (15 words) to form a repeated term, so this entry documents the source's central term "details" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Shout is the invitation in this short line: give Matt a shout when you are ready to dive into the details. The word appears once, beside give me a shout, dive into the details, and ready, as the contact he offers for a longer conversation. The line gives no topic of its own, only the readiness to talk once the other side is ready too. The shout here is an open door, not a message: a way to reach him when the details matter.
 
 ## Synonyms
 
-- details
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. Just give me a shout when you're ready to dive into the details!" — sources/S_ig_mattyr_ecom_Cf28mdJDgXo.md
+> "Just give me a shout when you're ready to dive into the details!" — sources/S_ig_mattyr_ecom_Cf28mdJDgXo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "details": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise to explain something specific: the line names no subject, and the details it mentions are never specified.
+- Read as a finished statement: the sentence is an invitation that waits on the other person's readiness, not a claim of its own.

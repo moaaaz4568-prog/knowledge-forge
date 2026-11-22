@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [sounding like, mattyr_ecom account context]
+aka: [cards]
 origin: sources/S_ig_mattyr_ecom_CezMz5aJDWo.md
 ---
 
-# G_ig_mattyr_ecom_CezMz5aJDWo — sounding like
+# G_ig_mattyr_ecom_CezMz5aJDWo — cards
 
 ## Term
 
-"sounding like" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, sounding, cards. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cards are the sound of having made it in this short clip: Matt says you know you made it when your cards go from sounding one way to sounding another. The word appears once, beside made it and sounding like this, as the object whose sound marks the upgrade. The clip gives no picture of the cards themselves, only the change in their sound as the proof of arrival. The cards here work as a status signal: the noise they make tells the listener which kind of card they are.
 
 ## Synonyms
 
-- sounding like
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_mattyr_ecom_CezMz5aJDWo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sounding like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a review of a specific card: the source names no card brand or product, only the sound changing as a sign of having made it.
+- Read as a literal sound test: the clip is a joke about status, and no actual card sound is measured or compared.

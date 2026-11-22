@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [laundry day, mattyr_ecom account context]
+aka: [orders]
 origin: sources/S_ig_mattyr_ecom_CeuCA93Jn0A.md
 ---
 
-# G_ig_mattyr_ecom_CeuCA93Jn0A — laundry day
+# G_ig_mattyr_ecom_CeuCA93Jn0A — orders
 
 ## Term
 
-"laundry day" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, laundry, love, means. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Orders are the running count of Matt's day in this update: three orders worth four and a half grand, then a few leftover orders he packs at night because he got bored. The word appears twice, beside three orders, leftover orders, and 70% profit, as the thing he counts, packs, and earns from. He shows the orders as proof of the day: a door he points at, a mat with something secret inside, and a Sunday routine that ends with laundry day. The orders here are not a lesson but a scoreboard: the number that tells him the day went well.
 
 ## Synonyms
 
-- laundry day
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Laundry day. I love laundry day. Gosh, I'm so boring." — sources/S_ig_mattyr_ecom_CeuCA93Jn0A.md
+> "I was packing a few of the leftover orders, so they're here." — sources/S_ig_mattyr_ecom_CeuCA93Jn0A.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "laundry day": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as three orders totalling four and a half grand in profit: the figure is the take for the orders, with 70% profit named separately, not the profit itself.
+- Read as a packing tutorial: Matt only says he packs the leftover orders when bored, and the video shows no packing method to copy.

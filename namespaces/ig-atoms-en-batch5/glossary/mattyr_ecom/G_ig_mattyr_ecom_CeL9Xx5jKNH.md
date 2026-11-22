@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [want, mattyr_ecom account context]
+aka: ["bulk ordering"]
 origin: sources/S_ig_mattyr_ecom_CeL9Xx5jKNH.md
 ---
 
-# G_ig_mattyr_ecom_CeL9Xx5jKNH — want
+# G_ig_mattyr_ecom_CeL9Xx5jKNH — bulk ordering
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: helps, follow, right, comment. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bulk ordering is the upgrade Matt recommends once a brand has money coming in: move from a fast shipping supplier to ordering stock in bulk, ideally to a third-party fulfillment center instead of your own house. The phrase appears once, beside fast shipping supplier, some profit, and schmickles, Matt's slang for the money that makes the switch possible. He presents it as the step that makes life way easier, since someone else handles the packing. The contrast is with starting out, where a fast supplier is fine because you do not yet have the profit to stock up.
 
 ## Synonyms
 
-- want
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "See, I do that for my brands but you don't have to. You can start with a fast shipping supplier. Once you get some money going, some profit, you know, schmickles? Then you can transition to bulk ordering and you don't have to do it to your house. You can do it to a third-party fulfillment center. Make your life way easier. Hope that helps. If you want to follow me, it's right here." — sources/S_ig_mattyr_ecom_CeL9Xx5jKNH.md
-> "If you want to comment, it's here. If you want to get a one-on-one mentorship, there's still spots available in my link in bio. Have a wonderful day." — sources/S_ig_mattyr_ecom_CeL9Xx5jKNH.md
+> "Then you can transition to bulk ordering and you don't have to do it to your house." — sources/S_ig_mattyr_ecom_CeL9Xx5jKNH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule to bulk order from the start: Matt says start with a fast shipping supplier and switch only once money and profit are going.
+- Read as a requirement to stock at home: he says the bulk stock can go to a third-party fulfillment center, so the house is optional.

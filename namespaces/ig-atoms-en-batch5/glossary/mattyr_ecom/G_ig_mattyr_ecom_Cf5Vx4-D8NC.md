@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [yeah, mattyr_ecom account context]
+aka: [slogan]
 origin: sources/S_ig_mattyr_ecom_Cf5Vx4-D8NC.md
 ---
 
-# G_ig_mattyr_ecom_Cf5Vx4-D8NC — yeah
+# G_ig_mattyr_ecom_Cf5Vx4-D8NC — slogan
 
 ## Term
 
-"yeah" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah, everything. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and slogan is only the entry's type label: the clip is a single boast — everything Matt is doing is better than you — repeated after a run of yeahs, with no idea or object named anywhere in it. The line works as a taunt, daring the viewer to disagree while offering nothing to check. The boast itself is the content: a comparison with no second side shown. Nothing in the clip can be verified, since no activity, result, or rival is ever named.
 
 ## Synonyms
 
-- yeah
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_mattyr_ecom_Cf5Vx4-D8NC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "yeah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a measured comparison with evidence: the source shows nothing Matt is doing, so the claim that it is better cannot be checked.
+- Read as a challenge with stakes: the line is a taunt with no bet, task, or contest attached to it.

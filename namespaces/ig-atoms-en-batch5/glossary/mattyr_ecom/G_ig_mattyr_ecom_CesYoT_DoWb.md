@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [means, mattyr_ecom account context]
+aka: [Tiffany-stamped]
 origin: sources/S_ig_mattyr_ecom_CesYoT_DoWb.md
 ---
 
-# G_ig_mattyr_ecom_CesYoT_DoWb — means
+# G_ig_mattyr_ecom_CesYoT_DoWb — Tiffany-stamped
 
 ## Term
 
-"means" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, knows, even, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Tiffany-stamped describes the bezel in a lyric Matt quotes without understanding it: he opens by admitting he does not even know what the line means, then repeats the image of a watch whose level is so advanced and whose bezel carries the Tiffany stamp. The phrase appears once, beside bezel, provocative, and slide, as part of a quoted rap line rather than anything Matt explains himself. The point of the stamp here is status, not watchmaking: a Tiffany stamp turns an ordinary bezel into proof of the level he is bragging about. Matt frames the whole line as something provocative that gets the people going, even while confessing the meaning escapes him.
 
 ## Synonyms
 
-- means
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't even know what that means. No one knows what it means, but it's provocative. No, it's not! It gets the people going. The level is just so advanced, the bezel's Tiffany-stamped, I'm grip on my hand, know that I came with a slide." — sources/S_ig_mattyr_ecom_CesYoT_DoWb.md
+> "The level is just so advanced, the bezel's Tiffany-stamped, I'm grip on my hand, know that I came with a slide." — sources/S_ig_mattyr_ecom_CesYoT_DoWb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "means": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Matt's own claim about a watch he owns: he is quoting a lyric he says he does not understand, and the source names no watch of his.
+- Read as a definition of Tiffany stamping: the source gives no detail about what the stamp is or how it is applied, only that the bezel carries it.

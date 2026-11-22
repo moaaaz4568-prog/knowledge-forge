@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [students, mattyr_ecom account context]
+aka: ["high ticket"]
 origin: sources/S_ig_mattyr_ecom_CeZM0yxJSY6.md
 ---
 
-# G_ig_mattyr_ecom_CeZM0yxJSY6 — students
+# G_ig_mattyr_ecom_CeZM0yxJSY6 — high ticket
 
 ## Term
 
-"students" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lot, think, teach, four. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+High ticket describes the store Matt shows off first in this video: his high ticket server today, three grand at seventy percent profit, with more expected by the end of the day. The phrase appears once, beside seventy percent profit, my other store, and Seven Finger Brand, the second store he shows at fifty percent. He walks the viewer from his bed to his chair to make the point that selling items online is all he does, then shows five-figure and six-figure payouts to his students. The high ticket store is the proof of the pitch: quit your job, work with him one-on-one, and copy the result.
 
 ## Synonyms
 
-- students
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And even six-figure payouts. So if you want to quit your job and work with me one-on-one like a lot of other students do, I think I teach over four hundred students now. You can do so by clicking my link in bio. And take your time. Look how my students are quitting their jobs for this. Here's the biggest discount code you can use right now. That's a thank you for watching." — sources/S_ig_mattyr_ecom_CeZM0yxJSY6.md
+> "Here's my high ticket server today. I know only three grand, but with seventy percent profit, not bad." — sources/S_ig_mattyr_ecom_CeZM0yxJSY6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "students": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a modest day: three grand is the smaller of the two stores he shows, and he says it will get much higher by the end of the day.
+- Read as a guarantee of seventy percent profit: the figure belongs to this high ticket store today, while his other store runs at fifty percent.

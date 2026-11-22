@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [everyone, mattyr_ecom account context]
+aka: ["on edge"]
 origin: sources/S_ig_mattyr_ecom_CeSjqzvDsPi.md
 ---
 
-# G_ig_mattyr_ecom_CeSjqzvDsPi — everyone
+# G_ig_mattyr_ecom_CeSjqzvDsPi — on edge
 
 ## Term
 
-No content word repeats often enough in this short source (16 words) to form a repeated term, so this entry documents the source's central term "everyone" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+On edge describes how Matt says everyone feels lately: tense, noticed by him, and left hanging on an unfinished sentence. The phrase appears once, beside I don't know if you've noticed, lately, and everyone's just. The clip is sixteen words with a timestamp and no resolution, so the edginess is the whole observation. He is not explaining why people are on edge, only naming the mood he sees around him.
 
 ## Synonyms
 
-- everyone
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "[00:00] I don't know if you've noticed, but lately I feel like everyone's just... on edge." — sources/S_ig_mattyr_ecom_CeSjqzvDsPi.md
+> "I don't know if you've noticed, but lately I feel like everyone's just... on edge." — sources/S_ig_mattyr_ecom_CeSjqzvDsPi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "everyone": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a diagnosis of why people are on edge: Matt only says he feels it lately, and the clip gives no cause, no event, and no resolution.
+- Read as a complete thought: the sentence trails off on an ellipsis, and the timestamped clip ends before any conclusion.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [Polish name, mattyr_ecom account context]
+aka: [Polish name]
 origin: sources/S_ig_mattyr_ecom_Cf-yjjPD-qG.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_Cf-yjjPD-qG.md
 
 ## Term
 
-"Polish name" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: second, name, polish, picture. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Polish name is the puzzle Matt explains in this video: viewers ask why a Polish name sits on his second picture, above his Amex point. The phrase appears twice, beside Amex, Mateusz, and immigrant, as the name that does not match the picture they expect. He answers that the name is his own: Mateusz, born and raised in Poland, an immigrant who moved here around ten years ago. The name here is an identity correction: the Polish name belongs to the same person as the picture, and the video exists to say so.
 
 ## Synonyms
 
-- Polish name
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He's asking why there’s a Polish name on his second picture. The name you saw above my Amex point is my Polish name, Mateusz. I'm actually an immigrant; I moved here to USN-D around ten years ago. But yeah, I was born and raised in Poland. So, yaszczemash!" — sources/S_ig_mattyr_ecom_Cf-yjjPD-qG.md
+> "The name you saw above my Amex point is my Polish name, Mateusz." — sources/S_ig_mattyr_ecom_Cf-yjjPD-qG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Polish name": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof Matt hides his background: he states his Polish name and birthplace openly, and the video corrects the confusion rather than hiding anything.
+- Read as a claim about the Amex point itself: the card detail is only where viewers spotted the name, and the source says nothing about the account.

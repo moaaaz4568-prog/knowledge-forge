@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [transcribe, mattyr_ecom account context]
+aka: ["silent track"]
 origin: sources/S_ig_mattyr_ecom_CeUZFP8p3jJ.md
 ---
 
-# G_ig_mattyr_ecom_CeUZFP8p3jJ — transcribe
+# G_ig_mattyr_ecom_CeUZFP8p3jJ — silent track
 
 ## Term
 
-No content word repeats often enough in this short source (40 words) to form a repeated term, so this entry documents the source's central term "transcribe" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A silent track is what Matt thinks he was sent: he can hear the jazz music perfectly fine, but there is absolutely zero speech to transcribe. The phrase appears once, beside jazz music, zero speech, and the question of whether something glitched or he is being tested. He asks whether the sender meant to send a track with no voice on it, or whether his own ears are being tested. The term is the puzzle of the video: music with no words, and a transcript request that has nothing to transcribe.
 
 ## Synonyms
 
-- transcribe
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Wait... did you just send me a silent track? I can hear the jazz music perfectly fine, but there’s absolutely zero speech here to transcribe. Did something glitch out on your end, or are you testing my ears right now?" — sources/S_ig_mattyr_ecom_CeUZFP8p3jJ.md
+> "Wait... did you just send me a silent track?" — sources/S_ig_mattyr_ecom_CeUZFP8p3jJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "transcribe": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a failed transcription: Matt hears the jazz music perfectly fine, so the audio works; what is missing is any speech at all.
+- Read as a test of his hearing: he asks whether the sender glitched or is testing him, and the source never settles which it is.

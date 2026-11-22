@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch5)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch5): one G_ entry per T_ atom file — 3,859 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,311 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 689 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch5): one G_ entry per T_ atom file — 3,859 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,300 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 689 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeEmdOYJ2g9.md | rock | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeEmdOYJ2g9.md | energy healing rock | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CeExZHQprgu.md | dropshipping | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeFO6c1j3Wf.md | Christmas | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeJjjGdjRCz.md | dead | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeKCtSkp7c1.md | product | 2 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeL9Xx5jKNH.md | want | 2 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeFO6c1j3Wf.md | Merry Christmas | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeJjjGdjRCz.md | dropshipping | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeKCtSkp7c1.md | winning product | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeL9Xx5jKNH.md | bulk ordering | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CeMIK5KDPLL.md | Moved | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeMUx6xJr9K.md | AliExpress | 2 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeR8HAXJYfA.md | billionaire | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeSjqzvDsPi.md | everyone | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeUZFP8p3jJ.md | transcribe | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeWfkYYjMkq.md | Facebook | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeWrty0JnWp.md | really | 3 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeXmCvcDYns.md | mouth | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeZM0yxJSY6.md | students | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Ceg2q4JJE1t.md | healing | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cejfu5apVkW.md | transcription | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeMUx6xJr9K.md | AliExpress | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeR8HAXJYfA.md | Bitcoin billionaire | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeSjqzvDsPi.md | on edge | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeUZFP8p3jJ.md | silent track | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeWfkYYjMkq.md | ISO 14 update | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeWrty0JnWp.md | high ticket | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeXmCvcDYns.md | fame | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeZM0yxJSY6.md | high ticket | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Ceg2q4JJE1t.md | healing rocks | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cejfu5apVkW.md | distortion filter | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_Cep7lnCjtOu.md | billionaire | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeqDitFj_Ay.md | see | 2 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CerPE2OJcxa.md | make | 3 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CesYoT_DoWb.md | means | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeuCA93Jn0A.md | laundry day | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CewUvKPpcGZ.md | okay | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CewoJ0CpUib.md | Let | 2 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeqDitFj_Ay.md | donate | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CerPE2OJcxa.md | dropshipping | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CesYoT_DoWb.md | Tiffany-stamped | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CeuCA93Jn0A.md | orders | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CewUvKPpcGZ.md | highs and lows | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CewoJ0CpUib.md | orders | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CezDPe_JsbI.md | billionaire | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CezMz5aJDWo.md | sounding like | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CezMz5aJDWo.md | cards | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-9tFKDHqv.md | dropshipping | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-Of4BJqBn.md | schmikkles | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-U1vtDDX-.md | Bologna | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-c6aPjqb_.md | checking | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-U1vtDDX-.md | Bologna Jags | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-c6aPjqb_.md | watermelon slicer | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf-yjjPD-qG.md | Polish name | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf28mdJDgXo.md | details | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf2LIoEDgto.md | office | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf2b_gYJbaq.md | seven-fingered | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4F7vDj-Vs.md | feeling | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4ht5WJ8PZ.md | seventeen | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4uAuaJ1ZO.md | schmickles | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf5HprpDBRN.md | listen | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf5Vx4-D8NC.md | yeah | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf28mdJDgXo.md | shout | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf2LIoEDgto.md | hard work | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf2b_gYJbaq.md | seven-fingered smiggle | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4F7vDj-Vs.md | heart beat | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4ht5WJ8PZ.md | seventeen years old | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf4uAuaJ1ZO.md | orders | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf5HprpDBRN.md | chant | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf5Vx4-D8NC.md | slogan | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf66NQQDCDx.md | knuckles | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf7-U9uD9qj.md | Amazon | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf7EqPaDA2z.md | money | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf8F6ZajGnX.md | papaya | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf9ffTiDVvl.md | stock | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf9nUAbp9zI.md | shipping | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfBLbv8jPRH.md | perspective | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf7-U9uD9qj.md | Amazon Prime Day | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf7EqPaDA2z.md | chant | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf8F6ZajGnX.md | pomme d'api | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf9ffTiDVvl.md | high-ticket item | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_Cf9nUAbp9zI.md | branding | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfBLbv8jPRH.md | mindset | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CfBLdxBjmxW.md | heartbeat | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfBLmP3Dzop.md | first | 1 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfE0qxKJ_UX.md | now | 3 |
-| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfE2CKVJv2W.md | heads-up | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfBLmP3Dzop.md | protective | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfE0qxKJ_UX.md | dropshipping | 1 |
+| glossary/mattyr_ecom/G_ig_mattyr_ecom_CfE2CKVJv2W.md | jazz music | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CfH7oHlJ2kf.md | gonna | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CfHYOIBjDpq.md | posture | 1 |
 | glossary/mattyr_ecom/G_ig_mattyr_ecom_CfHYSp0jvnW.md | cars | 1 |

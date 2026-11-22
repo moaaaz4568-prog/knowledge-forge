@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [knuckles, mattyr_ecom account context]
+aka: [knuckles]
 origin: sources/S_ig_mattyr_ecom_Cf66NQQDCDx.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_Cf66NQQDCDx.md
 
 ## Term
 
-"knuckles" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: damn, hurt, hey, baby. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Knuckles are the injury at the centre of this lyric breakdown: Matt quotes a line about hurting his knuckles, and the commentary ends by noting he is cursing because his knuckles are sore. The word appears twice, beside hurt my knuckles, bragging about his moves, and party disaster, tying the quoted lyric to the narrator's summary. The video around it is a string of party lines — work, twerking, busting — framed as a total party disaster by the voice breaking it down. The knuckles here are the punchline's bruise: the cost of the bragging, sore by the end of the night.
 
 ## Synonyms
 
-- knuckles
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This sounds like a total party disaster! One minute he's bragging about his moves, and the next he's cursing because his knuckles are sore." — sources/S_ig_mattyr_ecom_Cf66NQQDCDx.md
+> "One minute he's bragging about his moves, and the next he's cursing because his knuckles are sore." — sources/S_ig_mattyr_ecom_Cf66NQQDCDx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "knuckles": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real injury Matt suffered: the knuckles belong to a quoted lyric and a narrator's summary, and no injury is shown or reported.
+- Read as a review of a party: the source is a line-by-line breakdown of lyrics, and no actual party is described.

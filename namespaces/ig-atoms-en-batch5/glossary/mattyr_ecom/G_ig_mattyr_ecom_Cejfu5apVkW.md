@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [transcription, mattyr_ecom account context]
+aka: ["distortion filter"]
 origin: sources/S_ig_mattyr_ecom_Cejfu5apVkW.md
 ---
 
-# G_ig_mattyr_ecom_Cejfu5apVkW — transcription
+# G_ig_mattyr_ecom_Cejfu5apVkW — distortion filter
 
 ## Term
 
-No content word repeats often enough in this short source (55 words) to form a repeated term, so this entry documents the source's central term "transcription" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A distortion filter is Matt's guess for why the recording came out as empty quoted lines: the voice sounds like it is coming through a radio, heavy and processed. The phrase appears once, beside voice processing, pretty heavy, and coming through a radio. The transcript itself is twenty-three empty quote pairs, so the filter is his explanation for a recording that carries no intelligible words. The term is diagnostic rather than musical: a name for whatever mangled the audio beyond transcription.
 
 ## Synonyms
 
-- transcription
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's a bit of an earful! Here’s the raw transcription from the recording:" — sources/S_ig_mattyr_ecom_Cejfu5apVkW.md
+> "The voice processing is pretty heavy there—sounds like they're coming through a radio or some kind of distortion filter." — sources/S_ig_mattyr_ecom_Cejfu5apVkW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "transcription": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a transcript of speech: the recording contains twenty-three empty quote pairs and no intelligible words, so there is nothing to transcribe.
+- Read as proof a distortion filter was used: Matt only guesses the sound came through a radio or a filter, and the source never confirms what processed the voice.

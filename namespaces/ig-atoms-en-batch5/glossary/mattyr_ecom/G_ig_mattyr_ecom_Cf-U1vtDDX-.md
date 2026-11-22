@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [Bologna, mattyr_ecom account context]
+aka: [Bologna Jags]
 origin: sources/S_ig_mattyr_ecom_Cf-U1vtDDX-.md
 ---
 
-# G_ig_mattyr_ecom_Cf-U1vtDDX- — Bologna
+# G_ig_mattyr_ecom_Cf-U1vtDDX- — Bologna Jags
 
 ## Term
 
-No content word repeats often enough in this short source (12 words) to form a repeated term, so this entry documents the source's central term "Bologna" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bologna Jags is the punchline of a he's-a-ten-but joke: Matt rates the man a ten, then ruins it with the claim that she stole his Bologna Jags. The phrase appears once, beside He's a ten, she stole, and What the f***, as the absurd theft that breaks the rating. The source never explains what Bologna Jags are, and the joke works precisely because the phrase sounds like something valuable being stolen. The phrase here is nonsense on purpose: a made-up prize for a made-up crime.
 
 ## Synonyms
 
-- Bologna
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He's a ten, but... she stole my Bologna Jags! What the f***?" — sources/S_ig_mattyr_ecom_Cf-U1vtDDX-.md
+> "He's a ten, but... she stole my Bologna Jags!" — sources/S_ig_mattyr_ecom_Cf-U1vtDDX-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Bologna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real product or team called Bologna Jags: the source gives no such thing, and the phrase only exists inside this joke.
+- Read as a serious complaint about theft: the video is a rating meme, and no theft is reported or shown.

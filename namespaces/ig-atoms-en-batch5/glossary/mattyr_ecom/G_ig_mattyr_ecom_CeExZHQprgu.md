@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [dropshipping, mattyr_ecom account context]
+aka: [dropshipping, dropshipper]
 origin: sources/S_ig_mattyr_ecom_CeExZHQprgu.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_CeExZHQprgu.md
 
 ## Term
 
-"dropshipping" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sell, winning, products, sorry. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dropshipping is how Matt describes his whole operation at 21: selling winning products, then moving from pure dropshipping to bulk ordering and packing boxes at home. The word appears twice, beside winning products, daily deposits, and a profit a little over 50%, with the related form dropshipper used once for the traditional seller he says he differs from. He corrects himself mid-sentence to stress the upgrade from dropshipping to stocking inventory himself. The contrast is the message: dropshipping got him started, but bulk ordering is what he presents as the grown-up version.
 
 ## Synonyms
 
-- dropshipping
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- dropshipper (the related form Matt uses for the traditional seller)
 
 ## Live Example
 
-> "Let me show you something. Here's my some daily deposits right here. I am 21 years old and all I do is sell winning products with dropshipping. Sorry let me correct that. I started with dropshipping and now I bulk order to my house and pack it myself. I do have a few left to pack but it's fun. You wanna know how much profit that is? It's a little over 50% right now." — sources/S_ig_mattyr_ecom_CeExZHQprgu.md
+> "I am 21 years old and all I do is sell winning products with dropshipping." — sources/S_ig_mattyr_ecom_CeExZHQprgu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dropshipping": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a dropshipping-only story: Matt corrects himself to say he now bulk orders and packs at home, so the profit he shows comes from the upgraded model, not pure dropshipping.
+- Read as a promise of a little over 50% profit for anyone: the figure is his own current margin, tied to his products and his packing setup.

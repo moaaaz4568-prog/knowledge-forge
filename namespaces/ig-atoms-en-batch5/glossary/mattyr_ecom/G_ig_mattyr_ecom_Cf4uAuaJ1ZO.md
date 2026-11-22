@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [schmickles, mattyr_ecom account context]
+aka: [orders]
 origin: sources/S_ig_mattyr_ecom_Cf4uAuaJ1ZO.md
 ---
 
-# G_ig_mattyr_ecom_Cf4uAuaJ1ZO — schmickles
+# G_ig_mattyr_ecom_Cf4uAuaJ1ZO — orders
 
 ## Term
 
-"schmickles" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: orders, even, bigger, schmickles. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Orders are what fill Matt's messy room in this clip: the room is a little bit messy, but it is messy with orders, ninety-nine of them, making schmickles and even bigger schmickles. The word appears twice, beside messy with orders, 99 orders, and Eighty percent profit margin, as the parcels behind the profit he quotes. He points at the mess as proof of volume, then checks his Insta for anyone doubting the margin. The orders here are the flex: a bedroom turned into a warehouse, with the mess itself as the evidence.
 
 ## Synonyms
 
-- schmickles
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's the raw transcript of what was said: Damn, my boy is eating good! My room's a little bit messy, but it's messy with orders. Making them schmickles and even bigger schmickles with 99 orders. Eighty percent profit margin. Higher interest? Check my Insta." — sources/S_ig_mattyr_ecom_Cf4uAuaJ1ZO.md
+> "My room's a little bit messy, but it's messy with orders." — sources/S_ig_mattyr_ecom_Cf4uAuaJ1ZO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "schmickles": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof of an 80% margin on every order: the margin is Matt's own figure for his products, and the video shows no per-order breakdown.
+- Read as a complaint about the mess: Matt presents the messy room as a boast about volume, not as a problem to fix.

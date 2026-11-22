@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [checking, mattyr_ecom account context]
+aka: [watermelon slicer]
 origin: sources/S_ig_mattyr_ecom_Cf-c6aPjqb_.md
 ---
 
-# G_ig_mattyr_ecom_Cf-c6aPjqb_ — checking
+# G_ig_mattyr_ecom_Cf-c6aPjqb_ — watermelon slicer
 
 ## Term
 
-"checking" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: look, now, god. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Watermelon slicer is the product in the sales skit Matt narrates: a woman is about to buy it, then checks out, and then has bought it while he watches. The phrase appears once, beside checking out, she bought it, and let's go, as the item the whole little drama turns on. He plays the excited commentator, urging her on at each step until the purchase lands. The slicer here is not reviewed or described: it is simply the thing being sold while Matt performs the sale.
 
 ## Synonyms
 
-- checking
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey babe, she's going to buy this watermelon slicer, let's go! Not now, she's checking out, look, look, she's checking out. Oh my god, she bought it! She bought it!" — sources/S_ig_mattyr_ecom_Cf-c6aPjqb_.md
+> "Hey babe, she's going to buy this watermelon slicer, let's go!" — sources/S_ig_mattyr_ecom_Cf-c6aPjqb_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "checking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a product review of the slicer: the source says nothing about how it works, only that she buys it.
+- Read as a real checkout Matt witnessed: the scene is a narrated skit, and no store or buyer is identified.

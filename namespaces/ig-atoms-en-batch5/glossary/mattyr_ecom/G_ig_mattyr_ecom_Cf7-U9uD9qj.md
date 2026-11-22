@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [Amazon, mattyr_ecom account context]
+aka: [Amazon Prime Day]
 origin: sources/S_ig_mattyr_ecom_Cf7-U9uD9qj.md
 ---
 
-# G_ig_mattyr_ecom_Cf7-U9uD9qj — Amazon
+# G_ig_mattyr_ecom_Cf7-U9uD9qj — Amazon Prime Day
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 21-year-old, multi-millionaire, buys, prime. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Amazon Prime Day is the occasion for this haul: Matt shows what a 21-year-old multi-millionaire buys on the day, from a wheel to Zapatos for the dogs to gliders for the mouse. The phrase appears once, beside multi-millionaire, graphics card, and Happy Dad, as the sale event framing every item he holds up. He adds a graphics card bought off Amazon to upgrade the PC, and a Happy Dad hat he wants for no reason at all. The day here is a shopping stage: the deals give him a reason to show the haul, not a list of prices to compare.
 
 ## Synonyms
 
-- Amazon
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So here's what a 21-year-old multi-millionaire buys on Amazon Prime Day! We got the wheel! [Whoosh!] We got the Zapatos for the dogs! We got these nice covers... mm! And we got some gliders for the mouse! Also got this, it wasn't on Amazon, but I got the graphics card, uh, you know, to upgrade the PC. Not a bad deal by the way. And for some reason, wanted to get a 'Happy Dad' hat." — sources/S_ig_mattyr_ecom_Cf7-U9uD9qj.md
+> "So here's what a 21-year-old multi-millionaire buys on Amazon Prime Day!" — sources/S_ig_mattyr_ecom_Cf7-U9uD9qj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a Prime Day deals guide: Matt shows his own purchases and calls one not a bad deal, but no prices or savings are given.
+- Read as a claim that a multi-millionaire needs these items: the haul is a show of what he bought, and the source justifies none of it as needed.

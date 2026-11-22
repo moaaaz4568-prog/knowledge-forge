@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [make, mattyr_ecom account context]
+aka: [dropshipping, dropshipper]
 origin: sources/S_ig_mattyr_ecom_CerPE2OJcxa.md
 ---
 
-# G_ig_mattyr_ecom_CerPE2OJcxa — make
+# G_ig_mattyr_ecom_CerPE2OJcxa — dropshipping
 
 ## Term
 
-"make" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: money, ads, day, zuckerberg. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dropshipping is the job Matt explains in this packing video: find cool products like watermelon slicers, buy them from China through Alibaba, pay Zuckerberg for ads, and keep the difference as the middleman. The word appears once, beside dropshipper, watermelon slicers, and Alibaba, with dropshipper used once for what he calls himself. His example is concrete: buy for two dollars, sell for seventy-five, and do it from anywhere as your own boss. The explanation is deliberately simple, and he admits it is not that easy, but points to his students as proof it works.
 
 ## Synonyms
 
-- make
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- dropshipper (the form Matt uses for himself)
 
 ## Live Example
 
-> "Road to a billionaire. Part four. Let's pack some orders. Alright, create PDF. Parabing? Paraboom? And now we wait. Also, for the people who are confused, what does this kid do every day? How does he make his money? Um... I'm a dropshipper. Well, Matt, what is dropshipping? They pretty much find cool products like these watermelon slicers. Then you go to China... Alibaba." — sources/S_ig_mattyr_ecom_CerPE2OJcxa.md
-> "Then you give some money to Zuckerberg. You make some beautiful looking ads. Then you just make a website. Pretty much you're the middleman. So you make the difference. You got the product for two dollars. Nice sell it for seventy five dollars. It's not that easy, but my students know what I'm talking about. But yeah, pretty cool job. You can do this anywhere. Then you can be your own boss." — sources/S_ig_mattyr_ecom_CerPE2OJcxa.md
-> "I mean, I don't know which other jobs are gonna make you hundred k week without a degree. Alright, I'm gonna go back to packing. See you in the next one. Don't forget to follow." — sources/S_ig_mattyr_ecom_CerPE2OJcxa.md
+> "Um... I'm a dropshipper. Well, Matt, what is dropshipping?" — sources/S_ig_mattyr_ecom_CerPE2OJcxa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete business plan: Matt calls it pretty much the middleman's job in a few lines, then admits it is not that easy and points to his students.
+- Read as a promise of seventy-five dollars from a two-dollar product for anyone: the watermelon slicer is one example, and the margin depends on ads, a website, and the work he skips over.

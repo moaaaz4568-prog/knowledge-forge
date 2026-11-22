@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [now, mattyr_ecom account context]
+aka: [dropshipping, dropshipping's]
 origin: sources/S_ig_mattyr_ecom_CfE0qxKJ_UX.md
 ---
 
-# G_ig_mattyr_ecom_CfE0qxKJ_UX — now
+# G_ig_mattyr_ecom_CfE0qxKJ_UX — dropshipping
 
 ## Term
 
-"now" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: right, sell, anyone, way. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dropshipping is the business Matt tells the truth about in this long video: it is not like it used to be, when you could pick a fidget spinner and sell it to anyone, because competition has grown and buyers now trust only stores they believe in. The word appears four times, beside fidget spinner, trustworthy websites, and ad account restricted, as the model he defends while admitting it has changed a lot. He warns against the AliExpress way, with restricted ad accounts, disputes, and angry emails, and still calls the model really profitable at 80% profit. The use is a status report: dropshipping still works, but only with trustworthy websites, fast shipping, and harder work than when he started.
 
 ## Synonyms
 
-- now
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- dropshipping's (the possessive form Matt uses when he says dropshipping's not like it used to be)
 
 ## Live Example
 
-> "So you want to know the truth about dropshipping? Well let me tell you how I dropped out of college and continued pursuing this because it was worth it. So for starters, dropshipping's not like it used to be that you can just pick a fidget spinner and sell it to anyone. Now there is way more competition. Grandma's are pretty smart now too. They will only buy from your store now if they trust you." — sources/S_ig_mattyr_ecom_CfE0qxKJ_UX.md
-> "That will give me more attention. But anyways, dropshipping is still doable but it's definitely way harder than when I was starting. If you wanna see how my students are successful in 2022 right now with iOS 14 update... check out my Instagram and you'll see how I make this. We actually just caught another sale." — sources/S_ig_mattyr_ecom_CfE0qxKJ_UX.md
-> "And with a $50 ad spend on FB right now, you can see my results on Instagram. Also drop a..." — sources/S_ig_mattyr_ecom_CfE0qxKJ_UX.md
+> "So you want to know the truth about dropshipping?" — sources/S_ig_mattyr_ecom_CfE0qxKJ_UX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "now": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that dropshipping is dead: Matt says it has changed and gotten harder, but insists it is still doable and still really profitable.
+- Read as a promise of 80% profit for anyone: the figure is his own margin right now, shown with a $50 ad spend, not a rate the video guarantees.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [schmikkles, mattyr_ecom account context]
+aka: [schmikkles]
 origin: sources/S_ig_mattyr_ecom_Cf-Of4BJqBn.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_Cf-Of4BJqBn.md
 
 ## Term
 
-"schmikkles" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: whole, show, now, world. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Schmikkles is Matt's word for the money he shows to command attention: show some, he says, and now the whole world listens. The word appears twice, beside show some schmikkles, whole world listens, and crazy power, as the display that turns heads. He calls the effect funny, as if the listening follows the showing automatically, and credits the schmikkles themselves with crazy power. The use is a flex with a mechanism: money shown, attention gained, with the showing doing the work.
 
 ## Synonyms
 
-- schmikkles
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's so funny. All you have to do is show some schmikkles, and now the whole world listens. Schmikkles have crazy power." — sources/S_ig_mattyr_ecom_Cf-Of4BJqBn.md
+> "All you have to do is show some schmikkles, and now the whole world listens." — sources/S_ig_mattyr_ecom_Cf-Of4BJqBn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "schmikkles": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a literal claim that money buys listening: Matt presents it as a joke about attention, and the source shows no one actually listening.
+- Read as the same word as the schmickles in his other videos: this source spells it schmikkles, and the two spellings are kept as written.

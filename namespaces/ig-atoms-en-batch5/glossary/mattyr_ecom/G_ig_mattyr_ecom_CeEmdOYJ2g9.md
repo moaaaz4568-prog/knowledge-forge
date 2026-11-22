@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [rock, mattyr_ecom account context]
+aka: ["energy healing rock"]
 origin: sources/S_ig_mattyr_ecom_CeEmdOYJ2g9.md
 ---
 
-# G_ig_mattyr_ecom_CeEmdOYJ2g9 — rock
+# G_ig_mattyr_ecom_CeEmdOYJ2g9 — energy healing rock
 
 ## Term
 
-"rock" is the most frequent repeated content term in this source (a transcribed Instagram video from the mattyr_ecom account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: energy, healing, rock, special. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Matt pitches an energy healing rock as the product of this video: a special rock selling for fifty dollars, held up as proof of his marketing skill. The phrase appears once, beside special rock, fifty dollars, and the teasing question about whether he is a good marketer. He frames the sale as a secret he is letting the viewer in on, then asks the viewer to judge his pitch. The point of the rock here is not geology but the sales demo: an ordinary-looking stone turned into a fifty-dollar offer by the story around it.
 
 ## Synonyms
 
-- rock
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Alright I'll tell you but you can't tell anyone... check this out. This special rock. This energy healing rock is selling for fifty dollars right now. Am I a good marketer?" — sources/S_ig_mattyr_ecom_CeEmdOYJ2g9.md
+> "This energy healing rock is selling for fifty dollars right now." — sources/S_ig_mattyr_ecom_CeEmdOYJ2g9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "rock": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a geology claim: the rock is sold as an energy healing product, and the source gives no evidence for any healing property, only a fifty-dollar price and a marketing dare.
+- Read as proof Matt is a good marketer: he only asks the question, and the source shows no sale actually happening, only the pitch itself.

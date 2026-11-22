@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [dropshipping, mattyr_ecom account context]
+aka: [dropshipping]
 origin: sources/S_ig_mattyr_ecom_Cf-9tFKDHqv.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_mattyr_ecom_Cf-9tFKDHqv.md
 
 ## Term
 
-No content word repeats often enough in this short source (48 words) to form a repeated term, so this entry documents the source's central term "dropshipping" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dropshipping is the question put to Matt in this clip: how many years he has been doing it, answered with his own timeline from seventeen to dropout to millions. The word appears once, beside seventeen, dropout, and six point five mil in rev, as the business the whole answer is about. He started in high school, left college after a semester, and now quotes around forty-five in profit as the result of those years. The use is a credential: the years in dropshipping are the proof he offers for the numbers that follow.
 
 ## Synonyms
 
-- dropshipping
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hmm... okay. How many years have you been dropshipping? That's a great question. I started when I was seventeen, I was in high school, and now I'm a dropout after going to college for a semester, made over six point five mil in rev, around forty-five in profit." — sources/S_ig_mattyr_ecom_Cf-9tFKDHqv.md
+> "How many years have you been dropshipping?" — sources/S_ig_mattyr_ecom_Cf-9tFKDHqv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dropshipping": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that dropshipping pays forty-five in profit: the figure is Matt's own result after years in the business, not a rate anyone can expect.
+- Read as advice to drop out of college: Matt only reports his own path from high school to dropout, and the source recommends nothing.

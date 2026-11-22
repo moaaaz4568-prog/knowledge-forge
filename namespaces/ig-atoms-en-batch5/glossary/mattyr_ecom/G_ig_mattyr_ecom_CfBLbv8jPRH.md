@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [perspective, mattyr_ecom account context]
+aka: [mindset]
 origin: sources/S_ig_mattyr_ecom_CfBLbv8jPRH.md
 ---
 
-# G_ig_mattyr_ecom_CfBLbv8jPRH — perspective
+# G_ig_mattyr_ecom_CfBLbv8jPRH — mindset
 
 ## Term
 
-No content word repeats often enough in this short source (49 words) to form a repeated term, so this entry documents the source's central term "perspective" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Mindset is the thesis this philosophical passage lands on: after talk of essence, core concepts, and universal law, Matt says it is all about your mindset and your perspective. The word appears once, beside perspective, universal law, and core concept, as the one practical word in a passage of abstractions. He claims perception is narrow when facing the thing itself, and the mindset is offered as the lens that decides what you see. The use is a closing slogan, not an argument: the passage asserts the mindset matters without showing how it works.
 
 ## Synonyms
 
-- perspective
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In a certain sense, the essence of everything is just an extension of that core concept. You can't really argue with that; it's like a universal law. But when you're actually facing it, you realize how narrow our perception can be. It’s all about your mindset and your perspective." — sources/S_ig_mattyr_ecom_CfBLbv8jPRH.md
+> "It’s all about your mindset and your perspective." — sources/S_ig_mattyr_ecom_CfBLbv8jPRH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "perspective": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a defined method for changing mindset: the source names mindset as the point but gives no practice or step for it.
+- Read as a universal law Matt proves: he calls it a universal law, and the passage argues by assertion, with no evidence offered.

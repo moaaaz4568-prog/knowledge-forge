@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: mattyr_ecom
-aka: [seventeen, mattyr_ecom account context]
+aka: [seventeen years old]
 origin: sources/S_ig_mattyr_ecom_Cf4ht5WJ8PZ.md
 ---
 
-# G_ig_mattyr_ecom_Cf4ht5WJ8PZ — seventeen
+# G_ig_mattyr_ecom_Cf4ht5WJ8PZ — seventeen years old
 
 ## Term
 
-No content word repeats often enough in this short source (10 words) to form a repeated term, so this entry documents the source's central term "seventeen" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Seventeen years old is the age Matt gives in this cut-off introduction: he starts to say his name, then corrects himself to his age instead. The phrase appears once, beside Hi my name is and instead, as the one fact the fragment manages to state. The recording stops mid-sentence, so the age stands alone with no name and no story attached to it. The phrase here is an interrupted self-introduction: an age offered in place of a name, and then nothing more.
 
 ## Synonyms
 
-- seventeen
-- mattyr_ecom account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (10 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "seventeen": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a full introduction: the clip breaks off after the age, and Matt's name is never actually given.
+- Read as a claim about what seventeen-year-olds can do: the source states only the age, with no achievement or advice attached.
