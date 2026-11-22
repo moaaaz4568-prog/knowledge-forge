@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch4)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,270 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 2, codes 51-100, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch4): one G_ entry per T_ atom file — 3,830 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,264 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 418 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuilt in place 2026-11-22 (chunk 1, codes 1-50, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (chunk 2, codes 51-100, heyharut): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected. Rebuilt in place 2026-11-22 (ig-batch4-part2 chunk 1, codes 1501-1550, jun_yuh): 50 files, one verbatim live example each, self-check 50/50, gates 0 rejected.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/jun_yuh/G_ig_jun_yuh_CqgDjVjInOh.md | honestly | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_Cqig3FdqkjJ.md | know | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CqlajfloJiR.md | Ah | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CqnuMkpqI8e.md | thinking | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CqqLdKrK0Sa.md | value individual | 2 |
+| glossary/jun_yuh/G_ig_jun_yuh_CqnuMkpqI8e.md | let me go | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CqqLdKrK0Sa.md | high value individual | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CqqTX0xK9MT.md | one day | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cqs6FgwqLe6.md | start today | 2 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cqvcq3qIF_Z.md | yeah yeah | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cr02AfjoROX.md | bullets | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cr9hM8fqP19.md | nobody | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CrEAzicopSF.md | apart | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CrLqCdqK8Ig.md | feeling | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cqs6FgwqLe6.md | start today | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cqvcq3qIF_Z.md | chant | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cr02AfjoROX.md | twelve bullets | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cr9hM8fqP19.md | secrets | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CrEAzicopSF.md | tell them apart | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CrLqCdqK8Ig.md | lover | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CrWImTDKRes.md | police | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CrgaDOTIprP.md | sweeter | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CrgaDOTIprP.md | lost love | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CrlsLahIHCT.md | help | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CrqgMKQorXl.md | Remember | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Crv13DcoB42.md | something | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cs2RUc3oA_X.md | said | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cs49a0KokkC.md | worthless | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsMAgIsob3x.md | sometimes | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsPkjEtIAk3.md | alright | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsSIviqoQMP.md | honestly | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsSkC-3oIZW.md | know | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsXg337o0rY.md | misunderstood | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CsaAvgwoW2H.md | start | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CscndVUoJt6.md | drinking | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CskKFYlI59P.md | sweeter | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Csm81S-IJeZ.md | next | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cspi9ahoasZ.md | heart wants | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Csr4KJ8oOGS.md | worthless | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cszvcp6oC1J.md | brought | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Ct0ECRio7AY.md | give | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Ct2wJvdozux.md | Discipline | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Ct5KtUBoRIp.md | holding | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtDLxn4IjLO.md | become | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtF33Fqo8p5.md | probably | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtIPTDjIVfP.md | worthless | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtK9ZtmoHsV.md | dusk till | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CrqgMKQorXl.md | our future | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Crv13DcoB42.md | last forever | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cs2RUc3oA_X.md | jerk | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cs49a0KokkC.md | worthless nothing | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsMAgIsob3x.md | beau soldat | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsPkjEtIAk3.md | gonna be alright | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsSIviqoQMP.md | finding peace | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsSkC-3oIZW.md | forget who I am | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsXg337o0rY.md | mental health | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CsaAvgwoW2H.md | maturing | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CscndVUoJt6.md | check on me | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CskKFYlI59P.md | lost love | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Csm81S-IJeZ.md | hot | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cspi9ahoasZ.md | my heart | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Csr4KJ8oOGS.md | worthless nothing | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cszvcp6oC1J.md | my family | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Ct0ECRio7AY.md | stamina | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Ct2wJvdozux.md | discipline | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Ct5KtUBoRIp.md | holding your breath | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtDLxn4IjLO.md | strangest secret | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtF33Fqo8p5.md | second chance | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtIPTDjIVfP.md | worthless nothing | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtK9ZtmoHsV.md | dusk till dawn | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CtNfVxWKfB1.md | nightclub | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtQJXlpojyo.md | dreaming | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtlDh5rIRvP.md | Remember | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtnWGgzI27j.md | getting | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtQJXlpojyo.md | past lives | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtlDh5rIRvP.md | our future | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtnWGgzI27j.md | getting rich | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_Ctsk74aIX8E.md | hydration boost | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CtxtMwLKkj6.md | need nobody | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cu0yb6DogIm.md | gonna | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cu8aL7sInGT.md | thinking | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuBUUDSKBR3.md | nobody | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuBb79lo0Zq.md | proud | 3 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuDqM_nI7NY.md | much | 2 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuI_VHNKaye.md | deep | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuQWNqKoaZe.md | want | 2 |
-| glossary/jun_yuh/G_ig_jun_yuh_CuUrf5uoydZ.md | performing | 1 |
-| glossary/jun_yuh/G_ig_jun_yuh_Cu_M-UYqeOq.md | Mariana | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CtxtMwLKkj6.md | love | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cu0yb6DogIm.md | dream job | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cu8aL7sInGT.md | let me go | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuBUUDSKBR3.md | secrets | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuBb79lo0Zq.md | proud of you | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuDqM_nI7NY.md | healthy diet | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuI_VHNKaye.md | deep devotion | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuQWNqKoaZe.md | active recall | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_CuUrf5uoydZ.md | belt | 1 |
+| glossary/jun_yuh/G_ig_jun_yuh_Cu_M-UYqeOq.md | beauty | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_CubGCHYIWAQ.md | shit | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_Cuds5vwowiF.md | bullets | 1 |
 | glossary/jun_yuh/G_ig_jun_yuh_Cus_PyKokmb.md | one thing | 1 |

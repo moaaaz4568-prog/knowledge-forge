@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [hydration boost, jun_yuh account context]
+aka: [hydration boost]
 origin: sources/S_ig_jun_yuh_Ctsk74aIX8E.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_jun_yuh_Ctsk74aIX8E.md
 
 ## Term
 
-"hydration boost" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: plump, glowing, one, two. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hydration boost appears twice in this 17-word product clip, both times in the repeated benefit line Plump, glowing, hydration boost. The phrase sits beside Innisfree Green Tea, Go Plump Challenge, and the countdown Three, two, one, so it names the promised effect of the product. The benefit line is chanted twice around the countdown, like a slogan for the challenge. A concrete instance is the repeated line itself: plump, glowing, hydration boost, counted down from three.
 
 ## Synonyms
 
-- hydration boost
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Innisfree Green Tea Go Plump Challenge. Plump, glowing, hydration boost. Three, two, one. Plump, glowing, hydration boost." — sources/S_ig_jun_yuh_Ctsk74aIX8E.md
+> "Plump, glowing, hydration boost. Three, two, one." — sources/S_ig_jun_yuh_Ctsk74aIX8E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hydration boost": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a medical claim: the phrase is a product slogan in an ad clip, not a measured health result.
+- Read as the challenge's name: the challenge is the Go Plump Challenge, while hydration boost is the benefit it promises.

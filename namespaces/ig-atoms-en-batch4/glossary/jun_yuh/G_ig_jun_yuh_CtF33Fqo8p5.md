@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [probably, jun_yuh account context]
+aka: [second chance]
 origin: sources/S_ig_jun_yuh_CtF33Fqo8p5.md
 ---
 
-# G_ig_jun_yuh_CtF33Fqo8p5 — probably
+# G_ig_jun_yuh_CtF33Fqo8p5 — second chance
 
 ## Term
 
-No content word repeats often enough in this short source (31 words) to form a repeated term, so this entry documents the source's central term "probably" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Second chance appears once in this 31-word warning, in the line You might not get a second chance. The phrase sits beside realest shit, put your mind to, and Don't fuck up, so it names the one shot the listener may not get again. The advice pairs the warning with encouragement: you can do anything you put your mind to, so don't mess it up. A concrete instance is the pairing itself: no second chance on one side, and you can do anything on the other.
 
 ## Synonyms
 
-- probably
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You might not get a second chance. That's probably one of the realest shit someone's ever told me. You can do anything you put your mind to. Don't fuck up, please." — sources/S_ig_jun_yuh_CtF33Fqo8p5.md
+> "You might not get a second chance. That's probably one of the realest shit someone's ever told me." — sources/S_ig_jun_yuh_CtF33Fqo8p5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "probably": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise of another chance: the warning is that a second chance may NOT come, so the line is a caution, not a comfort.
+- Read as a threat from the speaker: the line reports what someone told the speaker, it is not the speaker threatening the listener.

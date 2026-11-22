@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [police, jun_yuh account context]
+aka: [police]
 origin: sources/S_ig_jun_yuh_CrWImTDKRes.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_jun_yuh_CrWImTDKRes.md
 
 ## Term
 
-No content word repeats often enough in this short source (10 words) to form a repeated term, so this entry documents the source's central term "police" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Police appears once in this 10-word line, in the reassurance that there is no police around here, baby. The word sits beside baby and the promise I won't judge you, so it names the absent authority whose absence makes the moment safe. No police means no one watching and no one judging. A concrete instance is the pairing itself: no police around, and no judgment from the speaker either.
 
 ## Synonyms
 
-- police
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (10 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "police": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report that police left the area: the line only says no police are around, not that any police were ever here.
+- Read as permission to break the law: the point of no police is that no one will judge, not that anything illegal is allowed.

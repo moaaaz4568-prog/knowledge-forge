@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [bullets, jun_yuh account context]
+aka: [twelve bullets]
 origin: sources/S_ig_jun_yuh_Cr02AfjoROX.md
 ---
 
-# G_ig_jun_yuh_Cr02AfjoROX — bullets
+# G_ig_jun_yuh_Cr02AfjoROX — twelve bullets
 
 ## Term
 
-No content word repeats often enough in this short source (16 words) to form a repeated term, so this entry documents the source's central term "bullets" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Twelve bullets appears once in this 16-word line, where the speaker says they only have twelve bullets and the other person will have to share. The phrase sits beside Fine, share, and count them down, so it names a small shared stock rather than a weapon catalogue. The counting down turns the twelve into a game the two will play together. A concrete instance is the deal itself: twelve bullets, two people, one countdown.
 
 ## Synonyms
 
-- bullets
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (16 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bullets": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real ammunition count: the line is a playful countdown deal, not a report of actual bullets owned.
+- Read as an order to share: you are gonna have to share is part of the game setup, not a rule about sharing in general.

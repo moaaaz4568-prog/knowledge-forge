@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [holding, jun_yuh account context]
+aka: [holding your breath]
 origin: sources/S_ig_jun_yuh_Ct5KtUBoRIp.md
 ---
 
-# G_ig_jun_yuh_Ct5KtUBoRIp — holding
+# G_ig_jun_yuh_Ct5KtUBoRIp — holding your breath
 
 ## Term
 
-No content word repeats often enough in this short source (11 words) to form a repeated term, so this entry documents the source's central term "holding" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Holding your breath appears once in this 11-word line, in the teasing question about the listener holding their breath. The phrase sits beside So where were we? and Oh yes, so it names the suspense the speaker catches the listener in. The line resumes a scene already in progress, as if the listener had been waiting breathless. A concrete instance is the resumption itself: where were we, oh yes, you were holding your breath.
 
 ## Synonyms
 
-- holding
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (11 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "holding": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as literal breath-holding: the line teases a listener who was waiting in suspense, not someone actually holding their breath.
+- Read as the start of a scene: So where were we? resumes something already begun, so this is a middle, not an opening.

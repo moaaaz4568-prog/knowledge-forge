@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [drinking, jun_yuh account context]
+aka: [check on me]
 origin: sources/S_ig_jun_yuh_CscndVUoJt6.md
 ---
 
-# G_ig_jun_yuh_CscndVUoJt6 — drinking
+# G_ig_jun_yuh_CscndVUoJt6 — check on me
 
 ## Term
 
-No content word repeats often enough in this short source (22 words) to form a repeated term, so this entry documents the source's central term "drinking" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Check on me appears once in this 22-word lyric, in the question Did you check on me? The phrase sits beside drinking more alcohol, five days, and look for me, so it names the attention the singer hoped someone would give. Five days of drinking more pass, and the singer asks whether anyone noticed or came looking. A concrete instance is the pair of questions: did you check on me, and did you look for me?
 
 ## Synonyms
 
-- drinking
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've been drinking more alcohol for the past five days. Did you check on me? Now did you look for me? I." — sources/S_ig_jun_yuh_CscndVUoJt6.md
+> "I've been drinking more alcohol for the past five days. Did you check on me?" — sources/S_ig_jun_yuh_CscndVUoJt6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "drinking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint that no one called: the singer asks whether anyone checked or looked, which is a question, not an accusation with an answer.
+- Read as a drinking problem confession: the drinking frames the question, but the line never says the singer is an alcoholic.

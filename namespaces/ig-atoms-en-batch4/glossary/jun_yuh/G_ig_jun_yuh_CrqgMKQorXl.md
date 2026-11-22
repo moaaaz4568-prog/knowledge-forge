@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [Remember, jun_yuh account context]
+aka: [our future]
 origin: sources/S_ig_jun_yuh_CrqgMKQorXl.md
 ---
 
-# G_ig_jun_yuh_CrqgMKQorXl — Remember
+# G_ig_jun_yuh_CrqgMKQorXl — our future
 
 ## Term
 
-No content word repeats often enough in this short source (11 words) to form a repeated term, so this entry documents the source's central term "Remember" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Our future appears once in this 11-word line, in the claim This is our future. The phrase sits beside Remember, not just a story, and this, so it names a shared destiny that the speaker says is real rather than fictional. The story framing makes the future sound like something already written. A concrete instance is the correction itself: not just a story, but our future.
 
 ## Synonyms
 
-- Remember
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (11 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Remember": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a prediction about the world: our future belongs to the two speakers, not to everyone.
+- Read as the title of a story: the line says the story IS the future, so it is not fiction being introduced.

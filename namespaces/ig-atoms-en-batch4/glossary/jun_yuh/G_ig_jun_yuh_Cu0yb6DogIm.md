@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [gonna, jun_yuh account context]
+aka: [dream job]
 origin: sources/S_ig_jun_yuh_Cu0yb6DogIm.md
 ---
 
-# G_ig_jun_yuh_Cu0yb6DogIm — gonna
+# G_ig_jun_yuh_Cu0yb6DogIm — dream job
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, doctor, yeah, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dream job appears once in this 38-word exchange, in the opening question What's your dream job? The phrase sits beside grow up, be a doctor, and make people feel okay, so it names the future work the child is asked to imagine. The child's answer skips salary for purpose: a doctor who makes people feel okay. A concrete instance is the answer itself: not a number for pay, but making people feel okay.
 
 ## Synonyms
 
-- gonna
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What's your dream job? What do you want to do when you grow up? Uh, I'm gonna be a doctor. Yeah. How much do you want to make? I'm gonna make people feel okay. What would you like?" — sources/S_ig_jun_yuh_Cu0yb6DogIm.md
+> "What's your dream job? What do you want to do when you grow up?" — sources/S_ig_jun_yuh_Cu0yb6DogIm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a career counselling question: the exchange is a child being asked what they want to be, not an adult job interview.
+- Read as a question about salary: the child answers with purpose, making people feel okay, not with a number.

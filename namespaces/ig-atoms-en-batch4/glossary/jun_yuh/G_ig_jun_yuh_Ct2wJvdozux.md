@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [Discipline, jun_yuh account context]
+aka: [discipline, disciplined]
 origin: sources/S_ig_jun_yuh_Ct2wJvdozux.md
 ---
 
-# G_ig_jun_yuh_Ct2wJvdozux — Discipline
+# G_ig_jun_yuh_Ct2wJvdozux — discipline
 
 ## Term
 
-"Discipline" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: done, really, discipline, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Discipline appears five times in this 87-word talk, defined three ways: getting up tired instead of sleeping in, doing what you do not want now to get what you want later, and something very few people have. The word sits beside tired, alarm, and motivation, and the talk ends by swapping motivation for discipline: stop chasing motivation and get disciplined. The variant disciplined appears once, in that closing instruction. A concrete instance is the alarm test: tired, wanting to sleep in, but getting up to do what needs doing.
 
 ## Synonyms
 
-- Discipline
-- jun_yuh account context (no variant form of the term appears in this source)
+- disciplined
 
 ## Live Example
 
-> "I know you are tired, but you need to get it done. You know what discipline really is? Discipline is when you are tired, you want to turn off the alarm and sleep in, but you get up and do what needs to be done. Discipline is when you do what you do not want to do now, so you can get what you do want in your life later. Discipline is something very few people have. That is discipline." — sources/S_ig_jun_yuh_Ct2wJvdozux.md
+> "Discipline is when you are tired, you want to turn off the alarm and sleep in, but you get up and do what needs to be done." — sources/S_ig_jun_yuh_Ct2wJvdozux.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Discipline": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as military discipline: the talk defines discipline as getting up tired and doing unwanted work now, not as drill or punishment.
+- Read as a motivational trick: the talk says to stop chasing motivation, so discipline replaces motivation rather than producing it.

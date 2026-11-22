@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [worthless, jun_yuh account context]
+aka: [worthless nothing]
 origin: sources/S_ig_jun_yuh_Csr4KJ8oOGS.md
 ---
 
-# G_ig_jun_yuh_Csr4KJ8oOGS — worthless
+# G_ig_jun_yuh_Csr4KJ8oOGS — worthless nothing
 
 ## Term
 
-No content word repeats often enough in this short source (24 words) to form a repeated term, so this entry documents the source's central term "worthless" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Worthless nothing appears once in this 24-word lyric, in the same angry charge as its sister verse: the partner treats the singer like a worthless nothing. The phrase sits beside angry, jerk, and so sad, so it names the value the singer is reduced to when the partner is angry. Here the verse ends harder than the other version: the singer says they don't ever want to see the partner again. A concrete instance is the ending itself: sad, and done, never wanting to see them again.
 
 ## Synonyms
 
-- worthless
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When you're angry, you're a jerk, and then you treat me like a worthless nothing, so sad. I don't ever wanna see you again." — sources/S_ig_jun_yuh_Csr4KJ8oOGS.md
+> "When you're angry, you're a jerk, and then you treat me like a worthless nothing, so sad." — sources/S_ig_jun_yuh_Csr4KJ8oOGS.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "worthless": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a final breakup line: the singer says they don't ever want to see the partner again, which is a refusal, not a formal ending.
+- Read as the singer agreeing they are worthless: the phrase is the partner's treatment of the singer, not the singer's self-judgment.

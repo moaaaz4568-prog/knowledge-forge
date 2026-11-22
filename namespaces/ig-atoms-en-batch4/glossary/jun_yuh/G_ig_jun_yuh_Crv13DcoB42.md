@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [something, jun_yuh account context]
+aka: [last forever]
 origin: sources/S_ig_jun_yuh_Crv13DcoB42.md
 ---
 
-# G_ig_jun_yuh_Crv13DcoB42 — something
+# G_ig_jun_yuh_Crv13DcoB42 — last forever
 
 ## Term
 
-"something" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: looking, new, know, somebody. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Last forever appears once in this 41-word plea, in the hope that something could really last forever. The phrase sits beside something new, choose, and me and you together, so it names the permanence the singer offers as the reason to be chosen. The repeated question What about me? frames the offer five times, and the lasting thing is what would make the choice worth it. A concrete instance is the pairing in the middle lines: me and you together, in something that could really last forever.
 
 ## Synonyms
 
-- something
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But if you're looking for something new, I know somebody that you could choose. What about me? What about me? What about me and you together? Something that could really last forever. What about me? What about me? What about me?" — sources/S_ig_jun_yuh_Crv13DcoB42.md
+> "What about me and you together? Something that could really last forever." — sources/S_ig_jun_yuh_Crv13DcoB42.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "something": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that it will last forever: the singer says it could really last forever, which is a hope, not a guarantee.
+- Read as a question to the listener: What about me? is the repeated question, while last forever is the offer inside it, not the question itself.

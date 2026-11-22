@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [nobody, jun_yuh account context]
+aka: [secrets]
 origin: sources/S_ig_jun_yuh_Cr9hM8fqP19.md
 ---
 
-# G_ig_jun_yuh_Cr9hM8fqP19 — nobody
+# G_ig_jun_yuh_Cr9hM8fqP19 — secrets
 
 ## Term
 
-"nobody" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: nobody, secrets, knows. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Secrets appears once in this 9-word line, in the claim about having secrets that nobody, nobody, nobody knows. The word sits beside nobody repeated three times and knows, so it names knowledge the singer holds alone and no one else can reach. The tripled nobody stresses how completely hidden the secrets are. A concrete instance is the boast itself: secrets kept from everybody, known by the singer alone.
 
 ## Synonyms
 
-- nobody
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_jun_yuh_Cr9hM8fqP19.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "nobody": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a confession of specific secrets: the line names no secret at all, so nothing here reveals what the secrets are.
+- Read as nobody knows meaning nobody cares: the tripled nobody stresses that the secrets are hidden, not that they are unimportant.

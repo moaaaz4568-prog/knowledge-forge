@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [Mariana, jun_yuh account context]
+aka: [beauty]
 origin: sources/S_ig_jun_yuh_Cu_M-UYqeOq.md
 ---
 
-# G_ig_jun_yuh_Cu_M-UYqeOq — Mariana
+# G_ig_jun_yuh_Cu_M-UYqeOq — beauty
 
 ## Term
 
-"Mariana" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, holy, mary, mariana. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Beauty appears once in this 16-word lyric, in the line Your beauty never ever scared me. The word sits beside holy Mary, Mariana, and Mariana cross, so it names the quality the singer praises while comparing the descent to a sacred image. The beauty is presented as fearless: it never scared the singer, not once. A concrete instance is the reassurance itself: you go down like holy Mary, and your beauty never scared me.
 
 ## Synonyms
 
-- Mariana
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_jun_yuh_Cu_M-UYqeOq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Mariana": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a compliment about looks alone: the beauty is praised beside holy Mary and the Mariana cross, so it carries a sacred comparison.
+- Read as fear of the beauty: the line says the beauty never scared the singer, so fear is denied, not confessed.

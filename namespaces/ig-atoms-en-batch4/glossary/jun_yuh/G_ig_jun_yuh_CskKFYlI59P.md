@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [sweeter, jun_yuh account context]
+aka: [lost love]
 origin: sources/S_ig_jun_yuh_CskKFYlI59P.md
 ---
 
-# G_ig_jun_yuh_CskKFYlI59P — sweeter
+# G_ig_jun_yuh_CskKFYlI59P — lost love
 
 ## Term
 
-No content word repeats often enough in this short source (15 words) to form a repeated term, so this entry documents the source's central term "sweeter" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lost love appears once in this 15-word lyric, where it is sweeter when it is finally found. The phrase sits beside past lives and hold me down, so it names a love that was lost and then recovered. The singer says past lives could never hold them down, and the sweetness belongs to the finding, not the losing. A concrete instance is the contrast in the single line: held down by nothing, and a lost love found again, sweeter than before.
 
 ## Synonyms
 
-- sweeter
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (15 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sweeter": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as nostalgia for a past life: the line is about a love recovered now, not about missing a former life.
+- Read as sweeter meaning the loss was good: the sweetness comes from the finding, not from having lost the love.

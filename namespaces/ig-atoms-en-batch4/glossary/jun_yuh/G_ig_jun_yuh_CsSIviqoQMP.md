@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [honestly, jun_yuh account context]
+aka: [finding peace]
 origin: sources/S_ig_jun_yuh_CsSIviqoQMP.md
 ---
 
-# G_ig_jun_yuh_CsSIviqoQMP — honestly
+# G_ig_jun_yuh_CsSIviqoQMP — finding peace
 
 ## Term
 
-No content word repeats often enough in this short source (23 words) to form a repeated term, so this entry documents the source's central term "honestly" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Finding peace appears once in this 23-word lyric, in the line about losing friends and finding peace. The phrase sits beside twenty nine, G five, seaside, and a fair trade, so it names what the singer gains while losing friends. The trade is judged fair: friends go, peace comes, and the singer accepts the exchange honestly. A concrete instance is the balance itself: losing friends on one side, finding peace on the other.
 
 ## Synonyms
 
-- honestly
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Outside, twenty nine, G five, seaside. I've been losing friends and finding peace. But honestly, that sound like a fair trade to me." — sources/S_ig_jun_yuh_CsSIviqoQMP.md
+> "I've been losing friends and finding peace." — sources/S_ig_jun_yuh_CsSIviqoQMP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "honestly": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a retreat from the world: the singer trades friends for peace and calls it fair, which is a choice, not a defeat.
+- Read as losing friends by accident: the line presents the loss as part of the trade, not as something that happened to the singer.

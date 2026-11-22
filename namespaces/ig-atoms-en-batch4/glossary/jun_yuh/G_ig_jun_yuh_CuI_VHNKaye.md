@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [deep, jun_yuh account context]
+aka: [deep devotion]
 origin: sources/S_ig_jun_yuh_CuI_VHNKaye.md
 ---
 
-# G_ig_jun_yuh_CuI_VHNKaye — deep
+# G_ig_jun_yuh_CuI_VHNKaye — deep devotion
 
 ## Term
 
-"deep" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: devotion, least, hold, hand. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Deep devotion appears once in this 34-word lyric, in the line Hold your hand in deep devotion, at least as deep as the Pacific Ocean. The phrase sits beside Pacific Ocean, your secret, and held in my heart, so it names the depth of feeling the singer offers. The ocean measures the devotion, and the secret that follows is harder to hide than expected. A concrete instance is the measure itself: devotion at least as deep as the Pacific.
 
 ## Synonyms
 
-- deep
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hold your hand in deep devotion, at least as deep as the Pacific Ocean. Now I wanna be your secret that I have held in my heart, a harder to hide than I thought." — sources/S_ig_jun_yuh_CuI_VHNKaye.md
+> "Hold your hand in deep devotion, at least as deep as the Pacific Ocean." — sources/S_ig_jun_yuh_CuI_VHNKaye.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "deep": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a religious vow: the devotion is measured against the Pacific Ocean in a love lyric, not sworn in a ceremony.
+- Read as a secret already told: the singer wants to BE the secret held in the heart, so the secret is kept, not revealed.

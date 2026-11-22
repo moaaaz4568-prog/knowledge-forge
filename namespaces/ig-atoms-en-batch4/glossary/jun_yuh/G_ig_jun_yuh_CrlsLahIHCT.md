@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [help, jun_yuh account context]
+aka: [help]
 origin: sources/S_ig_jun_yuh_CrlsLahIHCT.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_jun_yuh_CrlsLahIHCT.md
 
 ## Term
 
-"help" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: help, want, need, way. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Help appears seven times in this 39-word comic exchange, where one speaker keeps offering help and the other keeps refusing it. The word sits beside What?, thank you, and Goodbye, and it flips between an offer, a need, and a question: how can I help, I need help, do you want help. The joke is that every offer meets a refusal, and the exchange still ends politely. A concrete instance is the middle of the exchange, where help is offered, asked after, and then turned down in three quick lines.
 
 ## Synonyms
 
-- help
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Help. Help. Oh, how can I help? What? Is there a way I can help? I need help. Do you want help? What? You don't want help. I don't? No. All right, well, thank you. You're welcome. Goodbye. Bye." — sources/S_ig_jun_yuh_CrlsLahIHCT.md
+> "Oh, how can I help? What? Is there a way I can help?" — sources/S_ig_jun_yuh_CrlsLahIHCT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "help": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a cry for help: the speaker offering help is not the one who needs it, and the other speaker refuses every offer.
+- Read as a rude exchange: the refusals are answered with thanks and goodbye, so the scene stays polite throughout.

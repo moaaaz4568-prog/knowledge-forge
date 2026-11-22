@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [brought, jun_yuh account context]
+aka: [my family]
 origin: sources/S_ig_jun_yuh_Cszvcp6oC1J.md
 ---
 
-# G_ig_jun_yuh_Cszvcp6oC1J — brought
+# G_ig_jun_yuh_Cszvcp6oC1J — my family
 
 ## Term
 
-No content word repeats often enough in this short source (15 words) to form a repeated term, so this entry documents the source's central term "brought" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+My family appears once in this 15-word line, in the retort that you don't know fuck about my family. The phrase sits beside brought up as a baby and you don't know, so it names the upbringing the other person knows nothing about. The speaker answers a judgment about their background by pointing at the family behind it. A concrete instance is the clash itself: raised as a baby one way, and judged by someone who knows nothing about the family.
 
 ## Synonyms
 
-- brought
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I was brought up as a baby. Well, you don't know fuck about my family." — sources/S_ig_jun_yuh_Cszvcp6oC1J.md
+> "Well, you don't know fuck about my family." — sources/S_ig_jun_yuh_Cszvcp6oC1J.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "brought": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a proud family introduction: the family is invoked to answer an insult, not introduced for admiration.
+- Read as a claim about the speaker's childhood: brought up as a baby is the setup, and the family is the point the other person misses.

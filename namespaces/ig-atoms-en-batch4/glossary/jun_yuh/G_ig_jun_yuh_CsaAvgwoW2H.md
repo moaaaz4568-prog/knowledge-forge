@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [start, jun_yuh account context]
+aka: [maturing]
 origin: sources/S_ig_jun_yuh_CsaAvgwoW2H.md
 ---
 
-# G_ig_jun_yuh_CsaAvgwoW2H — start
+# G_ig_jun_yuh_CsaAvgwoW2H — maturing
 
 ## Term
 
-"start" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: conflict, anymore, choosing, calm. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Maturing appears once in this 35-word reflection, opening the definition that maturing is realizing you don't want to be around drama, stress, or conflict anymore. The word sits beside calm over chaos, distance over disrespect, and prioritizing your peace, so it names the shift toward choosing calm and distance. The mature choice is to put peace, mental health, and happiness over everything else. A concrete instance is the list of trades: calm over chaos, distance over disrespect, peace over everything.
 
 ## Synonyms
 
-- start
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Maturing is realizing you don't want to be around drama, stress, or conflict anymore. You start choosing calm over chaos and distance over disrespect. You start prioritizing your peace, mental health, and happiness over everything." — sources/S_ig_jun_yuh_CsaAvgwoW2H.md
+> "Maturing is realizing you don't want to be around drama, stress, or conflict anymore." — sources/S_ig_jun_yuh_CsaAvgwoW2H.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "start": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as growing older: maturing here is a change in what the speaker chooses, not a birthday.
+- Read as cutting everyone off: the speaker chooses distance over disrespect, which is selective, not a retreat from all people.

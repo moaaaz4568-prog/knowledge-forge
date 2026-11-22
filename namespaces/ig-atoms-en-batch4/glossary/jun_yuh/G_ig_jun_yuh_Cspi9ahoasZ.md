@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [heart wants, jun_yuh account context]
+aka: [my heart]
 origin: sources/S_ig_jun_yuh_Cspi9ahoasZ.md
 ---
 
-# G_ig_jun_yuh_Cspi9ahoasZ — heart wants
+# G_ig_jun_yuh_Cspi9ahoasZ — my heart
 
 ## Term
 
-"heart wants" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, wants, heart, something. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+My heart appears twice in this 15-word prayer, first wanting more of You and then wanting something new. The phrase sits beside Lord, I know, and so, so it names the singer's own desire directed at God. The two wants stack: more of You, and something new, both held in the heart. A concrete instance is the doubled want: the heart asks for more of You, then asks again for something new.
 
 ## Synonyms
 
-- heart wants
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Lord, I know my heart wants more of You. My heart wants something new, so." — sources/S_ig_jun_yuh_Cspi9ahoasZ.md
+> "Lord, I know my heart wants more of You." — sources/S_ig_jun_yuh_Cspi9ahoasZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "heart wants": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a love song to a person: the heart's wants are addressed to the Lord, not to a lover.
+- Read as two separate prayers: the two wants sit in one short prayer, so they are one plea with two parts.

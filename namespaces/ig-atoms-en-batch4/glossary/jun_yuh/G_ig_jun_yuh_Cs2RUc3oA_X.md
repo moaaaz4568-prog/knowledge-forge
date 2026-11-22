@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [said, jun_yuh account context]
+aka: [jerk]
 origin: sources/S_ig_jun_yuh_Cs2RUc3oA_X.md
 ---
 
-# G_ig_jun_yuh_Cs2RUc3oA_X — said
+# G_ig_jun_yuh_Cs2RUc3oA_X — jerk
 
 ## Term
 
-"said" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, fool. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Jerk appears once in this 23-word lyric, in the charge When you are angry, you are a jerk. The word sits beside angry, treat me like a fool, and I don't know what I said, so it names what anger turns the partner into. The verse links the anger to the mistreatment that follows: a jerk who treats the singer like a fool. A concrete instance is the cause-and-effect in the first line: anger, then jerk, then being treated like a fool.
 
 ## Synonyms
 
-- said
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When you're angry, you're a jerk, and then you treat me like a fool. And I said, I don't know what I said." — sources/S_ig_jun_yuh_Cs2RUc3oA_X.md
+> "When you're angry, you're a jerk, and then you treat me like a fool." — sources/S_ig_jun_yuh_Cs2RUc3oA_X.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "said": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an insult about character in general: the line ties jerk to a moment of anger, not to who the partner always is.
+- Read as the singer admitting fault: I don't know what I said is confusion after the fight, not an apology for it.

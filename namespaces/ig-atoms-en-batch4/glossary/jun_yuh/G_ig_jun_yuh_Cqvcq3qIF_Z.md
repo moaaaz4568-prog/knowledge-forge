@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [yeah yeah, jun_yuh account context]
+aka: [chant]
 origin: sources/S_ig_jun_yuh_Cqvcq3qIF_Z.md
 ---
 
-# G_ig_jun_yuh_Cqvcq3qIF_Z — yeah yeah
+# G_ig_jun_yuh_Cqvcq3qIF_Z — chant
 
 ## Term
 
-"yeah yeah" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label `chant` is a type label only, because the whole source is the word Yeah repeated sixteen times with no other wording. Nothing is defined, instructed, or named anywhere in the sixteen words, and no idea, object, or person appears beside the repeated word. The entry records the repetition itself, so the live example quotes the run of yeahs exactly as sung. Any reading that treats the repeated word as a claim or a concept would invent a meaning the source never states.
 
 ## Synonyms
 
-- yeah yeah
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_jun_yuh_Cqvcq3qIF_Z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "yeah yeah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as agreement or approval: the repeated yeahs carry no statement to agree with, so they prove nothing about what the singer thinks.
+- Read as a lyric with a message: sixteen repetitions of one word form a chant, not a verse, so no message can be quoted from it.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [give, jun_yuh account context]
+aka: [stamina]
 origin: sources/S_ig_jun_yuh_Ct0ECRio7AY.md
 ---
 
-# G_ig_jun_yuh_Ct0ECRio7AY — give
+# G_ig_jun_yuh_Ct0ECRio7AY — stamina
 
 ## Term
 
-"give" is the most frequent repeated content term in this source (a transcribed Instagram video from the jun_yuh account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: give, stamina. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Stamina appears once in this 26-word lyric, in the boast I got stamina. The word sits beside another lover, in between, and the repeated don't give up, so it names the endurance the singer claims in love. The singer asks for another lover, offers to be the in-between, and refuses to give up three times over. A concrete instance is the pairing of the boast and the refusal: stamina claimed, and no giving up.
 
 ## Synonyms
 
-- give
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Oh, oh, I need another lover, be my in between. I got stamina, don't give up, I won't give up, don't give up, no, no, no." — sources/S_ig_jun_yuh_Ct0ECRio7AY.md
+> "I got stamina, don't give up, I won't give up, don't give up, no, no, no." — sources/S_ig_jun_yuh_Ct0ECRio7AY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "give": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as athletic stamina: the stamina here is claimed in love, beside another lover and don't give up.
+- Read as a promise to never quit anything: the refusals to give up sit inside a love song, not a pledge about all of life.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: jun_yuh
-aka: [thinking, jun_yuh account context]
+aka: [let me go]
 origin: sources/S_ig_jun_yuh_Cu8aL7sInGT.md
 ---
 
-# G_ig_jun_yuh_Cu8aL7sInGT — thinking
+# G_ig_jun_yuh_Cu8aL7sInGT — let me go
 
 ## Term
 
-No content word repeats often enough in this short source (17 words) to form a repeated term, so this entry documents the source's central term "thinking" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Let me go appears once in this 17-word source, the twin of an earlier verse with the same wording. The phrase sits beside save me and what I'm thinking about, so it names the hold the other person keeps while failing to save the speaker. The two lines form a single complaint: no rescue, no release, and a question about the speaker's thoughts. A concrete instance is the whole two-line complaint: couldn't save me, can't let me go, and asking what I'm thinking about.
 
 ## Synonyms
 
-- thinking
-- jun_yuh account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (17 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thinking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as asking to be released from a grip: the line pairs the failed rescue with the refusal to release, so the hold is emotional, not physical.
+- Read as the singer wanting to leave: the singer complains the other person will not let go, which is about the other's grip, not the singer's departure.
