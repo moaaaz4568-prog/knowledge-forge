@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["hundred"]
+aka: ["zero percent taxes"]
 origin: sources/S_ig_daniel.jf1_DY5tV3WDRwH.md
 ---
 
-# G_ig_daniel.jf1_DY5tV3WDRwH — hundred
+# G_ig_daniel.jf1_DY5tV3WDRwH — zero percent taxes
 
 ## Term
 
-'hundred' in this clip is the lever that converts effort into reach — daniel.jf1 insists the value sits in the doing, not the perfecting. It appears 6 times, it sits next to 'thousand', 'five', and 'paycheck' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: If you make one hundred thousand dollars a… Take 'hundred' out and the clip collapses into generalities about seventy — that is what makes it the term here, not just a word.
+Zero percent taxes is Daniel's proposal for the first one hundred thousand dollars: pay zero percent taxes on your first $100,000, because it is cruel and unusual to tax people who make less. The phrase is used once, beside first one hundred thousand, cruel and unusual, and life altering money, and his comparison is the slave's ten percent to the pharaoh against the twenty five thousand of a hundred thousand going to taxes, and the 1776 revolt over a tax on tea and postage stamps. His closing math is the paycheck: give people under a hundred grand an extra five hundred or six hundred dollars each paycheck every two weeks, and that is life altering money.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ origin: sources/S_ig_daniel.jf1_DY5tV3WDRwH.md
 
 ## Live Example
 
-> "The slaves in Egypt were required to pay ten percent of what they made to the pharaoh. If you make one hundred thousand dollars a year, twenty five thousand dollars of that is going to taxes. In seventeen seventy six, we freaked out about a tax on tea and" — sources/S_ig_daniel.jf1_DY5tV3WDRwH.md
-> "anyway is like so little of the total tax revenue. Imagine you give them an extra five hundred or six hundred dollars in their paycheck each paycheck every two weeks. That is life altering money" — sources/S_ig_daniel.jf1_DY5tV3WDRwH.md
+> "I think you should pay zero percent taxes on your first one hundred thousand dollars you make." — sources/S_ig_daniel.jf1_DY5tV3WDRwH.md
 
 ## When the Meaning Breaks
 
-- Read as a marketing jargon word: the clip uses 'hundred' as a working label for the move that actually gets work seen, not as a buzzword.
-- Read as polished prose: this is a verbatim transcript of a 179-word Instagram clip, and the wording around 'hundred' (including the collocation with 'paycheck') is spoken speech, not edited writing.
+- Read as a history of Egyptian slavery: the ten percent is Daniel's comparison point, and the clip never claims it as a measured historical fact.
+- Read as a policy proposal with a budget: the zero percent is his idea for the first hundred thousand, and the clip never prices what the government loses.

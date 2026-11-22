@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
 
 ## Term
 
-Here 'scarcity campaigns' names the distinction daniel.jf1 draws in this clip — the line that separates what works from what only feels like it works. It appears once in the transcript, and it sits next to 'price', 'well', and 'never' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I would run scarcity campaigns that the price… The argument only stays upright while 'scarcity campaigns' is doing the work — pull it and 'having' loses its anchor.
+The scarcity campaigns in this telling are the same price play, with the same numbers in the same order: a seventeen dollars course that a ton of people will buy, no discounts ever, and campaigns where the price was going up. The phrase is used once, beside seventeen dollars, nearly double, and never gonna devalue it, and his sequence is the same — forty five, then seventy five, played with a lot, and the raise had to nearly double for it to really ramp. His lock is the same rule in this telling's words: when I raise it, I can't ever put it back down because I am never gonna devalue it, and doing it would just make twenty k a day.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here 'scarcity campaigns' names the distinction daniel.jf1 draws in this clip �
 
 ## Live Example
 
-> "buy it. What I did, which worked so stupidly well, is I would never run discounts ever. I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went" — sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
+> "I would never run discounts ever. I would run scarcity campaigns that the price was going up." — sources/S_ig_daniel.jf1_DY3Ihv1ghyE.md
 
 ## When the Meaning Breaks
 
-- Read as a generic English word: in this source 'scarcity campaigns' is loaded by daniel.jf1 with a specific working meaning, not the dictionary sense.
-- Read as a claim about how daniel.jf1 uses 'scarcity campaigns' across their work: this single 116-word clip only shows the term's use in this one piece, not its role in the account's wider argument.
+- Read as a claim that a $17 course scales to twenty k a day: the twenty k is Daniel's result from the price play, and the clip never says the course alone produced it.
+- Read as advice to raise prices on everything: his campaigns ran on a course people already bought in volume, and the clip never says a cold offer survives the same raise.

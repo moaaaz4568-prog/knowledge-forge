@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DYDoooPmvEC.md
 
 ## Term
 
-Here, 'desolate poverty' names the specific advantage daniel.jf1 argues is missing in the person's current setup — the lever they have not yet pulled. It appears once in the transcript, and it sits next to 'comparison' and 'literal' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Like I thought I was the, and then… 'desolate poverty' is what the rest of the clip is trying to justify — even 'desolate' reads as evidence for it.
+Desolate poverty is how Daniel describes feeling in rooms with richer people: his business at one hundred k, two hundred and fifty k a month top line made him the least humble, until the comparison made him literal desolate poverty. The phrase is used once, beside least humble, top line, and sound so stupid, and his scene is the room — you get in rooms with other people and, in comparison to them, you are literal desolate poverty, and you sound so stupid when you talk about anything next to them at all. His point is the comparison itself: the same revenue that felt like wealth alone feels like nothing beside richer rooms.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here, 'desolate poverty' names the specific advantage daniel.jf1 argues is missi
 
 ## Live Example
 
-> "was the, and then you get in rooms with other people and you are just in comparison to them, literal desolate poverty, and not even that. It's like you just like sound so stupid when you talk about anything, next to them at all" — sources/S_ig_daniel.jf1_DYDoooPmvEC.md
+> "and then you get in rooms with other people and you are just in comparison to them, literal desolate poverty, and not even that." — sources/S_ig_daniel.jf1_DYDoooPmvEC.md
 
 ## When the Meaning Breaks
 
-- Read as a generic business word: in daniel.jf1's reel, 'desolate poverty' is the specific resource or move daniel.jf1 says compounds effort, not the vague sense of business leverage.
-- Read as a rule for using 'desolate poverty': the clip shows daniel.jf1 using the word in one specific move (alongside 'hundred'), not a recommendation that the reader adopt the word themselves.
+- Read as a claim that $250k a month is poverty: desolate poverty is Daniel's feeling in the comparison, and the clip never says the money itself is small.
+- Read as humility advice: least humble is his own description of that period, and the clip never says confidence itself is wrong.

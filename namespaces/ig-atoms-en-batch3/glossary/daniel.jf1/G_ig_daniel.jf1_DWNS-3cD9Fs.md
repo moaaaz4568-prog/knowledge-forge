@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
 
 ## Term
 
-In daniel.jf1's framing, 'scarcity campaigns' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears once in the transcript, and it sits next to 'price', 'well', and 'never' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I would run scarcity campaigns that the price… Every other word in the source, including 'discounts', is in service to the move 'scarcity campaigns' names.
+Scarcity campaigns are the price-raising play Daniel ran instead of discounts: never run discounts ever, run campaigns where the price was going up. The phrase is used once, beside discounts, price raise, and devalue, and his mechanics are exact — the price raise had to nearly double for it to really ramp, he did it many times, going from forty five to seventy five and playing with it a lot. His rule from it is the lock: when he raises the price he can't ever put it back down, because he is never going to devalue it, and the payoff was twenty k a day.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In daniel.jf1's framing, 'scarcity campaigns' is the working concept the clip is
 
 ## Live Example
 
-> "buy it. What I did, which worked so stupidly well, is I would never run discounts ever. I would run scarcity campaigns that the price was going up. The price raise had to like nearly double for it to really ramp, and I would do this many times. So I went" — sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
+> "I would never run discounts ever. I would run scarcity campaigns that the price was going up." — sources/S_ig_daniel.jf1_DWNS-3cD9Fs.md
 
 ## When the Meaning Breaks
 
-- Read as a slogan: the clip uses 'scarcity campaigns' as a working label for an idea daniel.jf1 is arguing, not as a tagline to be repeated.
-- Read as a definition of 'scarcity campaigns': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'stupidly' — it does not establish what the word means in general.
+- Read as a promise that doubling the price doubles sales: the near-double raise is Daniel's ramp condition, and the clip never says the volume stayed the same.
+- Read as a ban on discounts for everyone: his never run discounts is about his own seventeen dollars course, and the clip never prices anyone else's.

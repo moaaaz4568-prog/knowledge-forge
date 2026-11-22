@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["three thousand"]
+aka: ["LinkedIn ghost writing"]
 origin: sources/S_ig_daniel.jf1_DUJi5VSD3Tr.md
 ---
 
-# G_ig_daniel.jf1_DUJi5VSD3Tr — three thousand
+# G_ig_daniel.jf1_DUJi5VSD3Tr — LinkedIn ghost writing
 
 ## Term
 
-In daniel.jf1's framing, 'three thousand' is the missing mechanic — the thing daniel.jf1 says is failing underneath every other issue the person reports. It appears twice, it sits next to 'outreach', 'messages', and 'let's' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Let's say you charge three thousand dollars a… Pull 'three thousand' and the clip's spine comes loose — 'integrate' would still be there but would not point at anything.
+LinkedIn ghost writing is the service Daniel prices at three thousand dollars a month for thirty posts and ten outreach messages a day. The phrase is used once, beside thirty posts, three thousand dollars, and before AI, and his problem with it is the hiring math — anyone good enough to write a quality post costs at least three thousand a month and can only handle about three clients. His fix is the AI turn: train it on good posts, have it spit out thirty for the client following those frameworks, and the point is that AI replaces hiring somebody to do it.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'three thousand' is the missing mechanic — the thing 
 
 ## Live Example
 
-> "offer was literally like thirty posts per month and ten outreach messages per day. Let's say you charge three thousand dollars a month for this service. What was the problem with this before AI? It was that anyone who would know how to write a LinkedIn post" — sources/S_ig_daniel.jf1_DUJi5VSD3Tr.md
-> "post, anyone who knows and has any ability to make anything of quality at all, would be like at least three thousand dollars per month, and then they would only really be able to handle like three clients. Compare this to instead, like you just have AI" — sources/S_ig_daniel.jf1_DUJi5VSD3Tr.md
+> "Let's say you do LinkedIn ghost writing, and your offer was literally like thirty posts per month and ten outreach messages per day." — sources/S_ig_daniel.jf1_DUJi5VSD3Tr.md
 
 ## When the Meaning Breaks
 
-- Read as a gym jargon word: the source uses 'three thousand' to name the one mechanic that, if missed, makes the rest of the rep useless.
-- Read as evidence daniel.jf1 always uses 'three thousand' this way: one 166-word clip is too thin a sample to support any claim about how the account uses the word in general.
+- Read as a price list for ghost writing: the three thousand dollars is Daniel's example offer, and the clip never says every ghost writer charges it.
+- Read as a claim that AI writes as well as a human: his point is that AI can replace the hire for this service, and the clip never tests the AI output's quality.

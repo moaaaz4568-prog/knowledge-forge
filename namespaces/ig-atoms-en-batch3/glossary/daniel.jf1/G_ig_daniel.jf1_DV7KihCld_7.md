@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["tiktok shop"]
+aka: ["TikTok Shop affiliate marketing", "TikTok Shop"]
 origin: sources/S_ig_daniel.jf1_DV7KihCld_7.md
 ---
 
-# G_ig_daniel.jf1_DV7KihCld_7 — tiktok shop
+# G_ig_daniel.jf1_DV7KihCld_7 — TikTok Shop affiliate marketing
 
 ## Term
 
-Here, 'tiktok shop' is the felt consequence daniel.jf1 says the person has been talking around — the thing that must be touched before any plan is useful. It appears twice, it sits next to 'affiliate', 'marketing', and 'commission' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: TikTok Shop affiliate marketing… The clip is engineered so that 'therefore' lands as setup, not payoff; the payoff is the move 'tiktok shop' names.
+TikTok Shop affiliate marketing is the model Daniel puts in A tier: get products for people from an ecom brand, make videos for them, post on TikTok, and take an affiliate commission when people buy through the TikTok Shop. The phrase is used once, beside legitimate model, affiliate commission, and remote closing, and his verdict is plain — this is a legitimate model, this does in fact work, and he knows people who sell it. His tiering is the point: it sits on the same tier as remote closing, and you can learn to do it.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- TikTok Shop (the short form Daniel uses when he says people buy through the TikTok Shop)
 
 ## Live Example
 
-> "TikTok Shop affiliate marketing. This is when you get products for people. Like you can go to like an ecom brand and then you make products for them and" — sources/S_ig_daniel.jf1_DV7KihCld_7.md
-> "videos on TikTok and you get an affiliate commission when people buy it from your video through the TikTok Shop. This is a legitimate model. This does in fact work. I know some people who sell this. You can learn to do this and therefore I'm gonna throw" — sources/S_ig_daniel.jf1_DV7KihCld_7.md
+> "TikTok Shop affiliate marketing. This is when you get products for people. Like you can go to like an ecom brand and then you make products for them and then you post videos on TikTok and you get an affiliate commission when people buy it from your video through the TikTok Shop." — sources/S_ig_daniel.jf1_DV7KihCld_7.md
 
 ## When the Meaning Breaks
 
-- Read as a trading-technique term: in this source 'tiktok shop' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
-- Read as a definition of 'tiktok shop': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'model' — it does not establish what the word means in general.
+- Read as a guarantee that TikTok Shop pays: Daniel says the model works and he knows sellers, and the clip never quotes what any of them earns.
+- Read as a ranking of all business models: the A tier is his placement of this model beside remote closing, and the clip never ranks anything else.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["sales floor"]
+aka: ["selling of the service"]
 origin: sources/S_ig_daniel.jf1_DV95lfDD16i.md
 ---
 
-# G_ig_daniel.jf1_DV95lfDD16i — sales floor
+# G_ig_daniel.jf1_DV95lfDD16i — selling of the service
 
 ## Term
 
-For daniel.jf1, 'sales floor' is the moment in the sale daniel.jf1 says a person cannot skip and still expect the deal to close. It appears twice, it sits next to 'hollywood', 'depiction', and 'everyone's' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: This is why you see things like, where… Even the move around 'selling' only registers as a move because 'sales floor' is the thing being moved toward.
+Selling of the service is what Daniel says all the work of a business actually is: getting the customers and selling the thing, not servicing it. The phrase is used once, beside hardest thing, servicing, and sales floor, and his picture is the Hollywood sales floor, where everyone is going crazy and getting paid tons of money. His question is why the salespeople make all the money, and his answer is the difficulty — actually making the sale is the hardest thing to do, and people fundamentally don't get that.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'sales floor' is the moment in the sale daniel.jf1 says a person
 
 ## Live Example
 
-> "thing. This is why you see things like, where it's like you have a typical Hollywood depiction of the sales floor, and like the sales floor, everyone's like going crazy and they're all getting paid tons of money. Why is that? Why are all the salespeople" — sources/S_ig_daniel.jf1_DV95lfDD16i.md
-> "things like, where it's like you have a typical Hollywood depiction of the sales floor, and like the sales floor, everyone's like going crazy and they're all getting paid tons of money. Why is that? Why are all the salespeople making all the money? Because" — sources/S_ig_daniel.jf1_DV95lfDD16i.md
+> "Because it's the hardest thing to do, to actually make the sale. This is what people like fundamentally don't get, is like they think it's the servicing of the service. It's not. It is the selling of the service." — sources/S_ig_daniel.jf1_DV95lfDD16i.md
 
 ## When the Meaning Breaks
 
-- Read as a synonym for any closing tactic: the source uses 'sales floor' to mark a specific conversational lever, not the whole category of closing moves.
-- Read as evidence the term is central to the account: one 110-word clip showing 'sales floor' next to 'planet' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.
+- Read as a claim that servicing is worthless: Daniel says people mistake servicing for the work, and the clip never says the service itself should be bad.
+- Read as a fact about every company's payroll: the Hollywood sales floor is his image, and the clip never quotes a real company's pay.

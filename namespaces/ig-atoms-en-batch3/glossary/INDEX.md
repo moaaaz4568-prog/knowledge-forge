@@ -1605,54 +1605,54 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/daniel.jf1/G_ig_daniel.jf1_DU8E95rGFfv.md | AI text generation | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUCCUSKD5a9.md | VSL | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUEZRn9jx0v.md | availability variance | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUG-EbUjXhX.md | dude comments | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUJi5VSD3Tr.md | three thousand | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUMVZ9Tjq3s.md | astronomically higher | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUOnWDwDBhr.md | intertwined together | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUzR9RQibxJ.md | digitally rendered | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV16IGIk544.md | completely wrong | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV4l3MZCX2V.md | selling | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV7KihCld_7.md | tiktok shop | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DV95lfDD16i.md | sales floor | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVE4Eo8jZpP.md | guarantee | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVHjxm8jZeC.md | because | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVKPXwGkw_G.md | legitimately hundreds | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVM0KnTmNQ-.md | clients | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVPSFgZDyW5.md | severely higher | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DVSLismCObL.md | million | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DW49mVTiuN9.md | copywriting | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DW80z4lDLmB.md | buy | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWAebazCpiO.md | button infinitely | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWC8TQOjNNY.md | scarcity mindset | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWFhISWgBXY.md | because | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWIMxhiDSvX.md | goes | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWKquTygjtL.md | club | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUG-EbUjXhX.md | doesn't scale | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUJi5VSD3Tr.md | LinkedIn ghost writing | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUMVZ9Tjq3s.md | 99 to 1 | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUOnWDwDBhr.md | cascading amounts | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUzR9RQibxJ.md | done for you digitally rendered service | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV16IGIk544.md | minimum amount | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV4l3MZCX2V.md | deliverable based | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV7KihCld_7.md | TikTok Shop affiliate marketing | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DV95lfDD16i.md | selling of the service | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVE4Eo8jZpP.md | guarantee | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVHjxm8jZeC.md | sifting mechanism | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVKPXwGkw_G.md | on the phone | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVM0KnTmNQ-.md | 90% of your clients | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVPSFgZDyW5.md | invent something | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DVSLismCObL.md | coaching and consulting | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DW49mVTiuN9.md | copywriting | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DW80z4lDLmB.md | free lead magnet | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWAebazCpiO.md | multiply one into five | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWC8TQOjNNY.md | scarcity mindset | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWFhISWgBXY.md | employee mindset | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWIMxhiDSvX.md | single family house | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWKquTygjtL.md | secret club | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DWNS-3cD9Fs.md | scarcity campaigns | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWSjatBD2NG.md | return | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWVIPFugEox.md | government assistance | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWXnxM7AoaR.md | better outputs | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWaR3UJAUJ-.md | case studies | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DWcbJqqAgQh.md | easier | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXHH-Kqj6JT.md | private group | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXIhQOIjuoT.md | show | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXK_OkyDI8g.md | clients | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXNj7bADZ1x.md | negative perspective | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXQIurgiesX.md | fifty thousand | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXSmrlcDaD7.md | million | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXVLhIyDdZa.md | location freedom | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXX3MSvjROx.md | continuously split | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXaVHXVFR40.md | intelligent person | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXennTdq2vP.md | completely wrong | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXfejFzq7n3.md | clients' businesses | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXkoSuMEXo-.md | temporarily without | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXnM8nIq1ww.md | astronomically higher | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DXpxyWlKt2Q.md | buy | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY-269lqw0K.md | nothing home | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY0jtqtqNDZ.md | gerald steiners | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWSjatBD2NG.md | direct ROI | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWVIPFugEox.md | government assistance | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWXnxM7AoaR.md | bully it | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWaR3UJAUJ-.md | performance deal | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DWcbJqqAgQh.md | one case study | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXHH-Kqj6JT.md | prove competence | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXIhQOIjuoT.md | done for you service | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXK_OkyDI8g.md | economics | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXNj7bADZ1x.md | cold outreach | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXQIurgiesX.md | fifty thousand dollar client | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXSmrlcDaD7.md | small loan of a million dollars | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXVLhIyDdZa.md | quiet quitting | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXX3MSvjROx.md | your headline is your offer | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXaVHXVFR40.md | AI automation agency | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXennTdq2vP.md | minimum amount | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXfejFzq7n3.md | hard mode | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXkoSuMEXo-.md | mindset of scarcity | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXnM8nIq1ww.md | ninety nine to one | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DXpxyWlKt2Q.md | free lead magnet | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY-269lqw0K.md | take home no profit | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY0jtqtqNDZ.md | a buyer is a buyer | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DY3Ihv1ghyE.md | scarcity campaigns | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY5tV3WDRwH.md | hundred | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DY8SEpMKOBI.md | traffic | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DYCPeDBCiRl.md | parasocial relationship | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY5tV3WDRwH.md | zero percent taxes | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DY8SEpMKOBI.md | cold traffic offers | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DYCPeDBCiRl.md | parasocial relationship | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYDoooPmvEC.md | desolate poverty | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYGNeHAj9LS.md | fun | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DYIyLjcKFOx.md | results | 2 |

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["intertwined together"]
+aka: ["cascading amounts"]
 origin: sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
 ---
 
-# G_ig_daniel.jf1_DUOnWDwDBhr — intertwined together
+# G_ig_daniel.jf1_DUOnWDwDBhr — cascading amounts
 
 ## Term
 
-In daniel.jf1's framing, 'intertwined together' is the part of the conversation daniel.jf1 treats as load-bearing — the move the rest of the close is built to set up. It appears once in the transcript, and it sits next to 'therefore', 'sales', and 'cascades' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: It's all intertwined together and everything cascades into… 'intertwined together' is what the rest of the clip is trying to justify — even 'amounts' reads as evidence for it.
+Cascading amounts is Daniel's law that everything in life compounds in one direction or the other: more availability brings more offers, which brings more sales, and everything is intertwined together. The phrase is used once, beside availability, offers, and sales, and his saying for it is that those who have nothing have everything taken from them, while those who have everything are given more. His two cycles close the clip: a death cycle or a life cycle, getting better and better and better, or worse and worse and worse, progressively faster and in higher quantities.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In daniel.jf1's framing, 'intertwined together' is the part of the conversation 
 
 ## Live Example
 
-> "more availability you have, the more offers you have, and therefore the more sales you make. It's all intertwined together and everything cascades into one another. It's that same saying where it's like, those who have nothing, everything will be taken" — sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
+> "Everything in life works in cascading amounts. So like for instance, the more availability you have, the more offers you have, and therefore the more sales you make." — sources/S_ig_daniel.jf1_DUOnWDwDBhr.md
 
 ## When the Meaning Breaks
 
-- Read as a one-size-fits-all sales tip: the source pins 'intertwined together' to a specific move daniel.jf1 says is missing here, not a universal recommendation.
-- Read as proof the term is load-bearing for daniel.jf1 in general: a 126-word clip with the word 'intertwined together' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.
+- Read as a promise that having more guarantees more: the cascade runs both ways in the clip, and the death cycle is the same mechanism in reverse.
+- Read as a proverb about wealth: Daniel applies the cascade to availability, offers, and sales, and the clip never turns it into a rule about money alone.

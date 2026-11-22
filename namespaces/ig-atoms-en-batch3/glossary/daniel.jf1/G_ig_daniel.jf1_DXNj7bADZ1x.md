@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["negative perspective"]
+aka: ["cold outreach"]
 origin: sources/S_ig_daniel.jf1_DXNj7bADZ1x.md
 ---
 
-# G_ig_daniel.jf1_DXNj7bADZ1x — negative perspective
+# G_ig_daniel.jf1_DXNj7bADZ1x — cold outreach
 
 ## Term
 
-In the daniel.jf1 reel, 'negative perspective' is the concept daniel.jf1 keeps returning to as the thing that decides whether the rest of the advice lands. It appears once in the transcript, and it sits next to 'cold' and 'outreach' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I think people have a negative perspective on… Even the move around 'negative' only registers as a move because 'negative perspective' is the thing being moved toward.
+Cold outreach is the work Daniel says people refuse because they don't want to be seen and don't want to be rejected that fast, that often. The phrase is used once, beside negative perspective, profound issue, and stop being a, and his answer to the fear is the stakes — if you're concerned with how random people see you, this will be a profound issue when you're literally accomplishing anything in your life at all. His rule is the risk: you run a risk to achieve anything, people will be annoyed at you when you do outreach, and the answer is to stop being a — cut off mid-sentence in the clip.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In the daniel.jf1 reel, 'negative perspective' is the concept daniel.jf1 keeps r
 
 ## Live Example
 
-> "I think people have a negative perspective on cold outreach. Yes, they do. They don't want to do it because they don't want to be seen and they don't want to be rejected that" — sources/S_ig_daniel.jf1_DXNj7bADZ1x.md
+> "I think people have a negative perspective on cold outreach." — sources/S_ig_daniel.jf1_DXNj7bADZ1x.md
 
 ## When the Meaning Breaks
 
-- Read as the term in another sense: 'negative perspective' here is pinned to one specific claim in this clip, and the same word in another source from daniel.jf1 may carry a different load.
-- Read as a tagline worth extracting: the source shows daniel.jf1 using 'negative perspective' as a working label in one specific argument (visible in the collocation with 'because'), not as a slogan the reader is meant to repeat.
+- Read as a claim that rejection proves nothing: Daniel says the fear of being seen is the issue, and the clip never says the rejection itself is harmless.
+- Read as advice to ignore everyone: his answer is to do the outreach anyway, and the clip never says the annoyance doesn't matter.

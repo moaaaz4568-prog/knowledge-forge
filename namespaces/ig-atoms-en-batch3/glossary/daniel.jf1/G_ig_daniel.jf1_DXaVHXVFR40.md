@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["intelligent person"]
+aka: ["AI automation agency"]
 origin: sources/S_ig_daniel.jf1_DXaVHXVFR40.md
 ---
 
-# G_ig_daniel.jf1_DXaVHXVFR40 — intelligent person
+# G_ig_daniel.jf1_DXaVHXVFR40 — AI automation agency
 
 ## Term
 
-In daniel.jf1's framing, 'intelligent person' is the missing mechanic — the thing daniel.jf1 says is failing underneath every other issue the person reports. It appears twice, it sits next to 'technical', 'dickhead', and 'assume' — the repetition is what makes it the spine of the clip rather than a passing word. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: People do pay for this, but it's not… The clip's claim about 'beginners' is conditional on 'intelligent person' doing the work — without it, the claim is just mood.
+Daniel opens by asking what an AI automation agency is, and his answer splits the audience in two: it is a legitimate business that people do pay for, but not a business for beginners or for people who are not technical and not intelligent. The phrase is used once, beside dickhead, online IQ test, and 130 plus IQ, and his honesty test is the number — go take an online IQ test, and if your IQ is below 120, don't run this business, but if it is above 120, this is an A tier business model. His final placement assumes the viewer passes: I'm gonna assume you're an intelligent person watching this video, so I'm gonna put it in A tier.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'intelligent person' is the missing mechanic — the th
 
 ## Live Example
 
-> "a business for beginners or for people who are like, you're not a technical person and you're not an intelligent person. I don't want to be like a dickhead, but some of you guys got to understand that a lot of you are retarded. You just are. And some of" — sources/S_ig_daniel.jf1_DXaVHXVFR40.md
-> "above 120, this is an A tier business model. If it's below 120, it's a D. But I'm gonna assume you're an intelligent person watching this video, so I'm gonna put it in A tier" — sources/S_ig_daniel.jf1_DXaVHXVFR40.md
+> "AI automation agency, what is this? This is a legitimate business." — sources/S_ig_daniel.jf1_DXaVHXVFR40.md
 
 ## When the Meaning Breaks
 
-- Read as a coaching cliché: 'intelligent person' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
-- Read as polished prose: this is a verbatim transcript of a 171-word Instagram clip, and the wording around 'intelligent person' (including the collocation with 'dickhead') is spoken speech, not edited writing.
+- Read as an insult aimed at the viewer: Daniel's retarded line is aimed at people who should recognize they are not suited, and the clip never says the viewer is one of them.
+- Read as a claim that IQ decides business success: the 120 line is Daniel's gate for this one model, and the clip never applies it to other businesses.

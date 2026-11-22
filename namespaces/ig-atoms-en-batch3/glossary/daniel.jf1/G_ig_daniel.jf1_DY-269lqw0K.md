@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["nothing home"]
+aka: ["take home no profit"]
 origin: sources/S_ig_daniel.jf1_DY-269lqw0K.md
 ---
 
-# G_ig_daniel.jf1_DY-269lqw0K — nothing home
+# G_ig_daniel.jf1_DY-269lqw0K — take home no profit
 
 ## Term
 
-For daniel.jf1, 'nothing home' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears twice, it sits next to 'economics', 'flow', and 'terrible' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: A lot of dudes bragging about how much… The sentence around 'hilarious' only carries weight because 'nothing home' is what the sentence is really about.
+Take home no profit is the punchline Daniel draws from ad spenders who brag: they spend a lot on ads, take like nothing home — literally nothing home at all — and their cash flow is terrible. The phrase is used once, beside bragging, economics, and completely hilarious, and his scene is the look behind the brag — you actually look at the economics of it, and they take home no profit. His verdict is the game itself: that's just not a game I've ever wanted to play.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'nothing home' is the idea the clip is engineered to deliver —
 
 ## Live Example
 
-> "money they spend on ads, and then it's like you actually look at the economics of it, and they take like nothing home—literally nothing home at all. Their cash flow is terrible, and they take home no profit. It's just like completely hilarious. Where it's" — sources/S_ig_daniel.jf1_DY-269lqw0K.md
-> "and then it's like you actually look at the economics of it, and they take like nothing home—literally nothing home at all. Their cash flow is terrible, and they take home no profit. It's just like completely hilarious. Where it's like, that's just not a" — sources/S_ig_daniel.jf1_DY-269lqw0K.md
+> "and they take like nothing home—literally nothing home at all. Their cash flow is terrible, and they take home no profit." — sources/S_ig_daniel.jf1_DY-269lqw0K.md
 
 ## When the Meaning Breaks
 
-- Read as a buzzword: in daniel.jf1's usage, 'nothing home' is loaded with a specific working meaning (visible in the collocation with 'terrible'), not the dictionary sense.
-- Read as a claim about how daniel.jf1 uses 'nothing home' across their work: this single 64-word clip only shows the term's use in this one piece, not its role in the account's wider argument.
+- Read as a claim that ad spenders never profit: Daniel's example is the bragging dudes he describes, and the clip never audits any real account.
+- Read as a ban on ad spend: his point is the economics behind the brag, and the clip never says ads can't work.

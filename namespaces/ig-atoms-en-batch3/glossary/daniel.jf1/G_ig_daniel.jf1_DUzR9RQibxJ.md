@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["digitally rendered"]
+aka: ["done for you digitally rendered service"]
 origin: sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
 ---
 
-# G_ig_daniel.jf1_DUzR9RQibxJ — digitally rendered
+# G_ig_daniel.jf1_DUzR9RQibxJ — done for you digitally rendered service
 
 ## Term
 
-In the daniel.jf1 clip, 'digitally rendered' is the lever daniel.jf1 says separates people who make progress from people who stay put. It appears twice, it sits next to 'done', 'scalable', and 'sell' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: What you need to sell is a done… The clip's relationship to 'social' only makes sense as a vehicle for delivering 'digitally rendered'.
+Done for you digitally rendered service is the product Daniel tells a beginner with zero skill to sell: done for you, delivered digitally, needing no physical presence. The phrase appears twice, beside scalable business, combinations, and exact perfect combination, and his case is the combination itself — no high level of authority or social proof required, and you can charge a lot of money. His instruction is to imagine the combinations of what he just said, because that exact perfect combination of things is what the beginner specifically wants.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In the daniel.jf1 clip, 'digitally rendered' is the lever daniel.jf1 says separa
 
 ## Live Example
 
-> "capacity, you're just some guy, you just want a scalable business. What you need to sell is a done for you digitally rendered service. You have to imagine the combinations of what I just said here. A done for you digitally rendered service does not require your" — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
-> "digitally rendered service. You have to imagine the combinations of what I just said here. A done for you digitally rendered service does not require your physical presence. It does not require you to have a high level of authority or social proof, and you" — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
+> "What you need to sell is a done for you digitally rendered service. You have to imagine the combinations of what I just said here." — sources/S_ig_daniel.jf1_DUzR9RQibxJ.md
 
 ## When the Meaning Breaks
 
-- Read as a one-size-fits-all tactic: the source uses 'digitally rendered' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
-- Read as proof the term is load-bearing for daniel.jf1 in general: a 105-word clip with the word 'digitally rendered' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.
+- Read as a business anyone can start with no skill: the clip says the model needs no authority or presence, and it never says the delivery itself takes no work.
+- Read as a promise of high prices: you can charge a lot of money is Daniel's claim for this combination, and the clip never names the price.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["better outputs"]
+aka: ["bully it"]
 origin: sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
 ---
 
-# G_ig_daniel.jf1_DWXnxM7AoaR — better outputs
+# G_ig_daniel.jf1_DWXnxM7AoaR — bully it
 
 ## Term
 
-For daniel.jf1, 'better outputs' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'claude', 'tends', and 'reason' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: This is really interesting, but if you're like… What makes the word 'better outputs' the term here is that the rest — 'Claude', 'outputs', everything else — is staged for it.
+Bully it is Daniel's instruction for getting better outputs from Claude: be a cad to it, tell it to stop speaking like a weirdo, and it will adjust. The phrase is used once, beside cad, weirdo, and adjust, and his observation is the weird one — being like a cad to Claude tends to give better outputs for some reason, and he says he doesn't know why. His method is the correction itself: tell it to stop speaking like a weirdo, and then it will adjust and not do that.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ For daniel.jf1, 'better outputs' is the idea the clip is engineered to deliver �
 
 ## Live Example
 
-> "This is really interesting, but if you're like a cad to Claude, it tends to give you better outputs for some reason. I don't know why, but it's really weird. You need to bully it and actually tell it to stop speaking like a weirdo. You" — sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
+> "You need to bully it and actually tell it to stop speaking like a weirdo." — sources/S_ig_daniel.jf1_DWXnxM7AoaR.md
 
 ## When the Meaning Breaks
 
-- Read as a buzzword: in daniel.jf1's usage, 'better outputs' is loaded with a specific working meaning (visible in the collocation with 'interesting'), not the dictionary sense.
-- Read as polished prose: this is a verbatim transcript of a 59-word Instagram clip, and the wording around 'better outputs' (including the collocation with 'interesting') is spoken speech, not edited writing.
+- Read as a tested prompting method: Daniel says he doesn't know why it works, and the clip gives one example, not a study.
+- Read as advice to abuse AI tools: the bullying is his word for blunt instructions, and the clip never says rudeness itself improves the model.

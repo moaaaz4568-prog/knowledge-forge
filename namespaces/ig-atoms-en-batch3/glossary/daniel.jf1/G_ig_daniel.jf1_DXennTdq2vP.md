@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["completely wrong"]
+aka: ["minimum amount"]
 origin: sources/S_ig_daniel.jf1_DXennTdq2vP.md
 ---
 
-# G_ig_daniel.jf1_DXennTdq2vP — completely wrong
+# G_ig_daniel.jf1_DXennTdq2vP — minimum amount
 
 ## Term
 
-Here 'completely wrong' names the posture a person takes toward the work — daniel.jf1 treats it as the foundation, not a tip. It appears once in the transcript, and it sits next to 'agree', 'minimum', and 'amount' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: I think that's completely wrong… Without 'completely wrong', the reel is just a clip about Hermosey; with it, the clip is a claim.
+The minimum amount is the same work rule in this telling, with the numbers spelled out: work the minimum necessary to achieve the maximum amount of success you can tolerate, and don't work all the time. The phrase is used once, beside completely wrong, Hermosey hustle, and twenty hours a week, and his disagreement is the same — the idea that you should just work all the time is completely wrong. His picture is the same deal in words: start your own business, make twenty, thirty, forty, fifty grand a month profit, and work twenty hours a week, because you can just do that.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here 'completely wrong' names the posture a person takes toward the work — dan
 
 ## Live Example
 
-> "The idea that you should just work all the time, I just don't agree with that. I think that's completely wrong. I think you should work the minimum amount that is necessary to achieve the maximum amount of success you can tolerate. If I need to" — sources/S_ig_daniel.jf1_DXennTdq2vP.md
+> "I think you should work the minimum amount that is necessary to achieve the maximum amount of success you can tolerate." — sources/S_ig_daniel.jf1_DXennTdq2vP.md
 
 ## When the Meaning Breaks
 
-- Read as an emotion word: in this clip 'completely wrong' is a stance daniel.jf1 says a person must adopt before action, not a feeling they happen to have.
-- Read as a definition of 'completely wrong': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'sorry' — it does not establish what the word means in general.
+- Read as a promise of fifty grand for twenty hours: the figures are Daniel's example of the minimum-amount life, and the clip never shows the steps between the two.
+- Read as contempt for hustle: he says he respects the Hermosey hustle and is just not obsessed with money, so the rule is about enough, not about refusing work.

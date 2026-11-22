@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["show"]
+aka: ["done for you service"]
 origin: sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 ---
 
-# G_ig_daniel.jf1_DXIhQOIjuoT — show
+# G_ig_daniel.jf1_DXIhQOIjuoT — done for you service
 
 ## Term
 
-'show' in this clip is the lever that converts effort into reach — daniel.jf1 insists the value sits in the doing, not the perfecting. It appears 3 times, it sits next to 'leads', 'whole', and 'system' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: I'll show you what I'm doing… Anything else in the clip orbits this word — strip out 'show' and the rest reads as filler around 'probably'.
+Done for you service is the offer Daniel says to sell in the form the buyer wants: if someone gets on the call with you, they want to buy something, so sell people the thing in the form that they want it. The phrase is used once, beside cold email lead gen agency, setup cost, and $300 a call, and his problem is the form — a setup cost plus $300 a call doesn't make sense for the client's business, and they will say so. His alternative is the system offer: set up the whole system, show what he's doing, show how to do it, get the leads, show how to scrape them, write the first scripts, set up the tech and the reply handling.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ origin: sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 
 ## Live Example
 
-> "sense for them. What you could say instead is, well, what if I set up the whole system for you? I'll show you what I'm doing. I'll show you how to do it. And I'll get the leads for you. I'll show you how to scrape the leads. I'll write your first couple" — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
-> "you? I'll show you what I'm doing. I'll show you how to do it. And I'll get the leads for you. I'll show you how to scrape the leads. I'll write your first couple of scripts, how to set up the tech and how to do the reply handling and all that. And they" — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
+> "If you're getting on a bunch of calls and you're selling some done for you service, you're a cold email lead gen agency." — sources/S_ig_daniel.jf1_DXIhQOIjuoT.md
 
 ## When the Meaning Breaks
 
-- Read as a vague content verb: in daniel.jf1's usage here, 'show' is pinned to the moment of shipping, not the whole content pipeline.
-- Read as evidence daniel.jf1 always uses 'show' this way: one 184-word clip is too thin a sample to support any claim about how the account uses the word in general.
+- Read as a claim that done-for-you always sells: Daniel says to sell it in the form they want, and the clip never says every buyer wants the same form.
+- Read as a fixed price: the $300 a call is the example that doesn't make sense, and the clip never prices the system offer.

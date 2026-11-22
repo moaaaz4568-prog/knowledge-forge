@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["private group"]
+aka: ["prove competence"]
 origin: sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
 ---
 
-# G_ig_daniel.jf1_DXHH-Kqj6JT — private group
+# G_ig_daniel.jf1_DXHH-Kqj6JT — prove competence
 
 ## Term
 
-In daniel.jf1's framing, 'private group' is the act of putting the work in front of people — distinct from creating it, and the thing the source actually rewards. It appears twice, it sits next to 'cool', 'join', and 'messaged' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: He goes, hey, we want to invite you… Read alongside 'scrape', the word 'private group' is what the clip is asking the viewer to take seriously.
+Prove competence is Daniel's Twitter method: start an account from zero and prove competence to a group of people. The phrase is used once, beside Twitter Masterclass, zero, and private group, and his thread is the demonstration — reply to this tweet with a niche and I will tell you how to scrape their email addresses, 500 comments, a video for each niche, working the thread all day while big accounts comment too. His payoff is the invitation: one of the guys messaged him to join a private group, and that was it.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'private group' is the act of putting the work in front
 
 ## Live Example
 
-> "happened is very interesting. One of the guys messaged me. He goes, hey, we want to invite you to this private group. I was like, cool, join the private group now, man. That was it" — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
-> "guys messaged me. He goes, hey, we want to invite you to this private group. I was like, cool, join the private group now, man. That was it" — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
+> "Basically, you have to prove competence to a group of people." — sources/S_ig_daniel.jf1_DXHH-Kqj6JT.md
 
 ## When the Meaning Breaks
 
-- Read as a generic productivity word: in this source 'private group' specifically means the act of putting finished work in front of an audience, not the broader sense of distributing anything.
-- Read as a clean transcript: the wording around 'private group' (including the run-on near 'popped') is spoken speech, with the run-ons and fillers that come with that — not edited prose.
+- Read as a guarantee that threads grow accounts: the 500 comments are Daniel's one thread, and the clip never says every thread pops off.
+- Read as a scraping tutorial: the email scraping is the bait for the thread, and the clip never shows the software or the method.

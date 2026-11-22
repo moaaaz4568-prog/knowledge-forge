@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["easier"]
+aka: ["one case study"]
 origin: sources/S_ig_daniel.jf1_DWcbJqqAgQh.md
 ---
 
-# G_ig_daniel.jf1_DWcbJqqAgQh — easier
+# G_ig_daniel.jf1_DWcbJqqAgQh — one case study
 
 ## Term
 
-Here 'easier' names the conversational lever daniel.jf1 treats as the thing that turns a maybe into a yes. It appears 6 times, it sits next to 'gets', 'constant', and 'process' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The jump from zero proof to one case… 'easier' is what the rest of the clip is trying to justify — even 'testimonial' reads as evidence for it.
+One case study is the hardest jump in Daniel's business: the jump from zero proof to one case study, because you have no proof, and every jump after that gets easier. The phrase is used once, beside hardest jump, testimonial, and close rate, and his flywheel is the sequence — sign a client, get a testimonial and a case study, sign the second client much easier, charge more because you face fewer objections, get even more proof, and your close rate goes even higher. His warning is the shortcut nobody gets: stop being a little pussy about doing this in the beginning, because trying to skip that step screws you, and you don't get to skip that.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Here 'easier' names the conversational lever daniel.jf1 treats as the thing that
 
 ## Live Example
 
-> "is the hardest jump in your entire business because you have no proof, but every jump after that gets easier. When you sign a client, you get your first client, you get a testimonial and a case study, which means signing your second client is much easier" — sources/S_ig_daniel.jf1_DWcbJqqAgQh.md
-> "and you can charge even more. It's just this constant process of it gets easier, easier and easier and easier. So stop being a little pussy about doing this in the beginning because you're just gonna screw yourself by trying to skip over that step. Like" — sources/S_ig_daniel.jf1_DWcbJqqAgQh.md
+> "The jump from zero proof to one case study is the hardest jump in your entire business because you have no proof, but every jump after that gets easier." — sources/S_ig_daniel.jf1_DWcbJqqAgQh.md
 
 ## When the Meaning Breaks
 
-- Read as a sales jargon word: 'easier' here is loaded with a specific working meaning by daniel.jf1, not a buzzword.
-- Read as polished prose: this is a verbatim transcript of a 147-word Instagram clip, and the wording around 'easier' (including the collocation with 'hardest') is spoken speech, not edited writing.
+- Read as a claim that one case study guarantees clients: the jump gets easier after the first proof, and the clip never says the second client signs itself.
+- Read as permission to fake proof: Daniel's proof is a real testimonial and case study from a real client, and the clip never suggests inventing one.

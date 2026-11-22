@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["traffic"]
+aka: ["cold traffic offers"]
 origin: sources/S_ig_daniel.jf1_DY8SEpMKOBI.md
 ---
 
-# G_ig_daniel.jf1_DY8SEpMKOBI — traffic
+# G_ig_daniel.jf1_DY8SEpMKOBI — cold traffic offers
 
 ## Term
 
-Here 'traffic' is the cue daniel.jf1 says a person must feel before the rep becomes useful. It appears 5 times, it sits next to 'cold', 'offers', and 'alex' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: All of you may not be aware that… Cut 'traffic' and the clip's aboutness shifts from a claim to a description of convey and because.
+Cold traffic offers is the test Daniel runs on Alex Hermosi: he sells exactly zero of them, and still runs one of the largest media empires in B to B. The phrase appears twice, beside zero, workshop in Vegas, and brand maxing, and his inventory is the list — an in-person workshop in Vegas, upsells like L one, L two, L three, a coaching thing, and a thousand dollars a month school group. His lesson is the alternative: you don't need a cold traffic offer to run a successful business, but without one you need to be brand maxing the out of yourself at all times.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Here 'traffic' is the cue daniel.jf1 says a person must feel before the rep beco
 
 ## Live Example
 
-> "video right now know Alex Hermosi. All of you may not be aware that Alex Hermosi sells exactly zero cold traffic offers at the time of this filming. What does Alex sell? He sells an in person workshop in Vegas and then he has his upsells like L one, L two" — sources/S_ig_daniel.jf1_DY8SEpMKOBI.md
-> "s able to brand max so hard and build such a profusely massive warm audience of people to sell warm traffic offers to" — sources/S_ig_daniel.jf1_DY8SEpMKOBI.md
+> "All of you may not be aware that Alex Hermosi sells exactly zero cold traffic offers at the time of this filming." — sources/S_ig_daniel.jf1_DY8SEpMKOBI.md
 
 ## When the Meaning Breaks
 
-- Read as a gym jargon word: the source uses 'traffic' to name the one mechanic that, if missed, makes the rest of the rep useless.
-- Read as proof the term is load-bearing for daniel.jf1 in general: a 278-word clip with the word 'traffic' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.
+- Read as a claim that cold traffic offers never work: Hermosi's zero is Daniel's example, and the clip never says no business needs one.
+- Read as a biography of Hermosi: the workshop and upsells are Daniel's list at the time of filming, and the clip never claims the list is complete.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["legitimately hundreds"]
+aka: ["on the phone"]
 origin: sources/S_ig_daniel.jf1_DVKPXwGkw_G.md
 ---
 
-# G_ig_daniel.jf1_DVKPXwGkw_G — legitimately hundreds
+# G_ig_daniel.jf1_DVKPXwGkw_G — on the phone
 
 ## Term
 
-Read here, 'legitimately hundreds' is the body cue daniel.jf1 says the person must learn to feel before any external cue can help. It appears once in the transcript, and it sits next to 'already', 'phone', and 'likely' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: The probability you get money from somebody when… Strip the clip down to its claim and you are left with 'legitimately hundreds'; 'emails' and 'probably' are how the claim is delivered.
+On the phone is the hard step Daniel prices against the easy one: getting a prospect on the phone is more difficult than getting money from them once they are there. The phrase appears twice, beside prospect, cold emails, and probability, and his numbers make the gap — send thousands of cold emails and book only a couple of calls, but on the call you will probably collect from one out of five or two out of five. His multiplier closes it: the probability of getting money from somebody already on the phone is legitimately hundreds of times more likely than getting them to book a call at all.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Read here, 'legitimately hundreds' is the body cue daniel.jf1 says the person mu
 
 ## Live Example
 
-> "out of five of them. The probability you get money from somebody when they're already on the phone is legitimately hundreds of times more likely than it is that you even get them to book a call at all" — sources/S_ig_daniel.jf1_DVKPXwGkw_G.md
+> "It is more difficult to get a prospect on the phone than it is to get them to give you money when they're on their phone." — sources/S_ig_daniel.jf1_DVKPXwGkw_G.md
 
 ## When the Meaning Breaks
 
-- Read as a gym jargon word: the source uses 'legitimately hundreds' to name the one mechanic that, if missed, makes the rest of the rep useless.
-- Read as a rule for using 'legitimately hundreds': the clip shows daniel.jf1 using the word in one specific move (alongside 'probability'), not a recommendation that the reader adopt the word themselves.
+- Read as a claim that cold email never books calls: thousands of emails booking a couple of calls is Daniel's own ratio, and the clip never says the emails are worthless.
+- Read as a promise that every call collects money: one or two out of five is his collection rate, and the clip never says the other three were easy.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["continuously split"]
+aka: ["your headline is your offer"]
 origin: sources/S_ig_daniel.jf1_DXX3MSvjROx.md
 ---
 
-# G_ig_daniel.jf1_DXX3MSvjROx — continuously split
+# G_ig_daniel.jf1_DXX3MSvjROx — your headline is your offer
 
 ## Term
 
-For daniel.jf1, 'continuously split' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears once in the transcript, and it sits next to 'sending', 'traffic', and 'pages' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Typically, I tell people your headline is your… The clip's claim about 'shooting' is conditional on 'continuously split' doing the work — without it, the claim is just mood.
+Your headline is your offer is Daniel's rule against digging into why: people want the tree-branch psychology behind things, and he tells them the headline is the offer. The phrase is used once, beside split test, shooting darts, and very simple, and his method is the darts — send traffic to two pages, keep continuously split testing things over and over and over and over and over, figure out what works, and find one that works. His rule is the shrug: it doesn't matter why it works, it just does, so just do that, because it is very simple, like it 100% is.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ For daniel.jf1, 'continuously split' is the idea the clip is engineered to deliv
 
 ## Live Example
 
-> "is like you could have a split test where you're sending traffic to two pages and then you just keep continuously split testing things over and over and over and over and over, and you're just like shooting darts, like just figuring out what works and" — sources/S_ig_daniel.jf1_DXX3MSvjROx.md
+> "Some people want to dig so deep into the understanding of why, and they're looking for like the tree branch psychology thought process behind things. Typically, I tell people your headline is your offer" — sources/S_ig_daniel.jf1_DXX3MSvjROx.md
 
 ## When the Meaning Breaks
 
-- Read as a buzzword: in daniel.jf1's usage, 'continuously split' is loaded with a specific working meaning (visible in the collocation with 'understanding'), not the dictionary sense.
-- Read as a stylistic choice by daniel.jf1: the wording around 'continuously split' (e.g. the collocation with 'understanding') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a claim that psychology never matters: Daniel says the why doesn't matter for the split test, and the clip never says the offer itself needs no thought.
+- Read as a testing method with no end: the darts keep flying until one works, and the clip never says when to stop testing.

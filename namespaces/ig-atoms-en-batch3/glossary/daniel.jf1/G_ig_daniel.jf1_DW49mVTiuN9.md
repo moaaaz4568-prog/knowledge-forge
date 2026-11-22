@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DW49mVTiuN9.md
 
 ## Term
 
-In daniel.jf1's reel, 'copywriting' is the move daniel.jf1 says the person must make before the prospect will commit. It appears 4 times, it sits next to 'fundamentally', 'mean', and 'sales' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: What is copywriting… 'copywriting' is what the rest of the clip is trying to justify — even 'difficult' reads as evidence for it.
+Copywriting is the skill Daniel defines as sales in print — sales to many, written as sales pages, emails, and ads. The word appears four times, beside fundamentally, sales in print, and S tier, and his grade is the point: to be good at it is pretty difficult, but you can make a legitimately astronomical amount of money, so he puts it in S tier. His verdict on the skill is absolute — single-handedly one of the most important skills you could ever learn, and so useful to possess — with the one condition that you pick the right clients.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's reel, 'copywriting' is the move daniel.jf1 says the person must 
 
 ## Live Example
 
-> "What is copywriting? Like, what does that fundamentally mean? The activity of copywriting, it's sales in print. It's like sales to many. You're writing sales pages" — sources/S_ig_daniel.jf1_DW49mVTiuN9.md
-> "money. You just need to be picking the right clients. And because of this, I'm gonna put this in S tier. Copywriting is like single-handedly one of the most important skills that you could learn ever. It's so useful of a skill to possess" — sources/S_ig_daniel.jf1_DW49mVTiuN9.md
+> "What is copywriting? Like, what does that fundamentally mean? The activity of copywriting, it's sales in print." — sources/S_ig_daniel.jf1_DW49mVTiuN9.md
 
 ## When the Meaning Breaks
 
-- Read as a synonym for any closing tactic: the source uses 'copywriting' to mark a specific conversational lever, not the whole category of closing moves.
-- Read as evidence the term is central to the account: one 108-word clip showing 'copywriting' next to 'possess' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.
+- Read as a definition that covers all writing: sales in print is Daniel's definition for this clip, and it never claims every kind of writing is copywriting.
+- Read as a promise of astronomical money: the amount is his praise for the skill, and the clip never quotes what a copywriter earns.

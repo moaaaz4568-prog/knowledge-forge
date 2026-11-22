@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["clients' businesses"]
+aka: ["hard mode"]
 origin: sources/S_ig_daniel.jf1_DXfejFzq7n3.md
 ---
 
-# G_ig_daniel.jf1_DXfejFzq7n3 — clients' businesses
+# G_ig_daniel.jf1_DXfejFzq7n3 — hard mode
 
 ## Term
 
-Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'apply', 'rules', and 'ignore' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The same rules that apply to your business… What makes the word 'clients' businesses' the term here is that the rest — 'difficult', 'Simply', everything else — is staged for it.
+Playing on hard mode is what Daniel says you are doing when your agency's economics are anything but high ticket: the same rules that apply to your business also apply to your clients' businesses, and ignoring that fact means you will not make any money. The phrase appears twice, beside too difficult, zero reason, and do what's easy, and his chain is short — everybody says to sell high ticket because the economics any other way are on hard mode. His closing is the opt-out: simply stop doing that and do what's easy, with absolutely zero reason at all to stay on hard mode.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the 
 
 ## Live Example
 
-> "The same rules that apply to your business also apply to your clients' businesses. And if you ignore this fact, you will not make any money in your agency. This is the reason why everybody says to sell high ticket" — sources/S_ig_daniel.jf1_DXfejFzq7n3.md
+> "And there is absolutely zero reason at all why you need to relegate your life to playing on hard mode." — sources/S_ig_daniel.jf1_DXfejFzq7n3.md
 
 ## When the Meaning Breaks
 
-- Read as a coaching cliché: 'clients' businesses' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
-- Read as a recommendation to use 'clients' businesses' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'because'); it does not argue the reader should adopt it.
+- Read as a claim that high ticket has no difficulty: do what's easy follows changing the economics, and the clip never says selling high ticket is effortless.
+- Read as laziness: the easy way is high-ticket economics, and the hard way is the same work for worse pay — the point is the model, not the effort.

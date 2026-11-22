@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DWVIPFugEox.md
 
 ## Term
 
-Read here, 'government assistance' is the distinction daniel.jf1 is actually drawing — the line the rest of the clip is staged to make stick. It appears 3 times, it sits next to 'cliff', 'requires', and 'probably' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: The way that government assistance works is it… The clip's claim about 'effectively' is conditional on 'government assistance' doing the work — without it, the claim is just mood.
+What Daniel says about government assistance is that it works on a cliff and a step ladder at once: the help is tiered, and each step up can leave you with less than the step below. The phrase appears three times, beside works on a cliff, tiered system, and step ladder, and his raise example is the mechanism — $35,000 to $45,000 a year, and the government-subsidized SNAP or EBT gets taken away because now you make too much money, while the differential of the raise is less than the lost benefit. His poverty line is the top of the ladder: the tiers run all the way up to like $100,000 a year, and if you make less than that, you live in poverty.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Read here, 'government assistance' is the distinction daniel.jf1 is actually dra
 
 ## Live Example
 
-> "quality of life that you could live 50 years ago now requires $100, 000, probably more. The way that government assistance works is it works on a cliff. Say you have a job and you're making $35, 000 a year and then you get a raise to $45, 000 a year. Now" — sources/S_ig_daniel.jf1_DWVIPFugEox.md
-> "000 a year more, but you effectively make less money. This works on a tiered system for all sorts of government assistance. It's a step ladder all the way up to like $100, 000 a year. If you make less than $100, 000 a year, you live in poverty" — sources/S_ig_daniel.jf1_DWVIPFugEox.md
+> "The way that government assistance works is it works on a cliff. Say you have a job and you're making $35, 000 a year and then you get a raise to $45, 000 a year." — sources/S_ig_daniel.jf1_DWVIPFugEox.md
 
 ## When the Meaning Breaks
 
-- Read as a vague motivational word: the source uses 'government assistance' as a working concept daniel.jf1 is installing in this clip, not a generic self-help label.
-- Read as evidence daniel.jf1 always uses 'government assistance' this way: one 168-word clip is too thin a sample to support any claim about how the account uses the word in general.
+- Read as a verdict that assistance traps everyone: the cliff is Daniel's description of the tier structure, and the clip never says nobody climbs out of it.
+- Read as a claim that $100,000 is poverty everywhere: the figure is Daniel's line for the quality of life from 50 years ago, and the clip never prices any particular city.

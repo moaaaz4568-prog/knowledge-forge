@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["temporarily without"]
+aka: ["mindset of scarcity"]
 origin: sources/S_ig_daniel.jf1_DXkoSuMEXo-.md
 ---
 
-# G_ig_daniel.jf1_DXkoSuMEXo- — temporarily without
+# G_ig_daniel.jf1_DXkoSuMEXo- — mindset of scarcity
 
 ## Term
 
-In this source, 'temporarily without' is the disposition daniel.jf1 says a person cannot skip past and still expect results. It appears once in the transcript, and it sits next to 'broke', 'sure', and 'knows' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Broke is temporarily without resources… The argument only stays upright while 'temporarily without' is doing the work — pull it and 'become' loses its anchor.
+Mindset of scarcity is Daniel's definition of poor: not a lack of money, but I can't have this, I can't do this, I don't have the capability to learn, I don't have the balls to take any kind of risk. The phrase is used once, beside poor, broke, and temporarily without resources, and his contrast is the broke side — broke is temporarily without resources, and broke people become rich because they have the courage to do stuff they've never tried and the intelligence to figure things out themselves. His closing image is the uncertainty test: operating in any form of uncertainty, they actually do stuff.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In this source, 'temporarily without' is the disposition daniel.jf1 says a perso
 
 ## Live Example
 
-> "any kind of risk. It's my life sucks and I'm gonna make sure everyone knows my life sucks. Broke is temporarily without resources. You'll be a lot of broke people who become rich and get a lot of money. They have courage to actually do stuff they've never" — sources/S_ig_daniel.jf1_DXkoSuMEXo-.md
+> "I love broke people and I hate poor people. Poor is a mindset of scarcity." — sources/S_ig_daniel.jf1_DXkoSuMEXo-.md
 
 ## When the Meaning Breaks
 
-- Read as a slogan: 'temporarily without' here is a working concept daniel.jf1 is installing, not a tagline the reader is meant to repeat.
-- Read as a stylistic choice by daniel.jf1: the wording around 'temporarily without' (e.g. the collocation with 'sucks') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a claim that poor people choose poverty: Daniel's poor is a mindset in his telling, and the clip never says circumstances play no part.
+- Read as praise for being broke: broke is temporarily without resources, and the clip's broke people become rich by acting, not by staying broke.

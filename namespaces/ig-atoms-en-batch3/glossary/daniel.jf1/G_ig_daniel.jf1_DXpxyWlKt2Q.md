@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["buy"]
+aka: ["free lead magnet", "free lead magnets"]
 origin: sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
 ---
 
-# G_ig_daniel.jf1_DXpxyWlKt2Q — buy
+# G_ig_daniel.jf1_DXpxyWlKt2Q — free lead magnet
 
 ## Term
 
-In daniel.jf1's reel, 'buy' is the move daniel.jf1 says the person must make before the prospect will commit. It appears 8 times, it sits next to 'continue', 'lead', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: I use something called Pyros, and what Pyros… The clip's claim about 'non-buyers' is conditional on 'buy' doing the work — without it, the claim is just mood.
+The free lead magnet is the filter Daniel runs on his own ad spend: Pyros shows him whether anyone who arrived through one ever bought anything, and the answer he reports is that free-magnet people never buy because they are non-buyers. The phrase appears three times, twice in the singular and once as free lead magnets, beside Pyros, buy stuff, and cold traffic, and his instruction is blunt for the audience listening — don't ever promote a free lead magnet to cold traffic, since cold traffic doesn't work ever, never will, never has. His working fix is the one-dollar magnet: make them pay any amount at all, because the people who do buy stuff continue to buy stuff, and that single payment is what makes the LTV work out.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- free lead magnets (the plural form Daniel uses for the people who get them and never buy)
 
 ## Live Example
 
-> "Pyros, and what Pyros lets me do is I can see if someone came in from a free lead magnet, did they ever buy anything at all ever, and I can figure out their LTV. People who get free lead magnets never buy anything because they're non-buyers. They just don" — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
-> "just need to get them to pay any amount of money at all because the people who buy stuff continue to buy stuff. For the audience listening, don't ever promote a free lead magnet to cold traffic. You can do it to warm traffic on your YouTube video because" — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
+> "I can see if someone came in from a free lead magnet, did they ever buy anything at all ever, and I can figure out their LTV." — sources/S_ig_daniel.jf1_DXpxyWlKt2Q.md
 
 ## When the Meaning Breaks
 
-- Read as a synonym for any closing tactic: the source uses 'buy' to mark a specific conversational lever, not the whole category of closing moves.
-- Read as a recommendation to use 'buy' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'listening'); it does not argue the reader should adopt it.
+- Read as a claim that cold traffic is dead: Daniel's never will, never has is about free magnets to cold traffic, and the clip never says paid traffic to the same audience fails.
+- Read as a guarantee that a $1 magnet prints money: the dollar only separates buyers from non-buyers, and the clip never promises the LTV covers the ad spend.

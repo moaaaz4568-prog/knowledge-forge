@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["selling"]
+aka: ["deliverable based"]
 origin: sources/S_ig_daniel.jf1_DV4l3MZCX2V.md
 ---
 
-# G_ig_daniel.jf1_DV4l3MZCX2V — selling
+# G_ig_daniel.jf1_DV4l3MZCX2V — deliverable based
 
 ## Term
 
-In this source, 'selling' is the operating lever daniel.jf1 says determines whether the work scales or just gets repeated. It appears 3 times, it sits next to 'gasoline', 'better', and 'sell' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It's the equivalent of trying to sell a… Anything else in the clip orbits this word — strip out 'selling' and the rest reads as filler around 'equivalent'.
+What Daniel likes about a deliverable based offer is the clean edge: the buyer pays for the deliverable, and the sale is not tied to performance. The phrase is used once, beside sell that, oil and the gasoline, and sold me a lemon, and his equivalence runs the other way from most sellers — trying to sell a car versus selling the oil and the gasoline, where the car means building the whole thing and then hearing that one tiny thing is wrong with it. His judgment is comparative, not absolute: selling the gasoline is so much better of a business, and the people who get pissed off about the lemon are the reason he picks the gas.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In this source, 'selling' is the operating lever daniel.jf1 says determines whet
 
 ## Live Example
 
-> "to performance. It's so much better to sell that. It's the equivalent of trying to sell a car versus selling the oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You" — sources/S_ig_daniel.jf1_DV4l3MZCX2V.md
-> "oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You gotta build the whole thing and then like, oh, this tiny thing is wrong with the car. Like you sold me a lemon. It" — sources/S_ig_daniel.jf1_DV4l3MZCX2V.md
+> "I like deliverable based that is not tied to performance. It's so much better to sell that." — sources/S_ig_daniel.jf1_DV4l3MZCX2V.md
 
 ## When the Meaning Breaks
 
-- Read as a generic business-school term: the source uses 'selling' to mark the specific move the clip is defending, not a category of business moves in general.
-- Read as a recommendation to use 'selling' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'versus'); it does not argue the reader should adopt it.
+- Read as a claim that performance-based work is stupid: Daniel says he likes deliverable based better, and the clip never says performance offers earn nothing.
+- Read as a verdict on the auto industry: the car is his stand-in for a performance-tied sale, and the lesson is about the offer's shape, not about cars.
