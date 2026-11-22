@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [promoter, promoters]
 origin: sources/S_yt_8ji2X3ZbaUo_en.md
 ---
 
-# G_yt_8ji2X3ZbaUo_en — know
+# G_yt_8ji2X3ZbaUo_en — promoter
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 480 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, know, people, think. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A promoter is the party that takes the risk on an artist: Mike Chris, co-founder and managing director of Untitled Group, runs club nights and festivals, and in the system around an artist — artist, manager, agent, promoter — the promoter is the one who books the show, prices the tickets, and takes a chance on developing acts. He and his business partner Phil started a club night competing head-to-head with Dom, who was a promoter running a club night, and ended in a truce where Dom DJed for them. The word appears 24 times in the source, beside artist, agent, festival, and club night, with the plural promoters 14 more times. His concrete case is Temper Trap playing to 40,000 people in the amphitheater.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- promoters (plural form of the term, used in the source)
 
 ## Live Example
 
-> "The only way to recoup a loss is to go again. >> And And we >> like short handing your your your loss >> Well, well, well, all the money that we made through the nightclubs, and we were making good money in the nightclubs because it was bricks and mortar pay things, you know, it cost was great." — sources/S_yt_8ji2X3ZbaUo_en.md
-> "And I think that's a very big that's that's a good skill in terms of like if you know someone's trying to play or manipulate you, it's it's not about calling them out on it at the same time." — sources/S_yt_8ji2X3ZbaUo_en.md
+> "if you're in the in a development mode, you you might need a promoter to take a chance on you." — sources/S_yt_8ji2X3ZbaUo_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just booking the artist: a promoter is one party in a system — artist, manager, agent, promoter — with decades-long relationships and pricing and ticket decisions, not a single booking.
+- Read as overnight success: these are not overnight success stories — they started with a nightclub called Treehouse and built a community week in, week out.

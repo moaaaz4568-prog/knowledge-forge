@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [music, misc-dl collection context]
+aka: [business value]
 origin: sources/S_yt_8d19tED20N8_en.md
 ---
 
-# G_yt_8d19tED20N8_en — music
+# G_yt_8d19tED20N8_en — business value
 
 ## Term
 
-"music" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: business, process, every, value. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Business value is what Seain, a lower middle market investment bank, promises to maximize when owners transition the businesses they are ready to sell: most owners lack expertise in navigating these complex transactions, which leaves them anxious about relinquishing control. The promise is twofold — maximum financial return and the right legacy fit — and the firm manages the entire closing process from start to finish. The phrase appears 2 times in the source, beside maximizing, transition, legacy, and sale. The concrete offer is a straightforward, confidential estimate of the business value at no cost or obligation, with the team curating qualified buyers and creating a competitive environment.
 
 ## Synonyms
 
-- music
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What's at stake for our clients when they're going through this process and not calling a group like Cain? you're probably going to leave money on [music] the table." — sources/S_yt_8d19tED20N8_en.md
-> "We manage the entire closing process from start to [music] finish, turning complicated negotiations and paperwork into a smooth path to successfully [music] maximizing your value. >> When I think about our past clients, success looks a little different for all of them." — sources/S_yt_8d19tED20N8_en.md
+> "We start with a straightforward, confidential estimate of your business value" — sources/S_yt_8d19tED20N8_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "music": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just the sale price: value here includes the legacy fit and the time to move on to the next chapter, not only the money on the table.
+- Read as a do-it-yourself sale: owners going through the process without a group like Seain leave money on the table and never see all the options.

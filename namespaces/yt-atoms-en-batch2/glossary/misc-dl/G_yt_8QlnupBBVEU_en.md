@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [time, times]
+aka: [blind spots, blind spot]
 origin: sources/S_yt_8QlnupBBVEU_en.md
 ---
 
-# G_yt_8QlnupBBVEU_en — time
+# G_yt_8QlnupBBVEU_en — blind spots
 
 ## Term
 
-"time" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 49 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tracking, like, take, want. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Blind spots are the profit leaks an agency owner cannot see: the gaps between topline revenue and the money that actually stays in the owner's bank account. The guest names time tracking as one — tracking hours is important but never enough on its own — and adds employees who do not feel comfortable speaking up about the real situation. The phrase appears 10 times in the source, beside profitability, agency, time tracking, and leadership teams, with the singular blind spot 3 more times. His starting point is practical: uncover the blind spots first, then take concrete steps to address them, rather than admiring the revenue line.
 
 ## Synonyms
 
-- time
-- times (variant form used in the source)
+- blind spot (singular form of the term, used in the source)
 
 ## Live Example
 
-> "Um, time tracking is important, but it's definitely not enough just to track some time because there there many different ways to track time." — sources/S_yt_8QlnupBBVEU_en.md
+> "What are some what causes the blind spots do you think and what are some of the big blind spots that you've seen um in the agency space when it comes to maximizing profit potential?" — sources/S_yt_8QlnupBBVEU_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "time": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as literal gaps in vision: blind spots here are unexamined business gaps — tracking, utilization, and people staying silent — not anything about eyesight.
+- Read as a one-time audit: the guest frames uncovering blind spots as a starting point with practical steps to follow, not a single report that fixes profitability by itself.

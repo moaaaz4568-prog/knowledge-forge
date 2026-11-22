@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [outbound]
 origin: sources/S_yt_8Zt7akip_Sc_en.md
 ---
 
-# G_yt_8Zt7akip_Sc_en — know
+# G_yt_8Zt7akip_Sc_en — outbound
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 39 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, cuz, people, month. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Outbound is the cold-outreach system Adam runs for e-commerce email marketing: he believed his niche was super difficult to get results in, was constantly scarce for appointments, and did 7 to 8 thousand a month before the system changed that. The episode is his results story — results doubled in two months, then doubled again in another three months — told as proof that outbound works even in a niche everyone calls saturated. The word appears 20 times in the source, beside results, appointments, e-commerce, and system. His concrete warning is that e-commerce is saturated, so without a strategy and knowing what you are doing, you lose anyway.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Then he realized like it's so saturated as they say that like if you don't have a strategy and if you don't know what you're doing you're going to lose anyway." — sources/S_yt_8Zt7akip_Sc_en.md
+> "I really had the belief that I was in e-commerce like my niche was super difficult to get results in outbound." — sources/S_yt_8Zt7akip_Sc_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof outbound never works in e-commerce: that was Adam's belief before the system — the episode is the counter-proof, with results doubling twice in five months.
+- Read as blasting cold messages: the host frames outbound as a system with a strategy, and the saturated-niche warning is precisely that strategy-less outreach loses.

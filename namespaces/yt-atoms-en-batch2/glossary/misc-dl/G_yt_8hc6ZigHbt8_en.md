@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [really, misc-dl collection context]
+aka: [iceberg of economics]
 origin: sources/S_yt_8hc6ZigHbt8_en.md
 ---
 
-# G_yt_8hc6ZigHbt8_en — really
+# G_yt_8hc6ZigHbt8_en — iceberg of economics
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 224 times in the text (whole-word matches, case folded), and the words most often collocated with it are: economics, idea, think, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The iceberg of economics is Nick's structure for his whole series: like any iceberg, the top holds the surface-level easy stuff most people understand, and the deeper you go the harder and more obscure the concepts get. This video consolidates the multi-part series into one video, cleaning up dead noise and dead space and improving the sound, so viewers can binge the whole thing at once. The phrase appears 10 times in the source, beside economics, series, consolidation, and keynesianism. His concrete first concept on the surface is Keynesianism: the government intervening to manage business cycles using fiscal policy.
 
 ## Synonyms
 
-- really
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "criticism of the monetary system and their idea that prices do not accurately convey information in nor classical economics the price is a signal to show how scarce something is relative to something else whereas fral economics believe that prices really have no signaling impact" — sources/S_yt_8hc6ZigHbt8_en.md
-> "of this the fact that a lot of people who are really otherwise intended to be independent and had that goal couldn't just because of economic constraints and the fact that real wages dropped relative to cost of living particularly in the cities that were" — sources/S_yt_8hc6ZigHbt8_en.md
+> "this video is going to be a complete consolidation of my Iceberg of Economics series" — sources/S_yt_8hc6ZigHbt8_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ranking of importance: the iceberg orders concepts by depth and difficulty — surface is easy, deep is obscure — not by most to least important.
+- Read as Nick's own theory: he uses a template from a semi-anonymous creator and adds his own opinions on each concept, rather than inventing the iceberg himself.

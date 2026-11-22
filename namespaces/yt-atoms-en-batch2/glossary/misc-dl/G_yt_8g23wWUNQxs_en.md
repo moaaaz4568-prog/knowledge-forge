@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [business, misc-dl collection context]
+aka: [six figures]
 origin: sources/S_yt_8g23wWUNQxs_en.md
 ---
 
-# G_yt_8g23wWUNQxs_en — business
+# G_yt_8g23wWUNQxs_en — six figures
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 32 times in the text (whole-word matches, case folded), and the words most often collocated with it are: owners, owner, scale, past. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Six figures is the ceiling Fidis puts on a business whose owner refuses to make content: if you think you are too professional to make content, you are not professional, you are foolish, and the business will never scale past six figures. His own business scaled over seven figures using social views, and the channel teaches scaling past six figures with social media visibility. The phrase appears 6 times in the source, beside scale, content, professional, and social media. His concrete proof is the audience: over 2 million followers across his platforms, 600,000 on YouTube, 600,000 on Instagram, and 900,000 on TikTok.
 
 ## Synonyms
 
-- business
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're a business owner sitting here thinking that you're too professional to make content, you're not professional." — sources/S_yt_8g23wWUNQxs_en.md
-> "Millions and millions of dollars are sitting on the table because you want to let ego, you want to let professionalism, the fear of being judged, handicap you to maximizing how your business can get out there and start maximizing it visibility." — sources/S_yt_8g23wWUNQxs_en.md
+> "your business will never scale past six figures if you don't wake up" — sources/S_yt_8g23wWUNQxs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a revenue goal only: six figures is the ceiling of staying invisible — the point is that content creates the visibility that breaks it, not the number itself.
+- Read as professionalism protecting the brand: the speaker says professional is just code for being too scared of being judged, and ego and fear handicap how far the business can get out there.

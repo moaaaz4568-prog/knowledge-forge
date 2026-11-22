@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [people, misc-dl collection context]
+aka: [cult-like personal brand, personal brand]
 origin: sources/S_yt_8YHxVXN6Lhk_en.md
 ---
 
-# G_yt_8YHxVXN6Lhk_en — people
+# G_yt_8YHxVXN6Lhk_en — cult-like personal brand
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 51 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, people, live, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A cult-like personal brand is the speaker's name for a following so loyal it behaves like a cult: he claims the proof in his own numbers — over 600,000 subscribers on YouTube, 500,000 on Instagram, 900,000 on TikTok, making content since 2018. His first rule is that problem-solving is better than fast income, and his charge against rival teachers is that they never actually built a personal brand — they only teach editing videos. The phrase appears 4 times in the source, beside following, problem-solving, content, and subscribers, with the short form personal brand 14 more times. His concrete test is the customer: when you focus on giving people value that changes their lives, they give you all the money.
 
 ## Synonyms
 
-- people
-- misc-dl collection context (no variant form of the term appears in this source)
+- personal brand (short form of the term, used in the source)
 
 ## Live Example
 
-> "When you focus on the customer, when you focus on giving people the value that will change their lives, they give you all the money." — sources/S_yt_8YHxVXN6Lhk_en.md
-> "If just a million people connect with you, you don't have to work again. >> [laughter] >> Listen, buddy." — sources/S_yt_8YHxVXN6Lhk_en.md
+> "Here's how to grow a cult-like personal brand." — sources/S_yt_8YHxVXN6Lhk_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a literal cult: cult-like describes the loyalty of the following, not worship or control — the mechanism is solving people's problems, not demanding obedience.
+- Read as fast income: his first rule is problem-solving over fast income, and he stresses he did it all before he taught it — the brand is the proof, not the pitch.

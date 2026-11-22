@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [exit, exits]
 origin: sources/S_yt_8mGRD_YiC_A_en.md
 ---
 
-# G_yt_8mGRD_YiC_A_en — know
+# G_yt_8mGRD_YiC_A_en — exit
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 93 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, business, good, said. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An exit is the sale of a business, and Barrett Conway of Seain, speaking on Good Business after going through multiple exits himself, says you want to be ready for one at any point in time — positive or negative, a situation can change overnight. In 2019 he got an offer on his business and wasn't ready for it, and the biggest piece of preparing is simple: get your house in order. The word appears 7 times in the source, beside business, sell, company, and sale, with the plural exits 2 more times. His concrete case is Steve Aabati, who did 40 acquisitions in 36 months with a large heating oil acquirer.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- exits (plural form of the term, used in the source)
 
 ## Live Example
 
-> "You want to be ready for an exit at any point in time. >> Positive or negative, there can be a situation that changes overnight. >> What would you say is the biggest fear that business owners face when they're considering a sale?" — sources/S_yt_8mGRD_YiC_A_en.md
-> "When we got to Pest, it was almost like a party, right? we're doing great and we're growing and we're having fun and I was like this is good energy like we we want to be around this I this is going to be around a long time and I think there's a world that we can fit into this niche." — sources/S_yt_8mGRD_YiC_A_en.md
+> "You want to be ready for an exit at any point in time." — sources/S_yt_8mGRD_YiC_A_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as selling only when you're done: you want to be ready at any point, because life happens and a situation can change overnight.
+- Read as only for big companies: "I don't think my company's big enough to sell. It's a lie." — small businesses that did a lot with nothing are the inspiring cases.

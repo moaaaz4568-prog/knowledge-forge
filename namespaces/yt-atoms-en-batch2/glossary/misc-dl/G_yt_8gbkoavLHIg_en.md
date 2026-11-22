@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [now, misc-dl collection context]
+aka: [mockup, mockups]
 origin: sources/S_yt_8gbkoavLHIg_en.md
 ---
 
-# G_yt_8gbkoavLHIg_en — now
+# G_yt_8gbkoavLHIg_en — mockup
 
 ## Term
 
-"now" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 23 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, export, back, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A mockup is the staged preview of a product Jack Watson builds with AI: he takes a stock photo of an existing product, then uses Adobe Firefly text-to-image prompts to place it in a scene — a box on rocks by the ocean — instead of shooting it for real. AI-generated mockups are popping up everywhere, used by big studios and small freelancers alike, and the video shows the whole step-by-step process for free. The word appears 18 times in the source, beside Adobe, Firefly, prompts, and packaging, with the plural mockups 5 more times. His concrete prompt is "Mockup of a cardboard box near the ocean surrounded by rocks. Suggestive lighting." with hyperrealistic and studio lights.
 
 ## Synonyms
 
-- now
-- misc-dl collection context (no variant form of the term appears in this source)
+- mockups (plural form of the term, used in the source)
 
 ## Live Example
 
-> "And now if we go back to Adobe Firefly, let's delete all our references and styles because we're going to do things completely differently." — sources/S_yt_8gbkoavLHIg_en.md
+> "If you've clicked on this video, you've probably seen these AI-generated mockups popping up everywhere." — sources/S_yt_8gbkoavLHIg_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "now": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a finished product photo: a mockup is a staged preview — a stock box dropped into an AI scene — not a photograph of the real product.
+- Read as expensive studio work: the video shows the whole process done for free with Firefly, starting from a stock photo.

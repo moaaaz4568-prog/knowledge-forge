@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [lead, leads]
 origin: sources/S_yt_8PGEYHJTMDs_en.md
 ---
 
-# G_yt_8PGEYHJTMDs_en — know
+# G_yt_8PGEYHJTMDs_en — lead
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 63 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, yeah, right, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A lead is an incoming prospective client contact for R.J. Hubert's lead-generation agency, HBT Digital, which wins clients through online ads. Hubert judges leads by what happens after they arrive: he calls while the person is still on the website, because they forget, and he tracks where each lead came from and where it sits in the pipeline. The word appears 11 times in the source, beside pipeline, website, KPIs, and meetings, with the plural leads twice more. His contrast case is a lead-generation company boasting about email open rates while he asks only how many meetings are being set.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- leads (plural form of the term, used in the source)
 
 ## Live Example
 
-> "So like did you see that as well? >> I don't know if you remember way I'm talking way back in the day." — sources/S_yt_8PGEYHJTMDs_en.md
-> "Um, with the on the client side, you know, if one agency, one client fires you, you know, you might have five, 10, 20 more, you know, paying, you know, the bills." — sources/S_yt_8PGEYHJTMDs_en.md
+> "So it wasn't always very easy to to see where the lead came from or where they're at in the pipeline." — sources/S_yt_8PGEYHJTMDs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a person who leads a team: a lead here is the prospect contact itself, not a manager or team leader, and the speaker talks about leads arriving, sitting in a pipeline, and being called.
+- Read as proof the agency is working: volume alone proves nothing here — Hubert dismisses open rates and counts meetings set, so a pile of leads without meetings is a failure, not a result.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [agency]
 origin: sources/S_yt_8dMYZfnvhvs_en.md
 ---
 
-# G_yt_8dMYZfnvhvs_en — know
+# G_yt_8dMYZfnvhvs_en — agency
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 126 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, like, think, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An agency is the business the founder always wanted: as a kid he put a lawnmower in a wagon and went house to house mowing lawns, and every job after that he treated as being there on his own terms — here because he wanted to be, and ready to leave if not. Bay Creative started very focused on creative services, doing design work and writing for the assets it created. The word appears 12 times in the source, beside creative, business, partner, and clients. His concrete proof of the family business is that his son and daughter work with him — he calls himself very lucky, because they happen to be really capable at what the agency does.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's, uh, it's kind of a bottom, it's an it's, uh, you know, it's a bottomless pit if you want to look at it that way, or or it's an it's an endless, you know, high that you can reach for, you know." — sources/S_yt_8dMYZfnvhvs_en.md
-> "Cuz that's that's hard because, you know, you start an agency and you get pulled in every single direction by team, vendors, clients, all that kind of stuff. >> Yes. >> And you can be you know, reactive to everything. >> I mean it's really it's changed so much now, right?" — sources/S_yt_8dMYZfnvhvs_en.md
+> "you start an agency and you get pulled in every single direction by team, vendors, clients, all that kind of stuff" — sources/S_yt_8dMYZfnvhvs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a big firm: Bay Creative is a family-run creative agency where the founder's kids work, built from lawn-mowing beginnings, not a corporate shop.
+- Read as easy money: starting out is not as hard as people make it sound, he says — but running it pulls you in every direction and makes you reactive to everything.

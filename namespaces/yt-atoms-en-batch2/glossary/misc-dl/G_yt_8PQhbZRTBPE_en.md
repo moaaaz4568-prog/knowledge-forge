@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [think, thinks]
+aka: [consumer centric]
 origin: sources/S_yt_8PQhbZRTBPE_en.md
 ---
 
-# G_yt_8PQhbZRTBPE_en — think
+# G_yt_8PQhbZRTBPE_en — consumer centric
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 243 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah, know, think, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Consumer centric is the founder's name for his core strength: building a business by watching how customers actually behave instead of assuming. He explains it as being an outsider looking in — sitting with suppliers and restaurants to observe how they order, run their trucks, and pick and pack items — and then shaping the product around what he saw. The phrase appears 5 times in the source, beside relationships, sales, mindset, and marketing. His concrete case is the ordering workflow itself: he learned the business by observing a supplier's daily routine rather than by asking for opinions.
 
 ## Synonyms
 
-- think
-- thinks (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "with X and ended up with Y like Slack's my favorite example they started building a computer game they ended up with slack you know and and things like that so I think you've got to be very very very plastic in the beginning apparently" — sources/S_yt_8PQhbZRTBPE_en.md
-> "said right what can we adapt that's out there which is going to let us achieve this how is it going to scale like we we really thought through I think that amazing balance between what I might call the digital lockbox solution and all" — sources/S_yt_8PQhbZRTBPE_en.md
-> "Steve Jobs he's also done one on Elon Musk which is I think not not as good but it's just interesting I think from like a biographer point of view okay how these things kind of got through and then another one is a long" — sources/S_yt_8PQhbZRTBPE_en.md
+> "when you talk about consumer Centric I think some people get a little convoluted of what that really means" — sources/S_yt_8PQhbZRTBPE_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as customer-pleasing politeness: consumer centric here is a research method — observing ordering, trucks, and pick-and-pack work — not agreeing with whatever the customer says.
+- Read as a slogan on a slide: the interviewer notes people get convoluted about the phrase, and the founder answers by describing the outsider-observation work, not by repeating the words.

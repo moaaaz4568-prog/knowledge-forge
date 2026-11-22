@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [coffee, coffees]
+aka: [coffee]
 origin: sources/S_yt_8n6stzUoN4A_en.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_yt_8n6stzUoN4A_en.md
 
 ## Term
 
-"coffee" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 26 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yes, people, fact, shop. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Coffee is the framing of this show, Coffee and Conversions, where Clay and his co-host sit down to talk about marketing, revenue, and sales — and coffee, because it's worth it. They found great clients in the business and built amazing relationships through things like real coffee, and in-person meetings are once again becoming an underrated advantage in the world of artificial intelligence. The word appears 26 times in the source, beside business, relationships, clients, and talk. Their concrete point is effort: it takes a lot of effort, travelling everywhere, and yet it makes the longest-term deals for them.
 
 ## Synonyms
 
-- coffee
-- coffees (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Welcome back to another episode of Coffee and Conversions where Clay and I sit down to talk about what's going on in the world of marketing, revenue, sales, and we talked a little bit about coffee because it's worth it." — sources/S_yt_8n6stzUoN4A_en.md
+> "Clay and I have found great clients in the business, built amazing relationships through things like real coffee." — sources/S_yt_8n6stzUoN4A_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "coffee": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a coffee review: coffee here is the in-person meeting, the relationship builder, not the drink itself.
+- Read as networking tips: the point is that in-person meetings are an underrated advantage in the AI world, not a tactic list.

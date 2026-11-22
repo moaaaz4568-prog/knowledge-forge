@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [project manager]
 origin: sources/S_yt_8RShvHGQwQU_en.md
 ---
 
-# G_yt_8RShvHGQwQU_en — know
+# G_yt_8RShvHGQwQU_en — project manager
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 100 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, know, people, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A project manager is the role Patrice Embry sells as a service: she is hired to run projects for agencies and owners, through a business she calls Project Menagerie. Her path was non-linear — a manager told her she was great at project management before she knew what it was, and she became a digital project manager in the late 90s, learning on the fly because college courses for the work did not exist. The phrase appears 10 times in the source, beside hire, agency, digital, and Menagerie. Her concrete offer is flexible: stay on and manage more projects she helped sell, set the client on their way, or be hired for contracting or consulting with no project at all.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "that kind of thing but it was nuts um it was great a lot of great stories there but uh I had a manager that was like you're great at project management and I was like I don't know what that is um and I" — sources/S_yt_8RShvHGQwQU_en.md
-> "privileged and I'm grateful that I'm able to do it and you know so it's really been a good it's this is the happiest and most productive and most lucrative time I've ever had in my career so pretty excited about it that's awesome so" — sources/S_yt_8RShvHGQwQU_en.md
+> "I became a digital project manager after that so that was in the late 90s" — sources/S_yt_8RShvHGQwQU_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a staff job title: project manager here is a for-hire service, not an in-house post — clients hire Patrice herself, and she names the business Project Menagerie.
+- Read as generic managing: her project management is owning the project process end to end, learned on the fly when no college course taught it, not just supervising people.

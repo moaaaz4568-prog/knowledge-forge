@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [bank statements]
 origin: sources/S_yt_8eL21cMyhyM_en.md
 ---
 
-# G_yt_8eL21cMyhyM_en — know
+# G_yt_8eL21cMyhyM_en — bank statements
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 19 times in the text (whole-word matches, case folded), and the words most often collocated with it are: business, story, maybe, best. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bank statements are how lenders find trust in the merchant cash advance space: statements have a story and a history, and the lender reads back through them to see what is happening — frequent spending, a constantly negative balance, or a business with really good cash flow that got hit by a bad repair. The space is highly saturated and can be corrupt, so the speaker's promise is the efficient route to funds and how not to get screwed over. The phrase appears 7 times in the source, beside story, trust, lenders, and capital. His concrete advice is seasonal: if the business is always low in winter, apply for capital before winter, because the lender reads the story with that context.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But when we when we talk about your story, if you know if you know that your business is always always low in winter, you should apply for your capital before winter because if we see the story, you know, if because we don't know you cuz we don't have that relationship." — sources/S_yt_8eL21cMyhyM_en.md
+> "So, if you're going to apply for a loan, a um a business funding, whatever you want to call it, here's something to note is that the bank statements need to tell a good story." — sources/S_yt_8eL21cMyhyM_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as paperwork: statements are the lender's trust test — the story of the business — not a formality, and a good story is what gets the funds.
+- Read as hide the bad months: the advice is the opposite — apply before the low season so the story is read with its context, not after it.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [brand, brands]
+aka: [brand identity]
 origin: sources/S_yt_8U8_WbgO9hg_en.md
 ---
 
-# G_yt_8U8_WbgO9hg_en — brand
+# G_yt_8U8_WbgO9hg_en — brand identity
 
 ## Term
 
-"brand" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 34 times in the text (whole-word matches, case folded), and the words most often collocated with it are: identity, exactly, goals, client. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Brand identity is a cohesive collection of visual, verbal, and emotional elements that shape how a brand is perceived by its audience: logo, color, typography, tone of voice, and messaging, giving the audience a vibe or feeling to invest money, time, and emotions into. The speaker's first step in any branding project is to determine the brand's unique value proposition and its positioning statement — what sets it apart from competitors. The phrase appears 7 times in the source, beside logo, color, typography, and positioning. His concrete case is Tesla, whose unique value proposition is leading the electric vehicle revolution with innovative, high-performance, environmentally friendly cars.
 
 ## Synonyms
 
-- brand
-- brands (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of people with all of these materials around the brand okay so you've established the Brand's position the goals direction tone voice all of that good stuff now what well this is where we apply exactly what you've learned or researched into actual visual communication" — sources/S_yt_8U8_WbgO9hg_en.md
-> "brand wants them to do branding is all about influencing on a subconscious level and you probably should write that down somewhere because it's pretty much the Crux of branding now I've got a Bonus tip that nobody is talking about when it comes to" — sources/S_yt_8U8_WbgO9hg_en.md
+> "brand identity is a cohesive collection of visual verbal and emotional elements that shape how a brand is perceived by its audience" — sources/S_yt_8U8_WbgO9hg_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "brand": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just a logo: identity is the whole cohesive collection — visual, verbal, and emotional — and the logo is one section among typography, color palette, imagery, and graphic elements.
+- Read as color theory only: the speaker says to go beyond basic color theory and tap into the emotions of the target audience, so a palette picked for looks alone misses the identity.

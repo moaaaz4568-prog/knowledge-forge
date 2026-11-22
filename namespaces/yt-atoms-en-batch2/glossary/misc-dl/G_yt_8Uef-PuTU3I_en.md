@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [branding]
 origin: sources/S_yt_8Uef-PuTU3I_en.md
 ---
 
-# G_yt_8Uef-PuTU3I_en — know
+# G_yt_8Uef-PuTU3I_en — branding
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 202 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, think, because, back. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Branding is the work the interviewer wants to talk about because he believes the guest does it better than anyone: putting an identity on a product or a business, with real consequences when it is done wrong. The guest asks how the interviewer thinks about branding, then tells the cautionary story of a friend who ordered a product and branded it as a medical product — and got busted, not because the product was illegal but because of the regulations around the label. The word appears 11 times in the source, beside brand, product, labeling, and regulations. His concrete warning is the punchline of that story: careful what you brand.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and there's there's an awful lot that just sort of you know limp along and it seemed to me that there was an opportunity for someone with a legal background a commercial background and some good experience in business to add some value to some" — sources/S_yt_8Uef-PuTU3I_en.md
-> "it was just completely over the top it cost millions of dollars to put on so I think that's what he means because then that was all over Vanity Fair and it was all over New York Times style section and you know back when" — sources/S_yt_8Uef-PuTU3I_en.md
+> "I'd love to talk to you about branding cuz I don't think anyone's ever done it better than you" — sources/S_yt_8Uef-PuTU3I_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just a logo or a name: branding here is the whole act of putting an identity on a product, and the story shows it carries legal consequences — the friend was busted over the label, not the product.
+- Read as something only big companies do: the cautionary tale is a small seller labeling one product, and the guest's own career is building structures — licensing, retail, e-commerce — around talent.

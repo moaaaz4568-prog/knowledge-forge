@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [franchise, franchising]
 origin: sources/S_yt_8S_C6FqMf6E_en.md
 ---
 
-# G_yt_8S_C6FqMf6E_en — know
+# G_yt_8S_C6FqMf6E_en — franchise
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 194 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, people, want, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A franchise is the growth model Cameron chose after opening seven donut locations by himself: sell the right to run a Jeff's Donuts store under his brand instead of owning every store. Starting another franchise is costly — each new location takes a lot of capital invested — but his first store repaid its initial investment in less than a year. The word appears 22 times in the source, beside locations, capital, investment, and franchising, with the verb form franchising 6 more times. His concrete proof is the demand: people say they will not cross the bridge for anything, but they will cross it for Jeff's Donuts.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- franchising (verb form of the term, used in the source)
 
 ## Live Example
 
-> "It's the it's huge and people you know we want to be where people are when they're ready to buy however they want to buy." — sources/S_yt_8S_C6FqMf6E_en.md
+> "He has started seven locations by himself before he started a franchise." — sources/S_yt_8S_C6FqMf6E_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as simply opening more stores: a franchise is a different model — the buyer invests the capital and buys into the brand and its standards, while Cameron keeps the name and the standards.
+- Read as buying a name only: the buyer also buys the business discipline behind it, like the intentional waste of donuts that miss the standard instead of selling them.

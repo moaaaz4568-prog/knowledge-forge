@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [people, misc-dl collection context]
+aka: [pearl drift]
 origin: sources/S_yt_8P-07z8qjuQ_en.md
 ---
 
-# G_yt_8P-07z8qjuQ_en — people
+# G_yt_8P-07z8qjuQ_en — pearl drift
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 26 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, now, thought, living. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Pearl drift is the speaker's name for what happens when declining economic conditions push middle-class people into lower-status behaviors that they then reframe as deliberate lifestyle choices. Nick defines it as a process driven by wage stagnation, housing unaffordability, and falling real wages, adopted to preserve self-image and social cohesion rather than admit downward mobility. The phrase appears 15 times in the source, beside middle classes, economic conditions, social class, and lifestyle choices. His concrete illustration is fashion: swapping elegant clothes made to last for disposable athleisure as everyday dress, presented as a choice rather than a constraint.
 
 ## Synonyms
 
-- people
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now you have people justifying switching from or just they're lacking the energy because of like mental exhaustion." — sources/S_yt_8P-07z8qjuQ_en.md
+> "I'm bringing back the conversation about pearl drift." — sources/S_yt_8P-07z8qjuQ_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a market or investment term: pearl drift names a social-class behavior pattern in this video, not a price or trading movement, and its examples are family structure, hobbies, and fashion.
+- Read as a freely chosen lifestyle: the whole point is that constraint comes first and the choice framing second — people reframe what they can no longer afford so they do not have to admit downward mobility.

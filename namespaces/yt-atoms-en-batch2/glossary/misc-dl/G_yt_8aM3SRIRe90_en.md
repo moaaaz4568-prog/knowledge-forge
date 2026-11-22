@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [accidental agency owner]
 origin: sources/S_yt_8aM3SRIRe90_en.md
 ---
 
-# G_yt_8aM3SRIRe90_en — know
+# G_yt_8aM3SRIRe90_en — accidental agency owner
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 54 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, know, yeah, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An accidental agency owner is Scott Lef's own label for how he ended up running a B2B content marketing agency, also called Lef, for about 16 years: he got his start in business communications and publishing at McKinsey, and his wife, who works in branding and marketing, told him to hang up his shingle. Growth was accidental and incremental until COVID, when things exploded and the agency grew two or three times in a few years. The phrase appears 2 times in the source, beside agency, B2B, McKinsey, and COVID. His concrete credential is the Olympic bid: 22 months pulling together Chicago's plan for the 2016 Games and communicating it to stakeholders and the International Olympic Committee.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so, when we didn't, it uh it brought up a period of of uh self-reflection and experimentation to figure out, okay, what's next?" — sources/S_yt_8aM3SRIRe90_en.md
-> "It's kind of almost we can bring AI into your agency, but if your process and all the foundation is broken, it's going to just point it out even more." — sources/S_yt_8aM3SRIRe90_en.md
+> "How did uh are you an accidental agency owner? What what made you guys get started?" — sources/S_yt_8aM3SRIRe90_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as having no plan at all: accidental describes the path into ownership, not the operation — he ran McKinsey Quarterly work and a 22-month Olympic bid plan before the agency existed.
+- Read as a small lifestyle business: 16 years serving global professional services firms and B2B companies, with two-to-three-times growth out of the pandemic, is a real firm, not a side project.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [business, misc-dl collection context]
+aka: [PR]
 origin: sources/S_yt_8ZiUWLKAfJs_en.md
 ---
 
-# G_yt_8ZiUWLKAfJs_en — business
+# G_yt_8ZiUWLKAfJs_en — PR
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 134 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, really, part, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+PR is the world the host admits he never fully understood, though it was always in his field of vision: Samantha Dybeck's field, which in many ways echoes branding. People assume everyone knows what PR is — connections with the public — yet the episode is built on the host's open question about what it actually covers, from crisis management to proactive work. The term appears 103 times in the source, beside branding, business, crisis, and customers. Her concrete tool is the contingency plan: sit down with the team and go through everything that can go wrong — a customer complaint, a data leak, someone getting injured — before it happens.
 
 ## Synonyms
 
-- business
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We never thought about it in their business, but they really needed contingency plan unpredictable situations such as management problems and crisis management, if something happens." — sources/S_yt_8ZiUWLKAfJs_en.md
-> "So, if someone is ambitious the goal, you know, increase profits and to scale company, etc., which your advice to a person, that has already been built significant business and is considering whether it is worth it add your own history and face to this case?" — sources/S_yt_8ZiUWLKAfJs_en.md
+> "I I often assume that people know what PR is" — sources/S_yt_8ZiUWLKAfJs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advertising or branding: the episode separates PR — connections with the public, crisis and contingency work — from branding, even while noting how much the two echo each other.
+- Read as a fire extinguisher you call after a crisis: the guest is asked whether PR help comes in a crisis or proactively, and the contingency plan is written before anything goes wrong.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [really, misc-dl collection context]
+aka: [cold email]
 origin: sources/S_yt_8W4JCSzVzeQ_en.md
 ---
 
-# G_yt_8W4JCSzVzeQ_en — really
+# G_yt_8W4JCSzVzeQ_en — cold email
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 111 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, good, right, kind. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cold email is Ramy's whole acquisition channel: he books three, four, sometimes even five sales calls a day without spending on ads, just using cold email and a few hundred bucks a month in tools. The episode walks his strategy step by step, from step one to step ten, and the core of it is understanding the prospect's problem before pitching anything. The phrase appears 34 times in the source, beside sales calls, agency, prospect, and problem. His concrete numbers are manual: a sender doing it by hand manages 20 to 30 emails a day, spending the whole six hours on it.
 
 ## Synonyms
 
-- really
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "no-brainer for me because from a marketer's perspective we need to look at all the tools that we have at our disposal organic SEO was for instance one area that I really specialized in I've got a strong skill set in that and it is" — sources/S_yt_8W4JCSzVzeQ_en.md
-> "would imagine that they'd not be able to send more than 20 to 30 emails per day and that's if they spent the entire six hours of their day sending out those emails yeah absolutely I mean that's a really good point of it too" — sources/S_yt_8W4JCSzVzeQ_en.md
-> "problem then providing the solution with a similar case study that that's a really really good point one time someone called emailed me and they said oh we worked for Amazon and I'm like dude do I look like Amazon I'm like running a a" — sources/S_yt_8W4JCSzVzeQ_en.md
+> "he's been able to book three four sometimes even five sales calls a day without spanning on without spending on ads just using cold email" — sources/S_yt_8W4JCSzVzeQ_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as spam blasting: Ramy's cold email starts from the prospect's problem and pairs the solution with a similar case study — one sender bragging about working for Amazon got dismissed, because the prospect is not Amazon.
+- Read as free: the channel costs a few hundred bucks a month in tools plus hours of sending, so the saving is on ads, not on effort.

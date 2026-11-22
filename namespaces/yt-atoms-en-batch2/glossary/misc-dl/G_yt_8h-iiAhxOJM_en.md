@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [bookkeeping]
 origin: sources/S_yt_8h-iiAhxOJM_en.md
 ---
 
-# G_yt_8h-iiAhxOJM_en — know
+# G_yt_8h-iiAhxOJM_en — bookkeeping
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 80 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah, know, agency, year. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bookkeeping is the service Abby Gallo's boutique firm, Terrain Bookkeeping, sells to agencies: day-to-day reporting, invoicing, and time sheets, kept so owners get the information they need to make decisions — can I hire someone, can I pay myself. Abby came to it from PR and agency work and running an environmental nonprofit, where she did the books and found she loved how it all ties out. The word appears 12 times in the source, beside agency, invoicing, accountant, and decisions. Her concrete case is paying yourself: owners do it occasionally when there is extra money, and her work is figuring out how they can do it on a consistent basis.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "to do that yourself on some basis you know um trying to figure out for the year what you're going to bring in for income and what you're going to spend and making sure that there's enough there to pay yourself and for profit and" — sources/S_yt_8h-iiAhxOJM_en.md
-> "file the taxes yeah so so the bookkeeper is the day-to-day you know doing reporting maybe doing invoicing maybe even time sheets and things like that but the account is maybe quarterly but definitely they're doing the taxes at the end of the year and" — sources/S_yt_8h-iiAhxOJM_en.md
-> "um and we are put in a new garden so we do a lot of gardening at our old house and so we needed to get our garden up and running so that's definitely i know you like to garden too so nerd absolutely how's" — sources/S_yt_8h-iiAhxOJM_en.md
+> "who should be doing all this bookkeeping and invoicing and stuff" — sources/S_yt_8h-iiAhxOJM_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just crunching numbers to hand to the accountant: the firm's bookkeeping turns financials into decisions — hiring, paying yourself, selling the company — not a spreadsheet dump.
+- Read as something to do yourself forever: when starting out you do everything yourself, but the service exists because owners need the information in front of them to decide.

@@ -9,19 +9,17 @@ origin: sources/S_yt_8T7SnBQDiuM_en.md
 
 ## Term
 
-"portfolio" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 15 times in the text (whole-word matches, case folded), and the words most often collocated with it are: graphic, designer, professional, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A portfolio is a graphic designer's most vital tool for winning regular clients: proof of skill set and work experience, and peace of mind for the client. The speaker contrasts professional and amateur portfolios — the professional one shows methodology, explaining briefly the problem a client had and how it was resolved, while the amateur one throws everything in to see what sticks. The word appears 15 times in the source, beside designer, professional, client, and skill set, with the plural portfolios 7 more times. His concrete test is conversion: a professional portfolio shows how the design solved the client's problem, not just that it looks pretty.
 
 ## Synonyms
 
-- portfolio
-- portfolios (variant form used in the source)
+- portfolios (plural form of the term, used in the source)
 
 ## Live Example
 
-> "solve a problem in a smart and effective way so it's always wise to explain briefly the problem a client had and how you resolve that problem now this shows that you're fully capable of tackling real design projects and not simply just someone who" — sources/S_yt_8T7SnBQDiuM_en.md
-> "yourself as a designer amateur portfolios often forget this and they throw everything they have to see what sticks be it low or high quality so here's a good quote to remember as a designer you're only as good as the weakest or the worst" — sources/S_yt_8T7SnBQDiuM_en.md
+> "your most important and your most vital tool to success and regular clients as a graphic designer is your portfolio" — sources/S_yt_8T7SnBQDiuM_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "portfolio": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a gallery of pretty work: the speaker says designing something visually appealing is not enough — the portfolio must show how the design applied to the brief and solved the client's problem.
+- Read as a resume: a portfolio is a selling tool with a personal touch, not a job history — the speaker warns amateurs forget this and throw everything in.

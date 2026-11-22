@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [two, misc-dl collection context]
+aka: [two-minute rule]
 origin: sources/S_yt_8hk6o6VTkkw_en.md
 ---
 
-# G_yt_8hk6o6VTkkw_en — two
+# G_yt_8hk6o6VTkkw_en — two-minute rule
 
 ## Term
 
-"two" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 50 times in the text (whole-word matches, case folded), and the words most often collocated with it are: days, row, rule, years. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The two-minute rule is one of three rules in the speaker's system for repeatable change, alongside the two-year rule and the two-day rule: it helps you overcome the friction of doing a habit. The underrated trick people forget is that you can limit yourself to only two minutes — when he wanted to read daily for an hour, he started by limiting himself to just two minutes a day. The phrase appears 2 times in the source, beside habit, friction, reading, and rules, with the unhyphenated spelling two minute rule 5 more times. His concrete case is the reading habit: putting on shoes, sitting at the desk, opening the book every day.
 
 ## Synonyms
 
-- two
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not overwhelming to the point where students are just dropping out of med school by the masses but also that we can tangibly feel a personal growth and confidence as an up-and-coming doctor so the point is to take the two-year Rule and apply it" — sources/S_yt_8hk6o6VTkkw_en.md
-> "opposite was also true because without the two-day rule you can easily slip into unhealthy habits for example if I cave in and eat an entire pint of ice cream one night which I did once breakups are hard I'm not proud of it I" — sources/S_yt_8hk6o6VTkkw_en.md
-> "underrated trick to the two-minute rule that people forget to talk about is that you can limit yourself to only two minutes when I was trying to build a habit of reading daily for an hour I initially limited myself to just two minutes a" — sources/S_yt_8hk6o6VTkkw_en.md
+> "the point of the two-minute rule is to help you overcome the friction of doing the habit" — sources/S_yt_8hk6o6VTkkw_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "two": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as only do two minutes forever: the limit is a starter to overcome friction, not the goal — the reading habit grew from two minutes toward an hour a day.
+- Read as a standalone productivity hack: it is one of three rules in a system, with the two-year rule for persistence and the two-day rule for never missing twice.

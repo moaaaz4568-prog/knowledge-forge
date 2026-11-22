@@ -1,56 +1,56 @@
-# Index — glossary/ (yt-atoms-en-batch1)
+# Index — glossary/ (yt-atoms-en-batch2)
 
-YouTube English video transcripts batch 2 glossaries (chat glossaries-yt-en-batch2): one G_ entry per T_ atom file — 1,000 files, zero exclusions, misc-dl collection. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 1,858 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 6 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; YouTube/UI chrome and the collection's own name deprioritized). First code 8P-07z8qjuQ, last Id65SyiLzCs.
-| glossary/misc-dl/G_yt_8P-07z8qjuQ_en.md | people | 1 |
-| glossary/misc-dl/G_yt_8PGEYHJTMDs_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8PQhbZRTBPE_en.md | think | 3 |
-| glossary/misc-dl/G_yt_8QVDSuXwSjk_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8QlnupBBVEU_en.md | time | 1 |
-| glossary/misc-dl/G_yt_8QyY2NyohrM_en.md | know | 3 |
-| glossary/misc-dl/G_yt_8RShvHGQwQU_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8RqT_6M9Am4_en.md | right | 3 |
-| glossary/misc-dl/G_yt_8S_C6FqMf6E_en.md | know | 1 |
-| glossary/misc-dl/G_yt_8T7SnBQDiuM_en.md | portfolio | 2 |
-| glossary/misc-dl/G_yt_8TzzCHyZY0k_en.md | design | 3 |
-| glossary/misc-dl/G_yt_8U2o2vl3qP8_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8U8_WbgO9hg_en.md | brand | 2 |
-| glossary/misc-dl/G_yt_8UAsN9wvePE_en.md | design | 1 |
-| glossary/misc-dl/G_yt_8Uef-PuTU3I_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8UpGdVsYY60_en.md | design | 1 |
-| glossary/misc-dl/G_yt_8W4JCSzVzeQ_en.md | really | 3 |
-| glossary/misc-dl/G_yt_8XZAA626Zc4_en.md | want | 2 |
-| glossary/misc-dl/G_yt_8XjHcLFxK9A_en.md | money | 2 |
-| glossary/misc-dl/G_yt_8YHxVXN6Lhk_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8YQshEF48qM_en.md | think | 2 |
-| glossary/misc-dl/G_yt_8YdFcp7nNFk_en.md | design | 1 |
-| glossary/misc-dl/G_yt_8ZiUWLKAfJs_en.md | business | 2 |
-| glossary/misc-dl/G_yt_8Zt7akip_Sc_en.md | know | 1 |
-| glossary/misc-dl/G_yt_8_32ivDVmr0_en.md | bleed | 3 |
-| glossary/misc-dl/G_yt_8aM3SRIRe90_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8awJexLg658_en.md | text | 2 |
-| glossary/misc-dl/G_yt_8b_DBVk8CZI_en.md | know | 1 |
-| glossary/misc-dl/G_yt_8cmdHroZxmA_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8cz89HnhEMc_en.md | right | 2 |
-| glossary/misc-dl/G_yt_8d19tED20N8_en.md | music | 2 |
-| glossary/misc-dl/G_yt_8dMYZfnvhvs_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8eL21cMyhyM_en.md | know | 1 |
-| glossary/misc-dl/G_yt_8g23wWUNQxs_en.md | business | 2 |
-| glossary/misc-dl/G_yt_8gBQqH_0nU4_en.md | business | 2 |
-| glossary/misc-dl/G_yt_8gbkoavLHIg_en.md | now | 1 |
-| glossary/misc-dl/G_yt_8h-iiAhxOJM_en.md | know | 3 |
-| glossary/misc-dl/G_yt_8hc6ZigHbt8_en.md | really | 2 |
-| glossary/misc-dl/G_yt_8hk6o6VTkkw_en.md | two | 3 |
-| glossary/misc-dl/G_yt_8iHcPGULpSU_en.md | today | 3 |
-| glossary/misc-dl/G_yt_8ji2X3ZbaUo_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8kBXE0AX3Tc_en.md | years | 2 |
-| glossary/misc-dl/G_yt_8ke-0sEKY6M_en.md | reals | 1 |
-| glossary/misc-dl/G_yt_8kj0kU83RSI_en.md | know | 1 |
-| glossary/misc-dl/G_yt_8m6Akr-BHsg_en.md | favicon | 3 |
-| glossary/misc-dl/G_yt_8mGRD_YiC_A_en.md | know | 2 |
-| glossary/misc-dl/G_yt_8mOBDZH6iHg_en.md | design | 2 |
-| glossary/misc-dl/G_yt_8mmBg_oe9cg_en.md | people | 1 |
-| glossary/misc-dl/G_yt_8n6stzUoN4A_en.md | coffee | 1 |
-| glossary/misc-dl/G_yt_8npmzz7RmRM_en.md | know | 3 |
+YouTube English video transcripts batch 2 glossaries (chat glossaries-yt-en-batch2): one G_ entry per T_ atom file — 1,000 files, zero exclusions, misc-dl collection. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). Rows 1–50 (codes 8P-07z8qjuQ–8npmzz7RmRM) rebuilt and self-checked 50/50: each live example verbatim byte-exact (ws-fold) from the S_ file cited in its origin, 40–400 chars, no image markers; term counts machine-verified from each source's own text (repeated content terms by count + collocation; YouTube/UI chrome and the collection's own name deprioritized). Rows 51–1,000 are still the GLM versions pending rebuild — their terms, counts and the earlier header claims (1,858 live examples, 0 errors) are GLM's, not verified. First code 8P-07z8qjuQ, last Id65SyiLzCs.
+| glossary/misc-dl/G_yt_8P-07z8qjuQ_en.md | pearl drift | 15 |
+| glossary/misc-dl/G_yt_8PGEYHJTMDs_en.md | lead | 11 |
+| glossary/misc-dl/G_yt_8PQhbZRTBPE_en.md | consumer centric | 5 |
+| glossary/misc-dl/G_yt_8QVDSuXwSjk_en.md | right seat | 2 |
+| glossary/misc-dl/G_yt_8QlnupBBVEU_en.md | blind spots | 10 |
+| glossary/misc-dl/G_yt_8QyY2NyohrM_en.md | 24 hours | 6 |
+| glossary/misc-dl/G_yt_8RShvHGQwQU_en.md | project manager | 10 |
+| glossary/misc-dl/G_yt_8RqT_6M9Am4_en.md | growth operator | 4 |
+| glossary/misc-dl/G_yt_8S_C6FqMf6E_en.md | franchise | 22 |
+| glossary/misc-dl/G_yt_8T7SnBQDiuM_en.md | portfolio | 15 |
+| glossary/misc-dl/G_yt_8TzzCHyZY0k_en.md | emotional responses | 2 |
+| glossary/misc-dl/G_yt_8U2o2vl3qP8_en.md | communication | 7 |
+| glossary/misc-dl/G_yt_8U8_WbgO9hg_en.md | brand identity | 7 |
+| glossary/misc-dl/G_yt_8UAsN9wvePE_en.md | western culture | 7 |
+| glossary/misc-dl/G_yt_8Uef-PuTU3I_en.md | branding | 11 |
+| glossary/misc-dl/G_yt_8UpGdVsYY60_en.md | adding value | 3 |
+| glossary/misc-dl/G_yt_8W4JCSzVzeQ_en.md | cold email | 34 |
+| glossary/misc-dl/G_yt_8XZAA626Zc4_en.md | identity | 7 |
+| glossary/misc-dl/G_yt_8XjHcLFxK9A_en.md | leverage | 5 |
+| glossary/misc-dl/G_yt_8YHxVXN6Lhk_en.md | cult-like personal brand | 4 |
+| glossary/misc-dl/G_yt_8YQshEF48qM_en.md | team | 18 |
+| glossary/misc-dl/G_yt_8YdFcp7nNFk_en.md | trends | 14 |
+| glossary/misc-dl/G_yt_8ZiUWLKAfJs_en.md | PR | 103 |
+| glossary/misc-dl/G_yt_8Zt7akip_Sc_en.md | outbound | 20 |
+| glossary/misc-dl/G_yt_8_32ivDVmr0_en.md | bleed | 11 |
+| glossary/misc-dl/G_yt_8aM3SRIRe90_en.md | accidental agency owner | 2 |
+| glossary/misc-dl/G_yt_8awJexLg658_en.md | gradient | 8 |
+| glossary/misc-dl/G_yt_8b_DBVk8CZI_en.md | persuade | 12 |
+| glossary/misc-dl/G_yt_8cmdHroZxmA_en.md | avatar | 9 |
+| glossary/misc-dl/G_yt_8cz89HnhEMc_en.md | custom prompting | 3 |
+| glossary/misc-dl/G_yt_8d19tED20N8_en.md | business value | 2 |
+| glossary/misc-dl/G_yt_8dMYZfnvhvs_en.md | agency | 12 |
+| glossary/misc-dl/G_yt_8eL21cMyhyM_en.md | bank statements | 7 |
+| glossary/misc-dl/G_yt_8g23wWUNQxs_en.md | six figures | 6 |
+| glossary/misc-dl/G_yt_8gBQqH_0nU4_en.md | AI needs assessment | 2 |
+| glossary/misc-dl/G_yt_8gbkoavLHIg_en.md | mockup | 18 |
+| glossary/misc-dl/G_yt_8h-iiAhxOJM_en.md | bookkeeping | 12 |
+| glossary/misc-dl/G_yt_8hc6ZigHbt8_en.md | iceberg of economics | 10 |
+| glossary/misc-dl/G_yt_8hk6o6VTkkw_en.md | two-minute rule | 2 |
+| glossary/misc-dl/G_yt_8iHcPGULpSU_en.md | freebies | 7 |
+| glossary/misc-dl/G_yt_8ji2X3ZbaUo_en.md | promoter | 24 |
+| glossary/misc-dl/G_yt_8kBXE0AX3Tc_en.md | proof of abundance | 3 |
+| glossary/misc-dl/G_yt_8ke-0sEKY6M_en.md | hero | 7 |
+| glossary/misc-dl/G_yt_8kj0kU83RSI_en.md | lifestyle | 3 |
+| glossary/misc-dl/G_yt_8m6Akr-BHsg_en.md | favicon | 16 |
+| glossary/misc-dl/G_yt_8mGRD_YiC_A_en.md | exit | 7 |
+| glossary/misc-dl/G_yt_8mOBDZH6iHg_en.md | symbol | 7 |
+| glossary/misc-dl/G_yt_8mmBg_oe9cg_en.md | risk | 26 |
+| glossary/misc-dl/G_yt_8n6stzUoN4A_en.md | coffee | 26 |
+| glossary/misc-dl/G_yt_8npmzz7RmRM_en.md | outreach | 18 |
 | glossary/misc-dl/G_yt_8ns002oDgnA_en.md | think | 1 |
 | glossary/misc-dl/G_yt_8osUr4gEnqw_en.md | now | 1 |
 | glossary/misc-dl/G_yt_8pMUkEbAM7g_en.md | design | 2 |

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [persuade]
 origin: sources/S_yt_8b_DBVk8CZI_en.md
 ---
 
-# G_yt_8b_DBVk8CZI_en — know
+# G_yt_8b_DBVk8CZI_en — persuade
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 57 times in the text (whole-word matches, case folded), and the words most often collocated with it are: read, because, mean, book. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Persuade is the purpose of a presentation, in Tim Pard's argument as Randy presents it: about two-thirds into the interview they get to it, and Randy calls it a drop-the-mic moment, because it changes how effective you are on the telephone and on Zoom calls and drives sales up. Good communicators win and bad communicators lose, regardless of underlying ability, so the work is a crisp, clean message rather than more information. The word appears 12 times in the source, beside presentation, message, communication, and sales. His concrete standard is a message so crisp and clean and powerful that it survives the listener self-distracting for 30 seconds and having a complete cognitive fracture.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If I was pitching insurance solutions that I'm going to pitch the person who buys insurance solutions I don't know who buys that you know somebody in finance or procurement seuite for sure." — sources/S_yt_8b_DBVk8CZI_en.md
+> "we get into talking about the purpose of a presentation is to persuade" — sources/S_yt_8b_DBVk8CZI_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as manipulation: persuade here is a crisp, clean message the listener understands, tied to linguistic precision — saying things clearly and not fumbling them — not trickery.
+- Read as presenting information: the speaker says the purpose is to persuade, not to inform — information without persuasion does not move sales.

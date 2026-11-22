@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [design, designs]
+aka: [adding value]
 origin: sources/S_yt_8UpGdVsYY60_en.md
 ---
 
-# G_yt_8UpGdVsYY60_en — design
+# G_yt_8UpGdVsYY60_en — adding value
 
 ## Term
 
-"design" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 29 times in the text (whole-word matches, case folded), and the words most often collocated with it are: graphic, starting, actually, community. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Adding value is the designer's answer to staying motivated: the drive that keeps him going is adding value to people — to the graphic design community on YouTube and to his clients. Without passion for something, he warns, motivation eventually burns out, so the work has to serve someone beyond himself. The phrase appears 3 times in the source, beside motivation, clients, community, and passion. His concrete rule is negative as well as positive: in graphic design you do not want to make designs that cause a company to go bust — you want to be adding value to your clients.
 
 ## Synonyms
 
-- design
-- designs (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I wasn't that good but I wasn't too bad either you know I'm one of my best friends he was actually better than me Arts spoke about graphic design one day and I didn't have a clue what it was so I found myself researching" — sources/S_yt_8UpGdVsYY60_en.md
+> "the motivation that keeps me going is that I'm adding value to The Graphic Design community" — sources/S_yt_8UpGdVsYY60_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "design": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as giving work away for free: adding value is the motivation and the ethic behind the work, not free labor — the clients still pay, and the value is what keeps them.
+- Read as a slogan: he ties it to concrete behavior — getting a little better each day so output and quality do not drop — not to a poster on the wall.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [people, misc-dl collection context]
+aka: [risk]
 origin: sources/S_yt_8mmBg_oe9cg_en.md
 ---
 
-# G_yt_8mmBg_oe9cg_en — people
+# G_yt_8mmBg_oe9cg_en — risk
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 31 times in the text (whole-word matches, case folded), and the words most often collocated with it are: avoid, afraid, decisions, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Risk is the common factor among successful people in this video about recurring mistakes in selling expertise: a healthy relationship with risk means they make many decisions quickly, and the worst decision you can make in your project is not making another decision. A leader is the one who walks a path without knowing its outcome — he is the one who makes decisions — while companies and consultants stay exactly the same as when they started three to five years ago, selling consulting hours and courses without changing anything. The word appears 26 times in the source, beside client, decisions, selling, and expert. His concrete case is pricing: reach a point where you price the work or the project or the client, not the hourly consultation fee, treating projects like investments with very low risk.
 
 ## Synonyms
 
-- people
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now, most people don't want to specialize because they object that my work will be routine and boring." — sources/S_yt_8mmBg_oe9cg_en.md
+> "The common factor among them all is what you expect: risk, a healthy relationship with risk." — sources/S_yt_8mmBg_oe9cg_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as reckless gambling: a healthy relationship with risk means deciding quickly and learning, not betting blindly.
+- Read as risk meaning losing money: here risk is about decisions — not deciding is the worst decision, and announcing your specialization is itself a risk.
