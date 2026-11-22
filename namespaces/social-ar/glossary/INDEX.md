@@ -3,11 +3,62 @@
 Chunk 1 of social-ar-batch2-part2: 50 files (codes 1501–1550 of social-ar-batch2-list.txt).
 Chunk 2 of social-ar-batch2-part2: 50 files (codes 1551–1600 of social-ar-batch2-list.txt).
 Chunk 3 of social-ar-batch2-part2: 50 files (codes 1601–1650 of social-ar-batch2-list.txt).
-Live-example total: 305 (chunk 1: 82, chunk 2: 105, chunk 3: 118).
-Gates: 200 entities, 0 rejected (gates.py check --namespace social-ar on sparse checkout: 50 T_ chunk 2 + 150 G_ chunks 1+2+3; chunk-2 in-scope 100/100 accepted)
+Live-example total: 355 (chunk 1: 82, chunk 2: 105, chunk 3: 118, part1 chunk 1: 50).
+Gates: 100 entities, 0 rejected (gates.py check --namespace social-ar on sparse checkout: 50 T_ chunk 1 + 50 G_ chunk 1; chunk-1 in-scope 100/100 accepted)
+Chunk 1 of social-ar-batch2-part1: 50 files (codes 1–50 of social-ar-batch2-list.txt).
 
 | File | Term | Count |
 |---|---|---|
+| glossary/G_ig_marketingwithshaban_Ct18SunPdrh.md | لون الإطار | 1 |
+| glossary/G_ig_marketingwithshaban_Ct7D9zANo_A.md | نيو ماركيتنج | 1 |
+| glossary/G_ig_marketingwithshaban_CtCVuU3Osca.md | نسبة التفاعل | 1 |
+| glossary/G_ig_marketingwithshaban_CtKJsLVvNiP.md | outbound marketing | 1 |
+| glossary/G_ig_marketingwithshaban_CtPXcTjtsld.md | scarcity marketing | 1 |
+| glossary/G_ig_marketingwithshaban_CtcLCyptk6p.md | كوبي رايتر | 1 |
+| glossary/G_ig_marketingwithshaban_CthVHMNMrSp.md | سلوات افكت | 1 |
+| glossary/G_ig_marketingwithshaban_CtmcvgnJdry.md | description | 1 |
+| glossary/G_ig_marketingwithshaban_CtuSnv3vw9G.md | بروموت | 1 |
+| glossary/G_ig_marketingwithshaban_Cu-BCDZAyIN.md | social proof | 1 |
+| glossary/G_ig_marketingwithshaban_Cu7cEfBOUta.md | كونتينت بلان | 1 |
+| glossary/G_ig_marketingwithshaban_CuANO9oPDI3.md | الديجيتال ماركتينج | 1 |
+| glossary/G_ig_marketingwithshaban_CuFXQW6LE-m.md | جوجل اندكس | 1 |
+| glossary/G_ig_marketingwithshaban_CuKdH2YvpHS.md | Top Ads for TikTok | 1 |
+| glossary/G_ig_marketingwithshaban_CuSeQ1gOzJy.md | Marketing Funnel | 1 |
+| glossary/G_ig_marketingwithshaban_CuZ-MlwM0ky.md | awareness | 1 |
+| glossary/G_ig_marketingwithshaban_Cuci056R4Pj.md | ثريدز | 1 |
+| glossary/G_ig_marketingwithshaban_CukQlnDMjze.md | سعرك غالي | 1 |
+| glossary/G_ig_marketingwithshaban_CupmOFOg_hN.md | Find Help | 1 |
+| glossary/G_ig_marketingwithshaban_CuxIFBvsPju.md | كاستم أوديانس | 1 |
+| glossary/G_ig_marketingwithshaban_Cv0IGVpt3Wk.md | المشاعر | 1 |
+| glossary/G_ig_marketingwithshaban_Cv7wG1ztBS8.md | طريقة عرض المحتوى | 1 |
+| glossary/G_ig_marketingwithshaban_CvAm52VO79K.md | اد كريدت | 1 |
+| glossary/G_ig_marketingwithshaban_CvFvGbtOK7g.md | sales | 1 |
+| glossary/G_ig_marketingwithshaban_CvK3zZ6PC4y.md | فيديو فيوز | 1 |
+| glossary/G_ig_marketingwithshaban_CvSotFNrIyP.md | color harmony | 1 |
+| glossary/G_ig_marketingwithshaban_CvXwCsvJ7Yg.md | الاي كومرس | 1 |
+| glossary/G_ig_marketingwithshaban_CviJUHvLygn.md | صورة ثابتة | 1 |
+| glossary/G_ig_marketingwithshaban_CvnQaemumT6.md | Retargeting | 1 |
+| glossary/G_ig_marketingwithshaban_CvschJqvoQ8.md | الكونتنت ماركتينج | 1 |
+| glossary/G_ig_marketingwithshaban_Cvu80zZLOss.md | البلانوغرام | 1 |
+| glossary/G_ig_marketingwithshaban_Cw-wNfEMxrb.md | ماركتينج بلان | 1 |
+| glossary/G_ig_marketingwithshaban_CwA--klMz78.md | العلامة الزرق | 1 |
+| glossary/G_ig_marketingwithshaban_CwGEQp3spGZ.md | شهادة معتمدة | 1 |
+| glossary/G_ig_marketingwithshaban_CwLQYyzsush.md | story telling | 1 |
+| glossary/G_ig_marketingwithshaban_Cwf0gphsxo0.md | فور بلاي | 1 |
+| glossary/G_ig_marketingwithshaban_Cwspzbtste0.md | كاتب | 1 |
+| glossary/G_ig_marketingwithshaban_Cx02-fXshxT.md | أساسيات التسويق | 1 |
+| glossary/G_ig_marketingwithshaban_Cx8hC_aM-bu.md | استراتيجيات التسعير | 1 |
+| glossary/G_ig_marketingwithshaban_CxOL67Ys0aX.md | الحرامي الفنان | 1 |
+| glossary/G_ig_marketingwithshaban_Cx_FYeKMNgf.md | الهوك | 1 |
+| glossary/G_ig_marketingwithshaban_Cy1Flpess8q.md | القضية | 1 |
+| glossary/G_ig_marketingwithshaban_CyEFVtDspif.md | الريتش الشهري | 1 |
+| glossary/G_ig_marketingwithshaban_CyJUG2gMort.md | behavioral pricing | 1 |
+| glossary/G_ig_marketingwithshaban_CyOdwnUsDmS.md | السيريل | 1 |
+| glossary/G_ig_marketingwithshaban_Cy_aggZMm4B.md | ديبراندينغ | 1 |
+| glossary/G_ig_marketingwithshaban_CybR3_OMnp8.md | الكلمات المحظورة | 1 |
+| glossary/G_ig_marketingwithshaban_Cz1ijxmse2l.md | الخُدعة | 1 |
+| glossary/G_ig_marketingwithshaban_CzUE1l1MS6W.md | الإيه بي تيستينج | 1 |
+| glossary/G_ig_marketingwithshaban_CzZM2TwsNFn.md | الاستهداف | 1 |
 | glossary/G_ig_rawaa.aljallad_C5-oIH5rTtk.md | pfpmaker | 1 |
 | glossary/G_ig_rawaa.aljallad_C5013cutcfp.md | noise cancellation | 1 |
 | glossary/G_ig_rawaa.aljallad_C56kkr9N2uL.md | الزوم | 2 |
