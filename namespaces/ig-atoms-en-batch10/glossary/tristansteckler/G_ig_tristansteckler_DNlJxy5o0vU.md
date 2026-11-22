@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [actually, tristansteckler account context]
+aka: ["guarantee"]
 origin: sources/S_ig_tristansteckler_DNlJxy5o0vU.md
 ---
 
-# G_ig_tristansteckler_DNlJxy5o0vU — actually
+# G_ig_tristansteckler_DNlJxy5o0vU — guarantee
 
 ## Term
 
-"actually" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: guarantee, commit, person, yourself. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A guarantee is the demand Tristan answers with a marriage: the prospect wants to test the program for a day, and Tristan asks how his future wife would feel about a trial marriage with no ring and no paper. The word appears eight times, beside married, commit, and test, and it drives the whole exchange. The prospect only wants to make sure it is safe, and Tristan names the want directly: a guarantee that the program will get him where he wants to go. The split is the same as before: one person needs a guarantee of success before acting, and the other becomes the guarantee himself by fully committing.
 
 ## Synonyms
 
-- actually
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Is there any way I could test it out for a day? Like test out the program or... Yeah, they just give me a few calls and I've been like looking over the stuff and kind of figuring out whether or not this is something I actually want to commit to. Can I challenge you on that? Yeah, I guess. Are you married? No. Do you want to be married? Of course." — sources/S_ig_tristansteckler_DNlJxy5o0vU.md
-> "Yeah, because it's actually impossible. And the truth is like only person who can actually guarantee results is you. Because think about it like there're gonna be two types of people in this situation there's gonna be the person who says, hey I need a guarantee of success before I take action and then there's gonna be the person who actually becomes the guarantee themselves." — sources/S_ig_tristansteckler_DNlJxy5o0vU.md
-> "So the real question isn't whether or not I can guarantee your success it's whether or not you're willing to actually guarantee it for yourself. So are you actually ready to become the person who fully commits to himself? Yes or no?" — sources/S_ig_tristansteckler_DNlJxy5o0vU.md
+> "And the truth is like only person who can actually guarantee results is you." — sources/S_ig_tristansteckler_DNlJxy5o0vU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "actually": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that marriage analogies close every trial request: the analogy works here because the prospect is unmarried and wants marriage, not because it fits every stall.
+- Read as a dismissal of testing a program: Tristan tests the want behind the trial instead, and the prospect still has to commit to himself.

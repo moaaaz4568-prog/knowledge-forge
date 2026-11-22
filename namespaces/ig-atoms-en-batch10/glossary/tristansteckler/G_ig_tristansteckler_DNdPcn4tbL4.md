@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [person, tristansteckler account context]
+aka: ["porcupine"]
 origin: sources/S_ig_tristansteckler_DNdPcn4tbL4.md
 ---
 
-# G_ig_tristansteckler_DNdPcn4tbL4 — person
+# G_ig_tristansteckler_DNdPcn4tbL4 — porcupine
 
 ## Term
 
-"person" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: already, reason, putting, nothing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To porcupine is what an insecure prospect does when cornered by specific questions: he bristles, tries to take control, and fronts like a man who runs a multi-million-dollar company. The word appears once, beside insecurity, validation, and control, and it is the video's whole diagnosis. The front comes from a tremendous insecurity, something from when he was younger, perhaps a father who never said he loved him, and a feeling of never being good enough that fuels the hunger for money and validation. The answer is to stay grounded: the reaction has nothing to do with the rep, and everything to do with the person.
 
 ## Synonyms
 
-- person
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The reason this person is putting on a front like that is because of a tremendous amount of insecurity, something that happened to them when they were younger, or maybe dad didn't tell him that he loved him, or something traumatic happened where he has a deep insecurity and feeling that he's never going to be good enough, which fuels his desire to make money so that he can provide but more" — sources/S_ig_tristansteckler_DNdPcn4tbL4.md
-> "You put him in a corner where you're asking him specific questions and he feels challenged or threatened, he's going to porcupine. He's going to want to try and take control. And if you understand that and you're grounded in who you are as a person, that has nothing to do with me, that has everything to do with the person. It's about how I respond to that." — sources/S_ig_tristansteckler_DNdPcn4tbL4.md
+> "You put him in a corner where you're asking him specific questions and he feels challenged or threatened, he's going to porcupine." — sources/S_ig_tristansteckler_DNdPcn4tbL4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "person": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a diagnosis of the prospect's childhood: Tristan offers the father story as a maybe, not as a fact about this caller.
+- Read as a permission to corner a prospect on purpose: the corner in the video is the effect of specific questions, and the lesson is how to respond, not how to trap.

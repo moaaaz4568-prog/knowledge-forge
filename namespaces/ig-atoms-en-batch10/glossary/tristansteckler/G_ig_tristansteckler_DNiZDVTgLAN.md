@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [sales reps, tristansteckler account context]
+aka: ["sell with my story"]
 origin: sources/S_ig_tristansteckler_DNiZDVTgLAN.md
 ---
 
-# G_ig_tristansteckler_DNiZDVTgLAN — sales reps
+# G_ig_tristansteckler_DNiZDVTgLAN — sell with my story
 
 ## Term
 
-"sales reps" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hundreds, preach, reps, trained. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To sell with my story is the conviction Tristan says he brought under Richard's offer: he had joined the program himself and made money in it, so he could tell prospects it worked for him and could work for them. The phrase appears once, beside conviction, program, and living, and it is the video's whole edge. He had trained hundreds upon hundreds of sales reps across dozens of coaching companies doing fifty thousand, a hundred thousand, and a million plus, and living outside the comfort zone was the leadership he preached. The edge shows at the objection: when people push back at the end of the call, he answers with his own result instead of a script.
 
 ## Synonyms
 
-- sales reps
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Living life outside of your comfort zone, becoming a better leader through taking risks is something that I preach to sales reps. I've trained hundreds upon hundreds of sales reps. I've worked with dozens of different coaching companies doing 50k, 100k, one million plus. When I first got under Richard's offer, I had a lot of conviction because I'd join his program so I could sell with my story." — sources/S_ig_tristansteckler_DNiZDVTgLAN.md
+> "Living life outside of your comfort zone, becoming a better leader through taking risks is something that I preach to sales reps." — sources/S_ig_tristansteckler_DNiZDVTgLAN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales reps": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that a personal story replaces a pitch: the story is the conviction behind the close, and the video still shows him handling objections at the end of the call.
+- Read as proof that joining one program makes a trainer: Tristan's story sits on hundreds of reps trained and dozens of companies worked with, not on one enrollment.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [Male Speaker, tristansteckler account context]
+aka: ["value issue"]
 origin: sources/S_ig_tristansteckler_DNVhCV1gj0d.md
 ---
 
-# G_ig_tristansteckler_DNVhCV1gj0d — Male Speaker
+# G_ig_tristansteckler_DNVhCV1gj0d — value issue
 
 ## Term
 
-"Male Speaker" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: speaker, male, alright, ten. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A value issue is the reframe Tristan offers when a prospect says she has no cash for a ten-thousand-dollar investment: is something missing from the offer, or is it simply the money. The phrase appears once, beside cash, investment, and ten K, and it is the video's whole test. The prospect says she sees the value and really wants to start, yet has no way to do it today, so the rep refuses to let finances block the help. The move is to go deeper into the uncertainty: if the walk-through can get her to the goal, the cash question is not the real block.
 
 ## Synonyms
 
-- Male Speaker
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Alright, so you're gonna tackle investment then? Sure. Awesome. So to work with me over the course of the next three months to increase your conversion rate, close more sales calls, it's gonna be a one-time investment at ten K." — sources/S_ig_tristansteckler_DNVhCV1gj0d.md
-> "Ten K... Honestly, I don't think so. I just have a car payment coming up. Yeah..." — sources/S_ig_tristansteckler_DNVhCV1gj0d.md
+> "Like you just feel like there's something that's missing from my offer, like it's not gonna help you, it's not gonna be the number one thing you need to get the results you're looking for?" — sources/S_ig_tristansteckler_DNVhCV1gj0d.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Male Speaker": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a dismissal of a real cash shortage: the prospect names a car payment coming up, and Tristan tests whether value or cash is the block instead of assuming.
+- Read as a promise to waive the price: he never offers a discount, he asks whether the offer itself is missing something.

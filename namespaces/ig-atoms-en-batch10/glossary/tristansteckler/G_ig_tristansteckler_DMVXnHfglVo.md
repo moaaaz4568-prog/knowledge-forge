@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [idea, tristansteckler account context]
+aka: ["coaching program"]
 origin: sources/S_ig_tristansteckler_DMVXnHfglVo.md
 ---
 
-# G_ig_tristansteckler_DMVXnHfglVo — idea
+# G_ig_tristansteckler_DMVXnHfglVo — coaching program
 
 ## Term
 
-"idea" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: market, sell, like, fulfill. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A coaching program is the expensive commitment Tristan describes joining before he knew how to sell: a four-times-pricier-than-expected program he went all in on despite his twin brother calling him an idiot. The phrase appears once, beside six thousand dollars, scammed, and twin brother, and the story is the video's whole spine. He rode the program out even while admitting he had no idea what he was doing, then did weight loss coaching for six to eight months at three thousand a month. The point is the bet itself: he bought the program first and learned the skills inside it, instead of waiting until he felt ready.
 
 ## Synonyms
 
-- idea
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I ended up doing that program and riding it out as much as I could. And whenever I recognized that I had no idea what I was doing... For those of you who don't know, I also used to weigh 300 pounds at one point. And so I did weight loss coaching. And I had no idea how to market, no idea how to sell, no idea how to like fulfill for these people. And I did that for like six to eight months." — sources/S_ig_tristansteckler_DMVXnHfglVo.md
-> "And I was doing like three K a month, I think the most I did was like eight K. Um, but I had no idea what I was doing. That was my intro into the space was me like basically betting on myself, making a big... Investment." — sources/S_ig_tristansteckler_DMVXnHfglVo.md
+> "They told me the program was like four times the amount that I thought it was gonna be." — sources/S_ig_tristansteckler_DMVXnHfglVo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "idea": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a recommendation to buy any six-thousand-dollar program: Tristan tells one story about his own start, not a rule that every expensive program is worth joining.
+- Read as a claim that the program taught him to sell: he says plainly he had no idea how to market, sell, or fulfill for his people while he was in it.

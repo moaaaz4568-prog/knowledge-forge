@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [because, tristansteckler account context]
+aka: ["sell on congruency"]
 origin: sources/S_ig_tristansteckler_DM_LOFGy_C2.md
 ---
 
-# G_ig_tristansteckler_DM_LOFGy_C2 — because
+# G_ig_tristansteckler_DM_LOFGy_C2 — sell on congruency
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, story, believe, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To sell on congruency is Tristan's rule that you cannot ask a prospect to do what you would not do yourself: the rep who buys into the spouse story cannot overcome it, because he believes it himself. The phrase appears twice, beside story, lose, and followed, and it is the video's named method. He preaches it to salespeople all the time, then proves it with his own weight: he could not tell a three-hundred-pound person how to lose weight until he had lost a hundred pounds himself. The test is the investment: if you have not put that kind of money into your own development, you have no standing to guide someone else through it.
 
 ## Synonyms
 
-- because
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How many sales do you lose to the 'I need to talk with my spouse' objection? You lose most of them, don't you? Do you know why? Because you buy into their story, and so when you get that objection, you have no choice but buy into their story because you believe that story yourself. It's not congruent. What about 'think it over'?" — sources/S_ig_tristansteckler_DM_LOFGy_C2.md
-> "How many of you say to most customers like, 'Hey, I really need to think this over,' sounds good, really need to think it over. How many of you give that same objection? And how many of you have a harder time overcoming it? You are the objection you give. Because you buy into the story because you believe it yourself... This is absolutely the facts." — sources/S_ig_tristansteckler_DM_LOFGy_C2.md
-> "In price range, so if you haven't invested that type of money into your own personal development, how does it make sense for you to be the person who navigates that type of change with your prospects? As an example, if I was 300 pounds, I wouldn't have any right to go to someone in the gym and tell them how to lose weight. The reason I can say that is because I used to weigh 300 pounds." — sources/S_ig_tristansteckler_DM_LOFGy_C2.md
+> "You have to become someone worthy of being followed, and you also have to sell on congruency." — sources/S_ig_tristansteckler_DM_LOFGy_C2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that believing the story is enough to sell: Tristan says the belief is the problem, and the fix is becoming someone worthy of being followed.
+- Read as permission to shame a prospect for their story: his point is about the rep's own congruence, not about judging the customer's excuse.

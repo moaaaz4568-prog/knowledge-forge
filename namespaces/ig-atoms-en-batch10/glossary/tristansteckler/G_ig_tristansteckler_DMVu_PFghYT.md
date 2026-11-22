@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [guarantee, guarantees]
+aka: ["guarantee", "guarantees"]
 origin: sources/S_ig_tristansteckler_DMVu_PFghYT.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_tristansteckler_DMVu_PFghYT.md
 
 ## Term
 
-"guarantee" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, success, give, lose. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A guarantee is the demand Tristan refuses to meet in this video: the prospect wants a written promise that the weight will come off before spending the money, and he answers that the only guarantee is the person. The word appears eight times, beside refund, coaches, and accountability, and it carries the whole argument. He first concedes that his coaches are paid on performance, so a bad coach earns nothing, then turns the demand around: the people who lose the most weight are the ones who communicate most and put in the most work. The close is the flip itself: become the guarantee of your own success, because every diet works and every business model works, and only consistency and discipline decide the outcome.
 
 ## Synonyms
 
-- guarantee
-- guarantees (variant form used in the source)
+- guarantees (the plural form the source uses for the coaches' performance terms)
 
 ## Live Example
 
-> "Can you give me a guarantee that I'll lose the weight? Yeah, that's um... that's not a worry. You say you're looking for a guarantee. What in specific are you looking for to make sure that you are going to see success?" — sources/S_ig_tristansteckler_DMVu_PFghYT.md
-> "The only guarantee in life is that you're going to die and you're also going to pay taxes. And when you die, you're going to pay more taxes. But what if I told you that you could become the guarantee of your own success? Because there's always going to be two types of people in this situation." — sources/S_ig_tristansteckler_DMVu_PFghYT.md
-> "It's not the business model that makes a person successful or the diet that makes a person successful. It's who the person becomes and the consistency and the discipline and the showing up every single day that leads to the outcome, aka the guarantee of success. As an example, when I got into high-ticket coaching and closing, there was no guarantee that I was going to be successful." — sources/S_ig_tristansteckler_DMVu_PFghYT.md
+> "But what if I told you that you could become the guarantee of your own success?" — sources/S_ig_tristansteckler_DMVu_PFghYT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "guarantee": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that the program guarantees weight loss: Tristan says the opposite, that no coach can guarantee a result the client will not work for.
+- Read as a dismissal of refunds: he takes the refund demand seriously and explains the performance pay that backs it, then asks the prospect to take full accountability too.

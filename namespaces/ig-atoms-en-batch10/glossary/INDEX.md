@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch10)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,980 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,911 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/tristansteckler/G_ig_tristansteckler_DMOMRCqypX_.md | detected | 1 |
 | glossary/tristansteckler/G_ig_tristansteckler_DMQD_SAIpks.md | right now | 3 |
 | glossary/tristansteckler/G_ig_tristansteckler_DMQWDCigV1A.md | people | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMSn_jdI5ag.md | little bit | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMVXnHfglVo.md | idea | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMVu_PFghYT.md | guarantee | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMWmPh6svCA.md | buying | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMYBSfoIcpi.md | think | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMYlcgDyqn3.md | mean | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DM_LOFGy_C2.md | because | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMaaMd7onIG.md | want | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMayavSAKMQ.md | sales | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMbEi1JS6ED.md | guarantee | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMc_SD_ohjX.md | months | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMfgwJvIt_e.md | sales | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMi7AHMyNdh.md | expensive | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMiICtgoLFW.md | right | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMkuyFvorOy.md | feel like | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMnZH_eoPKQ.md | questions | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMpzSSyIS67.md | Interviewer | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMsbZXboVdq.md | Speaker | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMtR9MryDIX.md | need | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMvDamVIbc4.md | hard | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMxgMocMrpz.md | right | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DMzJb04sDso.md | buttered sausage | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DN-twJujDvP.md | John Franco | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DN0alo_WrGW.md | let | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DN2_aljWqje.md | want | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DN5kJ5rWsse.md | guy | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DN8I8n3je6c.md | feel uncomfortable | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNA7zJLM0qU.md | fix | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNB2-LNyuJ5.md | transcription | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNByz4uyYe2.md | Miguel | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNDsHmoIhia.md | high performer | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNEG0CGxPDq.md | looking | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNGETaxMGJ_.md | know | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNGoGzKgkrL.md | prospect | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNIy0FygqQQ.md | people | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNLN2bcMZkM.md | honest | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNONc1qg12Z.md | everything | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNOhTKzI6GM.md | business | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNQXemXsRNA.md | frame | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNRPGr0yAoL.md | say | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNS8OkYyuCL.md | money | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNVhCV1gj0d.md | Male Speaker | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNYFyTlg_kw.md | right | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNdPcn4tbL4.md | person | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNgZ-ilI76L.md | calls | 2 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNiZDVTgLAN.md | sales reps | 1 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNjKCoUx22u.md | where | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNlJxy5o0vU.md | actually | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNn237bIgtf.md | actually | 3 |
-| glossary/tristansteckler/G_ig_tristansteckler_DNqHW2Ng-Uj.md | gonna | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMSn_jdI5ag.md | partner objections | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMVXnHfglVo.md | coaching program | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMVu_PFghYT.md | guarantee | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMWmPh6svCA.md | lack of confidence | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMYBSfoIcpi.md | smokescreen | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMYlcgDyqn3.md | close rate | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DM_LOFGy_C2.md | sell on congruency | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMaaMd7onIG.md | art of persuasion | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMayavSAKMQ.md | high-ticket sales | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMbEi1JS6ED.md | guarantee | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMc_SD_ohjX.md | sell them the exit | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMfgwJvIt_e.md | take the frame | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMi7AHMyNdh.md | too expensive | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMiICtgoLFW.md | due diligence | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMkuyFvorOy.md | uncomfortable | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMnZH_eoPKQ.md | five questions | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMpzSSyIS67.md | leader | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMsbZXboVdq.md | sleep on a decision | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMtR9MryDIX.md | think about it | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMvDamVIbc4.md | which hard | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMxgMocMrpz.md | certainty | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DMzJb04sDso.md | ramble | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DN-twJujDvP.md | imperfect action | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DN0alo_WrGW.md | pray about this | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DN2_aljWqje.md | standard of excellence | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DN5kJ5rWsse.md | high-pressure sales call | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DN8I8n3je6c.md | pushy | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNA7zJLM0qU.md | framing | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNB2-LNyuJ5.md | notice | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNByz4uyYe2.md | four questions | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNDsHmoIhia.md | high performer question | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNEG0CGxPDq.md | fold like a lawn chair | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNGETaxMGJ_.md | FOMO | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNGoGzKgkrL.md | status | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNIy0FygqQQ.md | relationship selling | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNLN2bcMZkM.md | to be honest with you | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNONc1qg12Z.md | scarcity | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNOhTKzI6GM.md | six layers deeper | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNQXemXsRNA.md | brevity | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNRPGr0yAoL.md | pause | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNS8OkYyuCL.md | MOUNT NUT | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNVhCV1gj0d.md | value issue | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNYFyTlg_kw.md | shifting identity | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNdPcn4tbL4.md | porcupine | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNgZ-ilI76L.md | nothing like a salesperson | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNiZDVTgLAN.md | sell with my story | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNjKCoUx22u.md | I don't quit | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNlJxy5o0vU.md | guarantee | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNn237bIgtf.md | trust yourself | 1 |
+| glossary/tristansteckler/G_ig_tristansteckler_DNqHW2Ng-Uj.md | certainty | 1 |
 | glossary/tristansteckler/G_ig_tristansteckler_DNssJ0fAWaF.md | actually | 3 |
 | glossary/tristansteckler/G_ig_tristansteckler_DNvRB2O2rzp.md | because | 2 |
 | glossary/tristansteckler/G_ig_tristansteckler_DNyJGQ5wP05.md | trust | 2 |

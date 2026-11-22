@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [sales, tristansteckler account context]
+aka: ["take the frame"]
 origin: sources/S_ig_tristansteckler_DMfgwJvIt_e.md
 ---
 
-# G_ig_tristansteckler_DMfgwJvIt_e — sales
+# G_ig_tristansteckler_DMfgwJvIt_e — take the frame
 
 ## Term
 
-"sales" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: process, call, says, transcripts. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To take the frame is what a sales rep prospect does when he says he is in sales and wants no emotional buildup: he tries to seize control of the call before it starts. The phrase appears once, beside leader, sales, and uncomfortable, and it is the video's central charge. Tristan answers by refusing the frame and asking how the rep handles it when a prospect demands the price, because the rep will start backpedaling the moment he has to defend his own close rate. The rule underneath is leadership: Tristan is the leader in the interaction, and the prospect has to submit to his authority on the call or the call goes nowhere.
 
 ## Synonyms
 
-- sales
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. Let's get right to the transcripts. I am in sales at the moment, as you know. So, I do know what you're doing. I really know the game. I don't want any of this emotional buildup stuff. Can we just get to the point? Just tell me what you have. Oh, Sam, I love that! I love that you're in sales because you get where I'm coming from and you get how important these questions are." — sources/S_ig_tristansteckler_DMfgwJvIt_e.md
-> "And you get the whole sales process already—which is the beauty of this—because we can actually have like a way more open... way more open... conversation. Honestly, conversation together. Since you're so much further along the line and so much more advanced than most people I already talk to, I guess like what I'd want to understand better... I love her tone. It is incredible." — sources/S_ig_tristansteckler_DMfgwJvIt_e.md
-> "So I have to impose my will on the person and get them to follow my lead. That's why confidence and certainty in yourself is so vitally important in the sales process. Use that on your next sales call. Follow this page for more value." — sources/S_ig_tristansteckler_DMfgwJvIt_e.md
+> "If you were the leader, the problem would be solved and we would not be talking right now." — sources/S_ig_tristansteckler_DMfgwJvIt_e.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to argue with every prospect who knows sales: Tristan only takes the frame back from someone trying to seize it, and he does it by asking questions, not by lecturing.
+- Read as a claim that only closers may lead a call: the leadership here is about holding the interaction, and the video ties it to confidence and certainty, not to a title.

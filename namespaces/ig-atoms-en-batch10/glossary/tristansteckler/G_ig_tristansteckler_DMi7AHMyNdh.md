@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [expensive, tristansteckler account context]
+aka: ["too expensive"]
 origin: sources/S_ig_tristansteckler_DMi7AHMyNdh.md
 ---
 
-# G_ig_tristansteckler_DMi7AHMyNdh — expensive
+# G_ig_tristansteckler_DMi7AHMyNdh — too expensive
 
 ## Term
 
-"expensive" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: comparison, everything, bit, okay. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Too expensive is the price objection Tristan reframes as a skills problem: the prospect expected nothing near five grand, so Tristan asks expensive in comparison to what. The phrase appears five times, beside money, skills, and fiancée, and it runs the whole dialogue. He first gets the prospect to agree the program can teach the skills to make the money, then asks why he would invest in himself at all. The turn is the symptom question: if the prospect had the skills to close more sales, would he still be sitting here lacking the resources, and how much longer does he want everything to feel too expensive.
 
 ## Synonyms
 
-- expensive
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Yeah, honestly dude... I just... I don't have the money for this... it's just a bit too expensive for me." — sources/S_ig_tristansteckler_DMi7AHMyNdh.md
-> "And how much longer do you want to think that everything is too expensive for you to afford?" — sources/S_ig_tristansteckler_DMi7AHMyNdh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "expensive": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a dismissal of a real budget limit: Tristan acknowledges the money might be an issue, then tests whether the lack of skills is the cause underneath it.
+- Read as a trick to make five grand sound cheap: he never lowers the price or hides it, he asks the prospect to compare the cost against the skills it buys.

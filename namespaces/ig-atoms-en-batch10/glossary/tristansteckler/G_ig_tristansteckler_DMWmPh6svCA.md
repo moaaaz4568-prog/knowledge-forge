@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [buying, tristansteckler account context]
+aka: ["lack of confidence"]
 origin: sources/S_ig_tristansteckler_DMWmPh6svCA.md
 ---
 
-# G_ig_tristansteckler_DMWmPh6svCA — buying
+# G_ig_tristansteckler_DMWmPh6svCA — lack of confidence
 
 ## Term
 
-"buying" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: new, car, home, rolex. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A lack of confidence is the real product problem in this video: a newly married client was told his mindset was already putting him in a place of lack, and that is why he does not close deals. The phrase appears once, beside legacy, opportunity, and Rolex, and it frames the whole lesson. Tristan contrasts what the prospect is not buying — a car, a new home, a new Rolex — with what he is buying: an opportunity to fix the legacy of his family. The confidence gap is the sale, because a man who doubts he can do it will not pay for the chance to try.
 
 ## Synonyms
 
-- buying
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He's not buying a car, he's not buying a new home, he's not buying a new Rolex, he's buying an opportunity to fix the legacy of his family. What registers to me is he has a lack of confidence that one he can do it..." — sources/S_ig_tristansteckler_DMWmPh6svCA.md
+> "he's buying an opportunity to fix the legacy of his family." — sources/S_ig_tristansteckler_DMWmPh6svCA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "buying": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that confidence alone closes deals: the video ties the lack of confidence to a concrete mindset about marriage, not to a generic pep talk.
+- Read as a pitch for a Rolex or a car: Tristan names those only to rule them out, and the purchase on offer is an opportunity, not a luxury item.

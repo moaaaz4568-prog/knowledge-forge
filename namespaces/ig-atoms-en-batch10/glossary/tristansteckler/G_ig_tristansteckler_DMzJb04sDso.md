@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [buttered sausage, tristansteckler account context]
+aka: [ramble]
 origin: sources/S_ig_tristansteckler_DMzJb04sDso.md
 ---
 
-# G_ig_tristansteckler_DMzJb04sDso — buttered sausage
+# G_ig_tristansteckler_DMzJb04sDso — ramble
 
 ## Term
 
-"buttered sausage" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, sausage, buttered, where. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a garbled ramble about buttered sausage and jam, and the label `ramble` here says only what kind of passage this is — incoherent patter with no teaching point — not the name of any idea in it. The phrase 'buttered sausage' appears three times, beside cable ace award, jam, and honey, without ever naming a sales move or a product. Nothing in the seventy words connects to closing, objections, or any method Tristan teaches elsewhere in the batch. The passage is noise from a broken transcript, not a lesson.
 
 ## Synonyms
 
-- buttered sausage
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let's talk about your cable ace award. Let's talk about buttered sausage. Talk about buttered sausage where it comes from what it does why is it doing what it's doing get it out of my face. What about butters? Buttered sausage. That's not your jam. It's not your thing you don't like it? It's not my jam I don't buy jam by honey and I kiss it on the lips." — sources/S_ig_tristansteckler_DMzJb04sDso.md
+> "That's not your jam. It's not your thing you don't like it?" — sources/S_ig_tristansteckler_DMzJb04sDso.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "buttered sausage": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Tristan teaching a lesson about jam: the jam lines are nonsense patter, and the source gives no product, no method, and no point to learn.
+- Read as a chant or slogan to repeat: the buttered sausage lines repeat, but they carry no meaning to carry into a call.

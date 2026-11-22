@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [guarantee, tristansteckler account context]
+aka: ["guarantee"]
 origin: sources/S_ig_tristansteckler_DMbEi1JS6ED.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_tristansteckler_DMbEi1JS6ED.md
 
 ## Term
 
-"guarantee" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, success, actually, ones. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A guarantee is the impossible demand Tristan takes apart in this role play: the prospect wants to test the program for a day, and Tristan answers with the gym and the marriage. The word appears eleven times, beside success, waiting, and permission, and it drives the whole exchange. No gym guarantees a six-pack for a membership, and no proposal guarantees a marriage that never ends in divorce, because both depend on the choices made every single day. The split is between two people: one waits for permission and certainty and a guaranteed path, and the other becomes the guarantee of his own success by committing and going all in.
 
 ## Synonyms
 
-- guarantee
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay what about like getting married like does me dropping down on one knee guarantee that I'm gonna have a successful marriage that doesn't end in divorce or does that depend on the choices that I make every single day? Yeah that depends on when you do." — sources/S_ig_tristansteckler_DMbEi1JS6ED.md
-> "The truth is like the only person you can actually guarantee results is you because think about it like there's gonna be two types of people in this situation there's gonna be the person number one who needs a guaranteed path of success. My guess would be successful if somebody else is successful." — sources/S_ig_tristansteckler_DMbEi1JS6ED.md
-> "Are you ready to actually become that person who fully commits to himself rather than just waiting around and looking or how do you actually... feel about it? No I definitely need to become that person for myself. So the guy who is the guarantee for himself what does he do right here right now? He commits and he goes all in. So what are you gonna do? I'm gonna do it man let's do it." — sources/S_ig_tristansteckler_DMbEi1JS6ED.md
+> "So the real question isn't whether I can guarantee your success or not it's whether you're willing to actually guarantee it for yourself." — sources/S_ig_tristansteckler_DMbEi1JS6ED.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "guarantee": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that guarantees never exist anywhere: Tristan's point is about success in life, not about refunds or product warranties.
+- Read as permission to mock a prospect who wants certainty: he treats the waiting for permission as the problem to name, then asks the prospect to commit to himself.

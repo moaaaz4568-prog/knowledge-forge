@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [honest, tristansteckler account context]
+aka: ["to be honest with you"]
 origin: sources/S_ig_tristansteckler_DNLN2bcMZkM.md
 ---
 
-# G_ig_tristansteckler_DNLN2bcMZkM — honest
+# G_ig_tristansteckler_DNLN2bcMZkM — to be honest with you
 
 ## Term
 
-"honest" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: well, problem, always, think. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To be honest with you is the phrase Tristan bans first among the top words not to say in sales: it tells the prospect subconsciously that you are not always honest. The phrase appears twice, beside honest, trust, and status, and it opens the video's lesson. Every word out of a rep's mouth either builds trust or lowers it, and the energy behind it matters too: a high energy combative tone turns prospects away, while the right words to the right person build it. The test is relatability: he would not talk to a grown man running a company the way he would talk to a young boy living in his parents basement.
 
 ## Synonyms
 
-- honest
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What are the top words to not say in sales? Be careful, I hear a lot of sales people... 'Well just to be honest with you...' The problem with saying that is subconsciously you just told them that you're not always honest. Think about it. 'Well just to be honest with you' implies that you're not being honest all the time. You're seeding in their brain that you're not an honest person." — sources/S_ig_tristansteckler_DNLN2bcMZkM.md
+> "The problem with saying that is subconsciously you just told them that you're not always honest." — sources/S_ig_tristansteckler_DNLN2bcMZkM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "honest": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule against ever saying honest: the ban is on the phrase that implies dishonesty the rest of the time, not on the word honest itself.
+- Read as a claim that tone does not matter: Tristan ties the words to a combative tone that turns prospects away, and to status that rises or falls with every sentence.

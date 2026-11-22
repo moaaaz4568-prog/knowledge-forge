@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [right, tristansteckler account context]
+aka: ["shifting identity"]
 origin: sources/S_ig_tristansteckler_DNYFyTlg_kw.md
 ---
 
-# G_ig_tristansteckler_DNYFyTlg_kw — right
+# G_ig_tristansteckler_DNYFyTlg_kw — shifting identity
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: real, setting, right, agree. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Shifting identity is what Tristan says the rep on the call is doing: the prospect arrives with a way of thinking, acting, and believing that got him on the call, and the rep moves him toward the identity he wants to become. The phrase appears once, beside therapist, accountability, and beast, and it is the video's whole lesson. The prospect says he is a sales guy, not a therapist, and his process is how he makes decisions, so Tristan asks whether that process has actually been working or only kept him safe and comfortable. The rule underneath is relentless: do not take no for an answer, hold the prospect to the standard he wants to become, and push forward instead of taking it personally.
 
 ## Synonyms
 
-- right
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Because like, I can appreciate you say I'm not a therapist and I agree with you, right? What you asked me for though was accountability. So do you mind if I give you some?" — sources/S_ig_tristansteckler_DNYFyTlg_kw.md
-> "I don't say that to like get at you, man. I say that because it's important to like set our expectations in a real setting, right?" — sources/S_ig_tristansteckler_DNYFyTlg_kw.md
+> "So what if the whole like 'this is just how I make decisions' thing is actually the trap that's keeping exactly where you are?" — sources/S_ig_tristansteckler_DNYFyTlg_kw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as therapy on a sales call: Tristan agrees he is not a therapist, and the identity work is accountability toward a decision, not counseling.
+- Read as a license to be combative with every prospect: he says the push is uncomfortable and combative at times, but it serves the standard the prospect named himself.

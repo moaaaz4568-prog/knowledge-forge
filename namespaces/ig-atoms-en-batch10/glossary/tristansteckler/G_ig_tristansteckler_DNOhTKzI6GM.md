@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [business, tristansteckler account context]
+aka: ["six layers deeper"]
 origin: sources/S_ig_tristansteckler_DNOhTKzI6GM.md
 ---
 
-# G_ig_tristansteckler_DNOhTKzI6GM — business
+# G_ig_tristansteckler_DNOhTKzI6GM — six layers deeper
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: happens, probably, double, lose. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Six layers deeper is how far Tristan goes past the surface problem: a health consultant's client will not just lose energy, he will lose money and productivity, then the business, then the job, then the home. The phrase appears once, beside consequences, business, and family, and it is the video's whole method. The sale is made down there, not up here about getting healthier, because the prospect must feel the future pain of not solving it. The trap for most reps is the help desk: they stay in associate territory with buzzword answers, talking to the facade of the person instead of the person.
 
 ## Synonyms
 
-- business
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. Just the raw transcription. Like tell me what actually is behind that. Yeah, what do you sell? Health consulting. And what are the consequences if they don't purchase your program? Uh, they won't have enough energy to double down on the business, we'll lose a lot of money and a lot of productivity." — sources/S_ig_tristansteckler_DNOhTKzI6GM.md
-> "On a serious note, like what happens to the business owner when they go under? Not good things. Like what? Tell me. They'll be unemployed or might even get evicted. What happens to their family? Can't provide for the family. It's much deeper than just fixing their health. See how I could go six layers deeper than that? That's where the sales made, not up here about getting healthier." — sources/S_ig_tristansteckler_DNOhTKzI6GM.md
-> "Like when you walk into a business, the first person you talk to at the help desk, 'Hi, what's your name? How can I help you?' They're more of an associate. We get stuck in this associate territory where we're talking to the facade of the actual person. They'll give us buzzword answers that are super short and don't have a lot of depth." — sources/S_ig_tristansteckler_DNOhTKzI6GM.md
+> "See how I could go six layers deeper than that?" — sources/S_ig_tristansteckler_DNOhTKzI6GM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a script of exactly six questions: the layers are the consequences as they unfold, and the number follows the client's own answers, not a fixed list.
+- Read as a claim that health does not matter: the health is the entry point, and the sale is the business and family consequences underneath it.

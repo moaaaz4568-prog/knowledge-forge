@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [little bit, tristansteckler account context]
+aka: ["partner objections"]
 origin: sources/S_ig_tristansteckler_DMSn_jdI5ag.md
 ---
 
-# G_ig_tristansteckler_DMSn_jdI5ag — little bit
+# G_ig_tristansteckler_DMSn_jdI5ag — partner objections
 
 ## Term
 
-"little bit" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bit, little, still, skeptical. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Partner objections are the spouse stall Tristan dismantles in this video: when a prospect says they need to speak to their husband, he does not argue the product but turns the prospect into the seller. The phrase appears once, beside Melissa, husband, and decision-making process, and the whole video is built around its two questions. He first asks why the prospect thinks her husband will say yes and support her, so she sells him on the husband's support herself. The second question then presses what else she needs to see on her end, because the real block is usually the price or the product, not the spouse at all.
 
 ## Synonyms
 
-- little bit
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Boom! Hey by the way, Melissa, so obviously he's good. What else did you need to see on your end that you were still a little bit skeptical about today? Was it the price, a little bit more about the product... Last time I tried..." — sources/S_ig_tristansteckler_DMSn_jdI5ag.md
-> "So what I would want to do, a little bit differently than Daniel, is to go deeper into their decision-making process. So although I like the diffusing, I wouldn't say..." — sources/S_ig_tristansteckler_DMSn_jdI5ag.md
+> "Two questions that you can ask to master this objection. They need to speak to their husband." — sources/S_ig_tristansteckler_DMSn_jdI5ag.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "little bit": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a license to pressure a spouse into the sale: Tristan never tells the rep to argue with the husband or override him, he gets the prospect to voice the husband's support herself.
+- Read as proof that the spouse is the real objection: the video treats the husband as a relayed excuse, and the second question is there precisely because the block is usually price or product.

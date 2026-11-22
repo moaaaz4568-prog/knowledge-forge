@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: tristansteckler
-aka: [right, tristansteckler account context]
+aka: ["due diligence"]
 origin: sources/S_ig_tristansteckler_DMiICtgoLFW.md
 ---
 
-# G_ig_tristansteckler_DMiICtgoLFW — right
+# G_ig_tristansteckler_DMiICtgoLFW — due diligence
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the tristansteckler account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: cannot, right, decision, okay. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Due diligence is the stall Tristan meets when a burned prospect refuses to be scammed again: the prospect wants reviews and a contract to look over before deciding. The phrase appears twice, beside scammed, reviews, and certainty, and it is the video's whole objection. Tristan offers to point the prospect in the right direction, then turns it around: the prospect has to give himself the certainty, because no contract can hand it to him. The close is the psychology underneath: the rep does not give up, and does not allow the prospect's excuses and limiting beliefs to remain constant.
 
 ## Synonyms
 
-- right
-- tristansteckler account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I refuse to be scammed again. Like I need to go and do my due diligence and just make sure that this is the right decision." — sources/S_ig_tristansteckler_DMiICtgoLFW.md
-> "To an extent, right? But you can't give me that." — sources/S_ig_tristansteckler_DMiICtgoLFW.md
-> "So when you have a bad experience... everything we do is psychology, right?" — sources/S_ig_tristansteckler_DMiICtgoLFW.md
+> "Like I need to go and do my due diligence and just make sure that this is the right decision." — sources/S_ig_tristansteckler_DMiICtgoLFW.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a refusal to ever show reviews or a contract: Tristan offers to help point the prospect in the right direction, he only refuses to let diligence become the decision.
+- Read as a claim that due diligence is a lie: the video treats it as a real fear from a bad experience, and the answer is certainty the prospect gives himself.
