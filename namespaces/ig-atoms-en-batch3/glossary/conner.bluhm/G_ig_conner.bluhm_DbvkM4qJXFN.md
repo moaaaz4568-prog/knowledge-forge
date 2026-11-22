@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ads", "run"]
+aka: ["golden niche"]
 origin: sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
 ---
 
-# G_ig_conner.bluhm_DbvkM4qJXFN — ads
+# G_ig_conner.bluhm_DbvkM4qJXFN — golden niche
 
 ## Term
 
-ads is the most prominent repeated term in this source (262-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: run, risky, clients. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Golden niche here is the narrow market Conner says an agency must pick instead of staying open to everyone. The phrase appears once, beside market, second choice and first, in the second of seven ways to ruin an agency: never find a golden niche because you want to keep your market open. His test is that an SEO agency shown two ads, one for business owners and one for SEO agencies, always picks the one calling them out specifically. Being everybody's second choice by being no one's first is the failure the golden niche prevents.
 
 ## Synonyms
 
-- ads
-- run
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The best way to be everybody's second choice is to be no one's first. If an SEO agency sees two ads and one says business owners and one says SEO agencies, they will always pick the one that is calling them out specifically. Three, only ever sell deliverables and never talk in outcomes." — sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
-> "Nobody cares about your Facebook ads or your fitness coaching. They care about clients and a six-pack. Four, never run ads because of how risky they are. Ads are the easiest and most predictable way to scale consistently. Saying they are too risky is simply ignorance. Five, only ever send manual cold outreach because it's safe." — sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
+> "Two, never find a golden niche because you want to keep your market open." — sources/S_ig_conner.bluhm_DbvkM4qJXFN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as any niche: a golden niche here is a specific, narrow market that picks you first, not any industry label you happen to serve.
+- Read as a market you find by luck: Conner presents the niche as a deliberate choice against keeping the market open, not something that finds you.

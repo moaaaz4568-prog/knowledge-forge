@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["niche", "gets"]
+aka: ["risk reversal"]
 origin: sources/S_ig_conner.bluhm_DdeEBhEJk9F.md
 ---
 
-# G_ig_conner.bluhm_DdeEBhEJk9F — niche
+# G_ig_conner.bluhm_DdeEBhEJk9F — risk reversal
 
 ## Term
 
-niche is the most prominent repeated term in this source (132-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: gets, increasingly, find. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Risk reversal here is what makes an offer strong: package what the niche already wants as an Alex Ramosi-style offer tied directly to their front-of-mind desire, with a strong risk reversal. The phrase appears once, beside front-of-mind desire, niche and funnel, in a list of deceptively easy ways to get rich from ads. The niche must have money to afford the service, with over 50,000 of them in the United States, Canada, United Kingdom and Australia, and the funnel after it must be extremely simple and smooth. Risk reversal is the part of the offer that takes the risk off the buyer.
 
 ## Synonyms
 
-- niche
-- gets
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "out of ten deceptively easy ways to become disgustingly rich from ads, but it gets increasingly more niche. Find a niche that has not been hit by the rest of the market, has the money to afford your service, and there is over 50,000 of them in the United States, Canada, United Kingdom, and Australia." — sources/S_ig_conner.bluhm_DdeEBhEJk9F.md
-> "to afford your service, and there is over 50,000 of them in the United States, Canada, United Kingdom, and Australia. Then take what that niche already wants and package it as an Alex Ramosi-style offer tied directly to their front-of-mind desire with a strong risk reversal." — sources/S_ig_conner.bluhm_DdeEBhEJk9F.md
+> "Then take what that niche already wants and package it as an Alex Ramosi-style offer tied directly to their front-of-mind desire with a strong risk reversal." — sources/S_ig_conner.bluhm_DdeEBhEJk9F.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a guarantee: risk reversal here is a property of a strong offer, and the source never spells out what the reversal actually promises.
+- Read as the whole offer: the reversal is one element alongside the front-of-mind desire and the simple funnel, not the offer itself.

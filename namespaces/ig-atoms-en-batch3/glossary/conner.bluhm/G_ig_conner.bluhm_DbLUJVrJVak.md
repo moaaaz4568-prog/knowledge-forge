@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["single", "dollar"]
+aka: ["referrals"]
 origin: sources/S_ig_conner.bluhm_DbLUJVrJVak.md
 ---
 
-# G_ig_conner.bluhm_DbLUJVrJVak — single
+# G_ig_conner.bluhm_DbLUJVrJVak — referrals
 
 ## Term
 
-single is the most prominent repeated term in this source (281-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: dollar, ads, sending. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Referrals here is Conner's answer to tripling a business without more ads, cold DMs or closers: clients sending him new clients. The word appears three times, beside referral program, commission and group chat, and the verb refer appears twice more in the same pitch. The whole argument is that a referral program framed as a small reward for a favor fails, while one framed as the client gaining more than Conner does makes people set aside time to refer. His own example is paying a new client's ad spend until they sign two clients, with the referrer only making the group chat, so the mechanism is framing, not luck.
 
 ## Synonyms
 
-- single
-- dollar
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the next 60 seconds, I will triple how much your business makes without spending a single dollar more on ads, sending a single more cold DM, or even hiring more closers. And this one change can be made overnight, and it is honestly scary how good it works. You ready for it? Referrals." — sources/S_ig_conner.bluhm_DbLUJVrJVak.md
-> "I already have a referral program. I give people 10% commission for every single person they send me. But it honestly doesn't even matter anyways because referrals are purely luck." — sources/S_ig_conner.bluhm_DbLUJVrJVak.md
-> "by the way, for every single client you refer, all you need to do is make the group chat and we'll handle the rest. We will pay for your ad spend until you sign two clients." — sources/S_ig_conner.bluhm_DbLUJVrJVak.md
+> "But there is a way to push referrals where people will set aside time in their day to refer people to you." — sources/S_ig_conner.bluhm_DbLUJVrJVak.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a referral program: the program is only the wrapper Conner criticizes, a 10% commission for a favor, while referrals here means the act of clients sending people, driven by how the ask is framed.
+- Read as luck: Conner explicitly rejects the idea that referrals are purely luck, and the whole video argues the outcome follows from how the ask is framed.

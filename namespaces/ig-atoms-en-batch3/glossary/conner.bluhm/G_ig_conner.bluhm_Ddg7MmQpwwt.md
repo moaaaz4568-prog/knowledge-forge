@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["faster", "show"]
+aka: ["common enemy"]
 origin: sources/S_ig_conner.bluhm_Ddg7MmQpwwt.md
 ---
 
-# G_ig_conner.bluhm_Ddg7MmQpwwt — faster
+# G_ig_conner.bluhm_Ddg7MmQpwwt — common enemy
 
 ## Term
 
-faster is the most prominent repeated term in this source (150-word transcript from the Instagram account conner.bluhm): it occurs 2 times literally in the text, most often collocated with: show, strength, puts. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Common enemy here is what Augustus teaches in Conner's ten marketing lessons from the most powerful men who ever lived: nothing unites a market faster than a common enemy. The phrase appears once, beside reputation, story and symbol, among lessons like Genghis Khan on reputation closing the deal and Napoleon on painting the version of the future people buy. A shared enemy is presented as the fastest unifier of a market, faster than any offer or message. The source gives the lesson in a single sentence with no example of an enemy named.
 
 ## Synonyms
 
-- faster
-- show
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Napoleon. Whoever tells the story first gets to decide how it's remembered. Julius Caesar. Nothing unites a market faster than a common enemy. Augustus. The boldest move in the room is the one everyone remembers. Alexander the Great. Own one symbol so completely that people think of you the second they see it. Louis XIV." — sources/S_ig_conner.bluhm_Ddg7MmQpwwt.md
-> "Speak your customer's language and they will let you walk right in. Cyphers the Great. One big show of strength puts you on the map faster than years of quiet work. Mansa Musa. The same facts worded differently will get completely different reactions." — sources/S_ig_conner.bluhm_Ddg7MmQpwwt.md
+> "Nothing unites a market faster than a common enemy." — sources/S_ig_conner.bluhm_Ddg7MmQpwwt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a call to attack competitors: a common enemy here is a unifying figure for the market, and the source never names one or says to attack anyone.
+- Read as the whole lesson: the common enemy is one of ten lessons, and the video gives it one sentence, not a method for picking one.

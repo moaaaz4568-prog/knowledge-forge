@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["cookie", "mouse"]
+aka: ["LTV"]
 origin: sources/S_ig_conner.bluhm_DdJphZ9pnst.md
 ---
 
-# G_ig_conner.bluhm_DdJphZ9pnst — cookie
+# G_ig_conner.bluhm_DdJphZ9pnst — LTV
 
 ## Term
 
-cookie is the most prominent repeated term in this source (317-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: mouse, give, milk. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+LTV here is what Conner's "if you give a mouse a cookie" philosophy increases: the lifetime value of a client, from 10K for lead gen to 30K for closer placement and the whole fulfillment build-out. The initials appear three times, beside cookie, milk and straw, and the method is to sell the next thing only when the first problem creates the next one: lead gen is the cookie, sales coaching or a closer and setter is the milk, fulfillment help is the straw. Because you solved the first problem, you are positioned as a figure of authority and trust they will send money to. All of it happens without spending a single penny more on ads or acquiring a new customer.
 
 ## Synonyms
 
-- cookie
-- mouse
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "when he gives the mouse a cookie, he wants milk, and when he wants milk, he wants a straw. And this is the exact same philosophy I've used within my own businesses to increase the LTV of every single client I work with, and it looks like this." — sources/S_ig_conner.bluhm_DdJphZ9pnst.md
-> "and disputes and to be able to increase the LTV of every single person they work with, aka the straw. So instead of selling them the cookie and the milk and the straw all at the same time, you sell them as the problems come up and as they understand that the solution to the first problem they had brought up a new problem that they now need solved." — sources/S_ig_conner.bluhm_DdJphZ9pnst.md
-> "First off, you sell people on lead gen because it's immediately what they want. It's the cookie. It's what they're looking for. But once they get lead gen, they're having a hard time actually getting those people across the line and closing them." — sources/S_ig_conner.bluhm_DdJphZ9pnst.md
+> "And this is the exact same philosophy I've used within my own businesses to increase the LTV of every single client I work with, and it looks like this." — sources/S_ig_conner.bluhm_DdJphZ9pnst.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as upselling everything at once: the philosophy is explicitly to sell the cookie, milk and straw as the problems come up, never all at the same time.
+- Read as a children's book reference only: the mouse story is the model for sequencing offers, and the LTV increase from 10K to 30K is the measured result.

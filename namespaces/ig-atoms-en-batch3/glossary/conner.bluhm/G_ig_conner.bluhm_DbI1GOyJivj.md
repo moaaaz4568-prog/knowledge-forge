@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["Spend", "fulfillment"]
+aka: ["fulfillment"]
 origin: sources/S_ig_conner.bluhm_DbI1GOyJivj.md
 ---
 
-# G_ig_conner.bluhm_DbI1GOyJivj — Spend
+# G_ig_conner.bluhm_DbI1GOyJivj — fulfillment
 
 ## Term
 
-Spend is the most prominent repeated term in this source (153-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: fulfillment, less, front. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Fulfillment here is the delivery side of Conner's agency work, set against the front end he tells himself to spend less time on. The word appears once, in "Spend more time on fulfillment and less on front end", beside sales, mentorships and agencies in a list of ten things he would do differently. The contrast is the point: time goes to getting better at delivery rather than to front-end selling. He pairs it with protecting margin and systemizing more, so fulfillment means the work clients actually receive, not the work of winning them.
 
 ## Synonyms
 
-- Spend
-- fulfillment
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Be more selective when hiring people. Fire people faster if they weren't on par. Spend more time getting better at sales and increasing my level of conviction behind the product that I was selling. Spend more time on fulfillment and less on front end. Spend more money on mentorships and agencies." — sources/S_ig_conner.bluhm_DbI1GOyJivj.md
+> "Spend more time on fulfillment and less on front end." — sources/S_ig_conner.bluhm_DbI1GOyJivj.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a synonym for customer service: fulfillment here covers the whole delivery of the agency's work, not answering clients or handling complaints.
+- Read as a call to spend more everywhere: the sentence spends more on fulfillment precisely by spending less on the front end, not by adding hours to both.

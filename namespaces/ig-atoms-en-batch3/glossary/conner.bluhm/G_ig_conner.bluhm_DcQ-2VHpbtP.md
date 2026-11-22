@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["smart", "greatest"]
+aka: ["smart people"]
 origin: sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
 ---
 
-# G_ig_conner.bluhm_DcQ-2VHpbtP — smart
+# G_ig_conner.bluhm_DcQ-2VHpbtP — smart people
 
 ## Term
 
-smart is the most prominent repeated term in this source (177-word transcript from the Instagram account conner.bluhm): it occurs 3 times literally in the text, most often collocated with: greatest, form, leadership. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Smart people here is who Conner says you hire so they can tell you what to do, which he calls the greatest form of leadership. The phrase appears three times, beside leadership, script and leverage, and his example is a closer who has cash collected millions in the same niche and gets handed a script instead of being listened to. They almost certainly know better than you how to get people across the line, he says, so do not tell them what to do. You hired them to leverage their intelligence for the betterment of the business, not to give them advice.
 
 ## Synonyms
 
-- smart
-- greatest
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I think that's the greatest form of leadership is hiring smart people and having them tell you what to do. Steve Jobs actually has this quote where he goes" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
-> "doesn't make sense to hire smart people and tell them what to" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
-> "And what he did was hired smart people and had them tell him what to do. You know, I'll see people bring on a closer who has cash collected millions of dollars in their same niche and they'll just hand them a script. Like, what the fuck are you doing?" — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
+> "But I think that's the greatest form of leadership is hiring smart people and having them tell you what to do." — sources/S_ig_conner.bluhm_DcQ-2VHpbtP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as hiring for credentials: smart people here means people who have already done the job at scale in the same niche, not people with impressive resumes.
+- Read as hands-off leadership: letting smart people tell you what to do still means understanding what is wrong and how to do it better, not abandoning the business to them.

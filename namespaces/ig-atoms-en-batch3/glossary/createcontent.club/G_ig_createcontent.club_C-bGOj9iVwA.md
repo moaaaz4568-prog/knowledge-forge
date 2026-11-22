@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["transcribe", "zero"]
+aka: ["dead silence"]
 origin: sources/S_ig_createcontent.club_C-bGOj9iVwA.md
 ---
 
-# G_ig_createcontent.club_C-bGOj9iVwA — transcribe
+# G_ig_createcontent.club_C-bGOj9iVwA — dead silence
 
 ## Term
 
-This source is very short (34 words), so no term repeats enough for a frequency-based entry; transcribe is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Dead silence here is the transcriber's description of the video: no background music either, just dead silence, and zero spoken words to transcribe after scanning it three times. The phrase appears once, beside zero spoken words, nothing here and scanned it three times, in a source that is itself a question about whether this is the right file. The video has no spoken content at all, so there is no concept for the account to teach here. The entry records the silence as the whole content of the source.
 
 ## Synonyms
 
-- transcribe
-- zero
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No background music either, just dead silence. I've scanned it three times and there are zero spoken words to transcribe. Are you sure this is the right" — sources/S_ig_createcontent.club_C-bGOj9iVwA.md
+> "No background music either, just dead silence." — sources/S_ig_createcontent.club_C-bGOj9iVwA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a silent-video technique: the source never says the silence is deliberate, only that the transcriber found nothing to transcribe.
+- Read as a missing file: the transcriber asks if this is the right file, but the entry records what the source contains, not whether the file is wrong.

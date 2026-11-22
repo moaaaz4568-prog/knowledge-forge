@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Twenty", "best"]
+aka: ["five skills"]
 origin: sources/S_ig_createcontent.club_C-2xMDWiwoB.md
 ---
 
-# G_ig_createcontent.club_C-2xMDWiwoB — Twenty
+# G_ig_createcontent.club_C-2xMDWiwoB — five skills
 
 ## Term
 
-Twenty is the most prominent repeated term in this source (35-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: best, cent, racks. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Five skills here is the claim the video opens with: we won't grow social media in 2024 without this five skills. The phrase appears once, beside make a promise, twenty-five racks and just got started, in a 35-word fragment that reads like a sung or rapped rundown rather than a spoken explanation. The five skills are never named anywhere in the source, and the rest is fragments: a promise made as best as possible, twenty-five cent on twenty-five racks, just got started now. The entry records the claim and the absence of the list, not the skills themselves.
 
 ## Synonyms
 
-- Twenty
-- best
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here’s the raw transcription: We won't grow social media in 2024 without this five skills. Yeah, make a promise but I do my best. Twenty-five cent on twenty-five racks. Just got started" — sources/S_ig_createcontent.club_C-2xMDWiwoB.md
+> "We won't grow social media in 2024 without this five skills." — sources/S_ig_createcontent.club_C-2xMDWiwoB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a list of skills: the five skills are claimed but never named, so nothing in this source says what they are.
+- Read as a complete statement: the source is fragments and a wrapper line about raw transcription, not a finished explanation.

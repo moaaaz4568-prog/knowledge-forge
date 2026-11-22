@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["feel", "numbers"]
+aka: ["open a loop"]
 origin: sources/S_ig_conner.bluhm_DdcRxaEhQ5R.md
 ---
 
-# G_ig_conner.bluhm_DdcRxaEhQ5R — feel
+# G_ig_conner.bluhm_DdcRxaEhQ5R — open a loop
 
 ## Term
 
-feel is the most prominent repeated term in this source (276-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: numbers, true, middle. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Open a loop here is one of thirty dark psychological tricks for marketers: open a loop and the brain needs it closed. The phrase appears once, beside rejected, because and scarcity, in a rapid list where each trick is a single sentence with no explanation. The trick sits among telling someone they might be rejected so they chase harder, adding the word because so agreements skyrocket, and scarcity raising value even when the product remains identical. A loop is an unfinished thread the reader's mind wants resolved, and the source gives no example of one in an ad.
 
 ## Synonyms
 
-- feel
-- numbers
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "People buy the version of themselves they want to be. Add a third option nobody buys to sell the middle one. Specific numbers feel true, round numbers feel invented. Name a common enemy and get instant loyalty. Open a loop and the brain needs it closed. Give first and people feel obligated to give back. People copy the actions of people like themselves." — sources/S_ig_conner.bluhm_DdcRxaEhQ5R.md
-> "Show the crowd that already chose you. Fewer choices make more people buy. Easy words feel more true than complicated ones. Get a small yes before asking for a big one. Scarcity raises value even when the product remains identical. Deadlines move people who would have otherwise waited forever." — sources/S_ig_conner.bluhm_DdcRxaEhQ5R.md
+> "Open a loop and the brain needs it closed." — sources/S_ig_conner.bluhm_DdcRxaEhQ5R.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a full technique: the source states the trick in one sentence and never shows a loop opened or closed in an ad.
+- Read as a promise of attention: an open loop creates a need to close it, and Conner never claims it guarantees the reader acts.

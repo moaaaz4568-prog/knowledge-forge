@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ad", "sell"]
+aka: ["ten years old"]
 origin: sources/S_ig_conner.bluhm_DdW9SAQJiNh.md
 ---
 
-# G_ig_conner.bluhm_DdW9SAQJiNh — ad
+# G_ig_conner.bluhm_DdW9SAQJiNh — ten years old
 
 ## Term
 
-ad is the most prominent repeated term in this source (204-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: sell, versus, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Ten years old here is the age Conner says to pitch to in an ad: talk to the person like they are ten years old, because no ten year old gives a flying fuck about an AI optimized funnel or a workout program. The phrase appears once, beside six pack, money and guarantee, as the tip that explains why his ads work and yours do not. His version promises X outcome within Y days or you do not pay, plus five thousand dollars for wasting your time; yours lists six years in business and two hundred customers. They want money and a six pack, and that is it, and people do not change.
 
 ## Synonyms
 
-- ad
-- sell
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let me show you the difference between how I would sell in an ad versus how you would sell in an ad. This is how I would sell in an ad." — sources/S_ig_conner.bluhm_DdW9SAQJiNh.md
-> "customers specializing in our AI powered websites that help businesses get more conversions online. Here is a tip. Anytime you make an ad, talk to the person like they are ten years old. Because no ten year old gives a flying fuck about an AI optimized funnel or a workout program. They want money and a six pack, and that is it. And people don't change." — sources/S_ig_conner.bluhm_DdW9SAQJiNh.md
+> "Anytime you make an ad, talk to the person like they are ten years old." — sources/S_ig_conner.bluhm_DdW9SAQJiNh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as dumbing down the product: ten years old here is about the language of the ad, not about the offer being childish.
+- Read as an insult to the buyer: the point is that buyers want simple outcomes, and Conner says people do not change, not that they are stupid.

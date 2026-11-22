@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["believe", "themselves"]
+aka: ["five-second spike of dopamine"]
 origin: sources/S_ig_conner.bluhm_DeE2mXjJUJg.md
 ---
 
-# G_ig_conner.bluhm_DeE2mXjJUJg — believe
+# G_ig_conner.bluhm_DeE2mXjJUJg — five-second spike of dopamine
 
 ## Term
 
-believe is the most prominent repeated term in this source (335-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: themselves, everyday, life. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Five-second spike of dopamine here is all the money in the world buys you on a sales call, in Conner's first of three philosophies for sales: you don't need the money. The phrase appears once, beside desperately need, overpromise and trust, and the point is that someone could pay you $50,000 on the call and it would not do as much as that five-second spike. People who desperately need something do things they would never normally do to get it, like overpromising and pushing people to buy what they should not, and the prospect feels it the second they hop on the call. Viewing the money as needed destroys trust before the pitch starts.
 
 ## Synonyms
 
-- believe
-- themselves
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "they shouldn't, which will be felt by the prospect the second they hop on the call, and they won't trust you. Philosophy two is you believe in them more than they believe in themselves. You see, in everyday life, people don't believe in you. Your friends want you to do well, but they don't want you to do better than themselves." — sources/S_ig_conner.bluhm_DeE2mXjJUJg.md
-> "So when they hop on a call with someone that believes in them more than they believe in themselves, they want to buy into that more than anything. And thirdly, if they say no, they are making the wrong decision." — sources/S_ig_conner.bluhm_DeE2mXjJUJg.md
+> "Someone could pay you $50, 000 on the call, and it wouldn't do as much as give you a five-second spike of dopamine." — sources/S_ig_conner.bluhm_DeE2mXjJUJg.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a neuroscience claim: the five-second spike is Conner's image for how little the money moves you, not a measured fact about dopamine.
+- Read as permission to ignore money: the philosophy is to not need the money on the call, and the other two philosophies still demand belief in the prospect and in the decision.

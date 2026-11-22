@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["look", "context of account createcontent.club"]
+aka: ["refrain"]
 origin: sources/S_ig_createcontent.club_C-YGfM3Cp4E.md
 ---
 
-# G_ig_createcontent.club_C-YGfM3Cp4E — look
+# G_ig_createcontent.club_C-YGfM3Cp4E — refrain
 
 ## Term
 
-look is the most prominent repeated term in this source (12-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: the clip is too short for meaningful collocations. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: the label refrain is a type label only, because the whole source is one repeated line, "Look at you," said four times. The phrase appears four times, beside nothing else, and the twelve-word source contains no sentence, no claim and no instruction. The repetition is the entire content, and there is no topic for a term to name. The entry records the refrain as a repeated line, not as a concept the account teaches.
 
 ## Synonyms
 
-- look
-- context of account createcontent.club
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Look at you, look at you, look at you, look at" — sources/S_ig_createcontent.club_C-YGfM3Cp4E.md
+> "Look at you, look at you, look at you, look at you." — sources/S_ig_createcontent.club_C-YGfM3Cp4E.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a lesson: the repeated line teaches nothing, and no meaning can be drawn from the four repetitions.
+- Read as a slogan: look at you is a repeated line, not a slogan for the account, and the source gives it no context.

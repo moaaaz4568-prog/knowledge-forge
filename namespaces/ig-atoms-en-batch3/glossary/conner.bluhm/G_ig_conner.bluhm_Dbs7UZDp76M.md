@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["mountain", "key"]
+aka: ["stoic"]
 origin: sources/S_ig_conner.bluhm_Dbs7UZDp76M.md
 ---
 
-# G_ig_conner.bluhm_Dbs7UZDp76M — mountain
+# G_ig_conner.bluhm_Dbs7UZDp76M — stoic
 
 ## Term
 
-mountain is the most prominent repeated term in this source (563-word transcript from the Instagram account conner.bluhm): it occurs 11 times literally in the text, most often collocated with: key, massive, covered. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Stoic here is Conner's word for how he survived both the lost rental car key on a Norway mountain and $100,000 in chargebacks with his agency last year. The word appears three times, beside remaining calm, light at the end of the tunnel and bounced back, and the parallel is the point: the feeling coming down the mountain thinking the key was lost forever was the same as facing chargebacks with no way out. In both cases he stayed stoic instead of panicking, found the key, and sold the agency to private equity. Stoic here means staying calm and steady while the situation looks hopeless, not feeling nothing.
 
 ## Synonyms
 
-- mountain
-- key
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I went to go rent a car in Norway, and we drove two hours away from Bergen to go climb a massive mountain. Now, this mountain was covered in tall grass and moss and logs and trees and rocks, and it was extremely dense, the kind of thing where you step down and you can't even see your foot." — sources/S_ig_conner.bluhm_Dbs7UZDp76M.md
-> "the mountain, my friend turned to me and said that he had lost the rental car keys and they had fell out of his pocket on the way up the mountain. The car was locked and there would have been no way for us to get into the car, so we called the rental car company and asked what to do." — sources/S_ig_conner.bluhm_Dbs7UZDp76M.md
-> "And on the drive back home, I realized that the way I felt coming down the mountain thinking we had completely lost the key was the same way I felt when I got $100,000 in chargebacks with my agency last year, where it felt like there was absolutely no chance of being able to get out of this, but remaining calm, remaining" — sources/S_ig_conner.bluhm_Dbs7UZDp76M.md
+> "And because I decided to stay stoic when I got $100,000 of chargebacks, I bounced back and I ended up selling my agency to private equity." — sources/S_ig_conner.bluhm_Dbs7UZDp76M.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a philosophy lesson: stoic here is Conner's own shorthand for staying calm under pressure in two specific stories, not an account of Stoic philosophy.
+- Read as the luck itself: finding the key was luck, and Conner says so; stoic names how he carried himself while it was lost, not the lucky find.

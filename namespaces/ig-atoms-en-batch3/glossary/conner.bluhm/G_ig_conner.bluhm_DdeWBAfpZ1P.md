@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["cardboard", "Notes"]
+aka: ["UGC video"]
 origin: sources/S_ig_conner.bluhm_DdeWBAfpZ1P.md
 ---
 
-# G_ig_conner.bluhm_DdeWBAfpZ1P — cardboard
+# G_ig_conner.bluhm_DdeWBAfpZ1P — UGC video
 
 ## Term
 
-This source is very short (18 words), so no term repeats enough for a frequency-based entry; cardboard is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+UGC video here is one item in a bare ten-item list of ad formats or creative types, with no sentence explaining any of them. The phrase appears once, beside Notes app, Google Doc and case study, and nothing in the source says what a UGC video is or how Conner uses it. The list reads as a rapid rundown of formats: Notes app, UGC video, Google Doc, case study, cardboard, this versus this, news headline, Notion, simple text, tweet. UGC video is named as a format among the ten, and no claim about it can be drawn from this source beyond its place in the list.
 
 ## Synonyms
 
-- cardboard
-- Notes
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "app, UGC video, Google Doc, case study, cardboard, this versus this, news headline, Notion, simple text" — sources/S_ig_conner.bluhm_DdeWBAfpZ1P.md
+> "Notes app, UGC video, Google Doc, case study, cardboard, this versus this, news headline, Notion, simple text, tweet." — sources/S_ig_conner.bluhm_DdeWBAfpZ1P.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a recommendation: the list never says UGC video works better than the other nine formats, or that Conner uses it.
+- Read as a definition: the source gives no definition of UGC video, so the entry records only that it appears in the list.

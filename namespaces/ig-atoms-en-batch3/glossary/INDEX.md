@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 6928 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 6859 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -104,56 +104,56 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db5PjwqJcYQ.md | expertise | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_Db74ZLWJgh5.md | mathematical equation | 1 |
 | glossary/conner.bluhm/G_ig_conner.bluhm_DbDaXYZJisa.md | client retention | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbI1GOyJivj.md | Spend | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbLUJVrJVak.md | single | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbQTVqQpqGL.md | product | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbS7NfAJ5aE.md | number | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dbp_5LOJpzC.md | service | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dbs7UZDp76M.md | mountain | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DbvkM4qJXFN.md | ads | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dc06brgJOdu.md | call | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dc3fGmXJRH1.md | expectation setting | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dc6IDx2ps4r.md | objection | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dc9WwU-hlpx.md | team | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcEcAE-J2Sb.md | risk | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcGjdA4pjDT.md | percent focus | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcQ-2VHpbtP.md | smart | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcYso3TJMk1.md | money | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dc_Vsz6JPo9.md | show | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcbR1eOp3g9.md | question | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dci_igcpTBD.md | business | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DclhYz9J7e3.md | believe | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DcoAG2OJotk.md | call | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dcqigd5tGa8.md | fucking | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdB8x6ApBft.md | team | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdEw3Lup8Fv.md | funnel | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdHRMPRzftp.md | expectations | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdJphZ9pnst.md | cookie | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdRXmygJdrS.md | business | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdW9SAQJiNh.md | ad | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdZCBsutv6f.md | ad | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdZnFuEJqTM.md | hit | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dd_7HSKJuXE.md | within | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Dd_zvelpEbI.md | ad | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdcRxaEhQ5R.md | feel | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdeEBhEJk9F.md | niche | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdeWBAfpZ1P.md | cardboard | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_Ddg7MmQpwwt.md | faster | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdgpeHDp1SS.md | buyer | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DdjX48Bpvd6.md | effect | 1 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DeCCzz_pMcO.md | every | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DeCb8h-JX6_.md | marketing | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DeE2mXjJUJg.md | believe | 2 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DeE8_-ppkls.md | niche | 3 |
-| glossary/conner.bluhm/G_ig_conner.bluhm_DeEqc68JC-S.md | call | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-2xMDWiwoB.md | Twenty | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-S7NgHCAQM.md | transcript | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-V0l6EC8dj.md | send | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-YGfM3Cp4E.md | look | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-YmxIwiczC.md | link | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-_SBVxi7DT.md | name | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-bGOj9iVwA.md | transcribe | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-dAsCICkVb.md | important | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbI1GOyJivj.md | fulfillment | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbLUJVrJVak.md | referrals | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbQTVqQpqGL.md | front end | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbS7NfAJ5aE.md | risk | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dbp_5LOJpzC.md | expectations | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dbs7UZDp76M.md | stoic | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DbvkM4qJXFN.md | golden niche | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dc06brgJOdu.md | speed to lead | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dc3fGmXJRH1.md | expectation setting quiz | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dc6IDx2ps4r.md | objection | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dc9WwU-hlpx.md | team | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcEcAE-J2Sb.md | cost of inaction | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcGjdA4pjDT.md | hire fast, fire fast | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcQ-2VHpbtP.md | smart people | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcYso3TJMk1.md | negative energy | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dc_Vsz6JPo9.md | show rate | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcbR1eOp3g9.md | friction | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dci_igcpTBD.md | EBITDA | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DclhYz9J7e3.md | believe in them | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DcoAG2OJotk.md | setting call | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dcqigd5tGa8.md | wrong decision | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdB8x6ApBft.md | team trips | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdEw3Lup8Fv.md | funnel | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdHRMPRzftp.md | expectation setting course | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdJphZ9pnst.md | LTV | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdRXmygJdrS.md | hard conversations | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdW9SAQJiNh.md | ten years old | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdZCBsutv6f.md | hook | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdZnFuEJqTM.md | eight core desires | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dd_7HSKJuXE.md | love bomb | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Dd_zvelpEbI.md | skin in the game angle | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdcRxaEhQ5R.md | open a loop | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdeEBhEJk9F.md | risk reversal | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdeWBAfpZ1P.md | UGC video | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_Ddg7MmQpwwt.md | common enemy | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdgpeHDp1SS.md | lead magnet | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DdjX48Bpvd6.md | anchoring bias | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeCCzz_pMcO.md | Meta enhancement | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeCb8h-JX6_.md | foolish and stupid | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeE2mXjJUJg.md | five-second spike of dopamine | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeE8_-ppkls.md | purchasing power | 1 |
+| glossary/conner.bluhm/G_ig_conner.bluhm_DeEqc68JC-S.md | decision makers | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-2xMDWiwoB.md | five skills | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-S7NgHCAQM.md | Chrome extension | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-V0l6EC8dj.md | comment glitch strategy | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-YGfM3Cp4E.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-YmxIwiczC.md | deep link | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-_SBVxi7DT.md | three-line structure | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-bGOj9iVwA.md | dead silence | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-dAsCICkVb.md | watch time | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-fx6cbiaLN.md | shot | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-irQFvi56-.md | marketing | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-lImNfiXP4.md | YouTube | 2 |

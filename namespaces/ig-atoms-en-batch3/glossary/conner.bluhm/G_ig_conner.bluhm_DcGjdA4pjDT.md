@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["percent focus", "fast"]
+aka: ["hire fast, fire fast"]
 origin: sources/S_ig_conner.bluhm_DcGjdA4pjDT.md
 ---
 
-# G_ig_conner.bluhm_DcGjdA4pjDT — percent focus
+# G_ig_conner.bluhm_DcGjdA4pjDT — hire fast, fire fast
 
 ## Term
 
-percent focus is the most prominent repeated term in this source (78-word transcript from the Instagram account conner.bluhm): it occurs 2 times literally in the text, most often collocated with: fast, fire, twenty. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Hire fast, fire fast here is one of ten habits for running a business ten times better, second in a list that gets increasingly more niche. The phrase appears once, beside sleep, hard conversations and track everything, and it sits between treating sleep as the number one priority and the twenty percent sales, eighty percent fulfillment split. The habit pairs speed on both ends: bring people in quickly and remove them quickly, with no detail in this source about how either step is done. It is a pace rule for the team, not a hiring method.
 
 ## Synonyms
 
-- percent focus
-- fast
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Treat sleep as your number one priority. Hire fast, fire fast. Twenty percent focus sales, eighty percent focus fulfillment. Never delay hard conversations. Train legs. Ask yourself daily why not double ad spend. Never take more than five minutes to respond to someone. Talk with your team an unhealthy amount." — sources/S_ig_conner.bluhm_DcGjdA4pjDT.md
+> "Treat sleep as your number one priority. Hire fast, fire fast." — sources/S_ig_conner.bluhm_DcGjdA4pjDT.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a full hiring system: this source gives only the pace rule, no interview, onboarding or firing process.
+- Read as permission to fire carelessly: fire fast here is paired with hire fast as a business habit, and the source says nothing about fairness or notice.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["business", "thirty"]
+aka: ["hard conversations"]
 origin: sources/S_ig_conner.bluhm_DdRXmygJdrS.md
 ---
 
-# G_ig_conner.bluhm_DdRXmygJdrS — business
+# G_ig_conner.bluhm_DdRXmygJdrS — hard conversations
 
 ## Term
 
-business is the most prominent repeated term in this source (174-word transcript from the Instagram account conner.bluhm): it occurs 6 times literally in the text, most often collocated with: thirty, still, back. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Hard conversations here is one of ten questions to ask yourself to ten x your business, and the question is which ones you are delaying inside the business that you know you would need to have. The phrase appears once, beside painful, fire one of your team members and stepped out, in a list where every question gets increasingly more painful. The list runs from doubling ad spend to whether clients would pay again if they could go back in time, and the hard conversations sit among the questions about firing, advice you do not follow, and the backend you would be embarrassed to show a mentor. Delaying them is presented as a choice you already know is wrong.
 
 ## Synonyms
 
-- business
-- thirty
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "out of ten questions to ask yourself to ten x your business, but they get increasingly more painful. Why not double ad spend? If you could only work on your business for one hour per day, what would you do in that hour? What single activity occupies most of your time, and does it need to?" — sources/S_ig_conner.bluhm_DdRXmygJdrS.md
-> "What hard conversations are you delaying within the business that you know you'd need to have? If you stepped out of your business for thirty days, would you still have a business when you came back? What piece of your business would you be most embarrassed to show to a mentor? If your entire backend was public, would people still pay you?" — sources/S_ig_conner.bluhm_DdRXmygJdrS.md
+> "What hard conversations are you delaying within the business that you know you'd need to have?" — sources/S_ig_conner.bluhm_DdRXmygJdrS.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a communication skill: hard conversations here is a question about what you are avoiding, not advice on how to have one.
+- Read as a single fix: the video lists ten painful questions, and the hard conversations are one of them, not the whole diagnosis.

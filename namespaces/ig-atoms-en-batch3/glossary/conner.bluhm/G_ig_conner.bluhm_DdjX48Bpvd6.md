@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["effect", "knowledge"]
+aka: ["anchoring bias"]
 origin: sources/S_ig_conner.bluhm_DdjX48Bpvd6.md
 ---
 
-# G_ig_conner.bluhm_DdjX48Bpvd6 — effect
+# G_ig_conner.bluhm_DdjX48Bpvd6 — anchoring bias
 
 ## Term
 
-effect is the most prominent repeated term in this source (53-word transcript from the Instagram account conner.bluhm): it occurs 4 times literally in the text, most often collocated with: knowledge, mere, exposure. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Anchoring bias here is the first of ten marketing psychology terms Conner lists to test how much you know about marketing. The phrase appears once, beside von restorff effect, loss framing and social proof, in a list that names the ten with no definition of any of them. The other terms run from loss framing and the zigharnik effect through the curse of knowledge, mere exposure effect, social proof, the ikea effect, reciprocity, to the peak end rule. If you do not know all ten, the video tells you to follow him to learn more about marketing.
 
 ## Synonyms
 
-- effect
-- knowledge
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "see how much you know about marketing, but it gets extremely niche. Anchoring bias, von restorff effect, loss framing, zigharnik effect, curse of knowledge, mere exposure effect, social proof, the ikea effect, reciprocity, and peak end rule." — sources/S_ig_conner.bluhm_DdjX48Bpvd6.md
+> "Anchoring bias, von restorff effect, loss framing, zigharnik effect, curse of knowledge, mere exposure effect, social proof, the ikea effect, reciprocity, and peak end rule." — sources/S_ig_conner.bluhm_DdjX48Bpvd6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a definition: the source never defines anchoring bias, so the entry records only that it heads the list of ten terms.
+- Read as a recommendation: naming the bias is a quiz, not advice to use it, and the video gives no example of it in an ad.

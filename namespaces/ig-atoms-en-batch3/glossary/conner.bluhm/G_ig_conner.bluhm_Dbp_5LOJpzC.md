@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["service", "prove"]
+aka: ["expectations", "expectation"]
 origin: sources/S_ig_conner.bluhm_Dbp_5LOJpzC.md
 ---
 
-# G_ig_conner.bluhm_Dbp_5LOJpzC — service
+# G_ig_conner.bluhm_Dbp_5LOJpzC — expectations
 
 ## Term
 
-service is the most prominent repeated term in this source (409-word transcript from the Instagram account conner.bluhm): it occurs 6 times literally in the text, most often collocated with: prove, fulfill, better. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Expectations here is the other half of Conner's formula for client happiness: happiness is results minus expectations, so disputes come from what was promised, not from the work itself. The word appears five times, beside results, onboarding, satisfaction and dispute, and his fix is an expectation setting course and quiz clients must pass with 100% before delivery begins. The singular expectation appears once more in that course name. Delivery must then beat what was set, so results outweigh expectations and dissatisfaction-based disputes almost never arise.
 
 ## Synonyms
 
-- service
-- prove
+- expectation (singular, once, in "expectation setting course")
 
 ## Live Example
 
-> "The fact that you can deliver an amazing service to your client, the client can express clear satisfaction around what it is that you deliver, and they can still get every single penny they paid you back after simply just calling their bank for any reason, and there is next to nothing" — sources/S_ig_conner.bluhm_Dbp_5LOJpzC.md
-> "But what happens when you actually do get that notification that a client disputed their payment even after you fully delivered your service? Firstly, do not react emotionally and understand that the person responding to these cases is likely underpaid and doesn't know what a VSL is and doesn't want to flip through 85 pages of evidence that you have prepared." — sources/S_ig_conner.bluhm_Dbp_5LOJpzC.md
-> "being a fraudulent payment, you don't need to prove that you fulfilled the service, you don't need to prove that they were happy with the service. All you need to prove is that they were the one who made the payment and they did so willingly. So simply submit clear, easy-to-read evidence that proves that the client's statement is false." — sources/S_ig_conner.bluhm_Dbp_5LOJpzC.md
+> "You see, happiness is results minus expectations." — sources/S_ig_conner.bluhm_Dbp_5LOJpzC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as managing clients by lowering the bar: setting expectations clearly means stating exactly what they will get, and Conner still requires delivery to beat what was set.
+- Read as a dispute tactic: expectations here prevent disputes before they happen; the dispute-response advice, answer only the stated reason, is a separate step for when one arrives anyway.

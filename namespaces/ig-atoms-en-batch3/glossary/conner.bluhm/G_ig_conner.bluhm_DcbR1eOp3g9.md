@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["question", "form"]
+aka: ["friction"]
 origin: sources/S_ig_conner.bluhm_DcbR1eOp3g9.md
 ---
 
-# G_ig_conner.bluhm_DcbR1eOp3g9 — question
+# G_ig_conner.bluhm_DcbR1eOp3g9 — friction
 
 ## Term
 
-question is the most prominent repeated term in this source (374-word transcript from the Instagram account conner.bluhm): it occurs 11 times literally in the text, most often collocated with: form, business, difficult. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Friction here is what makes a lead form fail: asking for name, email and phone number first feels, in people's minds, like entering credit card information. The word appears twice, beside opt-ins, yes or no question and hooked, and the fix is to start every lead form with a very simple yes or no question so people commit and finish. Questions then rise in difficulty until the single most difficult one, name, email and phone number, comes last. Doing this averages a 2x increase on form submissions, because people put in real information once they have already started.
 
 ## Synonyms
 
-- question
-- form
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Now, the standard way that someone builds out a lead form is the first question asked is name, email, and phone number, and from there they proceed into some sort of general qualifying question." — sources/S_ig_conner.bluhm_DcbR1eOp3g9.md
-> "difficulty of questions, leading to the single most difficult question as the last question on the form. And what is the most difficult question you ask? Name, email, and phone number, because it's the highest level of friction. So an example of what this would look like in reality is the first question would be, are you a business owner? Yes, no." — sources/S_ig_conner.bluhm_DcbR1eOp3g9.md
-> "because they have already committed to the form, and they are more likely to do it because they started the form off on an extremely easy question that got them hooked on finishing the rest of it" — sources/S_ig_conner.bluhm_DcbR1eOp3g9.md
+> "Now, the problem with this is that in people's minds, name, email, and phone number is the same level of friction as entering their credit card information." — sources/S_ig_conner.bluhm_DcbR1eOp3g9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a design complaint: friction here is the ask's difficulty in the prospect's mind, not the form's look or length.
+- Read as hiding the contact fields: name, email and phone number are still asked, only last, after the prospect is committed to finishing.

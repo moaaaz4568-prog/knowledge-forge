@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["niche", "immediately"]
+aka: ["purchasing power"]
 origin: sources/S_ig_conner.bluhm_DeE8_-ppkls.md
 ---
 
-# G_ig_conner.bluhm_DeE8_-ppkls — niche
+# G_ig_conner.bluhm_DeE8_-ppkls — purchasing power
 
 ## Term
 
-niche is the most prominent repeated term in this source (338-word transcript from the Instagram account conner.bluhm): it occurs 8 times literally in the text, most often collocated with: immediately, use, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Purchasing power here is the second box a niche must tick for Conner: underserved, and high enough purchasing power that they can actually afford what he sells. The phrase appears once, beside underserved, 50,000 and competition, in the story of scaling an agency to $124,000 a month in three months without a single cold DM or piece of content. He only looks at markets with over 50,000 people in Canada, the United States, the United Kingdom and Australia, and scores every niche on five components with most weight on competition. The warning is that roofing or med spas look like the best niches because every agency chases them, while everyone in that space is already talking to ten other agencies.
 
 ## Synonyms
 
-- niche
-- immediately
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All because I built the entire thing off of two main decisions. The first one was the niche, and it had to tick two boxes. It had to be underserved, so other people weren't running ads in the space, and two, they had to have high enough purchasing power where they could actually afford what I sold." — sources/S_ig_conner.bluhm_DeE8_-ppkls.md
-> "Now decision two is the offer. Literally one sentence: I help niche get outcome in timeline or risk reversal. Now the way I like to structure this is to add more to my upfront payment so that I can pay for their ad spend until they hit a certain goal." — sources/S_ig_conner.bluhm_DeE8_-ppkls.md
-> "So save this video for the next time you're picking a niche or making an offer, and follow me for" — sources/S_ig_conner.bluhm_DeE8_-ppkls.md
+> "It had to be underserved, so other people weren't running ads in the space, and two, they had to have high enough purchasing power where they could actually afford what I sold." — sources/S_ig_conner.bluhm_DeE8_-ppkls.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as income alone: purchasing power here is paired with being underserved and with a market of over 50,000, not a standalone wealth filter.
+- Read as a guarantee: the two boxes are Conner's criteria for picking a niche, and the $124,000 month is his result, not a promise.

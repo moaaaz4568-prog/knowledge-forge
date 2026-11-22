@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["fucking", "shut"]
+aka: ["wrong decision"]
 origin: sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
 ---
 
-# G_ig_conner.bluhm_Dcqigd5tGa8 — fucking
+# G_ig_conner.bluhm_Dcqigd5tGa8 — wrong decision
 
 ## Term
 
-fucking is the most prominent repeated term in this source (343-word transcript from the Instagram account conner.bluhm): it occurs 5 times literally in the text, most often collocated with: shut, fuck, aligned. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Wrong decision here is what Conner says a prospect makes by saying no: a choice that will absolutely destroy their life. The phrase appears twice, beside conviction, quarter million and destroy their life, and his proof is a med spa client taken from three thousand a month to a quarter million in three and a half months. Asked what he would have told that client three and a half months ago, his answer is profane urgency: fucking do this, because the alternative is staying at five or ten thousand a month. That level of conviction, conveyed on the call, is what closes every single person.
 
 ## Synonyms
 
-- fucking
-- shut
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I wouldn't have been like, oh, would you say you need to think about it? Like, what are you saying? I'd be like, fucking do this because you were fucking if you don't, like, shut the fuck up. And so you're gonna be either at a quarter million dollars or you're gonna be at like five, 10k a month. Like, what the fuck are you doing?" — sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
-> "Like, I will not be able to sleep at night if you do not make a decision that is actually aligned with who you are supposed to fucking be. So make a decision that can actually change your life forever and don't be a fucking pussy. Simple as that." — sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
-> "to get them to pay you 10, 20, 30, 000 because they want to buy into what you are saying and how you are saying it more than anything fucking" — sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
+> "You need to believe that if the prospect says no, they are making the wrong decision and it will absolutely destroy their life." — sources/S_ig_conner.bluhm_Dcqigd5tGa8.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as pressure to decide now: the wrong decision here is defined by the prospect's own goals, and Conner says he could not sleep at night if they chose against who they are supposed to be.
+- Read as a claim about every no: the belief is about this offer for this prospect, not a rule that every refusal in sales is a life-destroying mistake.

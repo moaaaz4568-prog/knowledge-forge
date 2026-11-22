@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: conner.bluhm
-aka: ["ad", "spend"]
+aka: ["hook", "hooks"]
 origin: sources/S_ig_conner.bluhm_DdZCBsutv6f.md
 ---
 
-# G_ig_conner.bluhm_DdZCBsutv6f — ad
+# G_ig_conner.bluhm_DdZCBsutv6f — hook
 
 ## Term
 
-ad is the most prominent repeated term in this source (407-word transcript from the Instagram account conner.bluhm): it occurs 13 times literally in the text, most often collocated with: spend, every, active. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Hook here is the first line of an ad, and Conner says it is 80% of the ad, so test hooks more than anything else. The word appears twice, beside complaints, body and 10 ads, with the plural hooks twice more: your best hook is your average prospect's complaints, and filming 10 hooks and one body gives you 10 ads. The rule sits in a list that opens with a great ad cannot save a bad offer and your niche and offer are 90% of results. The hook matters because it is the part that decides whether anyone reads the rest.
 
 ## Synonyms
 
-- ad
-- spend
+- hooks (plural, twice)
 
 ## Live Example
 
-> "great ad cannot save a bad offer. Your niche and your offer are 90% of your results. Go where nobody else is running ads. Untapped and broke is still broke. Check the Meta ad library before you commit to a single niche." — sources/S_ig_conner.bluhm_DdZCBsutv6f.md
-> "If you're debating adding something to an ad, don't add it. Say 10K a month in your ad if your floor is 5K. The best ad scares off the most people and obsesses the right ones. Bad audio is completely unacceptable in ads. Film 10 hooks and one body and you have 10 ads. Always optimize for leads." — sources/S_ig_conner.bluhm_DdZCBsutv6f.md
-> "Ignore Meta's recommendations. Call every lead in under 30 seconds. And every day ask yourself why you can't double ad" — sources/S_ig_conner.bluhm_DdZCBsutv6f.md
+> "The hook is 80% of the ad, so test hooks more than anything else." — sources/S_ig_conner.bluhm_DdZCBsutv6f.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trick opening: the hook here must be the prospect's own complaints, not a clever line; Conner says your best hook is what they already complain about.
+- Read as the whole ad: the hook is 80% of the ad, but the offer, the guarantee and the funnel still have to hold, and the video lists them all.
