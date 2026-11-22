@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DeCEVN3DlE9.md
 ---
 
-# G_ig_moemakesvids_DeCEVN3DlE9 — back
+# G_ig_moemakesvids_DeCEVN3DlE9 — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The ending runs together in this telling: the back rub line finishes with if you could attached to it, no separate sentence to close the verse. The word terminator occurs once, in the speaker's self-naming, with terminate once as its verb and perminator echoing it. Around it are the wet wipes, the hyphenated nappy-headed line, and the bug told to move back. The verse ends mid-breath rather than with a full stop, but the title has already done its work.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub if you could." — sources/S_ig_moemakesvids_DeCEVN3DlE9.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DeCEVN3DlE9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a question, the merged if you could closes the verse without a question mark; it is a trailing clause, not an inquiry.
+- Taken as a different verse, the merged ending is the same closing line with its pause removed.

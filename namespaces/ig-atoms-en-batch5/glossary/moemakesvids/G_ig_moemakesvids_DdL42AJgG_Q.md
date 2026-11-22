@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdL42AJgG_Q.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdL42AJgG_Q.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A rhyme chain carries this verse: terminator, germinator, and the verb terminate all land in the same few lines, and the terminator is the persona the chain belongs to. The word occurs twice, once for the speaker himself and once for what others need, with terminate once between them. Its neighbours are the wet wipes, the seed he sprays with the germinator, and the queen who could use a back rub. The persona is defined by a single rule: talk slick, and the terminator answers.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bugs. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdL42AJgG_Q.md
+> "These little nappy headed hoes need a terminator." — sources/S_ig_moemakesvids_DdL42AJgG_Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim about a real person, the terminator is a performed persona in a rap verse, not a documented identity.
+- Taken as standard English, germinator is a nonce rhyme built to match terminator, not a word with a meaning outside the verse.

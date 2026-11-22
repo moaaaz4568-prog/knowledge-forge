@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: mogwarts.official
-aka: [bota, mogwarts.official account context]
+aka: [chant]
 origin: sources/S_ig_mogwarts.official_C_7zdTayAg8.md
+language: pt
 ---
 
-# G_ig_mogwarts.official_C_7zdTayAg8 — bota
+# G_ig_mogwarts.official_C_7zdTayAg8 — chant
 
 ## Term
 
-"bota" is the most frequent repeated content term in this source (a transcribed Instagram video from the mogwarts.official account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bota, mano, bora, quando. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and chant is only the entry's type label for a repeated Portuguese funk hook. The line is a single burst of song: kneeling on the pile while the guys go, and the word bota sounded three times as the hook. Its neighbours are the pile, the guys setting off, and the kneeling that opens the line. The source is in Portuguese, and the hook is the whole content: a dance command repeated until it becomes the song.
 
 ## Synonyms
 
-- bota
-- mogwarts.official account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ origin: sources/S_ig_mogwarts.official_C_7zdTayAg8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bota": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a term, bota is the hook word repeated three times, not a concept the source defines.
+- Taken as an instruction, the kneeling line is a lyric in a funk song, not a direction to the listener.

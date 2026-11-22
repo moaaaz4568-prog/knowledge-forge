@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdZkNzbCTJ9.md
 ---
 
-# G_ig_moemakesvids_DdZkNzbCTJ9 — back
+# G_ig_moemakesvids_DdZkNzbCTJ9 — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bugs, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The plural matters in this telling: bugs, not bug, are told to move back, and the terminator is named once against them. The word occurs once, in the speaker's self-naming, while perminator takes the second slot and germinator finishes the rhyme. Its neighbours are the wet wipes, the queen, and the back rub she could use. One naming is enough to set the verse's stance: the speaker is the terminator, and the crowd around him should move back.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bugs. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdZkNzbCTJ9.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdZkNzbCTJ9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as the term, perminator is not a variant of terminator; it is a separate rhyme-word that only sounds like it.
+- Taken as a count of people, bugs is the verse's own plural for the crowd told to move back, not a number of insects.

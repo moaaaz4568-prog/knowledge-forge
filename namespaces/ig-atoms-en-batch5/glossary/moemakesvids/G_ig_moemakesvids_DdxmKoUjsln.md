@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdxmKoUjsln.md
 ---
 
-# G_ig_moemakesvids_DdxmKoUjsln — back
+# G_ig_moemakesvids_DdxmKoUjsln — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The missing comma marks this telling: the opening runs Couple wet wipes case a bum, with no pause after wipes, and the verse rushes on from there. The word terminator occurs once, as the speaker's title, with terminate once beside it and perminator in the companion line. Its neighbours are the germinator, the queen, and the bug told to move back. The rush of the opening fits the verse: guarded, fast, and already naming the title by the second line.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdxmKoUjsln.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdxmKoUjsln.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a different opening, the missing comma is a transcription detail; the words are the same as in the other tellings.
+- Taken as a new term, perminator remains a rhyme-word, not a variant of the terminator.

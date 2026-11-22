@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [lifetime, moemakesvids account context]
+aka: [peace of mind]
 origin: sources/S_ig_moemakesvids_Ddt3Zppil8l.md
 ---
 
-# G_ig_moemakesvids_Ddt3Zppil8l — lifetime
+# G_ig_moemakesvids_Ddt3Zppil8l — peace of mind
 
 ## Term
 
-"lifetime" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mind, hope, find, tell. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Peace of mind is the wish this short source repeats: the speaker hopes the listener finds some peace of mind in this lifetime, and says it twice. The phrase occurs twice, word for word, and the only other instruction is Tell them, spoken once at the end. Its neighbours are lifetime, the span the wish covers, and the telling itself, left unexplained. The source is a benediction with nothing else attached: a wish, repeated, and a nudge to pass it on.
 
 ## Synonyms
 
-- lifetime
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I hope you find some peace of mind in this lifetime. I hope you find some peace of mind in this lifetime. Tell them." — sources/S_ig_moemakesvids_Ddt3Zppil8l.md
+> "I hope you find some peace of mind in this lifetime." — sources/S_ig_moemakesvids_Ddt3Zppil8l.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "lifetime": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a definition, peace of mind here is a wished-for state, not a technique the source explains.
+- Taken as a command, the repeated hope is a wish for the listener, not an order to achieve calm.

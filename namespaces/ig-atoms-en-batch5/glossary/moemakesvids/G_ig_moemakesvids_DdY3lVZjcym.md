@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdY3lVZjcym.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdY3lVZjcym.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Slick talk is the trigger in this verse: talk slick and the speaker, the terminator, will have to terminate her. The word occurs twice, once as his own title and once as what others need, with the verb terminate once between them. Around it sit the wet wipes, the germinator, and the single bug ordered to move back. The verse is built as a warning with a name attached: the name says who answers, and the verb says how.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdY3lVZjcym.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdY3lVZjcym.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a legal threat, the lines are a rap verse's performed warning, not a statement about a real person.
+- Taken as a synonym, terminate is the verb form the verse uses beside the noun, not a second name for the persona.

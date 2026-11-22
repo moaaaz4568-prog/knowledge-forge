@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdnS-ytlGrZ.md
 ---
 
-# G_ig_moemakesvids_DdnS-ytlGrZ — back
+# G_ig_moemakesvids_DdnS-ytlGrZ — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The demand line carries this telling: others need a perminator, the rhyme-word, while the speaker himself is the terminator, named once. The word occurs once, with terminate once as its verb and germinator closing the rhyme chain. Around it sit the wet wipes, the hyphenated nappy-headed line, and the bug told to move back. The verse pairs a claim and a demand: he is the terminator, and the people around him need one of their own, or at least the rhyme of one.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdnS-ytlGrZ.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdnS-ytlGrZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a request, the need a perminator line is part of the verse's rhyme scheme, not a real request for a person.
+- Taken as a second naming, the terminator is named once; the companion line uses the rhyme-word, not the term.

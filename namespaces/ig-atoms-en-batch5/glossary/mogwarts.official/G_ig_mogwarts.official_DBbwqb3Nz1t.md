@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mogwarts.official
-aka: [catch, mogwarts.official account context]
+aka: [light]
 origin: sources/S_ig_mogwarts.official_DBbwqb3Nz1t.md
 ---
 
-# G_ig_mogwarts.official_DBbwqb3Nz1t — catch
+# G_ig_mogwarts.official_DBbwqb3Nz1t — light
 
 ## Term
 
-"catch" is the most frequent repeated content term in this source (a transcribed Instagram video from the mogwarts.official account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: light, yeah, look, nice. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Light here means a light for a cigarette: the speaker asks twice whether he can catch that light, after saying he does not smoke anymore. The word occurs twice, both times in the same request, and its neighbours are the denial about smoking, the compliment that the other looks nice, and the big manhandling that opens the clip. The request is casual and repeated: ask once, ask again, and the light is the small thing that starts the exchange.
 
 ## Synonyms
 
-- catch
-- mogwarts.official account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm big manhandling. No, I don't smoke anymore. I mean, you look nice. Can I catch that light? Yeah, can I catch that light?" — sources/S_ig_mogwarts.official_DBbwqb3Nz1t.md
+> "Can I catch that light? Yeah, can I catch that light?" — sources/S_ig_mogwarts.official_DBbwqb3Nz1t.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "catch": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a general noun, light here means a flame to borrow, not brightness or a lamp.
+- Taken as a contradiction, the speaker says he does not smoke anymore and still asks for a light; the source leaves the tension unresolved.

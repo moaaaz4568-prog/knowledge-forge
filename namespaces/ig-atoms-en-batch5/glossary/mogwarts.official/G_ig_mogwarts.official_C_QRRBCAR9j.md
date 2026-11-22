@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: mogwarts.official
-aka: [texto, mogwarts.official account context]
+aka: [chant]
 origin: sources/S_ig_mogwarts.official_C_QRRBCAR9j.md
+language: pt
 ---
 
-# G_ig_mogwarts.official_C_QRRBCAR9j — texto
+# G_ig_mogwarts.official_C_QRRBCAR9j — chant
 
 ## Term
 
-"texto" is the most frequent repeated content term in this source (a transcribed Instagram video from the mogwarts.official account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: aqui, texto. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and chant is only the entry's type label for a spoken refrain repeated three times. The whole source is one sentence, the text is here, said three times in a row, with nothing else attached. Its neighbours are only the repetitions themselves: the text, here, again and again. The source is in Portuguese, and the repetition is the content: a speaker pointing at a text by saying it is here, three times.
 
 ## Synonyms
 
-- texto
-- mogwarts.official account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ origin: sources/S_ig_mogwarts.official_C_QRRBCAR9j.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "texto": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a term, texto is only the word repeated inside the refrain, not a concept the source explains.
+- Taken as a document, the source names no text; it only repeats that the text is here.

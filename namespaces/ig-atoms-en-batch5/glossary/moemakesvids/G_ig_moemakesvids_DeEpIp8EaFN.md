@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DeEpIp8EaFN.md
 ---
 
-# G_ig_moemakesvids_DeEpIp8EaFN — back
+# G_ig_moemakesvids_DeEpIp8EaFN — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+You my seed is the verse's oddest address, and it leads straight to the germinator rhyme and the terminator title. The word terminator occurs once, as the speaker's own name, with terminate once as its verb and perminator in the companion slot. Around it sit the wet wipes, the hyphenated nappy-headed line, and the bug told to move back. The seed line only makes sense as sound: seed, germinator, terminator, a chain of rhymes around a single title.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DeEpIp8EaFN.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DeEpIp8EaFN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as an address to a child, the seed line is rhyme wordplay, not a family claim.
+- Taken as a farming image, the germinator is an invented rhyme-word, not a tool the verse describes.

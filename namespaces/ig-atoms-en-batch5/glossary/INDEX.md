@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch5)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch5): one G_ entry per T_ atom file — 3,859 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,313 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 689 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch5): one G_ entry per T_ atom file — 3,859 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,311 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 689 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3004,56 +3004,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/moemakesvids/G_ig_moemakesvids_Dd75SH6DpQd.md | back | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_Dd7CXPYlYWw.md | International | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_Dd9nKECCsbn.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdAV_Y9iPht.md | talking head | 2 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdEE9nrireO.md | footage | 2 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdAV_Y9iPht.md | talking head | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdEE9nrireO.md | B-roll | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdGRg1hKOFt.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdG_1g7C8Ec.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdIzOJSi8cY.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdJuycQAn3T.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdL42AJgG_Q.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdMT590DTrJ.md | terminator | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdVH3ZgDDWJ.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdVNNXRkWio.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdVcLcWgokj.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdVvwnqDQG5.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdWuz-ngieG.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdX2WieCHxC.md | back | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdVH3ZgDDWJ.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdVNNXRkWio.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdVcLcWgokj.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdVvwnqDQG5.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdWuz-ngieG.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdX2WieCHxC.md | terminator | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_DdY3lVZjcym.md | terminator | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdZkNzbCTJ9.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Dd_fehxiExi.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdabJfjAjjx.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdbcYXtCTQ7.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddc_v3lj-vf.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdeA9_BDM8f.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdetslBkbIx.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdfkhzwEtFQ.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddjjv53FeYM.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdkuL7HgB2d.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdlvWkoEhsp.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddmb_lwlJ2C.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdnS-ytlGrZ.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdoUNQQFIsy.md | linda perigosa | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdpAyKVFZcn.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddq48XTDwdm.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddr99flk6Ee.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_Ddt3Zppil8l.md | lifetime | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdZkNzbCTJ9.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Dd_fehxiExi.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdabJfjAjjx.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdbcYXtCTQ7.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddc_v3lj-vf.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdeA9_BDM8f.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdetslBkbIx.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdfkhzwEtFQ.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddjjv53FeYM.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdkuL7HgB2d.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdlvWkoEhsp.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddmb_lwlJ2C.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdnS-ytlGrZ.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdoUNQQFIsy.md | baile | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdpAyKVFZcn.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddq48XTDwdm.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddr99flk6Ee.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_Ddt3Zppil8l.md | peace of mind | 1 |
 | glossary/moemakesvids/G_ig_moemakesvids_Ddtd1emD1pV.md | terminator | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdwCishlPB3.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdwvKgZDK60.md | tell | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DdxmKoUjsln.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DeCEVN3DlE9.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DeCxAJInUs6.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DeDn1z_DknG.md | International | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DeEpIp8EaFN.md | back | 1 |
-| glossary/moemakesvids/G_ig_moemakesvids_DeFVuu-FXS3.md | back | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_C-PiJDVyn_t.md | problems | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_C-XQ21yAA_H.md | matter | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdwCishlPB3.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdwvKgZDK60.md | peace of mind | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DdxmKoUjsln.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DeCEVN3DlE9.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DeCxAJInUs6.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DeDn1z_DknG.md | Delta Airlines | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DeEpIp8EaFN.md | terminator | 1 |
+| glossary/moemakesvids/G_ig_moemakesvids_DeFVuu-FXS3.md | terminator | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_C-PiJDVyn_t.md | dancing | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_C-XQ21yAA_H.md | looks | 1 |
 | glossary/mogwarts.official/G_ig_mogwarts.official_C-hxobuuc8T.md | friends | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_C_7zdTayAg8.md | bota | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_C_QRRBCAR9j.md | texto | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_DBbwqb3Nz1t.md | catch | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_DC39tr1u9On.md | matter | 1 |
-| glossary/mogwarts.official/G_ig_mogwarts.official_DCeKLG3RG25.md | brincar | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_C_7zdTayAg8.md | chant | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_C_QRRBCAR9j.md | chant | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_DBbwqb3Nz1t.md | light | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_DC39tr1u9On.md | looks | 1 |
+| glossary/mogwarts.official/G_ig_mogwarts.official_DCeKLG3RG25.md | chant | 1 |
 | glossary/mogwarts.official/G_ig_mogwarts.official_DDJ93WfpyEe.md | extinguiu | 1 |
 | glossary/mogwarts.official/G_ig_mogwarts.official_DDUFWroBZyM.md | proud | 1 |
 | glossary/mogwarts.official/G_ig_mogwarts.official_DEeu0rkuPfS.md | through | 1 |

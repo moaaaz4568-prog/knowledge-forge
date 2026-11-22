@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdX2WieCHxC.md
 ---
 
-# G_ig_moemakesvids_DdX2WieCHxC — back
+# G_ig_moemakesvids_DdX2WieCHxC — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Wet wipes open the verse and the terminator follows: the speaker carries them in case someone tries to touch him, then names himself. The word occurs once, with terminate once as the verb that gives the title its edge, and perminator echoing it in the next line. Its neighbours are the germinator, the queen, and the bug told to move back. The opening image sets the tone, guarded and ready, and the title explains what readiness means here.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdX2WieCHxC.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdX2WieCHxC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as hygiene advice, the wet wipes are an image of readiness inside a boast, not a recommendation.
+- Taken as a film nod, the terminator here is the speaker's own invented role, not a character from a movie.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_Ddjjv53FeYM.md
 ---
 
-# G_ig_moemakesvids_Ddjjv53FeYM — back
+# G_ig_moemakesvids_Ddjjv53FeYM — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The hyphen splits the rhyme-word in this telling: the companion line asks for a perm-inator, hyphen and all, while the terminator himself is named once. The word occurs once, with terminate once as the verb, and the hyphenated perm-inator echoing it in the next line. Its neighbours are the hyphenated nappy-headed line, the germinator, and the bug told to move back. The hyphen is a transcription quirk; the rhyme is the same, and the persona is named only once.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a perm-inator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_Ddjjv53FeYM.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_Ddjjv53FeYM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a hairstyle term, perm-inator is a rhyme-word split by a hyphen, not a word for a perm.
+- Taken as two terms, terminator and perm-inator are not variants of each other; one is the persona, the other is the echo.

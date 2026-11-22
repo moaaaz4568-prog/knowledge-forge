@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [tell, moemakesvids account context]
+aka: [peace of mind]
 origin: sources/S_ig_moemakesvids_DdwvKgZDK60.md
 ---
 
-# G_ig_moemakesvids_DdwvKgZDK60 — tell
+# G_ig_moemakesvids_DdwvKgZDK60 — peace of mind
 
 ## Term
 
-"tell" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tell, lifetime, mind, truth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Tell them the truth is the refrain added here: the wish for peace of mind is repeated twice, and each time it is followed by tell them three times over. The phrase occurs twice, and its neighbours are lifetime, the span of the wish, and truth, the thing to be told. The source pairs a private wish with a public act: find peace of mind, and tell them the truth about it.
 
 ## Synonyms
 
-- tell
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I hope you find some peace of mind in this lifetime. Tell them, tell them, tell them the truth. I hope you find some peace of mind in this lifetime. Tell them, tell them, tell them the truth." — sources/S_ig_moemakesvids_DdwvKgZDK60.md
+> "Tell them, tell them, tell them the truth. I hope you find some peace of mind in this lifetime." — sources/S_ig_moemakesvids_DdwvKgZDK60.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "tell": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a secret, the truth to be told is never specified; the source says to tell it, not what it is.
+- Taken as a repeated chorus, the doubled telling is the source's own emphasis, not a separate verse.

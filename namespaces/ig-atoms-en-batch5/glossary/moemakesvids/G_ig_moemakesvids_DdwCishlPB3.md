@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [International, moemakesvids account context]
+aka: [Delta Airlines]
 origin: sources/S_ig_moemakesvids_DdwCishlPB3.md
 ---
 
-# G_ig_moemakesvids_DdwCishlPB3 — International
+# G_ig_moemakesvids_DdwCishlPB3 — Delta Airlines
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "International" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A boarding welcome is all this source is: ladies and gentlemen are welcomed aboard Delta Airlines flight 2998, bound for Atlanta with continuous service to Dallas. The name occurs once, beside the flight number, and the two cities fill out the route in the same breath. Its neighbours are the greeting, the flight number, and the phrase continuous service. The welcome does two things at once: it greets the passengers and tells them whose plane they are on and where it is going.
 
 ## Synonyms
 
-- International
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (21 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "International": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a safety briefing, the sentence is only a welcome; it gives no safety information.
+- Taken as a route map, the two cities are the stops in order, not a list of every place the airline flies.

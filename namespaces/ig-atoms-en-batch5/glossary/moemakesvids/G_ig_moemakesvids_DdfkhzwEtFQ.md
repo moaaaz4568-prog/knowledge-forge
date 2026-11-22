@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [International, moemakesvids account context]
+aka: [Delta Airlines]
 origin: sources/S_ig_moemakesvids_DdfkhzwEtFQ.md
 ---
 
-# G_ig_moemakesvids_DdfkhzwEtFQ — International
+# G_ig_moemakesvids_DdfkhzwEtFQ — Delta Airlines
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "International" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ladies and gentlemen opens the announcement, a formal welcome before the carrier is named. Delta Airlines occurs once, beside flight 2998, and the sentence then gives the route: Atlanta first, Dallas Fort Worth after, with continuous service between them. Its neighbours are the greeting, the flight number, and the two cities. The formality is the point: a boarding announcement names the airline so every passenger knows whose aircraft they are on.
 
 ## Synonyms
 
-- International
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (21 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "International": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a greeting to a crowd, ladies and gentlemen is the announcement's address form, not a claim about who is aboard.
+- Taken as a destination list, Atlanta and Dallas Fort Worth are the two cities in order, not two separate flights.

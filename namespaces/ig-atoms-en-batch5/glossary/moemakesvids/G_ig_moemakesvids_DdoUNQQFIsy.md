@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [linda perigosa, moemakesvids account context]
+aka: [baile]
 origin: sources/S_ig_moemakesvids_DdoUNQQFIsy.md
+language: pt
 ---
 
-# G_ig_moemakesvids_DdoUNQQFIsy — linda perigosa
+# G_ig_moemakesvids_DdoUNQQFIsy — baile
 
 ## Term
 
-"linda perigosa" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: press, minha, rouba, meu. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is in Portuguese, and its centre is the baile, the dance party where she goes down and up under pressure. The word baile occurs twice, in the lines that put her rising at the baile under pressão, while pressão itself sounds three times as the repeated hook of the verse. Around it sit the dangerous beauty who steals his heart and the batidão beat she never loses her reason to. The baile is the setting that holds the verse together: a party, a beat, and a woman moving to it.
 
 ## Synonyms
 
-- linda perigosa
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ela desce, ela sobe no baile é pressão, Minha linda perigosa rouba meu coração, Vai quicando, vai jogando, Não perde a razão no batidão, no batidão, só cura, Teta ela pressão, sobe no baile é pressão, Minha linda perigosa rouba meu." — sources/S_ig_moemakesvids_DdoUNQQFIsy.md
+> "Ela desce, ela sobe no baile é pressão, Minha linda perigosa rouba meu coração" — sources/S_ig_moemakesvids_DdoUNQQFIsy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "linda perigosa": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a translation, baile is kept in Portuguese because it names the party in the lyric; rendering it as ball would lose the funk setting.
+- Taken as a claim about a real party, the baile is the scene inside this one song, not a named venue.

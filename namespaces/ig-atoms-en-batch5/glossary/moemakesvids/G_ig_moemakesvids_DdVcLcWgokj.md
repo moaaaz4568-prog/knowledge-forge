@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [International, moemakesvids account context]
+aka: [Delta Airlines]
 origin: sources/S_ig_moemakesvids_DdVcLcWgokj.md
 ---
 
-# G_ig_moemakesvids_DdVcLcWgokj — International
+# G_ig_moemakesvids_DdVcLcWgokj — Delta Airlines
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "International" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Delta Airlines is the carrier named in this boarding announcement, the airline operating the flight the passengers are welcomed aboard. The name occurs once, beside flight 2998, and the announcement gives the route in the same breath: bound for Atlanta, Georgia, with continuous service to Dallas Fort Worth International. Its neighbours are the greeting to ladies and gentlemen, the flight number, and the two cities. The name does the identifying work: it tells the passengers whose aircraft they have boarded.
 
 ## Synonyms
 
-- International
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (21 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "International": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as the destination, Delta Airlines is the carrier, not a place; Atlanta is where the flight is bound, and Dallas Fort Worth is where the service continues.
+- Taken as a timetable, the single announcement proves nothing about the flight's schedule beyond this one welcome aboard.

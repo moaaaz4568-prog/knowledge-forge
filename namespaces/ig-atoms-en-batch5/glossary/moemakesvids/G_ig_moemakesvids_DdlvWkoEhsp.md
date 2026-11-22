@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdlvWkoEhsp.md
 ---
 
-# G_ig_moemakesvids_DdlvWkoEhsp — back
+# G_ig_moemakesvids_DdlvWkoEhsp — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Talk slick is the offence and terminate is the answer: the speaker says he will have to terminate her, then names himself the terminator. The word occurs once, with the verb terminate once beside it and perminator as the rhyme echo. Its neighbours are the wet wipes, the hyphenated nappy-headed line, and the bug told to move back. The verse's threat is conditional and short: the title explains who acts, and the verb explains what he does.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdlvWkoEhsp.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdlvWkoEhsp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a completed act, the verse only threatens in the conditional; nothing in it says the act happened.
+- Taken as a general rule, the terminator answers slick talk in this verse only; the lines set no rule beyond it.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdIzOJSi8cY.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdIzOJSi8cY.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here the terminator is the answer the verse gives to disrespect: the speaker claims the role for himself, and the people around him are said to need one too. The word occurs twice, once in his self-introduction and once in the line about what others need, and the verb terminate sits between them as the action the role performs. Around the term are the wet wipes, the germinator rhyme, and the plural bugs he tells to move back. The verse's logic is simple: slick talk meets a terminator, and the speaker is the one wearing the name.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bugs. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdIzOJSi8cY.md
+> "These little nappy headed hoes need a terminator." — sources/S_ig_moemakesvids_DdIzOJSi8cY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a job title, terminator here is a boastful self-label in a song, not an occupation.
+- Taken as a literal warning, the verse performs a threat for effect; nothing in it describes a real act.

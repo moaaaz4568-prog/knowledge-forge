@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdGRg1hKOFt.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdGRg1hKOFt.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this verse the terminator is the speaker himself, a figure who steps in when someone talks slick and deals with them. The word occurs twice: once in the self-naming line where he says he is the terminator, and once in the demand that others need a terminator. Around it sit the verb terminate, the invented rhyme-word germinator, and the wet wipes the verse opens with. The threat is the verse's hinge: talk slick and he will have to terminate her.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdGRg1hKOFt.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdGRg1hKOFt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a reference to the film character, the word here names only the speaker's own role in this verse, not the movie.
+- Taken literally, the lines about terminating someone are a performed boast in a song, not a stated plan.

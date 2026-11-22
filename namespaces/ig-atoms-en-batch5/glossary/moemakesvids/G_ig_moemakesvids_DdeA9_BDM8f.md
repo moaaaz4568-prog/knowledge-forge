@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [International, moemakesvids account context]
+aka: [Delta Airlines]
 origin: sources/S_ig_moemakesvids_DdeA9_BDM8f.md
 ---
 
-# G_ig_moemakesvids_DdeA9_BDM8f — International
+# G_ig_moemakesvids_DdeA9_BDM8f — Delta Airlines
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "International" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Continuous service is the announcement's key phrase: the same service that reaches Atlanta goes on to Dallas Fort Worth International. Delta Airlines occurs once, naming the carrier of flight 2998, and the sentence is addressed to ladies and gentlemen welcomed aboard. Its neighbours are the flight number, Atlanta, and Dallas Fort Worth. The phrase tells passengers the journey does not end at the first city named.
 
 ## Synonyms
 
-- International
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ladies and gentlemen, welcome aboard Delta Airlines flight 2998 bound for Atlanta, Georgia, with continuous service to Dallas Fort Worth International." — sources/S_ig_moemakesvids_DdeA9_BDM8f.md
+> "Ladies and gentlemen, welcome aboard Delta Airlines flight 2998 bound for Atlanta, Georgia" — sources/S_ig_moemakesvids_DdeA9_BDM8f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "International": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as two flights, the announcement describes one numbered service with continuous service onward, not a change of aircraft.
+- Taken as a promise, the welcome states the planned route; it says nothing about delays or actual arrival.

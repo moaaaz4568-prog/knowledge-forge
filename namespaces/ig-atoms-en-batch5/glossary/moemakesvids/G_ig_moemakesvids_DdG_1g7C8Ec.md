@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdG_1g7C8Ec.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdG_1g7C8Ec.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The threat does the work in this verse: the speaker warns that slick talk will make him terminate her, and he presents himself as the terminator who does it. The word occurs twice, first as his own title and then as what others need, with the verb terminate bridging the two uses. Its neighbours are the wet wipes carried in case someone tries to touch him, the germinator he sprays his seed with, and the queen who could use a back rub. The verse keeps the figure menacing and brief: name the role, state the consequence, move on.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy-headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdG_1g7C8Ec.md
+> "These little nappy-headed hoes need a terminator." — sources/S_ig_moemakesvids_DdG_1g7C8Ec.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a general noun for a killer, the word here is only the speaker's self-given role inside this one verse.
+- Taken as two different figures, the two uses are the same persona: the speaker first, then the one others need.

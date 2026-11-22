@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [terminator, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdMT590DTrJ.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_moemakesvids_DdMT590DTrJ.md
 
 ## Term
 
-"terminator" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ill, bitch, talk, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The verse ends on the queen who could use a back rub, but its centre is the terminator the speaker claims to be. The word occurs twice, first as his own name and then as the thing others need, and the verb terminate appears once to say what he will do to someone who talks slick. Around it are the wet wipes, the germinator, and the bugs he orders to move back. The whole verse is a short piece of posturing: carry wipes, claim the title, and let the title do the threatening.
 
 ## Synonyms
 
-- terminator
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a terminator. You my seed, I spray you with the germinator. Move back, bugs. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdMT590DTrJ.md
+> "These little nappy headed hoes need a terminator." — sources/S_ig_moemakesvids_DdMT590DTrJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "terminator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a threat against a named person, the verse names no one; the terminator answers slick talk in general.
+- Taken as a description of a real routine, the wet wipes and back rub are images inside the boast, not a list of things the speaker owns.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdVH3ZgDDWJ.md
 ---
 
-# G_ig_moemakesvids_DdVH3ZgDDWJ — back
+# G_ig_moemakesvids_DdVH3ZgDDWJ — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this version of the verse the word terminator occurs only once, in the speaker's claim that he is the terminator, while the second slot is filled by the rhyme-word perminator. The verb terminate appears once as well, turning the title into the threat that he will have to terminate her for talking slick. Around the term sit the wet wipes, the germinator, and the single bug told to move back. The persona is the same as in the other tellings: one name, stated once, and the rest of the verse rhymes around it.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdVH3ZgDDWJ.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdVH3ZgDDWJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a different figure, perminator is not a second persona; it is a rhyme-word invented to echo terminator.
+- Taken as a miscount, the single terminator here is exact: the companion line uses perminator, not the term itself.

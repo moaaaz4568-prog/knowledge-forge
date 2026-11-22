@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: mogwarts.official
-aka: [matter, mogwarts.official account context]
+aka: [looks]
 origin: sources/S_ig_mogwarts.official_DC39tr1u9On.md
 ---
 
-# G_ig_mogwarts.official_DC39tr1u9On — matter
+# G_ig_mogwarts.official_DC39tr1u9On — looks
 
 ## Term
 
-"matter" is the most frequent repeated content term in this source (a transcribed Instagram video from the mogwarts.official account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: looks, simply, good, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Looks are measured against personality in this source: however good someone looks, it does not matter without a nice personality. The word looks occurs three times, and the verb look appears once more in the opening question about how good someone looks. Its neighbours are the nice personality, the question of whether looks really matter, and the blunt answer that they do not matter at all. The argument is a short chain: looks alone are not enough, personality decides, and so looks do not matter.
 
 ## Synonyms
 
-- matter
-- mogwarts.official account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It doesn't matter how good you look if you don't have a nice personality. Do looks really matter? Not at all. This is why looks don't matter. Why looks just simply do not matter." — sources/S_ig_mogwarts.official_DC39tr1u9On.md
+> "Do looks really matter? Not at all. This is why looks don't matter." — sources/S_ig_mogwarts.official_DC39tr1u9On.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "matter": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a claim that looks are invisible, the source says they do not matter without personality, not that they go unnoticed.
+- Taken as a rule for dating, the argument is the speaker's view in this clip, not a general finding.

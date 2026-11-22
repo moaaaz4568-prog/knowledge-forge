@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: moemakesvids
-aka: [back, moemakesvids account context]
+aka: [terminator]
 origin: sources/S_ig_moemakesvids_DdWuz-ngieG.md
 ---
 
-# G_ig_moemakesvids_DdWuz-ngieG — back
+# G_ig_moemakesvids_DdWuz-ngieG — terminator
 
 ## Term
 
-"back" is the most frequent repeated content term in this source (a transcribed Instagram video from the moemakesvids account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: germinator, move, bug, matter. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The queen gets the last word in this verse, but the terminator gets the title: the speaker claims it once, early, and the rest of the lines rhyme off it. The word occurs once, beside the verb terminate once, while perminator fills the companion slot and germinator closes the rhyme chain. Its neighbours are the wet wipes, the bugs, here a single bug, and the back rub the queen could use. The structure is all swagger: one title, one threat, and a closing image.
 
 ## Synonyms
 
-- back
-- moemakesvids account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Couple wet wipes, case a bum try to touch me, ill. I'm the terminator, bitch talk slick, I'ma have to terminate her. These little nappy headed hoes need a perminator. You my seed, I spray you with the germinator. Move back, bug. Matter of fact, you know the queen can use a back rub. If you could." — sources/S_ig_moemakesvids_DdWuz-ngieG.md
+> "I'm the terminator, bitch talk slick, I'ma have to terminate her." — sources/S_ig_moemakesvids_DdWuz-ngieG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "back": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taken as a second title, perminator is only a rhyme-word; the verse has one terminator, named once.
+- Taken as a request, the back rub line is part of the verse's closing image, not an instruction to the listener.
