@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch6)
 
-YouTube English video transcripts batch 6 glossaries (sub-batches 1-2: codes 1-100 of 1,000): one G_ entry per T_ atom file — 100 files, zero exclusions, misc-dl collection. 100 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1100 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last kmjYWUE5IZI (sub-batch 2).
+YouTube English video transcripts batch 6 glossaries (sub-batches 1-3: codes 1-150 of 1,000): one G_ entry per T_ atom file — 150 files, zero exclusions, misc-dl collection. 150 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1150 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last lE_Z4RFjQs0 (sub-batch 3).
 | glossary/misc-dl/G_yt_js9-JPCC-U4_en.md | align | 1 |
 | glossary/misc-dl/G_yt_jsseHVKseyk_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_jtJLUR-bePM_en.md | brand name | 1 |
@@ -101,3 +101,53 @@ YouTube English video transcripts batch 6 glossaries (sub-batches 1-2: codes 1-1
 | glossary/misc-dl/G_yt_klLuB0tAfe0_en.md | logo type | 1 |
 | glossary/misc-dl/G_yt_kmZkRkxWj2c_en.md | creative culture | 1 |
 | glossary/misc-dl/G_yt_kmjYWUE5IZI_en.md | servant and master | 1 |
+| glossary/misc-dl/G_yt_kmyEdIkJFOk_en.md | moral hazard | 1 |
+| glossary/misc-dl/G_yt_knjl7H-HJfI_en.md | specialize | 1 |
+| glossary/misc-dl/G_yt_kntcUApUBoM_en.md | chunk | 1 |
+| glossary/misc-dl/G_yt_koAM2pSbN5U_en.md | student loan bubble | 1 |
+| glossary/misc-dl/G_yt_kojX2UwQgJE_en.md | logo type | 1 |
+| glossary/misc-dl/G_yt_kpBaHh7Mt94_en.md | appointment setting strategy | 1 |
+| glossary/misc-dl/G_yt_kpJYVbOgfmE_en.md | sales rep | 1 |
+| glossary/misc-dl/G_yt_kpOf-eWH7-o_en.md | data visualization | 1 |
+| glossary/misc-dl/G_yt_kpPZo3yjiBM_en.md | easy video | 1 |
+| glossary/misc-dl/G_yt_kpSfQgBj0zg_en.md | fonts in use | 1 |
+| glossary/misc-dl/G_yt_kpZugJzSwQE_en.md | attribution | 1 |
+| glossary/misc-dl/G_yt_kpppOcG2f-4_en.md | anything can work | 1 |
+| glossary/misc-dl/G_yt_krYE82HnVHI_en.md | car is an investment | 1 |
+| glossary/misc-dl/G_yt_krjYiXXgCX8_en.md | professional logo design | 1 |
+| glossary/misc-dl/G_yt_ksR6zrj8AEg_en.md | personal profile | 1 |
+| glossary/misc-dl/G_yt_ksYUwhB8VAE_en.md | problem solver perspective | 1 |
+| glossary/misc-dl/G_yt_kstGHf469OU_en.md | theory of constraints | 1 |
+| glossary/misc-dl/G_yt_ksuyDx8n5eY_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_ktQ0IqCnXoY_en.md | free button | 1 |
+| glossary/misc-dl/G_yt_ktguQdg_gis_en.md | memetic | 1 |
+| glossary/misc-dl/G_yt_ktoyIL7zhU0_en.md | Pantone | 1 |
+| glossary/misc-dl/G_yt_kujsxv4iII8_en.md | Blue Ocean strategy | 1 |
+| glossary/misc-dl/G_yt_kvaZSuLly6I_en.md | customer funnel | 1 |
+| glossary/misc-dl/G_yt_kvjPMF_MYcw_en.md | proprietary system | 1 |
+| glossary/misc-dl/G_yt_kvvs9WNLycE_en.md | selling results | 1 |
+| glossary/misc-dl/G_yt_kwmm6PCQJHg_en.md | retention marketing | 1 |
+| glossary/misc-dl/G_yt_kxZP_DrDPDk_en.md | half a million year program | 1 |
+| glossary/misc-dl/G_yt_kyFzrCO3wBs_en.md | exclusive blueprint | 1 |
+| glossary/misc-dl/G_yt_kysiGM1Rj0c_en.md | cold outreach campaign | 1 |
+| glossary/misc-dl/G_yt_kzwd5wR3P2I_en.md | gatekeeper | 1 |
+| glossary/misc-dl/G_yt_l-whimGR7Jw_en.md | the same physics | 1 |
+| glossary/misc-dl/G_yt_l0Sh23XXwA4_en.md | brand aesthetic guide | 1 |
+| glossary/misc-dl/G_yt_l1uqxWKdowc_en.md | font self | 1 |
+| glossary/misc-dl/G_yt_l43l6Qaw_PU_en.md | order taker | 1 |
+| glossary/misc-dl/G_yt_l71LEIoGBwA_en.md | leveraging your pricing | 1 |
+| glossary/misc-dl/G_yt_l79sq9xRLMI_en.md | procrastination | 1 |
+| glossary/misc-dl/G_yt_l7vEZISBtmg_en.md | packaging | 1 |
+| glossary/misc-dl/G_yt_l8cKThmYabY_en.md | right dopamine | 1 |
+| glossary/misc-dl/G_yt_l8cbRuvJNDQ_en.md | pivot | 1 |
+| glossary/misc-dl/G_yt_l9_BM1opTj8_en.md | word mark | 1 |
+| glossary/misc-dl/G_yt_l9rGyIKYNyk_en.md | indispensable | 1 |
+| glossary/misc-dl/G_yt_lABLakZu_Fk_en.md | software | 1 |
+| glossary/misc-dl/G_yt_lBhpHISZ03Y_en.md | awareness | 1 |
+| glossary/misc-dl/G_yt_lCAhjJVRPhc_en.md | NLP command terms | 1 |
+| glossary/misc-dl/G_yt_lCbihByRb18_en.md | hard work is overrated | 1 |
+| glossary/misc-dl/G_yt_lCzWwl65w6E_en.md | higher paying clients | 1 |
+| glossary/misc-dl/G_yt_lDG5aNc4JrY_en.md | proven product archetype | 1 |
+| glossary/misc-dl/G_yt_lDj7WjYJPDY_en.md | total addressable market | 1 |
+| glossary/misc-dl/G_yt_lEHt8m61hSg_en.md | quest log | 1 |
+| glossary/misc-dl/G_yt_lE_Z4RFjQs0_en.md | your voice | 1 |
