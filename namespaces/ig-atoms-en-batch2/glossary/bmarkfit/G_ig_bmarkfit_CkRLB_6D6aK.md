@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Number, bmarkfit account context]
+aka: ["document your fitness journey"]
 origin: sources/S_ig_bmarkfit_CkRLB_6D6aK.md
 ---
 
-# G_ig_bmarkfit_CkRLB_6D6aK — Number
+# G_ig_bmarkfit_CkRLB_6D6aK — document your fitness journey
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: people, online, business, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Document your fitness journey is step two of the reel's five steps to start an online business: change up your profile to attract your ideal client, then document your fitness journey to inspire people. The phrase appears once, beside change up your profile, attract your ideal client, free fitness consultations, and 15-minute phone calls. The later steps turn the inspiration into enrollment — an application in the TikTok, Instagram, and Facebook bios, free fitness consultations for people who are interested, and 15-minute phone calls to enroll them into the program. The sequence is the whole plan: attract, inspire, apply, consult, enroll.
 
 ## Synonyms
 
-- Number
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're unsure of what steps to take to start your online business, do this. Number one is to change up your profile to attract your ideal client. Number two is to document your fitness journey to inspire people. Number three is to put an application in your TikTok bio, your Instagram bio, and your Facebook bio. Number four is to offer free fitness consultations to people who are interested." — sources/S_ig_bmarkfit_CkRLB_6D6aK.md
-> "Number five is to use those 15-minute phone calls to enroll people into your program. DM me freedom on Instagram for more info." — sources/S_ig_bmarkfit_CkRLB_6D6aK.md
+> "Number two is to document your fitness journey to inspire people." — sources/S_ig_bmarkfit_CkRLB_6D6aK.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that documenting a journey enrolls clients: the documentation is step two of five, and the enrollment happens in the 15-minute phone calls, not in the posts.
+- Read as a claim that free consultations always convert: the free consultations are offered to people who are interested, and the source never says how many enroll.

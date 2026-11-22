@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Number, bmarkfit account context]
+aka: ["three-second rule"]
 origin: sources/S_ig_bmarkfit_Ck_oqXjDMqc.md
 ---
 
-# G_ig_bmarkfit_Ck_oqXjDMqc — Number
+# G_ig_bmarkfit_Ck_oqXjDMqc — three-second rule
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gratification, routine, goals, keys. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Three-second rule is number three of the reel's five keys for unbreakable self-discipline: when you are thinking about doing something, give yourself three seconds and then do it. The phrase appears once, beside build a routine, long-term gratification, specific goals that have deadlines, and optimize your environment for success. The other keys frame it — building a routine because consistency is important, choosing long-term gratification over short-term gratification, and having specific goals that have deadlines. The fifth key turns outward: optimize your environment for success, which includes cutting out anybody that is holding you back.
 
 ## Synonyms
 
-- Number
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here are five keys for unbreakable self-discipline. Number one, build a routine. Consistency is important. Number two, choose long-term gratification over short-term gratification. Number three, use the three-second rule. When you're thinking about doing something, give yourself three seconds and then do it. Number four, have specific goals that have deadlines." — sources/S_ig_bmarkfit_Ck_oqXjDMqc.md
-> "Number five, optimize your environment for success. That includes cutting out anybody that's holding you back." — sources/S_ig_bmarkfit_Ck_oqXjDMqc.md
+> "Number three, use the three-second rule." — sources/S_ig_bmarkfit_Ck_oqXjDMqc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that five keys make discipline unbreakable: the keys are offered for unbreakable self-discipline, and the source never tests whether they hold.
+- Read as a claim that three seconds always beats hesitation: the rule gives three seconds and then you do it, and the source never says what happens when the three seconds run out on a task you cannot start.

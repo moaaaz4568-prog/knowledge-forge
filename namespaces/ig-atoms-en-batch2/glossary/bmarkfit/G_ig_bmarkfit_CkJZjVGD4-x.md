@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [gonna, bmarkfit account context]
+aka: ["follow through", "following through"]
 origin: sources/S_ig_bmarkfit_CkJZjVGD4-x.md
 ---
 
-# G_ig_bmarkfit_CkJZjVGD4-x — gonna
+# G_ig_bmarkfit_CkJZjVGD4-x — follow through
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, follow, through, post. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Follow through is the test the reel applies to every promise you make yourself: say you will post on social media and then post, say you will reach out to a certain amount of clients and then reach out. The phrase appears four times, beside post on social media every day, reach out to a certain amount of clients, stop setting goals, and lose momentum. The failure pattern is a friend who bailed on you every time you make plans — you would not keep hanging out with them, yet you keep doing that to yourself. When you know you are not gonna follow through, you stop setting goals in the first place, and that is where you start to slip into a slump. The fix is to follow through on the things you say to yourself, and to do it no matter what — or not to say you will do it in the first place.
 
 ## Synonyms
 
-- gonna
-- bmarkfit account context (no variant form of the term appears in this source)
+- following through
 
 ## Live Example
 
-> "You had a friend that bailed on you every time you make plans. Would you continue to hang out with them? The answer is no. See, you understand this, but you keep doing that to yourself. You tell yourself you're gonna get up at 6 a. M. , that you're gonna post on social media every day, that you're gonna reach out to a certain amount of clients, and then you don't follow through." — sources/S_ig_bmarkfit_CkJZjVGD4-x.md
-> "If you wanna be successful, if you wanna make more money, if you wanna change more people's lives, then you need to start following through on the things that you say to yourself. If you say you're gonna get up at 6 a. M. , get up at 6 a. M. If you say you're gonna post on social media, post on social media." — sources/S_ig_bmarkfit_CkJZjVGD4-x.md
-> "If you say you're gonna reach out to a certain amount of people, reach out to that certain amount of people and do it no matter what. And at the end of the day, if you don't wanna do something or you're not gonna follow through, don't say you're gonna do it in the first place." — sources/S_ig_bmarkfit_CkJZjVGD4-x.md
+> "that you're gonna reach out to a certain amount of clients, and then you don't follow through." — sources/S_ig_bmarkfit_CkJZjVGD4-x.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that goals always fail: the reel says you stop setting goals once you know you will not follow through, and it never says goals themselves are the problem.
+- Read as advice to never make a promise: the rule is to follow through on what you say to yourself or not to say it in the first place, and the source never forbids making plans.

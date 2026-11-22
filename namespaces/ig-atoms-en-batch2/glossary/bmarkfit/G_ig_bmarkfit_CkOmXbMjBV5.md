@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [thousand dollars, bmarkfit account context]
+aka: ["heavily investing in mentorship"]
 origin: sources/S_ig_bmarkfit_CkOmXbMjBV5.md
 ---
 
-# G_ig_bmarkfit_CkOmXbMjBV5 — thousand dollars
+# G_ig_bmarkfit_CkOmXbMjBV5 — heavily investing in mentorship
 
 ## Term
 
-"thousand dollars" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: month, coaches, making, ten. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Heavily investing in mentorship is the first secret that made the speaker a millionaire before he turned thirty: when he says heavily, he means heavily — you really got to put yourself all in and do whatever it takes. The phrase appears once, beside millionaire before I turned thirty, two hundred and forty online coaches, sign two clients a month, and double your investment every month. The mechanism is spelled out in numbers: two hundred and forty online coaches making ten thousand dollars a month, taught to sign two clients a month for one thousand dollars each. The investment then doubles every month, and then it stacks.
 
 ## Synonyms
 
-- thousand dollars
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The first secret that made me a millionaire before I turned thirty was heavily investing in mentorship. When I say heavily, I do mean heavily. Like you really got to put yourself all in and do whatever it takes. We have two hundred and forty online coaches making ten thousand dollars a month. I teach you how to sign two clients a month for one thousand dollars each." — sources/S_ig_bmarkfit_CkOmXbMjBV5.md
+> "The first secret that made me a millionaire before I turned thirty was heavily investing in mentorship." — sources/S_ig_bmarkfit_CkOmXbMjBV5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thousand dollars": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that mentorship alone makes millionaires: the reel names investing in mentorship as the first secret, and it never says it is the only one.
+- Read as a promise that the investment doubles every month: the doubling is the arithmetic of the model — two clients a month at one thousand dollars each — and the source never shows a real month doubling.

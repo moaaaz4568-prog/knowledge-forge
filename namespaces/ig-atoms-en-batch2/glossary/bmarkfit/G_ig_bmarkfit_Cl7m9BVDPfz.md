@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [fucking, bmarkfit account context]
+aka: ["doing just enough to get by"]
 origin: sources/S_ig_bmarkfit_Cl7m9BVDPfz.md
 ---
 
-# G_ig_bmarkfit_Cl7m9BVDPfz — fucking
+# G_ig_bmarkfit_Cl7m9BVDPfz — doing just enough to get by
 
 ## Term
 
-"fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: actually, make, decision, complain. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Doing just enough to get by is the charge the reel levels at coaches who complain their business is not growing: they do just enough work so they do not have to work for somebody else, then complain the business is not growing. The phrase appears once, beside not gonna be a sheep anymore, posted three times in the last week, business isn't growing, and make the fucking decision. The evidence offered is the TikTok: three posts in the last week, held up against the complaint. The reel's answer is the opening command — make the fucking decision that you are not gonna be a sheep anymore.
 
 ## Synonyms
 
-- fucking
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Actually, make the fucking decision that you're not gonna be a sheep anymore. But all of you guys are doing just enough to get by. You're doing just enough work so that you don't have to work for somebody else, and then you fucking complain that your business isn't growing. I go to your TikTok, you posted three times in the last week. What the fuck are you talking about?" — sources/S_ig_bmarkfit_Cl7m9BVDPfz.md
+> "But all of you guys are doing just enough to get by." — sources/S_ig_bmarkfit_Cl7m9BVDPfz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that three posts a week is always too few: the three posts are the evidence against this complainer, and the source never sets a number that counts as enough.
+- Read as a claim that quitting a job is the goal: doing just enough so you do not have to work for somebody else is the setup, and the source faults the effort after it, not the escape.

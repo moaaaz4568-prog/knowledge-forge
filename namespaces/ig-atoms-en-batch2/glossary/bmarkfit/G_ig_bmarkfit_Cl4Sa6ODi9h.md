@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [want, bmarkfit account context]
+aka: ["throw in the towel"]
 origin: sources/S_ig_bmarkfit_Cl4Sa6ODi9h.md
 ---
 
-# G_ig_bmarkfit_Cl4Sa6ODi9h — want
+# G_ig_bmarkfit_Cl4Sa6ODi9h — throw in the towel
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, bad, shit, let. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Throw in the towel names the quick surrender the reel calls out: so many people say they want it, but when it gets hard and they experience a little bit of adversity, they are so quick to throw in the towel and give up. The phrase appears once, beside a little bit of adversity, give up, how bad do you want this shit, and let's go. The test the reel sets is desire against difficulty — how bad do you want this shit — and the answer it demands is to keep going. The whole reel is 43 words, and the towel is its only image of quitting.
 
 ## Synonyms
 
-- want
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So many of you say that you want it, but then when it gets hard and you experience a little bit of adversity, you're so quick to throw in the towel and give up. How bad do you want this shit? Let's go!" — sources/S_ig_bmarkfit_Cl4Sa6ODi9h.md
+> "So many of you say that you want it, but then when it gets hard and you experience a little bit of adversity, you're so quick to throw in the towel and give up." — sources/S_ig_bmarkfit_Cl4Sa6ODi9h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that adversity itself is the problem: the reel faults how quickly people give up when it gets hard, and it never says the adversity should not exist.
+- Read as proof that wanting it hard enough is all it takes: the question is how bad you want this shit, and the source never says desire alone carries you through.

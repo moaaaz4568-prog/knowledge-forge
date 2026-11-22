@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [weight loss, bmarkfit account context]
+aka: ["get out of your own way"]
 origin: sources/S_ig_bmarkfit_CkbeJMCjSGf.md
 ---
 
-# G_ig_bmarkfit_CkbeJMCjSGf — weight loss
+# G_ig_bmarkfit_CkbeJMCjSGf — get out of your own way
 
 ## Term
 
-"weight loss" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: search, hashtag, loss, scroll. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Get out of your own way is the reel's closing command to personal trainers who cannot find clients on social media: pull out your phone, search the hashtag weight loss, scroll the comments on the top posts, and you will see people begging for help with their weight loss goals. The phrase appears once, beside hashtag weight loss, begging for help, top posts, and producing content. The contradiction the reel points at is that the help-seekers are right there in the comments, yet the trainer is still not producing content to get in front of those people. The way out is the command itself — stop standing in your own way and produce the content.
 
 ## Synonyms
 
-- weight loss
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Personal trainers who can't find clients on social media. I want you to pull out your phone right now and search the hashtag weight loss. Scroll through some of the comments on the top posts and what you're gonna see is people begging for help with their weight loss goals. Yet still, you're not producing content to get in front of those people. You need to get out of your own way." — sources/S_ig_bmarkfit_CkbeJMCjSGf.md
+> "Yet still, you're not producing content to get in front of those people. You need to get out of your own way." — sources/S_ig_bmarkfit_CkbeJMCjSGf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "weight loss": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that the comments are full of buyers: the people in the comments are begging for help with weight loss goals, and the source never says any of them buys.
+- Read as a claim that content alone finds clients: the reel says to produce content to get in front of those people, and it never says the content reaches them.

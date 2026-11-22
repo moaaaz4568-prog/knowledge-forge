@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [acceptable standard, bmarkfit account context]
+aka: ["an acceptable standard"]
 origin: sources/S_ig_bmarkfit_ClJ8VpvDA7P.md
 ---
 
-# G_ig_bmarkfit_ClJ8VpvDA7P — acceptable standard
+# G_ig_bmarkfit_ClJ8VpvDA7P — an acceptable standard
 
 ## Term
 
-"acceptable standard" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: average, become, standard, acceptable. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An acceptable standard is what the reel says average has wrongly become: when the fuck did average become an acceptable standard? The phrase appears twice, beside watch TV for two hours a day, sleep the fuck in, eat whatever the fuck I want, and fitness coach. The pictures of average are concrete — watching TV for two hours a day, sleeping the fuck in every time the alarm clock goes off, a fitness coach eating whatever the fuck he wants. The question is asked twice, at the opening and the close, and no answer is offered beyond the challenge itself.
 
 ## Synonyms
 
-- acceptable standard
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When the fuck did average become an acceptable standard? When did you start thinking to" — sources/S_ig_bmarkfit_ClJ8VpvDA7P.md
+> "When the fuck did average become an acceptable standard?" — sources/S_ig_bmarkfit_ClJ8VpvDA7P.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "acceptable standard": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that TV and sleep are always average: watching TV for two hours and sleeping in are the reel's pictures of the standard, and the source never says any amount of either is the standard.
+- Read as a rule that coaches must never eat freely: the coach eating whatever the fuck he wants is the example of average, and the source never sets a diet rule.

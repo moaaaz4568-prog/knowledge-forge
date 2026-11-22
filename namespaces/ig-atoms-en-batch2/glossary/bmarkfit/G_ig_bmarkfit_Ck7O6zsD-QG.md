@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [content, bmarkfit account context]
+aka: ["DM script"]
 origin: sources/S_ig_bmarkfit_Ck7O6zsD-QG.md
 ---
 
-# G_ig_bmarkfit_Ck7O6zsD-QG — content
+# G_ig_bmarkfit_Ck7O6zsD-QG — DM script
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: good, say, problem, need. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+DM script is the step the reel's diagnosis turns on: a client pays money on the phone, but first the call must be booked, and to book the call you need to be in the DM script, and to be in the DM script you need good content. The phrase appears twice, beside book the phone call, How many calls are you booking per week, Zero, and the problem is sales. The coach in the example books one call this week and closed zero of the last four, and the reel's verdict is that the problem is not the content — which the coach feels is good — but sales. The script is where the sale is lost or won, before the call ever happens.
 
 ## Synonyms
 
-- content
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Client pays us money on the phone. That's the goal. Now in order for a client to pay us money on the phone, we have to actually book the phone call. Now in order for us to book the phone call, we need to be in the DM script. And in order for us to be in the DM script, we need to create good content. And you say your content is good, right? You feel like your content is good?" — sources/S_ig_bmarkfit_Ck7O6zsD-QG.md
-> "So the next problem that we need to look at is the DM script. How many calls are you booking per week? This week I have one. Okay, and how many of those calls have you closed? In the last four calls, how many have you closed? Zero. So the problem isn't your content, the problem is sales. Do you see what I just did there?" — sources/S_ig_bmarkfit_Ck7O6zsD-QG.md
+> "So the next problem that we need to look at is the DM script." — sources/S_ig_bmarkfit_Ck7O6zsD-QG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that content never matters: the diagnosis is that this coach's content is good and the problem is sales, and the source never says content is irrelevant in general.
+- Read as proof that zero closes means no skill: the coach closed zero of the last four calls, and the reel uses that as the diagnostic signal, not as a verdict on the coach.

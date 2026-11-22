@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [gonna, bmarkfit account context]
+aka: ["sell before you're ready"]
 origin: sources/S_ig_bmarkfit_ClUPEZ_jzus.md
 ---
 
-# G_ig_bmarkfit_ClUPEZ_jzus — gonna
+# G_ig_bmarkfit_ClUPEZ_jzus — sell before you're ready
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: build, plan, like, right. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sell before you're ready is the reel's whole argument against the brain's delay: the brain says build the meal plan, build the training plan, build the accountability, look into the Facebook stuff, design it all, and then think about launching within the next fucking six months. The phrase appears twice, beside form of procrastination, build the meal plan, change your prices, and call to action. The reel names that design-first loop for what it is — just a form of procrastination — and answers it straight: do not fucking do that. The alternative it orders is immediate: get off the call, change your prices, make a call to action on your Instagram story, and DM him about how many people are interested.
 
 ## Synonyms
 
-- gonna
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Sell before you're ready. Your brain's gonna be" — sources/S_ig_bmarkfit_ClUPEZ_jzus.md
-> "It's like something like that. That's what our brains do, which is just a form of procrastination. I'm just gonna keep it straight with you. Don't fucking do that. I want you to sell before you're ready. Like I literally want you to get off this fucking call. You're gonna change your prices. You're gonna make a call to action on your Instagram story, and you're gonna DM me being" — sources/S_ig_bmarkfit_ClUPEZ_jzus.md
+> "I want you to sell before you're ready. Like I literally want you to get off this fucking call." — sources/S_ig_bmarkfit_ClUPEZ_jzus.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to sell something you have not built at all: the reel orders selling before the plans are designed, and it never says to take money for a product that does not exist.
+- Read as a claim that planning is always procrastination: the brain's design-first loop is called a form of procrastination here, and the source never says no planning is ever needed.

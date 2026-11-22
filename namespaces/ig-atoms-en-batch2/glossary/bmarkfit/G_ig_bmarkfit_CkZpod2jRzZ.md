@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [bad, bmarkfit account context]
+aka: ["commitment to your fitness goals"]
 origin: sources/S_ig_bmarkfit_CkZpod2jRzZ.md
 ---
 
-# G_ig_bmarkfit_CkZpod2jRzZ — bad
+# G_ig_bmarkfit_CkZpod2jRzZ — commitment to your fitness goals
 
 ## Term
 
-"bad" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: eating, habits, kids, exercise. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Commitment to your fitness goals is the charge the reel levels at parents who do not take care of their health every single fucking day: if you do not, you are a bad parent. The phrase appears once, beside bad parent, 50 pounds overweight, bad exercise, bad eating habits, and a bad mindset, and take the easy way out. The consequence is spelled out in the kids — they learn bad exercise, bad eating habits, and a bad mindset, and they are gonna suffer with confidence issues and likely get bullied at school. The reel's answer is one command at the end: do better.
 
 ## Synonyms
 
-- bad
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're not taking care of your health every single fucking day, you're a bad parent. And yes, I know that stings, but that's the truth. And you can sit there 50 pounds overweight, mad as fuck at me, but you're teaching your kids bad exercise, bad eating habits, and a bad mindset." — sources/S_ig_bmarkfit_CkZpod2jRzZ.md
+> "because you haven't made the commitment to your fitness goals." — sources/S_ig_bmarkfit_CkZpod2jRzZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bad": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a medical verdict on parenting: the reel calls a parent who does not take care of their health a bad parent, and it never measures health or parenting beyond the charge.
+- Read as proof that overweight parents cause bullying: the kids are said to suffer confidence issues and likely get bullied because the parent has not made the commitment, and the source never shows that chain happening.

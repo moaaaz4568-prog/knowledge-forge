@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [15-minute phone, bmarkfit account context]
+aka: ["gateway to book phone calls"]
 origin: sources/S_ig_bmarkfit_CkcOSgjjGGk.md
 ---
 
-# G_ig_bmarkfit_CkcOSgjjGGk — 15-minute phone
+# G_ig_bmarkfit_CkcOSgjjGGk — gateway to book phone calls
 
 ## Term
 
-"15-minute phone" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, call, gonna, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Gateway to book phone calls is the job the reel assigns to the direct messages: when somebody asks about prices in the DMs, do not give your prices and do not give away your pricing. The phrase appears once, beside do not give away your pricing, free 15-minute phone call, get to know your prospect, and book more calls. The sequence is a series of questions, then an offer of a free 15-minute phone call to help with fitness goals, which lets you get to know the prospect and makes it seem like you are not just trying to sell them something. The payoff the reel promises is more calls booked and more money made.
 
 ## Synonyms
 
-- 15-minute phone
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You're gonna ask a series of questions, and then you're gonna offer a free 15-minute phone call to help them with their fitness goals. That free 15-minute phone call will allow you to get to know your prospect, and it makes it seem like you're not just trying to sell them something. You will book more calls and you will make more money." — sources/S_ig_bmarkfit_CkcOSgjjGGk.md
+> "The direct messages should be used as a gateway to book phone calls." — sources/S_ig_bmarkfit_CkcOSgjjGGk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "15-minute phone": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule to never mention a price: the reel says not to give prices in the DMs, and it never says the price stays hidden forever — it moves to the phone call.
+- Read as proof that a free call always books: the free 15-minute phone call is offered to help with fitness goals, and the source never says how many prospects accept it.

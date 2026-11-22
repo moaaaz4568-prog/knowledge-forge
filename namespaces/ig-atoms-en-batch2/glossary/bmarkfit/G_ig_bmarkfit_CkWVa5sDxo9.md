@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [time, bmarkfit account context]
+aka: ["Recovering time"]
 origin: sources/S_ig_bmarkfit_CkWVa5sDxo9.md
 ---
 
-# G_ig_bmarkfit_CkWVa5sDxo9 — time
+# G_ig_bmarkfit_CkWVa5sDxo9 — Recovering time
 
 ## Term
 
-"time" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: wasters, time, changed, life. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Recovering time is the habit the reel credits with changing the speaker's life after going from broke drug addict to making $500,000 a month. The phrase appears once, beside $500,000 a month, same 24 hours in a day, automated, delegated, or eliminated, and time wasters. The method is a single question asked of the to-do list: can it be automated, delegated, or eliminated? Successful people use the same 24 hours wisely, the reel says, and constantly taking out the time wasters makes you a more productive human who makes more money.
 
 ## Synonyms
 
-- time
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I went from broke drug addict to making $500,000 a month, and this is one of the habits that changed my life. Recovering time. See, all of us have the same 24 hours in a day, but successful people use their time wisely. What you need to do is sit down and look at your to-do list and ask yourself this question: Can be automated, delegated, or eliminated?" — sources/S_ig_bmarkfit_CkWVa5sDxo9.md
-> "If you're constantly looking at your time and taking out the things that are time wasters, over time you'll become a more productive human and you'll make more money." — sources/S_ig_bmarkfit_CkWVa5sDxo9.md
+> "and this is one of the habits that changed my life. Recovering time." — sources/S_ig_bmarkfit_CkWVa5sDxo9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "time": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that time management made the $500,000: the habit is one of the habits that changed his life, and the source never says it is the only one.
+- Read as a claim that every task can be automated, delegated, or eliminated: the question is asked of each item on the to-do list, and the source never says every item passes it.

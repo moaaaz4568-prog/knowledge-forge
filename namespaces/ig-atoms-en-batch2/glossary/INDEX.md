@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch2)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch2): one G_ entry per T_ atom file — 3,847 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,196 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 276 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Rebuild in progress (2026-11-22): chunk 1 (codes 3001-3050, chase.h.ai, 50 files, 55 live examples) rebuilt per N1/N2/N5; namespace gates: 7694 entities, 0 rejected. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch2): one G_ entry per T_ atom file — 3,847 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,168 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 276 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Rebuild in progress (2026-11-22): chunk 1 (codes 3001-3050, chase.h.ai, 50 files, 55 live examples) rebuilt per N1/N2/N5; namespace gates: 7694 entities, 0 rejected. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 Rebuild 2026-11-22 (ig-batch2-part1 chunk 1, codes 1–50, artgrowthclub): 50 entries rebuilt in place with 62 live examples; gates G1/G2 pass for the namespace (7,694 entities, 0 rejected).
 
@@ -1556,56 +1556,56 @@ Rebuild 2026-11-22 (ig-batch2-part1 chunk 1, codes 1–50, artgrowthclub): 50 en
 | glossary/bmarkfit/G_ig_bmarkfit_CjwdcRpD_qd.md | skin in the game | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ck1Vcr5jznV.md | waiting too long to start | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ck2FjGtD7FJ.md | one month for free | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck36QxHjJ8D.md | Number | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck4qiojD5q6.md | gonna | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck6fStrjTNX.md | Number | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck7O6zsD-QG.md | content | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck9D2u_jpNi.md | drastically | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck9zzNTjsH1.md | clients | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkBuYjWD7Pm.md | Number | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkCe_FYDpID.md | obsession | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkETb7tjWgF.md | high school | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkG4kn2javg.md | want | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkHoSE-jMNC.md | destination | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkJZjVGD4-x.md | gonna | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkMBeG4jEwV.md | right now | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkMyHptDNs4.md | need | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkOmXbMjBV5.md | thousand dollars | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkPVXBVDDYL.md | struggling | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkRLB_6D6aK.md | Number | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkUgFSpDHd9.md | Yeah | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkWVa5sDxo9.md | time | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkY5QxXDbA2.md | take | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkZpod2jRzZ.md | bad | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck_oqXjDMqc.md | Number | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkbeJMCjSGf.md | weight loss | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkcOSgjjGGk.md | 15-minute phone | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkeDqbkDBBP.md | letter | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkryQdcD3oB.md | people | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cktm6emDoHR.md | rep | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ckw70j3D4q4.md | video | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkwMRl0D2Tj.md | three things | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkyxQzjDs5I.md | want | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CkzgxY3DI1B.md | take care | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl-Lo8zj1Kd.md | right time | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl2dgxNjd7S.md | fired | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl4Sa6ODi9h.md | want | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl5B9wJjnPn.md | ourselves | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl7m9BVDPfz.md | fucking | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cl9bM_pjmt0.md | Number | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClAYpiMjtga.md | definition | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClC9XI-jqEs.md | unlimited power | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClCNHpDDfsr.md | something | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClFidR8D096.md | conversation | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClIGzIlD3ab.md | start | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClJ8VpvDA7P.md | acceptable standard | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck36QxHjJ8D.md | deep work | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck4qiojD5q6.md | obsession with delivery | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck6fStrjTNX.md | get comfortable with discomfort | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck7O6zsD-QG.md | DM script | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck9D2u_jpNi.md | energy, intensity, and momentum | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck9zzNTjsH1.md | getting clients | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkBuYjWD7Pm.md | ideal profile | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkCe_FYDpID.md | obsession is for greatness | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkETb7tjWgF.md | work for them for free | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkG4kn2javg.md | trust the process | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkHoSE-jMNC.md | refrain | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkJZjVGD4-x.md | follow through | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkMBeG4jEwV.md | going all in on you | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkMyHptDNs4.md | phone script | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkOmXbMjBV5.md | heavily investing in mentorship | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkPVXBVDDYL.md | planting seeds | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkRLB_6D6aK.md | document your fitness journey | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkUgFSpDHd9.md | dialogue | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkWVa5sDxo9.md | Recovering time | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkY5QxXDbA2.md | mental progression day | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkZpod2jRzZ.md | commitment to your fitness goals | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck_oqXjDMqc.md | three-second rule | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkbeJMCjSGf.md | get out of your own way | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkcOSgjjGGk.md | gateway to book phone calls | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkeDqbkDBBP.md | letter to yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkryQdcD3oB.md | bad business coach | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cktm6emDoHR.md | last rep | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ckw70j3D4q4.md | short form video content | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkwMRl0D2Tj.md | patiently urgent | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkyxQzjDs5I.md | Create an avatar | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CkzgxY3DI1B.md | negative mindset around money | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl-Lo8zj1Kd.md | the right time | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl2dgxNjd7S.md | never give up on yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl4Sa6ODi9h.md | throw in the towel | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl5B9wJjnPn.md | conversations with ourselves | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl7m9BVDPfz.md | doing just enough to get by | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cl9bM_pjmt0.md | retention is everything | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClAYpiMjtga.md | the definition of insanity | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClC9XI-jqEs.md | the voice of unlimited power | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClCNHpDDfsr.md | keep your fucking promises | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClFidR8D096.md | recency | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClIGzIlD3ab.md | cheer you on | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClJ8VpvDA7P.md | an acceptable standard | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_ClKrLqPjMGO.md | lose momentum | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClMgPbxDdHR.md | content | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClP1XusDsqn.md | because | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClPGMKNDWkh.md | Number | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClRqiqcDRjQ.md | gonna | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClU-0zsDcbO.md | ads | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_ClUPEZ_jzus.md | gonna | 2 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClMgPbxDdHR.md | coming across as needy | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClP1XusDsqn.md | the bigger risk is staying the same | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClPGMKNDWkh.md | never go to bed angry | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClRqiqcDRjQ.md | make progress or make changes | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClU-0zsDcbO.md | turning interested people into paying clients | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_ClUPEZ_jzus.md | sell before you're ready | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_ClWz7y1jY6f.md | Lamborghini | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_ClXkKaQjLcl.md | want | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_ClZYn9xD5QY.md | motherfucking one | 1 |

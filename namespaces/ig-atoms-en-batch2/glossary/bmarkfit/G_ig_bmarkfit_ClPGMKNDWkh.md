@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Number, bmarkfit account context]
+aka: ["never go to bed angry"]
 origin: sources/S_ig_bmarkfit_ClPGMKNDWkh.md
 ---
 
-# G_ig_bmarkfit_ClPGMKNDWkh — Number
+# G_ig_bmarkfit_ClPGMKNDWkh — never go to bed angry
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: three, thirty, days, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Never go to bed angry is number six of the reel's nine habits that will transform your life in thirty three days. The phrase appears once, beside healthy eating, celebrate your wins, not to check your phone in the morning, and putting yourself first. The habits around it are concrete and small — limit junk food, stop eating like a child, drink about three liters of water a day, set the alarm on the other side of the room, write a prioritized to do list. The list closes by turning the habits toward the self: a lot of people put other people in front of themselves before their schedule, and it is time to start putting yourself first.
 
 ## Synonyms
 
-- Number
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nine habits that will transform your life in thirty three days. Number one is healthy eating. Your body needs nutrition to function. Have a balanced diet of protein, carbs, and fats. Number two is to limit junk food. Stop eating like a child. Treat your body like an adult. Number three is to celebrate your wins." — sources/S_ig_bmarkfit_ClPGMKNDWkh.md
-> "Staying hydrated will cause you to feel less hungry, which means you'll snack less often. Number six is to never go to bed angry. Number seven is to set up your alarm on the other side of the room. That way, when it goes off, you actually have to get out of bed in order to turn it off. Number eight is to write a prioritized to do list." — sources/S_ig_bmarkfit_ClPGMKNDWkh.md
-> "I count my day successful if I do the top three most important things. Number nine is to add personal things to that to do list. A lot of people put other people in front of themselves before their schedule. It's time you start putting yourself first." — sources/S_ig_bmarkfit_ClPGMKNDWkh.md
+> "Number six is to never go to bed angry. Number seven is to set up your alarm on the other side of the room." — sources/S_ig_bmarkfit_ClPGMKNDWkh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that nine habits transform a life in 33 days: the habits are said to transform your life in thirty three days, and the source never measures the transformation.
+- Read as a claim that anger before bed is the habit that matters most: never going to bed angry is one of nine, and the source never ranks it above the others.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [because, bmarkfit account context]
+aka: ["the bigger risk is staying the same"]
 origin: sources/S_ig_bmarkfit_ClP1XusDsqn.md
 ---
 
-# G_ig_bmarkfit_ClP1XusDsqn — because
+# G_ig_bmarkfit_ClP1XusDsqn — the bigger risk is staying the same
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: unhappy, partner, leaves. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The bigger risk is staying the same is the reel's answer to the fear of going after what you want: there is always going to be a risk associated with going towards the things that you want, but the bigger risk is staying the same. The phrase appears once, beside stay at your job for the next 20 years, more and more miserable by the day, partner leaves you, and going towards the things that you want. The what-ifs pile up the cost of staying — 20 years at the job, nothing changing, growing more miserable by the day, a partner leaving because you are so unhappy. The risk of moving is admitted, not denied, and still judged smaller than the risk of staying.
 
 ## Synonyms
 
-- because
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What if you stay at your job for the next 20 years? What if nothing changes? What if you get more and more miserable by the day? What if in the next five, 10, 15 years your partner leaves you because you're so unhappy because you're not doing what you want with your life?" — sources/S_ig_bmarkfit_ClP1XusDsqn.md
+> "There's always going to be a risk associated with going towards the things that you want, but the bigger risk is staying the same." — sources/S_ig_bmarkfit_ClP1XusDsqn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that leaving always beats staying: the bigger risk is staying the same, and the source never says the move itself succeeds.
+- Read as a claim that unhappiness always ends a relationship: the partner leaving is one of the what-ifs, and the source never says it happens.

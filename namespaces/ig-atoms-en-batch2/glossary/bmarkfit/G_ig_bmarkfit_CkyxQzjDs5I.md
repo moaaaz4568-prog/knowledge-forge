@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [want, bmarkfit account context]
+aka: ["Create an avatar"]
 origin: sources/S_ig_bmarkfit_CkyxQzjDs5I.md
 ---
 
-# G_ig_bmarkfit_CkyxQzjDs5I — want
+# G_ig_bmarkfit_CkyxQzjDs5I — Create an avatar
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: serve, where, life, clarity. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Create an avatar is the reel's trick for making creating content 10 times easier: start with four questions — how old are they, what do they do, what do they struggle with, and where do they want to go in life? The phrase appears once, beside 10 times easier, four questions, clarity on who you want to serve, and directing your content towards them. Answering the questions gives clarity on who you want to serve, and once you know who you want to serve, you can start directing your content towards them. The reel promises the simplicity will blow your mind, and the avatar is the whole method.
 
 ## Synonyms
 
-- want
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how to make creating content 10 times easier. It's so simple, it's gonna blow your mind. Create an avatar. Here's how you do it. Start with these four questions. How old are they? What do they do? What do they struggle with? And where do they want to go in life? Answering these questions will give you clarity on who you want to serve." — sources/S_ig_bmarkfit_CkyxQzjDs5I.md
-> "And once you know who you want to serve, then you can start directing your content towards them." — sources/S_ig_bmarkfit_CkyxQzjDs5I.md
+> "Here's how to make creating content 10 times easier. It's so simple, it's gonna blow your mind. Create an avatar." — sources/S_ig_bmarkfit_CkyxQzjDs5I.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that an avatar makes content 10 times easier: the avatar is offered as the trick for 10 times easier content, and the source never measures the ease.
+- Read as a claim that four questions define an audience: the four questions give clarity on who to serve, and the source never tests whether the answers are right.

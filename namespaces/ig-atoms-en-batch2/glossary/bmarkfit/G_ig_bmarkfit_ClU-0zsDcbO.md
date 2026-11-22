@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [ads, bmarkfit account context]
+aka: ["turning interested people into paying clients"]
 origin: sources/S_ig_bmarkfit_ClU-0zsDcbO.md
 ---
 
-# G_ig_bmarkfit_ClU-0zsDcbO — ads
+# G_ig_bmarkfit_ClU-0zsDcbO — turning interested people into paying clients
 
 ## Term
 
-"ads" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, account, built, twenty. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Turning interested people into paying clients is the skill set the reel says you need to acquire, and the reason you do not need ads: the speaker built his fitness business to fifty four thousand dollars a month with twenty thousand followers and no ads. The phrase appears once, beside fifty four thousand dollars a month, twenty thousand followers, seven hundred and fifty grand, and no ads running. The proof offered is the second account, the real Brian Mark, started in January of last year to test growing a social media following — with no ads running it made seven hundred and fifty grand in ten months. The reel's point is the skill, not the follower count: twenty thousand followers and fifty four thousand dollars a month came without ads.
 
 ## Synonyms
 
-- ads
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't need to do ads. No, I built my fitness business to fifty four thousand dollars a month with twenty thousand followers. No ads. This account, the real Brian Mark, I started this account in January of last year just to like I just wanted to start a new account to see if I could grow social media following." — sources/S_ig_bmarkfit_ClU-0zsDcbO.md
-> "With no ads running this account, we've made seven hundred and fifty grand from the real Brian Mark in ten months. So you do not need ads. The skill set that you need to acquire is turning interested people into paying clients." — sources/S_ig_bmarkfit_ClU-0zsDcbO.md
+> "The skill set that you need to acquire is turning interested people into paying clients." — sources/S_ig_bmarkfit_ClU-0zsDcbO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ads": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that ads never help: the business was built with no ads, and the source never says ads cannot work.
+- Read as a claim that twenty thousand followers is enough: fifty four thousand dollars a month came with twenty thousand followers, and the source never says the count is the cause.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [start, bmarkfit account context]
+aka: ["cheer you on"]
 origin: sources/S_ig_bmarkfit_ClIGzIlD3ab.md
 ---
 
-# G_ig_bmarkfit_ClIGzIlD3ab — start
+# G_ig_bmarkfit_ClIGzIlD3ab — cheer you on
 
 ## Term
 
-"start" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: until, surpass, next, level. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cheer you on is what the reel says people do only up to a point: they will cheer you on to a certain extent until you start to surpass them, until you start to hit the next level, until you start to reach a level that they cannot see themselves hitting. The phrase appears once, beside scam artist, angry and envious, hit the next level, and the 100 people that love me. The story behind it is a dude who followed the speaker around the internet hating on him, starting in the same place and growing angry and envious as the business became more successful. The reel's answer is where to look instead: do not focus on that one person that hates you, focus on the 100 people that love you.
 
 ## Synonyms
 
-- start
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What I'm trying to say to you is that people will cheer you on to a certain extent until you start to surpass them, until you start to hit the next level, until you start to reach a level that they can't see themselves hitting. And the reason that my business continues to grow despite the hate is I don't focus on that one person that hates me, I focus on the 100 people that love me." — sources/S_ig_bmarkfit_ClIGzIlD3ab.md
+> "What I'm trying to say to you is that people will cheer you on to a certain extent until you start to surpass them, until you start to hit the next level, until you start to reach a level that they can't see themselves hitting." — sources/S_ig_bmarkfit_ClIGzIlD3ab.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "start": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that all support is conditional: the cheer stops when you surpass people, and the source never says the 100 people who love him will do the same.
+- Read as proof that hate means you are succeeding: the hater grew angry as the business became more successful, and the source never says hate is the measure of it.

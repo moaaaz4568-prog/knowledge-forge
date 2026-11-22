@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Yeah, bmarkfit account context]
+aka: ["dialogue"]
 origin: sources/S_ig_bmarkfit_CkUgFSpDHd9.md
 ---
 
-# G_ig_bmarkfit_CkUgFSpDHd9 — Yeah
+# G_ig_bmarkfit_CkUgFSpDHd9 — dialogue
 
 ## Term
 
-"Yeah" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: excited, yeah, birthday, guess. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and the label dialogue is a type label only, not a term from the transcript. The whole source is a short playful exchange — a birthday, a Lamborghini, a ride — with no explanation, no instruction, and no concept to name. The most distinctive line, pick you up in the Lamborghini, is a joke inside the exchange, not a concept the speaker teaches. The live example below is one line of that exchange, quoted verbatim.
 
 ## Synonyms
 
-- Yeah
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Is it your birthday? Yeah. What? Oh, I guess I should pick you up in the Lamborghini then. Do you want to go for a ride? Yeah. All right. Let's go. Impressive. Let it go. Are you excited? Yeah. Yeah." — sources/S_ig_bmarkfit_CkUgFSpDHd9.md
+> "Oh, I guess I should pick you up in the Lamborghini then." — sources/S_ig_bmarkfit_CkUgFSpDHd9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Yeah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lesson about wealth: the Lamborghini is a prop in a birthday joke, and the source never teaches anything about money or cars.
+- Read as a real event: the exchange is a staged bit — Is it your birthday? Yeah. What? — and the source gives no sign it documents anything that happened.

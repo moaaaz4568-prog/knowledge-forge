@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [fired, bmarkfit account context]
+aka: ["never give up on yourself"]
 origin: sources/S_ig_bmarkfit_Cl2dgxNjd7S.md
 ---
 
-# G_ig_bmarkfit_Cl2dgxNjd7S — fired
+# G_ig_bmarkfit_Cl2dgxNjd7S — never give up on yourself
 
 ## Term
 
-"fired" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bar, actually, working, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Never give up on yourself is the reel's closing charge, drawn from the same turnaround as the bar story: nine years ago the speaker suffered with a drug addiction and was fired from the bar by a manager's call while the cameras showed him filling up bottles and doing drugs behind the bar. The phrase appears once, beside drug addiction, fired, successful online business, and chase your dreams. The now is listed in full — a successful online business, his own podcast, his own gym, married to this 10 out of 10, and happiest he has ever been. The charge is the moral of that reversal: never quit on yourself, chase your dreams.
 
 ## Synonyms
 
-- fired
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nine years ago, I suffered with a drug addiction, and this was actually the bar that I got fired from. I was just telling Chris, I remember I didn't actually get fired while I was working. I got a call from the manager, and he was" — sources/S_ig_bmarkfit_Cl2dgxNjd7S.md
+> "Never give up on yourself, never quit on yourself, chase your dreams." — sources/S_ig_bmarkfit_Cl2dgxNjd7S.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fired": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the firing was unfair: the manager fired him after watching the cameras show him doing drugs behind the bar, and the source never presents the firing as unjust.
+- Read as a claim that happiness proves the turnaround is finished: he says he is happiest he has ever been, and the source never says the work of staying that way is done.

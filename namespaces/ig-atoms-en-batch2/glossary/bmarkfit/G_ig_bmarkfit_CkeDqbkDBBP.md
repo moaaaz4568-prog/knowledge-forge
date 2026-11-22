@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [letter, bmarkfit account context]
+aka: ["letter to yourself"]
 origin: sources/S_ig_bmarkfit_CkeDqbkDBBP.md
 ---
 
-# G_ig_bmarkfit_CkeDqbkDBBP — letter
+# G_ig_bmarkfit_CkeDqbkDBBP — letter to yourself
 
 ## Term
 
-"letter" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: life, yourself, write, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Letter to yourself is the one habit the reel says saved the speaker's life after going from a broke drug addict to making $500,000 a month: write a letter to yourself of all the goals you would like to accomplish in your life. The phrase appears twice, beside happiness, health, wealth, and relationships, visualize what your future is going to become, nine years later, and living my dream. The letter must be detailed and descriptive, covering the three main areas the reel names — happiness, health, wealth, and relationships — and it must be listened to every single day. The vision it holds is what the speaker had when he was an addict and everything was in shambles, and nine years later he says he is living his dream.
 
 ## Synonyms
 
-- letter
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I went from a broke drug addict to making $500,000 a month in my business, and this one habit saved my life. Write a letter to yourself of all the goals that you'd like to accomplish in your life. Make this letter detailed and descriptive, and include the three main areas for happiness, health, wealth, and relationships." — sources/S_ig_bmarkfit_CkeDqbkDBBP.md
-> "Listen to that letter to yourself every single day so that you can start to visualize what your future is going to become. When I was an addict, everything in my life was in shambles, and so the only thing that I had was this vision of the future. And I'm happy to say that nine years later, I'm living my dream." — sources/S_ig_bmarkfit_CkeDqbkDBBP.md
+> "Write a letter to yourself of all the goals that you'd like to accomplish in your life." — sources/S_ig_bmarkfit_CkeDqbkDBBP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "letter": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that a letter saves a life: the habit is the one the speaker says saved his life, and the source never separates the letter from everything else that changed.
+- Read as a claim that the future can be visualized into existence: listening to the letter every day is meant to start visualizing the future, and the source never says the visualization alone produced it.

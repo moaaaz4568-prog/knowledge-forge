@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [ourselves, bmarkfit account context]
+aka: ["conversations with ourselves"]
 origin: sources/S_ig_bmarkfit_Cl5B9wJjnPn.md
 ---
 
-# G_ig_bmarkfit_Cl5B9wJjnPn — ourselves
+# G_ig_bmarkfit_Cl5B9wJjnPn — conversations with ourselves
 
 ## Term
 
-"ourselves" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, yet, every, single. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Conversations with ourselves names the daily self-talk the reel says blocks potential: every single day inside of our minds we wake up and have conversations with ourselves that do not allow us to realize our full potential. The phrase appears once, beside you're weak, you're insecure, you're overweight, and we've been fed lies. The reel contrasts that inner voice with how we talk to friends — we would not talk to our friends the way we talk to ourselves. The correction it offers is blunt: we have been fed lies for long enough, and you can accomplish anything you set your mind to.
 
 ## Synonyms
 
-- ourselves
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You're weak. You're insecure. You're overweight. I hate the way that you look. We wouldn't talk to our friends the way that we talk to ourselves. Yet every single day inside of our minds, we wake up and we have conversations with ourselves that don't allow us to realize our full potential. Alright, we've been fed lies for long enough and too many people believe it." — sources/S_ig_bmarkfit_Cl5B9wJjnPn.md
+> "Yet every single day inside of our minds, we wake up and we have conversations with ourselves that don't allow us to realize our full potential." — sources/S_ig_bmarkfit_Cl5B9wJjnPn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ourselves": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that self-talk is the only block: the conversations are said not to allow us to realize our full potential, and the source never rules out other blocks.
+- Read as proof that believing alone accomplishes anything: the reel says you can accomplish anything you set your mind to, and it never shows the setting of the mind doing the work.

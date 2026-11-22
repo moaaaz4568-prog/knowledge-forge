@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [destination, bmarkfit account context]
+aka: ["refrain"]
 origin: sources/S_ig_bmarkfit_CkHoSE-jMNC.md
 ---
 
-# G_ig_bmarkfit_CkHoSE-jMNC — destination
+# G_ig_bmarkfit_CkHoSE-jMNC — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (12 words) to form a repeated term, so this entry documents the source's central term "destination" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and the label refrain is a type label only, not a term from the transcript. The whole source is two short sung lines about skipping to the good part and arriving at a destination, with no explanation, no instruction, and no concept to name. The same two lines appear byte-identically in another source in this batch, and each file keeps its own entry rather than merging the two. The live example below is the entire source, quoted verbatim.
 
 ## Synonyms
 
-- destination
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (12 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "destination": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an instruction to skip ahead: the lines are a lyric fragment with no surrounding advice, and the source never says what the good part is or how to reach it.
+- Read as a claim that the destination has been reached: the second line says you have arrived at your destination, and the source gives no destination, no journey, and no evidence of arrival.

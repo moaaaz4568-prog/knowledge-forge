@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [obsession, bmarkfit account context]
+aka: ["obsession is for greatness"]
 origin: sources/S_ig_bmarkfit_CkCe_FYDpID.md
 ---
 
-# G_ig_bmarkfit_CkCe_FYDpID — obsession
+# G_ig_bmarkfit_CkCe_FYDpID — obsession is for greatness
 
 ## Term
 
-"obsession" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: difference, passion, see, average. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Obsession is for greatness is the reel's verdict on the difference between passion and obsession: when you are passionate, everybody cheers you on, but when you are obsessed, people think you are crazy and call it madness. The phrase appears once, beside passion is for those who are average, they call it madness, take a break, and Get obsessed. The obsessed are asked why they are working so hard and pushing so hard, and told they should take a break — and the reel answers with the split: passion is for those who are average, obsession is for greatness. The closing command is the thesis in two words: get obsessed.
 
 ## Synonyms
 
-- obsession
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's a difference between passion and obsession. See, when you're passionate, everybody cheers you on. Yo, you found your thing. I'm so happy for you. This is amazing. When you're obsessed, people think you're crazy. They call it madness. They're like, why you working so hard? Why you pushing so hard? You should take a break. Passion is for those who are average. Obsession is for greatness." — sources/S_ig_bmarkfit_CkCe_FYDpID.md
+> "Passion is for those who are average. Obsession is for greatness." — sources/S_ig_bmarkfit_CkCe_FYDpID.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "obsession": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that passion is worthless: the reel contrasts passion, which everybody cheers, with obsession, which people call madness, and it never says passion achieves nothing.
+- Read as advice to never rest: the obsessed are told they should take a break by others, and the source never says rest itself is wrong — only that obsession ignores the call for it.
