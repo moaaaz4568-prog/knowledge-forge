@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [consolidate, nicolasboucherfinance account context]
+aka: ["Claude CoWork"]
 origin: sources/S_ig_nicolasboucherfinance_DWTE4QAEdhs.md
 ---
 
-# G_ig_nicolasboucherfinance_DWTE4QAEdhs — consolidate
+# G_ig_nicolasboucherfinance_DWTE4QAEdhs — Claude CoWork
 
 ## Term
 
-"consolidate" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tabs, minute, claude, cowork. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Claude CoWork here is the tool that consolidates all the tabs of an Excel file in less than one minute, from one written function. The phrase appears once, beside consolidate all the tabs, another column, name of each tab, and masterclass, and the instruction itself is the content: write the function "consolidate all the tabs into one, and then add another column showing the name of each tab." The video offers nothing more than that one function and a pointer to the free masterclass for learning AI in finance. Claude CoWork is the tool that runs the function, not the function itself.
 
 ## Synonyms
 
-- consolidate
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In less than one minute, Claude CoWork can consolidate all the tabs of your Excel file, and all you need to do is to write the following function: consolidate all the tabs into one, and then add another column showing the name of each tab. If you want to learn how to use AI in finance, join my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_DWTE4QAEdhs.md
+> "In less than one minute, Claude CoWork can consolidate all the tabs of your Excel file, and all you need to do is to write the following function: consolidate all the tabs into one, and then add another column showing the name of each tab." — sources/S_ig_nicolasboucherfinance_DWTE4QAEdhs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "consolidate": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a Claude feature inside Excel: the video names Claude CoWork as the tool, and the tabs belong to your Excel file.
+- Read as a multi-step setup: the whole job is one function, and the only extra step is the column showing each tab's name.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [right one, nicolasboucherfinance account context]
+aka: ["right one"]
 origin: sources/S_ig_nicolasboucherfinance_DVErSO-k4nv.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_nicolasboucherfinance_DVErSO-k4nv.md
 
 ## Term
 
-"right one" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, right, need, connects. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The right one here is the single AI tool that connects to your work data, the answer to having tons of AI tools and still not being a smart CFO. The phrase appears twice, beside smart CFO, AI tools, work data, Copilot, Gemini, ChatGPT, and Claude, and the whole video is a routing: Microsoft environment means Copilot, Google everywhere means Gemini inside your Workspace licence, and a fractional CFO, consultant, or small team can choose ChatGPT or Claude but must connect the working documents themselves. The right one is therefore chosen by where your data already lives, not by which tool is most popular.
 
 ## Synonyms
 
-- right one
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you think you are a smart CFO because you have tons of AI tools, you are not a smart CFO. You actually don't need a lot of AI tools. You need the right one for you. What is the right one? The one that connects to your work data. You are in a Microsoft environment? Take Copilot. You use Google everywhere?" — sources/S_ig_nicolasboucherfinance_DVErSO-k4nv.md
+> "You actually don't need a lot of AI tools. You need the right one for you." — sources/S_ig_nicolasboucherfinance_DVErSO-k4nv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right one": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as one tool for everyone: the right one depends on the environment — Copilot for Microsoft, Gemini for Google, ChatGPT or Claude for a small team.
+- Read as "more tools make a smarter CFO": he opens by saying tons of AI tools do not make you a smart CFO.

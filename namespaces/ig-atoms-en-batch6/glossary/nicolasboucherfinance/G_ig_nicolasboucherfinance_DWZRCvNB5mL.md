@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [prompt, nicolasboucherfinance account context]
+aka: ["prompt optimization technique"]
 origin: sources/S_ig_nicolasboucherfinance_DWZRCvNB5mL.md
 ---
 
-# G_ig_nicolasboucherfinance_DWZRCvNB5mL — prompt
+# G_ig_nicolasboucherfinance_DWZRCvNB5mL — prompt optimization technique
 
 ## Term
 
-"prompt" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: improve, prompt, optimization, ask. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prompt optimization technique here is letting AI rewrite your prompt from your intention, then keeping the improved prompt for reuse. The phrase appears once, beside intention, improve this prompt, and reuse this prompt, and the sequence is the whole video: ask AI to improve your prompt, AI starts with your intention, you ask "Please improve this prompt," and you see how well your prompt is written. His concrete payoff is the second use: once improved, you can reuse this prompt and ask AI to work on it, instead of writing it again. The technique improves the instruction you keep, not the answer you got once.
 
 ## Synonyms
 
-- prompt
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ask AI to improve your prompt. With the prompt optimization technique, AI will start with your intention and then you will" — sources/S_ig_nicolasboucherfinance_DWZRCvNB5mL.md
-> "and you will see how well your prompt is written. And then you can reuse this prompt and ask AI to work on it." — sources/S_ig_nicolasboucherfinance_DWZRCvNB5mL.md
+> "Ask AI to improve your prompt. With the prompt optimization technique, AI will start with your intention and then you will ask," — sources/S_ig_nicolasboucherfinance_DWZRCvNB5mL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prompt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a better answer from the same prompt: the technique rewrites the prompt from your intention, and the answer improves only because the prompt did.
+- Read as a single rewrite: the value is the reuse — the improved prompt is kept and asked to work again, not discarded after one answer.

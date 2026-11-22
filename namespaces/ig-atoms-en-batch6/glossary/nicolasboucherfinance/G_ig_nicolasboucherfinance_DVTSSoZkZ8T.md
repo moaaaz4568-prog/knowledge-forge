@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [two words, nicolasboucherfinance account context]
+aka: ["system prompt", "system prompts"]
 origin: sources/S_ig_nicolasboucherfinance_DVTSSoZkZ8T.md
 ---
 
-# G_ig_nicolasboucherfinance_DVTSSoZkZ8T — two words
+# G_ig_nicolasboucherfinance_DVTSSoZkZ8T — system prompt
 
 ## Term
 
-"two words" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: chatgpt, words, two, entered. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+System prompt here is the two-word instruction that makes ChatGPT hand back a long, detailed prompt which reproduces the same output on demand. The phrase appears twice, beside emails in your style, reports, code, and consistent output, and the trick is asking ChatGPT for the system prompt behind an output that took hours of chatting to reach. His concrete case is the reuse: once you have that system prompt, the same emails, reports, or code come out the next time with just one prompt instead of another long chat. The system prompt is the reusable recipe, not the output itself.
 
 ## Synonyms
 
-- two words
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- system prompts (the plural form used in this source)
 
 ## Live Example
 
-> "These two words in ChatGPT will give you perfect answers all the time. Imagine that it took you several hours of chatting with ChatGPT to get the output you want. And now you would like to do the same thing on a regular basis with just one prompt." — sources/S_ig_nicolasboucherfinance_DVTSSoZkZ8T.md
-> "After you entered these two words in ChatGPT, it's going to give you a long and detailed prompt which will give you exactly the same output next time you want to use it. It works with emails in your style. It works with reports. It works with code. These two words are system prompts." — sources/S_ig_nicolasboucherfinance_DVTSSoZkZ8T.md
+> "Ask ChatGPT to give you the system prompt that will create the same output next time, and it will provide you with the perfect system prompt that will give you the consistent output you are looking for." — sources/S_ig_nicolasboucherfinance_DVTSSoZkZ8T.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "two words": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as two magic words you type once: the two words are a request for the system prompt itself, and the value is reusing what ChatGPT gives back.
+- Read as a guarantee of identical output: he promises the same output next time only because the system prompt captures the long chat that produced it.

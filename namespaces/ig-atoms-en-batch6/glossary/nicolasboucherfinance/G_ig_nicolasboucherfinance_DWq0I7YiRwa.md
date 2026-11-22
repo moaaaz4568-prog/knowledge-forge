@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Prepare, nicolasboucherfinance account context]
+aka: [CloudcoWork]
 origin: sources/S_ig_nicolasboucherfinance_DWq0I7YiRwa.md
 ---
 
-# G_ig_nicolasboucherfinance_DWq0I7YiRwa — Prepare
+# G_ig_nicolasboucherfinance_DWq0I7YiRwa — CloudcoWork
 
 ## Term
 
-"Prepare" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tab, product, cost, write. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+CloudcoWork here is the tool that creates a perfect three-statement financial model as an Excel file in five minutes, from one written prompt. The phrase appears once, beside three-statement financial model, five years, and a software company, and the prompt itself is the content: a product revenue tab with three subscription tiers, a cost product tab, a headcount planning tab with costs, and summarized results with important graphs in each tab. The name stays as transcribed in the source, and CloudcoWork is the tool that runs the prompt, not the prompt itself.
 
 ## Synonyms
 
-- Prepare
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_nicolasboucherfinance_DWq0I7YiRwa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Prepare": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a corrected name: the source spells it CloudcoWork, and the entry keeps the term literal as transcribed.
+- Read as "five minutes and you are done": the five minutes is the build, and the prompt must already name the tabs, the tiers, and the five-year horizon.

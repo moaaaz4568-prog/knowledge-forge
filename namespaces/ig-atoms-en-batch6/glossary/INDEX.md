@@ -1,64 +1,65 @@
 # Index — glossary/ (ig-atoms-en-batch6)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,142 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,110 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 Chunk 1 rebuild (2026-11-22, lines 1501-1550 of ig-batch6-list.txt): 50 files rebuilt in place (16 onlyzita + 34 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
 Chunk ig-batch6-part3-1 (2026-11-22): 50 G_ files rebuilt in place (list codes 3001-3050, all personalbrandlaunch); self-check 50/50, 98 live examples byte-exact; gates 100 entities 0 rejected (sparse checkout — chunk files only; full-namespace gates 7752 entities 0 rejected on the builder full clone).
 
 Chunk 2 rebuild (2026-11-22, lines 1551-1600 of ig-batch6-list.txt): 50 files rebuilt in place (50 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
+Chunk ig-batch6-part1-1 (2026-11-22): 50 G_ files rebuilt in place (list codes 1-50, all nicolasboucherfinance); self-check 50/50; gates 100 entities 0 rejected (sparse checkout — chunk files only).
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV-o0DVEZH5.md | model | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV3IjxdERmq.md | straight away | 2 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV-o0DVEZH5.md | reasoning model | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV3IjxdERmq.md | model | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV5irRhE7Zu.md | CSV files | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV856sYieDC.md | Prepare | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVA4GHikaKF.md | data | 2 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DV856sYieDC.md | three-statement model | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVA4GHikaKF.md | structured data | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVErSO-k4nv.md | right one | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVGq1EVia5q.md | data | 3 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVJqMUOkwQR.md | Use | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVL7Xp7Ezwl.md | Excel | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVOGTkNkTe9.md | use cases | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVTSSoZkZ8T.md | two words | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVVdhhBkdPq.md | personal CFO | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVX-Ut_kXR8.md | agent | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVa4j4EkUi8.md | Copilot agents | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVdkJwNkfbk.md | Prepare | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVGq1EVia5q.md | professional license | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVJqMUOkwQR.md | prompt | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVL7Xp7Ezwl.md | Excel Agent Mode | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVOGTkNkTe9.md | workshop | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVTSSoZkZ8T.md | system prompt | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVVdhhBkdPq.md | personal CFO | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVX-Ut_kXR8.md | Analyst Agent | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVa4j4EkUi8.md | custom GPT | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVdkJwNkfbk.md | three-statement financial model | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVfqAXxEa7Z.md | prompt | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVizUgqEUlH.md | first | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVlVjPmEULd.md | want | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVoPNPQiRor.md | prompt | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVqyTvmEZY8.md | Prepare | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVs7yiwEXE_.md | every month | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVvRyhREUXj.md | scenario analysis | 3 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVz8-uXkQe0.md | thirty thousand | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW0_R6QkRgt.md | Gemini | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW3fofZEd4_.md | Excel | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW9tW9vyKqm.md | tier | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWBgdxQkdLL.md | create | 2 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVizUgqEUlH.md | chunking method | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVlVjPmEULd.md | CSI and FBI framework | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVoPNPQiRor.md | prompt optimization technique | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVqyTvmEZY8.md | Excel AI Agent Mode | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVs7yiwEXE_.md | deterministic | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVvRyhREUXj.md | dynamic scenario analysis | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DVz8-uXkQe0.md | formula errors | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW0_R6QkRgt.md | Canvas | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW3fofZEd4_.md | Excel AI agent | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW9tW9vyKqm.md | tier three | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWBgdxQkdLL.md | Canvas | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWD8MMDETsf.md | prompt | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWGTppkEUAU.md | tax rate | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWJj7LuEcI1.md | ask | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWL7bjpkUTy.md | ask | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWOy4WQCQvs.md | questions | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWRxt0NE0kb.md | need | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWTE4QAEdhs.md | consolidate | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWZRCvNB5mL.md | prompt | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW_bPANBlHl.md | consolidate | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWdqMqAESI7.md | consolidate | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWgpxZHkYSp.md | consolidate | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWisziPEWKJ.md | clone | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWlnHF2kX9r.md | prompt | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWnrwIDkXF1.md | financial models | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWq0I7YiRwa.md | Prepare | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWtzbVsiewh.md | analysis | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWw--n_Ezzs.md | remove | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWzszE2E5rI.md | Copilot agents | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX2OvMbTcbn.md | Claude | 2 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX4FzckRH9r.md | remove | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX7vU0LThh_.md | Prepare | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWGTppkEUAU.md | fact checking technique | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWJj7LuEcI1.md | meta cognition | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWL7bjpkUTy.md | chain of thoughts | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWOy4WQCQvs.md | Socratic prompting | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWRxt0NE0kb.md | custom GPT | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWTE4QAEdhs.md | Claude CoWork | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWZRCvNB5mL.md | prompt optimization technique | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DW_bPANBlHl.md | ChatGPT in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWdqMqAESI7.md | Copilot in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWgpxZHkYSp.md | Cloude in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWisziPEWKJ.md | AI clone | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWlnHF2kX9r.md | Clode in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWnrwIDkXF1.md | AI CFO | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWq0I7YiRwa.md | CloudcoWork | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWtzbVsiewh.md | five steps framework | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWw--n_Ezzs.md | Copilot in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DWzszE2E5rI.md | custom GPT | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX2OvMbTcbn.md | Claude Artifacts | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX4FzckRH9r.md | ChatGPT in Excel | 1 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DX7vU0LThh_.md | three-statement financial model | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXKREC9CWFe.md | prompt | 1 |
-| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXOXYRThNUx.md | pour | 3 |
+| glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXOXYRThNUx.md | ChatGPT 5.2 Thinking Mode | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXUXOQRiRA_.md | Prepare | 1 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXXN1yjk0K9.md | scenario analysis | 3 |
 | glossary/nicolasboucherfinance/G_ig_nicolasboucherfinance_DXZ1ETck46R.md | Use | 1 |

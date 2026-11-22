@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [every month, nicolasboucherfinance account context]
+aka: [deterministic]
 origin: sources/S_ig_nicolasboucherfinance_DVs7yiwEXE_.md
 ---
 
-# G_ig_nicolasboucherfinance_DVs7yiwEXE_ — every month
+# G_ig_nicolasboucherfinance_DVs7yiwEXE_ — deterministic
 
 ## Term
 
-"every month" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: data, well, month, want. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Deterministic here is the property that makes a finance task automatable: the same data must be consolidated the same way every month. The word appears once, beside automate everything, consolidation of data, automate the script, and every month, and the video's correction is sharp: people think they can automate everything by just throwing the problem at AI, but that does not work. His concrete rule is to ask AI to automate the script, not to do the consolidation for you, and then use the script every month without having AI in the middle. A task is automatable because it is deterministic, not because AI is powerful.
 
 ## Synonyms
 
-- every month
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, every month you want this data to be consolidated the same way. And for this, you can ask AI to automate the script, but not do the consolidation for you. This is why you ask AI to create the script and then you use the script every month without having AI in the middle." — sources/S_ig_nicolasboucherfinance_DVs7yiwEXE_.md
+> "When you want to automate a task, probably if you work in finance, your task is deterministic." — sources/S_ig_nicolasboucherfinance_DVs7yiwEXE_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "every month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "AI automates any task": only a deterministic task — same consolidation, same way, every month — can be handed to a script.
+- Read as "AI does the consolidation": AI writes the script, and the script does the monthly work while AI stays out of the middle.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Prepare, nicolasboucherfinance account context]
+aka: ["three-statement model", "three-statement financial model"]
 origin: sources/S_ig_nicolasboucherfinance_DV856sYieDC.md
 ---
 
-# G_ig_nicolasboucherfinance_DV856sYieDC — Prepare
+# G_ig_nicolasboucherfinance_DV856sYieDC — three-statement model
 
 ## Term
 
-"Prepare" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tab, product, cost, write. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Three-statement model here is the financial model Claude builds in Excel from a single written prompt, the centre of the video. The phrase appears once, beside its fuller form "three-statement financial model", Claude, an Excel file, five years, and a software company. The prompt itself is the concrete content: a product revenue tab with three subscription tiers, a cost product tab, a headcount planning tab with cost, and summarized results with important graphs in each tab, all spread over the next five years. The model is the output of the prompt, not a template he hands out.
 
 ## Synonyms
 
-- Prepare
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- three-statement financial model (the fuller form used in this source)
 
 ## Live Example
 
-> "In just five minutes, Claude will create a three-statement financial model in an Excel file. All you need to do is to write the following prompt: Prepare the three-statement model in different tabs over the next five years for a software company. Prepare a product revenue tab with three subscription tiers." — sources/S_ig_nicolasboucherfinance_DV856sYieDC.md
-> "Prepare a cost product tab. Then prepare a headcount planning tab with cost. And then add summarized results with important graphs in each tab. Check out my videos for more details." — sources/S_ig_nicolasboucherfinance_DV856sYieDC.md
+> "In just five minutes, Claude will create a three-statement financial model in an Excel file." — sources/S_ig_nicolasboucherfinance_DV856sYieDC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Prepare": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ready-made template: the model is built from a prompt that spells out every tab, so the prompt is the work, not a download.
+- Read as instant expertise: five minutes builds the file, but the prompt must name the tabs, the tiers, and the horizon or the model will not match the company.

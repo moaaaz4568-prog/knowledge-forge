@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Prepare, nicolasboucherfinance account context]
+aka: ["Excel AI Agent Mode"]
 origin: sources/S_ig_nicolasboucherfinance_DVqyTvmEZY8.md
 ---
 
-# G_ig_nicolasboucherfinance_DVqyTvmEZY8 — Prepare
+# G_ig_nicolasboucherfinance_DVqyTvmEZY8 — Excel AI Agent Mode
 
 ## Term
 
-"Prepare" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tab, product, cost, write. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Excel AI Agent Mode here is the mode that builds a perfect three-statement financial model in five minutes from one written prompt. The phrase appears once, beside five minutes, three-statement financial model, Excel file, and five years, and the prompt itself is the content: a product revenue tab with three subscription tiers, a cost product tab, a headcount planning tab with costs, and summarized results with important graphs in each tab. The mode is the builder, and the prompt is the instruction it follows.
 
 ## Synonyms
 
-- Prepare
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In just five minutes, Excel AI Agent Mode will create a perfect three-statement financial model. All I need to do is to write the following prompt: Prepare the three-statement model in different tabs over the next five years for a software company. Prepare a product revenue tab with three subscription tiers." — sources/S_ig_nicolasboucherfinance_DVqyTvmEZY8.md
-> "Prepare a cost product tab. Then prepare a headcount planning tab with costs. And then add summarized results with important graphs in each tab. Check out my videos for more details." — sources/S_ig_nicolasboucherfinance_DVqyTvmEZY8.md
+> "In just five minutes, Excel AI Agent Mode will create a perfect three-statement financial model." — sources/S_ig_nicolasboucherfinance_DVqyTvmEZY8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Prepare": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a template you download: the video gives you a prompt to write, and the model only appears when the mode runs it.
+- Read as "the mode does everything": the five minutes is the build, and the prompt must already name the tabs, the tiers, and the five-year horizon.

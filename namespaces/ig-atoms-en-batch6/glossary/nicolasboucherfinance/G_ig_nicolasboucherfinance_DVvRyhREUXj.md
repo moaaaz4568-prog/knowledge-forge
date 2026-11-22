@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [scenario analysis, nicolasboucherfinance account context]
+aka: ["dynamic scenario analysis"]
 origin: sources/S_ig_nicolasboucherfinance_DVvRyhREUXj.md
 ---
 
-# G_ig_nicolasboucherfinance_DVvRyhREUXj — scenario analysis
+# G_ig_nicolasboucherfinance_DVvRyhREUXj — dynamic scenario analysis
 
 ## Term
 
-"scenario analysis" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: create, dynamic, analysis, scenario. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dynamic scenario analysis here is the live tool Nicolas builds in ChatGPT with the canvas function, so a "what if" question gets answered in front of the boss instead of costing another week. The phrase appears twice, beside Excel work, increase the sales by 5%, another meeting, and save one week of work, and the pain it solves is concrete: present the results, the boss asks what happens if sales rise 5%, and here you are again with another week of work and another meeting. His concrete move is to activate the canvas function, ask for the scenario analysis, and change it live in the next meeting when the boss asks for a change. The analysis is dynamic because it changes in the room, not because it has more scenarios.
 
 ## Synonyms
 
-- scenario analysis
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How to create a dynamic scenario analysis like this with AI? You have probably been there." — sources/S_ig_nicolasboucherfinance_DVvRyhREUXj.md
-> "And then here you are again, another week of work, another meeting, and then this will never end. Do this instead. Go into ChatGPT, activate the canvas function, and then ask to create your scenario analysis. It will give you a dynamic scenario analysis tool, which you can change live in front of your boss." — sources/S_ig_nicolasboucherfinance_DVvRyhREUXj.md
-> "ChatGPT, activate the canvas function, and then ask to create your scenario analysis. It will give you a dynamic scenario analysis tool, which you can change live in front of your boss. And in your next meeting with your boss, when they're asking for a change, do it directly in front of them and save one week of work. You want to know exactly how to do this? Check the videos I have on my profile." — sources/S_ig_nicolasboucherfinance_DVvRyhREUXj.md
+> "How to create a dynamic scenario analysis like this with AI?" — sources/S_ig_nicolasboucherfinance_DVvRyhREUXj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "scenario analysis": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a static report with more scenarios: the value is changing the numbers live in front of the boss, not presenting a thicker file.
+- Read as "no more Excel work": the Excel work is already done when the analysis is built; the tool only stops the rework loop after the meeting.

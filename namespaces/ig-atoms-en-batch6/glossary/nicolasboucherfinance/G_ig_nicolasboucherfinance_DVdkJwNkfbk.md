@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Prepare, nicolasboucherfinance account context]
+aka: ["three-statement financial model", "three-statement model"]
 origin: sources/S_ig_nicolasboucherfinance_DVdkJwNkfbk.md
 ---
 
-# G_ig_nicolasboucherfinance_DVdkJwNkfbk — Prepare
+# G_ig_nicolasboucherfinance_DVdkJwNkfbk — three-statement financial model
 
 ## Term
 
-"Prepare" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tab, product, cost, write. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Three-statement financial model here is the model Claude builds in Excel in five minutes from one written prompt, the whole subject of the video. The phrase appears once, beside its shorter form "three-statement model", Claude in Excel, five years, and a software company, and the prompt itself is the content: a product revenue tab with three subscription tiers, a cost product tab, a headcount planning tab with cost, and summarized results with important graphs in each tab. The model is the output of that prompt, not a file he hands out.
 
 ## Synonyms
 
-- Prepare
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- three-statement model (the shorter form used in this source)
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_nicolasboucherfinance_DVdkJwNkfbk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Prepare": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a template you download: the video gives you a prompt to write, and the model only appears when Claude runs it.
+- Read as five minutes of work total: the five minutes is the build, and the prompt must already name the tabs, the tiers, and the five-year horizon.

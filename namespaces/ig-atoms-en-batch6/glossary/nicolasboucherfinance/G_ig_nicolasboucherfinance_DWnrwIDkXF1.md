@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [financial models, nicolasboucherfinance account context]
+aka: ["AI CFO"]
 origin: sources/S_ig_nicolasboucherfinance_DWnrwIDkXF1.md
 ---
 
-# G_ig_nicolasboucherfinance_DWnrwIDkXF1 — financial models
+# G_ig_nicolasboucherfinance_DWnrwIDkXF1 — AI CFO
 
 ## Term
 
-"financial models" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: models, financial, builds, building. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+AI CFO here is the CFO who does the same work in minutes with AI that a normal CFO does in days and hours by hand. The phrase appears twice, beside financial models, dashboards, data cleaning, and second brain, and the video is a line-by-line contrast: the normal CFO spends days building financial models and needs hours to create dashboards manually and focuses on data cleaning, while the AI CFO builds financial models in minutes with AI, makes dashboards in minutes, focuses on making decisions, writes emails with AI, and uses AI like a second brain. The AI CFO is defined by what the work becomes, not by a tool.
 
 ## Synonyms
 
-- financial models
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Normal CFO, AI CFO. Spends days building financial models. Builds financial models in minutes with AI. Needs hours to create dashboards manually. Uses AI to make dashboards in minutes. Focuses on data cleaning. Focuses on making decisions. Uses AI to write emails." — sources/S_ig_nicolasboucherfinance_DWnrwIDkXF1.md
-> "Uses AI to build financial models. Uses AI like Google. Uses AI like a second brain. You want to become an AI CFO? Join my masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_DWnrwIDkXF1.md
+> "You want to become an AI CFO? Join my masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_DWnrwIDkXF1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "financial models": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "AI does the CFO's job": the AI CFO still builds the models and makes the decisions — AI only moves the work from days to minutes.
+- Read as a job title to claim: the video is a contrast of two ways of working, and the masterclass is where the switch is taught.

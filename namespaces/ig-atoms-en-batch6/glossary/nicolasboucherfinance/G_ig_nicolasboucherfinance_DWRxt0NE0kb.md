@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [need, nicolasboucherfinance account context]
+aka: ["custom GPT"]
 origin: sources/S_ig_nicolasboucherfinance_DWRxt0NE0kb.md
 ---
 
-# G_ig_nicolasboucherfinance_DWRxt0NE0kb — need
+# G_ig_nicolasboucherfinance_DWRxt0NE0kb — custom GPT
 
 ## Term
 
-"need" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gpt, knowledge, give, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Custom GPT here is the built assistant whose knowledge and instructions you share once, set against chatting with files every time. The phrase appears once, beside one-off tasks, recurring tasks, uploading files, custom instructions, and a lot of iterations, and the video is a comparison of two ways to work: the chat way is good for one-off and recurring tasks but requires uploading files every time, giving a lot of context and details in the prompt, and many iterations, while the custom GPT way can retrieve data from its knowledge and needs the context shared only once. His concrete image is the payoff: you can simply type go, because it has your custom instructions. The custom GPT is a standing setup, not a longer prompt.
 
 ## Synonyms
 
-- need
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Good for one-off tasks. Good for recurring tasks. Requires uploading files to the chat every time. Can retrieve data from the custom GPT's knowledge. You need to give a lot of context and a lot of details in your prompt. You only need to share once the context. Requires a lot of iterations to get the result you need. You can simply type go because it has your custom instructions." — sources/S_ig_nicolasboucherfinance_DWRxt0NE0kb.md
+> "Can retrieve data from the custom GPT's knowledge." — sources/S_ig_nicolasboucherfinance_DWRxt0NE0kb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "need": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a better chat session: the difference is the setup — the custom GPT holds the knowledge and instructions, so you stop re-uploading and re-explaining.
+- Read as "type go and it does everything": the go only works because the context and instructions were shared once beforehand.

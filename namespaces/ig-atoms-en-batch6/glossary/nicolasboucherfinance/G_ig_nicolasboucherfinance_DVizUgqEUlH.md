@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [first, nicolasboucherfinance account context]
+aka: ["chunking method"]
 origin: sources/S_ig_nicolasboucherfinance_DVizUgqEUlH.md
 ---
 
-# G_ig_nicolasboucherfinance_DVizUgqEUlH — first
+# G_ig_nicolasboucherfinance_DVizUgqEUlH — chunking method
 
 ## Term
 
-"first" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: attack, part, first, curriculum. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Chunking method here is the technique of cutting work into smaller parts before asking AI to do it, because AI cannot process that much information at once. The phrase appears once, beside write a book, curriculum, big problem, and first task, and the video's own example is the limit: ask AI to write a book and it will only write the curriculum and maybe the first pages. His concrete rule is to cut a big problem in smaller parts, attack the first part first, and move on to the second one only once happy with the result of the first task. The chunking method is a way of asking, not a way of making AI smarter.
 
 ## Synonyms
 
-- first
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "AI cannot process that much information. Ask AI to write a book, it will just write you the curriculum and maybe the first pages. So this is why there is a technique called the chunking method, where you have to chunk the work you ask to be done with AI. And that also works with a big problem." — sources/S_ig_nicolasboucherfinance_DVizUgqEUlH.md
-> "Don't ask AI to solve a big problem. Instead, cut the problem in smaller parts and then attack the first part first and then move on to the second one once you are happy with the result of the first task." — sources/S_ig_nicolasboucherfinance_DVizUgqEUlH.md
+> "So this is why there is a technique called the chunking method, where you have to chunk the work you ask to be done with AI." — sources/S_ig_nicolasboucherfinance_DVizUgqEUlH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "first": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "AI handles big problems if you phrase them well": the method exists precisely because AI cannot process that much information, so the problem must be cut first.
+- Read as doing the parts in any order: the parts are attacked one at a time, and the second starts only after the first result is good.

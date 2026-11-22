@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [data, nicolasboucherfinance account context]
+aka: ["professional license"]
 origin: sources/S_ig_nicolasboucherfinance_DVGq1EVia5q.md
 ---
 
-# G_ig_nicolasboucherfinance_DVGq1EVia5q — data
+# G_ig_nicolasboucherfinance_DVGq1EVia5q — professional license
 
 ## Term
 
-"data" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dummy, data, action, keeps. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Professional license here is the paid licence that keeps finance data private when using AI, his one simple action against leaking numbers and confidential information. The phrase appears once, beside privacy, Copilot M three hundred and sixty five, Excel Online, and training the model on your data, and the licence matters because it gives the same security level as using Excel Online. His concrete backup plan, for when neither a licence nor the training switch is available, is to never share the data itself: share headers plus anonymized data or dummy data, let AI do ninety nine of the job, then apply it on the real data inside your own secure environment. The licence is the protection, and the settings check — deactivating training on your data — is its companion.
 
 ## Synonyms
 
-- data
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One simple action that keeps my data private when using AI. Privacy is a huge headache for most of the people in finance. Nobody wants their numbers and their confidential information leaked. Use a professional license. For example, if you take Copilot M three hundred and sixty five, you have the same security level than using Excel Online." — sources/S_ig_nicolasboucherfinance_DVGq1EVia5q.md
-> "Make sure your model that you are using is not training on your data. For this, go to the settings and check that you deactivated training the model on your data. If you cannot do any of the two, well, I have a trick for you. You never share your data." — sources/S_ig_nicolasboucherfinance_DVGq1EVia5q.md
-> "What you do, you just share headers and then maybe some anonymized data or some dummy data. You give this to AI and ask help for analysis, and it will do ninety nine of the job, and then you just have to apply it on your data in your own secure environment." — sources/S_ig_nicolasboucherfinance_DVGq1EVia5q.md
+> "Use a professional license. For example, if you take Copilot M three hundred and sixty five, you have the same security level than using Excel Online." — sources/S_ig_nicolasboucherfinance_DVGq1EVia5q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "data": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "a paid licence alone guarantees privacy": he also requires checking the settings so the model is not training on your data.
+- Read as "never use AI on real data": headers plus anonymized or dummy data still get ninety nine of the job done, and the last step happens on your own data.

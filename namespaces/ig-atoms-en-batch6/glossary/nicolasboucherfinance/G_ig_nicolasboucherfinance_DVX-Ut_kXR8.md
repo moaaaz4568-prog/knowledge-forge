@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [agent, nicolasboucherfinance account context]
+aka: ["Analyst Agent"]
 origin: sources/S_ig_nicolasboucherfinance_DVX-Ut_kXR8.md
 ---
 
-# G_ig_nicolasboucherfinance_DVX-Ut_kXR8 — agent
+# G_ig_nicolasboucherfinance_DVX-Ut_kXR8 — Analyst Agent
 
 ## Term
 
-"agent" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: try, even, create, analysis. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Analyst Agent here is Copilot's agent for data analysis, the one Nicolas names when Copilot itself seems not good enough. The phrase appears once, beside Researcher Agent, financial analysis, review contracts, mini agent, and SharePoint, and the video pairs the two agents by job: Analyst Agent for data analysis, Researcher Agent for preparing the week with access to the calendar and emails. His concrete offer is the third option too: create your own agent, give it your instructions and SharePoint access, and let it replace some tasks and automate the work. The Analyst Agent is a named job inside Copilot, not a synonym for Copilot itself.
 
 ## Synonyms
 
-- agent
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The most underrated AI tool that everyone has but forgets, and it already exists in your Excel, in your Outlook. And with this, you can do financial analysis, you can review contracts, you can even create a mini agent for you. You know what I'm talking about? Copilot. And you might think that Copilot is not good enough. Well, try the Analyst Agent for data analysis." — sources/S_ig_nicolasboucherfinance_DVX-Ut_kXR8.md
-> "Try the Researcher Agent if you want to prepare your week, because it has access to your calendar and your emails. And also, you can even create your own agent where you give your instructions and has access to your SharePoint. And like this, it can replace some of your tasks and automate for you your work. You can learn more about that on my profile." — sources/S_ig_nicolasboucherfinance_DVX-Ut_kXR8.md
+> "Well, try the Analyst Agent for data analysis." — sources/S_ig_nicolasboucherfinance_DVX-Ut_kXR8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Copilot under another name: Copilot is the tool everyone already has in Excel and Outlook, while the Analyst Agent is the specific agent you try for analysis.
+- Read as a general assistant: the Analyst Agent is for data analysis, and the week-preparation job belongs to the Researcher Agent.

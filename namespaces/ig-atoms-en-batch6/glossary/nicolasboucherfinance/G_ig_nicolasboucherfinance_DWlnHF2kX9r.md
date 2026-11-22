@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [prompt, nicolasboucherfinance account context]
+aka: ["Clode in Excel"]
 origin: sources/S_ig_nicolasboucherfinance_DWlnHF2kX9r.md
 ---
 
-# G_ig_nicolasboucherfinance_DWlnHF2kX9r — prompt
+# G_ig_nicolasboucherfinance_DWlnHF2kX9r — Clode in Excel
 
 ## Term
 
-"prompt" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, clode, excel, minute. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Clode in Excel here is the tool that cleans Excel files in one minute with a single prompt, work that used to take hours. The phrase appears once, beside cleaning Excel files, consolidate all the tabs, remove all empty lines, and remove all empty columns, and the prompt itself is the content: consolidate all the tabs into one, then remove all empty lines and remove all empty columns. His concrete image is the ease: it is as simple as asking somebody in your team to do it. The name stays as transcribed in the source, and Clode in Excel is the tool that runs the prompt, not the prompt itself.
 
 ## Synonyms
 
-- prompt
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Cleaning Excel files used to take me hours, but now with this prompt, Clode in Excel does it in one minute. Here's the prompt: consolidate all the tabs into one, then remove all empty lines and remove all empty columns. It's as simple as asking somebody in your team to do it. If you want to learn how to use AI in finance, join my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_DWlnHF2kX9r.md
+> "Cleaning Excel files used to take me hours, but now with this prompt, Clode in Excel does it in one minute." — sources/S_ig_nicolasboucherfinance_DWlnHF2kX9r.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prompt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a corrected name: the source spells it Clode, and the entry keeps the term literal as transcribed.
+- Read as "the prompt replaces checking": the video only promises the cleaning, and the prompt names exactly which lines and columns to remove.

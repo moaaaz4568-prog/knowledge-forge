@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [straight away, nicolasboucherfinance account context]
+aka: [model]
 origin: sources/S_ig_nicolasboucherfinance_DV3IjxdERmq.md
 ---
 
-# G_ig_nicolasboucherfinance_DV3IjxdERmq — straight away
+# G_ig_nicolasboucherfinance_DV3IjxdERmq — model
 
 ## Term
 
-"straight away" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: away, straight, answer, change. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Model here is the working budget model Nicolas builds live during a call, the thing he can tweak and watch answer back. The word appears three times, beside straight away, budget for ads, impact on revenue, and a webinar, and the meeting itself had drifted into theory about whether raising the budget might move revenue. His concrete case is the model he built in Excel AI agent mode while still listening to the call: each $5 of ads brings 1% into his webinar at 5% conversion, and two minutes later he had the answer to how much to spend for 100k per month. The model is valuable because it turns guessing about impact into a number he can see.
 
 ## Synonyms
 
-- straight away
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This meeting went from blah blah blah theory theory to now we have the model, we can change straight away and have the answer straight away. I was in this call with my marketing manager. We were planning our budget for ads, but also the impact on revenue." — sources/S_ig_nicolasboucherfinance_DV3IjxdERmq.md
-> "While talking to them, I thought we don't even know the impact, like we're just thinking, oh, if we increase the budget, maybe it will have this impact. And I hate that. For me, I need to have a model in front of me where if I tweak, I see the impact straight away." — sources/S_ig_nicolasboucherfinance_DV3IjxdERmq.md
+> "I need to have a model in front of me where if I tweak, I see the impact straight away." — sources/S_ig_nicolasboucherfinance_DV3IjxdERmq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "straight away": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a theoretical model: this is a working Excel model built in two minutes during a live call, not a planning concept.
+- Read as "the model replaces the meeting": he builds it while still listening to his marketing manager, so the model informs the discussion rather than ending it.

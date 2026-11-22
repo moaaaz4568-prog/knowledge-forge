@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [analysis, nicolasboucherfinance account context]
+aka: ["five steps framework"]
 origin: sources/S_ig_nicolasboucherfinance_DWtzbVsiewh.md
 ---
 
-# G_ig_nicolasboucherfinance_DWtzbVsiewh — analysis
+# G_ig_nicolasboucherfinance_DWtzbVsiewh — five steps framework
 
 ## Term
 
-"analysis" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ask, perform, make, financial. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Five steps framework here is Nicolas's own five-step method for making a financial analysis correctly with AI, starting from giving enough context. The phrase appears once, beside five percent of CFOs, give the goal, check for consistency, and show you the calculation, and the video's claim is the gap it closes: only five percent of CFOs use AI to make financial analysis correctly, because there is no tool that can read your mind. His concrete steps are the framework itself: give the goal of the analysis, ask AI to check for consistency of data, ask AI to think about the best analysis to perform, ask AI to perform the analysis and show the calculation, and ask for the graphs and commentaries. The framework is a sequence, not a checklist to skip through.
 
 ## Synonyms
 
-- analysis
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Only five percent of CFOs use AI to make financial analysis correctly. There is no tool that can read your mind. The secret is to give enough context to your AI tool. Let me give you my five steps framework. Give the goal of the analysis. Ask AI to check for consistency of data." — sources/S_ig_nicolasboucherfinance_DWtzbVsiewh.md
-> "Ask AI to think about the best analysis to perform. Ask AI to perform the analysis and to show you the calculation. Ask for the graphs and for commentaries." — sources/S_ig_nicolasboucherfinance_DWtzbVsiewh.md
+> "Let me give you my five steps framework." — sources/S_ig_nicolasboucherfinance_DWtzbVsiewh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "analysis": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as five tools to use: the five steps are five asks to make of the AI tool, and the context comes before all of them.
+- Read as "the framework guarantees a correct analysis": the steps structure the work, but the calculation still has to be shown and checked.

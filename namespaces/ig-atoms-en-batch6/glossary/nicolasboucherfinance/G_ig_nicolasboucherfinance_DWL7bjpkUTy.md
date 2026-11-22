@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [ask, nicolasboucherfinance account context]
+aka: ["chain of thoughts"]
 origin: sources/S_ig_nicolasboucherfinance_DWL7bjpkUTy.md
 ---
 
-# G_ig_nicolasboucherfinance_DWL7bjpkUTy — ask
+# G_ig_nicolasboucherfinance_DWL7bjpkUTy — chain of thoughts
 
 ## Term
 
-"ask" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: details, way, works, general. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Chain of thoughts here is the principle of breaking a complex problem into step by step processes, going from general to specific. The phrase appears twice, beside good principle, reduce cost, drill down, and implement it, and the move is concrete: ask a general problem, like a plan to reduce cost, then when you identify one of the actions you like, drill down into that specific action and ask for more details, and once you have the details, ask how to implement it. The chain is the descent from the general plan to the specific action, not a list of separate questions.
 
 ## Synonyms
 
-- ask
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "First one is the chain of thoughts. You need to understand that with AI, this is a good principle where you break down complex problems into step by step processes. The way it works, you ask a general problem. Let's imagine you want to reduce cost." — sources/S_ig_nicolasboucherfinance_DWL7bjpkUTy.md
-> "You ask for a plan to reduce cost, and then when you identify one of the actions that you like, that you want to investigate, drill down into this specific action and ask for more details. And once you have the details, ask how to implement it. This is a good way to go from general to specific thanks to the chain of thoughts principle." — sources/S_ig_nicolasboucherfinance_DWL7bjpkUTy.md
+> "This is a good way to go from general to specific thanks to the chain of thoughts principle." — sources/S_ig_nicolasboucherfinance_DWL7bjpkUTy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ask": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as asking one big question well: the principle is the opposite — break the problem down and drill into one action at a time.
+- Read as a way to get details faster: the details come only after you pick one action from the general plan and investigate it.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Excel, nicolasboucherfinance account context]
+aka: ["Excel Agent Mode"]
 origin: sources/S_ig_nicolasboucherfinance_DVL7Xp7Ezwl.md
 ---
 
-# G_ig_nicolasboucherfinance_DVL7Xp7Ezwl — Excel
+# G_ig_nicolasboucherfinance_DVL7Xp7Ezwl — Excel Agent Mode
 
 ## Term
 
-"Excel" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: function, called, excel, agent. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Excel Agent Mode here is the new AI function inside Excel that creates or modifies Excel files, introduced as the way to get a five-year financial model in one minute. The phrase appears once, beside financial model, forecast, revenue, headcount, cost, cash, and assumptions, and Nicolas lays out three steps for it: describe the type of model you want, describe what goes inside, and finally give your assumptions. His concrete warning is the point of the entry: do not let AI define what your model or your assumptions should be, because handing that over is how AI replaces you instead of helping you thrive with it. The mode builds the file, but the assumptions stay yours.
 
 ## Synonyms
 
-- Excel
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Paste this text into Excel and get a five-year financial model in just one minute. There is this new function in Excel called Excel Agent Mode. It's basically an AI tool inside Excel which can create or modify Excel files. For example, you can use it for financial models. And how to do it? First, describe the type of financial model you want. So here, we wanted a forecast." — sources/S_ig_nicolasboucherfinance_DVL7Xp7Ezwl.md
+> "There is this new function in Excel called Excel Agent Mode." — sources/S_ig_nicolasboucherfinance_DVL7Xp7Ezwl.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Excel": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "describe anything and get a model": the model only matches your business if you supply the assumptions yourself.
+- Read as fully automatic modelling: the three steps are your instructions, and the last one exists precisely so AI does not decide for you.

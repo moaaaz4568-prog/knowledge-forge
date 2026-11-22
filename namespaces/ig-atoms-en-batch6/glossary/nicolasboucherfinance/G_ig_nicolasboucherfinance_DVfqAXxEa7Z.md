@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [prompt, nicolasboucherfinance account context]
+aka: [prompt]
 origin: sources/S_ig_nicolasboucherfinance_DVfqAXxEa7Z.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_nicolasboucherfinance_DVfqAXxEa7Z.md
 
 ## Term
 
-"prompt" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, dashboard, compile, files. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prompt here is the ready-made instruction for each finance job, handed over five times in one menu of a video. The word appears five times, once per job, beside super sexy dashboard, compiling Excel files, executive dashboard, beautiful presentation, and revenue forecasting, and each job gets the same treatment: name the need, then "Here's the prompt." The video itself is only the menu, pointing to a masterclass next Tuesday for the many more use cases behind it. The prompt is the unit of work — one instruction per job, not one instruction for everything.
 
 ## Synonyms
 
-- prompt
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Need to make a super sexy dashboard? Here's the prompt. Need to compile a lot of Excel files? Here's the prompt. Need to create an executive dashboard? Here's the prompt. Need to make a beautiful presentation? Here's the prompt. Need to do a revenue forecasting? Here's the prompt. Want to learn more use cases? Join my next masterclass this Tuesday by clicking in the link on my profile." — sources/S_ig_nicolasboucherfinance_DVfqAXxEa7Z.md
+> "Need to make a super sexy dashboard? Here's the prompt." — sources/S_ig_nicolasboucherfinance_DVfqAXxEa7Z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prompt": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as one universal prompt: each job gets its own prompt, and the video lists five different jobs.
+- Read as "five prompts to copy": the video names five jobs and points to the masterclass; the prompts themselves are not spelled out here.

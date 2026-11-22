@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [consolidate, nicolasboucherfinance account context]
+aka: ["Copilot in Excel"]
 origin: sources/S_ig_nicolasboucherfinance_DWdqMqAESI7.md
 ---
 
-# G_ig_nicolasboucherfinance_DWdqMqAESI7 — consolidate
+# G_ig_nicolasboucherfinance_DWdqMqAESI7 — Copilot in Excel
 
 ## Term
 
-"consolidate" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tabs, copilot, excel, write. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Copilot in Excel here is the tool for the one-prompt tab consolidation: in less than one minute it merges every tab of an Excel file from a single written prompt. The phrase appears once, beside consolidate all the tabs, another column, name of each tab, and masterclass, and the prompt is the whole instruction: consolidate all the tabs into one and then add another column showing the name of each tab. The video adds nothing beyond that prompt and a pointer to the free masterclass for more AI tips for finance. Copilot in Excel is the tool that runs the prompt, not the prompt itself.
 
 ## Synonyms
 
-- consolidate
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In less than one minute, Copilot in Excel can consolidate all the tabs of your Excel file, and all you need to do is to write the following prompt: consolidate all the tabs into one and then add another column showing the name of each tab. I will share more AI tips for finance in my free masterclass this Tuesday." — sources/S_ig_nicolasboucherfinance_DWdqMqAESI7.md
+> "In less than one minute, Copilot in Excel can consolidate all the tabs of your Excel file, and all you need to do is to write the following prompt: consolidate all the tabs into one and then add another column showing the name of each tab." — sources/S_ig_nicolasboucherfinance_DWdqMqAESI7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "consolidate": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a prompt you type into a cell: the video calls it a prompt to write to Copilot in Excel, and the tabs belong to your Excel file.
+- Read as a multi-step setup: the whole job is one prompt, and the only extra step is the column showing each tab's name.

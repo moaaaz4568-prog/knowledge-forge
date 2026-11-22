@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [ask, nicolasboucherfinance account context]
+aka: ["meta cognition"]
 origin: sources/S_ig_nicolasboucherfinance_DWJj7LuEcI1.md
 ---
 
-# G_ig_nicolasboucherfinance_DWJj7LuEcI1 — ask
+# G_ig_nicolasboucherfinance_DWJj7LuEcI1 — meta cognition
 
 ## Term
 
-"ask" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: review, meta, cognition, work. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Meta cognition here is asking AI to review its own work and rate it, so a weak output can be pushed to a better one. The phrase appears twice, beside hallucinations, quality, scale from one to ten, and seven out of ten, and the move is concrete: after you have an output, ask AI on a scale from one to ten how practical this output is, and when AI says seven out of ten, ask it to review its output and make it a ten out of ten. The result is something much more practical, because AI judged its own work first. Meta cognition is a review step, not a different model.
 
 ## Synonyms
 
-- ask
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to reduce the hallucinations with AI and just to increase the quality, you can use the meta cognition. With meta cognition, you will ask AI to review its own work and to ask to rate its own work. So for example, after you have an output, ask AI on a scale from one to ten how practical is this output." — sources/S_ig_nicolasboucherfinance_DWJj7LuEcI1.md
-> "Then AI might say seven out of ten. Then you ask AI to review its output and say now make it a ten out of ten, and you will get something much more practical." — sources/S_ig_nicolasboucherfinance_DWJj7LuEcI1.md
+> "If you want to reduce the hallucinations with AI and just to increase the quality, you can use the meta cognition." — sources/S_ig_nicolasboucherfinance_DWJj7LuEcI1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ask": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "AI fixes hallucinations by itself": the hallucinations drop because you ask AI to review and rate its own output, not because it corrects itself unasked.
+- Read as a score to accept: the seven out of ten is only the starting point, and the improvement comes from asking AI to make it a ten.

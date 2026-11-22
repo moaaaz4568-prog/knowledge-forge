@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [model, models]
+aka: ["reasoning model", "thinking model"]
 origin: sources/S_ig_nicolasboucherfinance_DV-o0DVEZH5.md
 ---
 
-# G_ig_nicolasboucherfinance_DV-o0DVEZH5 — model
+# G_ig_nicolasboucherfinance_DV-o0DVEZH5 — reasoning model
 
 ## Term
 
-"model" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: use, reasoning, thinking, model. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Reasoning model here names the slow, thinking model Nicolas reaches for when a decision is genuinely hard, set against fast models that only write well. The phrase appears twice, beside fast models, financial analysis, an Excel file, and code, and he names ChatGPT, Gemini, and Copilot as the places where you choose between the two. His own habit makes the split concrete: he uses the thinking model 95% of the time, keeping the fast model for writing an email or correcting grammar. The point is choosing deliberately for the task, not letting the fast model do the thinking.
 
 ## Synonyms
 
-- model
-- models (variant form used in the source)
+- thinking model (the name he also uses for the same model in this source)
 
 ## Live Example
 
-> "You need to use reasoning model for real decisions and fast models to write. You might not know this, but in ChatGPT, in Gemini or in Copilot, you can decide when to use a fast model, something really good to write an email or to correct your grammar." — sources/S_ig_nicolasboucherfinance_DV-o0DVEZH5.md
-> "But when you need to face a complex problem, like financial analysis, creating an Excel file or code, use the thinking model or reasoning model from ChatGPT, Gemini or Copilot. Personally, I use the thinking model 95% of the time." — sources/S_ig_nicolasboucherfinance_DV-o0DVEZH5.md
+> "You need to use reasoning model for real decisions and fast models to write." — sources/S_ig_nicolasboucherfinance_DV-o0DVEZH5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "model": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "always use the thinking model": he still reaches for fast models to write an email or correct grammar, so the choice depends on the task.
+- Read as a separate product you buy: reasoning model is a mode inside ChatGPT, Gemini, or Copilot, not a tool on its own.

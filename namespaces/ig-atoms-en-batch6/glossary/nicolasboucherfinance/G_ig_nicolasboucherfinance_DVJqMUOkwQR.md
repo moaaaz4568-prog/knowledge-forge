@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: nicolasboucherfinance
-aka: [Use, nicolasboucherfinance account context]
+aka: [prompt]
 origin: sources/S_ig_nicolasboucherfinance_DVJqMUOkwQR.md
 ---
 
-# G_ig_nicolasboucherfinance_DVJqMUOkwQR — Use
+# G_ig_nicolasboucherfinance_DVJqMUOkwQR — prompt
 
 ## Term
 
-"Use" is the most frequent repeated content term in this source (a transcribed Instagram video from the nicolasboucherfinance account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: prompt, want, discover, many. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prompt here is the ready-made instruction for each finance job, the thing the video offers four times over. The word appears four times, once per job, beside dashboard for cost center review, three statement model, financial analysis, and commentaries for your presentation, and each job gets the same treatment: name the need, then "Use this prompt." The video itself is a menu of those jobs, pointing to a masterclass next Tuesday for the many more use cases behind them. The prompt is the unit of work — one instruction per job, not one instruction for everything.
 
 ## Synonyms
 
-- Use
-- nicolasboucherfinance account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Need a dashboard for cost center review? Use this prompt. Want to build a three statement model? Use this prompt. Need to make a financial analysis? Use this prompt. Want to create commentaries for your presentation? Use this prompt. Discover many more use cases in my masterclass next Tuesday." — sources/S_ig_nicolasboucherfinance_DVJqMUOkwQR.md
+> "Need a dashboard for cost center review? Use this prompt." — sources/S_ig_nicolasboucherfinance_DVJqMUOkwQR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Use": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as one universal prompt: each job gets its own prompt, and the video lists four different jobs.
+- Read as "the prompt is in the video": the video names the jobs and points to the masterclass; the prompts themselves are not spelled out here.
