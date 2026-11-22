@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch3)
 
-YouTube English video transcripts batch 3 glossaries (batch 1 of 20 sub-batches of 50): one G_ entry per T_ atom file — 50 files, zero exclusions, misc-dl collection. First code Ieb3Gp0j3Ls, last code of this sub-batch J42QA_Nptxc. 50 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,050 entities, 0 rejected).
+YouTube English video transcripts batch 3 glossaries (sub-batches 1–2 of 20, 100 files of 1,000): one G_ entry per T_ atom file — 100 files, zero exclusions, misc-dl collection. Sub-batch 1 codes Ieb3Gp0j3Ls–J42QA_Nptxc; sub-batch 2 codes J4JF9uIopjw–JRFMrCrSFP4. 100 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,100 entities, 0 rejected).
 | glossary/misc-dl/G_yt_Ieb3Gp0j3Ls_en.md | white collar | 1 |
 | glossary/misc-dl/G_yt_Ife81EN4pEQ_en.md | grand | 1 |
 | glossary/misc-dl/G_yt_IfjNqBWaw94_en.md | cold email | 1 |
@@ -51,3 +51,53 @@ YouTube English video transcripts batch 3 glossaries (batch 1 of 20 sub-batches 
 | glossary/misc-dl/G_yt_J2rZnaloJgg_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_J3oSyN5pCao_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_J42QA_Nptxc_en.md | European | 1 |
+| glossary/misc-dl/G_yt_J4JF9uIopjw_en.md | family | 1 |
+| glossary/misc-dl/G_yt_J4nYlgG6YNw_en.md | service | 1 |
+| glossary/misc-dl/G_yt_J5LjHs4E2-M_en.md | assessment | 1 |
+| glossary/misc-dl/G_yt_J5cCED6t4Fk_en.md | brands | 1 |
+| glossary/misc-dl/G_yt_J5kZWFyZKCU_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_J6DjxHXXZGw_en.md | planet | 1 |
+| glossary/misc-dl/G_yt_J6K1902mxfU_en.md | resources | 1 |
+| glossary/misc-dl/G_yt_J6Su5Vx3x5U_en.md | value | 1 |
+| glossary/misc-dl/G_yt_J6_ZE0fRXDM_en.md | image | 1 |
+| glossary/misc-dl/G_yt_J7JnekLSuIw_en.md | stroke | 1 |
+| glossary/misc-dl/G_yt_J7ZiJqMxaIY_en.md | sales funnel | 1 |
+| glossary/misc-dl/G_yt_J82GLRs3skw_en.md | students | 1 |
+| glossary/misc-dl/G_yt_J97JYAMh7Uc_en.md | class | 1 |
+| glossary/misc-dl/G_yt_J9RDDvt8nlg_en.md | stitch | 1 |
+| glossary/misc-dl/G_yt_J9ocP1dFaQ8_en.md | team | 1 |
+| glossary/misc-dl/G_yt_JC3MLULbNpU_en.md | money | 1 |
+| glossary/misc-dl/G_yt_JCX2Y0Nprhc_en.md | offer | 1 |
+| glossary/misc-dl/G_yt_JCuKLSgXF6I_en.md | designer | 1 |
+| glossary/misc-dl/G_yt_JDnhpF4OfPU_en.md | contractors | 1 |
+| glossary/misc-dl/G_yt_JErxMo-Ja84_en.md | process | 1 |
+| glossary/misc-dl/G_yt_JF-_w4gvZec_en.md | success | 1 |
+| glossary/misc-dl/G_yt_JF7jXBbY0Ko_en.md | hats | 1 |
+| glossary/misc-dl/G_yt_JFai8IzN-3k_en.md | file | 1 |
+| glossary/misc-dl/G_yt_JG63EVRXq0k_en.md | content | 1 |
+| glossary/misc-dl/G_yt_JG8HDKflz_Y_en.md | laziness | 1 |
+| glossary/misc-dl/G_yt_JGB-D1xd400_en.md | agent | 1 |
+| glossary/misc-dl/G_yt_JGMaLC4pOi8_en.md | team | 1 |
+| glossary/misc-dl/G_yt_JHGWFTxt1R4_en.md | crm | 1 |
+| glossary/misc-dl/G_yt_JIajiyYHlsk_en.md | business partner | 1 |
+| glossary/misc-dl/G_yt_JIrb0zPZ5bE_en.md | tracking | 1 |
+| glossary/misc-dl/G_yt_JJFacWGsFaE_en.md | graphic designer | 1 |
+| glossary/misc-dl/G_yt_JJkknoS6v7A_en.md | instagram | 1 |
+| glossary/misc-dl/G_yt_JJzBeC8noE4_en.md | concept | 1 |
+| glossary/misc-dl/G_yt_JK85n1u1OPk_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_JK9qudk522w_en.md | shape | 1 |
+| glossary/misc-dl/G_yt_JKFgVCNO0gA_en.md | message | 1 |
+| glossary/misc-dl/G_yt_JKHahfIcWuE_en.md | business | 1 |
+| glossary/misc-dl/G_yt_JKJJsMUv6Mc_en.md | cut | 1 |
+| glossary/misc-dl/G_yt_JLb-bchUo6w_en.md | stories | 1 |
+| glossary/misc-dl/G_yt_JNCtGMR7XGk_en.md | clients | 1 |
+| glossary/misc-dl/G_yt_JNJvlBnmxEU_en.md | sequence | 1 |
+| glossary/misc-dl/G_yt_JNhuJMGprYs_en.md | pen tool | 1 |
+| glossary/misc-dl/G_yt_JO1ZuBu8P3I_en.md | identity | 1 |
+| glossary/misc-dl/G_yt_JO2JSj3JU48_en.md | lesson | 1 |
+| glossary/misc-dl/G_yt_JOCR2pL6kTI_en.md | customers | 1 |
+| glossary/misc-dl/G_yt_JPI06xniVQg_en.md | day | 1 |
+| glossary/misc-dl/G_yt_JP_3iRJKK50_en.md | business | 1 |
+| glossary/misc-dl/G_yt_JPlyA6lQov8_en.md | clay | 1 |
+| glossary/misc-dl/G_yt_JQym3LXEv8I_en.md | pipe | 1 |
+| glossary/misc-dl/G_yt_JRFMrCrSFP4_en.md | cold email | 1 |
