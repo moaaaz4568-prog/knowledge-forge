@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [fall, thesunnahguy account context]
+aka: [fall apart]
 origin: sources/S_ig_thesunnahguy_C-z7zj-NufC.md
 ---
 
-# G_ig_thesunnahguy_C-z7zj-NufC — fall
+# G_ig_thesunnahguy_C-z7zj-NufC — fall apart
 
 ## Term
 
-"fall" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: life, new, old, apart. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Fall apart in this source is what the old life sometimes has to do before the new life can fall together: sometimes your old life has to fall apart for your new life to fall together. The phrase appears once, beside the old life, the new life, and fall together. The whole source is this one sentence, and it presents the breaking as the condition for the coming-together, not as the end of the story. The old life does not fall apart by accident in this picture; it falls apart so that the new one can take its shape.
 
 ## Synonyms
 
-- fall
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thesunnahguy_C-z7zj-NufC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fall": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that every breakdown leads somewhere better: the sentence says "sometimes" — the falling apart is a condition that can open the way, not a guarantee.
+- Read as the new life arriving on its own: the new life falls together because the old one fell apart first, so the order matters — the breaking comes before the building.

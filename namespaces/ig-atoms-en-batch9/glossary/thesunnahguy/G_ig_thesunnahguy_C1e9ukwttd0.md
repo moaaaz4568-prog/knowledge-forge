@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [life, thesunnahguy account context]
+aka: [forgotten]
 origin: sources/S_ig_thesunnahguy_C1e9ukwttd0.md
 ---
 
-# G_ig_thesunnahguy_C1e9ukwttd0 — life
+# G_ig_thesunnahguy_C1e9ukwttd0 — forgotten
 
 ## Term
 
-"life" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: spent, living, whole, concerned. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Forgotten in this source is the speed at which life moves on after your funeral: a few short hours and the crying dies down while the family gets busy making arrangements for food or drink, friends and relatives start discussing current affairs over coffee, and others call the family to say they could not make it in person due to an emergency. The word appears once, beside the funeral, the replacement, bereavement leave, and the comedy show. The employer begins to search for your replacement, in a few days the kids go back to school or work because their bereavement leave has ended, and in a month the spouse is watching a comedy or TV show, laughing as if you were never there — forgotten at such an astonishing pace. The speaker's question follows from that speed: if people will forget you so easily, then who are you living your life for? You spent your whole life concerned about what other people will think about you, when in reality nobody even cares — so live your life to please your Creator, because He is the one you are going back to.
 
 ## Synonyms
 
-- life
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Your employer will begin to search for your replacement, and in a few days, your kids will go back to school or work because their bereavement leave has ended. In a month, your spouse will be watching a comedy or TV show, laughing as if you were never there. You'll be forgotten at such an astonishing pace. And if people will forget you so easily, then who are you living your life for?" — sources/S_ig_thesunnahguy_C1e9ukwttd0.md
-> "You spent your whole life concerned about what other people will think about you, when in reality, nobody even cares. So live your life to please your Creator, because He is the one you're going back to." — sources/S_ig_thesunnahguy_C1e9ukwttd0.md
+> "In a month, your spouse will be watching a comedy or TV show, laughing as if you were never there." — sources/S_ig_thesunnahguy_C1e9ukwttd0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "life": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an accusation against the family: the forgetting is shown as the ordinary resumption of life — food, coffee, school, work — and the passage aims the lesson at the listener, not at the mourners.
+- Read as meaning your life did not matter: the point is the opposite — since people forget so fast, the life should be lived for the Creator who is not going to forget it.

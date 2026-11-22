@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [know, thesunnahguy account context]
+aka: [verify]
 origin: sources/S_ig_thesunnahguy_C3IpeEYN-sx.md
 ---
 
-# G_ig_thesunnahguy_C3IpeEYN-sx — know
+# G_ig_thesunnahguy_C3IpeEYN-sx — verify
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: full, picture, until, one-sided. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Verify in this source is what you must do whenever news comes to you, and the speaker learned it from a marriage that broke on one side of a story: a brother in the community was left by his wife, and when they divorced she made him out to be bitter and toxic and a horrible person, saying he used to abuse her and never provide for her — and the story went around and ruined his reputation. The word appears once, beside the Quran, the news, both sides, and hold your judgment. When they sat down and did some digging, they found she was provoking him every day, talking to other men, and weaponizing their kids against him — and the story was not so one-sided anymore. The lesson is that no matter how compelling one person's story is, you do not know the full picture until you know both sides, and so many relationships, reputations, and honours have been destroyed by hasty people who spread false information when they only hear one side. That is why Allah says in the Quran to verify things whenever news comes to you: whenever you hear something bad about someone, hold your judgment until you have also heard their side.
 
 ## Synonyms
 
-- know
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "She was talking to other men and would weaponize their kids against him. And the story wasn't so one-sided anymore. You know, it taught me that no matter what and how compelling one person's story is, you really don't know the full picture until you know both sides." — sources/S_ig_thesunnahguy_C3IpeEYN-sx.md
+> "And that's why Allah says in the Quran فَتَبَيَّنُوا which means to verify things whenever news comes to you." — sources/S_ig_thesunnahguy_C3IpeEYN-sx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as distrusting everyone: the verification is aimed at news about someone, not at people in general — the command is to hear their side too before judging.
+- Read as the first story being false by default: the digging showed the first story was one-sided, not that every first story is a lie — the point is that one side is never the full picture.

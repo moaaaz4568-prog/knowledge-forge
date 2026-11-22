@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [feel deprived, thesunnahguy account context]
+aka: [comparison]
 origin: sources/S_ig_thesunnahguy_C-yJP7hNAno.md
 ---
 
-# G_ig_thesunnahguy_C-yJP7hNAno — feel deprived
+# G_ig_thesunnahguy_C-yJP7hNAno — comparison
 
 ## Term
 
-"feel deprived" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: deprived, feel, look, lose. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Comparison in this source is the thief of joy: you can seem like a millionaire to one person and a homeless person to the next, the ants think you are a giant and the trees do not even notice you, and the life you think is boring may be the lifestyle the next person is striving for. The word appears once, beside the millionaire, the homeless person, the ants, and the trees. You only lose out when you feel deprived, and you only feel deprived when you look at that which you do not have — so the loss is not in what you lack but in the looking. The passage measures a life by who is looking at it, and the measure changes with every looker.
 
 ## Synonyms
 
-- feel deprived
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can seem like a millionaire to one person, and a homeless person to the next. The ants think that you're a giant, and the trees don't even notice you. You think you have a boring life, but the next person may be striving for your lifestyle. Comparison is the thief of joy, and you only lose out when you feel deprived, and you only feel deprived when you look at that which you do not have." — sources/S_ig_thesunnahguy_C-yJP7hNAno.md
+> "Comparison is the thief of joy, and you only lose out when you feel deprived, and you only feel deprived when you look at that which you do not have." — sources/S_ig_thesunnahguy_C-yJP7hNAno.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "feel deprived": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on noticing others: the thief is the comparison that makes you feel deprived, not the mere sight of another person's life.
+- Read as your life being objectively boring: the same life is a millionaire's to one person and a striving goal to another, so "boring" is the comparison speaking, not the life.

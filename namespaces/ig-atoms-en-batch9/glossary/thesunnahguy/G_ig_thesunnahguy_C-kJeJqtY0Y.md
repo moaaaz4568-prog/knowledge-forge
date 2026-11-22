@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [men, thesunnahguy account context]
+aka: [mankind]
 origin: sources/S_ig_thesunnahguy_C-kJeJqtY0Y.md
 ---
 
-# G_ig_thesunnahguy_C-kJeJqtY0Y — men
+# G_ig_thesunnahguy_C-kJeJqtY0Y — mankind
 
 ## Term
 
-"men" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: women, deserted, island, thriving. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Mankind in this source is the test for whether a way of living is suitable: put 100 women and 10 men on a deserted island, and in 100 years you will have a thriving community of men, women, boys and girls — but put 100 trans women and 10 men on a deserted island, and in 100 years you will find the skeletons of 110 men. The word appears twice, beside the deserted island, the thriving community, the skeletons, and the critical question. In a world of confusion, the speaker says, ask yourself: if everyone was to live like this, will mankind continue to exist? If the answer is no, then this way of living is not suitable for mankind — it really is that simple, and no one should fool you into thinking otherwise.
 
 ## Synonyms
 
-- men
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Put 100 women and 10 men on a deserted island, and in 100 years, you'll have a thriving community of men, women, boys and girls. Now put 100 trans women and 10 men on a deserted island. In 100 years, you will find the skeletons of 110 men. Let me break it down. In a world of confusion, ask yourself the critical question: If everyone was to live like this, will mankind continue to exist?" — sources/S_ig_thesunnahguy_C-kJeJqtY0Y.md
+> "In a world of confusion, ask yourself the critical question: If everyone was to live like this, will mankind continue to exist?" — sources/S_ig_thesunnahguy_C-kJeJqtY0Y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "men": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim about individuals: the test is about mankind continuing to exist if everyone lived this way, not about any one person's life.
+- Read as a biological argument alone: the island comparison is a thought experiment about continuation across a hundred years, and the conclusion is about suitability for mankind, not about medicine.

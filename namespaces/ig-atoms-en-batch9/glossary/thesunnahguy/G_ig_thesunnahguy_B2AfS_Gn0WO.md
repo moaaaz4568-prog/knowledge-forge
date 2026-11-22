@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [Allah, thesunnahguy account context]
+aka: [shahada]
 origin: sources/S_ig_thesunnahguy_B2AfS_Gn0WO.md
 ---
 
-# G_ig_thesunnahguy_B2AfS_Gn0WO — Allah
+# G_ig_thesunnahguy_B2AfS_Gn0WO — shahada
 
 ## Term
 
-"Allah" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: god, ashhadu, anna, muhammadan. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Shahada in this source is the testimony a brother takes to enter Islam, spoken first in Arabic and then in English: Ashhadu an la ilaha illallah, Ashhadu anna Muhammadan rasulullah — there is no god but Allah, and Muhammad is the messenger of Allah. The word appears once, beside alhamdulillah, takbir, Allahu akbar, and bear witness. The moment is public and joyful, with the speaker announcing the brother's willingness and the group answering with takbir. The shahada here is not explained as doctrine; it is the act itself, witnessed and celebrated on the spot.
 
 ## Synonyms
 
-- Allah
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so alhamdulillah, we have a brother who is willingly wants to take the shahada. Ashhadu an la ilaha illallah, and I bear witness that there is no god but Allah. Ashhadu anna Muhammadan rasulullah. Alhamdulillah, takbir. Allahu akbar. I testify that there is no worthy of worship except Allah alone, and I testify that Muhammad is the messenger of Allah, the Almighty, the Subtle." — sources/S_ig_thesunnahguy_B2AfS_Gn0WO.md
+> "And so alhamdulillah, we have a brother who is willingly wants to take the shahada." — sources/S_ig_thesunnahguy_B2AfS_Gn0WO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Allah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a private belief statement: the source shows it as a spoken, witnessed act in front of others, answered with takbir, not a silent conviction.
+- Read as only the Arabic words: the speaker gives the testimony in English too — "I bear witness that there is no god but Allah" — so the meaning, not the Arabic phrasing alone, is what the brother is taking.

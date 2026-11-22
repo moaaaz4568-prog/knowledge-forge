@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [pearl, thesunnahguy account context]
+aka: [pearl]
 origin: sources/S_ig_thesunnahguy_B2nFpDdp_ms.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_thesunnahguy_B2nFpDdp_ms.md
 
 ## Term
 
-"pearl" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, precious, dear, beautiful. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A pearl in this source is the image of the Muslim sister who covers herself: beautiful and protected, hidden rather than displayed, so that only her husband sees her true beauty. The word appears five times, beside hidden, precious, the hijab, and know your worth. The speaker tells the sister she is this precious pearl — not someone to be stared at by men sticking their tongues out like dogs — and that covering for the sake of Allah gives her honour, makes her a queen of Islam, and shows her value in the sight of Allah. The pearl is valuable precisely because it is not out in front of everybody.
 
 ## Synonyms
 
-- pearl
-- thesunnahguy account context (no variant form of the term appears in this source)
+- precious pearl (the fuller form the speaker uses for the same image)
 
 ## Live Example
 
-> "My Muslim sister, you are like this pearl. You are like this pearl who is beautiful and who is protected, who does not want to show her body and her figure and her image to the whole world, who covers herself for the sake of Allah Subhanahu Wa Ta'Aala, so that only her husband is able to see her true beauty. Look at this pearl. You find it hidden." — sources/S_ig_thesunnahguy_B2nFpDdp_ms.md
-> "You don't find it out there in front of everybody, right? It's precious. And this precious pearl is you, my dear sister. This precious pearl is you. Cover for the sake of Allah Azawajal. Know your worth. Know your value. Know that you're not somebody that is just there to be lulled at by men who are gonna be sticking the tongue out like dogs looking at you." — sources/S_ig_thesunnahguy_B2nFpDdp_ms.md
+> "Look at this pearl. You find it hidden. You don't find it out there in front of everybody, right? It's precious." — sources/S_ig_thesunnahguy_B2nFpDdp_ms.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "pearl": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an ornament for display: the pearl here is precious because it is hidden, so treating it as something to show off reverses the image.
+- Read as a claim that covering hides worth: the source says the opposite — the hijab is what shows the sister's worth and honour, not what takes it away.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [give, thesunnahguy account context]
+aka: [give, giving]
 origin: sources/S_ig_thesunnahguy_C2iNH0jNIgm.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_thesunnahguy_C2iNH0jNIgm.md
 
 ## Term
 
-"give" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: willingly, graciously, receive, think. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Give in this source is the measure of true value: if you are not willing to do more than you are being paid for, you will never be paid for more than you are doing — you have got to willingly give and graciously receive. The word appears four times, beside trading, true value, above and beyond, and rewarded, and the continuous form giving appears once more. If you have to think before you give, you are trading, not giving, and your true value is not determined by what you receive, but by what you give. Success comes to those who go above and beyond what is expected, so embrace the opportunity to give more and watch as your opportunities multiply — dare to exceed, and you will find yourself rewarded in ways you never imagined.
 
 ## Synonyms
 
-- give
-- thesunnahguy account context (no variant form of the term appears in this source)
+- giving (the continuous form the speaker uses)
 
 ## Live Example
 
-> "If you're not willing to do more than you're being paid for, you'll never be paid for more than you're doing. You've got to willingly give and graciously receive. And if you have to think before you give, you're trading, you're not giving. Your true value is not determined by what you receive, but by what you give." — sources/S_ig_thesunnahguy_C2iNH0jNIgm.md
-> "Remember one thing, success comes to those who go above and beyond what is expected. Embrace the opportunity to give more, and watch as your opportunities multiply. Dare to exceed, and you'll find yourself rewarded in ways you never imagined." — sources/S_ig_thesunnahguy_C2iNH0jNIgm.md
+> "Your true value is not determined by what you receive, but by what you give." — sources/S_ig_thesunnahguy_C2iNH0jNIgm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "give": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as giving in order to get paid more: the passage separates giving from trading — thinking before you give is trading, and the reward follows the giving, it does not price it.
+- Read as giving everything away: the giving is willing and above what is expected, not a loss — the opportunities multiply for the giver, not away from him.

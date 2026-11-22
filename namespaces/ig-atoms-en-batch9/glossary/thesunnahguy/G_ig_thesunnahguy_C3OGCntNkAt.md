@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [people, thesunnahguy account context]
+aka: [truly love you]
 origin: sources/S_ig_thesunnahguy_C3OGCntNkAt.md
 ---
 
-# G_ig_thesunnahguy_C3OGCntNkAt — people
+# G_ig_thesunnahguy_C3OGCntNkAt — truly love you
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: truly, people, love, wrong. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Truly love you in this source is shown by being hard on you: the people who truly love you will tell you when you are messing up, when you are going down the wrong path, and when you are hanging around with the wrong people. The phrase appears three times, beside hard on you, messing up, the wrong path, and the wrong people. They may not always be nice and may not always say what you want to hear, but it comes from a place of love and concern for your well-being — set against the people who are always saying come, let's go out, let's party, come shisha with us, let's smoke, let's go see this guy or girl or whatever. The speaker asks who the person that really loves you is, and notes the reversal: you turn on the people who genuinely care about your well-being and go with the people who really don't give a crap about it. Love is not just about feeling good all the time; it is about supporting each other through the good times and the bad, and working together to become better people — so cherish the people in your life who love you enough to be honest with you, and strive to be that kind of person for others as well.
 
 ## Synonyms
 
-- people
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "People who truly love you will be hard on you. The people who truly love you will tell you when you're messing up. They'll tell you when you're going down the wrong path and when you're hanging around with the wrong people." — sources/S_ig_thesunnahguy_C3OGCntNkAt.md
-> "But you turn on the people that genuinely care about your well-being and you go with the people that really don't give a crap about your well-being. Remember that love isn't just about feeling good all the time. It's about supporting each other through the good times and the bad, and working together to become better people." — sources/S_ig_thesunnahguy_C3OGCntNkAt.md
-> "So cherish the people in your life who love you enough to be honest with you, and strive to be that kind of a person for others as well." — sources/S_ig_thesunnahguy_C3OGCntNkAt.md
+> "People who truly love you will be hard on you." — sources/S_ig_thesunnahguy_C3OGCntNkAt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as love meaning comfort: the love here is hard on you and honest with you, and the people who only make you feel good are the contrast, not the example.
+- Read as the hard words being cruelty: the hardness comes from a place of love and concern for your well-being, and the test is whether the person cares about you becoming better.

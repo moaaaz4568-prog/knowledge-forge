@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [loved, thesunnahguy account context]
+aka: [loved unconditionally]
 origin: sources/S_ig_thesunnahguy_C-nOhY4tUFz.md
 ---
 
-# G_ig_thesunnahguy_C-nOhY4tUFz — loved
+# G_ig_thesunnahguy_C-nOhY4tUFz — loved unconditionally
 
 ## Term
 
-"loved" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: women, children, unconditionally, default. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Loved unconditionally in this source is what men are not: one of the biggest parts about becoming a man is knowing that we are not loved unconditionally, while women and children are loved by default because they are vulnerable and weak. The phrase appears once, beside becoming a man, provide, genuine value, and earn the right. A man needs to provide something, do something, be someone, and provide genuine value to be loved — a child will love his mother purely because she gave birth to him, regardless of how bad she is, but a father actually has to do something and is loved on the condition that he brings some sort of value into the child's life. So men cannot feel sorry for themselves; they need to take responsibility for their lives, work hard, and know they need to earn the right to be loved — harsh, the speaker admits, but sadly true.
 
 ## Synonyms
 
-- loved
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One of the biggest parts about becoming a man is to know that we aren't loved unconditionally. Women and children are loved by default as they're vulnerable and weak. Men, we need to provide something, do something, be someone and provide genuine value to be loved. A child will love his mother purely on the basis that she gave birth to him, regardless of how bad she is." — sources/S_ig_thesunnahguy_C-nOhY4tUFz.md
-> "But the father actually has to do something and is loved on the condition that he brings some sort of value into the life of this child. So as men, we can't feel sorry for ourselves and need to take responsibility of our lives, work hard and know that we need to earn the right to be loved. It's harsh, I know, but sadly it's true." — sources/S_ig_thesunnahguy_C-nOhY4tUFz.md
+> "One of the biggest parts about becoming a man is to know that we aren't loved unconditionally." — sources/S_ig_thesunnahguy_C-nOhY4tUFz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "loved": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as men being unloved: the claim is about the condition on the love — value must be provided — not about men receiving no love at all.
+- Read as women and children earning love the same way: the passage contrasts them explicitly — they are loved by default as vulnerable and weak, while the father is loved for what he brings.

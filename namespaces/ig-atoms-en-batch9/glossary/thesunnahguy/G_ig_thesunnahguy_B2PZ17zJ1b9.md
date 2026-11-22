@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [dear, thesunnahguy account context]
+aka: [exclamation]
 origin: sources/S_ig_thesunnahguy_B2PZ17zJ1b9.md
 ---
 
-# G_ig_thesunnahguy_B2PZ17zJ1b9 — dear
+# G_ig_thesunnahguy_B2PZ17zJ1b9 — exclamation
 
 ## Term
 
-"dear" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dear, even, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a repeated exclamation, and the label `exclamation` here says only what kind of passage this is — the same two words said nine times — not the name of any idea in it. The phrase appears nine times, with one variation in the middle where the speaker adds "I even know what I'm doing", and nothing else in the source gives it a topic, an instruction, or a named concept. There is no person, no place, and no teaching attached to the words beyond the bare repetition. The entry records the exclamation exactly as spoken and does not turn it into a concept.
 
 ## Synonyms
 
-- dear
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Oh dear! Oh dear! Oh dear, I even know what I'm doing. Oh dear! Oh dear! Oh dear! Oh dear! Oh dear! Oh dear!" — sources/S_ig_thesunnahguy_B2PZ17zJ1b9.md
+> "Oh dear! Oh dear! Oh dear, I even know what I'm doing." — sources/S_ig_thesunnahguy_B2PZ17zJ1b9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dear": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a meaningful statement: the words carry no claim or instruction, and the source gives no context for what the speaker is reacting to.
+- Read as a chant with a message: the repetition is an exclamation, not a refrain carrying an idea, and nothing here turns "Oh dear" into a teaching.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [heartache, thesunnahguy account context]
+aka: [barakah, blessings]
 origin: sources/S_ig_thesunnahguy_C-tFfZBNLDu.md
 ---
 
-# G_ig_thesunnahguy_C-tFfZBNLDu — heartache
+# G_ig_thesunnahguy_C-tFfZBNLDu — barakah
 
 ## Term
 
-"heartache" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: marriage, nothing, disaster, strips. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Barakah in this source is what love before marriage strips away: love before marriage is nothing but heartache and disaster, and it strips all the barakah and blessings away. The word appears once, beside heartache, disaster, blessings, and the nikah. The remedy the speaker gives is speed — if you find yourself falling in love, hasten to get the nikah done — and the one thing he says will save you from heartache and pain is never to attach your heart to something before you know 100% that it belongs to you. Barakah here is the good that a proper bond keeps and a premature attachment loses.
 
 ## Synonyms
 
-- heartache
-- thesunnahguy account context (no variant form of the term appears in this source)
+- blessings (the parallel word the speaker pairs with barakah)
 
 ## Live Example
 
-> "Love before marriage is nothing but heartache and disaster. It strips all the barakah and blessings away. So if you find yourself falling in love, then hasten to get the nikah done. You know, if I could tell you one thing that will save you from heartache and pain, it would be to never attach your heart to something before you know that 100% it belongs to you." — sources/S_ig_thesunnahguy_C-tFfZBNLDu.md
+> "Love before marriage is nothing but heartache and disaster. It strips all the barakah and blessings away." — sources/S_ig_thesunnahguy_C-tFfZBNLDu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "heartache": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on falling in love: the speaker's instruction is to hasten the nikah when love comes, not to suppress the feeling.
+- Read as barakah being a feeling: the barakah here is the good taken away by the attachment itself, and the protection is the nikah, not a mood.

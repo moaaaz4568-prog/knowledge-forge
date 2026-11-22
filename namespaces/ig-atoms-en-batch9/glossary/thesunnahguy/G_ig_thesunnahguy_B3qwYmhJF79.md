@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [see, thesunnahguy account context]
+aka: [close friend]
 origin: sources/S_ig_thesunnahguy_B3qwYmhJF79.md
 ---
 
-# G_ig_thesunnahguy_B3qwYmhJF79 — see
+# G_ig_thesunnahguy_B3qwYmhJF79 — close friend
 
 ## Term
 
-"see" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: vision, yourself, brothers, years. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A close friend in this source is the person whose path you end up walking: thesunnahguy asks the listener to picture himself years from now with the same people doing the same thing, or with people who love him, want goodness for him, and want to stand next to him on the day he stands in front of Allah. The phrase appears once, beside the people you move with, WhatsApp, the call list, and the court of the Lord. The test he gives is blunt — look at the people at the top of your WhatsApp chats and call list, and ask whether you would be happy to stand with them on the day you meet your Lord; if the answer is no, what are you doing standing with them in this dunya? The Prophet's saying he cites is that a man is upon the path of his close friend, so you must be careful who you take as a friend.
 
 ## Synonyms
 
-- see
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "See this vision with me, brothers. See this with me. Do you see yourself in years to come with the same people, doing the same thing over and over again? Or do you see yourself with people who Allah, you look into their eyes and they love you, and they want goodness for you, and they want to see you on that day when you stand in front of Allah, standing next to them." — sources/S_ig_thesunnahguy_B3qwYmhJF79.md
-> "With Allah pleased with you, Allah looking at you and saying, I am pleased with you. Ask yourself one question, one question. The people you move with now in this dunya, who you see on a day-to-day basis, who on a daily basis on your WhatsApp chat they're right at the top, on your call list they're right at the top." — sources/S_ig_thesunnahguy_B3qwYmhJF79.md
-> "A man is upon the path of his close friend. So be careful and see as to who you take as your friend." — sources/S_ig_thesunnahguy_B3qwYmhJF79.md
+> "These people, are you happy to stand with them on the day you meet your Lord in His court?" — sources/S_ig_thesunnahguy_B3qwYmhJF79.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "see": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as casual company: the close friend here decides the path you walk and the company you keep on the Day of Judgment, so a passing acquaintance does not carry the term.
+- Read as choosing friends for worldly benefit: the test is whether you would stand with them before your Lord with Allah pleased with you, not whether they are useful or fun now.

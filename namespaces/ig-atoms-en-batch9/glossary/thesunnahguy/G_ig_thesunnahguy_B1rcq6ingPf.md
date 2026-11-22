@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [young people, thesunnahguy account context]
+aka: [porn addiction]
 origin: sources/S_ig_thesunnahguy_B1rcq6ingPf.md
 ---
 
-# G_ig_thesunnahguy_B1rcq6ingPf — young people
+# G_ig_thesunnahguy_B1rcq6ingPf — porn addiction
 
 ## Term
 
-"young people" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, people, young, simply. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Porn addiction in this source names what thesunnahguy calls an epidemic among young people, and his point is the silence around it: it is taboo and shameful in the Pakistani Muslim community, so nobody talks about it and nobody admits it to an imam or to other people. The phrase appears once, beside taboo, shameful, young people, and instant gratification. He compares it to a drug — once someone tastes a little, they want more and more and cannot hold back even while knowing it is wrong — and he says he will speak about it in future posts and offers to help anyone struggling who is willing to talk to him.
 
 ## Synonyms
 
-- young people
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "These things that a lot of young people go through is the porn addiction, and the thing is is that it's a very taboo subject, especially amongst the Pakistani Muslim community. Right, the reason is because nobody wants to talk about it. It's like a shameful thing, right?" — sources/S_ig_thesunnahguy_B1rcq6ingPf.md
-> "So the thing is is that it's an epidemic amongst our young people simply because these young people are trying to get self gratification, instant gratification, and it's becoming like an addiction. It's like a drug. Once you taste a little bit of it, you want more and more and more. And sometimes you are there watching porn and you know it's wrong, but it's an addiction. It's drawing you in." — sources/S_ig_thesunnahguy_B1rcq6ingPf.md
+> "These things that a lot of young people go through is the porn addiction, and the thing is is that it's a very taboo subject, especially amongst the Pakistani Muslim community." — sources/S_ig_thesunnahguy_B1rcq6ingPf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "young people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a private habit with no wider pattern: the source frames it as an epidemic among young people driven by instant gratification, not as an isolated personal failing.
+- Read as something people will readily admit: the shame around it is exactly why, in this account, sufferers do not open up to people or go to the imam.

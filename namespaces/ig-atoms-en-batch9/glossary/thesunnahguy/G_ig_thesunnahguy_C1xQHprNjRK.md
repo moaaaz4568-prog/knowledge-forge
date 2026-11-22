@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [people say, thesunnahguy account context]
+aka: [What will people say?]
 origin: sources/S_ig_thesunnahguy_C1xQHprNjRK.md
 ---
 
-# G_ig_thesunnahguy_C1xQHprNjRK — people say
+# G_ig_thesunnahguy_C1xQHprNjRK — What will people say?
 
 ## Term
 
-"people say" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, people, reality, lives. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"What will people say?" in this source is the one thing we are fixated on all our lives — and the speaker's point is that it is a fixation on nothing: in reality, people don't care, they really don't. The question appears three times, beside fixated, a minute, their own problems, and dead and buried. They will think about you for a minute, then go home and start thinking about their own problems — and the thing that gives him comfort is knowing that in a hundred years, everyone you see now all around you, with all their opinions, will be dead and buried in the ground. None of their opinions of you will ever matter, yet you live your whole life worrying about what others will think of you.
 
 ## Synonyms
 
-- people say
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What will people say? What will people say? All our lives, we're fixated on this one thing. What will people say? When in reality, people don't care. They really don't. You know, they'll think about you for a minute, but will go home and then start thinking about their own problems." — sources/S_ig_thesunnahguy_C1xQHprNjRK.md
+> "All our lives, we're fixated on this one thing. What will people say?" — sources/S_ig_thesunnahguy_C1xQHprNjRK.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people say": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as people actually judging you: the source says they think about you for a minute and then go home to their own problems — the judgment does not last.
+- Read as a reason to ignore everyone: the comfort is that their opinions will not matter in a hundred years, not that no opinion ever counts — the passage targets the worry, not the people.

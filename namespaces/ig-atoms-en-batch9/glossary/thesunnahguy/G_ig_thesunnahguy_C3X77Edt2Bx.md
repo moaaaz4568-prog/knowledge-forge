@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [many people, thesunnahguy account context]
+aka: [jahl]
 origin: sources/S_ig_thesunnahguy_C3X77Edt2Bx.md
 ---
 
-# G_ig_thesunnahguy_C3X77Edt2Bx — many people
+# G_ig_thesunnahguy_C3X77Edt2Bx — jahl
 
 ## Term
 
-"many people" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fool, people, many, believing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Jahl in this source is the figure the speaker calls "the jahl", who will fool so many people into believing that he is god: he used to always wonder how in the world the jahl was going to fool so many people into believing that. The word appears twice, beside fool, a lie, defending themselves, and millions of people. The explanation he gives is present-day: look at how Israel has sold a lie to the world, making everyone believe that they are defending themselves whilst indiscriminately bombing innocent men, women, and children — and how there are so many people who believe what they are saying. It now makes sense to him how the jahl will be able to fool so many people into thinking he is god, because he never thought you could get millions of people to follow a lie until today.
 
 ## Synonyms
 
-- many people
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "I used to always think how in the world is the jahl going to fool so many people into believing that he is god." — sources/S_ig_thesunnahguy_C3X77Edt2Bx.md
-> "Well, if you look at how Israel has sold a lie to the world, making everyone believe that they are defending themselves whilst indiscriminately bombing innocent men, women and children, and how there are so many people that believe what they are saying, it now makes sense as to how the jahl will be able to fool so many people into thinking he is god." — sources/S_ig_thesunnahguy_C3X77Edt2Bx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "many people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a general warning about lying: the jahl here is a specific figure who claims to be god, and the present-day lie is the proof that millions can follow one, not the subject itself.
+- Read as the speaker doubting the deception will work: he says it now makes sense — the millions believing the lie today are what convinced him the fooling is possible.

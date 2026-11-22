@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [forgive, thesunnahguy account context]
+aka: [forgive]
 origin: sources/S_ig_thesunnahguy_C-hwrI-t58g.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thesunnahguy_C-hwrI-t58g.md
 
 ## Term
 
-"forgive" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: family, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Forgive in this source is what you do with a partner's mistakes and your family does not: do not discuss your partner's mistakes with your family, because you will forgive them, but your family will not forgive them. The word appears twice, beside partner, mistakes, family, and discuss. The whole source is this one sentence, and the warning rests on the asymmetry it states — your forgiveness does not transfer to your family, so the mistake stays alive with them after you have let it go. The advice is therefore about where the story is told, not about whether the mistake itself can be forgiven.
 
 ## Synonyms
 
-- forgive
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thesunnahguy_C-hwrI-t58g.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "forgive": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as never forgiving a partner: the source assumes you will forgive them — the problem is the family's unforgiveness, not yours.
+- Read as keeping secrets from family in general: the warning is specific to a partner's mistakes, where the family has no part in the forgiveness to give.

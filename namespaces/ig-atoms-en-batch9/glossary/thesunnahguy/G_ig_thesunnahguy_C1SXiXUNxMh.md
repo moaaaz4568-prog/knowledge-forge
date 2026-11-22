@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [self, thesunnahguy account context]
+aka: [self control]
 origin: sources/S_ig_thesunnahguy_C1SXiXUNxMh.md
 ---
 
-# G_ig_thesunnahguy_C1SXiXUNxMh — self
+# G_ig_thesunnahguy_C1SXiXUNxMh — self control
 
 ## Term
 
-"self" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: conquered, discipline, comes, control. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Self control in this source is where discipline comes from: discipline comes from self control, and if you do not conquer self, you will be conquered by self. The phrase appears once, beside discipline, conquer, the mirror, and the best friend. You may see both of these things at the same time — your best friend and your greatest enemy — because the self is both the one you must conquer and the one that conquers you. The question to ask whenever you look in the mirror is therefore a direct one: am I conquering, or being conquered?
 
 ## Synonyms
 
-- self
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Discipline comes from self control. If you do not conquer self, you will be conquered by self. You may see both of these things at the same time, your best friend and your greatest enemy. And so whenever you look in the mirror, ask yourself the question, am I conquering? Or being conquered?" — sources/S_ig_thesunnahguy_C1SXiXUNxMh.md
+> "Discipline comes from self control. If you do not conquer self, you will be conquered by self." — sources/S_ig_thesunnahguy_C1SXiXUNxMh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "self": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as suppressing feelings: the self control here is conquering the self so it does not conquer you — a contest with yourself, not the denial of an emotion.
+- Read as discipline imposed from outside: the discipline comes from self control, and the mirror question is one you ask yourself, so no outside enforcer is involved.

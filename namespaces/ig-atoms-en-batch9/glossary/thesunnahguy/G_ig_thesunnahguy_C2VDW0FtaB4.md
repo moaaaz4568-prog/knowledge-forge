@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [one Islamic, thesunnahguy account context]
+aka: [grow your deen]
 origin: sources/S_ig_thesunnahguy_C2VDW0FtaB4.md
 ---
 
-# G_ig_thesunnahguy_C2VDW0FtaB4 — one Islamic
+# G_ig_thesunnahguy_C2VDW0FtaB4 — grow your deen
 
 ## Term
 
-"one Islamic" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, attend, islamic, event. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Grow your deen in this source is the test for who stays in your life: for the next three months, distance yourself from anyone that doesn't help you grow your deen, and unfollow everyone on social media that doesn't help you grow your deen. The phrase appears twice, beside the masjid, the Quran, the lecture, and direction. The rest is a daily routine — go to the local masjid at least once a day, attend one Islamic event every month and try to make some new friends there, read at least one page of the translation of the Quran, and listen to one Islamic lecture, podcast, or long-form piece of content per day. What you do on a daily basis will eventually shape who you become, and if you are not where you want to be, you are probably lacking direction — so save the video and use it as a reference point when you are feeling a bit lost and unsure what to do.
 
 ## Synonyms
 
-- one Islamic
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're trying to stay focused on your religion but keep getting distracted, then try this. For the next three months, distance yourself from anyone that doesn't help you grow your deen. Unfollow everyone on social media that doesn't help you grow your deen. Go to your local masjid at least once a day. Attend one Islamic event every month and try to make some new friends there." — sources/S_ig_thesunnahguy_C2VDW0FtaB4.md
-> "Read at least one page of the translation of the Quran. Listen to one Islamic lecture, podcast, or long-form piece of content per day. What you do on a daily basis will eventually shape who you become. If you're not where you want to be, you're probably lacking direction. Save this video and use it as a reference point when you're feeling a bit lost and unsure what to do." — sources/S_ig_thesunnahguy_C2VDW0FtaB4.md
+> "For the next three months, distance yourself from anyone that doesn't help you grow your deen." — sources/S_ig_thesunnahguy_C2VDW0FtaB4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "one Islamic": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as cutting people off permanently: the distancing is for the next three months and is judged by one test — whether the person helps your deen grow — not by dislike.
+- Read as a one-time fix: the routine is daily — masjid, a page of Quran, a lecture a day — because what you do daily is what eventually shapes who you become.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [happy, thesunnahguy account context]
+aka: [gratitude, grateful]
 origin: sources/S_ig_thesunnahguy_Bz0hs2MFHfX.md
 ---
 
-# G_ig_thesunnahguy_Bz0hs2MFHfX — happy
+# G_ig_thesunnahguy_Bz0hs2MFHfX — gratitude
 
 ## Term
 
-"happy" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: person, makes, truly, happy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Gratitude in this source is the one secret formula for happiness: everyone is chasing happiness, and the speaker says a person can have very small amounts of worldly means yet still be happy and content if gratitude is in his life. The word appears twice, beside happiness, contentment, peace of heart, and the Creator, and the adjective grateful appears four times. People wrongly equate joy and the spur of the moment — the excitement — with happiness, but what truly makes a person happy is contentment and peace of heart, and that only comes with a grateful heart and an attitude of gratitude through life. The gratitude is directed: grateful to the one who created you, because He created everything.
 
 ## Synonyms
 
-- happy
-- thesunnahguy account context (no variant form of the term appears in this source)
+- grateful (the adjective form the speaker uses for the same state)
 
 ## Live Example
 
-> "What is the key to happiness? How does a person become truly happy? You see, happiness is something that every single one of us is chasing. Every single person wants to be happy. There is one secret formula, and that is to be grateful. If you have gratitude in your life, you will always be happy. Because a person can have very, very small amounts of worldly means, yet still be happy and content." — sources/S_ig_thesunnahguy_Bz0hs2MFHfX.md
-> "And we equate joy and the spur of the moment, like that excitement, to happiness. Whereas, it's not that which truly makes us happy. What makes us happy is the contentment and peace of heart, and that will only come when you have a grateful heart and an attitude of gratitude throughout your life. With you, a seeker of happiness, the secret to happiness, as I said, is to be grateful. And to who?" — sources/S_ig_thesunnahguy_Bz0hs2MFHfX.md
+> "If you have gratitude in your life, you will always be happy." — sources/S_ig_thesunnahguy_Bz0hs2MFHfX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "happy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as excitement or a good mood: the source separates gratitude from joy and the spur of the moment, which it says are not what truly makes a person happy.
+- Read as gratitude for plenty: the happy person here may have very small worldly means — gratitude works without wealth, not because of it.

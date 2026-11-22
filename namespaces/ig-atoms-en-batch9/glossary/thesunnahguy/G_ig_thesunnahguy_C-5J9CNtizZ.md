@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [fisherman, thesunnahguy account context]
+aka: [contentment, content]
 origin: sources/S_ig_thesunnahguy_C-5J9CNtizZ.md
 ---
 
-# G_ig_thesunnahguy_C-5J9CNtizZ — fisherman
+# G_ig_thesunnahguy_C-5J9CNtizZ — contentment
 
 ## Term
 
-"fisherman" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: said, one, day, caught. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Contentment in this source is the ultimate victory in the game of life, told through a fisherman: a stranger keeps asking "and then what?" up a ladder of bigger nets, more fish, more money, a boat, hundreds of fish, a fishing empire, and wealth — and at the top, happiness — and the fisherman smiles and says, "But I'm already happy." The word appears three times, beside the fisherman, the fishing empire, abundance, and the game of life. When you are content with what you already have, someone else may be wealthier, but you have already won the game and found what they are still chasing. Contentment transforms whatever you have into abundance, and if you need thousands of pounds just to be happy, you are actually very poor without realizing it — you will never be rich until you find contentment in what you already have.
 
 ## Synonyms
 
-- fisherman
-- thesunnahguy account context (no variant form of the term appears in this source)
+- content (the adjective form the speaker uses for the same state)
 
 ## Live Example
 
-> "One day, a fisherman caught his daily fish and was heading home when a passerby" — sources/S_ig_thesunnahguy_C-5J9CNtizZ.md
+> "Contentment transforms whatever you have into abundance." — sources/S_ig_thesunnahguy_C-5J9CNtizZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fisherman": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as settling for little: the fisherman is not poor in the story's terms — he has already won what the empire-builder is still chasing, so contentment is the win, not the consolation.
+- Read as a reason to stop working: the passage never tells the fisherman to stop fishing; it says the chase for more after enough is what keeps a person poor.

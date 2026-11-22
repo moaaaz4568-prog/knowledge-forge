@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [focus, thesunnahguy account context]
+aka: [mission]
 origin: sources/S_ig_thesunnahguy_C-2bi6LtrfJ.md
 ---
 
-# G_ig_thesunnahguy_C-2bi6LtrfJ — focus
+# G_ig_thesunnahguy_C-2bi6LtrfJ — mission
 
 ## Term
 
-"focus" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: men, women, strong, focus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A mission in this source is what strong men focus on, in a chain that ranks where attention goes: weak men focus on women, women focus on strong men, and strong men focus on their mission. The word appears once, beside weak men, strong men, focus, and yourself. The advice that follows turns the chain into a rule for the listener — focus on yourself until the focus is on you — so the mission is the work a man gives his attention to instead of chasing attention from others. The passage is only four sentences long, and the mission is the one thing in it that is not a person.
 
 ## Synonyms
 
-- focus
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Weak men focus on women. Women focus on strong men. Strong men focus on their mission. So focus on yourself until the focus is on you." — sources/S_ig_thesunnahguy_C-2bi6LtrfJ.md
+> "Weak men focus on women. Women focus on strong men. Strong men focus on their mission." — sources/S_ig_thesunnahguy_C-2bi6LtrfJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "focus": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any job or task: the mission here is the focus that marks a strong man against the weak man's focus on women, not a job title.
+- Read as ignoring people entirely: the point is where the focus goes — on yourself and your mission — until others' focus follows, not isolation.

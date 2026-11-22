@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [see, thesunnahguy account context]
+aka: [alhamdulillah ya rabb]
 origin: sources/S_ig_thesunnahguy_C0EY3LeNFdM.md
 ---
 
-# G_ig_thesunnahguy_C0EY3LeNFdM — see
+# G_ig_thesunnahguy_C0EY3LeNFdM — alhamdulillah ya rabb
 
 ## Term
 
-"see" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: pumps, rib, cage, heart. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Alhamdulillah ya rabb in this source is what the speaker turns back to every single time he feels down or sad or life is getting to him: he puts his two fingers there, takes a moment, closes his eyes, and says it four times. The phrase appears four times, beside the blessing of being alive, the blessing of breathing, and the heart that pumps. He thanks Allah for what he cannot see — the rib cage, the lungs, the heart, the capillaries, the veins, the blood — because Allah can see it and put it there. That is the one thing he returns to, and he ties it to the Quranic promise that if you are grateful, He will increase you; the blessings in his life, he truly believes, come only from that one thing.
 
 ## Synonyms
 
-- see
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I can't see this, I can't see the rib cage or the lungs and I can't see my heart and I can't see the capillaries and veins and blood, I can't see it, but you can and you put it there. So I thank you for it, ya Allah. Wallahi, brothers, that is the one thing that I turn back to every single time. And that's why Allah says in the" — sources/S_ig_thesunnahguy_C0EY3LeNFdM.md
+> "Just put my two fingers there, take a moment and I close my eyes and I say alhamdulillah ya rabb." — sources/S_ig_thesunnahguy_C0EY3LeNFdM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "see": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a phrase said once in passing: the speaker says it four times, with his eyes closed, as the deliberate act he turns back to every single time.
+- Read as thanks for visible gifts only: the thanks here is for the unseen inside the body — the heart, the lungs, the capillaries — which he cannot see at all.

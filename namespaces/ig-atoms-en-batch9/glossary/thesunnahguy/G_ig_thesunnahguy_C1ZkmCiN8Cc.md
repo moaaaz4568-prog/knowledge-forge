@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [child, thesunnahguy account context]
+aka: [innocent mistake, innocent mistakes]
 origin: sources/S_ig_thesunnahguy_C1ZkmCiN8Cc.md
 ---
 
-# G_ig_thesunnahguy_C1ZkmCiN8Cc — child
+# G_ig_thesunnahguy_C1ZkmCiN8Cc — innocent mistake
 
 ## Term
 
-"child" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, means, take, seriously. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An innocent mistake in this source is the kind a child makes while still learning, and the father's story shows how to meet it: his son was jumping around on the bed, fell, and his arm hit him on the face — it really, really hurt — but the moment he realized the boy did it accidentally, he did not shout at him, only said, "look, be careful baby." The phrase appears once in the singular and once in the plural, beside the bed, the face, accidentally, and be careful. Remaining calm and understanding teaches the child two things: first, that it is okay to make innocent mistakes if you can learn from them, since children are still learning and developing and accidents can happen; and second, that the parent is a trusted source of guidance and support. It also earns more respect in the child's eyes, because the father is not reacting to every little thing — and parents who shout at their kids for the smallest things find that when something big happens, the child does not care or take the parent seriously, because a loud voice means nothing to a child who hears it all the time. The rule he draws is to differentiate between big problems and small problems: by not reacting to the small ones, you create sensitivity, fear, awareness, and respect for the bigger problems that require you to raise your voice — and when you do, your child will take you seriously, because dad is normally happy and does not shout, so now it must mean something serious.
 
 ## Synonyms
 
-- child
-- thesunnahguy account context (no variant form of the term appears in this source)
+- innocent mistakes (the plural form the speaker uses)
 
 ## Live Example
 
-> "And what this shows your child is that number one, it's okay to make innocent mistakes if you can learn from them. You know, it's important to remember that children are still learning and developing and accidents can happen. By remaining calm and understanding, you can teach your child that mistakes can be learning opportunities and that you are a trusted source of guidance and support." — sources/S_ig_thesunnahguy_C1ZkmCiN8Cc.md
-> "A loud voice means nothing to the child anymore because you're always shouting. As parents, we need to learn to differentiate between big problems and small problems. Because by not reacting to the small problems, you're creating sensitivity, fear, awareness and respect for the bigger problems that require you to raise your voice." — sources/S_ig_thesunnahguy_C1ZkmCiN8Cc.md
-> "And when you do, your child will take you seriously because dad is normally happy and doesn't shout, right? But now he's shouting, it must mean something serious. If you honestly want your child to take you seriously, you need to implement this because wallahi, this is one of the biggest piece of advice young parents are desperately in need of today when it comes to discipline with their children." — sources/S_ig_thesunnahguy_C1ZkmCiN8Cc.md
+> "I didn't let him see that I was annoyed or angry because it was an innocent mistake." — sources/S_ig_thesunnahguy_C1ZkmCiN8Cc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "child": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as letting mistakes pass without comment: the father still says "be careful baby" — the calm response corrects, it does not ignore.
+- Read as shouting being useless in general: the point is that shouting is spent on small things, so it has nothing left for the big ones — used rarely, the raised voice is what makes the child take it seriously.

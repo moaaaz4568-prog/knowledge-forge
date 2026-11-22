@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch9)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,320 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,278 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3004,56 +3004,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/thescottleese/G_ig_thescottleese_DdrOepVRHMy.md | reps lose | 1 |
 | glossary/thescottleese/G_ig_thescottleese_DeADia9Rb38.md | Study | 3 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_B1UnR3rH-UQ.md | right now | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B1VsGVJH7hI.md | right | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B1ZttoBHdrT.md | bike | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B1rcq6ingPf.md | young people | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B29h06Mpnjr.md | know | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2AfS_Gn0WO.md | Allah | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2B9vJ8nljC.md | Islam | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2J7K1Ip_6h.md | still | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2PZ17zJ1b9.md | dear | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2mkIqTpKTe.md | see | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B2nFpDdp_ms.md | pearl | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B3A7umDpzCy.md | people | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B3qwYmhJF79.md | see | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B40EoG3pDIU.md | thing | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B4I_8hOp5-Z.md | honor | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B4YM_DupH35.md | One | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_B4x5xYMpuVp.md | chasing | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_Bz0hs2MFHfX.md | happy | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-2bi6LtrfJ.md | focus | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-5J9CNtizZ.md | fisherman | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-7h55bNCLE.md | tests | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-AG-axtlJA.md | happiness | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-FkfESttg_.md | actually making | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-bCXXstD28.md | love | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-cgSLMtROq.md | life | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-fAy8VNadT.md | British | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B1VsGVJH7hI.md | state of your heart | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B1ZttoBHdrT.md | my bike | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B1rcq6ingPf.md | porn addiction | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B29h06Mpnjr.md | the grave | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2AfS_Gn0WO.md | shahada | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2B9vJ8nljC.md | character | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2J7K1Ip_6h.md | proud Muslim | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2PZ17zJ1b9.md | exclamation | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2mkIqTpKTe.md | grateful | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B2nFpDdp_ms.md | pearl | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B3A7umDpzCy.md | honor | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B3qwYmhJF79.md | close friend | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B40EoG3pDIU.md | royal appointment | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B4I_8hOp5-Z.md | the honor of Islam | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B4YM_DupH35.md | remembrance | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_B4x5xYMpuVp.md | content | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_Bz0hs2MFHfX.md | gratitude | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-2bi6LtrfJ.md | mission | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-5J9CNtizZ.md | contentment | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-7h55bNCLE.md | test | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-AG-axtlJA.md | happiness lies within | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-FkfESttg_.md | willingness | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-bCXXstD28.md | appreciate | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-cgSLMtROq.md | forgotten | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-fAy8VNadT.md | British | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C-hwrI-t58g.md | forgive | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-kJeJqtY0Y.md | men | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-nOhY4tUFz.md | loved | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-kJeJqtY0Y.md | mankind | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-nOhY4tUFz.md | loved unconditionally | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C-pbceENNli.md | less salt | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-tFfZBNLDu.md | heartache | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-urxBstkNw.md | heart | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-yJP7hNAno.md | feel deprived | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C-z7zj-NufC.md | fall | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C0EY3LeNFdM.md | see | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1M7171t2Gb.md | things | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1SXiXUNxMh.md | self | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1UkQgnN_5P.md | men | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1ZkmCiN8Cc.md | child | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1e9ukwttd0.md | life | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1nDM5CNeq5.md | Umrah | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1pwIJ-tEe3.md | road | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C1xQHprNjRK.md | people say | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C2Ku3IKND-j.md | say | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C2VDW0FtaB4.md | one Islamic | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C2iNH0jNIgm.md | give | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C2klqm_twHS.md | share | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3IpeEYN-sx.md | know | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3OGCntNkAt.md | people | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3X77Edt2Bx.md | many people | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3Z5m83NLAM.md | video | 3 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-tFfZBNLDu.md | barakah | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-urxBstkNw.md | in your heart | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-yJP7hNAno.md | comparison | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C-z7zj-NufC.md | fall apart | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C0EY3LeNFdM.md | alhamdulillah ya rabb | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1M7171t2Gb.md | overshare | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1SXiXUNxMh.md | self control | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1UkQgnN_5P.md | mankind | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1ZkmCiN8Cc.md | innocent mistake | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1e9ukwttd0.md | forgotten | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1nDM5CNeq5.md | Umrah | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1pwIJ-tEe3.md | a hint of road | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C1xQHprNjRK.md | What will people say? | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C2Ku3IKND-j.md | morning and evening remembrance | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C2VDW0FtaB4.md | grow your deen | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C2iNH0jNIgm.md | give | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C2klqm_twHS.md | overshare | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3IpeEYN-sx.md | verify | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3OGCntNkAt.md | truly love you | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3X77Edt2Bx.md | jahl | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3Z5m83NLAM.md | reward | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3nrEKUNUVI.md | divorced | 2 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3pOv9BNqFB.md | people | 2 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3sHFkINs6a.md | Sallallahu | 1 |
