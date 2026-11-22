@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["AI", "image"]
+aka: ["Bing image generator"]
 origin: sources/S_ig_createcontent.club_C1SG-ndxPJm.md
 ---
 
-# G_ig_createcontent.club_C1SG-ndxPJm — AI
+# G_ig_createcontent.club_C1SG-ndxPJm — Bing image generator
 
 ## Term
 
-AI is the most prominent repeated term in this source (90-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: image, feel, illegal. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Bing image generator is the free AI tool this clip tells creators to search for when they want beautiful images and graphics made from a simple description. The name appears once, in the instruction to head over to Google and search for Bing image generator, next to free credit, powerful image generation engine and comment AI. The clip's pitch is cost: one of the most powerful image generation engines available, with plenty of free credit and nothing to pay. A creator using it would describe the image they want, generate it for free and use it in their content without spending a dime.
 
 ## Synonyms
 
-- AI
-- image
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "that feel illegal to know part seven. This free AI tool allows you to create beautiful images and graphics just like these by simply describing them. This AI uses one of the most powerful image generation engines available, and you get plenty of free credit to use without spending a dime." — sources/S_ig_createcontent.club_C1SG-ndxPJm.md
-> "All you have to do is head over to Google and search for Bing image generator, or comment AI and we send you the link together with our top ten favorite AIs and websites to elevate your" — sources/S_ig_createcontent.club_C1SG-ndxPJm.md
+> "All you have to do is head over to Google and search for Bing image generator, or comment AI and we send you the link together with our top ten favorite AIs and websites to elevate your content." — sources/S_ig_createcontent.club_C1SG-ndxPJm.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the generator is read as linked in the clip: the clip only names the search term, so a viewer must search Google for it rather than clicking a link the video provides.
+- When free credit is read as unlimited: the clip says there is plenty of free credit to use, not an endless supply, so assuming no limit adds a promise the source never makes.

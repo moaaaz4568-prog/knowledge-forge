@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["trendsetter", "leave"]
+aka: ["refrain"]
 origin: sources/S_ig_createcontent.club_C0moBsdvIJP.md
 ---
 
-# G_ig_createcontent.club_C0moBsdvIJP — trendsetter
+# G_ig_createcontent.club_C0moBsdvIJP — refrain
 
 ## Term
 
-This source is very short (23 words), so no term repeats enough for a frequency-based entry; trendsetter is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and refrain is only this entry's type label, not a term the clip teaches. The clip pairs a voicemail greeting — not available at present, please leave your message after the beep — with a lyric fragment about a trendsetter in a league of their own, with no teaching and no concept attached to any of its words. The two quoted pieces sit side by side without explanation, so neither the greeting nor the lyric becomes a lesson. A reader looking for a teaching term here will not find one, because the clip documents quoted lines, not a lesson.
 
 ## Synonyms
 
-- trendsetter
-- leave
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Please leave your message after the beep. Yeah, trendsetter, whoa, league of my own, it don't get better" — sources/S_ig_createcontent.club_C0moBsdvIJP.md
+> "Not available at present. Please leave your message after the beep. Yeah, trendsetter, whoa, league of my own, it don't get better, no." — sources/S_ig_createcontent.club_C0moBsdvIJP.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When trendsetter is read as the account's title for itself: the word belongs to the quoted lyric fragment, so treating it as the creator's self-description invents a claim the source never makes.
+- When the voicemail greeting is read as a real message: the greeting is part of the audio the clip quotes, not an actual instruction to leave a message for the account.

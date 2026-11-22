@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["free resource", "viral"]
+aka: ["free resource"]
 origin: sources/S_ig_createcontent.club_C0JpdW6i-zz.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_createcontent.club_C0JpdW6i-zz.md
 
 ## Term
 
-free resource is the most prominent repeated term in this source (162-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: viral, instantly, send. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A free resource is the complete guide this clip offers to anyone who comments viral, covering everything needed to make videos go viral on command. The phrase appears once, in the sentence about the entirely free resource the account created, next to half a million people, one million people reached and on command. The clip's proof is its own young page, which reached more than half a million people within weeks and passed a million by editing time, presented as evidence that the method works. A creator wanting the resource would comment viral and receive the guide instead of guessing at the method from the clip alone.
 
 ## Synonyms
 
-- free resource
-- viral
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let's get to the point. We are here to help you. That's why we created an entirely free resource that you can access that will give you everything you need to know to make your videos go viral on command." — sources/S_ig_createcontent.club_C0JpdW6i-zz.md
-> "Comment the word viral and we will instantly send you this free resource" — sources/S_ig_createcontent.club_C0JpdW6i-zz.md
+> "We are here to help you. That's why we created an entirely free resource that you can access that will give you everything you need to know to make your videos go viral on command." — sources/S_ig_createcontent.club_C0JpdW6i-zz.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the free resource is read as the method itself: the clip only advertises the guide, so treating the short video as the full method misses that the teaching lives in the resource.
+- When the reach numbers are read as the resource's results: the million people reached belong to the account's own page, not to viewers who used the guide.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["already", "word"]
+aka: ["copy", "copying"]
 origin: sources/S_ig_createcontent.club_C-nzuMACsgD.md
 ---
 
-# G_ig_createcontent.club_C-nzuMACsgD — already
+# G_ig_createcontent.club_C-nzuMACsgD — copy
 
 ## Term
 
-already is the most prominent repeated term in this source (203-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: word, ones, suggest. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Copy, for this account, means taking someone else's work word for word — their style, their script and pretty much the entire read as a whole — and ending up as the ugly copy of the original. The word appears 4 times, next to viral, inspiration and the Picasso line that contrasts copying with stealing, with the -ing form copying opening the clip. The clip draws a hard line between copying and stealing: copying repeats what already worked, while stealing takes a concept that has already been explained and explains it in one's own unique way. A creator following the clip would borrow the idea behind a viral video and re-express it with their own style, rather than re-shooting the same script.
 
 ## Synonyms
 
-- already
-- word
+- copying (the -ing form the source opens with)
 
 ## Live Example
 
-> "No. Now don't get me wrong, we are the first ones to suggest taking inspiration from what already worked for others, but there is a right way of doing this and then there's a wrong way of doing it. The wrong way is to just take word for word what someone else already did." — sources/S_ig_createcontent.club_C-nzuMACsgD.md
-> "Take a concept that has already been explained and explain it in your own unique way. Take an idea that has already been used and express it with your own unique style." — sources/S_ig_createcontent.club_C-nzuMACsgD.md
+> "You copy their style, their script, and pretty much the entire read as a whole, and you usually end up being the ugly copy of someone else." — sources/S_ig_createcontent.club_C-nzuMACsgD.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When copying is read as taking inspiration: the clip explicitly endorses taking inspiration from what worked, and reserves copy for the word-for-word repeat it calls the wrong way.
+- When stealing is read as the same thing as copying: the Picasso line the clip quotes treats stealing as re-expressing a concept in one's own way, the opposite of the ugly copy the clip warns against.

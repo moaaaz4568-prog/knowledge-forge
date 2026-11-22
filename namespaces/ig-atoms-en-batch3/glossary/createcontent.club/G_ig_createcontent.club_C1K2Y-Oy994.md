@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["grow", "media"]
+aka: ["screenshot"]
 origin: sources/S_ig_createcontent.club_C1K2Y-Oy994.md
 ---
 
-# G_ig_createcontent.club_C1K2Y-Oy994 — grow
+# G_ig_createcontent.club_C1K2Y-Oy994 — screenshot
 
 ## Term
 
-grow is the most prominent repeated term in this source (37-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: media, social, screenshot. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Screenshot is the single action this clip asks of creators: capture the frame, because the list and the free guide it promises live behind a comment, not in the video itself. The word appears once, in you need to screenshot this, next to grow on social media and comment grow. The clip is a thirty-seven-word pointer, not a lesson — it names no tool and teaches no method, only the instruction to save the frame or comment for the guide. A creator following it would screenshot the frame and comment grow to receive the list and the full guide in DM.
 
 ## Synonyms
 
-- grow
-- media
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to grow on social media, you need to screenshot this." — sources/S_ig_createcontent.club_C1K2Y-Oy994.md
-> "Or comment grow and we'll send you the list in DM together with our free full guide on how to grow on social" — sources/S_ig_createcontent.club_C1K2Y-Oy994.md
+> "If you want to grow on social media, you need to screenshot this." — sources/S_ig_createcontent.club_C1K2Y-Oy994.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the screenshot is read as the lesson: the clip teaches nothing in its thirty-seven words, so treating the captured frame as content to learn from invents a lesson it never gives.
+- When the guide is read as shown in the video: the guide is only promised by DM after commenting grow, so a viewer who only screenshots never receives it.

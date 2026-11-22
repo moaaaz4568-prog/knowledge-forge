@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["strategy", "supposed"]
+aka: ["UGC", "user-generated content"]
 origin: sources/S_ig_createcontent.club_C0CgU_Upx98.md
 ---
 
-# G_ig_createcontent.club_C0CgU_Upx98 — strategy
+# G_ig_createcontent.club_C0CgU_Upx98 — UGC
 
 ## Term
 
-strategy is the most prominent repeated term in this source (239-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: supposed, boost, drive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+UGC is short for user-generated content, and in this clip it names the creators a brand hires on commission to advertise its product instead of posting its own content. The abbreviation appears 2 times, in hire UGC creators and becoming UGC affiliates, next to commission, Discord community and intrinsically viral, while the full form user-generated content appears once in the hiring step. The clip lays out the model in three elements: a product that shocks people into attention, UGC creators paid a small fixed fee plus a big share of sales, and a Discord community where affiliates earn by bringing in more people. A brand following the model would pay its best UGC creators the most, so the creators who sell the most get rewarded the most and the brand grows without creating its own content.
 
 ## Synonyms
 
-- strategy
-- supposed
+- user-generated content (the full form the source uses once)
 
 ## Live Example
 
-> "him, he is Oliver Brokat, the owner of Tubs, a brand that produces a special kind of chocolate that's supposed to boost your drive. His strategy is broken down in three key elements. Number one, having a product that is intrinsically viral. When creating the brand, Oliver had already in mind that the advertising strategy would be organic content on social media." — sources/S_ig_createcontent.club_C0CgU_Upx98.md
-> "Number two, hiring user-generated content creators on commission. When he first started, he chose an excellent low-budget strategy, which is to hire UGC creators for a small fixed fee and a big percentage of the sales that they brought in." — sources/S_ig_createcontent.club_C0CgU_Upx98.md
-> "Let us know in the comments what you think of this strategy now that you know" — sources/S_ig_createcontent.club_C0CgU_Upx98.md
+> "creating a Discord community in which people can make money by becoming UGC affiliates or by bringing into the community even more people." — sources/S_ig_createcontent.club_C0CgU_Upx98.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When UGC is read as free content from fans: the clip's UGC creators are hired on commission with a fixed fee, so treating them as unpaid fans misses the paid arrangement.
+- When the Discord community is read as a fan club: the community is a way to scale the affiliate system, so joining it is presented as a way to earn, not as casual fandom.

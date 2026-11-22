@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["perfect", "Money"]
+aka: ["refrain"]
 origin: sources/S_ig_createcontent.club_C0B40-QuMM6.md
 ---
 
-# G_ig_createcontent.club_C0B40-QuMM6 — perfect
+# G_ig_createcontent.club_C0B40-QuMM6 — refrain
 
 ## Term
 
-This source is very short (14 words), so no term repeats enough for a frequency-based entry; perfect is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and refrain is only this entry's type label, not a term the clip teaches. The clip is a single quoted lyric line — money trees is the perfect place for shade — with no teaching, no advice and no concept attached to any of its words. The line belongs to the song being quoted, and the account adds nothing around it that would turn any of its words into a lesson. A reader looking for a teaching term here will not find one, because the clip documents a lyric, not a lesson.
 
 ## Synonyms
 
-- perfect
-- Money
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "trees is the perfect place for shade, and that's just how it" — sources/S_ig_createcontent.club_C0B40-QuMM6.md
+> "Money trees is the perfect place for shade, and that's just how it be." — sources/S_ig_createcontent.club_C0B40-QuMM6.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When money trees is read as gardening advice: the phrase is a lyric image from the quoted song, not a tip about planting or shade.
+- When the line is read as the account's own words: the clip only quotes the lyric, so treating it as the creator's statement invents a position the source never gives.

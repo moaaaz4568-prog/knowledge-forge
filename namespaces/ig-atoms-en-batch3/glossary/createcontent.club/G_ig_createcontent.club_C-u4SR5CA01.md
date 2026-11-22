@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["editing software", "import"]
+aka: ["film look"]
 origin: sources/S_ig_createcontent.club_C-u4SR5CA01.md
 ---
 
-# G_ig_createcontent.club_C-u4SR5CA01 — editing software
+# G_ig_createcontent.club_C-u4SR5CA01 — film look
 
 ## Term
 
-editing software is the most prominent repeated term in this source (106-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: import, create, vertical. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The film look is the grainy, graded finish the clip teaches creators to add so phone footage stops looking like phone footage. The phrase appears once, in the instruction to add color grading and some noise to give the clip that film look, next to vertical timeline, center your video and overlay. The look is built in small steps: leave space when filming, center the clip on a vertical timeline, grade the color, add noise and finish with an overlay on top before exporting. A creator following the clip would import the clip, center it, grade it and add noise until the footage carries the soft, textured feel of film.
 
 ## Synonyms
 
-- editing software
-- import
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, here is exactly how to do that in any editing software or app. First of all, make sure to leave the right amount of space when filming your video. Once you have your clip, import it in your editing software. Create a vertical timeline and make sure to center your video." — sources/S_ig_createcontent.club_C-u4SR5CA01.md
+> "Add your color grading, some noise to give it that film look, and center your clip." — sources/S_ig_createcontent.club_C-u4SR5CA01.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the film look is read as a single filter: the clip builds it from several steps — space, centering, grading, noise and overlay — so one preset alone is not the look described here.
+- When the look is read as needing professional gear: the clip says the method works in any editing software or app, so treating it as a camera purchase misses the editing point.

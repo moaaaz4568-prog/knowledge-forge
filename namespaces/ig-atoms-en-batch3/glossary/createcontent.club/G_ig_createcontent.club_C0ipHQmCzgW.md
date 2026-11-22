@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["playing", "context of account createcontent.club"]
+aka: ["refrain"]
 origin: sources/S_ig_createcontent.club_C0ipHQmCzgW.md
 ---
 
-# G_ig_createcontent.club_C0ipHQmCzgW — playing
+# G_ig_createcontent.club_C0ipHQmCzgW — refrain
 
 ## Term
 
-This source is very short (8 words), so no term repeats enough for a frequency-based entry; playing is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and refrain is only this entry's type label, not a term the clip teaches. The clip is a single lyric line — I don't wanna know if you're playing me — eight words long, with no teaching, no advice and no concept attached to any of its words. The line belongs to the song being quoted, and the account adds nothing around it that would turn any of its words into a lesson. A reader looking for a teaching term here will not find one, because the clip documents a lyric, not a lesson.
 
 ## Synonyms
 
-- playing
-- context of account createcontent.club
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ This source is very short (8 words), so no term repeats enough for a frequency-b
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the line is read as the account's message to a person: the lyric is quoted from a song, so treating playing me as an accusation the creator makes invents a conflict the source never shows.
+- When the short clip is read as a full song: the source holds one line only, so treating it as the whole lyric would add verses the source never contains.

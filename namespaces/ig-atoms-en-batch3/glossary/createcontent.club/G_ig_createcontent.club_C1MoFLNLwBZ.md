@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["brain", "reprogram"]
+aka: ["reprogram"]
 origin: sources/S_ig_createcontent.club_C1MoFLNLwBZ.md
 ---
 
-# G_ig_createcontent.club_C1MoFLNLwBZ — brain
+# G_ig_createcontent.club_C1MoFLNLwBZ — reprogram
 
 ## Term
 
-brain is the most prominent repeated term in this source (145-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: reprogram, body, feed. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Reprogram is what this clip says happens to the brain when the information it consumes changes, the way a body changes with the food it eats. The word appears 2 times, in how to reprogram your brain and we can reprogram our brain, next to processed food, organic food and consume. The clip's rule is selection: feed the mind content from people who represent the version of yourself you aspire to be, and the mind grows stronger and healthier with it. A creator applying the rule would audit what they watch daily, keeping the feeds that match the person they want to become and dropping the ones that leave them weaker.
 
 ## Synonyms
 
-- brain
-- reprogram
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is how to reprogram your brain. Think of your brain like a body. If you only eat highly processed and unhealthy food for an entire year, your body will suffer. But if you choose organic and healthy food, your body becomes healthier and stronger." — sources/S_ig_createcontent.club_C1MoFLNLwBZ.md
-> "It's the same thing with your mind. The food for our brain is information we consume. By carefully selecting what we feed it, we can reprogram our brain, making it stronger and healthier." — sources/S_ig_createcontent.club_C1MoFLNLwBZ.md
+> "By carefully selecting what we feed it, we can reprogram our brain, making it stronger and healthier." — sources/S_ig_createcontent.club_C1MoFLNLwBZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When reprogram is read as a quick technique: the clip ties it to a year of eating and to daily consumption habits, so treating it as a one-time exercise misses the slow diet it describes.
+- When brain food is read as literal food: the clip uses food as an analogy for information, so shopping for organic groceries is not the method it teaches.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["analogies", "complex"]
+aka: ["analogies"]
 origin: sources/S_ig_createcontent.club_C0HpdPcpgou.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_createcontent.club_C0HpdPcpgou.md
 
 ## Term
 
-analogies is the most prominent repeated term in this source (126-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: complex, ideas, simply. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Analogies are the comparisons this clip calls the key to making short-form content ten times more relatable, linking an unfamiliar concept to something familiar the audience already understands. The word appears 2 times, in use analogies and including some analogies, next to relatable, substantial value and go-to source. The clip's promise is positioning: a creator known for explaining complex ideas simply becomes the audience's go-to source for learning new things. A creator using the advice would open the next script with an analogy that ties the new idea to something the audience already knows, then save the video for later reference.
 
 ## Synonyms
 
-- analogies
-- complex
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "positions you as a valuable creator within your niche, someone known for explaining complex ideas simply and effectively. The key? Use analogies. They're incredibly powerful because they link an unfamiliar concept to something familiar and understood by your audience." — sources/S_ig_createcontent.club_C0HpdPcpgou.md
-> "Next time you're writing a script, try including some analogies and make sure to save this video so you have it for" — sources/S_ig_createcontent.club_C0HpdPcpgou.md
+> "The key? Use analogies. They're incredibly powerful because they link an unfamiliar concept to something familiar and understood by your audience." — sources/S_ig_createcontent.club_C0HpdPcpgou.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When an analogy is read as the lesson itself: the analogy only links the new concept to something familiar, so treating the comparison as the full explanation leaves the concept itself untaught.
+- When relatable is read as entertaining: the clip ties relatability to substantial value and clear explanation, not to jokes, so a funny comparison without value is not what the clip recommends.

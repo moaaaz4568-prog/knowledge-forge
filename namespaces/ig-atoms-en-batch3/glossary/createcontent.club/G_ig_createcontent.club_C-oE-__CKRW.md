@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["website", "create"]
+aka: ["fake drone shots"]
 origin: sources/S_ig_createcontent.club_C-oE-__CKRW.md
 ---
 
-# G_ig_createcontent.club_C-oE-__CKRW — website
+# G_ig_createcontent.club_C-oE-__CKRW — fake drone shots
 
 ## Term
 
-This source is very short (12 words), so no term repeats enough for a frequency-based entry; website is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Fake drone shots are the sweeping aerial-style shots a website promises to generate without a drone, the effect this clip advertises in a single line. The phrase appears once, as the whole point of the twelve-word clip, next to website and just like this. The creator offers no method and no tool name, only the promise that the website will make the viewer create shots that look drone-filmed. A creator chasing the effect would open the unnamed website and expect drone-style footage from a ground-level clip.
 
 ## Synonyms
 
-- website
-- create
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "website will make you create fake drone shots just like" — sources/S_ig_createcontent.club_C-oE-__CKRW.md
+> "This website will make you create fake drone shots just like this!" — sources/S_ig_createcontent.club_C-oE-__CKRW.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the shots are read as real drone footage: the clip calls them fake, so treating the result as footage actually filmed from the air misses the point of the tool.
+- When the website is read as named in the clip: the clip never gives the website's name, so a viewer cannot reach it from this video alone.

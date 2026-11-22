@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["overlays", "download"]
+aka: ["overlays"]
 origin: sources/S_ig_createcontent.club_C19lQwEreKv.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_createcontent.club_C19lQwEreKv.md
 
 ## Term
 
-overlays is the most prominent repeated term in this source (101-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: download, free, 4k. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Overlays are the free 4K effects this clip tells creators to download from Action VFX Free, effects viewers may already have seen in TV shows and movies. The word appears 3 times, in this free overlays and more than 1,200 overlays, next to 4K quality, VFX and Google search. The clip's method is a search, not a link: head to Google, search Action VFX Free and download the overlays from there. A creator using them would layer the downloaded overlays over their footage to borrow the polished look of film and television effects.
 
 ## Synonyms
 
-- overlays
-- download
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you create content, you need to get this free overlays. This website will let you download more than 1,200 overlays completely for free. And the best part? You might have already seen this in your favorite TV shows and movies." — sources/S_ig_createcontent.club_C19lQwEreKv.md
-> "To get them, simply head over to Google and search 'Action VFX Free'. From here, you'll be able to download more than 1,200 overlays in 4K quality. If you want to receive this website link directly to your DMs, just comment" — sources/S_ig_createcontent.club_C19lQwEreKv.md
+> "This website will let you download more than 1,200 overlays completely for free." — sources/S_ig_createcontent.club_C19lQwEreKv.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the overlays are read as footage to post: the overlays are effects layered over a creator's own footage, not finished clips, so posting one alone is not their use here.
+- When Action VFX Free is read as linked in the clip: the clip only names the search term, so a viewer must search Google for it rather than clicking a link the video provides.

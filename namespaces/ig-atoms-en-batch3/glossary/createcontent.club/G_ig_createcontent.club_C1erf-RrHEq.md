@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["viral", "use"]
+aka: ["hooks"]
 origin: sources/S_ig_createcontent.club_C1erf-RrHEq.md
 ---
 
-# G_ig_createcontent.club_C1erf-RrHEq — viral
+# G_ig_createcontent.club_C1erf-RrHEq — hooks
 
 ## Term
 
-viral is the most prominent repeated term in this source (43-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: use, command, reserve. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Hooks are the opening lines this clip tells creators to steal — the exact ones that earned the account eleven million views. The word appears once, in steal the hooks that got us eleven million views, next to full framework, go viral on command and free masterclass. The clip offers the hooks as the shortcut and the masterclass as the full method behind them, so the hook is the entry point and the framework is the rest. A creator using the offer would take the hooks for their own videos and comment viral to reserve a spot in the masterclass for the framework that produced them.
 
 ## Synonyms
 
-- viral
-- use
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And if you want to learn the full framework that we use to go viral on command, comment" — sources/S_ig_createcontent.club_C1erf-RrHEq.md
+> "Steal the hooks that got us eleven million views." — sources/S_ig_createcontent.club_C1erf-RrHEq.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the hooks are read as given in the clip: the video only advertises the hooks, so a viewer who does not comment viral never actually receives them.
+- When stealing the hooks is read as copying the videos: the clip offers the opening lines themselves as the reusable part, while the full framework behind them is taught in the masterclass.

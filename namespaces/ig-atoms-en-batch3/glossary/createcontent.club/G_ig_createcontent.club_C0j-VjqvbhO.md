@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["website", "feels"]
+aka: ["animations", "animation"]
 origin: sources/S_ig_createcontent.club_C0j-VjqvbhO.md
 ---
 
-# G_ig_createcontent.club_C0j-VjqvbhO — website
+# G_ig_createcontent.club_C0j-VjqvbhO — animations
 
 ## Term
 
-website is the most prominent repeated term in this source (75-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: feels, illegal, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Animations are the clean, customizable motion graphics this clip's unnamed website offers by the hundred — social media buttons, logos, backgrounds, text and device mockups. The word appears 2 times, in hundreds of clean animations and animations of any kind, next to export settings, customize and comment the word animation, while the singular animation appears once as the comment word. The clip's pitch is variety without effort: any kind of animation, fully customizable, with the creator's own export settings. A creator using the site would comment animation for the link, then pick the button, logo or background animation that fits their video.
 
 ## Synonyms
 
-- website
-- feels
+- animation (the singular form the source uses as the comment word)
 
 ## Live Example
 
-> "Website for content creators that feels illegal to know part four this website allows you to get hundreds of clean animations just like these you can even fully customize them and choose your own export settings and they really have animations of" — sources/S_ig_createcontent.club_C0j-VjqvbhO.md
-> "to backgrounds text and even devices mockups comment the word animation under this video and we will instantly send you the link to the website" — sources/S_ig_createcontent.club_C0j-VjqvbhO.md
+> "this website allows you to get hundreds of clean animations just like these you can even fully customize them and choose your own export settings" — sources/S_ig_createcontent.club_C0j-VjqvbhO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the animations are read as video templates: the clip offers motion graphics of any kind — buttons, logos, backgrounds, text, mockups — not finished videos to post as-is.
+- When the website is read as named in the clip: the clip never gives the website's name, so a viewer cannot reach it without commenting animation for the link.

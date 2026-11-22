@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["media platforms", "social"]
+aka: ["watch time"]
 origin: sources/S_ig_createcontent.club_C0rN7W9LaT4.md
 ---
 
-# G_ig_createcontent.club_C0rN7W9LaT4 — media platforms
+# G_ig_createcontent.club_C0rN7W9LaT4 — watch time
 
 ## Term
 
-media platforms is the most prominent repeated term in this source (217-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: social, understanding, truly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Watch time is the one thing this clip says social media platforms truly want, because the longer people stay, the more advertising the platforms sell. The phrase appears 3 times, in which is watch time, a long watch time and high watch time, next to algorithm, attention and zero to ten k followers. The clip's own proof is its page's growth from zero to ten thousand followers in fifteen days, credited to keeping attention rather than to luck. A creator chasing it would shape every piece of content around holding attention as long as possible, since videos that hold viewers get pushed the most.
 
 ## Synonyms
 
-- media platforms
-- social
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It happened again and again. One of the reasons we were able to do so is by understanding what social media platforms truly want, which is watch time. With every piece of content you create, you must be able to keep people's attention for as long as possible." — sources/S_ig_createcontent.club_C0rN7W9LaT4.md
+> "One of the reasons we were able to do so is by understanding what social media platforms truly want, which is watch time." — sources/S_ig_createcontent.club_C0rN7W9LaT4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When watch time is read as video length: the clip means how long viewers actually stay, so a long video that viewers abandon quickly earns none of the push the clip describes.
+- When the fifteen days is read as a guarantee: the account reports its own fifteen-day result as proof its method worked for its page, not as a timeline promised to every creator.

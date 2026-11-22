@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["shot", "top"]
+aka: ["shot list"]
 origin: sources/S_ig_createcontent.club_C-fx6cbiaLN.md
 ---
 
-# G_ig_createcontent.club_C-fx6cbiaLN — shot
+# G_ig_createcontent.club_C-fx6cbiaLN — shot list
 
 ## Term
 
-shot is the most prominent repeated term in this source (69-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: top, eighteen, alright. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+For createcontent.club, a shot list is the short plan a creator makes before filming: the five visual hooks, the glitch, the top-down shot and the match cut, all lined up so a clip can be shot in thirty seconds. The phrase appears once, inside the sentence about making the list in just thirty seconds, next to visual hooks and the match cut. The creator treats the list as a filming order rather than a script, so the loop and the one hundred days of practice sit around it as the payoff for following the plan. A creator using it here would sketch the top-down shot and the match cut first, then film them in the listed order instead of improvising on set.
 
 ## Synonyms
 
-- shot
-- top
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Still this five visual hooks, the glitch. One-on-one bitches and eighteen. One-on-one. The top-down shot. Alright, so everyone knows how sick the top-down angles are. I mean look at... Zoom in. This is how you can make a shot list in just thirty seconds. The match cut. One hundred days. That's all it takes." — sources/S_ig_createcontent.club_C-fx6cbiaLN.md
+> "This is how you can make a shot list in just thirty seconds." — sources/S_ig_createcontent.club_C-fx6cbiaLN.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the list is read as a script: the clip's shot list names shots to film, not lines to say, so treating it as dialogue misses what the creator is planning.
+- When the thirty seconds is read as the video's length: the thirty seconds is how fast the list lets the creator shoot, not how long the finished clip runs.

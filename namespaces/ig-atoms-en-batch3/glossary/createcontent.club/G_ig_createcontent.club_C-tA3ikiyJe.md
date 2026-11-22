@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Format number", "offer"]
+aka: ["talking head videos"]
 origin: sources/S_ig_createcontent.club_C-tA3ikiyJe.md
 ---
 
-# G_ig_createcontent.club_C-tA3ikiyJe — Format number
+# G_ig_createcontent.club_C-tA3ikiyJe — talking head videos
 
 ## Term
 
-Format number is the most prominent repeated term in this source (282-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: offer, use, formats. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Talking head videos are the third of the three formats the clip recommends to business owners, videos like the one the viewer is watching right now. The phrase appears once, as format number three, next to TikTok-style videos, documenting behind-the-scenes and educating viewers. The creator values the format because it educates viewers and gives them value while positioning the speaker as an authority and showcasing expertise. A business owner using it would speak straight to camera about what they know, instead of building the video around a product or an offer.
 
 ## Synonyms
 
-- Format number
-- offer
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "you want to go viral as a business owner, stop creating content around your product or your offer and use these three formats instead. Format number one: TikTok-style videos. These are the kind of videos you see all the time on TikTok." — sources/S_ig_createcontent.club_C-tA3ikiyJe.md
-> "As you know, those are the topics that people are interested in. Format number two: the documenting behind-the-scenes. These are a great way to connect with your audience on a deeper level by sharing the lessons you learn and the experiences you go through." — sources/S_ig_createcontent.club_C-tA3ikiyJe.md
-> "And that's the reason why some of the most successful brands are using this kind of content to get people's attention. Format number three: talking head videos. These are videos just like the one you're seeing right now. They are great to educate your viewers and give them value while positioning you as an authority and showcasing your expertise." — sources/S_ig_createcontent.club_C-tA3ikiyJe.md
+> "Format number three: talking head videos. These are videos just like the one you're seeing right now." — sources/S_ig_createcontent.club_C-tA3ikiyJe.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When talking head videos are read as product videos: the clip separates this format from content around a product or an offer, so filming a sales pitch to camera is not what the format means here.
+- When the format is read as the easiest to make: the clip calls TikTok-style reply videos the easy low-effort format, while talking head videos earn their place by educating and positioning the speaker.

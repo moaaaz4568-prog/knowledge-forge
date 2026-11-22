@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["steps", "start"]
+aka: ["refrain"]
 origin: sources/S_ig_createcontent.club_C17AxCBAP_p.md
 ---
 
-# G_ig_createcontent.club_C17AxCBAP_p — steps
+# G_ig_createcontent.club_C17AxCBAP_p — refrain
 
 ## Term
 
-steps is the most prominent repeated term in this source (53-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: start, business, without. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and refrain is only this entry's type label, not a term the clip teaches. The clip opens with a five-steps teaser — five steps to start a business in 2024 without spending a dollar — but never names any of the five steps, then cuts to a rap fragment about runnin' deep in thought and sleeping on the floor. The steps are only a promise to screenshot, and the lyric lines carry no teaching, so neither half of the clip yields a concept. A reader looking for a teaching term here will not find one, because the clip documents a teaser and a lyric, not a lesson.
 
 ## Synonyms
 
-- steps
-- start
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are the five steps to start your first business in 2024 without spending a single dollar. Get ready to screenshot them. I'm runnin' deep in my thoughts when I didn't have it, sleeping on the floor wishin' it was a mattress..." — sources/S_ig_createcontent.club_C17AxCBAP_p.md
+> "Here are the five steps to start your first business in 2024 without spending a single dollar." — sources/S_ig_createcontent.club_C17AxCBAP_p.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the five steps are read as listed in the clip: the steps are never named, so treating the teaser as the teaching itself invents content the source never gives.
+- When the rap fragment is read as business advice: the lyric about thoughts and a mattress belongs to the quoted song, not to the business teaser that opens the clip.

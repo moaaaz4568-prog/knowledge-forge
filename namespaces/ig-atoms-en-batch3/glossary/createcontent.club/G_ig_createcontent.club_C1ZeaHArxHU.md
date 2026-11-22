@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["text", "Firefly"]
+aka: ["Adobe Firefly Text Effect Generator"]
 origin: sources/S_ig_createcontent.club_C1ZeaHArxHU.md
 ---
 
-# G_ig_createcontent.club_C1ZeaHArxHU — text
+# G_ig_createcontent.club_C1ZeaHArxHU — Adobe Firefly Text Effect Generator
 
 ## Term
 
-text is the most prominent repeated term in this source (92-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: firefly, effect, generator. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Adobe Firefly Text Effect Generator is the free AI tool this clip names for generating personalized text in different fonts, for designs and stylish captions. The name appears once, in the sentence the website is called Adobe Firefly Text Effect Generator, next to crazy personalized text, pre-made prompts and comment text. The tool lets the creator write whatever they want, choose between fonts and build custom prompts or pick from ready-made ones. A creator using it would type the text, pick a font and generate the styled caption or design the clip demonstrates.
 
 ## Synonyms
 
-- text
-- Firefly
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This free AI tool allows you to generate crazy personalized text, just like this. You can make it write whatever you want, choose between different fonts, and create your own unique prompts, or choose from a selection of pre-made ones." — sources/S_ig_createcontent.club_C1ZeaHArxHU.md
-> "be great, for example, to create unique designs or even to generate stylish captions like we did here. The website is called Adobe Firefly Text Effect Generator, and if you comment" — sources/S_ig_createcontent.club_C1ZeaHArxHU.md
+> "This free AI tool allows you to generate crazy personalized text, just like this." — sources/S_ig_createcontent.club_C1ZeaHArxHU.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the generator is read as a font library: the tool writes the text itself from a prompt and styles it, so treating it as a place to download fonts misses that it generates the wording too.
+- When the link is read as shown in the video: the clip only names the tool and offers the link by DM after commenting text, so a viewer who does not comment never receives it.

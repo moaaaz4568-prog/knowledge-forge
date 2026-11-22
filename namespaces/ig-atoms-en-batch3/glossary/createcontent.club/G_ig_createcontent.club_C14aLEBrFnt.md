@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["personal brand", "step"]
+aka: ["Notion template"]
 origin: sources/S_ig_createcontent.club_C14aLEBrFnt.md
 ---
 
-# G_ig_createcontent.club_C14aLEBrFnt — personal brand
+# G_ig_createcontent.club_C14aLEBrFnt — Notion template
 
 ## Term
 
-personal brand is the most prominent repeated term in this source (122-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: step, organize, entire. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A Notion template is the plug-and-play system this clip offers for growing a personal brand, built from everything the account learned going from zero to 100k followers in less than two months. The phrase appears once, in we created a Notion template, next to three key frameworks, go viral on command and more than 50 AIs and websites. The template packs the full step-by-step system, the frameworks for avoiding new-creator mistakes and the planning tool for organizing the whole brand in one place. A creator wanting it would comment guide and receive the link, instead of rebuilding the system from the clip's short description.
 
 ## Synonyms
 
-- personal brand
-- step
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It has the full step-by-step system to grow your own personal brand, with the three key frameworks you must know to avoid the mistakes that all new creators make. The plug-and-play system to make your videos go viral on command." — sources/S_ig_createcontent.club_C14aLEBrFnt.md
-> "The plug-and-play system to make your videos go viral on command. The last planning tool you'll ever need to organize your entire personal brand in one single place. And more than 50 AI's and websites to out-rank the competition when creating content." — sources/S_ig_createcontent.club_C14aLEBrFnt.md
+> "We created a Notion template with everything we learned in the process of going from zero to 100k followers in less than two months." — sources/S_ig_createcontent.club_C14aLEBrFnt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the template is read as the method itself: the clip only advertises the template, so treating the short video as the full system misses that the teaching lives inside it.
+- When the 100k followers is read as the template's result: the followers belong to the account's own growth, not to buyers of the template.

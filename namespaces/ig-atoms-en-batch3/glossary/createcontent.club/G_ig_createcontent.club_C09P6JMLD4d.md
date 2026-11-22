@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["voice", "website"]
+aka: ["ElevenLabs"]
 origin: sources/S_ig_createcontent.club_C09P6JMLD4d.md
 ---
 
-# G_ig_createcontent.club_C09P6JMLD4d — voice
+# G_ig_createcontent.club_C09P6JMLD4d — ElevenLabs
 
 ## Term
 
-voice is the most prominent repeated term in this source (93-word transcript from the Instagram account createcontent.club): it occurs 2 times literally in the text, most often collocated with: website, name, elevenlabs. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+ElevenLabs is the website this clip names as the AI that generates voices from text, changing gender, accent and tonality for free. The name appears once, in the sentence this website name is ElevenLabs, next to voices, faceless social media pages and thousands of creators. The clip presents the tool as a voice generator for faceless pages, where the voice carries the content and no face ever appears. A creator using it would generate the voice for a faceless video from a typed script, then pick the gender, accent and tonality that fits the page.
 
 ## Synonyms
 
-- voice
-- website
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This AI allows you to generate these voices from text. You can even change the gender, the accent, and the tonality of the voice. And the best part is that you can do this 100% for free. This is a great tool, for example, for faceless social media pages. And there's thousands of creators already using it daily. This website name is ElevenLabs." — sources/S_ig_createcontent.club_C09P6JMLD4d.md
+> "And there's thousands of creators already using it daily. This website name is ElevenLabs." — sources/S_ig_createcontent.club_C09P6JMLD4d.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When ElevenLabs is read as a voice actor: the tool generates voices from typed text, so treating its output as a recorded human performance misses that the voice is synthesized.
+- When the free offer is read as unlimited: the clip says the generation is 100% free without stating any limit, so assuming unlimited use adds a promise the source never makes.

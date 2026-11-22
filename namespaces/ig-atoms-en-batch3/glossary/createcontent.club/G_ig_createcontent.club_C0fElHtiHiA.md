@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["Number", "least"]
+aka: ["mental framework"]
 origin: sources/S_ig_createcontent.club_C0fElHtiHiA.md
 ---
 
-# G_ig_createcontent.club_C0fElHtiHiA — Number
+# G_ig_createcontent.club_C0fElHtiHiA — mental framework
 
 ## Term
 
-Number is the most prominent repeated term in this source (228-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: least, clear, call. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A mental framework is the first of the four key elements this clip lists for going from zero to twenty thousand followers in twenty days: a niche of one's own that reflects one's interests. The phrase appears once, as number one, next to winning video structure, smooth workflow and the right tools. The framework's job is idea supply — a niche built on real interests gives unlimited video ideas and makes consistency easier. A creator using it would pick a niche that matches what they care about, then let that niche generate the ideas for the videos that follow.
 
 ## Synonyms
 
-- Number
-- least
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's not as difficult as you may think. All you need are these four key elements. Number one, the mental framework. You need to create your own niche that reflects your interests. This will basically give you unlimited video ideas, making it easier to be consistent. Number two, a winning video structure." — sources/S_ig_createcontent.club_C0fElHtiHiA.md
-> "This consists of a powerful hook, a magnetic storytelling, and last but not least, a clear call to action. Number three, a smooth workflow. You need a system in place that allows you to be consistent without burning out. This means completing tasks in batch, scheduling content in advance, and keeping track of all the tasks you need to complete." — sources/S_ig_createcontent.club_C0fElHtiHiA.md
+> "Number one, the mental framework. You need to create your own niche that reflects your interests." — sources/S_ig_createcontent.club_C0fElHtiHiA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the mental framework is read as a mindset trick: the clip's framework is a niche that reflects the creator's interests, not a motivational attitude, so treating it as positive thinking misses its job of supplying ideas.
+- When the four elements are read as fully explained: the clip names the elements and sells the full guide for the details, so the short video alone does not teach any of them in depth.

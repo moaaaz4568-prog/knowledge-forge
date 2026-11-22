@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["light", "LED"]
+aka: ["baking paper"]
 origin: sources/S_ig_createcontent.club_C0FFZaIJ-YX.md
 ---
 
-# G_ig_createcontent.club_C0FFZaIJ-YX — light
+# G_ig_createcontent.club_C0FFZaIJ-YX — baking paper
 
 ## Term
 
-light is the most prominent repeated term in this source (114-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: led, harsh, attach. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Baking paper is the zero-budget diffuser this clip tells creators to tape over an LED light so the harsh light turns soft and the video looks professional. The phrase appears once, in the instruction to take some baking paper from the kitchen and attach it to the front of the LED light, next to lights, harsh and softer light. The clip's point is that lights matter more than the camera — even a phone can look professional once the harsh LED is softened. A creator using the hack would rip a small piece of baking paper, stick it over the light and film with the softer glow instead of the bare LED.
 
 ## Synonyms
 
-- light
-- LED
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They are the difference between a video that looks like this and one that looks like this. If you use any kind of LED light, you probably know how harsh the light is, and this can really ruin your video. Here comes the secret hack. Take some baking paper from your kitchen, rip a small piece of it, and attach it to the front of your LED light." — sources/S_ig_createcontent.club_C0FFZaIJ-YX.md
-> "And there you go, you now have a much softer light" — sources/S_ig_createcontent.club_C0FFZaIJ-YX.md
+> "Take some baking paper from your kitchen, rip a small piece of it, and attach it to the front of your LED light." — sources/S_ig_createcontent.club_C0FFZaIJ-YX.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When baking paper is read as a lighting purchase: the hack uses a piece from the kitchen, so treating it as gear to buy misses that the point is zero budget.
+- When the softer light is read as dimmer light: the paper diffuses the harsh LED rather than blocking it, so the gain is softness, not darkness.

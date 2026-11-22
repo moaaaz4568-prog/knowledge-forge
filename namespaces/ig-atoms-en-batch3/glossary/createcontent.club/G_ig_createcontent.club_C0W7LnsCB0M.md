@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["information", "synthesis"]
+aka: ["synthesis"]
 origin: sources/S_ig_createcontent.club_C0W7LnsCB0M.md
 ---
 
-# G_ig_createcontent.club_C0W7LnsCB0M — information
+# G_ig_createcontent.club_C0W7LnsCB0M — synthesis
 
 ## Term
 
-information is the most prominent repeated term in this source (165-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: synthesis, boiling, matters. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Synthesis is the special skill this clip says creators need most: taking a sea of facts and ideas, finding the gems and sharing them with a personal touch. The word appears 3 times, introduced as the skill, named again in masters of synthesis and once more as the instruction to use synthesis, next to information, overwhelming and valuable. The clip frames synthesis as more than cutting clutter — it shines a light on what is truly valuable and presents it in a way that speaks to people. A creator using it would gather what they learned about something they love, boil it down to what matters most and share it in their own voice so it sticks.
 
 ## Synonyms
 
-- information
-- synthesis
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is the secret skill you need to succeed at content creation. We're surrounded by so much information every day, it can be overwhelming. Our brains have a hard time keeping up. But here's where a special skill comes in: synthesis. It's about taking all that information and boiling it down to what matters the most." — sources/S_ig_createcontent.club_C0W7LnsCB0M.md
-> "Use synthesis to make it clear, engaging, and uniquely yours. This way, you're not just sharing information. You're giving your audience something that sticks with them, something that makes a difference." — sources/S_ig_createcontent.club_C0W7LnsCB0M.md
+> "But here's where a special skill comes in: synthesis. It's about taking all that information and boiling it down to what matters the most." — sources/S_ig_createcontent.club_C0W7LnsCB0M.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When synthesis is read as summarizing: the clip's synthesis finds the gems and adds the creator's own touch, so a plain summary without that selection and voice is not the skill described.
+- When the skill is read as speed: synthesis is about what matters most, not about producing faster, so churning out more content without distilling it misses the point.

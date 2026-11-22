@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["captions", "Step"]
+aka: ["captions"]
 origin: sources/S_ig_createcontent.club_C1HodrSLJfs.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_createcontent.club_C1HodrSLJfs.md
 
 ## Term
 
-captions is the most prominent repeated term in this source (126-word transcript from the Instagram account createcontent.club): it occurs 4 times literally in the text, most often collocated with: step, screen, place. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Captions are the on-screen words this clip calls essential, because Facebook says 8 out of 10 people watch reels with the sound off. The word appears 4 times, in using captions, make perfect captions, place the captions and comment captions, next to sound off, two or three words and Integral CF. The clip's three steps are concrete: keep at most two or three words on screen at a time, place the captions close to the speaker just under the chin, and choose a clear readable font. A creator following the steps would caption the video so it is understood with the sound off, instead of trusting the viewer to turn the sound on.
 
 ## Synonyms
 
-- captions
-- Step
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's why. Facebook says that 8 out of 10 people watch reels with the sound off. That's why using captions is essential to ensure your content is understood. Let's break down the three steps to make perfect captions. Step one: keep maximum two or three words on the screen at a time. Step two: place the captions close to the speaker." — sources/S_ig_createcontent.club_C1HodrSLJfs.md
-> "The font we use is Integral CF. If you want the full list of the top 10 fonts we recommend, just comment captions and we'll send it to" — sources/S_ig_createcontent.club_C1HodrSLJfs.md
+> "Facebook says that 8 out of 10 people watch reels with the sound off. That's why using captions is essential to ensure your content is understood." — sources/S_ig_createcontent.club_C1HodrSLJfs.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When captions are read as decoration: the clip treats them as the way sound-off viewers understand the video, so styling them without placing them near the speaker misses their job.
+- When the two-or-three-words rule is read as a font rule: the limit is about how many words sit on screen at once, not about the font, which the clip covers as a separate third step.

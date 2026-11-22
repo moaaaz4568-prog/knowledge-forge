@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: createcontent.club
-aka: ["lead magnet", "create"]
+aka: ["lead magnet"]
 origin: sources/S_ig_createcontent.club_C-xzdxWiORV.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_createcontent.club_C-xzdxWiORV.md
 
 ## Term
 
-lead magnet is the most prominent repeated term in this source (288-word transcript from the Instagram account createcontent.club): it occurs 3 times literally in the text, most often collocated with: create, use, called. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A lead magnet is a free resource a creator gives the audience in exchange for their contact information, the bridge between short-form attention and real trust. The term appears 3 times, defined once as a free resource and named again when the creator explains how to build one, next to value, Manychat and email list. The clip's method runs the magnet through Manychat: connect the Instagram account, create an automation, set the keyword that triggers it and prepare the message that delivers the resource for an email. A creator using one would offer a free guide under a post, let a comment keyword trigger the automation and collect the emails of people who already saw the value in the free content.
 
 ## Synonyms
 
-- lead magnet
-- create
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's when they're really going to trust you. And to do that, we're going to use something called a lead magnet. A lead magnet is a free resource that you give to your audience in exchange for their contact information. But how do you do this?" — sources/S_ig_createcontent.club_C-xzdxWiORV.md
-> "Just follow these easy steps: once you create your lead magnet, connect your IG account and create any automation. Next, set up the keyword that will trigger this automation and select the posts it should be active on." — sources/S_ig_createcontent.club_C-xzdxWiORV.md
+> "A lead magnet is a free resource that you give to your audience in exchange for their contact information." — sources/S_ig_createcontent.club_C-xzdxWiORV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- When the lead magnet is read as the product itself: the magnet is free and exists to earn contact information, so selling it as the offer confuses the free resource with the paid one.
+- When Manychat is read as the lead magnet: Manychat is only the software that delivers the resource automatically, while the magnet is the free resource being delivered.

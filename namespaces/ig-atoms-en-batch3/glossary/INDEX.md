@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 6859 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 6819 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -154,56 +154,56 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/createcontent.club/G_ig_createcontent.club_C-_SBVxi7DT.md | three-line structure | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-bGOj9iVwA.md | dead silence | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C-dAsCICkVb.md | watch time | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-fx6cbiaLN.md | shot | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-irQFvi56-.md | marketing | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-lImNfiXP4.md | YouTube | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-nzuMACsgD.md | already | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-oE-__CKRW.md | website | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-qESpgCzZt.md | viral | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-tA3ikiyJe.md | Format number | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-tHoKXCBBq.md | transcription | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-u4SR5CA01.md | editing software | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-xzdxWiORV.md | lead magnet | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C-yVb6Bih7O.md | expect | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-fx6cbiaLN.md | shot list | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-irQFvi56-.md | loss aversion | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-lImNfiXP4.md | cheat code | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-nzuMACsgD.md | copy | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-oE-__CKRW.md | fake drone shots | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-qESpgCzZt.md | viral hooks | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-tA3ikiyJe.md | talking head videos | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-tHoKXCBBq.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-u4SR5CA01.md | film look | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-xzdxWiORV.md | lead magnet | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C-yVb6Bih7O.md | push-ups | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C06v7R0Lywd.md | hook | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C07lmeyPJHQ.md | free | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C091UXxPwe5.md | love | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C09P6JMLD4d.md | voice | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0B40-QuMM6.md | perfect | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0CgU_Upx98.md | strategy | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0EgjCsuk3r.md | trending | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0FFZaIJ-YX.md | light | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0HpdPcpgou.md | analogies | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0JpdW6i-zz.md | free resource | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0W7LnsCB0M.md | information | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0_vntbLbfw.md | brand | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0fElHtiHiA.md | Number | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0hJY-CiATt.md | sound | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0ipHQmCzgW.md | playing | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0j-VjqvbhO.md | website | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0mJhQILhYV.md | mistakes | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0moBsdvIJP.md | trendsetter | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0o3MZgL3r3.md | start | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C0rN7W9LaT4.md | media platforms | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C14aLEBrFnt.md | personal brand | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C15XfGAvX5R.md | secret | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C17AxCBAP_p.md | steps | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C19lQwEreKv.md | overlays | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1HodrSLJfs.md | captions | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1IJx_IyWqi.md | create | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1K2Y-Oy994.md | grow | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1KF_ZILyV7.md | content | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1MoFLNLwBZ.md | brain | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1NIbzQvlw7.md | stay | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1PN8jwgjet.md | failing | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1PwR_wv66y.md | explain | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1SG-ndxPJm.md | AI | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1Ueey1LdpJ.md | social media | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1ZeaHArxHU.md | text | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1erf-RrHEq.md | viral | 1 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1kLrz6xmop.md | business | 3 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1ma644rg6f.md | yourself | 2 |
-| glossary/createcontent.club/G_ig_createcontent.club_C1pONe3MCFi.md | Step | 2 |
+| glossary/createcontent.club/G_ig_createcontent.club_C07lmeyPJHQ.md | manychat | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C091UXxPwe5.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C09P6JMLD4d.md | ElevenLabs | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0B40-QuMM6.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0CgU_Upx98.md | UGC | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0EgjCsuk3r.md | trending sounds | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0FFZaIJ-YX.md | baking paper | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0HpdPcpgou.md | analogies | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0JpdW6i-zz.md | free resource | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0W7LnsCB0M.md | synthesis | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0_vntbLbfw.md | personal brand | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0fElHtiHiA.md | mental framework | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0hJY-CiATt.md | sound design | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0ipHQmCzgW.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0j-VjqvbhO.md | animations | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0mJhQILhYV.md | mistakes | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0moBsdvIJP.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0o3MZgL3r3.md | pattern interruption | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C0rN7W9LaT4.md | watch time | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C14aLEBrFnt.md | Notion template | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C15XfGAvX5R.md | reps | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C17AxCBAP_p.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C19lQwEreKv.md | overlays | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1HodrSLJfs.md | captions | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1IJx_IyWqi.md | screenshot | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1K2Y-Oy994.md | screenshot | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1KF_ZILyV7.md | Enhance Speech | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1MoFLNLwBZ.md | reprogram | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1NIbzQvlw7.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1PN8jwgjet.md | precise in your speech | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1PwR_wv66y.md | refrain | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1SG-ndxPJm.md | Bing image generator | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1Ueey1LdpJ.md | call to action | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1ZeaHArxHU.md | Adobe Firefly Text Effect Generator | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1erf-RrHEq.md | hooks | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1kLrz6xmop.md | content creation | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1ma644rg6f.md | comfort zone | 1 |
+| glossary/createcontent.club/G_ig_createcontent.club_C1pONe3MCFi.md | curious | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1rv9i4xCne.md | beginning | 3 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1sjqv2vVLE.md | America | 1 |
 | glossary/createcontent.club/G_ig_createcontent.club_C1uGAZBrNUl.md | social media | 3 |
