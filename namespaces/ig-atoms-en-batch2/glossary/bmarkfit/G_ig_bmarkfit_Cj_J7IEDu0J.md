@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [stand behind, bmarkfit account context]
+aka: ["their opinion doesn't pay my fucking rent"]
 origin: sources/S_ig_bmarkfit_Cj_J7IEDu0J.md
 ---
 
-# G_ig_bmarkfit_Cj_J7IEDu0J — stand behind
+# G_ig_bmarkfit_Cj_J7IEDu0J — their opinion doesn't pay my fucking rent
 
 ## Term
 
-"stand behind" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: product, afraid, behind, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Their opinion doesn't pay my fucking rent is the reel's answer to the fear of other people's opinion: be audacious enough to stand behind your own product, let people talk shit, and be okay with it, because their opinion pays nothing. The phrase appears once, beside stand behind our product, best fucking product on the internet, talk shit, and afraid of other people's opinion. The fear it names is specific — being afraid to stand behind the product because of what others will say. The rent line turns that fear into arithmetic: the talkers contribute nothing to the bills.
 
 ## Synonyms
 
-- stand behind
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Afraid to stand behind our product because we're afraid of other people's opinion. Am I right or wrong? And so you got to understand that when you are audacious enough to stand behind your own product and know that this is the best fucking product on the internet, people are always going to talk shit. And you just got to be okay with that because their opinion doesn't pay my fucking rent." — sources/S_ig_bmarkfit_Cj_J7IEDu0J.md
+> "And you just got to be okay with that because their opinion doesn't pay my fucking rent." — sources/S_ig_bmarkfit_Cj_J7IEDu0J.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "stand behind": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to ignore every opinion: the reel is about not letting others' opinions stop you standing behind your product, and it never says no opinion is ever useful.
+- Read as a claim that the product needs no proof: the audacity it praises is standing behind the best product on the internet, and the source never says belief alone sells it.

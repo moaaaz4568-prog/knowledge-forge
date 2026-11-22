@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [holding, bmarkfit account context]
+aka: ["rip away the fucking safety net"]
 origin: sources/S_ig_bmarkfit_Cji1FpSjVAH.md
 ---
 
-# G_ig_bmarkfit_Cji1FpSjVAH — holding
+# G_ig_bmarkfit_Cji1FpSjVAH — rip away the fucking safety net
 
 ## Term
 
-"holding" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thing, success, onto, back. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Rip away the fucking safety net is the reel's opening command: stop holding onto the thing that holds you back, or you cannot swim into the sea of success. The phrase appears once, beside sea of success, bet all of my chips, go all in, and obsession with delivering the results. The bet that follows is total — all of his chips, willing to go all in — against Sterling, who was number two in the space at the time. The one edge the speaker claims is not the bet itself but obsession with delivering results to his clients.
 
 ## Synonyms
 
-- holding
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You need to rip away the fucking safety net. How are you supposed to swim into the sea of success if you're holding onto this thing that's holding you back? And I was willing to bet all of my chips. I was willing to go all in. Sterling was number two in the space at the time, but I have one thing that I believe gave me an edge: obsession with delivering the results to my clients." — sources/S_ig_bmarkfit_Cji1FpSjVAH.md
+> "You need to rip away the fucking safety net." — sources/S_ig_bmarkfit_Cji1FpSjVAH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "holding": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to destroy every safety measure: the safety net here is the thing holding you back from swimming into the sea of success, and the source never discusses real financial or physical safety.
+- Read as a claim that betting everything guarantees the edge: the edge the reel names is obsession with delivering results to clients, and the bet is presented as willingness, not as a guarantee.

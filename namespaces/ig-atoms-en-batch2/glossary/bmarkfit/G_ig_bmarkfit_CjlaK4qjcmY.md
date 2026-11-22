@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [bar, bmarkfit account context]
+aka: ["I realized I was an addict"]
 origin: sources/S_ig_bmarkfit_CjlaK4qjcmY.md
 ---
 
-# G_ig_bmarkfit_CjlaK4qjcmY — bar
+# G_ig_bmarkfit_CjlaK4qjcmY — I realized I was an addict
 
 ## Term
 
-"bar" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: drugs, behind, walk, walking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+I realized I was an addict names the moment the Black Betty firing turned into self-knowledge: the manager, one of his good friends, walked up to the bar, made eye contact, and called him to the office with a choice — walk out on his own accord or be escorted out by security. The phrase appears once, beside Black Betty, walk out on your own accord, escorted out by security, and more fucked up than I was. He made the decision to walk out, then called his girlfriend at the time, who was also an addict and who he thought was more fucked up than he was. Her answer — that he was fucked up — is what made him realize how bad it actually was.
 
 ## Synonyms
 
-- bar
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I can still remember the night that I got fired from Black Betty. The manager was one of my good friends and I could see him walking up to the bar, made eye contact with me and he told me to come to the office. As soon as he called me back, I knew what it was about. I knew that it was about me doing drugs behind the bar. So he pulled me into the office, sat me down and he" — sources/S_ig_bmarkfit_CjlaK4qjcmY.md
-> "Listen, you put me in a really awkward position. I'm watching you fill up bottles. I'm watching you do drugs behind the bar. You can either walk out on your own accord or I can get you escorted out by security." — sources/S_ig_bmarkfit_CjlaK4qjcmY.md
-> "I made the decision to walk out of that bar, man. I called my girlfriend at the time, who was also an addict, and I actually thought that she was more fucked up than I was. And I told her that I got fired and in that moment she said that I was fucked up and I realized how bad it actually was. That was the moment I realized I was an addict." — sources/S_ig_bmarkfit_CjlaK4qjcmY.md
+> "That was the moment I realized I was an addict." — sources/S_ig_bmarkfit_CjlaK4qjcmY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bar": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a story about being caught: the firing is told as the moment of realization, and the reel's point is what the realization changed, not the getting caught.
+- Read as a claim that one conversation cures addiction: the girlfriend's words are presented as the moment he realized he was an addict, and the source never says the realization alone ended anything.

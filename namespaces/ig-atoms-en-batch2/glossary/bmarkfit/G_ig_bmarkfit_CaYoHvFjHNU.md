@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [brain, bmarkfit account context]
+aka: ["freaking out", "freaks the fuck out"]
 origin: sources/S_ig_bmarkfit_CaYoHvFjHNU.md
 ---
 
-# G_ig_bmarkfit_CaYoHvFjHNU — brain
+# G_ig_bmarkfit_CaYoHvFjHNU — freaking out
 
 ## Term
 
-"brain" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: accomplish, goal, freaks, fuck. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Freaking out names the panicked freeze that hits right before a goal is accomplished: the brain acts as if the next level is a threat and forgets skills it already has. The phrase appears once, beside accomplish a goal, ten thousand dollars a month, lead gen, and unlock this new level, with its harsher variant "freaks the fuck out" opening the reel. Daniel's case makes it concrete: about to hit ten thousand dollars a month, his brain tells him it forgot how to lead gen. The remedy in the reel is to recognize the freak-out and answer it with compassion, telling yourself it is okay and you have got this.
 
 ## Synonyms
 
-- brain
-- bmarkfit account context (no variant form of the term appears in this source)
+- freaks the fuck out (the same phrasal verb in its blunt present form, "your brain freaks the fuck out")
 
 ## Live Example
 
-> "Every time you're about to accomplish a goal, your brain freaks the fuck out. You're like you wanted to hit ten thousand dollars a month for so long, Daniel, and now you're right about to hit it, and your brain's like, I forgot how to lead gen. I don't know how to do this because it's like you're about to unlock this new level." — sources/S_ig_bmarkfit_CaYoHvFjHNU.md
-> "Recognize that your brain is freaking out and give yourself some compassion. Be like, it's okay, buddy, we got this." — sources/S_ig_bmarkfit_CaYoHvFjHNU.md
+> "Recognize that your brain is freaking out and give yourself some compassion." — sources/S_ig_bmarkfit_CaYoHvFjHNU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "brain": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a diagnosis of a mental disorder: the reel treats the freak-out as a normal reaction to approaching a goal, not as a condition to be treated.
+- Read as proof that goals cause failure: the brain's panic here signals nearness to the goal, and the reel's point is to keep going with compassion, not to stop.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [episodes, episode]
+aka: ["the slight edge"]
 origin: sources/S_ig_bmarkfit_Cisv1OZDVrK.md
 ---
 
-# G_ig_bmarkfit_Cisv1OZDVrK — episodes
+# G_ig_bmarkfit_Cisv1OZDVrK — the slight edge
 
 ## Term
 
-"episodes" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, competitors, one, started. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The slight edge is the concept the reel credits for growing a business from zero to six million in four years: figure out what all of your competitors are doing and then do just a little bit more. The phrase appears once, beside a little bit more, 200 episodes, five episodes a week, and 750 episodes. The podcast is the perfect example offered: a competitor had 200 episodes at one a week, so the speaker started doing five a week, and now has 750 episodes while the competitor still has 250. The edge is cumulative — consistently finding little ways to gain an advantage until, over time, you become the best in the space.
 
 ## Synonyms
 
-- episodes
-- episode (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I grew my business from zero to six million in four years, and I'm gonna teach you the one thing that I think gave me an advantage. It's a concept called the slight edge, meaning I figure out what all of my competitors are doing and then I do just a little bit more. A perfect example is when I started my podcast, one of my competitors had 200 episodes." — sources/S_ig_bmarkfit_Cisv1OZDVrK.md
-> "He was doing one episode a week, so I started doing five episodes a week. Now I have 750 episodes. He still has 250. If you can consistently look for little ways to gain an advantage on the people that are in your space, over time, you'll become the best in the space." — sources/S_ig_bmarkfit_Cisv1OZDVrK.md
+> "It's a concept called the slight edge, meaning I figure out what all of my competitors are doing and then I do just a little bit more." — sources/S_ig_bmarkfit_Cisv1OZDVrK.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "episodes": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a trick for quick wins: the slight edge here is doing a little bit more consistently over time, and the podcast gap it built took years of five episodes a week.
+- Read as a claim that copying competitors plus a little more is enough: the reel pairs watching competitors with outworking them, and it never says the extra bit works without the consistency behind it.

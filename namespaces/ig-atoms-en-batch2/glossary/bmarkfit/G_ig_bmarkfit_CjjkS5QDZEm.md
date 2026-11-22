@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [relationships, relationship]
+aka: ["know you, like you, and trust you"]
 origin: sources/S_ig_bmarkfit_CjjkS5QDZEm.md
 ---
 
-# G_ig_bmarkfit_CjjkS5QDZEm — relationships
+# G_ig_bmarkfit_CjjkS5QDZEm — know you, like you, and trust you
 
 ## Term
 
-No content word repeats often enough in this short source (71 words) to form a repeated term, so this entry documents the source's central term "relationships" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Know you, like you, and trust you names the three things people need before they work with a fitness coach: they need to know you, like you, and trust you, and until then they will not buy. The phrase appears once, beside sell to strangers, building relationships, create content, and more sales. The diagnosis is that coaches who cannot sign clients are trying to sell to strangers, and the fix is content that builds the relationship. The chain is the point — knowing leads to liking, liking leads to trust, and trust leads to sales.
 
 ## Synonyms
 
-- relationships
-- relationship (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're a fitness coach and you can't sign clients, it's because you're trying to sell to strangers. In order for people to work with you, they need to know you, like you, and trust you. The way that we develop these things is we create content to build that relationship. If you focus on building relationships, you'll end up making more sales. DM me freedom on Instagram for more info." — sources/S_ig_bmarkfit_CjjkS5QDZEm.md
+> "In order for people to work with you, they need to know you, like you, and trust you." — sources/S_ig_bmarkfit_CjjkS5QDZEm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "relationships": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that strangers never buy: the reel says coaches who cannot sign clients are trying to sell to strangers, and its fix is building the relationship first, not that a stranger can never become a client.
+- Read as a promise that content alone builds trust: the content here is the way the relationship is built, and the source never says posting without follow-through earns trust.

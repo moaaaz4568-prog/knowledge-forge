@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [getting ghosted, bmarkfit account context]
+aka: ["getting ghosted"]
 origin: sources/S_ig_bmarkfit_Ci_bjP_jRrd.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_bmarkfit_Ci_bjP_jRrd.md
 
 ## Term
 
-"getting ghosted" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ghosted, getting, keep, online. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Getting ghosted names the silence a coach gets when prospects do not view him as an authority: they stop replying because they are not interested in talking about their fitness goals with someone they do not see as able to help. The phrase appears three times, beside prospects, fitness authority, level up, and social proof. The reel's fix is not messaging more people — that is what most people try, and it misses the cause. The fix is levelling up the amount of content, the value of the content, and the social proof, so that when a message is sent, the prospect actually responds.
 
 ## Synonyms
 
-- getting ghosted
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Yo B, why do I keep getting ghosted? If you're getting ghosted online, it means that your prospects don't view you as an authority. What most people do is they'll try to message more people to solve that problem, but the reality of the situation is the reason that you're getting ghosted is because your prospects don't view you as a fitness authority." — sources/S_ig_bmarkfit_Ci_bjP_jRrd.md
+> "If you're getting ghosted online, it means that your prospects don't view you as an authority." — sources/S_ig_bmarkfit_Ci_bjP_jRrd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "getting ghosted": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a messaging-volume problem: the reel says the cause is authority, not how many people you message, and more messages to the same prospects will not fix it.
+- Read as proof that prospects are rude: the ghosting here is framed as a signal about how the coach is perceived, not as a judgment on the prospects' manners.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Aftermath, bmarkfit account context]
+aka: [refrain]
 origin: sources/S_ig_bmarkfit_Cj4K9Iajsg4.md
 ---
 
-# G_ig_bmarkfit_Cj4K9Iajsg4 — Aftermath
+# G_ig_bmarkfit_Cj4K9Iajsg4 — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (11 words) to form a repeated term, so this entry documents the source's central term "Aftermath" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung fragment, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The fragment runs through three short pieces, "Yeah, shady", "Aftermath", and "Damn baby, all I need is a little", each heard once, with no sentence around them to give them a coaching or business meaning. The whole source is eight words of song, and nothing in it names a concept, a method, or a claim. It is kept here as a sung fragment, not as a piece of advice.
 
 ## Synonyms
 
-- Aftermath
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (11 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Aftermath": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a statement about the speaker's life: the lines are a sung fragment, and the source gives no claim about the speaker beyond the song's words.
+- Read as a reference to a record label deal: "Aftermath" here is a word inside a sung line, and the source says nothing about any label or business.

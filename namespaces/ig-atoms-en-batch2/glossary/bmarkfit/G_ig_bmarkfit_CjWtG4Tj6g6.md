@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [simple, bmarkfit account context]
+aka: ["the biggest lie"]
 origin: sources/S_ig_bmarkfit_CjWtG4Tj6g6.md
 ---
 
-# G_ig_bmarkfit_CjWtG4Tj6g6 — simple
+# G_ig_bmarkfit_CjWtG4Tj6g6 — the biggest lie
 
 ## Term
 
-"simple" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: realize. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The biggest lie is the line "it's not that simple", which the reel says is told over and over again to get you to give up. The phrase appears twice, beside it's not that simple, give up, do the thing, and that simple. The question that opens it — what was the biggest lie you were told — is answered by the speaker himself: the lie he was ever told is that it is not that simple. The truth offered against it is practical rather than philosophical: do the thing they tell you, and you realize it is that simple.
 
 ## Synonyms
 
-- simple
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What was the biggest lie you were told? It's not that simple. Why not? No, that's the biggest lie I was ever told. It's not that simple. And it's a lie they tell you over and over again. What's not simple? Any of it. All of it. That they get you to give up. So what's the truth? That is, that if you just do the thing that they tell you and you realize it is that simple." — sources/S_ig_bmarkfit_CjWtG4Tj6g6.md
+> "What was the biggest lie you were told? It's not that simple." — sources/S_ig_bmarkfit_CjWtG4Tj6g6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "simple": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that everything is easy: the reel's truth is that doing the thing they tell you reveals it is that simple, not that every task is simple.
+- Read as a denial that difficulty exists: the lie is the repeated line "it's not that simple" used to make you give up, and the source never says hard work disappears.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [responsibility, bmarkfit account context]
+aka: ["your responsibility"]
 origin: sources/S_ig_bmarkfit_Cj6wdh2jdQ9.md
 ---
 
-# G_ig_bmarkfit_Cj6wdh2jdQ9 — responsibility
+# G_ig_bmarkfit_Cj6wdh2jdQ9 — your responsibility
 
 ## Term
 
-"responsibility" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: something, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Your responsibility is the reel's answer to a soft world where everybody wants to be coddled for their insecurities: what happened to you is not your fault, but doing something with it is your responsibility. The phrase appears twice, beside soft ass, bullshit world, coddled for their insecurities, not your fault, and it's all on you. The example is a childhood wound — parents who actually left — and the line "Brian, how dare you?" is aimed at the speaker for saying it out loud. The responsibility covers making something of your life, and the reel closes on it with a period: it's all on you.
 
 ## Synonyms
 
-- responsibility
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We live in a soft ass, bullshit world where everybody wants to be coddled for their insecurities. Brian, how dare you? My parents actually left me. Brian, how dare you? Right, it's not your fault that that happened, but it's your responsibility to do something with it. It's your responsibility to make something of your life. It's all on you. Period." — sources/S_ig_bmarkfit_Cj6wdh2jdQ9.md
+> "Right, it's not your fault that that happened, but it's your responsibility to do something with it." — sources/S_ig_bmarkfit_Cj6wdh2jdQ9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "responsibility": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as blame for what happened to you: the reel separates fault from responsibility — what happened is not your fault, but doing something with it is on you.
+- Read as a denial that hardship matters: the reel names being left by parents as real, and its point is about what follows, not about pretending it did not happen.

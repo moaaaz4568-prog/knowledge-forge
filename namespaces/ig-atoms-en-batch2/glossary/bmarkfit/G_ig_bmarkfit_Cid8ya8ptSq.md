@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [represents, bmarkfit account context]
+aka: ["two wolves"]
 origin: sources/S_ig_bmarkfit_Cid8ya8ptSq.md
 ---
 
-# G_ig_bmarkfit_Cid8ya8ptSq — represents
+# G_ig_bmarkfit_Cid8ya8ptSq — two wolves
 
 ## Term
 
-"represents" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: represents, wolf, love, goodness. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Two wolves names the pair in the old Cherokee story the reel retells: one wolf represents goodness, love, success, and abundance, while the other represents everything negative — pessimism, self-doubt, fear, and failure. The phrase appears once, beside eternal fight, goodness, pessimism, and the one that you feed. The two are locked in an eternal fight to the death and only one of them can win, and the grandpa's answer to which one wins is the story's moral: the one that you feed. The reel uses the pair to say that attention decides which side of you grows.
 
 ## Synonyms
 
-- represents
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's an old Cherokee story about a grandpa telling a boy about the eternal fight between two wolves. One wolf represents goodness, represents love, represents success, represents abundance. The other wolf represents everything negative, pessimism, self-doubt, fear, failure. And they're in an eternal fight to the death and only one of them can win. Boy asks" — sources/S_ig_bmarkfit_Cid8ya8ptSq.md
+> "There's an old Cherokee story about a grandpa telling a boy about the eternal fight between two wolves." — sources/S_ig_bmarkfit_Cid8ya8ptSq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "represents": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a historical Cherokee record: the reel tells it as an old story with a moral, and the source gives no sourcing or history for it beyond "an old Cherokee story".
+- Read as a claim that feeding one wolf kills the other: the story says only one can win and the fed one wins, and it never explains what happens to the unfed wolf.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [fucking, bmarkfit account context]
+aka: ["dream life"]
 origin: sources/S_ig_bmarkfit_CiyqoWYDusR.md
 ---
 
-# G_ig_bmarkfit_CiyqoWYDusR — fucking
+# G_ig_bmarkfit_CiyqoWYDusR — dream life
 
 ## Term
 
-"fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, know, hard, came. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Dream life names what the speaker says he created after coming from a drug addict background: he owns the gym, and the life he has now is the one he dreamed of. The phrase appears once, beside drug addict background, trailer park, own this gym, and get up and keep going. The before-and-after is the whole reel — living in a trailer park and being a loser, then owning the gym and telling the listener that anything is possible. The dream life is presented as the result of getting up and keeping going through a hard time, not as something that arrived on its own.
 
 ## Synonyms
 
-- fucking
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I know it's fucking hard. I came from a drug addict background. I was living in a trailer park. I was a fucking loser. But now I own this gym. I created my dream life. And I'm telling you that I know you're going through a hard time right now, but anything is fucking possible. So get up and keep going. Let's go." — sources/S_ig_bmarkfit_CiyqoWYDusR.md
+> "I was living in a trailer park. I was a fucking loser. But now I own this gym. I created my dream life." — sources/S_ig_bmarkfit_CiyqoWYDusR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that a hard time ends on its own: the reel pairs the turnaround with getting up and keeping going, not with waiting for circumstances to change.
+- Read as a claim that the past defines the future: the speaker names the trailer park and the drug addict background as where he came from, and the source presents them as the starting point, not the verdict.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [discipline, bmarkfit account context]
+aka: ["pain of discipline"]
 origin: sources/S_ig_bmarkfit_CiRFy2RpSTP.md
 ---
 
-# G_ig_bmarkfit_CiRFy2RpSTP — discipline
+# G_ig_bmarkfit_CiRFy2RpSTP — pain of discipline
 
 ## Term
 
-"discipline" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: suffer, pain, regret, weighs. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Pain of discipline names the lighter of the reel's two sufferings: the daily cost of staying disciplined, weighed against the pain of regret. The phrase appears once, beside suffer, pain of regret, discipline weighs ounces, and regret weighs tons. The reel's image is a scale — ounces against tons — and its instruction is only to listen to that again. The choice it offers is not whether to suffer, but which pain to carry.
 
 ## Synonyms
 
-- discipline
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can either suffer the pain of discipline or you can suffer the pain of regret. Discipline weighs ounces, regret weighs tons. Listen to that again." — sources/S_ig_bmarkfit_CiRFy2RpSTP.md
+> "You can either suffer the pain of discipline or you can suffer the pain of regret." — sources/S_ig_bmarkfit_CiRFy2RpSTP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "discipline": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that discipline removes suffering: the reel says discipline itself is a pain to suffer, only a lighter one than regret.
+- Read as a measured fact about ounces and tons: the weights are the reel's image for comparing the two pains, not a measurement of anything.

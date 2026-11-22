@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Isolate yourself, bmarkfit account context]
+aka: ["isolate yourself"]
 origin: sources/S_ig_bmarkfit_CiGxmDcjiF3.md
 ---
 
-# G_ig_bmarkfit_CiGxmDcjiF3 — Isolate yourself
+# G_ig_bmarkfit_CiGxmDcjiF3 — isolate yourself
 
 ## Term
 
-"Isolate yourself" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, yourself, isolate, coaching. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Isolate yourself is the reel's blunt instruction: cut yourself off from people holding you back and go all in on yourself instead. The phrase appears three times, beside go all fucking in on yourself, cut myself off, stopped talking to my old friends, and path of loneliness. The speaker's own case is the proof offered: he stopped talking to old friends and to people dragging him down, went all into his coaching business, and stopped doing drugs — and found that no one showed up. The isolation is framed as a decision to embrace loneliness now so you can come out on the other side as a new beast.
 
 ## Synonyms
 
-- Isolate yourself
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't want to be the motherfucker that drinks and parties every fucking weekend. That's not you. I don't want to be that motherfucker. So yes, I'm different. Yes, I'm no longer willing to associate myself with people that are holding me the fuck back. Yes, I've changed, motherfucker. I don't want to be the same as you. Isolate yourself." — sources/S_ig_bmarkfit_CiGxmDcjiF3.md
-> "You need to isolate yourself and you need to go all fucking in on yourself. Ah! I cut myself off and I just went all in. I stopped talking to my old friends. I stopped talking to people that are dragging me down. I just went all into my coaching business. Isolate yourself. As soon as I stopped doing drugs, you know who showed up? No one." — sources/S_ig_bmarkfit_CiGxmDcjiF3.md
+> "Isolate yourself. You need to isolate yourself and you need to go all fucking in on yourself." — sources/S_ig_bmarkfit_CiGxmDcjiF3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Isolate yourself": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule to cut off everyone permanently: the reel urges cutting off environments no longer conducive to success, not ending every friendship for good.
+- Read as a claim that loneliness itself creates success: the isolation here is paired with going all in on the work, and the source presents the loneliness as the price of the path, not the cause of the result.

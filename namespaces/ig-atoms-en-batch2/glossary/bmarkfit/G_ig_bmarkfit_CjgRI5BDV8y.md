@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [people, bmarkfit account context]
+aka: ["lone wolf"]
 origin: sources/S_ig_bmarkfit_CjgRI5BDV8y.md
 ---
 
-# G_ig_bmarkfit_CjgRI5BDV8y — people
+# G_ig_bmarkfit_CjgRI5BDV8y — lone wolf
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lot, said, surround, yourself. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lone wolf is the identity the speaker chooses after nine years of paying the price: success is a lonely journey, and he would rather be a lone wolf than a sheep among sheep. The phrase appears once, beside paying the price, nine years, next level, and sheep among sheep. The people who said they would be by his side the whole time are not here anymore, and the lesson drawn is about the next level — surround yourself with people just as hungry as you are. The lone wolf is not alone by default; it is the alternative to following the flock.
 
 ## Synonyms
 
-- people
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've been paying the price for the last nine years, and a lot of the people that said that they were gonna be by my side the whole time, they're not here anymore. If you truly want the next level, you have to surround yourself with people that are just as hungry as you are. Success is a lonely journey, but I'd rather be a lone wolf than a sheep among sheep." — sources/S_ig_bmarkfit_CjgRI5BDV8y.md
+> "Success is a lonely journey, but I'd rather be a lone wolf than a sheep among sheep." — sources/S_ig_bmarkfit_CjgRI5BDV8y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that nobody stays loyal: the reel says the people who promised to stay are not here anymore, and its point is about who to surround yourself with next, not that everyone leaves.
+- Read as advice to work alone forever: the lone wolf here is chosen over being a sheep among sheep, and the reel still says to surround yourself with people just as hungry as you are.

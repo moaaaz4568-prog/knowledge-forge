@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [documenting, bmarkfit account context]
+aka: ["documenting your journey", "documenting my fitness journey"]
 origin: sources/S_ig_bmarkfit_Cjdq0_9DVCq.md
 ---
 
-# G_ig_bmarkfit_Cjdq0_9DVCq — documenting
+# G_ig_bmarkfit_Cjdq0_9DVCq — documenting your journey
 
 ## Term
 
-"documenting" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: niche, journey, fitness, focus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Documenting your journey is the reel's answer to what to post on social media: forget the ideal client and the niche at the start, and just document the fitness journey. The phrase appears once, with its first-person variant "documenting my fitness journey", beside ideal client, my niche, 250 clients, and $300 a month. The proof offered is the speaker's own business — built to 250 clients paying $300 a month without worrying about a niche. The mechanism is simple: document the journey, inspire people, and people will reach out for help.
 
 ## Synonyms
 
-- documenting
-- bmarkfit account context (no variant form of the term appears in this source)
+- documenting my fitness journey (the same practice named in the first person)
 
 ## Live Example
 
-> "What do I post on social media? First got started, I wasn't worried about my ideal client or my niche. I was just documenting my fitness journey. I built that business to 250 clients paying me $300 a month, so you don't need a niche. Focus on documenting your journey, inspiring people, and people will reach out to you for help." — sources/S_ig_bmarkfit_Cjdq0_9DVCq.md
+> "Focus on documenting your journey, inspiring people, and people will reach out to you for help." — sources/S_ig_bmarkfit_Cjdq0_9DVCq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "documenting": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that niches never help: the reel says he built to 250 clients without worrying about a niche, not that a niche can never work.
+- Read as a promise that documenting alone brings clients: the documenting here is paired with inspiring people, and the source says people will reach out, not that every post converts.

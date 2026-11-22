@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [idiot, bmarkfit account context]
+aka: ["housewarming present"]
 origin: sources/S_ig_bmarkfit_Cad3u5lDB8A.md
 ---
 
-# G_ig_bmarkfit_Cad3u5lDB8A — idiot
+# G_ig_bmarkfit_Cad3u5lDB8A — housewarming present
 
 ## Term
 
-"idiot" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Housewarming present names the gift in this short clip: a present for Cole, handed over with a teasing "you're an idiot, but you're my idiot." The phrase appears once, beside Cole, present, bro, and that's for me, in a scene that is all joke and no instruction. The present itself is the whole point of the clip — he got it, he gives it, and the affection sits inside the insult. Nothing here turns the gift into a business or coaching idea.
 
 ## Synonyms
 
-- idiot
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay guys, go ahead. I got Cole a present. Oh wait. Is your housewarming present, bro? How do we know? You're an idiot, but you're my idiot. That's for me. You're my idiot." — sources/S_ig_bmarkfit_Cad3u5lDB8A.md
+> "I got Cole a present. Oh wait. Is your housewarming present, bro?" — sources/S_ig_bmarkfit_Cad3u5lDB8A.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "idiot": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a coaching lesson about generosity: the clip is a joke between friends about a gift, not advice on giving or receiving presents.
+- Read as a literal insult: "you're an idiot" here is affectionate teasing toward Cole, and the source gives no criticism of him beyond the joke.

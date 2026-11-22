@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [consistency, bmarkfit account context]
+aka: ["unfair advantage"]
 origin: sources/S_ig_bmarkfit_CjUIVnvDOu6.md
 ---
 
-# G_ig_bmarkfit_CjUIVnvDOu6 — consistency
+# G_ig_bmarkfit_CjUIVnvDOu6 — unfair advantage
 
 ## Term
 
-No content word repeats often enough in this short source (36 words) to form a repeated term, so this entry documents the source's central term "consistency" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Unfair advantage is what consistency becomes in this reel: forget what everybody else is doing, because even if your competition is wealthier, smarter, or more talented than you, outworking them beats them. The phrase appears once, beside outwork them, wealthier, smarter, or more talented, competition, and fuck what everybody else is doing. The advantage is not a trick or a tool — it is the decision to make consistency the thing nobody can match. The reel's whole strategy fits in that one swap: ignore the competition, outwork them, let consistency be the edge.
 
 ## Synonyms
 
-- consistency
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Fuck what everybody else is doing. It doesn't matter if your competition is wealthier, smarter, or more talented than you. If you can outwork them, you'll beat them. You need to make consistency your unfair advantage." — sources/S_ig_bmarkfit_CjUIVnvDOu6.md
+> "You need to make consistency your unfair advantage." — sources/S_ig_bmarkfit_CjUIVnvDOu6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "consistency": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that hard work beats talent every time: the reel says if you can outwork them you will beat them, and it never measures the gap when talent is far ahead.
+- Read as permission to copy competitors: the reel opens with ignoring what everybody else is doing, and the advantage it names is consistency, not imitation.

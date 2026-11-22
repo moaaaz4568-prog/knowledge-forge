@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/bmarkfit/G_ig_bmarkfit_CZ13EiHFsLo.md | back | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_CZ5uJ_zjuro.md | life | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_CaDSPnjjyfE.md | money | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CaSm33vDiv2.md | man | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CaYoHvFjHNU.md | brain | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cad3u5lDB8A.md | idiot | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cafrz4MjWbU.md | people | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ci-bPuKjPPD.md | every single | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiGxmDcjiF3.md | Isolate yourself | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiJWRSwD4fu.md | fucking world | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiL7oCWDufJ.md | client | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiOf8e8JL1I.md | online fitness | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiRFy2RpSTP.md | discipline | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiTp7DEjx8z.md | Number | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiWOc_lJ2PB.md | university | 2 |
+| glossary/bmarkfit/G_ig_bmarkfit_CaSm33vDiv2.md | refrain | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CaYoHvFjHNU.md | freaking out | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cad3u5lDB8A.md | housewarming present | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cafrz4MjWbU.md | serve more people | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ci-bPuKjPPD.md | every single day | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiGxmDcjiF3.md | isolate yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiJWRSwD4fu.md | turn the fucking world off | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiL7oCWDufJ.md | jump out of the airplane | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiOf8e8JL1I.md | niche down | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiRFy2RpSTP.md | pain of discipline | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiTp7DEjx8z.md | sell before you're ready | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiWOc_lJ2PB.md | university is a scam | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ci_bjP_jRrd.md | getting ghosted | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cid8ya8ptSq.md | represents | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CijGbMRJfsx.md | fired | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CilrnSljIt4.md | Step number | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_CioQdlZjw9A.md | even know | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cisv1OZDVrK.md | episodes | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CitantDDN5P.md | gonna | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CiyqoWYDusR.md | fucking | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj01-lvDZCu.md | something | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj1qAybjVM8.md | short form | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj3cRSrjB6_.md | know | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj4K9Iajsg4.md | Aftermath | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj6KqK7jf3h.md | individuals | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj6wdh2jdQ9.md | responsibility | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjB_wC-JzUq.md | fault | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjEly3SJ9Dh.md | product | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjJu_-9j0xi.md | fired | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjUIVnvDOu6.md | consistency | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjV9CXBjb4u.md | nothing | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjWtG4Tj6g6.md | simple | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjY6sDLD1dr.md | Number | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjZR5Wmj-mT.md | everybody | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj_6PzsjgbU.md | fucking world | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cj_J7IEDu0J.md | stand behind | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cjdq0_9DVCq.md | documenting | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjgRI5BDV8y.md | people | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cji1FpSjVAH.md | holding | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjjkS5QDZEm.md | relationships | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjlaK4qjcmY.md | bar | 3 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjmKEojDXSI.md | client | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cjn-D-tjriC.md | growing pains | 2 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjowI00DBDX.md | Lamborghini | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjrTtcwjT_Y.md | destination | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Cjt5TQLjAcU.md | start working | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjvtDDxpkd6.md | started working | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_CjwdcRpD_qd.md | pay | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck1Vcr5jznV.md | Number | 1 |
-| glossary/bmarkfit/G_ig_bmarkfit_Ck2FjGtD7FJ.md | gonna | 3 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cid8ya8ptSq.md | two wolves | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CijGbMRJfsx.md | never give up on yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CilrnSljIt4.md | built my offer | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CioQdlZjw9A.md | the world is abundant | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cisv1OZDVrK.md | the slight edge | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CitantDDN5P.md | walk the fucking walk | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CiyqoWYDusR.md | dream life | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj01-lvDZCu.md | search his own soul | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj1qAybjVM8.md | short form content | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj3cRSrjB6_.md | silver spoon | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj4K9Iajsg4.md | refrain | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj6KqK7jf3h.md | proximity is power | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj6wdh2jdQ9.md | your responsibility | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjB_wC-JzUq.md | your fucking fault | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjEly3SJ9Dh.md | greatest product of all time | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjJu_-9j0xi.md | never give up on yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjUIVnvDOu6.md | unfair advantage | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjV9CXBjb4u.md | refrain | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjWtG4Tj6g6.md | the biggest lie | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjY6sDLD1dr.md | closed mouths don't get fed | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjZR5Wmj-mT.md | block out the opinions | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj_6PzsjgbU.md | it gets better | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cj_J7IEDu0J.md | their opinion doesn't pay my fucking rent | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cjdq0_9DVCq.md | documenting your journey | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjgRI5BDV8y.md | lone wolf | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cji1FpSjVAH.md | rip away the fucking safety net | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjjkS5QDZEm.md | know you, like you, and trust you | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjlaK4qjcmY.md | I realized I was an addict | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjmKEojDXSI.md | make a bigger impact | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cjn-D-tjriC.md | growing pains | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjowI00DBDX.md | never give up on yourself | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjrTtcwjT_Y.md | refrain | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Cjt5TQLjAcU.md | going all in on you | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjvtDDxpkd6.md | cutting myself off | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_CjwdcRpD_qd.md | skin in the game | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck1Vcr5jznV.md | waiting too long to start | 1 |
+| glossary/bmarkfit/G_ig_bmarkfit_Ck2FjGtD7FJ.md | one month for free | 1 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ck36QxHjJ8D.md | Number | 2 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ck4qiojD5q6.md | gonna | 2 |
 | glossary/bmarkfit/G_ig_bmarkfit_Ck6fStrjTNX.md | Number | 1 |

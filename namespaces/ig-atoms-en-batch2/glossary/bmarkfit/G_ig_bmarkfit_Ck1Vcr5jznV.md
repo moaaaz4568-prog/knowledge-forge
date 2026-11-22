@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Number, bmarkfit account context]
+aka: ["waiting too long to start"]
 origin: sources/S_ig_bmarkfit_Ck1Vcr5jznV.md
 ---
 
-# G_ig_bmarkfit_Ck1Vcr5jznV — Number
+# G_ig_bmarkfit_Ck1Vcr5jznV — waiting too long to start
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: month, one, nobody, owes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Waiting too long to start is mistake number four of the reel's seven mistakes preventing online coaches from crossing $10,000 a month: why haven't you committed yet? The phrase appears once, beside be entitled, shitty program, posting general content, and not understanding sales properly. The other six mistakes frame it — entitlement, a shitty program of PDFs instead of an app, general content posted to everybody, not adapting to TikTok's Reels and YouTube Shorts, not gaining business smarts, and not understanding sales. The list's logic is that each mistake blocks the same crossing, and waiting is the one that keeps the start itself from happening.
 
 ## Synonyms
 
-- Number
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's seven mistakes preventing online coaches from crossing $10,000 a month. Number one is to be entitled. Nobody owes you shit. Number two is delivering a shitty program, like sending PDFs instead of an app for your program. Number three is posting general content. There's too many online fitness coaches that are posting content to everybody. That's why most of them are broke." — sources/S_ig_bmarkfit_Ck1Vcr5jznV.md
+> "Number four is waiting too long to start. Why haven't you committed yet?" — sources/S_ig_bmarkfit_Ck1Vcr5jznV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that starting fixes all seven mistakes: waiting too long is only mistake four of seven, and the reel lists six others from entitlement to sales.
+- Read as proof that commitment alone crosses $10,000 a month: the question "Why haven't you committed yet?" is the prod for one mistake, and the source never says commitment alone pays.

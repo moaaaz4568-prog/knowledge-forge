@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [every single, bmarkfit account context]
+aka: ["every single day"]
 origin: sources/S_ig_bmarkfit_Ci-bPuKjPPD.md
 ---
 
-# G_ig_bmarkfit_Ci-bPuKjPPD — every single
+# G_ig_bmarkfit_Ci-bPuKjPPD — every single day
 
 ## Term
 
-"every single" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, single, every, worked. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Every single day names the daily grind behind the reel's commitment: once the decision is made, the work repeats daily — working on it, showing up on social media, live streaming, and podcasting. The phrase appears six times, beside I'm the one, relentlessly, live streaming, and podcasting, and it carries the whole method: no single heroic act, only days stacked up. The payoff the reel describes is waking up one morning as the person in the vision, having become the one through the daily repetition. The phrase is the schedule, not the slogan.
 
 ## Synonyms
 
-- every single
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The type of motherfucker that rises up and is" — sources/S_ig_bmarkfit_Ci-bPuKjPPD.md
-> "Shit, I'm fucking here. I did it. I'm the fucking one." — sources/S_ig_bmarkfit_Ci-bPuKjPPD.md
+> "And then every single day I worked on it. Every single day relentlessly, every single day showing up on social media, every single day live streaming, every single day podcasting, keeping this vision in mind of this person that I wanted to become, and every single day working towards it." — sources/S_ig_bmarkfit_Ci-bPuKjPPD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "every single": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that daily effort guarantees the outcome: the reel tells one person's story of daily work leading to arrival, not a measured guarantee that the same days produce the same result.
+- Read as a call to work without rest: the daily list here is showing up, streaming, and podcasting toward a vision, and the source never discusses rest, recovery, or limits.

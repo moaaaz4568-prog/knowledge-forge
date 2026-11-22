@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [short form, bmarkfit account context]
+aka: ["short form content", "short form videos"]
 origin: sources/S_ig_bmarkfit_Cj1qAybjVM8.md
 ---
 
-# G_ig_bmarkfit_Cj1qAybjVM8 — short form
+# G_ig_bmarkfit_Cj1qAybjVM8 — short form content
 
 ## Term
 
-"short form" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 10k, month, form, content. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Short form content names the format the reel says 235 of its students are using to make 10k a month: short videos posted across YouTube shorts, Facebook reels, Instagram reels, Facebook business reels, and TikToks. The phrase appears once, with its sibling form "short form videos" in the instruction to post them, beside 235 of my students, 10k a month, and popping on all platforms. The claim is about reach — the videos are popping on all platforms — rather than about any single platform's rules. The reel's whole advice is the format plus the posting, nothing else.
 
 ## Synonyms
 
-- short form
-- bmarkfit account context (no variant form of the term appears in this source)
+- short form videos (the same format named as the thing to post)
 
 ## Live Example
 
-> "This is so effective that 235 of my students are using it to make 10k a month. Short form content, YouTube shorts, Facebook reels, Instagram reels, Facebook business reels, and TikToks. Post short form videos. They're popping on all platforms." — sources/S_ig_bmarkfit_Cj1qAybjVM8.md
+> "Short form content, YouTube shorts, Facebook reels, Instagram reels, Facebook business reels, and TikToks." — sources/S_ig_bmarkfit_Cj1qAybjVM8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "short form": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that short videos earn 10k a month: the reel says 235 students use it to make 10k a month, not that posting alone guarantees that income.
+- Read as a claim that every platform works the same: the reel lists six surfaces where the videos are popping, and it never says the same video performs identically on each.

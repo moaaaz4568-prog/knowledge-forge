@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [fired, bmarkfit account context]
+aka: ["never give up on yourself"]
 origin: sources/S_ig_bmarkfit_CjJu_-9j0xi.md
 ---
 
-# G_ig_bmarkfit_CjJu_-9j0xi — fired
+# G_ig_bmarkfit_CjJu_-9j0xi — never give up on yourself
 
 ## Term
 
-"fired" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bar, actually, working, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Never give up on yourself closes this retelling of a firing: the manager's call came while the speaker was not even at work, telling him he was being watched on the cameras filling up bottles and doing drugs behind the bar. The phrase appears once, beside drug addiction, bar, Kyrsten, and chase your dreams. The reversal that follows is the evidence offered — a successful online business, his own podcast, his own gym, married to a 10 out of 10, happiest he has ever been. The charge lands because the fall it follows is told in full, down to the insult on the call.
 
 ## Synonyms
 
-- fired
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nine years ago, I suffered with a drug addiction, and this was actually the bar that I got fired from. I was just telling Kyrsten, I remember I didn't actually get fired while I was working. I got a call from the manager, and he was" — sources/S_ig_bmarkfit_CjJu_-9j0xi.md
+> "Now I run a successful online business, have my own podcast, own my own gym, married to this 10 out of 10, and I'm happiest I've ever been." — sources/S_ig_bmarkfit_CjJu_-9j0xi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fired": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee that rock bottom always turns around: the reel tells one person's reversal from the bar firing to the business, podcast, and gym, not a rule that every low point ends the same way.
+- Read as advice to forget the firing: the manager's call and the cameras are retold in full, and the source keeps them as the reason the charge lands.

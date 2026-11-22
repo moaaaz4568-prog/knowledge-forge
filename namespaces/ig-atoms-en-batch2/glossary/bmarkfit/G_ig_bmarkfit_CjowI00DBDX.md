@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [Lamborghini, bmarkfit account context]
+aka: ["never give up on yourself"]
 origin: sources/S_ig_bmarkfit_CjowI00DBDX.md
 ---
 
-# G_ig_bmarkfit_CjowI00DBDX — Lamborghini
+# G_ig_bmarkfit_CjowI00DBDX — never give up on yourself
 
 ## Term
 
-No content word repeats often enough in this short source (44 words) to form a repeated term, so this entry documents the source's central term "Lamborghini" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Never give up on yourself closes this nine-year arc: flat broke, addicted to drugs, living in a trailer park, and then, at the start of 2021, a commitment to getting a Lamborghini — and he just went out and got one. The phrase appears once, beside flat broke, Lamborghini, trailer park, and chase your dreams. The car is the marker of the arc, not the whole story: the nine years between the trailer park and the purchase are what the charge rests on. The reel pairs the charge with its twin — chase your dreams — and offers the Lamborghini as the proof that the pair can carry a person across a decade.
 
 ## Synonyms
 
-- Lamborghini
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nine years ago, I was flat broke, addicted to drugs, and I lived in a trailer park. At the start of 2021, I committed to getting a Lamborghini, and I just went out and got one. Never give up on yourself. Chase your dreams." — sources/S_ig_bmarkfit_CjowI00DBDX.md
+> "At the start of 2021, I committed to getting a Lamborghini, and I just went out and got one." — sources/S_ig_bmarkfit_CjowI00DBDX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Lamborghini": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that a car proves the turnaround: the Lamborghini here is the marker of a nine-year arc from flat broke, and the source never says the car itself is the achievement.
+- Read as a promise that commitment buys anything: the commitment was to getting the car and he went out and got one, and the reel never says every commitment ends in a purchase.

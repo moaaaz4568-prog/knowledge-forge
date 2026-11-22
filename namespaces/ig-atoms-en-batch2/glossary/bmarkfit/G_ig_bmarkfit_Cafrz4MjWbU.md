@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [people, bmarkfit account context]
+aka: ["serve more people", "serving people"]
 origin: sources/S_ig_bmarkfit_Cafrz4MjWbU.md
 ---
 
-# G_ig_bmarkfit_Cafrz4MjWbU — people
+# G_ig_bmarkfit_Cafrz4MjWbU — serve more people
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: focus, fucking, serving, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Serve more people is the reel's rule for making more money: if you are money driven, focus on serving people, because the only way to make more money is to serve more people. The serve wording appears twice, once as "serving people" and once as "serve more people", beside money driven, focus, and make more money. The logic is direct rather than tactical — no funnel or offer is named, only the link between serving more people and earning more. It reframes chasing money as chasing service.
 
 ## Synonyms
 
-- people
-- bmarkfit account context (no variant form of the term appears in this source)
+- serving people (the same verb in its continuous form, "focus on fucking serving people")
 
 ## Live Example
 
-> "If you are money driven, then focus on fucking serving people because the only way to make more money is to serve more people." — sources/S_ig_bmarkfit_Cafrz4MjWbU.md
+> "the only way to make more money is to serve more people." — sources/S_ig_bmarkfit_Cafrz4MjWbU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that service guarantees income: the reel states the link as a rule of thumb for the money driven, not as a measured guarantee about any specific amount.
+- Read as a sales tactic: serving people here is the whole prescription, and the source names no offer, price, or script for turning service into sales.

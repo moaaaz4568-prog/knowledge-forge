@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [online fitness, bmarkfit account context]
+aka: ["niche down"]
 origin: sources/S_ig_bmarkfit_CiOf8e8JL1I.md
 ---
 
-# G_ig_bmarkfit_CiOf8e8JL1I — online fitness
+# G_ig_bmarkfit_CiOf8e8JL1I — niche down
 
 ## Term
 
-"online fitness" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: coach, fitness, online, new. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Niche down is the reel's advice to a new online fitness coach: the shorter you have been in business, the more narrow your focus needs to be, until you become the specialist in one narrow niche. The phrase appears once, beside narrow your focus, very narrow niche, specialist, and men 35 plus. Don Lam is the contrast case: nine years in, he posts male and female transformations and gets clients from all walks of life, while a newcomer wins by specializing. The speaker's own example is helping men 35 plus get their bodies back and feel better than they did in their 20s.
 
 ## Synonyms
 
-- online fitness
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The shorter you've been in business, the more narrow your focus needs to be. Allow me to explain. One of my clients, Don Lam, has been an online fitness coach for the last nine years and as a result, he just posts male and female transformations and he gets clients from all walks of life." — sources/S_ig_bmarkfit_CiOf8e8JL1I.md
-> "If you're a new online fitness coach, you'll see a lot more success by focusing specifically on a very narrow niche and becoming the specialist in that niche. As an example, I help men 35 plus get their bodies back and feel better than they did in their 20s. So if you are a new business owner, it's super important to niche down." — sources/S_ig_bmarkfit_CiOf8e8JL1I.md
+> "So if you are a new business owner, it's super important to niche down." — sources/S_ig_bmarkfit_CiOf8e8JL1I.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "online fitness": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule that every coach must stay narrow forever: the reel ties the narrow focus to being new in business, and its own contrast case shows a nine-year coach succeeding broadly.
+- Read as a claim that a niche alone brings clients: the niche here is paired with becoming the specialist in it, and the source gives no promise that naming a niche without the work brings anyone in.

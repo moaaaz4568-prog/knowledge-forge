@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [even know, bmarkfit account context]
+aka: ["the world is abundant"]
 origin: sources/S_ig_bmarkfit_CioQdlZjw9A.md
 ---
 
-# G_ig_bmarkfit_CioQdlZjw9A — even know
+# G_ig_bmarkfit_CioQdlZjw9A — the world is abundant
 
 ## Term
 
-"even know" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: names, know, competitors, even. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The world is abundant is the reel's reason for ignoring competitors entirely: there is enough to go around, so cheering for them costs nothing and their success has nothing to do with you. The phrase appears once, beside competitors, spend zero seconds, cheering for them, and give a fuck. The speaker says he does not even know his competitors' names, does not even know they exist, and spends zero seconds on it. The abundance claim is the whole argument — no tactic follows from it, only the refusal to watch rivals.
 
 ## Synonyms
 
-- even know
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't even know my competitors' names. I don't even know they exist. Give a fuck. Spend zero seconds on it. Cheering for them, let them do their thing, has nothing to do with me. The world is abundant." — sources/S_ig_bmarkfit_CioQdlZjw9A.md
+> "Cheering for them, let them do their thing, has nothing to do with me. The world is abundant." — sources/S_ig_bmarkfit_CioQdlZjw9A.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "even know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to ignore the market entirely: the reel says to spend zero seconds on competitors' names, not that the market or the audience stops existing.
+- Read as a claim that abundance removes competition: the world being abundant here means cheering for competitors costs nothing, and the source never says competitors stop competing.

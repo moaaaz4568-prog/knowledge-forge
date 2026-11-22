@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: bmarkfit
-aka: [fucking world, bmarkfit account context]
+aka: ["it gets better"]
 origin: sources/S_ig_bmarkfit_Cj_6PzsjgbU.md
 ---
 
-# G_ig_bmarkfit_Cj_6PzsjgbU — fucking world
+# G_ig_bmarkfit_Cj_6PzsjgbU — it gets better
 
 ## Term
 
-"fucking world" is the most frequent repeated content term in this source (a transcribed Instagram video from the bmarkfit account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: changing, world, man, fucking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+It gets better is the promise the 30-year-old Brian makes to his 14-year-old self: heartbreak, depression, and drug addiction are coming, but it gets better, so keep going and pull through. The phrase appears once, beside heartbreak, depression, drug addiction, 1,300 clients, and 6,500 square feet. The letter's before-and-after is the evidence offered — a mansion with a pool and hot tub, company retreats at the house, a podcast near a million downloads, a massive impact on the world. The message that will change the world, the letter says, is the one the 14-year-old is about to live through.
 
 ## Synonyms
 
-- fucking world
-- bmarkfit account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Dear 14 year old Brian, it's me, 30 year old Brian. You'd be so proud. Honestly, you won't even recognize the life that you're living now. You live in a mansion, it's 6,500 square feet. You have your own pool, you have your own hot tub, and you host company retreats at your house. You're changing the fucking world, man. Got 1,300 clients, a podcast that almost has a million downloads." — sources/S_ig_bmarkfit_Cj_6PzsjgbU.md
-> "You're making a massive impact on the world. Now you're about to go through heartbreak, depression, drug addiction, but I can promise you that it gets better. So I'm encouraging you to keep going. You're gonna pull through. Your message is gonna change the fucking world. I'll be here waiting for you at 30 years old, making you proud." — sources/S_ig_bmarkfit_Cj_6PzsjgbU.md
+> "Now you're about to go through heartbreak, depression, drug addiction, but I can promise you that it gets better." — sources/S_ig_bmarkfit_Cj_6PzsjgbU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking world": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that pain passes quickly: the letter lists heartbreak, depression, and drug addiction ahead, and it promises only that it gets better, not when.
+- Read as a claim that success erases the hard years: the mansion, the clients, and the podcast are presented alongside the coming pain, and the source never says the success undoes it.
