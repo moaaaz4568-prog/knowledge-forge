@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [make, anasnbcsales account context]
+aka: [power of distribution]
 origin: sources/S_ig_anasnbcsales_DWhVanFD9Ot.md
 ---
 
-# G_ig_anasnbcsales_DWhVanFD9Ot — make
+# G_ig_anasnbcsales_DWhVanFD9Ot — power of distribution
 
 ## Term
 
-"make" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: easy, difficult, see, sure. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The "power of distribution" is the lesson the speaker says he learned working the corners and the streets: be there, available, the moment someone has the craving. The phrase occurs once in the source, as the named lesson, and its sales translation is to make buying stupid easy — "here's the payment link, what's the next step?" — instead of forcing a call and a round of questions on someone already ready. Its neighbors are "stupid easy", "top of mind", "friction", and "payment link". Concretely, he and his runners stayed available "as soon as someone had a craving, a hit", because "when someone wants a hit, they ain't trying to wait" — they find "who's the closest supplier, who's gonna take their money" — and the salespeople's failure is the mirror image: no follow-up, no top-of-mind presence, and friction at the exact moment of the decision.
 
 ## Synonyms
 
-- make
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You have to make it so easy for someone to buy when they need you the most. Which is the exact problem that I see with so many salespeople and offers." — sources/S_ig_anasnbcsales_DWhVanFD9Ot.md
-> "I'm like, dude, you're gonna take their business anyways, just collect the money and make it stupid easy. Because when someone wants a hit, they ain't trying to wait. They're trying to find who's the closest supplier, who's gonna take their money, who's gonna do business with them." — sources/S_ig_anasnbcsales_DWhVanFD9Ot.md
+> "One of the biggest lessons I learned working the corners and the streets is the power of distribution." — sources/S_ig_anasnbcsales_DWhVanFD9Ot.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "be everywhere": distribution here is availability at the craving, not coverage — runners on the corner at the moment of the hit — so plastering the offer everywhere while being unreachable at the decision moment keeps the lesson's name and drops its mechanism.
+- Read as removing the sales call entirely: the point is to collect the money when the buyer is ready ("you're gonna take their business anyways"), not to abolish discovery — using "stupid easy" as an excuse to skip every question turns a frictionless close into an order form with no diagnosis behind it.

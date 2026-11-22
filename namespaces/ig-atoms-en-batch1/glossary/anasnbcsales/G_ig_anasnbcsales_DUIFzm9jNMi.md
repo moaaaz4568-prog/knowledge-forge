@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [gonna, anasnbcsales account context]
+aka: [no-based close]
 origin: sources/S_ig_anasnbcsales_DUIFzm9jNMi.md
 ---
 
-# G_ig_anasnbcsales_DUIFzm9jNMi — gonna
+# G_ig_anasnbcsales_DUIFzm9jNMi — no-based close
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: life, uncomfortable, something, anyways. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "no-based close" is the speaker's final move after the objection loop: a question built to make "no" the easy answer, so the prospect agrees by dismissing the risk. The phrase occurs once in the source — "you come back with a no-based close" — and its concrete form is the worst-case question: "what's the absolute worst-case scenario if you said yes to yourself today?" Its neighbors are "worst-case scenario", "confident servant leader", "rip the band-aid", and "loop, close". Concretely, the prospect answers "it's not gonna be that bad or lose a little bit of money", and the rep replies "Perfect. Let's do it anyways. What card do you wanna put this on?" — the close lands because the feared outcome, said out loud, turns out small.
 
 ## Synonyms
 
-- gonna
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey man, I get it. It's uncomfortable. It's a little bit scary. It's a little bit more money than you thought you were gonna invest. But let me ask you, John, what's the absolute worst-case scenario if you said yes to yourself today?" — sources/S_ig_anasnbcsales_DUIFzm9jNMi.md
+> "At the very end, you go, you come back with a no-based close." — sources/S_ig_anasnbcsales_DUIFzm9jNMi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a trick question: the close works only after the loop — objection handled, then close, then another objection, then close again — and asked cold, without the pressure and the "confident servant leader" frame, the worst-case question is just a hypothetical with nothing behind it.
+- Read as removing pressure: the video insists pressure is the job — "no one makes a decision without some pressure" — so the no-based close is pressure applied gently ("a little bit pressure, a little bit uncomfortable"), not pressure abandoned.

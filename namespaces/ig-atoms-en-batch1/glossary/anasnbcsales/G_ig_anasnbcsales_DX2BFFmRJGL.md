@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [gonna fix, anasnbcsales account context]
+aka: [auto creators]
 origin: sources/S_ig_anasnbcsales_DX2BFFmRJGL.md
 ---
 
-# G_ig_anasnbcsales_DX2BFFmRJGL — gonna fix
+# G_ig_anasnbcsales_DX2BFFmRJGL — auto creators
 
 ## Term
 
-"gonna fix" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: meta, fix, everything, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Auto creators" is Meta's automated ad-creation feature, and this source is a satirical sketch mocking the promise that Meta's AI will fix everything with your ads. The phrase occurs once in the source, in the punchline that turning them all on is how you burn your money, and its neighbors are "burn your money", "enhancements", "Meta", and "fix all my ads". Concretely, the speaker plays a believer in the promise — Meta will fix all his ads — and acts out the absurd rewards the AI supposedly delivers, a girlfriend and hair and being a white boy, before the closing warning not to leave the enhancements on.
 
 ## Synonyms
 
-- gonna fix
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "My mom's gonna be so excited. Oh, you sexy. Look at that, it gave me hair. If you wanna burn your money, turn on all the auto creators, everything. Don't be a dumbass and leave the enhancements on." — sources/S_ig_anasnbcsales_DX2BFFmRJGL.md
+> "If you wanna burn your money, turn on all the auto creators, everything." — sources/S_ig_anasnbcsales_DX2BFFmRJGL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna fix": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an endorsement of the feature: the sketch is mockery — the "white boy", the girlfriend, the hair are the AI's promised miracles played as a joke — so taking "turn on all the auto creators" as advice inverts the video's warning into the mistake it satirizes.
+- Read as a claim that AI ads never work: the joke targets Meta's promise that AI "will fix everything", not automation itself — using the sketch to condemn every automated feature extends a punchline about overpromising into a verdict the source never delivers.

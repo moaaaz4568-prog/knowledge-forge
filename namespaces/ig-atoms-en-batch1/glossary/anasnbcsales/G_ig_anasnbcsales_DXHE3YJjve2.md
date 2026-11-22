@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [questions, question]
+aka: [lean into it]
 origin: sources/S_ig_anasnbcsales_DXHE3YJjve2.md
 ---
 
-# G_ig_anasnbcsales_DXHE3YJjve2 — questions
+# G_ig_anasnbcsales_DXHE3YJjve2 — lean into it
 
 ## Term
 
-"questions" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: answer, gonna, unneeded, even. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To "lean into it" is the speaker's move when a prospect questions his competence under the cover of curiosity: call out the suspicion directly and lean into it, with humor, instead of answering a pile of random questions. The phrase occurs twice in the source — "you just gotta like really lean into it" and "You have to just call it out and lean into it" — and the reason is that no one is just curious: "There's always a question you're trying to answer in your mind", usually distrust about where the team is based and whether the company will vanish after collecting payment. Its neighbors are "just curious", "fly by night guys", "merry go round", and "humanizes". Concretely, he jokes about it — "Once I collect the payments, like you're never gonna hear from us" — and the prospect opens up about the fly-by-night guys, which humanizes the exchange; chasing the random questions instead is "a trap in every regard" because you answer questions without knowing what the actual question is.
 
 ## Synonyms
 
-- questions
-- question (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You just gotta like really lean into it and not be weird about it. You have to just call it out and lean into it. Don't play this like weird merry go round and try to answer all these unneeded questions. You're gonna answer all these questions, you don't even know what the actual question is. It's a trap in every regard. I don't like to just chase random ass questions." — sources/S_ig_anasnbcsales_DXHE3YJjve2.md
+> "You just gotta like really lean into it and not be weird about it." — sources/S_ig_anasnbcsales_DXHE3YJjve2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "questions": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as aggression: leaning in here is a joke that names the distrust, not a confrontation — "not be weird about it" is part of the instruction — so calling out the suspicion with hostility turns the humanizing move into the weirdness it was meant to avoid.
+- Read as answering every question: the move replaces the merry-go-round of unneeded questions with one named question — the trust question — so leaning in and then still answering everything anyway keeps the trap the move was built to escape.

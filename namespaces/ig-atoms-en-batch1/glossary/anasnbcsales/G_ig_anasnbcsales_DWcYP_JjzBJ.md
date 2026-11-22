@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [speaking, anasnbcsales account context]
+aka: [stay silent]
 origin: sources/S_ig_anasnbcsales_DWcYP_JjzBJ.md
 ---
 
-# G_ig_anasnbcsales_DWcYP_JjzBJ — speaking
+# G_ig_anasnbcsales_DWcYP_JjzBJ — stay silent
 
 ## Term
 
-"speaking" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: rep, looking, see, sales. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To "stay silent" is the speaker's move when a prospect stops listening two minutes into the call — looking around, "not even there" while the rep speaks: say nothing and let the silence do the work. The phrase occurs once in the source, as the whole instruction: "all you're gonna do is just stay silent". Its neighbors are "the frame", "professional", "gain control back", and "first two minutes". Concretely, after a few seconds the prospect snaps back — "whoa, what's going on?" — and the rep answers gently, "it seemed like you just had to wrap up something, so I just wanted to give you a quick moment", which reads as seasoned and assertive: "holy shit, this guy's a professional", and in that moment "the whole frame will change and you will gain control back of the sale".
 
 ## Synonyms
 
-- speaking
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And this is in the first two minutes of the call. If you ever have that happen, all you're gonna do is just stay silent." — sources/S_ig_anasnbcsales_DWcYP_JjzBJ.md
-> "I gotta step up and I can't treat them like every other average salesperson out there. And just in that moment, the whole frame will change and you will gain control back of the sale and actually be able to go further, way deeper and be of service to your prospect because that is your only job, to serve them at the highest level." — sources/S_ig_anasnbcsales_DWcYP_JjzBJ.md
+> "If you ever have that happen, all you're gonna do is just stay silent." — sources/S_ig_anasnbcsales_DWcYP_JjzBJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "speaking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as ignoring the prospect: the silence here is a gift of a moment ("I just wanted to give you a quick moment"), not a punishment — used as a cold stare or a sulk, it reads as the unprofessionalism it is meant to expose in the prospect.
+- Read as a trick that works anywhere: the move depends on the first two minutes and a visibly checked-out prospect — deployed mid-call on an engaged prospect, the silence answers a question nobody asked and breaks the frame instead of changing it.

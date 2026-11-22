@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [okay, anasnbcsales account context]
+aka: [emotional roller coaster]
 origin: sources/S_ig_anasnbcsales_DU0VZfHjV1i.md
 ---
 
-# G_ig_anasnbcsales_DU0VZfHjV1i — okay
+# G_ig_anasnbcsales_DU0VZfHjV1i — emotional roller coaster
 
 ## Term
 
-"okay" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: okay, smile, celebrate, honor. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The "emotional roller coaster" is what the speaker says a new buyer rides right after investing: "holy shit, what did I do?", nerve, fear, then excitement on the other side. The phrase occurs once in the source, introduced by the "seven times disclaimer" — the warning he repeats to buyers that the swing is coming — and his whole point is that the ride is normal, not a sign of a mistake. Its neighbors are "seven times disclaimer", "this is natural", "trust that", and "this is my journey". Concretely, he tells the buyer that every person they look up to — "an Elon Musk, a Jeff Bezos" — went through the same discomfort, so the fear is the price of the excitement: "you got to have that nerve, that little bit of fear, to have the excitement".
 
 ## Synonyms
 
-- okay
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But just know this is natural. Whatever, whatever emotion you go through, you just got, you just got to trust that. And you're just like, hey, every person who succeeded going through that, like, this is my path, this is my journey. Okay, so it's okay to put a smile. It's okay to feel into that." — sources/S_ig_anasnbcsales_DU0VZfHjV1i.md
+> "Seven times disclaimer, you'll kind of go through like an emotional roller coaster." — sources/S_ig_anasnbcsales_DU0VZfHjV1i.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "okay": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as buyer's remorse to fix: the speaker's move is to normalize the swing ("this is natural", "just got to trust that"), not to refund or re-pitch — treating the fear as a problem to solve reopens a decision the buyer already made.
+- Read as a one-time dip: the roller coaster here is the whole arc of the journey — fear first, excitement after — so quoting it for a single nervous moment misses that the excitement on the other side is part of the same ride.

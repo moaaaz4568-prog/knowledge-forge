@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [gonna, anasnbcsales account context]
+aka: [rule of 100]
 origin: sources/S_ig_anasnbcsales_DTv19nZEnQ7.md
 ---
 
-# G_ig_anasnbcsales_DTv19nZEnQ7 — gonna
+# G_ig_anasnbcsales_DTv19nZEnQ7 — rule of 100
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gonna, crush, great, serve. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The "rule of 100" is the speaker's rule that every sales call is independent and each one demands 100% of you, no matter what happened in the previous call. The phrase occurs twice in the source: once as the diagnosis for closing below 50%, and once as the conclusion — "hence the rule of 100". The video proves it with five boxed calls needing 120%, 85%, 66%, 90%, and 100% of your A game: lose the first (which needed 120% and "you couldn't have closed"), let the funk carry over, and you lose the other four that "were closable" too. Its neighbors are "A game", "reset ritual", "funk", and "independent". Concretely, the top 1% closers the speaker coached run a reset ritual between calls — a silly physical reset, eyes closed and breathing, or blasting a favorite song — so each interaction starts fresh and "they don't talk to each other".
 
 ## Synonyms
 
-- gonna
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I'll just shout back their name. So if it's Steve, I'm like, okay, Steve, he's gonna be a great client." — sources/S_ig_anasnbcsales_DTv19nZEnQ7.md
+> "If you're closing below 50%, it's because you're not using the rule of 100." — sources/S_ig_anasnbcsales_DTv19nZEnQ7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "give 100% effort on every call": the rule is not about effort alone but about independence — the point is that a lost deal must not lower the next call's percentage, so effort without the reset still loses the four closable deals.
+- Read as a guarantee: the rule never promises the 120% call — "it's outside your skill, it's outside your capacity" — and treating the rule as a way to close every deal mistakes a reset discipline for a skill upgrade.

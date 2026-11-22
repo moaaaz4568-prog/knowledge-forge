@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch1)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,514 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,459 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3005,55 +3005,55 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/anasnbcsales/G_ig_anasnbcsales_DSVtX2TjxT9.md | call | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DSYwnT_DCsk.md | camera | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DSbYf4DDAcQ.md | wild guess | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DSdxTiaj4Qf.md | way | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DSfO45vDudQ.md | blah blah | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DSlyAUxDC93.md | want | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DTOJYJZEwWA.md | start | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DTRMEyrD31R.md | think | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DTv19nZEnQ7.md | gonna | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DU0VZfHjV1i.md | okay | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DU2fIZejhF0.md | thing | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DU9IRBtkhhW.md | gonna | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUB1mAJDOC6.md | gonna | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUD9csejMtj.md | six years | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUDFs22DDb7.md | know | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUG52jSEux-.md | order | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUIFzm9jNMi.md | gonna | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUJqWoijO6w.md | one wants | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUNouUgjBrH.md | see | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUQS8UWjPL0.md | gonna | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DUVY0IUDuc3.md | kind | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVZJYjxD6-C.md | ever ever | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVZYM78gigD.md | little | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVbB-Xsk3m7.md | shit ton | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVinAMRkcPN.md | because | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVl-hdCjXWo.md | feedback close | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DVv_gPFjF-w.md | want | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DW0BejfDMI_.md | question | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DSdxTiaj4Qf.md | selling intention | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DSfO45vDudQ.md | inversion questions | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DSlyAUxDC93.md | 72 hour rule | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DTOJYJZEwWA.md | compelling vision | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DTRMEyrD31R.md | urgency driver | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DTv19nZEnQ7.md | rule of 100 | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DU0VZfHjV1i.md | emotional roller coaster | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DU2fIZejhF0.md | acknowledgement | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DU9IRBtkhhW.md | reset ritual | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUB1mAJDOC6.md | buy-in | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUD9csejMtj.md | pay with your time | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUDFs22DDb7.md | window shopping mode | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUG52jSEux-.md | mayo | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUIFzm9jNMi.md | no-based close | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUJqWoijO6w.md | practice in private | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUNouUgjBrH.md | sense of belonging | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUQS8UWjPL0.md | pattern interrupt | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DUVY0IUDuc3.md | money objection | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVZJYjxD6-C.md | date anchor | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVZYM78gigD.md | Fugazi | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVbB-Xsk3m7.md | undivided attention | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVinAMRkcPN.md | accountability | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVl-hdCjXWo.md | feedback close | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DVv_gPFjF-w.md | take full responsibility | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DW0BejfDMI_.md | what's behind the question | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DWGEy35jpI9.md | repeated exposure | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWIokqhjfYy.md | little bit | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWZ7KQ0j2ZN.md | closer | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWcYP_JjzBJ.md | speaking | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWh2iJ5DEmh.md | gonna | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWhVanFD9Ot.md | make | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWhZlyVj1tj.md | house | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWkF42OD_Ic.md | guys | 2 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWIokqhjfYy.md | faith | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWZ7KQ0j2ZN.md | closer | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWcYP_JjzBJ.md | stay silent | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWh2iJ5DEmh.md | NBC vortex method | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWhVanFD9Ot.md | power of distribution | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWhZlyVj1tj.md | chant | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWkF42OD_Ic.md | gatekeeper | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DWpCTySD3Pj.md | priority | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWpXbBWDzt6.md | kind | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DWxgz7qDDUJ.md | right person | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX2BFFmRJGL.md | gonna fix | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX2BUjfx8ce.md | gonna fix | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX2MLORxWTm.md | people | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX4KR-sgqSs.md | sale | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX4llPYCgTG.md | Okay | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX647DoO5qJ.md | unique | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX65La_uBgs.md | unique | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX76VYpifeY.md | someone | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DX7ERRNAgK6.md | rounding error | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DXAkcsUj5xu.md | little bit | 2 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DXHE3YJjve2.md | questions | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DXR_DPDEQlb.md | different | 1 |
-| glossary/anasnbcsales/G_ig_anasnbcsales_DXsRfkGD6qN.md | Bye bye | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWpXbBWDzt6.md | involvement | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DWxgz7qDDUJ.md | doing you a service | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX2BFFmRJGL.md | auto creators | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX2BUjfx8ce.md | burn your money | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX2MLORxWTm.md | rounding error | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX4KR-sgqSs.md | another resell | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX4llPYCgTG.md | happy path to the money | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX647DoO5qJ.md | sea of sameness | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX65La_uBgs.md | positioning the offer | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX76VYpifeY.md | law of averages | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DX7ERRNAgK6.md | just dial | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DXAkcsUj5xu.md | worst case scenario | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DXHE3YJjve2.md | lean into it | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DXR_DPDEQlb.md | different offer | 1 |
+| glossary/anasnbcsales/G_ig_anasnbcsales_DXsRfkGD6qN.md | prosperous journey | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DY-fBxUjmeC.md | close | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DY54rwnsJor.md | every single | 1 |
 | glossary/anasnbcsales/G_ig_anasnbcsales_DY5JDc9A_Vy.md | certainty | 2 |

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [think, anasnbcsales account context]
+aka: [urgency driver]
 origin: sources/S_ig_anasnbcsales_DTRMEyrD31R.md
 ---
 
-# G_ig_anasnbcsales_DTRMEyrD31R — think
+# G_ig_anasnbcsales_DTRMEyrD31R — urgency driver
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, objection, getting, instead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The "urgency driver" is the reason the prospect must act now, which the rep defines in move two of a three-move sequence for killing the "I need to think about it" objection. The phrase occurs once in the source, as an instruction — "define the urgency driver" — and the move works by making the prospect sell the rep on why now: "John, I never asked you what's so special about December 15th", so they "lock in their urgency and don't stall the deal at the end". Its neighbors are "identity", "self perception", "lock in their urgency", and "strike when the iron's hot". Concretely, the urgency driver sits between move one (placing a positive identity on the prospect and villainizing dabbling) and move three (asking whether the decision is one they'll eventually make anyway), and without it the close collapses back into stalling.
 
 ## Synonyms
 
-- think
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "John, I respect the fact that you're making smart decisions to look at solutions to fix this. You'd be blown away by how many times we see people just kind of dabbling, casually looking at changing the situation, and that's why they never break through." — sources/S_ig_anasnbcsales_DTRMEyrD31R.md
-> "You just say, John, is this something that you'll eventually do? Yeah, then pushing it off is delaying a decision that you're already gonna make anyway." — sources/S_ig_anasnbcsales_DTRMEyrD31R.md
+> "Now, move number two, define the urgency driver." — sources/S_ig_anasnbcsales_DTRMEyrD31R.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a deadline or a discount: the urgency driver here is a personal reason tied to a date — "what's so special about December 15th" — not a countdown or an offer, and treating it as one turns a motive question into a pressure tactic.
+- Read as the whole close: the driver is only move two — without move one's identity ("smart decisions", "proactive") and move three's eventually-anyway question, defining urgency leaves the prospect with a reason to act and no frame that makes acting feel consistent.

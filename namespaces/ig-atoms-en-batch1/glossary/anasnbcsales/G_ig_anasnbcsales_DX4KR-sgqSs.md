@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [sale, anasnbcsales account context]
+aka: [another resell]
 origin: sources/S_ig_anasnbcsales_DX4KR-sgqSs.md
 ---
 
-# G_ig_anasnbcsales_DX4KR-sgqSs — sale
+# G_ig_anasnbcsales_DX4KR-sgqSs — another resell
 
 ## Term
 
-"sale" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: point, fire, whenever, basically. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Another resell" is what the speaker says you do when the business partner walks into the sale: you have no sale at that point, so you run the sale again, compressed. The phrase occurs once in the source — "you basically do another resell" — and the rule behind it is to never let Sean explain the pitch to his partner: "I would rather much explain", because the partner "did not do your job" and any second-hand version loses the sale. Its neighbors are "rapid fire", "crash course", "context", and "high level". Concretely, the rep crash-courses the partner ("Can you just high level share what kind of context you have so far, just so I don't overshare?") and reads the answer: either they know the shit, or they kind of think they do, and then the compressed sale runs again, "just based on the context that they have".
 
 ## Synonyms
 
-- sale
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They'll either be like, I know, like they know the shit, or they're like, ah, yeah, I think you guys like kind of, you have no sale at that point. So you have to basically get into the sale again, rapid fire. It's another sale, but it's compressed. So the answer is you basically do another resell. It's just based on the context that they have." — sources/S_ig_anasnbcsales_DX4KR-sgqSs.md
+> "So the answer is you basically do another resell. It's just based on the context that they have." — sources/S_ig_anasnbcsales_DX4KR-sgqSs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sale": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as starting from zero: the resell is compressed because the partner arrives with some context — the rep asks for it first — so re-pitching the full discovery from scratch wastes the context that makes the resell fast.
+- Read as the same sale repeated: the resell is a different sale — rapid fire, on the partner's context — so running the original pitch verbatim to the partner ignores that the person in front of you now is not the person you sold.

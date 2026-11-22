@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [order, anasnbcsales account context]
+aka: [mayo]
 origin: sources/S_ig_anasnbcsales_DUG52jSEux-.md
 ---
 
-# G_ig_anasnbcsales_DUG52jSEux- — order
+# G_ig_anasnbcsales_DUG52jSEux- — mayo
 
 ## Term
 
-"order" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: good, proceeding, amazing, confirmed. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Mayo" is the only specific content of this short 88-word source, a food-order confirmation call in which the speaker asks to remove it — and then immediately carves out an exception for it. The word occurs twice: once in the removal request ("can I remove the mayo?") and once in the exception ("you can keep the mayo in it"). Its neighbors are "proceeding", "confirmed", "crab", and "the order is good". Concretely, the order is confirmed twice over while the speaker modifies it item by item: mayo out in general, but kept on the items "that have the crab and the stuff mixed in within it, because I know it's already done like that" — a conditional instruction, not a blanket removal.
 
 ## Synonyms
 
-- order
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, okay, so we will proceed. So we're proceeding. So the order is good. It's confirmed. Yes? The order is coming. Amazing, amazing. Thank you so much. I look forward to diving into it. Thank you. Bye-bye." — sources/S_ig_anasnbcsales_DUG52jSEux-.md
+> "But the ones that have the crab and the stuff mixed in within it, you can keep the mayo in it because I know it's already done like that." — sources/S_ig_anasnbcsales_DUG52jSEux-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "order": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a blanket removal: the speaker's instruction is conditional — mayo stays on the crab items because it is "already done like that" — so applying the removal to the whole order mishears the only specific instruction in the call.
+- Read as a sales concept: this clip carries no sales teaching at all — it is an order confirmation, and "mayo" documents a food modification, not a technique, so no closing lesson can be drawn from it.

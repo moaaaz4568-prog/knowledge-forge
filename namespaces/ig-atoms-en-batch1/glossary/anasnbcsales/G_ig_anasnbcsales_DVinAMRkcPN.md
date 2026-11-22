@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [because, anasnbcsales account context]
+aka: [accountability]
 origin: sources/S_ig_anasnbcsales_DVinAMRkcPN.md
 ---
 
-# G_ig_anasnbcsales_DVinAMRkcPN — because
+# G_ig_anasnbcsales_DVinAMRkcPN — accountability
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sales, game, disciplined, good. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Accountability" is the speaker's answer to why disciplined people are disciplined: they are held to something by someone, not born with more willpower. The word occurs twice in the source — "Athletes, coaching, accountability" and "to have a coach, to have accountability" — and the argument is that discipline follows love of the game, while most people don't love sales, so they need the added input instead. Its neighbors are "coaching", "love the game", "military", and "skyrocket the journey". Concretely, the military produces disciplined people because "they get coaching, someone holds them accountable", and the sales version of that is a coach whose input helps someone "skyrocket the journey" until, over time, they learn discipline because they start to love the game.
 
 ## Synonyms
 
-- because
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The reason the military gives disciplined people is they get coaching, someone holds them accountable." — sources/S_ig_anasnbcsales_DVinAMRkcPN.md
+> "The way to get really good at sales is to have a coach, to have accountability because that added input is what helps someone skyrocket the journey and over time they just learn to be disciplined because they start to love the game." — sources/S_ig_anasnbcsales_DVinAMRkcPN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as willpower or self-discipline: the video's claim is the opposite — the most disciplined people "aren't actually any good at sales" by nature, and discipline here is installed from outside by a coach, so praising it as an inborn trait misses the mechanism.
+- Read as surveillance: accountability here is paired with coaching and love of the game — "that added input is what helps someone skyrocket" — so using it as monitoring without the coaching turns the support into pressure that teaches nobody to love the game.

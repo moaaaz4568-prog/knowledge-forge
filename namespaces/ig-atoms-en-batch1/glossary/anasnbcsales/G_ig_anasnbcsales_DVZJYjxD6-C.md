@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [ever ever, anasnbcsales account context]
+aka: [date anchor]
 origin: sources/S_ig_anasnbcsales_DVZJYjxD6-C.md
 ---
 
-# G_ig_anasnbcsales_DVZJYjxD6-C — ever ever
+# G_ig_anasnbcsales_DVZJYjxD6-C — date anchor
 
 ## Term
 
-"ever ever" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ever, guys, never, consequence. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "date anchor" is a near date the rep picks so the prospect can feel the consequence of not getting deal flow — Christmas, Thanksgiving, Valentine's, Halloween — instead of a far one they cannot process. The phrase occurs once in the source, as the instruction "Pick a date anchor. Find a date in the next timeline that makes sense", and the speaker's rule is to keep it "very, very, very short and close by". Its neighbors are "deal flow", "two years", "Valentine's", and "Christmas and Thanksgiving". Concretely, for a prospect on a four-month package he anchors to Valentine's ("when we're looking back at it"), and for a crew entering the winter ramp-up he asks what happens to payroll and the crew if the deal flow doesn't come — while "two years" is "a gajillion years" that makes no sense as an anchor.
 
 ## Synonyms
 
-- ever ever
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have you kind of considered what happens if you guys don't get the right deal flow, what happens between the crew, payroll, and everything leading up to the Christmas and Thanksgiving?" — sources/S_ig_anasnbcsales_DVZJYjxD6-C.md
-> "Just like keep it very, very, very short and close by. I wouldn't go super far. I would never ask something like two years or anything like that's just insane." — sources/S_ig_anasnbcsales_DVZJYjxD6-C.md
+> "Pick a date anchor. Find a date in the next timeline that makes sense." — sources/S_ig_anasnbcsales_DVZJYjxD6-C.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ever ever": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any calendar date: the anchor must be close and shared — a universal holiday or a season the prospect lives in — and a distant or obscure date the prospect cannot feel ("two years or anything like that") breaks the processing the anchor exists to create.
+- Read as a threat about the date itself: the date anchors the consequence — what happens to the crew and payroll if the flow doesn't come — not the date, so wielding the holiday as pressure instead of the consequence turns a framing device into a scare line.

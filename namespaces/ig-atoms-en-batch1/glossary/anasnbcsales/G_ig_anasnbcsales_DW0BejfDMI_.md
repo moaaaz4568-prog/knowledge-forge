@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [question, anasnbcsales account context]
+aka: [what's behind the question]
 origin: sources/S_ig_anasnbcsales_DW0BejfDMI_.md
 ---
 
-# G_ig_anasnbcsales_DW0BejfDMI_ — question
+# G_ig_anasnbcsales_DW0BejfDMI_ — what's behind the question
 
 ## Term
 
-"question" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ask, someone, asks, back. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"What's behind the question" is the speaker's move when a prospect asks where the sales team is based: don't answer the question — ask what the question is really trying to answer. The phrase occurs once in the source, as the instruction "You have to ask them what's behind the question", and the hidden question he names is certainty: "I have no certainty in the competence and the delivery of your team". Its neighbors are "the real question", "cut corners", "low talent", and "stay the hell away". Concretely, the surface question unpacks into fears — VAs, accent, "some garbage overseas", "buried in your mom's basement" — and once the prospect admits they were burnt by low-quality overseas teams, the rep answers with the incentive instead: "Our only incentive is to make our clients money", so low talent would hurt the client and the brand.
 
 ## Synonyms
 
-- question
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if we put low talent, incompetent people, bad accent, any of that kind of stuff, it hurts our client, their brand, and all of that. So we stay the hell away. A lot of our money, research, and training is in making the sales team as effective as possible so they can help our clients make. I didn't have to answer the question." — sources/S_ig_anasnbcsales_DW0BejfDMI_.md
+> "You have to ask them what's behind the question." — sources/S_ig_anasnbcsales_DW0BejfDMI_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "question": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as dodging the question: the move is not evasion — the rep does answer, with the incentive and the training investment — it is sequencing, and refusing to answer at all would leave the certainty gap the question was asked to fill.
+- Read as a generic "dig deeper" tip: the question behind this question is specific — competence and delivery of the team — so applying the move to any question without naming the fear underneath turns a precise diagnosis into vague stalling.

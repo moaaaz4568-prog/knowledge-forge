@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [gonna, anasnbcsales account context]
+aka: [buy-in]
 origin: sources/S_ig_anasnbcsales_DUB1mAJDOC6.md
 ---
 
-# G_ig_anasnbcsales_DUB1mAJDOC6 — gonna
+# G_ig_anasnbcsales_DUB1mAJDOC6 — buy-in
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy-in, support, wife, react. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Buy-in" is the partner's agreement the rep must secure before the prospect can close — the whole problem of the "I need to talk to my wife" objection, which the speaker treats not as a stall but as fear of a conversation the prospect doesn't know how to have. The word occurs 3 times in the source, always about the wife or partner ("your wife's buy-in", "get her buy-in", "get their buy-in"), and the speaker's move is to hand the prospect ownership of it: "it's your duty to get your wife's buy-in on board". Its neighbors are "practice run", "missing link", "million-dollar question", and "role play". Concretely, when the prospect admits they don't know how to persuade their wife, the rep offers a live practice run — role-playing the conversation on the call until the prospect feels secure enough to have it for real.
 
 ## Synonyms
 
-- gonna
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "John, if you truly believe that this is the missing link that you need to help you get that breakthrough for this next level, then it's your duty to get your wife's buy-in on board." — sources/S_ig_anasnbcsales_DUB1mAJDOC6.md
-> "Okay, great. Well, good thing we're here. Do you wanna have a practice run?" — sources/S_ig_anasnbcsales_DUB1mAJDOC6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the prospect's own agreement: the buy-in here belongs to the wife, not the prospect — the prospect is already sold, and confusing the two turns a partner conversation into a re-pitch of someone who needs no convincing.
+- Read as permission to decide for the partner: the speaker's move is to coach the prospect to have the conversation considerately, "so their partner doesn't feel left out" — using the practice run to script what the wife must accept breaks the ownership the move is built on.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [gonna fix, anasnbcsales account context]
+aka: [burn your money]
 origin: sources/S_ig_anasnbcsales_DX2BUjfx8ce.md
 ---
 
-# G_ig_anasnbcsales_DX2BUjfx8ce — gonna fix
+# G_ig_anasnbcsales_DX2BUjfx8ce — burn your money
 
 ## Term
 
-"gonna fix" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: meta, fix, everything, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To "burn your money" is what the speaker says happens when you turn on all of Meta's auto creators and leave the enhancements on — a satirical sketch about the promise that Meta's AI will fix all your ads. The phrase occurs once in this cut, as its opening line, and it frames the whole joke: the AI's promised miracles, a girlfriend and hair and being a white boy, are played as absurd rewards for trusting the automation. Its neighbors are "auto creators", "enhancements", "Meta", and "fix all my ads". Concretely, this cut opens on the warning and then replays the same believer's act as the companion cut, ending on the same advice not to leave the enhancements on.
 
 ## Synonyms
 
-- gonna fix
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Finally, I have a girlfriend. Oh, she's so cute. Yes, Meta, thank you. My mom's gonna be so excited. Oh, you sexy. Look at that, it gave me hair. Don't be a dumbass and leave the enhancements on." — sources/S_ig_anasnbcsales_DX2BUjfx8ce.md
+> "If you want to burn your money, turn on all the auto creators, everything." — sources/S_ig_anasnbcsales_DX2BUjfx8ce.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna fix": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a literal instruction: the line is the setup of a satire — the speaker is not telling you to burn money, he is showing what trusting the auto creators amounts to — so quoting it as advice repeats the error the sketch is laughing at.
+- Read as proof the ads always fail: the burn is the punchline of one sketch about overpromising AI, not a measured result — using it as evidence that every Meta automated ad loses money turns a joke into a claim the source never measures.

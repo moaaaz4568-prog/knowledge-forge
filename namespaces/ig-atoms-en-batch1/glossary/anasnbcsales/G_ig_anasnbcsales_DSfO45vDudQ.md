@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [blah blah, anasnbcsales account context]
+aka: [inversion questions]
 origin: sources/S_ig_anasnbcsales_DSfO45vDudQ.md
 ---
 
-# G_ig_anasnbcsales_DSfO45vDudQ — blah blah
+# G_ig_anasnbcsales_DSfO45vDudQ — inversion questions
 
 ## Term
 
-"blah blah" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: blah, thing, like, saying. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Inversion questions" are the speaker's named move for an arrogant prospect who demands "How are you guys different?": take the prospect's question, invert it, and flip it back — "you tell me you've seen so much out there, how are you gonna know what's legit, what's real, or how this even gonna be any better or different?" The phrase occurs once in the source, as the technique the whole video teaches, and its effect is that the prospect, caught off guard, lists their own ideal criteria out loud. Its neighbors are "flip that prospect", "knight in shining armor", "service frame", and "reciprocity". Concretely, after the inversion the prospect admits they have "no fucking idea what they're looking for", and the rep then swoops in leading with the service frame — missing context shared "just to get us on the same page" — instead of defending the offer.
 
 ## Synonyms
 
-- blah blah
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm gonna show you how to flip that prospect in one move by using inversion questions. Super simple. Let's say they come in, they're like" — sources/S_ig_anasnbcsales_DSfO45vDudQ.md
-> "And that's where you can swoop in and be the knight in shining armor and kind of get them a little bit educated and be like" — sources/S_ig_anasnbcsales_DSfO45vDudQ.md
+> "I'm gonna show you how to flip that prospect in one move by using inversion questions." — sources/S_ig_anasnbcsales_DSfO45vDudQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "blah blah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as mocking the prospect: the move is meant to make them "feel dumb on their own" by hearing their own criteria out loud, and done as humiliation rather than the "knight in shining armor" service frame, it destroys the compliance it was built to create.
+- Read as any flipped question: the inversion only works on a prospect who claims to have "seen so much" and to be above the pitch — asked of a genuinely curious prospect with no ego claim, it answers nothing and stalls the call.

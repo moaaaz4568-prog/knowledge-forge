@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [little, anasnbcsales account context]
+aka: [Fugazi]
 origin: sources/S_ig_anasnbcsales_DVZYM78gigD.md
 ---
 
-# G_ig_anasnbcsales_DVZYM78gigD — little
+# G_ig_anasnbcsales_DVZYM78gigD — Fugazi
 
 ## Term
 
-"little" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fugazi, fireworks, bit, little. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Fugazi" is the speaker's dismissive word for the scare around Dubai in this short 70-word clip: a little fireworks, a little Fugazi — noise and fake alarm while the city stays open. The word occurs 4 times in the source, always doubled ("Fugazi, Fugazi") and always beside "fireworks", as he reassures viewers that the beach is still running, the gym is still open, and the restaurants are still good. Its neighbors are "fireworks", "Greatest nation", "We trust in the UAE", and "safe". Concretely, the clip was posted as reassurance after a landing in Dubai: "it's safe, it's beautiful, it's incredible", with the doubled Fugazi brushing off whatever the fireworks are supposed to mean — the city, in his telling, is untouched.
 
 ## Synonyms
 
-- little
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A little Fugazi, Fugazi, little fireworks, it's okay. Greatest nation, little fireworks and shooting stuff. We trust in the UAE, God bless you, God's watching over us, we love you." — sources/S_ig_anasnbcsales_DVZYM78gigD.md
+> "A little Fugazi, Fugazi, little fireworks, it's okay." — sources/S_ig_anasnbcsales_DVZYM78gigD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "little": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a name or a chant: "Fugazi" here is slang for fake, not a person and not a refrain — the doubling is emphasis inside one reassurance, so treating it as a slogan or a shout misses that it labels the scare as unreal.
+- Read as a claim about the fireworks themselves: the fireworks are real and visible in the clip; what the speaker calls Fugazi is the alarm around them, so the word denies the danger, not the display.

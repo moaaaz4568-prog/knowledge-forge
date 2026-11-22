@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [way, anasnbcsales account context]
+aka: [selling intention]
 origin: sources/S_ig_anasnbcsales_DSdxTiaj4Qf.md
 ---
 
-# G_ig_anasnbcsales_DSdxTiaj4Qf — way
+# G_ig_anasnbcsales_DSdxTiaj4Qf — selling intention
 
 ## Term
 
-"way" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: way, saying, attentive, level. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The "selling intention" is the decision the rep announces up front that the call is expected to end in — set before any pitching so the prospect knows a commitment is coming. The phrase occurs once in the source, in the instruction "set the selling intention upfront", and the whole video is built on it: without it, prospects stall with "send me an email" or "let me think" because the rep "never had their attention and flipped them into buying mode". Its neighbors are "buying mode", "expected decision", "commitment", and "pre-sells". Concretely, instead of opening with "I'm not sure if we could help you", the NBC sales method opens by stating the call ends in a decision, then demonstrates with a marketing-service script and a 100% full money back guarantee.
 
 ## Synonyms
 
-- way
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "To do this, you have to set the selling intention upfront so they know that at the end of the call, there's an expected decision or some level of commitment." — sources/S_ig_anasnbcsales_DSdxTiaj4Qf.md
-> "So we offer a 100% full money back guarantee because if we can't get you results, there's no point in us doing business together." — sources/S_ig_anasnbcsales_DSdxTiaj4Qf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "way": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as pressure or a hard close: the video frames it as transparency — the prospect hears the decision is expected, which makes them "way more receptive" and "bought in", not cornered — and the script pairs it with a money-back guarantee, which a pressure reading ignores.
+- Read as a line to recite at any point: it is a framing move that must come before the pitch — said after the offer, once the rep has "never had their attention", it cannot retroactively create the attention it was meant to secure.

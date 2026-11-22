@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [closer, anasnbcsales account context]
+aka: [closer]
 origin: sources/S_ig_anasnbcsales_DWZ7KQ0j2ZN.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_anasnbcsales_DWZ7KQ0j2ZN.md
 
 ## Term
 
-"closer" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, closer, gonna, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "closer" is the hire the speaker says online entrepreneurs reach for far too early: a dedicated salesperson to take the calls the owner no longer wants. The word occurs 5 times in the source, and the video is a math lesson against the hire — at 50k or 60k cash collected, with the industry standard of 10%, a closer makes "a measly 5 to 6k", and with a setter already on payroll "these guys are barely gonna make money". Its neighbors are "setter", "industry standard", "10%", and "70, 80k cash". Concretely, the threshold he sets is around 70 to 80k cash before a closer has "enough opportunity and enough abundance for them to start making money and learning" — below that, "you ain't got no business", keep taking the calls yourself until you ramp up and are actually qualified to hire.
 
 ## Synonyms
 
-- closer
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm like, well, let's just do some simple math. If you have a closer and they collect brand new 50k, 60k in cash, that's assuming every single person pays you in full and you pay them at industry standard of 10%, that guy or gal is gonna make a measly 5 to 6k." — sources/S_ig_anasnbcsales_DWZ7KQ0j2ZN.md
-> "Until you get to like maybe 70, 80k cash, you could look at getting a closer so there's enough opportunity and enough abundance for them to start making money and learning. At 50, you ain't got no business. You gotta stop being a pussy and keep taking the calls till you ramp up so you can actually be qualified to hire someone." — sources/S_ig_anasnbcsales_DWZ7KQ0j2ZN.md
+> "Until you get to like maybe 70, 80k cash, you could look at getting a closer so there's enough opportunity and enough abundance for them to start making money and learning." — sources/S_ig_anasnbcsales_DWZ7KQ0j2ZN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "closer": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "never hire a closer": the speaker's rule is a threshold, not a ban — at 70 to 80k the hire makes sense, so treating the video as a rejection of closers keeps the owner on the phones long after the math supports help.
+- Read as a judgment on the closer's skill: the measly 5 to 6k is arithmetic, not talent — the closer collects 50k and keeps 10% — so blaming the hire's ability for a thin paycheck mistakes the owner's premature timing for the closer's failure.

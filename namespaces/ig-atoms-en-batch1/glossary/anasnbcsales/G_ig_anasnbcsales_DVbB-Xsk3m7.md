@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [shit ton, anasnbcsales account context]
+aka: [undivided attention]
 origin: sources/S_ig_anasnbcsales_DVbB-Xsk3m7.md
 ---
 
-# G_ig_anasnbcsales_DVbB-Xsk3m7 — shit ton
+# G_ig_anasnbcsales_DVbB-Xsk3m7 — undivided attention
 
 ## Term
 
-"shit ton" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: stuff, ton, shit, work. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Undivided attention" is the condition the speaker sets at the very start of a call with a prospect who insists on multitasking: no divided focus, or there is no point in working together. The phrase occurs once in the source, as the framing line — "Set the framing. If we can't give each other undivided attention, I could already tell you there is no point in us working together" — and it is a mutual requirement, not a demand on the prospect alone. Its neighbors are "multitasking", "set the framing", "hit the reset", and "how someone comes in". Concretely, the speaker gives the prospect a couple of minutes to finish what they are doing, then hits reset and dives in — and if they still insist on multitasking, he ends the call himself: "I don't think that there is gonna be alignment for us".
 
 ## Synonyms
 
-- shit ton
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We're trying to make sure you are a fit for us, this is fit for you, you know, et cetera, et cetera." — sources/S_ig_anasnbcsales_DVbB-Xsk3m7.md
-> "So I just wanted to maybe give you a couple minutes to finish off what you got if you want, and we can hit the reset, just dive into it and go through pretty quick. Does that sound good? And if they're still stick on the thing, I am like, hey man, appreciate it, all the love brother. I don't think that there is gonna be alignment for us, so I am wishing you not to end the call." — sources/S_ig_anasnbcsales_DVbB-Xsk3m7.md
+> "If we can't give each other undivided attention, I could already tell you there is no point in us working together." — sources/S_ig_anasnbcsales_DVbB-Xsk3m7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "shit ton": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a power move against the prospect: the attention is explicitly mutual ("give each other") and the speaker's rule is that "how someone comes in is how they'll be when they work with us" — using it to dominate the call turns a fit test into the disrespect it is meant to filter out.
+- Read as a request for the prospect's time alone: the speaker also offers his own — a couple of minutes, then a reset, then a fast dive-in — so demanding undivided attention while offering none of the same breaks the framing the line is supposed to set.

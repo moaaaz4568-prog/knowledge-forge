@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [house, anasnbcsales account context]
+aka: [chant]
 origin: sources/S_ig_anasnbcsales_DWhZlyVj1tj.md
 ---
 
-# G_ig_anasnbcsales_DWhZlyVj1tj — house
+# G_ig_anasnbcsales_DWhZlyVj1tj — chant
 
 ## Term
 
-"house" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: house, motherfucking, know, yeah. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term, and "chant" here is a type label only, not a term from the source. The 43-word clip is pure hype shouting with no teaching, no technique, and no named concept: the speaker yells that the listener is in his house, calls them "a little shrimp", repeats "Cow, cow, cow!", and ends on "Brrrrrrrrrrr! Ha ha!" The repeated bits are "my house" (2 times) and "cow" (3 times), but neither names anything — they are the chant's own noise. Its neighbors in the clip are "motherfucking house", "that's how we do", and "Brrrrrrrrrrr". Concretely, the whole source is one shouted outburst with no setup and no payoff, so there is nothing to extract from it beyond documenting that it is a chant and not a lesson.
 
 ## Synonyms
 
-- house
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey! Who he think he is? But that you are in my motherfucking house! You ain't know what this is because that's how we do! Yeah! It's my house! You in my house! You a little shrimp! Cow, cow, cow! Brrrrrrrrrrr! Ha ha!" — sources/S_ig_anasnbcsales_DWhZlyVj1tj.md
+> "Yeah! It's my house! You in my house! You a little shrimp! Cow, cow, cow! Brrrrrrrrrrr! Ha ha!" — sources/S_ig_anasnbcsales_DWhZlyVj1tj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "house": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sales concept: the clip contains no offer, no prospect, and no instruction — treating "my house" or "cow" as a technique invents a lesson the source never states.
+- Read as a slogan for the account: the shouting is a one-off outburst, not a repeated brand line, so filing it as the speaker's slogan would mistake a single hype moment for a standing message.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: anasnbcsales
-aka: [people, anasnbcsales account context]
+aka: [rounding error]
 origin: sources/S_ig_anasnbcsales_DX2MLORxWTm.md
 ---
 
-# G_ig_anasnbcsales_DX2MLORxWTm — people
+# G_ig_anasnbcsales_DX2MLORxWTm — rounding error
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the anasnbcsales account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: speaking, like, work, many. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "rounding error" is what the speaker calls the volume of people a rep spoke to when they claim the dialing "didn't work": 30 people is a rounding error, not data. The phrase occurs twice in the source — "you're a rounding error" and "What you spoke to is a rounding error" — and it is the verdict on anyone who says the method failed after speaking to 10 or 12 people. Its neighbors are "just dial", "your throat hurts", "0% chance", and "not even data". Concretely, the speaker says he could rip a rep's whole day's output in two hours and set and close more, because people "get discouraged, get distracted, they don't do it, they don't stop, or they get cute" — and the prescription is to "just dial, just dial, speak till like your throat hurts so much at the end of the day", which leaves "basically a 0% chance of not breaking through".
 
 ## Synonyms
 
-- people
-- anasnbcsales account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I got to get you over this like it's not working or I'm like, bro, you're speaking to 10 people, you're speaking to 12 people, you're not going to win." — sources/S_ig_anasnbcsales_DX2MLORxWTm.md
+> "I'm like, you're a rounding error. What you spoke to is a rounding error." — sources/S_ig_anasnbcsales_DX2MLORxWTm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "volume fixes everything": the rounding-error verdict is about sample size — 30 conversations cannot prove a method failed — not a claim that dialing alone closes deals, so using it to dismiss every objection to the pitch confuses "not enough data" with "the pitch is fine".
+- Read as contempt for the rep: the insult lands on the environment that made them soft ("you unknowingly are super fucking soft"), not on the person — treating the line as a personal attack misses that the speaker says it "so I'm not trying to be a dick", as a diagnosis of the room they grew up in.
