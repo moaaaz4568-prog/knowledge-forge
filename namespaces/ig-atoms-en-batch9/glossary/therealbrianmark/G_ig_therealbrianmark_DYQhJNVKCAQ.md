@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [say, therealbrianmark account context]
+aka: [investment]
 origin: sources/S_ig_therealbrianmark_DYQhJNVKCAQ.md
 ---
 
-# G_ig_therealbrianmark_DYQhJNVKCAQ — say
+# G_investment — investment
 
 ## Term
 
-"say" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: price, five, think, discount. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Investment is the word Brian swaps in for price when stating what a program costs, so the client hears what the money buys instead of what it costs. The word appears once, beside five thousand, drop twenty pounds, and five k. The clip is a set of swaps — never say the price is five thousand, say the investment to drop twenty pounds is five k — and the same move runs through the rest: never say do you want to move forward, never say trust me, never say I'll discount the price. Each swap replaces a weak or costly phrasing with one that states confidence or value.
 
 ## Synonyms
 
-- say
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Don't say the price is five thousand. Say the investment to drop twenty pounds is five k. Don't say do you want to move forward? Instead say where do you think we should go from here? Don't say I think this could work. Say I'm one hundred percent confident this is the best option for you. Don't say trust me." — sources/S_ig_therealbrianmark_DYQhJNVKCAQ.md
-> "Based on my experience working with thousands of clients, I'm confident that this will work for you. Don't say I'm just messaging you to follow up. Say I just had a minute to get back to you and I thought of this XYZ resource for your specific situation. Never say I'll discount the price. Say that's my best rate, but if you commit for twelve months instead of sixteen weeks, I'll knock off ten." — sources/S_ig_therealbrianmark_DYQhJNVKCAQ.md
+> "Don't say the price is five thousand. Say the investment to drop twenty pounds is five k." — sources/S_ig_therealbrianmark_DYQhJNVKCAQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "say": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a discount: the investment phrasing reframes the same five thousand, while the clip separately forbids discounting the price.
+- Read as a single script line: the investment swap is one of six don't-say/say pairs, and the lesson is the reframing habit, not one sentence.

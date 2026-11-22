@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fucking, therealbrianmark account context]
+aka: ["talking at rhythm"]
 origin: sources/S_ig_therealbrianmark_DYnMAzZP_xy.md
 ---
 
-# G_ig_therealbrianmark_DYnMAzZP_xy — fucking
+# G_talking_at_rhythm — talking at rhythm
 
 ## Term
 
-"fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: making, sure, rhythms, match. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Talking at rhythm is the skill Brian mocks as a distraction: matching your speech rhythm to a clap before you are allowed to post. The phrase appears once, beside get better at talking on camera, fucking rhythms match up with your clap, and just fucking talk and post. His correction is a flat no to the whole worry — stop checking whether the rhythms match, and just talk and post on social media. The entry records the mocked skill and its dismissal, not a technique: rhythm here is the obstacle, not the goal.
 
 ## Synonyms
 
-- fucking
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to get better at talking on camera, then you better get good at talking at rhythm. No, just no. Okay, you're focusing on making sure your fucking rhythms match up with your clap. You're not gonna be posting on social media. Just fucking talk and post." — sources/S_ig_therealbrianmark_DYnMAzZP_xy.md
+> "If you want to get better at talking on camera, then you better get good at talking at rhythm." — sources/S_ig_therealbrianmark_DYnMAzZP_xy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lesson in rhythm: Brian names talking at rhythm only to reject it, and his instruction is to talk and post instead.
+- Read as a rule against practice: the clip rejects obsessing over rhythm matching, not practicing talking on camera.

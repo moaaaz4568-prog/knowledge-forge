@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [clothes like, therealbrianmark account context]
+aka: [refrain]
 origin: sources/S_ig_therealbrianmark_DYpRMoNxwAB.md
 ---
 
-# G_ig_therealbrianmark_DYpRMoNxwAB — clothes like
+# G_ig_therealbrianmark_DYpRMoNxwAB — refrain
 
 ## Term
 
-"clothes like" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, twist, wrist, start. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated song line — not the name of any idea in it. The opening line appears once, beside eyes on me, here for the night, and only bite in. The lines repeat their own phrases — clothes like this, eyes on me, here for the night, only bite in — with no sentence that states anything beyond the song's images. The entry keeps the lyric as sung and claims no training idea for it.
 
 ## Synonyms
 
-- clothes like
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Twist my wrist, clothes like this, start with the track. Eyes on me, arching my back, just like this. Here for the night, only bite in, just keep watching. Clothes like this, move from the back. Eyes on me, how you like that? Just like this, here for the night, only bite in, just." — sources/S_ig_therealbrianmark_DYpRMoNxwAB.md
+> "Twist my wrist, clothes like this, start with the track." — sources/S_ig_therealbrianmark_DYpRMoNxwAB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clothes like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a dance instruction: the lines name moves and poses inside a song lyric, not steps a viewer is told to follow.
+- Read as a complete song: the clip breaks off mid-line at 'just', so the lyric as given has no ending.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Edits app, therealbrianmark account context]
+aka: ["Edits app"]
 origin: sources/S_ig_therealbrianmark_DYad-PKSEuQ.md
 ---
 
-# G_ig_therealbrianmark_DYad-PKSEuQ — Edits app
+# G_edits_app — Edits app
 
 ## Term
 
-"Edits app" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: app, edits, open, press. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The Edits app is the Instagram editing app Brian uses to take a scared creator from script to posted video, teleprompter included. The phrase appears three times, beside teleprompter button, cut out all the dead empty spaces, and retention graph. The workflow is fixed: paste the script in, read it line by line through the teleprompter while recording, cut the dead spaces after, then check the analytics once posted. The number he tells the viewer to watch is retention after the first three seconds: keep more than fifty percent, or the video is losing people too fast.
 
 ## Synonyms
 
-- Edits app
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Just open up the Edits app and then press that little teleprompter button right here. Then you can just paste your script in and then as you're reading the script, it's gonna come through as you're recording. Okay, but then how do I edit my videos? You can do that in the Edits app too. It's extremely easy." — sources/S_ig_therealbrianmark_DYad-PKSEuQ.md
-> "All you have to do is once you're done the video, just go in and cut out all the dead empty spaces. Okay, but then how do I know if the video is actually good? Edits app again. Once you posted the video, go to the video. It'll actually show you the analytics. Thing you really wanna look for is the retention graph. See how many people dropped off after the first three seconds." — sources/S_ig_therealbrianmark_DYad-PKSEuQ.md
+> "Just open up the Edits app and then press that little teleprompter button right here." — sources/S_ig_therealbrianmark_DYad-PKSEuQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Edits app": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a review of the Edits app: Brian walks through one workflow in it, and judges nothing about the app against any other editor.
+- Read as a guarantee that the app fixes fear: the teleprompter and the cuts remove the technical excuses, while the clip's last line still sends the viewer to follow for more.

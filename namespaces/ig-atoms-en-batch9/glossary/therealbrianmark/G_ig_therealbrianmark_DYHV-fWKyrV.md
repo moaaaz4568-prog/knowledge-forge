@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [renewal call, therealbrianmark account context]
+aka: ["renewal call"]
 origin: sources/S_ig_therealbrianmark_DYHV-fWKyrV.md
 ---
 
-# G_ig_therealbrianmark_DYHV-fWKyrV — renewal call
+# G_renewal_call — renewal call
 
 ## Term
 
-"renewal call" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: call, made, renewal, bashing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A renewal call is the call where Brian re-signs an existing client and collects again, and he presents it as the fastest money in the clip. The phrase appears twice, beside just under fifty K, over twenty K in an hour, and bashing everybody together. He made over twenty thousand in an hour from one such call after a month just under fifty thousand, and his reaction is disbelief at a result he says he had never tasted before. The clip gives no detail about what was said on the call, only the size and speed of the result.
 
 ## Synonyms
 
-- renewal call
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Dude, last month was wild. Just under fifty K, but I did a renewal call and I made over twenty K in an hour just from a renewal call, bashing everybody together. It was fucking crazy. Like I've never tasted something like that. I was like, whoa." — sources/S_ig_therealbrianmark_DYHV-fWKyrV.md
+> "Just under fifty K, but I did a renewal call and I made over twenty K in an hour just from a renewal call, bashing everybody together." — sources/S_ig_therealbrianmark_DYHV-fWKyrV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "renewal call": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a repeatable income method: the clip reports one hour's result and names no process, so it shows that a renewal call can pay, not how to run one.
+- Read as the month's total: the twenty thousand came from the single renewal call, while the month itself sat just under fifty thousand.

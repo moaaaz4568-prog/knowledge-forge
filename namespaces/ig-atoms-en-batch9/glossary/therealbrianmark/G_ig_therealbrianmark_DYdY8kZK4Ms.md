@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [content, therealbrianmark account context]
+aka: [prompt]
 origin: sources/S_ig_therealbrianmark_DYdY8kZK4Ms.md
 ---
 
-# G_ig_therealbrianmark_DYdY8kZK4Ms — content
+# G_prompt — prompt
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: button, speak, idea, phone. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A prompt is the typed instruction Brian's student gives Claude to turn a spoken ramble into a finished Instagram reel script. The word appears three times, beside create a new project, tap the mic button, and hook, body, and CTA. The student opens Claude on his phone, creates a project, types the prompt, then speaks his idea — coaching busy moms who want to lose body fat — into the mic. The prompt defines the ramble and structures it with a hook, body, and call to action, broken line by line so he only has to read it one line at a time.
 
 ## Synonyms
 
-- content
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He's scared to talk to the camera. And I don't know what to say. So the first thing he does is open up Claude on his phone. Then he's gonna create a new project and type in this prompt right here. And if you want the prompt, comment Claude and I'll send it to you. Now what he's gotta do is tap the mic button and speak his content idea into the phone." — sources/S_ig_therealbrianmark_DYdY8kZK4Ms.md
-> "I'm coaching busy moms that want to lose body fat. Please help me write content designed specifically for them. The prompt he typed in earlier will automatically define your ramble and turn it into an Instagram reel script. Whoa. And it structures it with a hook, body, and CTA. Yo. And break it up line by line, so all he has to do now is read it one line at a time. No way." — sources/S_ig_therealbrianmark_DYdY8kZK4Ms.md
-> "Wait, how do I actually record this though? If you want a full training on how to record content like this and edit it like a pro, follow me and comment game and I'll send you your free training." — sources/S_ig_therealbrianmark_DYdY8kZK4Ms.md
+> "The prompt he typed in earlier will automatically define your ramble and turn it into an Instagram reel script." — sources/S_ig_therealbrianmark_DYdY8kZK4Ms.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole method: the prompt works because the student also speaks a clear idea into the mic, and the clip never prints the prompt itself.
+- Read as a scriptwriting service: the prompt structures the student's own ramble, it does not invent the content idea for him.

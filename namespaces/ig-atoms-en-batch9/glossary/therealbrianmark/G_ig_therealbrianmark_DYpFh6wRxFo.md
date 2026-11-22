@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [coach, therealbrianmark account context]
+aka: ["broke coach"]
 origin: sources/S_ig_therealbrianmark_DYpFh6wRxFo.md
 ---
 
-# G_ig_therealbrianmark_DYpFh6wRxFo — coach
+# G_broke_coach — broke coach
 
 ## Term
 
-"coach" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: broke, rich, bio, picture. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A broke coach is the version of an online fitness coach whose profile speaks to everybody, with vague calls to action and no proof. The phrase appears five times, beside rich coach, profile picture, and pin post. The contrast runs through the whole clip: the broke coach's picture, bio, and pin post against the rich coach's, one telling a story, one showing proof, one giving value. The broke coach starts videos speaking to everybody and uses vague CTAs, while the rich coach uses specific language to call out an ideal client and CTAs that add context.
 
 ## Synonyms
 
-- coach
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Profile picture of a broke coach, profile picture of a rich coach. Bio of a broke coach, bio of a rich coach. You'll notice it has their niche, who they help, and a clear CTA. Pin post of a broke coach, pin post of a rich coach. One tells their story, one shows proof, one gives value. Broke coach starts their videos by speaking to everybody." — sources/S_ig_therealbrianmark_DYpFh6wRxFo.md
-> "Rich coaches use specific language to call out their ideal client. Broke coach use vague CTAs like this. Rich coaches use CTAs that add context. If you want to be a rich coach, follow me, comment game, and I'll send you my YouTube series on how you can start your online fitness business." — sources/S_ig_therealbrianmark_DYpFh6wRxFo.md
+> "Profile picture of a broke coach, profile picture of a rich coach." — sources/S_ig_therealbrianmark_DYpFh6wRxFo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "coach": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an income claim: broke and rich here describe how the profile is built, not the coach's actual bank balance.
+- Read as a verdict on one post: the contrast covers the picture, the bio, the pin post, and the video openings together, not a single element.

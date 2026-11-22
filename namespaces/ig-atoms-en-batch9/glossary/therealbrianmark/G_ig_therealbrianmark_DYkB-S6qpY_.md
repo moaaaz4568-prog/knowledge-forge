@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [literally, therealbrianmark account context]
+aka: [intention]
 origin: sources/S_ig_therealbrianmark_DYkB-S6qpY_.md
 ---
 
-# G_ig_therealbrianmark_DYkB-S6qpY_ — literally
+# G_intention — intention
 
 ## Term
 
-"literally" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: set, fucking, intention, days. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An intention is the monthly revenue target Brian says he and his team set thirty days earlier, and now nearly hit: shy of forty thousand, aiming for fifty. The word appears once, beside shy of 40k, fucking wild, and literally 30 days ago. His excitement is the closeness of it — set as an intention a month ago, almost reached, with fifty thousand now the stated want for this month. The clip gives no plan for closing the gap, only the number and the fact that it was set deliberately a month before.
 
 ## Synonyms
 
-- literally
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm just like shy of 40k for the month already, which is fucking wild. So I really want to get 50k this month. How cool is that? That we literally set that fucking intention literally 30 days ago. Bam, come on." — sources/S_ig_therealbrianmark_DYkB-S6qpY_.md
+> "That we literally set that fucking intention literally 30 days ago." — sources/S_ig_therealbrianmark_DYkB-S6qpY_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "literally": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a result already achieved: forty thousand is the shy-of figure, and fifty thousand is the want for this month, not the amount banked.
+- Read as a manifestation claim: the clip says the intention was set thirty days ago, not how setting it produced the revenue.

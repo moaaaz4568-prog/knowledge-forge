@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [super fucking, therealbrianmark account context]
+aka: ["one hundred k month"]
 origin: sources/S_ig_therealbrianmark_DYNq5rkSzGb.md
 ---
 
-# G_ig_therealbrianmark_DYNq5rkSzGb — super fucking
+# G_one_hundred_k_month — one hundred k month
 
 ## Term
 
-"super fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: last, month, fucking, excited. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A one hundred k month is the revenue milestone Brian reports reaching for the first time, at a hundred and thirty-five thousand last month. The phrase appears once, beside super fucking excited, super fucking overwhelmed, and first. His feeling about it is split in two: excited and overwhelmed at the same time, which is the whole clip. The entry records the milestone and the mixed reaction, and nothing else — no cause, no method, no next step.
 
 ## Synonyms
 
-- super fucking
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You know, we had our first one hundred k month, one hundred and thirty five k last month. Super fucking excited. At the same time, super fucking overwhelmed." — sources/S_ig_therealbrianmark_DYNq5rkSzGb.md
+> "You know, we had our first one hundred k month, one hundred and thirty five k last month." — sources/S_ig_therealbrianmark_DYNq5rkSzGb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "super fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a how-to: the clip announces the first hundred k month and names no action that produced it.
+- Read as pure celebration: Brian pairs the excitement with being overwhelmed, so the milestone arrives with its cost attached.

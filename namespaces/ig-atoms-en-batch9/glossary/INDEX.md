@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYCtgojqleL.md | gonna | 2 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYDoxuMPhBA.md | know | 2 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYE2N_sqXYv.md | cringe | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYF8D-gSSa6.md | spouse | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYFKas-KcI0.md | sells | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYFas41xAos.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYG020uK30J.md | fucking | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYF8D-gSSa6.md | spouse objection | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYFKas-KcI0.md | emotion | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYFas41xAos.md | holding momentum | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYG020uK30J.md | fucking post | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYHV-fWKyrV.md | renewal call | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYHw5AdNInt.md | thousand dollars | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYITWg-KbA7.md | social media | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYI_5BbtMK6.md | client demographic | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYIe4CrqomK.md | excellent | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYLMCtFhET5.md | use | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYLdl_BKSqd.md | picnic | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYM-NhEKHgl.md | social media | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYM0H5lKMee.md | excellent | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYNULGCKGZe.md | week | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYNq5rkSzGb.md | super fucking | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYP2uBFqj9y.md | original video | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYPYFguq8AF.md | everybody | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYQhJNVKCAQ.md | say | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYQuZcmKkj4.md | friends | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYS1YEQyhdr.md | one | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYS3xBAhDO8.md | Train | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYTBVvhKYAY.md | next level | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYU7EtJKPXt.md | looking | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYUgdWIK-ox.md | people | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYVX0OPSVef.md | want | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYVrpwTKz2b.md | trust | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYXFtE-KCQF.md | specific result | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYXqAApKU65.md | Main problem | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYYRUd0q_iC.md | content | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYZy_4zqlWo.md | winner | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYaBH1MKuJj.md | funnel content | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYad-PKSEuQ.md | Edits app | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYc8pXYBVpL.md | content | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYcT8BTqVnD.md | Number | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYcrGB7K2rf.md | Recreate | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYdY8kZK4Ms.md | content | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYezXIiKyw3.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYfCFpsqDp-.md | work today | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYfuao-B4p7.md | week | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYh3Kk-qA0g.md | video | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYhN1uIK_uP.md | good | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYha_LvKxjV.md | thirty pounds | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYiKLZEyrky.md | fantastic | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYkB-S6qpY_.md | literally | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYHw5AdNInt.md | custom connectors | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYITWg-KbA7.md | social media money | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYI_5BbtMK6.md | ideal client demographic | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYIe4CrqomK.md | bad, good, excellent | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYLMCtFhET5.md | prompts | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYLdl_BKSqd.md | picnic | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYM-NhEKHgl.md | creator | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYM0H5lKMee.md | excellent | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYNULGCKGZe.md | posting schedule | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYNq5rkSzGb.md | one hundred k month | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYP2uBFqj9y.md | virality predictor | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYPYFguq8AF.md | act differently | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYQhJNVKCAQ.md | investment | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYQuZcmKkj4.md | new group of friends | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYS1YEQyhdr.md | goat | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYS3xBAhDO8.md | train | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYTBVvhKYAY.md | next level | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYU7EtJKPXt.md | gaps | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYUgdWIK-ox.md | going viral on Instagram | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYVX0OPSVef.md | normal | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYVrpwTKz2b.md | build trust | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYXFtE-KCQF.md | hooks | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYXqAApKU65.md | main problem at this stage | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYYRUd0q_iC.md | tier | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYZy_4zqlWo.md | refrain | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYaBH1MKuJj.md | funnel content | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYad-PKSEuQ.md | Edits app | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYc8pXYBVpL.md | angles | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYcT8BTqVnD.md | banger | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYcrGB7K2rf.md | recreate | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYdY8kZK4Ms.md | prompt | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYezXIiKyw3.md | new followers | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYfCFpsqDp-.md | slight edge | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYfuao-B4p7.md | posting schedule | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYh3Kk-qA0g.md | split testing | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYhN1uIK_uP.md | clear lighting | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYha_LvKxjV.md | grind season | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYiKLZEyrky.md | energy | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYkB-S6qpY_.md | intention | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYkVgByKEJh.md | safe zone | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYklOmKvEIW.md | conversation | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYnMAzZP_xy.md | fucking | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYpFh6wRxFo.md | coach | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYpRMoNxwAB.md | clothes like | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DYpj4QDKr99.md | getting | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYklOmKvEIW.md | DM conversation | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYnMAzZP_xy.md | talking at rhythm | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYpFh6wRxFo.md | broke coach | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYpRMoNxwAB.md | refrain | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DYpj4QDKr99.md | banning accounts | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYqQe0rKOLG.md | tired | 2 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYql5rOKp5e.md | five | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DYrwX8JqDYK.md | videos | 1 |

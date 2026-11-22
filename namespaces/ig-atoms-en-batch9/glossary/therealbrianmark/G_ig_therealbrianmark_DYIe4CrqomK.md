@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [excellent, therealbrianmark account context]
+aka: ["bad, good, excellent"]
 origin: sources/S_ig_therealbrianmark_DYIe4CrqomK.md
 ---
 
-# G_ig_therealbrianmark_DYIe4CrqomK — excellent
+# G_bad_good_excellent — bad, good, excellent
 
 ## Term
 
-"excellent" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bad, good, excellent, research. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bad, good, excellent is the three-step grade Brian stamps on each part of making content, from writing to posting times. The phrase appears five times, once for writing, research, scripting, content ideas, and posting times. The clip gives no definitions for the grades — it only repeats the ladder over the five activities — and its only next step is the offer of a YouTube series on using AI to create content. The ladder works as a chant of standards rather than a rubric: each activity is named, graded in three beats, and left for the viewer to fill in.
 
 ## Synonyms
 
-- excellent
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Writing bad, good, excellent. Research bad, good, excellent. Scripting bad, good, excellent. Content ideas bad, good, excellent. Posting times bad, good, excellent. If you want to learn how to utilize AI to create content, make sure you follow me. Come with the word AI and I'll send you my YouTube series." — sources/S_ig_therealbrianmark_DYIe4CrqomK.md
+> "Writing bad, good, excellent. Research bad, good, excellent. Scripting bad, good, excellent." — sources/S_ig_therealbrianmark_DYIe4CrqomK.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "excellent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a scoring system: the clip never says what makes a script bad or excellent, so the ladder grades nothing on its own.
+- Read as five separate tips: the same three grades repeat across all five activities, so the point is the repeated standard, not five different pieces of advice.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fucking, therealbrianmark account context]
+aka: ["fucking post"]
 origin: sources/S_ig_therealbrianmark_DYG020uK30J.md
 ---
 
-# G_ig_therealbrianmark_DYG020uK30J — fucking
+# G_fucking_post — fucking post
 
 ## Term
 
-"fucking" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: post, followers, cares, hashtags. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Fucking post is Brian's order to publish instead of analysing, aimed at creators under ten thousand followers who have too little content to judge. The phrase appears twice, beside optimal strategy, trending audio, and you'll get feedback. His argument is that without enough posts there is no data to tell good from bad, so the poster should talk to the camera and let the feedback show what works. The line is aimed at the beginner's trap he names: trying to figure out better content before having any content to analyse.
 
 ## Synonyms
 
-- fucking
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The fuck are we talking about? Just step. And if you're under 10,000 followers, just fucking post. Who cares about the sound effects, the lighting, the trending audio, the hashtags, all of it? Fucking talk to the camera. You don't have enough data to determine what's good and what's not." — sources/S_ig_therealbrianmark_DYG020uK30J.md
-> "So the more that you post, the better that you're gonna get because you'll get feedback on what's working and what's not. But right now, you're trying to analyze how to create better content when you don't have enough fucking content to analyze. So instead of trying to figure it out first, just fucking post." — sources/S_ig_therealbrianmark_DYG020uK30J.md
+> "And if you're under 10,000 followers, just fucking post." — sources/S_ig_therealbrianmark_DYG020uK30J.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fucking": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule for every creator: the order is aimed at accounts under ten thousand followers with no data, not at established accounts choosing between formats.
+- Read as a dismissal of quality: Brian's point is that feedback from posting is what teaches quality, not that lighting, sound, and hashtags never matter.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [specific result, therealbrianmark account context]
+aka: [hooks]
 origin: sources/S_ig_therealbrianmark_DYXFtE-KCQF.md
 ---
 
-# G_ig_therealbrianmark_DYXFtE-KCQF — specific result
+# G_hooks — hooks
 
 ## Term
 
-"specific result" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: identity, never, result, possible. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hooks are the opening lines Brian says will always work, presented as five templates built on psychology. The word appears three times, beside specific result, X outcome in X timeframe, and thirty viral hooks. His five are all questions or promises of a specific result: hitting an outcome in a timeframe, what an authority figure does so well, how long an action takes before a result. The clip holds the full list back — comment hooks and he sends thirty viral hooks to use on Instagram.
 
 ## Synonyms
 
-- specific result
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Five hooks that will always work according to psychology. The psychology behind why most identity never get specific result. Is it possible to hit X outcome in X timeframe? It took me X years to learn this framework and system, and I'll teach it to you in under sixty seconds. What makes X authority figure so insanely good at this specific result?" — sources/S_ig_therealbrianmark_DYXFtE-KCQF.md
+> "Five hooks that will always work according to psychology." — sources/S_ig_therealbrianmark_DYXFtE-KCQF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "specific result": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as five proven scripts: the clip names five hook patterns and promises they work according to psychology, but shows no result from using them.
+- Read as a complete list: only the patterns are given, while the thirty hooks themselves are offered separately for a comment.

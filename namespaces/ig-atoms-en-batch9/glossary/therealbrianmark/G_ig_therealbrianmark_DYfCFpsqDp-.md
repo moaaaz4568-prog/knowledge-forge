@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [work today, therealbrianmark account context]
+aka: ["slight edge", "slight edges"]
 origin: sources/S_ig_therealbrianmark_DYfCFpsqDp-.md
 ---
 
-# G_ig_therealbrianmark_DYfCFpsqDp- — work today
+# G_slight_edge — slight edge
 
 ## Term
 
-"work today" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: today, people, work, industry. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A slight edge is the small advantage Brian says comes from doing the work on a day most people take off, and compounding it over years. The phrase appears once, beside May long weekend, get ahead, and significant difference. His example is the holiday itself: everybody takes the day off, and doing the work that day is the slight edge over the competition. Compounded over years, those edges become the significant difference between you and the next guy — which is why his closing order is simply to work today.
 
 ## Synonyms
 
-- work today
-- therealbrianmark account context (no variant form of the term appears in this source)
+- slight edges (the plural form Brian uses when the edges compound over years)
 
 ## Live Example
 
-> "Here's a hot take. Today is the day that you get ahead. It's May long weekend, everybody's taking the day off, and if you can get yourself to do the work today that most people aren't willing to do, that is when you gain a slight edge on the competition. And when you compound those slight edges over the course of years, that becomes a significant difference between you and the next guy." — sources/S_ig_therealbrianmark_DYfCFpsqDp-.md
-> "So if your goal is to dominate your industry, then work today." — sources/S_ig_therealbrianmark_DYfCFpsqDp-.md
+> "And when you compound those slight edges over the course of years, that becomes a significant difference between you and the next guy." — sources/S_ig_therealbrianmark_DYfCFpsqDp-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work today": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a one-day trick: the edge is slight by definition, and Brian's point is the compounding over years, not the single holiday.
+- Read as a claim that rest is failure: the clip praises working while others rest on one day, and says nothing about rest as a habit.

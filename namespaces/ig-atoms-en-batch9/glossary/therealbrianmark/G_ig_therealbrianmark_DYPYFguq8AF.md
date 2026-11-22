@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [everybody, therealbrianmark account context]
+aka: ["act differently", "acting differently"]
 origin: sources/S_ig_therealbrianmark_DYPYFguq8AF.md
 ---
 
-# G_ig_therealbrianmark_DYPYFguq8AF — everybody
+# G_act_differently — act differently
 
 ## Term
 
-"everybody" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, like, around, came. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Act differently is Brian's rule for escaping the life around him: do what the people in his environment do not do. The phrase appears twice, beside 3:45 in the morning, trailer park, and the life of the 1%. He wakes at 3:45 while most people get up at nine, and he stopped staying up late drinking, partying, and smoking weed, because his actions, behaviors, and habits had to reflect the different result he wanted. The clip's test is blunt: if you want the life of the one percent, you cannot act like the ninety-nine percent.
 
 ## Synonyms
 
-- everybody
-- therealbrianmark account context (no variant form of the term appears in this source)
+- acting differently (the -ing form Brian uses when he describes starting the change)
 
 ## Live Example
 
-> "I wake up at 3:45 in the morning every single day. I go to bed around 7:45 to 8 p.m. at night. And I do this because I don't want to be like everybody else. I came from a trailer park. I was born and raised in a family that was like middle to lower income, and I made the decision that I didn't want to be like everybody in my environment." — sources/S_ig_therealbrianmark_DYPYFguq8AF.md
-> "And so I had to start acting differently than everybody around me. Most people get up at 9 o'clock in the morning, so I got up earlier. Most people stay up late and drink and party and smoke weed, so I had to act differently. I made the decision that I was going to be different than everybody around me, which means that my actions and my behaviors and my habits had to reflect that." — sources/S_ig_therealbrianmark_DYPYFguq8AF.md
+> "Most people stay up late and drink and party and smoke weed, so I had to act differently." — sources/S_ig_therealbrianmark_DYPYFguq8AF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "everybody": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a morning-routine tip: the 3:45 wake-up is one example of acting differently, while the rule covers speaking, moving, thinking, and acting.
+- Read as a rejection of everyone around him: Brian says he had to act differently than everybody around him, not that everybody around him was wrong.

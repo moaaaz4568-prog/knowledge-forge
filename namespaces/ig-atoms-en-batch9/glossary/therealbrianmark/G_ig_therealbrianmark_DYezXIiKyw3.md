@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [month, therealbrianmark account context]
+aka: ["new followers"]
 origin: sources/S_ig_therealbrianmark_DYezXIiKyw3.md
 ---
 
-# G_ig_therealbrianmark_DYezXIiKyw3 — month
+# G_new_followers — new followers
 
 ## Term
 
-"month" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thousand, new, followers, yeah. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+New followers is the growth Brian reports in this clip: thirty thousand a month, with seventy-four thousand last month. The phrase appears once, beside everything's good, let's fucking go, Ashley, and I shut all my ads off. His report is a snapshot, not a method: the numbers are stated, the ads are off, and the clip ends there. The entry records the count and the mood, and no cause for the growth is named.
 
 ## Synonyms
 
-- month
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm getting like thirty thousand new followers a month. Yeah, everything's good. Seventy four k last month. Let's fucking go, Ashley. Yeah, I shut all my ads off with this." — sources/S_ig_therealbrianmark_DYezXIiKyw3.md
+> "I'm getting like thirty thousand new followers a month." — sources/S_ig_therealbrianmark_DYezXIiKyw3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that turning ads off grows followers: Brian says he shut his ads off in the same breath, but the clip claims no link between the two.
+- Read as a monthly average: thirty thousand is the rate he states now, and seventy-four thousand is last month's separate total.

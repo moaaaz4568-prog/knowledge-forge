@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [week, therealbrianmark account context]
+aka: ["posting schedule"]
 origin: sources/S_ig_therealbrianmark_DYfuao-B4p7.md
 ---
 
-# G_ig_therealbrianmark_DYfuao-B4p7 — week
+# G_posting_schedule — posting schedule
 
 ## Term
 
-"week" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: two, four, carousels, twice. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A posting schedule is the daily and weekly quota Brian sets for a ten thousand dollar month, then locks in for thirty days before spending on follower ads. The phrase appears once, beside reels one a day, DMs 100 per day, and collaborations once a week. The quotas are the same shape as his other schedule clip but heavier on outreach: one reel a day, two to four photo posts a week, carousels twice a week, stories two to four a day, two calls to action a week, a hundred DMs a day, and one collaboration a week. The goal after the thirty days is followers at a dollar to two dollars per follow, run through a follower ad.
 
 ## Synonyms
 
-- week
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Posting schedule for 10K month: Reels one a day, photo posts two to four per week, carousels twice per week, stories two to four per day, call to actions two per week, DMs 100 per day, collaborations once a week. Lock this in for 30 days and then run a follower ad that looks like this. The goal is to get followers for a dollar to two dollars per follow." — sources/S_ig_therealbrianmark_DYfuao-B4p7.md
+> "Posting schedule for 10K month: Reels one a day, photo posts two to four per week, carousels twice per week, stories two to four per day, call to actions two per week, DMs 100 per day, collaborations once a week." — sources/S_ig_therealbrianmark_DYfuao-B4p7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "week": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guaranteed ten k month: the schedule is labelled for a 10K month, while the follower ad and its cost per follow are a separate step after thirty days.
+- Read as a content plan alone: the schedule pairs posting quotas with a hundred DMs a day, so outreach is part of the quota, not an extra.

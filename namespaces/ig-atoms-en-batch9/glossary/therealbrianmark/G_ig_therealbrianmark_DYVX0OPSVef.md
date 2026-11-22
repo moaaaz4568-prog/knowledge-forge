@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [want, therealbrianmark account context]
+aka: [normal]
 origin: sources/S_ig_therealbrianmark_DYVX0OPSVef.md
 ---
 
-# G_ig_therealbrianmark_DYVX0OPSVef — want
+# G_normal — normal
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: normal, like, everybody. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Normal is the life Brian throws back at the viewer in this clip: wanting to be like everybody else. The word appears once, beside everybody else, David Goggins, and fuck you. The clip is twenty words long and its whole move is the rejection — the wish to be normal answered with a curse and Goggins's name, as if the desire itself were the insult. The entry records that rejection, not a definition: normal here means ordinary in the way everybody else is, and Brian treats wanting it as the failure.
 
 ## Synonyms
 
-- want
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_therealbrianmark_DYVX0OPSVef.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a quote from David Goggins: Goggins is the name Brian throws at the viewer, while the words are Brian's own rejection of wanting to be normal.
+- Read as advice about fitting in: the clip gives no advice at all — it only refuses the wish to be normal.
