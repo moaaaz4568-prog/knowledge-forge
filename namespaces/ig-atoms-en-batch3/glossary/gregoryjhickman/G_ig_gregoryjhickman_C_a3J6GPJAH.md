@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["specific", "problem"]
+aka: ["sub-market"]
 origin: sources/S_ig_gregoryjhickman_C_a3J6GPJAH.md
 ---
 
-# G_ig_gregoryjhickman_C_a3J6GPJAH — specific
+# G_ig_gregoryjhickman_C_a3J6GPJAH — sub-market
 
 ## Term
 
-specific is the most prominent repeated term in this source (146-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: problem, specialize, means. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A sub-market is a narrower slice of a category — by problem, by who, or by what — chosen so the business can move faster. It appears once in this 146-word source, beside problem-based, specific who, and specific what. Specialization means speed here: findable people mean conversations start faster, leads come faster, and everything from marketing and sales to delivery runs faster the more specific you get. The advice is aimed at the early stage especially — to get traction, pick the more specific problem for the more specific person.
 
 ## Synonyms
 
-- specific
-- problem
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "First, your goal is to find, I think, a sub-market of the categories again, which could be either problem-based, it could be the more specific who, it could be the more specific what. Specific for you, when you specialize, it means speed. It's going to come to how do you get clients faster?" — sources/S_ig_gregoryjhickman_C_a3J6GPJAH.md
-> "Selling, the sales process will be faster. Everything from marketing, sales to delivery will be faster the more specific you get. So really what that means is specialization is a strategy for you, especially earning early on." — sources/S_ig_gregoryjhickman_C_a3J6GPJAH.md
-> "You want to get traction, the more specific of a problem for the more specific of a person, the" — sources/S_ig_gregoryjhickman_C_a3J6GPJAH.md
+> "First, your goal is to find, I think, a sub-market of the categories again, which could be either problem-based, it could be the more specific who, it could be the more specific what." — sources/S_ig_gregoryjhickman_C_a3J6GPJAH.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a smaller niche for its own sake: a sub-market is a strategy for speed — identifiable people mean faster conversations, leads and sales.
+- Read as narrowing the offer: the narrowing is by problem and person — the more specific the problem for the more specific the person, the better — not by shrinking the service.

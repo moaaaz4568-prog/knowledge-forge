@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sequence", "points"]
+aka: ["smaller promises"]
 origin: sources/S_ig_gregoryjhickman_C_vdhYnh2nC.md
 ---
 
-# G_ig_gregoryjhickman_C_vdhYnh2nC — sequence
+# G_ig_gregoryjhickman_C_vdhYnh2nC — smaller promises
 
 ## Term
 
-sequence is the most prominent repeated term in this source (193-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: points, consistent, 50k. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Smaller promises are the small, keepable commitments a workshop makes: solve one specific problem now, as a sample of the expertise behind it. The phrase appears once in this 193-word source, beside sample, workshop, and sequence. The clip's rule comes from a friend: smaller promises are easier to keep, and the workshop exists to get a small subset of the right people to solve one very specific problem that opens their mind to buying the next thing. Sequence matters — if the core offer is not dialed in yet, doing this is out of sequence, because it is not about making a ton of money.
 
 ## Synonyms
 
-- sequence
-- points
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's what I want you guys to think about is if you are at that place where you're doing consistent 30, 50K a month, I think sequence, one of the points that I wanted to make here is sequence really matters. If you're just getting started and you don't have your core offer dialed in yet, doing this is out of sequence because this isn't about making a ton of money." — sources/S_ig_gregoryjhickman_C_vdhYnh2nC.md
+> "Solve a smaller problem now. My friend says smaller promises are easier to keep." — sources/S_ig_gregoryjhickman_C_vdhYnh2nC.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as thinking small: smaller promises are the workshop's job — a sample of expertise that opens the buyer's mind to the next thing.
+- Read as a revenue play: at this stage the workshop is out of sequence if the core offer is not dialed in, because it is about reaching the right subset, not making a ton of money.

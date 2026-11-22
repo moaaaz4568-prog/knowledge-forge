@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["onboarding", "presentation"]
+aka: ["LTV"]
 origin: sources/S_ig_gregoryjhickman_C_5p65EuMVh.md
 ---
 
-# G_ig_gregoryjhickman_C_5p65EuMVh — onboarding
+# G_ig_gregoryjhickman_C_5p65EuMVh — LTV
 
 ## Term
 
-onboarding is the most prominent repeated term in this source (136-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: presentation, changed, relabeled. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+LTV is the lifetime value of a client, and here it is the prize for fixing how calls are named and expectations are set. It appears once in this 136-word source, beside resell, renaming the calls, and onboarding call. The change took 30 minutes to execute — a few things changed in the sales presentation and onboarding, calls relabeled in the calendar — and the speaker is excited to see how much the LTV increases since the change. The result is not yet measured: it is still early days, and the feedback so far is extremely positive.
 
 ## Synonyms
 
-- onboarding
-- presentation
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "expectations, which again, all of these things, renaming the calls and then rolling that into our sales process, mentioning it in the onboarding call, took all of 30 minutes to actually execute. We changed a few things in the sales presentation, we changed a few things in the onboarding, and we just relabeled the calls in the call calendar and all of that great stuff." — sources/S_ig_gregoryjhickman_C_5p65EuMVh.md
+> "It didn't take long to execute and had very big impact so far, and I'm really excited to see how much the LTV increases since we've done this change." — sources/S_ig_gregoryjhickman_C_5p65EuMVh.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a pricing metric: LTV here is the payoff of renaming calls and setting expectations so clients do not need to be resold.
+- Read as a proven result: the clip says it is still early days — the feedback is extremely positive, but the LTV increase is hoped for, not yet measured.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["call", "kickoff"]
+aka: ["good client"]
 origin: sources/S_ig_gregoryjhickman_C_DltH2MZJk.md
 ---
 
-# G_ig_gregoryjhickman_C_DltH2MZJk — call
+# G_ig_gregoryjhickman_C_DltH2MZJk — good client
 
 ## Term
 
-call is the most prominent repeated term in this source (381-word transcript from the Instagram account gregoryjhickman): it occurs 6 times literally in the text, most often collocated with: kickoff, showing, already. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A good client is one the provider has trained: they play by the provider's rules, follow the process, and know how to get help through the right channels. The phrase appears once in this 381-word source, beside play by my rules, warm up, and same page. The training can be as simple as one email or one video consumed before the next step, plus a warm-up that gets the client on the same page of the same book — for one brand client, arriving with a handful of admired brands and an explanation of why. Even a poor job on that exercise leaves both sides closer in thought than a client arriving off a busy meeting asking what they are doing here.
 
 ## Synonyms
 
-- call
-- kickoff
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "two key things that I want to call out for you that we need to focus on is how do I train my new client to be a good client, to play by my rules, to follow the process, to know how to get help, use the right communication channels, to remind them of how we work and the" — sources/S_ig_gregoryjhickman_C_DltH2MZJk.md
-> "And that call is super inefficient. It's really the difference of having clients show up to your kickoff call and show up getting ready versus already being ready for the meaningful work to happen, right? You don't want to use your kickoff call to kind of get them into your world and momentum. That's inefficient." — sources/S_ig_gregoryjhickman_C_DltH2MZJk.md
-> "That's inefficient. I want them showing up to the kickoff call already in momentum, us talking on the same page, us being on the same wavelength." — sources/S_ig_gregoryjhickman_C_DltH2MZJk.md
+> "how do I train my new client to be a good client, to play by my rules, to follow the process, to know how to get help, use the right communication channels, to remind them of how we work" — sources/S_ig_gregoryjhickman_C_DltH2MZJk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as blaming clients: training a good client is the provider's job — one email or video before the next step, plus a warm-up exercise.
+- Read as obedience: a good client here is one who arrives in momentum, on the same page and wavelength, ready for meaningful work.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["description", "ago"]
+aka: ["hiring hack"]
 origin: sources/S_ig_gregoryjhickman_CaC1_g9gE5W.md
 ---
 
-# G_ig_gregoryjhickman_CaC1_g9gE5W — description
+# G_ig_gregoryjhickman_CaC1_g9gE5W — hiring hack
 
 ## Term
 
-description is the most prominent repeated term in this source (151-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: ago, hiring, submit. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A hiring hack is a small, random task hidden in the job description to test whether applicants pay attention to details. It appears once in this 151-word source, beside job description, pay attention to details, and top of funnel. The speaker's example is being a New York Giants fan: applicants had to say who wears number 13 and how many touchdowns they scored that year, and anyone answering I don't like football was deleted — that was not the question. Little tests like that at the top of the funnel cut one hundred candidates to thirty real quick.
 
 ## Synonyms
 
-- description
-- ago
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a quick hiring hack if you guys aren't doing this. In the initial job description, whether you're saying, hey, go here to apply or send an email here, inside of the request of here's what to do, make sure you have them do something that's kind of random to see if they can pay attention to details." — sources/S_ig_gregoryjhickman_CaC1_g9gE5W.md
-> "For example, I'm unfortunately a New York Giants fan. They're horrible now, but a couple years ago when we were hiring, in the description I said, before you kind of submit your letter, who wears number 13 and how many touchdowns did they score in this year? And there are some people that literally would respond like, I don't like football. That wasn't the question. Delete." — sources/S_ig_gregoryjhickman_CaC1_g9gE5W.md
+> "Here's a quick hiring hack if you guys aren't doing this." — sources/S_ig_gregoryjhickman_CaC1_g9gE5W.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a trick question: the random detail — who wears number 13, how many touchdowns — tests whether the applicant follows instructions, not football knowledge.
+- Read as a full hiring process: it sits at the top of the funnel only, cutting one hundred candidates to thirty before any real evaluation.

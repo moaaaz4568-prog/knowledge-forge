@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["Offer", "Blueprint"]
+aka: ["Offer Blueprint"]
 origin: sources/S_ig_gregoryjhickman_C_nryaOMaGa.md
 ---
 
-# G_ig_gregoryjhickman_C_nryaOMaGa — Offer
+# G_ig_gregoryjhickman_C_nryaOMaGa — Offer Blueprint
 
 ## Term
 
-Offer is the most prominent repeated term in this source (168-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: blueprint, workshop, called. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The Offer Blueprint is a workshop built from unbundled training, whose job is to give people clarity on what their offer will be. It appears twice in this 168-word source, beside unbundled training, clarity, and one hundred bucks. The context is an objection: people were not ready to work with the speaker because they lacked clarity on how to productize or monetize their expertise. The workshop answers that — it helps them see what their offer will be and what they are building towards — at a deliberately simple price of one hundred bucks, sold with an email, in two to three hours.
 
 ## Synonyms
 
-- Offer
-- Blueprint
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, when we unbundled this training and turned it into a topic, we created a workshop called the Offer Blueprint. And what the Offer Blueprint did was actually help them get clarity on what their offer was going to be and what they were going to be building towards as a part of their business." — sources/S_ig_gregoryjhickman_C_nryaOMaGa.md
+> "Well, when we unbundled this training and turned it into a topic, we created a workshop called the Offer Blueprint." — sources/S_ig_gregoryjhickman_C_nryaOMaGa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a course name: the Offer Blueprint is a workshop that gives clarity on what the offer will be and what the business is building towards.
+- Read as a big-ticket pitch: it costs one hundred bucks, sells with an email, and runs two to three hours — deliberately low friction, not a ninety-day program.

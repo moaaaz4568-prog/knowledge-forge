@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["clients", "showing"]
+aka: ["executable blueprints"]
 origin: sources/S_ig_gregoryjhickman_CYJ6XePJTVA.md
 ---
 
-# G_ig_gregoryjhickman_CYJ6XePJTVA — clients
+# G_ig_gregoryjhickman_CYJ6XePJTVA — executable blueprints
 
 ## Term
 
-clients is the most prominent repeated term in this source (141-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: showing, internally, media. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Executable blueprints are step-by-step packages of the founder's intellectual property that clients can actually follow, delivered mostly through media. The phrase appears once in this 141-word source, beside intellectual property, step by step, and media. The clip calls media one of the biggest forms of leverage for a service business: it teaches employees or clients, and it brings in new clients, while the delivery side packages the process, know-how and expertise into a curriculum clients are taken through. The shift is from doing it for clients to doing it with them by showing how, with support along the way.
 
 ## Synonyms
 
-- clients
-- showing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "learning management platforms, and you have things that you can either teach your employees internally or your team internally and or your clients in the form of media. Packaging up your intellectual property into step by step executable blueprints that are primarily leveraged through media. It could be your podcast, videos, things like that. And that media also brings in clients." — sources/S_ig_gregoryjhickman_CYJ6XePJTVA.md
-> "side, it's packaging up your process and your know how and your expertise into an executable curriculum, if you will, that you can take clients through. So instead of doing it for your clients, you do it with your clients by showing them how and providing some support along the" — sources/S_ig_gregoryjhickman_CYJ6XePJTVA.md
+> "Packaging up your intellectual property into step by step executable blueprints that are primarily leveraged through media." — sources/S_ig_gregoryjhickman_CYJ6XePJTVA.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as course content: blueprints here are executable steps clients are taken through, with support, not videos to watch.
+- Read as giving away the method: the same media that teaches also brings in clients, so packaging the process is both delivery and marketing.

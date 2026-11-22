@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["avatar", "his"]
+aka: ["ideal avatar", "avatar"]
 origin: sources/S_ig_gregoryjhickman_Ca45URaARC4.md
 ---
 
-# G_ig_gregoryjhickman_Ca45URaARC4 — avatar
+# G_ig_gregoryjhickman_Ca45URaARC4 — ideal avatar
 
 ## Term
 
-avatar is the most prominent repeated term in this source (195-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: his, cameron, intentionally. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+An ideal avatar is the specific type of client the business is built to serve, and taking others is judged by which phase the business is in. The phrase appears once in this 195-word source, beside signature service, validation phase, and leverage and predictability phase, with avatar alone appearing 3 more times. For Cameron, who was intentionally changing his avatar, taking different people was a good exercise — it would show whether his process helps them and whether he even sees his avatar correctly. But for an expert who has served one type of client for years and wants to continue, a non-avatar client is a distraction: do not go backwards.
 
 ## Synonyms
 
-- avatar
-- his
+- avatar (the shorter form, used 3 more times in the source)
 
 ## Live Example
 
-> "getting people that want to pay me for my signature service that weren't my ideal avatar. Should I do it? The real answer is it depends. Like for some people, I'd totally say yes, do it, and then others I would say no." — sources/S_ig_gregoryjhickman_Ca45URaARC4.md
-> "different people to see how his process can help, I'd say that's actually a good exercise for him because he might not be looking at his avatar even correctly yet. And for him to serve some other people that telling him they want exactly what he does to go do it is gonna be very telling for him." — sources/S_ig_gregoryjhickman_Ca45URaARC4.md
-> "years and their intention is to continue to work in that market and all of a sudden they get someone that comes to them that's not their avatar, I would 100% say no because that's a distraction. They're not in validation phase, they're in creating leverage and predictability phase." — sources/S_ig_gregoryjhickman_Ca45URaARC4.md
+> "I'm getting people that want to pay me for my signature service that weren't my ideal avatar." — sources/S_ig_gregoryjhickman_Ca45URaARC4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as turning away money: taking non-avatar clients is a good exercise while intentionally changing avatar or still in validation, and a distraction once the work is about leverage and predictability.
+- Read as a fixed customer profile: Cameron's case shows the avatar itself can be wrong — serving different people reveals whether the process helps them.

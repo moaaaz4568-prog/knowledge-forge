@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["step", "process"]
+aka: ["from-to statement"]
 origin: sources/S_ig_gregoryjhickman_C_TI1Hvvywo.md
 ---
 
-# G_ig_gregoryjhickman_C_TI1Hvvywo — step
+# G_ig_gregoryjhickman_C_TI1Hvvywo — from-to statement
 
 ## Term
 
-step is the most prominent repeated term in this source (137-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: process, receive, arrive. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A from-to statement describes the client's journey as a move from something painful they want to escape to the outcome they want. It appears once in this 137-word source, beside painful, desired outcome, and each and every step. The clip's framing starts with the client in a spot of pain and unhappiness, then takes them through a step-by-step process to an outcome valuable to them. The statement works per step as well: each step is described as moving from what the client experiences now to what they want.
 
 ## Synonyms
 
-- step
-- process
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Right now, they are in a spot where they maybe have pain and they are unhappy. And after that, you take them through your step-by-step process, they should receive or arrive at an outcome that is valuable to them. And so one way that we think about this is using the from-to statement." — sources/S_ig_gregoryjhickman_C_TI1Hvvywo.md
-> "Now what's beautiful about this is you can actually do that for each and every step. So you can say, hey, in our first step, we're gonna be working on X, Y, Z, and that's gonna help you go from thing that you experience now to what you" — sources/S_ig_gregoryjhickman_C_TI1Hvvywo.md
+> "And so one way that we think about this is using the from-to statement." — sources/S_ig_gregoryjhickman_C_TI1Hvvywo.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a slogan: the from-to statement is applied per step — each step moves the client from something they experience now to something they want.
+- Read as selling the end only: the statement starts from the client's present pain and unhappiness, not from the provider's process.

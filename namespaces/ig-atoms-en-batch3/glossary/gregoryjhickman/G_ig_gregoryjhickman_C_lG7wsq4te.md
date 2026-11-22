@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["core", "service"]
+aka: ["unbundle"]
 origin: sources/S_ig_gregoryjhickman_C_lG7wsq4te.md
 ---
 
-# G_ig_gregoryjhickman_C_lG7wsq4te — core
+# G_ig_gregoryjhickman_C_lG7wsq4te — unbundle
 
 ## Term
 
-core is the most prominent repeated term in this source (176-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: service, unbundle, offer. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+To unbundle is to lift one step out of the core service's multi-step process and turn it into a topic of its own, usually a live workshop. The base form appears twice in this 176-word source, beside core service, live workshop, and offer suite, with unbundled appearing once more. The clip's example is step one or step nine of the implementation path: unbundle that piece and deliver it as a two to three hour live workshop, exactly what they did with a hot topic — how to design offers for an agency and the exact offer suite to have inside the business.
 
 ## Synonyms
 
-- core
-- service
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "want to unbundle our core service. Our core offer takes people through a multi-step process." — sources/S_ig_gregoryjhickman_C_lG7wsq4te.md
-> "Now here's the thing, all of us are sitting on some sort of core deliverable, core service that gets our client a result." — sources/S_ig_gregoryjhickman_C_lG7wsq4te.md
+> "We want to unbundle our core service. Our core offer takes people through a multi-step process." — sources/S_ig_gregoryjhickman_C_lG7wsq4te.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as splitting the service apart: unbundling takes one step of the implementation path and turns it into a topic for a two-to-three-hour live workshop.
+- Read as a discount product: the workshop topic was a hot one — how to design offers — chosen because clients already wanted it, not because it was cheap to make.

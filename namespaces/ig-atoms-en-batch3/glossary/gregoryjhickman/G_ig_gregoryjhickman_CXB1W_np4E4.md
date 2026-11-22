@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["buy", "digital"]
+aka: ["attraction marketing"]
 origin: sources/S_ig_gregoryjhickman_CXB1W_np4E4.md
 ---
 
-# G_ig_gregoryjhickman_CXB1W_np4E4 — buy
+# G_ig_gregoryjhickman_CXB1W_np4E4 — attraction marketing
 
 ## Term
 
-buy is the most prominent repeated term in this source (210-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: digital, marketing, ask. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Attraction marketing is messaging clear enough that the right client recognizes themselves in it — and it cannot exist when the offer is too custom to describe. It appears once in this 210-word source, beside ideal client, offer too custom, and what can I buy from you. The clip's test is blunt: if every project starts from scratch, you cannot go to market saying who you help, and you cannot write the blog post, video or LinkedIn post that would attract them. The diagnostic question he asks new clients is what can I buy from you — a six week course, a 90 day project, a system to install — because digital marketing on its own is not something anyone can buy.
 
 ## Synonyms
 
-- buy
-- digital
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "can I actually buy from you? How do I give you money and what do I get when I give you that money?" — sources/S_ig_gregoryjhickman_CXB1W_np4E4.md
-> "How does it work? And the answer of, well, we do digital marketing, like that's not something that I can buy. I can't just buy digital marketing from you. Is it a six week course? Is it a 90 day project? Is it a system that you're going to install in my business? How long does it take?" — sources/S_ig_gregoryjhickman_CXB1W_np4E4.md
+> "If every project starts from scratch, you do one thing for one client, something different for another, and so on and so forth, it's tough to go to the market and say we help this type of person, which means attraction marketing doesn't exist." — sources/S_ig_gregoryjhickman_CXB1W_np4E4.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as advertising: attraction marketing here is messaging so clear that the right client recognizes themselves — a blog post or video that says who you help.
+- Read as a traffic problem: the clip traces its absence to an offer too custom to describe, not to a small audience.

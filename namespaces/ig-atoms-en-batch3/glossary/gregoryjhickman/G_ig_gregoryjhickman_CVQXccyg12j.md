@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sales", "marketing"]
+aka: ["fulfillment"]
 origin: sources/S_ig_gregoryjhickman_CVQXccyg12j.md
 ---
 
-# G_ig_gregoryjhickman_CVQXccyg12j — sales
+# G_ig_gregoryjhickman_CVQXccyg12j — fulfillment
 
 ## Term
 
-sales is the most prominent repeated term in this source (170-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: marketing, naturally, enjoy. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Fulfillment is the hands-on client work that fills the founder's week, and the first job to hire out. It appears 3 times in this 170-word source, beside hire, part-time employee, and sales and marketing. The clip tells the story as a rule: he launched the agency, pre-sold about 10 clients, and hired his first part-time employee to help with fulfillment 15 days later, calling it the best decision he ever made. The hiring order that follows is fulfillment first, then an assistant for ancillary admin work, then sales and marketing depending on the founder's skill set.
 
 ## Synonyms
 
-- sales
-- marketing
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's gonna get you in a position where you could be focused on sales and marketing and bringing new people in. It's sales and marketing are the next two, depending upon what skill set you have will determine which one of those comes first." — sources/S_ig_gregoryjhickman_CVQXccyg12j.md
-> "We have some people that are naturally really good at sales and enjoy sales" — sources/S_ig_gregoryjhickman_CVQXccyg12j.md
+> "I think the number one thing you should hire as soon as humanly possible is someone to help in fulfillment." — sources/S_ig_gregoryjhickman_CVQXccyg12j.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as delivery in general: fulfillment here is the client-work execution that eats the founder's week, the first thing to hire out.
+- Read as hiring a full team at once: the clip orders it — fulfillment first, then an assistant for admin, then sales and marketing.

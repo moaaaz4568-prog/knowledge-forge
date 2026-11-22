@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["profitably", "focused"]
+aka: ["acquisition", "acquire"]
 origin: sources/S_ig_gregoryjhickman_CXy__QapyAZ.md
 ---
 
-# G_ig_gregoryjhickman_CXy__QapyAZ — profitably
+# G_ig_gregoryjhickman_CXy__QapyAZ — acquisition
 
 ## Term
 
-profitably is the most prominent repeated term in this source (119-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: focused, acquisition, streamlined. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Acquisition is the constant work of profitably bringing in new clients, at every level of the game. The noun appears once in this 119-word source, beside pay $1 and make two, one to three, and three to five, with the verb acquire appearing once more. The clip's warning is that founders invent problems that do not exist around it: getting from one to three clients, three to five, five to ten, the obstacle is always figuring out how to pay $1 and make two. The corrective is to treat it as ordinary day-to-day running of a successful seven figure plus business, not as the one big thing.
 
 ## Synonyms
 
-- profitably
-- focused
+- acquire (the verb form, used once in the source)
 
 ## Live Example
 
-> "The biggest obstacle is that they create problems that don't exist. You're always going to be trying to figure out how to profitably acquire people. You're always going to be figuring out how to pay $1 and make two. These are just business problems. At every level of the game, you will always be focused on doing acquisition well, profitably, streamlined, etc." — sources/S_ig_gregoryjhickman_CXy__QapyAZ.md
+> "You're always going to be trying to figure out how to profitably acquire people. You're always going to be figuring out how to pay $1 and make two." — sources/S_ig_gregoryjhickman_CXy__QapyAZ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a growth-stage problem: acquisition stays the daily work at every level, from one to three clients up to ten.
+- Read as a puzzle to solve once: the clip warns against inflating it — it is ordinary day-to-day running of a seven-figure business, not a single breakthrough.

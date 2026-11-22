@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["client", "needs"]
+aka: ["vicious circle"]
 origin: sources/S_ig_gregoryjhickman_CW3cfx-pm35.md
 ---
 
-# G_ig_gregoryjhickman_CW3cfx-pm35 — client
+# G_ig_gregoryjhickman_CW3cfx-pm35 — vicious circle
 
 ## Term
 
-client is the most prominent repeated term in this source (147-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: needs, different, money. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A vicious circle is the trap of custom work: every client needs something different, so the work never repeats and never gets efficient. It appears once in this 147-word source, beside custom work, client A, client B, and repeatability. The clip's pattern is that an agency owner takes a prospect because he needs the money, does whatever that client needs, and then the same thing happens again and again — always solving a different problem. The only exit named is specialization: positioning for scalability means building systems that work for you instead of starting over each time.
 
 ## Synonyms
 
-- client
-- needs
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A lot of your work is probably custom because what client A needs is different from what client B needs, which is different from what client C needs. And so that puts you in this vicious circle of really trying to gain traction." — sources/S_ig_gregoryjhickman_CW3cfx-pm35.md
-> "And I find a lot of agency owners, they'll come across a prospect, they need the money, and they'll do whatever that client needs because they need the money. And then the same thing happens again and again and again." — sources/S_ig_gregoryjhickman_CW3cfx-pm35.md
+> "And so that puts you in this vicious circle of really trying to gain traction." — sources/S_ig_gregoryjhickman_CW3cfx-pm35.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as bad luck: the circle is self-made — taking any client for the money keeps every job different and blocks efficiency.
+- Read as a phase every agency must pass: the clip treats it as the specific cost of custom work, ended by specialization, not by time.

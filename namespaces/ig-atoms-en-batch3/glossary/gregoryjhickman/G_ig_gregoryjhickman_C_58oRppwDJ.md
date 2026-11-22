@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["fun", "less"]
+aka: ["business coach"]
 origin: sources/S_ig_gregoryjhickman_C_58oRppwDJ.md
 ---
 
-# G_ig_gregoryjhickman_C_58oRppwDJ — fun
+# G_ig_gregoryjhickman_C_58oRppwDJ — business coach
 
 ## Term
 
-fun is the most prominent repeated term in this source (149-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: less, makes, miserable. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A business coach is compared here to an e-bike: you still reach the destination and still get a workout, but it is more fun, faster, and takes you further. The phrase appears twice in this 149-word source, beside e-bike, quiver, and destination. The clip recommends working with a coach to grow an agency, and stresses that it does not mean working with him — any coach who has been where you want to be, and has done it time and time again, knows how to get there faster and how to avoid what makes it miserable and less fun.
 
 ## Synonyms
 
-- fun
-- less
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You still get to the destination, you still get a workout, but it's way more fun and it's way faster. And you actually can go a whole lot further too. If you're not working with a business coach to help you grow your agency, highly recommend you check it out." — sources/S_ig_gregoryjhickman_C_58oRppwDJ.md
-> "and time again, they'll know how to get there faster, they'll know how to avoid all of the stuff that makes it really miserable and less fun. So let's have more" — sources/S_ig_gregoryjhickman_C_58oRppwDJ.md
+> "I just gotta say that riding an e-mountain bike is a lot like having a business coach." — sources/S_ig_gregoryjhickman_C_58oRppwDJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as someone doing the work for you: like the e-bike, the coach leaves you pedalling — you still get the workout and reach the destination, only faster and further.
+- Read as a pitch for his own program: the clip explicitly says it does not mean work with us, only with someone who has already been where you want to be.

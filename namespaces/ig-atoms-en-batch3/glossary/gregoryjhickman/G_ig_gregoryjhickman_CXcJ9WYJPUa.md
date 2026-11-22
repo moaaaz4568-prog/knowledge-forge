@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["million", "half"]
+aka: ["10 to 20%"]
 origin: sources/S_ig_gregoryjhickman_CXcJ9WYJPUa.md
 ---
 
-# G_ig_gregoryjhickman_CXcJ9WYJPUa — million
+# G_ig_gregoryjhickman_CXcJ9WYJPUa — 10 to 20%
 
 ## Term
 
-million is the most prominent repeated term in this source (177-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: half, give, dollars. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+10 to 20% is the share of the value created that the speaker commonly charges, rising with his confidence and guarantee. It appears twice in this 177-word source, beside confidence, guarantee, and generate $100,000. The rule is concrete: if the delivery helps the client generate $100,000, he can charge 10 to 20,000, and if he were 100% certain of a million dollars, he would ask half a million. The percentage is justified by the result promised, not the effort spent, and the conversation changes completely once the outcome is certain.
 
 ## Synonyms
 
-- million
-- half
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But if I was 100% certain that I could generate you a million dollars, would you pay me half a million? Like 100%, you will make a million if you give me half a million." — sources/S_ig_gregoryjhickman_CXcJ9WYJPUa.md
+> "So I often see that that 10 to 20% is very common in the realm of, hey, it's very much worth this." — sources/S_ig_gregoryjhickman_CXcJ9WYJPUa.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a fixed industry rate: the percentage follows the confidence and guarantee behind the result, rising toward half when the outcome is certain.
+- Read as charging for effort: the fee is priced against the money the work will create — 10 to 20,000 on 100,000 generated — not against hours spent.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["copy", "choose"]
+aka: ["model and then modify"]
 origin: sources/S_ig_gregoryjhickman_CVDoTgWJ5yV.md
 ---
 
-# G_ig_gregoryjhickman_CVDoTgWJ5yV — copy
+# G_ig_gregoryjhickman_CVDoTgWJ5yV — model and then modify
 
 ## Term
 
-copy is the most prominent repeated term in this source (139-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: choose, lines, better. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Model and then modify is Dan Martell's rule for learning from people ahead of you: copy their approach first, then change it. It appears once in this 139-word source, beside copy the lines, copy the model, and emulate and then innovate. The clip's version of copying is deliberate study — copy the lines they choose, how they make decisions, and the model they have — and only start innovating after reaching their level. The question it ends on is practical: in what area of your business or life do you need people ahead of you around you.
 
 ## Synonyms
 
-- copy
-- choose
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to grow faster, if you want to be better, get around people that you can copy. Copy the lines that they choose, copy how they make decisions, copy the model that they have. If you're trying to have the same type of business that they have, copy and then innovate." — sources/S_ig_gregoryjhickman_CVDoTgWJ5yV.md
+> "As one of my former mentors, Dan Martell says, model and then modify, emulate and then innovate." — sources/S_ig_gregoryjhickman_CVDoTgWJ5yV.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as plagiarism: copying here means studying how people ahead of you choose lines and make decisions, then adapting it, not passing off their work as yours.
+- Read as permission to copy forever: the clip pairs copying with innovating only after getting to their level.

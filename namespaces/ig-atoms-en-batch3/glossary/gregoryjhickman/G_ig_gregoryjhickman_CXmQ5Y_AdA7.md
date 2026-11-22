@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["help", "larger"]
+aka: ["intellectual property licensing"]
 origin: sources/S_ig_gregoryjhickman_CXmQ5Y_AdA7.md
 ---
 
-# G_ig_gregoryjhickman_CXmQ5Y_AdA7 — help
+# G_ig_gregoryjhickman_CXmQ5Y_AdA7 — intellectual property licensing
 
 ## Term
 
-help is the most prominent repeated term in this source (86-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: larger, impact, allow. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Intellectual property licensing is a delivery model: package what you know so many providers can use it, instead of helping them one on one. It appears once in this 86-word source, beside delivery model, media, and software. The clip's argument is that things you know could help way more people if you change how you deliver them — with media, software, and licensing — and show as many service providers as possible what you did. The larger impact is doubled: the providers you help, and then the people they can help.
 
 ## Synonyms
 
-- help
-- larger
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "are things that you know that could allow you to help way more people if you hop on to a different delivery model in today's world." — sources/S_ig_gregoryjhickman_CXmQ5Y_AdA7.md
-> "one on one, why don't I show as many service providers what we did because that'll have a larger impact not only the people we can help, but then the people that they can" — sources/S_ig_gregoryjhickman_CXmQ5Y_AdA7.md
+> "With media, with the opportunities for software and using the ability to package your intellectual property licensing, instead of us just helping service providers one on one" — sources/S_ig_gregoryjhickman_CXmQ5Y_AdA7.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as legal paperwork: licensing here is a delivery model — showing many providers what you did instead of helping them one on one.
+- Read as a bigger audience for its own sake: the point is larger impact — helping the people your students then help — not reach alone.

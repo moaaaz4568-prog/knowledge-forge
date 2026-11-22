@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["call", "expensive"]
+aka: ["kickoff call"]
 origin: sources/S_ig_gregoryjhickman_C_BA5hFqfN-.md
 ---
 
-# G_ig_gregoryjhickman_C_BA5hFqfN- — call
+# G_ig_gregoryjhickman_C_BA5hFqfN- — kickoff call
 
 ## Term
 
-call is the most prominent repeated term in this source (210-word transcript from the Instagram account gregoryjhickman): it occurs 7 times literally in the text, most often collocated with: expensive, kickoff, hours. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A kickoff call is the first human interaction of the delivery experience, and its length is decided by the warm-up phase before it. It appears twice in this 210-word source, beside warm up phase, worksheet, and 60 minutes to two hours. The clip's key is that clients should bring the warm-up work done and ready, so the call can be as short as humanly possible — adding one email and one assignment cut it from two hours to 30 minutes. That saving is profit: shaving 30 to 60 minutes off serving one client, or three people's time on the same call, makes the call shorter and more potent.
 
 ## Synonyms
 
-- call
-- expensive
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But a key here is that the next phase of the process is really where you would have like the official kickoff call, right? And so you're gonna have some sort of human interaction. You want them to bring as much of this stuff done and ready so that this call can be as short as humanly possible." — sources/S_ig_gregoryjhickman_C_BA5hFqfN-.md
-> "call was like 60 minutes to two hours, that after they added something like this, even when it was like an email and one assignment, this call was able to go from say two hours to 30 minutes." — sources/S_ig_gregoryjhickman_C_BA5hFqfN-.md
-> "off 30 to another additional 60 minutes of your time, or if you have three people on that call, like that's an expensive call. So this call can be shorter, more potent. You can actually dive into whatever you need to dive in." — sources/S_ig_gregoryjhickman_C_BA5hFqfN-.md
+> "But a key here is that the next phase of the process is really where you would have like the official kickoff call, right?" — sources/S_ig_gregoryjhickman_C_BA5hFqfN-.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as the start of the work: the kickoff call works only when the warm-up phase has already delivered videos or a worksheet, so the client arrives done and ready.
+- Read as a long meeting by nature: adding one email and one assignment cut the call from two hours to 30 minutes, freeing profit from the same client.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sustainability", "lead"]
+aka: ["Productization"]
 origin: sources/S_ig_gregoryjhickman_C_GDyIzhAMk.md
 ---
 
-# G_ig_gregoryjhickman_C_GDyIzhAMk — sustainability
+# G_ig_gregoryjhickman_C_GDyIzhAMk — Productization
 
 ## Term
 
-sustainability is the most prominent repeated term in this source (107-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: lead, generation, importantly. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Productization is the practice of turning a service into a systemized process without giving up quality or creativity. It appears once, capitalized at the start of the sentence, in this 107-word source, beside systemizing processes, commoditization, and sustainability. Done right, it frees time from administrative tasks for the creative elements of the work, and brings consistency, happier clients, and sustainability in lead generation, revenue and profit. The clip admits the tension openly: some commoditization always follows the word, because some people have taken it down that path.
 
 ## Synonyms
 
-- sustainability
-- lead
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And most importantly, it always results in more consistency, or at least it should, from a quality of client perspective, happier clients, sustainability in your lead generation, and most importantly, sustainability in your revenue and profit." — sources/S_ig_gregoryjhickman_C_GDyIzhAMk.md
+> "Productization is about systemizing processes, not compromising on quality or creativity." — sources/S_ig_gregoryjhickman_C_GDyIzhAMk.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as dumbing the work down: productization here frees time from admin for the creative elements instead of cutting them.
+- Read as becoming a commodity: the clip admits some commoditization follows the word, but ties the practice to consistency, happier clients and sustainable revenue.

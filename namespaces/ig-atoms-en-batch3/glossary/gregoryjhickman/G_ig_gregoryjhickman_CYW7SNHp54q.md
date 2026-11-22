@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["requirement", "future"]
+aka: ["signature service"]
 origin: sources/S_ig_gregoryjhickman_CYW7SNHp54q.md
 ---
 
-# G_ig_gregoryjhickman_CYW7SNHp54q — requirement
+# G_ig_gregoryjhickman_CYW7SNHp54q — signature service
 
 ## Term
 
-requirement is the most prominent repeated term in this source (117-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: future, indicator, run. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A signature service is the named offer defined by the outcome it produces — taking the client from this to this — with every item in it tested against that result. It appears once in this 117-word source, beside outcome, requirement, and speed bump. The clip's test is a yes-or-no question for each item on the list: is this a requirement to get that result, and if they cannot do everything on the list and still achieve the result, the item is probably a speed bump rather than necessary. Such items can be removed now and may become requirements in the future, but they do not belong in the service today.
 
 ## Synonyms
 
-- requirement
-- future
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You kind of run through that list. Is this a requirement to get that result? Yes or no. If it's not a requirement, it's probably an indicator that you could probably remove it." — sources/S_ig_gregoryjhickman_CYW7SNHp54q.md
-> "on your list and still achieve the result, then it's probably more of a speed bump, which means probably not necessary. Maybe it becomes a requirement in the future, but like if it's not a requirement right now, maybe you can take it" — sources/S_ig_gregoryjhickman_CYW7SNHp54q.md
+> "When you start thinking about your outcome, hey, my signature service takes them from this to this, and you have all of the list of things that you believe are gonna get them there." — sources/S_ig_gregoryjhickman_CYW7SNHp54q.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a branded package: the signature service is defined by its outcome — from this to this — and everything in it must prove it is a requirement.
+- Read as cutting corners: removing a non-requirement is not skimping; the item is a speed bump, possibly a requirement later but not now.

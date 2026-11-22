@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7425 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7004 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3054,56 +3054,56 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUnJuUwjzTO.md | team | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUstrPQp4d6.md | help | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CUxlyZuAJsD.md | three years | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CV0U2NkAJ8q.md | put | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CV6SLwqJhqT.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVDoTgWJ5yV.md | copy | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVLP8XqAEv5.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVQXccyg12j.md | sales | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVV5d6BJBDP.md | love | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVdK4dyAZ66.md | fulfillment | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CViVUCega6u.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVnl73GpKzR.md | season | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVvYyNfJIoc.md | results | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CW3cfx-pm35.md | client | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CWlZ9NDACpK.md | service | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CWvm8JpAktY.md | process | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CX35I1yJiCa.md | media | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXB1W_np4E4.md | buy | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXL8nIUATEe.md | capacity | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXPiB77gylB.md | client | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CX_klY7plHA.md | yet | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXcJ9WYJPUa.md | million | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CV0U2NkAJ8q.md | scope creep | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CV6SLwqJhqT.md | fixed ceiling | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVDoTgWJ5yV.md | model and then modify | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVLP8XqAEv5.md | deliverables | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVQXccyg12j.md | fulfillment | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVV5d6BJBDP.md | accidental agency | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVdK4dyAZ66.md | perfect work week | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CViVUCega6u.md | ideal client | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVnl73GpKzR.md | in sequence | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CVvYyNfJIoc.md | Specialization | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CW3cfx-pm35.md | vicious circle | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CWlZ9NDACpK.md | cross sell | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CWvm8JpAktY.md | done with you | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CX35I1yJiCa.md | modern day media company | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXB1W_np4E4.md | attraction marketing | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXL8nIUATEe.md | capacity | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXPiB77gylB.md | selling your byproduct | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CX_klY7plHA.md | rock star | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXcJ9WYJPUa.md | 10 to 20% | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CXg7yg1pSO9.md | flatline | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXmQ5Y_AdA7.md | help | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXy__QapyAZ.md | profitably | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY1nHRdpELu.md | selling | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY7iqxEpfwL.md | hundred | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYJ6XePJTVA.md | clients | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYW7SNHp54q.md | requirement | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY_q_RTJXwl.md | outlets | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYkhCm5p_Ip.md | copywriter | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_381Icplpi.md | scale | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_58oRppwDJ.md | fun | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_5p65EuMVh.md | onboarding | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_8OrR5NRfd.md | expectations | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_BA5hFqfN-.md | call | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_DltH2MZJk.md | call | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_GDyIzhAMk.md | sustainability | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_IuxEtJvg-.md | creative | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_LOv8RM5Sq.md | process | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_N1i2hKjT5.md | service | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_TI1Hvvywo.md | step | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_VtlGGt5W-.md | problem | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_WQkhcJyN6.md | closer | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_YSZEPtGeU.md | industry | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_a3J6GPJAH.md | specific | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_lG7wsq4te.md | core | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_nryaOMaGa.md | Offer | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_s1VTUtTwR.md | thousand | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_vdhYnh2nC.md | sequence | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca-EJNpgK7y.md | content | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca45URaARC4.md | avatar | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaC1_g9gE5W.md | description | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXmQ5Y_AdA7.md | intellectual property licensing | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CXy__QapyAZ.md | acquisition | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY1nHRdpELu.md | diagnostic conversation | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY7iqxEpfwL.md | profitable acquisition service | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYJ6XePJTVA.md | executable blueprints | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYW7SNHp54q.md | signature service | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CY_q_RTJXwl.md | acquisition of media outlets | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CYkhCm5p_Ip.md | guarantee | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_381Icplpi.md | alt agency model | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_58oRppwDJ.md | business coach | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_5p65EuMVh.md | LTV | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_8OrR5NRfd.md | ongoing continuity | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_BA5hFqfN-.md | kickoff call | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_DltH2MZJk.md | good client | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_GDyIzhAMk.md | Productization | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_IuxEtJvg-.md | productized | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_LOv8RM5Sq.md | instruction manual | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_N1i2hKjT5.md | total addressable market | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_TI1Hvvywo.md | from-to statement | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_VtlGGt5W-.md | purchasing power | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_WQkhcJyN6.md | inside the bottle | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_YSZEPtGeU.md | market fit | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_a3J6GPJAH.md | sub-market | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_lG7wsq4te.md | unbundle | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_nryaOMaGa.md | Offer Blueprint | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_s1VTUtTwR.md | one hundred dollar workshop | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_C_vdhYnh2nC.md | smaller promises | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca-EJNpgK7y.md | conversions happen in conversations | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca45URaARC4.md | ideal avatar | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaC1_g9gE5W.md | hiring hack | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CaID9sVgmVE.md | gets easier | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CaPsltRgvNu.md | client | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CaU1AnmAfze.md | sales | 2 |
