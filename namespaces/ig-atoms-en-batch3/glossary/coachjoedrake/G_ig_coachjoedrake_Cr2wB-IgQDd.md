@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [chant]
 origin: sources/S_ig_coachjoedrake_Cr2wB-IgQDd.md
 ---
 
-# G_ig_coachjoedrake_Cr2wB-IgQDd — coachjoedrake
+# G_ig_coachjoedrake_Cr2wB-IgQDd — chant
 
 ## Term
 
-This source has no conceptual term: it is a sung verse, and lock on the streets is one boast inside it, not a named idea or method. The phrase appears once, beside demons just got out of Kent, ten in a week, and dream about working my sleep, and the verse goes on through a shout-out, a yard studio, and brothers. No line in the verse names a concept, and the source contains no coaching content at all. The entry keeps the verse as a verse and claims no coaching idea for it.
+This source has no conceptual term: it is a sung verse, and `chant` here labels only the type of the material, not a term the verse defines. The phrase appears once, beside demons just got out of Kent, ten in a week, and dream about working my sleep, and the verse goes on through a shout-out, a yard studio, and brothers. No line in the verse names a concept, and the source contains no coaching content at all. The entry keeps the verse as a verse and claims no coaching idea for it.
 
 ## Synonyms
 

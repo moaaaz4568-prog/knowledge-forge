@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [chant]
 origin: sources/S_ig_coachjoedrake_Csi82KOgKik.md
 ---
 
-# G_ig_coachjoedrake_Csi82KOgKik — coachjoedrake
+# G_ig_coachjoedrake_Csi82KOgKik — chant
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and when you come alive is its opening line, not a named idea or method. The phrase appears once, beside when you drop your reason, when you feel the love, and when you feel the weight, and the whole source is that single sentence. The four when-clauses stack as a lyric, and nothing in the source says what coming alive means or connects it to training. The entry keeps the line as a sung sentence and draws no coaching lesson from it.
+This source has no conceptual term: it is a sung lyric, and `chant` here labels only the type of the material, not a term the source defines. The phrase appears once, beside when you drop your reason, when you feel the love, and when you feel the weight, and the whole source is that single sentence. The four when-clauses stack as a lyric, and nothing in the source says what coming alive means or connects it to training. The entry keeps the line as a sung sentence and draws no coaching lesson from it.
 
 ## Synonyms
 

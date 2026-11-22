@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cq-LdDAg3Sx.md
 ---
 
-# G_ig_coachjoedrake_Cq-LdDAg3Sx — coachjoedrake
+# G_ig_coachjoedrake_Cq-LdDAg3Sx — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and patty cake is the opening play on a nursery rhyme, not a named idea or method. The phrase is used twice, beside I'm the baker's man, I bake them cakes as fast as I can, and how my bread stack up. The verse then moves through whips, cockpits, grinding, dough, and windmills, with no coaching content anywhere in it. The entry treats the line as the song's opening and nothing more.
+This source has no conceptual term: it is a sung lyric, and `refrain` here labels only the repeated opening line's kind, not a concept the source holds. The phrase is used twice, beside I'm the baker's man, I bake them cakes as fast as I can, and how my bread stack up. The verse then moves through whips, cockpits, grinding, dough, and windmills, with no coaching content anywhere in it. The entry treats the line as the song's opening and nothing more.
 
 ## Synonyms
 

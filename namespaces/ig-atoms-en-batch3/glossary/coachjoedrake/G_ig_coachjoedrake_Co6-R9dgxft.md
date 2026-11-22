@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 ---
 
-# G_ig_coachjoedrake_Co6-R9dgxft — coachjoedrake
+# G_ig_coachjoedrake_Co6-R9dgxft — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and put your back into it is its repeated refrain, not a coaching cue or a named method. The phrase appears twice, beside tick tick boom, back streets, and treated like an athlete, and the rest of the lyric moves through a track meet, a marathon, and banging down back streets. The words sound like effort, but in the song they are a chant to a beat rather than an instruction about how to train. The entry keeps the refrain as a sung line and gives it no coaching meaning.
+This source has no conceptual term: it is a sung lyric, and `refrain` here is only a label for the repeated line it is built around, not a name for any coaching idea. The phrase appears twice, beside tick tick boom, back streets, and treated like an athlete, and the rest of the lyric moves through a track meet, a marathon, and banging down back streets. The words sound like effort, but in the song they are a chant to a beat rather than an instruction about how to train. The entry keeps the refrain as a sung line and gives it no coaching meaning.
 
 ## Synonyms
 

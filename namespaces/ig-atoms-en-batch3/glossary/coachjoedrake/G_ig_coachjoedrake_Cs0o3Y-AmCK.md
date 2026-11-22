@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cs0o3Y-AmCK.md
 ---
 
-# G_ig_coachjoedrake_Cs0o3Y-AmCK — coachjoedrake
+# G_ig_coachjoedrake_Cs0o3Y-AmCK — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and the rhythm of the night is its repeated line, not a named idea or method. The phrase appears twice, and the whole source is that single sentence sung two times over, with no other words at all. The repetition is the song's hook, and nothing in the source says what the rhythm is or connects it to training. The entry keeps the line as a twice-sung hook and claims no training idea for it.
+This source has no conceptual term: it is a sung lyric, and `refrain` here labels only the twice-sung line's kind, not a term. The phrase appears twice, and the whole source is that single sentence sung two times over, with no other words at all. The repetition is the song's hook, and nothing in the source says what the rhythm is or connects it to training. The entry keeps the line as a twice-sung hook and claims no training idea for it.
 
 ## Synonyms
 

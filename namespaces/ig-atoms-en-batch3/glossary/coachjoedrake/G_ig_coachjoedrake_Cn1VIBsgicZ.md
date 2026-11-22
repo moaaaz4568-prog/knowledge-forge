@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cn1VIBsgicZ.md
 ---
 
-# G_ig_coachjoedrake_Cn1VIBsgicZ — coachjoedrake
+# G_ig_coachjoedrake_Cn1VIBsgicZ — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and the line caught in the undertow is its repeated refrain, not a named idea, method, or distinction. The phrase appears four times, twice in each of its two identical lines, beside faithless, lost under the surface, and the pressure of walking in your shoes. It pictures being dragged along by someone else's expectations, with every step counted as another mistake to you. The entry records the refrain exactly as sung and does not turn it into a coaching concept.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The phrase appears four times, twice in each of its two identical lines, beside faithless, lost under the surface, and the pressure of walking in your shoes. It pictures being dragged along by someone else's expectations, with every step counted as another mistake to you. The entry records the refrain exactly as sung and does not turn it into a coaching concept.
 
 ## Synonyms
 

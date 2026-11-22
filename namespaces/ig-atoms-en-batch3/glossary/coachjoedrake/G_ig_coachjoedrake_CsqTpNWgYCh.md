@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_CsqTpNWgYCh.md
 ---
 
-# G_ig_coachjoedrake_CsqTpNWgYCh — coachjoedrake
+# G_ig_coachjoedrake_CsqTpNWgYCh — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and gotta get the money is its repeated refrain, not a named idea or method. The phrase appears four times, beside all it takes is a nigga man, motherfucking bitch, and the whole source is that two-line couplet sung four times over. The repetition is the song's hook, and nothing in the source turns the want of money into a concept about earning or business. The entry keeps the couplet as a song hook and makes no business claim from it.
+This source has no conceptual term: it is a sung lyric, and `refrain` here labels only the repeated couplet's kind, not a term. The phrase appears four times, beside all it takes is a nigga man, motherfucking bitch, and the whole source is that two-line couplet sung four times over. The repetition is the song's hook, and nothing in the source turns the want of money into a concept about earning or business. The entry keeps the couplet as a song hook and makes no business claim from it.
 
 ## Synonyms
 

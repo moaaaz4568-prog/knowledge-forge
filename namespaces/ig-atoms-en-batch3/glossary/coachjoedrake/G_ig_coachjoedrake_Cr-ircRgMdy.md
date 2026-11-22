@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 ---
 
-# G_ig_coachjoedrake_Cr-ircRgMdy — coachjoedrake
+# G_ig_coachjoedrake_Cr-ircRgMdy — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and all the way up is its repeated refrain, not a named idea or method. The phrase appears eleven times, beside nothing can stop me, shawty what you want, and counting up this money, and the verses move through V12s, bottles, weed, and hash. The repetition is the song's hook, and nothing in the source turns the climb into a concept about training or progress. The entry keeps the refrain as the song's hook and draws no coaching lesson from it.
+This source has no conceptual term: it is a sung lyric, and `refrain` here names only the kind of hook the song repeats, not a term. The phrase appears eleven times, beside nothing can stop me, shawty what you want, and counting up this money, and the verses move through V12s, bottles, weed, and hash. The repetition is the song's hook, and nothing in the source turns the climb into a concept about training or progress. The entry keeps the refrain as the song's hook and draws no coaching lesson from it.
 
 ## Synonyms
 

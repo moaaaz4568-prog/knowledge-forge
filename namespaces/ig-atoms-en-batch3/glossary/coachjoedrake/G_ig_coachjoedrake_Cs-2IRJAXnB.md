@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cs-2IRJAXnB.md
 ---
 
-# G_ig_coachjoedrake_Cs-2IRJAXnB — coachjoedrake
+# G_ig_coachjoedrake_Cs-2IRJAXnB — refrain
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric, and like this and like that is its repeated refrain, not a named idea or method. The phrase appears three times, beside Snoop Doggy Dogg and Dr. Dre is at the door, one, two, three, and to the four, and the whole source is only the opening of the song. The words mark the beat rather than describing anything, and the source contains no coaching content at all. The entry keeps the refrain as a beat marker and builds no training concept from it.
+This source has no conceptual term: it is a sung lyric, and `refrain` here is only a label for the repeated beat-marking line, not a term. The phrase appears three times, beside Snoop Doggy Dogg and Dr. Dre is at the door, one, two, three, and to the four, and the whole source is only the opening of the song. The words mark the beat rather than describing anything, and the source contains no coaching content at all. The entry keeps the refrain as a beat marker and builds no training concept from it.
 
 ## Synonyms
 

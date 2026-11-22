@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [chant]
 origin: sources/S_ig_coachjoedrake_CtyyigkAaaP.md
 ---
 
-# G_ig_coachjoedrake_CtyyigkAaaP — coachjoedrake
+# G_ig_coachjoedrake_CtyyigkAaaP — chant
 
 ## Term
 
-This source has no conceptual term: it is a sung lyric fragment, and tripping on faith is its opening image, not a named idea or method. The phrase appears once, beside for the next six songs, gotta tell her, and never stayed run, and the whole source is two short lines with no other content. The lines are the song's own words, and nothing in the source explains faith, the six songs, or the staying, or connects any of them to training. The entry keeps the fragment as sung and makes no concept of it.
+This source has no conceptual term: it is a sung lyric fragment, and `chant` here labels only the type of the material, not a term. The phrase appears once, beside for the next six songs, gotta tell her, and never stayed run, and the whole source is two short lines with no other content. The lines are the song's own words, and nothing in the source explains faith, the six songs, or the staying, or connects any of them to training. The entry keeps the fragment as sung and makes no concept of it.
 
 ## Synonyms
 
