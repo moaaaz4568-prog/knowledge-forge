@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [came through, airesearcherguy account context]
+aka: [landing page]
 origin: sources/S_ig_airesearcherguy_CLNjXnmnfoz.md
 ---
 
-# G_ig_airesearcherguy_CLNjXnmnfoz — came through
+# G_ig_airesearcherguy_CLNjXnmnfoz — landing page
 
 ## Term
 
-"came through" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: through, came, guys, page. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A landing page is where the speaker's promotion broke: the emojis and language that worked inside messenger chatbots failed on the page, and commenters on TikTok helped him identify it. The phrase appears twice, beside conversions, emojis, and messenger chatbots. His fix is to emulate what works: the chatbot-style wording was the first step into a chatbot, not a landing page, so he will rebuild the page to match the medium instead of copying the bot's language onto it.
 
 ## Synonyms
 
-- came through
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And everybody kept telling me that these emojis and this language was the problem, and you're probably 100% right. This right here works really well inside of messenger chatbots, which is why I did this, because this is the first step into a chatbot, not realizing that this is a landing page. So I'm gonna emulate this, and I'll let you know how it goes." — sources/S_ig_airesearcherguy_CLNjXnmnfoz.md
+> "So yesterday I posted a video about a problem with conversions on my landing page, and TikTok came through." — sources/S_ig_airesearcherguy_CLNjXnmnfoz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "came through": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof the promotion itself was bad: the same promotion had been a huge success, and the failure was the language on the landing page, not the offer.
+- Read as a verdict on emojis in general: the emojis worked inside messenger chatbots, and the speaker's lesson is about matching the wording to the medium.

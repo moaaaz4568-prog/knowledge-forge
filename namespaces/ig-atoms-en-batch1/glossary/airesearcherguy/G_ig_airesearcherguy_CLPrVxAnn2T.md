@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Chinese kickboxing, airesearcherguy account context]
+aka: [hacking, hack]
 origin: sources/S_ig_airesearcherguy_CLPrVxAnn2T.md
 ---
 
-# G_ig_airesearcherguy_CLPrVxAnn2T — Chinese kickboxing
+# G_ig_airesearcherguy_CLPrVxAnn2T — hacking
 
 ## Term
 
-"Chinese kickboxing" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: kickboxing, tournament, took, home. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hacking is Tim Ferriss's method as the speaker tells it: win a Chinese kickboxing tournament four weeks after first being introduced to the sport, mostly by exploiting a loophole in the rules, and learn languages inside of three months. The word appears three times as hacking, with hack once more, beside Tim Ferriss, Chinese kickboxing, loophole, and resourceful. The speaker's conclusion is that Ferriss is not special: any of us can hack our own experiences by being resourceful, which is the point he takes from the story rather than the medal itself.
 
 ## Synonyms
 
-- Chinese kickboxing
-- airesearcherguy account context (no variant form of the term appears in this source)
+- hack (the base form the speaker uses when saying any of us can do it)
 
 ## Live Example
 
-> "He still managed an amazing feat and he did it by being resourceful. But Tim's all about hacking. Hacking the mind, hacking experience. I mean, this guy boasts learning languages inside of three months. He's not special. Any of us can do this. Any of us can hack our own experiences. We just gotta figure out how to be resourceful." — sources/S_ig_airesearcherguy_CLPrVxAnn2T.md
+> "He's not special. Any of us can do this. Any of us can hack our own experiences." — sources/S_ig_airesearcherguy_CLPrVxAnn2T.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Chinese kickboxing": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as cheating at the sport: the speaker calls it exploiting a loophole in the rules, and still calls the win an amazing feat done by being resourceful.
+- Read as a talent claim about Ferriss: the speaker's point is the opposite — that hacking an experience is a learnable move, not a gift.

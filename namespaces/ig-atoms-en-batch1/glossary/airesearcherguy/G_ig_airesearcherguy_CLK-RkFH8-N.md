@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Open rates, airesearcherguy account context]
+aka: [open rates]
 origin: sources/S_ig_airesearcherguy_CLK-RkFH8-N.md
 ---
 
-# G_ig_airesearcherguy_CLK-RkFH8-N — Open rates
+# G_ig_airesearcherguy_CLK-RkFH8-N — open rates
 
 ## Term
 
-"Open rates" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: rates, pretty, good, open. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Open rates are the speaker's reason for wanting to move from email to SMS: his SOP offer emails open at a consistent 40 to 45%, which he calls pretty good, while the click rates to the offer page sit at an awful 4%, 3%, and 2%. The phrase appears three times, beside click rates, SMS, and the offer page. The contrast he draws is with SMS, where he cites open rates as high as 98% and click-through rates as high as 45% — the same funnel, measured at the same two steps, with a far wider gap.
 
 ## Synonyms
 
-- Open rates
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Open rates are pretty good. Open rates are consistently around 40 to 45%, but these click rates that actually go to the offer page are awful. 4%, 3%, 2%. But according to this article, SMS open rates are as high as 98%, and click-through rates are as high as 45%." — sources/S_ig_airesearcherguy_CLK-RkFH8-N.md
+> "Open rates are consistently around 40 to 45%, but these click rates that actually go to the offer page are awful." — sources/S_ig_airesearcherguy_CLK-RkFH8-N.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Open rates": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof email is dead: the speaker's email opens are strong, and the failure he measures is the click step, not the open step.
+- Read as a guarantee about SMS: the 98% and 45% figures come from an article he cites, not from his own campaigns.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [Merch by Amazon]
 origin: sources/S_ig_airesearcherguy_CLSMgExn4qg.md
 ---
 
-# G_ig_airesearcherguy_CLSMgExn4qg — Amazon
+# G_ig_airesearcherguy_CLSMgExn4qg — Merch by Amazon
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: merch, versus, printful, give. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Merch by Amazon is the marketplace option in the speaker's comparison with Printful: it gives access to Amazon's marketplace, including search browse pages, which can bring a lot of exposure, but keeps a very big chunk of the money — about $5.23 on a $20 shirt. The name appears twice, beside Printful, Etsy, marketplace, and fees. Printful is the contrast: not a marketplace, just a place to design and fulfill, integrable with Etsy, a website, or Amazon, where the fees are lower but the traffic is nowhere near the same.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It just gives you a place to design your shirts and then it fulfills them for you. However, you can integrate them with your Etsy store, with your own website, and even Amazon. I like to list on Etsy because the fees are a lot lower. Problem is the traffic is nowhere near the same." — sources/S_ig_airesearcherguy_CLSMgExn4qg.md
+> "Merch by Amazon versus Printful, got it, let's go." — sources/S_ig_airesearcherguy_CLSMgExn4qg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the cheaper option: the speaker's numbers show Merch by Amazon keeps the bigger chunk, and its advantage is exposure, not margin.
+- Read as a Printful marketplace: Printful is not a marketplace at all, and its value is fulfillment plus integration with stores that do have traffic.

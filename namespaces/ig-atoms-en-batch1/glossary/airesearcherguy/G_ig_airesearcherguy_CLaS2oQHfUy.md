@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [products, product]
+aka: [sponsored product ads]
 origin: sources/S_ig_airesearcherguy_CLaS2oQHfUy.md
 ---
 
-# G_ig_airesearcherguy_CLaS2oQHfUy — products
+# G_ig_airesearcherguy_CLaS2oQHfUy — sponsored product ads
 
 ## Term
 
-"products" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: find, sell, start, selling. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sponsored product ads are the paid step in the speaker's way of starting private label: after signing up as an Amazon seller with a Pro account, finding products on Alibaba, and buying about 10 generic units of each on AliExpress, run sponsored product ads at about two to three dollars a day. The phrase appears once, beside Alibaba, AliExpress, Pro account, and eBay. The ads run alongside listings on eBay, Etsy, Mercari, and Poshmark, because the whole exercise is testing the market: sell out of one product and you know it has legs, then order in bulk and start a brand.
 
 ## Synonyms
 
-- products
-- product (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Use one of the many strategies to find products to sell that I teach and find three to four products that look like they have some potential." — sources/S_ig_airesearcherguy_CLaS2oQHfUy.md
-> "You get sales on any of those products, ideally sell out of one of them, then you know that one has legs. Then you contact the manufacturers that you found on Alibaba for that product, you order a bulk order, and you start a brand, but you do so knowing that there's some demand for the product." — sources/S_ig_airesearcherguy_CLaS2oQHfUy.md
+> "After you list those products in your brand new Amazon account, you're gonna wanna run sponsored product ads on them at about two to three dollars a day." — sources/S_ig_airesearcherguy_CLaS2oQHfUy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "products": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole strategy: the ads are one step in a test — find, buy small, list everywhere, and only then order bulk — not a way to sell an untested product.
+- Read as a big-budget launch: the spend he names is two to three dollars a day, and the point is a cheap market test, not a launch.

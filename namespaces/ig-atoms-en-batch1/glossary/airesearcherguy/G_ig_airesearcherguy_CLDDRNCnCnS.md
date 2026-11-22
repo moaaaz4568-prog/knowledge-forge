@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [figured, airesearcherguy account context]
+aka: [web-based bot, web-based bots]
 origin: sources/S_ig_airesearcherguy_CLDDRNCnCnS.md
 ---
 
-# G_ig_airesearcherguy_CLDDRNCnCnS — figured
+# G_ig_airesearcherguy_CLDDRNCnCnS — web-based bot
 
 ## Term
 
-"figured" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: url, seamless, approach, iphone. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A web-based bot is the speaker's failed experiment in this source: he was testing one and could not get people to click through to it because the ad platforms did not like its URL. The singular appears once and the plural once, beside Google Sites, Mailchimp, and the landing page builder he falls back on. His workaround is a chain of hops: build the first step in Google Sites and link from there, until he discovers Apple devices force a Google login and kill the click — which is why he returns to Mailchimp and its landing page builder, where he can delete the opt-in box and replicate the step.
 
 ## Synonyms
 
-- figured
-- airesearcherguy account context (no variant form of the term appears in this source)
+- web-based bots (the plural form the speaker uses when describing his tests)
 
 ## Live Example
 
-> "See, I was having trouble linking to my web-based bot because the ad platforms don't like the URL. So I figured out this seamless approach where I create the first step in Google Sites and then link to the bot." — sources/S_ig_airesearcherguy_CLDDRNCnCnS.md
-> "So back to the drawing board. Now I'm back on Mailchimp using their landing page builder. Just figured out that you can actually delete the opt-in box. I can replicate that whole step hopefully. I'll keep you guys posted." — sources/S_ig_airesearcherguy_CLDDRNCnCnS.md
+> "So you may remember one of my last episodes where I was testing web-based bots and failing miserably." — sources/S_ig_airesearcherguy_CLDDRNCnCnS.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "figured": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a working funnel: the speaker is explicit that nobody was clicking through, and the episode is a failure report, not a tutorial for a live bot.
+- Read as a problem with the bot itself: the blocker he identifies is the URL and the Apple login step, not the bot's content.

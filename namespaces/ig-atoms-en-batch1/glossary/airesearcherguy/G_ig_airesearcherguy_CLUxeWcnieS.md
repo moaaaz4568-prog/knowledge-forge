@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [control, airesearcherguy account context]
+aka: [Iceman]
 origin: sources/S_ig_airesearcherguy_CLUxeWcnieS.md
 ---
 
-# G_ig_airesearcherguy_CLUxeWcnieS — control
+# G_ig_airesearcherguy_CLUxeWcnieS — Iceman
 
 ## Term
 
-"control" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: simply, learn, breathing, meditate. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The Iceman is what most people call Wim Hof, the superhuman whose claim to fame is withstanding impossibly cold temperatures: submerging his whole body for hours in freezing water and ice, running full marathons in the snow in nothing but shorts, barefoot. The name appears once, beside Wim Hof, breathing, meditate, and marathon. The speaker's point is that it is learnable, not genetic: Hof says anyone can do the same by learning to control their breathing and meditate his way, and the speaker extends it — if Hof can master his body, imagine what our minds are capable of.
 
 ## Synonyms
 
-- control
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The cool part is though, he says any of us can learn to do the same if we simply learn to control our breathing and meditate the way he teaches people. You and I, anybody that has the will, can take control of our bodies this way. Now if he can have total mastery over his body, imagine what our minds are capable of." — sources/S_ig_airesearcherguy_CLUxeWcnieS.md
+> "He's the superhuman that most people refer to as the Iceman, and the reason is because his claim to fame is his ability to withstand impossibly cold temperatures, submerging his entire body for hours at a time in freezing cold water and ice." — sources/S_ig_airesearcherguy_CLUxeWcnieS.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "control": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a genetics claim: the speaker anticipates the Scandinavian-genetics dismissal and answers it with Hof's desert marathon with no water.
+- Read as a cold-endurance trick only: the speaker's takeaway is control of the body through breathing and meditation, not the cold itself.

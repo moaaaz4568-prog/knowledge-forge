@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [BSR, airesearcherguy account context]
+aka: [scarcity]
 origin: sources/S_ig_airesearcherguy_CL-PJZMHtpH.md
 ---
 
-# G_ig_airesearcherguy_CL-PJZMHtpH — BSR
+# G_ig_airesearcherguy_CL-PJZMHtpH — scarcity
 
 ## Term
 
-"BSR" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: look, last, selling, day. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Scarcity is the marketing concept the speaker illustrates with a canceled Dr. Seuss book: a title whose BSR sat around 25,000 and sold about 12 units a day, then dropped to a BSR of 19 and sold over 1,500 units a day once it became scarce. The word appears twice, beside canceled books, Mulberry Street, BSR, and units per day. His point is the swing itself: nothing about the book changed except its availability, and the sales jump is what he calls the power of scarcity.
 
 ## Synonyms
 
-- BSR
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you look at its BSR over the last 90 days, it hovers pretty consistently around the 25, 000 range. Until very recently, it dropped dramatically to 19. At a 24, 000 BSR, they were selling about 12 units per day. At a 19 BSR, that's over 1, 500 units per day. And that is the power of scarcity." — sources/S_ig_airesearcherguy_CL-PJZMHtpH.md
+> "What I want to show you is a beautiful illustration of an awesome marketing concept called scarcity." — sources/S_ig_airesearcherguy_CL-PJZMHtpH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "BSR": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that scarcity improves the book: the speaker's numbers are about sales volume after the BSR drop, not about the book getting better.
+- Read as a political comment on the cancellation: he says he is not here to talk politics, and the canceled book is only his illustration of the concept.

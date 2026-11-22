@@ -1504,56 +1504,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/airesearcherguy/G_ig_airesearcherguy_CKsHVbIHTCN.md | know | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CKuZ42bn5G9.md | Etsy | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CKuk6oOnf6V.md | contract short | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CKxJoPCntBz.md | Slick Deals | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CKxXfH0n5sV.md | test | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CKzkhrdnVRm.md | YouTube channel | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CL-PJZMHtpH.md | BSR | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CL7k3hvnu8t.md | product | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CKxJoPCntBz.md | cash flip strategy | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CKxXfH0n5sV.md | cost per acquisition | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CKzkhrdnVRm.md | cognitive enhancement | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CL-PJZMHtpH.md | scarcity | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CL7k3hvnu8t.md | product listing page | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CLCqYBrH9KB.md | attention | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLDDRNCnCnS.md | figured | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLF6IVJH4OF.md | simple instructions | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLFFUHgnEyr.md | because | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLFRmADnsjj.md | click | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLFXxN-HSw5.md | business entity | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLIVBIrnHkd.md | against | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLK-RkFH8-N.md | Open rates | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLDDRNCnCnS.md | web-based bot | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLF6IVJH4OF.md | VAs | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLFFUHgnEyr.md | chatbot | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLFRmADnsjj.md | chatbot | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLFXxN-HSw5.md | private label | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLIVBIrnHkd.md | promo campaign | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLK-RkFH8-N.md | open rates | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CLKj0QonzF9.md | button | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLM_GAfn2tj.md | because sellers | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLNZCGiHTkZ.md | code | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLNjXnmnfoz.md | came through | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLPrVxAnn2T.md | Chinese kickboxing | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLSAwkGHSiJ.md | every | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLSMgExn4qg.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLUxeWcnieS.md | control | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLaS2oQHfUy.md | products | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLccE6BHaW0.md | brand | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLctraHn4g2.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLfHeyen8nQ.md | earbuds | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLmtIaMnRol.md | fee | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLnCklfnzGx.md | URL | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLpuJmunY_m.md | personal brand | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLqNYhFHB40.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLsGuAXHLKh.md | landing page | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLsZy3cH1J5.md | lot | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLumu1qHktZ.md | even though | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CLxZ7rVHT0l.md | social media | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CM-DgtkHmaZ.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CM0cJhMHvWp.md | unit | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CM2aRSlpeF3.md | easy | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CM2p1FzHeGm.md | questions | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CM43tQcnglg.md | important | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLM_GAfn2tj.md | geo-ranking | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLNZCGiHTkZ.md | QR code | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLNjXnmnfoz.md | landing page | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLPrVxAnn2T.md | hacking | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLSAwkGHSiJ.md | play offense | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLSMgExn4qg.md | Merch by Amazon | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLUxeWcnieS.md | Iceman | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLaS2oQHfUy.md | sponsored product ads | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLccE6BHaW0.md | business name generator | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLctraHn4g2.md | Google Trends | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLfHeyen8nQ.md | Frequently Bought Together | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLmtIaMnRol.md | referral fee | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLnCklfnzGx.md | super URL | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLpuJmunY_m.md | personal brand | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLqNYhFHB40.md | Amazon influencers | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLsGuAXHLKh.md | landing page builder | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLsZy3cH1J5.md | FBA courses | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLumu1qHktZ.md | model | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CLxZ7rVHT0l.md | Clubhouse | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CM-DgtkHmaZ.md | social proof | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CM0cJhMHvWp.md | Brand Analytics | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CM2aRSlpeF3.md | print-on-demand | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CM2p1FzHeGm.md | rapport | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CM43tQcnglg.md | lead times | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CM5YOrXH8Po.md | flow | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMALvsrnqjN.md | feels like | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMAwzk3nm_E.md | check | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMDCvJDnGFe.md | much | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMDOWIwnmE1.md | probably | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMK8p8EnCt4.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMLXjdtnBQO.md | speed | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMNkSren3la.md | because | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMSOFXInMxY.md | printed | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMSq-5MHj3v.md | beautiful | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMXaIvpnw1l.md | know | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CMYVnz4nf1v.md | product | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMALvsrnqjN.md | wealth | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMAwzk3nm_E.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMDCvJDnGFe.md | overwhelmed | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMDOWIwnmE1.md | stock dimensions template | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMK8p8EnCt4.md | print-on-demand product | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMLXjdtnBQO.md | learning hack | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMNkSren3la.md | full time entrepreneur | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMSOFXInMxY.md | 3D printed items | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMSq-5MHj3v.md | aggressive positivity | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMXaIvpnw1l.md | due diligence | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CMYVnz4nf1v.md | copy | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMdFAuYHqCI.md | said | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMdVidYn8Vz.md | blood | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CMhvwLHnlil.md | manufactured | 1 |

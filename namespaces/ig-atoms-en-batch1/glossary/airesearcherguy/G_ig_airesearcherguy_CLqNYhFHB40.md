@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [Amazon influencers, influencers]
 origin: sources/S_ig_airesearcherguy_CLqNYhFHB40.md
 ---
 
-# G_ig_airesearcherguy_CLqNYhFHB40 — Amazon
+# G_ig_airesearcherguy_CLqNYhFHB40 — Amazon influencers
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: find, bunch, finds, amazon. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Amazon influencers are the affiliates the speaker hunts in TikTok search: look under users and Amazon-related hashtags — Amazon finds, Amazon made me buy it — and you find people promoting Amazon products for a commission. The full phrase appears once, with influencers alone twice more, beside TikTok, hashtags, affiliates, and commission. They are the best kind to work with, he says, because their audience are buyers looking for deals, and most are open to brand sponsorship since it means more money — the same search works with deals or coupons, and on Instagram too.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- influencers (the shortened form the speaker uses once the Amazon context is set)
 
 ## Live Example
 
-> "Amazon finds, Amazon made me buy it, and then you click on those and those will show you users who are promoting Amazon products." — sources/S_ig_airesearcherguy_CLqNYhFHB40.md
+> "What's the best way to get started utilizing Amazon influencers? Check it out." — sources/S_ig_airesearcherguy_CLqNYhFHB40.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any TikTok creator: the speaker filters for Amazon-related hashtags and buyers looking for deals, not for reach alone.
+- Read as a cold-pitch list: he tells sellers to reach out through contact info or DM and ask for a promoted post, because these affiliates are already open to sponsorship.

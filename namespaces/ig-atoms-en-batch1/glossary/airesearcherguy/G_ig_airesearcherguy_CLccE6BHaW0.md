@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [brand, airesearcherguy account context]
+aka: [business name generator]
 origin: sources/S_ig_airesearcherguy_CLccE6BHaW0.md
 ---
 
-# G_ig_airesearcherguy_CLccE6BHaW0 — brand
+# G_ig_airesearcherguy_CLccE6BHaW0 — business name generator
 
 ## Term
 
-"brand" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: start, well, necessarily, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A business name generator is the speaker's first step to starting a brand: Namelix, an AI-powered generator where you start with a keyword — his example is cryptocurrency t-shirts — pick a format and a name style, and get pages of ideas. The phrase appears once, beside Namelix, Tatters, DesignCrowd, and logo design contest. His example choice is Tatters, and the next step is a logo design contest on DesignCrowd: the generator names it, the contest gives it a face.
 
 ## Synonyms
 
-- brand
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Click generate, and then decide what format you want, and then you decide the name style. To generate. Then you have pages upon pages of awesome ideas for a name. So let's say we decided to go with Tatters. My next step is to go to DesignCrowd. Com and post a logo design contest. And that's how I start my own brand." — sources/S_ig_airesearcherguy_CLccE6BHaW0.md
+> "This is an AI-powered business name generator." — sources/S_ig_airesearcherguy_CLccE6BHaW0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "brand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the brand itself: the generator only produces name ideas, and the speaker still has to choose one and then commission a logo.
+- Read as a naming rule: the example keyword is his own choice for the demo, and the tool works from whatever keyword the seller starts with.

@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CM5YOrXH8Po.md
 
 ## Term
 
-"flow" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: flow, leads, legged, octopus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A flow is the speaker's unit of chatbot building, and his colleague's warning is about scale: a single flow called the 8,000 legged octopus is too hard to scale, and impossible for a team to fix or debug. The word appears eight times as flow, with flows once more, beside 8,000 legged octopus, chunk it out, team, and scale. His fix is to chunk it out: smaller flows that lead into each other, one flow into the next, so the system stays manageable as it grows.
 
 ## Synonyms
 
-- flow
-- flows (variant form used in the source)
+- flows (the plural form the speaker uses for the smaller chunks)
 
 ## Live Example
 
-> "When you grow a team, it'll be impossible for them to fix anything or find problems with a flow this big. You want to chunk it out with smaller flows that lead into each other. So here's a flow, leads into that flow, then that flow leads into that flow, then that flow leads into that flow and makes it way more manageable." — sources/S_ig_airesearcherguy_CM5YOrXH8Po.md
+> "A single flow. Don't build this because it's too hard to scale." — sources/S_ig_airesearcherguy_CM5YOrXH8Po.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "flow": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a ban on big chatbots: the advice is to chunk one big flow into smaller linked flows, not to build less functionality.
+- Read as a design preference: the problem he names is practical — a team cannot find or fix problems in a flow this big — not a matter of taste.

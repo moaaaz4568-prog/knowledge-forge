@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [social proof]
 origin: sources/S_ig_airesearcherguy_CM-DgtkHmaZ.md
 ---
 
-# G_ig_airesearcherguy_CM-DgtkHmaZ — Amazon
+# G_ig_airesearcherguy_CM-DgtkHmaZ — social proof
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: interesting, fact, employee, showed. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Social proof is the lesson the speaker takes from an Amazon employee in his Clubhouse room: the very first review on an Amazon listing can increase sales anywhere from twenty-two up to as much as thirty-five percent. The phrase appears once, beside first review, Amazon employee, Clubhouse room, and sales. That single number is the whole point of the video — the first review is not a formality, it is the proof that moves buyers, which is why its importance is worth a whole short episode.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Learned another incredibly interesting fact from an Amazon employee that showed up in our Clubhouse room today. It turns out the very first review on an Amazon listing can increase sales anywhere from twenty-two up to as much as thirty-five percent. That's a testament to the importance of social proof." — sources/S_ig_airesearcherguy_CM-DgtkHmaZ.md
+> "It turns out the very first review on an Amazon listing can increase sales anywhere from twenty-two up to as much as thirty-five percent." — sources/S_ig_airesearcherguy_CM-DgtkHmaZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a precise measured result: the range of twenty-two to thirty-five percent comes from an Amazon employee's account in a Clubhouse room, not from the speaker's own data.
+- Read as a claim about many reviews: the effect he reports belongs to the very first review, not to a pile of them.

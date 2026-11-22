@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [attention, airesearcherguy account context]
+aka: [attention]
 origin: sources/S_ig_airesearcherguy_CLCqYBrH9KB.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CLCqYBrH9KB.md
 
 ## Term
 
-"attention" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: currency, gathering, retaining, lead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Attention is the currency of this source: the thing a business must gather and retain everywhere, because the old pattern of one platform per person is gone and everybody now uses all of them, with favorites. The word appears twice, beside currency, following, and leading with value. The mechanism he gives is simple: lead with value, gain a following, and that following will be happy to buy from you.
 
 ## Synonyms
 
-- attention
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They just happen to have favorites. Focus on gathering and retaining attention. And if you lead with value, you will gain a following. And that following will be happy to buy from you." — sources/S_ig_airesearcherguy_CLCqYBrH9KB.md
+> "Focus on gathering and retaining attention." — sources/S_ig_airesearcherguy_CLCqYBrH9KB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "attention": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a call to be everywhere at once: he says to gather attention everywhere possible, but the way to hold it is to lead with value, not to shout on every platform.
+- Read as a synonym for followers: attention here is the resource itself, and the following is what it turns into when it is retained.

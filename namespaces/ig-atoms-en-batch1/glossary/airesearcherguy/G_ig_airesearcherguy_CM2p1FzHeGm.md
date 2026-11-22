@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [questions, question]
+aka: [rapport]
 origin: sources/S_ig_airesearcherguy_CM2p1FzHeGm.md
 ---
 
-# G_ig_airesearcherguy_CM2p1FzHeGm — questions
+# G_ig_airesearcherguy_CM2p1FzHeGm — rapport
 
 ## Term
 
-"questions" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: responded, questions, asked, specific. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Rapport is what the speaker builds before ever asking an Alibaba supplier about price: reach out, introduce yourself, say what market you sell in, show experience in various categories, and ask specific questions — samples, branding options, custom packaging — over four days of back and forth. The word appears once, beside Alibaba suppliers, samples, custom packaging, and preliminary quote. Suppliers eliminate themselves along the way — one with an exclusive contract, one dodging the packaging cost — and three answer properly, so step one is the conversation itself, not the quote.
 
 ## Synonyms
 
-- questions
-- question (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Introduced myself, told them what market I was selling in, talked about how I have experience in various categories, and then asked specific questions." — sources/S_ig_airesearcherguy_CM2p1FzHeGm.md
+> "So step one is to reach out, create some back and forth communication, build a little rapport, and don't make price the most important thing you talk about." — sources/S_ig_airesearcherguy_CM2p1FzHeGm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "questions": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as small talk before the real negotiation: the rapport-building is the negotiation's first step, and it is what separates his inquiry from the all-day stream of cheapest-price emails.
+- Read as a way to get the lowest price: he says not to make price the most important thing, and the supplier who holds out on a quote until he orders a sample is the savvy one, not the loser.

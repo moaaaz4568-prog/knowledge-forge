@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [business entity, airesearcherguy account context]
+aka: [private label]
 origin: sources/S_ig_airesearcherguy_CLFXxN-HSw5.md
 ---
 
-# G_ig_airesearcherguy_CLFXxN-HSw5 — business entity
+# G_ig_airesearcherguy_CLFXxN-HSw5 — private label
 
 ## Term
 
-"business entity" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, established, entity, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Private label is the speaker's recommendation for anyone importing seriously: get an LLC first, because most freight forwarders will not work with you without an established business entity, and you will need the entity and an EIN to get brand registered and use Amazon's tools. The phrase appears twice, beside LLC, freight forwarders, EIN, and brand registered. His warning is about scale: private label is not a side thing like flipping, it takes much more money and attention, so if you plan on growing, start with the end in mind and start a business.
 
 ## Synonyms
 
-- business entity
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Also, you'll need a business entity and an EIN if you want to do things like get brand registered and really all of the things that will allow you to take full advantage of all the tools that both Amazon offers as well as other platforms and services that service businesses." — sources/S_ig_airesearcherguy_CLFXxN-HSw5.md
+> "Yes, I do recommend getting an LLC for private label." — sources/S_ig_airesearcherguy_CLFXxN-HSw5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business entity": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a side hustle like flipping: the speaker says private label needs far more money and attention, and he advises starting a business rather than treating it as a flip.
+- Read as optional paperwork: he ties the LLC and EIN to freight forwarders, brand registration, and platform tools, not to a formality.

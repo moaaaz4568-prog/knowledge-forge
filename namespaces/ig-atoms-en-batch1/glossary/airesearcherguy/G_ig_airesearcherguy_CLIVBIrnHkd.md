@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [against, airesearcherguy account context]
+aka: [promo campaign, promo campaigns]
 origin: sources/S_ig_airesearcherguy_CLIVBIrnHkd.md
 ---
 
-# G_ig_airesearcherguy_CLIVBIrnHkd — against
+# G_ig_airesearcherguy_CLIVBIrnHkd — promo campaign
 
 ## Term
 
-"against" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, still, pictures, against. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A promo campaign is the speaker's unit for testing rebate and coupon offers across ad platforms: every campaign runs two to three ad sets, each with a different audience — a lookalike audience from buyers, relevant interests for the niche, and audiences that typically like rebates, coupons, or deals. The singular appears once and the plural once, beside ad sets, lookalike audience, and media. Each ad set then tests two to three ads, and the primary thing under test is the media: a Canva animated image against still pictures against a product demo.
 
 ## Synonyms
 
-- against
-- airesearcherguy account context (no variant form of the term appears in this source)
+- promo campaigns (the plural form the speaker uses for his setup)
 
 ## Live Example
 
-> "Lookalike audience based off of buyers if we have access to that data, relevant interests to the niche the product is in, and then we'll test that against audiences that typically like rebates or coupons or deals." — sources/S_ig_airesearcherguy_CLIVBIrnHkd.md
+> "This is how we set up all of our rebate and coupon promo campaigns across all ad platforms." — sources/S_ig_airesearcherguy_CLIVBIrnHkd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "against": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a single ad: the campaign is a structure of ad sets and ads, and the speaker tests audiences first and media second, not one creative in isolation.
+- Read as a test of the offer copy: the primary thing he says he is testing is the media, while the audience test happens at the ad set level.

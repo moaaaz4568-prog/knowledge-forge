@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [test, airesearcherguy account context]
+aka: [cost per acquisition, CPA, CPAs]
 origin: sources/S_ig_airesearcherguy_CKxXfH0n5sV.md
 ---
 
-# G_ig_airesearcherguy_CKxXfH0n5sV — test
+# G_ig_airesearcherguy_CKxXfH0n5sV — cost per acquisition
 
 ## Term
 
-"test" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: creative, specifically, cost, acquisition. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cost per acquisition is what the speaker is trying to push down across his messenger rebate campaigns: the cost of each acquired buyer once the cost per rebate and the cost per message run high. The full phrase appears once, while its abbreviation does the working: CPA for the lowest-cost audience and CPAs for the falling costs after a creative test. He tests it by running a CBO campaign with different ad sets and audiences — interests, lookalikes from buyers, people who like rebates, changed demographics — and then, once the cheapest audience is found, by testing the creative itself, down to a Canva image pop video that beat professional video.
 
 ## Synonyms
 
-- test
-- airesearcherguy account context (no variant form of the term appears in this source)
+- CPA (the abbreviation the speaker uses for the lowest-cost audience)
+- CPAs (the plural form he uses when his costs fall after a creative test)
 
 ## Live Example
 
-> "Sometimes this can be the thing that makes all the difference. I've used professional level videos before and the ad performed poorly. Then I tested it with a stupid little image pop video that I made in Canva and my CPAs went down dramatically. So those are the things you want to test until your costs get to where you need them to be." — sources/S_ig_airesearcherguy_CKxXfH0n5sV.md
+> "If you're running your own messenger rebate campaigns to rank your products on Amazon, and your cost per rebate and cost per message are really high, here's how you lower your cost per acquisition." — sources/S_ig_airesearcherguy_CKxXfH0n5sV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "test": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a property of the audience alone: the speaker treats CPA as something the creative can move too, and a cheap image test cut his costs after the audience test.
+- Read as a single fixed number: he keeps testing audiences and then media until the number lands where he needs it, so one campaign's CPA does not settle the question.

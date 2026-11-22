@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [product, airesearcherguy account context]
+aka: [copy]
 origin: sources/S_ig_airesearcherguy_CMYVnz4nf1v.md
 ---
 
-# G_ig_airesearcherguy_CMYVnz4nf1v — product
+# G_ig_airesearcherguy_CMYVnz4nf1v — copy
 
 ## Term
 
-"product" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: seeing, made, show, beautiful. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Copy is the speaker's subject in his favorite copywriting lesson of all time, taken from Eugene Schwartz: copy is basically a department store display window, and if anybody notices it, it is like noticing a streak or a smudge on the window — they are not seeing the product it is made to show off. The word appears three times, beside Eugene Schwartz, department store display window, product display, and tell me more about this product. The test he gives is the review: if someone compliments the copy but does not say "tell me more about this product," the copy has missed the mark, because its job is to show off the beautiful product display.
 
 ## Synonyms
 
-- product
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The job of your copy is to show off the beautiful product display. So if you ask somebody to review your copy, even if they compliment it, if the words that come out of their mouth aren't, hey, tell me more about this product, then you know you missed the mark." — sources/S_ig_airesearcherguy_CMYVnz4nf1v.md
+> "He says your copy is basically a department store display window." — sources/S_ig_airesearcherguy_CMYVnz4nf1v.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "product": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as praise for clever writing: a compliment for the copy is a failure by his test, unless the reviewer asks to hear more about the product.
+- Read as a call for invisible writing: the copy must show off the product display, and invisibility is only good when the product is what gets seen.

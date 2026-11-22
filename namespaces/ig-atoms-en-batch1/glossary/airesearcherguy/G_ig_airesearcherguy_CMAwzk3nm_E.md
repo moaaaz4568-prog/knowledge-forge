@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [check, airesearcherguy account context]
+aka: [chant]
 origin: sources/S_ig_airesearcherguy_CMAwzk3nm_E.md
 ---
 
-# G_ig_airesearcherguy_CMAwzk3nm_E — check
+# G_ig_airesearcherguy_CMAwzk3nm_E — chant
 
 ## Term
 
-"check" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: check, boom, bam. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a burst of rhythmic vocal sounds, and the label `chant` here says only what kind of passage this is — a repeated sung-style call — not the name of any idea in it. "Check me out" is called twice, then the sounds run "Boom, bam, bam, bop. Bada bop, boom. Pow." — pure rhythm with no claim, no product, and no instruction attached. The entry records the chant exactly as spoken and does not turn its noise into a marketing concept.
 
 ## Synonyms
 
-- check
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CMAwzk3nm_E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "check": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a product pitch: the passage names no product and makes no claim, and the repeated call is rhythm, not a message.
+- Read as a slogan for the account: the sounds carry no wording a listener could repeat as a message, and nothing in the source ties them to a brand or an offer.

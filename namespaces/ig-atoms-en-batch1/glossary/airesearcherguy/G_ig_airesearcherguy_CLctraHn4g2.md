@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [Google Trends]
 origin: sources/S_ig_airesearcherguy_CLctraHn4g2.md
 ---
 
-# G_ig_airesearcherguy_CLctraHn4g2 — Amazon
+# G_ig_airesearcherguy_CLctraHn4g2 — Google Trends
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: list, private, label, products. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Google Trends is the free tool the speaker uses to check whether a trending topic still has demand: type in the product keywords and read the curve before spending anything. The name appears twice, beside virtual school, stock trading, Google shopping tab, and Amazon. His two examples point opposite ways: virtual school shirts spiked in the summer before the school year and then dropped, so the trend is over, while a stock market poster rises and falls predictably over twelve months and sits in a downturn, which he reads as a coming rise — then he checks Amazon competition, only 272 results, and sources posters and frames.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Stock market poster only has 272 results. Then we go to Alibaba, we see that we can source posters as well as frames. You could also source from a local printer. Go to Fiverr and hire a talented graphic designer. While you're having your posters made, sign up to be a seller on Amazon. Then you list your product on Amazon, start a brand, and get your side hustle going." — sources/S_ig_airesearcherguy_CLctraHn4g2.md
+> "Then you go to this amazing free tool called Google Trends at trends. Google. Com, and you enter the product keywords here." — sources/S_ig_airesearcherguy_CLctraHn4g2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a demand guarantee: the tool shows interest over time, and the speaker still checks Amazon competition and sourcing before calling anything a side hustle.
+- Read as a pick of the hottest topic: his virtual school example is a trend he rejects, and the one he pursues is the predictable cycle, not the spike.

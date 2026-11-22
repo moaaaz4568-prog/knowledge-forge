@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [simple instructions, airesearcherguy account context]
+aka: [VAs]
 origin: sources/S_ig_airesearcherguy_CLF6IVJH4OF.md
 ---
 
-# G_ig_airesearcherguy_CLF6IVJH4OF — simple instructions
+# G_ig_airesearcherguy_CLF6IVJH4OF — VAs
 
 ## Term
 
-"simple instructions" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: give, instructions, like, answer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+VAs are the virtual assistants the speaker is trying to hire well, and his whole process is a filter for them: source applicants on Upwork, make every applicant answer qualifying questions and put the answers on the cover letter of their resume, then always interview on a video call. The term appears twice, beside top-notch, quality team, and video call. The video call matters because it lets his other senses help judge the character and capabilities of the applicant, which a resume alone cannot show.
 
 ## Synonyms
 
-- simple instructions
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Like, answer these three questions that are relevant to your industry, and then make sure you put the answers on your cover letter of your resume." — sources/S_ig_airesearcherguy_CLF6IVJH4OF.md
+> "This is my process for getting top-notch VAs." — sources/S_ig_airesearcherguy_CLF6IVJH4OF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "simple instructions": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a hiring shortcut: the speaker's process adds steps — qualifying questions and a video interview — and the point is to slow down and filter, not to hire fast.
+- Read as a claim that Upwork guarantees quality: he says you can find very quality workers there, but only if you run them through his checks.

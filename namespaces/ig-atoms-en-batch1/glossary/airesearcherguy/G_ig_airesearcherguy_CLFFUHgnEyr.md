@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [because, airesearcherguy account context]
+aka: [chatbot, chatbots]
 origin: sources/S_ig_airesearcherguy_CLFFUHgnEyr.md
 ---
 
-# G_ig_airesearcherguy_CLFFUHgnEyr — because
+# G_ig_airesearcherguy_CLFFUHgnEyr — chatbot
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: iphone, really, struggling, thought. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A chatbot is the thing the speaker keeps failing to get people back into: he rebuilt the entry so there is no Google Sites login and no opt-in, just a button, and people still do not click it. The singular appears once and the plural once, beside web-based chatbots, landing page, and the iPhone. The cause he finds is mechanical: on an iPhone, sending people away from the bot to the Etsy app closes the chatbot window with no way back, which is why he hates iPhones and why the same problem will haunt his future rebate bots.
 
 ## Synonyms
 
-- because
-- airesearcherguy account context (no variant form of the term appears in this source)
+- chatbots (the plural form the speaker uses for web-based chatbots)
 
 ## Live Example
 
-> "Because iPhone opens up the Etsy app, this bot is promoting Etsy product, and then closes out the window where the chatbot was and there's no going back to it. So for the record, I absolutely hate iPhones, but at least I'm figuring out what not to do. This is going to pose as a problem though for trying to do rebate bots in the future." — sources/S_ig_airesearcherguy_CLFFUHgnEyr.md
+> "Alright, on episode a million of the never-ending saga of my failure with web-based chatbots, I was really struggling because I thought I had figured everything out." — sources/S_ig_airesearcherguy_CLFFUHgnEyr.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint about the button's wording: the speaker's diagnosis is the iPhone's app-switching behavior, not the copy on the button.
+- Read as a solved problem: he ends the episode still stuck, calling it a problem for trying to do rebate bots in the future.

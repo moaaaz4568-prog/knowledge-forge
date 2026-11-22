@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [fee, fees]
+aka: [referral fee]
 origin: sources/S_ig_airesearcherguy_CLmtIaMnRol.md
 ---
 
-# G_ig_airesearcherguy_CLmtIaMnRol — fee
+# G_ig_airesearcherguy_CLmtIaMnRol — referral fee
 
 ## Term
 
-"fee" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: referral, fee, including, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The referral fee is the charge for using the Amazon platform: an additional 8 to 15% on any sale, with most categories around 12 to 15%. The phrase appears twice, beside Pro Seller Plan, fulfillment fees, garlic press, and landed cost. His worked example is a $12.99 garlic press: $1.95 referral fee, 15%, plus a $3.48 fulfillment fee, $5.43 in Amazon fees — so a press bought for around $1 with shipping under 50 cents a unit lands at about $1.50 and leaves $6.06.
 
 ## Synonyms
 
-- fee
-- fees (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The referral fee is the fee that you get charged for using the Amazon platform. Any sale you make on Amazon will be charged an additional 8 to 15%." — sources/S_ig_airesearcherguy_CLmtIaMnRol.md
+> "The referral fee is the fee that you get charged for using the Amazon platform." — sources/S_ig_airesearcherguy_CLmtIaMnRol.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fee": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the only Amazon fee: the speaker separates the referral fee from the $40 Pro Seller Plan and the fulfillment fees, and his example adds both together.
+- Read as a flat rate: the range is 8 to 15% by category, and his 15% garlic press is one category's rate, not every product's.

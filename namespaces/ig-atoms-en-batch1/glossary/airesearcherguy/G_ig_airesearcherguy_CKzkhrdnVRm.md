@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [YouTube channel, airesearcherguy account context]
+aka: [cognitive enhancement]
 origin: sources/S_ig_airesearcherguy_CKzkhrdnVRm.md
 ---
 
-# G_ig_airesearcherguy_CKzkhrdnVRm — YouTube channel
+# G_ig_airesearcherguy_CKzkhrdnVRm — cognitive enhancement
 
 ## Term
 
-"YouTube channel" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: started, channel, youtube, sponge. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cognitive enhancement is the subject of the book the speaker tried to write at the start of his entrepreneurship story, and the doorway into the experiments that followed: smart drugs, meditation techniques, and transcranial direct current stimulation with a machine he built to send a small current into his skull through sponge pads. The phrase appears once, and the story's turn is that the field lost him: he fell out of love with the topic because, as he puts it, there is a whole lot of pseudoscience in it. The Guardian interview, the French television crew, and the magazine cover all belong to that same defining few years, which he now tells as a story about a poor author who barely sold copies.
 
 ## Synonyms
 
-- YouTube channel
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It all started with experimentation on smart drugs and some meditation techniques, and then it moved into transcranial direct current stimulation." — sources/S_ig_airesearcherguy_CKzkhrdnVRm.md
-> "At the time though, I was a really poor author, so I didn't sell a lot of copies. And then since then, I've fallen out of love with the topic, 'cause it turns out there's a whole lot of pseudoscience in it. It was a defining few years of my life. Thought I'd share." — sources/S_ig_airesearcherguy_CKzkhrdnVRm.md
+> "So I guess my first foray in entrepreneurship was when I tried to write a book about cognitive enhancement." — sources/S_ig_airesearcherguy_CKzkhrdnVRm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube channel": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an endorsement of smart drugs: the speaker tells the story to explain why he left the topic, and his verdict is that much of it is pseudoscience.
+- Read as a business success story: he is explicit that he was a really poor author who did not sell many copies, and the fame came from the experiments, not from sales.

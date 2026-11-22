@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [unit, airesearcherguy account context]
+aka: [Brand Analytics]
 origin: sources/S_ig_airesearcherguy_CM0cJhMHvWp.md
 ---
 
-# G_ig_airesearcherguy_CM0cJhMHvWp — unit
+# G_ig_airesearcherguy_CM0cJhMHvWp — Brand Analytics
 
 ## Term
 
-"unit" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: plus, cost, fees, shipping. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Brand Analytics is the Amazon tool the speaker opens to find products: type in a word and look for a search frequency rank between 10,000 and 150,000, with none of the click or conversion share over 20%. The name appears once, beside search frequency rank, click share, conversion share, and Jungle Scout. His example is a coffee warmer for desk: under 1,000 Amazon results, page-one results mostly over $10,000 a month in sales and not from big name brands, $6.51 to sell, $2.72 on Alibaba, shipping at most $2.50 a unit, $11.73 all in against a $19.99 price — an $8.26 profit per unit.
 
 ## Synonyms
 
-- unit
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We find this one for $2.72. With a bulk order, you could probably get shipping for $2.50 a unit at most. If you calculate all the fees plus shipping plus unit cost, these will cost $11.73. You sell them for $19.99, that's an $8.26 profit per unit." — sources/S_ig_airesearcherguy_CM0cJhMHvWp.md
+> "All right, here's one of the ways I like to find products. Go to Brand Analytics, type in a word." — sources/S_ig_airesearcherguy_CM0cJhMHvWp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "unit": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a product recommendation: the coffee warmer is his worked example of the filters, not a product he tells viewers to sell.
+- Read as a guarantee of $8.26 profit: the margin depends on his stated costs holding — unit price, shipping cap, and fees — and the sales bar is page-one revenue, not his own.

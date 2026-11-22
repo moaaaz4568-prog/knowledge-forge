@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Slick Deals, airesearcherguy account context]
+aka: [cash flip strategy]
 origin: sources/S_ig_airesearcherguy_CKxJoPCntBz.md
 ---
 
-# G_ig_airesearcherguy_CKxJoPCntBz — Slick Deals
+# G_ig_airesearcherguy_CKxJoPCntBz — cash flip strategy
 
 ## Term
 
-"Slick Deals" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: access, put, deals, slick. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A cash flip strategy is the speaker's name for a quick Amazon product-validation play: run a coupon discount, push a few hundred units through Slick Deals or coupon influencers at a low enough discount not to lose money, and watch whether buyers keep the listing ranked. It appears once in this source, beside coupon discount, Slick Deals, rebate campaigns, and validating the product. The point is speed of proof, not profit on the discounted units: if the product keeps selling after it ranks for a mid-tail keyword, the seller treats it as validated and puts real money behind it.
 
 ## Synonyms
 
-- Slick Deals
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "First, you run a coupon discount and you either put it on Slick Deals if you have access to Slick Deals." — sources/S_ig_airesearcherguy_CKxJoPCntBz.md
+> "All right, here's a cash flip strategy for selling on Amazon that'll allow you to validate products quickly." — sources/S_ig_airesearcherguy_CKxJoPCntBz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Slick Deals": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guaranteed money-maker: the speaker frames it as a validation test, and the discounted units are meant to prove demand, not to earn a margin on their own.
+- Read as a coupon trick alone: the discount is only the first step, and the strategy depends on the listing holding its rank because people keep buying it afterward.

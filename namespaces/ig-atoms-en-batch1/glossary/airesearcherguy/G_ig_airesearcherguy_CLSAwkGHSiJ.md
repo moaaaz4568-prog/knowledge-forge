@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [every, airesearcherguy account context]
+aka: [play offense]
 origin: sources/S_ig_airesearcherguy_CLSAwkGHSiJ.md
 ---
 
-# G_ig_airesearcherguy_CLSAwkGHSiJ — every
+# G_ig_airesearcherguy_CLSAwkGHSiJ — play offense
 
 ## Term
 
-"every" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: time, day, every, year. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To play offense is the Gary Vee rule the speaker quotes from Crushing It: attack all the time, every day, every year, no matter how successful you have become, or someday you will wind up playing defense. The phrase appears once, beside playing defense, Gary V, and successful. It is a stance about momentum rather than a tactic: staying on offense is what keeps success from turning into a defensive position.
 
 ## Synonyms
 
-- every
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you don't play offense all the time, every day, every year, no matter how successful you've become, someday you're going to wind up playing defense. Gary V, Crushing It." — sources/S_ig_airesearcherguy_CLSAwkGHSiJ.md
+> "If you don't play offense all the time, every day, every year, no matter how successful you've become, someday you're going to wind up playing defense." — sources/S_ig_airesearcherguy_CLSAwkGHSiJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "every": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sports instruction: the speaker quotes it as a business rule from Gary Vee, and the defense it warns about is losing momentum, not a game.
+- Read as advice for beginners only: the warning applies no matter how successful you have become, and success is when the risk of slipping into defense starts.

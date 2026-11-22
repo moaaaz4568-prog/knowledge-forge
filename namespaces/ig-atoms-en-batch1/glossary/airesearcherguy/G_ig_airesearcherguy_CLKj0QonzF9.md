@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [button, airesearcherguy account context]
+aka: [button]
 origin: sources/S_ig_airesearcherguy_CLKj0QonzF9.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CLKj0QonzF9.md
 
 ## Term
 
-"button" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: click, clicks, clicked, understand. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The button is the choke point of this source: the speaker spent $26 on Facebook ads and $32 on Snapchat ads, drove almost 200 clicks, and got only one real interaction with his chatbot, because almost nobody clicked it. The word appears five times, beside chatbot, 50% off, funnel, and the shirt picker. The ad itself did its job — people answered an ad asking if they wanted 50% off a shirt — and then fell off the funnel at the most non-threatening step, which is why he cannot understand the drop.
 
 ## Synonyms
 
-- button
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I am frustrated. I spent $26 on Facebook ads and $32 on Snapchat ads and only had one real interaction with my chatbot, which means that almost nobody, out of almost 200 clicks, clicked this button. I could understand if the problem in conversion was somewhere else, but this button? This is such a non-threatening button. People literally answered an ad that said" — sources/S_ig_airesearcherguy_CLKj0QonzF9.md
+> "I could understand if the problem in conversion was somewhere else, but this button?" — sources/S_ig_airesearcherguy_CLKj0QonzF9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "button": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a problem with the ad: the ad worked, and the fall-off happened after the click, at the button that picks the shirt.
+- Read as a threatening ask: the speaker stresses how non-threatening the button is, which is exactly why the refusal to click it puzzles him.

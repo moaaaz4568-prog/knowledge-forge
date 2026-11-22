@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [print-on-demand product]
 origin: sources/S_ig_airesearcherguy_CMK8p8EnCt4.md
 ---
 
-# G_ig_airesearcherguy_CMK8p8EnCt4 — Amazon
+# G_ig_airesearcherguy_CMK8p8EnCt4 — print-on-demand product
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: platform, like, merch, redbubble. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A print-on-demand product is the speaker's definition in miniature: take a graphic design you own, made or bought, upload it to a platform like Merch by Amazon, Redbubble, or Printful, and sell it on t-shirts, phone cases, bags, and pillows. The phrase appears once, beside graphic design, Merch by Amazon, Redbubble, and Printful. The model is the point: sell on Etsy, Amazon, or your own website, and whenever somebody orders, the print company makes the item on demand and sends it out for you.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Then you go to a platform like Merch by Amazon, Redbubble, Printful, and you upload that design on t-shirts, phone cases, bags, and pillows. Then you can sell those products on Etsy, on Amazon, on your own website, and anytime somebody orders it, the print company will make it on demand and send it out for you." — sources/S_ig_airesearcherguy_CMK8p8EnCt4.md
+> "What is a print-on-demand product? Excellent question." — sources/S_ig_airesearcherguy_CMK8p8EnCt4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a manufacturing business: the seller holds no stock, and the print company makes and ships each item only after an order arrives.
+- Read as a single-platform trick: the speaker lists three platforms and three storefronts, and the product is the design applied across them, not one listing.

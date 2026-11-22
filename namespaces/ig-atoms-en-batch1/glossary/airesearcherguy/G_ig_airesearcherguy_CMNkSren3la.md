@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [because, airesearcherguy account context]
+aka: [full time entrepreneur]
 origin: sources/S_ig_airesearcherguy_CMNkSren3la.md
 ---
 
-# G_ig_airesearcherguy_CMNkSren3la — because
+# G_ig_airesearcherguy_CMNkSren3la — full time entrepreneur
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: good, really, fast, paranoid. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A full time entrepreneur is what the speaker becomes today, after yesterday was the last day of his last employment contract: he is scared to death and asking for luck. The phrase appears once, beside six figure executive salary, brand failed, employment contract, and scared to death. His backstory explains the fear: he did really good really fast on Amazon, stayed paranoid, refused to take money out, and leveraged his skills into a comfortable six figure executive salary for over five years — a good thing, because his brand failed and he lost it all — and now the salary is gone too.
 
 ## Synonyms
 
-- because
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's a good thing I did it that way though because my brand failed and I did lose it all. Problem is, I'm an entrepreneur at heart, and it's really bothered me that I have relied on a salary this whole time." — sources/S_ig_airesearcherguy_CMNkSren3la.md
+> "Well, yesterday was the last day of my last employment contract, so starting today, I am effectively a full time entrepreneur." — sources/S_ig_airesearcherguy_CMNkSren3la.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a victory lap: he says he is scared to death, and the announcement follows a failed brand and five years of relying on a salary.
+- Read as a rejection of jobs: he credits the executive salary with saving him when the brand failed, and the move is reluctant, not triumphant.
