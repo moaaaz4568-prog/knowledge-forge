@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["person", "trains"]
+aka: ["out of your head"]
 origin: sources/S_ig_gregoryjhickman_CbpuM2PgPz2.md
 ---
 
-# G_ig_gregoryjhickman_CbpuM2PgPz2 — person
+# G_ig_gregoryjhickman_CbpuM2PgPz2 — out of your head
 
 ## Term
 
-person is the most prominent repeated term in this source (112-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: trains, managing. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Out of your head is where a task has to go before anyone else can do it: documented or it stays yours. It appears once in this 112-word source, beside winging some of these things, hand this off, and trains the person on said thing. The clip's point is that managing someone means training them, and you cannot train them or measure whether it is done while the process lives only in your head. Until it is documented, you are still the one doing it, so the job is to create it.
 
 ## Synonyms
 
-- person
-- trains
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "some point, you are going to be probably managing the person that's going to be doing it, and so you are going to need to be the one that trains the person on said thing. So how would you know that it's done, or how would you measure this?" — sources/S_ig_gregoryjhickman_CbpuM2PgPz2.md
+> "Because until you get it out of your head, or until it's documented, you are going to still be the one doing it." — sources/S_ig_gregoryjhickman_CbpuM2PgPz2.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a memory problem: getting it out of your head is about making the work hand-offable and measurable, not about remembering it.
+- Read as a reason to write everything down: the clip targets the specific thing you need to hand off, so it can be trained and measured.

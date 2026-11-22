@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["documented", "waste"]
+aka: ["forty-two page document"]
 origin: sources/S_ig_gregoryjhickman_CahwGKigkQu.md
 ---
 
-# G_ig_gregoryjhickman_CahwGKigkQu — documented
+# G_ig_gregoryjhickman_CahwGKigkQu — forty-two page document
 
 ## Term
 
-documented is the most prominent repeated term in this source (148-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: waste, business, work. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A forty-two page document is his image of documentation gone too far: a manual so long for every task that people would be miserable reading it. It appears once in this 148-word source, beside blow their brains out, waste of time, and teach the people how to do the thing. The clip's rule is that you do not need everything documented in your business; you need a few things documented really well, plus a way to teach people how to do the work inside your world. Hiring people who already know the job and letting them do what they came to do beats expecting them to act like robots.
 
 ## Synonyms
 
-- documented
-- waste
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They'd blow their brains out. They wouldn't want to work for you. You do not need everything documented in your business. It's a waste of time. You need a few things documented really well in your business, and then you need to have a way to teach the people how to do the thing that you want them to do if they don't already know." — sources/S_ig_gregoryjhickman_CahwGKigkQu.md
-> "I think too many people are like have everything documented and like expect this person to be a" — sources/S_ig_gregoryjhickman_CahwGKigkQu.md
+> "Do you know how fucking miserable some of these people would be if they had to read a forty-two page document for every task?" — sources/S_ig_gregoryjhickman_CahwGKigkQu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an argument against all documentation: the clip wants a few things documented really well, not nothing documented at all.
+- Read as permission to skip training: the few documents must come with teaching people how to do the thing inside your world.

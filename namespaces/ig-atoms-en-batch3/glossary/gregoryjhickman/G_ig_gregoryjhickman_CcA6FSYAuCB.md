@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["fault", "tactically"]
+aka: ["shakeout"]
 origin: sources/S_ig_gregoryjhickman_CcA6FSYAuCB.md
 ---
 
-# G_ig_gregoryjhickman_CcA6FSYAuCB — fault
+# G_ig_gregoryjhickman_CcA6FSYAuCB — shakeout
 
 ## Term
 
-fault is the most prominent repeated term in this source (68-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: tactically, working, moment. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A shakeout is what happens when someone with a bad attitude who is not self-motivating has to go. It appears once in this 68-word source, beside it's my fault, you can't teach motivation, and you can't teach attitude. The clip's rule is that if something is not working, it is his fault even when it was tactically theirs, because he owns the outcome. But motivation and attitude cannot be taught, so a person who is not self-starting and does not value that will probably shake out.
 
 ## Synonyms
 
-- fault
-- tactically
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "something's not working, it's my fault. Yes, it might be their fault in that moment or tactically, but like because it was their fault, it was my fault. That being said, you can't teach motivation, you can't teach attitude." — sources/S_ig_gregoryjhickman_CcA6FSYAuCB.md
+> "So like if they have a bad attitude and they aren't a self-motivating, self-starting person and that's of value to you, there's probably going to be a shakeout." — sources/S_ig_gregoryjhickman_CcA6FSYAuCB.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as blaming the team: the clip starts by saying it is his fault when something is not working, and the shakeout follows only for attitude and motivation.
+- Read as a performance plan: you cannot teach motivation or attitude, so the shakeout is about who the person is, not a skill to train.

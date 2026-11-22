@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["standard", "expecting"]
+aka: ["melting pot"]
 origin: sources/S_ig_gregoryjhickman_Cb7wTIRAdc_.md
 ---
 
-# G_ig_gregoryjhickman_Cb7wTIRAdc_ — standard
+# G_ig_gregoryjhickman_Cb7wTIRAdc_ — melting pot
 
 ## Term
 
-standard is the most prominent repeated term in this source (66-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: expecting, melting, pot. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A melting pot is his image of a culture that has expanded beyond the founder's vision and mixed into something new. It appears once in this 66-word source, beside culture is expanding, the standard that you set, and not being upheld. The clip's fix is not to drag the current team from a low standard up to the new one, but to hire people who come in expecting that standard as the starting point. Culture here is set by who you bring in, not by retraining everyone already there.
 
 ## Synonyms
 
-- standard
-- expecting
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "the culture is expanding beyond just your vision and it's becoming a little bit of a melting pot, and the standard that you set is not being upheld, you might need to go get people that come in expecting that as the standard, so that it's not about now I need to make them go from this low level of standard to this new" — sources/S_ig_gregoryjhickman_Cb7wTIRAdc_.md
+> "If the culture is expanding beyond just your vision and it's becoming a little bit of a melting pot, and the standard that you set is not being upheld, you might need to go get people that come in expecting that as the standard" — sources/S_ig_gregoryjhickman_Cb7wTIRAdc_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a complaint about diversity: the melting pot here is about the culture drifting past the founder's vision, not about who the people are.
+- Read as a call to retrain the team: the clip says hire people who already expect the standard, instead of lifting the current team up to it.

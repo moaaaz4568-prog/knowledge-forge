@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["programs", "learning"]
+aka: ["just-in-time learning"]
 origin: sources/S_ig_gregoryjhickman_CbP_fImgIG0.md
 ---
 
-# G_ig_gregoryjhickman_CbP_fImgIG0 — programs
+# G_ig_gregoryjhickman_CbP_fImgIG0 — just-in-time learning
 
 ## Term
 
-programs is the most prominent repeated term in this source (176-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: learning, courses, books. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Just-in-time learning is buying courses, programs, and books for the specific thing you need to focus on in the moment you need it. It appears once in this 176-word source, beside watch the training more than once, the one nugget, and 10x out of any course you buy. It is the third of three things the clip gives for maximizing a course investment: rewatch the training months and years later, find the one nugget that makes the program more than pay for itself and double down on it, and learn just in time. Holistic coaching, mentorship, and mastermind programs then piece that one thing back into the big picture and the long-term journey.
 
 ## Synonyms
 
-- programs
-- learning
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And then the third thing is to focus on just-in-time learning and go get courses and programs and books on specific things that you need to focus on in that moment and use the more holistic coaching, mentorship, mastermind type programs to help you kind of piece it back together as how does that one little thing now impact the big" — sources/S_ig_gregoryjhickman_CbP_fImgIG0.md
+> "And then the third thing is to focus on just-in-time learning and go get courses and programs and books on specific things that you need to focus on in that moment" — sources/S_ig_gregoryjhickman_CbP_fImgIG0.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as learning only when stuck: just-in-time learning is the third step after rewatching and finding the one nugget, and it pairs with holistic programs that hold the big picture.
+- Read as a reason to skip courses: the clip still says to buy courses and programs, but aimed at the specific thing you need right now.

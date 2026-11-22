@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["client", "former"]
+aka: ["drift"]
 origin: sources/S_ig_gregoryjhickman_CaPsltRgvNu.md
 ---
 
-# G_ig_gregoryjhickman_CaPsltRgvNu — client
+# G_ig_gregoryjhickman_CaPsltRgvNu — drift
 
 ## Term
 
-client is the most prominent repeated term in this source (128-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: former, person, find. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The drift is the referral that arrives for exactly the work you just decided to stop doing, right after you put the stake in the ground. It appears once in this 128-word source, beside done with you, momentum, and the tow that's behind you. The clip treats it as a test: once you have made the transition to done with you, a referral comes in for the thing you just said you weren't going to do, and you find out whether your new boundary holds. The momentum you have been creating is what pulls that old work back toward you.
 
 ## Synonyms
 
-- client
-- former
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "because a client referred someone doesn't mean you need to do the same thing for that person as you did for the former client." — sources/S_ig_gregoryjhickman_CaPsltRgvNu.md
-> "What you'll find is once you've made the transition to done with you, which might be a little bit different from what the former client had, they don't know that you've changed things around or any of that. I call it like the drift." — sources/S_ig_gregoryjhickman_CaPsltRgvNu.md
+> "I call it like the drift. You know, you've been creating this momentum and like there's a tow that's behind you and it always shows up right when you put the stake in the ground." — sources/S_ig_gregoryjhickman_CaPsltRgvNu.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as random bad luck: the drift here is timed to the moment you declare the change, which is why the clip calls it a test of the new boundary.
+- Read as a reason to take the referral: the point of naming it is to recognize the pull of old momentum, not to accept the work back.

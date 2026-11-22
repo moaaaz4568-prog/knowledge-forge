@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["service", "business"]
+aka: ["productized service"]
 origin: sources/S_ig_gregoryjhickman_CcYEZZzAzwO.md
 ---
 
-# G_ig_gregoryjhickman_CcYEZZzAzwO — service
+# G_ig_gregoryjhickman_CcYEZZzAzwO — productized service
 
 ## Term
 
-service is the most prominent repeated term in this source (99-word transcript from the Instagram account gregoryjhickman): it occurs 4 times literally in the text, most often collocated with: business, productized, meaning. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A productized service is a service narrowed to something specific, with specific knowledge and specific solutions, so it can scale. It appears 2 times in this 99-word source, beside work with a process, most successful agencies, and get specific knowledge. The clip's rule is that the most successful agencies and businesses focus on something specific instead of building a slightly different thing for every client, and that focus is what allows a productized service to exist. The sentence that defines it trails off in the source, so the entry stops at what the clip actually says.
 
 ## Synonyms
 
-- service
-- business
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "with a process. Many of us have a service business, and a service business meaning that we get a client coming in, they need something unique. That's client A. Client B comes in, they need something slightly different." — sources/S_ig_gregoryjhickman_CcYEZZzAzwO.md
-> "They're then able to achieve what is called a productized service. A productized service is" — sources/S_ig_gregoryjhickman_CcYEZZzAzwO.md
+> "They're then able to achieve what is called a productized service." — sources/S_ig_gregoryjhickman_CcYEZZzAzwO.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a course or a product: a productized service is still a service, narrowed to specific knowledge and solutions for a specific kind of client.
+- Read as serving everyone with one offer: the clip says each client needs something unique, and the productized service comes from focusing on something specific.

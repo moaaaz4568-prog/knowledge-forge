@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["sales", "start"]
+aka: ["ABC"]
 origin: sources/S_ig_gregoryjhickman_CaU1AnmAfze.md
 ---
 
-# G_ig_gregoryjhickman_CaU1AnmAfze — sales
+# G_ig_gregoryjhickman_CaU1AnmAfze — ABC
 
 ## Term
 
-sales is the most prominent repeated term in this source (130-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: start, acquisition, coming. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+The ABC is his shorthand for the three parts of a business that work in concert: acquisition, sales, and delivery. It appears once in this 130-word source, beside kickoff call, onboarding experience, and diagnose what the real problem is. The clip uses it to order the work: a client who already has acquisition figured out but sucks at sales should not get a funnel built linearly from the start, but should start with sales and the script. Each client might need something in a different order depending on what they bring to the conversation.
 
 ## Synonyms
 
-- sales
-- start
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "your kickoff call, your onboarding experience, is helping them see how you diagnose what the real problem is. If you look at acquisition, sales, and delivery as the ABC, if someone comes to you and you talk about having this complete system and they already have acquisition figured out, they suck at sales." — sources/S_ig_gregoryjhickman_CaU1AnmAfze.md
-> "You wouldn't want to linearly start building out their funnel if they have leads coming in. You might want to start with sales and like their script. All of these things work in concert together." — sources/S_ig_gregoryjhickman_CaU1AnmAfze.md
+> "If you look at acquisition, sales, and delivery as the ABC, if someone comes to you and you talk about having this complete system and they already have acquisition figured out, they suck at sales." — sources/S_ig_gregoryjhickman_CaU1AnmAfze.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a fixed sequence: the ABC names the three parts, but the clip insists each client may need them in a different order.
+- Read as three separate services: the clip says all of them work in concert together, and the diagnosis decides where to start.

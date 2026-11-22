@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["vehicle", "opportunity"]
+aka: ["vehicle of opportunity", "opportunity vehicles"]
 origin: sources/S_ig_gregoryjhickman_Cck-_LDATIJ.md
 ---
 
-# G_ig_gregoryjhickman_Cck-_LDATIJ — vehicle
+# G_ig_gregoryjhickman_Cck-_LDATIJ — vehicle of opportunity
 
 ## Term
 
-vehicle is the most prominent repeated term in this source (116-word transcript from the Instagram account gregoryjhickman): it occurs 5 times literally in the text, most often collocated with: opportunity, maximize, into. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A vehicle of opportunity is his name for the type of business you are in, judged by how much opportunity it can carry. It appears once in this 116-word source, beside change the vehicle, right vehicle, and twenty years ago, with the plural opportunity vehicles appearing once more. The clip's question is whether you are in the right vehicle: sometimes you need to change the vehicle to increase the opportunity, and many of today's opportunity vehicles did not even exist twenty years ago. We live in the greatest time, he says, because you no longer have to do things the way traditional businesses and agencies did.
 
 ## Synonyms
 
-- vehicle
-- opportunity
+- opportunity vehicles (the plural form, used once in the source)
 
 ## Live Example
 
-> "need to think of the type of business we're in as like the vehicle of opportunity, and sometimes we need to change the vehicle to increase the opportunity. You want to maximize anything? Are you in the right vehicle? We live in the greatest time." — sources/S_ig_gregoryjhickman_Cck-_LDATIJ.md
-> "For you guys, I want to challenge you that if you are not in the right vehicle, we might need to possibly get into the right vehicle" — sources/S_ig_gregoryjhickman_Cck-_LDATIJ.md
+> "We need to think of the type of business we're in as like the vehicle of opportunity, and sometimes we need to change the vehicle to increase the opportunity." — sources/S_ig_gregoryjhickman_Cck-_LDATIJ.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a car metaphor: the vehicle is the type of business itself, and changing it is how you increase the opportunity it can carry.
+- Read as loyalty to one model: the clip says to challenge yourself to get into the right vehicle if you are not in it.

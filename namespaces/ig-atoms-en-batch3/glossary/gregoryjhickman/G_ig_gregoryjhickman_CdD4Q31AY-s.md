@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["community", "cultivating"]
+aka: ["prospecting pool"]
 origin: sources/S_ig_gregoryjhickman_CdD4Q31AY-s.md
 ---
 
-# G_ig_gregoryjhickman_CdD4Q31AY-s — community
+# G_ig_gregoryjhickman_CdD4Q31AY-s — prospecting pool
 
 ## Term
 
-community is the most prominent repeated term in this source (138-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: cultivating, ideal, putting. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A prospecting pool is a community of your ideal audience that you cultivate and then move into sales conversations. It appears once in this 138-word source, beside private Facebook groups, nurture content, and paid communities. The clip's point is the power of putting your ideal prospect into a community and adding value and content: private Facebook groups became prospecting pools, with a dozen coaching businesses making multiple seven figures a year just teaching people to grow and fill them. Paid communities are rising the same way, from low ticket twenty dollars a month to a few hundred dollars a year.
 
 ## Synonyms
 
-- community
-- cultivating
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "have to understand that there's power in taking your ideal prospect and putting them into a community, cultivating that community by adding value, content, etc." — sources/S_ig_gregoryjhickman_CdD4Q31AY-s.md
-> "It's all about building and cultivating a community of your ideal" — sources/S_ig_gregoryjhickman_CdD4Q31AY-s.md
+> "In the last year to two years, you really saw a rise of like private Facebook groups as really essentially creating a prospecting pool of your ideal audience that you use to create nurture content and move them into sales conversations, etc." — sources/S_ig_gregoryjhickman_CdD4Q31AY-s.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a Facebook group: the prospecting pool is the community of ideal prospects inside it, and the group is the container, not the pool itself.
+- Read as free marketing only: the clip says paid communities are rising too, from twenty dollars a month to a few hundred a year.

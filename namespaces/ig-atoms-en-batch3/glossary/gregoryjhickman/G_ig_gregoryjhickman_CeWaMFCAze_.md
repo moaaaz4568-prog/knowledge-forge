@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["conversation", "call"]
+aka: ["five star prospect"]
 origin: sources/S_ig_gregoryjhickman_CeWaMFCAze_.md
 ---
 
-# G_ig_gregoryjhickman_CeWaMFCAze_ — conversation
+# G_ig_gregoryjhickman_CeWaMFCAze_ — five star prospect
 
 ## Term
 
-conversation is the most prominent repeated term in this source (184-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: call, later, every. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A five star prospect is a client who checks five boxes and is exactly who you need to be speaking to. It appears 2 times in this 184-word source, beside willing to engage in dialogue, friendly and cooperative, and they want you to help them. The five boxes are that they engage in dialogue, are friendly and cooperative, know what they want, know when they want it, and want you to help them. Following this framework turns every sales call into a repeatable process, which means enrolling more five star prospects.
 
 ## Synonyms
 
-- conversation
-- call
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The next one is that they know when they want it. Now that I understand what brought you to this call, is this a now conversation or a later conversation? And here's the kicker, the last one, they want you to help them." — sources/S_ig_gregoryjhickman_CeWaMFCAze_.md
-> "So the opportunity when you follow this framework is that every time you get on the conversation or get on a sales call, you're actually following a repeatable process, which means you're gonna be enrolling more five star" — sources/S_ig_gregoryjhickman_CeWaMFCAze_.md
+> "In order for a client to be a five star prospect, meaning they are exactly who you need to be speaking to, they need to check these five boxes." — sources/S_ig_gregoryjhickman_CeWaMFCAze_.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a rating to give after the call: the five boxes are checked to qualify the prospect, and the framework is followed during the conversation.
+- Read as a personality judgment: the boxes are about dialogue, cooperation, and knowing what and when they want, not about liking the person.

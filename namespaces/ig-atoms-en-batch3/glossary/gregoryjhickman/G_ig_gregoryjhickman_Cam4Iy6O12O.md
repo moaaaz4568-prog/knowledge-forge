@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["already", "written"]
+aka: ["systems are captured"]
 origin: sources/S_ig_gregoryjhickman_Cam4Iy6O12O.md
 ---
 
-# G_ig_gregoryjhickman_Cam4Iy6O12O — already
+# G_ig_gregoryjhickman_Cam4Iy6O12O — systems are captured
 
 ## Term
 
-already is the most prominent repeated term in this source (148-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: written, systems, job. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Systems are captured means a system is documented from how the work actually happens now, not invented on a whiteboard. It appears once in this 148-word source, beside a thousand steps too many, dreaming up this process, and executive assistant. The clip's complaint is that people design a process they have never done themselves, which is the worst way to document anything, when they already have a system for doing it, even if it sucks or is wonky. Capturing the current way first gets you 80 to 90 percent of the way to a job scorecard and a day-to-day for the hire.
 
 ## Synonyms
 
-- already
-- written
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "aren't created; systems are captured. You already have a system for doing it. It might just suck or be really wonky or a thousand steps too many, but like you have to first capture how you would do it." — sources/S_ig_gregoryjhickman_Cam4Iy6O12O.md
-> "And so you need to go hire an executive assistant. It's like, cool, I've already written that job scorecard. We've already written what the day-to-day should look like for that person. Here it is for us. Tweak it and modify it." — sources/S_ig_gregoryjhickman_Cam4Iy6O12O.md
+> "Systems aren't created; systems are captured." — sources/S_ig_gregoryjhickman_Cam4Iy6O12O.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as an excuse to keep a bad process: capturing how it happens now is the starting point for fixing it, and the clip admits the current system might suck.
+- Read as a ban on planning: the target is dreaming up a process you have never done, not designing improvements once the real steps are captured.

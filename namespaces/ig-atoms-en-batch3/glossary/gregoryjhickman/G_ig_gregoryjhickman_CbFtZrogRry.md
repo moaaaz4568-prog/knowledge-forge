@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["document", "handful"]
+aka: ["SOP", "SOPs"]
 origin: sources/S_ig_gregoryjhickman_CbFtZrogRry.md
 ---
 
-# G_ig_gregoryjhickman_CbFtZrogRry — document
+# G_ig_gregoryjhickman_CbFtZrogRry — SOP
 
 ## Term
 
-document is the most prominent repeated term in this source (166-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: handful, documented. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+An SOP is a written procedure, and the clip's rule is that a team needing a full-fledged one open just to do their job means you have done something entirely wrong. It appears 5 times in this 166-word source, twice as the plural SOPs, beside a thousand SOPs, over documented, and document a handful of things. The clip's point is that learning to do is different than doing: people collect manuals they never use for processes they never repeat enough to warrant documenting. You should document a handful of things, train people on what to do, and hire smart people who can do it without looking at a list.
 
 ## Synonyms
 
-- document
-- handful
+- SOPs (the plural form, used twice in the source)
 
 ## Live Example
 
-> "They never do the same process enough to warrant even having it be documented. They just thought they needed to document everything. You don't need to document everything. You need to document a handful of things." — sources/S_ig_gregoryjhickman_CbFtZrogRry.md
+> "If your team needs to have a full-fledged SOP open in order to do their job, I think you've done something entirely wrong." — sources/S_ig_gregoryjhickman_CbFtZrogRry.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a ban on SOPs: the clip says document a handful of things, and the failure is a team that cannot work without one open.
+- Read as a hiring shortcut: training must still teach them what to do; the SOP is not replaced by hiring alone.

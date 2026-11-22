@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch3)
 
-Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 7004 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file — 3849 glossary files, 6928 live literal examples so far (target 3,849 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3104,56 +3104,56 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file �
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca-EJNpgK7y.md | conversions happen in conversations | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_Ca45URaARC4.md | ideal avatar | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CaC1_g9gE5W.md | hiring hack | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaID9sVgmVE.md | gets easier | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaPsltRgvNu.md | client | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaU1AnmAfze.md | sales | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaaB3EpA-r5.md | Motrin | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CahwGKigkQu.md | documented | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CakUOLeACz1.md | calls | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cam4Iy6O12O.md | already | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CasD8KMAtJ0.md | sales | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cazw9zzg8La.md | tool | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cb0D7xqgJxF.md | call | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cb7wTIRAdc_.md | standard | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbFtZrogRry.md | document | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbP_fImgIG0.md | programs | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cbc3bxhAZSw.md | different | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbiUQjqgPf_.md | specific | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbpuM2PgPz2.md | person | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cbu5CkBAnH9.md | work | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cc3E_ZlAj3K.md | form | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cc8JvTKAV_2.md | revenue | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcA6FSYAuCB.md | fault | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcGFb7AA2hh.md | problems | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcNz7H4AFfd.md | conversation | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcYEZZzAzwO.md | service | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcfyqFhAken.md | business | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cck-_LDATIJ.md | vehicle | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcqHi6QAuzK.md | methodology | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcxzVUfAd0s.md | paid | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cd59OehAMmx.md | baseline | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdD4Q31AY-s.md | community | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdbFC_Tgh54.md | trying | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdgGA4TAZat.md | frame | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cdl7xSYp4Pg.md | clients | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cdn75gmASEs.md | felt | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdtAS5sA-4D.md | level | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdyJCeoATrt.md | buy | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ce1Lrm4AGtS.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ce6Z0IggUbR.md | volume | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeEKw6iACQI.md | calls | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeMAQiaAeaM.md | maximize | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeRILNvA2ze.md | numbers | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeWaMFCAze_.md | conversation | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ced9CUTAO2y.md | service | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CejNkdMML4o.md | specific | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeoTqnmgq5T.md | problem | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cf4JoNoA0R-.md | content | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaID9sVgmVE.md | market of one | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaPsltRgvNu.md | drift | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaU1AnmAfze.md | ABC | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CaaB3EpA-r5.md | Motrin migraine | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CahwGKigkQu.md | forty-two page document | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CakUOLeACz1.md | game tape | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cam4Iy6O12O.md | systems are captured | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CasD8KMAtJ0.md | sustainable | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cazw9zzg8La.md | diagnostic piece | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cb0D7xqgJxF.md | pre-call homework | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cb7wTIRAdc_.md | melting pot | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbFtZrogRry.md | SOP | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbP_fImgIG0.md | just-in-time learning | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cbc3bxhAZSw.md | sell it raw and unpolished | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbiUQjqgPf_.md | operational drag | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CbpuM2PgPz2.md | out of your head | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cbu5CkBAnH9.md | role play | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cc3E_ZlAj3K.md | short form content | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cc8JvTKAV_2.md | bolting on revenue streams | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcA6FSYAuCB.md | shakeout | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcGFb7AA2hh.md | self-inflicted | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcNz7H4AFfd.md | this or that | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcYEZZzAzwO.md | productized service | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcfyqFhAken.md | forever business | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cck-_LDATIJ.md | vehicle of opportunity | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcqHi6QAuzK.md | fixed fee, fixed scope | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CcxzVUfAd0s.md | paid newsletter | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cd59OehAMmx.md | industry math | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdD4Q31AY-s.md | prospecting pool | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdbFC_Tgh54.md | delaying gratification | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdgGA4TAZat.md | why frame | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cdl7xSYp4Pg.md | BoltOn Program Workshop | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cdn75gmASEs.md | bad decisions | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdtAS5sA-4D.md | Sequence is success | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CdyJCeoATrt.md | referral partners | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ce1Lrm4AGtS.md | invite complexity | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ce6Z0IggUbR.md | three tiers | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeEKw6iACQI.md | flex up | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeMAQiaAeaM.md | one conversion vehicle | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeRILNvA2ze.md | Revenue is for vanity | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeWaMFCAze_.md | five star prospect | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Ced9CUTAO2y.md | continuity agreement | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CejNkdMML4o.md | saying no | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CeoTqnmgq5T.md | in the driver's seat | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_Cf4JoNoA0R-.md | rechoreograph | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_Cf9hFZWpTTn.md | weekly review | 1 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfCDileA2wP.md | help | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfMc3s5A3Vp.md | course | 3 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfUYBvSATF8.md | business | 2 |
-| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfZOvNTgSUt.md | business | 2 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfCDileA2wP.md | intellectual property licensing | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfMc3s5A3Vp.md | lead bolt-on | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfUYBvSATF8.md | in alignment | 1 |
+| glossary/gregoryjhickman/G_ig_gregoryjhickman_CfZOvNTgSUt.md | twenty to thirty years | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CfeY_nhgMhz.md | back | 2 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_CfrRNDZAmLm.md | business | 1 |
 | glossary/gregoryjhickman/G_ig_gregoryjhickman_Cfwbt8UgPLF.md | million | 3 |

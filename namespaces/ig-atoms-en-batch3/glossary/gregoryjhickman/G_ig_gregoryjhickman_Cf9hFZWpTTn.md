@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["weekly review", "process"]
+aka: ["weekly review"]
 origin: sources/S_ig_gregoryjhickman_Cf9hFZWpTTn.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_gregoryjhickman_Cf9hFZWpTTn.md
 
 ## Term
 
-weekly review is the most prominent repeated term in this source (92-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: process, end, every. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A weekly review is his Friday process for coaching himself on the week that just passed. It appears 2 times in this 92-word source, beside look at my wins, look at my lessons, and look at my roadblock. Every Friday before he goes home, he looks at his wins, his lessons, and his roadblock, then lists a few great things that happened, what he learned about himself, others, and the progress, and one decision he could have made differently. The last question is what his main struggles were, which is what makes the review a way to coach yourself.
 
 ## Synonyms
 
-- weekly review
-- process
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "is my weekly review process. At the end of every week, Friday before I go home for the day, I look at my wins, look at my lessons, and I look at my roadblock. I'll do my weekly review and I will do a few great things that happened." — sources/S_ig_gregoryjhickman_Cf9hFZWpTTn.md
+> "This is my weekly review process. At the end of every week, Friday before I go home for the day, I look at my wins, look at my lessons, and I look at my roadblock." — sources/S_ig_gregoryjhickman_Cf9hFZWpTTn.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a status report: the weekly review is a self-coaching process built on wins, lessons, and one decision to make differently.
+- Read as a monthly habit: the clip does it every Friday before going home for the day.

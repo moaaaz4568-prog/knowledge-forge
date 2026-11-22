@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["conversation", "Start"]
+aka: ["this or that"]
 origin: sources/S_ig_gregoryjhickman_CcNz7H4AFfd.md
 ---
 
-# G_ig_gregoryjhickman_CcNz7H4AFfd — conversation
+# G_ig_gregoryjhickman_CcNz7H4AFfd — this or that
 
 ## Term
 
-This source is very short (78 words), so no term repeats enough for a frequency-based entry; conversation is its central term and anchors the context of the clip: it occurs 1 time literally in the text. The live example below is taken verbatim from the transcript and documents the context of this source. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+This or that is a simple two-option question he uses to get people to participate in a post. It appears once in this 78-word source, beside gets people to participate, scour your database, and start a conversation. The clip's point is that a fun question makes commenting easy, and anyone who comments might be your ideal person, so you can check whether they are in your database and start a conversation with them. The next post is then more likely to be seen by everyone who engaged with that one.
 
 ## Synonyms
 
-- conversation
-- Start
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Because then anyone that's commenting might be your ideal person. You can go scour your database and see if they're in there. Start a conversation. There are so many people that are there watching and willing to engage with your" — sources/S_ig_gregoryjhickman_CcNz7H4AFfd.md
+> "The this or that type question, hey, what do you think, gets people to participate because it's fun." — sources/S_ig_gregoryjhickman_CcNz7H4AFfd.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a content gimmick: the this or that question is a way to find ideal people among the commenters and start conversations with them.
+- Read as a reach trick only: the engagement also makes the next post more likely to be seen by everyone who engaged.

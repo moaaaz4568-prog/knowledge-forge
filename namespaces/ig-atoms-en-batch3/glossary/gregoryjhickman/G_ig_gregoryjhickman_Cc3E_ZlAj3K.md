@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["form", "short"]
+aka: ["short form content"]
 origin: sources/S_ig_gregoryjhickman_Cc3E_ZlAj3K.md
 ---
 
-# G_ig_gregoryjhickman_Cc3E_ZlAj3K — form
+# G_ig_gregoryjhickman_Cc3E_ZlAj3K — short form content
 
 ## Term
 
-form is the most prominent repeated term in this source (138-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: short, content, versus. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Short form content is the quick video format he compares against longer form for growing a channel. It appears once in this 138-word source, beside three shorts a week, 150 to 200 new subscribers, and 350 to 450 a month. The clip's measurement is that adding three shorts a week plus one long form almost doubled monthly subscribers, from 150 to 200 up to 350 to 450, because shorts put the channel in front of new people who are not subscribed. The snippet makes them interested, they check out the channel, and growth accelerates.
 
 ## Synonyms
 
-- form
-- short
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Do you see a difference in the utility of the short form content versus that longer form? Like, how do you view that as a useful tool in the business?" — sources/S_ig_gregoryjhickman_Cc3E_ZlAj3K.md
-> "150 to 200 new subscribers a month to now once we started doing the shorts, which we do three shorts a week right now and one long form, it bumped up our monthly sub count to like 350 to 450 a month." — sources/S_ig_gregoryjhickman_Cc3E_ZlAj3K.md
+> "Do you see a difference in the utility of the short form content versus that longer form?" — sources/S_ig_gregoryjhickman_Cc3E_ZlAj3K.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a replacement for long form: the clip pairs three shorts a week with one long form, and the shorts feed the channel, not replace it.
+- Read as a vanity metric: the gain he measures is new subscribers from people who were not subscribed, not views alone.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["work", "offer"]
+aka: ["role play"]
 origin: sources/S_ig_gregoryjhickman_Cbu5CkBAnH9.md
 ---
 
-# G_ig_gregoryjhickman_Cbu5CkBAnH9 — work
+# G_ig_gregoryjhickman_Cbu5CkBAnH9 — role play
 
 ## Term
 
-work is the most prominent repeated term in this source (92-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: offer, pitch, actual. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Role play is the hiring test he recommends for salespeople: put them on a call and see if they can diagnose. It appears once in this 92-word source, beside ask questions, listen, and the diagnosis is the most important part of the call. The clip's test is whether they ask questions, listen, and catch the things he throws in for them to ask about, and whether they can diagnose his actual problem. The offer and the pitch can be worked on later; what he wants is the person on the phone talking to his people.
 
 ## Synonyms
 
-- work
-- offer
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the diagnosis is the most important part of the call. So it's like, can they diagnose my actual problem? How does it sound? We can work on the offer, we can work on the pitch, and what I want this person on the phone talking to our" — sources/S_ig_gregoryjhickman_Cbu5CkBAnH9.md
+> "If you guys are going to go start hiring salespeople, I would definitely recommend adding role play." — sources/S_ig_gregoryjhickman_Cbu5CkBAnH9.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a script rehearsal: the role play tests diagnosis — asking questions and listening — not whether they can recite the pitch.
+- Read as the whole interview: the clip uses it to test the most important part of the call, while the offer and pitch are worked on after hiring.

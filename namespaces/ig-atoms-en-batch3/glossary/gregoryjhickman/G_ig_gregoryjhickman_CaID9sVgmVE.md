@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["gets easier", "Content"]
+aka: ["market of one"]
 origin: sources/S_ig_gregoryjhickman_CaID9sVgmVE.md
 ---
 
-# G_ig_gregoryjhickman_CaID9sVgmVE — gets easier
+# G_ig_gregoryjhickman_CaID9sVgmVE — market of one
 
 ## Term
 
-gets easier is the most prominent repeated term in this source (179-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: content, creation, partnership. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A market of one is the position you reach when layering and stacking the interests, desires, and characteristics of the exact type of person you serve until no one else serves them the same way. It appears once in this 179-word source, beside layering, stacking, and stand out from the crowd. The clip ties it to pricing power: at the bottom of the pool you compete on price because you look, sound, and do the same as everybody else, while at the top people come to you because you serve that type of person wanting that sort of thing in that style. Content creation, partnerships, and advertising all get easier once you hold that position.
 
 ## Synonyms
 
-- gets easier
-- Content
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Tons of opportunity actually opens up for you. Content creation gets easier, partnership gets easier, advertising gets easier." — sources/S_ig_gregoryjhickman_CaID9sVgmVE.md
+> "which actually at the end of the day, what is doing is creating a market of one that you get to be on top of that allows you to stand out from the crowd and differentiate yourself" — sources/S_ig_gregoryjhickman_CaID9sVgmVE.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a monopoly on a whole market: a market of one here is one provider serving one specific type of person in one style, not dominance over an industry.
+- Read as a branding slogan: the clip earns it through the layers of interests and characteristics stacked for that person, not through a tagline.

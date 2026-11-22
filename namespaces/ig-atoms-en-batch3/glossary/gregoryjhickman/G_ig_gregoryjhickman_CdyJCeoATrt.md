@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["buy", "guy"]
+aka: ["referral partners"]
 origin: sources/S_ig_gregoryjhickman_CdyJCeoATrt.md
 ---
 
-# G_ig_gregoryjhickman_CdyJCeoATrt — buy
+# G_ig_gregoryjhickman_CdyJCeoATrt — referral partners
 
 ## Term
 
-buy is the most prominent repeated term in this source (181-word transcript from the Instagram account gregoryjhickman): it occurs 7 times literally in the text, most often collocated with: guy, conversion, rate. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Referral partners are the other providers you send a prospect to when they will not buy your service. It appears once in this 181-word source, beside they are gonna buy something like that week, I orchestrated the ability, and sell them a course. The clip's lesson from a business coach is that a prospect on a sales call will buy something that week, from you or from someone else, so he built the ability to make a sale no matter what. If they would not buy his service, he had five or six referral partners to push them to, and if they were not ready for traffic, he sold them a course.
 
 ## Synonyms
 
-- buy
-- guy
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "learned from a business coach that when we're on a sales call, whether they say yes or no to us, they're going to buy something like that week. They might not buy from you, but they're going to buy something. They're going to find a solution. Like we're humans, especially if you're in the United States, like we're just buying stuff every week." — sources/S_ig_gregoryjhickman_CdyJCeoATrt.md
-> "I realized that one, they would say yes to my service, or they are gonna go and they're gonna buy from the conversion rate optimization guy, or they're gonna buy from the funnel builder guy, or they're gonna buy from the WordPress web designer. I orchestrated the ability to make a sale no matter what on that call." — sources/S_ig_gregoryjhickman_CdyJCeoATrt.md
-> "I orchestrated the ability to make a sale no matter what on that call. So if they were not gonna buy my service, I had like five, six referral partners that I'd push them over to. And if they just weren't ready for traffic, I would sell them a course." — sources/S_ig_gregoryjhickman_CdyJCeoATrt.md
+> "So if they were not gonna buy my service, I had like five, six referral partners that I'd push them over to." — sources/S_ig_gregoryjhickman_CdyJCeoATrt.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as passing leads away for free: referral partners are part of getting paid somewhere or another on the call, even when the prospect says no.
+- Read as a fallback for a failed pitch: the clip orchestrates it in advance, because the prospect is going to buy something that week either way.

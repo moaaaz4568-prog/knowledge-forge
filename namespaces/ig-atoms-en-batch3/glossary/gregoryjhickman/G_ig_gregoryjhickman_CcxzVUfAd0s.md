@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["paid", "newsletter"]
+aka: ["paid newsletter"]
 origin: sources/S_ig_gregoryjhickman_CcxzVUfAd0s.md
 ---
 
-# G_ig_gregoryjhickman_CcxzVUfAd0s — paid
+# G_ig_gregoryjhickman_CcxzVUfAd0s — paid newsletter
 
 ## Term
 
-paid is the most prominent repeated term in this source (137-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: newsletter, start, content. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+A paid newsletter is a subscription where people pay a few hundred dollars a year for curated content on a topic you know. It appears once in this 137-word source, beside two three hundred dollars a year, email list that you own, and acquire the email list. The clip's point is that getting paid to curate and create content exclusive to an email list you own is a revenue stream and an asset no one can take away from you, driving revenue every day, week, and month. The advice is to follow people already getting paid for a newsletter and to think about which assets you can build or own, including the mobile number for text based marketing.
 
 ## Synonyms
 
-- paid
-- newsletter
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "on Twitter, you'll see tons of people that now charge you know two three hundred dollars a year to be on a paid newsletter. The ability to go out there, a topic that you are interested in, expertise that you have, and get paid to curate content and create content exclusive to the email list that you own could be a revenue stream and an asset that" — sources/S_ig_gregoryjhickman_CcxzVUfAd0s.md
-> "And start following people that are getting paid for simply having a newsletter and start thinking about what assets can you either build and or make sure you own by acquiring the email list or the mobile number with the text based marketing as" — sources/S_ig_gregoryjhickman_CcxzVUfAd0s.md
+> "Anytime on Twitter, you'll see tons of people that now charge you know two three hundred dollars a year to be on a paid newsletter." — sources/S_ig_gregoryjhickman_CcxzVUfAd0s.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a side hustle: the paid newsletter here is an owned asset and revenue stream, not a hobby that happens to earn.
+- Read as renting an audience: the value is that you own the email list and no one can take it away from you.

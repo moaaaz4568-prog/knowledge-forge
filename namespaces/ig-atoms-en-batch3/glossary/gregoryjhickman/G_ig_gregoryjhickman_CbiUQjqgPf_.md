@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["specific", "focus"]
+aka: ["operational drag"]
 origin: sources/S_ig_gregoryjhickman_CbiUQjqgPf_.md
 ---
 
-# G_ig_gregoryjhickman_CbiUQjqgPf_ — specific
+# G_ig_gregoryjhickman_CbiUQjqgPf_ — operational drag
 
 ## Term
 
-specific is the most prominent repeated term in this source (157-word transcript from the Instagram account gregoryjhickman): it occurs 2 times literally in the text, most often collocated with: focus, solving, problem. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Operational drag is the friction that holds back income, profitability, and leverage as a service business grows. It appears once in this 157-word source, beside trading time for money, productize those services, and greater opportunity vehicle. The clip lays out the path to scaling services: start trading time for money, go out on your own so yearly income rises, then productize by specializing on one specific problem for one specific person, which reduces the drag and raises the ceiling. Converting those services into products and programs for ideal clients is the last step up the curve.
 
 ## Synonyms
 
-- specific
-- focus
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ specific is the most prominent repeated term in this source (157-word transcript
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a complaint about being busy: operational drag here is the cost of unspecialized service work, and productizing is what reduces it.
+- Read as a reason to stop selling services: the path keeps the service business but productizes it, then converts it into products and programs.

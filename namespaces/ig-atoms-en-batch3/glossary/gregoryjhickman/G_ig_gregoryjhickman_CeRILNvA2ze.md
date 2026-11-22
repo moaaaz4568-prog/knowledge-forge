@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: gregoryjhickman
-aka: ["numbers", "articulate"]
+aka: ["Revenue is for vanity"]
 origin: sources/S_ig_gregoryjhickman_CeRILNvA2ze.md
 ---
 
-# G_ig_gregoryjhickman_CeRILNvA2ze — numbers
+# G_ig_gregoryjhickman_CeRILNvA2ze — Revenue is for vanity
 
 ## Term
 
-numbers is the most prominent repeated term in this source (103-word transcript from the Instagram account gregoryjhickman): it occurs 3 times literally in the text, most often collocated with: articulate, keep, track. The live examples below are taken verbatim from the transcript and show the term in its actual context. This entry documents usage in this specific source only and does not turn the term into a general definition outside it.
+Revenue is for vanity is the first line of his triplet about numbers: revenue is for vanity, profit is for sanity, cash flow is for reality. It appears once in this 103-word source, beside profit is for sanity, cash flow is for reality, and your conversion vehicle is different. The clip's point is that strategies do not transfer across different conversion vehicles: a high ticket phone sale and a low ticket membership need different approaches, so someone else's conversion number is 100 percent irrelevant to you. You should not listen to anyone's numbers anyway, because most people do not track theirs or articulate them the same way.
 
 ## Synonyms
 
-- numbers
-- articulate
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "give you any number, that number is 100% irrelevant to you because your conversion vehicle is different. You shouldn't listen to anyone's numbers anyway because most of them don't even keep track of their numbers and they don't articulate the numbers the same" — sources/S_ig_gregoryjhickman_CeRILNvA2ze.md
+> "Revenue is for vanity, profit is for sanity, cash flow is for reality." — sources/S_ig_gregoryjhickman_CeRILNvA2ze.md
 
 ## When the Meaning Breaks
 
-- when the entry is read as a general standard definition: the occurrences documented here are confined to this single clip and do not establish linguistic prevalence or an agreed meaning.
-- when the transcript's spoken wording is treated as polished text: this is a verbatim transcript of spoken audio (fillers, run-ons and mis-heard words included), so the phrasing here is not edited writing.
+- Read as a claim that revenue does not matter: the triplet ranks the three, and revenue is vanity next to profit for sanity and cash flow for reality.
+- Read as a benchmark to copy: the clip says another person's conversion number is irrelevant when your conversion vehicle is different.
