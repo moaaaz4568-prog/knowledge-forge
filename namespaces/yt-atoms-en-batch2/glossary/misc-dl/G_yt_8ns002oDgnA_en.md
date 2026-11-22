@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [think, misc-dl collection context]
+aka: [consciousness]
 origin: sources/S_yt_8ns002oDgnA_en.md
 ---
 
-# G_yt_8ns002oDgnA_en — think
+# G_yt_8ns002oDgnA_en — consciousness
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mean, wait, exactly, itself. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Consciousness is the question at the center of this video: did researchers just prove that AI is alive and conscious? The Anthropic team, creators of Claude, reported finding a kind of internal workspace in their AI — something it uses to process information before giving an answer — and the video asks whether that means a conversation is going on inside, like the dialogue in your own head before deciding what to say. Philosophers describe consciousness as the feeling of what it's like to be you, and for the speaker having an inner experience is its most important component. The word appears 11 times in the source, beside ai, conscious, feeling, and experience. His concrete case is the movie "I, Robot": the writers put words in the robot's mouth, but what happens when software asks you a similar question?
 
 ## Synonyms
 
-- think
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can challenge his answer, ask for clarification, interrupt because you think he missed the point, and he can respond in a voice that sounds like a human." — sources/S_yt_8ns002oDgnA_en.md
+> "And for me, having an inner experience is probably the most important component of what I mean when I talk about the concept of consciousness and the feeling of life." — sources/S_yt_8ns002oDgnA_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof that AI is alive: the video asks the question, it doesn't prove it — the internal workspace is for processing information before answering.
+- Read as consciousness meaning being alive: being biologically alive is different — a plant is alive and we don't know if it feels anything — and every being we know for sure is conscious is also alive, so AI could be the first exception.

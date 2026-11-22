@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch2)
 
-YouTube English video transcripts batch 2 glossaries (chat glossaries-yt-en-batch2): one G_ entry per T_ atom file — 1,000 files, zero exclusions, misc-dl collection. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). Rows 1–50 (codes 8P-07z8qjuQ–8npmzz7RmRM) rebuilt and self-checked 50/50: each live example verbatim byte-exact (ws-fold) from the S_ file cited in its origin, 40–400 chars, no image markers; term counts machine-verified from each source's own text (repeated content terms by count + collocation; YouTube/UI chrome and the collection's own name deprioritized). Rows 51–1,000 are still the GLM versions pending rebuild — their terms, counts and the earlier header claims (1,858 live examples, 0 errors) are GLM's, not verified. First code 8P-07z8qjuQ, last Id65SyiLzCs.
+YouTube English video transcripts batch 2 glossaries (chat glossaries-yt-en-batch2): one G_ entry per T_ atom file — 1,000 files, zero exclusions, misc-dl collection. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). Rows 1–100 (codes 8P-07z8qjuQ–9QBpf8_mtmE) rebuilt and self-checked 100/100: each live example verbatim byte-exact (ws-fold) from the S_ file cited in its origin, 40–400 chars, no image markers; term counts machine-verified from each source's own text (repeated content terms by count + collocation; YouTube/UI chrome and the collection's own name deprioritized). Rows 101–1,000 are still the GLM versions pending rebuild — their terms, counts and the earlier header claims (1,858 live examples, 0 errors) are GLM's, not verified. First code 8P-07z8qjuQ, last Id65SyiLzCs.
 | glossary/misc-dl/G_yt_8P-07z8qjuQ_en.md | pearl drift | 15 |
 | glossary/misc-dl/G_yt_8PGEYHJTMDs_en.md | lead | 11 |
 | glossary/misc-dl/G_yt_8PQhbZRTBPE_en.md | consumer centric | 5 |
@@ -51,56 +51,56 @@ YouTube English video transcripts batch 2 glossaries (chat glossaries-yt-en-batc
 | glossary/misc-dl/G_yt_8mmBg_oe9cg_en.md | risk | 26 |
 | glossary/misc-dl/G_yt_8n6stzUoN4A_en.md | coffee | 26 |
 | glossary/misc-dl/G_yt_8npmzz7RmRM_en.md | outreach | 18 |
-| glossary/misc-dl/G_yt_8ns002oDgnA_en.md | think | 1 |
-| glossary/misc-dl/G_yt_8osUr4gEnqw_en.md | now | 1 |
-| glossary/misc-dl/G_yt_8pMUkEbAM7g_en.md | design | 2 |
-| glossary/misc-dl/G_yt_8rIQ9ekHEtE_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8rq5xY9wGMI_en.md | right | 2 |
-| glossary/misc-dl/G_yt_8sBnT9RkxAw_en.md | successful | 2 |
-| glossary/misc-dl/G_yt_8tLUrjFtb9w_en.md | intention | 2 |
-| glossary/misc-dl/G_yt_8uAolzh0VvU_en.md | Yeah | 2 |
-| glossary/misc-dl/G_yt_8ucGdp19YYE_en.md | financial advisor | 1 |
-| glossary/misc-dl/G_yt_8vHOdFv7Qns_en.md | really | 1 |
-| glossary/misc-dl/G_yt_8xmSofgR6AY_en.md | think | 2 |
-| glossary/misc-dl/G_yt_8yWF0Gy6kuw_en.md | business | 1 |
-| glossary/misc-dl/G_yt_8zW1zlWvBuk_en.md | prospects | 1 |
-| glossary/misc-dl/G_yt_8zcnK6Lx_p4_en.md | people | 2 |
-| glossary/misc-dl/G_yt_8zreEDH3Uzo_en.md | right | 2 |
-| glossary/misc-dl/G_yt_9-UeFXA-aZg_en.md | know | 3 |
-| glossary/misc-dl/G_yt_9-rSKi3HO9E_en.md | know | 3 |
-| glossary/misc-dl/G_yt_900fXN3dPUM_en.md | know | 2 |
-| glossary/misc-dl/G_yt_902eLImkBoE_en.md | Yes | 2 |
-| glossary/misc-dl/G_yt_91hfs2qWAMo_en.md | color | 2 |
-| glossary/misc-dl/G_yt_94KixZgf7p4_en.md | tax | 3 |
-| glossary/misc-dl/G_yt_94hHJPOxSmw_en.md | right | 2 |
-| glossary/misc-dl/G_yt_94hgANRvwfo_en.md | design | 2 |
-| glossary/misc-dl/G_yt_95ekAAJW-1Y_en.md | economy | 2 |
-| glossary/misc-dl/G_yt_95tEIIb69Bo_en.md | Labn | 1 |
-| glossary/misc-dl/G_yt_966ZUy9HsOo_en.md | pattern | 2 |
-| glossary/misc-dl/G_yt_979dZB-Nx7Q_en.md | people | 2 |
-| glossary/misc-dl/G_yt_97i2G3X5xOU_en.md | vest | 1 |
-| glossary/misc-dl/G_yt_98Is31GMbzo_en.md | working | 2 |
-| glossary/misc-dl/G_yt_99sJstQw4m0_en.md | because | 1 |
-| glossary/misc-dl/G_yt_99xyy1nUpug_en.md | money | 2 |
-| glossary/misc-dl/G_yt_9A4-7aphxL0_en.md | right | 2 |
-| glossary/misc-dl/G_yt_9ABC_8BN9X4_en.md | Claude | 1 |
-| glossary/misc-dl/G_yt_9BmSQ6xXf8s_en.md | right | 2 |
-| glossary/misc-dl/G_yt_9CAkJSKyLBw_en.md | know | 3 |
-| glossary/misc-dl/G_yt_9E5U3qC8j0g_en.md | know | 2 |
-| glossary/misc-dl/G_yt_9Eawo4gv51s_en.md | school | 2 |
-| glossary/misc-dl/G_yt_9Evp3n-lGeU_en.md | know | 1 |
-| glossary/misc-dl/G_yt_9FBfO6A1PIw_en.md | people | 2 |
-| glossary/misc-dl/G_yt_9FLUZ4zKs7U_en.md | people | 1 |
-| glossary/misc-dl/G_yt_9F_xKevZQxs_en.md | world economic | 1 |
-| glossary/misc-dl/G_yt_9GxhPHpaTvQ_en.md | okay | 3 |
-| glossary/misc-dl/G_yt_9HfXyYJhZt8_en.md | people | 2 |
-| glossary/misc-dl/G_yt_9K1aLtAjGBY_en.md | people | 2 |
-| glossary/misc-dl/G_yt_9MkLlltbag0_en.md | Yeah | 1 |
-| glossary/misc-dl/G_yt_9OWarPdD7Bs_en.md | agency | 3 |
-| glossary/misc-dl/G_yt_9OtV6H8ddgs_en.md | easy | 2 |
-| glossary/misc-dl/G_yt_9P1-Z5tb-hc_en.md | design | 3 |
-| glossary/misc-dl/G_yt_9Q4yxEygG84_en.md | Now | 3 |
-| glossary/misc-dl/G_yt_9QBpf8_mtmE_en.md | okay | 3 |
+| glossary/misc-dl/G_yt_8ns002oDgnA_en.md | consciousness | 11 |
+| glossary/misc-dl/G_yt_8osUr4gEnqw_en.md | brand identity | 4 |
+| glossary/misc-dl/G_yt_8pMUkEbAM7g_en.md | shadow | 8 |
+| glossary/misc-dl/G_yt_8rIQ9ekHEtE_en.md | prosperity theory | 3 |
+| glossary/misc-dl/G_yt_8rq5xY9wGMI_en.md | guarantee | 21 |
+| glossary/misc-dl/G_yt_8sBnT9RkxAw_en.md | successful students | 11 |
+| glossary/misc-dl/G_yt_8tLUrjFtb9w_en.md | intention | 12 |
+| glossary/misc-dl/G_yt_8uAolzh0VvU_en.md | profit margins | 4 |
+| glossary/misc-dl/G_yt_8ucGdp19YYE_en.md | financial advisor | 5 |
+| glossary/misc-dl/G_yt_8vHOdFv7Qns_en.md | typeface | 8 |
+| glossary/misc-dl/G_yt_8xmSofgR6AY_en.md | personal brand | 21 |
+| glossary/misc-dl/G_yt_8yWF0Gy6kuw_en.md | cash flow | 12 |
+| glossary/misc-dl/G_yt_8zW1zlWvBuk_en.md | prospects | 2 |
+| glossary/misc-dl/G_yt_8zcnK6Lx_p4_en.md | remarkable | 6 |
+| glossary/misc-dl/G_yt_8zreEDH3Uzo_en.md | personalized videos | 3 |
+| glossary/misc-dl/G_yt_9-UeFXA-aZg_en.md | offer | 29 |
+| glossary/misc-dl/G_yt_9-rSKi3HO9E_en.md | team | 68 |
+| glossary/misc-dl/G_yt_900fXN3dPUM_en.md | first meeting | 10 |
+| glossary/misc-dl/G_yt_902eLImkBoE_en.md | team | 26 |
+| glossary/misc-dl/G_yt_91hfs2qWAMo_en.md | color | 23 |
+| glossary/misc-dl/G_yt_94KixZgf7p4_en.md | top tax rate | 4 |
+| glossary/misc-dl/G_yt_94hHJPOxSmw_en.md | AI agents | 6 |
+| glossary/misc-dl/G_yt_94hgANRvwfo_en.md | design | 20 |
+| glossary/misc-dl/G_yt_95ekAAJW-1Y_en.md | Capital Genesis | 3 |
+| glossary/misc-dl/G_yt_95tEIIb69Bo_en.md | logo | 7 |
+| glossary/misc-dl/G_yt_966ZUy9HsOo_en.md | pattern | 15 |
+| glossary/misc-dl/G_yt_979dZB-Nx7Q_en.md | community | 48 |
+| glossary/misc-dl/G_yt_97i2G3X5xOU_en.md | concealment vest | 2 |
+| glossary/misc-dl/G_yt_98Is31GMbzo_en.md | focus | 3 |
+| glossary/misc-dl/G_yt_99sJstQw4m0_en.md | Austrian economics | 13 |
+| glossary/misc-dl/G_yt_99xyy1nUpug_en.md | financial plan | 3 |
+| glossary/misc-dl/G_yt_9A4-7aphxL0_en.md | ICP | 15 |
+| glossary/misc-dl/G_yt_9ABC_8BN9X4_en.md | permanent memory | 2 |
+| glossary/misc-dl/G_yt_9BmSQ6xXf8s_en.md | agency | 16 |
+| glossary/misc-dl/G_yt_9CAkJSKyLBw_en.md | caviar | 18 |
+| glossary/misc-dl/G_yt_9E5U3qC8j0g_en.md | earnout | 10 |
+| glossary/misc-dl/G_yt_9Eawo4gv51s_en.md | stay-at-home wife | 10 |
+| glossary/misc-dl/G_yt_9Evp3n-lGeU_en.md | agency | 34 |
+| glossary/misc-dl/G_yt_9FBfO6A1PIw_en.md | expertise | 24 |
+| glossary/misc-dl/G_yt_9FLUZ4zKs7U_en.md | strategy | 46 |
+| glossary/misc-dl/G_yt_9F_xKevZQxs_en.md | World Economic Forum | 11 |
+| glossary/misc-dl/G_yt_9GxhPHpaTvQ_en.md | tick tock | 24 |
+| glossary/misc-dl/G_yt_9HfXyYJhZt8_en.md | cold email | 11 |
+| glossary/misc-dl/G_yt_9K1aLtAjGBY_en.md | slave class | 16 |
+| glossary/misc-dl/G_yt_9MkLlltbag0_en.md | UGC | 31 |
+| glossary/misc-dl/G_yt_9OWarPdD7Bs_en.md | marketing | 54 |
+| glossary/misc-dl/G_yt_9OtV6H8ddgs_en.md | difficulty | 18 |
+| glossary/misc-dl/G_yt_9P1-Z5tb-hc_en.md | golden rule | 7 |
+| glossary/misc-dl/G_yt_9Q4yxEygG84_en.md | avatar | 23 |
+| glossary/misc-dl/G_yt_9QBpf8_mtmE_en.md | time under tension | 3 |
 | glossary/misc-dl/G_yt_9S10J3McRSc_en.md | lettering | 2 |
 | glossary/misc-dl/G_yt_9T1S8iX6NdQ_en.md | Okay | 1 |
 | glossary/misc-dl/G_yt_9U4cDUQVQ28_en.md | collaborate | 1 |

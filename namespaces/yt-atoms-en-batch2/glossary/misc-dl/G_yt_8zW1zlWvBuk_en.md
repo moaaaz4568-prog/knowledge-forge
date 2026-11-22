@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [prospects, misc-dl collection context]
+aka: [prospects]
 origin: sources/S_yt_8zW1zlWvBuk_en.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_yt_8zW1zlWvBuk_en.md
 
 ## Term
 
-"prospects" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: clear, promise, tell, where. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prospects are the people this very short source addresses: make a clear promise, and tell your prospects where you're going to go together. Then you don't end up overworked, prospects feel like you're a fit, clients are able to get the results they were promised, your business can scale, and you are responsible to your clients. The whole source is a single short note of 43 words, and the word appears 2 times in the source, beside clients, clear, promise, and fit. The concrete promise is the direction itself: telling prospects where you're going together, before they become clients.
 
 ## Synonyms
 
-- prospects
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_yt_8zW1zlWvBuk_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "prospects": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sales trick: the promise is about fit and responsibility to clients, not about closing.
+- Read as prospects meaning clients: prospects feel like a fit first — clients are the ones who get the results they were promised.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [business, misc-dl collection context]
+aka: [cash flow]
 origin: sources/S_yt_8yWF0Gy6kuw_en.md
 ---
 
-# G_yt_8yWF0Gy6kuw_en — business
+# G_yt_8yWF0Gy6kuw_en — cash flow
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 70 times in the text (whole-word matches, case folded), and the words most often collocated with it are: boring, make, model, growing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cash flow is what really matters, in this video from a former Goldman Sachs vice president who earned $2 million a year at his peak and now runs Filterby at $23 million in revenue per month: real money generated year after year. EBITDA is the most misunderstood metric — it stands for earnings before interest, taxes, depreciation and amortization, and it can look great while the business is losing cash, so you can have great EBITDA and still go bankrupt. Charlie Munger is known for his aversion to EBITDA. The phrase appears 12 times in the source, beside money, business, real, and year. His concrete case is depreciation: you buy a million-dollar piece of equipment with a 10-year life and depreciate $100,000 per year, but EBITDA excludes that depreciation.
 
 ## Synonyms
 
-- business
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So the first thing that goes away when interest rates are high, like they are now, is spending on things like beauty, or any business that depends on people's income." — sources/S_yt_8yWF0Gy6kuw_en.md
+> "Cash flow is what really matters. Real money generated year after year." — sources/S_yt_8yWF0Gy6kuw_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as EBITDA meaning profit: EBITDA excludes depreciation, so it can look great while the business is losing cash — you can have great EBITDA and still go bankrupt.
+- Read as cash flow meaning just revenue: it is real money generated year after year, after factoring in equipment purchases and financing.

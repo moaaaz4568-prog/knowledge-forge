@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [Yeah, misc-dl collection context]
+aka: [profit margins]
 origin: sources/S_yt_8uAolzh0VvU_en.md
 ---
 
-# G_yt_8uAolzh0VvU_en — Yeah
+# G_yt_8uAolzh0VvU_en — profit margins
 
 ## Term
 
-"Yeah" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 40 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yeah, like, profit, arabica. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Profit margins are what this Coffee and Conversions episode says to look at instead of total revenue: at the end of the day, are you looking at your total revenue numbers and saying this is how much we make as a business, or are you looking at your profit margins? People getting into business don't think about this right away — you think if I make a dollar that I make a dollar, but that's not true. Focusing on vanity revenue versus profit margins is how people get misinformed. The phrase appears 4 times in the source, beside revenue, vanity, business, and metrics. His concrete question is whether profit is a business owner's ticket out.
 
 ## Synonyms
 
-- Yeah
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Um what do you see is sort of the the main differences, problems, and needs to kind of realign Yeah. >> when it comes to looking at vanity metrics over your revenue versus profit margins?" — sources/S_yt_8uAolzh0VvU_en.md
-> "And I think I think it is interesting because even you know uh for for for many many people they really you know the the higher you're going to get in that revenue space, it does feel good. >> Yeah." — sources/S_yt_8uAolzh0VvU_en.md
+> "when it comes to looking at vanity metrics over your revenue versus profit margins?" — sources/S_yt_8uAolzh0VvU_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Yeah": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as revenue meaning profit: if you make a dollar you don't make a dollar — profit margins are the real measure of what the business makes.
+- Read as revenue not mattering: the higher you get in revenue space it does feel good — but vanity revenue misleads, so the margins are what to watch.

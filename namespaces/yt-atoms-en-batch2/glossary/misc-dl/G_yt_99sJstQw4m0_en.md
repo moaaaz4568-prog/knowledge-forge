@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [because, misc-dl collection context]
+aka: [Austrian economics]
 origin: sources/S_yt_99sJstQw4m0_en.md
 ---
 
-# G_yt_99sJstQw4m0_en — because
+# G_yt_99sJstQw4m0_en — Austrian economics
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 40 times in the text (whole-word matches, case folded), and the words most often collocated with it are: money, economics, people, austrian. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Austrian economics is one of the heterodox ideas in part four of Nick's iceberg of economics: parts one through three are basically things you would have learned in an economics class, and now we're getting into a little bit more niche and heterodox ideas. Austrian economics, arguably along with Marxist economics, are the two most popular heterodox schools of economics, and they happen to be on the opposite side of the spectrum on capitalism. The phrase appears 13 times in the source, beside economics, inflation, money, and economic. His concrete points are: economics fundamentally is the study of incentives — Freakonomics applies it to things you wouldn't think of, like how abortion becoming legal and more easily accessible after Roe v Wade meant people who would have been born into tougher circumstances, and would have had to pursue a life of crime, were never born. Austrians have really been the first to dive into opportunity cost, and their definition of inflation is just the increase in the quantity of money — against the traditional neoclassical definition, which just uses the CPI. An externality is a side effect of an economic decision, positive or negative: a car seller pollutes the river because it saves him money versus recycling the pollution, the buyer two states away is not affected, but the people who live down the river are.
 
 ## Synonyms
 
-- because
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "tend to have more assets and so some of their assets are going up because of this and therefore the inequality wided so if you had a period of rising interest rates like the 70s you've had massive drops of inequality because asset prices fell" — sources/S_yt_99sJstQw4m0_en.md
+> "Austrian economics arguably along with Marxist economics are the two most popular heterodox schools of economics" — sources/S_yt_99sJstQw4m0_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as mainstream economics: Austrian economics is heterodox, on the opposite side of the spectrum from Marxist economics on capitalism.
+- Read as inflation meaning a CPI change: the Austrian definition of inflation is just the increase in the quantity of money — the CPI version is the traditional neoclassical one.

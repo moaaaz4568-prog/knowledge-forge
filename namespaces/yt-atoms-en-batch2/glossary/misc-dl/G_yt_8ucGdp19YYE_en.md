@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [financial advisor, misc-dl collection context]
+aka: [financial advisor]
 origin: sources/S_yt_8ucGdp19YYE_en.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_yt_8ucGdp19YYE_en.md
 
 ## Term
 
-"financial advisor" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: advisor, financial, well, kind. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A financial advisor is kind of an umbrella term that can mean just about anything: insurance salesmen call themselves financial advisors, private bankers, wealth managers, asset managers, financial planners, a modern version of a traditional stock broker, and a lot of other things in between. Just because somebody says they are a financial advisor doesn't really tell you what they actually do. The term originally came from the decline of high-commission stock brokers: in the 70s and 80s, if you wanted to trade stocks you called a full-service broker, they put on a trade for you, and they got a relatively high commission — up to $50 a trade. The phrase appears 5 times in the source, beside financial, trade, stock, and brokers. His concrete case is the rebrand: stock brokers needed to rebrand, and a lot of other people adopted the term.
 
 ## Synonyms
 
-- financial advisor
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I've seen Insurance salesmen call themselves financial advisors uh private Bankers wealth man managers asset managers financial planners uh a modern version of a traditional stock broker and a lot of other things in between so just because somebody says they are a financial advisor" — sources/S_yt_8ucGdp19YYE_en.md
+> "what is a financial advisor well a financial advisor is kind of an umbrella term that can mean just about anything" — sources/S_yt_8ucGdp19YYE_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "financial advisor": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a protected title: it is an umbrella term anyone can use — the label alone tells you nothing about what they actually do.
+- Read as a modern invention: the term came from the decline of high-commission stock brokers who needed to rebrand.

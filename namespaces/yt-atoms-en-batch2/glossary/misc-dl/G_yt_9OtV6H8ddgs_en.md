@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [easy, misc-dl collection context]
+aka: [difficulty]
 origin: sources/S_yt_9OtV6H8ddgs_en.md
 ---
 
-# G_yt_9OtV6H8ddgs_en — easy
+# G_yt_9OtV6H8ddgs_en — difficulty
 
 ## Term
 
-"easy" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 38 times in the text (whole-word matches, case folded), and the words most often collocated with it are: easy, failure, success, things. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Difficulty is what he tied his willpower to: he began to associate his willpower lever, or his discipline and ambition lever, with difficulty, and over time he developed an association between the success he wanted to achieve and how difficult something is to do. The problem with that is where he started to associate success equals difficult — and by direct comparison, he also started to associate that failure equals easy. The word appears 18 times in the source, beside easy, going, success, and work. The problem with that belief system is that just because something is inherently difficult for you to do, doesn't mean it's the thing that you should do — and just because something is inherently easy for you to do, doesn't mean that it's not difficult for other people, and by definition something that you should use to your advantage. One of the biggest breakthroughs in his career was finally realizing that what is easy for him is not objectively easy, it is subjectively easy. And difficulty, or embracing difficulty, is a finite resource: your unconscious is only going to touch the stove so many times before your nervous system and your body go, "Hey dude, I don't want to do this anymore." If you're an entrepreneur, you're an ambitious person, and you probably have a propensity to work really, really hard — but that has created in you this idea that if you're ever going to achieve what you want to achieve, it is going to come from embracing extraordinarily difficult things.
 
 ## Synonyms
 
-- easy
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But you, because you associate success up the top with difficulty and easy down the bottom with failure, your ramp looks like this." — sources/S_yt_9OtV6H8ddgs_en.md
-> "See, one of the biggest breakthroughs I had in my career is when I finally realized that what is easy for me is not objectively easy, it is subjectively easy." — sources/S_yt_9OtV6H8ddgs_en.md
+> "difficulty or embracing difficulty is a finite resource" — sources/S_yt_9OtV6H8ddgs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "easy": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as difficult meaning right: just because something is inherently difficult for you doesn't mean it's the thing you should do.
+- Read as easy meaning worthless: what is easy for you is not objectively easy, it is subjectively easy — and it is difficult for other people, which is exactly why you should use it to your advantage.

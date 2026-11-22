@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [agency, misc-dl collection context]
+aka: [marketing]
 origin: sources/S_yt_9OWarPdD7Bs_en.md
 ---
 
-# G_yt_9OWarPdD7Bs_en — agency
+# G_yt_9OWarPdD7Bs_en — marketing
 
 ## Term
 
-"agency" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 70 times in the text (whole-word matches, case folded), and the words most often collocated with it are: marketing, owners, life, part. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Marketing, in this episode of Agency Life, is what agencies don't do for themselves: several weeks back, dozens of agency owners and leaders at Inbound — HubSpot's annual conference in Boston — were asked where they'd invest extra budget dollars if they magically had them tomorrow, and the number one place was in marketing their own agency. The word appears 54 times in the source, beside agency, going, out, and about. About 40% of the agencies interviewed said that if they had an extra $10,000 a month, they would put it right into marketing their own agency. The guest is Danielle Foto with Momentum Marketing: she's run her own firm, and now specifically helps other agencies implement the momentum framework to build a repeatable revenue generation system. One agency turned around their floundering marketing efforts and became well known in their niche within just 12 months, after making an important shift. The concrete problem is that agencies are technically skilled, very good at their subject matter — they know what they're doing, how to do it well, how to deliver — but they were not going to market in any sort of industry vertical, and that was really holding them back: they couldn't seem to get any traction in their sales pipeline. Now, because the competitive landscape is so much tougher, you have to be industry-vertical specific — not only the specificity of an industry you serve, but a problem that you solve. And they can't actually get there because they haven't fully operationalized what they need to, to get the leader out of some of the client engagements, to be able to scale and have revenue coming in without all hands on deck all the time.
 
 ## Synonyms
 
-- agency
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "it comes to your go to market motions might be right for you as an agency so how do you see some agencies kind of looking at that mix making those prioritization decisions and I guess any commonalities that you're seeing of you know know" — sources/S_yt_9OWarPdD7Bs_en.md
-> "there was just bringing back you know lots of things from my own experience in agency leadership for sure well it's so true and it's true when it comes to uh documenting systems for managing clients and that's true once you start documenting systems for" — sources/S_yt_9OWarPdD7Bs_en.md
-> "it's a really big help now I did so do we have time for an example oh yeah absolutely so I was just talking with an agency owner and we were talking about how they need to be having conversations with their book of business" — sources/S_yt_9OWarPdD7Bs_en.md
+> "about 40% of agencies that we interviewed if they had an extra 10,000 bucks a month they would put it right into marketing their own agency" — sources/S_yt_9OWarPdD7Bs_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agency": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as marketing meaning client work: agencies market everyone else but not themselves — the number one budget wish is marketing their own agency.
+- Read as just spending money: it is a repeatable revenue generation system — industry-vertical specific, solving a specific problem, with the leader out of client engagements.

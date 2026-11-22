@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [right, misc-dl collection context]
+aka: [AI agents]
 origin: sources/S_yt_94hHJPOxSmw_en.md
 ---
 
-# G_yt_94hHJPOxSmw_en — right
+# G_yt_94hHJPOxSmw_en — AI agents
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 62 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, exactly, right, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+AI agents are what Zapier's AI agent tool lets you build from a single prompt: you don't need to know how to code, you don't need to know anything about automation, and in this video Tom Nasser — who has been doing this for over 5 years — shows a master class on how to build your first agent from scratch, from beginning to end, how to test it, and how to put it live into production. The phrase appears 6 times in the source, beside zapier, ai, search, and slack. The concrete agent in the video works on email: it found 11 emails over the past week with key highlights, positive feedback, direct emails, thank yous, and action items, and the AI by Zapier step has things you can configure — you can choose which model you want to use. Agents and automations can do all of the things on these pages.
 
 ## Synonyms
 
-- right
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Um obviously, that's biting me in the butt right now. >> I mean, I no, I think it helps because again, it's like when you're kind of building it from scratch and walking through it step-by-step." — sources/S_yt_94hHJPOxSmw_en.md
-> "Um inside of the automation platform, I'm really curious to see if this actually works and actually gets built. the AI by Zapier step actually has things that you can configure. >> Right, cuz you can choose like which model you want to use, right?" — sources/S_yt_94hHJPOxSmw_en.md
+> "The easiest way to get started with AI agents is using Zapier's AI agent tool." — sources/S_yt_94hHJPOxSmw_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as needing code: you don't need to know how to code, and you don't need to know anything about automation — the agent is built from a single prompt.
+- Read as a chatbot demo: the agent goes from scratch to tested and live in production, doing real email work with highlights and action items.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [people, misc-dl collection context]
+aka: [prosperity theory]
 origin: sources/S_yt_8rIQ9ekHEtE_en.md
 ---
 
-# G_yt_8rIQ9ekHEtE_en — people
+# G_yt_8rIQ9ekHEtE_en — prosperity theory
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 23 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, longer, moving, cities. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Prosperity theory is the speaker's name for his first idea, the prosperity theory of democratic politics: a city passes policies that promote economic development and growth when it is relatively small, and as it gets more successful it gains prosperity — but that prosperity brings people who vote for redistributionist policies, more leniency on crime, and anti-free-market positions, and the city declines. When a city starts to struggle it reverses: New York in the 80s and 90s elected tough-on-crime leadership and pro-development leadership. The phrase appears 3 times in the source, beside city, politics, growth, and democratic. His concrete case is Los Angeles: a lot of businesses outside the entertainment industry largely left the city and moved their corporate headquarters away.
 
 ## Synonyms
 
-- people
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "of the world and want to solve that through redistribution or it attracts academics or other left leaning mind people come to these cities after their initial gains of prosperity and because of those change of demographics as the city grows the city changes its" — sources/S_yt_8rIQ9ekHEtE_en.md
-> "the only way that people vote for policies that promote development and cleaning up a city is things have to go get bad enough first to demand change and whenever things get good they can't stay good because people will vote for policies they think" — sources/S_yt_8rIQ9ekHEtE_en.md
+> "the first one I call is Prosperity theory of democratic politics" — sources/S_yt_8rIQ9ekHEtE_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a partisan claim about one party: democratic here means democracy in general, not the United States Democratic party.
+- Read as prosperity directly causing decline: the mechanism is the change of demographics and voting patterns that prosperity brings, not prosperity itself.

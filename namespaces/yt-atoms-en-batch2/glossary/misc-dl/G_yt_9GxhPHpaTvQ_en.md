@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [okay, misc-dl collection context]
+aka: [tick tock]
 origin: sources/S_yt_9GxhPHpaTvQ_en.md
 ---
 
-# G_yt_9GxhPHpaTvQ_en — okay
+# G_yt_9GxhPHpaTvQ_en — tick tock
 
 ## Term
 
-"okay" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 83 times in the text (whole-word matches, case folded), and the words most often collocated with it are: actually, offer, customers, solution. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Tick tock is how this source spells TikTok, and tick tock advertising is the mechanism that is currently trending: the market is actually screaming for it, and a lot of founders are literally jumping on it like crazy. If you're interested in learning how you can implement tick tock ads and literally change your life, keep watching this video. The phrase appears 24 times in the source, beside tick, tock, offer, and brands. The concrete contrast is Facebook: if you have yet to be able to do that, it's probably because Facebook has been messing with you — the results are much harder to achieve now — and a lot of the brands, especially in this video, are people selling to e-commerce, store owners. He ran an appointment-setting agency sending a thousand DMs every single day for agencies trying to sell Facebook ads, so he's seen this with his own eyes. His solution is the tick tock offer: for anyone interested, he's going to be offering tick tock consulting, once a week, and teaching the platform, how to run ads, how to create content, how to package it as an offer. For brands that are a bit bigger and need a bit more attention, the best thing is to actually make personalized videos to convert them on a meeting. His measure of success is simple: he just gave the market what they wanted faster than the next guy. And his time horizon is not freedom in 50 years — he doesn't want to be driving Porsches when he's 60, he wants to drive Porsches this summer.
 
 ## Synonyms
 
-- okay
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "not the best in the vehicle to be using to get rich fast okay and um you know you get a lot of people telling you or people trying to sell you stuff and telling you that oh if you want to get rich quick" — sources/S_yt_9GxhPHpaTvQ_en.md
-> "what this person does is that he actually goes in okay if you get brands that are a bit bigger and that need a bit more attention then the best thing to do is to actually make personalized videos to convert them on a meeting" — sources/S_yt_9GxhPHpaTvQ_en.md
-> "by being perfect i just just gave the market what they wanted faster than the next guy okay so if you're interested all i ask you to do is first subscribe okay this is 19 minutes i'm just sitting here all day long okay subscribe" — sources/S_yt_9GxhPHpaTvQ_en.md
+> "one of the mechanisms that is currently you know trending and a lot of founders are literally jumping on it like crazy is tick tock advertising" — sources/S_yt_9GxhPHpaTvQ_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "okay": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just another ad channel: the market is screaming for it, founders are jumping on it like crazy, and Facebook results are much harder to achieve now.
+- Read as a get-rich-quick vehicle: it's not the best vehicle to use to get rich fast — he gave the market what it wanted faster than the next guy.

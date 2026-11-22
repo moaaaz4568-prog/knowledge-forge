@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [color, colors]
+aka: [color]
 origin: sources/S_yt_91hfs2qWAMo_en.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_yt_91hfs2qWAMo_en.md
 
 ## Term
 
-"color" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 23 times in the text (whole-word matches, case folded), and the words most often collocated with it are: psychology, one, right, logo. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Color in logo design and brand design is insanely important, often equally as important as the logo symbol itself, or sometimes even more so. Pretty much everybody has heard of color psychology and the rules attached to that psychology — but do these color rules really mean anything in business and branding? Yes they do, but it can get quite confusing. The word appears 23 times in the source, beside logo, brand, colors, and design. The concrete rundown is: orange is an invigorating, playful color that makes a logo stand out from the crowd and represents positive change or action and energy; red is the universal sign for excitement and passion, but also anger, so it can carry a negative connotation and is a color to use cautiously; yellow is thoughtful, cheerful and energetic, but very loud; green is straightforward because it represents nature, growth and health; and purple represents luxury, sophistication and even royalty, but crucially it is a very feminine color — so Cadbury's branding would appeal more to females.
 
 ## Synonyms
 
-- color
-- colors (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "psychology color theory purple represents luxury sophistication and even royalty but crucially it's a very feminine color so the branding of cadbury would appeal more to females which is great considering a percentage of people who engage with a brand are female but it goes" — sources/S_yt_91hfs2qWAMo_en.md
-> "or apps do use the color blue so we have linkedin twitter facebook behance tumblr and so on but then we have some outliers and one of those is snapchat snapchat decided to go for yellow as their main branding color which for sure makes" — sources/S_yt_91hfs2qWAMo_en.md
+> "how important are colors in logo design or brand design" — sources/S_yt_91hfs2qWAMo_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "color": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as decoration: colors are as important as the logo symbol itself, sometimes even more so.
+- Read as fixed rules: the rules can get quite confusing — red can mean excitement or anger, and purple's feminine read is specific to the brand.

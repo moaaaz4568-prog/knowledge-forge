@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [offer]
 origin: sources/S_yt_9-UeFXA-aZg_en.md
 ---
 
-# G_yt_9-UeFXA-aZg_en — know
+# G_yt_9-UeFXA-aZg_en — offer
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 146 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, know, because, youtube. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The offer is how this speaker makes his money: he runs YouTube channels end to end for other businesses and educational brands, and the offer structure is we run the entire thing — research, strategy, video ideas, scripting, editing, thumbnails, posting. One video per week as their flagship, because YouTube is a quality game, not a quantity game. For that he was charging $5,000 a month, and there is a slightly cheaper offer at $3.5K a month, basically the same offer just without the editing piece. The word appears 29 times in the source, beside clients, business, month, and agency. His concrete numbers show the offer working: from about $100k a month at the start of this year to $475k this month, with over $500k expected next month — a business he started at 18 in his gap year, after being rejected from all the universities he applied to.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And in this video, I just want to reflect on that a little bit, talk about it, what it's like, I suppose, if people are interested, and also like how I'm actually making this money, too, because I'm sure that is, you know, interesting or, you know, that's what most people watching want to know." — sources/S_yt_9-UeFXA-aZg_en.md
-> "Prior to this, we'd only ever uh sold that one agency offer, right, with the different variations and packages of it where if they had an editor, then, you know, they didn't need to buy editing from us because they already have it." — sources/S_yt_9-UeFXA-aZg_en.md
-> "The people who are truly truly good, they obviously charge an arm and a leg for one, but that's not actually the issue for us because, you know, we'd have the budget for it if it was the right person." — sources/S_yt_9-UeFXA-aZg_en.md
+> "The offer structure is we run the entire thing." — sources/S_yt_9-UeFXA-aZg_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as selling editing hours: the offer is running the whole channel end to end, not editing alone — and if a client already has an editor, they don't need to buy editing from him.
+- Read as one fixed price: there are variations and packages of the one agency offer, $5,000 full and $3.5K without editing.

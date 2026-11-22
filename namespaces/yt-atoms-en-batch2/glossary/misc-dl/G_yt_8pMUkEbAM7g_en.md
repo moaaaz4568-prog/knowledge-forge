@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [design, designs]
+aka: [shadow, shadows]
 origin: sources/S_yt_8pMUkEbAM7g_en.md
 ---
 
-# G_yt_8pMUkEbAM7g_en — design
+# G_yt_8pMUkEbAM7g_en — shadow
 
 ## Term
 
-"design" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 20 times in the text (whole-word matches, case folded), and the words most often collocated with it are: skyrocket, common, mistake, visually. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A shadow is one of the five UX/UI design tips in this video, taken from the top-rated UIUX Playbook: a strong rough shadow looks unprofessional and overbearing, so opt for softer shadows that blend well with the background and add just the right amount of depth without overwhelming the design. The second tip about shadows is to match the shadow color to the background behind it — the color matters as much as the softness. The word appears 8 times in the source, beside background, design, soft, and color, with the plural shadows 7 more times. His concrete example is a light purple background: a gray shadow applied to the element in the first case, against a matched shadow in the second.
 
 ## Synonyms
 
-- design
-- designs (variant form used in the source)
+- shadows (plural form of the term, used in the source)
 
 ## Live Example
 
-> "design on the left relies on label and value Fields while this might seem efficient presenting all the information on a page in the same manner results in a lack of visual hierarchy this makes it difficult for users to scan the page and identify" — sources/S_yt_8pMUkEbAM7g_en.md
-> "a lot matching the color of your Shadow to your background can make a huge difference in the aesthetic of your design let's explore this with an example featuring a light purple background in the first case a gray Shadow is applied to the element" — sources/S_yt_8pMUkEbAM7g_en.md
+> "matching the color of your Shadow to your background can make a huge difference in the aesthetic of your design" — sources/S_yt_8pMUkEbAM7g_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "design": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as shadows don't matter: a strong rough shadow makes a UI look unprofessional and overbearing.
+- Read as only softness matters: the color matters too — match the shadow color to the background behind it.

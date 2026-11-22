@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [people, misc-dl collection context]
+aka: [remarkable]
 origin: sources/S_yt_8zcnK6Lx_p4_en.md
 ---
 
-# G_yt_8zcnK6Lx_p4_en — people
+# G_yt_8zcnK6Lx_p4_en — remarkable
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 108 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, like, average, many. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Remarkable is the deciding question for whether an idea spreads, in this conversation with Seth Godin, the Godfather of marketing: the thing that decides what gets talked about, what gets done, what gets purchased, what gets built, is "is it remarkable" — and to be remarkable is to be worth making a remark about. Marketing is creating the conditions for an idea to spread: it spreads because the people you serve benefit from telling their friends, not because you're trying hard to push it out there. The word appears 6 times in the source, beside story, marketing, spread, and idea. His concrete cases are the tiny pizza shop with a line around the block — not because they're good at TikTok, but because they made a pizza worth other people putting on TikTok — and his own blog with a million readers, built without using TikTok, Facebook, or Instagram.
 
 ## Synonyms
 
-- people
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "built an entire world where it was about making average stuff for average people and advertising it like crazy TV became a gold mine TV drove the culture then cable came along so anyone who could build a cable channel that got followers like MTV" — sources/S_yt_8zcnK6Lx_p4_en.md
-> "just have fun with a conversation and see where it goes for people okay so step one the first step is to invent a thing that's worth making with a story wortht telling and a contribution worth talking about and so just to begin if" — sources/S_yt_8zcnK6Lx_p4_en.md
+> "to be remarkable is to be worth making a remark about" — sources/S_yt_8zcnK6Lx_p4_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as remarkable meaning new or creative: being original and creative is overrated — you should copy what works; remarkable means worth making a remark about.
+- Read as marketing meaning pushing: marketing is creating the conditions for an idea to spread, not spam or interrupting people.

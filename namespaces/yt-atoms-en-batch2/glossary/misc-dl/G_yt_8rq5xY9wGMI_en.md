@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [right, misc-dl collection context]
+aka: [guarantee, guarantees]
 origin: sources/S_yt_8rq5xY9wGMI_en.md
 ---
 
-# G_yt_8rq5xY9wGMI_en — right
+# G_yt_8rq5xY9wGMI_en — guarantee
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 45 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, like, blah, qualified. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A guarantee is the money-back promise on an agency offer: either you make back your investment — say the 5k paid in full — or you have your money back, refunding the difference. The call is about changing the guarantee for a client, because the same offer that is amazing and thriving in one niche will bankrupt you in another market: a business making millions a year may take 6 months to close each high-ticket deal, so don't make guarantees in the same model. The word appears 21 times in the source, beside client, money, refund, and investment, with the plural guarantees 4 more times. His concrete case is a client selling AI systems into the Italian construction market, and another in Sicily who never ran ads and wants to target two big regions.
 
 ## Synonyms
 
-- right
-- misc-dl collection context (no variant form of the term appears in this source)
+- guarantees (plural form of the term, used in the source)
 
 ## Live Example
 
-> "I was recently reminded of the most important lesson when it comes to selling AI growth infrastructure is implementing AI systems into companies to help them grow, which is that not every company has the same sales cycle length." — sources/S_yt_8rq5xY9wGMI_en.md
-> "You don't we're going to help you get all these results because you're going to be shooting yourself in the foot and it's not worth it." — sources/S_yt_8rq5xY9wGMI_en.md
+> "the guarantee is either you make back your investment which is let's say the 5k paid in full uh or you have your money back" — sources/S_yt_8rq5xY9wGMI_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee meaning promising results: here the guarantee is money-back — make back your investment or get a refund — not a promise of results.
+- Read as one guarantee fitting all offers: the same offer in a different market with longer sales cycles will bankrupt you, so the guarantee has to change with the market.

@@ -9,19 +9,17 @@ origin: sources/S_yt_8tLUrjFtb9w_en.md
 
 ## Term
 
-"intention" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, simply, lack, actually. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Intention is what the speaker says his subscribers lack: they have so many ideas but never act on them, and the reason you're stuck, the reason you're not moving closer towards your goal, is because you simply lack intention. Intention actually moves the needle — it moves you closer to your goal — and it separates the people that make it from the people that don't. Desire alone creates wasted potential: if all you have is desire but no intention, you're wasting potential. The word appears 12 times in the source, beside day, goal, desire, and grind, with the plural intentions 2 more times. His concrete case is day 14 of becoming a millionaire: today was a chill day with his girlfriend, but he's still laser focused, and tomorrow he'll 2x his output to make up for it.
 
 ## Synonyms
 
-- intention
-- intentions (variant form used in the source)
+- intentions (plural form of the term, used in the source)
 
 ## Live Example
 
-> "all you guys only have is desire but no intention you're creating so much potential that is wasted right you're wasting potential here also intention separates the people that make it and the people that don't make it the people that you see that make" — sources/S_yt_8tLUrjFtb9w_en.md
-> "goals but you guys need intention if you guys have ideas you guys need to act on those ideas you can't keep those ideas just flowing in your mind it's waste your you're wasting excess potential okay so stop thinking and start acting on these" — sources/S_yt_8tLUrjFtb9w_en.md
+> "intention actually moves the needle intention actually moves you closer to your goal" — sources/S_yt_8tLUrjFtb9w_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "intention": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just wanting it: desire without intention is wasted potential — intention is what moves you closer to the goal.
+- Read as grinding 24/7: today was a chill day and he's still laser focused — intention, not constant grinding, keeps him on the goal.

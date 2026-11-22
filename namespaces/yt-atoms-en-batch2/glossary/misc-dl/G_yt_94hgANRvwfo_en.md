@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [design, designs]
+aka: [design]
 origin: sources/S_yt_94hgANRvwfo_en.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_yt_94hgANRvwfo_en.md
 
 ## Term
 
-"design" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 20 times in the text (whole-word matches, case folded), and the words most often collocated with it are: see, human, side, design. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Design, in this video, is not just the process of producing something: it is an act of prudence, and AI is not a player in this field at all. AI is encroaching on design work — you see the incredible designs it generates in seconds, the interfaces it creates in minutes, and the voice in your head tells you that you will be replaced. But for every skill that AI has, there are deeper human abilities that it can't even come close to matching, skills that outstanding designers have been using for decades to create work that is engaging, persuasive, and has real meaning. The word appears 20 times in the source, beside ai, human, real, and process. His concrete case is the machine itself: AI is a real beast — it gives speed, volume, and a level of consistency that no human can match, churning out hundreds of concepts and visual solutions faster than you can finish your iced macchiato. It can generate options, but it doesn't have its own opinion; it may imitate patterns, but it has no real purpose or substance. What follows is about the power of deep criticism and conscious iteration: AI can generate variants, but a human designer iterates with real memory.
 
 ## Synonyms
 
-- design
-- designs (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is the accumulated experience of a graphic designer that you gain by working in the design world." — sources/S_yt_94hgANRvwfo_en.md
-> "It requires thinking, and it's something I keep coming back to on this channel, because if you're serious about design, it's going to be a huge part of your future." — sources/S_yt_94hgANRvwfo_en.md
+> "Design is an act of prudence, and AI is not a player in this field at all" — sources/S_yt_94hgANRvwfo_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "design": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as design meaning producing something: it is a mistake to think design is just the process of producing something — it is an act of prudence, and it requires thinking.
+- Read as AI replacing designers: AI has speed, volume, and consistency no human can match, but it has no opinion, no purpose, and no substance — the human abilities are deeper.
