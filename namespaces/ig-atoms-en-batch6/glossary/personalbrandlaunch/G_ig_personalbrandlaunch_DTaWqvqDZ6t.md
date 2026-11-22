@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [Person, personalbrandlaunch account context]
+aka: [storytelling]
 origin: sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
 ---
 
-# G_ig_personalbrandlaunch_DTaWqvqDZ6t — Person
+# G_ig_personalbrandlaunch_DTaWqvqDZ6t — storytelling
 
 ## Term
 
-"Person" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: storytelling, story, stories, videos. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Storytelling here is a craft with rules, not a talent: Person B chooses one small story from seven main storytelling types of shorts, tells what happened, and builds it on the hook-value-CTA structure. The word appears 8 times, beside hook-value-CTA, visuals, B-roll, and formats, and the whole video is a contrast between Person A, who tells one long broad story with no visuals, and Person B, who does the opposite. Her concrete case is the filming choice: Person B sits and talks to the camera, or uses one of three formats for storytelling content, while Person A films with no visuals at all. The difference the video teaches is selection — one small story, told with structure and visuals, beats one long story told bare.
 
 ## Synonyms
 
-- Person
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What's the difference between telling a story and storytelling? Person A: I focus on one long and broad story. Person B: I choose one small story to focus on from one of these seven main storytelling types of shorts. Person A: And how do you write the details for these stories? Person B: I tell what happened. Person A: I like to show what happened. Person A: How do you write out the whole story?" — sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
-> "Person B: My stories use the hook-value-CTA structure. My scripts use storytelling structures. Visually, how do you like to showcase these stories? Person A: My storytelling videos don't use any visuals. Person B: My videos include a ton of visuals—past images, past videos, B-roll, all of the above. Person A: How do you film your storytelling videos?" — sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
-> "Person B: I film my storytelling videos just sitting down and talking to the camera. Person A: I film my storytelling videos with one of these three formats. These are the best ones for storytelling type content." — sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
+> "What's the difference between telling a story and storytelling?" — sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
+> "Person B: My stories use the hook-value-CTA structure." — sources/S_ig_personalbrandlaunch_DTaWqvqDZ6t.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Person": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as 'just tell stories': the video's Person B follows a structure — one small story, hook-value-CTA, visuals — and Person A, who just tells a story, is the losing example.
+- Read as a single format: Person B names three formats for storytelling content, so the structure is fixed while the filming format varies.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [reaction video, personalbrandlaunch account context]
+aka: [reaction video]
 origin: sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
 
 ## Term
 
-"reaction video" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: video, bad, reaction, reacts. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A reaction video is a video reacting to a viral outlier with a professional opinion or advice added — and the difference between a good one and a bad one is whether any value is added at all. The phrase appears 4 times, beside reaction format, viral outlier, and professional opinion, and the bad version is defined first: reacting without giving too much actual input or additional value. Her concrete case is self-criticism: she admits she has fumbled this herself before, and learned her lesson, before defining the good version. The format is the reason all the example videos went viral across different niches — the reaction is the vehicle, and the professional input is the cargo.
 
 ## Synonyms
 
-- reaction video
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "All these videos went viral for the same reason, but they're in all different niches. Because of the reaction format. This is when you find a viral outlier in your niche, film a video reacting to it, and give your professional opinion slash advice. But what's the difference between a good reaction video and a bad reaction video?" — sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
-> "A bad reaction video reacts to a viral video without giving too much actual input or additional value. Guys, I fumbled on this—I'm totally calling myself out here. I've done this before, but I've learned my lesson. A good reaction video reacts and then after or during the reaction gives a professional opinion or valuable advice. For example..." — sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
+> "All these videos went viral for the same reason, but they're in all different niches. Because of the reaction format." — sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
+> "A bad reaction video reacts to a viral video without giving too much actual input or additional value." — sources/S_ig_personalbrandlaunch_DURE23eDYdp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "reaction video": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as reacting is enough: the source's whole distinction is that a reaction without added opinion or advice is the bad version — the reaction alone is not the content.
+- Read as a single niche's trick: the examples span all different niches, so the format travels — the outlier is found in your niche, but the move is general.

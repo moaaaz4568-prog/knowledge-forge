@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [content, personalbrandlaunch account context]
+aka: [low-effort content]
 origin: sources/S_ig_personalbrandlaunch_DTSpxgLjes5.md
 ---
 
-# G_ig_personalbrandlaunch_DTSpxgLjes5 — content
+# G_ig_personalbrandlaunch_DTSpxgLjes5 — low-effort content
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: post, make, unscripted, content. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Low-effort content is the losing side of Ava's side-by-side: one creator posts it and stalls at a thousand followers after a hundred posts, while the other posts high-effort content and reaches a hundred thousand. The phrase appears once, beside unscripted, trends, entertainment, and aesthetic content, and the low-effort side is defined by speed — five to ten minutes per video — against one to three hours for the other side. Her concrete case is the simple formula behind it: trending audio plus B-roll plus text, or a plain talking video, made for the creator rather than the viewer. The contrast is deliberate: low-effort is not a style here, it is the reason the first creator's hundred posts went nowhere.
 
 ## Synonyms
 
-- content
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We both posted a hundred times on Instagram, but I only have a thousand followers and I have one hundred thousand. Here's why. My content is unscripted. My content is scripted. I post low-effort content that gets views like trends, entertainment, and aesthetic content. I post high-effort educational and storytelling content. Each video takes me like five to ten minutes to create." — sources/S_ig_personalbrandlaunch_DTSpxgLjes5.md
-> "I double down on my best performing hooks, topics, and formats that do well on my page. I never use CTAs. Not desperate. I use follow CTAs on seventy-five percent of my videos. I make content for myself. I make content for the viewer. Follow more social media marketing education." — sources/S_ig_personalbrandlaunch_DTSpxgLjes5.md
+> "I post low-effort content that gets views like trends, entertainment, and aesthetic content." — sources/S_ig_personalbrandlaunch_DTSpxgLjes5.md
+> "I post high-effort educational and storytelling content." — sources/S_ig_personalbrandlaunch_DTSpxgLjes5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as 'easy content never works': the low-effort creator still gets views from trends; what fails is follower growth, because nothing in the videos is made for the viewer.
+- Read as a call to spend hours on every video: the high-effort side takes one to three hours per video, but the source never says every post must be that heavy — it says effort is what separates the two outcomes.

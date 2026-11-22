@@ -1,8 +1,9 @@
 # Index — glossary/ (ig-atoms-en-batch6)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,147 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch6): one G_ entry per T_ atom file — 3,876 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,142 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 195 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 Chunk 1 rebuild (2026-11-22, lines 1501-1550 of ig-batch6-list.txt): 50 files rebuilt in place (16 onlyzita + 34 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
+Chunk ig-batch6-part3-1 (2026-11-22): 50 G_ files rebuilt in place (list codes 3001-3050, all personalbrandlaunch); self-check 50/50, 98 live examples byte-exact; gates 100 entities 0 rejected (sparse checkout — chunk files only; full-namespace gates 7752 entities 0 rejected on the builder full clone).
 
 Chunk 2 rebuild (2026-11-22, lines 1551-1600 of ig-batch6-list.txt): 50 files rebuilt in place (50 optimizedjake); self-check 50/50; gates 7752 entities, 0 rejected.
 
@@ -3009,55 +3010,55 @@ Chunk 2 rebuild (2026-11-22, lines 1551-1600 of ig-batch6-list.txt): 50 files re
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTFvUC0jex3.md | value | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTGRmTWDSuH.md | video | 1 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTI15zuFyOq.md | niches | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTIUn7kjrxk.md | Speaker | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTIUn7kjrxk.md | iceberg effect | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTK4BK7Dk54.md | transcribed | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTLZV5Hjqvy.md | video | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTNdtFYDk8-.md | content | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTOIHlbl6Fw.md | to-do list | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTQDF6VDdlz.md | Step number | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTQn-wADgWl.md | thousand followers | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTSpxgLjes5.md | content | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTTJ3EKDJHB.md | content | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTVMBy7kTZU.md | number | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTXwzt3EY7j.md | Step number | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DT_A4WRjBr7.md | Step number | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTa5OaZj-rB.md | work | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTaWqvqDZ6t.md | Person | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTc6b8wDaRw.md | things | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTda8l0jup0.md | niche | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTf-DTXjm1w.md | bridge hooks | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTffCwAjft6.md | women | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTiEjxkDd_v.md | really well | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTinhgmj34y.md | hooks | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTkpIaeDUne.md | business | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTnNpZCFfeV.md | pin number | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTpydbvFeqg.md | Batch | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTs4a64D5sz.md | attractive | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTsXPYvjYyM.md | highlight | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTu8V0zDXRT.md | Two | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTvg_I3j0AV.md | content | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTx_-g4jwzv.md | time | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTxg4KDjfdx.md | Video | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU-xsDgDUCQ.md | shot | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU03Daujn1V.md | content like | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU0dm8qDflf.md | secret room | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU3Ch2gjjBE.md | CTA | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU5nfMjjazR.md | hooks | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU8MTFrDqMh.md | educational video | 1 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTLZV5Hjqvy.md | viral video | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTNdtFYDk8-.md | personal brand | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTOIHlbl6Fw.md | to-do list | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTQDF6VDdlz.md | Competitive Insights | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTQn-wADgWl.md | CTA | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTSpxgLjes5.md | low-effort content | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTTJ3EKDJHB.md | personal brand | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTVMBy7kTZU.md | series | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTXwzt3EY7j.md | outliers | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DT_A4WRjBr7.md | onboarding | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTa5OaZj-rB.md | niches | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTaWqvqDZ6t.md | storytelling | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTc6b8wDaRw.md | rush | 1 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTda8l0jup0.md | niche | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTf-DTXjm1w.md | bridge hooks | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTffCwAjft6.md | double down | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTiEjxkDd_v.md | structure | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTinhgmj34y.md | comparison hooks | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTkpIaeDUne.md | founder story | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTnNpZCFfeV.md | pinned post | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTpydbvFeqg.md | batch | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTs4a64D5sz.md | double down | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTsXPYvjYyM.md | highlight | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTu8V0zDXRT.md | script structure | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTvg_I3j0AV.md | connected reach | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTx_-g4jwzv.md | viral outlier | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DTxg4KDjfdx.md | CPS | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU-xsDgDUCQ.md | cuts | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU03Daujn1V.md | top of funnel | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU0dm8qDflf.md | deep work | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU3Ch2gjjBE.md | CTA | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU5nfMjjazR.md | comparison hooks | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DU8MTFrDqMh.md | templated | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUBAUHqDcmK.md | script structures | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUBvyjLEtFF.md | social media | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUDi_x3DT-c.md | one | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUEEpU0lg91.md | use | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUGHeJ6DnMT.md | stories three | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUGpPwPDtrf.md | script film | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUIsobpjv4C.md | flag | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUJLN4yDrSA.md | character | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DULQxaQkVun.md | hook | 1 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUN1f00ERqy.md | comparison | 3 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUQa8NpDs9k.md | script | 1 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUBvyjLEtFF.md | real estate | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUDi_x3DT-c.md | paid | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUEEpU0lg91.md | four-line framework | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUGHeJ6DnMT.md | stories | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUGpPwPDtrf.md | batch | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUIsobpjv4C.md | red flag | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUJLN4yDrSA.md | talking back and forth | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DULQxaQkVun.md | ugly hook | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUN1f00ERqy.md | comparison hook | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUQa8NpDs9k.md | script | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DURE23eDYdp.md | reaction video | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUS_nwFDfGZ.md | video | 2 |
-| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUThx5lEei1.md | seconds | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUS_nwFDfGZ.md | format stacking | 2 |
+| glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUThx5lEei1.md | storytelling videos | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUVkDJLDtqM.md | ratio | 1 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUWRwyCAN6K.md | three seconds | 2 |
 | glossary/personalbrandlaunch/G_ig_personalbrandlaunch_DUY1bhzD3eA.md | video | 2 |

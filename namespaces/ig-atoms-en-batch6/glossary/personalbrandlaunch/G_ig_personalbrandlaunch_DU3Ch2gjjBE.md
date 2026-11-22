@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [CTA, personalbrandlaunch account context]
+aka: [CTA]
 origin: sources/S_ig_personalbrandlaunch_DU3Ch2gjjBE.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_personalbrandlaunch_DU3Ch2gjjBE.md
 
 ## Term
 
-"CTA" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: freebie, follow, paid, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A CTA is one of three kinds here — follow, freebie, or paid offer — repeated three times in the same breath so the viewer can tell them apart. The abbreviation appears 11 times, beside follow, freebie, paid offer, and templates, and the whole video is the distinction: each CTA is named, then named again, then named a third time. Her concrete case is the close: comment CTA and she will send high-converting CTA templates for use in videos. The three kinds are the lesson — a follow CTA asks for the follow, a freebie CTA gives something away, and a paid offer CTA sells — and mixing them up would blur what the viewer is being asked to do.
 
 ## Synonyms
 
-- CTA
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is a follow CTA, this is a freebie CTA, and this is a paid offer CTA. This is a follow CTA, this is a freebie CTA, and this is a paid offer CTA. This is a follow CTA, this is a freebie CTA, and this is a paid offer CTA. Come in comment CTA if you want high-converting CTA templates that you can use in your videos." — sources/S_ig_personalbrandlaunch_DU3Ch2gjjBE.md
+> "This is a follow CTA, this is a freebie CTA, and this is a paid offer CTA." — sources/S_ig_personalbrandlaunch_DU3Ch2gjjBE.md
+> "Come in comment CTA if you want high-converting CTA templates that you can use in your videos." — sources/S_ig_personalbrandlaunch_DU3Ch2gjjBE.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "CTA": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as one generic call to action: the video's point is that follow, freebie, and paid offer CTAs are different asks, and each belongs in a different moment.
+- Read as a template giveaway: the templates are the offer at the end, not the lesson — the lesson is the three-way distinction itself.

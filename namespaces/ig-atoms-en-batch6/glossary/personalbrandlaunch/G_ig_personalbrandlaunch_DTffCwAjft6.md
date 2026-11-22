@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [women, personalbrandlaunch account context]
+aka: [double down]
 origin: sources/S_ig_personalbrandlaunch_DTffCwAjft6.md
 ---
 
-# G_ig_personalbrandlaunch_DTffCwAjft6 — women
+# G_ig_personalbrandlaunch_DTffCwAjft6 — double down
 
 ## Term
 
-"women" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: attractive, makes, faces, indian. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To double down is the second of three principles behind one creator's lopsided success: when a hook format or topic performs well, recreate it over and over again. The phrase appears once, beside hyper-educational, dumb-down, and unaware hook, and it sits between the first principle — every video packed with measurable, tangible value — and the third, making content a fifth-grader can understand. Her concrete case is the question-hook run: what makes Italian men's faces so attractive, Danish women's, Indian women's — the same topic and format, repeated because it worked. Doubling down here means repeating the winner, not repeating everything: the creator's other videos do not get the same treatment.
 
 ## Synonyms
 
-- women
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What makes Danish women's faces so attractive? What makes Indian women's faces so attractive? And same for these types of question hooks. Do you prefer this man with or without a beard? Which of these women is Indian and which one is French? If you look at these two women, who would you say is more likely to be wealthy? Which of these three women do you find most attractive?" — sources/S_ig_personalbrandlaunch_DTffCwAjft6.md
-> "If you had to guess, would you say that relationships are better when the man is better-looking than the woman or when the woman is better-looking than the man? Do men even like lip fillers, or is this something that women get for other women? Every video they script is made so a fifth-grader can understand the entire thing. Try and apply these principles to your videos and follow..." — sources/S_ig_personalbrandlaunch_DTffCwAjft6.md
+> "Number two, double down. When the top creators have a video hook format or topic that performs well, they recreate it over and over again." — sources/S_ig_personalbrandlaunch_DTffCwAjft6.md
+> "For example, their best-performing videos all follow the same topic/format that has worked really well for them." — sources/S_ig_personalbrandlaunch_DTffCwAjft6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "women": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as posting the same video twice: doubling down recreates the winning hook format or topic in new videos — the source never suggests re-uploading one video unchanged.
+- Read as a shortcut around value: the first principle is hyper-educational value in every video, so doubling down only works on videos that already deliver it.

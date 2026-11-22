@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [shot, shots]
+aka: [cuts]
 origin: sources/S_ig_personalbrandlaunch_DU-xsDgDUCQ.md
 ---
 
-# G_ig_personalbrandlaunch_DU-xsDgDUCQ — shot
+# G_ig_personalbrandlaunch_DU-xsDgDUCQ — cuts
 
 ## Term
 
-"shot" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: shot, above, below, close. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cuts are the lever in this proof: more cuts equal more engagement, shown twice with the same topic filmed two ways, where the version with more cuts always got more views. The word appears 3 times, beside engagement, retention, shots, and the shot list — medium, close, above, below, and long. Her concrete case is the rule of thumb that follows: optimize your video every two seconds by switching shots to hold retention. The advice is shot variety, not chaos — different shots, not random ones, are what the proof credits.
 
 ## Synonyms
 
-- shot
-- shots (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Try and use different shots to get more retention. You can do medium shot, close shot, above shot, below shot, long shot, and so many more. Follow for more social media marketing education." — sources/S_ig_personalbrandlaunch_DU-xsDgDUCQ.md
+> "More cuts equal more engagement. Let me prove it." — sources/S_ig_personalbrandlaunch_DU-xsDgDUCQ.md
+> "One more time, same exact topic, but which one got more views? The one with more cuts." — sources/S_ig_personalbrandlaunch_DU-xsDgDUCQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "shot": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as 'cut as fast as possible': the rule is a different shot every two seconds, not a cut every frame — the proof compares more cuts against fewer, not maximum cuts against all.
+- Read as a claim about topics: both versions use the same exact topic, so the topic is controlled for and the cuts are the only difference.

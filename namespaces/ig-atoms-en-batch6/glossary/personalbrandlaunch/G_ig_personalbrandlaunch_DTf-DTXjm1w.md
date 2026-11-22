@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [bridge hooks, personalbrandlaunch account context]
+aka: [bridge hooks]
 origin: sources/S_ig_personalbrandlaunch_DTf-DTXjm1w.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_personalbrandlaunch_DTf-DTXjm1w.md
 
 ## Term
 
-"bridge hooks" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: called, hooks, videos, bridge. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Bridge hooks are mini-hooks inside a video that connect its parts: MrBeast uses them to move between teams, pilots, and a city takeover, keeping the viewer hooked through each jump. The phrase appears twice, beside mini-hooks, curiosity, interest, and desire, and the definition is given in plain words — basically like mini-hooks in your videos to connect different parts. Her concrete case is the private-jet pilot line: one of these pilots is winning that private jet, dropped mid-video to create curiosity about what comes next. Their main job is double: help the script flow and keep people watching, so a bridge hook is judged by whether the viewer stays, not by whether it opens the video.
 
 ## Synonyms
 
-- bridge hooks
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. I'll focus strictly on the spoken parts and keep them in English as requested." — sources/S_ig_personalbrandlaunch_DTf-DTXjm1w.md
+> "MrBeast uses what's called bridge hooks in his videos." — sources/S_ig_personalbrandlaunch_DTf-DTXjm1w.md
+> "Bridge hooks are basically like mini-hooks in your videos to connect different parts." — sources/S_ig_personalbrandlaunch_DTf-DTXjm1w.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bridge hooks": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as opening hooks: bridge hooks sit inside the video between parts — the opening hook is a different job, and this source never confuses the two.
+- Read as a MrBeast-only trick: MrBeast is the example, but the definition is general — any video can use mini-hooks to connect parts and hold curiosity.

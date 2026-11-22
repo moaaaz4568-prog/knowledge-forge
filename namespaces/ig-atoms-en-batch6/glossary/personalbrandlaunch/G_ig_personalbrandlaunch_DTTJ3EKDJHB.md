@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [content, personalbrandlaunch account context]
+aka: [personal brand]
 origin: sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
 ---
 
-# G_ig_personalbrandlaunch_DTTJ3EKDJHB — content
+# G_ig_personalbrandlaunch_DTTJ3EKDJHB — personal brand
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: types, three, number, educational. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A personal brand is built, not collected: creator number two gets consistent results because they built one, while creator number one, chasing a following, gets fluctuating results. The phrase appears 4 times, beside following, educational, storytelling, and authority, and the video answers its own opening question — aren't they the same thing? — with a flat no. Her concrete case is the three content types: educational content about your niche, storytelling about you and your business, and authority content with social proof and results. Mixing all three is the mechanism; posting only one of them is exactly how you stay creator number one.
 
 ## Synonyms
 
-- content
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To build a personal brand, you want to be posting these three main types of content. Number one is educational, which is value-driven content about your niche. There are six main types of educational content that you can post. Okay, got it. Number two is storytelling content. Personal stories about you and your business. Here are some of my favorite storytelling structures." — sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
-> "What's the last one? Number three is authority content, social proof and results-focused content that establishes you as the expert. Here are some of my favorite ways to create these types of videos. So what's the point of these three types of content?" — sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
-> "If you focus on just one of these types of content, that's how you become creator number one. But if you mix them all, that's how you become creator number two. Oh my gosh, that is so smart. Where'd you even learn this? Oh, I follow Ava. She talks about social media marketing. Education." — sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
+> "Wait, are you building a following or a personal brand?" — sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
+> "Creator number two gets consistent results because they built a personal brand." — sources/S_ig_personalbrandlaunch_DTTJ3EKDJHB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rebrand of 'following': the source insists they are different things — a following fluctuates, a personal brand holds steady because people know the creator.
+- Read as a content calendar: the three types are a mix to rotate, not three separate accounts or three separate audiences.

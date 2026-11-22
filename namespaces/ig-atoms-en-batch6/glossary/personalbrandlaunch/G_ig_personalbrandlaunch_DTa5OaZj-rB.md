@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [work, personalbrandlaunch account context]
+aka: [niches, niche]
 origin: sources/S_ig_personalbrandlaunch_DTa5OaZj-rB.md
 ---
 
-# G_ig_personalbrandlaunch_DTa5OaZj-rB — work
+# G_ig_personalbrandlaunch_DTa5OaZj-rB — niches
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: formats, video, structures, best. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this dialogue version, niches are again the three categories a creator's topic falls into — visual, verbal, and product — and the format that works depends on which one you are. The plural niches appears 7 times, beside categories, visual, verbal, and product, while the singular niche appears twice, and the back-and-forth keeps testing the idea: 'Prove it,' says the second voice. Her concrete case is the verbal bucket: niches you hear in order to learn, where tutorials, tips/hacks, and right-versus-wrong work best, and where clone, talking back and forth, and whiteboard are the formats. The same three-way split as the solo version, retold as a conversation so each category gets challenged before it is accepted.
 
 ## Synonyms
 
-- work
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- niche (singular form, used twice in the source)
 
 ## Live Example
 
-> "Got it! Let's dive right into the transcript." — sources/S_ig_personalbrandlaunch_DTa5OaZj-rB.md
-> "[...skipping repetitive lines for brevity...]" — sources/S_ig_personalbrandlaunch_DTa5OaZj-rB.md
+> "Category number one: visual niches. These are niches that you see visually to learn." — sources/S_ig_personalbrandlaunch_DTa5OaZj-rB.md
+> "Category number two is verbal niches. These are niches that you hear verbally to learn." — sources/S_ig_personalbrandlaunch_DTa5OaZj-rB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as three kinds of creators: the categories describe niches, not people — a visual service business and an info-niche coach are examples, not fixed identities.
+- Read as a script to memorize: the dialogue is a teaching device; the takeaway is matching formats to your niche's category, not reciting the exchange.

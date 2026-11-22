@@ -9,20 +9,18 @@ origin: sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
 
 ## Term
 
-"highlight" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: click, add, recommend, posting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A highlight is one of the five fixed shelves on a profile: welcome or start here, reviews or results, packages or offers, tips or hacks, and FAQ. The singular highlight appears 14 times, beside welcome, reviews, packages, tips, and FAQ, while the plural highlights appears 3 times for the set as a whole, and the formula has three steps — create the five, add stories to each, then add covers. Her concrete case is the reviews shelf: client or personal before-and-after images showing results, posted as stories into the highlight. Covers are made in Canva and edited in Instagram, so the highlight is treated as a designed storefront, not a leftover pile of stories.
 
 ## Synonyms
 
-- highlight
-- highlights (variant form used in the source)
+- highlights (plural form, used 3 times in the source)
 
 ## Live Example
 
-> "Here's the perfect highlights formula. Step number one is create the five main highlights. To create a highlight you want to go to your profile, click plus new, select any stories you want to add to your highlight, click next, name highlight, and click add. Using that process you can create these five highlights. Step number two, add stories to each highlight." — sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
-> "For your tips/hacks highlight, post random one-off niche tips/hacks. For the FAQ highlight, this one is optional. Find and answer common questions you get in your comment section. Step number three, add highlight covers. To create them, go into Canva and search highlight covers. Choose a template, edit them to be your own, and download them." — sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
-> "To edit the highlight covers in Instagram, click the highlight, click the three dots, click edit highlight." — sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
+> "Step number one is create the five main highlights." — sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
+> "To create a highlight you want to go to your profile, click plus new, select any stories you want to add to your highlight, click next, name highlight, and click add." — sources/S_ig_personalbrandlaunch_DTsXPYvjYyM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "highlight": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as five random story collections: each highlight has a set job — welcome, proof, offer, tips, questions — and the FAQ one is even marked optional.
+- Read as automatic: highlights are built by hand — create, name, add stories, then design covers in Canva — nothing in the source fills them for you.

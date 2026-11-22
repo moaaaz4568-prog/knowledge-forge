@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [hook, hooks]
+aka: [ugly hook]
 origin: sources/S_ig_personalbrandlaunch_DULQxaQkVun.md
 ---
 
-# G_ig_personalbrandlaunch_DULQxaQkVun — hook
+# G_ig_personalbrandlaunch_DULQxaQkVun — ugly hook
 
 ## Term
 
-"hook" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ugly, pretty, hook, difference. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An ugly hook is Ava's name for a hook that works without looking good: not aesthetic, quote-unquote, but effective on the exact same topic as a pretty, ineffective one. The phrase appears once, beside pretty hook, Roth IRA, aesthetic, and effective, and the example is the Roth IRA hook — everyone says invest in 2025, but no one shows how — set against a prettier version of the same topic. Her concrete case is the admission tucked inside: her own hooks are mostly ugly ones, so the label is self-applied, not an insult aimed at others. Ugly here measures looks, not quality — the hook is judged by whether it works, and the pretty one fails that test.
 
 ## Synonyms
 
-- hook
-- hooks (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's a difference between a pretty hook and an ugly hook. This is a pretty but ineffective hook. This is an ugly but effective hook about the exact same topic. Everyone tells you to invest in a Roth IRA in 2025, but no one actually shows you how to do it." — sources/S_ig_personalbrandlaunch_DULQxaQkVun.md
+> "There's a difference between a pretty hook and an ugly hook." — sources/S_ig_personalbrandlaunch_DULQxaQkVun.md
+> "This is an ugly but effective hook about the exact same topic." — sources/S_ig_personalbrandlaunch_DULQxaQkVun.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hook": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as 'make ugly videos': the ugliness is in the hook's wording and looks, not the video — the source never says to film badly or skip production quality.
+- Read as a roast of other creators: Ava says her own hooks are ugly too, so the label is a working style she claims for herself, not a judgment of others.

@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [hooks, hook]
+aka: [comparison hooks, comparison hook]
 origin: sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
 ---
 
-# G_ig_personalbrandlaunch_DU5nfMjjazR — hooks
+# G_ig_personalbrandlaunch_DU5nfMjjazR — comparison hooks
 
 ## Term
 
-"hooks" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hooks, ranking, rating, cost. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Comparison hooks open Ava's hundred-hooks-in-sixty-seconds sprint: specific comparisons — taste, activity, price, product, time, metric — with popular templates and one-off hooks to present them. The plural phrase appears once, beside taste, price, metric, and tutorial, while the singular comparison hook appears once more in the templates, and the sprint then races through tutorial, transformation, educational, mistakes, tier list, rating, ranking, and cost breakdown hooks. Her concrete case is the comparison menu itself — six kinds of comparison named in one breath — before the clock runs out and she admits to being three seconds over. The video is a timed catalog: it shows that a hundred hooks can be listed in a minute, not that any one of them is taught here.
 
 ## Synonyms
 
-- hooks
-- hook (variant form used in the source)
+- comparison hook (singular form, used once in the source)
 
 ## Live Example
 
-> "Can you teach me 100 viral hooks in 60 seconds? Uh... ready, set, go! Start with comparison hooks. Uh, fine. You can do specific comparisons like taste comparisons, activity comparisons, price comparisons, product comparisons, time comparisons, metric comparisons. And then there's also popular comparison hook templates you can use. And here are some one-off ones that I found as well." — sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
-> "you can use. And here are some one-off ones that I found as well. Okay, now tutorial hooks. Here's some popular tutorial hook templates, and here's some good viral one-off ones I found as well. Transformation hooks. Here's some hooks when you share your own personal before and after, and here's some good hook templates for when you share customer/client transformations." — sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
-> "ou have tier list hooks, rating hooks, ranking hooks, cost breakdown hooks, and then also throwing in some challenge type hooks, and lastly here's some storytelling hooks that are pretty solid. Wow, that was impressive, but... You're over by three seconds. Do you have these all written down?" — sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
+> "Uh... ready, set, go! Start with comparison hooks." — sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
+> "You can do specific comparisons like taste comparisons, activity comparisons, price comparisons, product comparisons, time comparisons, metric comparisons." — sources/S_ig_personalbrandlaunch_DU5nfMjjazR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hooks": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a hundred-hook course: the sprint lists hook families against a sixty-second clock and ends three seconds over — no hook is explained, only named.
+- Read as 'comparisons are one hook': comparison hooks are a family with six comparison kinds inside it, each with its own templates.

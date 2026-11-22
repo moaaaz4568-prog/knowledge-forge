@@ -9,19 +9,18 @@ origin: sources/S_ig_personalbrandlaunch_DTI15zuFyOq.md
 
 ## Term
 
-"niches" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: niches, category, number, visual. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, niches is the word Ava uses for the three buckets every creator's topic falls into: visual, verbal, and product, each learned a different way — seen, heard, or both at once. The plural niches appears 7 times, beside categories, visual, verbal, and product, while the singular niche appears twice. Her concrete case is the visual bucket: niches you see in order to learn, matched with tutorials, testimonials, and tips/hacks as the structures that work for them. The point of the split is practical, not taxonomic — the category decides which video formats will work better for that creator.
 
 ## Synonyms
 
-- niches
-- niche (variant form used in the source)
+- niche (singular form, used twice in the source)
 
 ## Live Example
 
-> "Got it. Here's the raw transcript of what was said:" — sources/S_ig_personalbrandlaunch_DTI15zuFyOq.md
-> "Honestly, that last bit sounds like someone trying way too hard to be trendy." — sources/S_ig_personalbrandlaunch_DTI15zuFyOq.md
+> "Everybody has a niche on social media. But did you know your niche falls into one of three categories?" — sources/S_ig_personalbrandlaunch_DTI15zuFyOq.md
+> "Category number one: visual niches. These are niches that you see in order to learn." — sources/S_ig_personalbrandlaunch_DTI15zuFyOq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "niches": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a niche-picking method: the source sorts existing niches into three kinds; it never tells the viewer how to choose or find a niche in the first place.
+- Read as a hard rule about formats: tutorials, testimonials, and tips/hacks are the structures that work well for these niches here, not the only formats any niche may use.

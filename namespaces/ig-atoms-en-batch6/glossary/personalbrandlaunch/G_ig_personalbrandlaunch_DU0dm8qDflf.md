@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [secret room, personalbrandlaunch account context]
+aka: [deep work]
 origin: sources/S_ig_personalbrandlaunch_DU0dm8qDflf.md
 ---
 
-# G_ig_personalbrandlaunch_DU0dm8qDflf — secret room
+# G_ig_personalbrandlaunch_DU0dm8qDflf — deep work
 
 ## Term
 
-"secret room" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: room, secret, ben, inside. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Deep work is the long, locked-in stretch inside Ava's diary-style week two: one of the best five-hour deep work sessions of her life, after skipping a workout so she would not have to worry about working out. The phrase appears once, beside diary-style, documenting, weekly life, and lock in, and the vlog is explicitly not optimized for the algorithm — it documents the week as it happened. Her concrete case is the trade-off around it: two workouts the day before, none today, so the whole day can be spent sitting down and locking in. The session is presented as a feeling — really, really good — not as output, so the video shows the experience of deep work rather than measuring it.
 
 ## Synonyms
 
-- secret room
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm gonna start documenting my weekly life as a married 20-year-old who built a multi-million dollar company from the ground up. Kind of in a diary-style format, not optimized for the algorithm, but just to show the journey. This is week two. I feel like I say 'no' all the time..." — sources/S_ig_personalbrandlaunch_DU0dm8qDflf.md
-> "to opportunities, to employees, because of like decisions that were things they think like are good changes for the company, but I don't blame them because they don't have the full picture. I just feel bad." — sources/S_ig_personalbrandlaunch_DU0dm8qDflf.md
+> "I probably just had one of the best five-hour deep work sessions of my life." — sources/S_ig_personalbrandlaunch_DU0dm8qDflf.md
+> "I'm gonna start documenting my weekly life as a married 20-year-old who built a multi-million dollar company from the ground up." — sources/S_ig_personalbrandlaunch_DU0dm8qDflf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "secret room": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a productivity tutorial: the vlog shows a week, including a headache, a spelling error in a hook, and boredom — it teaches nothing about how to do deep work.
+- Read as an algorithm play: the video says it is a diary-style format, not optimized for the algorithm, so its views are not the point.

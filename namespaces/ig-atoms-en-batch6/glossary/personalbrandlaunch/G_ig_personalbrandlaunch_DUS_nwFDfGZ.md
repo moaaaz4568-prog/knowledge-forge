@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [video, videos]
+aka: [format stacking]
 origin: sources/S_ig_personalbrandlaunch_DUS_nwFDfGZ.md
 ---
 
-# G_ig_personalbrandlaunch_DUS_nwFDfGZ — video
+# G_ig_personalbrandlaunch_DUS_nwFDfGZ — format stacking
 
 ## Term
 
-"video" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: think, performed, better, video. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Format stacking is Ava's name for layering extras onto the talking back and forth format: multitasking, visuals, or editing notes, added to the dialogue. The phrase appears once, beside multitasking, visual, and editing notes, and the test behind it is a comparison — Video A against Video B, where only one stacks and that one performed better. Her concrete case is multitasking itself: doing something unrelated in the video while saying the script, the first of the three stackable things. The claim is that almost all the best talking back and forth videos use it, so stacking is presented as the difference between good and best in that format.
 
 ## Synonyms
 
-- video
-- videos (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What video do you think performed better? Video A or Video B? The answer is Video B, but why? They both follow a talking back and forth format, but only one includes multitasking as well. While talking back and forth is one of the most effective engaging formats you can use for a video, I've noticed all the best include one of these three things." — sources/S_ig_personalbrandlaunch_DUS_nwFDfGZ.md
-> "Number one: multitasking—doing something unrelated in the video while saying the script. Number two: visual—this is where you use props, objects, or movements that are related to your script." — sources/S_ig_personalbrandlaunch_DUS_nwFDfGZ.md
+> "Essentially, this is what I would call format stacking." — sources/S_ig_personalbrandlaunch_DUS_nwFDfGZ.md
+> "While talking back and forth is one of the most effective engaging formats you can use for a video, I've noticed all the best include one of these three things." — sources/S_ig_personalbrandlaunch_DUS_nwFDfGZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "video": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as using three formats at once: stacking adds one of three things — multitasking, visual, or editing notes — onto a single format, not three formats side by side.
+- Read as a rule for every video: the claim is about the best talking back and forth videos, so stacking is tied to that format, not prescribed for all videos.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [seconds, personalbrandlaunch account context]
+aka: [storytelling videos]
 origin: sources/S_ig_personalbrandlaunch_DUThx5lEei1.md
 ---
 
-# G_ig_personalbrandlaunch_DUThx5lEei1 — seconds
+# G_ig_personalbrandlaunch_DUThx5lEei1 — storytelling videos
 
 ## Term
 
-"seconds" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: around, videos, fifteen, thirty. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Storytelling videos get the forty-five to sixty second slot in Ava's length guide: longer than trending audio plus B-roll plus text at three to seven seconds, shorter than hyper-educational videos at forty-five to ninety. The phrase appears once, beside trending audio, B-roll, Q&A, and hyper-educational, and the guide covers five formats — short audio clips, Q&A ranking or rating, light educational, storytelling, and hyper-educational tutorials. Her concrete case is the contrast at the top: a three-to-seven-second clip against a forty-five-to-ninety-second tutorial, with storytelling sitting between. None of the ranges are hard and fast rules, the source says — there are always exceptions — so the lengths are starting points, not limits.
 
 ## Synonyms
 
-- seconds
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it. Here’s the raw transcript for you: Trending audio plus B-roll plus text videos should be around three to seven seconds. Q&A ranking or rating videos should be around fifteen to thirty seconds. Light educational videos with a repeatable or simple structure like this should be fifteen to thirty seconds." — sources/S_ig_personalbrandlaunch_DUThx5lEei1.md
-> "Storytelling videos should be around forty-five to sixty seconds. Hyper-educational videos slash tutorials should be around forty-five to ninety seconds. Note: none of these are hard and fast rules because there's always going to be exceptions. Want hooks to go with your shorts?" — sources/S_ig_personalbrandlaunch_DUThx5lEei1.md
+> "Storytelling videos should be around forty-five to sixty seconds." — sources/S_ig_personalbrandlaunch_DUThx5lEei1.md
+> "Hyper-educational videos slash tutorials should be around forty-five to ninety seconds." — sources/S_ig_personalbrandlaunch_DUThx5lEei1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "seconds": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as strict time limits: the source says none of these are hard and fast rules because there are always exceptions.
+- Read as 'longer is better': each format gets its own range, and the shortest format — three to seven seconds — is presented as correct for its job, not as a failure.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [thousand followers, personalbrandlaunch account context]
+aka: [CTA, CTAs]
 origin: sources/S_ig_personalbrandlaunch_DTQn-wADgWl.md
 ---
 
-# G_ig_personalbrandlaunch_DTQn-wADgWl — thousand followers
+# G_ig_personalbrandlaunch_DTQn-wADgWl — CTA
 
 ## Term
 
-"thousand followers" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: followers, worth, one, tiktok. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A CTA is the push that moves followers from one platform to another: use CTAs in your videos to send people to your other socials, your YouTube, or a freebie or landing page. The plural CTAs appears 3 times, beside followers, YouTube, freebies, and landing pages, and each mention is a direction — follow, go to YouTube, grab the freebie — never a sales pitch on its own. Her concrete case is the cross-platform move: a TikTok or Instagram viewer is told to follow on YouTube or land on a page with a service offer. The comparison that opens the video sets the stakes: a hundred thousand TikTok followers are worth ten thousand on Instagram and one thousand on YouTube, because YouTube followers actually watch.
 
 ## Synonyms
 
-- thousand followers
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- CTAs (plural form, used 3 times in the source)
 
 ## Live Example
 
-> "Okay. Here is the transcription of the audio. One hundred thousand followers on TikTok is worth ten thousand followers on Instagram, and that's worth one thousand followers on YouTube, which was said so freaking well by this creator. On TikTok, people scroll the For You page and not the Followers tab. So your followers are not super likely to engage with your content." — sources/S_ig_personalbrandlaunch_DTQn-wADgWl.md
+> "In your videos, use CTAs to direct followers right to your other socials." — sources/S_ig_personalbrandlaunch_DTQn-wADgWl.md
+> "Use the CTAs in your videos to drive people to follow you or to a freebie and/or a landing page with your service offer or product." — sources/S_ig_personalbrandlaunch_DTQn-wADgWl.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thousand followers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a like-and-subscribe plea: the CTAs here direct followers to another platform or offer, not to engagement on the video itself.
+- Read as proof that follower counts are equal: the video's whole point is that they are not — a thousand YouTube followers outweigh a hundred thousand on TikTok because of how each feed works.

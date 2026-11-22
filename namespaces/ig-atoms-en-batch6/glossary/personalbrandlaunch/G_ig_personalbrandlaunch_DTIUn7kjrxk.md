@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [Speaker, personalbrandlaunch account context]
+aka: [iceberg effect]
 origin: sources/S_ig_personalbrandlaunch_DTIUn7kjrxk.md
 ---
 
-# G_ig_personalbrandlaunch_DTIUn7kjrxk — Speaker
+# G_ig_personalbrandlaunch_DTIUn7kjrxk — iceberg effect
 
 ## Term
 
-"Speaker" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hook, yes, effect, example. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The iceberg effect is Ava's name for a hook that opens with a surprising question whose answer sits below the surface, and she says this hook is going very viral right now. The phrase appears once, beside hook, viral, and frameworks, and the source then runs five quick examples of it rather than defining it further. Her concrete case is the pasta question — whether the amount of water you use to boil your pasta actually matters — answered with a flat yes that pulls the viewer into the explanation. The name does the work: the visible question is the tip, and the satisfying answer is the mass underneath.
 
 ## Synonyms
 
-- Speaker
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Speaker 1 : This hook is going very viral right now. I call it the iceberg effect... Example number one. Speaker 2 : Does the amount of water you use to boil your pasta actually matter? Yes, yes it does. Speaker 3 : Why is all this ugly shit all over New York City? Speaker 4 : Can the fork you use actually change how sweet your dessert tastes?" — sources/S_ig_personalbrandlaunch_DTIUn7kjrxk.md
-> "Surprisingly, yes. Speaker 5 : Here's why every beer cap has 21 ridges. This design isn't random. Speaker 1 : If you want a thousand more viral hook frameworks... Speaker 6 : Common hook and I'll send it over." — sources/S_ig_personalbrandlaunch_DTIUn7kjrxk.md
+> "This hook is going very viral right now. I call it the iceberg effect... Example number one." — sources/S_ig_personalbrandlaunch_DTIUn7kjrxk.md
+> "Does the amount of water you use to boil your pasta actually matter? Yes, yes it does." — sources/S_ig_personalbrandlaunch_DTIUn7kjrxk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Speaker": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a named psychology principle: the iceberg effect is Ava's label for this hook shape in this video, not a cited theory with a literature behind it.
+- Read as a guarantee of virality: the examples show hooks that went viral, but the source never claims every iceberg-style question will do the same.

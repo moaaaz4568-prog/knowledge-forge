@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [Step number, personalbrandlaunch account context]
+aka: [onboarding]
 origin: sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
 ---
 
-# G_ig_personalbrandlaunch_DT_A4WRjBr7 — Step number
+# G_ig_personalbrandlaunch_DT_A4WRjBr7 — onboarding
 
 ## Term
 
-"Step number" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, step, social, media. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Onboarding is step number one when Ava is hired as a social media manager: the client fills out an onboarding document, then joins a call with a customer success manager and an account manager to finalize it. The word appears 5 times, beside research, scripts, film, edit, and upload, and the document is the point — it is how the team learns everything about the client and the business before any content is made. Her concrete case is the call itself: the team goes over the onboarding presentation and the onboarding document together, rather than starting with filming. Research comes second and takes eight to ten hours, so onboarding is the gate that everything else waits on.
 
 ## Synonyms
 
-- Step number
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What happens when you hire me as your social media manager? Step number one, onboarding. You're gonna fill out this onboarding document so we know everything about you and your business. Then you, your customer success manager at PBL, and your account manager at PBL will hop on a call to do your onboarding." — sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
-> "You guys will go over the onboarding presentation and go through your onboarding document to finalize everything. Step number two, research. We spend eight to ten hours finding the top creators in your niche and getting all of their five to ten... most viral videos. We analyze them to find what works best. We take that data and create scripts that are actually authentic to you." — sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
-> "Step number four, film. You can just do this with your phone. Step number five, edit. We'll take your raw videos and make them all pretty. Step number six, upload. We'll post your content on all the short-form platforms and watch you grow and get leads. Interested? Just comment SMM for more information." — sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
+> "You're gonna fill out this onboarding document so we know everything about you and your business." — sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
+> "Then you, your customer success manager at PBL, and your account manager at PBL will hop on a call to do your onboarding." — sources/S_ig_personalbrandlaunch_DT_A4WRjBr7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Step number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sales call: onboarding here is a working session to finalize the client's document and presentation, not a pitch — the client has already hired her.
+- Read as a single form: the document is one part of onboarding; the call with two managers and the presentation review are the rest of it.

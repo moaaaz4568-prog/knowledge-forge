@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: personalbrandlaunch
-aka: [Two, personalbrandlaunch account context]
+aka: [script structure, script structures]
 origin: sources/S_ig_personalbrandlaunch_DTu8V0zDXRT.md
 ---
 
-# G_ig_personalbrandlaunch_DTu8V0zDXRT — Two
+# G_ig_personalbrandlaunch_DTu8V0zDXRT — script structure
 
 ## Term
 
-"Two" is the most frequent repeated content term in this source (a transcribed Instagram video from the personalbrandlaunch account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trying, part, grater, couples. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A script structure is a repeatable, fill-in-the-blank template a short-form script can follow — and viral videos keep using the same ones. The singular phrase appears once, beside repeatable, fill-in-the-blank, viral, and outlier, while the plural script structures appears once more for the family as a whole. Her concrete case is the 'if you' run: if you drink apple cider vinegar with lemon, if you take creatine, if you eat steak — the same shape, different contents. The mechanism is trend-making itself: rating reels and similar trends are created by recreating a viral outlier structure spotted online.
 
 ## Synonyms
 
-- Two
-- personalbrandlaunch account context (no variant form of the term appears in this source)
+- script structures (plural form, used once in the source)
 
 ## Live Example
 
-> "If you take creatine, you'll increase your strength in the gym. You eat steak by itself, you'll feel full and feed your muscles. If you add cinnamon and cayenne pepper to your garbage can, then you can repel mice and flies. Did you know that if you twist a potato on this part of the grater... Two couples are trying to invest. Two husbands take on the grocery shopping." — sources/S_ig_personalbrandlaunch_DTu8V0zDXRT.md
-> "Two high school students are trying to get into Ivy League schools. Two people are trying to lose fat. This is the end... It's alright. This is how trends like the rating reels get created by recreating a viral outlier structure that you just see online... Follow for more social media marketing education." — sources/S_ig_personalbrandlaunch_DTu8V0zDXRT.md
+> "Have you ever noticed viral videos just using the same script structure?" — sources/S_ig_personalbrandlaunch_DTu8V0zDXRT.md
+> "Script structures are repeatable, fill-in-the-blank templates a short-form content script can follow." — sources/S_ig_personalbrandlaunch_DTu8V0zDXRT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Two": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a script to copy word-for-word: the structure is a fill-in-the-blank shape — the words change while the shape stays, which is why the same structure fits vinegar, creatine, and steak.
+- Read as only for talking videos: the examples span advice, comparisons, and two-person setups, so the structure is format-free.
