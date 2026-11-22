@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [pretty face, thesunnahguy account context]
+aka: [pretty face]
 origin: sources/S_ig_thesunnahguy_C6BQ3F1N5hZ.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thesunnahguy_C6BQ3F1N5hZ.md
 
 ## Term
 
-"pretty face" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: face, pretty, cute, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "pretty face" is the looks that make people fantasize a woman must be a nice person, which the speaker calls the start of the problem. It occurs 4 times, beside "fantasize", "nice person", "character" and "marriage", and his contrast is the goodness and humility in her character, conduct and relationship with Allah, which is what would make a marriage last. His diagnosis of failed marriages is direct: the guy went after a pretty face and ignored everything else. The concrete error is judging a future wife by the face instead of the character that sustains a marriage.
 
 ## Synonyms
 
-- pretty face
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So she has a pretty face here, a cute pretty face. And you see, that's where the problem starts. Because people look at a face and they begin to fantasize. They think that because she has a pretty face, that must mean she is a nice person. Not realizing that the goodness and humility in her character, conduct, and relationship with Allah is what would make a marriage last." — sources/S_ig_thesunnahguy_C6BQ3F1N5hZ.md
+> "They think that because she has a pretty face, that must mean she is a nice person." — sources/S_ig_thesunnahguy_C6BQ3F1N5hZ.md
 > "And the reason why so many marriages fail is because the guy went after a pretty face and ignored everything else." — sources/S_ig_thesunnahguy_C6BQ3F1N5hZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "pretty face": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a claim that beauty is bad: the speaker's target is choosing by looks alone while ignoring character, not beauty itself.
+- When the pretty face is read as evidence of character: in this source the face predicts nothing about humility or conduct, and that gap is the whole warning.

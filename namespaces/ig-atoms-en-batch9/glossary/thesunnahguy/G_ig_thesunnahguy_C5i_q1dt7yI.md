@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [challenge, thesunnahguy account context]
+aka: [Shawwal challenge]
 origin: sources/S_ig_thesunnahguy_C5i_q1dt7yI.md
 ---
 
-# G_ig_thesunnahguy_C5i_q1dt7yI — challenge
+# G_ig_thesunnahguy_C5i_q1dt7yI — Shawwal challenge
 
 ## Term
 
-"challenge" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: join, shawwal, challenge, simple. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "Shawwal challenge" is the invitation itself, a simple four-part programme the speaker extends to the listener. It occurs once, beside "invite", "11,500 members", "community" and "encouraging", and the parts are six days of fasting, five daily prayers, one page of Quran a day and one habit carried on from Ramadan. The community is the mechanism: members encouraging each other every day, updating each other on progress and pushing each other to complete it. Joining is by commenting the word challenge for the link, and the speaker even jokes that getting married earns bonus points.
 
 ## Synonyms
 
-- challenge
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I want to invite you to join the Shawwal Challenge. The challenge is simple: fast six days in the month, pray all five daily prayers, read one page of Quran per day, and carry on one habit that you picked up in Ramadan. And get married. I'm only kidding. But look, if you get married, you'll be getting bonus points, Insha'Allah." — sources/S_ig_thesunnahguy_C5i_q1dt7yI.md
-> "In all seriousness, there's around 11,500 members who are already taking part, and I want to invite you to be part of our community, where we will be encouraging each other every day, updating each other on our progress, and pushing each other to make sure we complete the challenge. It's a place where you can feel supported and find others who are trying to better themselves." — sources/S_ig_thesunnahguy_C5i_q1dt7yI.md
-> "So to join, comment the word challenge and I'll send you the link. See you guys inside." — sources/S_ig_thesunnahguy_C5i_q1dt7yI.md
+> "I want to invite you to join the Shawwal Challenge." — sources/S_ig_thesunnahguy_C5i_q1dt7yI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "challenge": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a solo programme: in this source the challenge runs inside a community that encourages and pushes, and the support is part of the design.
+- When the marriage joke is read as a fifth part: the speaker says he is only kidding, and the four parts are the fast, the prayers, the page and the habit.

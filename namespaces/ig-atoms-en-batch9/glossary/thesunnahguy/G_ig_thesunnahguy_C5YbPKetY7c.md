@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [Until, thesunnahguy account context]
+aka: [celebrate, Celebrating]
 origin: sources/S_ig_thesunnahguy_C5YbPKetY7c.md
 ---
 
-# G_ig_thesunnahguy_C5YbPKetY7c — Until
+# G_ig_thesunnahguy_C5YbPKetY7c — celebrate
 
 ## Term
 
-"Until" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: never, celebrate, early, nikah. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "celebrate" is the excitement the speaker warns against before a thing is actually complete. It occurs once as "celebrate", with "Celebrating" once more for the early celebration that can lead to disappointment. Its neighbours are "nikah papers", "plane", "money transferred" and "little expectations", and the three tests are the signed nikah papers, the plane lifting off the runway and the money transferred. His rule is to wait until things are fully done, because celebrating too early can lead to disappointment, and little expectations until then is the best way to live.
 
 ## Synonyms
 
-- Until
-- thesunnahguy account context (no variant form of the term appears in this source)
+- Celebrating
 
 ## Live Example
 
-> "Never celebrate too early. Until the nikah papers have been signed, you're not married. Until the plane lifts off the runway, you're not on the flight. Until the money's been transferred, the deal isn't done. Always wait for things to be completed before getting excited. Celebrating too early can lead to disappointment. So have little expectations until things are fully done." — sources/S_ig_thesunnahguy_C5YbPKetY7c.md
+> "Never celebrate too early. Until the nikah papers have been signed, you're not married." — sources/S_ig_thesunnahguy_C5YbPKetY7c.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Until": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a ban on joy: the speaker only delays the celebration until completion, and the nikah, the flight and the deal are all still worth celebrating once done.
+- When the three tests are read as the only cases: they are examples of the same rule, wait for completion, and the rule covers any unfinished matter.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [Islamic videos, thesunnahguy account context]
+aka: [guilt]
 origin: sources/S_ig_thesunnahguy_C4dngXZNdrc.md
 ---
 
-# G_ig_thesunnahguy_C4dngXZNdrc — Islamic videos
+# G_ig_thesunnahguy_C4dngXZNdrc — guilt
 
 ## Term
 
-"Islamic videos" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: skipping, videos, because, islamic. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "guilt" is the feeling Shaitan plants to keep a sinner away from Islamic videos and away from repentance. It occurs 2 times, as guilt in the heart and as a state of inner guilt, beside "skipping off", "sinning", "repented" and "Day of Judgment". The speaker counts three wins for Shaitan in it: the sin itself, the guilt over watching Islamic videos, and the block on repentance that follows. His warning is stark: dying in that unrepented state of inner guilt leaves a person in a very dangerous place on the Day of Judgment.
 
 ## Synonyms
 
-- Islamic videos
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're skipping off Islamic videos because there's guilt in your heart, just know that Shaitan has won and has beaten you three times. First, he's won because you're sinning, and secondly, he's made you feel guilty for looking at Islamic videos, and lastly, he's stopping you from repentance and makes you carry on your sin." — sources/S_ig_thesunnahguy_C4dngXZNdrc.md
+> "If you're skipping off Islamic videos because there's guilt in your heart, just know that Shaitan has won and has beaten you three times." — sources/S_ig_thesunnahguy_C4dngXZNdrc.md
+> "And if you die in this state of inner guilt, but you haven't repented yet, then you're in a very very dangerous place on your Day of Judgment." — sources/S_ig_thesunnahguy_C4dngXZNdrc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Islamic videos": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a healthy conscience: in this source guilt is Shaitan's tool for keeping the sinner from repentance, not the remorse that leads back to Allah.
+- When the three wins are collapsed into one: the speaker's point is the sequence, sin then guilt then blocked repentance, and skipping any step loses the warning.

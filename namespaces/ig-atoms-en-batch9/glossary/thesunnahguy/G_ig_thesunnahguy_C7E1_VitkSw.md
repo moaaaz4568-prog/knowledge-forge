@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [life, thesunnahguy account context]
+aka: [dopamine]
 origin: sources/S_ig_thesunnahguy_C7E1_VitkSw.md
 ---
 
-# G_ig_thesunnahguy_C7E1_VitkSw — life
+# G_ig_thesunnahguy_C7E1_VitkSw — dopamine
 
 ## Term
 
-"life" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: procrastinating, thinking, something, stop. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "dopamine" is what high-dopamine videos fry, leaving the viewer tired and lazy from scrolling on the phone all day. It occurs 2 times, beside "high dopamine videos", "receptors", "fried" and "procrastinating", and the speaker opens by counting to one and pointing at the viewer directly. His charge is that scrolling sets you up for failure, and wishful thinking will not make life better. The call is to act now, stop procrastinating, and treat the sentence as a sign to change your life.
 
 ## Synonyms
 
-- life
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One! Look at you, watching high dopamine videos for hours, and now your dopamine receptors are fried. No wonder you feel tired and lazy all the time. You're literally setting yourself up for failure by scrolling on your phone all day. Do something with your life. Stop procrastinating and thinking your life is going to get better just by wishful thinking. You have to act now." — sources/S_ig_thesunnahguy_C7E1_VitkSw.md
+> "Look at you, watching high dopamine videos for hours, and now your dopamine receptors are fried." — sources/S_ig_thesunnahguy_C7E1_VitkSw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "life": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a medical claim: the fried receptors are the speaker's image for tiredness and laziness after hours of scrolling, not a diagnosis.
+- When the sign is read as a promise: he calls it your sign to change your life, and the change still has to be acted on, since wishing alone does nothing.

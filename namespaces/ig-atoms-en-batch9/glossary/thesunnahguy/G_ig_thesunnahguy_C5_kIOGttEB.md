@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [situation, thesunnahguy account context]
+aka: [fajr]
 origin: sources/S_ig_thesunnahguy_C5_kIOGttEB.md
 ---
 
-# G_ig_thesunnahguy_C5_kIOGttEB — situation
+# G_ig_thesunnahguy_C5_kIOGttEB — fajr
 
 ## Term
 
-No content word repeats often enough in this short source (30 words) to form a repeated term, so this entry documents the source's central term "situation" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "fajr" is the dawn prayer a man misses while still waking on time for his job, and the strangeness is the contrast. It occurs once, beside "misses", "wakes up", "provision" and "provider", and the speaker's second line sharpens it: the man goes out to seek his provision but forgets his Provider. The whole entry is two sentences, and the fajr is the measure of the inversion, prayer skipped for the job while the job itself depends on the One whose prayer was skipped.
 
 ## Synonyms
 
-- situation
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How strange is the situation of the one who misses fajr, but wakes up on time for his job. He goes out to seek his provision, but forgets his provider." — sources/S_ig_thesunnahguy_C5_kIOGttEB.md
+> "How strange is the situation of the one who misses fajr, but wakes up on time for his job." — sources/S_ig_thesunnahguy_C5_kIOGttEB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "situation": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a complaint about work: the speaker's target is the forgotten Provider, not the job, and waking on time for work is the proof of the inversion, not the fault.
+- When the two sentences are read as separate points: the second sentence explains the first, so the strangeness is the seeking of provision from the One whose prayer was missed.

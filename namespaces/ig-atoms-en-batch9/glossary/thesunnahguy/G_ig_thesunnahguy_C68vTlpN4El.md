@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [matter, thesunnahguy account context]
+aka: [zikr]
 origin: sources/S_ig_thesunnahguy_C68vTlpN4El.md
 ---
 
-# G_ig_thesunnahguy_C68vTlpN4El — matter
+# G_ig_thesunnahguy_C68vTlpN4El — zikr
 
 ## Term
 
-"matter" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: happens, matter, dies, taught. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "zikr" is the remembrance of Allah that the Palestinian people advertise to the world by praising Him over the dead bodies of their relatives and their destroyed homes. It occurs once, beside "advert", "biggest", "praise and thanks" and "pleased", and the speaker's claim is that their steadfast praise has taught the world that all praise belongs to Allah whatever happens. His condition for everything being okay is one thing only: so long as our Lord is pleased with us. The message is addressed to all Muslims as a lesson in gratitude under loss, not as news about a distant place.
 
 ## Synonyms
 
-- matter
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And they have taught us that no matter what happens, no matter who dies, and no matter what the circumstance, that all praise and thanks belongs to Allah. Because it's from Him we came and to Him we shall return. And so long as our Lord is pleased with us, then everything is okay." — sources/S_ig_thesunnahguy_C68vTlpN4El.md
+> "Look at the lives of the Palestinian people, how they've just lost everything, and as they stand over the dead bodies of their relatives and the destroyed homes in their neighbourhood, they have given the world the biggest advert for the zikr of Allah." — sources/S_ig_thesunnahguy_C68vTlpN4El.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "matter": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a slogan for a cause: in this source the zikr is praise spoken over real loss, and the advert is the steadfastness itself, not a campaign.
+- When the praise is read as indifference to death: the speaker's point is that praise continues alongside grief, because everything returns to Allah, not that the deaths do not matter.

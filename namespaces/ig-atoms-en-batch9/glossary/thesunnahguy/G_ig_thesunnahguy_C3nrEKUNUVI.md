@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [divorced, thesunnahguy account context]
+aka: [divorced]
 origin: sources/S_ig_thesunnahguy_C3nrEKUNUVI.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thesunnahguy_C3nrEKUNUVI.md
 
 ## Term
 
-"divorced" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sisters, whether, know, come. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "divorced" names people whose marriage has ended and who then speak about marriage from that hurt, not the legal fact alone. It occurs 4 times: once for getting divorced, then for divorced sisters, divorced brothers and divorced women. The words around it are "sisters", "brothers", "women" and "marriage", and the speaker's charge is that such talk puts others off marriage. In practice he pictures a divorced sister telling unmarried sisters that no man can be trusted, and treats that as vomiting a negative experience onto listeners.
 
 ## Synonyms
 
-- divorced
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "If you got married, it didn't work out, and you got divorced, then whether it be online or even within your own communities, don't put people off marriage by vomiting your negative experiences on them." — sources/S_ig_thesunnahguy_C3nrEKUNUVI.md
-> "You know, divorced sisters come out and say that all men are trash and you can't trust men, and divorced brothers as well, they come out and say there's no good women left anymore and be careful of this woman and that woman, having loads of trust issues. And the worst one especially is when divorced women say to sisters in the community things" — sources/S_ig_thesunnahguy_C3nrEKUNUVI.md
+> "You know, divorced sisters come out and say that all men are trash and you can't trust men, and divorced brothers as well, they come out and say there's no good women left anymore and be careful of this woman and that woman, having loads of trust issues." — sources/S_ig_thesunnahguy_C3nrEKUNUVI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "divorced": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a judgement on every divorced person: the speaker's target is only divorced people who broadcast bitterness and put others off marriage, not divorce itself or everyone who has been through one.
+- When it is read as a claim about men or women in general: the sweeping lines about all men being trash or no good women left are quoted as the rhetoric he condemns, not as statements he endorses.

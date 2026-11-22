@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [know, thesunnahguy account context]
+aka: [compare]
 origin: sources/S_ig_thesunnahguy_C4fo_fANTkV.md
 ---
 
-# G_ig_thesunnahguy_C4fo_fANTkV — know
+# G_ig_thesunnahguy_C4fo_fANTkV — compare
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: really, amazing, couple, say. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "compare" is measuring your own marriage against another couple's public image, which the speaker calls a lesson he learned the hard way. It occurs 2 times, beside "relationship goals", "behind closed doors", "grateful" and "peaceful marriage". His story is a couple he admired for settling every argument before bed, whose divorce years later puzzled him until he understood that no one knows what goes on behind closed doors. His rule follows: never compare your marriage to anybody else's, and be grateful for a peaceful marriage even when it has problems, because it is still better than a broken home.
 
 ## Synonyms
 
-- know
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I remember there was this married couple back in the day, and I used to look at them with such amazement and such admiration. I used to think, what an amazing couple. You know, they would say things to me like, you know, we never go to sleep unless we've spoken to each other. If we ever had an argument, we always settle it before we go to bed." — sources/S_ig_thesunnahguy_C4fo_fANTkV.md
-> "And years later, they got divorced, and I was so puzzled, thinking to myself, wow, SubhanAllah, like, how can this happen? But it taught me a big lesson, and that was to never ever compare your marriage to anybody else's, because you do not know what goes on behind closed doors. No matter how much people show in public that everything is great and everything is good." — sources/S_ig_thesunnahguy_C4fo_fANTkV.md
-> "And the more I grow older, the more I realize that you know what, you really don't know what other people are going through. So be grateful if you have a peaceful marriage, even if it has problems, it's still better than a broken home, Wallahi." — sources/S_ig_thesunnahguy_C4fo_fANTkV.md
+> "I would literally compare my marriage to theirs, and I'd be like, why am I always the one that's going through problems?" — sources/S_ig_thesunnahguy_C4fo_fANTkV.md
+> "But it taught me a big lesson, and that was to never ever compare your marriage to anybody else's, because you do not know what goes on behind closed doors." — sources/S_ig_thesunnahguy_C4fo_fANTkV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as advice against admiring anyone: the speaker's target is comparing marriages, not admiring a couple, and the admiration itself is where his story starts.
+- When the couple's public image is read as the truth: the whole lesson turns on the gap between what people show in public and what happens behind closed doors.

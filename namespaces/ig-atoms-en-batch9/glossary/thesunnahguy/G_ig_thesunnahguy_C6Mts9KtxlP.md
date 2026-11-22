@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [bring news, thesunnahguy account context]
+aka: [gossip, gossiping, gossips]
 origin: sources/S_ig_thesunnahguy_C6Mts9KtxlP.md
 ---
 
-# G_ig_thesunnahguy_C6Mts9KtxlP — bring news
+# G_ig_thesunnahguy_C6Mts9KtxlP — gossip
 
 ## Term
 
-"bring news" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: others, life, news, bring. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "gossip" is the news about other people's lives that close brothers bring him, from which sheikh married a second wife to what happened at an event. It occurs once as "gossip", with "gossiping" and "gossips" once each for the habit and the person who does it. Its neighbours are "close", "harmless", "habit" and "trust", and his test is simple: if he tells you about others, he will tell others about you. The rule he draws is to be very careful and selective about who you share things with, because the gossiper does it out of habit, not spite, and can never ever be trusted.
 
 ## Synonyms
 
-- bring news
-- thesunnahguy account context (no variant form of the term appears in this source)
+- gossiping
+- gossips
 
 ## Live Example
 
-> "And the reason for that is because if he is happy to tell me things about other people's lives, then I can almost guarantee you that he is happy to tell other people things about my life. Those that bring news about others to you, will one day bring news to others about you." — sources/S_ig_thesunnahguy_C6Mts9KtxlP.md
+> "There are certain brothers who I'm very very close with, but they are also the same brothers who bring me the gossip of what is going on in the Muslim space." — sources/S_ig_thesunnahguy_C6Mts9KtxlP.md
+> "And take it from me, the one who has a habit of gossiping, you can never ever trust them." — sources/S_ig_thesunnahguy_C6Mts9KtxlP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bring news": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as harmless chat: the speaker says most of it has no malicious intent, and still refuses to trust the gossiper, because habit, not spite, is the danger.
+- When closeness is read as safety: in this source the closest brothers are the ones bringing the gossip, so closeness is exactly what does not make a confidant safe.

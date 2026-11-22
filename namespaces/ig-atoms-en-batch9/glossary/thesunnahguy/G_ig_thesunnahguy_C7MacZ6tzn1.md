@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [make, thesunnahguy account context]
+aka: [hijab]
 origin: sources/S_ig_thesunnahguy_C7MacZ6tzn1.md
 ---
 
-# G_ig_thesunnahguy_C7MacZ6tzn1 — make
+# G_ig_thesunnahguy_C7MacZ6tzn1 — hijab
 
 ## Term
 
-"make" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: beauty, shaitan, uncover, beautify. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "hijab" is the cover the shaitan attacks in two ways, and the speaker warns the sisters who wear it about the second one. It occurs once, beside "shaitan", "uncover", "beautify" and "cover", and the whole source is a single sentence with no other idea in it. The logic is a trap with two doors: if he cannot make you uncover your beauty, he will make you beautify your cover instead. The practical use is vigilance over the cover itself, since a beautified hijab can undo what the wearing of it was meant to guard.
 
 ## Synonyms
 
-- make
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thesunnahguy_C7MacZ6tzn1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a ruling on what counts as beautifying: the speaker names no standard, only the trap, so the entry records the warning, not a dress code.
+- When the cover is read as the whole of modesty: in this source the hijab is the cover under attack, and the warning is about its purpose being undone from inside.

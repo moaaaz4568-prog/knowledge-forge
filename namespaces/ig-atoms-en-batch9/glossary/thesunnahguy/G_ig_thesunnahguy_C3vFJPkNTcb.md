@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [Allah, thesunnahguy account context]
+aka: [dua]
 origin: sources/S_ig_thesunnahguy_C3vFJPkNTcb.md
 ---
 
-# G_ig_thesunnahguy_C3vFJPkNTcb — Allah
+# G_ig_thesunnahguy_C3vFJPkNTcb — dua
 
 ## Term
 
-"Allah" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: certain, hears, begging, beg. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "dua" is one specific supplication the speaker prescribes for staying on Deen, made in tahajjud with certainty that Allah hears. It occurs 3 times: making this one dua, saying this one dua, and having made this dua over ten years ago. Its neighbours are "tahajjud", "sincerity", "crying" and "begging", and the wording he teaches is to ask Allah to make him love what Allah loves and hate what Allah hates. He presents his own decade of steadiness since first making it as the proof that it works.
 
 ## Synonyms
 
-- Allah
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you're struggling to stay on Deen, then make this one dua in tahajjud with absolute sincerity. Like you have to be so, so certain that Allah hears you and so firm in your heart, so sincere. Say it while you're crying, say it while you are begging, but beg Allah by saying this one dua. And that is, O Allah, help me to love what You love and hate what You hate." — sources/S_ig_thesunnahguy_C3vFJPkNTcb.md
+> "If you're struggling to stay on Deen, then make this one dua in tahajjud with absolute sincerity." — sources/S_ig_thesunnahguy_C3vFJPkNTcb.md
 > "And by Allah, I made this dua over 10 years ago and I've never looked back since, wallahi." — sources/S_ig_thesunnahguy_C3vFJPkNTcb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Allah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as any prayer in general: this dua is one named supplication with fixed wording about loving and hating what Allah loves and hates, not a synonym for prayer as a whole.
+- When the sincerity condition is dropped: the speaker insists on crying, begging and firm certainty that Allah hears, so repeating the words flatly is not the practice he describes.

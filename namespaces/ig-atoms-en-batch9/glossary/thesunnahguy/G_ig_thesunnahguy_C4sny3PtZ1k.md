@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [everything, thesunnahguy account context]
+aka: [intention]
 origin: sources/S_ig_thesunnahguy_C4sny3PtZ1k.md
 ---
 
-# G_ig_thesunnahguy_C4sny3PtZ1k — everything
+# G_ig_thesunnahguy_C4sny3PtZ1k — intention
 
 ## Term
 
-No content word repeats often enough in this short source (40 words) to form a repeated term, so this entry documents the source's central term "everything" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "intention" is the first of four conditions that keep open the chance that everything can be fixed. It occurs once, beside "mind", "soul", "determined" and "space and time", and the speaker lists the four as a chain: an intention in the heart, a mind able to think, a soul that is determined, and space and time. The claim is spare and conditional: so long as all four hold, there is a chance that everything can be fixed. Nothing more is promised, and the fixing itself is left undescribed, which is what makes the intention the hinge of the whole sentence.
 
 ## Synonyms
 
-- everything
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (40 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "everything": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a promise that everything will be fixed: the speaker only says there is a chance, and only while all four conditions hold.
+- When intention is read as wishing alone: here it stands beside a thinking mind and a determined soul, so the intention is part of a working chain, not a wish.

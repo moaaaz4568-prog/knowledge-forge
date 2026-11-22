@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [sixth, thesunnahguy account context]
+aka: [circle]
 origin: sources/S_ig_thesunnahguy_C4Q0XFOt0AP.md
 ---
 
-# G_ig_thesunnahguy_C4Q0XFOt0AP — sixth
+# G_ig_thesunnahguy_C4Q0XFOt0AP — circle
 
 ## Term
 
-"sixth" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hang, circle, everything. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "circle" means the five people you spend your time with, who decide who you become. It occurs 2 times, at the end of a chain where hanging out with five confident, religious or intelligent people makes you the sixth, and in the instruction to choose it wisely. Its neighbours are "confident", "religious", "intelligent" and "idiots", and the same sixth-person logic applies to idiots too. The practical use is a warning: pick the five deliberately, because who you surround yourself with shapes exactly who you become.
 
 ## Synonyms
 
-- sixth
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you hang out with five confident people, you'll be the sixth. If you hang out with five religious people, you'll be the sixth. If you hang out with five intelligent people, you'll be the sixth. If you hang out with five idiots, you'll be the sixth. Your circle is everything. Who you surround yourself with shapes exactly who you become. So choose your circle wisely and watch yourself thrive." — sources/S_ig_thesunnahguy_C4Q0XFOt0AP.md
+> "Your circle is everything. Who you surround yourself with shapes exactly who you become." — sources/S_ig_thesunnahguy_C4Q0XFOt0AP.md
+> "So choose your circle wisely and watch yourself thrive." — sources/S_ig_thesunnahguy_C4Q0XFOt0AP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sixth": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a claim about one friend: the circle is the whole group of five, and the point is the group's combined pull, not a single influence.
+- When it is read as a guarantee: becoming the sixth describes the shaping pressure of company, not a promise that proximity alone makes you confident or religious.

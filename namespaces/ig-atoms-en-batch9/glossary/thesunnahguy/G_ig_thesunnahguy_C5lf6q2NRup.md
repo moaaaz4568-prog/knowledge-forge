@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [scale, thesunnahguy account context]
+aka: [integrity]
 origin: sources/S_ig_thesunnahguy_C5lf6q2NRup.md
 ---
 
-# G_ig_thesunnahguy_C5lf6q2NRup — scale
+# G_ig_thesunnahguy_C5lf6q2NRup — integrity
 
 ## Term
 
-"scale" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thumb, pan, scale, weighing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "integrity" is what the butcher puts on the line when he fakes the weight of his only chicken with his thumb on the scale. It occurs once, beside "reputation", "wisdom", "cunningness" and "foolishness", and the speaker's moral is that once integrity and reputation are at stake, wisdom turns to foolishness and cunningness to stupidity. The trap closes when the woman asks for both chickens, the one at 1.5 kilograms and the phantom one at 2 kilograms, and the butcher has only one bird. His business rule follows: always tell the truth, because the honest businessman will be with the martyrs on the Day of Judgment, and no profit is worth the lost barakah of lying.
 
 ## Synonyms
 
-- scale
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The butcher opens his deep freezer, takes out his only chicken and puts it on the weighing scale. It weighs 1.5 kilograms. The woman then" — sources/S_ig_thesunnahguy_C5lf6q2NRup.md
-> "The butcher puts his only chicken back into the freezer and then takes it out again. But this time, when he puts it on the scale, he keeps his thumb on the scale pan. And the scale now shows 2 kilograms." — sources/S_ig_thesunnahguy_C5lf6q2NRup.md
+> "In a situation like this, you realise once your integrity and reputation are firmly on the line, your wisdom becomes foolishness and your cunningness becomes stupidity." — sources/S_ig_thesunnahguy_C5lf6q2NRup.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "scale": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When the story is read as a joke about a clumsy trick: the speaker's point is the moral reversal, that the clever cheat becomes the fool the moment the customer asks for both.
+- When it is read as a rule for butchers only: the reminder is addressed to anyone lying in business, and the barakah warning covers any profit made by lying.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [random brother, thesunnahguy account context]
+aka: [compliments]
 origin: sources/S_ig_thesunnahguy_C3w_oV-NCRY.md
 ---
 
-# G_ig_thesunnahguy_C3w_oV-NCRY — random brother
+# G_ig_thesunnahguy_C3w_oV-NCRY — compliments
 
 ## Term
 
-"random brother" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: brother, always, comments, random. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "compliments" are kind words spoken to people around you, treated as a force that wins trust and marks you out. The word occurs 3 times, beside "nice words", "genuine good people", "stingy" and "stand out". The speaker's anchor is a stranger who keeps commenting that he is proud of him on his videos, which makes him want never to disappoint that man. His rule follows from it: never be stingy with compliments, because mentioning people in a good way makes you stand out instantly.
 
 ## Synonyms
 
-- random brother
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "There's this random brother who always comments on my video saying, I'm proud of you. Now, I don't know who this brother is, but for some reason, like I have this feeling to like never disappoint him. And subhanallah, look, that's the beauty of compliments and nice words, right?" — sources/S_ig_thesunnahguy_C3w_oV-NCRY.md
-> "Now, if this random brother was to give me some advice, like I would receive it well because like I know he thinks well of me and wishes good for me. Trust me, there is a secret power in giving compliments and saying kind words to those around you. You know, never be stingy with your compliments because there is a lack of genuine good people in the world." — sources/S_ig_thesunnahguy_C3w_oV-NCRY.md
+> "And subhanallah, look, that's the beauty of compliments and nice words, right?" — sources/S_ig_thesunnahguy_C3w_oV-NCRY.md
+> "You know, never be stingy with your compliments because there is a lack of genuine good people in the world." — sources/S_ig_thesunnahguy_C3w_oV-NCRY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "random brother": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as flattery for its own sake: the speaker values compliments because they are genuine and make advice welcome, not because praise itself is the goal.
+- When the stranger's comment is read as a real relationship: the point is that even a random commenter's good opinion carries weight, not that the speaker knows the man.

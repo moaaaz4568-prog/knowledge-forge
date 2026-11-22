@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [child, thesunnahguy account context]
+aka: [tough love]
 origin: sources/S_ig_thesunnahguy_C6WWpnktvGx.md
 ---
 
-# G_ig_thesunnahguy_C6WWpnktvGx — child
+# G_ig_thesunnahguy_C6WWpnktvGx — tough love
 
 ## Term
 
-"child" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: pleasant, person, around, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "tough love" is the harsh Asian parenting style of shouting at children, which the speaker says worked thirty years ago but no longer fits. It occurs once, beside "shouting", "firm tone", "influential" and "respect", and his point is that a shouting voice used constantly stops being taken seriously. His alternative is to save the firm tone for when it really matters and be a pleasant person for the child to be around, because influence lasts only until thirteen, when friends take over. The warning is to build a relationship the child still wants, since pushing them away teaches nothing, and respect for parents must be built by the parent.
 
 ## Synonyms
 
-- child
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Save your firm tone for when it really matters. Be a pleasant person for your child to be around. Look, you're only influential in your child's life up until the age of thirteen, and then they're influenced by their friends. So build a relationship that your child would still want to spend time with you. Because believe me, when they're older, they will have more options available to them." — sources/S_ig_thesunnahguy_C6WWpnktvGx.md
+> "And although tough love has its place, you don't want your shouting voice to become something that they don't take seriously." — sources/S_ig_thesunnahguy_C6WWpnktvGx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "child": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a ban on firmness: the speaker keeps a place for tough love and for a firm tone, and only objects to shouting as the everyday voice.
+- When the age thirteen is read as a deadline for parenting: it is the age after which friends influence more than parents, which is why the relationship must be built before it, not why parenting ends.

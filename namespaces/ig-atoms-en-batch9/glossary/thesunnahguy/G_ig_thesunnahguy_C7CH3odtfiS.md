@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [protection, thesunnahguy account context]
+aka: [delay]
 origin: sources/S_ig_thesunnahguy_C7CH3odtfiS.md
 ---
 
-# G_ig_thesunnahguy_C7CH3odtfiS — protection
+# G_ig_thesunnahguy_C7CH3odtfiS — delay
 
 ## Term
 
-No content word repeats often enough in this short source (25 words) to form a repeated term, so this entry documents the source's central term "protection" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "delay" is God slowing you down so that evil ahead of you passes before you get there. It occurs once, beside "slows you down", "evil ahead", "protection" and "remember", and the whole source is two sentences with no other idea in it. The claim is that a delay is not a denial but a shield, and the protection is the point of the slowing. The practical use is to read a hold-up as care rather than punishment, since what was ahead may have been harm.
 
 ## Synonyms
 
-- protection
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Sometimes God slows you down so that evil ahead of you will pass before you get there. Remember that your delay could mean your protection." — sources/S_ig_thesunnahguy_C7CH3odtfiS.md
+> "Remember that your delay could mean your protection." — sources/S_ig_thesunnahguy_C7CH3odtfiS.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "protection": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a promise that every delay protects: the speaker says your delay could mean your protection, and the could keeps it a possibility, not a rule.
+- When the evil ahead is read as known: in this source the danger is unseen, which is why the delay only makes sense afterwards, as protection.

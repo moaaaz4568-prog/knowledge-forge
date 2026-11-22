@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch9)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,226 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,211 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3055,55 +3055,55 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3X77Edt2Bx.md | jahl | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3Z5m83NLAM.md | reward | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C3nrEKUNUVI.md | divorced | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3pOv9BNqFB.md | people | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3sHFkINs6a.md | Sallallahu | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3vFJPkNTcb.md | Allah | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C3w_oV-NCRY.md | random brother | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C43HrK9Nk0E.md | Allah | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4Q0XFOt0AP.md | sixth | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4TcuRltp7r.md | every day | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4WB3I8ti-4.md | app | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4Yd9hmN4SN.md | year | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4bPWSxt7n_.md | complicated | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4dngXZNdrc.md | Islamic videos | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4fo_fANTkV.md | know | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4irXqMNrbZ.md | become | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4kmA47NmRh.md | give | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4nmf8LNuMp.md | last generation | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4qCKIItNa3.md | climb mountains | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C4sny3PtZ1k.md | everything | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5ObRQlt_3x.md | Allah | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5TqbuGt2W9.md | little expectations | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5WSdMuNoap.md | Allah | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5YbPKetY7c.md | Until | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5_kIOGttEB.md | situation | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5bVWYRNiPw.md | Ramadan | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5dwlB1tqxR.md | Ramadan | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5f6iFDt3z-.md | share things | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5i_q1dt7yI.md | challenge | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5lf6q2NRup.md | scale | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5nf-lhtYlw.md | life | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C5vIH_SN8bJ.md | Allah | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C63oXZXtUMd.md | hearts | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C66gBmmNIYS.md | something different | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C68vTlpN4El.md | matter | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3pOv9BNqFB.md | envy | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3sHFkINs6a.md | proud | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3vFJPkNTcb.md | dua | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C3w_oV-NCRY.md | compliments | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C43HrK9Nk0E.md | sandwich method | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4Q0XFOt0AP.md | circle | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4TcuRltp7r.md | burnout | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4WB3I8ti-4.md | habit | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4Yd9hmN4SN.md | banter | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4bPWSxt7n_.md | repentance | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4dngXZNdrc.md | guilt | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4fo_fANTkV.md | compare | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4irXqMNrbZ.md | disciplined | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4kmA47NmRh.md | Ramadan Muslim | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4nmf8LNuMp.md | last generation | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4qCKIItNa3.md | intention | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C4sny3PtZ1k.md | intention | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5ObRQlt_3x.md | iman | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5TqbuGt2W9.md | expectations | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5WSdMuNoap.md | love | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5YbPKetY7c.md | celebrate | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5_kIOGttEB.md | fajr | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5bVWYRNiPw.md | Shawwal challenge | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5dwlB1tqxR.md | Shawwal challenge | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5f6iFDt3z-.md | discreet | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5i_q1dt7yI.md | Shawwal challenge | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5lf6q2NRup.md | integrity | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5nf-lhtYlw.md | submission | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C5vIH_SN8bJ.md | Salah | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C63oXZXtUMd.md | soft | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C66gBmmNIYS.md | journey | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C68vTlpN4El.md | zikr | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C6BQ3F1N5hZ.md | pretty face | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6EUNSTNGU5.md | around | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6GyBFNt5f_.md | help | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6J0wj8NpEI.md | Nazir | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6Mts9KtxlP.md | bring news | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6WWpnktvGx.md | child | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6_uZn6NDTm.md | wondering where | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6bULsGNYhN.md | happiness | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C6wCZ69NfhB.md | liberal | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C734kMQt8QN.md | passes away | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7CH3odtfiS.md | protection | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7E1_VitkSw.md | life | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6EUNSTNGU5.md | closure | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6GyBFNt5f_.md | porn addiction | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6J0wj8NpEI.md | six figure | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6Mts9KtxlP.md | gossip | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6WWpnktvGx.md | tough love | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6_uZn6NDTm.md | chant | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6bULsGNYhN.md | feminism | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C6wCZ69NfhB.md | liberal | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C734kMQt8QN.md | fair | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7CH3odtfiS.md | delay | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7E1_VitkSw.md | dopamine | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C7G5ndRth6Q.md | hard | 2 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7JgIXuNsWa.md | marriage | 3 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7MacZ6tzn1.md | make | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7O4smTNU-C.md | Fajr time | 1 |
-| glossary/thesunnahguy/G_ig_thesunnahguy_C7WGVdYNTyx.md | comfortable | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7JgIXuNsWa.md | marriage | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7MacZ6tzn1.md | hijab | 1 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7O4smTNU-C.md | Fajr | 2 |
+| glossary/thesunnahguy/G_ig_thesunnahguy_C7WGVdYNTyx.md | peace | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C7Y3BXJtDkN.md | sinning against | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C7bjmXotspF.md | something | 1 |
 | glossary/thesunnahguy/G_ig_thesunnahguy_C8DBX-hNgnv.md | Allah | 3 |

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [give, thesunnahguy account context]
+aka: [Ramadan Muslim, Ramadan Muslims]
 origin: sources/S_ig_thesunnahguy_C4kmA47NmRh.md
 ---
 
-# G_ig_thesunnahguy_C4kmA47NmRh — give
+# G_ig_thesunnahguy_C4kmA47NmRh — Ramadan Muslim
 
 ## Term
 
-"give" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hope, prophet, murderers, thieves. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "Ramadan Muslim" is the label critics put on people who return to worship only in Ramadan, which the speaker rejects as a charge of hypocrisy. It occurs once as "Ramadan Muslim", with "Ramadan Muslims" once more for the men without beards and the brothers without tajweed who did not pray. Its neighbours are "hijab", "praying", "hypocrisy" and "sincerity", and his argument is that trying is the essence of iman, not an act. His closing rule is the Prophet's words to give glad tidings and not repel people, since a single sincere action from such a person may surpass a lifetime of worship.
 
 ## Synonyms
 
-- give
-- thesunnahguy account context (no variant form of the term appears in this source)
+- Ramadan Muslims
 
 ## Live Example
 
-> "We all had a moment in life when things clicked and we were blessed with guidance. And if Allah can forgive prostitutes, mass murderers and thieves, and give them Jannah due to sincerity, then you think that girl without jilbab, the brother without tajweed or those men without beards, those guys who didn't pray, and the Ramadan Muslims can't be forgiven and given guidance due to sincerity as well?" — sources/S_ig_thesunnahguy_C4kmA47NmRh.md
-> "Give glad tidings of hope and don't repel people away. Our Prophet came to give hope to those who are lost. Don't you dare ever stand in the way of someone trying to get closer to Allah, because who knows if we will enter Paradise or the Hellfire. So give people hope. It's all we truly have." — sources/S_ig_thesunnahguy_C4kmA47NmRh.md
+> "Perhaps this year a single action of that person you label as a Ramadan Muslim will surpass all of the worship and good deeds that you spent a lifetime doing." — sources/S_ig_thesunnahguy_C4kmA47NmRh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "give": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as the speaker's own label: he quotes it as what others call these people, and his whole argument is against using it.
+- When the Ramadan worship is read as fake: in this source the returning worship is treated as genuine trying and a sign that truth still exists in the community, not as hypocrisy.

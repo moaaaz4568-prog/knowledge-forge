@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [hard, thesunnahguy account context]
+aka: [hard]
 origin: sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
 
 ## Term
 
-"hard" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: choose, hard, life, physically. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "hard" is the nature of life itself, and the choice is only which hard to carry. It occurs 14 times, beside "overweight", "debt", "nine to five" and "choose wisely", and the pattern repeats four ways: overweight or fit, in debt or disciplined, a job until sixty-five or a business, a careless life without God or a life dedicated to Him. The refrain "Choose your hard" frames each pair, and the speaker's conclusion is that life is never easy, so the only task is choosing wisely. The concrete use is to stop shopping for an easy life and pick the hard that is worth carrying.
 
 ## Synonyms
 
-- hard
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Being overweight is hard. Being physically fit is hard. Choose your hard. Being in debt is hard. Being financially disciplined is hard. Choose your hard. Working a nine to five until you're 65 years old, it's hard. Starting a business is hard. Choose your hard. A careless life without God is hard. A life dedicated to God is hard. Choose your hard. You see, life is never easy." — sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
-> "It's hard by nature, and the only thing you have to do is choose your hard. So choose wisely." — sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
+> "Working a nine to five until you're 65 years old, it's hard." — sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
+> "It's hard by nature, and the only thing you have to do is choose your hard." — sources/S_ig_thesunnahguy_C7G5ndRth6Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hard": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a claim that every hard is equal: the speaker's point is that each pair has a better hard to choose, and choosing wisely is the whole task.
+- When the refrain is read as the term: "Choose your hard" is the repeated line that frames the entry, and the term itself is the single word "hard" it turns on.

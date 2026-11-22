@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [little expectations, thesunnahguy account context]
+aka: [expectations, expectation]
 origin: sources/S_ig_thesunnahguy_C5TqbuGt2W9.md
 ---
 
-# G_ig_thesunnahguy_C5TqbuGt2W9 — little expectations
+# G_ig_thesunnahguy_C5TqbuGt2W9 — expectations
 
 ## Term
 
-"little expectations" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: expectations, life, little, even. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "expectations" are what you hold before a reward arrives, and the speaker's rule is that expecting little is what makes small things satisfying. It occurs 2 times as "expectations", with "expectation" once more for the empty pocket where no expectation sits. Its neighbours are "happy", "grateful", "content" and "disappoint", and the anchor is finding money in a jacket pocket, happy precisely because nothing was expected there. His golden rule follows from it: what you expect has the potential to disappoint you, while those with little expectations are the happiest of people.
 
 ## Synonyms
 
-- little expectations
-- thesunnahguy account context (no variant form of the term appears in this source)
+- expectation
 
 ## Live Example
 
-> "But if you have little expectations of life, then even something small will make you happy, grateful, and content. And you will always find that it is those that have little expectations who are the most happiest of people." — sources/S_ig_thesunnahguy_C5TqbuGt2W9.md
+> "But if you have little expectations of life, then even something small will make you happy, grateful, and content." — sources/S_ig_thesunnahguy_C5TqbuGt2W9.md
+> "And you will always find that it is those that have little expectations who are the most happiest of people." — sources/S_ig_thesunnahguy_C5TqbuGt2W9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "little expectations": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as advice to expect nothing at all: the speaker says little expectations, not none, and the point is that small rewards then satisfy rather than disappoint.
+- When the jacket money is read as luck: the happiness comes from the absence of expectation, not from the amount found, and the same find with high expectations would not satisfy.

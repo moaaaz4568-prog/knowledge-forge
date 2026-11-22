@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [Allah, thesunnahguy account context]
+aka: [iman]
 origin: sources/S_ig_thesunnahguy_C5ObRQlt_3x.md
 ---
 
-# G_ig_thesunnahguy_C5ObRQlt_3x — Allah
+# G_ig_thesunnahguy_C5ObRQlt_3x — iman
 
 ## Term
 
-"Allah" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: keep, sajdah, say, please. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "iman" is the faith in the heart the speaker says he cannot lose, even if he lost his wife, his children and everything else. It occurs 4 times, beside "steadfast", "sajdah", "deathbed" and "satisfied", and the dua at its centre asks Allah to keep the heart firm on the deen. He makes this dua in every single sajdah without fail, naming it the one dua that has kept him upon Islam. His final plea extends the same request to the end of life: make the best of our days the last of them, and take us only when You are satisfied with our iman.
 
 ## Synonyms
 
-- Allah
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Oh Allah, please keep my heart steadfast. Ya Muqallibal Quloob, sabbit Qalbi Ala Dineek." — sources/S_ig_thesunnahguy_C5ObRQlt_3x.md
-> "I ask Allah to keep that iman firm in our hearts and to allow this iman to permeate throughout our lives and never ever to leave us even on our deathbed. Oh Allah, make the best of our days the last of them. Oh Allah, only take us when You are satisfied with our iman, Ya Rabb. Ameen." — sources/S_ig_thesunnahguy_C5ObRQlt_3x.md
+> "Wallahi, my wife, my kids, everything can go except this iman in our hearts." — sources/S_ig_thesunnahguy_C5ObRQlt_3x.md
+> "I ask Allah to keep that iman firm in our hearts and to allow this iman to permeate throughout our lives and never ever to leave us even on our deathbed." — sources/S_ig_thesunnahguy_C5ObRQlt_3x.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Allah": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as a possession that cannot be lost: the speaker's whole point is that iman can be lost, which is why he begs in every sajdah to keep it.
+- When the dua is read as a one-time request: he makes it in every single sajdah without fail, so the practice is constant, not a single prayer.

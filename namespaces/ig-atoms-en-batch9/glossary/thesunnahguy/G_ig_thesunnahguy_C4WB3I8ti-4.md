@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thesunnahguy
-aka: [app, thesunnahguy account context]
+aka: [habit]
 origin: sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
 ---
 
-# G_ig_thesunnahguy_C4WB3I8ti-4 — app
+# G_ig_thesunnahguy_C4WB3I8ti-4 — habit
 
 ## Term
 
-"app" is the most frequent repeated content term in this source (a transcribed Instagram video from the thesunnahguy account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: qur, anly, app, habit-building. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "habit" is the daily Qur'an reading the Qur'anly app is built to protect, tracked day by day until the whole Qur'an is finished. It occurs 3 times, beside "habit-building", "daily targets", "notifications" and "compete", and the speaker credits the app with changing his Ramadan because it shows how much is read and how much is left. The friend behind the app, Issa, is presented as giving the premium version free to anyone who cannot afford it, so the habit survives money as well as forgetfulness. His invitation is concrete: comment the word app for the link, then read a little each day so finishing the Qur'an becomes routine rather than a Ramadan-only effort.
 
 ## Synonyms
 
-- app
-- thesunnahguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is Issa, a friend of mine who I've known for over 12 years. He's an entrepreneur and a dā'ī and someone who I really look up to. He's someone who a few years ago created the Qur'anly app, an app that is a habit-building app and it sends you notifications on a daily basis showing you how much you've read and how much is left to read so that you reach your Qur'an daily targets." — sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
-> "And honestly speaking, this app has changed the game for me. The beautiful thing about what Issa has done is that if you can't afford the app, you can simply say I can't afford it and you're able to download the premium version for free. So it's not something where he's making money from, but it's an app which he hopes that can help change the world and how Muslims engage and read the Qur'an." — sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
-> "Comment the word app down below and I'll send you the link to download the Qur'anly app and hopefully this Ramadan you can all finish the Qur'an but more importantly, build a habit of reading the Qur'an every single day inshaAllah." — sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
+> "He's someone who a few years ago created the Qur'anly app, an app that is a habit-building app and it sends you notifications on a daily basis showing you how much you've read and how much is left to read so that you reach your Qur'an daily targets." — sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
+> "We want people to be able to read the Qur'an as a daily habit and that all starts from having something that will help you build those habits." — sources/S_ig_thesunnahguy_C4WB3I8ti-4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "app": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- When it is read as the app itself: the habit is the daily reading, and the app is only the tracker and reminder that keeps it going.
+- When it is read as a Ramadan-only practice: the speaker's point is that the habit should run every single day, with Ramadan as the starting point, not the whole of it.
