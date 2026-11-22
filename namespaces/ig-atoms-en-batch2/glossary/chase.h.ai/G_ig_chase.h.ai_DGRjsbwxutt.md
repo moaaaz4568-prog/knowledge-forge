@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [agent, agents]
+aka: [tools, tool]
 origin: sources/S_ig_chase.h.ai_DGRjsbwxutt.md
 ---
 
-# G_ig_chase.h.ai_DGRjsbwxutt — agent
+# G_ig_chase.h.ai_DGRjsbwxutt — tools
 
 ## Term
 
-"agent" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: interface, actually, part, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, tools are the part of an AI agent that separates it from other software: the brain decides, memory remembers, and tools do the work. The word appears 3 times, beside email, calendar, and web, with the singular tool 4 times for the individual pieces. His concrete case is a personal assistant that sends emails, makes calendar events, and searches the web, so tool one is an email tool on Gmail, next a calendar tool, then a web tool. The tools always reflect what the speaker wants the agent to do, and the agent reaches them through a chat interface where the user talks to it.
 
 ## Synonyms
 
-- agent
-- agents (variant form used in the source)
+- tool (singular form, in "email tool", "calendar tool", and "web tool")
 
 ## Live Example
 
-> "Trying to understand what AI agents actually are can be pretty confusing, so let me help. Now, the most important part of the AI agent is what I like to refer to as its brain. This is the thing that's making all the decisions and who we're ultimately talking to when we interface with our AI agent. So inside the brain is some sort of LLM." — sources/S_ig_chase.h.ai_DGRjsbwxutt.md
-> "And so you're thinking something like ChatGPT's GPT-4, 01, 03. This is the thing that's actually working behind the scenes to get everything done. Now that seems pretty obvious. What else does an AI agent need? Well, it needs memory. Now, what's memory? Well, it's just what it sounds like. It's the ability for you to talk with your AI agent and have it actually remember past conversations." — sources/S_ig_chase.h.ai_DGRjsbwxutt.md
-> "So the tools would reflect what we wanted to actually do. So imagine tool one is some sort of email tool connected with your Gmail. Same thing with a calendar tool that's able to create events. And then we have some sort of web tool to search the web. Now, what's gonna happen is we're gonna interface with our AI agent in some way. There's some sort of input over here." — sources/S_ig_chase.h.ai_DGRjsbwxutt.md
+> "Okay, next up, and the big thing that separates AI agents from other stuff is tools." — sources/S_ig_chase.h.ai_DGRjsbwxutt.md
+> "So imagine tool one is some sort of email tool connected with your Gmail." — sources/S_ig_chase.h.ai_DGRjsbwxutt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole agent: tools are only one of three parts here — the brain decides and memory remembers — so naming the tools does not describe the agent.
+- Read as fixed built-ins: the speaker picks tools per job, so an email tool, a calendar tool, and a web tool exist because this assistant sends mail, books events, and searches, not because every agent has them.

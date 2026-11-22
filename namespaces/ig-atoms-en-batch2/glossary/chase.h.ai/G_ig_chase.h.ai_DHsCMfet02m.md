@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [meeting notes, chase.h.ai account context]
+aka: [Friday]
 origin: sources/S_ig_chase.h.ai_DHsCMfet02m.md
 ---
 
-# G_ig_chase.h.ai_DHsCMfet02m — meeting notes
+# G_ig_chase.h.ai_DHsCMfet02m — Friday
 
 ## Term
 
-"meeting notes" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: summary, notes, meeting, sent. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Friday is the upgraded name for the speaker's voice assistant: it used to be Jarvis, and now it is Friday, talking through ElevenLabs instead of text alone. The name appears 4 times, beside ElevenLabs, email, and RAG, and the demo is a full conversation — the speaker asks Friday to email Penny a summary of the March meeting notes, and Friday sends it. His concrete case is what happens behind the greeting: the request goes into the RAG system, a special database of internal documents, which summarizes the meeting notes and sends the email. The back-and-forth can continue from there, looking things up online or doing more tasks, and the whole agent was built in N8N with basically no code.
 
 ## Synonyms
 
-- meeting notes
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hello, I'm Friday. How can I help you? Hey Friday, can you send an email to Penny giving him a summary of the meeting notes that we just had in March? Got it. Please give me a few moments to complete that request. The summary of the March meeting notes has been successfully sent to Penny at chasesidechasehannigan. Com. Is there anything else I can do for you? Nope, that's it. Thanks." — sources/S_ig_chase.h.ai_DHsCMfet02m.md
-> "So it only just sent an email. It actually went into the RAG system, which is what you see here in blue. Think of that as like a special database with all your internal documents. So it went in there, summarized the meeting notes, sent off the email, all with the conversation. And I could keep having a back and forth going with Friday, right?" — sources/S_ig_chase.h.ai_DHsCMfet02m.md
+> "Used to be Jarvis, now it's been upgraded to Friday, and I'm doing this through ElevenLabs." — sources/S_ig_chase.h.ai_DHsCMfet02m.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "meeting notes": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a new agent: Friday is Jarvis renamed and upgraded to voice, not a second assistant, and the RAG system underneath is the same one.
+- Read as text chat with a voice skin: the conversation runs through ElevenLabs into the N8N agent, which does the work — email, RAG lookup — rather than just reading replies aloud.

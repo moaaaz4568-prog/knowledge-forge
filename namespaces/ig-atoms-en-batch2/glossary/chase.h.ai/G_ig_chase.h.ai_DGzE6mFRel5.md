@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [automatically post, chase.h.ai account context]
+aka: [Upload Posts]
 origin: sources/S_ig_chase.h.ai_DGzE6mFRel5.md
 ---
 
-# G_ig_chase.h.ai_DGzE6mFRel5 — automatically post
+# G_ig_chase.h.ai_DGzE6mFRel5 — Upload Posts
 
 ## Term
 
-"automatically post" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tool, post, automatically, tiktok. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Upload Posts is the third-party service the speaker uses to get around the pain of posting to TikTok and Instagram through their own APIs. The name appears once, beside API, money, and posting, and the deal is simple: pay them a little money and they give you an API. His concrete case is the flow: a video dropped in Google Drive goes to ChatGPT, which writes a caption and a title, and then the automation posts it to TikTok, Instagram, and YouTube. A Telegram message also asks him what to name each video and what the description should be before ChatGPT writes it, and the whole tool now lives inside Jarvis as one tool in a greater ecosystem.
 
 ## Synonyms
 
-- automatically post
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you've been looking for a tool that will automatically post your content onto social media like TikTok, Instagram, and YouTube, well, I just created a tool to do just that for my AI agent. So if you're someone who's ever tried to create a tool to automatically post to stuff like TikTok and Instagram, you know it can be kind of a pain in the butt to work with their API." — sources/S_ig_chase.h.ai_DGzE6mFRel5.md
-> "And then what this automation does is whenever I post a video and I just put it into my Google Drive, it'll automatically send it to ChatGPT, and then ChatGPT will then create a caption and a title for me, and then it'll automatically post it to TikTok, Instagram, and YouTube." — sources/S_ig_chase.h.ai_DGzE6mFRel5.md
+> "So to get around that, I actually used Upload Posts to do that." — sources/S_ig_chase.h.ai_DGzE6mFRel5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "automatically post": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a free workaround: Upload Posts is a paid third-party service, and the speaker pays a little money for the API it provides.
+- Read as the poster itself: Upload Posts only supplies the API; the automation — Drive, ChatGPT, and the posting step — is the speaker's own build around it.

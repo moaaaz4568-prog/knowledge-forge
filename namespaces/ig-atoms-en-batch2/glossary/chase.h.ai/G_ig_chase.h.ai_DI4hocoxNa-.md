@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [image, chase.h.ai account context]
+aka: [post]
 origin: sources/S_ig_chase.h.ai_DI4hocoxNa-.md
 ---
 
-# G_ig_chase.h.ai_DI4hocoxNa- — image
+# G_ig_chase.h.ai_DI4hocoxNa- — post
 
 ## Term
 
-"image" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: generation, remember, sort, brand. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, post is the unit the speaker's social media workflow produces: an image alongside written copy, made fresh for Twitter, LinkedIn, or a blog. The word appears 7 times, beside image, agent, and prompt, and the flow runs through two agents — a post agent that researches the web and writes, and an image agent that writes the image prompt for OpenAI. His concrete case is the form that starts it: a topic, an audience, and the look of the image, then the two agents combine their outputs and post. Each path has a slightly tweaked system prompt, so LinkedIn, Twitter, and a blog get different versions of the same idea.
 
 ## Synonyms
 
-- image
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let me show you the new AI agent that you need to be using to automate all of your social media posting. So here's what that AI workflow talks about. Now it takes the brand new OpenAI image generation API. You remember that big ChatGPT image generation craze that happened a month ago? Well, now we can actually use that in our automations to post all sorts of cool stuff on our social media." — sources/S_ig_chase.h.ai_DI4hocoxNa-.md
-> "Now this one is mainly just Twitter, LinkedIn, and blog posts, but you could expand that to stuff like Instagram and TikTok as well. So it takes your prompt, sends it here to the actual post agent, which does research via tablets. So it actually searches the web to give you a legitimate post. It then takes that information and sends it to the image agent." — sources/S_ig_chase.h.ai_DI4hocoxNa-.md
-> "That way you get something that's a little different for LinkedIn versus Twitter versus a blog. And you'll get a post that kind of looks like this, right? This one was about LLMs entrepreneurship. And then you get an image that you talked about in the style that you wanted. So I think this is super cool. This is just one more leap forward when it comes to AI powered, you know, content creation." — sources/S_ig_chase.h.ai_DI4hocoxNa-.md
+> "And then from there it combines the both of them and actually post it." — sources/S_ig_chase.h.ai_DI4hocoxNa-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "image": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the image: the post is the image plus the written copy together, and the image agent only makes the picture to go with the post agent's text.
+- Read as identical everywhere: the system prompt is tweaked per path, so the same topic becomes a different post on LinkedIn, Twitter, and a blog.

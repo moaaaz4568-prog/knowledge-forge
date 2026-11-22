@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [tools, chase.h.ai account context]
+aka: [tools]
 origin: sources/S_ig_chase.h.ai_DGTirO6RQlD.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_chase.h.ai_DGTirO6RQlD.md
 
 ## Term
 
-"tools" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: top, use, three, want. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, tools are the nine AI builders the speaker sorts into three groups of three for people with no technical background: agents, websites, and coding. The word appears 7 times, beside AI agents, websites, and prompt, and each group gets its own trio — N8N, Flowise, and Langflow for agents; V0, Bolt, and Lovable for websites; Cursor, Replit, and Windsurf for coding. His concrete case is the agent group: drag and drop modules, connect the tools you want, and the agent is up and running. All nine have free trials, and the speaker points to his community for step-by-step guides on using them.
 
 ## Synonyms
 
-- tools
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In the next 90 seconds, I'm gonna show you the top nine AI tools you need to use if you have no technical background and want to create AI agents, websites, or just start coding on your own. So let's start with AI agents. The top three tools are gonna be N8N, Flowise, and Langflow. These platforms all allow you to build AI agents without any technical background." — sources/S_ig_chase.h.ai_DGTirO6RQlD.md
-> "You give it a prompt and it starts building the website for you, does all the code on its own, and it'll even show you a preview of what it's gonna look like. And once you're satisfied, you can then get it up and running online with just a single click. And lastly, coding. And the top three tools there if you want some AI assistance is Cursor, Replit, and Windsurf." — sources/S_ig_chase.h.ai_DGTirO6RQlD.md
-> "So make sure you check all those tools out. They all have free trials. And if you're looking for guides on how to actually use those tools yourselves, like step-by-step guides of how to create AI agents, make sure to check out the community in my profile and follow this page. Thanks." — sources/S_ig_chase.h.ai_DGTirO6RQlD.md
+> "In the next 90 seconds, I'm gonna show you the top nine AI tools you need to use if you have no technical background and want to create AI agents, websites, or just start coding on your own." — sources/S_ig_chase.h.ai_DGTirO6RQlD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "tools": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as nine interchangeable tools: each trio serves one job only — the agent tools do not build websites and the website tools do not write code with an agent format.
+- Read as tools for coders: the whole list is picked for people with no technical background, and the coding trio assists with tab-completion rather than replacing hands-on coding.

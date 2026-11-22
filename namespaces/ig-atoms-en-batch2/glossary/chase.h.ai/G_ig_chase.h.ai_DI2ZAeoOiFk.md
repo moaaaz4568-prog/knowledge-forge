@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [image, images]
+aka: [AI-powered marketing]
 origin: sources/S_ig_chase.h.ai_DI2ZAeoOiFk.md
 ---
 
-# G_ig_chase.h.ai_DI2ZAeoOiFk — image
+# G_ig_chase.h.ai_DI2ZAeoOiFk — AI-powered marketing
 
 ## Term
 
-"image" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: create, generates, prompts, api. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, AI-powered marketing is the work OpenAI's new image generation API changes: the same image model that took over the internet can now run inside agents and automations. The phrase appears 2 times, beside image, LinkedIn, and workflow, and the speaker's workflow starts with a form — topic, audience, image type, and style — then routes to Twitter, LinkedIn, or blog posts. His concrete case is the LinkedIn route: research via the search tool creates the copy, an image prompt is written from that text, the image is generated, and the post goes out. The old limit was text-to-image models that could not really do text, and the new model unlocks that, so the whole flow can run at scale.
 
 ## Synonyms
 
-- image
-- images (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So AI-powered marketing has now completely changed with this new update from OpenAI. And that update is that OpenAI has now released an API for their image generation model, that same one that completely took over the internet this last month. That means we can now use that amazing model inside of AI agents and automations. And that's exactly what I did." — sources/S_ig_chase.h.ai_DI2ZAeoOiFk.md
-> "And the reason you see three different sections is because the image prompts, the text prompts for all those are a little bit different, right? They're nuanced for those particular platforms. And here's a quick example of the LinkedIn piece, right? We have this whole written document about LLMs and how it relates to entrepreneurs." — sources/S_ig_chase.h.ai_DI2ZAeoOiFk.md
-> "And then we get this cool like image that ChatGPT essentially created with sort of an anime filter. So you can imagine being able to do this at scale. And the reason why this is so cool is because we were kind of limited to text-to-image models before that weren't able to really do text. And now we can. So this unlocks a ton of stuff when it comes to AI-powered marketing." — sources/S_ig_chase.h.ai_DI2ZAeoOiFk.md
+> "So AI-powered marketing has now completely changed with this new update from OpenAI." — sources/S_ig_chase.h.ai_DI2ZAeoOiFk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "image": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as just generating pictures: the workflow researches the content, writes the copy, then makes the image from that text, and the image is only one step of the post.
+- Read as one flow for all platforms: the routes split because the image and text prompts are nuanced per platform — LinkedIn, Twitter, and blog each get their own version.

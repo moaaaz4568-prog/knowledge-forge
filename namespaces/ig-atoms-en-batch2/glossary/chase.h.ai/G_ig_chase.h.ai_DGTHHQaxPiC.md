@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [now, chase.h.ai account context]
+aka: [4.0]
 origin: sources/S_ig_chase.h.ai_DGTHHQaxPiC.md
 ---
 
-# G_ig_chase.h.ai_DGTHHQaxPiC — now
+# G_ig_chase.h.ai_DGTHHQaxPiC — 4.0
 
 ## Term
 
-"now" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: using, thinking, switching, reason. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, 4.0 is ChatGPT's model in the sweet spot for API calls — more expensive than 4.0 mini but still giving good performance — and the speaker says Gemini Flash 2.0 is now taking its place. The token appears 9 times, beside API calls, price, and Gemini, and the speaker's case is cost against performance: Gemini 2.0 is much cheaper than 4.0 while giving better performance, and it can do function calls that DeepSeek R1 cannot. His concrete case is a switch: anyone using 4.0 for API calls should look at Gemini instead, since 2.0 does all the stuff 4.0 does at a fraction of the price. He adds that most jobs do not need R1 or 01 or 03, which is why 4.0's middle spot mattered in the first place.
 
 ## Synonyms
 
-- now
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So Google just released some updates this past week to their Gemini Flash 2.0 model, and it's pretty good and it's really, really cheap, super cheap. And if you're someone who's been using ChatGPT's 4.0, especially for API calls, you really need to be thinking about switching. Now, is the reason because Gemini Flash 2.0 is now better than say 0103 for DeepSeek? No." — sources/S_ig_chase.h.ai_DGTHHQaxPiC.md
-> "But what the 2.0 model now does is it takes the place I think of where 4.0 was when it comes to using API calls. Now, 4.0 has kind of been in that sweet spot, right? Where it's more expensive than 4.0 mini, but it still gives you good performance. And in many cases, we don't really need R1 or 01 or 03. But I think Gemini's 2.0 is taking 4.0's spot." — sources/S_ig_chase.h.ai_DGTHHQaxPiC.md
-> "So I don't think enough people are talking about it and you should definitely take a look at switching over to Gemini if 4.0 is something you're using right now." — sources/S_ig_chase.h.ai_DGTHHQaxPiC.md
+> "I mean, just look at these stats and look at this price. Look at the pricing. It is so much cheaper than 4.0 and you're getting better performance, right?" — sources/S_ig_chase.h.ai_DGTHHQaxPiC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "now": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Gemini beating 4.0 at everything: the speaker says Gemini 2.0 is not better than 0103 for DeepSeek, only that it takes 4.0's spot for API calls on price and performance.
+- Read as a call to drop ChatGPT entirely: the switch he urges is for API calls where 4.0 is used now, and he keeps 4.0 mini, R1, and 01/03 in the picture for other jobs.

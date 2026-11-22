@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [agent, agents]
+aka: [augmented LLM]
 origin: sources/S_ig_chase.h.ai_DGqtDF1xM_x.md
 ---
 
-# G_ig_chase.h.ai_DGqtDF1xM_x — agent
+# G_ig_chase.h.ai_DGqtDF1xM_x — augmented LLM
 
 ## Term
 
-"agent" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: workflow, actually, agent, versus. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, augmented LLM is Anthropic's building block for any AI agent: an LLM in the middle, with inputs, outputs, memory, and tools around it. The phrase appears 3 times, beside workflow, agent, and tools, and the speaker quotes Anthropic's article Building Effective Agents, from December of last year, as the definition that settles the agent-versus-workflow argument. His concrete case is the difference itself: an agent directs its own processes and calls tools dynamically based on the task, with nothing hard coded in the path it walks, while a workflow follows a fixed path. The speaker notes the same shape appears in agents he has already built, and says the tools are available to non-developers too.
 
 ## Synonyms
 
-- agent
-- agents (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So what is the actual definition of an AI agent? Well, if you ask 10 different people, you're probably gonna get 10 different answers. And if you've been in the comments of any video on here that claims to show you an AI agent, you've inevitably seen the arguments that go on between people saying, no, that's actually workflow. Yes, it's actually an agent." — sources/S_ig_chase.h.ai_DGqtDF1xM_x.md
-> "And so those tools and the ability for that augmented LLM to call on those tools dynamically based on the tasks that are given it, that's what makes an AI agent. So this sort of augmented LLM building block is where AI is headed and all the agentic AI you've heard people talk about, it's all based on this." — sources/S_ig_chase.h.ai_DGqtDF1xM_x.md
-> "It's called Building Effective Agents. It came out in December of last year, but it's a pretty quick read. But I think they really hit the nail on the head in terms of the workflow versus agent discussion." — sources/S_ig_chase.h.ai_DGqtDF1xM_x.md
+> "They also have this cool graphic in there of what they call the augmented LLM." — sources/S_ig_chase.h.ai_DGqtDF1xM_x.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a bigger model: the augmented LLM is an LLM plus memory, tools, and inputs and outputs — the augmentation is the surrounding system, not model size.
+- Read as the speaker's own definition: the definition and the graphic come from Anthropic's article, and the speaker is reporting it as the one he finds brilliant, not inventing it.

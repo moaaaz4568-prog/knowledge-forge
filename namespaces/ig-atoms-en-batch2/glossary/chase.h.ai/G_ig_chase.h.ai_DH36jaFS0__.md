@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [Eleven Labs, chase.h.ai account context]
+aka: [webhook, webhooks]
 origin: sources/S_ig_chase.h.ai_DH36jaFS0__.md
 ---
 
-# G_ig_chase.h.ai_DH36jaFS0__ — Eleven Labs
+# G_ig_chase.h.ai_DH36jaFS0__ — webhook
 
 ## Term
 
-"Eleven Labs" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: labs, eleven, actually, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, webhook is the connection that lets Eleven Labs talk to the speaker's N8N agent, carrying voice and text in both directions. The word appears 9 times, beside voice, text, and message, with the plural webhooks twice for the pair of them. His concrete case is the setup: a voice webhook and a text webhook sit in N8N, and the Eleven Labs tool posts the user's request to the voice webhook, which passes it as a body parameter called message. The agent answers back through the same webhook, so the conversation flows like talking to a human, and the speaker also passes a conversation ID through the webhook so the agent knows which conversation to reference.
 
 ## Synonyms
 
-- Eleven Labs
-- chase.h.ai account context (no variant form of the term appears in this source)
+- webhooks (plural form, in "through webhooks")
 
 ## Live Example
 
-> "Hey Friday, can you send an email to Chase giving a summary of the meeting we just had last week? Let me take care of that for you. Let me show you how you can hook up Eleven Labs to your AI agent so you can have free flowing voice conversations with it, like you're talking to a human. But here's the agent I've been working on that uses Eleven Labs for me to talk to it. I'm also able to use text." — sources/S_ig_chase.h.ai_DH36jaFS0__.md
-> "But the way you do it is through webhooks, right? Right here we have a voice webhook and a text webhook. And webhooks are essentially just like, um, a way for us to pass information from Eleven Labs to our AI agent, in this case, inside N8N. So let's actually go to Eleven Labs first. So here we are inside of Eleven Labs, and what you want to do is you want to go to conversational AI." — sources/S_ig_chase.h.ai_DH36jaFS0__.md
+> "And webhooks are essentially just like, um, a way for us to pass information from Eleven Labs to our AI agent, in this case, inside N8N." — sources/S_ig_chase.h.ai_DH36jaFS0__.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Eleven Labs": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the voice itself: the webhook only passes information between Eleven Labs and N8N; the voice, the LLM, and the tools live on either side of it.
+- Read as one connection for everything: there are two webhooks, one for voice and one for text, and the agent can run on either.

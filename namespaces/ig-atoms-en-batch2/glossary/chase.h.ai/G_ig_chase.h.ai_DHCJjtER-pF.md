@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [cost, chase.h.ai account context]
+aka: [cost]
 origin: sources/S_ig_chase.h.ai_DHCJjtER-pF.md
 ---
 
@@ -9,20 +9,17 @@ origin: sources/S_ig_chase.h.ai_DHCJjtER-pF.md
 
 ## Term
 
-"cost" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: average, cost, either, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, cost is the first of the two excuses the speaker knocks down for not building AI agents: Jarvis, hooked to multiple APIs, databases, and N8N itself, averages under $10 a month. The word appears 6 times, beside Jarvis, APIs, and $10, and the speaker's point is that the whole stack — APIs, databases, N8N — fits inside that $10 for an individual user. His concrete case is Jarvis himself: he sends emails, works the calendar, helps with content, and runs on a RAG vector database, all for under $10 a month. The second excuse is coding, which he answers the same way: Jarvis was built with no code at all, only modules hooked together in N8N.
 
 ## Synonyms
 
-- cost
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to learn how to create AI agents, but you haven't started because you think it's either A) gonna cost too much, or B) you have no chance because you don't know how to code, let me show you why both those answers are wrong. So first, let's talk about the cost. So here is my AI agent, Jarvis." — sources/S_ig_chase.h.ai_DHCJjtER-pF.md
-> "And that $10 cost includes multiple APIs, the databases it's hooked up to, N8N itself, all of that under $10 for an individual user. Now let's talk about the fact that you have no technical background and have no idea how to code. Should that stop you from creating AI agents? Absolutely not. So here's Jarvis again, and he was created without me coding anything. All I did was I used N8N." — sources/S_ig_chase.h.ai_DHCJjtER-pF.md
-> "So that being said, cost and the inability to code shouldn't be what stops you from creating your own AI agent. So if you're looking for guides on how to create AI agents without using code like Jarvis, make sure to check out the community in my profile where I do step by step guides that are all about teaching you the non technical user how to make them. Hope to see you there." — sources/S_ig_chase.h.ai_DHCJjtER-pF.md
+> "And you know what the cost is? The average cost for me month to month is under $10." — sources/S_ig_chase.h.ai_DHCJjtER-pF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cost": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as $10 total to start: the $10 is the average month-to-month running cost for one user, not a one-time price for building the agent.
+- Read as free: under $10 still means paying for APIs, databases, and N8N — cheap, not zero.

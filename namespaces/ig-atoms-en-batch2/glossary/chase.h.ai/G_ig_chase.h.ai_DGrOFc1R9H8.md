@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [super cool, chase.h.ai account context]
+aka: [email, emails]
 origin: sources/S_ig_chase.h.ai_DGrOFc1R9H8.md
 ---
 
-# G_ig_chase.h.ai_DGrOFc1R9H8 — super cool
+# G_ig_chase.h.ai_DGrOFc1R9H8 — email
 
 ## Term
 
-"super cool" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: cool, super, helps, said. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, email is the Jarvis capability the speaker fleshed out: before, Jarvis could only send and reply, and now he can do everything Gmail does. The word appears 2 times, beside drafts, labels, and Gmail, with the plural emails 3 times for the messages themselves. His concrete case is the upgrade: Jarvis creates drafts, labels emails, and pulls specific emails based on those labels. The other update in the video is the content creation tool, which carries an idea from generation through research to the finished written piece, and both updates were built in N8N with virtually no code.
 
 ## Synonyms
 
-- super cool
-- chase.h.ai account context (no variant form of the term appears in this source)
+- emails (plural form, in "label emails")
 
 ## Live Example
 
-> "The big updates I gave him were to his email and his content creation tool, so let's take a look at those. So here's the content creation tool. I've done another deep dive video on how I created this, but it's super cool. It helps you with everything from idea generation to researching a specific topic all the way to creating the actual content yourself." — sources/S_ig_chase.h.ai_DGrOFc1R9H8.md
-> "And like I said before, the super cool thing about this was that I used virtually no code. And if you're interested in something like this, you can definitely try it too. I used N8N to do all this." — sources/S_ig_chase.h.ai_DGrOFc1R9H8.md
-> "There's tons of super cool tutorials out there, but if you're looking for step-by-step guides to build stuff like this exact agent, just make sure to check out the community in my profile and also follow this page." — sources/S_ig_chase.h.ai_DGrOFc1R9H8.md
+> "I also fleshed out his actual email capabilities." — sources/S_ig_chase.h.ai_DGrOFc1R9H8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "super cool": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Jarvis reading all mail: the new power is scoped to Gmail actions — drafts, labels, and pulling by label — not reading the speaker's whole inbox.
+- Read as a new tool: the email work is an upgrade to Jarvis's existing capabilities, while the content creation tool is the separate new piece.

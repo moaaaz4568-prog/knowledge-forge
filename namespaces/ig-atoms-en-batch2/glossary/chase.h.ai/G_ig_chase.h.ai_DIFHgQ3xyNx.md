@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [wanted, chase.h.ai account context]
+aka: [newsletter]
 origin: sources/S_ig_chase.h.ai_DIFHgQ3xyNx.md
 ---
 
-# G_ig_chase.h.ai_DIFHgQ3xyNx — wanted
+# G_ig_chase.h.ai_DIFHgQ3xyNx — newsletter
 
 ## Term
 
-"wanted" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: essentially, wanted, now, client. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, newsletter is the custom morning email the speaker builds for a client: curated from the client's chosen websites and topics, it lands in his Gmail every morning. The word appears once, beside RSS, Gmail, and topics, and the build combines RSS feeds with a live web search tool, taking hundreds of articles a day and merging them. His concrete case is the selection: OpenAI summarizes the articles and picks the most relevant for the 10 or 15 topics the client named, then a code block makes it look pretty for Gmail. The speaker's point is that AI is good at taking tons of unstructured information and making it structured, and the automation itself is pretty simple.
 
 ## Synonyms
 
-- wanted
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey everybody, let me show you the latest AI workflow that I created for a client. Now, what this client wanted is he essentially wanted a custom newsletter that would show up inside of his Gmail every single morning, right? He wanted it to be curated from certain websites of his choice and certain topics. So what I did is I combined RSS feeds with Tableau Search." — sources/S_ig_chase.h.ai_DIFHgQ3xyNx.md
-> "Now this is a pretty simple automation, but I think it shows you one of the great things that AI is good at, right? Taking tons of unstructured information and then making it structured. So if you wanted to make something like this yourself, right, there's a few code blocks, but they're very, very simple." — sources/S_ig_chase.h.ai_DIFHgQ3xyNx.md
+> "Now, what this client wanted is he essentially wanted a custom newsletter that would show up inside of his Gmail every single morning, right?" — sources/S_ig_chase.h.ai_DIFHgQ3xyNx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "wanted": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a generic news digest: the newsletter is curated for one client's 10 or 15 chosen topics, not a general roundup.
+- Read as fully automatic writing: the AI summarizes and picks, but the topics, the websites, and the Gmail delivery are all the client's choices.

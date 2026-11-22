@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [agent, chase.h.ai account context]
+aka: [Perplexity]
 origin: sources/S_ig_chase.h.ai_DGa-lNYRg7n.md
 ---
 
-# G_ig_chase.h.ai_DGa-lNYRg7n — agent
+# G_ig_chase.h.ai_DGa-lNYRg7n — Perplexity
 
 ## Term
 
-"agent" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: built, love, because, absolutely. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Perplexity is the research engine behind the speaker's blog-writing agent, powering both the idea generation tool and the research tool. The name appears 4 times, beside research, topic, and citations, and the speaker defines it plainly: essentially Google on steroids, Google with AI. His concrete case is choosing a topic: the idea tool sends the topic to Perplexity and returns five relevant topics, then the research tool pings Perplexity again for a deep dive with citations and sources. The agent also generates images through Flux and searches the web with Serp API, but the research that shapes the blog runs on Perplexity.
 
 ## Synonyms
 
-- agent
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I absolutely love this AI agent I just built. So this AI agent's all about helping you create written content, and in this case, it's blogs. So the one reason why I love this particular AI agent is because it sounds like you. It's actually trained on your writing, so it maintains your unique voice when it outputs its content." — sources/S_ig_chase.h.ai_DGa-lNYRg7n.md
-> "So if you're looking for step-by-step guides on how to make this exact agent and others just like it, just check out the community in my profile. So at the bottom here, we have the idea generation and research tool. Both of these are powered by Perplexity. Now Perplexity, if you don't know what it is, it's essentially Google on steroids. It's Google with AI." — sources/S_ig_chase.h.ai_DGa-lNYRg7n.md
-> "And then we also have the image generator here. So if you want to create images for your blog, it does it through AI. It uses Flux. Now if you've used text to image generators before, something like Dolly, they're not always the best, but Flux is really, really good, probably the best one on the market right now. And with a single prompt, you're able to do this all within the same agent." — sources/S_ig_chase.h.ai_DGa-lNYRg7n.md
+> "Now Perplexity, if you don't know what it is, it's essentially Google on steroids." — sources/S_ig_chase.h.ai_DGa-lNYRg7n.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a search box inside the agent: Perplexity is the engine for two separate tools — idea generation and research — and the research tool also optimizes the prompt before the deep dive.
+- Read as the agent writing the blog alone: Perplexity returns citations and sources so the speaker can research on his own, and he stays in the driver's seat while the agent drafts.

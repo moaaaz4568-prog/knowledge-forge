@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [email, emails]
+aka: [agent, agents]
 origin: sources/S_ig_chase.h.ai_DGZBWLLufRx.md
 ---
 
-# G_ig_chase.h.ai_DGZBWLLufRx — email
+# G_ig_chase.h.ai_DGZBWLLufRx — agent
 
 ## Term
 
-"email" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: send, sent, hours, articles. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, agent is Jarvis, the speaker's personal assistant that runs GPT-4 in the background and keeps gaining tools: voice and text chat, a vector store, Reddit, contacts, email, calendar, and web search. The word appears 5 times, beside tools, email, and meeting, with the plural agents once for agents like this one. His concrete case is a single message that does three jobs: find AI articles from the past 24 hours, email them to his friend Penny, and set up a meeting with him tonight at seven. The agent finds the articles, sends the email, and schedules the meeting from that one prompt, and it knows who Penny is and his email without being told twice.
 
 ## Synonyms
 
-- email
-- emails (variant form used in the source)
+- agents (plural form, in "building AI agents like this")
 
 ## Live Example
 
-> "It can create calendar events. It can even search the internet and create content outlines for me just by me prompting the agent. Okay, so let's test this guy out. I'm gonna ask my agent if it can find me a couple articles about AI in the past 24 hours, send an email with those articles to my friend Penny, and then set up a meeting with him tonight at seven." — sources/S_ig_chase.h.ai_DGZBWLLufRx.md
-> "So I need this AI agent to search the internet, find the articles I'm talking about, send an email through Gmail, and then go into my calendar and set up a meeting. It has to know who Penny is. It has to know his email, and it's gonna do all this just based off one message. Okay, so it says it sent the email and also scheduled the meeting. So let's take a look at the email. And here's the email." — sources/S_ig_chase.h.ai_DGZBWLLufRx.md
+> "My AI agent that acts as my personal assistant is starting to get pretty crazy." — sources/S_ig_chase.h.ai_DGZBWLLufRx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "email": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as three separate automations: the speaker's point is one message driving all three jobs — search, email, and calendar — through the same agent.
+- Read as the agent knowing Penny by magic: the agent works because Penny's contact and email are already in its contacts and vector store, not because it guesses them.
