@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [calculator, regaliscapital account context]
+aka: [acquisitions, acquiring]
 origin: sources/S_ig_regaliscapital_DRxWyWzDtLs.md
 ---
 
-# G_ig_regaliscapital_DRxWyWzDtLs — calculator
+# G_ig_regaliscapital_DRxWyWzDtLs — acquisitions
 
 ## Term
 
-"calculator" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: definitely, happen, made, gives. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source acquisitions are the repeated purchases that compound a business toward ten million dollars: starting with $50, 000 saved and a million dollar business, each new acquisition only 15% larger than the previous one every two years reaches the goal in eight years and five acquisitions. The word occurs once, beside 'acquiring new businesses', 'only 15% larger than the previous one', and 'every two years'. The speaker admits the path is not guaranteed, and offers a calculator that gives a visual representation of what is possible.
 
 ## Synonyms
 
-- calculator
-- regaliscapital account context (no variant form of the term appears in this source)
+- acquiring (the verb form the source uses for the same purchases)
 
 ## Live Example
 
-> "Now, of course, this isn't guaranteed, but it's something that can definitely happen. This calculator we made gives you a clear visual representation of what's possible and the overall big picture." — sources/S_ig_regaliscapital_DRxWyWzDtLs.md
+> "If you keep acquiring new businesses that are only 15% larger than the previous one every two years, it would take you only eight years and five acquisitions to get there." — sources/S_ig_regaliscapital_DRxWyWzDtLs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "calculator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guaranteed path to ten million: the speaker says plainly 'this isn't guaranteed', and the eight-year figure depends on every acquisition being 15% larger on schedule.
+- Read as buying five businesses at once: the five acquisitions are spread over eight years, one every two years, not a single spending spree.

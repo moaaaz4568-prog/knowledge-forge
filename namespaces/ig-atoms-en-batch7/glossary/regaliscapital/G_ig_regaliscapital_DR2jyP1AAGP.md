@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [business, regaliscapital account context]
+aka: [entrepreneurship through acquisition]
 origin: sources/S_ig_regaliscapital_DR2jyP1AAGP.md
 ---
 
-# G_ig_regaliscapital_DR2jyP1AAGP — business
+# G_ig_regaliscapital_DR2jyP1AAGP — entrepreneurship through acquisition
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: building, one, perfect, buy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source entrepreneurship through acquisition names a course Brian and Onu took during their MBA at Emory, and it means buying a business instead of building one. The phrase occurs once, beside 'buying a business instead of building one', 'acquire a profitable business without building one', and 'started hunting for the perfect business'. The two graduates spent two years searching, cold calling owners, and flying out to meet sellers before finding a small brokerage in North Carolina, which they bought with savings, an SBA loan, and seller financing.
 
 ## Synonyms
 
-- business
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This sparked an idea that they could acquire a profitable business without building one. So that night, they sat down at Onu's house and started hunting for the perfect business, much longer process than they initially thought." — sources/S_ig_regaliscapital_DR2jyP1AAGP.md
-> "They spent their days optimizing and scaling that business, and within nine months, they bought a second company, and then a third one just a few months later." — sources/S_ig_regaliscapital_DR2jyP1AAGP.md
+> "during their MBA at Emory, they took a course in entrepreneurship through acquisition, which basically means buying a business instead of building one." — sources/S_ig_regaliscapital_DR2jyP1AAGP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as starting a company from scratch: the course teaches buying an existing profitable business, the opposite of building one.
+- Read as a guarantee that acquisition pays off: the pair searched two years and spent hundreds of hours before finding one business, so the source shows a long hunt, not a quick win.

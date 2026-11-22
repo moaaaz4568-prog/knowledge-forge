@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [Number, regaliscapital account context]
+aka: [no-choice service]
 origin: sources/S_ig_regaliscapital_DQrsgHTgGGx.md
 ---
 
-# G_ig_regaliscapital_DQrsgHTgGGx — Number
+# G_ig_regaliscapital_DQrsgHTgGGx — no-choice service
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: six, right, now, storage. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a no-choice service is a business whose customers pay whatever is asked because the need cannot wait: the example is pest control, where people pay however much is asked when pests show up no matter what. The phrase occurs once, beside 'pest control services', 'people will pay however much you ask', and 'no matter what'. The speaker ranks six boring businesses by profit and treats the no-choice quality as the reason pest control commands its price, not as a comment on the service itself.
 
 ## Synonyms
 
-- Number
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And an average plumbing business makes anywhere from 200 grand to millions a year in profit. Number three, cleaning companies." — sources/S_ig_regaliscapital_DQrsgHTgGGx.md
+> "This is a no-choice service, meaning people will pay however much you ask when pests show up no matter what." — sources/S_ig_regaliscapital_DQrsgHTgGGx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that pest control has no competitors: the phrase means customers cannot defer the purchase, not that no other company offers it.
+- Read as a price guarantee: the source says people will pay however much is asked, but it never names a price, a margin, or a profit figure for pest control.

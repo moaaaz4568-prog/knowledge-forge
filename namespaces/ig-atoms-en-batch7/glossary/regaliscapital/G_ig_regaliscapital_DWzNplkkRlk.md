@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [multiple, regaliscapital account context]
+aka: [roll-ups]
 origin: sources/S_ig_regaliscapital_DWzNplkkRlk.md
 ---
 
-# G_ig_regaliscapital_DWzNplkkRlk — multiple
+# G_ig_regaliscapital_DWzNplkkRlk — roll-ups
 
 ## Term
 
-"multiple" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: times, buy, small, businesses. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source roll-ups are the first of two terms every buyer needs to know: buy multiple small businesses, combine them into a single bigger company, and sell it for a higher price because it is bigger now. The word occurs twice, beside 'combine them into a single bigger company', 'sell it for a higher price', and 'multiple arbitrage'. The example grows a business from 2 million bucks in profit at a four times multiple to 5 million at a six times multiple — from 8 million dollars to 30 million — and the buyer still needs only 5% cash with government-backed bank financing up to 90%.
 
 ## Synonyms
 
-- multiple
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Roll-ups are when you buy multiple small businesses and combine them into a single bigger company. And because that company is bigger now, you can sell it for a higher price." — sources/S_ig_regaliscapital_DWzNplkkRlk.md
+> "Roll-ups are when you buy multiple small businesses and combine them into a single bigger company." — sources/S_ig_regaliscapital_DWzNplkkRlk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "multiple": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as simply buying many businesses: a roll-up also combines them into one bigger company, and the higher price comes from the size, not from the count alone.
+- Read as a billionaires-only strategy: the speaker says directly that thinking only billionaires can use this is 100% wrong, since bank financing covers up to 90% of the deal.

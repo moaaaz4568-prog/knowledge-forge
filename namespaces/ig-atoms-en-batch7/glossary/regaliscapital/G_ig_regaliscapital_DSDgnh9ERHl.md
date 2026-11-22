@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [around, regaliscapital account context]
+aka: [cash down]
 origin: sources/S_ig_regaliscapital_DSDgnh9ERHl.md
 ---
 
-# G_ig_regaliscapital_DSDgnh9ERHl — around
+# G_ig_regaliscapital_DSDgnh9ERHl — cash down
 
 ## Term
 
-"around" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: grand, year, usually, making. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source cash down is the buyer's own money handed over at purchase, quoted business by business: $22, 500 for junk removal, $30, 000 for a commercial cleaning service, $45, 000 for septic tank services, and $60, 000 for portable toilet rentals. The phrase occurs five times, beside 'the 5% cash down formula', 'a success rate above 90%', and 'portable toilet rentals'. The speaker lists five boring businesses, all outside AI and tech, and presents each cash-down figure as the small entry price for a business profiting 100 to 400 grand a year.
 
 ## Synonyms
 
-- around
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Number two, junk removal companies. They usually profit around 150 grand a year, and you can acquire one worth $450, 000 with just $22, 500 cash down." — sources/S_ig_regaliscapital_DSDgnh9ERHl.md
-> "Finally, number five, portable toilet rentals. They make about 400 grand a year and can be acquired for around $1." — sources/S_ig_regaliscapital_DSDgnh9ERHl.md
+> "Number three, a commercial cleaning service. If it's making around $200, 000 a year, it'll sell for around 600 grand, which means for $30, 000 cash down, you can acquire it." — sources/S_ig_regaliscapital_DSDgnh9ERHl.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "around": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the total cost of the business: the cash down is only the buyer's slice, with the rest financed, so a $30, 000 down payment buys a 600-grand business, not a 30-grand one.
+- Read as a fixed 5% rule with no exceptions: the laundromat in the same list is quoted at 15% down, so the speaker's own figures do not all follow the 5% formula.

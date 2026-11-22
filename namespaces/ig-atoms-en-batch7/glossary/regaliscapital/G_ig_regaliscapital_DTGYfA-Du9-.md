@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [business, regaliscapital account context]
+aka: [cash flow, cash flows]
 origin: sources/S_ig_regaliscapital_DTGYfA-Du9-.md
 ---
 
-# G_ig_regaliscapital_DTGYfA-Du9- — business
+# G_ig_regaliscapital_DTGYfA-Du9- — cash flow
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, number, buy, wealthy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source cash flow is the business's own money doing the buying: the company's cash flows cover the SBA loan, the seller note, the manager, the salary, and whatever is left is pure profit, so the buyer uses the business's cash flow to buy the business. The phrase occurs twice, beside 'the SBA covers the remaining 90%', 'the seller carries the remaining as a note', and 'scaling becomes easy'. The structure is a million dollar business for 50 to 75, 000 out of pocket, and once the first one is owned, its cash flow, assets, credit, and management fund the second.
 
 ## Synonyms
 
-- business
-- regaliscapital account context (no variant form of the term appears in this source)
+- cash flows (the plural form the source uses for the same money)
 
 ## Live Example
 
-> "You're using the business's cash flow to buy the business. And once you own the first one, scaling becomes easy." — sources/S_ig_regaliscapital_DTGYfA-Du9-.md
+> "You're using the business's cash flow to buy the business." — sources/S_ig_regaliscapital_DTGYfA-Du9-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the business paying for itself with no money down: the buyer still brings 50 to 75, 000, and the SBA covers 900, 000 of a million-buck deal, so the cash flow services debt rather than replacing the deposit.
+- Read as profit from day one: the cash flows must first cover the loan, the seller note, the manager, and the salary, and only whatever is left counts as pure profit.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [million, regaliscapital account context]
+aka: [succession plan]
 origin: sources/S_ig_regaliscapital_DUGrk6pDl96.md
 ---
 
-# G_ig_regaliscapital_DUGrk6pDl96 — million
+# G_ig_regaliscapital_DUGrk6pDl96 — succession plan
 
 ## Term
 
-"million" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: million, today, ended, making. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a succession plan is what the family-run businesses Sean Stimson hunted did not have: overlooked, no one to take over, bought at a fair market price, fixed where broken, then stacked with more acquisitions in the same lane. The phrase occurs once, beside 'family-run businesses', 'fair market price', and 'fix what's broken'. Sean spent five years studying entrepreneurship through acquisition at Babson while working at Bank of America, then called over 1, 200 owners across eighteen months before acquiring Mitten Fluid Power for $12.5 million with an SBA loan.
 
 ## Synonyms
 
-- million
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In December 2022, he acquired Mitten Fluid Power, an industrial distributor focused on motion and control technologies, for $12.5 million using an SBA loan." — sources/S_ig_regaliscapital_DUGrk6pDl96.md
+> "His thesis was simple: find overlooked family-run businesses with no succession plan, buy them at a fair market price, fix what's broken, then keep acquiring more in the same lane." — sources/S_ig_regaliscapital_DUGrk6pDl96.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "million": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as buying only distressed companies: the targets are family-run businesses with no succession plan, which the source presents as overlooked, not necessarily failing.
+- Read as a fast path to $38 million: the holding company took years — five studying, eighteen months calling owners, fourteen months to grow revenue — so the timeline is part of the thesis, not an overnight win.

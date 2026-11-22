@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [white, regaliscapital account context]
+aka: [chant]
 origin: sources/S_ig_regaliscapital_DQuceEgDmlW.md
 ---
 
-# G_ig_regaliscapital_DQuceEgDmlW — white
+# G_ig_regaliscapital_DQuceEgDmlW — chant
 
 ## Term
 
-No content word repeats often enough in this short source (15 words) to form a repeated term, so this entry documents the source's central term "white" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung line, and 'chant' here is only the entry's type label, not a concept the account defines. The line calls for turning the boat, waving the flag, and pulling the red, white, and blue, with no business, deal, or strategy named anywhere in its fifteen words. It plays as a music clip, so nothing in it can be read as the account's advice or as a name for any kind of company.
 
 ## Synonyms
 
-- white
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (15 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "white": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as sailing advice: the words are a sung line, and the source gives no boat, route, or instruction the account is actually endorsing.
+- Read as a patriotic slogan of the account: the red, white, and blue are part of the lyric, not a statement the account makes about any country or cause.

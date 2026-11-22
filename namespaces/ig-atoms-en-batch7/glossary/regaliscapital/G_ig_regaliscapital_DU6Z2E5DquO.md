@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [businesses, business]
+aka: [bolt-on acquisitions]
 origin: sources/S_ig_regaliscapital_DU6Z2E5DquO.md
 ---
 
-# G_ig_regaliscapital_DU6Z2E5DquO — businesses
+# G_ig_regaliscapital_DU6Z2E5DquO — bolt-on acquisitions
 
 ## Term
 
-"businesses" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: firms, buy, improve, flip. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source bolt-on acquisitions are the small add-on purchases through which Will Thorndike compounds growth: he targets small recurring businesses off-market, acquires them with minimal equity, installs first-time CEOs, and holds them long-term while compounding through operations and bolt-on acquisitions. The phrase occurs once, beside 'small recurring businesses', 'first-time CEOs', and 'never selling'. The approach generates roughly 30% as an annual return and 3 to 4x capital multiples, doing the exact opposite of private equity firms that buy, improve, and flip.
 
 ## Synonyms
 
-- businesses
-- business (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_regaliscapital_DU6Z2E5DquO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "businesses": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as buying any small business: Thorndike targets recurring businesses off-market specifically, not any company for sale.
+- Read as a quick flip dressed up: the point is never selling and holding long-term, so the acquisitions compound rather than exit.

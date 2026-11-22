@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [first, regaliscapital account context]
+aka: [first 30 days]
 origin: sources/S_ig_regaliscapital_DT54aKNDkkw.md
 ---
 
-# G_ig_regaliscapital_DT54aKNDkkw — first
+# G_ig_regaliscapital_DT54aKNDkkw — first 30 days
 
 ## Term
 
-"first" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: days, reality, acquisition, buying. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source the first 30 days are the window that makes or breaks a deal: after buying a business, the buyer does not reinvent anything, disrupt anything, or try to be the hero, but simply observes how everything actually works. The phrase occurs three times, beside 'make or break the deal', 'you don't reinvent anything', and 'controlling the cash flow'. The buyer watches pricing decisions, finds where the money leaks are, and learns which employees move the needle, while the business runs exactly as before — only the cash flow changes hands.
 
 ## Synonyms
 
-- first
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You watch how pricing decisions are made, you identify where the money leaks are, and you learn which employees actually move the needle and which ones don't." — sources/S_ig_regaliscapital_DT54aKNDkkw.md
+> "Most people think buying the business is the hard part, but in reality, the first 30 days after acquisition are what make or break the deal." — sources/S_ig_regaliscapital_DT54aKNDkkw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "first": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a month of doing nothing: observing is the work — watching pricing, finding money leaks, and learning which employees move the needle, all while the business keeps running.
+- Read as a rule that optimization must wait forever: the source only bars reinvention in the first month, because most acquisitions fail when owners optimize before they understand the machine.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [five million, regaliscapital account context]
+aka: [return on investment]
 origin: sources/S_ig_regaliscapital_DWmeHRgkZRG.md
 ---
 
-# G_ig_regaliscapital_DWmeHRgkZRG — five million
+# G_ig_regaliscapital_DWmeHRgkZRG — return on investment
 
 ## Term
 
-"five million" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: buy, dollar, business, percent. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source return on investment is the verdict on buying a five million dollar business for two hundred and fifty grand: ninety percent SBA loan, five percent seller finance, five percent cash, and a business making seven hundred thousand to one point two five million dollars a year in profit. The phrase occurs once, beside 'ninety percent SBA loan', 'five percent seller finance', and 'seven hundred thousand up to one point two five million'. The speaker calls it a pretty solid return and offers a free step-by-step guide to the process.
 
 ## Synonyms
 
-- five million
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And a five million dollar business usually makes around seven hundred thousand up to one point two five million dollars a year in profit." — sources/S_ig_regaliscapital_DWmeHRgkZRG.md
+> "Now that's a pretty solid return on investment if you ask me." — sources/S_ig_regaliscapital_DWmeHRgkZRG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "five million": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guaranteed annual return: the profit range is what a five million dollar business usually makes, not a figure the source promises for any purchase.
+- Read as the buyer keeping all the profit: the speaker's range is profit before the loan structure is serviced, and the guide, not this clip, carries the step-by-step detail.

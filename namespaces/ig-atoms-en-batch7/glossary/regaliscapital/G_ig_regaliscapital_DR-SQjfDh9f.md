@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [Smooth operator, regaliscapital account context]
+aka: [chant]
 origin: sources/S_ig_regaliscapital_DR-SQjfDh9f.md
 ---
 
-# G_ig_regaliscapital_DR-SQjfDh9f — Smooth operator
+# G_ig_regaliscapital_DR-SQjfDh9f — chant
 
 ## Term
 
-"Smooth operator" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: operator, smooth, ask. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung hook, and 'chant' here is only the entry's type label, not a concept the account defines. In twelve words the hook repeats the smooth operator line three times, opening with 'No need to ask' and ending on the bare line itself. The clip carries no business content at all: no strategy, no deal, and no kind of company is named anywhere in it.
 
 ## Synonyms
 
-- Smooth operator
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_regaliscapital_DR-SQjfDh9f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Smooth operator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account describing a real person: the line is a song hook, and the source names no person the account is talking about.
+- Read as a business lesson about being smooth: the clip states no lesson, rule, or behaviour, only the repeated lyric.

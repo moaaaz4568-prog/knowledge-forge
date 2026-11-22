@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [eight percent, regaliscapital account context]
+aka: [boring businesses]
 origin: sources/S_ig_regaliscapital_DRH_xyVAG6T.md
 ---
 
-# G_ig_regaliscapital_DRH_xyVAG6T — eight percent
+# G_ig_regaliscapital_DRH_xyVAG6T — boring businesses
 
 ## Term
 
-"eight percent" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: ninety, rate, chance, owning. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source boring businesses are the already-profitable small companies the most successful business people buy instead of chasing the next big thing: they put five percent of their own money down, buy a business making two hundred grand a year in profit, and grow it like any other business. The phrase occurs once, beside 'already profitable', 'five percent of their own money down', and 'a ninety eight percent success rate'. The speaker contrasts that 98% success rate with the 98% failure rate of the next big thing, framing the boring purchase as the way to bypass first-year hardship.
 
 ## Synonyms
 
-- eight percent
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, that's exactly what some of the most successful business people do. The next big thing that has a ninety eight percent failure rate." — sources/S_ig_regaliscapital_DRH_xyVAG6T.md
+> "Instead, they go and find boring businesses that are already profitable, buy it with five percent of their own money down, and grow it like any other business." — sources/S_ig_regaliscapital_DRH_xyVAG6T.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "eight percent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that boring businesses never fail: the speaker gives them about a 98% success rate, which still leaves room for failure, and the figure is his own framing, not a measured statistic.
+- Read as advice to buy any boring business: the source insists on one already profitable, bought with five percent down, not simply any small company.

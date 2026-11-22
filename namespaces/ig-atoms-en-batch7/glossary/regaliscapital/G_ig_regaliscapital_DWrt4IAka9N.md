@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [Lawn, regaliscapital account context]
+aka: [EBITDA]
 origin: sources/S_ig_regaliscapital_DWrt4IAka9N.md
 ---
 
-# G_ig_regaliscapital_DWrt4IAka9N — Lawn
+# G_ig_regaliscapital_DWrt4IAka9N — EBITDA
 
 ## Term
 
-"Lawn" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: love, marketplace, merged, lawn. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source EBITDA is the pricing yardstick for Cabana's pool-company roll-up: Jeremy Yamaguchi acquires small profitable pool companies for three to five times EBITDA, plugs in better systems and technology, then uses the cash flow to buy the next one and repeat. The term occurs once, beside 'three to five times', 'plug in better systems', and '10 companies in just 18 months'. The same repeat-the-playbook pattern runs through his earlier exits — Golden Shine, sold to private equity in 2013, and Lawn Love, merged with Lawn Starter in 2021 — before pool companies became the next move.
 
 ## Synonyms
 
-- Lawn
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But he quickly realized it was taking too much of his time and this wasn't scalable long term. So in 2009, he pivoted and founded Golden Shine, a marketplace for home services." — sources/S_ig_regaliscapital_DWrt4IAka9N.md
 > "Acquire small profitable pool companies for three to five times EBITDA, plug in better systems and technology to make them more efficient, then use the cash flow to buy the next one and repeat." — sources/S_ig_regaliscapital_DWrt4IAka9N.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Lawn": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a definition of EBITDA: the source uses the term only as a pricing multiple and never explains what the letters stand for, so the entry records its use, not its meaning in general.
+- Read as a promise that any pool company sells at three to five times: the range is Cabana's acquisition strategy for small profitable pool companies, not a market-wide price.

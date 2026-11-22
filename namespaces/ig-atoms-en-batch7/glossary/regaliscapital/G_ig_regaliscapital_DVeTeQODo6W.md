@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [million dollar, regaliscapital account context]
+aka: [down payment]
 origin: sources/S_ig_regaliscapital_DVeTeQODo6W.md
 ---
 
-# G_ig_regaliscapital_DVeTeQODo6W — million dollar
+# G_ig_regaliscapital_DVeTeQODo6W — down payment
 
 ## Term
 
-"million dollar" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dollar, property, million, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a down payment is what a million dollar property costs to enter — two hundred grand — against the cash flow it returns: at seven percent over thirty years the mortgage runs about five thousand eight hundred dollars, rent about six thousand five hundred, and twenty five years just to recoup the down payment. The phrase occurs once, beside 'twenty five years', 'cash flow alone', and 'seven percent interest'. The contrast is a million dollar business bought with fifty grand down, generating over two hundred thousand dollars in the first year even after paying back all the debt.
 
 ## Synonyms
 
-- million dollar
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "That means it would take twenty five years just to recoup your down payment through the cash flow alone." — sources/S_ig_regaliscapital_DVeTeQODo6W.md
-> "Buying a business, however, gives you immediate cash flow that you can use to acquire more businesses and build wealth the fast way." — sources/S_ig_regaliscapital_DVeTeQODo6W.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "million dollar": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that property never pays: the source says real estate is for parking money and letting it slowly appreciate, so the criticism is speed, not worthlessness.
+- Read as a promise that any million dollar business returns two hundred grand in year one: the figure belongs to the speaker's example after debt is paid, and buying a business requires deeper involvement and executional skill.

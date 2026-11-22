@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [underdogs, regaliscapital account context]
+aka: [chant]
 origin: sources/S_ig_regaliscapital_DS3hPwsgMBn.md
 ---
 
-# G_ig_regaliscapital_DS3hPwsgMBn — underdogs
+# G_ig_regaliscapital_DS3hPwsgMBn — chant
 
 ## Term
 
-No content word repeats often enough in this short source (28 words) to form a repeated term, so this entry documents the source's central term "underdogs" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and 'chant' here is only the entry's type label, not a concept the account defines. The lyric starts mid-complaint — same shit, nothing good in the hood — then turns to running away and never coming back, and closes by making it a love with the underdogs. No business, deal, or strategy is named anywhere in its twenty-eight words, so the clip works as music, not as a claim the account makes.
 
 ## Synonyms
 
-- underdogs
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (28 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "underdogs": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own statement about its neighbourhood: the words are a sung lyric, and the source gives no place, person, or claim the account is making.
+- Read as a business lesson about underdogs: the lyric names no business, and 'underdogs' here is part of the song, not a kind of company the account recommends.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [businesses, business]
+aka: [franchises]
 origin: sources/S_ig_regaliscapital_DTLiBnwAIir.md
 ---
 
-# G_ig_regaliscapital_DTLiBnwAIir — businesses
+# G_ig_regaliscapital_DTLiBnwAIir — franchises
 
 ## Term
 
-"businesses" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dollar, empire, buying, everyone. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source franchises are the boring everyday businesses Rick Ross bought in markets investors ignored: Wingstop, Checkers, and Rally's, bought again and again every time people asked why a rapper would buy fast food spots. The word occurs twice, beside 'markets investors ignored', 'steady demand', and 'put operators in place'. The playbook is to find a boring business with steady demand, buy it for a fraction of building from scratch, put operators in place, and scale the portfolio instead of working inside the store.
 
 ## Synonyms
 
-- businesses
-- business (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And every time people say, why would a rapper buy fast food spots? He doubled down and bought even more." — sources/S_ig_regaliscapital_DTLiBnwAIir.md
-> "Find a profitable service business that's ready to sell. Something like an HVAC company, a cleaning service, or a small repair shop." — sources/S_ig_regaliscapital_DTLiBnwAIir.md
+> "He built real wealth by acquiring Wingstop, Checkers, and Rally's franchises in markets investors ignored." — sources/S_ig_regaliscapital_DTLiBnwAIir.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "businesses": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Ross flipping chicken wings himself: the source says he owns the stores and scales the portfolio, with operators in place, not that he works in them.
+- Read as a claim that franchises always succeed: the source gives no failure figure for franchises, only the playbook, so the entry records his moves, not a guarantee.

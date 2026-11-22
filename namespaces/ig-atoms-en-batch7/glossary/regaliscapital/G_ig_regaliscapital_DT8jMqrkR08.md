@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [underdogs, regaliscapital account context]
+aka: [chant]
 origin: sources/S_ig_regaliscapital_DT8jMqrkR08.md
 ---
 
-# G_ig_regaliscapital_DT8jMqrkR08 — underdogs
+# G_ig_regaliscapital_DT8jMqrkR08 — chant
 
 ## Term
 
-No content word repeats often enough in this short source (29 words) to form a repeated term, so this entry documents the source's central term "underdogs" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric, and 'chant' here is only the entry's type label, not a concept the account defines. The lyric's spine is the runaway line — different day, same shit, nothing good in the hood, run away and never come back — and its last turn is needing a love at the underdogs. Across twenty-nine words it names no business, no deal, and no strategy, so the clip is music over the video, not a statement by the account.
 
 ## Synonyms
 
-- underdogs
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ain't nothing good in the hood. I run away from this bitch and never come back if I could. Needed a love at the underdogs." — sources/S_ig_regaliscapital_DT8jMqrkR08.md
+> "I run away from this bitch and never come back if I could. Needed a love at the underdogs." — sources/S_ig_regaliscapital_DT8jMqrkR08.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "underdogs": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a plea the account itself makes: 'Needed a love at the underdogs' is the lyric's closing line, not a request the account addresses to anyone.
+- Read as a business lesson about leaving a bad market: the runaway line is sung, and the source names no market, company, or deal to leave.

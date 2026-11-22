@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [recession, regaliscapital account context]
+aka: [strip club money]
 origin: sources/S_ig_regaliscapital_DULrAXogFdt.md
 ---
 
-# G_ig_regaliscapital_DULrAXogFdt — recession
+# G_ig_regaliscapital_DULrAXogFdt — strip club money
 
 ## Term
 
-"recession" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: smart, first, sign, folks. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source strip club money is the early warning sign smart folks watch for the economy: when guys stop tipping at strip clubs and the clubs make way less cash in the big cities, people are cutting back on fun first, which is usually the first sign of a recession. The phrase occurs once, beside 'first sign of a recession', 'heads up for the economy', and 'making way less cash'. The speaker turns the signal into an opportunity — buy a solid recession-proof business like an HVAC company with 5% down, then scoop up other companies cheap during the downturn and roll them together.
 
 ## Synonyms
 
-- recession
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Right now, those clubs are making way less cash in the big cities. So yeah, things might get rough, but not for you." — sources/S_ig_regaliscapital_DULrAXogFdt.md
-> "You can take the money your new business is already making and scoop up other companies for dirt cheap." — sources/S_ig_regaliscapital_DULrAXogFdt.md
+> "Some smart folks even watch strip club money as a heads up for the economy." — sources/S_ig_regaliscapital_DULrAXogFdt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "recession": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof a recession has arrived: the source calls it a first sign and a heads-up, not a diagnosis, and the clubs making less cash is the observation, not the recession itself.
+- Read as advice to invest in strip clubs: the money is only the indicator, and the business the speaker actually recommends buying is a recession-proof company like HVAC.

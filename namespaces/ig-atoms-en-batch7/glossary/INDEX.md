@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch7)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,608 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch7): one G_ entry per T_ atom file — 3,829 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,593 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 219 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/regaliscapital/G_ig_regaliscapital_DQmhd5oAOUL.md | smooth operator | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DQrsgHTgGGx.md | Number | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DQuceEgDmlW.md | white | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DQzfU1EAP9Y.md | business | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DR-SQjfDh9f.md | Smooth operator | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DR2jyP1AAGP.md | business | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DR7tZ2fju2I.md | year business | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DRFbCTfANeU.md | business | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DRH_xyVAG6T.md | eight percent | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DRsQmgZAEhR.md | cleaning company | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DRu1aIKgAef.md | seventy five | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DRxWyWzDtLs.md | calculator | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DQmhd5oAOUL.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DQrsgHTgGGx.md | no-choice service | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DQuceEgDmlW.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DQzfU1EAP9Y.md | seller note | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DR-SQjfDh9f.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DR2jyP1AAGP.md | entrepreneurship through acquisition | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DR7tZ2fju2I.md | SBA loan | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DRFbCTfANeU.md | seller finance | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DRH_xyVAG6T.md | boring businesses | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DRsQmgZAEhR.md | monthly memberships | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DRu1aIKgAef.md | cash flow bind | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DRxWyWzDtLs.md | acquisitions | 1 |
 | glossary/regaliscapital/G_ig_regaliscapital_DS-qF-JAAqk.md | failure rate | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DS0W789AB2w.md | buy | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DS3hPwsgMBn.md | underdogs | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DS8FTbQAHQu.md | thousand dollars | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSDgnh9ERHl.md | around | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSImjxykVQ1.md | business | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSLDX1_AOYU.md | Smooth operator | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSLX9mKgBCc.md | underdogs | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSqGizQjvbL.md | 00s | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSspcjJjnsF.md | guide | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DSx4qOkkclF.md | cash flow | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DT3TlTVgC89.md | Nick | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DT54aKNDkkw.md | first | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DT8jMqrkR08.md | underdogs | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DTGYfA-Du9-.md | business | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DTLiBnwAIir.md | businesses | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DU1fA_fAJvB.md | business | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DU6Z2E5DquO.md | businesses | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DUELgfngCjo.md | hundred thousand | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DUGrk6pDl96.md | million | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DULrAXogFdt.md | recession | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DURUXfTDvmB.md | apps | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DV9gmb0DrqO.md | one | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVHIMV_ERFr.md | money | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVMR0UZkYSV.md | power washing | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVUKPL7jmaJ.md | million | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVZXtsXjs7E.md | baby boomers | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVeTeQODo6W.md | million dollar | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DVj1v7wgBRO.md | one | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWPbwmLkerk.md | insurance | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWUe7FYD8aY.md | million | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWcYpT3EbQd.md | buying | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWmeHRgkZRG.md | five million | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWrt4IAka9N.md | Lawn | 2 |
-| glossary/regaliscapital/G_ig_regaliscapital_DWzNplkkRlk.md | multiple | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DXP72x-iGnT.md | buy | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DXXjPM3jtcF.md | million | 1 |
-| glossary/regaliscapital/G_ig_regaliscapital_DXcrLklET8q.md | Number | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DS0W789AB2w.md | cash flowing assets | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DS3hPwsgMBn.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DS8FTbQAHQu.md | SBA loan | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSDgnh9ERHl.md | cash down | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSImjxykVQ1.md | corporate takeovers | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSLDX1_AOYU.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSLX9mKgBCc.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSqGizQjvbL.md | timestamp | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSspcjJjnsF.md | acquisition mentor | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DSx4qOkkclF.md | pennies on the dollar | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DT3TlTVgC89.md | sole-source suppliers | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DT54aKNDkkw.md | first 30 days | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DT8jMqrkR08.md | chant | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DTGYfA-Du9-.md | cash flow | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DTLiBnwAIir.md | franchises | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DU1fA_fAJvB.md | mutual funds | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DU6Z2E5DquO.md | bolt-on acquisitions | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DUELgfngCjo.md | seller finance | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DUGrk6pDl96.md | succession plan | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DULrAXogFdt.md | strip club money | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DURUXfTDvmB.md | aggressive monetization | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DV9gmb0DrqO.md | cash machines | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVHIMV_ERFr.md | money glitch | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVMR0UZkYSV.md | boring industry | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVUKPL7jmaJ.md | franchise-style model | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVZXtsXjs7E.md | multiples | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVeTeQODo6W.md | down payment | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DVj1v7wgBRO.md | economic indicator | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWPbwmLkerk.md | insurance float | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWUe7FYD8aY.md | multiple | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWcYpT3EbQd.md | growth lever | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWmeHRgkZRG.md | return on investment | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWrt4IAka9N.md | EBITDA | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DWzNplkkRlk.md | roll-ups | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DXP72x-iGnT.md | million dollar salary | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DXXjPM3jtcF.md | blueprint | 1 |
+| glossary/regaliscapital/G_ig_regaliscapital_DXcrLklET8q.md | recurring revenue | 1 |
 | glossary/regaliscapital/G_ig_regaliscapital_DXhlo3TjpZL.md | thousand | 1 |
 | glossary/regaliscapital/G_ig_regaliscapital_DXpS0EEjqW4.md | month | 1 |
 | glossary/regaliscapital/G_ig_regaliscapital_DXu0AHKAOIS.md | Valerie | 1 |

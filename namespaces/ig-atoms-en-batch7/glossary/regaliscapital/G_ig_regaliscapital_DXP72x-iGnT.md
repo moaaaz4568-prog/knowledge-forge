@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [buy, regaliscapital account context]
+aka: [million dollar salary]
 origin: sources/S_ig_regaliscapital_DXP72x-iGnT.md
 ---
 
-# G_ig_regaliscapital_DXP72x-iGnT — buy
+# G_ig_regaliscapital_DXP72x-iGnT — million dollar salary
 
 ## Term
 
-"buy" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: million, dollar, salary, super. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a million dollar salary is what the buyer purchases for 200 grand: a small business making a million in profit sells for around 4 million bucks, and with 5% down using an SBA loan and seller financing, the business keeps making a million in profit and pockets around 50, 000 a month after loan payments. The phrase occurs once, beside 'pays for itself within the first year', '5% down', and '50, 000 a month'. The speaker stresses the purchase is not houses or fancy watches — it is a business that pays for itself within the first year.
 
 ## Synonyms
 
-- buy
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A small business making a million in profit usually sells for around 4 million bucks. And you can buy it for just 5% down using an SBA loan and seller financing." — sources/S_ig_regaliscapital_DXP72x-iGnT.md
+> "Would you buy a million dollar salary for 200 grand?" — sources/S_ig_regaliscapital_DXP72x-iGnT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "buy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a literal salary paid by an employer: the salary is the profit of a business the buyer owns, not wages from a job, and it arrives only after loan payments.
+- Read as a salary that arrives without running anything: the buyer owns the business, so the million in profit must still be earned and the loan must still be paid before the 50, 000 a month is pocketed.

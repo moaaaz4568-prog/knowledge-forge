@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [hundred thousand, regaliscapital account context]
+aka: [seller finance]
 origin: sources/S_ig_regaliscapital_DUELgfngCjo.md
 ---
 
-# G_ig_regaliscapital_DUELgfngCjo — hundred thousand
+# G_ig_regaliscapital_DUELgfngCjo — seller finance
 
 ## Term
 
-"hundred thousand" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: thousand, hundred, around, dollars. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source seller finance is the five percent leg of a simple deal structure: ninety percent SBA loan, five percent seller finance, and five percent cash, so a two million dollar business costs around one hundred thousand dollars down. The phrase occurs once, beside 'ninety percent SBA loan', 'five percent cash', and 'one hundred thousand dollars down'. A business of that size usually makes around three hundred thousand to five hundred thousand dollars in profit after paying back the loans, and the speaker offers a free guide to the process.
 
 ## Synonyms
 
-- hundred thousand
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And a two million dollar business usually makes around three hundred thousand to five hundred thousand dollars in profit after paying back the loans." — sources/S_ig_regaliscapital_DUELgfngCjo.md
+> "If you use a simple structure like ninety percent SBA loan, five percent seller finance, and five percent cash, you would only have to put around one hundred thousand dollars down." — sources/S_ig_regaliscapital_DUELgfngCjo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hundred thousand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the seller financing the whole deal: the seller covers only five percent, the SBA loan covers ninety, and the buyer still puts in five percent cash.
+- Read as a promise of three to five hundred thousand in profit: the range is what a two million dollar business usually makes after paying back the loans, not a figure the source guarantees for any purchase.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [insurance, regaliscapital account context]
+aka: [insurance float, float]
 origin: sources/S_ig_regaliscapital_DWPbwmLkerk.md
 ---
 
-# G_ig_regaliscapital_DWPbwmLkerk — insurance
+# G_ig_regaliscapital_DWPbwmLkerk — insurance float
 
 ## Term
 
-"insurance" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: float, company, make, billions. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source insurance float is the money an insurance company collects upfront and holds until future claims are paid, letting the company invest it and earn additional profit before it is actually owed. The phrase occurs three times, beside 'distressed insurance companies', 'fix their underwriting', and 'buy more businesses'. Prem Watsa copied the strategy from Warren Buffett: buy distressed insurers cheap, fix underwriting, consolidate operations, then use the float to buy more businesses — turning $50 in his pocket in 1972 into Fairfax Financial, worth over $45 billion.
 
 ## Synonyms
 
-- insurance
-- regaliscapital account context (no variant form of the term appears in this source)
+- float (the shortened form the source uses for the same money)
 
 ## Live Example
 
-> "Over the next decades, Fairfax acquired dozens of insurance businesses across the US and is now worth over $45 billion, all thanks to boring businesses." — sources/S_ig_regaliscapital_DWPbwmLkerk.md
+> "Insurance float is money an insurance company collects upfront and holds until future claims are paid, allowing the company to invest that money over time and earn additional profit before it's actually owed." — sources/S_ig_regaliscapital_DWPbwmLkerk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "insurance": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as free money the insurer keeps: the float must eventually pay future claims, so the profit comes from investing it in the meantime, not from keeping it.
+- Read as a strategy for any buyer: Watsa bought distressed insurance companies specifically, and the source presents the float as an insurer's tool, not a general purchase method.

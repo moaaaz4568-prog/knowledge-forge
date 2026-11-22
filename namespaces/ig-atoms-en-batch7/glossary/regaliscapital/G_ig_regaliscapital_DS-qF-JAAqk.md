@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [failure rate, regaliscapital account context]
+aka: [failure rate]
 origin: sources/S_ig_regaliscapital_DS-qF-JAAqk.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_regaliscapital_DS-qF-JAAqk.md
 
 ## Term
 
-"failure rate" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: rate, failure, highest, barely. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source the failure rate is the ranking metric for the five worst businesses to buy: restaurants take the top spot at 93%, grocery stores follow at 71%, gyms at 82%, car dealerships at 65%, and clothing stores at 87%. The phrase occurs four times, beside 'razor-thin margins', 'barely 1% profit', and 'big companies are eating the small ones'. The speaker pairs each rate with a reason — thin margins, big chains, e-commerce brands — and points viewers to the caption for the five best businesses to buy in 2026.
 
 ## Synonyms
 
-- failure rate
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In fourth place, car dealerships. They have a 65% failure rate and big companies are eating the small ones super fast." — sources/S_ig_regaliscapital_DS-qF-JAAqk.md
+> "Next are grocery stores with a 71% failure rate and barely 1% profit." — sources/S_ig_regaliscapital_DS-qF-JAAqk.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "failure rate": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a measured industry statistic: the source gives no study or source for the percentages, so each rate is the speaker's claim rather than a cited figure.
+- Read as a ban on ever buying a gym or restaurant: the ranking is about the worst options to buy, and the speaker's own caveat is that the gym claim will upset people, not that no gym can succeed.

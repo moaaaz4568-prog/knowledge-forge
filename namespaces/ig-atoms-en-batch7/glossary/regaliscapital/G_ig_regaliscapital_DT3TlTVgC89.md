@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [Nick, regaliscapital account context]
+aka: [sole-source suppliers]
 origin: sources/S_ig_regaliscapital_DT3TlTVgC89.md
 ---
 
-# G_ig_regaliscapital_DT3TlTVgC89 — Nick
+# G_ig_regaliscapital_DT3TlTVgC89 — sole-source suppliers
 
 ## Term
 
-"Nick" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: halli, government, finishing, realization. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source sole-source suppliers are the aerospace parts companies TransDigm buys: they supply critical components no one else provides, so after cutting costs and optimizing operations, Nick Halli could raise prices because customers had no alternatives. The phrase occurs once, beside 'critical components', 'customers have no alternatives', and 'raise prices'. The example is extreme — a three-inch metal ring charged at $1, 500 that cost $32 to make, sold to government agencies including the Pentagon — and the speaker calls it a brutal example of buying boring businesses beating starting one from scratch.
 
 ## Synonyms
 
-- Nick
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To survive, the company was forced to sell off parts of the business just to raise cash. And that's when Nick had the realization." — sources/S_ig_regaliscapital_DT3TlTVgC89.md
-> "And buyers had no choice but to pay. Within five years, Nick grew the company nearly eight times, and by 2006, he took it public." — sources/S_ig_regaliscapital_DT3TlTVgC89.md
+> "Buy aerospace parts companies that are sole-source suppliers for critical components, cut costs aggressively, optimize operations, then raise prices because customers have no alternatives." — sources/S_ig_regaliscapital_DT3TlTVgC89.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Nick": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a recommendation to overcharge the government: the speaker presents the $1, 500 ring as a brutal example of the strategy's result, not as advice to copy the pricing.
+- Read as the whole strategy: sole-source supply is only the target; the strategy also needs cost cuts, optimization, and price rises, and the source names all of them together.

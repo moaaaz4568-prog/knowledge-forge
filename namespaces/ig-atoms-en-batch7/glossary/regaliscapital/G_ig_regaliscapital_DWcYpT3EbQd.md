@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [buying, regaliscapital account context]
+aka: [growth lever]
 origin: sources/S_ig_regaliscapital_DWcYpT3EbQd.md
 ---
 
-# G_ig_regaliscapital_DWcYpT3EbQd — buying
+# G_ig_regaliscapital_DWcYpT3EbQd — growth lever
 
 ## Term
 
-"buying" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hidden, gem, worth, ticking. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a growth lever is the sixth sign that tells a hidden gem from a ticking time bomb: if the buyer cannot immediately see how to grow the business, they are probably buying something already tapped out. The phrase occurs once, beside 'already tapped out', 'no team', and 'a single vendor'. The other five signs are an owner still working day to day, revenue from a single vendor, no clear financials, inconsistent revenue, and no team beyond one key employee — each a missing system behind the business.
 
 ## Synonyms
 
-- buying
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_regaliscapital_DWcYpT3EbQd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "buying": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the only sign that matters: the growth lever is the sixth of six signs, and the source presents all of them together as the test for a hidden gem.
+- Read as a promise that a visible lever guarantees growth: the source only says a missing lever means the business is probably tapped out, not that a visible one ensures success.

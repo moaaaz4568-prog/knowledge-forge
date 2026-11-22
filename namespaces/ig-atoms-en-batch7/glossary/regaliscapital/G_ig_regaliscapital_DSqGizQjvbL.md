@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [00s, regaliscapital account context]
+aka: [timestamp]
 origin: sources/S_ig_regaliscapital_DSqGizQjvbL.md
 ---
 
-# G_ig_regaliscapital_DSqGizQjvbL — 00s
+# G_ig_regaliscapital_DSqGizQjvbL — timestamp
 
 ## Term
 
-"00s" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 20 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 00s. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term and no words at all: its whole text is the timestamp token '0.00s' repeated twenty times, so 'timestamp' here is only the entry's type label, not a concept the account uses. The file carries no sentence, no speaker, and no claim — only identical stamps, each reading '0.00s', with nothing said between them. Nothing in it names a business, a deal, or a strategy, so the entry records the absence of content rather than inventing a term for it.
 
 ## Synonyms
 
-- 00s
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s" — sources/S_ig_regaliscapital_DSqGizQjvbL.md
+> "0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s 0.00s" — sources/S_ig_regaliscapital_DSqGizQjvbL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "00s": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a term the account uses: 'timestamp' names what the file contains, not a word the speaker says or a concept the account teaches.
+- Read as twenty separate moments: the tokens are identical '0.00s' stamps with no audio attached, so they mark no event, duration, or point in any video.

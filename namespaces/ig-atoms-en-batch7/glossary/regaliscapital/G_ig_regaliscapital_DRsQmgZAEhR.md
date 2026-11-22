@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [cleaning company, regaliscapital account context]
+aka: [monthly memberships]
 origin: sources/S_ig_regaliscapital_DRsQmgZAEhR.md
 ---
 
-# G_ig_regaliscapital_DRsQmgZAEhR — cleaning company
+# G_ig_regaliscapital_DRsQmgZAEhR — monthly memberships
 
 ## Term
 
-"cleaning company" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: acquire, commercial, company, cleaning. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source monthly memberships are one of the growth levers for a commercial cleaning company: converting clients to monthly memberships sits beside improving the offer, adding premium services, and going after corporate clients. The phrase occurs once, beside 'improving the offer', 'adding premium services', and 'going after corporate clients'. The speaker contrasts this with a laundromat, which sits capped by its machines, and argues the cleaning company could double or even triple revenue with better margins.
 
 ## Synonyms
 
-- cleaning company
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_regaliscapital_DRsQmgZAEhR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cleaning company": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that memberships double revenue: the speaker says you could easily double or triple revenue, a possibility, not a result the source reports.
+- Read as the only reason cleaning beats laundromats: the source lists four levers together, so memberships are one of several, not the whole argument.

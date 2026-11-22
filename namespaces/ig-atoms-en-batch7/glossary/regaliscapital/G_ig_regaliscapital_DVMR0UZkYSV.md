@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [power washing, regaliscapital account context]
+aka: [boring industry]
 origin: sources/S_ig_regaliscapital_DVMR0UZkYSV.md
 ---
 
-# G_ig_regaliscapital_DVMR0UZkYSV — power washing
+# G_ig_regaliscapital_DVMR0UZkYSV — boring industry
 
 ## Term
 
-"power washing" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: optics, handle, plumbing, landscaping. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source a boring industry is where the buyer should look instead of tech jobs: companies that fix HVAC systems, maintain power grids, install fiber optics, handle plumbing, landscaping, and power washing are seeing record demand while the white collar dream fades. The phrase occurs once, beside 'steady demand', 'recession resistant, AI resistant', and '12 months tightening operations'. The model is to find such a company, finance up to 90% with an SBA loan, negotiate seller financing, bring roughly 5% of the buyer's own money, then spend a year tightening operations, improving marketing, adjusting pricing, and increasing cash flow.
 
 ## Synonyms
 
-- power washing
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Companies that fix HVAC systems, maintain power grids, install fiber optics, handle plumbing, landscaping, power washing, they're all seeing record demand right now." — sources/S_ig_regaliscapital_DVMR0UZkYSV.md
+> "First, find a company in a boring industry with steady demand, like this power washing company right here." — sources/S_ig_regaliscapital_DVMR0UZkYSV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "power washing": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that tech jobs are already gone: the source says the white collar dream is fading and AI automates part of roles, not that every tech job has vanished.
+- Read as a promise of an 8 or 9 figure portfolio from one purchase: the framework builds the portfolio over time, and the speaker admits the model is simplified.

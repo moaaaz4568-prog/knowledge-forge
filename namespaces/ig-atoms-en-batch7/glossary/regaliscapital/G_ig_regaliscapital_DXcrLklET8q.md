@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [Number, regaliscapital account context]
+aka: [recurring revenue]
 origin: sources/S_ig_regaliscapital_DXcrLklET8q.md
 ---
 
-# G_ig_regaliscapital_DXcrLklET8q — Number
+# G_ig_regaliscapital_DXcrLklET8q — recurring revenue
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: repeat, keep, buying, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source recurring revenue is what makes home cleaning the second of seven boring businesses: same thing as mobile detailing, recurring revenue and predictable monthly income, with customers who keep coming back. The phrase occurs once, beside 'predictable monthly income', 'strong repeat customers', and '95% success rate'. The list runs from mobile detailing through home cleaning, junk removal, pressure washing, lawn care, and pest control to HVAC, each bought with just 5% down and scaled by buying more.
 
 ## Synonyms
 
-- Number
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Number two, home cleaning. Same thing, recurring revenue and predictable monthly income. Number three, junk removal." — sources/S_ig_regaliscapital_DXcrLklET8q.md
+> "Number two, home cleaning. Same thing, recurring revenue and predictable monthly income." — sources/S_ig_regaliscapital_DXcrLklET8q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of monthly income: the source calls the income predictable, not certain, and the 95% success rate still leaves room for the businesses that fail.
+- Read as the reason all seven businesses succeed: recurring revenue is named for home cleaning alone, while the others are praised for repeat customers, low overhead, or urgent demand instead.

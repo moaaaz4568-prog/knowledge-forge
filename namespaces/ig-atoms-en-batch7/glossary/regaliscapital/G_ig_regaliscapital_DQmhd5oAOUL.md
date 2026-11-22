@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [smooth operator, regaliscapital account context]
+aka: [chant]
 origin: sources/S_ig_regaliscapital_DQmhd5oAOUL.md
 ---
 
-# G_ig_regaliscapital_DQmhd5oAOUL — smooth operator
+# G_ig_regaliscapital_DQmhd5oAOUL — chant
 
 ## Term
 
-"smooth operator" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: smooth, operator, ask. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung hook, and 'chant' here is only the entry's type label, not a concept the account defines. The hook repeats the line about a smooth operator three times across thirteen words, framed by 'No need to ask' and a trailing 'smooth'. It works as a music clip over the video, not as a business claim, so nothing in it names a strategy, a deal, or a kind of company.
 
 ## Synonyms
 
-- smooth operator
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "He's a smooth operator. Smooth operator, smooth operator, smooth." — sources/S_ig_regaliscapital_DQmhd5oAOUL.md
+> "No need to ask. He's a smooth operator. Smooth operator, smooth operator, smooth." — sources/S_ig_regaliscapital_DQmhd5oAOUL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "smooth operator": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account calling someone a smooth operator in a business sense: the line is a song hook, and the source gives no person, deal, or behaviour it describes.
+- Read as a slogan the account coined: the words are a repeated lyric, not a phrase the account uses to name any strategy of its own.

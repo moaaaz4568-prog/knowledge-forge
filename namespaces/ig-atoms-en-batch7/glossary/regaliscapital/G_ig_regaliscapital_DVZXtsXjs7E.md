@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: regaliscapital
-aka: [baby boomers, regaliscapital account context]
+aka: [multiples]
 origin: sources/S_ig_regaliscapital_DVZXtsXjs7E.md
 ---
 
-# G_ig_regaliscapital_DVZXtsXjs7E — baby boomers
+# G_ig_regaliscapital_DVZXtsXjs7E — multiples
 
 ## Term
 
-"baby boomers" is the most frequent repeated content term in this source (a transcribed Instagram video from the regaliscapital account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lot, boomers, understand, baby. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source multiples are the price tag on retiring baby boomers' businesses: many trade at just two to four times multiples, so a buyer can acquire a cash flowing company at a serious discount with just 5% down, then modernize it with AI systems for a 10 to 20% efficiency gain. The word occurs twice, beside 'two to four times', 'cash flowing company', and 'serious discount'. The scale comes from rolling more businesses under one brand with a centralized AI-driven system, since larger businesses command higher multiples and could exit for eight to nine figures.
 
 ## Synonyms
 
-- baby boomers
-- regaliscapital account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So here's the interesting part. Because they're ready to retire, they're selling these businesses, and a lot of them trade at just two to four times multiples, which means you can buy a cash flowing company at a serious discount." — sources/S_ig_regaliscapital_DVZXtsXjs7E.md
-> "But here's where it really scales. Don't stop at just one. You buy more and roll them together under one brand with a centralized AI-driven system running across all of them." — sources/S_ig_regaliscapital_DVZXtsXjs7E.md
+> "Because they're ready to retire, they're selling these businesses, and a lot of them trade at just two to four times multiples, which means you can buy a cash flowing company at a serious discount." — sources/S_ig_regaliscapital_DVZXtsXjs7E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "baby boomers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a fixed price of two to four times for every business: the range describes retiring boomers' companies in this source, and the speaker says larger businesses command higher multiples.
+- Read as a promise that AI modernization alone creates millions: the 10 to 20% efficiency gain is the speaker's estimate for transforming profitability, not a measured result in the source.
