@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [kind, chase.h.ai account context]
+aka: [meeting brief]
 origin: sources/S_ig_chase.h.ai_DIPqMsmxIfx.md
 ---
 
-# G_ig_chase.h.ai_DIPqMsmxIfx — kind
+# G_ig_chase.h.ai_DIPqMsmxIfx — meeting brief
 
 ## Term
 
-"kind" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, tavily, better, comes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a meeting brief is the morning document the speaker's sold AI workflow builds for his client: it looks at the next day's meetings, drops internal members the client already knows, and adds a bio of every outside person plus their LinkedIn, email, and strategic talking points. The phrase appears once, beside workflow, client, and LinkedIn, because the whole video is the upgrade story of that one deliverable — the first prototype was ugly markdown in Google Docs that needed copy-paste, and the rebuilt version lands in Gmail with clickable links. His concrete case is the morning brief itself, which now arrives clean enough to open before the day's first meeting.
 
 ## Synonyms
 
-- kind
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It's kind of like a better Perplexity when it comes to kind of like web scraping stuff with AI. Definitely check them out. You get like a thousand free API credits for free. Like not an ad for Tavily, but I really like them and they helped me a ton on this project." — sources/S_ig_chase.h.ai_DIPqMsmxIfx.md
-> "So if you're using kind of like, you know, web scraper type stuff for your workflows, definitely start using Tavily. But yeah, this was a super like actually kind of complicated workflow, like a lot of data moving left and right. I actually have a copy of it in my school, so if you're looking to either build this yourself or kind of download the template for your own use, just check it out." — sources/S_ig_chase.h.ai_DIPqMsmxIfx.md
+> "So this is the workflow and what it does is it creates a meeting brief for my client every single morning that looks at all the meetings he's gonna have for the following day, gets rid of all the internal members to his organization because he already knows about those people, and then gives him a bio of every person he's been meeting with, gives him their LinkedIn" — sources/S_ig_chase.h.ai_DIPqMsmxIfx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "kind": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a calendar invite: the brief is a prepared document about the people in the meetings, not the meetings themselves, so it never replaces the invite or the call.
+- Read as a generic summary: it is built for one client each morning from his own meetings, so a brief made from someone else's calendar or a past meeting would not be this thing.

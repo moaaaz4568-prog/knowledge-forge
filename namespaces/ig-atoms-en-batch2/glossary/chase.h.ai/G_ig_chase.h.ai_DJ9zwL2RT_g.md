@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [stuff like, chase.h.ai account context]
+aka: [Opus 4]
 origin: sources/S_ig_chase.h.ai_DJ9zwL2RT_g.md
 ---
 
-# G_ig_chase.h.ai_DJ9zwL2RT_g — stuff like
+# G_ig_chase.h.ai_DJ9zwL2RT_g — Opus 4
 
 ## Term
 
-"stuff like" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: comes, like, agentic, tool. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Opus 4 is the Claude model Anthropic claims is now the best coding model in the entire world: one of two new releases alongside Sonnet 4, beating O3 and Gemini 2.5 on Anthropic's own benchmarks and running the table on agentic tool use, data visualization, and coding. The name appears 3 times, beside Claude 4, Sonnet 4, and coding model, and the speaker reports the claim with the stats, not as his own test. His concrete case is the benchmark table, where both new models beat O3 and Gemini 2.5 and add extended thinking with web search.
 
 ## Synonyms
 
-- stuff like
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "As you can see here, according to their own benchmarks, both Opus 4 and Sonnet 4 are beating O3 and Gemini 2.5. You can also see here that they both run the table when it comes to stuff like agentic tool use, data visualization, and obviously coding. Their models now have extended thinking with stuff like web search." — sources/S_ig_chase.h.ai_DJ9zwL2RT_g.md
+> "So Anthropic has released two new models, Claude Opus 4 and Sonnet 4." — sources/S_ig_chase.h.ai_DJ9zwL2RT_g.md
+> "So Anthropic is claiming that Opus 4 is now the best coding model in the entire world, and here's a few of the stats to prove it." — sources/S_ig_chase.h.ai_DJ9zwL2RT_g.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "stuff like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker's own verdict: the best-coding-model claim is Anthropic's, quoted from their benchmarks, so treating it as his measured result would misstate the video.
+- Read as a finished fix: he still hopes Anthropic addresses the web app's usage limits, a pain point the release does not mention, so the update leaves that problem open.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [checks, check]
+aka: [brief sheet]
 origin: sources/S_ig_chase.h.ai_DJZVoljx3xP.md
 ---
 
-# G_ig_chase.h.ai_DJZVoljx3xP — checks
+# G_ig_chase.h.ai_DJZVoljx3xP — brief sheet
 
 ## Term
 
-"checks" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: linkedin, checks, meeting, attendee. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a brief sheet is the morning document the speaker's sold workflow provides for founders and all their meetings: not just a list of meetings A, B, and C, but a full background summary on each attendee — their LinkedIn, the last few emails for a correspondence summary, company background, big news, and C-suite changes — all on a one-pager that filters out internal people. The phrase appears once, beside meeting brief, correspondence summary, and talking points, because the video is a walkthrough of the one deliverable. His concrete case is the daily meeting brief itself, which adds talking points and a preparation checklist for the founder.
 
 ## Synonyms
 
-- checks
-- check (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It actually goes into each meeting and checks who each attendee is and does a full background summary on them. It checks their LinkedIn, it checks the last few emails they've had with them, so it has a full like correspondence summary so they can get spun back up on what they last talked about." — sources/S_ig_chase.h.ai_DJZVoljx3xP.md
-> "It has a company background, it checks any big news on their company, have there been any C-suite changes, all of that. And it puts it all in a space that they can easily look at on a one-pager so they can see what the meetings are, who the people are with, and it also filters out internal people so they don't get repeats all the time." — sources/S_ig_chase.h.ai_DJZVoljx3xP.md
+> "So I've sold a variation of this exact workflow to a number of different founders over the last couple months, and what it does is it provides a brief sheet every single morning for them and all their meetings." — sources/S_ig_chase.h.ai_DJZVoljx3xP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "checks": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a calendar list: the brief sheet is a researched dossier on the people in the meetings, so a plain list of times and names would not be this workflow's output.
+- Read as a one-off report: it is produced every single morning for that day's meetings, so a single static brief would not be the product he sells.

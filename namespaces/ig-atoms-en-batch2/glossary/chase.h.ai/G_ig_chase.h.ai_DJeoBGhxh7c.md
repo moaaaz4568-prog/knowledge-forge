@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [right, chase.h.ai account context]
+aka: [define success]
 origin: sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
 ---
 
-# G_ig_chase.h.ai_DJeoBGhxh7c — right
+# G_ig_chase.h.ai_DJeoBGhxh7c — define success
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: continue, paste, seems, pretty. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, define success is the first step of the speaker's four-step framework for building AI agents: state what you are actually trying to build, then break that end state into manageable chunks — for his enhanced cold outreach system, that meant getting people's information from LinkedIn, company information for context, AI synthesis, and an outreach program. The phrase appears twice, beside four-step framework, cold outreach, and start small, and the point is that the exercise exposes the components before any building starts. His concrete case is the cold outreach breakdown, where the big goal becomes four small areas he can attack one by one.
 
 ## Synonyms
 
-- right
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let me tell you the four-step framework that I use to build all of my AI agents. So the first step is simple, and that's define success. Now that seems pretty obvious, right? Defining what you're actually trying to build. But it's actually a really good exercise in breaking down your end state into manageable chunks." — sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
-> "Now my third step is start small, and that comes directly from part one, right? Remember how we broke down this big problem into specific areas? Well, now you can just start attacking those areas one by one in small pieces. Now take my LinkedIn example again, right? The user has the ability to query hundreds of profiles at once." — sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
-> "And I paste that into Gemini as well. And so what I've done is I've given it full context of the actual workflow I'm trying to do, what's the end state, the individual kind of smaller context of the exact problem, and then I ask it for help, right? And I continue that process until it gets solved. So this four-part framework, hey, define success, see if we can steal it, right?" — sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
+> "So the first step is simple, and that's define success." — sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
+> "So this four-part framework, hey, define success, see if we can steal it, right?" — sources/S_ig_chase.h.ai_DJeoBGhxh7c.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a slogan: define success is a working exercise that produces the component list, so a goal stated without breaking it down would not be the step he teaches.
+- Read as the whole framework: it is only step one — steal a template, start small, and troubleshoot follow — so a defined goal with no next steps is not the framework.

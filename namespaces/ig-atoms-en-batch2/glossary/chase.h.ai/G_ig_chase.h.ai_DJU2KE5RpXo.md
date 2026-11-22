@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [Tavily, chase.h.ai account context]
+aka: [Tavily]
 origin: sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
 
 ## Term
 
-"Tavily" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tool, tavily, com, rename. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Tavily is the web search tool the speaker wires into the stock agent in part four so it can do public sentiment analysis: sign up at tavily.com, take the API key, copy the curl from the quick start docs, and import it into an HTTP request tool inside n8n. The name appears 9 times, beside sentiment analysis, API key, and system message, and the deal he quotes is a thousand free credits a month, about six to seven hundred searches. His concrete case is the finished sentiment tool, where the model itself decides what to search for based on what he tells the agent.
 
 ## Synonyms
 
-- Tavily
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So here's Tavily, you can get there by going to tavily. Com. Your first thousand credits every month are free, which equates to like six to 700 searches, so it's pretty awesome. So you're just going to sign up, you're going to see a page like this. This is where you're going to get your API key, so if you just click on that, that's how you get it." — sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
-> "Now if you want to edit those parameters, you can always go back in the Tavily documentation and get some more information. But what we've set up now is a tool that allows us to put in that ticker, get the technical analysis, and now do the public sentiment analysis." — sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
+> "So here's Tavily, you can get there by going to tavily. Com." — sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
+> "Now if you want to edit those parameters, you can always go back in the Tavily documentation and get some more information." — sources/S_ig_chase.h.ai_DJU2KE5RpXo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Tavily": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole agent: Tavily is only the sentiment-search tool — the chart side and the system message are separate pieces — so an agent with Tavily alone cannot do technical analysis.
+- Read as unlimited search: the free tier is a thousand credits a month, so searching past that without paying would not be the deal he describes.

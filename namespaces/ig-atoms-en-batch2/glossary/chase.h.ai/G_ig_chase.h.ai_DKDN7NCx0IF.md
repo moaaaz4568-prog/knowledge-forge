@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [right, chase.h.ai account context]
+aka: [context window]
 origin: sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
 ---
 
-# G_ig_chase.h.ai_DKDN7NCx0IF — right
+# G_ig_chase.h.ai_DKDN7NCx0IF — context window
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 30 times in the text (whole-word matches, case folded), and the words most often collocated with it are: right, tool, kind, want. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a context window is the limit on how much an AI agent's large language model can remember at one time: the amount of conversation it holds, broken down into tokens, so it cannot go up to infinity. The phrase appears twice, beside large language model, tokens, and AI agent, and the speaker explains it while walking through what an agent is — a chat window to talk to it, a large language model as the brains, tools the model fills out by itself. His concrete case is the email tool, where the model defines the to box, subject, and message automatically instead of him spelling each one out.
 
 ## Synonyms
 
-- right
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how I wish somebody explained AI agents to me when I first started trying to build them without knowing how to code. So the first thing I wish someone told me was that you don't need to know how to code to build one of these, right? You just got to go to the right platform, whether that's Make or Zapier, or in this case, N8N." — sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
-> "Usually you have to be like, all right, I explicitly want this to be sent to this, this person in the to box, and I want the subject to be this and the message to be this, right? But with AI agents, you can kind of just set these to be filled out or defined automatically by the model. What does that mean?" — sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
-> "This right here is where we would put all the instructions of how we want it to like logically take the conversations we have and execute the tool. So here I would be like, hey, you know, here's tool one available to you, and here's what it does. Here's what it does. And then I do that for tool two, tool three, tool four, right? And then I would say, here's how I want you to use the tools." — sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
+> "Now that can't go up to infinity because every single AI agent, every single large language model has what's called a context window." — sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
+> "And think of a context window as the large, the amount of conversations it can remember any one time, right?" — sources/S_ig_chase.h.ai_DKDN7NCx0IF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as unlimited memory: the context window is a hard limit measured in tokens, so an agent that remembers everything forever would not be the thing he describes.
+- Read as a model flaw: the window is how every large language model works, so hitting it is expected behavior, not a bug in the agent.

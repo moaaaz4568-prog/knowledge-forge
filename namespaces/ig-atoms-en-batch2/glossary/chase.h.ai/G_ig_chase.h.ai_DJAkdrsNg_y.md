@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [right, chase.h.ai account context]
+aka: [lead generation]
 origin: sources/S_ig_chase.h.ai_DJAkdrsNg_y.md
 ---
 
-# G_ig_chase.h.ai_DJAkdrsNg_y — right
+# G_ig_chase.h.ai_DJAkdrsNg_y — lead generation
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: company, research, find, via. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, lead generation is what the speaker's latest AI workflow is all about: getting really good data from people's LinkedIn profiles to enrich leads — find the decision maker, get their LinkedIn URL via a custom Google search engine, scrape the profile with Apify, let AI summarize it, do company research, and finish with an outreach message. The phrase appears once, beside LinkedIn, leads, and Apify, because the video walks the whole chain rather than repeating the name. His concrete case is the outreach message at the end, sent via LinkedIn or automatically by email, in a workflow he says is about 75% done.
 
 ## Synonyms
 
-- right
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So basically what happens is you're someone who wants to talk with an actual decision maker, but you don't know who they are, you don't know their email, you don't know their background. And this automation allows you to figure out who that person is, get some information via their LinkedIn and then do company research, right? So we find their LinkedIn URL via custom Google search engine." — sources/S_ig_chase.h.ai_DJAkdrsNg_y.md
-> "We then use Apify to scrape their profile and give all that information to AI to give us a summary. And then we do some company research via Tableau, right? So I know who the person is, I know what their company background is, I know what sort of posts they've been making, right?" — sources/S_ig_chase.h.ai_DJAkdrsNg_y.md
-> "And then we even have like an outreach message, right? You can either do this via LinkedIn or you can have it automatically sent via an email. And that's the next part of this. I would say I'm about 75% of the way done." — sources/S_ig_chase.h.ai_DJAkdrsNg_y.md
+> "Let me show you the latest AI workflow that I've been working on. That's all about lead generation and getting really good data from people's LinkedIn profiles to enrich those leads." — sources/S_ig_chase.h.ai_DJAkdrsNg_y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a finished product: he says the workflow is about 75% done, so a lead list it produces today is a work in progress, not the final template.
+- Read as just scraping: the chain only counts as lead generation when the scraped profile is summarized and turned into outreach, so raw profile data with no next step would not be this workflow's output.

@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [stock, chase.h.ai account context]
+aka: [system message]
 origin: sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
 ---
 
-# G_ig_chase.h.ai_DJW3J9PxFEp — stock
+# G_ig_chase.h.ai_DJW3J9PxFEp — system message
 
 ## Term
 
-"stock" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: analysis, tool, want, whatever. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a system message is where the finished stock agent's logic lives: in part five the speaker opens the AI agent, adds the system message option, and pastes in logic he got from ChatGPT about how to talk about a stock and use the tools — Tavily for sentiment, the chart for technical analysis. The phrase appears 6 times, beside sentiment analysis, Tesla, and AI agent, and the test is the proof: ask about Tesla and the agent gives levels, indicators, thoughts, the chart, and recent news and sentiments. His concrete case is the Tesla test, where the agent answers with all of that from one question.
 
 ## Synonyms
 
-- stock
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Welcome to my step-by-step guide of how to create an AI agent without using any code that does public sentiment analysis and technical analysis of any stock you want. This is part five of my guide, so make sure to check the previous videos to get caught up and follow this channel to see more. Okay, so here we are in part five and let's finally finish this guy." — sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
-> "We're going to go to something like ChatGPT and say, hey, this is what I'm trying to do, have a conversation about some sort of stock, and here's how I want you to use the tools. So to do that, you're going to go to your AI of choice." — sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
-> "And so you can do this for whatever stock you want and you can make it more and more customized by going into this system message and telling it how you want it to actually logically go through all the information that's being provided, both from tavily and from the chart information, right? You can get really, really deep into whatever persona you want your AI agent to actually act like." — sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
+> "And then what you're going to do is you're going to go into AI agent, double click there, and then you're going to want to come here where it says add option and do system message." — sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
+> "So it should give you some sort of system message back." — sources/S_ig_chase.h.ai_DJW3J9PxFEp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "stock": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a prompt you write yourself: he does not write the logic on his own — he asks ChatGPT for it and pastes it back — so a hand-written message would not be how he builds it.
+- Read as fixed behavior: the message is editable, and he says you can make the agent more customized and deeper by changing it, so the first version is a starting logic, not the final persona.

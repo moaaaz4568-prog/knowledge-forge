@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [right, chase.h.ai account context]
+aka: [AI agent, AI agents]
 origin: sources/S_ig_chase.h.ai_DINWJruN0Bx.md
 ---
 
-# G_ig_chase.h.ai_DINWJruN0Bx — right
+# G_ig_chase.h.ai_DINWJruN0Bx — AI agent
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: moving, look, asking, building. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, an AI agent is the thing the speaker builds with a custom GPT: he describes a GPT that turns plain prompts into code he uploads into N8N, so the agent can check his Gmail inbox, spot high-priority mail about product A, send it to a large language model, and leave a draft waiting in Gmail. The phrase appears 6 times, beside custom GPT, N8N, and Gmail, and the pattern is always a GPT producing code for an agent that does inbox work. His concrete case is the Gmail checker, which runs on a manual trigger, grabs mail, decides what is high priority, and drafts replies.
 
 ## Synonyms
 
-- right
-- chase.h.ai account context (no variant form of the term appears in this source)
+- AI agents (the plural form the speaker uses)
 
 ## Live Example
 
-> "I asked it to help me create an AI agent that will be able to check my Gmail inbox for specific emails that I deem high priority. High priority means it's somebody talking about product A, and if it's high priority, I want that email then sent to the large language model and have a draft created that shows it in my Gmail for me to look at, right?" — sources/S_ig_chase.h.ai_DINWJruN0Bx.md
-> "Now this isn't a complete solution, right? It's about 80%. We still need to connect our stuff and you're gonna wanna go in here and do things like adjust the system prompt and those sorts of things. But I think this custom GPT does a pretty good job of getting you started, right, and moving in the right direction." — sources/S_ig_chase.h.ai_DINWJruN0Bx.md
-> "Now if you're looking to get a little more serious about building your own AI agents and AI automations, I would suggest actually checking out my community that you now got the link to. It's all about giving you guides and lessons if you're non-technical of how to build AI agents, right? We get pretty sophisticated building cool stuff like this." — sources/S_ig_chase.h.ai_DINWJruN0Bx.md
+> "Let me show you how to easily turn your ChatGPT prompts into AI agents on N8N." — sources/S_ig_chase.h.ai_DINWJruN0Bx.md
+> "I asked it to help me create an AI agent that will be able to check my Gmail inbox for specific emails that I deem high priority." — sources/S_ig_chase.h.ai_DINWJruN0Bx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a finished product: the speaker says the GPT gives about an 80% solution and he still has to connect his own stuff and adjust the system prompt, so an AI agent here is a starting build, not a complete solution.
+- Read as a general automation: his agents decide by task and use different tools and paths, so calling every fixed N8N workflow an AI agent stretches the word past what he shows here.

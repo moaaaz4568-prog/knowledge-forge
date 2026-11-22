@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [video, videos]
+aka: [V03]
 origin: sources/S_ig_chase.h.ai_DK0btE6R1fd.md
 ---
 
-# G_ig_chase.h.ai_DK0btE6R1fd — video
+# G_ig_chase.h.ai_DK0btE6R1fd — V03
 
 ## Term
 
-"video" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: generated, v03, new, model. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, V03 is Google's new video model that the speaker runs inside N8N: a skeleton automation takes a form submission describing the video — subject, context, style — optimizes the prompt through an OpenAI basic LLM chain, then makes the HTTP request through Fal AI, a marketplace for API calls, so he can use V03 without paying the huge subscription upfront. The name appears 8 times, beside N8N, Fal AI, and form submission, and the cost is still steep even through Fal. His concrete case is the simple skeleton, which gets the video once per submission and Gmails it to himself.
 
 ## Synonyms
 
-- video
-- videos (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have you seen that you can now use V03 inside of N8N? Yeah, I saw it. It's insane how easy it is to set up. So she's not lying. It's actually really easy to set up Google's V03, their new video model, inside of N8N. And let me show you how. Okay, so here we are inside of N8N, and this is a skeleton that I built so that you can automate video generation with Google's V03." — sources/S_ig_chase.h.ai_DK0btE6R1fd.md
-> "What do you want the style to be? From there, it then goes to an OpenAI basic LLM chain where it essentially optimizes your prompt to create the best text to video prompt it can. From there, we then make an HTTP request not to Google, but to fale AI. Now, what's fale AI? It's essentially a marketplace for API calls." — sources/S_ig_chase.h.ai_DK0btE6R1fd.md
-> "And if you're looking for this template as well as a guide of how to actually set this up step by step, go ahead and check out the community in my profile. I have this template and a video tutorial that goes in depth of how it all works, and it's built for non-technical users." — sources/S_ig_chase.h.ai_DK0btE6R1fd.md
+> "Have you seen that you can now use V03 inside of N8N?" — sources/S_ig_chase.h.ai_DK0btE6R1fd.md
+> "It's actually really easy to set up Google's V03, their new video model, inside of N8N." — sources/S_ig_chase.h.ai_DK0btE6R1fd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "video": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as free video: even through Fal AI the cost is steep, so a V03 video made this way is cheaper than the subscription, not free.
+- Read as a Google integration: the HTTP request goes to Fal AI, borrowing their Google account for the call, so a direct Google setup would not be this skeleton.

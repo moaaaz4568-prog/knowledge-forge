@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [something like, chase.h.ai account context]
+aka: [AI agency]
 origin: sources/S_ig_chase.h.ai_DJpj0IlRMkF.md
 ---
 
-# G_ig_chase.h.ai_DJpj0IlRMkF — something like
+# G_ig_chase.h.ai_DJpj0IlRMkF — AI agency
 
 ## Term
 
-"something like" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, something, super, generates. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, an AI agency is the business the speaker says you build by selling AI agents: learn to build three types — RAG agents, lead generation AI agents, and content agents that post ads or LinkedIn content — then find clients either door to door on LinkedIn or by giving the workflows away for free and selling the implementation and customization. The phrase appears once, beside RAG agents, lead generation, and marketing department, because the video is the whole pitch: the product is free, the implementation is what people pay for. His concrete case is the lead generation agent used to find its own clients, pitching strangers on LinkedIn with the exact problem-solution it sells.
 
 ## Synonyms
 
-- something like
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "They can be something like this or something super complicated like this. And truthfully, these simple variations where people are able to very simply load up all their business data and personal information that the AI agent can reference is what sells the most. The second type of AI agent that you definitely need to learn how to build are lead generation AI agents, right?" — sources/S_ig_chase.h.ai_DJpj0IlRMkF.md
-> "Whether that's something like this that generates like product ads for something like an Amazon storefront or something that posts on LinkedIn automatically for them, you need a way to make it easy for them to get out on social media and have content. Now, how the heck do I actually find clients? Well, there's two paths." — sources/S_ig_chase.h.ai_DJpj0IlRMkF.md
-> "The first one is you kind of go door to door on something like LinkedIn and you tell people, hey, I see you have this problem. Here's my solution. Let's talk, right? And ideally you would use something like the lead generation AI agent that you're already trying to sell to help you do that." — sources/S_ig_chase.h.ai_DJpj0IlRMkF.md
+> "If you want to start making money by selling your own AI agents and creating your own AI agency, let me tell you the three different types of AI agents you need to know how to sell and the two ways you can find clients." — sources/S_ig_chase.h.ai_DJpj0IlRMkF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "something like": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as selling software: he says give the product away for free and sell the implementation, so charging for the workflow itself would flip his model.
+- Read as instant clients: nobody cares for the first hundred videos, he warns, so an agency with no audience work behind it is not the path he describes.

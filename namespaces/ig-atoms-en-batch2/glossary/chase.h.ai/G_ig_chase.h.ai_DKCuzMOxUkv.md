@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [agent, agents]
+aka: [stock tool]
 origin: sources/S_ig_chase.h.ai_DKCuzMOxUkv.md
 ---
 
-# G_ig_chase.h.ai_DKCuzMOxUkv — agent
+# G_ig_chase.h.ai_DKCuzMOxUkv — stock tool
 
 ## Term
 
-"agent" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: stock, made, guy, give. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, a stock tool is the brand new tool the speaker just created for his AI agent: the latest upgrade among a bunch of tools around the agent, doing qualitative analysis by scraping the web for relevant data and feeding a combined output. The phrase appears once, beside qualitative analysis, AI agent, and stock agent, because the source is a short upgrade note — three sections — rather than a full build guide. His concrete case is the combined output itself, which is what the stock agent shows when the new tool runs.
 
 ## Synonyms
 
-- agent
-- agents (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Let me show you the latest upgrade I've made to my AI agent. So this guy has a bunch of different tools associated with it that you kind of see all around it. But the one I just created for it was this brand new stock tool. And let me show you how it works." — sources/S_ig_chase.h.ai_DKCuzMOxUkv.md
-> "And then it does all that qualitative analysis by scraping the web for any data it deems relevant via Tableau. The combined output of that then looks like this. So if you're looking for that stock agent or you want to build any of the other agents you see here on the screen, you can go ahead and find guides and templates for all those in the community in my profile." — sources/S_ig_chase.h.ai_DKCuzMOxUkv.md
+> "But the one I just created for it was this brand new stock tool." — sources/S_ig_chase.h.ai_DKCuzMOxUkv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the whole agent: the stock tool is one new tool among many around the agent, so the agent without it still counts as an agent — it just cannot do the stock job.
+- Read as a finished product: this is an upgrade note showing the tool's output, not a build guide, so a tool with no agent around it would not be the upgrade he shows.

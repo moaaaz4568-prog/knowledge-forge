@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [add, chase.h.ai account context]
+aka: [AI agent, AI agents]
 origin: sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
 ---
 
-# G_ig_chase.h.ai_DJFwAeNNI-V — add
+# G_ig_chase.h.ai_DJFwAeNNI-V — AI agent
 
 ## Term
 
-"add" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tools, stuff, like, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, an AI agent is what the speaker builds in about 90 seconds on n8n.io with no code: start a new workflow, search for AI agent to get the foundation, then do three things — a chat model as the brain, memory, and tools. The phrase appears 6 times, beside chat model, simple memory, and tools, and the tools are the point: a Gmail tool that sends messages, Wikipedia, Notion, or anything added by HTTP request. His concrete case is the simple demo, where the agent goes into Gmail and checks Wikipedia to get the actual information.
 
 ## Synonyms
 
-- add
-- chase.h.ai account context (no variant form of the term appears in this source)
+- AI agents (the plural form the speaker uses)
 
 ## Live Example
 
-> "Now once you're here on the canvas, you're gonna do add first step, and you're gonna search for AI agent. This is gonna give you the foundation for actually building your agent. Now there's just three things you have to do once you're at this point. You need to do a chat model, you need to give it memory, you need to add tools. Now the chat model is like the brain of the AI agent." — sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
-> "Now we just add a bunch of tools to our agent, and that allows it to actually do things. So for example, I can add a Gmail tool. I can have it send messages. I can even have the AI figure out who to send the message to and what I want the message to be. And you can add all sorts of stuff, right? We can add something like Wikipedia. You can add stuff like Notion." — sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
-> "And then you can even add tools that you don't see on this list using stuff like HTTP request, right? So I could do something like Perplexity, or I could do something like, I don't know, the new ChatGPT image generator. And I have a whole video of how to do that step by step in a previous video." — sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
+> "Building your own AI agents doesn't have to be difficult, and you don't need to know how to code." — sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
+> "And I'll prove it to you by creating an AI agent in about 90 seconds using n8n.io." — sources/S_ig_chase.h.ai_DJFwAeNNI-V.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "add": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a three-step recipe only: the chat model, memory, and tools are the foundation, but the agent only does things once tools are added, so a foundation with no tools is not yet an agent that acts.
+- Read as a two-week toy: the free account lasts two weeks, but the agent built on it is a real workflow, so the trial limit is not a limit on what the agent can do.

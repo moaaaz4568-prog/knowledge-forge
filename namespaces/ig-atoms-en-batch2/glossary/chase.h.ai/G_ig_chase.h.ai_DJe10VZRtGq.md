@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [start small, chase.h.ai account context]
+aka: [N8N]
 origin: sources/S_ig_chase.h.ai_DJe10VZRtGq.md
 ---
 
-# G_ig_chase.h.ai_DJe10VZRtGq — start small
+# G_ig_chase.h.ai_DJe10VZRtGq — N8N
 
 ## Term
 
-"start small" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: small, start, right, away. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, N8N is the low-code platform the speaker wishes he had jumped into right away: one of three big ones — Make, Zapier, and N8N — and the one he likes most, calling it the most robust and the best bang for the buck, though it has the steepest learning curve of the three. The name appears 3 times, beside Make, Zapier, and low code, and the lesson is one of three things he wishes someone had told him when he started — the others are that you do not need to code, and that you should start small. His concrete case is his own early detour, when he spent too much time in the LangChain and LangGraph rabbit hole instead of starting in N8N.
 
 ## Synonyms
 
-- start small
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You get the most bang for your buck, although it has the steepest learning curve of the three. I spent a lot of time with Make at the beginning, but I wish I just jumped into N8N right away. And the third thing I wish I was told was A, to start small, and B, what to start small on. Right away I started to try to build really sophisticated AI systems, right?" — sources/S_ig_chase.h.ai_DJe10VZRtGq.md
+> "And there's three big ones out there, right? It's Make, Zapier, and N8N." — sources/S_ig_chase.h.ai_DJe10VZRtGq.md
+> "And of those three, I really like N8N the most." — sources/S_ig_chase.h.ai_DJe10VZRtGq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "start small": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the easy option: N8N has the steepest learning curve of the three, so picking it for ease would flip his comparison.
+- Read as a coding replacement for everyone: he still says start small and learn the platform, so jumping straight to sophisticated systems would repeat the mistake he warns about.

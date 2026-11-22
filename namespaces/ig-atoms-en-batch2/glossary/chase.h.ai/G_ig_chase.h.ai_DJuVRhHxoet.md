@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [meeting, chase.h.ai account context]
+aka: [Friday]
 origin: sources/S_ig_chase.h.ai_DJuVRhHxoet.md
 ---
 
-# G_ig_chase.h.ai_DJuVRhHxoet — meeting
+# G_ig_chase.h.ai_DJuVRhHxoet — Friday
 
 ## Term
 
-"meeting" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: penny, request, tomorrow, help. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, Friday is the speaker's AI agent — his upgrade from Jarvis — that he talks to by voice: ask it to schedule a meeting with Penny for tomorrow and send AI articles in the description, and it calls the calendar tool and the research tool itself, then sends the meeting request. The name appears 3 times, beside RAG AI agent, calendar tool, and Tavily, and the meeting request lands for tomorrow at 2 p.m. with the articles attached. His concrete case is that Penny meeting, where the agent picks the two tools it needs from its RAG brain and combines their results on its own.
 
 ## Synonyms
 
-- meeting
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hello, I'm Friday. How can I help you? Hey Friday, can you schedule a meeting with Penny for tomorrow? I want to discuss some AI stuff with them, so could you also send them a few AI articles in the meeting description? I'll help you send that meeting request to Penny. Penny received the meeting request for tomorrow at 2 p. M. To discuss AI along with the articles in the description." — sources/S_ig_chase.h.ai_DJuVRhHxoet.md
-> "Is there anything else I can do for you? Nope, that's it. Thanks. So what you just heard there was my AI agent Friday setting up a meeting all on its own. Now, how did that work? Well, that whole conversation eventually got driven to here, this RAG AI agent brain. And this brain has a bunch of different tools connected to it." — sources/S_ig_chase.h.ai_DJuVRhHxoet.md
-> "So it called the calendar tool to set up the meeting. It used the research tool to actually find the articles, combine them together, and sent out that meeting request. And now if you're wondering how can I build this myself, well, it's actually not too difficult, even though it looks super overwhelming, like you don't really know how to code." — sources/S_ig_chase.h.ai_DJuVRhHxoet.md
+> "Hello, I'm Friday. How can I help you? Hey Friday, can you schedule a meeting with Penny for tomorrow?" — sources/S_ig_chase.h.ai_DJuVRhHxoet.md
+> "So what you just heard there was my AI agent Friday setting up a meeting all on its own." — sources/S_ig_chase.h.ai_DJuVRhHxoet.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "meeting": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a voice gimmick: Friday is a RAG agent brain with tools behind the voice, so a chatbot that only talks would not be this agent.
+- Read as a human assistant: the meeting is set by the agent calling tools, not by a person, so a request handled by hand would not be Friday doing its job.

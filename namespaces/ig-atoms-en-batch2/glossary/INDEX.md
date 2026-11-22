@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch2)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch2): one G_ entry per T_ atom file — 3,847 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,248 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 276 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Rebuild in progress (2026-11-22): chunk 1 (codes 3001-3050, chase.h.ai, 50 files, 55 live examples) rebuilt per N1/N2/N5; namespace gates: 7694 entities, 0 rejected. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch2): one G_ entry per T_ atom file — 3,847 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,196 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 276 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Rebuild in progress (2026-11-22): chunk 1 (codes 3001-3050, chase.h.ai, 50 files, 55 live examples) rebuilt per N1/N2/N5; namespace gates: 7694 entities, 0 rejected. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 Rebuild 2026-11-22 (ig-batch2-part1 chunk 1, codes 1–50, artgrowthclub): 50 entries rebuilt in place with 62 live examples; gates G1/G2 pass for the namespace (7,694 entities, 0 rejected).
 
@@ -3056,56 +3056,56 @@ Rebuild 2026-11-22 (ig-batch2-part1 chunk 1, codes 1–50, artgrowthclub): 50 en
 | glossary/chase.h.ai/G_ig_chase.h.ai_DIClebux-R5.md | meeting prep | 1 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DIFHgQ3xyNx.md | newsletter | 1 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DIH1FmARVnJ.md | RSS feeds | 1 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DINWJruN0Bx.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIPqMsmxIfx.md | kind | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIRtG3LRoQC.md | MCP | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIUTA-KxWYH.md | ChatGPT | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIZMOSjRaog.md | file | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIcm1QpNOnU.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIiAkpHNaGx.md | email | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIkaU4btu8P.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DImgPHXRxCG.md | stuff | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIpf37QNZTi.md | video | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIrxTt7RoN8.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIuwDSBN_8F.md | want | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIw8HdIR18P.md | agent | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DIzh6bXRx0C.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJ2h09stWVH.md | Lovable | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJ4eLm5Rub9.md | agent | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJ5AnYyRXn9.md | package | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJ7l5aBx3Hy.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJ9zwL2RT_g.md | stuff like | 1 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJAkdrsNg_y.md | right | 3 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DINWJruN0Bx.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIPqMsmxIfx.md | meeting brief | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIRtG3LRoQC.md | MCP | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIUTA-KxWYH.md | roadmap | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIZMOSjRaog.md | custom GPT | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIcm1QpNOnU.md | custom GPT | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIiAkpHNaGx.md | email sub-agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIkaU4btu8P.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DImgPHXRxCG.md | 4. 1 | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIpf37QNZTi.md | faceless videos | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIrxTt7RoN8.md | Gmail trigger | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIuwDSBN_8F.md | vector database | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIw8HdIR18P.md | RAG | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DIzh6bXRx0C.md | RAG agents | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJ2h09stWVH.md | Lovable | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJ4eLm5Rub9.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJ5AnYyRXn9.md | AI Ultra | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJ7l5aBx3Hy.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJ9zwL2RT_g.md | Opus 4 | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJAkdrsNg_y.md | lead generation | 1 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DJCUSeLR-Ve.md | custom GPT | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJFwAeNNI-V.md | add | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJPndWZRWZs.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJRshaVx5Y2.md | gonna | 3 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJFwAeNNI-V.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJPndWZRWZs.md | sentiment analysis | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJRshaVx5Y2.md | MACD chart | 1 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DJU2KE5RpXo.md | Tavily | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJUK3vzxR_r.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJW3J9PxFEp.md | stock | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJXUlBgxU6d.md | RAG | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJZVoljx3xP.md | checks | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJcVdeSxu7p.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJcuRhRxelF.md | agent | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJe10VZRtGq.md | start small | 1 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJeoBGhxh7c.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJfg01etPnw.md | want | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJhc2kux3r3.md | LinkedIn | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJpj0IlRMkF.md | something like | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJsUEH4N_R8.md | image | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJuVRhHxoet.md | meeting | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DJwlEr0x4nH.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DK-JMY3R2is.md | Apollo | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DK0btE6R1fd.md | video | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DK2gakcx-pg.md | gonna | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DK7t_P8REkr.md | people | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKAqxQeRULa.md | analysis | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKCuzMOxUkv.md | agent | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKDN7NCx0IF.md | right | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKGJP6LtbJs.md | image | 1 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKIJw5dRE-V.md | image | 2 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKLYmRqNf3y.md | agents | 3 |
-| glossary/chase.h.ai/G_ig_chase.h.ai_DKNq_R8xO31.md | right | 3 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJUK3vzxR_r.md | technical analysis | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJW3J9PxFEp.md | system message | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJXUlBgxU6d.md | RAG agent | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJZVoljx3xP.md | brief sheet | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJcVdeSxu7p.md | AI agent | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJcuRhRxelF.md | AI automation | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJe10VZRtGq.md | N8N | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJeoBGhxh7c.md | define success | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJfg01etPnw.md | Airtable | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJhc2kux3r3.md | cold outreach | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJpj0IlRMkF.md | AI agency | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJsUEH4N_R8.md | content machine | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJuVRhHxoet.md | Friday | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DJwlEr0x4nH.md | AI email assistant | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DK-JMY3R2is.md | Apify | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DK0btE6R1fd.md | V03 | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DK2gakcx-pg.md | Fal. AI | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DK7t_P8REkr.md | social media | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKAqxQeRULa.md | stock analysis | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKCuzMOxUkv.md | stock tool | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKDN7NCx0IF.md | context window | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKGJP6LtbJs.md | carousels | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKIJw5dRE-V.md | carousel | 2 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKLYmRqNf3y.md | RAG agents | 1 |
+| glossary/chase.h.ai/G_ig_chase.h.ai_DKNq_R8xO31.md | orchestrator agent | 2 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DKSjH8jxhTX.md | right | 3 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DKVbA9NxIHo.md | calendar | 3 |
 | glossary/chase.h.ai/G_ig_chase.h.ai_DKX5lVSRfXZ.md | sort | 3 |

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [MCP, chase.h.ai account context]
+aka: [MCP, MCP modules]
 origin: sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
 
 ## Term
 
-"MCP" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: now, modules, natively, supporting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, MCP is the protocol N8N has just started supporting natively on its cloud, so the speaker can create an MCP server inside N8N and hook it to Claude desktop — but the native modules cannot yet list tools or execute tools the way his self-hosted community version can. The term appears 6 times, beside N8N, Claude desktop, and community version, and the contrast is the whole point: native MCP gives a Claude desktop integration, while self-hosted MCP lets one Slack MCP node replace nine modules. His concrete case is the Slack node, where he gives the AI one prompt and it decides whether to send a message or create a channel.
 
 ## Synonyms
 
-- MCP
-- chase.h.ai account context (no variant form of the term appears in this source)
+- MCP modules (the form the speaker uses for the native N8N pieces)
 
 ## Live Example
 
-> "So N8N just announced this morning that they're now natively supporting MCP, which means you no longer need to self-host to use MCP modules. And while that's super cool and you're gonna see a ton of hype about it in a couple days, what does it really buy you and is it better than the community version we've been using for the last few months? So the answer to that last question is no, not really." — sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
-> "So in practice, what these new MCP modules give us on the native N8N cloud is like Claude desktop integration. So I can now create an MCP server inside N8N, hook that up to Claude desktop and interact through my N8N workflows through that. Which while that's really cool, it's not nearly as cool as what we can do on the community version, right?" — sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
-> "We don't have the ability to list tools, we don't have the ability to execute tools. And so if you've been using the self-hosted version MCP, right, you know how awesome it is to have like a Slack MCP node that I can just give the AI a prompt, you know, already figure out like, hey, do you want to send a message, create a channel, etc. Like instead of having nine modules, I just have one or two." — sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
+> "So N8N just announced this morning that they're now natively supporting MCP, which means you no longer need to self-host to use MCP modules." — sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
+> "So in practice, what these new MCP modules give us on the native N8N cloud is like Claude desktop integration." — sources/S_ig_chase.h.ai_DIRtG3LRoQC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "MCP": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as full MCP support: native N8N MCP today cannot list or execute tools, so treating it as equal to the self-hosted community version overstates what the update does.
+- Read as hype-free news: the speaker calls the update mostly hype for now, so quoting MCP as a finished upgrade would flip his verdict.

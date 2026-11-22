@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: chase.h.ai
-aka: [right, chase.h.ai account context]
+aka: [orchestrator agent]
 origin: sources/S_ig_chase.h.ai_DKNq_R8xO31.md
 ---
 
-# G_ig_chase.h.ai_DKNq_R8xO31 — right
+# G_ig_chase.h.ai_DKNq_R8xO31 — orchestrator agent
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed Instagram video from the chase.h.ai account): it occurs 15 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tool, guy, see, right. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this source, an orchestrator agent is the top of the speaker's fleet of AI agents: the one you actually talk to, which picks the right tool for the job — the executive assistant tool for an email and an appointment, not the marketing or research tool — and the tools themselves are AI agents with their own tools below them. The phrase appears 3 times, beside system message, executive assistant, and org chart, and the structure is an org chart: the main agent tells the sub-agents, which tell the worker bees, and the answer travels back up the chain. His concrete case is the email-and-appointment request, where the executive assistant calls the email sub-agent and the calendar sub-agent, each a mini-me of the primary agent.
 
 ## Synonyms
 
-- right
-- chase.h.ai account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And so the executive assistant tool, which we see right here, right, this guy gets called, which himself is an AI agent, right? And you'll notice below him, he also has different tools associated with him, right? The email tool and the calendar tool, right? It's like a mini-me version of that primary agent." — sources/S_ig_chase.h.ai_DKNq_R8xO31.md
-> "Does its job based on the system message, send the message back up to this guy, who sends it back up to this guy, who then sends it to you. And that logic of having a main agent, which tells the sub-agents, which tells worker bees what to do, is kind of how you should think of your AI organization, right? It should almost look like an org chart, right? This guy is the CEO, the COO." — sources/S_ig_chase.h.ai_DKNq_R8xO31.md
-> "So, you know, that's kind of how you should think about it. Again, think of it as an org chart. And the way you make your money is by having really, really tight system prompts inside of each of these AI agents, the big ones and the small ones. So I think people have seen a lot of videos that people show something like this, and it's just like PDF pages and boxes and screen, right?" — sources/S_ig_chase.h.ai_DKNq_R8xO31.md
+> "You have this orchestrator agent up top, and that's the one you actually talk to." — sources/S_ig_chase.h.ai_DKNq_R8xO31.md
+> "And all these tools themselves are AI agents. And so for this example, let's say I tell my main orchestrator agent that I wanted to send off an email and set up an appointment." — sources/S_ig_chase.h.ai_DKNq_R8xO31.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a single agent: the orchestrator is the top of a fleet where tools are agents themselves, so one agent with no sub-agents would not be the setup he teaches.
+- Read as a diagram: the org chart is the working logic — tight system prompts inside each agent, big and small — so boxes on PDF pages with no prompts would not be this organization.
