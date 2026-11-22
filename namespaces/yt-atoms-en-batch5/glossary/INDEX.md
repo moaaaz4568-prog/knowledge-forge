@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch5)
 
-Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 50 glossary files, 50 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 100 glossary files, 100 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -54,3 +54,53 @@ Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file —
 | glossary/misc-dl/G_yt_b2FVTCeLg4c_en.md | podcast analytics | 1 |
 | glossary/misc-dl/G_yt_b2XxthneFlA_en.md | free deliverable | 1 |
 | glossary/misc-dl/G_yt_b2wSN1w5QH4_en.md | storyboard | 1 |
+| glossary/misc-dl/G_yt_b59SnUtL81U_en.md | critical thinking | 1 |
+| glossary/misc-dl/G_yt_b5StaIcxT0g_en.md | vanity metric | 1 |
+| glossary/misc-dl/G_yt_b5f0kh2GF2I_en.md | typography | 1 |
+| glossary/misc-dl/G_yt_b6JzNMRJyoo_en.md | coach | 1 |
+| glossary/misc-dl/G_yt_b7dQXL-3jj8_en.md | domain expertise | 1 |
+| glossary/misc-dl/G_yt_b83NS6pd6Wg_en.md | closers | 1 |
+| glossary/misc-dl/G_yt_b8LPpIzUkSo_en.md | 10x return on investment | 1 |
+| glossary/misc-dl/G_yt_b8XsWvX-HAc_en.md | booking funnel | 1 |
+| glossary/misc-dl/G_yt_b8bQqfz2atc_en.md | brain drain | 1 |
+| glossary/misc-dl/G_yt_b8pje-2WlPs_en.md | old money | 1 |
+| glossary/misc-dl/G_yt_b8zBcnk15e4_en.md | New California | 1 |
+| glossary/misc-dl/G_yt_b9rWnX2cQj4_en.md | eds and meds | 1 |
+| glossary/misc-dl/G_yt_bAR7eO1Qr4w_en.md | visual movement | 1 |
+| glossary/misc-dl/G_yt_bB_CM418O70_en.md | extrinsic motivation | 1 |
+| glossary/misc-dl/G_yt_bBjYm-SqQIE_en.md | TAM | 1 |
+| glossary/misc-dl/G_yt_bD83ZNYs98Q_en.md | magic wand tool | 1 |
+| glossary/misc-dl/G_yt_bDB2bBk_Ujs_en.md | randomization | 1 |
+| glossary/misc-dl/G_yt_bDDlyRw3tW0_en.md | soft landing | 1 |
+| glossary/misc-dl/G_yt_bDElLNtrQpQ_en.md | automation as a service | 1 |
+| glossary/misc-dl/G_yt_bDbRsh_cB_A_en.md | camera confidence | 1 |
+| glossary/misc-dl/G_yt_bDtElTLMzQQ_en.md | build and release | 1 |
+| glossary/misc-dl/G_yt_bEf7yK5OV3E_en.md | psychology | 1 |
+| glossary/misc-dl/G_yt_bG-ZB_r19CI_en.md | correct perception | 1 |
+| glossary/misc-dl/G_yt_bGYuTu7kobg_en.md | hook | 1 |
+| glossary/misc-dl/G_yt_bGntuFu1xx8_en.md | right people on the bus | 1 |
+| glossary/misc-dl/G_yt_bHmIuUj6NMY_en.md | sales page | 1 |
+| glossary/misc-dl/G_yt_bILUZjZq4zI_en.md | identity | 1 |
+| glossary/misc-dl/G_yt_bIhfIpsZzfI_en.md | student loans | 1 |
+| glossary/misc-dl/G_yt_bJIZSqvBJl4_en.md | common sense | 1 |
+| glossary/misc-dl/G_yt_bJXcc_SxQF8_en.md | leaky bucket | 1 |
+| glossary/misc-dl/G_yt_bJlAOwr80kI_en.md | structured content | 1 |
+| glossary/misc-dl/G_yt_bKgEtNcZPng_en.md | foreign country | 1 |
+| glossary/misc-dl/G_yt_bKqcvaNBCPA_en.md | movement | 1 |
+| glossary/misc-dl/G_yt_bL4YoL9dMRE_en.md | constraint | 1 |
+| glossary/misc-dl/G_yt_bLCeTeTZSFU_en.md | total addressable market | 1 |
+| glossary/misc-dl/G_yt_bLpLHR7UR6k_en.md | webinar | 1 |
+| glossary/misc-dl/G_yt_bMVygDgHx7U_en.md | Social Media Marketing World | 1 |
+| glossary/misc-dl/G_yt_bMlzF9N1v1k_en.md | global color | 1 |
+| glossary/misc-dl/G_yt_bNQ76-HjoDs_en.md | tailwind | 1 |
+| glossary/misc-dl/G_yt_bNYCFqGLPi0_en.md | expected value | 1 |
+| glossary/misc-dl/G_yt_bNtIUWB6B-c_en.md | portfolio | 1 |
+| glossary/misc-dl/G_yt_bOYApeAr6DM_en.md | banner ads | 1 |
+| glossary/misc-dl/G_yt_bOtjE85l0JU_en.md | outlier | 1 |
+| glossary/misc-dl/G_yt_bPPed_yRcJU_en.md | enforcer class | 1 |
+| glossary/misc-dl/G_yt_bPdSdfNq5XA_en.md | Valley of informed pessimism | 1 |
+| glossary/misc-dl/G_yt_bQjD8t6IITw_en.md | class of one | 1 |
+| glossary/misc-dl/G_yt_bRGYyPHaLxk_en.md | VIX | 1 |
+| glossary/misc-dl/G_yt_bS5nMkn3oAM_en.md | psychological trick | 1 |
+| glossary/misc-dl/G_yt_bSCxlUGatAI_en.md | properties panel | 1 |
+| glossary/misc-dl/G_yt_bUOkuL7SRP4_en.md | Christian leader | 1 |
