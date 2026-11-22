@@ -1,3 +1,54 @@
 # Index — glossary/
 
-(يُبنى مع اكتمال الطبقة)
+| File | Notes |
+|---|---|
+| glossary/misc-dl/G_yt_jGV8jpHE2po_ar.md | glossary |
+| glossary/misc-dl/G_yt_jH3JRQqSkas_ar.md | glossary |
+| glossary/misc-dl/G_yt_jHDVpTCCdfk_ar.md | glossary |
+| glossary/misc-dl/G_yt_jHgxCj8qm2E_ar.md | glossary |
+| glossary/misc-dl/G_yt_jHxXBGthuOk_ar.md | glossary |
+| glossary/misc-dl/G_yt_jI0AhWZkEJw_ar.md | glossary |
+| glossary/misc-dl/G_yt_jIwI7HxOqeQ_ar.md | glossary |
+| glossary/misc-dl/G_yt_jJWEU76EOG4_ar.md | glossary |
+| glossary/misc-dl/G_yt_jJaZDt9pRHI_ar.md | glossary |
+| glossary/misc-dl/G_yt_jJfv2IcE-BY_ar.md | glossary |
+| glossary/misc-dl/G_yt_jK68WsdasKc_ar.md | glossary |
+| glossary/misc-dl/G_yt_jKNsaybYSes_ar.md | glossary |
+| glossary/misc-dl/G_yt_jKd5TUlRjJc_ar.md | glossary |
+| glossary/misc-dl/G_yt_jKxWyAj5RPg_ar.md | glossary |
+| glossary/misc-dl/G_yt_jL4Exf4iL4s_ar.md | glossary |
+| glossary/misc-dl/G_yt_jLTbb0kT1OI_ar.md | glossary |
+| glossary/misc-dl/G_yt_jLqYIXm0WdQ_ar.md | glossary |
+| glossary/misc-dl/G_yt_jLzjZoTU_M4_ar.md | glossary |
+| glossary/misc-dl/G_yt_jLzmZdb2J9g_ar.md | glossary |
+| glossary/misc-dl/G_yt_jM10LqMwaXY_ar.md | glossary |
+| glossary/misc-dl/G_yt_jML-mA7Yvbo_ar.md | glossary |
+| glossary/misc-dl/G_yt_jMU3MHbIClM_ar.md | glossary |
+| glossary/misc-dl/G_yt_jM_JhNIE0vo_ar.md | glossary |
+| glossary/misc-dl/G_yt_jMhXWpwP6ns_ar.md | glossary |
+| glossary/misc-dl/G_yt_jMv9du0nBxw_ar.md | glossary |
+| glossary/misc-dl/G_yt_jNgAHeUJmas_ar.md | glossary |
+| glossary/misc-dl/G_yt_jO4jTYKNOJQ_ar.md | glossary |
+| glossary/misc-dl/G_yt_jPJL5csn7j0_ar.md | glossary |
+| glossary/misc-dl/G_yt_jPLNMDIa7Cc_ar.md | glossary |
+| glossary/misc-dl/G_yt_jPQljLi58ow_ar.md | glossary |
+| glossary/misc-dl/G_yt_jPepd6XiF5g_ar.md | glossary |
+| glossary/misc-dl/G_yt_jPkRhVQKbdw_ar.md | glossary |
+| glossary/misc-dl/G_yt_jQWIKkPXqgc_ar.md | glossary |
+| glossary/misc-dl/G_yt_jQZDC0foUmU_ar.md | glossary |
+| glossary/misc-dl/G_yt_jQljulwy14U_ar.md | glossary |
+| glossary/misc-dl/G_yt_jR-nHUaZ2Ls_ar.md | glossary |
+| glossary/misc-dl/G_yt_jRLNfaAmFf8_ar.md | glossary |
+| glossary/misc-dl/G_yt_jRpjD9SdXHY_ar.md | glossary |
+| glossary/misc-dl/G_yt_jSLm2bI6aLU_ar.md | glossary |
+| glossary/misc-dl/G_yt_jSviU35C3j8_ar.md | glossary |
+| glossary/misc-dl/G_yt_jT7B_Oy4Ejs_ar.md | glossary |
+| glossary/misc-dl/G_yt_jTdktHfB9XU_ar.md | glossary |
+| glossary/misc-dl/G_yt_jTllbia448o_ar.md | glossary |
+| glossary/misc-dl/G_yt_jTsTjCFk-RY_ar.md | glossary |
+| glossary/misc-dl/G_yt_jU9MwD1TJ-s_ar.md | glossary |
+| glossary/misc-dl/G_yt_jUCDzeWCOyE_ar.md | glossary |
+| glossary/misc-dl/G_yt_jULhNLPSdfI_ar.md | glossary |
+| glossary/misc-dl/G_yt_jUUFfqRT0Bw_ar.md | glossary |
+| glossary/misc-dl/G_yt_jUrv2WL6HIo_ar.md | glossary |
+| glossary/misc-dl/G_yt_jUspsW1jJzA_ar.md | glossary |
