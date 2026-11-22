@@ -1,6 +1,6 @@
 # Index — glossary/
 
-YouTube Arabic video transcripts batch 3 glossaries (part1 chunk 1, codes 1-50 of list.txt): one G_ entry per T_ atom file — 50 files, zero exclusions, per-channel layout glossary/<channel>/G_<code>.md (26 misc-dl + 24 across 11 channels). 70 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 0 pure-chant sources in this chunk (N5 not triggered). Every entry passed self-check §12: 0 errors. Gates tools/gates.py check --namespace yt-atoms-batch3: 100 entities (50 glossary + 50 atoms), 0 rejected (sparse checkout: gates cover chunk files only). Section headers in English per BUILDER-BRIEF-SPARSE-100 format correction. Terms are computed from each source's own text (repeated content terms by count + collocation; the central concept for short sources even at a single occurrence). First code 2oC8sOjnbh8, last 3394E_Imzmw.
+YouTube Arabic video transcripts batch 3 glossaries (part1 chunk 1, codes 1–50; part4 chunk 1, codes 4501–4550; part4 chunk 3, codes 4601–4650 of list.txt): one G_ entry per T_ atom file — 150 files, zero exclusions. 170 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 1 pure-chant source (part4 chunk 1, N5 type label). Every entry passed self-check §12: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; the central concept for short sources even at a single occurrence). First code 2oC8sOjnbh8, last QJvjfRTsaq4.
 | glossary/misc-dl/G_yt_Q4HDmA_p3HY_ar.md | هامش الربح | 1 |
 | glossary/misc-dl/G_yt_Q4Z9RIiN2Vk_ar.md | المشكله | 1 |
 | glossary/misc-dl/G_yt_Q4hERRcejaA_ar.md | تيك توك | 1 |
@@ -101,3 +101,53 @@ YouTube Arabic video transcripts batch 3 glossaries (part1 chunk 1, codes 1-50 o
 | glossary/misc-dl/G_32amFRKgt0g.md | وظائف الأشكال | 1 |
 | glossary/misc-dl/G_32u5T6lO8qk.md | هدف أحادي البعد | 1 |
 | glossary/omarsaied/G_3394E_Imzmw.md | تارجت | 1 |
+| glossary/misc-dl/G_yt_Pa5DHgmL0RU_ar.md | الوكالة | 1 |
+| glossary/cloutprofit/G_yt_PaHosmo14P0_ar.md | استراتيجية | 1 |
+| glossary/misc-dl/G_yt_PaI50zQba4g_ar.md | المسدج | 1 |
+| glossary/ctthedisrupter/G_yt_PakHu2sKTvQ_ar.md | الإعلانات | 1 |
+| glossary/mostafa.qandil/G_yt_PaphNes8FWU_ar.md | الهوك | 1 |
+| glossary/misc-dl/G_yt_PbAlHiJQ3bg_ar.md | تحسين محركات البحث | 1 |
+| glossary/jaceengland/G_yt_PbC7swykQpA_ar.md | الكافيين | 1 |
+| glossary/ctthedisrupter/G_yt_PbGchahOT4o_ar.md | أندروميدا | 1 |
+| glossary/misc-dl/G_yt_PbXTKUcprZY_ar.md | دولار | 1 |
+| glossary/orenmeetsworld/G_yt_Pb_qvsfdfkY_ar.md | الإبداع | 1 |
+| glossary/misc-dl/G_yt_Pc4p-vK9nSg_ar.md | تصميم | 1 |
+| glossary/saminyasar_/G_yt_PcAfIFPesDY_ar.md | التعليمات البرمجية | 1 |
+| glossary/orenmeetsworld/G_yt_PcVT0VZdn4s_ar.md | البريد الإلكتروني | 1 |
+| glossary/misc-dl/G_yt_Pcc4zE2kt7s_ar.md | الاعتراض | 1 |
+| glossary/orenmeetsworld/G_yt_PccrCJX5AuQ_ar.md | العلامة التجارية | 1 |
+| glossary/costanatomy56/G_yt_Pe6Upu18-bc_ar.md | التأمين | 1 |
+| glossary/misc-dl/G_yt_Pe8ySQRxbs8_ar.md | الألوان | 1 |
+| glossary/adriandimac/G_yt_PeEHlAxKpPc_ar.md | chant | 1 |
+| glossary/tylerhennessee/G_yt_PeL6hMDQT98_ar.md | قرض | 1 |
+| glossary/orenmeetsworld/G_yt_Pf3WEHECzPU_ar.md | العلامة التجارية | 1 |
+| glossary/ctthedisrupter/G_yt_PfZiR6D6Poc_ar.md | تكلفة الاكتساب | 1 |
+| glossary/saminyasar_/G_yt_PfeYDi2iPZY_ar.md | المنتج | 1 |
+| glossary/officialjpmiddleton/G_yt_PfhikUzfjDg_ar.md | المكالمات | 1 |
+| glossary/misc-dl/G_yt_PgcAeJnpGEM_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/orenmeetsworld/G_yt_PgjNVhX6-Gw_ar.md | الوجبات الخفيفة | 1 |
+| glossary/misc-dl/G_yt_PglIbqhn4No_ar.md | الفيديو | 1 |
+| glossary/misc-dl/G_yt_PguMLgkBikk_ar.md | المحتوى | 1 |
+| glossary/misc-dl/G_yt_PgwPGudSYH8_ar.md | الويسكي | 1 |
+| glossary/ctthedisrupter/G_yt_Ph1NLkEc85A_ar.md | فيسبوك | 1 |
+| glossary/misc-dl/G_yt_PhHgulD49mY_ar.md | دولار | 1 |
+| glossary/misc-dl/G_yt_Phf8cuLkwi4_ar.md | الأسعار | 1 |
+| glossary/takimoore/G_yt_Phkc86fDqyI_ar.md | البيع | 1 |
+| glossary/takimoore/G_yt_PiLXr37Z57E_ar.md | سؤال القرار | 1 |
+| glossary/misc-dl/G_yt_PiWiLIxbeaI_ar.md | سرعة تداول النقود | 1 |
+| glossary/takimoore/G_yt_PijtM1g1v38_ar.md | الشخص | 1 |
+| glossary/takimoore/G_yt_Piqgk5NU4UE_ar.md | التركيز | 1 |
+| glossary/tylerhennessee/G_yt_PjBrklI86LE_ar.md | المؤهلات | 1 |
+| glossary/maharamedia/G_yt_PjG7BMMLBGA_ar.md | المواعيد | 1 |
+| glossary/saminyasar_/G_yt_Pjlay4L85e8_ar.md | استراتيجية | 1 |
+| glossary/misc-dl/G_yt_PjreouILiAY_ar.md | الإضافة | 1 |
+| glossary/misc-dl/G_yt_Pkk55G82dG8_ar.md | الحكومة المنقسمة | 1 |
+| glossary/lobstercap/G_yt_Pl20ATxhfI0_ar.md | المؤسس | 1 |
+| glossary/ctthedisrupter/G_yt_PlEzEMkoCNw_ar.md | تجربة إيجابية | 1 |
+| glossary/misc-dl/G_yt_PlWBDnF1cs0_ar.md | الخطوط | 1 |
+| glossary/misc-dl/G_yt_Pm3kmWXl9mE_ar.md | أوروغواي | 1 |
+| glossary/maximiliandier/G_yt_Pn-4o4qknmM_ar.md | البيع بالجملة | 1 |
+| glossary/misc-dl/G_yt_PnvNaeJPKlA_ar.md | النظام | 1 |
+| glossary/misc-dl/G_yt_Po_fOr62BFI_ar.md | العملاء | 1 |
+| glossary/misc-dl/G_yt_PobVKBm_P0k_ar.md | المبيعات | 1 |
+| glossary/saminyasar_/G_yt_PofPXsG1aPY_ar.md | المنتج | 1 |
