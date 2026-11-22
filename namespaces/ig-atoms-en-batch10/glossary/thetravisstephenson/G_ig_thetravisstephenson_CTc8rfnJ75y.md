@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [want, thetravisstephenson account context]
+aka: [control]
 origin: sources/S_ig_thetravisstephenson_CTc8rfnJ75y.md
 ---
 
-# G_ig_thetravisstephenson_CTc8rfnJ75y — want
+# G_ig_thetravisstephenson_CTc8rfnJ75y — control
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: people, businesses, brands, come. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Control is what Travis says he gets from inboxes: nobody can stop him sending a text unless the user opts out. The word appears twice, beside inboxes, opts out, and spammy. He answers businesses that fear looking spammy by saying the customer wants the extension — a new workout, a new drop — and will get it from a competitor who does offer it, while the competitor builds a list by a thousand or two or three thousand a month.
 
 ## Synonyms
 
-- want
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And people want that. Businesses and brands have this weird thing" — sources/S_ig_thetravisstephenson_CTc8rfnJ75y.md
-> "Oh, I don't want to come across as spammy." — sources/S_ig_thetravisstephenson_CTc8rfnJ75y.md
-> "No, what you're doing is you're not offering your customers an extension to you that they want. They are going to get it from somebody that will. Period, end of story. Cause if you're a fitness entrepreneur, if you want a clothing brand, if you own, you know, a software company, if you own an e-commerce company, your competitor will use somebody like what we do. Absolutely." — sources/S_ig_thetravisstephenson_CTc8rfnJ75y.md
+> "You have to understand, I need control. Where do I get control? Inboxes." — sources/S_ig_thetravisstephenson_CTc8rfnJ75y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a right to message anyone: the control he claims ends where the user opts out, and the list is built from people who joined it.
+- Read as an excuse to spam: Travis frames the messages as something customers want — an extension of the business to them — not as unwanted blasts.
+

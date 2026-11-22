@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [list, thetravisstephenson account context]
+aka: ["list building"]
 origin: sources/S_ig_thetravisstephenson_CWn4p_Gj99v.md
 ---
 
-# G_ig_thetravisstephenson_CWn4p_Gj99v — list
+# G_ig_thetravisstephenson_CWn4p_Gj99v — list building
 
 ## Term
 
-"list" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: building, need, start, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+List building is business insurance in Travis's image: start before you need the list, because the list is what keeps sales going when ads get denied. The phrase appears twice, beside insurance, ads denied, and staff. He calls waiting the fatal mistake — companies start building only when they feel the need, like getting insurance after the accident — while his own list lets him keep selling, keep his staff, and stay in business through a bad month.
 
 ## Synonyms
 
-- list
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Most companies that I talk to that I see, the fatal mistake is they wait until they think they need it to start list building. It's almost like insurance. Like list building really is business insurance. Having a list cures all issues. Oh, I'm not having a really good month." — sources/S_ig_thetravisstephenson_CWn4p_Gj99v.md
-> "My ads got denied, but I've got an email list and I've been emailing them new stuff and they've been buying, so I've been able to continue to get sales. I can keep my staff. Things are good. But it's also, I look at it as more of like an insurance thing. People always, they get in an accident and they're like, oh, good thing I got insurance. Businesses will go on this route." — sources/S_ig_thetravisstephenson_CWn4p_Gj99v.md
-> "Like, okay, I lost my ad account. I need to start building my list. Oh man, I need my list. Do not wait to start building your list until you feel like you need it. Get the insurance now so that when you ever do need it, it's, okay, I'm glad I built that list, man. Whoo, boy." — sources/S_ig_thetravisstephenson_CWn4p_Gj99v.md
+> "Most companies that I talk to that I see, the fatal mistake is they wait until they think they need it to start list building." — sources/S_ig_thetravisstephenson_CWn4p_Gj99v.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "list": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that a list replaces ads: the list is the backup that covers a denied ad account, and Travis still runs ads alongside it.
+- Read as insurance in the legal sense: the insurance is his metaphor for the list's protection, and no policy or coverage is involved.
+

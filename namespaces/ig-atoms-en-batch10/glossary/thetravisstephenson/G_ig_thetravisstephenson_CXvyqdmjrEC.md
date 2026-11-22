@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [hey, thetravisstephenson account context]
+aka: [ambassador]
 origin: sources/S_ig_thetravisstephenson_CXvyqdmjrEC.md
 ---
 
-# G_ig_thetravisstephenson_CXvyqdmjrEC — hey
+# G_ig_thetravisstephenson_CXvyqdmjrEC — ambassador
 
 ## Term
 
-"hey" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, thank, much, ambassador. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An ambassador is the fan Travis recruits from stories mentions: someone who tagged the brand gets an automatic DM inviting them to promote it. The word appears three times, beside stories mentions, brand, and million followers. His example is a clothing brand whose tagger has a million followers — a thank-you DM, a full name and email in exchange for points, something free at ten points — and he prices the setup as a thousand bucks a month for the brand and a thousand a month for the agency that offers it.
 
 ## Synonyms
 
-- hey
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Setting up stories mentions for people, I would absolutely set up some kind of a campaign in stories mentions. I like the idea of an ambassador campaign. If you want to be able to get people on board to promote your brand, you could say, hey, thank you so much for tagging my brand. We'd love to have you on as an ambassador. Hey, Mr." — sources/S_ig_thetravisstephenson_CXvyqdmjrEC.md
-> "You know clothing brand guy, you had somebody tag you in your stories. They have a million followers. I could have automatically DM'd them and said, hey, we'd love to have you as an ambassador. And they say, hey, yeah, sure, I'd love to. I love your clothes. What's it worth to have somebody promoting your brand that has a million followers?" — sources/S_ig_thetravisstephenson_CXvyqdmjrEC.md
-> "It always comes down to when I'm looking at a client, I analyze what's going on. Hey, do you get a lot of stories mentions? Oh, you do. Is there anything you'd like to do? Is there anything that you're missing out on? Would you like to even just automate, hey, thank you so much. Give me your, can I have your full name and email?" — sources/S_ig_thetravisstephenson_CXvyqdmjrEC.md
+> "I like the idea of an ambassador campaign. If you want to be able to get people on board to promote your brand, you could say, hey, thank you so much for tagging my brand." — sources/S_ig_thetravisstephenson_CXvyqdmjrEC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hey": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as hiring an influencer: the ambassador is a customer who already tagged the brand, recruited with a thank-you and points, not a paid influencer deal.
+- Read as a guaranteed thousand a month: the thousand bucks a month is what he says the setup would be worth to a brand and to an agency, not income he reports.
+

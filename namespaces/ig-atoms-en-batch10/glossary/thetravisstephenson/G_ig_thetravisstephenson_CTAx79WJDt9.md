@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [next time, thetravisstephenson account context]
+aka: [VIP]
 origin: sources/S_ig_thetravisstephenson_CTAx79WJDt9.md
 ---
 
-# G_ig_thetravisstephenson_CTAx79WJDt9 — next time
+# G_ig_thetravisstephenson_CTAx79WJDt9 — VIP
 
 ## Term
 
-"next time" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: time, next, affiliate, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+VIP is the word Travis puts in front of buyers to pull them off the algorithm and onto his list: DM me VIP starts a seven-day email sequence with 20% off a course. The word appears three times, beside algorithm, seven-day email sequence, and Chatmathic. The pitch is that the algorithm only shows a post to some of the best people some of the time, while the VIP list gets a dedicated announcement — the next affiliate offer, video app, sponsor shout-out, or brand launch — that does not rely on the algorithm at all.
 
 ## Synonyms
 
-- next time
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So the next time you have an affiliate offer, the next time you have a video app game that you wanna promote, or the next time you have a sponsor that wants a shout out, the next time that you yourself wants to open a brand, you have a dedicated formal way of announcing it that isn't reliant on algorithms." — sources/S_ig_thetravisstephenson_CTAx79WJDt9.md
+> "So what do we do? We create sequences that says, hey, DM me VIP." — sources/S_ig_thetravisstephenson_CTAx79WJDt9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "next time": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a loyalty club with perks beyond the discount: the video names only the 20% off and the seven-day sequence; the value is the list itself, not a perks program.
+- Read as a claim that the algorithm shows nothing: Travis says the algorithm shows only so much and misses sales, not that it shows nothing at all.
+

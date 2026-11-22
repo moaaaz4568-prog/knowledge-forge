@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [maybe, thetravisstephenson account context]
+aka: ["true fans"]
 origin: sources/S_ig_thetravisstephenson_CSxM0ABJtl4.md
 ---
 
-# G_ig_thetravisstephenson_CSxM0ABJtl4 — maybe
+# G_ig_thetravisstephenson_CSxM0ABJtl4 — true fans
 
 ## Term
 
-"maybe" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: maybe, fit, healthy, smart. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+True fans are the audience Travis says you create by inspiring people, not by collecting followers: a fan is someone you moved to do something. The phrase appears twice, beside influence, inspiration, and Instagram. He argues that Instagram runs entirely on inspiration — good educators and communicators who have something people want — and that email and SMS let you send that inspiration straight to a fan instead of hoping the algorithm shows them a post.
 
 ## Synonyms
 
-- maybe
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can do so much more inspiration using email and SMS because it is a direct line to guarantee that your inspiration of whatever it is, maybe you're fit, maybe you're healthy, maybe you're smart, maybe you're a good business person, you can actually send that message to them and they will see it versus relying on an algorithm that you cannot guarantee they're gonna see every post." — sources/S_ig_thetravisstephenson_CSxM0ABJtl4.md
+> "That's how you create true fans. You create true fans by especially in an influence world." — sources/S_ig_thetravisstephenson_CSxM0ABJtl4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "maybe": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a follower count: Travis separates true fans from followers — fans are made by inspiration, and the video gives no number for how many he has.
+- Read as a tactic for going viral: the point is a direct line to people you already inspired, not a trick for reaching new ones.
+

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [Black Friday, thetravisstephenson account context]
+aka: ["Black Friday"]
 origin: sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
 ---
 
@@ -9,20 +9,18 @@ origin: sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
 
 ## Term
 
-"Black Friday" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: friday, black, releasing, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Black Friday here is the release date Travis says to announce in advance: send an email that sells nothing, only that a new product is coming on Black Friday. The phrase appears five times, beside lead in, countdown timer, and sell out. His example is an e-commerce campaign that announced the product with countdown timer images and no go shop right now — the lead in creates the pressure that on that day he is buying, because the product might sell out, and that makes people think more thought went into it.
 
 ## Synonyms
 
-- Black Friday
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hey, on Black Friday, here is what we've got coming." — sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
-> "Hey, this is coming on Black Friday. Get ready." — sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
-> "It's like, oh, yeah, maybe I'll get it. Yeah, I have time. It's not going anywhere, but it's like, oh no, he's releasing this on Black Friday. That's gonna sell out. He's telling everybody about it. Like this is a big deal. It makes people think that you put more thought into something when you announce that it's coming." — sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
+> "And actually, I saw a campaign today from an e-commerce company that did that. They announced that on Black Friday they're releasing this new product, and that's all the email was." — sources/S_ig_thetravisstephenson_CWlaU0JDS54.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Black Friday": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a Black Friday sale: the email Travis praises sells nothing and offers no discount; the product is only announced as coming.
+- Read as a trick to create fake scarcity: the tension he describes comes from a real release date and a real risk of selling out, not from a false countdown.
+

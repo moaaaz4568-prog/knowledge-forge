@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [pre-ordered, thetravisstephenson account context]
+aka: ["free recipes"]
 origin: sources/S_ig_thetravisstephenson_CYHUgr-jf0a.md
 ---
 
-# G_ig_thetravisstephenson_CYHUgr-jf0a — pre-ordered
+# G_ig_thetravisstephenson_CYHUgr-jf0a — free recipes
 
 ## Term
 
-No content word repeats often enough in this short source (41 words) to form a repeated term, so this entry documents the source's central term "pre-ordered" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Free recipes is the DM keyword Travis gives for his book's recipes: DM him free recipes and they arrive by email to download. The phrase appears once, beside book, pre-ordered, and DM me. The offer is open whether or not the viewer pre-ordered the book, and the whole clip is the handover — one keyword, one DM, one email with the download.
 
 ## Synonyms
 
-- pre-ordered
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (41 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "pre-ordered": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a free book: the free part is the recipes, sent by email, and the book itself is the thing viewers may or may not have pre-ordered.
+- Read as an email signup form: there is no form in the clip — the entry point is a DM with the two-word keyword.

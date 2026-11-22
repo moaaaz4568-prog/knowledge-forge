@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [gonna, thetravisstephenson account context]
+aka: [sequence, sequences]
 origin: sources/S_ig_thetravisstephenson_CLZpGNojX4Z.md
 ---
 
-# G_ig_thetravisstephenson_CLZpGNojX4Z — gonna
+# G_ig_thetravisstephenson_CLZpGNojX4Z — sequence
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: subscribers, right, address, offer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A sequence is the automated Messenger flow Travis builds to promote an offer without any landing page or sales page: it asks what the buyer promotes, collects an email address, and books a call. The word appears seven times — six as sequence and once as sequences — beside Messenger, email, landing page, and book a call. He builds the whole thing in about thirty minutes: the sequence sends the email to his autoresponder, waits two hours, sends another message, waits twenty-two more, and ends with a teaser, driving people to book calls for a $2,000 program.
 
 ## Synonyms
 
-- gonna
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- sequences
 
 ## Live Example
 
-> "So behind the scenes, Chatmattic here sends that email address that they're gonna give me to my autoresponder, so now I can send them emails. So without a landing page, without a sales page, I'm getting email addresses and Messenger subscribers, and I'm going through the whole sale funnel." — sources/S_ig_thetravisstephenson_CLZpGNojX4Z.md
+> "I'm gonna be getting booked calls from this sequence right here." — sources/S_ig_thetravisstephenson_CLZpGNojX4Z.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a funnel that needs a landing page: Travis stresses there is no landing page and no sales page — the sequence itself collects the email and the booking.
+- Read as a promise of booked calls in thirty minutes: thirty minutes is how long building the sequence took him, and the bookings it produces are not counted in the video.
+

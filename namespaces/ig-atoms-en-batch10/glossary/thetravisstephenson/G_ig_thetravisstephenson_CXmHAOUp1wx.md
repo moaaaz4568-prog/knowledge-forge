@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [giveaway, giveaways]
+aka: ["private reply"]
 origin: sources/S_ig_thetravisstephenson_CXmHAOUp1wx.md
 ---
 
-# G_ig_thetravisstephenson_CXmHAOUp1wx — giveaway
+# G_ig_thetravisstephenson_CXmHAOUp1wx — private reply
 
 ## Term
 
-"giveaway" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, run, search, hashtag. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A private reply is the Chatmattic feature Travis uses to turn a giveaway comment into a private message the moment someone comments. The phrase appears twice, beside giveaway, Chatmattic, and comment. The flow is fixed: a post says comment, tag three friends, like the page — every comment triggers a private reply that thanks the person, enrolls them, and asks for an email address, so the giveaway ends with a list to email instead of only likes.
 
 ## Synonyms
 
-- giveaway
-- giveaways (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Run giveaways for people on Instagram. Everybody that I've talked to who manages giveaways has been really interested in this. Go search the hashtag giveaway. Go to all the brands who have any activity on their giveaway and say, look, I can help you make more money from this giveaway so that you are not just giving a product away. You can actually like generate leads from this." — sources/S_ig_thetravisstephenson_CXmHAOUp1wx.md
-> "Whenever you run a giveaway, you always make a post. Hey, comment on this post, tag three friends, like my page. Every time they comment, you can use what's called a private reply. That private reply inside of Chatmattic will send them a private message to everybody who comments instantly and says, hey, thank you so much for enrolling. Do these final steps." — sources/S_ig_thetravisstephenson_CXmHAOUp1wx.md
-> "Now you can actually ask for an email address. After the giveaway is over, you've built a list of people that you can start emailing. You'll make more." — sources/S_ig_thetravisstephenson_CXmHAOUp1wx.md
+> "Every time they comment, you can use what's called a private reply." — sources/S_ig_thetravisstephenson_CXmHAOUp1wx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "giveaway": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a manual DM: the private reply is automatic — it sends instantly to everybody who comments — and that automation is the point of the tool.
+- Read as a way to run giveaways for free: Travis sells this as a service to brands, charging to make the giveaway produce leads and a positive ROI.
+

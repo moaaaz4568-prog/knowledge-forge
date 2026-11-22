@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [sports betting, thetravisstephenson account context]
+aka: ["sports betting"]
 origin: sources/S_ig_thetravisstephenson_C9nFK7-p8Oj.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thetravisstephenson_C9nFK7-p8Oj.md
 
 ## Term
 
-"sports betting" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: betting, sports, good, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sports betting is the skill Travis says some landscapers and laborers are genuinely good at, and his advice is to turn it into a group that earns. The phrase appears four times, beside lawnmowers, group, affiliate, and course. He pictures men sitting on lawnmowers in the rain with no other option, then says the better move is a group sharing sports betting picks that can become an affiliate for betting platforms or a course teaching the same thing.
 
 ## Synonyms
 
-- sports betting
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "But like they don't have another option because for whatever reason they probably do have other options, they just they haven't come up. But to be able to be like, oh, I'm like some of those guys are really passionate about and very good at like sports betting and they're they're good." — sources/S_ig_thetravisstephenson_C9nFK7-p8Oj.md
-> "It's like create a group that shares your sports betting stuff and eventually you can be an affiliate for the sports betting platforms or have your own course that teaches your sports betting thing and you'll make a lot more than what you make doing that." — sources/S_ig_thetravisstephenson_C9nFK7-p8Oj.md
+> "But to be able to be like, oh, I'm like some of those guys are really passionate about and very good at like sports betting and they're they're good." — sources/S_ig_thetravisstephenson_C9nFK7-p8Oj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sports betting": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an endorsement of betting as income: Travis presents it as a skill some people already have and a topic for a group, not as a reliable way to make money.
+- Read as a promise to out-earn a day job: the group, the affiliate deal, and the course are the path he sketches, and none of them is shown earning anything in the video.
+

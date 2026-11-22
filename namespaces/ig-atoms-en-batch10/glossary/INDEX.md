@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch10)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,911 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,855 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C6kcdfFJvXp.md | right | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C6plxfWvT2_.md | group | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7DMMmISSEd.md | gonna | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7JK1ZYPu5I.md | Woodworking | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7MH-EzP51y.md | silver | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7VILDKyl_e.md | every single | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7dzKurPOR0.md | email | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C84kHP2p79g.md | Really wanna | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C95cM7eJ1qu.md | restaurant | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C9kNzK9udnB.md | difference | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C9nFK7-p8Oj.md | sports betting | 2 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C6kcdfFJvXp.md | coffee alternative | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C6plxfWvT2_.md | covert affiliate method | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7DMMmISSEd.md | dog trainer | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7JK1ZYPu5I.md | woodworking | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7MH-EzP51y.md | silver | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7VILDKyl_e.md | screen recorder | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C7dzKurPOR0.md | email list | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C84kHP2p79g.md | refrain | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C95cM7eJ1qu.md | affiliate marketing | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C9kNzK9udnB.md | difference | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C9nFK7-p8Oj.md | sports betting | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_C9vtPA-p58c.md | affiliate program | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CH30AYODEIN.md | air fry | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CH6SluOjgC7.md | Yeah | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CI1jkIXj1MC.md | little Tommy | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CI8w5Q2Dp1m.md | scenic | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CIJdb25D_-J.md | freedom | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CL5DgpkjEZU.md | thing | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CLZpGNojX4Z.md | gonna | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CME-T4wDXm6.md | hundred dollars | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMP2eCEjsqo.md | website | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMdTDX4Da0V.md | two ways | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMfDKFFDA8f.md | three | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CQtaUNfjvi7.md | Rob Gronkowski | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSfJlyTpE-V.md | cookbook | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSrC4N9DfTr.md | email list | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSxM0ABJtl4.md | maybe | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CT5Ge8SJA1z.md | gonna | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CT91F8dDkJb.md | make money | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTAx79WJDt9.md | next time | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTc8rfnJ75y.md | want | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTml5VNjhZd.md | three friends | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTzj-a7jVn8.md | marketing | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CU8Iv7jpwRc.md | people | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CUoAk4-Devs.md | next time | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CV5imnWD1Cc.md | people | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CVL7qyfpy07.md | giveaway | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CVTkk06J8w8.md | social media | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CW8lv4QJkaj.md | personal assistant | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWGf5S3pQ4K.md | way | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWds8Aop8VC.md | now | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWlaU0JDS54.md | Black Friday | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWn4p_Gj99v.md | list | 3 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CH30AYODEIN.md | air fry | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CH6SluOjgC7.md | time flies | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CI1jkIXj1MC.md | snowflake | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CI8w5Q2Dp1m.md | scenic view | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CIJdb25D_-J.md | refrain | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CL5DgpkjEZU.md | education process | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CLZpGNojX4Z.md | sequence | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CME-T4wDXm6.md | lead | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMP2eCEjsqo.md | message | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMdTDX4Da0V.md | hole patching | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CMfDKFFDA8f.md | pillars | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CQtaUNfjvi7.md | sports agent | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSfJlyTpE-V.md | hyper segmentation | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSrC4N9DfTr.md | inbox | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CSxM0ABJtl4.md | true fans | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CT5Ge8SJA1z.md | giveaways | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CT91F8dDkJb.md | post | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTAx79WJDt9.md | VIP | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTc8rfnJ75y.md | control | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTml5VNjhZd.md | giveaway | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CTzj-a7jVn8.md | direct response marketing | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CU8Iv7jpwRc.md | quality over quantity | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CUoAk4-Devs.md | VIP | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CV5imnWD1Cc.md | Messenger bots | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CVL7qyfpy07.md | giveaway | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CVTkk06J8w8.md | VIP | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CW8lv4QJkaj.md | email marketer | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWGf5S3pQ4K.md | assessment funnels | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWds8Aop8VC.md | Fly In Friday | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWlaU0JDS54.md | Black Friday | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CWn4p_Gj99v.md | list building | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CX-BUikjgGB.md | sponsored message | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CXBf9EpDaic.md | SMS | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXhLd-EpWgY.md | plastic surgeon | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXjGigqDpFX.md | people | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXmHAOUp1wx.md | giveaway | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXvyqdmjrEC.md | hey | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CYHUgr-jf0a.md | pre-ordered | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXhLd-EpWgY.md | plastic surgeon | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXjGigqDpFX.md | birthday | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXmHAOUp1wx.md | private reply | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CXvyqdmjrEC.md | ambassador | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CYHUgr-jf0a.md | free recipes | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CYXCqKFDG0P.md | chasing | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ1hRQ2DS7Q.md | automated chat | 3 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ6_I0eDNst.md | Lego | 2 |

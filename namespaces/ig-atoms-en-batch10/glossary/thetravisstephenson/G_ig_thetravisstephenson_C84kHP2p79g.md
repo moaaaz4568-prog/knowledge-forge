@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [Really wanna, thetravisstephenson account context]
+aka: [refrain]
 origin: sources/S_ig_thetravisstephenson_C84kHP2p79g.md
 ---
 
-# G_ig_thetravisstephenson_C84kHP2p79g — Really wanna
+# G_ig_thetravisstephenson_C84kHP2p79g — refrain
 
 ## Term
 
-"Really wanna" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, run, around, confidence. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung rap lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The line 'Really wanna run around and chase me?' appears twice, beside confidence, chase me, and Travis, baby. The lyric runs through working hard, being paid, and going from the bottom to the top again, with no teaching or business point attached to any of it. The repeated 'again' closes the loop on a song about loyalty and struggle, not a method.
 
 ## Synonyms
 
-- Really wanna
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hell nah, but you got no confidence that you need. Really wanna run around and chase me? I'm not no Travis, baby, not a chase me. I work too hard, can you fucking pay me? I did so much, you did it with me, and I'm not alone. Since 2019, you did this with me. I'ma set it in stone. You come from the same place again. You know the struggle, baby, can we be friends? From the bottom to the top again." — sources/S_ig_thetravisstephenson_C84kHP2p79g.md
-> "We go out again, out again. But you got no confidence that you need. Really wanna run around and chase me? I'm not no Travis, baby." — sources/S_ig_thetravisstephenson_C84kHP2p79g.md
+> "Really wanna run around and chase me? I'm not no Travis, baby, not a chase me." — sources/S_ig_thetravisstephenson_C84kHP2p79g.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Really wanna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Travis explaining his own method: the lines are sung lyrics about confidence and chasing, not a description of his affiliate work.
+- Read as a claim that Travis is the singer's name in the song: 'I'm not no Travis, baby' is a lyric line, and the source gives no interview or statement behind it.
+

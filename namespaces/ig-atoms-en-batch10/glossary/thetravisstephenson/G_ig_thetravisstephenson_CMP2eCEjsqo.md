@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [website, thetravisstephenson account context]
+aka: [message]
 origin: sources/S_ig_thetravisstephenson_CMP2eCEjsqo.md
 ---
 
-# G_ig_thetravisstephenson_CMP2eCEjsqo — website
+# G_ig_thetravisstephenson_CMP2eCEjsqo — message
 
 ## Term
 
-"website" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: went, found, nothing, getting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A message is the box on a contact form that bothers Travis as a direct response marketer: it asks the visitor to type a message without saying what message to send. The word appears three times, beside website, contact us form, and direct response marketer. He finds the form at the bottom of a website — first name, last name, email, phone number, and a message — and says the business should be asking him questions instead, since he came to them.
 
 ## Synonyms
 
-- website
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I went to her website and I found a contact us form at the very bottom. There's nothing else on the website for getting a hold of her or reaching out to her aside from this form. So she wants us to type our first name, last name, email, phone number, and a message." — sources/S_ig_thetravisstephenson_CMP2eCEjsqo.md
+> "I will tell you as a direct response marketer, it really bothers me that this says message because it doesn't actually tell the person what message they're supposed to send." — sources/S_ig_thetravisstephenson_CMP2eCEjsqo.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "website": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint about contact forms in general: his complaint is specific — this form's message box gives the visitor no instruction.
+- Read as a lesson in writing messages: Travis shows no better wording for the box; the video moves on to Messenger instead.
+

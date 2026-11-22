@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [difference, thetravisstephenson account context]
+aka: [difference]
 origin: sources/S_ig_thetravisstephenson_C9kNzK9udnB.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thetravisstephenson_C9kNzK9udnB.md
 
 ## Term
 
-"difference" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: really, measuring, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The difference here is the gap between two price points that Travis uses to explain inflation: the official 2.3% change versus the 20% gap people actually feel. The word appears three times, beside inflation, 2.3%, 20%, and cost of living crisis. He points at two lines — prices 'around there' rising to 'there' — and says inflation only measures the difference between that and that, while for most people the felt difference is the bigger one.
 
 ## Synonyms
 
-- difference
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's the cost of living crisis. Suddenly we went up from prices being around there to prices being there, and you don't really see that in this data, okay? Because inflation is really just measuring the difference between that and that. And if you look at those two lines, you're talking about a 2.3% change. That's the number we're talking about today." — sources/S_ig_thetravisstephenson_C9kNzK9udnB.md
-> "But for a lot of people, it's not about that. It's about the difference between this and that. And when you look at the difference between this and that, that's 20%." — sources/S_ig_thetravisstephenson_C9kNzK9udnB.md
+> "Because inflation is really just measuring the difference between that and that." — sources/S_ig_thetravisstephenson_C9kNzK9udnB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "difference": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a statistic Travis calculated: the 2.3% and 20% are the two gaps he points to in the data he shows, and he does not show how either was computed.
+- Read as a claim that inflation is really 20%: he presents the 20% as the difference people experience, set against the 2.3% the data reports.
+

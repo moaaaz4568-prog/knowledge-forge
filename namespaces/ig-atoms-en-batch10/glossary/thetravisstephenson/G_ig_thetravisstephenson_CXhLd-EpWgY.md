@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [plastic surgeon, thetravisstephenson account context]
+aka: ["plastic surgeon"]
 origin: sources/S_ig_thetravisstephenson_CXhLd-EpWgY.md
 ---
 
@@ -9,19 +9,18 @@ origin: sources/S_ig_thetravisstephenson_CXhLd-EpWgY.md
 
 ## Term
 
-"plastic surgeon" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: surgeon, lead, plastic, went. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A plastic surgeon is the client Travis sells lead generation to: a thousand to fifteen hundred dollars a month for a Messenger sequence that books consultations. The phrase appears four times, beside lead gen, pixel, and retarget. His system puts a pixel on the surgeon's site, retargets visitors, and runs a sequence that asks which of four areas the visitor wants — then a sponsored message each month offers the deal to the list, because one lead for a plastic surgeon is worth a lot of money.
 
 ## Synonyms
 
-- plastic surgeon
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Offering this per client, you could probably make a thousand bucks a month. We made fifteen hundred a month off of for a while, and that was plastic surgeon lead gen. I went to the plastic surgeon, I am like, look, we put the pixel on your website, we will retarget to them. So we made a sequence that actually gave them their consultation." — sources/S_ig_thetravisstephenson_CXhLd-EpWgY.md
-> "I think anybody off the street could probably do this. Oh yeah, absolutely. And also get results for a plastic surgeon. And what's great is one lead for this plastic surgeon is gonna be worth a lot of money." — sources/S_ig_thetravisstephenson_CXhLd-EpWgY.md
+> "We made fifteen hundred a month off of for a while, and that was plastic surgeon lead gen." — sources/S_ig_thetravisstephenson_CXhLd-EpWgY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "plastic surgeon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a medical service Travis provides: the plastic surgeon is his client, and what Travis sells is the lead sequence, not surgery or consultations.
+- Read as a promise of $1,500 a month for anyone: the fifteen hundred is what he says they made off this one client for a while, for work he describes as simple enough for anybody off the street to do.
+

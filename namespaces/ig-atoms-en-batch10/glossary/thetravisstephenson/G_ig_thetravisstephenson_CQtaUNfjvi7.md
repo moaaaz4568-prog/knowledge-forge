@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [Rob Gronkowski, thetravisstephenson account context]
+aka: ["sports agent"]
 origin: sources/S_ig_thetravisstephenson_CQtaUNfjvi7.md
 ---
 
-# G_ig_thetravisstephenson_CQtaUNfjvi7 — Rob Gronkowski
+# G_ig_thetravisstephenson_CQtaUNfjvi7 — sports agent
 
 ## Term
 
-"Rob Gronkowski" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gronkowski, rob, great, example. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A sports agent is Travis's shortcut to a celebrity: instead of chasing thousands of people, go after the agent who controls access to one. The phrase appears three times, beside Rob Gronkowski, DMs, and super connectors. His example is Rob Gronkowski, represented by a sports agent whose job is to make Gronkowski more money — the agent actually checks DMs because they are looking for new people to represent, so one conversation can open the door.
 
 ## Synonyms
 
-- Rob Gronkowski
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So let's say I want to go after Rob Gronkowski, great example. Rob Gronkowski is represented by a sports agent. That sports agent's job is to make Rob Gronkowski more money. So what we can do is we can connect with the sports agent who's not getting as many DMs, who actually checks their DMs because they're looking for potential new people to represent." — sources/S_ig_thetravisstephenson_CQtaUNfjvi7.md
+> "So let's say I want to go after Rob Gronkowski, great example. Rob Gronkowski is represented by a sports agent." — sources/S_ig_thetravisstephenson_CQtaUNfjvi7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Rob Gronkowski": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a way to contact Gronkowski directly: Travis says the opposite — do not go after the celebrity, go after the agent who has their ear.
+- Read as a claim that agents reply to anyone: the agent in his example replies because the idea makes their client more money, not because DMs always get answered.
+
