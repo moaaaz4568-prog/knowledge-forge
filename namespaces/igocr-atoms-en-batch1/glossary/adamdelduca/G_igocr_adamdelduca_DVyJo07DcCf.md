@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["YouTube Automation Niches"]
 origin: sources/S_igocr_adamdelduca_DVyJo07DcCf.md
 ---
 
-# G_igocr_adamdelduca_DVyJo07DcCf — YouTube
+# G_igocr_adamdelduca_DVyJo07DcCf — YouTube Automation Niches
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, automation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "YouTube Automation Niches" is the heading for a shortlist of six markets — "Geriatrics", "Mafia", "Health", "Quakes", "Planting" and "Trucks" — judged on "Demand", "Profitability" and "Competition". It appears once, as the title of the first image, and the post gives no RPM or earnings figure for any of the six. The list mixes unlikely neighbours, so the point is that automation channels can sit in odd corners rather than in the usual money niches. A reader using it would test one of the six against demand, profitability and competition before building a channel around it.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YouTube Automation Niches Geriatrics Mafia Health Quakes Planting Trucks Demand Profitability Competition" — sources/S_igocr_adamdelduca_DVyJo07DcCf.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVyJo07DcCf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proven high-earning niches: the post names the six markets and three judging criteria but shows no views, RPM or income for any of them.
+- Read as a complete niche list: six names under one heading are a shortlist to test, not a survey of every market automation can enter.

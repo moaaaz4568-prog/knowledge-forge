@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [videos, adamdelduca account context]
+aka: ["100% AI"]
 origin: sources/S_igocr_adamdelduca_DWMHZd9FnxN.md
 ---
 
-# G_igocr_adamdelduca_DWMHZd9FnxN — videos
+# G_igocr_adamdelduca_DWMHZd9FnxN — 100% AI
 
 ## Term
 
-"videos" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 19 times in the text (whole-word matches, case folded), and the words most often collocated with it are: subscribers, subscribe, latest, popular. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "100% AI" describes an AI YouTube Automation channel making $10K a month at only 3 months old, with the post stressing that the channel is 100% AI. It appears once, in that opening claim, and the post then lists 10 niches that can make $10,000 a month, from "Learning" to "Data Comparisons". The claim's point is that no human appears on camera or in production at all, which is why the channel could grow so fast. A reader copying it would build a channel where AI handles the whole pipeline rather than using AI for one step only.
 
 ## Synonyms
 
-- videos
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuce 1. Learning Learn Smarter. Grow Daily. EverLearning Growth @EverLearningGrowth 28.9K subscribers · 32 videos Welcome to EverLearning Growth!" — sources/S_igocr_adamdelduca_DWMHZd9FnxN.md
-> "...more Subscribe Community Home Videos Playlists Posts Latest Popular Oldest Every British Aircraft Carrier Class Ever Built 135K views • 2 weeks ago 21:10 Every British Aircraft Carrier Class Ever Built" — sources/S_igocr_adamdelduca_DWMHZd9FnxN.md
-> "and 2 more links Subscribe Join Community Home Videos Shorts Posts Latest Popular Oldest Operative System 9:38 Most Popular Operative Systems 1981 - 2025 6.7M views • 5 months ago" — sources/S_igocr_adamdelduca_DWMHZd9FnxN.md
+> "This AI YouTube Automation channel is making $10K a month The crazy part? It's only 3 months old and is 100% AI Here are 10 niches that can make you $10,000/mo:" — sources/S_igocr_adamdelduca_DWMHZd9FnxN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "videos": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proof that a 100% AI channel earns $10K a month: the figure is the post's opening claim, and the ten niches that follow are suggestions, not the channel's own earnings.
+- Read as a channel with no human effort: 100% AI here describes the production, and the post still needs a human to pick the niche and publish.

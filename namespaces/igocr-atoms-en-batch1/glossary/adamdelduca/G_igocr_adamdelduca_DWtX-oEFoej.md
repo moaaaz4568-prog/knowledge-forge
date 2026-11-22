@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["while you sleep"]
 origin: sources/S_igocr_adamdelduca_DWtX-oEFoej.md
 ---
 
-# G_igocr_adamdelduca_DWtX-oEFoej — YouTube
+# G_igocr_adamdelduca_DWtX-oEFoej — while you sleep
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "while you sleep" is the promise on four AI tools that make money on YouTube: "SubscribrAI" generates engaging scripts, "ElevenLabs" creates human-like voiceovers, "Premiere Pro" edits captivating videos and "1of10" creates thumbnails using AI. It appears once, in the heading "4 AI tools to make money on YouTube while you sleep", and the post adds only "Save this for later" after the four tools. The phrase's point is passive income: the tools work through the night while the creator sleeps. A reader copying it would set up the same four tools and expect the channel to earn without them being awake.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "4 AI tools to make money on YouTube while you sleep SubscribrAI Generate engaging scripts ElevenLabs Create human-like voiceovers Premiere Pro Edit captivating videos 1of10 Create thumbnails using AI Adam | YouTube @Adam_DelDuca Save this for later" — sources/S_igocr_adamdelduca_DWtX-oEFoej.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWtX-oEFoej.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as money earned with no work: the post promises earnings while you sleep, but the four tools still need topics, scripts and uploads arranged while awake.
+- Read as a complete money system: four tools cover scripts, voice, editing and thumbnails, but the post says nothing about niches or titles, which decide whether anyone watches.

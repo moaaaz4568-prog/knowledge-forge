@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["TubeBuddy"]
 origin: sources/S_igocr_adamdelduca_DW9Ca2TFi5p.md
 ---
 
-# G_igocr_adamdelduca_DW9Ca2TFi5p — YouTube
+# G_igocr_adamdelduca_DW9Ca2TFi5p — TubeBuddy
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam_delduca, adam, step, ai-only. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "TubeBuddy" is the tool for step 1, niche selection, in a $10,000-a-month AI-only gameplan for 2026: "Don’t guess. Use TubeBuddy to find" channels getting consistent views and repeatable video formats. It appears once, in that step-1 line, while the rest of the plan uses "1of10" for ideas, "VidRush" for production and "Pikzels" for thumbnails. The post's test for a good niche is that multiple channels are already winning in it, so TubeBuddy's job is to surface those winners. A reader copying the plan would check TubeBuddy's channel lists before picking a niche instead of choosing what they like.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuca $10,000/mo YouTube AI-only gameplan for 2026 Niches: TubeLab Ideas: 1of10 Editing: Vidrush Thumbnails: Pixels Here’s the exact gameplan you can copy:" — sources/S_igocr_adamdelduca_DW9Ca2TFi5p.md
-> "Adam | YouTube @Adam_DelDuca Step 3: Video production Use VidRush Script → Voice → Editing All done with one tool What would you like to create today?" — sources/S_igocr_adamdelduca_DW9Ca2TFi5p.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DW9Ca2TFi5p.md
+> "Adam | YouTube @Adam_DelDuca Step 1: Niche selection Don’t guess. Use TubeBuddy to find: - Channels getting consistent views - Repeatable video formats If multiple channels are winning - You’re in the right place" — sources/S_igocr_adamdelduca_DW9Ca2TFi5p.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a guarantee that TubeBuddy finds winners: the post tells the reader to use it to find consistent channels, and shows no TubeBuddy screen proving a niche it found.
+- Read as the only tool the plan needs: TubeBuddy covers step 1 only, and the plan still needs 1of10, VidRush and Pikzels for the later steps.

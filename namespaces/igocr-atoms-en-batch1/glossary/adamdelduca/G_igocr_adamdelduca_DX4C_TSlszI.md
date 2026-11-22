@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["YouTube Automation Niches RPMs"]
 origin: sources/S_igocr_adamdelduca_DX4C_TSlszI.md
 ---
 
-# G_igocr_adamdelduca_DX4C_TSlszI — YouTube
+# G_igocr_adamdelduca_DX4C_TSlszI — YouTube Automation Niches RPMs
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, automation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "YouTube Automation Niches RPMs" is a short RPM table: "Productivity" at $5, "Old Money" at $12, "Geology" at $8 and "Spirituality" with no figure shown, plus a stray $3 with no niche beside it. It appears once, as the heading of the first image, and the post gives no demand, supply or channel behind any of the four niches. The table's point is the ranking: old money pays more than twice productivity per thousand views. A reader using it would pick old money over productivity if pay per view is the only measure.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YouTube Automation Niches RPMs Productivity $5 Old Money $12 $3 Geology $8 Spirituality" — sources/S_igocr_adamdelduca_DX4C_TSlszI.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DX4C_TSlszI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as exact pay rates: the table gives one figure per niche and a stray $3 with no niche, so it ranks niches rather than quoting what any channel is paid.
+- Read as a complete niche survey: four niches with one figure each are a shortlist, and the post shows no demand or competition for any of them.

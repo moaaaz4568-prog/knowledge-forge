@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["$15,000/mo YouTube Roadmap"]
 origin: sources/S_igocr_adamdelduca_DWWMzSAliM8.md
 ---
 
-# G_igocr_adamdelduca_DWWMzSAliM8 — YouTube
+# G_igocr_adamdelduca_DWWMzSAliM8 — $15,000/mo YouTube Roadmap
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, roadmap, channel, tubelab. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "$15,000/mo YouTube Roadmap" is a five-tool chain for a $15,000-a-month channel: "YouTube" for the channel, "TubeLab" for niches, "1of10" for topics, "VidRush" for edits and "Pikzels" for thumbnails. It appears once, as the heading of the first image, and each tool sits under exactly one job in parentheses. The roadmap's point is the chain: five tools in order, from channel to thumbnail, with nothing else in between. A reader copying it would run the same five tools in the same order instead of adding more tools to the chain.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "$15,000/mo YouTube Roadmap YouTube (Channel) TubeLab (Niches) 1of10 (Topics) VidRush (Edits) Pikzels (Thumbnails)" — sources/S_igocr_adamdelduca_DWWMzSAliM8.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWWMzSAliM8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $15,000 a month: the figure is the roadmap's title, and the post shows no channel earning it with this five-tool chain.
+- Read as a complete roadmap: five tools cover five jobs, but the post says nothing about scripts, voiceovers or publishing, which the same account covers in other posts.

@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["9-5ers"]
 origin: sources/S_igocr_adamdelduca_DW342ZYFqRf.md
 ---
 
-# G_igocr_adamdelduca_DW342ZYFqRf — YouTube
+# G_igocr_adamdelduca_DW342ZYFqRf — 9-5ers
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, step, 9-5ers. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "9-5ers" are people with a 9-to-5 job who make $5,000 a month with AI YouTube Automation without quitting that job. It appears once, in the opening line "9-5ers are making $5,000/mo with AI YouTube Automation", and the gameplan that follows is built for them: pick a niche with "TubeLab", start the channel in 30 minutes, invest $300 a month and use AI production. The post stresses that none of the setup — name, logo or banner — makes money, and that uploading does. A reader in a 9-to-5 copying it would keep the job and spend the $300 a month on the AI tools instead of quitting first.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DelDuca 9-5ers are making $5,000/mo with AI YouTube Automation And no, you don’t have to quit your job to start Here’s the simple gameplan you can follow:" — sources/S_igocr_adamdelduca_DW342ZYFqRf.md
-> "Adam | YouTube @Adam_DeIDuca Step 4: AI production Use AI for: - Scripts, voiceovers, thumbnails etc. Now 1 video doesn’t take days but hours For example, I’ve been using 1of10’s thumbnail generator to speed things up FACELESS STYLE @SUNNYV2 THE SLOW, PAINFUL, CREEPY DEATH OF ANGRY BIRDS BAN THIS. DEATH Orig." — sources/S_igocr_adamdelduca_DW342ZYFqRf.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DW342ZYFqRf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise that any 9-to-5 worker earns $5,000 a month: the figure belongs to the gameplan's pitch, and the post shows no named 9-5er earning it.
+- Read as a plan with no cost: the same post tells the reader to invest $300 a month, so the gameplan is cheap to start, not free.

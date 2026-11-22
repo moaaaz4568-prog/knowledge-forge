@@ -1,6 +1,6 @@
 # Index — glossary/ (igocr-atoms-en-batch1)
 
-Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,692 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuild chunk 1 (2026-11-22): 50 entries (adamdelduca, list lines 1-50) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors.
+Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,620 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuild chunk 1 (2026-11-22): 50 entries (adamdelduca, list lines 1-50) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors. Rebuild chunk 2 (2026-11-22): 50 entries (adamdelduca, list lines 51-100) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -54,56 +54,56 @@ Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ 
 | glossary/adamdelduca/G_igocr_adamdelduca_DVqpC5GDfL6.md | third party footage | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVtAC2vjRKT.md | Best YouTube Automation Strategy | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVtN0GHDTfZ.md | $0 Youtube Automation Gameplan for 2026 | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVvk5eCDfHM.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVvyl4PjbBd.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVyJo07DcCf.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVyXbScjdNi.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW1GYfKFtu9.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW1UDSklpnE.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW342ZYFqRf.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW3rJXhFojn.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW6P62VlhPa.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW6dpAllnZO.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW80sf5Fohl.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW9Ca2TFi5p.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWB0Hcnlo2b.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWBmYhQFiuH.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWELQG6FtO3.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWEY_kXlmGa.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWG9vPGls8z.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWGwAfvFgyL.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWJU4YUlgIN.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWJijmPlqLf.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWL5okelt2_.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWMHZd9FnxN.md | videos | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWOedskFsuv.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWOsKXyltLs.md | days ago | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWRDONQlkdG.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWRQ9NmFsdI.md | days ago | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWT1v9xFsNG.md | Latest Popular | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWToC92lj66.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWWMzSAliM8.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWWahc-ltwr.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWY_SFalimO.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWYxkJ6lu2H.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW_Zdu5lhA_.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DW_nN4alh3A.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWbWbbblmNF.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWc2irtFp6m.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWd7L5Dlv3S.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWeI7ValpCQ.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWgf7e3lriD.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWjEzN7llLF.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWlpj_glhWt.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWoOW1MFmAX.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWqzHV2ln8Y.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWtX-oEFoej.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWv13hxFufJ.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWyhglClvoc.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DWyvRsMlmru.md | Adam_DelDuca Step | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DX1ePKMFm7h.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DX1r6G-lqUw.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DX4C_TSlszI.md | YouTube | 2 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVvk5eCDfHM.md | YouTube ToolKit | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVvyl4PjbBd.md | faceless YouTube channel | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVyJo07DcCf.md | YouTube Automation Niches | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVyXbScjdNi.md | high-profit niche | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW1GYfKFtu9.md | 4 AI Apps | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW1UDSklpnE.md | AI-only gameplan | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW342ZYFqRf.md | 9-5ers | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW3rJXhFojn.md | YouTube RPMs | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW6P62VlhPa.md | YouTube Automation Tools for 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW6dpAllnZO.md | $42/mo | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW80sf5Fohl.md | tools that print money | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW9Ca2TFi5p.md | TubeBuddy | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWB0Hcnlo2b.md | in-demand niche | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWBmYhQFiuH.md | YouTube Toolkit | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWELQG6FtO3.md | Does Your Niche Matter? | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWEY_kXlmGa.md | high RPM niche | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWG9vPGls8z.md | TubeGen | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWGwAfvFgyL.md | YouTube Automation Formats 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWJU4YUlgIN.md | /MilitaryStories | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWJijmPlqLf.md | gap ideation | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWL5okelt2_.md | First $10,000 on YouTube Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWMHZd9FnxN.md | 100% AI | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWOedskFsuv.md | YouTube Automation Timeline Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWOsKXyltLs.md | $99/mo | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWRDONQlkdG.md | YouTube Starter Kit | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWRQ9NmFsdI.md | r/scams | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWT1v9xFsNG.md | $16,000 a month | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWToC92lj66.md | Channel Ideas for 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWWMzSAliM8.md | $15,000/mo YouTube Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWWahc-ltwr.md | personal finance | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWY_SFalimO.md | 1st year of YouTube Automation | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWYxkJ6lu2H.md | Channel Tier List | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW_Zdu5lhA_.md | YouTube Setup | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DW_nN4alh3A.md | financially free | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWbWbbblmNF.md | YouTube Automation Toolkit 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWc2irtFp6m.md | per 1,000,000 views | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWd7L5Dlv3S.md | YouTube Automation (2026) | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWeI7ValpCQ.md | AMI Headline Analyzer | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWgf7e3lriD.md | YouTube Automation Toolkit for $0 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWjEzN7llLF.md | YouTube Automation Stack | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWlpj_glhWt.md | YouTube Automation Workflow | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWoOW1MFmAX.md | YouTube Automation 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWqzHV2ln8Y.md | I fired myself on YouTube | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWtX-oEFoej.md | while you sleep | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWv13hxFufJ.md | Want to start YouTube in 2026? | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWyhglClvoc.md | tools that print while you sleep | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DWyvRsMlmru.md | Double down on winners | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DX1ePKMFm7h.md | Under $50/Mo | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DX1r6G-lqUw.md | highly monetizable niche | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DX4C_TSlszI.md | YouTube Automation Niches RPMs | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DX4Qu-IFqWy.md | videos | 3 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DX61hdQFrfx.md | YouTube | 3 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DX6n0poFml1.md | YouTube | 2 |

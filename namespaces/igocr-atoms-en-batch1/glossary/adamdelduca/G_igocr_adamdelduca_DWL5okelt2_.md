@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["First $10,000 on YouTube Roadmap"]
 origin: sources/S_igocr_adamdelduca_DWL5okelt2_.md
 ---
 
-# G_igocr_adamdelduca_DWL5okelt2_ — YouTube
+# G_igocr_adamdelduca_DWL5okelt2_ — First $10,000 on YouTube Roadmap
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, first. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "First $10,000 on YouTube Roadmap" is a five-step plan: select a high profit, in-demand niche, then high-demand, low supply topics, produce videos using AI, package each video with a compelling title and thumbnail, and upload, analyze, refine and earn. It appears once, as the title of the first image, and the post adds only "Save this for later" after the five steps. The roadmap's order is its whole method: niche first, topics second, production third, packaging fourth, and only then uploading. A reader copying it would work the five steps in order instead of uploading before the niche and topics are chosen.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "First $10,000 on YouTube Roadmap Step 1 Select a high profit, in-demand niche Step 2 Select high-demand, low supply topics Step 3 Produce videos using AI Step 4 Package video with compelling title and thumbnail Step 5 Upload, analyze, refine and earn Adam | YouTube @Adam_DelDuca Save this for later" — sources/S_igocr_adamdelduca_DWL5okelt2_.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWL5okelt2_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of a first $10,000: the figure is the roadmap's title, and the post shows no channel that reached it by following the five steps.
+- Read as five equal steps: the roadmap puts niche and topic selection before any production, so skipping ahead to uploading breaks the order it teaches.

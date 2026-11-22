@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["YouTube Automation Workflow"]
 origin: sources/S_igocr_adamdelduca_DWlpj_glhWt.md
 ---
 
-# G_igocr_adamdelduca_DWlpj_glhWt — YouTube
+# G_igocr_adamdelduca_DWlpj_glhWt — YouTube Automation Workflow
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, automation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "YouTube Automation Workflow" is a $20,000-a-month pipeline that pairs five tools with four jobs: finding top paying niches, drafting quality scripts, generating voiceovers and creating engaging thumbnails. It appears once, in the heading "$20,000/mo YouTube Automation Workflow", and the tools named are "NexLev", "SubscribrAI", "ElevenLabs", "CapCut" and "Pikzels". The workflow's point is the order: niche first, then script and voice, then thumbnail, with each tool handing off to the next. A reader copying it would run the same tools in the same order instead of starting with the thumbnail.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "$20,000/mo YouTube Automation Workflow NexLev Identifies top paying niches SubscribrAI ElevenLabs Drafts quality scripts quickly Generates voiceovers CapCut Generates voiceovers Create engaging thumbnails Pikzels Adam | YouTube @Adam_DelDuca Save this for later" — sources/S_igocr_adamdelduca_DWlpj_glhWt.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWlpj_glhWt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $20,000 a month: the figure is the workflow's title, and the post shows no channel earning it with these five tools.
+- Read as a fixed tool-to-job map: the post lists tools and jobs without pairing each tool to exactly one job, so a reader cannot tell from this post alone which tool does the thumbnail.

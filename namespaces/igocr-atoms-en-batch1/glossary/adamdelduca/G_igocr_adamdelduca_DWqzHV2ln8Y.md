@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["I fired myself on YouTube"]
 origin: sources/S_igocr_adamdelduca_DWqzHV2ln8Y.md
 ---
 
-# G_igocr_adamdelduca_DWqzHV2ln8Y — YouTube
+# G_igocr_adamdelduca_DWqzHV2ln8Y — I fired myself on YouTube
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: fired, myself, free, training. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "I fired myself on YouTube" means six apps replaced the creator: one writes scripts in minutes, one identifies niches and video topics, one generates human-like voiceovers, one generates AI footage and images, and one creates high-quality thumbnails. It appears once, in the heading "I fired myself on YouTube (These 6 apps replaced me)", and the six names under it are "TubeLab", "YouTube", "Subscribr", "ElevenLabs", "TubeGen" and "Pikzels", under the promise to upload, grow and monetize. The phrase's point is replacement, not quitting: the creator still owns the channel, and the apps do the jobs. A reader copying it would hand each of their own jobs to one of the six apps instead of hiring.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DelDuca I fired myself on YouTube (These 6 apps replaced me) Upload, grow and monetize Writes scripts for you in minutes Identifies niches and video topics Generates human-like voiceovers Generates AI footage and images Creates high-quality thumbnails TubeLab YouTube Subscribr ElevenLabs TubeGen Pikzels" — sources/S_igocr_adamdelduca_DWqzHV2ln8Y.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWqzHV2ln8Y.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a channel with no human at all: the creator fired himself from the jobs, but the post still needs someone to pick topics and upload.
+- Read as six apps doing six jobs: the post lists six names including YouTube itself, so one of the six is the platform, not an app that does a job.

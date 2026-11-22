@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["Channel Tier List"]
 origin: sources/S_igocr_adamdelduca_DWYxkJ6lu2H.md
 ---
 
-# G_igocr_adamdelduca_DWYxkJ6lu2H — YouTube
+# G_igocr_adamdelduca_DWYxkJ6lu2H — Channel Tier List
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, automation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "Channel Tier List" ranks the parts of a YouTube Automation channel from S to D: S holds "Niche", "Topics", "Titles" and "Thumbnails", A holds "Scripts", "Format" and "Voiceover", B holds "Tags", "Timing" and "Editing", C holds "Comments" and "Logo", and D holds "Name" and "Banner". It appears once, in the heading "YouTube Automation Channel Tier List", and the ranking puts packaging and topics above editing and branding. The list's point is priority: the S tier is what to get right first, and the D tier is what matters least. A reader copying it would spend their effort on niche, topics, titles and thumbnails before touching a logo or banner.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YouTube Automation Channel Tier List S Niche Topics Titles Thumbnails A Scripts Format Voiceover B Tags Timing Editing C Comments Logo D Name Banner Adam | YouTube @Adam_DelDuca Save this for later" — sources/S_igocr_adamdelduca_DWYxkJ6lu2H.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWYxkJ6lu2H.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a measured ranking: the tiers are the author's own priorities, and the post shows no data that puts thumbnails above editing.
+- Read as proof that names and banners do not matter: the D tier ranks them lowest, but the post still lists them as parts of the channel, not as things to skip.

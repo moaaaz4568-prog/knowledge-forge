@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["high RPM niche"]
 origin: sources/S_igocr_adamdelduca_DWEY_kXlmGa.md
 ---
 
-# G_igocr_adamdelduca_DWEY_kXlmGa — YouTube
+# G_igocr_adamdelduca_DWEY_kXlmGa — high RPM niche
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, need, build. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, a "high RPM niche" is the first step of building a $7,000-a-month YouTube channel with AI, because not all views are created equal and some niches make 2 to 3 times more per view than others. It appears 3 times: once in the opening list "Pick a high RPM niche", once in "First, you need to pick a high RPM niche" and once inside "Examples of high RPM niches: - Finance, Business, AI". The same post then moves to "high VPH topics" found with "VIDIQ", so the niche sets the pay rate and the topics ride the momentum. A reader copying it would pick from finance, business or AI first and check the RPM before choosing a topic.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuca How to build a $7,000/month YouTube channel with AI - Pick a high RPM niche - Identify high VPH topics - Produce using Vidrush - Upload 20–30 videos - Double down on what hits Here’s the step-by-step process you can follow:" — sources/S_igocr_adamdelduca_DWEY_kXlmGa.md
-> "Adam | YouTube @Adam_DelDuca From here, your job is volume and consistency Your first few videos are just data The real learning happens after 20–30 uploads This is when patterns start to appear" — sources/S_igocr_adamdelduca_DWEY_kXlmGa.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DWEY_kXlmGa.md
+> "Adam | YouTube @Adam_DelDuca First, you need to pick a high RPM niche Not all views are created equal. Some niches make 2–3x more per view than others. Examples of high RPM niches: - Finance, Business, AI Choosing the right niche makes hitting $7k/mo much easier" — sources/S_igocr_adamdelduca_DWEY_kXlmGa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a guarantee of $7,000 a month: the figure is the plan's target, and the post shows no channel that reached it by picking a high-RPM niche.
+- Read as a niche that pays well by itself: the post pairs the niche with high-VPH topics and 20 to 30 uploads, so the RPM only matters once videos actually get views.

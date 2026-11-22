@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [days ago, adamdelduca account context]
+aka: ["$99/mo"]
 origin: sources/S_igocr_adamdelduca_DWOsKXyltLs.md
 ---
 
-# G_igocr_adamdelduca_DWOsKXyltLs — days ago
+# G_igocr_adamdelduca_DWOsKXyltLs — $99/mo
 
 ## Term
 
-"days ago" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: views, vph, ago, days. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "$99/mo" is the monthly investment for a car care YouTube channel in 2026: "How I'd invest $99/mo in 2026" by starting the channel, signing up for "VidRush", uploading 4 videos a month and scaling to 500,000 views a month. It appears once, in that opening line, and the steps that follow spend the budget on niche research with "TubeLab" and topic selection with "VIDIQ". The figure's point is a fixed monthly stake: the plan is framed as an investment with a set price, not as free growth. A reader copying it would budget the same $99 a month and measure it against the 500,000-view target.
 
 ## Synonyms
 
-- days ago
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "To do this use VIDIQ: Trending Videos NORMAL JAPANESE NORMAL JAPANESE The 20-Minute Japanese Trick to Unclog a Catalytic Converter 52k VPH The Japanese Mechanic Method to Cleaning Fuel Injectors 20.2k views • 4 days ago • 91k VPH NORMAL JAPANESE UNSOLD FOREVER The Japanese Mechanic Method to Fix" — sources/S_igocr_adamdelduca_DWOsKXyltLs.md
-> ") 4,300 views • 4 days ago • 10k VPH These LUXURY SUVs Are Now WORTHLESS (2020 Acura MDX" — sources/S_igocr_adamdelduca_DWOsKXyltLs.md
-> ") 11k views • 11 days ago • 6k VPH MONEY PITS NORMAL JAPANESE 15 Luxury SUVs That Are NOW Money Pits 300 views • 4 days ago • 8k VPH The Japanese Mechanic Method to Fix" — sources/S_igocr_adamdelduca_DWOsKXyltLs.md
+> "Adam | YouTube @Adam_DelDuca How I'd invest $99/mo in 2026 1. Start a car care YouTube channel 2. Sign up for VidRush 3. Upload 4 videos a month 4. Scale to 500,000 views/mo Here's exactly how I'd do it if I was starting from scratch:" — sources/S_igocr_adamdelduca_DWOsKXyltLs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "days ago": the usage here is bounded to an OCR-transcribed Instagram carousel of 5 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of 500,000 views a month: the view target is the plan's goal, and the post shows no car care channel that reached it on $99 a month.
+- Read as a plan that costs $99 once: the figure is monthly, so the investment repeats every month while the channel grows.

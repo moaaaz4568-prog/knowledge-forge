@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["YouTube Automation Stack"]
 origin: sources/S_igocr_adamdelduca_DWjEzN7llLF.md
 ---
 
-# G_igocr_adamdelduca_DWjEzN7llLF — YouTube
+# G_igocr_adamdelduca_DWjEzN7llLF — YouTube Automation Stack
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, automation, stack, tubelab. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "YouTube Automation Stack" is the best $20,000-a-month stack for 2026: "YouTube" with "TubeLab", "SubscribeAI", "TubeGen", "1of10" and "Gumroad" under it. It appears once, in the heading "The Best $20,000/mo YouTube Automation Stack", and the post adds only "Save this for later" after the six names. The stack's point is the claim in its title: these six are presented as the best combination, not just one possible set. A reader copying it would take the six names as one stack and test the whole combination before swapping any part.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "The Best $20,000/mo YouTube Automation Stack YouTube TubeLab SubscribeAI TubeGen 1of10 Gumroad Adam | YouTube @Adam_DelDuca Save this for later" — sources/S_igocr_adamdelduca_DWjEzN7llLF.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWjEzN7llLF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $20,000 a month: the figure is the stack's title, and the post shows no channel earning it with these six tools.
+- Read as a proven best stack: the post calls the six the best, and gives no test or comparison that ranks them above any other stack.

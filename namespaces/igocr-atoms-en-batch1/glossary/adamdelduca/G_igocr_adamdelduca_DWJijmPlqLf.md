@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["gap ideation"]
 origin: sources/S_igocr_adamdelduca_DWJijmPlqLf.md
 ---
 
-# G_igocr_adamdelduca_DWJijmPlqLf — YouTube
+# G_igocr_adamdelduca_DWJijmPlqLf — gap ideation
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, start, first. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "gap ideation" is step 4 of a plan for 25- to 50-year-olds starting from scratch: identify videos that are already working and create better angles, filling a gap in the content. It appears 2 times: once in the opening list "Learn gap ideation" and once in "Next, learn gap ideation", where the post says this is where many creators fail. The method replaces guessing topics with improving proven ones, which the post says dramatically increases the chances of getting views. A reader copying it would find a working video first and then make a better-angled version of it instead of starting from a blank page.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuca For all 25-50 year olds who want to get ahead: 1. Start a faceless YouTube channel 2. Commit 5 hours a week 3. Pick a high-demand niche 4. Learn gap ideation 5. Produce using AI Here’s how I’d do it if I was starting from scratch…" — sources/S_igocr_adamdelduca_DWJijmPlqLf.md
-> "Adam | YouTube @Adam_DelDuca Next, learn gap ideation This is where many creators fail Instead of guessing topics... You identify videos that are already working and create better angles. You're filling a" — sources/S_igocr_adamdelduca_DWJijmPlqLf.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DWJijmPlqLf.md
+> "Adam | YouTube @Adam_DelDuca Next, learn gap ideation This is where many creators fail Instead of guessing topics... You identify videos that are already working and create better angles." — sources/S_igocr_adamdelduca_DWJijmPlqLf.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a guarantee of views: the post says gap ideation increases the chances of getting views, and shows no video that grew by filling a gap.
+- Read as copying working videos: the method asks for better angles on proven topics, so a straight copy of the same video misses the gap the post is asking for.

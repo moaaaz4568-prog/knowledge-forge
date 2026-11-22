@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["Does Your Niche Matter?"]
 origin: sources/S_igocr_adamdelduca_DWELQG6FtO3.md
 ---
 
-# G_igocr_adamdelduca_DWELQG6FtO3 — YouTube
+# G_igocr_adamdelduca_DWELQG6FtO3 — Does Your Niche Matter?
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: niche, free, training, youtube. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "Does Your Niche Matter?" is the question over a table that answers it with RPM: "Planes" at $4.40, "Sailing" at $4.22, "History" at $6.17 and "Art" at $2.01, each with its own demand and supply. It appears once, as the title of the first image, and the table's answer is yes: history pays three times art per thousand views at higher demand. The table also separates demand from supply, so a high-demand niche can still pay badly when supply is high. A reader using it would compare a niche's RPM against its demand and supply together rather than chasing demand alone.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Does Your Niche Matter? YouTube Automation Niche Demand Supply RPM Planes High Mid $4.40 Sailing Mid Mid $4.22 History High High $6.17 Art High Mid $2.01" — sources/S_igocr_adamdelduca_DWELQG6FtO3.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWELQG6FtO3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as exact pay for every channel in the niche: the table gives one RPM per niche, and a single channel's actual RPM still depends on its own audience and videos.
+- Read as proof that history beats art for everyone: history's $6.17 sits beside high supply, so the table's own columns warn that pay and competition move together.

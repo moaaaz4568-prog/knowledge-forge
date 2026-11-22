@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["YouTube Setup"]
 origin: sources/S_igocr_adamdelduca_DW_Zdu5lhA_.md
 ---
 
-# G_igocr_adamdelduca_DW_Zdu5lhA_ — YouTube
+# G_igocr_adamdelduca_DW_Zdu5lhA_ — YouTube Setup
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, selling, business, tubelab. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "YouTube Setup" is a $15,000-a-month stack that splits the work into nine jobs: "Niches", "Analytics", "Production", "Titles", "Thumbnails", "Scripts", "Editing", "Selling" and "Business". It appears once, in the heading "$15,000/mo YouTube Setup", and the tools named under it include "TubeLab", "ViewStats", "CreatorH", "CapCut", "TubeGen", "Piksticks" and "Gumroad". The setup's point is breadth: selling and business sit beside production, so the stack covers earning, not just making videos. A reader copying it would set up the business side — selling and analytics — alongside the production tools.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "$15,000/mo YouTube Setup Niches Analytics Production Titles Thumbnails Scripts Editing Selling Business YouTube TubeLab YouTube Subscriber ViewStats CreatorH CapCut TubeGen Piksticks Gumroad" — sources/S_igocr_adamdelduca_DW_Zdu5lhA_.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DW_Zdu5lhA_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $15,000 a month: the figure heads the setup, and the post shows no channel earning it with these tools.
+- Read as a complete setup: nine jobs are named but only seven tools, so the list maps the work more fully than the tools that do it.

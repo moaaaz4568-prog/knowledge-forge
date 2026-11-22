@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["/MilitaryStories"]
 origin: sources/S_igocr_adamdelduca_DWJU4YUlgIN.md
 ---
 
-# G_igocr_adamdelduca_DWJU4YUlgIN — YouTube
+# G_igocr_adamdelduca_DWJU4YUlgIN — /MilitaryStories
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: channel, idea, free, training. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "/MilitaryStories" is the Reddit community where the $20,000-a-month channel idea starts: "Search stories on /MilitaryStories", then generate the video with "VidRush" and the thumbnail with "Pikzels". It appears once, in the idea's tool chain, between "Reddit" and "VidRush" and beside "CreatorHooks" for titles. The idea's point is borrowed stories: the channel retells military stories found on Reddit instead of inventing topics. A reader copying it would search the subreddit for a story, then run it through VidRush and CreatorHooks the same way.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "$20,000/mo YouTube Channel Idea For 2026 YouTube Start your channel Reddit Search stories on /MilitaryStories VidRush Generate video using AI CreatorHooks CH Craft compelling titles Pikzels Generate video thumbnail" — sources/S_igocr_adamdelduca_DWJU4YUlgIN.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DWJU4YUlgIN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $20,000 a month: the figure is the idea's title, and the post shows no channel earning it from military stories.
+- Read as a channel that only needs Reddit: the same idea still needs VidRush, CreatorHooks and Pikzels, so the subreddit supplies stories, not a finished channel.
