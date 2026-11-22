@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [mamma mia, thegardenmarket.eg account context]
+language: it
+aka: [luna]
 origin: sources/S_ig_thegardenmarket.eg_DDMwqzlt3Fe.md
 ---
 
-# G_ig_thegardenmarket.eg_DDMwqzlt3Fe — mamma mia
+# G_ig_thegardenmarket.eg_DDMwqzlt3Fe — luna
 
 ## Term
 
-"mamma mia" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: mia, ficchi, madonna, luna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is sung in Neapolitan Italian, and 'luna' — the moon — opens the song with 'C'è la luna mezzomare', the moon out at mid-sea. The word appears once, and the line around it piles on exclamations — 'mamma mia, mia madonna' — so the moon is the sight the singer calls out before the verse tumbles into fishermen's talk of the catch and the old sea. Its neighbors are 'mezzomare' and 'mamma mia', and the moon is less a subject than a signal: the night scene is set, and the singing follows. The source gives no translation and no story beyond the scene; the moon is the first image, and the rest is voice and sea.
 
 ## Synonyms
 
-- mamma mia
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "C'è la luna mezzomare, mamma mia, mia madonna! Ficchi 'na puttana, mamma mia, panzacchiotto! Sitterunna 'a bisciola, itteva, ittevenne sempre 'a baccalà del mare bene. Sì, c'è vecchia bandusia, baccalà, ficchimi, oh mamma!" — sources/S_ig_thegardenmarket.eg_DDMwqzlt3Fe.md
+> "C'è la luna mezzomare, mamma mia, mia madonna!" — sources/S_ig_thegardenmarket.eg_DDMwqzlt3Fe.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "mamma mia": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a translation exercise: the lyric is Neapolitan Italian, and the entry keeps the Italian wording rather than rendering the song in English.
+- Read as a story about fishermen: the moon opens the song, but the lines that follow are exclamations and sea talk, and they tell no finished story.

@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [salvajes, thegardenmarket.eg account context]
+language: es
+aka: [comida]
 origin: sources/S_ig_thegardenmarket.eg_DNKy_pYsYHQ.md
 ---
 
-# G_ig_thegardenmarket.eg_DNKy_pYsYHQ — salvajes
+# G_ig_thegardenmarket.eg_DNKy_pYsYHQ — comida
 
 ## Term
 
-No content word repeats often enough in this short source (9 words) to form a repeated term, so this entry documents the source's central term "salvajes" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is in Spanish, and 'comida' — food — is what the speakers catch for themselves: 'Pescamos nuestra comida', we fish our food. The word appears once, and the sentence around it sets the life it belongs to — 'Desnudos, salvajes, pero con algún lujo', naked and wild but with some luxury — so the term names the self-caught meal at the center of a bare, free existence. Its neighbors are 'pescamos', 'desnudos', and 'lujo', and the fishing is the point: the food is not bought, it is taken from the sea. The clip names no fish and no place; the food is the catch, and the luxury is the exception that proves the wildness.
 
 ## Synonyms
 
-- salvajes
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ No content word repeats often enough in this short source (9 words) to form a re
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "salvajes": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a recipe: the line says they fish their food, and it names no fish, no method, and no meal.
+- Read as a claim about living wild: the luxury the speakers allow themselves is mentioned in one clause, and the source never says what the luxury is.

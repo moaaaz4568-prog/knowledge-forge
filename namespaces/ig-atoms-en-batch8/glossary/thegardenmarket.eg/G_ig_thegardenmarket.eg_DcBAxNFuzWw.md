@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [Drop, thegardenmarket.eg account context]
+aka: [beat]
 origin: sources/S_ig_thegardenmarket.eg_DcBAxNFuzWw.md
 ---
 
-# G_ig_thegardenmarket.eg_DcBAxNFuzWw — Drop
+# G_ig_thegardenmarket.eg_DcBAxNFuzWw — beat
 
 ## Term
 
-"Drop" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: beat, make, sweat, lose. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Beat' is what the singer orders dropped, appearing twice in 'Drop the beat' — once to 'Make it sweat', once to 'Lose control'. The line is a command to the music itself: drop the beat and the body follows, sweating and losing control, so the term names the pulse of the track, the thing whose arrival starts the dancing. Its neighbors are 'drop', 'make it sweat', and 'lose control', and the doubling is the instruction repeated: the beat drops, and the room responds. The clip names no song and no DJ; the beat is the trigger, and the sweat and the loss of control are its effects.
 
 ## Synonyms
 
-- Drop
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thegardenmarket.eg_DcBAxNFuzWw.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Drop": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a DJ's instruction manual: the command is a lyric's order to drop the beat, and the song is a performance, not a set of directions.
+- Read as proof the room lost control: the line tells the beat to make it sweat and lose control, and the source describes no room and no crowd.

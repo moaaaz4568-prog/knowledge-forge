@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [Feliz navidad, thegardenmarket.eg account context]
+language: es
+aka: [navidad]
 origin: sources/S_ig_thegardenmarket.eg_DCe6Rurt6Zi.md
 ---
 
-# G_ig_thegardenmarket.eg_DCe6Rurt6Zi — Feliz navidad
+# G_ig_thegardenmarket.eg_DCe6Rurt6Zi — navidad
 
 ## Term
 
-"Feliz navidad" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: navidad, feliz, deseo. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is sung in Spanish, and 'navidad' — Christmas — is the word the greeting turns on, appearing three times inside the repeated 'Feliz navidad'. Each 'feliz navidad' wishes the listener a happy Christmas, and the closing line adds 'os deseo año y felicidad', a wish for the year and happiness, so the term sits at the center of a seasonal greeting rather than a story. 'Feliz' and 'os deseo' are its neighbors, and the repetition is the song itself: the same wish sung over. Nothing else is named — no place, no person, no gift — only the Christmas the singer keeps wishing.
 
 ## Synonyms
 
-- Feliz navidad
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ origin: sources/S_ig_thegardenmarket.eg_DCe6Rurt6Zi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Feliz navidad": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a Spanish lesson: the greeting is a Christmas song lyric, and the entry keeps the Spanish wording rather than teaching the words.
+- Read as a wish for the whole year: the song wishes a happy Christmas and happiness for the year, and it promises nothing about the year itself.

@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch8)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,997 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,988 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1506,54 +1506,54 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_C3fpOKhteGO.md | downtown | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_C3kwtlctoFv.md | flower | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_Cr3luAOs13V.md | police | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DBB_5aRtARC.md | curly-haired little | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DBHSJBDN2wq.md | said | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DCe6Rurt6Zi.md | Feliz navidad | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DConWh2IHJB.md | Garden Market | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DD6nvrVN0v6.md | Garden Market | 2 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDJ-OEsNR4Y.md | laughing | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDMwqzlt3Fe.md | mamma mia | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDPPBRENqaB.md | starry | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDPapnZNewG.md | underneath | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDpl2FKNMAN.md | wonderful time | 2 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DBB_5aRtARC.md | curly-haired | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DBHSJBDN2wq.md | laid eyes | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DCe6Rurt6Zi.md | navidad | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DConWh2IHJB.md | creative engagement partner | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DD6nvrVN0v6.md | Garden Market | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDJ-OEsNR4Y.md | sleigh | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDMwqzlt3Fe.md | luna | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDPPBRENqaB.md | starry sky | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDPapnZNewG.md | Christmas | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DDpl2FKNMAN.md | happiest season | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DE97ycztrdv.md | local brands | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DFDegDitJHF.md | Sneakers | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGBgDLXt_XC.md | build | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGC-EXitXmj.md | feel | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGQ0T4ItLia.md | cling | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGSTD-sN5Cv.md | gets hard | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKfOyXdtZnQ.md | One two | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKt0kbkt9qh.md | love kickstarts | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKzwrHBNqWC.md | vou | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DM-h_LJNJEb.md | Yasmina | 2 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNBhymntc1g.md | need attention | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNIRoR0I0en.md | matinta-pe | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNKy_pYsYHQ.md | salvajes | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNLwt7esMpD.md | need | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNUxjogIeVR.md | malay | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DR7r0XrDdno.md | garden market | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DRxUDSPjX3j.md | said | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DRzNQAtDHi9.md | unforgettable | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSPxyulDJO-.md | best pizza | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSQKmUJDSY_.md | works | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DFDegDitJHF.md | hoodie | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGBgDLXt_XC.md | brand identities | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGC-EXitXmj.md | sugar and spice | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGQ0T4ItLia.md | chain | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DGSTD-sN5Cv.md | chant | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKfOyXdtZnQ.md | hustle | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKt0kbkt9qh.md | kickstarts | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DKzwrHBNqWC.md | chant | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DM-h_LJNJEb.md | tear | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNBhymntc1g.md | attention | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNIRoR0I0en.md | saci-pererê | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNKy_pYsYHQ.md | comida | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNLwt7esMpD.md | love | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DNUxjogIeVR.md | chant | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DR7r0XrDdno.md | vouchers | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DRxUDSPjX3j.md | war | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DRzNQAtDHi9.md | signature | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSPxyulDJO-.md | العجينة | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSQKmUJDSY_.md | the Lord | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSSF_IujSSA.md | love | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSVqhXejonQ.md | came | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DSVqhXejonQ.md | artist | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DScwZ_EDDym.md | snow | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUVlYWVjJH0.md | Moon | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUgC4pADQFk.md | things | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUk5GfOjfhG.md | yeah | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUlPWi7DSJB.md | looks pretty | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUly43EDp-U.md | wanna | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUgC4pADQFk.md | hurting | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUk5GfOjfhG.md | up | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUlPWi7DSJB.md | love | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUly43EDp-U.md | dancing | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DUn28oKDJ6a.md | love | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DbbDGWmNanH.md | Flotando | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DbbDGWmNanH.md | Verano | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DbgmM-6OYdW.md | cachito | 1 |
 | glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DboHnC0OmK0.md | vacation | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DbwIEtZuJKy.md | favorite piece | 1 |
-| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DcBAxNFuzWw.md | Drop | 1 |
-| glossary/theianchristianson/G_ig_theianchristianson_DMOQkOKzOtG.md | because | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DNRul1nPJ-y.md | people | 3 |
-| glossary/theianchristianson/G_ig_theianchristianson_DNV1cuGx1Gh.md | people | 2 |
-| glossary/theianchristianson/G_ig_theianchristianson_DNV4Lw_xlKy.md | life | 3 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DbwIEtZuJKy.md | lab diamonds | 1 |
+| glossary/thegardenmarket.eg/G_ig_thegardenmarket.eg_DcBAxNFuzWw.md | beat | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DMOQkOKzOtG.md | amygdala | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DNRul1nPJ-y.md | memorable | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DNV1cuGx1Gh.md | charismatic | 1 |
+| glossary/theianchristianson/G_ig_theianchristianson_DNV4Lw_xlKy.md | fear | 1 |
 | glossary/theianchristianson/G_ig_theianchristianson_DNmDOHdSXF-.md | refrain | 1 |
 | glossary/theianchristianson/G_ig_theianchristianson_DNn22SRxU3q.md | small talk | 1 |
 | glossary/theianchristianson/G_ig_theianchristianson_DOR9hIKgU2u.md | confidence | 1 |

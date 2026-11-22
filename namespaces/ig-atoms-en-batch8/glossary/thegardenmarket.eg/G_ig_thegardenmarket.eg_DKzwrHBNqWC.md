@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [vou, thegardenmarket.eg account context]
+language: pt
+aka: [chant]
 origin: sources/S_ig_thegardenmarket.eg_DKzwrHBNqWC.md
 ---
 
-# G_ig_thegardenmarket.eg_DKzwrHBNqWC — vou
+# G_ig_thegardenmarket.eg_DKzwrHBNqWC — chant
 
 ## Term
 
-"vou" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: none (no content word recurs near it). The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: 'chant' is only the entry's type label, because the whole source is a sung Portuguese refrain — 'Tô tô tô tô lá tô lá vou' — repeated twice with no other words. The syllables are vocables, sounds to sing rather than a sentence, and the repetition is the whole content: the same line, twice, with nothing to define. The source is in Portuguese, and the entry keeps the refrain in its original wording. No person, place, or idea is named anywhere in the sixteen words, so the entry records the chant exactly as sung and does not invent a meaning for it.
 
 ## Synonyms
 
-- vou
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ origin: sources/S_ig_thegardenmarket.eg_DKzwrHBNqWC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "vou": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a Portuguese sentence to translate: the refrain is sung vocables, and the entry keeps the sounds as sung rather than giving them a meaning.
+- Read as a claim about a place or a journey: the line repeats 'tô lá vou' without saying where 'lá' is, and the source gives no destination.

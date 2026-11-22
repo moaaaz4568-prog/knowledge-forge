@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [build, thegardenmarket.eg account context]
+aka: [brand identities]
 origin: sources/S_ig_thegardenmarket.eg_DGBgDLXt_XC.md
 ---
 
-# G_ig_thegardenmarket.eg_DGBgDLXt_XC — build
+# G_ig_thegardenmarket.eg_DGBgDLXt_XC — brand identities
 
 ## Term
 
-"build" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: creativity, meets, strategy, brands. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Brand identities' is what Nine Gorillas Agency says it crafts — 'powerful brand identities that connect, inspire, and leave a lasting impact' — appearing once as the center of the pitch. The copy contrasts it with merely creating logos or campaigns: identities are the deeper product, built where 'creativity meets strategy' so brands 'stand out and thrive'. Its neighbors are 'logos', 'campaigns', and 'extraordinary results', and the agency's promise is that the identity, not the single asset, is what connects. The passage names no client and no single brand; the identity is the deliverable, and the rest of the copy is the agency saying it goes beyond the ordinary to make one.
 
 ## Synonyms
 
-- build
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nine Gorillas Agency, the creative partner at the Garden Market, where creativity meets strategy, to build brands that stand out and thrive. We don't just create logos or campaigns; we craft powerful brand identities that connect, inspire, and leave a lasting impact. We go beyond the ordinary to deliver extraordinary results. Let's build something remarkable together." — sources/S_ig_thegardenmarket.eg_DGBgDLXt_XC.md
+> "We don't just create logos or campaigns; we craft powerful brand identities that connect, inspire, and leave a lasting impact." — sources/S_ig_thegardenmarket.eg_DGBgDLXt_XC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "build": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a case study: the copy claims the agency crafts identities that connect and inspire, but it names no client and shows no identity.
+- Read as a definition of brand identity: the phrase is the agency's pitch for its own work, and the source never defines what counts as an identity beyond the promise.

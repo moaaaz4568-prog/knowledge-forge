@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [local brands, thegardenmarket.eg account context]
+aka: [local brands]
 origin: sources/S_ig_thegardenmarket.eg_DE97ycztrdv.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_thegardenmarket.eg_DE97ycztrdv.md
 
 ## Term
 
-"local brands" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: five, name, brands, ten. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Local brands' is the challenge of this clip: name five of them in ten seconds, and the phrase appears twice as the speaker states and restates the task. The names tumble out between hesitations — Aziza, Friendship, Mawla, Afri, Anout by Noran, Juvenil, Simli — so the term names the category the speaker is hunting for under time pressure, not any one label. Its neighbors are 'five', 'ten seconds', and 'name', and the stumbles ('Uh...') are part of the game: the brands are local, the clock is short, and the recall is live. The clip never explains what the brands sell; the term is the quiz, and the list is the attempt.
 
 ## Synonyms
 
-- local brands
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Can you name five local brands in ten seconds? It's ten. Aziza. Uh. . . Friendship. Uh. . . Good. Uh. . . Five local brands. Uh, Mawla. Uh, Afri. . . Fbla. Afri. . . Uh. . . Anything. Anout by Noran. The basic look. Juvenil. Uh. . . Simli. What about this?" — sources/S_ig_thegardenmarket.eg_DE97ycztrdv.md
+> "Can you name five local brands in ten seconds?" — sources/S_ig_thegardenmarket.eg_DE97ycztrdv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "local brands": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete list of local brands: the speaker names a few under a ten-second clock with hesitations, and the list is an attempt, not a catalogue.
+- Read as a review of any brand named: the clip only tests whether the speaker can recall names in time, and it says nothing about what the brands sell or how good they are.

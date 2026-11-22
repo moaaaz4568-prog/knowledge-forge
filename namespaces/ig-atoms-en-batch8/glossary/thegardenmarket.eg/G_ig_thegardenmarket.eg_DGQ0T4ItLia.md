@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [cling, thegardenmarket.eg account context]
+aka: [chain]
 origin: sources/S_ig_thegardenmarket.eg_DGQ0T4ItLia.md
 ---
 
-# G_ig_thegardenmarket.eg_DGQ0T4ItLia — cling
+# G_ig_thegardenmarket.eg_DGQ0T4ItLia — chain
 
 ## Term
 
-"cling" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: chain, swangin, cling, costs. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Chain' is the piece of jewelry the verse swings on, appearing once in 'off of your chain swangin' cling cling'. The line pairs the chain with a popped bottle and a cost — 'it costs a lot' — so the term names a flash of wealth worn on the body, heard as much as seen in the 'cling cling'. Its neighbors are 'bottle', 'swangin'', and 'costs a lot', and the chain is the proof of being 'at the guala' while others are not. The verse never says what the chain is made of; it is the swinging, sounding, expensive thing the singer keeps in view.
 
 ## Synonyms
 
-- cling
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Ball singing low while I pop a bottle off of your chain swangin' cling cling and it costs a lot. Bitch, I'm always at the guala, yeah, and you are not bad as deep. Keep on going 'til you hit the spot. Whoa." — sources/S_ig_thegardenmarket.eg_DGQ0T4ItLia.md
+> "Ball singing low while I pop a bottle off of your chain swangin' cling cling and it costs a lot." — sources/S_ig_thegardenmarket.eg_DGQ0T4ItLia.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cling": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a price tag: the verse says the chain costs a lot, but it never gives a price, a metal, or a maker.
+- Read as proof the singer is rich: the chain is a lyric's image of wealth, and the song is a performance, not a bank statement.

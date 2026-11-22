@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [wanna, thegardenmarket.eg account context]
+aka: [dancing]
 origin: sources/S_ig_thegardenmarket.eg_DUly43EDp-U.md
 ---
 
-# G_ig_thegardenmarket.eg_DUly43EDp-U — wanna
+# G_ig_thegardenmarket.eg_DUly43EDp-U — dancing
 
 ## Term
 
-"wanna" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: every, single, night, calling. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Dancing' is what the singer has been doing alone since the other left, appearing once in 'I've been dancing on my own'. The lines around it miss the music without the other — 'I can't even hear the music without you' — and say the boys have been home but 'can't turn me on', so the term names the solitary dancing that fills the absence. Its neighbors are 'on my own', 'the music', and 'since you've been gone', and the alone is the point: the dancing continues, but the partner is gone. The song never says where the dancing happens; it is the habit of the nights since the leaving, and the wanting is what it carries.
 
 ## Synonyms
 
-- wanna
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I wanna, but every single night I lose it. But I can't even hear the music without you. Try to send myself in calling, but I really wanna know if you're someone new. It's so since you've been gone, I've been dancing on my own. The boys have been my home, but they can't turn me on. I only want to come for this, I can't keep my on this no more, no more." — sources/S_ig_thegardenmarket.eg_DUly43EDp-U.md
+> "It's so since you've been gone, I've been dancing on my own." — sources/S_ig_thegardenmarket.eg_DUly43EDp-U.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "wanna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a night out: the dancing is solitary — 'on my own' — and the song describes no club, no floor, and no partner.
+- Read as proof the singer moved on: the dancing continues after the leaving, and the song still says the singer wants the other back.

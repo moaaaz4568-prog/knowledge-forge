@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [love, thegardenmarket.eg account context]
+aka: [love]
 origin: sources/S_ig_thegardenmarket.eg_DSSF_IujSSA.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thegardenmarket.eg_DSSF_IujSSA.md
 
 ## Term
 
-"love" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: love. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Love' is the discovery the song names, appearing twice in the wondering question 'So this is love?' — asked twice before the answer comes. The line closes with 'So this is what makes life divine', so the term names the feeling the singer has just recognized, the thing that makes life divine rather than ordinary. Its neighbors are 'so this is', 'life', and 'divine', and the question mark is the point: the singer is not declaring love, she is realizing it. The clip gives no lover and no story; love is the surprise, and the divine life is what it explains.
 
 ## Synonyms
 
-- love
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thegardenmarket.eg_DSSF_IujSSA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "love": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a definition of love: the singer asks 'So this is love?' as a discovery, and the song defines nothing beyond the feeling and the divine life it brings.
+- Read as proof the singer found love: the question is a lyric's wonder, and the source names no lover and no meeting.

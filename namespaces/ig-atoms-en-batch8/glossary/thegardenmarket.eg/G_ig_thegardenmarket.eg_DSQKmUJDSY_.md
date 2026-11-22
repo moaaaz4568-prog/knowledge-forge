@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [works, thegardenmarket.eg account context]
+aka: [the Lord]
 origin: sources/S_ig_thegardenmarket.eg_DSQKmUJDSY_.md
 ---
 
-# G_ig_thegardenmarket.eg_DSQKmUJDSY_ — works
+# G_ig_thegardenmarket.eg_DSQKmUJDSY_ — the Lord
 
 ## Term
 
-"works" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lord. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'The Lord' is the worker the gospel line credits, appearing twice in 'That's how the Lord He works', sung twice over. The line repeats the same claim — 'That's how He works' — so the term names the one whose way of working the singer is testifying to, with 'He' as the short form that follows. Its neighbors are 'That's how', 'He works', and the doubled refrain itself, and the repetition is the testimony: the Lord's way, stated and restated. The clip gives no example of the work and no story; the Lord is the subject, and 'how He works' is everything the singer claims to know.
 
 ## Synonyms
 
-- works
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That's how He works. That's how the Lord He works. That's how He works. That's how the Lord He works." — sources/S_ig_thegardenmarket.eg_DSQKmUJDSY_.md
+> "That's how the Lord He works. That's how He works." — sources/S_ig_thegardenmarket.eg_DSQKmUJDSY_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "works": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report of something the Lord did: the line testifies that this is how the Lord works, and it gives no example of the work itself.
+- Read as a theological claim in general: the refrain is one singer's testimony in a song, and it argues nothing beyond the repeated line.

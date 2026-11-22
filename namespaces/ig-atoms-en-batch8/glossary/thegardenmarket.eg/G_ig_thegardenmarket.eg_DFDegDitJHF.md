@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [Sneakers, thegardenmarket.eg account context]
+aka: [hoodie]
 origin: sources/S_ig_thegardenmarket.eg_DFDegDitJHF.md
 ---
 
-# G_ig_thegardenmarket.eg_DFDegDitJHF — Sneakers
+# G_ig_thegardenmarket.eg_DFDegDitJHF — hoodie
 
 ## Term
 
-"Sneakers" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sneakers, choose, chocolate, coffee. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Hoodie' is the first choice the this-or-that game offers — hoodie or pullover — and the speaker picks it four more times, five mentions in all. The game moves fast: hoodie against pullover, then hoodie against coffee, then boots against sneakers, so the word is both a question and an answer, the garment the speaker keeps coming back to. Its neighbors are 'pullover', 'coffee', and 'hot chocolate', and the repetition is the game itself: each round restates the options and the speaker restates the pick. The clip never describes the hoodie; it is the preferred side of every comparison it enters.
 
 ## Synonyms
 
-- Sneakers
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This or that? Okay, would you prefer hoodie or pullover? Hoodie. Pullover. Hoodie. Hoodie. Hoodie or coffee? Coffee? Hot chocolate. Coffee. Hot chocolate. Coffee. Boots or sneakers? Can I say both? Well, I have to choose. Sneakers. Sneakers. Sneakers. Sneakers." — sources/S_ig_thegardenmarket.eg_DFDegDitJHF.md
+> "Okay, would you prefer hoodie or pullover? Hoodie." — sources/S_ig_thegardenmarket.eg_DFDegDitJHF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Sneakers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a fashion preference proven by argument: the game only asks the speaker to pick, and the picks are instant answers, not reasons.
+- Read as a claim that hoodies beat pullovers: the speaker chooses the hoodie in the rounds it enters, and the game never explains why.

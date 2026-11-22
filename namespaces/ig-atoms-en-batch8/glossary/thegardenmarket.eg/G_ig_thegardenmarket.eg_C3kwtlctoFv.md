@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [flower, thegardenmarket.eg account context]
+aka: [flower]
 origin: sources/S_ig_thegardenmarket.eg_C3kwtlctoFv.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thegardenmarket.eg_C3kwtlctoFv.md
 
 ## Term
 
-No content word repeats often enough in this short source (13 words) to form a repeated term, so this entry documents the source's central term "flower" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this thirteen-word lyric, 'flower' names what the singer compares the listener to: sweet, and in bloom. The line asks 'Can I call you Rose?' and answers with the comparison, so 'flower' carries the compliment — sweetness plus freshness — beside 'Rose' and 'sweet'. It appears once, and the single use does all the work: the rose name sets up the flower image, and 'in bloom' keeps it alive and opening rather than cut or faded. A listener who hears only the flower and misses the 'Rose' question would lose the pet-name game the line is playing.
 
 ## Synonyms
 
-- flower
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (13 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "flower": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a botany note: the flower here is a compliment inside a pet-name question, not a description of a plant the singer saw.
+- Read as proof the listener is literally a rose: 'Rose' is the name the singer asks to use, and the flower is the simile that explains why, not a claim about who she is.

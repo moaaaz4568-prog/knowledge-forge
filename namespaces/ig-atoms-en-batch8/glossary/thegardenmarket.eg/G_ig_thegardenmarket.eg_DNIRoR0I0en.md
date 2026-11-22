@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [matinta-pe, thegardenmarket.eg account context]
+language: pt
+aka: [saci-pererê]
 origin: sources/S_ig_thegardenmarket.eg_DNIRoR0I0en.md
 ---
 
-# G_ig_thegardenmarket.eg_DNIRoR0I0en — matinta-pe
+# G_ig_thegardenmarket.eg_DNIRoR0I0en — saci-pererê
 
 ## Term
 
-No content word repeats often enough in this short source (31 words) to form a repeated term, so this entry documents the source's central term "matinta-pe" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is in Portuguese, and 'saci-pererê' is one of the beings the singer lists from the forest — 'sabiá, saruê, caixigê, maracajá, voo de matinta-pe, saci-pererê, boi tatá' — appearing once among the creatures and spirits. The line says that when these beasts and beings come out of the closed forest, night cries are heard and the xaxado sounds through the dawn, so the term names a figure of Brazilian folklore standing in a roll call of forest folk. Its neighbors are 'matinta-pe', 'boi tatá', and 'bichos e seres', and the list is the content: names, not explanations. The song never describes what the saci-pererê does; it is one name in the night's parade, and the parade is the point.
 
 ## Synonyms
 
-- matinta-pe
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ No content word repeats often enough in this short source (31 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "matinta-pe": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a description of the creature: the song only lists the name among forest beings, and it says nothing about what the saci-pererê looks like or does.
+- Read as a field guide to the forest: the line is a sung roll call of names, and it maps no forest and explains no being.

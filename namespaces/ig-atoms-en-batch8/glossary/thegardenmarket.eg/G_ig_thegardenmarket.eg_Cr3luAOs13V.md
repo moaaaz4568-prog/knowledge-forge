@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [police, thegardenmarket.eg account context]
+aka: [police]
 origin: sources/S_ig_thegardenmarket.eg_Cr3luAOs13V.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thegardenmarket.eg_Cr3luAOs13V.md
 
 ## Term
 
-No content word repeats often enough in this short source (13 words) to form a repeated term, so this entry documents the source's central term "police" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here 'police' is the first destination the speaker names when asked what they would do first: go to the police. The sentence opens with 'The first thing I would do is' and repeats 'I would' before landing on the police, so the term marks the speaker's instinctive first move, not a description of officers or a station. It appears once, and that single mention frames the police as the place to turn to immediately. The line gives no crime, no report, and no reason — only the priority the speaker puts on going to the police before anything else.
 
 ## Synonyms
 
-- police
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (13 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "police": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report of a crime: the line says only where the speaker would go first, and it names no crime, no report, and no officer.
+- Read as a general rule about emergencies: the sentence is one person's first instinct in an unasked question, not advice for what anyone should do.

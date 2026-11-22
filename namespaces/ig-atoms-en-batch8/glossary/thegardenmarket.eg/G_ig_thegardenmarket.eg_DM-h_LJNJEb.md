@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [Yasmina, thegardenmarket.eg account context]
+aka: [tear]
 origin: sources/S_ig_thegardenmarket.eg_DM-h_LJNJEb.md
 ---
 
-# G_ig_thegardenmarket.eg_DM-h_LJNJEb — Yasmina
+# G_ig_thegardenmarket.eg_DM-h_LJNJEb — tear
 
 ## Term
 
-"Yasmina" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: single, tear, cascades, eyes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Tear' is the image the narration builds on, appearing twice: first as 'a single tear cascades from Yasmina's eyes', then as the depth 'within the depths of this tear'. The tear mirrors the emotions the world outside evokes in Yasmina, and the passage reads the world through it — sun and golden rays as hope, leaves tangled with vines as strength and adaptability — so the term names the lens, not just the drop. Its neighbors are 'Yasmina', 'cascades', and 'depths', and the second mention turns the tear from an event into a place where 'an abundance of lovely things lie waiting to be discovered'. The narration never says why Yasmina cries; the tear is the frame, and hope and strength are what it holds.
 
 ## Synonyms
 
-- Yasmina
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A single tear cascades from Yasmina's eyes, mirroring the emotions evoked her. She gazes upon the world outside. She is struck by its beauty and wonder, but it's within the depths of this tear, within the recesses of her soul, where an abundance of lovely things lie waiting to be discovered. The sun shines brightly, giving warmth and casting golden rays on everything." — sources/S_ig_thegardenmarket.eg_DM-h_LJNJEb.md
-> "It represents Yasmina's unwavering hope and her ability to find beauty even in the dark times. The leaves tangled with vines now have a special meaning. They symbolize Yasmina's strength and ability to adapt to change." — sources/S_ig_thegardenmarket.eg_DM-h_LJNJEb.md
+> "A single tear cascades from Yasmina's eyes, mirroring the emotions evoked her." — sources/S_ig_thegardenmarket.eg_DM-h_LJNJEb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Yasmina": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report of Yasmina crying: the narration is a written scene, and it never says why Yasmina's eyes fill, only what the tear is read to mean.
+- Read as proof the sun and the leaves are symbols in general: the passage reads them as hope and strength for Yasmina, and it claims nothing about sun or leaves outside this scene.

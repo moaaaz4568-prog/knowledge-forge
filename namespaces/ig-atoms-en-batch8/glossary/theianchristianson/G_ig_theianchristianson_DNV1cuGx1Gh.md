@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: theianchristianson
-aka: [people, theianchristianson account context]
+aka: [charismatic]
 origin: sources/S_ig_theianchristianson_DNV1cuGx1Gh.md
 ---
 
-# G_ig_theianchristianson_DNV1cuGx1Gh — people
+# G_ig_theianchristianson_DNV1cuGx1Gh — charismatic
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the theianchristianson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: connect, make, feel, around. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Charismatic' is the quality the speaker says changes everything, appearing twice: first in 'charismatic people do not' get ignored, then in the invitation to 'become a charismatic, confident, and social person'. The speaker is eighteen and still figuring it out, but the claim is absolute — it does not matter how smart, talented, or hardworking you are, because if you cannot connect with people you will get overlooked, and opportunities come through people. Its neighbors are 'confident', 'social', and 'speak with purpose', and the magnetic image is the point: charisma draws jobs, relationships, and growth the way smartness alone does not. The clip offers a video on whatever the viewer wants to learn; the charismatic is the goal, and speaking with purpose is the path.
 
 ## Synonyms
 
-- people
-- theianchristianson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nobody teaches you this, but your future depends on it. I'm 18 and I'm still figuring it out, but one thing I've learned is that social skills change everything. It doesn't matter how smart, talented, or hardworking you are. If you can't connect with people, then you will get overlooked. It's not just about making friends." — sources/S_ig_theianchristianson_DNV1cuGx1Gh.md
-> "It's about how you carry yourself, how you speak, how you listen, and how you make other people feel around you. Become magnetic. Because opportunities come through people, jobs, relationships, and all sorts of growth. You can't navigate conversations, you just miss out on everything. Here's the crazy thing. Smart people get ignored all the time, but charismatic people do not." — sources/S_ig_theianchristianson_DNV1cuGx1Gh.md
+> "So if you want to become a charismatic, confident, and social person, let me know in the comments." — sources/S_ig_theianchristianson_DNV1cuGx1Gh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that charisma can be learned: the speaker says you can train yourself to be confident, and the video offers to make another video on request, not a course.
+- Read as a dismissal of being smart: the speaker says smart people get ignored, and the point is that connection matters, not that smartness is worthless.

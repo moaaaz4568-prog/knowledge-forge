@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [underneath, thegardenmarket.eg account context]
+aka: [Christmas]
 origin: sources/S_ig_thegardenmarket.eg_DDPapnZNewG.md
 ---
 
-# G_ig_thegardenmarket.eg_DDPapnZNewG — underneath
+# G_ig_thegardenmarket.eg_DDPapnZNewG — Christmas
 
 ## Term
 
-No content word repeats often enough in this short source (19 words) to form a repeated term, so this entry documents the source's central term "underneath" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Christmas' is the occasion the singer measures everything against, appearing once in 'I don't want a lot for Christmas'. The line goes on to say there is just one thing needed and that the presents underneath do not matter, so Christmas here is the holiday stripped down to a single wish rather than a list of gifts. Its neighbors are 'one thing I need' and 'the presents underneath', and the contrast is the point: the day matters, the presents do not. The source names no gift and no person; Christmas is the frame, and the one unnamed thing is everything.
 
 ## Synonyms
 
-- underneath
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't want a lot for Christmas.There is just one thing I need.I don't care about the presents underneath." — sources/S_ig_thegardenmarket.eg_DDPapnZNewG.md
+> "I don't want a lot for Christmas.There is just one thing I need." — sources/S_ig_thegardenmarket.eg_DDPapnZNewG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "underneath": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a gift list: the singer says the presents underneath do not matter, and the one thing needed is never named.
+- Read as a claim that Christmas needs nothing: the line is a song's wish for one unnamed thing, not a statement about how anyone should celebrate.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [malay, thegardenmarket.eg account context]
+aka: [chant]
 origin: sources/S_ig_thegardenmarket.eg_DNUxjogIeVR.md
 ---
 
-# G_ig_thegardenmarket.eg_DNUxjogIeVR — malay
+# G_ig_thegardenmarket.eg_DNUxjogIeVR — chant
 
 ## Term
 
-"malay" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: malay, sinaga, falala. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: 'chant' is only the entry's type label, because the whole source is two sung vocable lines — 'falala malay' three times, then 'sinaga malay' three times — with no words that name anything. The syllables are sounds to sing, not a sentence, and the repetition is the whole content: the same shapes, six times, with no person, place, or idea attached. Nothing in the twelve words can be defined, so the entry records the chant exactly as sung and does not invent a meaning for it.
 
 ## Synonyms
 
-- malay
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Falala malay, falala malay, falala malay. Sinaga malay, sinaga malay, sinaga malay." — sources/S_ig_thegardenmarket.eg_DNUxjogIeVR.md
+> "Falala malay, falala malay, falala malay." — sources/S_ig_thegardenmarket.eg_DNUxjogIeVR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "malay": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as words in a language to translate: the lines are sung syllables with no sentence in them, and the entry keeps them as sung rather than giving them a meaning.
+- Read as a song about Malay life: the syllables sound like 'malay', and the source gives no place, no people, and no subject at all.

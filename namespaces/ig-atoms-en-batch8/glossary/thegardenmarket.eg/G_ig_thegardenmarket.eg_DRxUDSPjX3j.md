@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [said, thegardenmarket.eg account context]
+aka: [war]
 origin: sources/S_ig_thegardenmarket.eg_DRxUDSPjX3j.md
 ---
 
-# G_ig_thegardenmarket.eg_DRxUDSPjX3j — said
+# G_ig_thegardenmarket.eg_DRxUDSPjX3j — war
 
 ## Term
 
-"said" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, war, show. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'War' is how the singer frames the relationship, appearing once in 'You told me it was war, said you'd show me what's in store'. The line opens with someone who 'can't cope with anymore' and ends asking 'Can you open up the door?', so the term names the conflict the other person declared — a struggle, not a battle with weapons. Its neighbors are 'can't cope', 'what's in store', and 'open up the door', and the war is the warning: something is coming, and the door is the test. The song never says what the war is about; the word is the threat, and the hoping 'it's not for sure' is the reply.
 
 ## Synonyms
 
-- said
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I know you said before you can't cope with anymore. You told me it was war, said you'd show me what's in store. I hope it's not for sure. Can you open up the door?" — sources/S_ig_thegardenmarket.eg_DRxUDSPjX3j.md
+> "You told me it was war, said you'd show me what's in store." — sources/S_ig_thegardenmarket.eg_DRxUDSPjX3j.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "said": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a report of an actual war: the word is the singer's image for a relationship conflict, and the song describes no fighting beyond the metaphor.
+- Read as a promise of what is in store: the other person said they would show what is in store, and the song never says what it is.

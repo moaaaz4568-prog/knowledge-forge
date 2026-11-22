@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [starry, thegardenmarket.eg account context]
+aka: [starry sky]
 origin: sources/S_ig_thegardenmarket.eg_DDPPBRENqaB.md
 ---
 
-# G_ig_thegardenmarket.eg_DDPPBRENqaB — starry
+# G_ig_thegardenmarket.eg_DDPPBRENqaB — starry sky
 
 ## Term
 
-No content word repeats often enough in this short source (18 words) to form a repeated term, so this entry documents the source's central term "starry" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Starry sky' is the image the singer denies — 'it's not a starry sky' — before passing on what 'my baby told me with a sigh'. The phrase appears once, beside 'my baby', 'with a sigh', and 'words that came across', so it works as a rejected picture: whatever the night looked like, it was not that. The denial is the whole content of the line; the source never says what the sky actually was, only what it was not. That single negation is what makes the phrase load-bearing: it clears the romantic image away so the baby's sigh can take its place.
 
 ## Synonyms
 
-- starry
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (18 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "starry": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a description of the night: the singer denies the starry sky outright, so the phrase tells the listener what the night was not, not what it was.
+- Read as the baby's own words: the singer reports what the baby told her with a sigh, and the source gives no way to hear the baby directly.

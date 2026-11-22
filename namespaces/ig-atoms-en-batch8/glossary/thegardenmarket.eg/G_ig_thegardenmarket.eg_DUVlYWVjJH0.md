@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [Moon, thegardenmarket.eg account context]
+aka: [Moon]
 origin: sources/S_ig_thegardenmarket.eg_DUVlYWVjJH0.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_thegardenmarket.eg_DUVlYWVjJH0.md
 
 ## Term
 
-"Moon" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: hole, light, shining, tell. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+'Moon' is the listener the song addresses, appearing twice — first as 'a hole of light through the big top tent up high', then as the one asked 'tell me if I could'. The moon is described as shining 'here before and after me, shining down on me', so the term names a witness that outlasts the singer, a light above the tent of the world. Its neighbors are 'hole of light', 'big top tent', and 'shining down on me', and the address is the point: the singer talks to the moon because it was there before and will be there after. The song never says what the singer wants to do; the moon is the confidant, and the question is left hanging.
 
 ## Synonyms
 
-- Moon
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Moon, a hole of light through the big top tent up high, here before and after me, shining down on me. Moon, tell me if I could." — sources/S_ig_thegardenmarket.eg_DUVlYWVjJH0.md
+> "Moon, a hole of light through the big top tent up high, here before and after me, shining down on me." — sources/S_ig_thegardenmarket.eg_DUVlYWVjJH0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Moon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an astronomy note: the moon is a hole of light through a big top tent in the song's image, and the source teaches nothing about the moon itself.
+- Read as a conversation: the singer addresses the moon and asks it to tell her, and the song gives no answer from the moon.

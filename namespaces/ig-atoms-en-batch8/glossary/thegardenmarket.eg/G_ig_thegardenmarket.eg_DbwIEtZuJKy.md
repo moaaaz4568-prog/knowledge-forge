@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: thegardenmarket.eg
-aka: [favorite piece, thegardenmarket.eg account context]
+language: ar
+aka: [lab diamonds, lab]
 origin: sources/S_ig_thegardenmarket.eg_DbwIEtZuJKy.md
 ---
 
-# G_ig_thegardenmarket.eg_DbwIEtZuJKy — favorite piece
+# G_ig_thegardenmarket.eg_DbwIEtZuJKy — lab diamonds
 
 ## Term
 
-"favorite piece" is the most frequent repeated content term in this source (a transcribed Instagram video from the thegardenmarket.eg account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: piece, natural, favorite, diamond. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The source is in Arabic (Egyptian dialect) mixed with English, and 'lab diamonds' is the kind of stone Ahmed says he personally loves to work with, appearing once as the full phrase while the short form 'lab' appears a second time. The speaker asks about a favorite piece and a necklace for every day, and Ahmed answers with natural diamonds, pear shape diamonds, and a three-color stack in yellow and white gold, so the term names the lab-grown stones set against the natural ones in the shop's diamond collection. Its neighbors are 'natural', 'pear shape', and 'fifty percent discount', and the discount — fifty percent plus five — is the offer on both collections for this weekend and the next. The clip names no price per stone; the lab diamonds are the preference, and the scratch card is the extra the buyer gets.
 
 ## Synonyms
 
-- favorite piece
-- thegardenmarket.eg account context (no variant form of the term appears in this source)
+- lab (short form the speaker uses for lab diamonds)
 
 ## Live Example
 
-> "هاي أحمد، عامل إيه؟ متقولي كده what's your favorite piece؟ بص في ال natural diamond، ال natural bling طبعا. دي زي التانس بيسز بس دول pear shape diamonds. That's your favorite piece. This is my favorite piece. عايزة أشتري everyday necklace، what do you recommend؟ الستاك ده حلو قوي، شيك قوي، comes with three colors، ال yellow gold، ال white gold، three color combo ده." — sources/S_ig_thegardenmarket.eg_DbwIEtZuJKy.md
+> "أنا شخصيا بحب ال lab diamonds أوي، التانس بيسز دي، كنوز ال weekend ده وال weekend اللي جاي، عاملين لل diamond collection ال natural وال lab، fifty percent discount plus five percent." — sources/S_ig_thegardenmarket.eg_DbwIEtZuJKy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "favorite piece": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a jeweller's catalogue: Ahmed names natural and lab diamonds and a discount, but the clip gives no prices per stone and no certificate details.
+- Read as a claim that lab diamonds are better: Ahmed says he personally loves working with them, and the clip is a preference, not a comparison test.
