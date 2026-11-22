@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch6)
 
-YouTube English video transcripts batch 6 glossaries (sub-batches 1-3: codes 1-150 of 1,000): one G_ entry per T_ atom file — 150 files, zero exclusions, misc-dl collection. 150 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1150 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last lE_Z4RFjQs0 (sub-batch 3).
+YouTube English video transcripts batch 6 glossaries (sub-batches 1-4: codes 1-200 of 1,000): one G_ entry per T_ atom file — 200 files, zero exclusions, misc-dl collection. 200 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1200 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last lYWLURg3xtI (sub-batch 4).
 | glossary/misc-dl/G_yt_js9-JPCC-U4_en.md | align | 1 |
 | glossary/misc-dl/G_yt_jsseHVKseyk_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_jtJLUR-bePM_en.md | brand name | 1 |
@@ -151,3 +151,53 @@ YouTube English video transcripts batch 6 glossaries (sub-batches 1-3: codes 1-1
 | glossary/misc-dl/G_yt_lDj7WjYJPDY_en.md | total addressable market | 1 |
 | glossary/misc-dl/G_yt_lEHt8m61hSg_en.md | quest log | 1 |
 | glossary/misc-dl/G_yt_lE_Z4RFjQs0_en.md | your voice | 1 |
+| glossary/misc-dl/G_yt_lGSZqhFFhoI_en.md | joint venture | 5 |
+| glossary/misc-dl/G_yt_lGdCaQtNxl8_en.md | modern architecture | 3 |
+| glossary/misc-dl/G_yt_lGmPCutgI2o_en.md | stylescapes | 5 |
+| glossary/misc-dl/G_yt_lGzR-gMHqPA_en.md | portfolio | 27 |
+| glossary/misc-dl/G_yt_lH2bNpxQl_I_en.md | tick tock | 15 |
+| glossary/misc-dl/G_yt_lH9EBQKgnWk_en.md | security guards | 43 |
+| glossary/misc-dl/G_yt_lHMTwMHTpvI_en.md | the bridge | 8 |
+| glossary/misc-dl/G_yt_lHv8j6IYGys_en.md | free for commercial use | 2 |
+| glossary/misc-dl/G_yt_lIbdJyospD4_en.md | pen tool | 4 |
+| glossary/misc-dl/G_yt_lIhFMlUfJ8Y_en.md | transformation | 20 |
+| glossary/misc-dl/G_yt_lIs8X7kJxpk_en.md | visibility | 24 |
+| glossary/misc-dl/G_yt_lJQNPyDuoLo_en.md | economic future | 5 |
+| glossary/misc-dl/G_yt_lJkiUF_pAcA_en.md | deliverability | 6 |
+| glossary/misc-dl/G_yt_lK0IRbEav8k_en.md | retention | 5 |
+| glossary/misc-dl/G_yt_lKKsYYNi0F8_en.md | demand | 10 |
+| glossary/misc-dl/G_yt_lKc7AN6i6Ns_en.md | set the scene | 2 |
+| glossary/misc-dl/G_yt_lLCclxEdu-w_en.md | followers | 18 |
+| glossary/misc-dl/G_yt_lLVuog287qo_en.md | brand | 87 |
+| glossary/misc-dl/G_yt_lLnyjgjgYLw_en.md | talent | 50 |
+| glossary/misc-dl/G_yt_lLolG8WmpTU_en.md | burnout | 38 |
+| glossary/misc-dl/G_yt_lM9Dbf5Qe0Q_en.md | storyboard | 37 |
+| glossary/misc-dl/G_yt_lMta17gXVb8_en.md | funnel | 6 |
+| glossary/misc-dl/G_yt_lNUcRevANz4_en.md | preference settings | 3 |
+| glossary/misc-dl/G_yt_lNgOZJdpxzM_en.md | jet ski | 5 |
+| glossary/misc-dl/G_yt_lO-zPu4DTs8_en.md | Whisper Flow | 7 |
+| glossary/misc-dl/G_yt_lOCkxAvv29I_en.md | appointment sitters | 1 |
+| glossary/misc-dl/G_yt_lPBTfQyV3Lo_en.md | time to value | 3 |
+| glossary/misc-dl/G_yt_lPVx0zFc08g_en.md | organic content | 11 |
+| glossary/misc-dl/G_yt_lQ72hjH_DNE_en.md | agency life | 7 |
+| glossary/misc-dl/G_yt_lQNk9XdhJuw_en.md | organic overdrive | 4 |
+| glossary/misc-dl/G_yt_lQZTuURHAP4_en.md | duality | 15 |
+| glossary/misc-dl/G_yt_lQuWFBFDy_I_en.md | culture | 6 |
+| glossary/misc-dl/G_yt_lRAvX-7Q1Oo_en.md | investing | 3 |
+| glossary/misc-dl/G_yt_lRPJUS9gZNg_en.md | data | 20 |
+| glossary/misc-dl/G_yt_lRUndGy6Snc_en.md | digital product | 27 |
+| glossary/misc-dl/G_yt_lRlm9v8lva4_en.md | real estate | 11 |
+| glossary/misc-dl/G_yt_lSiXK_TMeec_en.md | giveaway | 1 |
+| glossary/misc-dl/G_yt_lSnIpvD1LN0_en.md | problem | 31 |
+| glossary/misc-dl/G_yt_lTpms_lIPYs_en.md | typeface psychology | 2 |
+| glossary/misc-dl/G_yt_lUGemxzxP58_en.md | mood board | 11 |
+| glossary/misc-dl/G_yt_lUYaDcD2sLc_en.md | local meetups | 1 |
+| glossary/misc-dl/G_yt_lUfhpY1pqbM_en.md | legacy | 2 |
+| glossary/misc-dl/G_yt_lV6nLyFBJy8_en.md | oneperson company | 3 |
+| glossary/misc-dl/G_yt_lW9jp54Qxio_en.md | overcommoditized | 1 |
+| glossary/misc-dl/G_yt_lWeQgSJ_iA4_en.md | format | 16 |
+| glossary/misc-dl/G_yt_lXBwHyd3quI_en.md | deconstruct | 2 |
+| glossary/misc-dl/G_yt_lXN_V_wDI6o_en.md | stuck at the middle | 4 |
+| glossary/misc-dl/G_yt_lXUHIEZ-fis_en.md | podcast guesting | 8 |
+| glossary/misc-dl/G_yt_lXYHFEVMxig_en.md | EBITDA | 3 |
+| glossary/misc-dl/G_yt_lYWLURg3xtI_en.md | traffic | 3 |
