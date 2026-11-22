@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [bot, bots]
+aka: [Grok templates, templates]
 origin: sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
 ---
 
-# G_igocr_divyannshisharma_DdJvzfUkiOH — bot
+# G_igocr_divyannshisharma_DdJvzfUkiOH — Grok templates
 
 ## Term
 
-"bot" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 53 times in the text (whole-word matches, case folded), and the words most often collocated with it are: https, grok, terms, add. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Grok templates" appears once in this source, in the opening line that frames the whole carousel: 26 Grok Bot templates presented as the new Claude Skills. The list runs through eight categories — Build & Code, Engineering Agents, Design & Content, X + Networking, Sales & Recruiting, Startup Tools, Research & Monitoring, and Video — plus three wildcards, each card naming a bot, what it does, and its x.ai/bot link. The closing advice is to steal the workflows, not just the prompts, and a reader comments "GROK" to receive the full list. The words most often collocated with it are: Claude Skills, 26, workflows, prompts.
 
 ## Synonyms
 
-- bot
-- bots (variant form used in the source)
+- templates
 
 ## Live Example
 
-> "Engineering Agents Your engineering team, automated loops by Matt Generalized engineering outer loop. Sits above coding agents, uses psstack as reference (how, why, unloop), writes /goal-style prompts with testable proof, and runs gather → prompt → launch → review ... This AI bot was created by a third-party user, not by SpaceA.I. It may act on your behalf. By clicking" — sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
-> "Startup Tools For founders Echo by Krista Turns a customer call into slides from customer context. What we heard, next steps, project initiatives, or all of the above. Works with Figma or Google Slides, and Granola or Gong notes. On first... This AI bot was created by a third-party user, not by SpaceAI. It may act on your behalf. By clicking" — sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
-> "The Wildcards And 3 more worth bookmarking Be Happier Reads your email + calendar → suggests 3 improvements. https://x.ai/bot/e0hVo-JEG Copay Compass Finds assistance programs + prepares applications. https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD 26 templates. Steal the workflows, not just the prompts. https://x.ai/bot/VRxm1O9tmizOhriV7GiWl Comment" — sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
+> "Grok templates are the new Claude Skills 26 templates worth stealing ↓" — sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
+> "26 templates. Steal the workflows, not just the prompts." — sources/S_igocr_divyannshisharma_DdJvzfUkiOH.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "bot": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as 26 skills to install in Claude: these are Grok Bot templates, not Claude skills — the title calls them the new Claude Skills only by analogy, and each one is a bot you add to Grok Bot.
+- Read as bots built by xAI: every card warns the bot was created by a third-party user, not by xAI, and that it may act on your behalf when you add it.

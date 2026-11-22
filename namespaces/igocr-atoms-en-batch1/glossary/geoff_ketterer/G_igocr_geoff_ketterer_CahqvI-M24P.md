@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [SWIPE LEFT, geoff_ketterer account context]
+aka: [agenda]
 origin: sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
 ---
 
-# G_igocr_geoff_ketterer_CahqvI-M24P — SWIPE LEFT
+# G_igocr_geoff_ketterer_CahqvI-M24P — agenda
 
 ## Term
 
-"SWIPE LEFT" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: info, saleswithgeoff, left, swipe. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"agenda" appears once in this source, in the headline: stop setting an agenda at the start of your sales calls. Maybe it was effective five years ago, but now it just builds sales resistance. Instead, keep the pleasantries down to just a minute or so, then shift the focus from you to them by asking what motivated them to book the call — the recap repeats it as rule 2: don't start with "this is how the call will go". The words most often collocated with it are: sales calls, resistance, pleasantries, motivated.
 
 ## Synonyms
 
-- SWIPE LEFT
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "02 MAYBE THIS WAS EFFECTIVE 5 YEARS AGO, BUT NOW IT JUST BUILDS SALES RESISTANCE SWIPE LEFT" — sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
-> "FOLLOW US FOR MORE INFO @saleswithgeoff SWIPE LEFT" — sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
-> "3. Ask them what motivated them to book the call FOLLOW US FOR MORE INFO @saleswithgeoff SWIPE LEFT" — sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
+> "STOP SETTING AN AGENDA AT THE START OF YOUR SALES CALLS..." — sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
+> "01 STOP SETTING AN AGENDA AT THE START OF YOUR SALES CALLS... FOLLOW US FOR MORE INFO @saleswithgeoff" — sources/S_igocr_geoff_ketterer_CahqvI-M24P.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "SWIPE LEFT": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as never structuring a call: the ban is only on setting an agenda at the start — the replacement is keeping pleasantries to a minute and then shifting focus to the prospect with a question, not running a call with no direction.
+- Read as the agenda being rude: the source's objection is practical, not polite — it builds sales resistance now, even though it may have been effective five years ago.

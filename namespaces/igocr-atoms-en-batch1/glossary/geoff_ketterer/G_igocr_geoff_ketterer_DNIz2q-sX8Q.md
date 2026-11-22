@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [geoff_ketterer, geoff_ketterer account context]
+aka: [Hybrid Content Engine, HSE, Hybrid Social Engine]
 origin: sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
 ---
 
-# G_igocr_geoff_ketterer_DNIz2q-sX8Q — geoff_ketterer
+# G_igocr_geoff_ketterer_DNIz2q-sX8Q — Hybrid Content Engine
 
 ## Term
 
-"geoff_ketterer" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: geoff, ketterer, heres, way. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Hybrid Content Engine" appears twice in this source, a ten-slide carousel on scaling a coaching offer to 30k a month with no following, funnel or team. It is the NEW way Geoff contrasts with the OLD way of a standard VSL funnel: one social ad, a content warming system, a social VSL, and leads that already want to buy, replacing the cycle of going broke trying to make a funnel convert and trying to sell harder. The system pre-warms leads, builds the list faster, and massively increases show rate and close rate, with trust doing the work before the call so that sales calls feel easy. The words most often collocated with it are: HSE, social VSL, warming, leads.
 
 ## Synonyms
 
-- geoff_ketterer
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- HSE
+- Hybrid Social Engine
 
 ## Live Example
 
-> "Geoff Ketterer @geoff_ketterer 2-3 years ago, a VSL funnel that leads to a sales call would crush. But due to bad coaching, bait and switch marketing and good old fashioned scams... The market has become jaded, wary and sceptical that anything you or your sales team says is true." — sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
-> "Geoff Ketterer @geoff_ketterer Heres the OLD way of trying to scale... X Standard VSL Funnel X Go broke trying to make it convert X Try and fix it by replacing the ads or VSL X Try to sell Harder" — sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
-> "Geoff Ketterer @geoff_ketterer Heres why a social engine is superior to a standard funnel... * A significant decrease in ad spend * Less scepticism * Sales calls feel easy * 10X better than a" — sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
+> "The NEW way... Hybrid Content Engine (HSE) ™ ☑️ One Social Ad ☑️ A content warming system ☑️ A social VSL ☑️ Leads that already want to buy" — sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
+> "Comment “HSE” and I’ll send you a FREE 15 minute video showing you how you can build your own Hybrid Content Engine™" — sources/S_igocr_geoff_ketterer_DNIz2q-sX8Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "geoff_ketterer": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as another funnel with a new name: the engine is introduced precisely as the replacement for the standard VSL funnel, built on warming content and a social VSL rather than on ads leading to a sales call.
+- Read as a promise of leads who buy with no selling at all: the carousel still routes followers through attention content, sales-converting content and long-form content, and its payoff is leads that already want to buy — not buyers who need no content.

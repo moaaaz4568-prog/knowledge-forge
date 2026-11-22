@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [model, models]
+aka: [Smart approvals]
 origin: sources/S_igocr_divyannshisharma_Dbn5clEkmhx.md
 ---
 
-# G_igocr_divyannshisharma_Dbn5clEkmhx — model
+# G_igocr_divyannshisharma_Dbn5clEkmhx — Smart approvals
 
 ## Term
 
-"model" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 13 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, expensive, volume, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Smart approvals" is one of the five QuickSilver features in this source: a second model vets each command, so the agent stops asking about the safe ones. The phrase appears five times, beside second model, safe, command, and permission. The contrast is with the old behaviour, where it asked permission for everything; now it handles the safe work on its own and only wakes you up when something actually matters. The same slide groups it with durable background jobs, a delivery ledger, profile routing, and per-task effort controls.
 
 ## Synonyms
 
-- model
-- models (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It needs to build things that actually look good — decks, PDFs, designs. Right now, one model is #1 in the world at this: Kimi K3. Even beats Claude Fable 5. Frontend Code Arena Kimi-K3: Ranked #1 Arena Leaderboard Compare leading frontier models on the blind frontend and coding benchmark." — sources/S_igocr_divyannshisharma_Dbn5clEkmhx.md
+> "A second model vets each command, so it stops asking you about the safe ones." — sources/S_igocr_divyannshisharma_Dbn5clEkmhx.md
+
+> "The old problem: it used to ask permission for EVERYTHING." — sources/S_igocr_divyannshisharma_Dbn5clEkmhx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "model": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as no approvals at all: a second model still vets each command, and the agent only skips asking about the safe ones — it still wakes you when something actually matters.
+- Read as a change to every agent: this is one feature of the QuickSilver update, alongside durable jobs, a delivery ledger, profile routing, and per-task effort, not a claim about agents in general.

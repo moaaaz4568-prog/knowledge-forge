@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [scripts, script]
+aka: [High-RPM Triangle]
 origin: sources/S_igocr_divyannshisharma_DdwYmydknuq.md
 ---
 
-# G_igocr_divyannshisharma_DdwYmydknuq — scripts
+# G_igocr_divyannshisharma_DdwYmydknuq — High-RPM Triangle
 
 ## Term
 
-"scripts" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: viewers, quickly, instead, prompts. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"High-RPM Triangle" appears once in this source, as the starting point for a faceless YouTube channel built with Claude Code: do not rely on enormous view counts in low-paying niches, focus on higher-RPM categories. The triangle's three corners are Finance & Wealth at $15–$30 RPM, Tech & AI News at $10–$20 RPM, and Business Storytelling / Mini-Docs at $12–$25 RPM. The rest of the system then writes for retention with pattern interrupts and curiosity loops every 45 seconds, and runs a lean automation stack from script to editing. The words most often collocated with it are: RPM, Finance & Wealth, Tech & AI News, Business Storytelling.
 
 ## Synonyms
 
-- scripts
-- script (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Why Most Faceless YouTube Channels Fail Most creators use generic AI prompts that produce robotic scripts nobody wants to watch. The real advantage isn't simply using AI—it's building a system for high-retention content." — sources/S_igocr_divyannshisharma_DdwYmydknuq.md
-> "Use Claude to Write for Retention Average AI scripts lose viewers quickly. Instead, structure scripts around pattern interrupts, psychological hooks, storytelling, and curiosity loops every ~45 seconds." — sources/S_igocr_divyannshisharma_DdwYmydknuq.md
-> "3 Rules for Faceless Scaling 1 Win the first 5 seconds Open with conflict or a surprising statistic. 2 Batch production Scripts, audio/visuals, then editing. 3 Obsess over CTR Spend serious time on the title + thumbnail, because even a great script needs the click." — sources/S_igocr_divyannshisharma_DdwYmydknuq.md
+> "Start With the High-RPM Triangle Don’t rely on enormous view counts in low-paying niches." — sources/S_igocr_divyannshisharma_DdwYmydknuq.md
+> "Finance & Wealth $15 – $30 RPM Tech & AI News $10 – $20 RPM Business Storytelling / Mini-Docs $12 – $25 RPM" — sources/S_igocr_divyannshisharma_DdwYmydknuq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "scripts": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as more views means more money: the triangle says the opposite — pick high-RPM categories rather than chasing enormous view counts in low-paying niches.
+- Read as a guarantee of $82,000 a month: the headline is this channel's result, while the triangle is only the niche choice — the retention scripting, the automation stack, and winning the first five seconds still have to work.

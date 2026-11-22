@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [Claude, divyannshisharma account context]
+aka: [Connector, Connectors]
 origin: sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
 ---
 
-# G_igocr_divyannshisharma_DcGy2xAEhTy — Claude
+# G_igocr_divyannshisharma_DcGy2xAEhTy — Connector
 
 ## Term
 
-"Claude" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 16 times in the text (whole-word matches, case folded), and the words most often collocated with it are: clay, claude, supabase, forgets. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here a "Connector" is a link that lets Claude reach an outside app from inside the chat. The word appears six times, twice as "Connectors", beside Claude, Higgsfield, Clay, and Supabase. Higgsfield gives Claude the power to make images and video ads, Clay finds real prospects without leaving the chat, Supabase gives Claude a permanent memory outside the conversation, and Zapier connects Claude to 9,000 or more apps that aren't built in native. The Email Voice skill in the same list is not a connector — it reads 5 to 20 of your sent emails and builds a voice profile, and stacked with Clay it turns a lead list into drafted outreach in one session.
 
 ## Synonyms
 
-- Claude
-- divyannshisharma account context (no variant form of the term appears in this source)
+- Connectors
 
 ## Live Example
 
-> "5 Claude Connectors with INSANE Use Cases" — sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
-> "It keeps generating the SAME person across new scenes. Give her a product. Claude writes the script and builds a full UGC video ad. No camera, no actor, no studio." — sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
-> "Connector 4: Supabase (Claude's memory) Claude forgets. Supabase remembers. A permanent home for your data, outside the chat. Charts disappear Supabase keeps it Claude forgets everything between chats. Supabase doesn't. Connect it once and your data has a permanent home outside the conversation — tables, trackers, pipelines, all of it." — sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
+> "Higgsfield gives Claude the power to make images and video ads — from inside the chat." — sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
+
+> "Claude forgets. Supabase remembers. A permanent home for your data, outside the chat." — sources/S_igocr_divyannshisharma_DcGy2xAEhTy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Claude": the usage here is bounded to an OCR-transcribed Instagram carousel of 11 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as five built-in Claude features: connectors link Claude to outside apps, and Zapier alone reaches 9,000 or more apps that aren't built in native — the Email Voice entry is a free skill, not a connector.
+- Read as Claude remembering now: Supabase is the memory, and Claude still forgets between chats — the data lives outside the conversation, in tables, trackers, and pipelines.

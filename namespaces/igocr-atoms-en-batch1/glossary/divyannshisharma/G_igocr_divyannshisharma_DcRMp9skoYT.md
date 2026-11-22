@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [Bot, Bots]
+aka: [AI employees, AI teammates]
 origin: sources/S_igocr_divyannshisharma_DcRMp9skoYT.md
 ---
 
-# G_igocr_divyannshisharma_DcRMp9skoYT — Bot
+# G_igocr_divyannshisharma_DcRMp9skoYT — AI employees
 
 ## Term
 
-"Bot" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 16 times in the text (whole-word matches, case folded), and the words most often collocated with it are: grok, bot, scout, prospecting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"AI employees" is what the source calls its team of three named Grok Bots, each owning one outreach job: Scout finds and qualifies prospects, Taylor writes personalized outreach, and Jordan handles follow-ups. The phrase appears once, beside B2B outreach, Scout, Taylor, and Jordan. The point is division, not one giant agent: each bot has its own computer and works directly in the cloud and inside the tools already in use, so it can be messaged like a teammate. Because the bots keep working in the background, nobody has to remember who needs a nudge, and the conversations keep moving.
 
 ## Synonyms
 
-- Bot
-- Bots (variant form used in the source)
+- AI teammates
 
 ## Live Example
 
-> "I just built a team of AI employees to do my B2B outreach with Grok Bot from SpaceX AI. I built it ↓ Here's exactly how I built it Jordan Handles cold email follow-ups Scout Finds & qualifies prospects Taylor Writes personalized outreach Copify on Cold Emails" — sources/S_igocr_divyannshisharma_DcRMp9skoYT.md
-> "First, I built Scout. Scout is my prospecting Bot inside Grok Bot. I gave Scout access to: in + [purple icon] + CRM Now I can simply message:" — sources/S_igocr_divyannshisharma_DcRMp9skoYT.md
+> "I just built a team of AI employees to do my B2B outreach with Grok Bot from SpaceX AI." — sources/S_igocr_divyannshisharma_DcRMp9skoYT.md
+
+> "Each Bot has its own computer and can work directly in Cloud and inside the tools I already use." — sources/S_igocr_divyannshisharma_DcRMp9skoYT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Bot": the usage here is bounded to an OCR-transcribed Instagram carousel of 9 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as one giant agent doing everything: the source rejects that — each job goes to a different bot with its own computer, Scout for prospecting, Taylor for outreach, Jordan for follow-ups.
+- Read as the bots only giving instructions: they actually do the work — they log into the tools already in use, browse websites, click through apps, update systems, and complete workflows end to end.

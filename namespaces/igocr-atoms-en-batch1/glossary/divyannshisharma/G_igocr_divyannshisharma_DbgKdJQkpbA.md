@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [Browser Automation, divyannshisharma account context]
+aka: [Browser Automation]
 origin: sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
 ---
 
@@ -9,20 +9,19 @@ origin: sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
 
 ## Term
 
-"Browser Automation" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: demo, automation, browser, claude. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Browser Automation" in this source names the demo at the centre of the carousel: Claude Code using Playwright to build a browser workflow and test it on its own. The phrase appears 12 times, beside demo, Playwright, Claude, and form submission. The carousel walks through the setup — installing Playwright, opening a real browser, hitting a live site, saving a screenshot — and then shows the same loop doing real jobs: a dentist-contact scraper that switches to DuckDuckGo when Google blocks the bot, and a 12-question onboarding form the agent builds, tests, finds two bugs in, and fixes without a human touching it.
 
 ## Synonyms
 
-- Browser Automation
-- divyannshisharma account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It catches its own bugs. File Edit Selection ... I need you to build me a ... Browser Automation Demo - Visual Studio Code I need you to build me a form submission ..." — sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
-> "Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\onboarding\index.html (lines 351-430) Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\onboarding\index.html (lines 576-675) Queue another message... Bypass permissions settings.local.json Screen Reader Optimized 278.82KB Ran a headed browser test on its own form." — sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
-> "BROWSER AUTOMATION DEMO > .claude > node_modules > onboarding > screenshots CLAUDE.md demo.js package-lock.json package.json qa-test.js serve.js test-onboarding.js Plan: Dentist Contact Info Scraper Context A playwright script that automates Google Search to find dentist offices in California, visits 5 result websites, extracts contact information (names, phone numbers, emails), and reports a" — sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
+> "It installed Playwright, opened a real browser, hit a live site, saved a screenshot. First try, no errors." — sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
+
+> "BROWSER AUTOMATION DEMO > .claude > node_modules > onboarding > screenshots" — sources/S_igocr_divyannshisharma_DbgKdJQkpbA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Browser Automation": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as any browser scripting: here it means Claude Code plus Playwright building a workflow and testing it itself, catching its own bugs and fixing its own code, not merely driving a browser.
+- Read as a finished shipped product: the carousel shows a first-try setup run and a scraper plan, and its "no errors" claim covers that setup run, not every site the agent might visit.

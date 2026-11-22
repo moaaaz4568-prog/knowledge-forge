@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [saleswithgeoff, geoff_ketterer account context]
+aka: [sales game]
 origin: sources/S_igocr_geoff_ketterer_CakC6ongeNc.md
 ---
 
-# G_igocr_geoff_ketterer_CakC6ongeNc — saleswithgeoff
+# G_igocr_geoff_ketterer_CakC6ongeNc — sales game
 
 ## Term
 
-"saleswithgeoff" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: written, crush, sales, game. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"sales game" appears twice in this source, an eight-slide carousel listing four must-read books for salespeople. The title promises books to crush the sales game, and the conclusion says that reading those four books alone would leave a reader with more sales knowledge than most salespeople — but that reading alone is not enough, and the skills have to be practised constantly to be ingrained into the sales game. Geoff frames reading as a daily habit he did not like at first, picked up on an early mentor's suggestion because it separates successful people from the unsuccessful. The words most often collocated with it are: books, crush, reading, practice.
 
 ## Synonyms
 
-- saleswithgeoff
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "4 MUST-READ BOOKS TO CRUSH YOUR SALES GAME @saleswithgeoff" — sources/S_igocr_geoff_ketterer_CakC6ongeNc.md
-> "@saleswithgeoff PSYCHO CYBERNETICS Written by...Maxwell Maltz THE INTERNATIONALLY BESTSELLING CLASSIC Psycho-Cybernetics UPDATED AND EXPANDED TAP INTO THE POWER OF YOUR SUBCONSCIOUS MIND TO: • Improve your self-image • Learn to use your positive past • Set and achieve winning goals • Overcome criticism, self-doubt, and forgiveness • Cultivate the power of rational thinking • Discover the key to a" — sources/S_igocr_geoff_ketterer_CakC6ongeNc.md
-> "@saleswithgeoff CONCLUSION If all you ever read were the above 4 books, you would probably have more sales knowledge that the majority of sales people out there. However, reading alone isn't enough, you will need to practice constantly if you to be able to ingrain those skills into your sales game." — sources/S_igocr_geoff_ketterer_CakC6ongeNc.md
+> "If all you ever read were the above 4 books, you would probably have more sales knowledge that the majority of sales people out there." — sources/S_igocr_geoff_ketterer_CakC6ongeNc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "saleswithgeoff": the usage here is bounded to an OCR-transcribed Instagram carousel of 8 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a reading list that alone makes a salesperson: the conclusion is explicit that reading alone is not enough, and the four books only help once their skills are practised constantly and ingrained into the sales game.
+- Read as a claim that these four books are the whole of sales knowledge: Geoff says only that reading them would leave a reader with more sales knowledge than the majority of salespeople, not that no other sales knowledge exists or matters.

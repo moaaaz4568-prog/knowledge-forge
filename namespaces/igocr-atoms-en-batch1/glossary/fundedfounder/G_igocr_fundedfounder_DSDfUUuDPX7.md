@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: fundedfounder
-aka: [SEED ROUND, fundedfounder account context]
+aka: [Unconventional AI]
 origin: sources/S_igocr_fundedfounder_DSDfUUuDPX7.md
 ---
 
-# G_igocr_fundedfounder_DSDfUUuDPX7 — SEED ROUND
+# G_igocr_fundedfounder_DSDfUUuDPX7 — Unconventional AI
 
 ## Term
 
-"SEED ROUND" is the most frequent repeated content term in this source (an Instagram OCR post from the fundedfounder account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 425m, founder, raises, round. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Unconventional AI" appears 3 times in this source, a research lab tackling the moonshot of highly efficient AI-first chips. It just raised $425M as its first round, co-led by a16z, and the carousel frames the raise as going to war with NVIDIA, the world's largest company and the biggest AI chipmaker. Its CEO, Naveen Rao, founded and sold two companies related to AI and computation before leading artificial intelligence at Databricks. The words most often collocated with it are: $425M, seed round, NVIDIA, A16Z.
 
 ## Synonyms
 
-- SEED ROUND
-- fundedfounder account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "FJ AI6Z FOUNDER RAISES $425M SEED ROUND TO GO TO WAR WITH NVIDIA FJ" — sources/S_igocr_fundedfounder_DSDfUUuDPX7.md
-> "OpenAI FOR COMPARISON OPENAI, WHO IS NOW WORTH $1T ONLY RAISED $120K FOR ITS SEED ROUND. THAT’S ONLY 0.02% OF WHAT UNCONVENTIONAL AI RAISED." — sources/S_igocr_fundedfounder_DSDfUUuDPX7.md
+> "UNCONVENTIONAL AI, A RESEARCH LAB TACKLING THE MOONSHOT OF HIGHLY EFFICIENT AI-FIRST CHIPS JUST RAISED $425M AS ITS FIRST ROUND CO-LEAD BY A16Z." — sources/S_igocr_fundedfounder_DSDfUUuDPX7.md
+> "UNCONVENTIONAL AI WOULD ESSENTIALLY BE A COMPETITOR TO NVIDIA THE WORLD'S LARGEST COMPANY AND THE BIGGEST AI CHIPMAKER IN THE MARKET." — sources/S_igocr_fundedfounder_DSDfUUuDPX7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "SEED ROUND": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a company that has already beaten NVIDIA: the source says it would essentially be a competitor to NVIDIA — the $425M is its first round, for highly efficient AI-first chips, and the war is the headline's framing, not a won battle.
+- Read as a normal seed round: OpenAI raised only $120K for its seed round, 0.02% of what Unconventional AI raised — the size is the story, not the round type.

@@ -1,6 +1,6 @@
 # Index — glossary/ (igocr-atoms-en-batch1)
 
-Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,620 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuild chunk 1 (2026-11-22): 50 entries (adamdelduca, list lines 1-50) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors. Rebuild chunk 2 (2026-11-22): 50 entries (adamdelduca, list lines 51-100) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors.
+Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,593 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuild chunk 1 (2026-11-22): 50 entries (adamdelduca, list lines 1-50) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors. Rebuild chunk 2 (2026-11-22): 50 entries (adamdelduca, list lines 51-100) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors. Rebuild chunk 1 (2026-11-22): 50 entries (divyannshisharma, elgendyfilms, fundedfounder, geniuzss, geoff_ketterer; list lines 1501-1550) rebuilt in place, 97 live examples; self-check 50/50, 0 errors.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1504,56 +1504,56 @@ Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ 
 | glossary/divyannshisharma/G_igocr_divyannshisharma_DbV3U2eknyF.md | Claude | 2 |
 | glossary/divyannshisharma/G_igocr_divyannshisharma_Db_GqlYkqal.md | Claude | 3 |
 | glossary/divyannshisharma/G_igocr_divyannshisharma_DbbBtMPEoHP.md | API documentation | 2 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DbgKdJQkpbA.md | Browser Automation | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DbivYoXEsbe.md | github | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dbn5clEkmhx.md | model | 1 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DbtC0KCEjJC.md | Granola | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dbvm3avEjJk.md | Fable | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DbyMY92kjxs.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dc1JZS9Eij1.md | graphify | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dc3vmYCEvpu.md | skills | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcEONSaku2o.md | ago | 2 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcGy2xAEhTy.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcRMp9skoYT.md | Bot | 2 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcTqPvUEq4v.md | video | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcY0c44EiLe.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dcban0XEqvO.md | free | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DcgjCLukmDp.md | NotebookLM | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DckEs3KEjii.md | Grok Bot | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dclsr-dkgiB.md | context | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DctaaZxEi1X.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_Dd1g6csEi5L.md | github | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdHJ9FGkRPA.md | one | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdJvzfUkiOH.md | bot | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdO6-1QkjR-.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdRd0SNkrW-.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdZMSdTksDE.md | Claude | 3 |
-| glossary/divyannshisharma/G_igocr_divyannshisharma_DdwYmydknuq.md | scripts | 3 |
-| glossary/elgendyfilms/G_igocr_elgendyfilms_DXnOLN-jBtL.md | Adjustment Layer | 1 |
-| glossary/elgendyfilms/G_igocr_elgendyfilms_DcMFlKjjBoi.md | NIVEA MEN | 1 |
-| glossary/fundedfounder/G_igocr_fundedfounder_DSDfUUuDPX7.md | SEED ROUND | 2 |
-| glossary/fundedfounder/G_igocr_fundedfounder_DSN6ODiDB8l.md | A16Z | 3 |
-| glossary/geniuzss/G_igocr_geniuzss_DGPMbybTFdZ.md | Habits | 1 |
-| glossary/geniuzss/G_igocr_geniuzss_DGPNMkxT0CP.md | study | 3 |
-| glossary/geniuzss/G_igocr_geniuzss_DGUSd-5CtRU.md | one | 2 |
-| glossary/geniuzss/G_igocr_geniuzss_DGxiDZKzK05.md | take actions | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CNhDVD6Lz2G.md | Danny | 2 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CQYpPzPrPUl.md | MEMBERSHIP | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CaZQhFHLAOA.md | SWIPE LEFT | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CahqvI-M24P.md | SWIPE LEFT | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CakC6ongeNc.md | saleswithgeoff | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CpxKBTLoU50.md | Accountable | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DBbo8_KoboC.md | pleasure | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DNA0YNWIu5f.md | GEOFF_KETTERER | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DNIz2q-sX8Q.md | geoff_ketterer | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DRZkv0bjVWz.md | because | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DRupwAkjfD0.md | GEOFF_KETTERER | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DTYYcxpDTDg.md | days | 2 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DTlQ8ibDUwI.md | close rates | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DUF9IswjWdC.md | sales | 1 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DV-sHU6DQZJ.md | objections | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DWWKYrvl7aD.md | SALES | 3 |
-| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DWgGa5DjYoE.md | geoff_ketterer | 3 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DbgKdJQkpbA.md | Browser Automation | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DbivYoXEsbe.md | self-hosted | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dbn5clEkmhx.md | Smart approvals | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DbtC0KCEjJC.md | second brain | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dbvm3avEjJk.md | effort level | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DbyMY92kjxs.md | AI automation | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dc1JZS9Eij1.md | Graphify | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dc3vmYCEvpu.md | AI slop | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcEONSaku2o.md | AI agents | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcGy2xAEhTy.md | Connector | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcRMp9skoYT.md | AI employees | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcTqPvUEq4v.md | /watch | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcY0c44EiLe.md | Connector | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dcban0XEqvO.md | Data Sharing Program | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DcgjCLukmDp.md | SKILLS FACTORY | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DckEs3KEjii.md | AI growth team | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dclsr-dkgiB.md | Better context | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DctaaZxEi1X.md | AI CONTENT MACHINE | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_Dd1g6csEi5L.md | your own machine | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdHJ9FGkRPA.md | Pain Point To LinkedIn Brief | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdJvzfUkiOH.md | Grok templates | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdO6-1QkjR-.md | Claude Skills | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdRd0SNkrW-.md | MCP | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdZMSdTksDE.md | Board of Advisors | 2 |
+| glossary/divyannshisharma/G_igocr_divyannshisharma_DdwYmydknuq.md | High-RPM Triangle | 2 |
+| glossary/elgendyfilms/G_igocr_elgendyfilms_DXnOLN-jBtL.md | Adjustment Layer | 2 |
+| glossary/elgendyfilms/G_igocr_elgendyfilms_DcMFlKjjBoi.md | NIVEA MEN | 2 |
+| glossary/fundedfounder/G_igocr_fundedfounder_DSDfUUuDPX7.md | Unconventional AI | 2 |
+| glossary/fundedfounder/G_igocr_fundedfounder_DSN6ODiDB8l.md | networking dinners | 2 |
+| glossary/geniuzss/G_igocr_geniuzss_DGPMbybTFdZ.md | habit loop | 2 |
+| glossary/geniuzss/G_igocr_geniuzss_DGPNMkxT0CP.md | Spaced Repetition | 2 |
+| glossary/geniuzss/G_igocr_geniuzss_DGUSd-5CtRU.md | solitude | 2 |
+| glossary/geniuzss/G_igocr_geniuzss_DGxiDZKzK05.md | 5-Second Rule | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CNhDVD6Lz2G.md | phone script | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CQYpPzPrPUl.md | 7 Figure Club | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CaZQhFHLAOA.md | pitch | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CahqvI-M24P.md | agenda | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CakC6ongeNc.md | sales game | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_CpxKBTLoU50.md | accountable | 1 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DBbo8_KoboC.md | weapon | 1 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DNA0YNWIu5f.md | hybrid content engine | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DNIz2q-sX8Q.md | Hybrid Content Engine | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DRZkv0bjVWz.md | culture | 1 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DRupwAkjfD0.md | content ideas | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DTYYcxpDTDg.md | guidance | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DTlQ8ibDUwI.md | close rate | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DUF9IswjWdC.md | Hybrid Trust Engine | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DV-sHU6DQZJ.md | objections | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DWWKYrvl7aD.md | pre-selling systems | 2 |
+| glossary/geoff_ketterer/G_igocr_geoff_ketterer_DWgGa5DjYoE.md | 5-step process | 2 |
 | glossary/geoff_ketterer/G_igocr_geoff_ketterer_DXQ866VjUav.md | DARTMOOR INN | 1 |
 | glossary/geoff_ketterer/G_igocr_geoff_ketterer_DX_EX7AlzK7.md | close rate | 2 |
 | glossary/geoff_ketterer/G_igocr_geoff_ketterer_DYjzIi_DcEC.md | Brasi | 1 |

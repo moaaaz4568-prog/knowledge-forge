@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [video, videos]
+aka: [/watch]
 origin: sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
 ---
 
-# G_igocr_divyannshisharma_DcTqPvUEq4v — video
+# G_igocr_divyannshisharma_DcTqPvUEq4v — /watch
 
 ## Term
 
-"video" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 33 times in the text (whole-word matches, case folded), and the words most often collocated with it are: copy, url, watch, step. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"/watch" is the command that gives Claude the ability to watch any video: type it in Claude Code, paste the link, and Claude handles everything else. The command appears five times, beside video, link, Claude Code, and paste. The difference from old tools is that it grabs both halves of a video — screenshots every few seconds plus a timestamped transcript — because half the good stuff is shown on screen, not spoken. A 45-minute lecture is fully watched and understood in under two minutes, and the install is two lines: add the marketplace, then install the skill.
 
 ## Synonyms
 
-- video
-- videos (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "02 The problem with old tools Most video tools only grab the transcript. But half the good stuff in a video isn't spoken out loud — it's shown on screen. Graphs, charts, on-screen text. Transcript-only tools miss all of that. ?? TRANSCRIPT OLD TOOL Old tools see less. So you get less." — sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
-> "PROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS Claude Code v2.1.119 Opus 4.7 (1M context) with xhigh effort · Claude Max ~/Documents/GitHub/self-improving-kaparthvy-wiki > /plugin marketplace add bradautomates/claude-video Add Marketplace Enter marketplace source: Examples: - owner/repo (GitHub) - git@github.com:owner/repo.git (SSH) - https://example.com/marketplace.json - ./path/to/marketplace" — sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
-> "18 USE CASE 2 Use case 2: Zoom into a moment of a video. You don’t have to analyze the whole video. Just give Claude the exact start and end time, and it only processes that small window — saving time and tokens." — sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
+> "In Claude Code, type /watch and paste the link." — sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
+
+> "This skill grabs both — screenshots every few seconds, plus a timestamped transcript — and gives Claude the full picture, not just half of it." — sources/S_igocr_divyannshisharma_DcTqPvUEq4v.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "video": the usage here is bounded to an OCR-transcribed Instagram carousel of 18 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as Claude watching video on its own: Claude can't — Anthropic has no video model yet — so the skill breaks the video into pictures and text, formats Claude already understands perfectly.
+- Read as the skill transcribing everything with Whisper: Whisper is only for videos without captions, like a raw phone video or an Instagram reel; most videos already have free captions the skill just pulls.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [because, geoff_ketterer account context]
+aka: [culture]
 origin: sources/S_igocr_geoff_ketterer_DRZkv0bjVWz.md
 ---
 
-# G_igocr_geoff_ketterer_DRZkv0bjVWz — because
+# G_igocr_geoff_ketterer_DRZkv0bjVWz — culture
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: culture, sales, person, leaves. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"culture" appears twice in this source, a single-image quote contrasting salary and culture as reasons a salesperson leaves. A salesperson who leaves because of the salary can one day return because of the culture, but one who leaves because of the culture will never return for the salary: culture is the decisive factor, and pay is only a secondary one that can pull someone back. The quote gives no company, no names and no story beyond that two-way comparison. The words most often collocated with it are: salary, leaves, return, never.
 
 ## Synonyms
 
-- because
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_geoff_ketterer_DRZkv0bjVWz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as advice to ignore pay: the quote says a leaver over salary can return for culture, not that salary never matters — it ranks culture above salary rather than dismissing pay.
+- Read as a universal rule about every departure: the quote states one contrast about salespeople leaving over salary versus culture, with no evidence offered for other roles or other reasons for leaving.

@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [one, divyannshisharma account context]
+aka: [Pain Point To LinkedIn Brief]
 origin: sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
 ---
 
-# G_igocr_divyannshisharma_DdHJ9FGkRPA — one
+# G_igocr_divyannshisharma_DdHJ9FGkRPA — Pain Point To LinkedIn Brief
 
 ## Term
 
-"one" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 19 times in the text (whole-word matches, case folded), and the words most often collocated with it are: time, scene, generate, prompt. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Pain Point To LinkedIn Brief" is the Granola recipe this source uses to turn customer conversations into LinkedIn carousels that book meetings. The phrase appears four times, beside Granola, recipe, customer, and frustration. Step one captures the meeting in Granola, step two runs the recipe to identify the core frustration, and step three turns it into a brief with the pain point, the target audience, the emotion to evoke, and a suggested headline. The worked example is an AI motion-graphics workflow: generating one scene at a time breaks consistency, so the headline becomes 'Your AI Video Looks Different Every Scene'.
 
 ## Synonyms
 
-- one
-- divyannshisharma account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One prompt, one image, and then they repeat that very cycle." — sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
-> "Suggested headline: Your AI Video Looks Different Every Scene Supporting text: You generate a scene you like. Then you generate the next one. And the next. But by the end, the colors have shifted, the style has changed, and nothing feels like it belongs in the same video. Ask anything Auto" — sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
-> "/ Free Claude courses to master in one weekend one weekend collaborate with AI where people misuse LLMs evaluation loops Underrated but extremely practical. Show more visualize: Claude courses carousel @cas.operator-operators.ai FREE RESOURCES 17+ Free Claude Courses Binge in one weekend. Better than 90% of users. Reading frontend design skill >" — sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
+> "Turns customer frustrations into a designer brief for a LinkedIn post." — sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
+
+> "Pain point: Generating AI video one scene at a time creates a project where every scene feels slightly different." — sources/S_igocr_divyannshisharma_DdHJ9FGkRPA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "one": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as brainstorming content ideas: the recipe starts from a real customer conversation captured in Granola, not from random ideas — the pain point must be something actually said.
+- Read as Claude writing the carousel from nothing: Claude only turns the brief into the carousel; the idea, angle, and direction come from the meeting and the recipe's brief.

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geniuzss
-aka: [Habits, Habit]
+aka: [habit loop, loop]
 origin: sources/S_igocr_geniuzss_DGPMbybTFdZ.md
 ---
 
-# G_igocr_geniuzss_DGPMbybTFdZ — Habits
+# G_igocr_geniuzss_DGPMbybTFdZ — habit loop
 
 ## Term
 
-"Habits" is the most frequent repeated content term in this source (an Instagram OCR post from the geniuzss account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: part, successful, organizations, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"habit loop" appears twice in this source, as the first chapter of Charles Duhigg's The Power of Habit and as the diagram at the center of the book's argument. The loop has three parts — a cue, a routine, and a reward — and over time it becomes more automatic as the cue and the reward intertwine until a powerful sense of anticipation and craving merges. The book's central argument is that habits can be changed if we understand how they work, because habits are the choices we deliberately make at some point and then stop thinking about but continue doing. The words most often collocated with it are: cue, routine, reward, automatic.
 
 ## Synonyms
 
-- Habits
-- Habit (variant form used in the source)
+- loop
 
 ## Live Example
 
-> "I first became interested in the science of habits eight years ago, as a newspaper reporter in Baghdad. The U.S. military, it occurred to me as I watched it in action, is one of the biggest habit-formation experiments in history. Basic training teaches soldiers carefully de-" — sources/S_igocr_geniuzss_DGPMbybTFdZ.md
+> "Finally, there is a reward, which helps you figure out if this particular loop is worth remembering for the Routine Cue Click Reward THE HABIT LOOP" — sources/S_igocr_geniuzss_DGPMbybTFdZ.md
+> "1. THE HABIT LOOP How Habits Work 3 2. THE CRAVING BRAIN How to Create New Habits 31" — sources/S_igocr_geniuzss_DGPMbybTFdZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Habits": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a loop that runs itself from the start: the loop only becomes automatic over time — the cue and reward intertwine until anticipation and craving merge, and only then is a habit born.
+- Read as willpower doing the work: willpower is a separate muscle in this book that gets tired as it works harder — the loop replaces choosing with automaticity, it does not strengthen willpower.

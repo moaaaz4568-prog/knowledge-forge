@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: divyannshisharma
-aka: [github, divyannshisharma account context]
+aka: [self-hosted]
 origin: sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
 ---
 
-# G_igocr_divyannshisharma_DbivYoXEsbe — github
+# G_igocr_divyannshisharma_DbivYoXEsbe — self-hosted
 
 ## Term
 
-"github" is the most frequent repeated content term in this source (an Instagram OCR post from the divyannshisharma account): it occurs 17 times in the text (whole-word matches, case folded), and the words most often collocated with it are: com, syncthing, paperless-ngx, run. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "self-hosted" names the shared property of all ten tools in the carousel: each one runs on your own server instead of a paid subscription. The word appears twice, beside server, audiobooks, podcasts, and your own server. The pitch is replacement, not just price: Vaultwarden keeps passwords on your own server, Audiobookshelf stores audiobooks and podcasts on your own server, and Syncthing moves files straight from one device to another with no cloud in between. The carousel prices the swap at over $170 of subscriptions a month, with each tool named against the paid service it replaces.
 
 ## Synonyms
 
-- github
-- divyannshisharma account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "01 / 10 10 GITHUB REPOS THAT QUIETLY RUN MY DAILY LIFE Duff BEER CODE. COMMIT. COFFEE." — sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
-> "What it replaces: Audible + premium podcast apps – $30 a month Buy a book once and keep it forever. No subscription. No DRM. Yours for life. github.com/advplyr/audiobookshelf audiobookshelf" — sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
-> "No one else can access it. github.com/bitwarden/server" — sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
+> "Self-hosted audiobook and podcast server audiobookshelf.org self-hosted podcasts" — sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
+
+> "Your passwords live on your own server. No company holds them. No one can access them but you." — sources/S_igocr_divyannshisharma_DbivYoXEsbe.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "github": the usage here is bounded to an OCR-transcribed Instagram carousel of 13 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as free apps with nothing to run: the point is self-hosted on your own server, so you still set up and maintain the server yourself; "free" here is about licences and subscriptions, not zero effort.
+- Read as an endorsement of all ten tools alike: the carousel lists replacements with prices, and Audiobookshelf keeps a book "for life" only if you buy the book once — it does not make paid books free.

@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [Danny, geoff_ketterer account context]
+aka: [phone script, script]
 origin: sources/S_igocr_geoff_ketterer_CNhDVD6Lz2G.md
 ---
 
-# G_igocr_geoff_ketterer_CNhDVD6Lz2G — Danny
+# G_igocr_geoff_ketterer_CNhDVD6Lz2G — phone script
 
 ## Term
 
-"Danny" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: reply, like, notifications, 12m. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"phone script" appears once in this source, in a testimonial screenshot from Danny: the phone script is unreal, he has just closed 4 people out of 6. He calls the approach amazing, thanks Geoff for such valuable information, and guarantees that without the script he would not have closed the sales he has. The script is the set of words for the sales call — Danny still made the calls, and the testimonial is one user's result, not a promise. The words most often collocated with it are: unreal, closed, sales, approach.
 
 ## Synonyms
 
-- Danny
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- script
 
 ## Live Example
 
-> "From notifications Danny 12m Wow the phone script is unreal, I've just closed 4 people out of 6! The approach is amazing, thanks for such valuable information! I can guarantee had I not had the script I would have not closed the sales I have." — sources/S_igocr_geoff_ketterer_CNhDVD6Lz2G.md
-> "#keepmovingforward George McDonald 4 comments Seen by 8 Like Comment All comments Alex Collins Well done Danny Like · Reply · 11 m Danny Boyle replied · 1 reply 11 m Benelone Bellegarde" — sources/S_igocr_geoff_ketterer_CNhDVD6Lz2G.md
+> "Wow the phone script is unreal, I've just closed 4 people out of 6!" — sources/S_igocr_geoff_ketterer_CNhDVD6Lz2G.md
+> "Wow the phone script is unreal, I've just closed 4 people out of 6! The approach is amazing, thanks for such valuable information!" — sources/S_igocr_geoff_ketterer_CNhDVD6Lz2G.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Danny": the usage here is bounded to an OCR-transcribed Instagram post image from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proof the script closes everyone: Danny closed 4 people out of 6, not 6 out of 6 — the testimonial is one user's result, and two of the six did not close.
+- Read as the script doing the selling alone: Danny credits the approach and the information in it — the script is the words he used on the phone, and he still had to make the calls.

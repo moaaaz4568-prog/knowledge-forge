@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [GEOFF_KETTERER, geoff_ketterer account context]
+aka: [hybrid content engine, hybrid]
 origin: sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
 ---
 
-# G_igocr_geoff_ketterer_DNA0YNWIu5f — GEOFF_KETTERER
+# G_igocr_geoff_ketterer_DNA0YNWIu5f — hybrid content engine
 
 ## Term
 
-"GEOFF_KETTERER" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: spent, months, grinding, hours. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"hybrid content engine" appears once in this source, a seven-slide carousel telling how Geoff rebuilt his coaching business around it after seven months of overwhelm. The engine is the strategy that changed everything: he stripped everything back, focused only on things that actually move the needle, and credits the engine with clients getting amazing results while he works around ten hours a week. The English lines are paired with Arabic glosses in parentheses on the opening slides, and the final slide asks readers to DM the word "hybrid" for the step-by-step blueprint. The words most often collocated with it are: strategy, move the needle, blueprint, hybrid.
 
 ## Synonyms
 
-- GEOFF_KETTERER
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- hybrid
 
 ## Live Example
 
-> "@GEOFF_KETTERER I spent 7 months in crazy overwhelm trying to build my coaching business (قضيت 7 شهور في overwhelmed جنوني محاولة بناء عملي كمدرب) K&F" — sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
-> "@GEOFF_KETTERER but none of it was working." — sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
-> "@GEOFF_KETTERER and it was all thanks to a strategy called a hybrid content engine DM me the word" — sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
+> "and it was all thanks to a strategy called a hybrid content engine DM me the word “hybrid” and ill send you the step by step blueprint" — sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
+> "I now have 100% of my clients getting amazing results working around 10 hours a week" — sources/S_igocr_geoff_ketterer_DNA0YNWIu5f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "GEOFF_KETTERER": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a funnel or ads tactic: the engine is presented as the whole rebuilt approach — stripping back to what moves the needle — after funnels, referrals, tech and a sales team all failed to work, not as one more tactic added to that list.
+- Read as a promise that the engine alone produces the results: Geoff credits the strategy alongside the decision to focus only on what moves the needle and to stop following generic guru advice, and the post offers a blueprint rather than a guarantee.

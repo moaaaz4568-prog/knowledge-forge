@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [close rates, geoff_ketterer account context]
+aka: [close rate, close rates, close-rate]
 origin: sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
 ---
 
-# G_igocr_geoff_ketterer_DTlQ8ibDUwI — close rates
+# G_igocr_geoff_ketterer_DTlQ8ibDUwI — close rate
 
 ## Term
 
-"close rates" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: improving, code, rates, close. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"close rate" appears 10 times in this source, counting the plural "close rates" in the repeated slide headers, in a six-slide carousel on improving close rates by warming prospects before the call. Geoff's cheat code is that a poor close rate is a state problem with the person booking the call, not an objection-handling problem: the more pre-warmed someone is before the call, the easier the sale becomes, and a high close rate is engineered through perceived value, low resistance, clear expectations, low effort and identity alignment. The carousel replaces more automated emails and SMS with a WhatsApp setter and a short 60-120 second video, then cites live results of 56% for the week, 58% from 7 closes out of 12 October calls, and 53% from 10 deals out of 19 live calls. The words most often collocated with it are: close rates, pre warmed, sale, setter.
 
 ## Synonyms
 
 - close rates
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- close-rate
 
 ## Live Example
 
-> "Major cheat code to improving close rates: poor close rates isn't a" — sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
-> "Major cheat code to improving close rates: High close-rate happens when you engineer: 1. Perceived value 2. Low resistance (" — sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
-> "Major cheat code to improving close rates: Instead of adding more automated emails and SMS, instead add them to Whatsapp and have a setter engage with them there geoff ketterer" — sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
+> "Major cheat code to improving close rates: The more pre warmed someone is BEFORE the call, the easier the sale becomes" — sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
+> "High close-rate happens when you engineer: 1. Perceived value 2. Low resistance" — sources/S_igocr_geoff_ketterer_DTlQ8ibDUwI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "close rates": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a script or objection-handling fix: Geoff says poor close rates are a state problem with the person booking the call, and the fix is warming them before the call rather than handling their objections better.
+- Read as a guarantee that pre-warming produces the cited rates: the 56%, 58% and 53% figures are reported results from Geoff's clients and team members in one week and one month, not a promised outcome for any caller.

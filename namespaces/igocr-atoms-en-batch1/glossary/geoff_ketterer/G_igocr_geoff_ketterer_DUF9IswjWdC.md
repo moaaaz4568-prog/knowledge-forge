@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: geoff_ketterer
-aka: [sales, geoff_ketterer account context]
+aka: [Hybrid Trust Engine, HTE]
 origin: sources/S_igocr_geoff_ketterer_DUF9IswjWdC.md
 ---
 
-# G_igocr_geoff_ketterer_DUF9IswjWdC — sales
+# G_igocr_geoff_ketterer_DUF9IswjWdC — Hybrid Trust Engine
 
 ## Term
 
-"sales" is the most frequent repeated content term in this source (an Instagram OCR post from the geoff_ketterer account): it occurs 14 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, years, call, based. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Hybrid Trust Engine" appears twice in this source, a ten-slide carousel on achieving 50% close rates without handling more objections. It is the NEW way set against the OLD way of changing the script, studying objection handling or trying to sell harder: an educational sequence, a content warming system and a social VSL that produce leads who already want to buy, with marketing conversion doing the heavy lifting before the call. The engine pre-warms leads, explains the unique method, massively increases show rate and close rate, and makes sales calls feel effortless because people show up ready to buy. The words most often collocated with it are: HTE, warming, social VSL, ready to buy.
 
 ## Synonyms
 
-- sales
-- geoff_ketterer account context (no variant form of the term appears in this source)
+- HTE
 
 ## Live Example
 
-> "Geoff Ketterer @geoff_ketterer Heres the OLD way of trying to improve sales.. ✘ Change the script ✘ Study objection handling by another guru ✘ Start thinking" — sources/S_igocr_geoff_ketterer_DUF9IswjWdC.md
+> "The NEW way... Hybrid Trust Engine (HTE)™ ☑ An educational sequence ☑ A content warming system ☑ A social VSL ☑ Leads that already want to buy" — sources/S_igocr_geoff_ketterer_DUF9IswjWdC.md
+> "This is where a “Hybrid trust Engine” completely changed the game" — sources/S_igocr_geoff_ketterer_DUF9IswjWdC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales": the usage here is bounded to an OCR-transcribed Instagram carousel of 10 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a way to skip warming and go straight to the call: the engine is defined by the warming itself — an educational sequence and content warming system — and its close rates depend on leads arriving already warm.
+- Read as a promise of 50% close rates for anyone who builds it: the 50% figure is how Geoff says he achieved his own close rates, and the carousel still ends by inviting readers to a waitlist for a closed program rather than handing over the system.

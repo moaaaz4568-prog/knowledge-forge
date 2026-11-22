@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: elgendyfilms
-aka: [NIVEA MEN, elgendyfilms account context]
+aka: [NIVEA MEN]
 origin: sources/S_igocr_elgendyfilms_DcMFlKjjBoi.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_igocr_elgendyfilms_DcMFlKjjBoi.md
 
 ## Term
 
-"NIVEA MEN" is the most frequent repeated content term in this source (an Instagram OCR post from the elgendyfilms account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: men, nivea. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"NIVEA MEN" appears 5 times in this source, as a banner repeated five times in a single frame alongside a 74:26 timestamp and the brand name GIONEE. Nine of the carousel's fourteen images carry no text at all, and the remaining frames show editing-software labels and brand logos, so the repeated banner is the source's most visible text. NIVEA MEN is the men's grooming line of the NIVEA brand, shown here as on-screen branding rather than discussed as a product. The words most often collocated with it are: GIONEE, 74:26.
 
 ## Synonyms
 
-- NIVEA MEN
-- elgendyfilms account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "NIVEA MEN | NIVEA MEN | NIVEA MEN | NIVEA MEN | NIVEA MEN 74:26 3 1 GIONEE" — sources/S_igocr_elgendyfilms_DcMFlKjjBoi.md
+> "NIVEA MEN | NIVEA MEN | NIVEA MEN | NIVEA MEN | NIVEA MEN" — sources/S_igocr_elgendyfilms_DcMFlKjjBoi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "NIVEA MEN": the usage here is bounded to an OCR-transcribed Instagram carousel of 14 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as five separate mentions: the five occurrences are one banner repeated five times in a single frame, not five separate discussions of the brand.
+- Read as an ad for NIVEA MEN: the carousel never discusses the product — the banner sits in an editing timeline alongside other brand logos (NOKIA, GIONEE, 2XU) and empty slides, with no copy about what the product does.
