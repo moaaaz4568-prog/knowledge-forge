@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch6)
 
-YouTube English video transcripts batch 6 glossaries (sub-batches 1-4: codes 1-200 of 1,000): one G_ entry per T_ atom file — 200 files, zero exclusions, misc-dl collection. 200 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1200 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last lYWLURg3xtI (sub-batch 4).
+YouTube English video transcripts batch 6 glossaries (sub-batches 1-5: codes 1-300 of 1,000): one G_ entry per T_ atom file — 250 files, zero exclusions, misc-dl collection. 250 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); namespace check: 1200 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code js9-JPCC-U4, last mRRN8-iDRbc (sub-batch 5).
 | glossary/misc-dl/G_yt_js9-JPCC-U4_en.md | align | 1 |
 | glossary/misc-dl/G_yt_jsseHVKseyk_en.md | agency | 1 |
 | glossary/misc-dl/G_yt_jtJLUR-bePM_en.md | brand name | 1 |
@@ -201,3 +201,53 @@ YouTube English video transcripts batch 6 glossaries (sub-batches 1-4: codes 1-2
 | glossary/misc-dl/G_yt_lXUHIEZ-fis_en.md | podcast guesting | 8 |
 | glossary/misc-dl/G_yt_lXYHFEVMxig_en.md | EBITDA | 3 |
 | glossary/misc-dl/G_yt_lYWLURg3xtI_en.md | traffic | 3 |
+| glossary/misc-dl/G_yt_m2J8CKAPrRI_en.md | business | 1 |
+| glossary/misc-dl/G_yt_m2JnEWcoEf8_en.md | phase | 1 |
+| glossary/misc-dl/G_yt_m2ZVjvwmMA8_en.md | methodology | 1 |
+| glossary/misc-dl/G_yt_m4XzGzS7dmQ_en.md | project | 1 |
+| glossary/misc-dl/G_yt_m4cSedVoZEU_en.md | question | 1 |
+| glossary/misc-dl/G_yt_m4qlRxGOLJU_en.md | framework | 1 |
+| glossary/misc-dl/G_yt_m4u8JInMSHE_en.md | blend | 1 |
+| glossary/misc-dl/G_yt_m4x5j6Opy60_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_m55DxnESELY_en.md | client work | 1 |
+| glossary/misc-dl/G_yt_m5DPEKUkYMM_en.md | invoice | 1 |
+| glossary/misc-dl/G_yt_m63VSyZiEsA_en.md | YouTube | 1 |
+| glossary/misc-dl/G_yt_m6y6kPFGCY4_en.md | efficiency | 1 |
+| glossary/misc-dl/G_yt_m73yaCnF-IQ_en.md | lead magnet | 1 |
+| glossary/misc-dl/G_yt_m75Tk9c6C-4_en.md | limiting belief | 1 |
+| glossary/misc-dl/G_yt_m8HnBWyTKlo_en.md | retention | 1 |
+| glossary/misc-dl/G_yt_m8Q-zNGb4QI_en.md | replaceable | 1 |
+| glossary/misc-dl/G_yt_m8aYUOn4fEc_en.md | color | 1 |
+| glossary/misc-dl/G_yt_m8cn7udj8R4_en.md | audience | 1 |
+| glossary/misc-dl/G_yt_m9CLnBL1s7Q_en.md | normalize | 1 |
+| glossary/misc-dl/G_yt_m9Ku88nyRlU_en.md | chant | 1 |
+| glossary/misc-dl/G_yt_m9z0IDwYpMU_en.md | offer | 1 |
+| glossary/misc-dl/G_yt_mAQlwYZ2Is0_en.md | retainer | 1 |
+| glossary/misc-dl/G_yt_mC2o1Fm6Zxc_en.md | pain | 1 |
+| glossary/misc-dl/G_yt_mD434d7Si7A_en.md | rectangle tool | 1 |
+| glossary/misc-dl/G_yt_mDSFQiWyLr8_en.md | hard decisions | 1 |
+| glossary/misc-dl/G_yt_mEWQ1qthlYg_en.md | car | 1 |
+| glossary/misc-dl/G_yt_mElvY9TTwpo_en.md | artificial intelligence | 1 |
+| glossary/misc-dl/G_yt_mGCWSGoiKss_en.md | media buyer | 1 |
+| glossary/misc-dl/G_yt_mGjTgd4nu4g_en.md | isometric | 1 |
+| glossary/misc-dl/G_yt_mGueKR-jlHY_en.md | mentor | 1 |
+| glossary/misc-dl/G_yt_mIXPOnoRx6Y_en.md | infrastructure | 1 |
+| glossary/misc-dl/G_yt_mIYQROGFGHU_en.md | newsletter | 1 |
+| glossary/misc-dl/G_yt_mJvv0TOaam8_en.md | lesson | 1 |
+| glossary/misc-dl/G_yt_mKSCF1_XOys_en.md | garbage | 1 |
+| glossary/misc-dl/G_yt_mL77K9ioMYE_en.md | business email | 1 |
+| glossary/misc-dl/G_yt_mLa7vSr63gc_en.md | anchor points | 1 |
+| glossary/misc-dl/G_yt_mLcxXM5Dhbs_en.md | account | 1 |
+| glossary/misc-dl/G_yt_mMpg7W7Hiug_en.md | ideal customer | 1 |
+| glossary/misc-dl/G_yt_mMsWQ1yM3Vw_en.md | prompt | 1 |
+| glossary/misc-dl/G_yt_mMy8vhhOY4s_en.md | funnel | 1 |
+| glossary/misc-dl/G_yt_mNNrENDutXw_en.md | graphic design | 1 |
+| glossary/misc-dl/G_yt_mNeLpRWBvkk_en.md | logo | 1 |
+| glossary/misc-dl/G_yt_mOAm3xsojto_en.md | service delivery | 1 |
+| glossary/misc-dl/G_yt_mOFJLBV0LbM_en.md | dip | 1 |
+| glossary/misc-dl/G_yt_mOd-cL-WZ58_en.md | intentionality | 1 |
+| glossary/misc-dl/G_yt_mPMSGwbx75Q_en.md | trust deficit | 1 |
+| glossary/misc-dl/G_yt_mPX63gC7nK4_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_mQfXh-RUncw_en.md | scalable | 1 |
+| glossary/misc-dl/G_yt_mRNpSBudzAY_en.md | conference kit | 1 |
+| glossary/misc-dl/G_yt_mRRN8-iDRbc_en.md | grades | 1 |
