@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [client acquisition, 10feetstudios account context]
+aka: [client acquisition]
 origin: sources/S_ig_10feetstudios_C_BpY5quqSq.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_10feetstudios_C_BpY5quqSq.md
 
 ## Term
 
-"client acquisition" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: actually, struggling, acquisition, problem. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Client acquisition is the foundation the speaker says struggling agencies misunderstand: they copy methods from different people — a YouTube method here, another there — without understanding the concept itself. The phrase appears twice, beside "concept" and "foundation", and his test is empathy: imagine you are your ideal prospect with a specific pain point, and ask how you would want to be approached — by someone trustworthy, reaching out proactively, already giving solutions for free. That person is someone you would want to converse with, because free value that already solves problems implies more value in working together.
 
 ## Synonyms
 
-- client acquisition
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm not saying that taking inspiration from others who have systems that already work is a wrong thing." — sources/S_ig_10feetstudios_C_BpY5quqSq.md
-> "That is somebody you would like to conversate with because you understand that this person has something that is of value for you." — sources/S_ig_10feetstudios_C_BpY5quqSq.md
+> "Understand the concept of client acquisition first." — sources/S_ig_10feetstudios_C_BpY5quqSq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "client acquisition": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "any outreach method works if copied well": copying a system without turning your brain on is exactly the failure he describes.
+- Read as "cold DMs are the problem": the problem is running around testing methods without a foundation, not any single channel.

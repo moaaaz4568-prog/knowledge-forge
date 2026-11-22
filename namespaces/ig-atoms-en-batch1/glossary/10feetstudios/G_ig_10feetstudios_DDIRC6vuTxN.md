@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [know, 10feetstudios account context]
+aka: [ICP]
 origin: sources/S_ig_10feetstudios_DDIRC6vuTxN.md
 ---
 
-# G_ig_10feetstudios_DDIRC6vuTxN — know
+# G_ig_10feetstudios_DDIRC6vuTxN — ICP
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 11 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, matt, want, work. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+ICP is the first of two foundation pieces the speaker says an agency needs before any script can book calls: knowing exactly who you are trying to work with. The abbreviation appears once, beside "foundation" and "specifically", and he stresses it is not the niche — it is the people in the niche: their problems, desires, daily thoughts, feelings about their business, and what they want from their business and their lives. His demonstration is a message to "Matt" that names the prospect's exact situation — stuck below five figures, no clarity on what to work on — to show that knowing the person makes them listen.
 
 ## Synonyms
 
-- know
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You don't even know what specifically to offer to get your clients amazing results. Now, I know that you want to scale this agency to be able to have a better lifestyle for yourself and also help your parents and, you know, give back to your family and the loved ones around you." — sources/S_ig_10feetstudios_DDIRC6vuTxN.md
+> "Well, there's two things that go into this, and without these two, it's incredibly hard to book any sales calls, even if your script is the best in the world. The first one is your ICP." — sources/S_ig_10feetstudios_DDIRC6vuTxN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "pick a niche": he explicitly corrects that reading — niche is not enough; the ICP is the specific people inside it.
+- Read as a persona document: the ICP here is working knowledge you speak from, not a slide — the test is whether your message describes the prospect's day.

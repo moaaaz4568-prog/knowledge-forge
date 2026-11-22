@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [actually, 10feetstudios account context]
+aka: [low ticket clients]
 origin: sources/S_ig_10feetstudios_DGq4ODjNGQn.md
 ---
 
-# G_ig_10feetstudios_DGq4ODjNGQn — actually
+# G_ig_10feetstudios_DGq4ODjNGQn — low ticket clients
 
 ## Term
 
-"actually" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: results, thing, always, worse. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Low ticket clients are clients paying under a thousand bucks a month, and the speaker says signing them is stupid: they always get worse results, and you do them a disservice by not charging more. The phrase appears once, beside "thousand bucks" and "worse results", and the mechanism is investment — clients who pay nothing or close to nothing are not invested, do not take the agency seriously, and move slowly on what the agency needs from them, like recording content. His remedy is a standard: charge what it actually takes to deliver incredible results, and if a client cannot pay that, get more qualified calls booked instead of working with anybody.
 
 ## Synonyms
 
-- actually
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And here's the thing, they actually always get worse results and you're doing them a disservice by not charging more." — sources/S_ig_10feetstudios_DGq4ODjNGQn.md
+> "Signing up low ticket clients is stupid. Please stop doing that." — sources/S_ig_10feetstudios_DGq4ODjNGQn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "actually": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as contempt for small clients: the argument is about the client's outcome — underpaying clients get worse results — not about their worth.
+- Read as "raise prices and keep everyone": he explicitly says to turn away clients who cannot pay, and replace them with qualified calls.

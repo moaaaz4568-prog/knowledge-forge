@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [selling, 10feetstudios account context]
+aka: [price comparison]
 origin: sources/S_ig_10feetstudios_DH35_Q4taTi.md
 ---
 
-# G_ig_10feetstudios_DH35_Q4taTi — selling
+# G_ig_10feetstudios_DH35_Q4taTi — price comparison
 
 ## Term
 
-"selling" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: deliverables, right, thing, started. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Price comparison is what the speaker says every sales call became when he sold deliverables: prospects pulled out calculators, broke three thousand dollars for thirty videos down to a hundred bucks per video, and asked "can we do this cheaper?" The phrase appears once, beside "hundred bucks per video" and "cheaper", and the shift that fixed it was selling the outcome instead of the deliverables — a system to generate more leads, book appointments, and get sales, with content and editing as one part of it. The result was a higher close rate and mostly gone objections, and his warning is that selling video editing and deliverables in 2025 leaves an agency unable to scale.
 
 ## Synonyms
 
-- selling
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "My close rate shot up, and those annoying objections were mostly gone. If you are still selling video editing and deliverables in twenty twenty five, you are going to have a very hard time scaling." — sources/S_ig_10feetstudios_DH35_Q4taTi.md
+> "And every single sales call turned into a price comparison, and I kept hearing, let me think about it, can we do this cheaper?" — sources/S_ig_10feetstudios_DH35_Q4taTi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "selling": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "never mention price": the fix is selling the system and its outcome, not hiding the price — the comparison stops because the offer is no longer comparable per video.
+- Read as "deliverables don't matter": content and editing stay inside the system; they stop being the thing being sold.

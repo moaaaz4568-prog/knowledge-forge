@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [clients, 10feetstudios account context]
+aka: [operations manager]
 origin: sources/S_ig_10feetstudios_DEqPxcCujrA.md
 ---
 
-# G_ig_10feetstudios_DEqPxcCujrA — clients
+# G_ig_10feetstudios_DEqPxcCujrA — operations manager
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: results, reason, leaving, able. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An operations manager is the speaker's remedy for the third reason clients leave: too many clients and service delivery breaking apart — slow replies and mistakes. The phrase appears once, beside "service delivery" and "breaking apart", and it completes a trio of churn causes: over-promising to get the sale (fix it with realistic expectations), no tangible results after three to four months (fix the offer), and delivery collapsing under volume. The hire is presented as the point where the owner stops being the bottleneck: too many clients is a capacity problem, and the manager is the capacity.
 
 ## Synonyms
 
-- clients
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In that case, they deserve to leave you and you need to fix your offer. And lastly, you have too many clients and your service delivery is breaking apart, meaning you're taking too long to get back to them and making mistakes. In that case, it's probably time to hire an operations manager. In short, it provides tons of value on an ongoing basis." — sources/S_ig_10feetstudios_DEqPxcCujrA.md
+> "In that case, it's probably time to hire an operations manager." — sources/S_ig_10feetstudios_DEqPxcCujrA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the first hire for retention: it is the third fix, for the specific case of overload — the other two causes need expectation-setting and a better offer, not a manager.
+- Read as "hire your way out of bad delivery": the manager fixes capacity; it does not fix an offer that produces no results.

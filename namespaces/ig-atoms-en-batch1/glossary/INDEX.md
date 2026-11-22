@@ -4,56 +4,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/10feetstudios/G_ig_10feetstudios_C5mCZ5hLSLp.md | percent | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6Pa6teNRom.md | content agency | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6SBdSaNXh5.md | service delivery | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6ZjwQHiYd7.md | clients | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6j4YaUrHV3.md | prospects | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6pB41lLSgM.md | people | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6uOw8Cr2QK.md | need | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C6zYJH4r42A.md | service delivery | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7CwJl7rmJM.md | people | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7M_KVCtp91.md | know | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7SPIJVtfJi.md | month | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7ZbOe_Nnot.md | really | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7kOliRNbY5.md | business | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C7uYngrN-R3.md | really | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C8IK4GKtkex.md | business | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C8NZ5Bot689.md | service delivery | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C8SfjBENZkC.md | make sure | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C8psWQqNzpH.md | cheaper | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C9Im9JTNXAF.md | editing | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C9f2W19Nw9m.md | clients | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C9iWQn_OTns.md | sales calls | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C9ky4eatKBz.md | money | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C9sZ-YjNmDS.md | clients | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_C_BpY5quqSq.md | client acquisition | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_C_GxmHcuBdw.md | clients | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DA62FWTtdyG.md | cold DMs | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DA_iusAuXfw.md | content | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DB1z2qwOVVQ.md | content agency | 2 |
+| glossary/10feetstudios/G_ig_10feetstudios_C5mCZ5hLSLp.md | VA | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6Pa6teNRom.md | tangible results | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6SBdSaNXh5.md | done with you | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6ZjwQHiYd7.md | loom reach system | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6j4YaUrHV3.md | give before we ask | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6pB41lLSgM.md | monk mode | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6uOw8Cr2QK.md | follow every single thing | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C6zYJH4r42A.md | client success manager | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7CwJl7rmJM.md | scale fast | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7M_KVCtp91.md | self-made | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7SPIJVtfJi.md | client acquisition system | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7ZbOe_Nnot.md | going all in | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7kOliRNbY5.md | house of cards | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C7uYngrN-R3.md | high retainers | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C8IK4GKtkex.md | lifestyle | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C8NZ5Bot689.md | high ticket retainers | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C8SfjBENZkC.md | funnel breakdown | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C8psWQqNzpH.md | 10x my price | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C9Im9JTNXAF.md | commoditized | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C9f2W19Nw9m.md | capture attention | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C9iWQn_OTns.md | 5 looms a day | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C9ky4eatKBz.md | greedy | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C9sZ-YjNmDS.md | under-promise and over-deliver | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C_BpY5quqSq.md | client acquisition | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_C_GxmHcuBdw.md | client churn | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DA62FWTtdyG.md | personalized video | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DA_iusAuXfw.md | content funnel | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DB1z2qwOVVQ.md | ghosted | 1 |
 | glossary/10feetstudios/G_ig_10feetstudios_DBWpCYvN_iK.md | cold DMs | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DC18eIFtDDy.md | need | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DCCuaXiuaps.md | agency clients | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DCm4BCNOQiY.md | content | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DCsDggFO3iF.md | month | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DDAUM2LNVqD.md | emotions | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DDIRC6vuTxN.md | know | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DDXq-aTOQxB.md | looms | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DDpcp2oNS9B.md | gonna | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DC18eIFtDDy.md | two hands and a brain | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DCCuaXiuaps.md | Sort Reels | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DCm4BCNOQiY.md | content funnels | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DCsDggFO3iF.md | hybrid offer | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DDAUM2LNVqD.md | use data, not emotions | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DDIRC6vuTxN.md | ICP | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DDXq-aTOQxB.md | loomsetters | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DDpcp2oNS9B.md | 10k | 1 |
 | glossary/10feetstudios/G_ig_10feetstudios_DE0AsvQNFZx.md | true freedom | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DEqPxcCujrA.md | clients | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DG6FYTkNs8Y.md | actually | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DGbDozkt5Hy.md | dollars online | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DGi4RKdNdyp.md | blame | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DGq4ODjNGQn.md | actually | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DH35_Q4taTi.md | selling | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DHWxMVINued.md | stuff like | 1 |
-| glossary/10feetstudios/G_ig_10feetstudios_DH_U9uHtZ23.md | actually | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DHb0GXHt_eC.md | really gonna | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DHom1WSNhhA.md | sales | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DIElJtUtIgA.md | actually | 2 |
-| glossary/10feetstudios/G_ig_10feetstudios_DIKCbnANuC8.md | content | 2 |
+| glossary/10feetstudios/G_ig_10feetstudios_DEqPxcCujrA.md | operations manager | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DG6FYTkNs8Y.md | 400 days in a row | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DGbDozkt5Hy.md | side hustles | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DGi4RKdNdyp.md | accountability | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DGq4ODjNGQn.md | low ticket clients | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DH35_Q4taTi.md | price comparison | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DHWxMVINued.md | being productive | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DH_U9uHtZ23.md | SOPs | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DHb0GXHt_eC.md | miserable uncle | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DHom1WSNhhA.md | close rate | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DIElJtUtIgA.md | paid ads | 1 |
+| glossary/10feetstudios/G_ig_10feetstudios_DIKCbnANuC8.md | hybrid offer | 1 |
 | glossary/10feetstudios/G_ig_10feetstudios_DIWUUM1tlJ8.md | because | 2 |
 | glossary/10feetstudios/G_ig_10feetstudios_DJgCtiOtBv5.md | know | 2 |
 | glossary/10feetstudios/G_ig_10feetstudios_DJpPE4Qt1kl.md | computer | 1 |

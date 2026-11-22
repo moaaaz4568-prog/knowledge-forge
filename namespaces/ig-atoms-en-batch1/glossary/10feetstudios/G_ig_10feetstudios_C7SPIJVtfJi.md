@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [month, 10feetstudios account context]
+aka: [client acquisition system]
 origin: sources/S_ig_10feetstudios_C7SPIJVtfJi.md
 ---
 
-# G_ig_10feetstudios_C7SPIJVtfJi — month
+# G_ig_10feetstudios_C7SPIJVtfJi — client acquisition system
 
 ## Term
 
-"month" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: past, 10k, agency, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A client acquisition system is one of three things the speaker says would let an agency scale past 10k a month far faster: a really good offer, a proven client acquisition system, and knowing how to get clients results every single time. The phrase appears once, beside "offer" and "get clients results", and his own example is the shift from freelancing — where he peaked at 1 to 2k a month — to past 10k a month in six weeks once he invested in knowledge and mentorship. Most of the year people spend scaling, he argues, goes to making mistakes and slowly improving the offer, service delivery, and acquisition process.
 
 ## Synonyms
 
-- month
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you would have a really good offer, a proven client acquisition system, and knew how to get clients results every single time, you'd scale past that 10k a month way faster. For example, I was a freelancer for a long time and the most I ever hit was like 1 to 2k a month. Once I invested into knowledge and mentorship, I scaled past 10k a month in six weeks." — sources/S_ig_10feetstudios_C7SPIJVtfJi.md
+> "If you would have a really good offer, a proven client acquisition system, and knew how to get clients results every single time, you'd scale past that 10k a month way faster." — sources/S_ig_10feetstudios_C7SPIJVtfJi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a script or template: he names it as a proven system alongside the offer and the delivery, not as a single message.
+- Read as a shortcut past the offer: the system is listed second, after a really good offer — without the offer it does not produce the speed he claims.

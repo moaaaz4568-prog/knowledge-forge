@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [business, 10feetstudios account context]
+aka: [house of cards]
 origin: sources/S_ig_10feetstudios_C7kOliRNbY5.md
 ---
 
-# G_ig_10feetstudios_C7kOliRNbY5 — business
+# G_ig_10feetstudios_C7kOliRNbY5 — house of cards
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: actually, good, destroy, long. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A house of cards is the speaker's image for an agency built on short-term revenue: chasing quick cash grabs and selling clients bullshit builds something that can fail in an instant. The phrase appears once, beside "quick cash grabs" and "short-term revenue", and the mistake he names is one he made himself — focusing on short-term revenue while neglecting a business that is actually good long-term. The damage is not only commercial: he says you don't feel great running it and don't feel proud of what you are doing, which is why he would rather build slowly a sustainable business that gets client results.
 
 ## Synonyms
 
-- business
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I want to tell you about it so you don't make it because it will destroy your business in the long term and also make your life kind of miserable." — sources/S_ig_10feetstudios_C7kOliRNbY5.md
-> "Plus you don't really feel that great about running the business. You don't feel proud about what you're doing. So I'd rather take it slow and build an actually good sustainable business that is getting client results than just selling some bullshit to make some money quickly." — sources/S_ig_10feetstudios_C7kOliRNbY5.md
+> "And what happens when you always go for the quick cash grabs and you sell your clients some bullshit is that you build a house of cards." — sources/S_ig_10feetstudios_C7kOliRNbY5.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "never take quick money": the warning is about building the whole business on quick grabs, not about any single fast sale.
+- Read as slow growth for its own sake: slow is justified here by sustainability and client results, not by caution alone.

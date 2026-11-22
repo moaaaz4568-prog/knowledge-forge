@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [blame, 10feetstudios account context]
+aka: [accountability]
 origin: sources/S_ig_10feetstudios_DGi4RKdNdyp.md
 ---
 
-# G_ig_10feetstudios_DGi4RKdNdyp — blame
+# G_ig_10feetstudios_DGi4RKdNdyp — accountability
 
 ## Term
 
-"blame" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: something, job, family, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Accountability is the speaker's single biggest reason people fail in business: the lack of it. The word appears once, in "because of a lack of accountability", beside "fail in business" and "blame". His argument is that there is always something else to blame — the job, the family, the lack of time, or a method like cold outreach that "doesn't work anymore" — but at some point you have to realize it is you and only you. The same fact is freeing, he says: you are the person in charge, so if you are not making the money you want, it is your fault — and you are also the person who can change it.
 
 ## Synonyms
 
-- blame
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Okay, you are to blame, but you are also the person that can change things. So if you're currently in a position where you aren't yet making the money that you want to be making, then it's your fault. So go fix it." — sources/S_ig_10feetstudios_DGi4RKdNdyp.md
+> "Hear me out. The single biggest reason why people like you fail in business is because of a lack of accountability." — sources/S_ig_10feetstudios_DGi4RKdNdyp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "blame": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "methods never matter": the method can be wrong, but he treats blaming it as the excuse that stops the owner from changing.
+- Read as self-blame for its own sake: accountability here is the lever — recognizing you are the cause is what makes you able to fix it.

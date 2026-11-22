@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [make sure, 10feetstudios account context]
+aka: [funnel breakdown]
 origin: sources/S_ig_10feetstudios_C8SfjBENZkC.md
 ---
 
-# G_ig_10feetstudios_C8SfjBENZkC — make sure
+# G_ig_10feetstudios_C8SfjBENZkC — funnel breakdown
 
 ## Term
 
-"make sure" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sure, come, make, across. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A funnel breakdown is the valuable thing the speaker creates for a prospect: a full walkthrough of every step from getting attention to converting that attention into revenue for them. The phrase appears once, beside "valuable" and "personalized video", and the delivery matters — it goes in a personalized video recorded specifically for them, sent by email and every other platform gathered, with the speaker coming across genuine and not there to sell. The response he wants is curiosity: leads come back wanting a call to learn more, or asking questions, and he refuses to answer the question — he books the call instead.
 
 ## Synonyms
 
-- make sure
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Next you need to collect their emails and any other socials that are currently active on like Instagram, Twitter, whatever else." — sources/S_ig_10feetstudios_C8SfjBENZkC.md
-> "And the leads will either come back to you wanting to book a call because they want to learn more about what you just presented or they're going to come back asking more questions and now you got them curious." — sources/S_ig_10feetstudios_C8SfjBENZkC.md
+> "So oftentimes I just like to do a full funnel breakdown for them so every single step from getting attention to actually converting attention into revenue for them." — sources/S_ig_10feetstudios_C8SfjBENZkC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make sure": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a free audit anyone can copy: the breakdown is personalized per lead and delivered as a Loom-style video; a generic template is not what he describes.
+- Read as the sale itself: the breakdown only earns the call — the close happens on the call, after curiosity.

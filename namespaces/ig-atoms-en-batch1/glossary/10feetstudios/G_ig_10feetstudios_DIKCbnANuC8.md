@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [content, 10feetstudios account context]
+aka: [hybrid offer]
 origin: sources/S_ig_10feetstudios_DIKCbnANuC8.md
 ---
 
-# G_ig_10feetstudios_DIKCbnANuC8 — content
+# G_ig_10feetstudios_DIKCbnANuC8 — hybrid offer
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: agency, owners, offering, becoming. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The hybrid offer is the speaker's named system for 2025: content plus paid traffic plus appointment setting, built because content alone stopped moving anything. The phrase appears once, in "I called it the hybrid offer", beside "paid traffic" and "appointment setting". The division of labor is precise — paid for reach and leads, organic for trust, appointment setting to convert — and the effect he reports is measurable results, clients who stuck around, and standing out from agencies offering content packages. His verdict on the old model is final: selling only content in 2025 means getting ghosted, undercut, and replaced.
 
 ## Synonyms
 
-- content
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I actually used to do the same thing and clients liked the content, but nothing really moved. No leads, no sales, and eventually they would leave, saying things like" — sources/S_ig_10feetstudios_DIKCbnANuC8.md
-> "Paid for reach and leads, organic for trust and appointment setting to convert. Suddenly results became measurable, clients stuck around, and I stood out from all of the other content agency owners that are offering content packages. So if you're only offering content in 2025, you're done. It's over for you. You'll keep getting ghosted, undercut, and replaced." — sources/S_ig_10feetstudios_DIKCbnANuC8.md
+> "So I built a system that combines content, paid traffic, and appointment setting, and I called it the hybrid offer." — sources/S_ig_10feetstudios_DIKCbnANuC8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the same hybrid offer as his other video: this one is a named system for clients (content + paid + setting), not the agency's own offer restructure — the name recurs, the system differs.
+- Read as "add ads to content packages": the package model itself is what he says is done — the hybrid offer replaces selling content, it does not dress it up.

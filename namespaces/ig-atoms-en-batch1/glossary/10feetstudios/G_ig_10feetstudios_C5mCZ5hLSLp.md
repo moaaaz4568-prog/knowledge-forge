@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [percent, 10feetstudios account context]
+aka: [VA]
 origin: sources/S_ig_10feetstudios_C5mCZ5hLSLp.md
 ---
 
-# G_ig_10feetstudios_C5mCZ5hLSLp — percent
+# G_ig_10feetstudios_C5mCZ5hLSLp — VA
 
 ## Term
 
-"percent" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: delegate, ninety, shit, spend. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this short clip, VA is the first hire the speaker prescribes for a business owner drowning in admin: write out every daily to-do task, then hand ninety percent of it to a VA. The word appears once, beside "delegate ninety percent of that shit" and "admin tasks", and the point is role, not headcount — the VA takes the work the owner should never touch. He frames it as the move that separates an owner from someone spending eighty percent of their time on admin: delegate the tasks, keep the business.
 
 ## Synonyms
 
-- percent
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_10feetstudios_C5mCZ5hLSLp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "percent": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as hiring anyone cheap to do chores: the VA here is specifically for the admin tasks the owner listed first, not general help.
+- Read as permission to delegate everything: he caps it at ninety percent, and the owner still writes the task list themselves.

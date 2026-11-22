@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [really, 10feetstudios account context]
+aka: [high retainers]
 origin: sources/S_ig_10feetstudios_C7uYngrN-R3.md
 ---
 
-# G_ig_10feetstudios_C7uYngrN-R3 — really
+# G_ig_10feetstudios_C7uYngrN-R3 — high retainers
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: really, good, results, competently. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+High retainers are what the speaker says an agency cannot charge while its offer is weak: clients leave after a couple of months because the agency offers only videos and edits — replaceable work — and cannot show tangible results. The phrase appears once, in "you can't really charge them high retainers anyway", beside "tangible results" and "leave". His fix is an offer that makes clients more money: he says he recorded a video about the best offer to use now, and the test is whether the agency can say it will work for three months and make 20K in recurring revenue.
 
 ## Synonyms
 
-- really
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And if you do not feel comfortable in saying something like that because you're not confident in your ability to deliver, then I want to help you out because I've just been in a video going over the best offer that you can use now to actually make your clients more money and get them really really really good results competently. Just comment the word offer and I'll send it over to you." — sources/S_ig_10feetstudios_C7uYngrN-R3.md
+> "Look, your agency offers shit, you can't get your client tangible results, they'll leave me after a couple of months and you can't really charge them high retainers anyway." — sources/S_ig_10feetstudios_C7uYngrN-R3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a pricing problem: the sentence ties the retainer ceiling to the offer's weakness, not to the price itself.
+- Read as "raise prices and clients stay": higher retainers without tangible results is exactly the setup he says ends in clients leaving.

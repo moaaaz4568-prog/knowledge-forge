@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [cold DMs, 10feetstudios account context]
+aka: [cold DMs]
 origin: sources/S_ig_10feetstudios_DBWpCYvN_iK.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_10feetstudios_DBWpCYvN_iK.md
 
 ## Term
 
-"cold DMs" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dms, cold, right, much. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Cold DMs are the outreach method the speaker says to stop using: they are hard to stand out in, get super low response rates, and burn through leads by the thousand. The phrase appears three times, beside "stand out" and "response rates", and the contrast is his own secret outreach strategy — a full breakdown he offers for free — which he used to scale his own agency to 20k a month in four months. He adds a social cost: people treat you badly in DMs anyway, which is one more reason the channel is a poor place to build an agency's pipeline.
 
 ## Synonyms
 
-- cold DMs
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_10feetstudios_DBWpCYvN_iK.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cold DMs": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "outreach itself is bad": he replaces cold DMs with a different outreach strategy, not with waiting for referrals.
+- Read as "DMs fail because of volume": the problem he names is standing out and response rates — sending more of the same DMs is what burns the leads.

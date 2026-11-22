@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [agency clients, 10feetstudios account context]
+aka: [Sort Reels]
 origin: sources/S_ig_10feetstudios_DCCuaXiuaps.md
 ---
 
-# G_ig_10feetstudios_DCCuaXiuaps — agency clients
+# G_ig_10feetstudios_DCCuaXiuaps — Sort Reels
 
 ## Term
 
-"agency clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, clients, agency, look. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Sort Reels is the Chrome extension the speaker uses in step two of his three-step trick for making any video go viral: it sorts a competitor's recent reels by most viewed and exports the list. The name appears once, beside "Chrome extension" and "competitors", and the workflow is to list five competitors who are crushing it, pull their most-viewed reels, then download some to analyze structural patterns — topics, hooks, video length, average cut rate — and replicate the most viral videos with your own touch. His framing number is 1.7 billion views generated for one agency client, which he puts in perspective as a million-view video every day for almost five years.
 
 ## Synonyms
 
-- agency clients
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Most people don't understand how much that really is, so just to put it into perspective, it's like posting a video with over a million views every single day for almost five years straight." — sources/S_ig_10feetstudios_DCCuaXiuaps.md
-> "Now you can find structural patterns that most of your competitors' viral videos have in common. For example, the topics, the hooks, the video length, or even the average cut rate. Then you can take all of this to replicate the most viral videos while putting your own touch on it. Look, just comment viral and I will send you a way more in-depth breakdown on all of this." — sources/S_ig_10feetstudios_DCCuaXiuaps.md
+> "Then second, get this Chrome extension here called Sort Reels." — sources/S_ig_10feetstudios_DCCuaXiuaps.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "agency clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a virality guarantee: the extension only surfaces proven ideas; the replication and the creator's own touch still have to work.
+- Read as copying competitors: he says to replicate the viral patterns while putting your own touch on it, not to repost their videos.

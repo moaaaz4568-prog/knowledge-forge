@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [looms, loom]
+aka: [loomsetters]
 origin: sources/S_ig_10feetstudios_DDXq-aTOQxB.md
 ---
 
-# G_ig_10feetstudios_DDXq-aTOQxB — looms
+# G_ig_10feetstudios_DDXq-aTOQxB — loomsetters
 
 ## Term
 
-"looms" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: day, loom, outresystem, actually. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Loomsetters are the hired recorders in the speaker's plan for scaling Loom outreach without paid ads: once your own Looms hit at least one high ticket retainer sale per 100 sent, hire people to record them for you. The word appears once, beside "100 looms" and "high ticket retainer", and the pay he names is 50 bucks per appointment set plus 5% commission on sales. The scale he sketches is three to four loomsetters sending about 30 Looms a day each — 100 a day in total, which at his rate equals one high ticket sale per day — and the reason he avoids ads is twofold: ads are risky on an unproven offer (under $100,000 sold) and cost thousands a month in spend.
 
 ## Synonyms
 
-- looms
-- loom (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So you're getting at least one high ticket retainer cell per 100 looms sent. Then you hire loomsetters who record these looms for you." — sources/S_ig_10feetstudios_DDXq-aTOQxB.md
+> "Then you hire loomsetters who record these looms for you." — sources/S_ig_10feetstudios_DDXq-aTOQxB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "looms": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "hire setters first": the hire comes only after your own Looms prove the KPI — one sale per 100 sent.
+- Read as "ads never work": he says ads work and he uses them; the objection is to running them on an unproven offer at high spend.

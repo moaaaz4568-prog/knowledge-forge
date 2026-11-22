@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [clients, 10feetstudios account context]
+aka: [loom reach system]
 origin: sources/S_ig_10feetstudios_C6ZjwQHiYd7.md
 ---
 
-# G_ig_10feetstudios_C6ZjwQHiYd7 — clients
+# G_ig_10feetstudios_C6ZjwQHiYd7 — loom reach system
 
 ## Term
 
-"clients" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sign, high, ticket, kind. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The loom reach system is the speaker's named outreach method for signing high ticket dream clients with millions of followers: a three-minute personalized Loom video embedded as a GIF in an email. The phrase appears once, and the two steps are recording the value-packed video — a strategy the prospect could use without hiring him — then embedding it so prospects actually see it. His evidence is his own numbers: 693 sent, 31 clients closed, 42,500 in monthly recurring revenue added, which he offers as proof the system works when the scripts for emails, Looms, and follow-ups are right.
 
 ## Synonyms
 
-- clients
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "So I decided to show you my own loom reach system that I use to sign high ticket dream clients with millions of followers consistently for my own content agency." — sources/S_ig_10feetstudios_C6ZjwQHiYd7.md
-> "Look, I personally sent exactly 693 of these, closed 31 clients and added 42,500 in monthly recurring revenue. So I know that these work if you have the right scripts for the emails, the looms and the follow ups. So make sure to follow me here and I'll share the exact scripts that worked for me." — sources/S_ig_10feetstudios_C6ZjwQHiYd7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "clients": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as cold email with a video attached: the video must carry a usable strategy first; a pitch-deck Loom is exactly what he says does not convert.
+- Read as a guaranteed closer: the 31-of-693 result is his own track record, not a promise for any sender.

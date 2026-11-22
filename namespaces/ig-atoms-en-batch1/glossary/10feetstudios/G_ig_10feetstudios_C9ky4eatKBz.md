@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [money, 10feetstudios account context]
+aka: [greedy]
 origin: sources/S_ig_10feetstudios_C9ky4eatKBz.md
 ---
 
-# G_ig_10feetstudios_C9ky4eatKBz — money
+# G_ig_10feetstudios_C9ky4eatKBz — greedy
 
 ## Term
 
-"money" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: take, yourself, focus, instead. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Greedy is the word the speaker uses for what happens after an agency first reaches 10k a month: people feel they can do anything now, chase every funnel and money-making idea, and slide back to zero. The word appears once, in "And they become greedy", beside "so good" and "do anything". His corrective is to keep repeating the actions that scaled the agency and focus on becoming a better person who provides more value to others — the money follows value, while a business built on selling people anything and taking their money churns and does not stand the test of time.
 
 ## Synonyms
 
-- money
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Instead of thinking that you can do anything now and building a funnel here and making money this way, you have that way and trying this, you need to focus on becoming a better person that provides more value to others." — sources/S_ig_10feetstudios_C9ky4eatKBz.md
+> "Now after that, what happens is people feel like, oh, I'm so good. I can literally do anything now. And they become greedy." — sources/S_ig_10feetstudios_C9ky4eatKBz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "ambition is bad": the target is unfocused expansion after first success, not wanting to grow.
+- Read as "ignore money": he says not to focus on the money as the goal; providing value is the mechanism that brings it.

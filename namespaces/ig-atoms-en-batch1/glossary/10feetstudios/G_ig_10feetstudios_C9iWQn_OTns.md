@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [sales calls, 10feetstudios account context]
+aka: [5 looms a day]
 origin: sources/S_ig_10feetstudios_C9iWQn_OTns.md
 ---
 
-# G_ig_10feetstudios_C9iWQn_OTns — sales calls
+# G_ig_10feetstudios_C9iWQn_OTns — 5 looms a day
 
 ## Term
 
-"sales calls" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: calls, sales, take, order. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+5 looms a day is the daily quota the speaker derives for reaching 10k a month in four months: 600 Looms over 120 days produce about 200 conversations, which book 20 sales calls, which close 4 clients at 2,500 a month. The phrase appears twice, beside "600 looms" and "120 days", and the arithmetic is the whole point — 5 a day is the only number to focus on, after building an offer worth at least 25k a month per client and a time window of hard work. He recommends Looms over ads and DMs as the way to start those 200 conversations, offering his own Loom strategy breakdown for the details.
 
 ## Synonyms
 
-- sales calls
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Then set yourself a time window where you're going to work a lot and probably sacrifice more that usually would and focus on hitting your goal." — sources/S_ig_10feetstudios_C9iWQn_OTns.md
-> "You know, ads, DMs, this and that, so many things, but the way I would recommend you to do it is with loops." — sources/S_ig_10feetstudios_C9iWQn_OTns.md
+> "So that's all you got to focus on, 5 looms a day, 10k a month and 4 months from now." — sources/S_ig_10feetstudios_C9iWQn_OTns.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sales calls": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "send 5 Looms and get 10k": the quota assumes the offer, the time window, and the conversion rates (10% of conversations to calls) all hold.
+- Read as a magic number: 5 a day is 600 divided by 120 — change the timeline or the close rate and the quota changes with it.

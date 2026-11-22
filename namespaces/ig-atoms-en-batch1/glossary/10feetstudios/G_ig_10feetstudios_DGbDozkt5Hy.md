@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [dollars online, 10feetstudios account context]
+aka: [side hustles]
 origin: sources/S_ig_10feetstudios_DGbDozkt5Hy.md
 ---
 
-# G_ig_10feetstudios_DGbDozkt5Hy — dollars online
+# G_ig_10feetstudios_DGbDozkt5Hy — side hustles
 
 ## Term
 
-"dollars online" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: first, hundred, thousand, online. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Side hustles are the speaker's evidence that failure is normal: he failed over five of them before making his first hundred thousand dollars online, and still fails pretty much every single week. The phrase appears once, beside "failed" and "five", and the lesson he draws is that the lower the lows, the higher the highs — you need to fail hard and fast, but also keep going, or you miss the highs waiting on the other side. The setup is time passing fast: in the blink of an eye you are 65, and the saddest part is doubting yourself so much you never even try, because you were scared you could fail.
 
 ## Synonyms
 
-- dollars online
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "thousands of dollars online is that The lower the lows the higher the highs you need to feel hard and fast But you also need to keep going because otherwise you'll miss out on the highs that are waiting for you on the other side" — sources/S_ig_10feetstudios_DGbDozkt5Hy.md
+> "And you know what the saddest part is you would have failed anyway because we all fail in fact I failed over five other side hustles before I might my first" — sources/S_ig_10feetstudios_DGbDozkt5Hy.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "dollars online": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "fail as much as possible": the point is failing fast and continuing, not collecting failures — quitting after the lows misses the highs.
+- Read as "side hustles are the path": the five failures are background; the lesson is persistence through them, not starting more of them.

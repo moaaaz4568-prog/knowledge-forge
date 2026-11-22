@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [cold DMs, 10feetstudios account context]
+aka: [personalized video]
 origin: sources/S_ig_10feetstudios_DA62FWTtdyG.md
 ---
 
-# G_ig_10feetstudios_DA62FWTtdyG — cold DMs
+# G_ig_10feetstudios_DA62FWTtdyG — personalized video
 
 ## Term
 
-"cold DMs" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dms, three, cold, copy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A personalized video is the first of three steps in the speaker's outreach system for scaling from 5k to 20k a month in four months: record a three-minute video for a prospect showing exactly how you can help them and provide a ton of value. The phrase appears once, beside "three-minute" and "prospects", and the reason it works is contrast — copy-and-paste cold DMs do not work anymore, while a video made for one person stands out. The next steps are to offer an incentive to reply instead of pitching directly, then book calls easily because prospects already saw how much the agency could help them, using the right scripts for the Loom, the messages, and the follow-ups.
 
 ## Synonyms
 
-- cold DMs
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "First, record a three-minute personalized video for your prospects showing them exactly how you can help them and provide a ton of value." — sources/S_ig_10feetstudios_DA62FWTtdyG.md
-> "From here, it's super easy to book calls because your prospects already saw how much you could help them. This works incredibly well and your sales calendar will be booked full if you use the right scripts for the loom, the messages, and the follow-ups. So make sure to drop me a follow and I'll send those exact scripts to you." — sources/S_ig_10feetstudios_DA62FWTtdyG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cold DMs": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "any video works": the video must be personalized and show how you can help that specific prospect; a generic video is the cold DM with a thumbnail.
+- Read as the pitch: he explicitly says not to pitch directly in the video — the pitch is replaced by an incentive to reply.

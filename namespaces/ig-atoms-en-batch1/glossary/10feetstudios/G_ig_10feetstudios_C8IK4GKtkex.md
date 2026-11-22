@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: 10feetstudios
-aka: [business, 10feetstudios account context]
+aka: [lifestyle]
 origin: sources/S_ig_10feetstudios_C8IK4GKtkex.md
 ---
 
-# G_ig_10feetstudios_C8IK4GKtkex — business
+# G_ig_10feetstudios_C8IK4GKtkex — lifestyle
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the 10feetstudios account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: build, because, goals, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Lifestyle is the constraint the speaker puts before business goals: figure out your life goals first, then build a business that supports them. The word appears three times, twice in "support your lifestyle" and once in "doesn't support your lifestyle", beside "life goals" and "business goals". His warning is concrete — a business that makes money but leaves you answering client questions all day and annoyed by it is one you will end up restructuring because you built something shitty you don't want to run. The fix is to decide what you want your life to look like first, and build the business around that from the very beginning.
 
 ## Synonyms
 
-- business
-- 10feetstudios account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "This might not make that much sense to you right now, but you will regret building a business that just makes your money but doesn't support your lifestyle." — sources/S_ig_10feetstudios_C8IK4GKtkex.md
-> "You don't want to just get a bunch of clients quickly and generally a lot of revenue and then you find yourself restructuring the whole business because you build something that's shitty that you don't want to run. So my advice to you is, sit down first, figure out what you really want your life to look like and then build a business according to that from the very beginning." — sources/S_ig_10feetstudios_C8IK4GKtkex.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as "lifestyle business means working little": the point is fit between business and life, not hours — he still expects a hard building period.
+- Read as "money doesn't matter": he says you can make the money you want without compromising lifestyle; the claim is about order, not about giving up income.
