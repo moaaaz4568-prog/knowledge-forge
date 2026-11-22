@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [ads, therealbrianmark account context]
+aka: ["direct DM ads"]
 origin: sources/S_ig_therealbrianmark_DIsH0VoPYxl.md
 ---
 
-# G_ig_therealbrianmark_DIsH0VoPYxl — ads
+# G_ig_therealbrianmark_DIsH0VoPYxl — direct DM ads
 
 ## Term
 
-"ads" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: way, income, improve, running. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Direct DM ads are ads that open a conversation in the direct messages, and Brian Mark says they work better as retargeting than as cold traffic. The phrase appears once, beside retargeting, cold traffic and hot lead, and his reasoning is that people who have never seen the offer are unlikely to arrive as hot leads. His concrete comparison is putting the same ads in front of strangers versus in front of people who already know the offer, where the chance of a hot lead goes down for the strangers.
 
 ## Synonyms
 
-- ads
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "With the way my ads are, my income is growing, and I'm trying to figure out how to improve my ads that I'm running right now. I personally think that direct DM ads are better done as retargeting because, like, if you put them in front of cold traffic people that have never seen your offer before, the chances of them being a hot lead, in my opinion, go down." — sources/S_ig_therealbrianmark_DIsH0VoPYxl.md
+> "I personally think that direct DM ads are better done as retargeting because, like, if you put them in front of cold traffic people that have never seen your offer before, the chances of them being a hot lead, in my opinion, go down." — sources/S_ig_therealbrianmark_DIsH0VoPYxl.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ads": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule that direct DM ads never work on cold traffic: the claim is that the chances of a hot lead go down, not that cold traffic can never convert.
+- Read as a claim about all ads: the comparison is between direct DM ads as retargeting and as cold traffic, and other ad types are never discussed.

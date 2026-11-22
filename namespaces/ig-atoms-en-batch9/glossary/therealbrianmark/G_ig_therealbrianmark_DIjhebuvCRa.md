@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [cent followers, therealbrianmark account context]
+aka: [conversations]
 origin: sources/S_ig_therealbrianmark_DIjhebuvCRa.md
 ---
 
-# G_ig_therealbrianmark_DIjhebuvCRa — cent followers
+# G_ig_therealbrianmark_DIjhebuvCRa — conversations
 
 ## Term
 
-"cent followers" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: getting, followers, cent, less. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Conversations are the daily DM exchanges an ad has to start, and Brian Mark turns them into the score that decides whether a boosted post is working. The word appears 3 times, beside cold traffic, 50 cent followers and 400 per day, and his rule is that a working ad caps at about 400 conversations started per day. His concrete arithmetic is 400 followers at 50 cents each, $200 a day, $6,000 a month, which is the spend the conversation target implies.
 
 ## Synonyms
 
-- cent followers
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm running cold traffic. I'm boosting posts. I'm getting less than 50 cent followers right now. How many conversations are you starting per day? It's like just right up underneath 400. If you're getting 50 cent followers and you've got an ad that's working, like the max amount of conversations that you'll be able to start on average, it's 400." — sources/S_ig_therealbrianmark_DIjhebuvCRa.md
-> "The game you should be playing, in my opinion, is let's get our conversations started per day, 400 per day. So if you think about getting 50 cent followers, 400 times 0.5, that's 200 bucks a day times 30 days, that's six grand a month." — sources/S_ig_therealbrianmark_DIjhebuvCRa.md
+> "The game you should be playing, in my opinion, is let's get our conversations started per day, 400 per day." — sources/S_ig_therealbrianmark_DIjhebuvCRa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "cent followers": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that 400 conversations a day is achievable for anyone: the cap assumes a working ad already producing 50 cent followers, and a dead ad starts no conversations at all.
+- Read as a spending plan: the $200 a day arithmetic prices the followers, not the clients, so conversations started is not clients signed.

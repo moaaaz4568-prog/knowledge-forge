@@ -1,59 +1,59 @@
 # Index — glossary/ (ig-atoms-en-batch9)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,211 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch9): one G_ entry per T_ atom file — 3,849 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,173 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 177 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIgfCvjxrRh.md | Brian Mark | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIgt96FRUDZ.md | sixty-eight | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIhLSicz_da.md | content | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIhcxAnTMop.md | content | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIiAhVWxYbk.md | consistent | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIjEulRRmJO.md | door-to-door salesman | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIjRUuCpPlG.md | month | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIjhebuvCRa.md | cent followers | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIjtJKlzqqL.md | day | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIkFGU1TiTn.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIkZc2ZPSzz.md | minutes | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIl445uJYPN.md | Yeah | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIlpSBbJKdH.md | one | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DImQN1-zLtD.md | day | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DImfy0ezbZ4.md | challenge | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DImtPvozwlz.md | growing | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DInR3eHRb6F.md | business | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIogQtnJkWN.md | masterclass | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIooKx5pdlU.md | week | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIp1JgMxJv-.md | price | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIpIVjpzHGr.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIr0sJkzvS6.md | fucking | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIrOgxFvq2Q.md | content | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIrmxcQTWbH.md | Number | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIrrn25Tk4V.md | really close | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIsH0VoPYxl.md | ads | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIsXO7zRpQ6.md | Yeah | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DItW_KspLFx.md | creating good | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIt_bbmT6On.md | auntie | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DItfdkDJJoA.md | five | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIttIjkpnZe.md | action | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIu4sR_JlqM.md | recording Ashton | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIul-fcT8Mx.md | free content | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIxJPBYTP23.md | month | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIyhi2JJ78j.md | one | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIyxMixP98q.md | people | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIz2aTbPgmN.md | good | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIzAqG_TLEE.md | Step number | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIzZnoNz2T_.md | stuff | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DIzgNcszMx7.md | love | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ-Ha5xBkn4.md | fitness content | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ-szhVRN3-.md | hook | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ10KJ6pR05.md | fire hydrant | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ1mkuYxbHu.md | every single | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ2NIB0yHHy.md | fitness journey | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ2owjDSgw1.md | because | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4YaKVJeyp.md | different hooks | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4kbB6PEQU.md | ado | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4rL5tSCCX.md | million | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_DJ5CG4DhqTu.md | video | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIgfCvjxrRh.md | ChatGPT prompt | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIgt96FRUDZ.md | sixty-eight k | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIhLSicz_da.md | quality | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIhcxAnTMop.md | social proof | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIiAhVWxYbk.md | consistent | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIjEulRRmJO.md | cold DMs | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIjRUuCpPlG.md | marketer | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIjhebuvCRa.md | conversations | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIjtJKlzqqL.md | online fitness business | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIkFGU1TiTn.md | ROAS | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIkZc2ZPSzz.md | morning routine | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIl445uJYPN.md | closed | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIlpSBbJKdH.md | offer | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DImQN1-zLtD.md | posting twice a day | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DImfy0ezbZ4.md | challenge | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DImtPvozwlz.md | lead flow | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DInR3eHRb6F.md | season | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIogQtnJkWN.md | masterclass | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIooKx5pdlU.md | delivery | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIp1JgMxJv-.md | conviction | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIpIVjpzHGr.md | record-breaking month | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIr0sJkzvS6.md | elevate your position | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIrOgxFvq2Q.md | viral content creator | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIrmxcQTWbH.md | five-step framework | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIrrn25Tk4V.md | pink bunny | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIsH0VoPYxl.md | direct DM ads | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIsXO7zRpQ6.md | avatar | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DItW_KspLFx.md | marketing on lock | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIt_bbmT6On.md | dominant male presence | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DItfdkDJJoA.md | 30-day content strategy | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIttIjkpnZe.md | call to action | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIu4sR_JlqM.md | viral hugging | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIul-fcT8Mx.md | take action | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIxJPBYTP23.md | $70,000 month | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIyhi2JJ78j.md | being yourself | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIyxMixP98q.md | mindset | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIz2aTbPgmN.md | skill acquisition | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIzAqG_TLEE.md | financial qualifier | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIzZnoNz2T_.md | contracted | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DIzgNcszMx7.md | macros | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ-Ha5xBkn4.md | props | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ-szhVRN3-.md | hook | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ10KJ6pR05.md | b roll | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ1mkuYxbHu.md | resting on my laurels | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ2NIB0yHHy.md | DM script | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ2owjDSgw1.md | predictable lead funnel | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4YaKVJeyp.md | different hooks | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4kbB6PEQU.md | chant | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ4rL5tSCCX.md | 800 clients | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_DJ5CG4DhqTu.md | visual hook | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ5bLiDvLky.md | budget | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ6-S9TpmFR.md | own the whole street | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_DJ74mYmygHN.md | matching the energy | 1 |

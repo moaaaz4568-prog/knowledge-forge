@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [different hooks, therealbrianmark account context]
+aka: ["different hooks", hook]
 origin: sources/S_ig_therealbrianmark_DJ4YaKVJeyp.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_therealbrianmark_DJ4YaKVJeyp.md
 
 ## Term
 
-"different hooks" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: two, three, hooks, different. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Different hooks are alternate openings shot for the same video so the creator can test which one holds viewers. The phrase appears 5 times, beside two to three, the studio with the dog and the Delano project, and Brian Mark wants two to three for every video from a five-video shoot done in twenty minutes. His concrete example is a Kelowna apartment hook about housing prices in Canada being absolutely ridiculous, offered as one of several openings for the same studio tour.
 
 ## Synonyms
 
-- different hooks
-- therealbrianmark account context (no variant form of the term appears in this source)
+- hook (singular form, used for a single opening in this source)
 
 ## Live Example
 
-> "How many videos do you think we just got in the last 20 minutes? It was at least five. For each video, I want you to have two to three different hooks. So for the opening video outside, you definitely have two to three different hooks. The studio with the dog, I don't think we have two to three different hooks. We definitely have to go back there to get two to three different hooks." — sources/S_ig_therealbrianmark_DJ4YaKVJeyp.md
-> "Another video we should get two to three different hooks for would be the video at the top of the stairs, the Delano project. So that's another hook we should get at the top of the stairs." — sources/S_ig_therealbrianmark_DJ4YaKVJeyp.md
+> "For each video, I want you to have two to three different hooks." — sources/S_ig_therealbrianmark_DJ4YaKVJeyp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "different hooks": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise that testing hooks finds a winner: two to three openings are shot per video, and the source never shows the test results or which hook won.
+- Read as a rule for every video: the shoot covered five videos in twenty minutes, and a video with no strong angle may have no hook worth testing.

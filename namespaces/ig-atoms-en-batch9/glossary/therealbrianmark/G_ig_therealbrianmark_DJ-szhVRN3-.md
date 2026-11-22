@@ -9,19 +9,17 @@ origin: sources/S_ig_therealbrianmark_DJ-szhVRN3-.md
 
 ## Term
 
-"hook" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: negative, list-based, never, warning. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A hook is the opening line that decides whether a viewer stays, and here Brian Mark names five kinds in one reel. The word appears 5 times, with hooks twice more, beside negative list-based, warning, storytelling and educational, and each kind gets one example line, from getting rich in your twenties to hard financial truths at 54. His concrete offer is a list of 25 hooks for anyone who comments the word hooks, covering the same five kinds.
 
 ## Synonyms
 
-- hook
-- hooks (variant form used in the source)
+- hooks (plural form)
 
 ## Live Example
 
-> "This is a negative list-based hook. You'll never get rich in your twenties unless you do these five things as soon as you get paid. This is a warning hook. Make sure you know this about your bank account if you're married or have a partner. This is a storytelling hook. I always thought buying flowers for my girlfriend was a waste of money. This is a negative hook combined with a solution." — sources/S_ig_therealbrianmark_DJ-szhVRN3-.md
-> "Do not throw away your old Nikes, do this instead. This is an educational hook. I'm 54, and if you're younger than me, here's some really hard financial truths. Comment the word hooks and I'll send you a list of 25 hooks that you can use related to these topics." — sources/S_ig_therealbrianmark_DJ-szhVRN3-.md
+> "This is a negative list-based hook. You'll never get rich in your twenties unless you do these five things as soon as you get paid." — sources/S_ig_therealbrianmark_DJ-szhVRN3-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hook": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete list of hook types: five kinds are named in this reel, and the promised list of 25 hooks may include kinds the reel never names.
+- Read as a promise that naming the kind is enough: each kind gets one example line, and the source never shows whether those lines actually held viewers.

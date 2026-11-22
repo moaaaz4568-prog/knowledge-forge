@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [month, months]
+aka: [marketer]
 origin: sources/S_ig_therealbrianmark_DIjRUuCpPlG.md
 ---
 
-# G_ig_therealbrianmark_DIjRUuCpPlG — month
+# G_ig_therealbrianmark_DIjRUuCpPlG — marketer
 
 ## Term
 
-"month" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: damn, made, first, six. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A marketer here is what an online personal trainer actually is, once the training itself stops being the job: someone who creates content and converts lessons into sales. The word appears once, beside content creator, the blueprint and $10,000 a month within six months, in an interview with a former welder who made $14,000 in a month by the 14th. His concrete advice to viewers who want $15,000 to $20,000 a month is to learn the skills that turn lessons into sales rather than collecting more training knowledge.
 
 ## Synonyms
 
-- month
-- months (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How much money you make as a personal trainer? I'm at $14,000 for the month. It's only the 14th. $14,000 for the month? Damn, what were you doing before online personal training? I was welding and construction. Absolutely hated my job. I got into this, I had no prior experience training in person, and I stumbled upon you guys." — sources/S_ig_therealbrianmark_DIjRUuCpPlG.md
-> "I got the blueprint and I made $10,000 a month within my first six months. Crazy. All right, so people that are watching this right now that want to be making 15 to $20,000 a month, one or two pieces of advice that you would give to them? I'd say you're not a personal trainer, you are a marketer, you're a content creator, and you need to learn these skills to convert your lessons into sales." — sources/S_ig_therealbrianmark_DIjRUuCpPlG.md
+> "I'd say you're not a personal trainer, you are a marketer, you're a content creator, and you need to learn these skills to convert your lessons into sales." — sources/S_ig_therealbrianmark_DIjRUuCpPlG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that training skill does not matter: the point is that training alone does not sell, not that a coach can skip knowing how to train.
+- Read as a job title to adopt overnight: the interviewee learned to convert lessons into sales over six months with a blueprint, not by renaming himself a marketer.

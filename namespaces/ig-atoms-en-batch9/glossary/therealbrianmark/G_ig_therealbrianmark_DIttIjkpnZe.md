@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [action, therealbrianmark account context]
+aka: ["call to action", CTA]
 origin: sources/S_ig_therealbrianmark_DIttIjkpnZe.md
 ---
 
-# G_ig_therealbrianmark_DIttIjkpnZe — action
+# G_ig_therealbrianmark_DIttIjkpnZe — call to action
 
 ## Term
 
-"action" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: call, because, suck, info. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A call to action is the instruction that turns a viewer into a DM, and Brian Mark says weak ones are why a creator gets no DMs. The phrase appears 4 times, beside DM me fat loss, first line of your caption and two story CTAs a week, and his three fixes are to be specific, to place it where people actually see it, and to run story CTAs on Monday and Thursday. His concrete example of a specific call to action is looking for five committed men who want to drop five to 10 pounds of body fat in the next 60 to 90 days, instead of a generic invitation to DM for coaching info.
 
 ## Synonyms
 
-- action
-- therealbrianmark account context (no variant form of the term appears in this source)
+- CTA (the abbreviation Brian Mark uses in this source)
 
 ## Live Example
 
-> "You're not getting DMs because your call to action suck, but here's how to fix it. Number one, be specific as with your call to action. DM me info if you want some coaching is boring. Instead, say I'm looking for five committed men that wanna drop five to 10 pounds of body fat in the next 60 to 90 days. Results are guaranteed. DM me fat loss for info." — sources/S_ig_therealbrianmark_DIttIjkpnZe.md
-> "Number two is to put your call to action where people are actually gonna see it. When you're doing your Instagram reels, it should always be the first line of your caption because when your video pops up on someone else's feed, that's the only thing that they're gonna see right away." — sources/S_ig_therealbrianmark_DIttIjkpnZe.md
-> "When you're doing it on your Instagram stories, you wanna delete all of your stories before you post your call to action so you only have one story up that is your CTA. Number three is to do two story CTAs every single week. One on Monday because when people get off of the weekends is when they feel about their physique, and one on Thursday to evenly space it out throughout the week." — sources/S_ig_therealbrianmark_DIttIjkpnZe.md
+> "You're not getting DMs because your call to action suck, but here's how to fix it." — sources/S_ig_therealbrianmark_DIttIjkpnZe.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "action": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a trick that works even when the offer is weak: the specific call to action names five committed men and a fat-loss goal, and specificity cannot rescue an offer nobody wants.
+- Read as a rule that only placement matters: being specific is fix number one, and a specific call to action buried where nobody sees it still gets no DMs.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [million, therealbrianmark account context]
+aka: ["800 clients"]
 origin: sources/S_ig_therealbrianmark_DJ4rL5tSCCX.md
 ---
 
-# G_ig_therealbrianmark_DJ4rL5tSCCX — million
+# G_ig_therealbrianmark_DJ4rL5tSCCX — 800 clients
 
 ## Term
 
-"million" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: year, track. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+800 clients is the milestone Brian Mark's interviewee has crossed, on track for $2 million in the year. The phrase appears once, beside on track, $2 million and let's go, bruh, in a 25-word celebration with no detail about how the clients were won. His concrete report is the pair of numbers together: eight hundred clients crossed, and a two-million-dollar year in progress.
 
 ## Synonyms
 
-- million
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Crossed 800 clients and on track for $2 million for this year. $2 million for this year? On track for it, yep. Let's go, bruh." — sources/S_ig_therealbrianmark_DJ4rL5tSCCX.md
+> "Crossed 800 clients and on track for $2 million for this year." — sources/S_ig_therealbrianmark_DJ4rL5tSCCX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "million": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a profit figure: eight hundred clients crossed says how many people signed, and the source never says what they paid or what it cost to serve them.
+- Read as a stable client count: the milestone is crossed on the way to a two-million-dollar year, and the source never says how many of the eight hundred stayed.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [auntie, therealbrianmark account context]
+aka: ["dominant male presence"]
 origin: sources/S_ig_therealbrianmark_DIt_bbmT6On.md
 ---
 
-# G_ig_therealbrianmark_DIt_bbmT6On — auntie
+# G_ig_therealbrianmark_DIt_bbmT6On — dominant male presence
 
 ## Term
 
-"auntie" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: uncle, raised, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A dominant male presence is the firm authority Brian Mark wants in a household: an uncle stepping into the hallway to stop a child speaking disrespectfully to his mother. The phrase appears once, beside fear of God, auntie and uncle and a line that you can't cross, and he credits his own upbringing by his auntie and uncle for the view. His concrete memory is yelling at his auntie until his uncle appeared in the hallway asking what he was saying to his wife, which is the presence he says matters.
 
 ## Synonyms
 
-- auntie
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm gonna put the fear of God in my kid though if he ever fucks up. I got raised by my auntie and uncle. Me and my auntie would get into like verbal arguments. Yeah. And then it would get heated and I'd start yelling and I'd just hear my uncle going on the hallway like, what are you saying to my wife?" — sources/S_ig_therealbrianmark_DIt_bbmT6On.md
+> "I think like having that like dominant male presence where you're like, do not speak like this to your mom or whatever is important." — sources/S_ig_therealbrianmark_DIt_bbmT6On.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "auntie": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an endorsement of intimidation: the presence is described as stopping disrespect to a mother, and Brian Mark adds that there is a line that cannot be crossed.
+- Read as a rule for every household: the view comes from his own upbringing by an auntie and uncle, and the source never claims it fits every family.

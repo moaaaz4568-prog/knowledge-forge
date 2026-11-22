@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [month, therealbrianmark account context]
+aka: [ROAS]
 origin: sources/S_ig_therealbrianmark_DIkFGU1TiTn.md
 ---
 
-# G_ig_therealbrianmark_DIkFGU1TiTn — month
+# G_ig_therealbrianmark_DIkFGU1TiTn — ROAS
 
 ## Term
 
-"month" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: six, halfway, three, clients. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+ROAS is return on ad spend, and here it names a single ad performing at twelve times its cost. The term appears once, beside thirty six k for the month, three clients leaving and a YouTube channel that is popping, in a mid-month check-in where the ad is the only performance metric named. His concrete report is one ad with a twelve x ROAS, presented as the bright spot in a month already at $36,000 halfway through.
 
 ## Synonyms
 
-- month
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Well, we are at thirty six k for the month. Halfway. Only three clients have left so far this month, and my YouTube is popping, and one of our ads has like a twelve x ROAS." — sources/S_ig_therealbrianmark_DIkFGU1TiTn.md
+> "and one of our ads has like a twelve x ROAS." — sources/S_ig_therealbrianmark_DIkFGU1TiTn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "month": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim about the whole account: one ad at twelve x ROAS says nothing about the other ads, the spend behind it, or the profit after costs.
+- Read as a stable number: a single mid-month check-in reports the multiple once, and the same ad can fall below twelve x as the audience tires.

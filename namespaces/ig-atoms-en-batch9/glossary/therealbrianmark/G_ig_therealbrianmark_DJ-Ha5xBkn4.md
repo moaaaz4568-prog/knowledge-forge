@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fitness content, therealbrianmark account context]
+aka: [props]
 origin: sources/S_ig_therealbrianmark_DJ-Ha5xBkn4.md
 ---
 
-# G_ig_therealbrianmark_DJ-Ha5xBkn4 — fitness content
+# G_ig_therealbrianmark_DJ-Ha5xBkn4 — props
 
 ## Term
 
-"fitness content" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, fitness, creating, explaining. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Props are physical objects used in a video to entertain the audience, and here the prop is a lion Brian Mark talks to on camera. The word appears once, beside macros, business coaching content and the algorithm, and his point is that nobody wants to sit and watch plain business coaching, so the video has to entertain. His concrete test is the scroll: a viewer seeing a man talking to a lion asks what they are watching, and that confusion is the attention the prop buys.
 
 ## Synonyms
 
-- fitness content
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Nobody wants to sit down and watch business coaching content, so you need to make it entertaining. This is the same thing when you're creating fitness content. Fitness content explaining macros is boring as, so you need to do it in a way that entertains people. So the reason that I'm talking to a lion is when somebody sees that on their algorithm, they're gonna be like, what the am I watching?" — sources/S_ig_therealbrianmark_DJ-Ha5xBkn4.md
+> "So the reason I'm talking to a lion is because using props in your videos to entertain your audience is fun." — sources/S_ig_therealbrianmark_DJ-Ha5xBkn4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fitness content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that any prop works: the lion works because it confuses the scroller, and a prop that fits the topic would not create the same what-am-I-watching reaction.
+- Read as a rule that business content must be silly: the prop is used to entertain while teaching, and the lesson about macros still has to be delivered after the attention is caught.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [love, therealbrianmark account context]
+aka: [macros]
 origin: sources/S_ig_therealbrianmark_DIzgNcszMx7.md
 ---
 
-# G_ig_therealbrianmark_DIzgNcszMx7 — love
+# G_ig_therealbrianmark_DIzgNcszMx7 — macros
 
 ## Term
 
-"love" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: babe, love, good, night. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Macros are the counted nutrients in a diet plan, and here the word lands as a joke at the end of a good-night exchange between partners. The word appears once, beside good night, babe and love you too, baby, and the humor is that affection is being weighed like food against a daily target. The concrete joke is that the partner's good-night affection gets graded against a diet plan, as if love itself had to fit the daily macro target.
 
 ## Synonyms
 
-- love
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Good night, babe. I love you. Love you too, baby. That's not in your macros!" — sources/S_ig_therealbrianmark_DIzgNcszMx7.md
+> "Love you too, baby. That's not in your macros!" — sources/S_ig_therealbrianmark_DIzgNcszMx7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "love": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a diet lesson: the macros line is a joke between partners, and the source teaches nothing about tracking or targets.
+- Read as an insult: the joke lands because love is not in the macros, and the exchange is affectionate, not a complaint about the diet.

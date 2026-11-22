@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [day, days]
+aka: ["posting twice a day"]
 origin: sources/S_ig_therealbrianmark_DImQN1-zLtD.md
 ---
 
-# G_ig_therealbrianmark_DImQN1-zLtD — day
+# G_ig_therealbrianmark_DImQN1-zLtD — posting twice a day
 
 ## Term
 
-"day" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: every, day, seven, days. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Posting twice a day is the minimum schedule Brian Mark prescribes here: twice a day, every day, seven days a week, rising to three times a day once the schedule feels normal. The phrase appears once, beside three times a day, six times a day and a million dollars a month, and he ties the volume directly to getting in front of his ideal client and his audience more often. His concrete claim is that the only thing that changed in four straight million-dollar months was posting more, and he himself posts six times a day.
 
 ## Synonyms
 
-- day
-- days (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You want the fucking truth? I think you need to be posting twice a day, every day, seven days a week, minimum. And I think you need to get used to that schedule. Once you get used to that schedule, then I think you need to up it to three times a day, every day, seven days a week. And yeah, that's fucking intense, but bro, I post six times a day, every day, seven days a week." — sources/S_ig_therealbrianmark_DImQN1-zLtD.md
+> "You want the fucking truth? I think you need to be posting twice a day, every day, seven days a week, minimum." — sources/S_ig_therealbrianmark_DImQN1-zLtD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "day": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as his only posting rule: this reel prescribes twice a day as a minimum, while another of his reels warns that two average pieces lose to one great one, so the schedule and the quality bar have to be read together.
+- Read as proof that posting more caused the million-dollar months: the source reports that posting more was the only change, and correlation in one account is not a test of the claim.

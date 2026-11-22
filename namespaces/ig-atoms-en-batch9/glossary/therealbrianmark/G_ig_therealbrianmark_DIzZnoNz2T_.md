@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [stuff, therealbrianmark account context]
+aka: [contracted]
 origin: sources/S_ig_therealbrianmark_DIzZnoNz2T_.md
 ---
 
-# G_ig_therealbrianmark_DIzZnoNz2T_ — stuff
+# G_ig_therealbrianmark_DIzZnoNz2T_ — contracted
 
 ## Term
 
-"stuff" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, challenge, last, reoccurring. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Contracted here means revenue secured from a challenge: thirty five thousand dollars contracted over eleven or twelve days. The word appears once, beside record breaking month, reoccurring and challenge, and the speaker presents it as a win that sets up a record month. His concrete report is the amount and the window together, eleven or twelve days of challenge revenue, with recurring revenue expected to push the month to a record.
 
 ## Synonyms
 
-- stuff
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_therealbrianmark_DIzZnoNz2T_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "stuff": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as cash in hand: contracted revenue from a challenge is money committed, and the source never says how much of the thirty five thousand was actually collected.
+- Read as a monthly run rate: the amount was contracted over eleven or twelve days, and the source never says the pace would hold for a full month.

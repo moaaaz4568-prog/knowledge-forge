@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [free content, therealbrianmark account context]
+aka: ["take action", "taking action"]
 origin: sources/S_ig_therealbrianmark_DIul-fcT8Mx.md
 ---
 
-# G_ig_therealbrianmark_DIul-fcT8Mx — free content
+# G_ig_therealbrianmark_DIul-fcT8Mx — take action
 
 ## Term
 
-"free content" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: content, free, watching, now. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To take action is to act on free content instead of only consuming it, and here it is the whole difference between the interviewee's success and the viewers who stay stuck. The phrase appears twice, beside consumers, free content and twenty four years in the military, and the trainer says he reached ten thousand dollars a month from free content plus action after enjoying teaching, training, and mentoring people in the service. His concrete contrast is people watching the free content again and again against the trainer who watched it once and acted.
 
 ## Synonyms
 
-- free content
-- therealbrianmark account context (no variant form of the term appears in this source)
+- taking action (the -ing form Brian Mark uses in the same source)
 
 ## Live Example
 
-> "I did everything I got to where I'm at now from free content that you did. So it's not that hard. Yeah, just take action. You're just watching the free content, watching the free content and taking action. That's fucking crazy, bro. I appreciate you. Let's go." — sources/S_ig_therealbrianmark_DIul-fcT8Mx.md
+> "So the thing about it is people are consumers and they don't take action." — sources/S_ig_therealbrianmark_DIul-fcT8Mx.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "free content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that free content plus action is all it takes: the trainer also had twenty four years in the military teaching, training, and mentoring, and the action rode on that experience.
+- Read as a promise that action always pays: the source contrasts consumers with actors, and never shows an actor who took action on the wrong thing.

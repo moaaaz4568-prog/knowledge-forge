@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [content, therealbrianmark account context]
+aka: ["viral content creator"]
 origin: sources/S_ig_therealbrianmark_DIrOgxFvq2Q.md
 ---
 
-# G_ig_therealbrianmark_DIrOgxFvq2Q — content
+# G_ig_therealbrianmark_DIrOgxFvq2Q — viral content creator
 
 ## Term
 
-"content" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: suck, writing, scripts, steal. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A viral content creator is the role Brian Mark tells ChatGPT to play in this prompt: a creator for fitness coaches who writes reel scripts that spread. The phrase appears once, beside twenty Instagram reel scripts, emotionally triggering hook and call to action, and the prompt specifies a coach who helps women burn body fat, with each script under thirty seconds. His concrete recipe is twenty scripts, each with an emotionally triggering hook, a short joke, step by step value, and a call to action that builds DMs or comments.
 
 ## Synonyms
 
-- content
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you suck at writing content scripts, steal this ChatGPT prompt to help you. Act as a viral content creator for fitness coaches. Create twenty Instagram reel scripts for a coach who helps women burn body fat. Each script must include an emotionally triggering hook, a short joke, step by step value, and a call to action that builds DMs or comments. Make sure the script is thirty seconds or less." — sources/S_ig_therealbrianmark_DIrOgxFvq2Q.md
+> "Act as a viral content creator for fitness coaches." — sources/S_ig_therealbrianmark_DIrOgxFvq2Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "content": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a role ChatGPT can truly play: the prompt asks the model to act as the creator, and the scripts it writes still need a human to judge whether they fit the coach.
+- Read as a promise of twenty usable scripts: the prompt asks for twenty, each under thirty seconds with a hook, joke, value, and call to action, and the source never shows a single script the prompt produced.
