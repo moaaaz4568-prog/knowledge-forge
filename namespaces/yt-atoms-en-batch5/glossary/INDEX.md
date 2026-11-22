@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch5)
 
-Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 100 glossary files, 100 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
+Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file — 150 glossary files, 150 live literal examples so far (target 1,000 files). Every file passes gates G1/G2; terms, examples and headings are in the sources' language (English).
 
 | File | Term | Live examples |
 |---|---|---|
@@ -104,3 +104,53 @@ Glossary of YouTube batch 5 (English sources): one G_ entry per atom T_ file —
 | glossary/misc-dl/G_yt_bS5nMkn3oAM_en.md | psychological trick | 1 |
 | glossary/misc-dl/G_yt_bSCxlUGatAI_en.md | properties panel | 1 |
 | glossary/misc-dl/G_yt_bUOkuL7SRP4_en.md | Christian leader | 1 |
+| glossary/misc-dl/G_yt_bV-TSMepYMg_en.md | digital typography | 1 |
+| glossary/misc-dl/G_yt_bVAfrds1N9k_en.md | curve tool | 1 |
+| glossary/misc-dl/G_yt_bVMm5Qhy2iU_en.md | focused niche version | 1 |
+| glossary/misc-dl/G_yt_bVSiLqS9IUs_en.md | AI optimization | 1 |
+| glossary/misc-dl/G_yt_bVksP4haTXM_en.md | digital product | 1 |
+| glossary/misc-dl/G_yt_bW9TY1zqkMU_en.md | mountain peaks | 1 |
+| glossary/misc-dl/G_yt_bWD_JVMejh4_en.md | geofence | 1 |
+| glossary/misc-dl/G_yt_bWWO1C5OUog_en.md | misconception of success | 1 |
+| glossary/misc-dl/G_yt_bX_IdGCbCUE_en.md | personal brand | 1 |
+| glossary/misc-dl/G_yt_bXi5UZgZRdA_en.md | AI filters | 1 |
+| glossary/misc-dl/G_yt_bXkV4dG7xiA_en.md | design decisions | 1 |
+| glossary/misc-dl/G_yt_bXw_YfIeN3w_en.md | radical transparency | 1 |
+| glossary/misc-dl/G_yt_bYvzjsWZMag_en.md | Lovable | 1 |
+| glossary/misc-dl/G_yt_bYy0D6FjP7Y_en.md | mindset | 1 |
+| glossary/misc-dl/G_yt_b_8iqAfgNXA_en.md | content creator strategies | 1 |
+| glossary/misc-dl/G_yt_b_s4RlOYyzc_en.md | point sizes | 1 |
+| glossary/misc-dl/G_yt_bb6-qMuqgts_en.md | delivery margin | 1 |
+| glossary/misc-dl/G_yt_bbd5wfsLo9s_en.md | teaching | 1 |
+| glossary/misc-dl/G_yt_bc6KY73H8Zo_en.md | personal branding | 1 |
+| glossary/misc-dl/G_yt_bdLExVseg3M_en.md | 30-day plan | 1 |
+| glossary/misc-dl/G_yt_bedeXwyh-qQ_en.md | typeface | 1 |
+| glossary/misc-dl/G_yt_bfmNTmySLMs_en.md | strategy session | 1 |
+| glossary/misc-dl/G_yt_bgStKKE6RUk_en.md | poetry | 1 |
+| glossary/misc-dl/G_yt_bgyKK4t-C20_en.md | EBITDA margin | 1 |
+| glossary/misc-dl/G_yt_bh-CI0mqXec_en.md | gradients | 1 |
+| glossary/misc-dl/G_yt_bh47GAcFXmY_en.md | scale | 1 |
+| glossary/misc-dl/G_yt_bh70BkV__mU_en.md | grain | 1 |
+| glossary/misc-dl/G_yt_bhDlYPofdZE_en.md | what does this make possible | 1 |
+| glossary/misc-dl/G_yt_bhKlkg_2Wcc_en.md | positioning | 1 |
+| glossary/misc-dl/G_yt_bhhpg0OXT3A_en.md | nudge tool | 1 |
+| glossary/misc-dl/G_yt_biMe-8S9EzA_en.md | digital product | 1 |
+| glossary/misc-dl/G_yt_biZEA2jkBNo_en.md | sink your ship | 1 |
+| glossary/misc-dl/G_yt_bj4eQ9NIyGE_en.md | micro magnet | 1 |
+| glossary/misc-dl/G_yt_bjTe6yRmVpw_en.md | industrial mindset | 1 |
+| glossary/misc-dl/G_yt_bjcSjk-ALbc_en.md | deliverability | 1 |
+| glossary/misc-dl/G_yt_bkSd7x6r9wQ_en.md | release valve | 1 |
+| glossary/misc-dl/G_yt_bkZ_xujsENM_en.md | attribution | 1 |
+| glossary/misc-dl/G_yt_blYjErqjfU4_en.md | global swatches | 1 |
+| glossary/misc-dl/G_yt_blg-OJc68U0_en.md | commodity market | 1 |
+| glossary/misc-dl/G_yt_bmgmtFHV_8o_en.md | touchpoints | 1 |
+| glossary/misc-dl/G_yt_bnd0cowHdPg_en.md | whales | 1 |
+| glossary/misc-dl/G_yt_bq0jVv93BHk_en.md | formats | 1 |
+| glossary/misc-dl/G_yt_bqpCAjcL2Yo_en.md | symbolic interaction | 1 |
+| glossary/misc-dl/G_yt_bqux7-iOuCQ_en.md | rule of thirds | 1 |
+| glossary/misc-dl/G_yt_brK9DsinI8Y_en.md | color scheme | 1 |
+| glossary/misc-dl/G_yt_brf1on-55Ik_en.md | the model | 1 |
+| glossary/misc-dl/G_yt_bridFGBYH5Y_en.md | deadlines | 1 |
+| glossary/misc-dl/G_yt_brzjHzzxD0E_en.md | normalizing | 1 |
+| glossary/misc-dl/G_yt_bsGF8syLCq8_en.md | niching down | 1 |
+| glossary/misc-dl/G_yt_bsbFFRU5eck_en.md | call-to-action button | 1 |
