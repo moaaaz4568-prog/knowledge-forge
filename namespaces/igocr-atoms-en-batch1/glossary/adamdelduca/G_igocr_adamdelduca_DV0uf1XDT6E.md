@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [YouTube Niche Tier List]
 origin: sources/S_igocr_adamdelduca_DV0uf1XDT6E.md
 ---
 
-# G_igocr_adamdelduca_DV0uf1XDT6E — YouTube
+# G_igocr_adamdelduca_DV0uf1XDT6E — YouTube Niche Tier List
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, adam, adam_deduca, niche. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, the "YouTube Niche Tier List" is a ranking of channel topics from S to D by how much the author thinks they can pay. It appears once, as the title over tiers that place "Economics", "Aviation" and "Football" at S, "History", "Chess" and "Ecom" at A, and "Anime", "Meditation" and "Lofi" at D. The tiers are the content: the post offers no revenue figures here, only the letter grades beside each niche name. A reader would use it as a shortlist, starting with the S-tier topics and treating the D-tier ones as the weakest bets in the author's judgement.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YouTube Adam | YouTube @Adam_DeDuca YouTube Niche Tier List S Economics Aviation Football A History Chess Ecom B Investing Sailing Luxury C Cricket Billiards Poker D Anime Meditation Lofi" — sources/S_igocr_adamdelduca_DV0uf1XDT6E.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DV0uf1XDT6E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as measured income data: the list gives letter grades only, with no dollar figures, no channels and no dates, so S-tier means the author's ranking, not a proven payout.
+- Read as a verdict that D-tier niches can never pay: "Anime", "Meditation" and "Lofi" sit at the bottom of this one list, and the post gives no reason or evidence that would rule them out for every creator.

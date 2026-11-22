@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [MAKE IT EXIST FIRST]
 origin: sources/S_igocr_adamdelduca_DVTkr-lgcrN.md
 ---
 
-# G_igocr_adamdelduca_DVTkr-lgcrN — YouTube
+# G_igocr_adamdelduca_DVTkr-lgcrN — MAKE IT EXIST FIRST
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, started. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "MAKE IT EXIST FIRST" is the rule for starting: ship something real before trying to make it good. It appears once, in the first of two lines: "JUST MAKE IT EXIST FIRST", followed by "YOU CAN MAKE IT GOOD LATER". The two lines split the work into two phases — existence first, quality second — so polish is not skipped, only postponed until there is something to polish. A creator stuck perfecting a first video would take the post as permission to publish a rough version now and improve it after it exists.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVTkr-lgcrN.md
+> "JUST MAKE IT EXIST FIRST YOU CAN MAKE IT GOOD LATER" — sources/S_igocr_adamdelduca_DVTkr-lgcrN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as advice to publish bad work forever: the second line is "YOU CAN MAKE IT GOOD LATER", so quality is delayed, not abandoned.
+- Read as a claim that rough work performs well: the post says nothing about views or reception, and only orders the two phases — exist first, good later.

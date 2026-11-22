@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [Day, adamdelduca account context]
+aka: ["5:00 AM"]
 origin: sources/S_igocr_adamdelduca_DLkHxEtAlLS.md
 ---
 
-# G_igocr_adamdelduca_DLkHxEtAlLS — Day
+# G_igocr_adamdelduca_DLkHxEtAlLS — 5:00 AM
 
 ## Term
 
-"Day" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: none (no content word recurs near it). The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "5:00 AM" is the starting wake-up time of a year-long shift, not just a clock reading. It appears once, opening a run of four times in five-minute steps — "5:05 AM", "5:10 AM" and "5:15 AM" — all filed under "Day 1". The carousel then jumps across "vs." to "Day 365", so the early time stands for the beginning of a slow progression rather than a single morning. A reader copying the method would start at 5:00 AM on day one and move the alarm a few minutes at a time until the habit holds a year later.
 
 ## Synonyms
 
-- Day
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_adamdelduca_DLkHxEtAlLS.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Day": the usage here is bounded to an OCR-transcribed Instagram carousel of 3 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a fixed alarm time anyone should copy: the carousel pairs 5:00 AM with 5:05, 5:10 and 5:15 AM as stepped starts, so the point is the gradual shift from Day 1, not the hour itself.
+- Read as a promise that waking at 5:00 AM alone produces the Day 365 result: the post shows only the two endpoints with "vs." between them and says nothing about what fills the year in between.

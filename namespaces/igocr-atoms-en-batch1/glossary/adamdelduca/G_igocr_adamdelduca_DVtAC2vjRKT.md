@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [Best YouTube Automation Strategy]
 origin: sources/S_igocr_adamdelduca_DVtAC2vjRKT.md
 ---
 
-# G_igocr_adamdelduca_DVtAC2vjRKT — YouTube
+# G_igocr_adamdelduca_DVtAC2vjRKT — Best YouTube Automation Strategy
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, best. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, the "Best YouTube Automation Strategy" is a two-way comparison between AI production and outsourcing. It appears once, as the title over a table that gives AI the pros "Speed" and "Cost" with the con "Quality", and outsourcing the pros "Quality" and "Speed" with the con "Cost". Speed is the shared pro — both sides claim it — while cost and quality trade places: cheap for AI and dear for outsourcing, good for outsourcing and weak for AI. A reader choosing from the table would decide by what they can give up: money for outsourcing, or quality for AI, since speed alone does not separate the two.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Best YouTube Automation Strategy AI Pros Speed Cost Cons Quality Outsourcing Pros Quality Speed Cons Cost" — sources/S_igocr_adamdelduca_DVtAC2vjRKT.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVtAC2vjRKT.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a verdict that outsourcing is better: the table gives outsourcing quality and speed against cost, and AI speed and cost against quality, without declaring a winner.
+- Read as proof that AI is always faster: "Speed" is listed as a pro for both sides, so the table claims no speed gap between AI and outsourcing.

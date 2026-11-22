@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [2nd income]
 origin: sources/S_igocr_adamdelduca_DVlmTwVjRZ4.md
 ---
 
-# G_igocr_adamdelduca_DVlmTwVjRZ4 — YouTube
+# G_igocr_adamdelduca_DVlmTwVjRZ4 — 2nd income
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, need, adam_delducae. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, a "2nd income" is what a full-time worker builds on the side with AI-run faceless channels. It appears once, in the opening slide, where a student "hit well over $20,000 a month" while "working full-time and leveraging AI", and the reader is told they can "build a 2nd income in 2026". The steps that follow are built for one hour a night: set up the channel "today", filter "$10,000/mo" niches with "TubeLab", pick outlier topics weekly with "VIDIQ", upload through "VidRush" — which scripts, voices, edits and thumbnails — and review analytics for titles, thumbnails and retention. A reader with a full-time job would take the post as a nightly routine: one hour, one upload at a time, with the analytics review deciding what to repeat.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DeLDucae Recently, my student hit well over $20,000 a month While working full-time and leveraging AI If you are eager to build a 2nd income in 2026. Here’s what you need to do step by step: Nick Invests $43,716 2,468, 604 $16.6" — sources/S_igocr_adamdelduca_DVlmTwVjRZ4.md
-> "Adam | YouTube @Adam_DelDuca Then, you want to start uploading With one hour a night you won’t be scripting or editing Simply enter your topics into VidRush It will script, voice and edit your videos for you It even makes your video’s thumbnail" — sources/S_igocr_adamdelduca_DVlmTwVjRZ4.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DVlmTwVjRZ4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proof that a second income of $20,000 a month is typical: the post cites one unnamed student and shows a "Nick Invests" screenshot with fragmentary figures, and gives no second example.
+- Read as a plan that needs no time: the post is explicit that it takes an hour a night plus weekly topic picking, so the second income is built on daily work, not on nothing.

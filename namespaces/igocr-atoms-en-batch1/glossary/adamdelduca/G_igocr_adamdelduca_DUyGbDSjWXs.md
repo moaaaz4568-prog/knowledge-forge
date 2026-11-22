@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [FILM TIRED]
 origin: sources/S_igocr_adamdelduca_DUyGbDSjWXs.md
 ---
 
-# G_igocr_adamdelduca_DUyGbDSjWXs — YouTube
+# G_igocr_adamdelduca_DUyGbDSjWXs — FILM TIRED
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, started. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "FILM TIRED" is the opening instruction: record even when exhausted instead of waiting to feel rested. It appears once, at the top of a three-line message whose next lines read "RELAX, THEN FILM" and "HOW MUCH YOU GET DONE". The sequence is the whole point — film while tired, rest, then film again and measure output — so tiredness is treated as a starting condition, not a reason to stop. A creator following it would press record on a low-energy day, take the break the post prescribes, and judge the day by finished footage rather than by how they felt at the start.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DUyGbDSjWXs.md
+> "FILM TIRED RELAX, THEN FILM HOW MUCH YOU GET DONE" — sources/S_igocr_adamdelduca_DUyGbDSjWXs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as advice to never rest: the post's middle line is "RELAX, THEN FILM", so rest is a prescribed step between filming sessions, not something to skip.
+- Read as a claim that tired footage performs better: the post says nothing about quality or views and only ties the habit to how much gets done.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [VIRAL CONTENT]
 origin: sources/S_igocr_adamdelduca_DVL2TTOgSEX.md
 ---
 
-# G_igocr_adamdelduca_DVL2TTOgSEX — YouTube
+# G_igocr_adamdelduca_DVL2TTOgSEX — VIRAL CONTENT
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: videos, free, training, youtube. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this image, "VIRAL CONTENT" is what great YouTube videos are made of, set against drafts that stay bad ideas. It appears once, in the middle line of a three-line image that opens with "GREAT YOUTUBE VIDEOS" and closes with "DRAFT VIDEOS / BAD IDEAS". The layout pairs the lines: great videos belong with viral content, while draft videos belong with bad ideas, so the post's test for an idea is whether it can go viral. A creator using the image would judge a draft by that pairing and drop ideas that read as drafts rather than as viral content.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "GREAT YOUTUBE VIDEOS VIRAL CONTENT DRAFT VIDEOS / BAD IDEAS" — sources/S_igocr_adamdelduca_DVL2TTOgSEX.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVL2TTOgSEX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a definition of viral content: the image only pairs the phrase with "GREAT YOUTUBE VIDEOS" and never says what makes content viral.
+- Read as a claim that every draft is a bad idea: the image contrasts drafts with viral content as two categories, and gives no rule for telling a promising draft from a bad one.

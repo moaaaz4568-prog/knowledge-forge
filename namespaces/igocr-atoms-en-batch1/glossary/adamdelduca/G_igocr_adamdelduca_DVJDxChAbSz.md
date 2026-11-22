@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [Hours Setup, adamdelduca account context]
+aka: [YouTube Automation Gameplan]
 origin: sources/S_igocr_adamdelduca_DVJDxChAbSz.md
 ---
 
-# G_igocr_adamdelduca_DVJDxChAbSz — Hours Setup
+# G_igocr_adamdelduca_DVJDxChAbSz — YouTube Automation Gameplan
 
 ## Term
 
-"Hours Setup" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: setup, hours, vidiq, vidrush. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, the "YouTube Automation Gameplan" sorts the automation toolkit by how many hours a week the reader has. It appears once, heading three time bands: "1-5 Hours" with "VIDIQ + Vidrush", "5-10 Hours" with "1of10 + Upwork", and "10+ Hours" with "TubeLab + Premiere". The pairing is the point — less time means a smaller, more automated stack, while more time buys the heavier tools "TubeLab" and "Premiere". A reader with only a few hours a week would start with the first band's pair, VIDIQ and Vidrush, and only move to the later bands when more hours free up.
 
 ## Synonyms
 
-- Hours Setup
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_adamdelduca_DVJDxChAbSz.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Hours Setup": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as three separate gameplans: the post is one gameplan in three bands, and the bands differ only by weekly hours, not by goal or niche.
+- Read as a promise that five hours a week is enough: the "1-5 Hours" band names a tool pair and no result, so the post says what to use with little time, not what little time achieves.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [quiet majority]
 origin: sources/S_igocr_adamdelduca_DVWJjfRgZkY.md
 ---
 
-# G_igocr_adamdelduca_DVWJjfRgZkY — YouTube
+# G_igocr_adamdelduca_DVWJjfRgZkY — quiet majority
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, quiet. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, the "quiet majority" is the audience that matters most on YouTube: the average viewers who rarely speak up. It appears once, in the opening line "The quiet majority on YouTube matters most", above a diagram that contrasts "Extreme opinions" with "Average opinions". The diagram repeats "Extreme opinions" twice around a single "Average opinions", labelling the extremes "What we see on YouTube" and the average "What we don't see". A creator reading the post would make videos for the average viewers they never hear from, rather than for the extreme opinions that fill the comments.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "The quiet majority on YouTube matters most Extreme opinions Average opinions Extreme opinions What we see on YouTube What we don't see" — sources/S_igocr_adamdelduca_DVWJjfRgZkY.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVWJjfRgZkY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a claim that most viewers hold average opinions: the post asserts the quiet majority matters most, but gives no survey, no numbers and no evidence about what the majority believes.
+- Read as advice to ignore extreme opinions entirely: the diagram shows extremes as what we see, and the post says the quiet majority matters most — it does not say the extremes do not exist or should never be addressed.

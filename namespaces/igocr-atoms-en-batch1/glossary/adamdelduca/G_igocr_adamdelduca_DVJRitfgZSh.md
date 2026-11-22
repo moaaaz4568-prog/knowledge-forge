@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: ["100,000 SUBSCRIBERS"]
 origin: sources/S_igocr_adamdelduca_DVJRitfgZSh.md
 ---
 
-# G_igocr_adamdelduca_DVJRitfgZSh — YouTube
+# G_igocr_adamdelduca_DVJRitfgZSh — 100,000 SUBSCRIBERS
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, started. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "100,000 SUBSCRIBERS" is the milestone the reader is told to value alongside the bigger one. It appears once, at the end of a two-part statement: "SUCCESS WE'RE TAUGHT TO VALUE" is paired with "10 MILLION SUBSCRIBERS", and "SUCCESS WE SHOULD ALSO VALUE" is paired with "100,000 SUBSCRIBERS". The contrast redefines success downward on purpose — a hundred thousand subscribers counts as success too, not as a failure to reach ten million. A creator measuring their own channel against the post would count 100,000 subscribers as a valued outcome in itself, rather than as a stepping stone that only matters once it grows.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVJRitfgZSh.md
+> "SUCCESS WE’RE TAUGHT TO VALUE SUCCESS WE SHOULD ALSO VALUE 10 MILLION SUBSCRIBERS 100,000 SUBSCRIBERS" — sources/S_igocr_adamdelduca_DVJRitfgZSh.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a claim that 100,000 subscribers is easy to reach: the post says only that it should be valued, and gives no method, no timeframe and no example of reaching it.
+- Read as advice to stop at 100,000 subscribers: the post pairs the smaller figure with "SHOULD ALSO VALUE", adding it to the ten-million goal rather than replacing it.

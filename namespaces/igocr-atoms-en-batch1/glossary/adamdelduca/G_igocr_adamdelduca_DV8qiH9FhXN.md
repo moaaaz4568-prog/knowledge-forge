@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [RPM]
 origin: sources/S_igocr_adamdelduca_DV8qiH9FhXN.md
 ---
 
-# G_igocr_adamdelduca_DV8qiH9FhXN — YouTube
+# G_igocr_adamdelduca_DV8qiH9FhXN — RPM
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 9 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, faceless, youtube. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, "RPM" is the number the author uses to rank YouTube niches from best to worst for 2026. It appears 7 times: once as the dollar figure beside each tier — "Secret Discoveries" at $6.15, "Plants" at $5.36, "POV Stories" at $3.51, "Revenge Stories" at $8.81 and "Lofi" at $5.96, with two more mentions inside the pros and cons, where "POV Stories" is faulted for low RPM and "Revenge Stories" is credited with moderate to high RPM. The tiers run S to D, but the RPM figures do not follow the tier order: the C-tier "Revenge Stories" carries the highest RPM of the five at $8.81. A reader using the post would compare the tier letter against the RPM figure together, since the letter grades the niche overall while the RPM prices only its ad revenue.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuca This faceless YouTube channel is making over $14,000/mo The insane part? It's brand new Here are the best and worst niches to start in 2026: Noxium @noxium • 31.8K subscribers • 83 videos Noxium reveals forbidden history, AI discoveries, ancient secrets, and terrifying mysteries..." — sources/S_igocr_adamdelduca_DV8qiH9FhXN.md
-> "Adam | YouTube @Adam_DeLDuce C-Tier: Revenge Stories (RPM: $8.81) Pros: - Very high intrigue - Moderate to high RPM Cons: - Minimal monetization opportunities - Easy channel to copy limiting longevity True Revenge Stories" — sources/S_igocr_adamdelduca_DV8qiH9FhXN.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DV8qiH9FhXN.md
+> "Adam | YouTube @Adam_DelDuca A-Tier: Plants (RPM: $5.36) Pros: • High intrigue, evergreen content • Multiple monetization methods Cons: • Moderate total addressable market Homestead Roots BIBLICAL PLANTS FORGOTTEN PLANTS BIBLICAL FOODS PROFITABLE PLANTS" — sources/S_igocr_adamdelduca_DV8qiH9FhXN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as the author's whole verdict on a niche: each tier slide pairs the RPM figure with pros and cons — "Plants" is A-tier despite a middling $5.36 RPM because of high intrigue and multiple monetization methods.
+- Read as proof that Revenge Stories is the best niche: its $8.81 RPM is the highest figure in the carousel, yet it sits at C-tier because the same slide lists minimal monetization opportunities and easy copying.

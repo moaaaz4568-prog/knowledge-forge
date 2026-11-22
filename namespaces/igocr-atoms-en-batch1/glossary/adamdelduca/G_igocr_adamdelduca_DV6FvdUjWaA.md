@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [videos, adamdelduca account context]
+aka: [faceless YouTube channel]
 origin: sources/S_igocr_adamdelduca_DV6FvdUjWaA.md
 ---
 
-# G_igocr_adamdelduca_DV6FvdUjWaA — videos
+# G_igocr_adamdelduca_DV6FvdUjWaA — faceless YouTube channel
 
 ## Term
 
-"videos" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 18 times in the text (whole-word matches, case folded), and the words most often collocated with it are: subscribers, subscribe, latest, playlists. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, a "faceless YouTube channel" is a channel that earns without its owner ever appearing on camera. It appears once, in the opening slide, which says the channel is making "$10K a month", is only "3 months old" and is "100% AI". The rest of the carousel is a ranked list of ten niches that can make "$10,000/mo" — "Visual Deen", "Economics", "Historical Conflicts", "Food Warnings", "Biblical History", "Gardening" and "Luxury" among them — each shown as a screenshot of an existing channel. A reader would take the phrase as the model itself: pick one of the ten niches, run the channel with AI tools, and stay off camera while the channel grows.
 
 ## Synonyms
 
-- videos
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Food Warnings SUBSCRIBE Hidden Elder @HiddenElder 96.3K subscribers • 88 videos Welcome to Hidden Elder – the place where you'll discover untold stories, timeless health tips, and life lessons from ...more Subscribe Join Home Videos Shorts Playlists Posts Latest Popular Oldest Fake Honey Brands to AVOID at All Costs 15 Fake Honey Brands to AVOID at All Costs (And How to Spot Real Honey..." — sources/S_igocr_adamdelduca_DV6FvdUjWaA.md
-> "Adam | YouTube @Adam_DelDuca 4. Biblical History Bible Hidden @BibleHidden101 17.2K subscribers • 14 videos Bible Hidden is a Christian YouTube channel dedicated to sharing Bible stories, biblical stories, and Bible stories explain..." — sources/S_igocr_adamdelduca_DV6FvdUjWaA.md
-> "Tom - Lazy Investor @1MillionWithin5Years 27.2K subscribers · 80 videos Documenting a slightly crazy plan: reaching one million $ within five years with investing and youtube ...more Subscribe Community Home Videos Shorts Playlists Posts Latest Popular Oldest Banks Found A Loophole To Manipulate Bitcoin's Price 69K views · 1 month ago THEY ARE CRASHING BTC Banks Found A Loophole ..." — sources/S_igocr_adamdelduca_DV6FvdUjWaA.md
+> "Adam | YouTube @Adam_DeDuca This faceless YouTube channel is making $10K a month The crazy part? It's only 3 months old and is 100% AI Here are 10 niches that can make you $10,000/mo: Visual Deen" — sources/S_igocr_adamdelduca_DV6FvdUjWaA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "videos": the usage here is bounded to an OCR-transcribed Instagram carousel of 12 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proof that any faceless channel reaches $10K a month in three months: the post describes one unnamed channel and gives no name, no views and no earnings evidence, so the figure is a claim about a single example.
+- Read as a list of niches the author has tested: the ten niches are presented as screenshots of other people's channels, and the post does not say the author runs any of them.

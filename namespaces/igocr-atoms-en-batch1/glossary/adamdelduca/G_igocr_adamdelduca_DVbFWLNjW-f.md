@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [How it started vs. How it's going]
 origin: sources/S_igocr_adamdelduca_DVbFWLNjW-f.md
 ---
 
-# G_igocr_adamdelduca_DVbFWLNjW-f — YouTube
+# G_igocr_adamdelduca_DVbFWLNjW-f — How it started vs. How it's going
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: youtube, canva, pikzels, adam. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this image, "How it started vs. How it's going" frames a before-and-after of the author's tool stack. It appears once, at the top of an image that lists the tools "Google Docs", "Ps", "Premiere Pro", "Vidrush", "Canva" and "Pikzels" beneath the two headings. The contrast is the whole message: the journey runs from simple starting tools to a fuller production stack, though the image never says which tool belongs to the start and which to the present. A reader would take it as a progress post — the same creator, better tools over time — rather than as a guide to any single tool on the list.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "How it started vs. How it's going Google Docs Subscriber Ps Premiere Pro Vidrush C Canva Pikzels YouTube Adam | YouTube @Adam_DelDuca" — sources/S_igocr_adamdelduca_DVbFWLNjW-f.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVbFWLNjW-f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a tutorial for any tool on the list: the image names tools without explaining any of them, so it shows a journey, not a how-to.
+- Read as proof that these tools caused the growth: the post pairs the before-and-after headings with a tool list and gives no results, no dates and no evidence linking the tools to the progress.

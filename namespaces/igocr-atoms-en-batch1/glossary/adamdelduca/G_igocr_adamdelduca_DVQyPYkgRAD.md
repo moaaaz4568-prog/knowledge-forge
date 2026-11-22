@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [FREE PAID, adamdelduca account context]
+aka: [YouTube Automation Setup]
 origin: sources/S_igocr_adamdelduca_DVQyPYkgRAD.md
 ---
 
-# G_igocr_adamdelduca_DVQyPYkgRAD — FREE PAID
+# G_igocr_adamdelduca_DVQyPYkgRAD — YouTube Automation Setup
 
 ## Term
 
-"FREE PAID" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: paid, free, voiceovers, editing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, the "YouTube Automation Setup" is a five-stage production line where every stage has a free option and a paid option. It appears once, heading stages that each repeat "FREE" and "PAID": "Ideation", "Scripting", "Voiceovers", "Editing" and "Thumbnails". The "$15,000/mo" label above the title frames the whole setup as the tooling behind a five-figure monthly channel, whether each stage is done free or paid. Someone copying the setup would walk the five stages in order and choose free or paid at each one, starting with ideation and ending with thumbnails.
 
 ## Synonyms
 
-- FREE PAID
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_adamdelduca_DVQyPYkgRAD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "FREE PAID": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a list of recommended tools: the post names no tools at all, only the five stages and the free-or-paid choice at each stage.
+- Read as proof that the setup earns $15,000/mo: the figure is a label above the setup, and the post shows no channel or earnings to back it.

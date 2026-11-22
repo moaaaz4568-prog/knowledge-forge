@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [YouTube Automation Production]
 origin: sources/S_igocr_adamdelduca_DV8c4Nrlpdj.md
 ---
 
-# G_igocr_adamdelduca_DV8c4Nrlpdj — YouTube
+# G_igocr_adamdelduca_DV8c4Nrlpdj — YouTube Automation Production
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, automation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "YouTube Automation Production" is the title of a price table for the tools that build automated videos. It appears once, above three prices per ten minutes of video — "$20", "$25" and "$10" — and the three tool names "TubeGen", "VidRush" and "InVideo". The table's three closing words — "Speed", "Cost" and "Performance" — name the dimensions the prices are meant to be judged on. A reader comparing the tools would read the three prices against those three words instead of treating the cheapest row as the winner.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YouTube Automation Production $20 Per 10 Mins of Video $25 Per 10 Mins of Video $10 Per 10 Mins of Video TubeGen VidRush InVideo Speed Cost Performance" — sources/S_igocr_adamdelduca_DV8c4Nrlpdj.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DV8c4Nrlpdj.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a ranking where the $10 tool wins: the table prints "Speed", "Cost" and "Performance" as three separate dimensions, so price alone does not settle which tool is best.
+- Read as a full price list for the three tools: the OCR gives three prices and three names without pairing them, so no single price can be tied to one tool from this image alone.

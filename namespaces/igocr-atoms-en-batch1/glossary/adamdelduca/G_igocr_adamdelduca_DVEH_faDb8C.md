@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [SUBSCRIBER SPIKE, adamdelduca account context]
+aka: [SUBSCRIBER SPIKE]
 origin: sources/S_igocr_adamdelduca_DVEH_faDb8C.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_igocr_adamdelduca_DVEH_faDb8C.md
 
 ## Term
 
-"SUBSCRIBER SPIKE" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: growth, viral, hit, spike. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, a "SUBSCRIBER SPIKE" is what growth looks like: a sudden jump in subscribers after a viral hit. It appears 2 times, in the phrase "GROWTH: VIRAL HIT & SUBSCRIBER SPIKE", which opens the image and repeats after the failure slide. The post contrasts that growth with a "COMFORT ZONE" of "CONSISTENT LOW VIEWS" and a "FAILURE" labelled "VIDEO FLOP", and closes with the "LESSON" of "AUDIENCE FEEDBACK & NEW EDITING". A creator reading it would treat the spike as the reward for breaking out of the comfort zone: one viral hit, then feedback, then new editing to repeat the jump.
 
 ## Synonyms
 
-- SUBSCRIBER SPIKE
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_igocr_adamdelduca_DVEH_faDb8C.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "SUBSCRIBER SPIKE": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a method for causing a spike: the post names the spike as the outcome of growth and gives no steps for making a video go viral.
+- Read as a claim that every flop is followed by a spike: the image orders growth, comfort zone, failure, growth and lesson as separate labelled blocks, and nothing in it says the second growth follows the failure.

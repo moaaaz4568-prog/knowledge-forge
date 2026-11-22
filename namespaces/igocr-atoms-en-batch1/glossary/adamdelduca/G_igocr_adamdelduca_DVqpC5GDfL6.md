@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [third party footage]
 origin: sources/S_igocr_adamdelduca_DVqpC5GDfL6.md
 ---
 
-# G_igocr_adamdelduca_DVqpC5GDfL6 — YouTube
+# G_igocr_adamdelduca_DVqpC5GDfL6 — third party footage
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, start, starting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "third party footage" is the niche test: pick topics built on other people's footage, because those channels need no filming. It appears once, in the second step, which says to "identify niches that leverage third party footage" because "those are channels you can build solely using Vidrush". The step sits inside a six-step plan for people over 30: start YouTube, commit one hour a night, use AI production, upload one video a week, review analytics, and refine toward "$5k-10k/mo". A reader following the step would look for niches where the footage already exists — the post's example is the cars niche, searched through VIDIQ's trending topics — and build the channel from that footage alone.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Adam | YouTube @Adam_DelDuce If you’re over 30 and think it’s too late — it’s not 1. Start YouTube 2. Commit 1 hour a night 3. Use AI video production 4. Upload 1 video every week 5. Review analytics after upload 6. Refine approach and scale to $5k- 10k/mo Here’s how you do it:" — sources/S_igocr_adamdelduca_DVqpC5GDfL6.md
-> "Adam | YouTube @Adam_DelDuca Once you start uploading, review analytics for improvements: Low impressions > more videos High impressions, low views > weak topics or packaging Large initial dip > weak or misaligned hook and intro" — sources/S_igocr_adamdelduca_DVqpC5GDfL6.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DVqpC5GDfL6.md
+> "Adam | YouTube @Adam_DelDuca Second, identify niches that leverage third party footage Why? Those are channels you can build solely using Vidrush STAGE1" — sources/S_igocr_adamdelduca_DVqpC5GDfL6.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as advice that any third-party footage is free to use: the post says only that such niches can be built with Vidrush, and says nothing about rights, licences or reuse rules.
+- Read as a promise that third-party-footage channels scale to $5k-10k/mo: the figure is the goal of the six-step plan, and the post shows no channel that reached it on footage alone.

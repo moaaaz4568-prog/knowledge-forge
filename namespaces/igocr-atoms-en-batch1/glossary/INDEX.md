@@ -1,59 +1,59 @@
 # Index — glossary/ (igocr-atoms-en-batch1)
 
-Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,749 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English OCR batch 1 glossaries (chat glossaries-igocr-batch1): one G_ entry per T_ atom file — 3,061 files, zero exclusions, 53 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,692 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 237 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail. Rebuild chunk 1 (2026-11-22): 50 entries (adamdelduca, list lines 1-50) rebuilt in place, each with 1 live example; self-check 50/50, 0 errors.
 
 | File | Term | Live examples |
 |---|---|---|
-| glossary/adamdelduca/G_igocr_adamdelduca_DLkHxEtAlLS.md | Day | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DUvT0MSDWUs.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DUx4t45jU54.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DUyGbDSjWXs.md | YouTube | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV08Mw4DWFv.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV0uf1XDT6E.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV3TPUmjQTq.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV3g8sgjUGe.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV53_-ZjRx_.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV6FvdUjWaA.md | videos | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV8c4Nrlpdj.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV8qiH9FhXN.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVBVYNrkT79.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVBjH5kDT9Q.md | YouTube | 2 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DLkHxEtAlLS.md | 5:00 AM | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DUvT0MSDWUs.md | YouTube Automation | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DUx4t45jU54.md | YouTube Automation | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DUyGbDSjWXs.md | FILM TIRED | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV08Mw4DWFv.md | winning video topics | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV0uf1XDT6E.md | YouTube Niche Tier List | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV3TPUmjQTq.md | YouTube Starter Kit | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV3g8sgjUGe.md | YouTube toolkit for 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV53_-ZjRx_.md | Best YouTube Production Tools | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV6FvdUjWaA.md | faceless YouTube channel | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV8c4Nrlpdj.md | YouTube Automation Production | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV8qiH9FhXN.md | RPM | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVBVYNrkT79.md | YouTube Automation Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVBjH5kDT9Q.md | CREATOR LESSONS | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVD6Q8kkVyo.md | RPM | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVEH_faDb8C.md | SUBSCRIBER SPIKE | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVGfAoWgUZi.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVGsx9NgTMr.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVJDxChAbSz.md | Hours Setup | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVJRitfgZSh.md | YouTube | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVL2TTOgSEX.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVLopw5AV-q.md | Niche RPM | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVONbg0Acdu.md | Mid | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVObLh8ARsa.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVQ_8BzgQ0M.md | YouTube | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVQyPYkgRAD.md | FREE PAID | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVTW_rHgb-f.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVTkr-lgcrN.md | YouTube | 1 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVV7vdEgVIF.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVWJjfRgZkY.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVYgnuRjTCk.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVYuRggjYWW.md | ago | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV_BoVHFn6u.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DV_PbMYlqtI.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVbFWLNjW-f.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVbTKNHjVr3.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVd378CDVvU.md | videos | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVdqO6LjdVq.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVgO-nsjQus.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVgcsABjYj0.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVizzczjciM.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVjBcgRjYI6.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVlYjiPDR3U.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVlmTwVjRZ4.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVn2cjgDWLU.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVoEMV_DTDu.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVqbQ7cDVY8.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVqpC5GDfL6.md | YouTube | 3 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVtAC2vjRKT.md | YouTube | 2 |
-| glossary/adamdelduca/G_igocr_adamdelduca_DVtN0GHDTfZ.md | YouTube | 3 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVGfAoWgUZi.md | SATURATION | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVGsx9NgTMr.md | COMMUNITY OF CREATORS | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVJDxChAbSz.md | YouTube Automation Gameplan | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVJRitfgZSh.md | 100,000 SUBSCRIBERS | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVL2TTOgSEX.md | VIRAL CONTENT | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVLopw5AV-q.md | YouTube Automation Gameplan for 2026 | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVONbg0Acdu.md | Does Your Niche Matter? | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVObLh8ARsa.md | YOUTUBE SHORTCUTS | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVQ_8BzgQ0M.md | MILLION SUBSCRIBERS | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVQyPYkgRAD.md | YouTube Automation Setup | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVTW_rHgb-f.md | Best YouTube Production Tools | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVTkr-lgcrN.md | MAKE IT EXIST FIRST | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVV7vdEgVIF.md | Best YouTube Income Strategy | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVWJjfRgZkY.md | quiet majority | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVYgnuRjTCk.md | YouTube Automation Niche Analysis | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVYuRggjYWW.md | Faceless channels | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV_BoVHFn6u.md | YouTube Automation Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DV_PbMYlqtI.md | VPH | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVbFWLNjW-f.md | How it started vs. How it's going | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVbTKNHjVr3.md | role model channels | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVd378CDVvU.md | faceless YouTube channel | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVdqO6LjdVq.md | Monetization Checker | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVgO-nsjQus.md | YouTube Workflow | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVgcsABjYj0.md | AMI Headline Analyzer | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVizzczjciM.md | $100k Biz | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVjBcgRjYI6.md | best business models | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVlYjiPDR3U.md | Get Paid On YouTube In 30 days | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVlmTwVjRZ4.md | 2nd income | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVn2cjgDWLU.md | YouTube Essentials | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVoEMV_DTDu.md | 10-day blueprint | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVqbQ7cDVY8.md | YouTube Roadmap | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVqpC5GDfL6.md | third party footage | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVtAC2vjRKT.md | Best YouTube Automation Strategy | 1 |
+| glossary/adamdelduca/G_igocr_adamdelduca_DVtN0GHDTfZ.md | $0 Youtube Automation Gameplan for 2026 | 1 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVvk5eCDfHM.md | YouTube | 2 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVvyl4PjbBd.md | YouTube | 3 |
 | glossary/adamdelduca/G_igocr_adamdelduca_DVyJo07DcCf.md | YouTube | 2 |

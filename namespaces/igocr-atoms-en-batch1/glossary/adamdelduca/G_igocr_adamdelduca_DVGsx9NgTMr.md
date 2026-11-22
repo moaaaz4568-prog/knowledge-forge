@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [COMMUNITY OF CREATORS]
 origin: sources/S_igocr_adamdelduca_DVGsx9NgTMr.md
 ---
 
-# G_igocr_adamdelduca_DVGsx9NgTMr — YouTube
+# G_igocr_adamdelduca_DVGsx9NgTMr — COMMUNITY OF CREATORS
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, success. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, a "COMMUNITY OF CREATORS" is the answer to doing YouTube alone: a solo creator backed by other creators. It appears once, in the closing line of a six-line statement that opens with "YOUTUBE SUCCESS" and "SOLO CREATOR" and ends "WITH A COMMUNITY OF CREATORS". The contrast is the message — the creator stays solo, but the success is shared with a community, so independence and support are presented as one arrangement rather than opposites. A reader taking the advice would keep working alone on their own channel while finding other creators to learn from and grow with.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YOUTUBE SUCCESS SOLO CREATOR WITH A COMMUNITY OF CREATORS" — sources/S_igocr_adamdelduca_DVGsx9NgTMr.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVGsx9NgTMr.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as advice to join a team channel: the post says "SOLO CREATOR" first, so the community supports a creator who still works alone, and nothing here proposes shared ownership.
+- Read as a claim that community alone creates success: the statement names solo work and community together, and gives no example of a channel that grew on community alone.

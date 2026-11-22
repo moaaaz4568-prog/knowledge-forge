@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [10-day blueprint]
 origin: sources/S_igocr_adamdelduca_DVoEMV_DTDu.md
 ---
 
-# G_igocr_adamdelduca_DVoEMV_DTDu — YouTube
+# G_igocr_adamdelduca_DVoEMV_DTDu — 10-day blueprint
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: adam, adam_delduca, step, channel. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, the "10-day blueprint" is a dated plan for launching a faceless YouTube channel that earns "$5,000/mo". It appears once, in the opening slide, which says most people have "zero idea how" to own such a channel and promises "a full 10-day blueprint you can start today". The ten days split into five steps: niche selection in 2 days, with "Viral potential" and "Sustainability" as the two criteria; competition research in 3 days with "TubeLab" and role model channels; channel setup in 2 days; a production system in 2 days, with "Tubegen" for image-based formats and "Vidrush" for video footage; and launch in 1 day. The plan is honest about money: it asks "Will you be making money right away?" and answers "No", saying to expect "2-3 months to get monetized".
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DelDuca Everyone should own a faceless YouTube channel that earns $5,000/mo Sadly, even in 2026 most people have zero idea how… Here’s a full 10-day blueprint you can start today:" — sources/S_igocr_adamdelduca_DVoEMV_DTDu.md
-> "Adam | YouTube @Adam_DelDuca Step 4: Build your production system (2 Days) Once you’ve identified your role model channels And set up your channel, select a format Based on this format, identify which AI production will work best For image-based, Tubegen works well For video-footage content, use Vidrush" — sources/S_igocr_adamdelduca_DVoEMV_DTDu.md
-> "and I’ll send you my free YouTube training. Note: Must be following so I can DM you." — sources/S_igocr_adamdelduca_DVoEMV_DTDu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 7 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a promise of $5,000/mo in ten days: the ten days end at launch, and the post itself says monetization takes 2-3 months, so the blueprint buys a launch, not an income.
+- Read as a guarantee that the niche criteria work: the post requires viral potential and sustainability but gives no way to measure either, only the warning that low demand starves views and trend-based channels go stale in 1-2 years.

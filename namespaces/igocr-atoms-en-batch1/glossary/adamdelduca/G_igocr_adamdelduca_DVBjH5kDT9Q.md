@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [CREATOR LESSONS]
 origin: sources/S_igocr_adamdelduca_DVBjH5kDT9Q.md
 ---
 
-# G_igocr_adamdelduca_DVBjH5kDT9Q — YouTube
+# G_igocr_adamdelduca_DVBjH5kDT9Q — CREATOR LESSONS
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, training, youtube, growth. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this post, "CREATOR LESSONS" is what a year of "YOUTUBE GROWTH AND CONTENT" is supposed to teach — the subject line of a cover slide, not a lesson itself. It appears once, at the bottom of an image that names only three months, "JAN", "FEB" and "DEC", under the heading "YOUTUBE GROWTH AND CONTENT". No lesson text survives in the OCR: the visible words are the title, the three months and the two-word subject, so the post promises lessons without showing any of them. A reader opening the carousel would find only this cover and the training call-to-action, so the lessons the title promises are not in this source.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "YOUTUBE GROWTH AND CONTENT JAN FEB DEC CREATOR LESSONS" — sources/S_igocr_adamdelduca_DVBjH5kDT9Q.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVBjH5kDT9Q.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 2 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as a summary of the year's lessons: the image lists only "JAN", "FEB" and "DEC" with the words "CREATOR LESSONS" and states no lesson at all.
+- Read as a complete year in review: only three of twelve months appear, so the slide is a cover for a year it does not actually walk through.

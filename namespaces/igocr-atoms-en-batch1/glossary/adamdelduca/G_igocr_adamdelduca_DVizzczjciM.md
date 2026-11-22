@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: adamdelduca
-aka: [YouTube, adamdelduca account context]
+aka: [$100k Biz]
 origin: sources/S_igocr_adamdelduca_DVizzczjciM.md
 ---
 
-# G_igocr_adamdelduca_DVizzczjciM — YouTube
+# G_igocr_adamdelduca_DVizzczjciM — $100k Biz
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (an Instagram OCR post from the adamdelduca account): it occurs 12 times in the text (whole-word matches, case folded), and the words most often collocated with it are: learn, youtube, channel, niche. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this carousel, a "$100k Biz" is what four tools together are claimed to run: a six-figure business built on faceless YouTube channels. It appears once, in the title "These 4 Tools Can Run A $100k Biz", above slides for "TubeLab", "VIDIQ", "TubeGen" and "Pikzels". Each tool covers one stage: TubeLab "Finds you high-profit niches", VIDIQ "Identifies high-interest video topics", TubeGen "Creates footage and edits your YouTube videos", and Pikzels "Creates your YouTube thumbnails using AI". A reader copying the carousel would collect the four tools in that order and treat them as the whole business, with no other tool or step named.
 
 ## Synonyms
 
-- YouTube
-- adamdelduca account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Adam | YouTube @Adam_DelDuca These 4 Tools Can Run A $100k Biz Swipe >>>" — sources/S_igocr_adamdelduca_DVizzczjciM.md
-> "VIDIQ Identifies high-interest video topics for your channel Get More Views & Subscribers on YouTube The Ultimate YouTube Growth Toolkit" — sources/S_igocr_adamdelduca_DVizzczjciM.md
-> "for my free YouTube training YouTube This was me before I started making videos on YouTube Note: Must be following so I can DM you" — sources/S_igocr_adamdelduca_DVizzczjciM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to an OCR-transcribed Instagram carousel of 6 images from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is OCR output transcribed from images, and recognition noise may distort the exact wording.
+- Read as proof that the four tools run a $100k business: the post names the tools and their jobs and shows no business, no revenue and no owner behind the $100k figure.
+- Read as four interchangeable tools: each slide gives one tool one job — niches, topics, footage and editing, thumbnails — so replacing one tool means replacing one stage.
