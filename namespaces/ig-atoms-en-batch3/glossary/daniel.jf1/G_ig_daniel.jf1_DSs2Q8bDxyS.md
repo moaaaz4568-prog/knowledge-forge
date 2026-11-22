@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["trading"]
+aka: ["day trading", "day trade"]
 origin: sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
 ---
 
-# G_ig_daniel.jf1_DSs2Q8bDxyS — trading
+# G_ig_daniel.jf1_DSs2Q8bDxyS — day trading
 
 ## Term
 
-Read here, 'trading' is the future cost daniel.jf1 names to make the present feel expensive — the lever the clip uses to move the person. It appears 5 times, it sits next to 'probably', 'commonly', and 'taught' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Day trading… This is the word the clip is built to deliver; 'nothing' is texture around it, not the point.
+Day trading is the opportunity Daniel calls the most commonly taught make-money-online idea in the world, and the promise he attacks is making money while doing nothing with your life. The phrase appears five times, beside 99.99999% failure rate, hedge funds, and D tier, and his numbers are the verdict: a 99.99999% failure rate, and a near certainty of losing money rather than making it. His concrete test is the opponent — billion dollar hedge funds spending hundreds of millions on advanced tech — against little Jimmy in his basement, and his sting is that the people who claim riches from it make their money selling the course or the coaching on it.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- day trade (the verb form Daniel uses in his closing warning, Don't day trade)
 
 ## Live Example
 
-> "Day trading. This is probably the most commonly taught business opportunity, make money online type of thing in the entire world. Because most people on the" — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
-> "money with day trading. You have to understand that all of the people who say they're rich from day trading make all of their money from selling the course or the coaching on it. The idea that you're somehow going to outperform billion dollar hedge funds" — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
+> "It is wildly and substantially more probable that you lose money day trading than you do make money." — sources/S_ig_daniel.jf1_DSs2Q8bDxyS.md
 
 ## When the Meaning Breaks
 
-- Read as a trading-technique term: in this source 'trading' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
-- Read as a rule for using 'trading': the clip shows daniel.jf1 using the word in one specific move (alongside 'outperform'), not a recommendation that the reader adopt the word themselves.
+- Read as a claim that no trader ever wins: Daniel gives a failure rate of 99.99999%, not 100%, and the point is the odds for most people, not a proof about every trade.
+- Read as a business like any other: he says flatly that it is not a business, and the money in it flows to course sellers, not to the trading itself.

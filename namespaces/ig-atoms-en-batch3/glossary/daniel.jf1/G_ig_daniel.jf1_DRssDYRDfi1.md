@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["desolate poverty"]
+aka: ["total top line"]
 origin: sources/S_ig_daniel.jf1_DRssDYRDfi1.md
 ---
 
-# G_ig_daniel.jf1_DRssDYRDfi1 — desolate poverty
+# G_ig_daniel.jf1_DRssDYRDfi1 — total top line
 
 ## Term
 
-Here 'desolate poverty' names the resource or move daniel.jf1 argues a person must use to compound effort into outcome. It appears once in the transcript, and it sits next to 'comparison' and 'literal' — a single occurrence that nonetheless anchors the clip's argument. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Like I thought I was the, and then… Take 'desolate poverty' out and the clip collapses into generalities about hundred — that is what makes it the term here, not just a word.
+Total top line is Daniel's name for his business's monthly revenue, and he uses it to date his least humble period: one hundred k to two hundred and fifty k a month. The phrase appears once, beside least humble and business, and the point turns on rooms full of richer people, where that same revenue looks like literal desolate poverty. His example is the contrast itself — a quarter-million month that felt like wealth alone in a room and sounded stupid next to people earning far more.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here 'desolate poverty' names the resource or move daniel.jf1 argues a person mu
 
 ## Live Example
 
-> "was the, and then you get in rooms with other people and you are just in comparison to them, literal desolate poverty, and not even that. It's like you just like sound so stupid when you talk about anything, next to them at all" — sources/S_ig_daniel.jf1_DRssDYRDfi1.md
+> "I was the least humble when my business, like the total top line, was like one hundred k two hundred and fifty k a month." — sources/S_ig_daniel.jf1_DRssDYRDfi1.md
 
 ## When the Meaning Breaks
 
-- Read as a generic business-school term: the source uses 'desolate poverty' to mark the specific move the clip is defending, not a category of business moves in general.
-- Read as evidence daniel.jf1 always uses 'desolate poverty' this way: one 73-word clip is too thin a sample to support any claim about how the account uses the word in general.
+- Read as profit: total top line here is the revenue figure Daniel quotes, and the clip never says what was left after costs.
+- Read as a boast about the number: Daniel brings the figure up to show how small it felt beside richer rooms, not to present it as a success to copy.

@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DTayTwKkdFV.md
 
 ## Term
 
-For daniel.jf1, 'office politics' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears twice, it sits next to 'because', 'promoted', and 'play' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: But then they get promoted because they know… Without 'office politics', the reel is just a clip about politics; with it, the clip is a claim.
+Office politics is the skill Daniel says beats competence at work: a co-worker wildly less competent than you, getting considerably less work done, gets promoted because they know how to play it. The phrase appears twice, beside promoted, play, and played better, and his scene is the watcher doing legitimately all of the useful work in the company while getting none of the rewards. His alternative is ownership — run your own business, have your own thing, and actually get rewarded for the amount of value you create, without someone else taking the reward for playing better.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'office politics' is the felt position the clip is teaching a pe
 
 ## Live Example
 
-> "Just really just isn't as good at them at all. But then they get promoted because they know how to play office politics. You're sitting here watching them do completely gall while you do legitimately actually all of the useful work in the company. Don't get" — sources/S_ig_daniel.jf1_DTayTwKkdFV.md
-> "value that you create, without feeling like someone else is gonna get all the reward because they played office politics better" — sources/S_ig_daniel.jf1_DTayTwKkdFV.md
+> "But then they get promoted because they know how to play office politics." — sources/S_ig_daniel.jf1_DTayTwKkdFV.md
 
 ## When the Meaning Breaks
 
-- Read as a generic training word: the source uses 'office politics' to point at one specific mechanic daniel.jf1 says is failing in the movement shown.
-- Read as evidence daniel.jf1 always uses 'office politics' this way: one 113-word clip is too thin a sample to support any claim about how the account uses the word in general.
+- Read as a claim that competence never wins: Daniel's complaint is about one co-worker and one promotion, and the clip never says no competent person is ever rewarded.
+- Read as advice to play politics yourself: his answer is to leave and run your own business, not to learn the game — the reward he wants is for value created, not for playing better.

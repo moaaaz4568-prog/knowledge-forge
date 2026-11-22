@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["million"]
+aka: ["small loan of a million dollars"]
 origin: sources/S_ig_daniel.jf1_DToLcdKjDth.md
 ---
 
-# G_ig_daniel.jf1_DToLcdKjDth — million
+# G_ig_daniel.jf1_DToLcdKjDth — small loan of a million dollars
 
 ## Term
 
-In daniel.jf1's framing, 'million' is the working concept the clip is built to install — not a tagline but the thing the rest of the advice depends on. It appears 3 times, it sits next to 'loan', 'father', and 'clowning' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: My father gave me a small loan of… Even the move around 'operated' only registers as a move because 'million' is the thing being moved toward.
+Small loan of a million dollars is the line Daniel borrows from Donald Trump's 2016 election clip — a loan people clowned on as anything but small — to attack the idea that using an advantage is unfair. The phrase appears three times, beside father, clowning, and use what you have, and his confession is the turn: he had always operated under the premise that anything he does has got to be fair, and he did not want to take advantage of something he could or could not have. His rule from the rethink is direct — people sit on some random advantage, like a dad who can give them the loan, and refuse it because then it wouldn't be fair, and he says don't do that, use what you have.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'million' is the working concept the clip is built to i
 
 ## Live Example
 
-> "around with him that everyone got pissed off at, and he said this. My father gave me a small loan of a million dollars. And people were like, oh, a small loan of a million dollars, and they were like clowning on him and sh t. I really thought that through" — sources/S_ig_daniel.jf1_DToLcdKjDth.md
-> "have some like, I don't know, some random f advantage, like a dad who can give you a small loan of a million dollars, and they'll say sh t, well, I don't want to use that because then it wouldn't be fair. Don't do that. Use what you have" — sources/S_ig_daniel.jf1_DToLcdKjDth.md
+> "My father gave me a small loan of a million dollars." — sources/S_ig_daniel.jf1_DToLcdKjDth.md
 
 ## When the Meaning Breaks
 
-- Read as a slogan: the clip uses 'million' as a working label for an idea daniel.jf1 is arguing, not as a tagline to be repeated.
-- Read as a recommendation to use 'million' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'original'); it does not argue the reader should adopt it.
+- Read as praise for Trump: the clip uses his line as an example of an advantage, and Daniel's point is about using what you have, not about the candidate.
+- Read as advice to take anything offered: the rule is to use an advantage you already have, and the clip never says to take what belongs to someone else.

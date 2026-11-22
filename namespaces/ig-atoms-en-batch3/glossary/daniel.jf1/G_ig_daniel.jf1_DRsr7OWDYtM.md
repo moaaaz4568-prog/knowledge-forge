@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DRsr7OWDYtM.md
 
 ## Term
 
-In the daniel.jf1 reel, 'decrease desire' is the concept daniel.jf1 keeps returning to as the thing that decides whether the rest of the advice lands. It appears once in the transcript, and it sits next to 'peaceful' and 'simply' — a single occurrence that nonetheless anchors the clip's argument. The clip uses it to mark where the work actually happens — the framing runs: If you want to live a peaceful life… It is the one word in this source that, if removed, would leave 'status' without a frame to hang on.
+Daniel treats decrease desire as his shortcut to a peaceful life: wanting less is what quiets the chase for status, cars, and girls that fills the rest of the clip. The phrase is used once, beside peaceful life and simply, right after he says he wants kids and status and that those wants drive his actions. His concrete case is blunt — without women, he says, men would not chase riches or status at all — so the advice lands as a trade: keep the wants and keep striving, or shrink the wants and the striving shrinks with them.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In the daniel.jf1 reel, 'decrease desire' is the concept daniel.jf1 keeps return
 
 ## Live Example
 
-> "I want these things, that's why I do my actions. If you want to live a peaceful life, you can simply decrease desire" — sources/S_ig_daniel.jf1_DRsr7OWDYtM.md
+> "If you want to live a peaceful life, you can simply decrease desire." — sources/S_ig_daniel.jf1_DRsr7OWDYtM.md
 
 ## When the Meaning Breaks
 
-- Read as a slogan: the clip uses 'decrease desire' as a working label for an idea daniel.jf1 is arguing, not as a tagline to be repeated.
-- Read as a stylistic choice by daniel.jf1: the wording around 'decrease desire' (e.g. the collocation with 'girls') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a diet or meditation technique: Daniel is talking about shrinking wants like status and kids, not about a wellness practice, and the clip gives no method for doing it.
+- Read as a claim that wanting kids or status is wrong: he says those are exactly the things he wants, and decrease desire is only his route to peace, not a judgment on the wants themselves.

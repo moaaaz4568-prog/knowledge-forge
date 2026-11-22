@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["recognize whether"]
+aka: ["differentiator"]
 origin: sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
 ---
 
-# G_ig_daniel.jf1_DRvcOJkDUeT — recognize whether
+# G_ig_daniel.jf1_DRvcOJkDUeT — differentiator
 
 ## Term
 
-Read in this clip, 'recognize whether' is what daniel.jf1 says a person must already have working for them before tactics can compound. It appears once in the transcript, and it sits next to 'well', 'poorly', and 'ability' — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: Your ability to recognize whether an output is… 'recognize whether' is what the rest of the clip is trying to justify — even 'output' reads as evidence for it.
+Differentiator is the question Daniel uses to sort AI agencies: two sellers can both run a service business on in-demand offers with AI doing 90% of the work, and the one who wins is the one who can tell good output from bad. The word appears once, beside ethical and results, and his ethics test is the same test — if it gets results, the AI-heavy model is fine. His concrete case is the agency itself: selling offers while AI does the work, with the human's judgment of output quality as the only edge that matters.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Read in this clip, 'recognize whether' is what daniel.jf1 says a person must alr
 
 ## Live Example
 
-> "differentiator between someone that does that well and someone that will do that poorly? Your ability to recognize whether an output is actually good quality or not" — sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
+> "What's the differentiator between someone that does that well and someone that will do that poorly?" — sources/S_ig_daniel.jf1_DRvcOJkDUeT.md
 
 ## When the Meaning Breaks
 
-- Read as a synonym for effort: 'recognize whether' here is the multiplier on effort, not the effort itself.
-- Read as a stylistic choice by daniel.jf1: the wording around 'recognize whether' (e.g. the collocation with 'ability') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a feature list for an agency: the differentiator here is a human skill, recognizing whether an output is actually good quality, not a tool or a price.
+- Read as permission to fake the work: Daniel's condition is that the work gets results, and the clip never says clients should be told a human did what AI did.

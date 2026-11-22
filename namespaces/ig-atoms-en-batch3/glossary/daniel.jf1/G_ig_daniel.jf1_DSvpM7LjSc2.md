@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["multiple families"]
+aka: ["for a quarter"]
 origin: sources/S_ig_daniel.jf1_DSvpM7LjSc2.md
 ---
 
-# G_ig_daniel.jf1_DSvpM7LjSc2 — multiple families
+# G_ig_daniel.jf1_DSvpM7LjSc2 — for a quarter
 
 ## Term
 
-Read here, 'multiple families' is the body cue daniel.jf1 says the person must learn to feel before any external cue can help. It appears once in the transcript, and it sits next to 'feeding' each time it appears — a single occurrence that nonetheless anchors the clip's argument. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I pay them a fraction of what I'd… The clip's claim about 'feeding' is conditional on 'multiple families' doing the work — without it, the claim is just mood.
+For a quarter is Daniel's price for hiring abroad: what you would get in Lebanon for a quarter of the US cost. The phrase is used once, beside Lebanon, cheaper, and work harder, and the comparison is blunt — never hire somebody in the United States, because it is too expensive for a lazier person. His concrete terms are the trade itself: cheaper, harder work, longer hours, gratitude for it, a fraction of US pay, and multiple families fed on the difference.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Read here, 'multiple families' is the body cue daniel.jf1 says the person must l
 
 ## Live Example
 
-> "be grateful for it. I pay them a fraction of what I'd have to pay somebody in the US, and I'm feeding multiple families" — sources/S_ig_daniel.jf1_DSvpM7LjSc2.md
+> "It's too expensive for a lazier person compared to what you would get in Lebanon for a quarter." — sources/S_ig_daniel.jf1_DSvpM7LjSc2.md
 
 ## When the Meaning Breaks
 
-- Read as a gym jargon word: the source uses 'multiple families' to name the one mechanic that, if missed, makes the rest of the rep useless.
-- Read as a rule for using 'multiple families': the clip shows daniel.jf1 using the word in one specific move (alongside 'expensive'), not a recommendation that the reader adopt the word themselves.
+- Read as a wage recommendation for all roles: the clip compares one hire in Lebanon against one in the US, and it never sets a rate for any other country or job.
+- Read as a claim that cheaper means worse: Daniel says the Lebanon hires work harder and longer and are grateful, so the quarter price is paired with better work in his telling, not worse.

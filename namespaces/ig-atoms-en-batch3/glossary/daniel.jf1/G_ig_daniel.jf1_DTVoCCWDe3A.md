@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["daniel.jf1"]
+aka: ["bored"]
 origin: sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
 ---
 
-# G_ig_daniel.jf1_DTVoCCWDe3A — There's a lot of people who haven't been bored in years. Lik…
+# G_ig_daniel.jf1_DTVoCCWDe3A — bored
 
 ## Term
 
-The daniel.jf1 clip is a short caption of 73 words with no working concept behind it — every word in it is in service of the rhythm, not a claim. The honest treatment is to record the clip's full text and state plainly that there is no term to extract: "There's a lot of people who haven't been bored in years. Like you're not entertained, but you're not bored. What is bored? Bored is like you have legitimately nothing to do at all. You would be bored…".
+Bored is the state Daniel says people have not felt in years: not entertained, but not bored either, because the phone always fills the gap. The word appears five times, beside entertained, legitimately nothing to do, and stimuli, and his definition is strict — bored means you have legitimately nothing to do at all. His test is the phone removed: without it you would just want to work or go to the gym because it is some stimuli, and absent that stimulus you would do hella more.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ The daniel.jf1 clip is a short caption of 73 words with no working concept behin
 
 ## Live Example
 
-> "There's a lot of people who haven't been bored in years. Like you're not entertained, but you're not bored. What is bored? Bored is like you have legitimately nothing to do at all. You would be bored without your phone, and that you would just want to work or you would just want to go to the gym because it's some stimuli. Absent of that stimulus, the phone, you would do hella m" — sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
+> "What is bored? Bored is like you have legitimately nothing to do at all." — sources/S_ig_daniel.jf1_DTVoCCWDe3A.md
 
 ## When the Meaning Breaks
 
-- Read as a hook worth indexing: the clip's phrasing (including 'without') is what carries the mood, not a label being defined.
-- Read as a tagline to be quoted: extracting any phrase from here as the clip's slogan would be putting words on a string that has no thesis behind it.
+- Read as a complaint about phones: Daniel's point is about what boredom is and what its absence costs, and the phone is the stimulus that blocks it, not the whole argument.
+- Read as a claim that boredom is good: the clip says you would do hella more without the phone, and it never says boredom itself is pleasant or worth chasing.

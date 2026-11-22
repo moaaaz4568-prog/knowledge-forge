@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["writing"]
+aka: ["AI text generation"]
 origin: sources/S_ig_daniel.jf1_DU8E95rGFfv.md
 ---
 
-# G_ig_daniel.jf1_DU8E95rGFfv — writing
+# G_ig_daniel.jf1_DU8E95rGFfv — AI text generation
 
 ## Term
 
-For daniel.jf1, 'writing' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears 6 times, it sits next to 'ghost', 'somebody's', and 'funnels' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Writing ads, building and writing funnels, and running… It is the one word in this source that, if removed, would leave 'identified' without a frame to hang on.
+AI text generation is the capability Daniel says is completely cracked right now: very good, usable for a lot, and the base for five text-based business models. The phrase is used once, beside completely cracked, five of these, and maximum capacity, and the five he identifies are the list itself — cold email lead generation, ads and funnels, content marketing, e-com email, and an AI automation agency. His concrete pictures are the work: ghost writing somebody's LinkedIn post or Twitter post, writing video scripts, and building flows for an e-commerce brand's email campaigns.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'writing' is the felt position the clip is teaching a person to 
 
 ## Live Example
 
-> "you send cold emails on behalf of clients to book them sales calls. Now, ads/funnels. What is this? Writing ads, building and writing funnels, and running ads for a client in order to get them sales calls booked or make them direct sales of their product" — sources/S_ig_daniel.jf1_DU8E95rGFfv.md
-> "video scripts. This is ghost writing, so you could be like ghost writing somebody's LinkedIn post, ghost writing somebody's Twitter post, planning out content for people. Then we have e-com email. This is when you go to e-commerce brands and you offer to write" — sources/S_ig_daniel.jf1_DU8E95rGFfv.md
+> "AI text generation is completely cracked right now. It's very good." — sources/S_ig_daniel.jf1_DU8E95rGFfv.md
 
 ## When the Meaning Breaks
 
-- Read as a generic training word: the source uses 'writing' to point at one specific mechanic daniel.jf1 says is failing in the movement shown.
-- Read as a claim about how daniel.jf1 uses 'writing' across their work: this single 213-word clip only shows the term's use in this one piece, not its role in the account's wider argument.
+- Read as a claim that AI writes perfectly: completely cracked is Daniel's praise for how good it is right now, and the clip lists business models built on it, not a test of its output.
+- Read as a list of five separate businesses: the five share one base — text work AI can do to the maximum capacity — and the clip presents them as options from that base, not as unrelated ideas.

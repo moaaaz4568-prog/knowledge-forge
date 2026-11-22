@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["excluding referrals"]
+aka: ["cold traffic"]
 origin: sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
 ---
 
-# G_ig_daniel.jf1_DRx9iYMDUOy — excluding referrals
+# G_ig_daniel.jf1_DRx9iYMDUOy — cold traffic
 
 ## Term
 
-In daniel.jf1's framing, 'excluding referrals' is the missing mechanic — the thing daniel.jf1 says is failing underneath every other issue the person reports. It appears once in the transcript, and it sits next to 'three', 'ways', and 'acquire' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: And we're excluding referrals here because we're talking… Without 'excluding referrals' as the anchor, 'traffic' and 'clients' would float without a stake in the argument.
+Cold traffic is the audience Daniel's three client-acquisition ways are built for: strangers, not referrals. The phrase is used once, beside excluding referrals, and the three ways follow from it — content, so people stumble upon you organically; outreach, cold outreach to people who do not know you; and ads, bought from a social platform. His rule is absolute: every client acquisition method anybody will ever teach is one of these three, and referrals sit outside the list on purpose.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ In daniel.jf1's framing, 'excluding referrals' is the missing mechanic — the t
 
 ## Live Example
 
-> "Three ways only to acquire clients, right? And we're excluding referrals here because we're talking about cold traffic. You have content, so people can stumble upon you organically. You have outreach, so" — sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
+> "And we're excluding referrals here because we're talking about cold traffic." — sources/S_ig_daniel.jf1_DRx9iYMDUOy.md
 
 ## When the Meaning Breaks
 
-- Read as a generic fitness term: in this clip, 'excluding referrals' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
-- Read as a recommendation to use 'excluding referrals' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'stumble'); it does not argue the reader should adopt it.
+- Read as any stranger online: cold traffic here means people who do not know you at all, which is why referrals are explicitly excluded from the count.
+- Read as a fourth method alongside the three: the clip counts exactly three ways, and cold traffic is the shared audience for all of them, not an extra channel.

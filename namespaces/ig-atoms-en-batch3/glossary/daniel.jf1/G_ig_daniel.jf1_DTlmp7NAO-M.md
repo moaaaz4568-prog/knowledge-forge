@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["successful"]
+aka: ["due diligence"]
 origin: sources/S_ig_daniel.jf1_DTlmp7NAO-M.md
 ---
 
-# G_ig_daniel.jf1_DTlmp7NAO-M — successful
+# G_ig_daniel.jf1_DTlmp7NAO-M — due diligence
 
 ## Term
 
-Read here, 'successful' is the body cue daniel.jf1 says the person must learn to feel before any external cue can help. It appears 3 times, it sits next to 'understand', 'because', and 'never' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: However, something that you just don't understand because… It is the one word in this source that, if removed, would leave 'because' without a frame to hang on.
+Due diligence is the vetting Daniel says desperate beginners cannot do: check whether a client's business is actually good before signing them. The phrase is used once, beside desperate, first client, and good business, and his opening rule is the reason — don't sign broke clients. The trap he describes is the younger seller's premise: the client is 10, 15, 20 years older, runs a business, has employees, so they must be successful — when most people are dead broke, exaggerate how much money they make, and act like they know much more than they do. Without the check, the seller gets bullied on the sales call and cannot sift through the bullshit about how garbage the business is.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Read here, 'successful' is the body cue daniel.jf1 says the person must learn to
 
 ## Live Example
 
-> "says. Valid fear. However, something that you just don't understand because you've never operated a successful business is that if a client can't get results, it's most of the time that they just run a business. What happens is because you're so desperate" — sources/S_ig_daniel.jf1_DTlmp7NAO-M.md
-> "dead broke. Most people, they exaggerate how much money they make. They make themselves look way more successful than they are. They have a huge ego. They act like they know much more than they actually do. It's very easy for you to kind of get like bullied" — sources/S_ig_daniel.jf1_DTlmp7NAO-M.md
+> "What happens is because you're so desperate to get your first client, you are incapable of conducting any kind of due diligence on a client's business because you don't understand what is versus is not a good business." — sources/S_ig_daniel.jf1_DTlmp7NAO-M.md
 
 ## When the Meaning Breaks
 
-- Read as a generic training word: the source uses 'successful' to point at one specific mechanic daniel.jf1 says is failing in the movement shown.
-- Read as a tagline worth extracting: the source shows daniel.jf1 using 'successful' as a working label in one specific argument (visible in the collocation with 'older'), not as a slogan the reader is meant to repeat.
+- Read as a checklist Daniel provides: the clip names due diligence but never lists its steps — the point is that desperation blocks it, not how to perform it.
+- Read as a claim that all older business owners are broke: Daniel says most people are dead broke and exaggerate, and the lesson is to verify instead of assuming success from age or employees.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["youtube"]
+aka: ["faceless YouTube channels"]
 origin: sources/S_ig_daniel.jf1_DSijGKXEVMa.md
 ---
 
-# G_ig_daniel.jf1_DSijGKXEVMa — youtube
+# G_ig_daniel.jf1_DSijGKXEVMa — faceless YouTube channels
 
 ## Term
 
-'youtube' in this clip is the lever that converts effort into reach — daniel.jf1 insists the value sits in the doing, not the perfecting. It appears 4 times, it sits next to 'faceless', 'channels', and 'script' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: Faceless YouTube channels… The clip's claim about 'editing' is conditional on 'youtube' doing the work — without it, the claim is just mood.
+Faceless YouTube channels are the AI-scripted channels Daniel puts in C tier: you script out videos, add some video editing, and try to run channels with no person on screen. The phrase is used once, beside script out, video editing, and AI, and his objection is that YouTube actively doesn't want this to be a thing — people run ten channels and get banned in them all the time. His contrast is the legitimate YouTube channel, which he calls A tier, against this version, which is not.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ origin: sources/S_ig_daniel.jf1_DSijGKXEVMa.md
 
 ## Live Example
 
-> "Faceless YouTube channels. This is where you script out YouTube videos and like, you gotta have some like video editing. A lot of people are trying to do this with" — sources/S_ig_daniel.jf1_DSijGKXEVMa.md
-> "People have like 10 channels or something, they get banned in it all the time. And having a legitimate YouTube channel would be like A tier. This, this is not. This is probably going in C tier" — sources/S_ig_daniel.jf1_DSijGKXEVMa.md
+> "Faceless YouTube channels. This is where you script out YouTube videos and like, you gotta have some like video editing." — sources/S_ig_daniel.jf1_DSijGKXEVMa.md
 
 ## When the Meaning Breaks
 
-- Read as a vague content verb: in daniel.jf1's usage here, 'youtube' is pinned to the moment of shipping, not the whole content pipeline.
-- Read as proof the term is load-bearing for daniel.jf1 in general: a 81-word clip with the word 'youtube' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.
+- Read as a ban on all AI in video: Daniel's target is faceless channels run at scale with AI, and the clip never says AI editing help on a real channel is banned.
+- Read as a claim that faceless channels earn nothing: the clip's verdict is about bans and tiers, and it never quotes earnings — the risk named is losing the channels, not earning zero.

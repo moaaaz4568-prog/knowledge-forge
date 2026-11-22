@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["intelligent person"]
+aka: ["AI automation agency"]
 origin: sources/S_ig_daniel.jf1_DTd4UDGlJ6C.md
 ---
 
-# G_ig_daniel.jf1_DTd4UDGlJ6C — intelligent person
+# G_ig_daniel.jf1_DTd4UDGlJ6C — AI automation agency
 
 ## Term
 
-In daniel.jf1's reel, 'intelligent person' names the body mechanic daniel.jf1 isolates as the root of the movement problem. It appears twice, it sits next to 'technical', 'dickhead', and 'assume' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: People do pay for this, but it's not… Anything else in the clip orbits this word — strip out 'intelligent person' and the rest reads as filler around 'assume'.
+AI automation agency is the business Daniel calls legitimate but not for beginners: people do pay for it, but it is not for people who are not a technical person and not an intelligent person. The phrase is used once, beside legitimate business, 130 plus IQ, and A tier, and his gate is a number — not a business model for somebody without a 130 plus IQ, and if your IQ is below 120, don't run this business. His grading follows the gate exactly: above 120 it is A tier, below 120 it is a D, and he assumes the viewer is intelligent, so he puts it in A tier.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's reel, 'intelligent person' names the body mechanic daniel.jf1 is
 
 ## Live Example
 
-> "a business for beginners or for people who are like, you're not a technical person and you're not an intelligent person. I don't want to be like a dickhead, but some of you guys got to understand that a lot of you are retarded. Right, you just are. And" — sources/S_ig_daniel.jf1_DTd4UDGlJ6C.md
-> "above 120, this is an A tier business model. If it's below 120, it's a D. But I'm gonna assume you're an intelligent person watching this video, so I'm gonna put it in A tier" — sources/S_ig_daniel.jf1_DTd4UDGlJ6C.md
+> "AI automation agency, what is this? This is a legitimate business." — sources/S_ig_daniel.jf1_DTd4UDGlJ6C.md
 
 ## When the Meaning Breaks
 
-- Read as a generic fitness term: in this clip, 'intelligent person' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
-- Read as a recommendation to use 'intelligent person' yourself: the clip shows daniel.jf1 using the word in one specific move (visible in the collocation with 'retarded'); it does not argue the reader should adopt it.
+- Read as a measured IQ requirement: the 120 and 130 figures are Daniel's own cutoffs in the clip, and the source gives no test behind them.
+- Read as a business anyone can learn: Daniel says the opposite — it is not for beginners or non-technical people — and the A tier grade is conditional on clearing his bar.

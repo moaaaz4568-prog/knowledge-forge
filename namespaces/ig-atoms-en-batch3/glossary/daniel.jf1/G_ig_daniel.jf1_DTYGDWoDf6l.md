@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["fun"]
+aka: ["go on a yacht"]
 origin: sources/S_ig_daniel.jf1_DTYGDWoDf6l.md
 ---
 
-# G_ig_daniel.jf1_DTYGDWoDf6l — fun
+# G_ig_daniel.jf1_DTYGDWoDf6l — go on a yacht
 
 ## Term
 
-For daniel.jf1, 'fun' is the load-bearing word of the clip — the concept the rest of the talk is built to deliver. It appears 4 times, it sits next to 'girls', 'tickets', and 'attracted' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Are we having fun… The clip's relationship to 'attractive' only makes sense as a vehicle for delivering 'fun'.
+Go on a yacht is Daniel's easiest way to get girls out: not dollars in a bank account, not cars, but activities and fun. The phrase appears twice, beside attracted to fun, tickets, and coffee, and his contrast is the whole argument — girls want to have fun and are attracted to fun, so a yacht beats asking her to meet for a coffee, which is so boring. His concrete comparison is the ask itself: a yacht you can bring friends on against a coffee that makes your life so much more difficult.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'fun' is the load-bearing word of the clip — the concept the r
 
 ## Live Example
 
-> "does this get us? I don't even think they care about cars. They care about activities. Are we having fun? Can we do this? Can we go here? Can we get tickets to this? It's fun. Girls want to have fun. They're attracted to fun. What's one of the easiest" — sources/S_ig_daniel.jf1_DTYGDWoDf6l.md
-> "Can we go here? Can we get tickets to this? It's fun. Girls want to have fun. They're attracted to fun. What's one of the easiest things to get girls out? Do you want to go on a yacht? You can bring your friends. It's the single best possible thing to" — sources/S_ig_daniel.jf1_DTYGDWoDf6l.md
+> "Do you want to go on a yacht? You can bring your friends. It's the single best possible thing to do." — sources/S_ig_daniel.jf1_DTYGDWoDf6l.md
 
 ## When the Meaning Breaks
 
-- Read as the term in another sense: 'fun' here is pinned to one specific claim in this clip, and the same word in another source from daniel.jf1 may carry a different load.
-- Read as polished prose: this is a verbatim transcript of a 126-word Instagram clip, and the wording around 'fun' (including the collocation with 'bring') is spoken speech, not edited writing.
+- Read as a claim that money doesn't matter: Daniel says the dollars and cars don't attract, and the yacht is his example of fun — the point is what the money buys, not that money is irrelevant.
+- Read as dating advice for everyone: the clip is Daniel's own pitch logic for getting girls out, and it never claims the yacht works for every person or every situation.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["place"]
+aka: ["take home after tax"]
 origin: sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
 ---
 
-# G_ig_daniel.jf1_DSqu3QxDRfz — place
+# G_ig_daniel.jf1_DSqu3QxDRfz — take home after tax
 
 ## Term
 
-For daniel.jf1, 'place' is the idea the clip is engineered to deliver — the concept without which the surrounding advice floats free. It appears 3 times, it sits next to 'island', 'super', and 'nice' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: In 2019, we lived in downtown Tampa, Harbor… Pull 'place' and the clip's spine comes loose — 'downtown' would still be there but would not point at anything.
+Take home after tax is Daniel's yardstick for a good life: thirteen thousand dollars a month, after tax, as the floor. The phrase is used once, beside good life, $13,000 a month, and credit card debt, and his evidence is the price ladder of ordinary life — a normal basic life requires $10,000 a month for a singular human, childcare triples it, a Chipotle bowl is $22 against $8 in college. His closing proof is a single apartment in downtown Tampa: $1,800 a month in 2019, $4,200 now, same place, not renovated — just inflation.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'place' is the idea the clip is engineered to deliver — the co
 
 ## Live Example
 
-> "Everything is stupidly more expensive. In 2019, we lived in downtown Tampa, Harbor Island, super nice place. It was $1,800 a month. That same place now is like $4,200 a month. Same place, wasn't renovated or anything. It's just inflation" — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
-> "Harbor Island, super nice place. It was $1,800 a month. That same place now is like $4,200 a month. Same place, wasn't renovated or anything. It's just inflation" — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
+> "You cannot live any form of a good life on anything less than like $13,000 a month take home after tax." — sources/S_ig_daniel.jf1_DSqu3QxDRfz.md
 
 ## When the Meaning Breaks
 
-- Read as a vague motivational word: the source uses 'place' as a working concept daniel.jf1 is installing in this clip, not a generic self-help label.
-- Read as a clean transcript: the wording around 'place' (including the run-on near 'triple') is spoken speech, with the run-ons and fillers that come with that — not edited prose.
+- Read as a salary demand for everyone: the figure is Daniel's threshold for any form of a good life, and the clip never says every job should pay it.
+- Read as a claim that $13,000 buys luxury: the examples are ordinary — a bowl, a trip to Disney, rent on the same apartment — and the point is that basics now cost that much.

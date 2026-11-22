@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["place"]
+aka: ["take home after tax"]
 origin: sources/S_ig_daniel.jf1_DU-pwzVgVU5.md
 ---
 
-# G_ig_daniel.jf1_DU-pwzVgVU5 — place
+# G_ig_daniel.jf1_DU-pwzVgVU5 — take home after tax
 
 ## Term
 
-In the daniel.jf1 reel, 'place' is the concept daniel.jf1 keeps returning to as the thing that decides whether the rest of the advice lands. It appears 3 times, it sits next to 'hundred', 'eighteen', and 'forty' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: In twenty nineteen, we lived in downtown Tampa… The clip's relationship to 'twenty' only makes sense as a vehicle for delivering 'place'.
+Take home after tax is the floor Daniel sets for a good life in this telling: thirteen thousand dollars a month, spelled out in words, with the same prices behind it as his other telling. The phrase is used once, beside good life, thirteen thousand dollars, and credit card debt, and his evidence is again the ordinary ladder — a normal basic life takes ten thousand dollars a month for a singular human, childcare triples it, a Chipotle bowl costs twenty two dollars against eight dollars in college. His closing proof is the same Tampa apartment in words: eighteen hundred dollars a month in twenty nineteen, forty two hundred now, same place, wasn't renovated — just inflation.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In the daniel.jf1 reel, 'place' is the concept daniel.jf1 keeps returning to as 
 
 ## Live Example
 
-> "is stupidly more expensive. In twenty nineteen, we lived in downtown Tampa, Harbor Island, super nice place. It was eighteen hundred dollars a month. That same place now is like forty two hundred dollars a month. Same place, wasn't renovated or anything" — sources/S_ig_daniel.jf1_DU-pwzVgVU5.md
-> "eighteen hundred dollars a month. That same place now is like forty two hundred dollars a month. Same place, wasn't renovated or anything. It's just inflation" — sources/S_ig_daniel.jf1_DU-pwzVgVU5.md
+> "You cannot live any form of a good life on anything less than like thirteen thousand dollars a month take home after tax." — sources/S_ig_daniel.jf1_DU-pwzVgVU5.md
 
 ## When the Meaning Breaks
 
-- Read as the term in another sense: 'place' here is pinned to one specific claim in this clip, and the same word in another source from daniel.jf1 may carry a different load.
-- Read as polished prose: this is a verbatim transcript of a 157-word Instagram clip, and the wording around 'place' (including the collocation with 'thousand') is spoken speech, not edited writing.
+- Read as a salary demand for everyone: the figure is Daniel's threshold for any form of a good life, and the clip never says every job should pay it.
+- Read as a claim that thirteen thousand buys luxury: the examples are ordinary — a bowl, a trip to Disney, rent on the same apartment — and the point is that basics now cost that much.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["cosmetic surgeon"]
+aka: ["high-end clients"]
 origin: sources/S_ig_daniel.jf1_DS-35mziFz3.md
 ---
 
-# G_ig_daniel.jf1_DS-35mziFz3 — cosmetic surgeon
+# G_ig_daniel.jf1_DS-35mziFz3 — high-end clients
 
 ## Term
 
-For daniel.jf1, 'cosmetic surgeon' is the felt position the clip is teaching a person to find — the thing that, once felt, makes the rest of the rep make sense. It appears twice, it sits next to 'high-end', 'clients', and 'laptop' — the repetition is what makes it the spine of the clip rather than a passing word. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: A lot of people feel intimidated by high-end… The clip is engineered so that 'clients' lands as setup, not payoff; the payoff is the move 'cosmetic surgeon' names.
+High-end clients are the buyers Daniel says beginners fear for no reason: people feel intimidated and ask who they are to work with a cosmetic surgeon, as just a guy with a laptop. The phrase is used once, beside intimidated and feel, and his answer is that these people need marketing help just as much as anybody else — they are not some fantasy level of human who will look down and scoff. His concrete numbers make the case: ten extra procedures a month is $150,000, and the surgeon will happily pay $10,000 of that, regardless of who you are.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'cosmetic surgeon' is the felt position the clip is teaching a p
 
 ## Live Example
 
-> "Who am I to work with the cosmetic surgeon? I'm just a guy with a laptop" — sources/S_ig_daniel.jf1_DS-35mziFz3.md
-> "much as anybody else. They're not some fantasy level of human who's gonna look down and scoff at you. A cosmetic surgeon who goes from 10 procedures per month to 20 procedures per month just made an extra $150,000 in that month. They'll happily pay you $10" — sources/S_ig_daniel.jf1_DS-35mziFz3.md
+> "A cosmetic surgeon who goes from 10 procedures per month to 20 procedures per month just made an extra $150,000 in that month." — sources/S_ig_daniel.jf1_DS-35mziFz3.md
 
 ## When the Meaning Breaks
 
-- Read as a coaching cliché: 'cosmetic surgeon' here is loaded with a specific felt-position meaning by daniel.jf1, not a vague cue.
-- Read as a clean transcript: the wording around 'cosmetic surgeon' (including the run-on near 'extra') is spoken speech, with the run-ons and fillers that come with that — not edited prose.
+- Read as a claim that high-end clients are easy to close: Daniel says they will pay once the value is shown, not that they need no selling — the intimidation is the obstacle, not the price.
+- Read as advice to target only surgeons: the cosmetic surgeon is his example of a high-end client, and the point is about the whole class of expensive buyers, not about one profession.

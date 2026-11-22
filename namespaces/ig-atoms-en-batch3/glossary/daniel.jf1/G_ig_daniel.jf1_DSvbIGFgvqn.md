@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["clients' businesses"]
+aka: ["hard mode"]
 origin: sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
 ---
 
-# G_ig_daniel.jf1_DSvbIGFgvqn — clients' businesses
+# G_ig_daniel.jf1_DSvbIGFgvqn — hard mode
 
 ## Term
 
-Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the difference between a rep that builds and a rep that just tires. It appears once in the transcript, and it sits next to 'apply', 'rules', and 'ignore' — a single occurrence that nonetheless anchors the clip's argument. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: The same rules that apply to your business… Take 'clients' businesses' out and the clip collapses into generalities about clients' — that is what makes it the term here, not just a word.
+Hard mode is Daniel's name for running an agency on any economics but high ticket: the same rules that apply to your business also apply to your clients' businesses, and ignoring that means you will not make money. The phrase appears twice, beside economics, sell high ticket, and playing, and his logic is that everybody already says to sell high ticket for exactly this reason. His advice is a refusal, not a tactic — there is absolutely zero reason to relegate your life to playing on hard mode, so simply stop doing that and do what's easy.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Here, 'clients' businesses' names the felt adjustment daniel.jf1 insists is the 
 
 ## Live Example
 
-> "Here's what most people don't understand. The same rules that apply to your business also apply to your clients' businesses. And if you ignore this fact, you will not make any money in your agency. This is the reason why everybody says to sell high ticket" — sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
+> "It's because the economics any other way are on hard mode." — sources/S_ig_daniel.jf1_DSvbIGFgvqn.md
 
 ## When the Meaning Breaks
 
-- Read as an anatomy term: in this clip 'clients' businesses' is daniel.jf1's coaching cue for a felt position, not a clinical label.
-- Read as a rule for using 'clients' businesses': the clip shows daniel.jf1 using the word in one specific move (alongside 'clients''), not a recommendation that the reader adopt the word themselves.
+- Read as a difficulty setting you can out-skill: Daniel treats hard mode as the economics themselves, and his fix is to change the economics by selling high ticket, not to grind harder.
+- Read as laziness: the clip's easy way is high-ticket economics, and the hard way is the same work for worse pay — the point is the model, not the effort.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["long-term relationship"]
+aka: ["out of your system"]
 origin: sources/S_ig_daniel.jf1_DTiu-osAUKC.md
 ---
 
-# G_ig_daniel.jf1_DTiu-osAUKC — long-term relationship
+# G_ig_daniel.jf1_DTiu-osAUKC — out of your system
 
 ## Term
 
-Read here, 'long-term relationship' is the distinction daniel.jf1 is actually drawing — the line the rest of the clip is staged to make stick. It appears twice, it sits next to 'wants', 'person', and 'date' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: So I think that if you're the kind… It is the one word in this source that, if removed, would leave 'continuously' without a frame to hang on.
+Out of your system is the idea Daniel rejects: that dating enough girls empties the urge out of you, so you can then settle down with a wife. The phrase appears twice, beside get something, entrench, and long-term relationship, and his correction reverses the direction — you get things in your system, and if you keep doing it, you entrench yourself more in that continuously over and over. His advice skips the count entirely: if you want a long-term relationship, just go have one, because there is no number of people that gets it out of your system.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Read here, 'long-term relationship' is the distinction daniel.jf1 is actually dr
 
 ## Live Example
 
-> "over and over and over again. So I think that if you're the kind of person who just wants to go have a long-term relationship, just go have a long-term relationship. There's no like go date this many people, go be with this many people. You're not gonna" — sources/S_ig_daniel.jf1_DTiu-osAUKC.md
-> "that if you're the kind of person who just wants to go have a long-term relationship, just go have a long-term relationship. There's no like go date this many people, go be with this many people. You're not gonna get it out of your system. You're gonna" — sources/S_ig_daniel.jf1_DTiu-osAUKC.md
+> "There's this idea that you can get something out of your system, like if I just go enough girls, I'm gonna get it out of my system, and then I want to go be with my wife." — sources/S_ig_daniel.jf1_DTiu-osAUKC.md
 
 ## When the Meaning Breaks
 
-- Read as a buzzword: in daniel.jf1's usage, 'long-term relationship' is loaded with a specific working meaning (visible in the collocation with 'system'), not the dictionary sense.
-- Read as a stylistic choice by daniel.jf1: the wording around 'long-term relationship' (e.g. the collocation with 'system') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a claim that dating changes nothing: Daniel says dating more entrenches the pattern further, so the effect he describes is real — it runs the wrong way.
+- Read as advice against dating at all: the clip's advice is to go have the long-term relationship you want directly, not to avoid relationships.

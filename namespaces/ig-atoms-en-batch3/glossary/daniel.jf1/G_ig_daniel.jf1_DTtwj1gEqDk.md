@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DTtwj1gEqDk.md
 
 ## Term
 
-In daniel.jf1's reel, 'scarcity mindset' is the point where the stated problem becomes emotional — the moment daniel.jf1 says the sale actually happens. It appears twice, it sits next to 'operate', 'often', and 'whether' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: Internet business owners below like 10K, 20K a… The reel earns its keep only because 'scarcity mindset' is doing the lifting; 'results' alone would be filler.
+Scarcity mindset is the habit Daniel blames for stalled internet businesses: owners below 10K or 20K a month are afraid to reinvest into their business, whether hiring, marketing tools, or education. The phrase appears twice, beside spend money to make money, reinvest, and stingy, and his challenge is the mirror — how do you expect people to give you money for your services when you refuse to invest anything into your own business? His prescription is to personally dissociate from your company's money, because the more you operate under it, the more opportunities you miss and the more you're gonna be punished for being stingy.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's reel, 'scarcity mindset' is the point where the stated problem b
 
 ## Live Example
 
-> "money to make money. Internet business owners below like 10K, 20K a month, they often operate with the scarcity mindset. Whether it's hiring or marketing tools, education, whatever, they're afraid to reinvest into their business. Now let me ask you this" — sources/S_ig_daniel.jf1_DTtwj1gEqDk.md
-> "business? You need to personally dissociate from your company's money. The more you operate under the scarcity mindset, the more opportunities you miss. You just fly by and the more you're gonna be punished for being stingy. Staple this to your desk. You" — sources/S_ig_daniel.jf1_DTtwj1gEqDk.md
+> "Internet business owners below like 10K, 20K a month, they often operate with the scarcity mindset." — sources/S_ig_daniel.jf1_DTtwj1gEqDk.md
 
 ## When the Meaning Breaks
 
-- Read as a trading-technique term: in this source 'scarcity mindset' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
-- Read as a tagline worth extracting: the source shows daniel.jf1 using 'scarcity mindset' as a working label in one specific argument (visible in the collocation with 'spend'), not as a slogan the reader is meant to repeat.
+- Read as a command to spend recklessly: the clip's rule is to reinvest into the business, and it never says to spend without judgment — the warning is about refusing to invest at all.
+- Read as a guarantee that spending returns money: you have to spend money to make money is the line Daniel tells owners to staple to their desk, and the clip offers it as a rule of thumb, not a promise per dollar.

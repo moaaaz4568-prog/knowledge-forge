@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["buy"]
+aka: ["end result"]
 origin: sources/S_ig_daniel.jf1_DU1bU4VEb8h.md
 ---
 
-# G_ig_daniel.jf1_DU1bU4VEb8h — buy
+# G_ig_daniel.jf1_DU1bU4VEb8h — end result
 
 ## Term
 
-Read here, 'buy' is what daniel.jf1 names when pointing past the stated problem — the inner weight the surface complaint is built on. It appears 8 times, it sits next to 'offer', 'result', and 'cold' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: You can't go up to a client and… Cut 'buy' and the clip's aboutness shifts from a claim to a description of landscaping and result.
+End result is what Daniel says people actually buy: not the service, but what the service leaves them with. The phrase appears twice, beside buy the service, landscaping, and massage, and his rule opens the clip — walk up to a client offering cold email and that is not an offer, because people don't buy the service. His two pictures make the rule concrete: a landscaping business sells grass that's cut, not the lawnmower, and a massage business sells the feeling that their back feels better, not the work done to their back.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Read here, 'buy' is what daniel.jf1 names when pointing past the stated problem 
 
 ## Live Example
 
-> "You can't go up to a client and be like, Hey, do you want to buy cold email from me? That's not an offer. People don't buy the service; they buy the end result of the service. If you run a landscaping business, people" — sources/S_ig_daniel.jf1_DU1bU4VEb8h.md
-> "don't buy you doing whatever to their back; they buy the feeling that their back feels better. People buy the end result" — sources/S_ig_daniel.jf1_DU1bU4VEb8h.md
+> "People don't buy the service; they buy the end result of the service." — sources/S_ig_daniel.jf1_DU1bU4VEb8h.md
 
 ## When the Meaning Breaks
 
-- Read as a clinical term: 'buy' here is daniel.jf1's working label for the felt pressure in the room, not a diagnostic category.
-- Read as evidence the term is central to the account: one 84-word clip showing 'buy' next to 'email' is too small a sample to anchor a wider claim about what daniel.jf1 writes about.
+- Read as a claim that the service doesn't matter: the service is how the result is produced, and Daniel's point is about what to sell, not that the work itself is worthless.
+- Read as permission to promise any result: the clip says people buy the end result, and it never says to promise a result the service cannot deliver.

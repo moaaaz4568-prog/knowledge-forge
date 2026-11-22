@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["selling"]
+aka: ["deliverable based"]
 origin: sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
 ---
 
-# G_ig_daniel.jf1_DSwSgYdDcYl — selling
+# G_ig_daniel.jf1_DSwSgYdDcYl — deliverable based
 
 ## Term
 
-In daniel.jf1's framing, 'selling' is the resource that decides whether the rest of the effort is spent well or spent badly. It appears 3 times, it sits next to 'gasoline', 'better', and 'sell' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: It's the equivalent of trying to sell a… It is the one word in this source that, if removed, would leave 'performance' without a frame to hang on.
+Deliverable based is the offer Daniel prefers: sell a fixed deliverable, not a result tied to performance. The phrase is used once, beside tied to performance and sell that, and his comparison is a car against gasoline — selling the car means building the whole thing, finding one tiny thing wrong, and being told you sold a lemon, while selling the gasoline keeps the business simple. His blunt summary is the preference itself: nah, I'll just sell the gas, I'm all right.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'selling' is the resource that decides whether the rest
 
 ## Live Example
 
-> "to performance. It's so much better to sell that. It's the equivalent of trying to sell a car versus selling the oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You" — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
-> "oil and the gasoline. Selling the gasoline is so much better of a business. Yeah, it's so much better. Selling the car, bro, that sucks. You gotta build the whole thing and then like, oh, this tiny thing is wrong with the car. Like you sold me a lemon, just" — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
+> "I like deliverable based that is not tied to performance." — sources/S_ig_daniel.jf1_DSwSgYdDcYl.md
 
 ## When the Meaning Breaks
 
-- Read as a one-size-fits-all tactic: the source uses 'selling' to name a move daniel.jf1 says is missing in this person's case, not a universal recommendation.
-- Read as a stylistic choice by daniel.jf1: the wording around 'selling' (e.g. the collocation with 'versus') is the speech of one clip, not a stylistic pattern that can be generalised.
+- Read as a promise of results: deliverable based means the opposite — the sale is not tied to performance, so the buyer gets the deliverable and the seller owes no outcome.
+- Read as a claim that cars are a bad business: the car is Daniel's image for performance-tied work, and the point is the shape of the offer, not the auto industry.

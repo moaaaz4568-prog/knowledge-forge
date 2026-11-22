@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["loan"]
+aka: ["personally liable"]
 origin: sources/S_ig_daniel.jf1_DSlFXOykpUx.md
 ---
 
-# G_ig_daniel.jf1_DSlFXOykpUx — loan
+# G_ig_daniel.jf1_DSlFXOykpUx — personally liable
 
 ## Term
 
-'loan' in this clip is the future-pain frame daniel.jf1 says must be touched before any plan can land. It appears 5 times, it sits next to 'personally', 'liable', and 'purchasing' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: I can't think of a worse opportunity than… Pull 'loan' and the clip's spine comes loose — 'fulfilled' would still be there but would not point at anything.
+Personally liable is the trap Daniel sees in buying a small business with an SBA loan: the debt follows you past the business itself. The phrase appears twice, beside SBA loan, default, and $2 million loan, and the sequence he walks through is the whole warning — default, the business falls apart, they take all the assets of the business and then all of your personal assets as well, and you declare bankruptcy. His alternative is deliberately tiny by comparison: a simple service business, a simple marketing service fulfilled largely with AI, cold emails for clients, and a total investment of maybe 300 bucks instead of $2 million.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ origin: sources/S_ig_daniel.jf1_DSlFXOykpUx.md
 
 ## Live Example
 
-> "I can't think of a worse opportunity than going and finding a small business and getting an SBA loan from the government and then purchasing that small business with this SBA loan because you are personally liable for the loan. Say you default on" — sources/S_ig_daniel.jf1_DSlFXOykpUx.md
-> "keeping things extremely simple and starting a business that doesn't require you to get a $2 million loan that you're personally liable for. Instead, you could just go find a simple service business, sell that as a service to other companies for three" — sources/S_ig_daniel.jf1_DSlFXOykpUx.md
+> "because you are personally liable for the loan. Say you default on the loan and the business is terrible and the business falls apart." — sources/S_ig_daniel.jf1_DSlFXOykpUx.md
 
 ## When the Meaning Breaks
 
-- Read as a market term: the clip uses 'loan' in the framing of an emotional sales conversation, not in the framing of a trade.
-- Read as a rule for using 'loan': the clip shows daniel.jf1 using the word in one specific move (alongside 'Instead'), not a recommendation that the reader adopt the word themselves.
+- Read as a warning against all business loans: Daniel's target is the personally liable SBA loan for buying a business, and his alternative still costs money — 300 bucks — just without the liability.
+- Read as a claim that service businesses never fail: the clip says the simple service business is cheaper to start, not that it cannot fail — the contrast is the size of the loss, not a guarantee.

@@ -1555,55 +1555,55 @@ Glossary of Instagram batch 3 (English sources): one G_ entry per atom T_ file â
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRp65-qElDr.md | invent | 2 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRsebGJCCYc.md | review | 3 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRsr7OWDYtM.md | decrease desire | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRssDYRDfi1.md | desolate poverty | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRssDYRDfi1.md | total top line | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DRvcLIVjVPz.md | undeniably confident | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcOJkDUeT.md | recognize whether | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRvnOHeiZW8.md | clients | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9TlSjbwI.md | five | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9iYMDUOy.md | excluding referrals | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9n_Ulfj9.md | person wants | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DS-35mziFz3.md | cosmetic surgeon | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DS0ksLYDjA6.md | dropshipping | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DS1P2ynjflU.md | temporarily without | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSijGKXEVMa.md | youtube | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSlFXOykpUx.md | loan | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSlH79Cj297.md | biggest misconception | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSn_AiHDSQu.md | government assistance | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSnsr-eD75B.md | software company | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSoThAlDfI0.md | goes | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSqRfzfj2zf.md | health insurance | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSqu3QxDRfz.md | place | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSs2Q8bDxyS.md | trading | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSvbIGFgvqn.md | clients' businesses | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSvpM7LjSc2.md | multiple families | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSwSgYdDcYl.md | selling | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSx_2zGjQ1j.md | course | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DSy0hlejdXc.md | humanly possible | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTTlFbYDxgp.md | service-based companies | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTVoCCWDe3A.md | There's a lot of people who haven't been bored in years. Likâ€¦ | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTWQyYUDaLr.md | buy | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTY1jEnFhvR.md | competitive | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTYGDWoDf6l.md | fun | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DT_kYOjFMcg.md | trading | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTayTwKkdFV.md | office politics | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTbTfjkAuT4.md | white | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTd4UDGlJ6C.md | intelligent person | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTdiQ9zgXIH.md | trading | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTgKIROgcYE.md | government dictated | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTgqyk4CL0_.md | refund | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTiu-osAUKC.md | long-term relationship | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTjB0QTjSp9.md | precise handholding | 1 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTlmp7NAO-M.md | successful | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DToLcdKjDth.md | million | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTrLstXDqSV.md | trading course | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTtwj1gEqDk.md | scarcity mindset | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTvzBDrjL06.md | offer | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DTyXuczAh5i.md | ads | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DU-pwzVgVU5.md | place | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DU1bU4VEb8h.md | buy | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DU4T9u_jVfY.md | sell | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DU8E95rGFfv.md | writing | 2 |
-| glossary/daniel.jf1/G_ig_daniel.jf1_DUCCUSKD5a9.md | question | 2 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRvcOJkDUeT.md | differentiator | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRvnOHeiZW8.md | closing the deals | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9TlSjbwI.md | multiply one into five | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9iYMDUOy.md | cold traffic | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DRx9n_Ulfj9.md | done for you | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DS-35mziFz3.md | high-end clients | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DS0ksLYDjA6.md | dropshipping | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DS1P2ynjflU.md | broke | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSijGKXEVMa.md | faceless YouTube channels | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSlFXOykpUx.md | personally liable | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSlH79Cj297.md | lower prices | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSn_AiHDSQu.md | cliff | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSnsr-eD75B.md | remote closing | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSoThAlDfI0.md | single family house | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSqRfzfj2zf.md | affiliate marketing | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSqu3QxDRfz.md | take home after tax | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSs2Q8bDxyS.md | day trading | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSvbIGFgvqn.md | hard mode | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSvpM7LjSc2.md | for a quarter | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSwSgYdDcYl.md | deliverable based | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSx_2zGjQ1j.md | selling a course | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DSy0hlejdXc.md | ask for permission | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTTlFbYDxgp.md | customer acquisition | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTVoCCWDe3A.md | bored | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTWQyYUDaLr.md | free lead magnet | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTY1jEnFhvR.md | e-commerce email marketing agency | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTYGDWoDf6l.md | go on a yacht | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DT_kYOjFMcg.md | day trading | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTayTwKkdFV.md | office politics | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTbTfjkAuT4.md | white label | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTd4UDGlJ6C.md | AI automation agency | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTdiQ9zgXIH.md | trading | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTgKIROgcYE.md | socialist utopia | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTgqyk4CL0_.md | money back guarantee | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTiu-osAUKC.md | out of your system | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTjB0QTjSp9.md | figure it the fuck out ability | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTlmp7NAO-M.md | due diligence | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DToLcdKjDth.md | small loan of a million dollars | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTrLstXDqSV.md | selling a day trading course | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTtwj1gEqDk.md | scarcity mindset | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTvzBDrjL06.md | offer times traffic equals sales | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DTyXuczAh5i.md | cost per booked call | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DU-pwzVgVU5.md | take home after tax | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DU1bU4VEb8h.md | end result | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DU4T9u_jVfY.md | cold traffic offer | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DU8E95rGFfv.md | AI text generation | 1 |
+| glossary/daniel.jf1/G_ig_daniel.jf1_DUCCUSKD5a9.md | VSL | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUEZRn9jx0v.md | availability variance | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUG-EbUjXhX.md | dude comments | 1 |
 | glossary/daniel.jf1/G_ig_daniel.jf1_DUJi5VSD3Tr.md | three thousand | 2 |

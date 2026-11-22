@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["ads"]
+aka: ["cost per booked call"]
 origin: sources/S_ig_daniel.jf1_DTyXuczAh5i.md
 ---
 
-# G_ig_daniel.jf1_DTyXuczAh5i — ads
+# G_ig_daniel.jf1_DTyXuczAh5i — cost per booked call
 
 ## Term
 
-Here 'ads' names the conversational lever daniel.jf1 treats as the thing that turns a maybe into a yes. It appears 5 times, it sits next to 'expectation', 'running', and 'deluded' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The word appears at the moment daniel.jf1 turns from describing to prescribing — the pivot runs: A lot of people have a deluded expectation… The sentence around 'spawns' only carries weight because 'ads' is what the sentence is really about.
+Cost per booked call is the number Daniel uses to puncture deluded expectations about ads: for a B2B service at $2,000 to $3,000 a month, selling to other companies, your cost per booked call is gonna be like $200 to $300. The phrase is used once, beside qualifying, show up, and cost to acquire a customer, and the funnel he prices is the whole lesson — only half of them show up, so acquiring a customer ends up costing $2,000 or $3,000. His warning is about capital: spend $200 on ads, decide it isn't working, shut it off, and you can never revisit the concept of a business — the problem is you didn't have the capital prepared, and he says you shouldn't be doing ads until you've got $20,000 or $30,000 saved and $15,000 a month in free cash flow.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Here 'ads' names the conversational lever daniel.jf1 treats as the thing that tu
 
 ## Live Example
 
-> "A lot of people have a deluded expectation about ads. Like they go watch some videos about ads, you think that you just start running ads and money like spawns out of the ether, like it just works like" — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
-> "prepared in order to start with that. This is why I tell people, it's like you really shouldn't be doing ads until you've got like $20, 000, $30, 000 saved up and you're profiting like free cash flow like $15, 000 a month, like bare minimum at least" — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
+> "your cost per booked call is gonna be like $200 to $300, and then only half of them are gonna show up, the rest are just gonna not show up because they're dickheads, and then your cost to acquire a customer is gonna end up being like $2, 000 or $3, 000." — sources/S_ig_daniel.jf1_DTyXuczAh5i.md
 
 ## When the Meaning Breaks
 
-- Read as a generic sales word: in daniel.jf1's reel, 'ads' is the specific move daniel.jf1 says a person must make before the prospect will commit.
-- Read as a tagline worth extracting: the source shows daniel.jf1 using 'ads' as a working label in one specific argument (visible in the collocation with 'revisit'), not as a slogan the reader is meant to repeat.
+- Read as a fixed price for all ads: the $200 to $300 figure is for a B2B service at $2,000 to $3,000 a month with qualifying, and the clip never prices any other kind of ad.
+- Read as a claim that ads never work: Daniel's point is that ads need capital prepared in advance, and the delusion is expecting money to spawn out of the ether on a $200 test.

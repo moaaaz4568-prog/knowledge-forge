@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["refund"]
+aka: ["money back guarantee"]
 origin: sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
 ---
 
-# G_ig_daniel.jf1_DTgqyk4CL0_ — refund
+# G_ig_daniel.jf1_DTgqyk4CL0_ — money back guarantee
 
 ## Term
 
-For daniel.jf1, 'refund' is the verb that names where the value actually lives: not in producing, but in shipping what was produced. It appears 9 times, it sits next to 'requests', 'reason', and 'asking' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: It was, you can get a refund for… The argument only stays upright while 'refund' is doing the work — pull it and 'selling' loses its anchor.
+Money back guarantee is the promise Daniel put on his $27 COO method course — a refund for any reason within 30 days — and the story is what happened when cold traffic took him up on it. The phrase is used once, beside refund, $27 course, and contractual stipulation, and the numbers are the lesson: 5% of people asked for a refund, many within eight minutes, the same day. His fix was a stipulation, not a refusal — send 100 emails and prove it, and the refund rate drops to 0% — which is how he concludes that 95% of refund requests are fraud, people wanting to steal the course and not do anything.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ For daniel.jf1, 'refund' is the verb that names where the value actually lives: 
 
 ## Live Example
 
-> "whatever. It was like a $27 course. And I put a money back guarantee in there. It was, you can get a refund for any reason you want within 30 days. Any reason doesn't matter. And this was to cold traffic, by the way. I you not, like 5% of people asked" — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
-> "just have to have sent 100 emails. Refund rate drops to 0%. So what else can we draw from this? 95% of refund requests are fraud. They wanted to steal the course and not do anything. That is another truism. If you are gonna have a guarantee, you need to" — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
+> "And I put a money back guarantee in there. It was, you can get a refund for any reason you want within 30 days." — sources/S_ig_daniel.jf1_DTgqyk4CL0_.md
 
 ## When the Meaning Breaks
 
-- Read as a journalism term: the source uses 'refund' to mean posting Instagram content, not publishing in the editorial sense — the collocation with 'guarantee' makes that visible.
-- Read as a definition of 'refund': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'guarantee' — it does not establish what the word means in general.
+- Read as a claim that guarantees always lose money: the guarantee cost him until he added the 100-email stipulation, and the clip's lesson is the stipulation, not dropping guarantees.
+- Read as proof that 95% of all buyers commit fraud: the 95% figure is Daniel's conclusion about refund requests on this one course, and the clip never extends it to buyers who never asked.

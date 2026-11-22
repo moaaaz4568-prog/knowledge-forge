@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["competitive"]
+aka: ["e-commerce email marketing agency"]
 origin: sources/S_ig_daniel.jf1_DTY1jEnFhvR.md
 ---
 
-# G_ig_daniel.jf1_DTY1jEnFhvR — competitive
+# G_ig_daniel.jf1_DTY1jEnFhvR — e-commerce email marketing agency
 
 ## Term
 
-In daniel.jf1's framing, 'competitive' is what the conversation is actually about — the underlying fear the surface talk about trading is built on. It appears 3 times, it sits next to 'model', 'hyper', and 'because' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. It lands in the sentence where daniel.jf1 names the thing a person cannot outsource — nearby: The problem with this business model is that… It is the one word in this source that, if removed, would leave 'problem' without a frame to hang on.
+E-commerce email marketing agency is the business Daniel calls great but not S tier: with an e-commerce brand that has an email list, you send more emails and they make a ton more money just like that. The phrase is used once, beside email list, zero skills, and hyper competitive, and his ease case is blunt — you could have zero skills and still make them a bunch of money. The demotion is about competition, not results: it is hyper competitive because there is no barrier to entry and it is so easy to figure out how to make emails, so getting clients is super difficult, and the model lands in A tier.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'competitive' is what the conversation is actually abou
 
 ## Live Example
 
-> "it and they'll still make a bunch of money. The problem with this business model is that it's hyper competitive. It's so competitive because there's no barrier to entry. It is so easy to figure out how to make emails, therefore it is super difficult to" — sources/S_ig_daniel.jf1_DTY1jEnFhvR.md
-> "Therefore, unfortunately, we can't put this in S tier and I think it belongs in A tier. It's just so wildly competitive" — sources/S_ig_daniel.jf1_DTY1jEnFhvR.md
+> "E-commerce email marketing agency. This is a great business when you have the clients for it because it's like super easy to get the clients results." — sources/S_ig_daniel.jf1_DTY1jEnFhvR.md
 
 ## When the Meaning Breaks
 
-- Read as a trading-technique term: in this source 'competitive' is the emotional lever daniel.jf1 uses to surface commitment, not a market mechanic.
-- Read as a tagline worth extracting: the source shows daniel.jf1 using 'competitive' as a working label in one specific argument (visible in the collocation with 'difficult'), not as a slogan the reader is meant to repeat.
+- Read as an easy business to start: Daniel says the work itself is easy, but the clients are super difficult to get, and the A tier verdict already prices in that competition.
+- Read as a business with no skill at all: zero skills is his point about how easy the client results are, and the clip still assumes you can make the emails.

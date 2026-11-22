@@ -9,7 +9,7 @@ origin: sources/S_ig_daniel.jf1_DTdiQ9zgXIH.md
 
 ## Term
 
-In daniel.jf1's framing, 'trading' is the missing mechanic — the thing daniel.jf1 says is failing underneath every other issue the person reports. It appears 6 times, it sits next to 'rich', 'package', and 'sells' — the recurrence is what marks it as the load-bearing word of the clip rather than a one-off. The clip uses it to mark where the work actually happens — the framing runs: Trading is not a business… Cut 'trading' and the clip's aboutness shifts from a claim to a description of course and somehow.
+Trading is the activity Daniel insists is not a business at all: you can't package your trading business up into an entity and sell it. The word appears six times, beside not a business, hedge fund, and little Jimmy, and his distinction turns on the course — somebody who sells a trading business opportunity course does run a business, because they are selling information, even if in 99% of cases it actually doesn't help. His test for the trader is the opponent: beating a hedge fund with tens of millions of dollars of specialized equipment and mathematicians and PhDs, from a basement, is just not real.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ In daniel.jf1's framing, 'trading' is the missing mechanic — the thing daniel.
 
 ## Live Example
 
-> "Trading is not a business. You can't package your trading business up into an entity and sell it. It's very interesting to me when you have somebody saying" — sources/S_ig_daniel.jf1_DTdiQ9zgXIH.md
-> "PhDs and like somehow you little Jimmy in his basement is gonna like make trades and get rich off of trading. It's just not real. It doesn't occur" — sources/S_ig_daniel.jf1_DTdiQ9zgXIH.md
+> "Trading is not a business. You can't package your trading business up into an entity and sell it." — sources/S_ig_daniel.jf1_DTdiQ9zgXIH.md
 
 ## When the Meaning Breaks
 
-- Read as a generic fitness term: in this clip, 'trading' is the body mechanic daniel.jf1 isolates as the root of the movement problem, not a general training concept.
-- Read as proof the term is load-bearing for daniel.jf1 in general: a 146-word clip with the word 'trading' appearing as it does is too small a sample to anchor any wider claim about the account's body of work.
+- Read as a claim that trading courses are legitimate: the course is a business because it sells information, and Daniel says in 99% of cases that information actually doesn't help people.
+- Read as a claim that nobody profits from trading: the clip says trading is not a real business and a terrible idea for most people, and it never claims zero traders ever profit.

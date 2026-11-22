@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: daniel.jf1
-aka: ["software company"]
+aka: ["remote closing", "remote closers"]
 origin: sources/S_ig_daniel.jf1_DSnsr-eD75B.md
 ---
 
-# G_ig_daniel.jf1_DSnsr-eD75B — software company
+# G_ig_daniel.jf1_DSnsr-eD75B — remote closing
 
 ## Term
 
-In daniel.jf1's reel, 'software company' names the body mechanic daniel.jf1 isolates as the root of the movement problem. It appears twice, it sits next to 'sells', 'enterprise', and 'selling' — the repetition is what makes it the spine of the clip rather than a passing word. daniel.jf1 drops it precisely where the cost of skipping it shows up — the surrounding move runs: It could be a software company that sells… Without 'software company' as the anchor, 'closers' and 'information' would float without a stake in the argument.
+Remote closing is Daniel's name for selling someone else's high ticket product or service from a distance, and he opens the clip with it as a named model. The phrase is used once, beside high ticket, enterprise service, and remote closers, and his own example is ListKit: a software company selling high ticket packages to large companies with sales teams, with a team of nine remote closers making eight to fifteen thousand dollars a month. His verdict splits the model in two — it is legitimate and he would put it in S tier as a job, but B tier for himself, because it is not a business and therefore it can't scale.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- remote closers (the people on Daniel's team who do remote closing)
 
 ## Live Example
 
-> "product or service, and it doesn't have to be someone selling an information product. It could be a software company that sells an enterprise service. So I have a software company, ListKit, and we sell high ticket packages to large companies who have" — sources/S_ig_daniel.jf1_DSnsr-eD75B.md
-> "an information product. It could be a software company that sells an enterprise service. So I have a software company, ListKit, and we sell high ticket packages to large companies who have sales teams. And we have a team of remote closers. There's like" — sources/S_ig_daniel.jf1_DSnsr-eD75B.md
+> "Remote closing. This is when you find somebody who sells a high ticket product or service, and it doesn't have to be someone selling an information product." — sources/S_ig_daniel.jf1_DSnsr-eD75B.md
 
 ## When the Meaning Breaks
 
-- Read as a gym jargon word: the source uses 'software company' to name the one mechanic that, if missed, makes the rest of the rep useless.
-- Read as a definition of 'software company': the source documents how daniel.jf1 deploys the word in this clip — collocated with 'closing' — it does not establish what the word means in general.
+- Read as a business you own: Daniel says plainly that remote closing is not a business, and the ceiling he names is exactly that it can't scale.
+- Read as work only for info products: the clip says it does not have to be an information product, and the ListKit example is a software company selling an enterprise service.
