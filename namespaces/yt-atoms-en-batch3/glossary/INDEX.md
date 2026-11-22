@@ -1,6 +1,6 @@
 # Index — glossary/ (yt-atoms-en-batch3)
 
-YouTube English video transcripts batch 3 glossaries (sub-batches 1–2 of 20, 100 files of 1,000): one G_ entry per T_ atom file — 100 files, zero exclusions, misc-dl collection. Sub-batch 1 codes Ieb3Gp0j3Ls–J42QA_Nptxc; sub-batch 2 codes J4JF9uIopjw–JRFMrCrSFP4. 100 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,100 entities, 0 rejected).
+YouTube English video transcripts batch 3 glossaries (sub-batches 1–3 of 20, 150 files of 1,000): one G_ entry per T_ atom file — 150 files, zero exclusions, misc-dl collection. Sub-batch 1 codes Ieb3Gp0j3Ls–J42QA_Nptxc; sub-batch 2 codes J4JF9uIopjw–JRFMrCrSFP4; sub-batch 3 codes JRKYtC7--iU–JtmkKi_9BMs. 150 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. Every entry passed self-check §12 (banned sentences, junk terms, fake synonyms, banned breaks, N2 closing, count re-check, uniqueness) and gates G1/G2 (1,150 entities, 0 rejected).
 | glossary/misc-dl/G_yt_Ieb3Gp0j3Ls_en.md | white collar | 1 |
 | glossary/misc-dl/G_yt_Ife81EN4pEQ_en.md | grand | 1 |
 | glossary/misc-dl/G_yt_IfjNqBWaw94_en.md | cold email | 1 |
@@ -101,3 +101,53 @@ YouTube English video transcripts batch 3 glossaries (sub-batches 1–2 of 20, 1
 | glossary/misc-dl/G_yt_JPlyA6lQov8_en.md | clay | 1 |
 | glossary/misc-dl/G_yt_JQym3LXEv8I_en.md | pipe | 1 |
 | glossary/misc-dl/G_yt_JRFMrCrSFP4_en.md | cold email | 1 |
+| glossary/misc-dl/G_yt_JRKYtC7--iU_en.md | content | 1 |
+| glossary/misc-dl/G_yt_JRQcqefI6io_en.md | emails | 1 |
+| glossary/misc-dl/G_yt_JRRD1U620wk_en.md | client | 1 |
+| glossary/misc-dl/G_yt_JSAQttOqtPc_en.md | courses | 1 |
+| glossary/misc-dl/G_yt_JTArfI3gF0E_en.md | client | 1 |
+| glossary/misc-dl/G_yt_JTazLM-LdeU_en.md | level | 1 |
+| glossary/misc-dl/G_yt_JTi3nJAvzRs_en.md | price | 1 |
+| glossary/misc-dl/G_yt_JTr9dS7DvEs_en.md | story | 1 |
+| glossary/misc-dl/G_yt_JUOpIEq2Cq8_en.md | marketing | 1 |
+| glossary/misc-dl/G_yt_JVoL8Qt2utE_en.md | priming | 1 |
+| glossary/misc-dl/G_yt_JW46bEL0OU4_en.md | goal | 1 |
+| glossary/misc-dl/G_yt_JXYrp9kG_y4_en.md | weight | 1 |
+| glossary/misc-dl/G_yt_JXyGRNwQW4M_en.md | mentor | 1 |
+| glossary/misc-dl/G_yt_JYg_-PiNFqU_en.md | narrative | 1 |
+| glossary/misc-dl/G_yt_JZDy4KvRXgc_en.md | channel | 1 |
+| glossary/misc-dl/G_yt_JZQ_NZJApH8_en.md | videos | 1 |
+| glossary/misc-dl/G_yt_JZ_yWD2y9pQ_en.md | content | 1 |
+| glossary/misc-dl/G_yt_J_2uHwmxWcA_en.md | client | 1 |
+| glossary/misc-dl/G_yt_J_GCvfto07c_en.md | app | 1 |
+| glossary/misc-dl/G_yt_J_YmhVzOkEU_en.md | level | 1 |
+| glossary/misc-dl/G_yt_JaMNa94CB9I_en.md | client | 1 |
+| glossary/misc-dl/G_yt_Jap42EOEQ18_en.md | principles | 1 |
+| glossary/misc-dl/G_yt_JbneGHZPdZI_en.md | store | 1 |
+| glossary/misc-dl/G_yt_JbuRqbBKZ5M_en.md | car | 1 |
+| glossary/misc-dl/G_yt_JdZIQkfguZc_en.md | designer | 1 |
+| glossary/misc-dl/G_yt_JdwOf2Ri78I_en.md | content | 1 |
+| glossary/misc-dl/G_yt_JeNo0ywT5fA_en.md | speak | 1 |
+| glossary/misc-dl/G_yt_JexJM85sp90_en.md | design | 1 |
+| glossary/misc-dl/G_yt_JexkXXc5vyM_en.md | ai | 1 |
+| glossary/misc-dl/G_yt_Jg-LPZEtMGU_en.md | pareto | 1 |
+| glossary/misc-dl/G_yt_JgRqCR4flcQ_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_Jh5xKbuvMlA_en.md | data | 1 |
+| glossary/misc-dl/G_yt_Jhd8LQPXdzc_en.md | car | 1 |
+| glossary/misc-dl/G_yt_JhlyJ9Ltq_o_en.md | agency | 1 |
+| glossary/misc-dl/G_yt_JhnBuJTCXiU_en.md | group | 1 |
+| glossary/misc-dl/G_yt_JiBCYPAKydQ_en.md | business card | 1 |
+| glossary/misc-dl/G_yt_JiJ4EntauxE_en.md | design | 1 |
+| glossary/misc-dl/G_yt_Jj2lclH744Q_en.md | email | 1 |
+| glossary/misc-dl/G_yt_JjURUh0h6KU_en.md | data | 1 |
+| glossary/misc-dl/G_yt_JjUx_1m6Hvs_en.md | command | 1 |
+| glossary/misc-dl/G_yt_Jk3WcGS2F_s_en.md | money | 1 |
+| glossary/misc-dl/G_yt_JlMHj45K_3c_en.md | business | 1 |
+| glossary/misc-dl/G_yt_JnVbiwWfwhw_en.md | emails | 1 |
+| glossary/misc-dl/G_yt_JoMZVS5ZrnM_en.md | call | 1 |
+| glossary/misc-dl/G_yt_JoR7Yn92CCY_en.md | team | 1 |
+| glossary/misc-dl/G_yt_JoxgbXW96iM_en.md | business | 1 |
+| glossary/misc-dl/G_yt_JrtiBIx59do_en.md | format | 1 |
+| glossary/misc-dl/G_yt_Js3DDW4PJA8_en.md | brand | 1 |
+| glossary/misc-dl/G_yt_JtIWMqWgOv8_en.md | sales | 1 |
+| glossary/misc-dl/G_yt_JtmkKi_9BMs_en.md | logo | 1 |
