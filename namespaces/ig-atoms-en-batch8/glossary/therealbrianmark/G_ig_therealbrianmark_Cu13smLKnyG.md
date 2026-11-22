@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [sound, therealbrianmark account context]
+aka: [given up on your goal]
 origin: sources/S_ig_therealbrianmark_Cu13smLKnyG.md
 ---
 
-# G_ig_therealbrianmark_Cu13smLKnyG — sound
+# G_ig_therealbrianmark_Cu13smLKnyG — given up on your goal
 
 ## Term
 
-"sound" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: dorks, like, dms, still. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Given up on your goal" is the accusation Brian tells coaches to put in a DM to a ghosted prospect: scroll up, take the goal from the conversation, and ask "have you given up on your goal of losing 20 pounds?" — a line people would rather awkwardly answer than confirm. "given up on your goal" appears once in the source, beside "ghosted", "sound desperate" and "pulling out their credit card". It works because it forces a choice between replying and admitting defeat, so the phrase is a re-engagement lever that trades on the prospect's own stated goal rather than on a new offer.
 
 ## Synonyms
 
-- sound
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Stop looking thirsty in your clients' DMs. That's why you're getting ghosted. Here's what most of you dorks sound like in the DMs. Hey, I like tried to reach out to you and you didn't get back to me. Are you still interested? You sound desperate and it puts you in a position of weakness. Instead, scroll up in the conversation and grab their goal and then say this word for word." — sources/S_ig_therealbrianmark_Cu13smLKnyG.md
+> "Devin, exclamation mark, have you given up on your goal of losing 20 pounds?" — sources/S_ig_therealbrianmark_Cu13smLKnyG.md
+> "Stop looking thirsty in your clients' DMs. That's why you're getting ghosted." — sources/S_ig_therealbrianmark_Cu13smLKnyG.md
+> "This always works because people would rather awkwardly respond to you than admit that they gave up on their goals." — sources/S_ig_therealbrianmark_Cu13smLKnyG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sound": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as a genuine question about the goal: Brian says it always works because people would rather respond awkwardly than admit they gave up, so the question is a pressure device, not curiosity.
+- Treating it as a follow-up message: the usual thirsty check-ins — "are you still interested?" — put the coach in weakness, while this line flips the frame by making the prospect defend their own goal.

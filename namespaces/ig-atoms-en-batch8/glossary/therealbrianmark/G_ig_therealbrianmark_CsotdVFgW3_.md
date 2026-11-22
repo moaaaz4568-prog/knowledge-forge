@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [business, therealbrianmark account context]
+aka: [self-limiting beliefs]
 origin: sources/S_ig_therealbrianmark_CsotdVFgW3_.md
 ---
 
-# G_ig_therealbrianmark_CsotdVFgW3_ — business
+# G_ig_therealbrianmark_CsotdVFgW3_ — self-limiting beliefs
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: online, take, grew, business. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Self-limiting beliefs are what Nicole Trohman says she shattered by taking her business fully online with PT Dom: she had not thought she could earn the income or live the lifestyle she wanted, and the shift from one client to 280 proved the belief wrong. "self-limiting beliefs" appears once in the source, beside "Supplement King", "12 to 15 hours", "Nourish Health and Wellness" and "community". The testimonial ties the breakthrough to the community PT Dom built and to going all in after quitting her manager job, so the beliefs are presented as a barrier that fell when the business model changed, not as a mindset exercise alone.
 
 ## Synonyms
 
-- business
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Hi, my name is Nicole Trohman and I am the owner of Nourish Health and Wellness. Before working with PT Dom, I was working at Supplement King as the manager. While I worked full time at Supplement King, I was actually working 12 to 15 hours training clients in the morning in the gym, as well as training some clients online, and I didn't know how to take my business online." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
-> "They give so much value and they ensure that every one of their clients is gonna have success no matter where they're at, if they're a beginner or if they're advanced, and they want to see you succeed. One of the biggest lessons I learned with PT Dom was taking my business online full time." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
-> "I would recommend PT Dom to any personal trainer working in a gym that wants to scale their business online and have some flexible freedom to travel, to stay at home with your kids, work from home, do any of that, and also anyone who has already established an online business who wants to grow and wants to grow a team and grow their business from 10 clients up into three, four, 500 clients." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
+> "I shattered my self-limiting beliefs, knowing that I could take my business online and make an income that was gonna support me to live the lifestyle that I wanted to live." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
+> "I grew my business from one to 12, and we have grown from one client all the way up into 280 clients." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
+> "One of the biggest lessons I learned with PT Dom was taking my business online full time." — sources/S_ig_therealbrianmark_CsotdVFgW3_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading self-limiting beliefs as a private mindset problem: Nicole names the concrete change — quitting Supplement King, going all in online, growing from one client to 280 — so the belief broke against results, not against positive thinking.
+- Assuming PT Dom is Brian's program: Nicole is a client of PT Dom, and Brian is reposting her testimonial, so the beliefs and the breakthrough belong to her story, not to Brian's own history.

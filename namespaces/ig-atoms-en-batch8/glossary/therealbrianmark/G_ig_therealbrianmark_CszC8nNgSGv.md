@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [pain, pains]
+aka: [pain of discipline]
 origin: sources/S_ig_therealbrianmark_CszC8nNgSGv.md
 ---
 
-# G_ig_therealbrianmark_CszC8nNgSGv — pain
+# G_ig_therealbrianmark_CszC8nNgSGv — pain of discipline
 
 ## Term
 
-"pain" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: discipline, two, pains, regret. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The pain of discipline is one of the two pains Brian says everyone must choose, set against the pain of regret: the sentence offers no third option and no advice beyond the choice itself. "pain of discipline" appears once in the source, beside "pain of regret", "choose one of two pains" and "everyone must choose". The term works as a one-line ultimatum — discipline hurts now, regret hurts later — so its whole meaning is the forced trade between the two pains.
 
 ## Synonyms
 
-- pain
-- pains (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_therealbrianmark_CszC8nNgSGv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "pain": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as a definition of discipline: the source never says what discipline involves, only that its pain is the alternative to regret, so the term names a cost, not a practice.
+- Assuming Brian recommends the pain of discipline by argument: he states the choice and stops, so the persuasion is the stark pairing itself, not a case built for either side.

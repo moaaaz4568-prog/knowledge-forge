@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Number, therealbrianmark account context]
+aka: [your network is your net worth]
 origin: sources/S_ig_therealbrianmark_CsRiepkAJqg.md
 ---
 
-# G_ig_therealbrianmark_CsRiepkAJqg — Number
+# G_ig_therealbrianmark_CsRiepkAJqg — your network is your net worth
 
 ## Term
 
-"Number" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: three, million, sales, one. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The phrase is Brian's shorthand for buying proximity to people who already live at the next level: he names Bedros Koulian, Lane Norton, and Phil Heath as the circle he surrounds himself with so he can become the person he was meant to become, and he pairs it with cutting out the anchors holding him back. "your network is your net worth" appears once in the source, beside "vision", "ambition", "discipline" and "taking risks". It is the fifth of five character traits that took him from flat broke to over $13 million in sales, so the network is presented as a trait to practice — choosing who to stand near — rather than a list of contacts to collect.
 
 ## Synonyms
 
-- Number
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Five character traits that took me from flat broke to over $13 million in sales. Number one, vision. I always knew I was gonna be rich one day, even when I was broke. I went to the Lambo dealership for five years, every year, until I bought my Lambo. Number two, ambition. Go all in on your goals and dreams so that when you die, you don't look back on your life with regret." — sources/S_ig_therealbrianmark_CsRiepkAJqg.md
-> "Number three, discipline. It means doing what you said you were gonna do and doing what you committed to, even when you don't want to. Number four, taking risks. My first mentor cost me $15, 000 that I didn't have. I took out a loan, I borrowed money, I did whatever was necessary to invest because I knew it was necessary for the next level. Number three, your network is your net worth." — sources/S_ig_therealbrianmark_CsRiepkAJqg.md
+> "Number three, your network is your net worth. Bedros Koulian, Lane Norton, Phil Heath, these are the people that I'm surrounding myself with so that I can become the person that I was meant to become." — sources/S_ig_therealbrianmark_CsRiepkAJqg.md
+> "Number one, vision. I always knew I was gonna be rich one day, even when I was broke." — sources/S_ig_therealbrianmark_CsRiepkAJqg.md
+> "Number four, taking risks. My first mentor cost me $15, 000 that I didn't have." — sources/S_ig_therealbrianmark_CsRiepkAJqg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as advice to collect famous contacts: Brian names three specific men he spends time with and stresses becoming the person he was meant to become, so the point is shared standards, not name-dropping.
+- Treating it as a wealth formula: the source offers no exchange of favors or deals, only the claim that the people around you set the ceiling on who you become.

@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [fitness, therealbrianmark account context]
+aka: [Fitness MythBusters]
 origin: sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
 ---
 
-# G_ig_therealbrianmark_CsZlCWXAeJL — fitness
+# G_ig_therealbrianmark_CsZlCWXAeJL — Fitness MythBusters
 
 ## Term
 
-"fitness" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: blow, influencer, type, top. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Fitness MythBusters is the series title Brian invents for a viral content play: search Google for the top 20 fitness myths, take the list of claims like carbs being bad or weights making you bulky, and turn each one into an episode that corrects it. "Fitness MythBusters" appears once in the source, beside "top 20 fitness myths", "cheat code to go viral" and "mad views". The title does double work — it makes the creator look like a fitness expert while drawing viewers who hate making mistakes in the gym — so the series is a credibility and reach device built from one search.
 
 ## Synonyms
 
-- fitness
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want to blow up as a fitness influencer, this is a cheat code to go viral. Go to Google and type in top 20 fitness myths. You're gonna get a long list of bullsh*t lies like carbs are bad for you, weights will make you bulky, and goat milk is good for gains. You can take this whole list and create a series titled Fitness MythBusters Part One." — sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
-> "This will not only make you look like a fitness expert, it will get you mad views because nobody likes making mistakes in the gym like this. Save this video and follow me for more." — sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
+> "You can take this whole list and create a series titled Fitness MythBusters Part One." — sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
+> "Go to Google and type in top 20 fitness myths." — sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
+> "This will not only make you look like a fitness expert, it will get you mad views because nobody likes making mistakes in the gym like this." — sources/S_ig_therealbrianmark_CsZlCWXAeJL.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fitness": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Treating the series as a research project: Brian never checks whether the myths are actually false; the list comes straight from a Google search, so the episodes are content built on search results, not verified claims.
+- Reading the title as a promise to bust every myth: the source only plans "Part One" from a list of twenty, so the series is open-ended and the title is a format, not a completed debunking.

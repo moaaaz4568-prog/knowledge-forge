@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [Ask yourself, therealbrianmark account context]
+aka: [hold yourself accountable]
 origin: sources/S_ig_therealbrianmark_CtUOft8g4QV.md
 ---
 
-# G_ig_therealbrianmark_CtUOft8g4QV — Ask yourself
+# G_ig_therealbrianmark_CtUOft8g4QV — hold yourself accountable
 
 ## Term
 
-"Ask yourself" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yourself, ask, keeping, track. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Holding yourself accountable is the standard Brian sets before a coach may demand it of clients: he asks the coach to look in the mirror and check whether he is staying on track, staying accountable, going to the gym, and pushing toward his own fitness goal. "hold yourself accountable" appears once in the source, beside "motivate your clients", "honest look in the mirror" and "hold other people accountable". The logic is a challenge — if you cannot hold yourself to your own goals, you cannot hold anyone else to theirs — so the phrase is a precondition for coaching, not a slogan.
 
 ## Synonyms
 
-- Ask yourself
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can't motivate your clients to stay on track. I want you to take an honest look in the mirror and ask yourself if you're keeping yourself on track. Ask yourself if you're staying accountable. Ask yourself if you're going to the gym. Ask yourself if you're pushing your potential and your fitness goal." — sources/S_ig_therealbrianmark_CtUOft8g4QV.md
+> "And if you're not, how the fuck are you supposed to hold other people accountable when you can't even hold yourself accountable to your own goals?" — sources/S_ig_therealbrianmark_CtUOft8g4QV.md
+> "You can't motivate your clients to stay on track." — sources/S_ig_therealbrianmark_CtUOft8g4QV.md
+> "I want you to take an honest look in the mirror and ask yourself if you're keeping yourself on track." — sources/S_ig_therealbrianmark_CtUOft8g4QV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Ask yourself": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as advice to motivate clients harder: Brian says a coach cannot motivate clients to stay on track at all, so the only move available is the coach's own accountability, which the clients then see.
+- Treating it as a one-time self-check: the questions cover staying on track, going to the gym, and pushing potential as ongoing habits, so a single honest look that changes nothing misses the demand.

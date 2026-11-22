@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [work, therealbrianmark account context]
+aka: [when no one else is watching]
 origin: sources/S_ig_therealbrianmark_Cu-1xgegYrb.md
 ---
 
-# G_ig_therealbrianmark_Cu-1xgegYrb — work
+# G_ig_therealbrianmark_Cu-1xgegYrb — when no one else is watching
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: days, hour, five, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"When no one else is watching" is the question Brian uses to separate visible success from the work behind it: the Lambo, the 20,000-square-foot gym, and the mansion are what everybody sees, while 3 a.m. wake-ups, 15,000 to 20,000 steps, and 12- to 14-hour days five days a week are what put him in the spotlight. "when no one else is watching" appears once in the source, beside "behind the scenes", "real champion" and "lights are off". The question asks who the listener is with no audience, so the term measures character by unseen effort rather than by displayed wealth.
 
 ## Synonyms
 
-- work
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Everybody sees the Lambo, the 20,000 square foot gym, the mansion. But what you don't see is the 3 a.m. wake up times, the 15 to 20,000 steps that I take every single day, the 12 to 14 hour work days, five days a week for the last five years. See, it's the work that I do behind the scenes that puts me in the spotlight. A real champion puts in work when the lights are off." — sources/S_ig_therealbrianmark_Cu-1xgegYrb.md
+> "Who are you when no one else is watching?" — sources/S_ig_therealbrianmark_Cu-1xgegYrb.md
+> "A real champion puts in work when the lights are off." — sources/S_ig_therealbrianmark_Cu-1xgegYrb.md
+> "See, it's the work that I do behind the scenes that puts me in the spotlight." — sources/S_ig_therealbrianmark_Cu-1xgegYrb.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as a question about privacy: the phrase is a test of discipline — the work done when the lights are off — so answering with what you do in public misses the point entirely.
+- Treating the Lambo and mansion as the achievement: Brian says the unseen work puts him in the spotlight, so the visible wealth is the result, and the question points at the cause.

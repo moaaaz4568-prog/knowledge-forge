@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [money, therealbrianmark account context]
+aka: [find a mentor]
 origin: sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
 ---
 
-# G_ig_therealbrianmark_Cu4YTm2AV2J — money
+# G_ig_therealbrianmark_Cu4YTm2AV2J — find a mentor
 
 ## Term
 
-"money" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: saving, make, bank, rich. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Finding a mentor is Brian's third rule of becoming rich, and the one he repeats most: unlike your dad, find someone who makes the type of money you want to make, learn from them, and let them help you grow, because saving money will not make you rich and working more is the only way up from no skills. "find a mentor" appears twice in the source, beside "saving money won't make you rich", "three jobs" and "invest in yourself". The mentor is framed as the shortcut past the other two rules — work more, invest in yourself — so the finding is not networking but buying access to someone already at the income you want.
 
 ## Synonyms
 
-- money
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I make a million dollars a month, and here are three things that you need to know about becoming rich. Number one, saving money won't make you rich, working more will. When you have no skills, get three jobs and work your ass off. Number two, leave minimal amount of money in the bank. Saving money doesn't get you anywhere." — sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
-> "Instead, use your money and invest in yourself, in mentorship, learning, courses, etc. Number three, find a mentor. Unlike your dad, find a mentor that makes the type of money that you want to make so you can learn from them and they can help you grow. You're welcome. Save this video and go make some money." — sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
+> "Number three, find a mentor. Unlike your dad, find a mentor that makes the type of money that you want to make so you can learn from them and they can help you grow." — sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
+> "Number one, saving money won't make you rich, working more will." — sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
+> "When you have no skills, get three jobs and work your ass off." — sources/S_ig_therealbrianmark_Cu4YTm2AV2J.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as advice to ask your dad for money guidance: Brian explicitly contrasts the mentor with your dad, so family advice is the example of the wrong source, not a fallback.
+- Treating the mentor as a motivational figure: the mentor must make the type of money you want to make, so the qualification is income, not encouragement.

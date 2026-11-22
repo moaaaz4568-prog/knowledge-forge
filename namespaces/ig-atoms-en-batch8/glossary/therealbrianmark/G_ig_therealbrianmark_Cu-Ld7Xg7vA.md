@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [online coaching, therealbrianmark account context]
+aka: [free 15 minute fitness consult]
 origin: sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
 ---
 
-# G_ig_therealbrianmark_Cu-Ld7Xg7vA — online coaching
+# G_ig_therealbrianmark_Cu-Ld7Xg7vA — free 15 minute fitness consult
 
 ## Term
 
-"online coaching" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: business, coaching, online, first. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The free 15 minute fitness consult is the offer Brian makes to responsive contacts when rebuilding from scratch: after reaching out to 50 people just to connect, he invites the ones who reply to a short chat about their struggles and goals, gives them a game plan, and then asks if they want help implementing it. "free 15 minute fitness consult" appears once in the source, beside "list of 50 people", "check in" and "game plan". The consult is positioned as help for a business just getting off the ground, so the prospect's yes to the call is also a yes to hearing the plan that the coach will then offer to implement.
 
 ## Synonyms
 
-- online coaching
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If I had to start from scratch without my Lambo, without my millions, and without my mansion, but I was still jacked, here's how I would get my first five online coaching clients. Step number one is I'd make a list of 50 people who are friends, family, coworkers, and more. Pretty much anyone that I had an acquaintance level connection with." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
-> "Step number four, on the call you wanna give them a consult and then at the end of the call give them a game plan and then ask if they'd like your help implementing the game plan. A few of those people will say yes and you just sign your first five online coaching clients. I hope this video is valuable." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
-> "If it was and you wanna learn more about how to grow your online coaching business, tap the link in my bio and apply for my coaching program." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
+> "Step number three, with anybody that was responsive, I would offer a free 15 minute fitness consult because I'm getting my online coaching business off the ground." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
+> "Step number one is I'd make a list of 50 people who are friends, family, coworkers, and more." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
+> "Step number two is I reach out to all 50 of those people just to connect." — sources/S_ig_therealbrianmark_Cu-Ld7Xg7vA.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "online coaching": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading the consult as a free coaching session: the call ends with a game plan and an offer to help implement it, so the consult is the front of a sale, not a standalone service.
+- Treating the list of 50 as a sales list: Brian reaches out only to connect, with no pitch, and offers the consult only to those who respond, so the list is a network to re-engage, not leads to close on first contact.

@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [boom, therealbrianmark account context]
+aka: [pre-call ritual]
 origin: sources/S_ig_therealbrianmark_Cter0yFJns4.md
 ---
 
-# G_ig_therealbrianmark_Cter0yFJns4 — boom
+# G_ig_therealbrianmark_Cter0yFJns4 — pre-call ritual
 
 ## Term
 
-"boom" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: boom, sticks, sniffed, jordan. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A pre-call ritual is the routine a salesperson uses to get into the sales zone before dialing: Jordan Belfort sniffed boom boom sticks before every call, and Brian blasts MGK to get himself hyped up, so the ritual is whatever reliably raises energy before the conversation starts. "pre-call ritual" appears twice in the source, beside "boom boom sticks", "in the zone" and "amped up". Brian's point is that every great salesperson has one, and that the listener does not have to copy Belfort's — any ritual that gets you in the zone counts — so the term names the preparation habit, not the substance used.
 
 ## Synonyms
 
-- boom
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's what the Wolf of Wall Street snorted before every single sales call. Before each call, Jordan Belfort sniffed boom boom sticks. Boom boom sticks are nasal sticks that hyped him the up and got him in the zone. Every great salesperson has a pre-call ritual to get them in the sales zone. For me personally, I blast some MGK and get myself hyped up." — sources/S_ig_therealbrianmark_Cter0yFJns4.md
+> "Every great salesperson has a pre-call ritual to get them in the sales zone." — sources/S_ig_therealbrianmark_Cter0yFJns4.md
+> "Before each call, Jordan Belfort sniffed boom boom sticks." — sources/S_ig_therealbrianmark_Cter0yFJns4.md
+> "For me personally, I blast some MGK and get myself hyped up." — sources/S_ig_therealbrianmark_Cter0yFJns4.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "boom": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading the pre-call ritual as drug use: Belfort's sticks are one example and Brian explicitly says you don't have to snort, so the ritual is the hype-up routine, not the substance.
+- Treating it as superstition: the ritual's stated job is getting amped up and in the zone for the call, so a routine that calms you down or distracts you would not be the same thing.

@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch8)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,954 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch8): one G_ entry per T_ atom file — 3,863 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 6,997 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 175 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -3004,56 +3004,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/therealbrianmark/G_ig_therealbrianmark_CsDGrRsArbL.md | Step number | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CsEPD88gf5j.md | Dom | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CsFRY93gEqX.md | flight | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsG0jKzgVrY.md | gonna | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsH-PTZAMZv.md | people | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsJXNMFgs4N.md | actually | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsM8sYUg71V.md | wife | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsO-LD1AXMP.md | stop | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsRiepkAJqg.md | Number | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsY47rdgcjm.md | Facebook group | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsZlCWXAeJL.md | fitness | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsbaarxgZ7D.md | coaching program | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsevoR0AuaV.md | prospect | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsgzuXnJ010.md | every single | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsjGLVqAvP9.md | achieve success | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsjpxnuA55O.md | fitness business | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CskXOxqAoy3.md | program | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsmWt0xM2OG.md | goals | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsoDgUrg1Oj.md | social media | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsotdVFgW3_.md | business | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CsqtzMnpKGt.md | online coaching | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CszC8nNgSGv.md | pain | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Ct1dhLZAhpi.md | gonna | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtHFvtQABJv.md | program | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtJp9HOgnJs.md | name | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtKySGXARV6.md | clients | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtMQEisAOZJ.md | program | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtP9pA_An3-.md | twenty percent | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtPbS0dgd1k.md | hours | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtRYk8kgGbi.md | make | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtUOft8g4QV.md | Ask yourself | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtZJ5PdA0PP.md | videos | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Ct_wLhGAruM.md | three tips | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtaEwOBAoT_.md | every single | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Ctb1RaQoPR1.md | week | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cter0yFJns4.md | boom | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtfYYnFgHQ_.md | commit yourself | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Ctg1RVaAfEG.md | think | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtjaQz6gTf9.md | challenge | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Ctpo1xeALwH.md | overwhelmed | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CtzjNqmgPjJ.md | Step number | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu-1xgegYrb.md | work | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu-Ld7Xg7vA.md | online coaching | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu13smLKnyG.md | sound | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu2jgNvo_Rt.md | invest | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu4YTm2AV2J.md | money | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu5EyIdgx11.md | ever | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu5txdQgl3b.md | see yourself | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu68iD0ABr7.md | people | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu7ocIRAgJd.md | step | 1 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_Cu8TTBLAXuF.md | say | 3 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuC98VUg9lG.md | price | 2 |
-| glossary/therealbrianmark/G_ig_therealbrianmark_CuFpnSAAFml.md | negatives | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsG0jKzgVrY.md | consultation | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsH-PTZAMZv.md | scarcity | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsJXNMFgs4N.md | hit every goal | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsM8sYUg71V.md | deposit | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsO-LD1AXMP.md | messy action | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsRiepkAJqg.md | your network is your net worth | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsY47rdgcjm.md | Facebook group engagement | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsZlCWXAeJL.md | Fitness MythBusters | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsbaarxgZ7D.md | gamifying | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsevoR0AuaV.md | pain points | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsgzuXnJ010.md | 10K month | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsjGLVqAvP9.md | patiently urgent | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsjpxnuA55O.md | nobody | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CskXOxqAoy3.md | yes ladder | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsmWt0xM2OG.md | now question | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsoDgUrg1Oj.md | network expansion | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsotdVFgW3_.md | self-limiting beliefs | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CsqtzMnpKGt.md | overnight success | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CszC8nNgSGv.md | pain of discipline | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Ct1dhLZAhpi.md | pre-framing | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtHFvtQABJv.md | how much does it cost | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtJp9HOgnJs.md | magic word | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtKySGXARV6.md | churn rate | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtMQEisAOZJ.md | monthly installments | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtP9pA_An3-.md | hating yourself | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtPbS0dgd1k.md | extra hours | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtRYk8kgGbi.md | coach you for a minute | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtUOft8g4QV.md | hold yourself accountable | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtZJ5PdA0PP.md | menu videos | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Ct_wLhGAruM.md | call the audience out | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtaEwOBAoT_.md | weekly rituals | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Ctb1RaQoPR1.md | stalk their bank account | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cter0yFJns4.md | pre-call ritual | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtfYYnFgHQ_.md | commit yourself to one thing | 2 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Ctg1RVaAfEG.md | I need to think about it | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtjaQz6gTf9.md | free 14-day challenge | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Ctpo1xeALwH.md | going for a walk | 1 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CtzjNqmgPjJ.md | Get People to Buy Your Shit | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu-1xgegYrb.md | when no one else is watching | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu-Ld7Xg7vA.md | free 15 minute fitness consult | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu13smLKnyG.md | given up on your goal | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu2jgNvo_Rt.md | leap of faith | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu4YTm2AV2J.md | find a mentor | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu5EyIdgx11.md | resilience | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu5txdQgl3b.md | change your mindset | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu68iD0ABr7.md | start tomorrow | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu7ocIRAgJd.md | discipline | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_Cu8TTBLAXuF.md | $50 deposit | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuC98VUg9lG.md | investment options | 3 |
+| glossary/therealbrianmark/G_ig_therealbrianmark_CuFpnSAAFml.md | the word but | 3 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuIRIHdgST5.md | videos | 2 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuM-3E3g-T-.md | agreement | 1 |
 | glossary/therealbrianmark/G_ig_therealbrianmark_CuQkKwUAknQ.md | good job | 1 |

@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [commit yourself, therealbrianmark account context]
+aka: [commit yourself to one thing]
 origin: sources/S_ig_therealbrianmark_CtfYYnFgHQ_.md
 ---
 
-# G_ig_therealbrianmark_CtfYYnFgHQ_ — commit yourself
+# G_ig_therealbrianmark_CtfYYnFgHQ_ — commit yourself to one thing
 
 ## Term
 
-"commit yourself" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, thing, commitment, yourself. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Committing yourself to one thing is Brian's claim that a single commitment spreads to everything: show him a fit person dedicated to their craft and he will show someone with discipline, character, and commitment, because the mind making the commitment is the same mind in every area. "commit yourself to one thing" appears once in the source, beside "discipline, character and commitment", "dedicated to their craft" and "fit". The sentence is the whole source — two sentences total — so the term is presented as a law of the mind rather than a technique, with fitness as the visible proof of the commitment.
 
 ## Synonyms
 
-- commit yourself
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Show me a man or woman who's fit and dedicated to their craft and I'll show you a man or woman who has discipline, character and commitment. When you commit yourself to one thing, you commit yourself to everything because your mind is the one that's making the commitment." — sources/S_ig_therealbrianmark_CtfYYnFgHQ_.md
+> "When you commit yourself to one thing, you commit yourself to everything because your mind is the one that's making the commitment." — sources/S_ig_therealbrianmark_CtfYYnFgHQ_.md
+> "Show me a man or woman who's fit and dedicated to their craft and I'll show you a man or woman who has discipline, character and commitment." — sources/S_ig_therealbrianmark_CtfYYnFgHQ_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "commit yourself": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as advice to focus on one goal only: Brian's claim is that one commitment trains the mind for all commitments, so the single thing is a starting point that spreads, not a limit on ambition.
+- Treating fitness as the goal: fitness is the example that reveals the commitment, so the term is about the mind's follow-through, not about training.

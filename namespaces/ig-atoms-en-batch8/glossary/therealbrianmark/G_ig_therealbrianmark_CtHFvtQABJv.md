@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [program, therealbrianmark account context]
+aka: [how much does it cost]
 origin: sources/S_ig_therealbrianmark_CtHFvtQABJv.md
 ---
 
-# G_ig_therealbrianmark_CtHFvtQABJv — program
+# G_ig_therealbrianmark_CtHFvtQABJv — how much does it cost
 
 ## Term
 
-"program" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gonna, judge, based, much. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"How much does it cost" is the question Brian forbids answering directly: giving the price first lets the prospect judge the program by cost instead of value, so he answers with a deflection — a program fits all budgets, but first a couple of questions to make sure it would help. "how much does it cost" appears once in the source, beside "fits all budgets", "pain points" and "present your product as the solution". The deflection buys the discovery that must happen first — pain points, problems, goals — and only after that does the product appear as the solution, so the question is treated as a timing problem, not as a request for a number.
 
 ## Synonyms
 
-- program
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When someone asks how much does it cost, you better not tell them. If you give someone the price right off the bat, they're gonna judge your program based on how much it costs, not on the value of the program. Instead, respond with this: We've got a program that fits all budgets, but first, would you mind if I ask a couple of questions to make sure it would be helpful to you?" — sources/S_ig_therealbrianmark_CtHFvtQABJv.md
+> "When someone asks how much does it cost, you better not tell them." — sources/S_ig_therealbrianmark_CtHFvtQABJv.md
+> "We've got a program that fits all budgets, but first, would you mind if I ask a couple of questions to make sure it would be helpful to you?" — sources/S_ig_therealbrianmark_CtHFvtQABJv.md
+> "Now you can properly uncover their pain points, their problems, and their goals, and you can present your product as the solution to get them to their goals." — sources/S_ig_therealbrianmark_CtHFvtQABJv.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "program": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading the deflection as refusing to ever name a price: Brian delays the price until value is established, then presents the product as the solution, so the price still comes — just after the questions, not before them.
+- Treating "fits all budgets" as a pricing promise: the line is a bridge to discovery questions, not a claim that every budget can actually buy the program.

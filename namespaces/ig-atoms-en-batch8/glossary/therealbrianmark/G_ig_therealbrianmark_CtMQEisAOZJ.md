@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [program, therealbrianmark account context]
+aka: [monthly installments]
 origin: sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
 ---
 
-# G_ig_therealbrianmark_CtMQEisAOZJ — program
+# G_ig_therealbrianmark_CtMQEisAOZJ — monthly installments
 
 ## Term
 
-"program" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, need, finances, aside. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Monthly installments are the payment shape Brian offers when a prospect says the program is too expensive: four equal payments of $400 a month replace the lump sum, so the prospect stops thinking about the money and feels silly saying no after just explaining why they need the program. "monthly installments" appears once in the source, beside "finances aside", "split it up" and "easier on the budget". The move only works after two earlier steps — asking whether the program sounds right with finances aside, and which part would benefit them most — so the installments close a sale the prospect has already sold to himself.
 
 ## Synonyms
 
-- program
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When someone says it's too expensive and I just can't afford it, here's what you say on a sales call. Yeah, I totally get it. So finances aside, does the program sound like what you're looking for? They'll usually say, well yeah, it sounds amazing. So what about the program do you think would benefit you the most? The training, the nutrition, or the accountability?" — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
-> "Well you know, I could really use the training program because like I said, I've been plateaued for the last three years and I'm really struggling to lose the weight. And then you can say, okay I'll tell you what, why don't we do this? Most of my best clients split it up into four equal monthly installments, so it's $400 per month. That way it's easier on the budget." — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
-> "If we were to do that, would that make it easier for you to get started today? What we just did is now they're no longer thinking about the money, but we reminded them that they need our program and we presented an easy option for them to get started today. Now the prospect will feel silly saying no because we just got them to sell themselves on why they need the program." — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
+> "Most of my best clients split it up into four equal monthly installments, so it's $400 per month." — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
+> "Yeah, I totally get it. So finances aside, does the program sound like what you're looking for?" — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
+> "So what about the program do you think would benefit you the most? The training, the nutrition, or the accountability?" — sources/S_ig_therealbrianmark_CtMQEisAOZJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "program": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Treating installments as a discount: the total stays the same and only the timing changes, so the prospect pays the same amount in four pieces rather than less overall.
+- Offering installments before the prospect wants the program: Brian first gets them to say the program sounds amazing and name its best part, so the installments answer a budget objection, not a lack of desire.

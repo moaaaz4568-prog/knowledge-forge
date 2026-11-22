@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [gonna, therealbrianmark account context]
+aka: [consultation, free consult]
 origin: sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
 ---
 
-# G_ig_therealbrianmark_CsG0jKzgVrY — gonna
+# G_ig_therealbrianmark_CsG0jKzgVrY — consultation
 
 ## Term
 
-"gonna" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sell, caption, write, loss. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Brian uses the consultation as the bridge step in his trainer funnel: a commenter who writes "fat loss" gets a direct message, then a free 15-minute call where Brian maps the person's pain points and goals, and only at the end of that call does he offer the $1,000 program as the way from pain to goals. "consultation" appears twice in the source, beside "free 15 minute", "pain points", "online coaching program" and "offer your program as a solution". In practice the call is free and short while the program it leads to costs $1,000, so the consultation works as a qualification conversation rather than a free coaching session.
 
 ## Synonyms
 
-- gonna
-- therealbrianmark account context (no variant form of the term appears in this source)
+- free consult (the shortened form Brian uses when he describes the end of the call)
 
 ## Live Example
 
-> "$100,000 a year is not a lot of money. Here are five stupid, easy, simple steps to make $100,000 a year as a personal trainer. Step number one is to post your best transformation post of a client and in the caption you're gonna write this. I'm looking for five people who wanna lose five to 10 pounds in the next 30 to 90 days. If that's you, comment" — sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
-> "and set up a consultation about your online coaching program. Phone call is a free 15 minute consultation to talk about their pain points and what their goals are. At the end of that free consult, you're gonna offer your program as a solution to get them from their pain to their goals. You're gonna sell them $1,000 online training program. Repeat this process every month of the year." — sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
-> "You're gonna sell 100 clients at $1,000 and you just made $100,000 a year. And if this video is valuable, save it and follow me for more." — sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
+> "Phone call is a free 15 minute consultation to talk about their pain points and what their goals are." — sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
+> "At the end of that free consult, you're gonna offer your program as a solution to get them from their pain to their goals." — sources/S_ig_therealbrianmark_CsG0jKzgVrY.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Treating the consultation as the product itself: Brian gives the call away free for 15 minutes and sells the $1,000 program at its end, so reading the call as free coaching misses that its job is to surface pain points and goals before any offer.
+- Assuming every commenter gets a consultation: only people who comment the exact phrase "fat loss" get the DM that sets the call up, so the consultation belongs to that reply funnel, not to anyone who watches the video.

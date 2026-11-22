@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [three tips, therealbrianmark account context]
+aka: [call the audience out]
 origin: sources/S_ig_therealbrianmark_Ct_wLhGAruM.md
 ---
 
-# G_ig_therealbrianmark_Ct_wLhGAruM — three tips
+# G_ig_therealbrianmark_Ct_wLhGAruM — call the audience out
 
 ## Term
 
-"three tips" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: tips, help, three, grow. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Calling the audience out is the viral hook Brian teaches: instead of opening with three weight-loss tips, name the viewer's current problem directly — a pancake ass that disappears when they turn sideways — and then give the three glute tips as the solution. "call the audience out" appears once in the source, beside "start with the problem", "trigger your audience" and "comment on your post". The call-out works by making viewers feel something and comment, and the comments push the post viral, so the problem-first opening is a distribution trick as much as a teaching structure.
 
 ## Synonyms
 
-- three tips
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's the secret hack to going viral over and over and over again. Start with the problem, then give the solution. Most creators post stupid videos like this. Here are three tips to help you lose weight. Instead, you need to call the audience out on their current problem. Do you have a pancake ass that disappears when you turn sideways? If so, here are three tips to grow your glutes." — sources/S_ig_therealbrianmark_Ct_wLhGAruM.md
+> "Instead, you need to call the audience out on their current problem." — sources/S_ig_therealbrianmark_Ct_wLhGAruM.md
+> "Start with the problem, then give the solution." — sources/S_ig_therealbrianmark_Ct_wLhGAruM.md
+> "Do you have a pancake ass that disappears when you turn sideways? If so, here are three tips to grow your glutes." — sources/S_ig_therealbrianmark_Ct_wLhGAruM.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "three tips": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading the call-out as an insult for its own sake: the provocation names a specific problem the tips then solve, so a call-out with no solution after it would be abuse rather than the hook Brian describes.
+- Treating problem-first as a content rule for all videos: the source applies it to going viral, where comments drive reach, so a video meant to teach quietly would not need the trigger at all.

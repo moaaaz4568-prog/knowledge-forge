@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [achieve success, therealbrianmark account context]
+aka: [patiently urgent]
 origin: sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
 ---
 
-# G_ig_therealbrianmark_CsjGLVqAvP9 — achieve success
+# G_ig_therealbrianmark_CsjGLVqAvP9 — patiently urgent
 
 ## Term
 
-"achieve success" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: order, success, invested, achieve. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Patiently urgent is Brian's name for the third shift behind his jump from $3,000 a month to $800,000: accepting that success takes a lot of time while taking urgent action every single day to get closer to the goals. "patiently urgent" appears once in the source, beside "commitment", "truthful with myself" and "natural gifts". It sits between a commitment to do whatever is necessary regardless of risk or fear and an honest audit of strengths and weaknesses, so the patience is about the timeline and the urgency is about the daily work, held together rather than traded off.
 
 ## Synonyms
 
-- achieve success
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I'm making $800,000 every month right now, but it wasn't too long ago I was making $3,000 a month. Here's what I did that shifted my entire life. Number one, I made a commitment that regardless of the risk and regardless of the fears, I was gonna do whatever was necessary in order to achieve success. I've invested hundreds of thousands of dollars in mentors." — sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
-> "I understand that it's gonna take a lot of time for me to achieve success, but every single day I'm taking urgent actions to get me closer to the goals that I have. These three things helped me become a multi-millionaire and they're three things that all of you have access to. And if this video was valuable, save it and follow me for more." — sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
+> "Number three, I was patiently urgent. I understand that it's gonna take a lot of time for me to achieve success, but every single day I'm taking urgent actions to get me closer to the goals that I have." — sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
+> "Number one, I made a commitment that regardless of the risk and regardless of the fears, I was gonna do whatever was necessary in order to achieve success." — sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
+> "Number two, I became truthful with myself, with my strengths and my weaknesses." — sources/S_ig_therealbrianmark_CsjGLVqAvP9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "achieve success": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Hearing patiently urgent as a contradiction to resolve: Brian holds both halves at once — slow timeline, fast days — so picking only patience or only urgency breaks the idea.
+- Reading it as waiting for results: the urgency half demands daily action toward the goals, so a patient wait without daily moves is the opposite of what the phrase means here.

@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [week, therealbrianmark account context]
+aka: [stalk their bank account]
 origin: sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
 ---
 
-# G_ig_therealbrianmark_Ctb1RaQoPR1 — week
+# G_ig_therealbrianmark_Ctb1RaQoPR1 — stalk their bank account
 
 ## Term
 
-"week" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: times, five, many, eat. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Stalking their bank account is Brian's preparation for the "I need to check my budget" objection: from the start of the call he asks about spending habits — eating out, alcohol, cigarettes — and counts $20 for each instance, so five fast-food meals a week becomes $400 a month the prospect is already spending. "stalk their bank account" appears once in the source, beside "spending habits", "check my budget" and "$400 a month". When the objection comes, he offers the prospect's own money back to them — cut the fast food, invest the $400 in fitness — so the stalking is really an inventory of money already being spent, not a look at their bank.
 
 ## Synonyms
 
-- week
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "here's what you say. First, you gotta stalk their bank account. From the start of the call, you need to be asking questions about their spending habits. How many times a week do you eat out? How much alcohol do you drink? Do you smoke cigarettes? Basically, count it as $20 for every time they eat out, drink alcohol, or smoke cigarettes." — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
-> "So if they eat out five times a week, that's $100 per week or $400 a month they're spending on fast food. So when they say" — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
-> "Well, if you cut out eating fast food five times a week and you save that $400 a month, would it make it easier for you to invest in your fitness goals so you can lose that 20 pounds?" — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
+> "First, you gotta stalk their bank account." — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
+> "Basically, count it as $20 for every time they eat out, drink alcohol, or smoke cigarettes." — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
+> "So if they eat out five times a week, that's $100 per week or $400 a month they're spending on fast food." — sources/S_ig_therealbrianmark_Ctb1RaQoPR1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "week": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as literally accessing the prospect's bank account: Brian never sees any account; he builds the total from questions the prospect answers on the call, so the stalking is a running tally of stated habits.
+- Treating the $20 rule as a price list: the $20 per instance is a rough counting device to reach $400 a month, not a measured cost of each meal or drink.

@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [online coaching, therealbrianmark account context]
+aka: [overnight success]
 origin: sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
 ---
 
-# G_ig_therealbrianmark_CsqtzMnpKGt — online coaching
+# G_ig_therealbrianmark_CsqtzMnpKGt — overnight success
 
 ## Term
 
-"online coaching" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: first, ever, coaching, program. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Overnight success is Brian's ironic label for ten years of consistency: he started as a bartender working nine to five, posted for two hours after every shift, did free work for three to six months to build authority, and raised his price from $200 to $400 to $750 per 12 weeks before reaching $10 million a year. "overnight success" appears once in the source, beside "nine to five", "posting consistently" and "free work". The joke is the point — the success looks sudden only if the decade of daily posting and gradual price rises is left out — so the term means a long grind that appears instant from the outside.
 
 ## Synonyms
 
-- online coaching
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It took me three to six months of posting consistently for people to start viewing me as an authority. And in this time, I did a lot of free work to get my name out there and build my reputation. I sold my first ever online coaching program for $200 for 12 weeks. The next client I sold for $400 for 12 weeks. The next client I sold for $750 for 12 weeks." — sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
-> "I've been consistent for the last 10 years, which has made me an overnight success. I started out just like you, working a nine to five and hustling to try to get my online coaching business off the ground. If you start today and you can stay consistent for the next five, ten years, I promise you you're on the way to making millions. And if this video was valuable, save it and follow me for more." — sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
+> "I've been consistent for the last 10 years, which has made me an overnight success." — sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
+> "I sold my first ever online coaching program for $200 for 12 weeks." — sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
+> "If you start today and you can stay consistent for the next five, ten years, I promise you you're on the way to making millions." — sources/S_ig_therealbrianmark_CsqtzMnpKGt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "online coaching": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading overnight success as a literal timeline: the source spells out ten years, a bartending job, and months of unpaid work, so the overnight part is irony, not a claim of fast money.
+- Treating the $200 first sale as the whole story: the first client paid $200 for 12 weeks, the next $400, the next $750, so the success is the ladder of rising prices, not a single lucky sale.

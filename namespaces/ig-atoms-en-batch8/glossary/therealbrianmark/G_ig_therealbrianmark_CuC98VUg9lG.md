@@ -1,27 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [price, therealbrianmark account context]
+aka: [investment options]
 origin: sources/S_ig_therealbrianmark_CuC98VUg9lG.md
 ---
 
-# G_ig_therealbrianmark_CuC98VUg9lG — price
+# G_ig_therealbrianmark_CuC98VUg9lG — investment options
 
 ## Term
 
-"price" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: say, sales, call, walk. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Investment options are the words Brian uses instead of the price: after covering everything about losing 20 pounds and getting in the best shape ever, he tells the coach to say the next step is going over the investment options and then walking the prospect through the price. "investment options" appears once in the source, beside "here's the price", "slimy and salesy" and "walk them through the price". The reframe matters because blurting "$400 a month or $1,200 in full" makes the coach look slimy, while "investment options" frames the same money as the step toward the shape just discussed, so the term is a language swap that changes how the price lands.
 
 ## Synonyms
 
-- price
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Never just say here's the price on a sales call. This is what most of you sound like. Okay, so it's like $400 a month or you can pay me in full for $1,200. It makes you look slimy and salesy and you're still a . Instead, say this. All right, so I think we've covered everything that we need to cover in regards to you losing 20 pounds and getting in the best shape ever." — sources/S_ig_therealbrianmark_CuC98VUg9lG.md
-> "The next step is to go over the investment options and then walk them through the price. Save this video and go make some ." — sources/S_ig_therealbrianmark_CuC98VUg9lG.md
+> "The next step is to go over the investment options and then walk them through the price." — sources/S_ig_therealbrianmark_CuC98VUg9lG.md
+> "Never just say here's the price on a sales call." — sources/S_ig_therealbrianmark_CuC98VUg9lG.md
+> "It makes you look slimy and salesy and you're still a ." — sources/S_ig_therealbrianmark_CuC98VUg9lG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "price": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading investment options as a different price: the options lead to the same walk-through of the price, so the term changes the framing of the money, not the amount.
+- Treating the reframe as deception: Brian presents it as the professional way to introduce price after the outcome is agreed, so hiding the price would break the term — the walk-through still happens.

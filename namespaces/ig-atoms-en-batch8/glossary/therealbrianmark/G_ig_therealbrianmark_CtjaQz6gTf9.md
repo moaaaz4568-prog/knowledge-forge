@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [challenge, therealbrianmark account context]
+aka: [free 14-day challenge]
 origin: sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
 ---
 
-# G_ig_therealbrianmark_CtjaQz6gTf9 — challenge
+# G_ig_therealbrianmark_CtjaQz6gTf9 — free 14-day challenge
 
 ## Term
 
-"challenge" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: free, 14-day, shredded, summer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The free 14-day challenge is Brian's fast-cash play for a trainer who owes $5,000: run a free Shredded for Summer challenge for two weeks, cap it at 20 spots, DM 50 people with the Canva flyer, and convert the results into testimonials and $1,000 program sales. "free 14-day challenge" appears once in the source, beside "20 spots", "DM free challenge" and "hella testimonials". The arithmetic closes the loop — three $1,000 sign-ups plus two more from the testimonials equals $5,000 — so the challenge is a lead machine whose free work is paid for by the conversions it produces.
 
 ## Synonyms
 
-- challenge
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If I owed Pablo Escobar money and I needed to make $5,000 fast and my life depended on it, here's what I would do. First, I'd start a free 14-day challenge. In these 14 days, I would help people lose five to 10 pounds for free for two weeks. I would go to Canva and create a free 14-day Shredded for Summer challenge graphic." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
-> "Once they say yes, I'd send that sexy flyer that I made. When 10 to 20 people say yes, I'd help them lose weight for two weeks and help them get shredded for summer. Now you have hella testimonials to market your online coaching service, and some of these people in this free challenge will join your $1,000 fitness program." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
-> "If you sign three people for $1,000 from your challenge and two people with the testimonials from the challenge, you just made $5,000. And you can now pay Pablo back. Save this video and don't accept loans from strangers." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
+> "First, I'd start a free 14-day challenge." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
+> "In these 14 days, I would help people lose five to 10 pounds for free for two weeks." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
+> "Once they say yes, I'd send that sexy flyer that I made." — sources/S_ig_therealbrianmark_CtjaQz6gTf9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "challenge": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading the challenge as free coaching for its own sake: the two free weeks exist to produce weight loss, testimonials, and buyers, so a challenge that helps people without converting anyone has failed its stated purpose.
+- Treating the 20 spots as a capacity limit: the flyer caps the challenge at 20 to create urgency and manage the workload, not because the trainer cannot help a 21st person.

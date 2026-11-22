@@ -1,26 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [actually, therealbrianmark account context]
+aka: [hit every goal]
 origin: sources/S_ig_therealbrianmark_CsJXNMFgs4N.md
 ---
 
-# G_ig_therealbrianmark_CsJXNMFgs4N — actually
+# G_ig_therealbrianmark_CsJXNMFgs4N — hit every goal
 
 ## Term
 
-"actually" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: went. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The phrase names the imagined payoff of actually doing what you said you would do: Brian asks the viewer to picture life after hitting every goal, then ties the feeling to going out and doing everything promised, with no plan or tactic attached. "hit every goal" appears once in the source, beside "What if you actually did it?", "think about what your life would look like" and "everything you said you were going to do". The use is a visualization prompt — picture the finished life first, and let that picture carry the work — rather than a method for setting goals.
 
 ## Synonyms
 
-- actually
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "What if you did it? What if you actually did it? How do you think you'd feel? I mean, just for a minute, think about what your life would look like if you hit every goal that you have. If you actually went out and did everything you said you were going to do." — sources/S_ig_therealbrianmark_CsJXNMFgs4N.md
+> "What if you did it? What if you actually did it? How do you think you'd feel?" — sources/S_ig_therealbrianmark_CsJXNMFgs4N.md
+> "think about what your life would look like if you hit every goal that you have." — sources/S_ig_therealbrianmark_CsJXNMFgs4N.md
+> "If you actually went out and did everything you said you were going to do." — sources/S_ig_therealbrianmark_CsJXNMFgs4N.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "actually": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as a goal-setting method: the source gives no steps, deadlines, or measures, only the invitation to imagine the life that follows doing everything promised.
+- Hearing "every goal" as a promise that all goals are reachable at once: Brian frames it as a one-minute thought experiment about how you would feel, not as a claim that every goal can be hit together.

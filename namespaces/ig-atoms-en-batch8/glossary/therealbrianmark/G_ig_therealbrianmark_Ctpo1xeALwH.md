@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [overwhelmed, therealbrianmark account context]
+aka: [going for a walk]
 origin: sources/S_ig_therealbrianmark_Ctpo1xeALwH.md
 ---
 
-# G_ig_therealbrianmark_Ctpo1xeALwH — overwhelmed
+# G_ig_therealbrianmark_Ctpo1xeALwH — going for a walk
 
 ## Term
 
-No content word repeats often enough in this short source (21 words) to form a repeated term, so this entry documents the source's central term "overwhelmed" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Going for a walk is Brian's alternative to the pill bottle for anxiety, depression, overwhelm, and frustration: one sentence, no program, no dose, just a walk instead of reaching for medication. "going for a walk" appears once in the source — the whole source is a single sentence — beside "anxious", "depressed", "overwhelmed" and "frustrated". The term works as a prescription for movement in place of a chemical fix, so its meaning is the substitution itself: the walk replaces the pill bottle in the moment the feeling hits.
 
 ## Synonyms
 
-- overwhelmed
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (21 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "overwhelmed": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Reading it as medical advice: the source is a one-line provocation with no condition, duration, or disclaimer, so it is a stance about coping, not a treatment plan for any of the four feelings named.
+- Treating the walk as a cure: Brian offers the walk instead of the pill bottle in the moment, not as a claim that walking resolves anxiety or depression on its own.

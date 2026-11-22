@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [wife, therealbrianmark account context]
+aka: [deposit]
 origin: sources/S_ig_therealbrianmark_CsM8sYUg71V.md
 ---
 
-# G_ig_therealbrianmark_CsM8sYUg71V — wife
+# G_ig_therealbrianmark_CsM8sYUg71V — deposit
 
 ## Term
 
-"wife" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, call, sales, prospect. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The deposit is the money Brian takes before a prospect leaves the sales call to talk to his wife: whatever number the man names as spendable without consulting her becomes a deposit on the spot, because once he talks to his wife without paying anything the sale is effectively lost. "deposit" appears twice in the source, beside "talk to my wife", "comfortably spend", "max amount of money" and "without having to consult with your wife". The Skittles-and-Pepsi test sets the floor — if he can buy snacks without asking, he can put something down today — and the deposit turns that small permission into a commitment.
 
 ## Synonyms
 
-- wife
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I need to talk to my wife on the sales call" — sources/S_ig_therealbrianmark_CsM8sYUg71V.md
+> "take that as a deposit before they go and talk to their wife" — sources/S_ig_therealbrianmark_CsM8sYUg71V.md
 > "What can you comfortably spend without having to get your wife involved?" — sources/S_ig_therealbrianmark_CsM8sYUg71V.md
-> "No matter what number they give you, take that as a deposit before they go and talk to their wife, because I promise you, if they go and talk to their wife after the call and you don't get a deposit, you're. And if this video is valuable, save it and follow me for more." — sources/S_ig_therealbrianmark_CsM8sYUg71V.md
+> "Like, are you allowed to go out and get some Skittles and some Pepsi without consulting your wife?" — sources/S_ig_therealbrianmark_CsM8sYUg71V.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "wife": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Treating the deposit as a partial payment toward a fixed price: Brian takes whatever number the prospect volunteers, so the deposit is a commitment device sized by the prospect's own comfort, not a set fraction of the program.
+- Assuming the wife conversation happens first: the whole move exists because a prospect who leaves to consult his wife and pays nothing almost never returns, so the deposit must come before the call ends.

@@ -1,28 +1,27 @@
 ---
 type: glossary
 topic: therealbrianmark
-aka: [think, therealbrianmark account context]
+aka: [I need to think about it]
 origin: sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
 ---
 
-# G_ig_therealbrianmark_Ctg1RVaAfEG — think
+# G_ig_therealbrianmark_Ctg1RVaAfEG — I need to think about it
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed Instagram video from the therealbrianmark account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, reason, program, benefit. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"I need to think about it" is the stall Brian teaches coaches to see through: it is usually a cover for the real objection, so his first reply asks what exactly needs thinking about — time, money, or something else — and only then works the true reason. "I need to think about it" appears twice in the source, beside "bullsh** excuse", "check my budget" and "monthly installments". Once the prospect admits the budget is the issue, Brian replays the finances-aside question and offers $400-a-month installments, so the phrase is handled by naming the hidden objection rather than by waiting for the prospect to think.
 
 ## Synonyms
 
-- think
-- therealbrianmark account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "No problem, man. So what is it that you need to think about it? Is it time, money, or is it something else?" — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
-> "So what part about the program do you think would benefit you the most?" — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
-> "Now they'll feel like a dumbass saying no to the program because they just sold the program back to you. Save this video and follow me for more value. Don't even think about it." — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
+> "What if we were able to split it up into monthly installments? Let's say 400 a month." — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
+> "Now they'll feel like a dumbass saying no to the program because they just sold the program back to you." — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
+> "Save this video and follow me for more value. Don't even think about it." — sources/S_ig_therealbrianmark_Ctg1RVaAfEG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Taking the stall at face value: the source calls it a bullsh** excuse for the actual objection, so giving the prospect time to think would leave the real reason — usually budget — unaddressed.
+- Treating the installments as the answer to thinking: the installments only come after the prospect names the budget problem, so offering them before the real objection surfaces would answer a question nobody asked.
