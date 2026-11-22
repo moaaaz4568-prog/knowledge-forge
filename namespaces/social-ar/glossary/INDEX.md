@@ -1,9 +1,10 @@
 # Index — glossary/
 
 Chunk 1 of social-ar-batch2-part2: 50 files (codes 1501–1550 of social-ar-batch2-list.txt).
+Chunk 2 of social-ar-batch2-part2: 50 files (codes 1551–1600 of social-ar-batch2-list.txt).
 Chunk 3 of social-ar-batch2-part2: 50 files (codes 1601–1650 of social-ar-batch2-list.txt).
-Live-example total: 200 (chunk 1: 82, chunk 3: 118).
-Gates: 200 entities, 0 rejected (gates.py check --namespace social-ar on sparse checkout: 100 T_ + 100 G_; chunks 1+3; chunk 2 pending — sibling c2)
+Live-example total: 305 (chunk 1: 82, chunk 2: 105, chunk 3: 118).
+Gates: 200 entities, 0 rejected (gates.py check --namespace social-ar on sparse checkout: 50 T_ chunk 2 + 150 G_ chunks 1+2+3; chunk-2 in-scope 100/100 accepted)
 
 | File | Term | Count |
 |---|---|---|
@@ -57,6 +58,56 @@ Gates: 200 entities, 0 rejected (gates.py check --namespace social-ar on sparse 
 | glossary/G_ig_shadi_alarosy_DYNURTNIyfr.md | رود ماب | 4 |
 | glossary/G_ig_shadi_alarosy_DZ-b3TJozeI.md | الميديا بوينغ | 3 |
 | glossary/G_ig_shadi_alarosy_DZDOhvmoW0s.md | بيم | 1 |
+| glossary/G_ig_shadi_alarosy_DZLFGbYouGz.md | يونيت إيكو نوميكس | 1 |
+| glossary/G_ig_shadi_alarosy_DZaA1aJInak.md | الاستراكتشر | 4 |
+| glossary/G_ig_shadi_alarosy_DZc3ETDodRG.md | ترافيك كامبين | 1 |
+| glossary/G_ig_shadi_alarosy_DZhw5voIH16.md | المودستوير | 4 |
+| glossary/G_ig_shadi_alarosy_DZsnKZRIaWW.md | الكوست بيزد برايسينج | 1 |
+| glossary/G_ig_shadi_alarosy_DaBOqFGMwPw.md | لييرينج | 2 |
+| glossary/G_ig_shadi_alarosy_DaGSuJWIHmU.md | اللايف ستايل | 2 |
+| glossary/G_ig_shadi_alarosy_DaIzikYK-nB.md | تقارنش نفسك | 1 |
+| glossary/G_ig_shadi_alarosy_Db-RgGEouBS.md | كلاينت أكوزيشن | 1 |
+| glossary/G_ig_shadi_alarosy_Db7vmkMoTj4.md | average order value | 4 |
+| glossary/G_ig_shadi_alarosy_DbLXCWsoC8g.md | الفليكسابل أديس | 2 |
+| glossary/G_ig_shadi_alarosy_DbN6MovIr6V.md | بريك داون | 3 |
+| glossary/G_ig_shadi_alarosy_DbT0742oqA2.md | دوبلكيت | 1 |
+| glossary/G_ig_shadi_alarosy_DbVwb1RIDSG.md | دي بوزيت | 4 |
+| glossary/G_ig_shadi_alarosy_DbtQUsNIEKJ.md | سكيلينج كامبين | 3 |
+| glossary/G_ig_shadi_alarosy_Dc9DMZxIGVF.md | الأفرج أوردر فاليو | 5 |
+| glossary/G_ig_shadi_alarosy_DcEWY40o3mW.md | باندل | 9 |
+| glossary/G_ig_shadi_alarosy_DcRJhnJoopl.md | high income skill | 1 |
+| glossary/G_ig_shadi_alarosy_DcTdf5LIsh6.md | وينرز | 2 |
+| glossary/G_ig_shadi_alarosy_Dc_ZkV2IgAQ.md | الستاتكس | 2 |
+| glossary/G_ig_shadi_alarosy_DdEqZomIPai.md | average order value | 6 |
+| glossary/G_ig_sharaf_aidin111_DE8IaCMNSCM.md | عشبة الكردوسين | 1 |
+| glossary/G_ig_sharaf_aidin111_DEOKkZotP6k.md | الخلطة | 2 |
+| glossary/G_ig_sharaf_aidin111_DEQUEUPtSFV.md | أعشاب التونر | 1 |
+| glossary/G_ig_sharaf_aidin111_DEVhrErNKr-.md | عشبة التونر | 1 |
+| glossary/G_ig_sharaf_aidin111_DEds5Sjt1kV.md | القولون العصبي | 2 |
+| glossary/G_ig_sharaf_aidin111_DEilweStawW.md | مرض السكر | 1 |
+| glossary/G_ig_sharaf_aidin111_DEmZG8SN9d8.md | الخلطة | 5 |
+| glossary/G_ig_sharaf_aidin111_DEpjghpNQ8x.md | خلطة زيت | 1 |
+| glossary/G_ig_sharaf_aidin111_DF-J55nvCso.md | الصلع الوراثي | 1 |
+| glossary/G_ig_sharaf_aidin111_DF2wirlNgL1.md | صلع وراسي | 1 |
+| glossary/G_ig_sharaf_aidin111_DF8y3Omtb7M.md | الصلع الوراسي | 1 |
+| glossary/G_ig_sharaf_aidin111_DFCJpq9I2O_.md | الزبدة | 3 |
+| glossary/G_ig_sharaf_aidin111_DFCLEB2tgNP.md | خلطة | 5 |
+| glossary/G_ig_sharaf_aidin111_DFDx1jrtKks.md | أعشاب كنار | 1 |
+| glossary/G_ig_sharaf_aidin111_DFDxCFiNzR8.md | أعشاب كنار | 1 |
+| glossary/G_ig_sharaf_aidin111_DFF6skUtQxy.md | أعشاب قنار | 1 |
+| glossary/G_ig_sharaf_aidin111_DFFXOKltYNt.md | أعشاب كنار | 1 |
+| glossary/G_ig_sharaf_aidin111_DFVM6P9trmT.md | خلطة زيت | 1 |
+| glossary/G_ig_sharaf_aidin111_DFh3CHONXm0.md | أعشاب تنر | 1 |
+| glossary/G_ig_sharaf_aidin111_DFlf8WZNYUq.md | خلطة طبيعية | 1 |
+| glossary/G_ig_sharaf_aidin111_DFoxnwLtBQy.md | خلطة طبيعية | 1 |
+| glossary/G_ig_sharaf_aidin111_DFoxrlOtUVx.md | خلطة طبيعية | 1 |
+| glossary/G_ig_sharaf_aidin111_DFvWD3qNp__.md | أعشاب تنر | 1 |
+| glossary/G_ig_sharaf_aidin111_DFzPtCZNyQu.md | أعشاب تنر | 1 |
+| glossary/G_ig_sharaf_aidin111_DG-mbPsNnXX.md | النوي | 2 |
+| glossary/G_ig_sharaf_aidin111_DG6yasvtRfI.md | النوي | 2 |
+| glossary/G_ig_sharaf_aidin111_DGK25aDN56w.md | أعشاب تنور | 1 |
+| glossary/G_ig_sharaf_aidin111_DGN23sTtpmH.md | تين مجفف | 1 |
+| glossary/G_ig_sharaf_aidin111_DGPNb-SoeYP.md | خلطة | 4 |
 | glossary/G_ig_sharaf_aidin111_DGQRX01t2WF.md | الخلطة | 2 |
 | glossary/G_ig_sharaf_aidin111_DGUE5bgtkp8.md | الزبدة | 2 |
 | glossary/G_ig_sharaf_aidin111_DGatDOwN9gc.md | خاشعا | 2 |
