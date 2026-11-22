@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [email list, thetravisstephenson account context]
+aka: [shout out]
 origin: sources/S_ig_thetravisstephenson_Cae4AfsDpWD.md
 ---
 
-# G_ig_thetravisstephenson_Cae4AfsDpWD — email list
+# G_ig_thetravisstephenson_Cae4AfsDpWD — shout out
 
 ## Term
 
-"email list" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: building, list, now, email. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "shout out" is a paid tag from a large page that sends its followers to a smaller profile, and Travis treats it as the cheapest way to start from zero. The phrase appears once, beside "Millionaire Division", "457,000 followers", "100 bucks", and "DM automations", and the funnel after the tag is what matters: the profile carries two calls to action, one to DM and one to opt into the list, so either path builds the email list. Concretely, a $100 shout-out from a page with 457,000 followers can fill a brand-new account with leads, and the owner then earns affiliate commissions by emailing other people's offers to that list.
 
 ## Synonyms
 
-- email list
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One of them is to DM me and the other one is to go opt into my list. Either way, I'm building my email list. So now I've started with literally nothing. I'm building my email list. Then I will send emails to other people's offers that offer me affiliate commissions and that's how I would get to $10,000 a month if I had to start from scratch. And I don't even really need a website." — sources/S_ig_thetravisstephenson_Cae4AfsDpWD.md
+> "You can message them and ask them for a shout out." — sources/S_ig_thetravisstephenson_Cae4AfsDpWD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "email list": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a free promotion: the shout-out in the example costs $100, and the tag alone does nothing without the DM and opt-in calls to action on the profile.
+- Read as a guarantee of $10,000 a month: the shout-out only starts the list; the income comes from emailing affiliate offers to the people it brings in.

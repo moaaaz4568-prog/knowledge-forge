@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [funnels, thetravisstephenson account context]
+aka: [funnels]
 origin: sources/S_ig_thetravisstephenson_CbBHm3ppx9-.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_thetravisstephenson_CbBHm3ppx9-.md
 
 ## Term
 
-"funnels" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: bots, implementing, actual, training. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Funnels" are the step-by-step paths that move a stranger toward buying, and this clip is a workshop attendee describing a course that teaches them end to end. The word appears three times, beside "messenger bots", "ad copy", "hands-on training", and "workshop", and the promise is a business that is mostly automated, with nearly unlimited income potential, and no boss. Concretely, the training covers everything from messenger bots to implementing the funnels to writing the ad copy, and the attendees do the work during the workshop itself rather than only watching.
 
 ## Synonyms
 
-- funnels
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We're led to believe that you have to go to school, get a degree, and that'll instantly turn into a good job and you'll live happily ever after. You're going to know exactly how to create a business that is mostly automated, has nearly unlimited income potential, and doesn't require you to work for anyone else. Everything from messenger bots to implementing the funnels to the actual ad copy." — sources/S_ig_thetravisstephenson_CbBHm3ppx9-.md
-> "I mean, it was essentially start to finish on how to set up this entire process in your business. We definitely had a lot of hands-on training from copy to funnels. We're going to the funnels, we're going to the ads, like we're doing all of the work during the workshop. I love that." — sources/S_ig_thetravisstephenson_CbBHm3ppx9-.md
+> "Everything from messenger bots to implementing the funnels to the actual ad copy." — sources/S_ig_thetravisstephenson_CbBHm3ppx9-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "funnels": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Travis teaching the course: the speaker describing the funnels is a workshop attendee, not Travis.
+- Read as a promise of unlimited income: the "nearly unlimited" potential is the course's promise, and the work — copy, funnels, ads — is done hands-on during the workshop.

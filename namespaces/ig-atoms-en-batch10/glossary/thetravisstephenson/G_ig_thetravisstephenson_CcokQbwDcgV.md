@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [thousand dollars, thetravisstephenson account context]
+aka: [kinesiology]
 origin: sources/S_ig_thetravisstephenson_CcokQbwDcgV.md
 ---
 
-# G_ig_thetravisstephenson_CcokQbwDcgV — thousand dollars
+# G_ig_thetravisstephenson_CcokQbwDcgV — kinesiology
 
 ## Term
 
-"thousand dollars" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: one, hundred, twenty, dollars. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Kinesiology" is the degree Travis paid $120,000 for, and he uses it as the proof that a degree can cost a fortune and teach nothing practical. The word appears twice, beside "degree", "one hundred twenty thousand dollars", "podcast", and "practical skills", and his verdict is blunt: the degree did not help him get a job, did not teach practical skills, and was not necessary. Concretely, he says he could have ended up in the same place with a four-year head start and $120,000 more in his pocket — and jokes that nothing in kinesiology taught him how to host a podcast.
 
 ## Synonyms
 
-- thousand dollars
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I paid one hundred twenty thousand dollars for my degree. They didn't help me get a job. They didn't teach me any practical skills. They didn't do crap. They took one hundred twenty thousand dollars of my money and four years of my life. And I mean, I don't regret it in any sense. Like it got me my job. I wouldn't be here without it, obviously. Whatever it was, but it wasn't necessary." — sources/S_ig_thetravisstephenson_CcokQbwDcgV.md
-> "I could have absolutely ended up here without that, and I'd been, I'd had a four-year head start. And one hundred twenty thousand dollars more in my pocket, and people want to talk about ten thousand dollars is way too much to learn a direct business where the end game is that I get something out of this. You are absolutely crazy. I mean, I have a degree in kinesiology." — sources/S_ig_thetravisstephenson_CcokQbwDcgV.md
+> "I mean, I have a degree in kinesiology. I don't think it's you are using that much more." — sources/S_ig_thetravisstephenson_CcokQbwDcgV.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "thousand dollars": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that all degrees are useless: Travis speaks only about his own kinesiology degree and its $120,000 cost, not about every degree.
+- Read as regret: he says plainly he does not regret it — it got him his job — only that it was not necessary.

@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [because, thetravisstephenson account context]
+aka: [afraid]
 origin: sources/S_ig_thetravisstephenson_CdVj9FSjOof.md
 ---
 
-# G_ig_thetravisstephenson_CdVj9FSjOof — because
+# G_ig_thetravisstephenson_CdVj9FSjOof — afraid
 
 ## Term
 
-"because" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: safety, driven, afraid, fear. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Afraid" is the word Travis keeps returning to when he asks whether a safe life is a life defined by fear. The word appears four times, beside "safety", "fear", "savings account", and "uncomfortable", and the question he wants everybody to ask is whether they are living this way out of fear rather than choice. Concretely, he catches himself doing it: money sits in a savings account and does not move because he is afraid, instead of being put to work — while gas and consumer prices rise and other people take risks and make more money.
 
 ## Synonyms
 
-- because
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have the internal conversation with yourself. What am I doing with every element of your life? Am I being safe? Am I only doing this because safety is driven by fear? Am I afraid? Is the question that I want everybody to ask. Am I doing this because I'm afraid? Am I living this way out of fear? Because is that how I want to define my life?" — sources/S_ig_thetravisstephenson_CdVj9FSjOof.md
-> "Ask your significant other, ask your parents, is this being driven out of fear? Because safety is nice and comfortable. Am I afraid of the uncomfortable stuff? I do it sometimes. I'm not saying I'm above it. You let a little bit of money get into your savings account and you're not moving it because you're afraid. I've caught myself doing it lately." — sources/S_ig_thetravisstephenson_CdVj9FSjOof.md
+> "Am I being safe? Am I only doing this because safety is driven by fear? Am I afraid?" — sources/S_ig_thetravisstephenson_CdVj9FSjOof.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "because": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as advice to empty the savings account: Travis says explicitly not to empty it — keep three or four months of bills as a backdrop.
+- Read as a claim that safety is always wrong: safety is nice and comfortable, he says — the question is whether it is driven by fear.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [payments, thetravisstephenson account context]
+aka: [three easy payments]
 origin: sources/S_ig_thetravisstephenson_CcrJy21j_NH.md
 ---
 
-# G_ig_thetravisstephenson_CcrJy21j_NH — payments
+# G_ig_thetravisstephenson_CcrJy21j_NH — three easy payments
 
 ## Term
 
-No content word repeats often enough in this short source (18 words) to form a repeated term, so this entry documents the source's central term "payments" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Three easy payments" is a joke about the price of getting what you want: the payments are not money, they are doing the damn work. The phrase appears once, beside "doing the damn work", "exactly what you want", and "let's go", and the whole 18-word source is a single punchline with no setup beyond it. Concretely, the deal on offer is simple — do the work, three easy installments of it, and you can get exactly what you want.
 
 ## Synonyms
 
-- payments
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (18 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "payments": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an actual payment plan: the "payments" are installments of work, not money, and there is no product or price in the source.
+- Read as a motivational slogan with a method behind it: the clip is 18 words and gives no method at all — the work itself is the whole instruction.

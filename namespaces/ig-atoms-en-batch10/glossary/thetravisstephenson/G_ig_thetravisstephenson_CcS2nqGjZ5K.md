@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [money, thetravisstephenson account context]
+aka: [masterminds]
 origin: sources/S_ig_thetravisstephenson_CcS2nqGjZ5K.md
 ---
 
-# G_ig_thetravisstephenson_CcS2nqGjZ5K — money
+# G_ig_thetravisstephenson_CcS2nqGjZ5K — masterminds
 
 ## Term
 
-"money" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: parting, money, make, order. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Masterminds" are paid groups and events where buyers invest in themselves, and Travis lists them among the must-haves for growth. The word appears once, beside "gladiator times", "parting with your money", "invest in yourself", and "exponentially", and his argument is that money is the cheapest thing to risk: in gladiator times growth cost your life, while today it costs only money. Concretely, $10,000 invested in yourself can turn into $20,000 with effort, then into $60,000, and the knowledge stays with you — which is why events, masterminds, and courses are not optional extras for him.
 
 ## Synonyms
 
-- money
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If the only thing you have to risk in order to grow is money, you are fortunate. Imagine back in the day, gladiator times, you had to get out there and literally fight people to the death. Yeah. You had to literally assassinate kings, fight lions, like crazy stuff. Yeah. You ask one of those dudes back in the day, if you want to get out of this situation, just pay me some money." — sources/S_ig_thetravisstephenson_CcS2nqGjZ5K.md
-> "They'd have been like, yeah, you mean I don't have to literally die? That's amazing. And in today's world, people think, well, I don't want to have to part with my money. Parting with your money is how you make more money. If you can take 10, 000, invest it in yourself and that 10, 000 and you put in the effort, turns into 20, are you happier about that or are you upset that you spent that 10?" — sources/S_ig_thetravisstephenson_CcS2nqGjZ5K.md
+> "That's why like going to events, buying into masterminds, buying courses, all of those things are like must haves." — sources/S_ig_thetravisstephenson_CcS2nqGjZ5K.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the gladiators being real history: the gladiator comparison is an analogy Travis invents, not a historical claim.
+- Read as a promise that $10,000 always becomes $20,000: the return needs the effort put in, and the knowledge is the part that stays even if the money does not double.

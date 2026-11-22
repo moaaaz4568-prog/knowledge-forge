@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [want, thetravisstephenson account context]
+aka: [own boss]
 origin: sources/S_ig_thetravisstephenson_CbkaxWeDqE7.md
 ---
 
-# G_ig_thetravisstephenson_CbkaxWeDqE7 — want
+# G_ig_thetravisstephenson_CbkaxWeDqE7 — own boss
 
 ## Term
 
-"want" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: wake, ultimate, sleep, see. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Being your "own boss" means nobody else decides when you sleep or wake, and Travis calls that the ultimate goal of working hard. The phrase appears once, beside "sleep", "wake up", "controlled", and "ultimate goal", and the test he gives is simple: if you do not wake up when you want to, somebody is controlling you. Concretely, the freedom is a schedule — going to sleep when you want and waking up when you want — and he says he does not want to be controlled.
 
 ## Synonyms
 
-- want
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "We work hard to become our own boss so we could do what we want to do. The ultimate goal is to go to sleep when you want to and wake up when you want to. See, when you don't wake up when you want to, then guess what? Somebody's controlling you. And I don't want to be controlled." — sources/S_ig_thetravisstephenson_CbkaxWeDqE7.md
+> "We work hard to become our own boss so we could do what we want to do." — sources/S_ig_thetravisstephenson_CbkaxWeDqE7.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "want": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as never working: the goal is choosing when to sleep and wake, not avoiding work — Travis says "we work hard" to get there.
+- Read as a complaint about a boss: the clip names no employer; the control he refuses is any schedule imposed by someone else.

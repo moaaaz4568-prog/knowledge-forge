@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [comment below, thetravisstephenson account context]
+aka: [private replies]
 origin: sources/S_ig_thetravisstephenson_CaXbrFDjPIs.md
 ---
 
-# G_ig_thetravisstephenson_CaXbrFDjPIs — comment below
+# G_ig_thetravisstephenson_CaXbrFDjPIs — private replies
 
 ## Term
 
-"comment below" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: below, comment, say, getting. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Private replies" is the Instagram and Facebook feature that automatically messages a workflow or sequence to anyone who comments on a post. The phrase appears once, beside "hidden feature", "comments", "giveaways", and "discover tab", and Travis presents it as a replacement for the link in bio: instead of telling people to go follow a brand, the creator says "comment below" and the link arrives by message. Concretely, an influencer doing a protein deal can collect comments, gain reach in the algorithm, and still capture each commenter's email or phone number through the sequence.
 
 ## Synonyms
 
-- comment below
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "You can use this for giveaways, you can use this for sales, you can use this for masterclass. It doesn't matter what it is. You can literally tell people, hey, and if you comment below, I'll get you a link. So imagine if you're an influencer and you're doing a deal with a brand that sells protein. Instead of saying, hit the link in my bio or go follow this brand, you can say comment below." — sources/S_ig_thetravisstephenson_CaXbrFDjPIs.md
+> "This is a hidden feature inside of Instagram and Facebook that most creators don't know about. It's called private replies." — sources/S_ig_thetravisstephenson_CaXbrFDjPIs.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "comment below": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a DM blast to anyone: the reply goes only to people who comment on the post, so a post with no comments triggers nothing.
+- Read as a link-in-bio replacement that needs no comment: the whole mechanism starts with the viewer commenting below, which is what earns the reach.

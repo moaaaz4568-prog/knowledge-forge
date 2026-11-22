@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [gonna meet, thetravisstephenson account context]
+aka: [up early]
 origin: sources/S_ig_thetravisstephenson_Cf1-YDgpiaI.md
 ---
 
-# G_ig_thetravisstephenson_Cf1-YDgpiaI — gonna meet
+# G_ig_thetravisstephenson_Cf1-YDgpiaI — up early
 
 ## Term
 
-"gonna meet" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: meet, gonna. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Up early" is Travis's shorthand for ambition: being awake before others because of where you are headed and who you are going to meet. The phrase appears twice, beside "headed", "meet", "early", and "up so early", and the whole 32-word exchange is a single answer to the question of why he is up so early. Concretely, the logic is a challenge — if you were headed where I am headed, and going to meet who I am going to meet, you would be up early too.
 
 ## Synonyms
 
-- gonna meet
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thetravisstephenson_Cf1-YDgpiaI.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "gonna meet": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a morning-routine tip: the clip gives no routine and no time — only the claim that where you are headed decides when you rise.
+- Read as Travis boasting about sleep: the point is the opposite — the early rising is evidence of the destination, not the achievement itself.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [make money, thetravisstephenson account context]
+aka: [email list]
 origin: sources/S_ig_thetravisstephenson_Ca99DCWDVUC.md
 ---
 
-# G_ig_thetravisstephenson_Ca99DCWDVUC — make money
+# G_ig_thetravisstephenson_Ca99DCWDVUC — email list
 
 ## Term
 
-"make money" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trillion, ways, money, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An "email list" in this clip is influence itself: once the list exists in a niche, brands pay to reach it. The phrase appears once, beside "niche", "Shopify store owners", "influence", and "brands", and Travis's point is that the list, not the photo, is the job — people imagine an influencer just takes a picture and makes money. Concretely, a list of Shopify store owners is worth money because brands all over the world will pay its owner to send emails to that audience.
 
 ## Synonyms
 
-- make money
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Once you build a list in a niche, okay, these are my Shopify store owners, these are my this, these are my that. There's a trillion ways to make money off that, and so much so is what I think is interesting is there's a lot of people who are like, man, being an influencer would be such a cool job, right? It would be, take a picture, make money. If you have an email list, you have influence." — sources/S_ig_thetravisstephenson_Ca99DCWDVUC.md
+> "If you have an email list, you have influence." — sources/S_ig_thetravisstephenson_Ca99DCWDVUC.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as influence meaning followers: here influence is an email list brands will pay to reach, not a follower count.
+- Read as any list paying the same: the value depends on the niche — a list of Shopify store owners is valuable to brands selling to them.

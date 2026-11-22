@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [people, thetravisstephenson account context]
+aka: [education, educate]
 origin: sources/S_ig_thetravisstephenson_CcgcjXWJoTB.md
 ---
 
-# G_ig_thetravisstephenson_CcgcjXWJoTB — people
+# G_ig_thetravisstephenson_CcgcjXWJoTB — education
 
 ## Term
 
-"people" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: email, list, through, make. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Education" is Travis's answer to the hardest problem in selling: people say no because they do not know enough about the product's benefits. The word appears once, beside "natural instinct to say no", "sales process", "misconception", and "benefits", and the contrast is explicit — the fix is not a better sales process but teaching the buyer what the product does. Concretely, a prospect asked about Chatmatic Pro Academy says "No, not not really", and after being educated on what it comes with, has, and guarantees, the answer turns into "Well, now maybe, yeah".
 
 ## Synonyms
 
-- people
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- educate (the verb form the source also uses)
 
 ## Live Example
 
-> "Here's the crazy part. I don't care what you sell. I don't care how you sell it. You can sell more of it if you have an email list of people that you can do this process with, strategically helping them overcome their natural instinct to say no by educating them. Do you want to buy Chatmatic Pro Academy? No, not not really." — sources/S_ig_thetravisstephenson_CcgcjXWJoTB.md
-> "I have to educate you on, hey, did you know Pro Academy comes with this, has this, guarantees that, does this thing, it's going to help you build this. Well, now maybe, yeah. And that comes through education, not through, and most people make this mistake, a better sales process. Yeah." — sources/S_ig_thetravisstephenson_CcgcjXWJoTB.md
-> "That's one of the biggest misconceptions ever is all these people that we teach, they're starting from scratch right now. They think this is going to be too complicated. I'm not a salesperson. I don't know how to, you know, ask people for money, whatever. All you got to do is educate people. The problem is they're not educated enough on the benefits of the product to know how to sell it." — sources/S_ig_thetravisstephenson_CcgcjXWJoTB.md
+> "And that comes through education, not through, and most people make this mistake, a better sales process." — sources/S_ig_thetravisstephenson_CcgcjXWJoTB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "people": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a better sales script: Travis says the fix is education, not a better sales process — the buyer must learn the benefits.
+- Read as a promise that education always closes: the example only turns "No, not really" into "maybe, yeah" — a maybe, not a sale.

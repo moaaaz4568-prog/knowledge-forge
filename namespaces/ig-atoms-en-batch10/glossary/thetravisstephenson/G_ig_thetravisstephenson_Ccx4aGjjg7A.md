@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [Chatmatic, thetravisstephenson account context]
+aka: [private replies]
 origin: sources/S_ig_thetravisstephenson_Ccx4aGjjg7A.md
 ---
 
-# G_ig_thetravisstephenson_Ccx4aGjjg7A — Chatmatic
+# G_ig_thetravisstephenson_Ccx4aGjjg7A — private replies
 
 ## Term
 
-"Chatmatic" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: use, send, private, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Private replies" is the Chatmatic feature that messages everyone who comments on a post, and Travis shows real estate agents how it turns comments into appointments. The phrase appears once, beside "real estate agents", "82 comments", "CRM", and "24 7", and the waste he points at is a beautiful house post with 82 comments where nobody who commented got a message. Concretely, the reply asks whether the commenter is interested and wants to see the house, collects the phone number — which real estate uses far more than email — and sets up a listing appointment, with every lead added to the CRM automatically.
 
 ## Synonyms
 
-- Chatmatic
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how real estate agents could make a lot of money using Chatmatic. You can see this is a post for a beautiful house. It tells you all the details about the house and it's even got 82 comments. But when you comment, you didn't get a message. You could use Chatmatic to send a private reply, then follow up with everybody on that private reply to find out, are you interested?" — sources/S_ig_thetravisstephenson_Ccx4aGjjg7A.md
-> "I know real estate uses phone number way more than email, so ask them for their phone number, set up a listing appointment. By using posts on Instagram that are completely free and Chatmatic, you're connected to every single person. They can either DM you or message you. Then you could run this as an ad. If it starts to work, you boost it as an ad." — sources/S_ig_thetravisstephenson_Ccx4aGjjg7A.md
-> "Now you're getting new people into the fold, helping you generate new leads. Automatically, all of them are being added to your CRM and it's all set up through Chatmatic and it runs 24 7." — sources/S_ig_thetravisstephenson_Ccx4aGjjg7A.md
+> "All you got to do is use Chatmatic in private replies, send people in, give them more information about the house, collect their email address, collect their SMS." — sources/S_ig_thetravisstephenson_Ccx4aGjjg7A.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Chatmatic": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a manual follow-up job: the leads are added to the CRM automatically and the system runs 24 7, so the agent's work starts at the appointment, not at the comment.
+- Read as a replacement for a real estate agent: the feature collects the phone number and sets up the appointment, but the agent still has to show the house.

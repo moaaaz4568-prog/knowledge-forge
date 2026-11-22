@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [business, thetravisstephenson account context]
+aka: [affiliate marketing]
 origin: sources/S_ig_thetravisstephenson_CdJnCYQJboP.md
 ---
 
-# G_ig_thetravisstephenson_CdJnCYQJboP — business
+# G_ig_thetravisstephenson_CdJnCYQJboP — affiliate marketing
 
 ## Term
 
-"business" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: want, internet, owners, ability. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Affiliate marketing" is selling digital products that do not physically exist for a commission, and Travis calls it the easiest way to start an online business. The phrase appears once, beside "arbitrage", "Facebook Marketplace", "digital products", and "Chatmattic", and he introduces it through the same idea at a smaller scale: pick up a free couch, fix it, sell it for four hundred bucks. Concretely, the affiliate version needs no product at all — find business owners on the internet who want more leads, introduce them to Chatmattic, and earn a commission when they buy.
 
 ## Synonyms
 
-- business
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Every single person, and this is what I think is crazy, has the ability to create a business on the internet. Every single person, all you have to do is educate yourself on how the internet works, and you can either arbitrage stuff and Gary Vee's famous for like the whole he helped some people and they actually got results with this." — sources/S_ig_thetravisstephenson_CdJnCYQJboP.md
-> "You can sell products that don't physically exist. We obviously have an affiliate program at Chatmattic. You can find people on the internet, business owners who want more business, who want more leads. You introduce them to Chatmattic. If they buy, you get a commission. That's the easiest way to start an online business." — sources/S_ig_thetravisstephenson_CdJnCYQJboP.md
+> "With affiliate marketing, you can sell digital products." — sources/S_ig_thetravisstephenson_CdJnCYQJboP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "business": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as selling other people's physical products: the products here are digital and do not physically exist, which is why no inventory is needed.
+- Read as Travis's own affiliate program alone: Chatmattic is his example, but the idea is introduced through flipping free couches — the pattern applies to anything.

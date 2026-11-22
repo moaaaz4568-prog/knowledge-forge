@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [put, thetravisstephenson account context]
+aka: [chant]
 origin: sources/S_ig_thetravisstephenson_Cc_CMm1pdGt.md
 ---
 
-# G_ig_thetravisstephenson_Cc_CMm1pdGt — put
+# G_ig_thetravisstephenson_Cc_CMm1pdGt — chant
 
 ## Term
 
-"put" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: huh. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a repeated sung lyric, and "chant" here is only the entry's type label, not the name of any idea in the video. The line "I been a throw up the sex in a uh huh" appears twice, beside "And I can put you in", which appears three times, and the whole 39-word source is the lyric looped, with no teaching or business point attached to it. The passage is song audio, not a statement by Travis, so no term can be honestly drawn from it.
 
 ## Synonyms
 
-- put
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thetravisstephenson_Cc_CMm1pdGt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "put": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as Travis describing a method: the lines are a looped song lyric, not a business or marketing point.
+- Read as a claim about Travis's own life: the source is 39 words of music audio with no statement, interview, or context behind the words.

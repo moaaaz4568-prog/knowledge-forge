@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [free recipes, thetravisstephenson account context]
+aka: [free recipes]
 origin: sources/S_ig_thetravisstephenson_CaAuy0Sprt0.md
 ---
 
@@ -9,19 +9,17 @@ origin: sources/S_ig_thetravisstephenson_CaAuy0Sprt0.md
 
 ## Term
 
-"free recipes" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: recipes, free, five, type. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Free recipes" is the teaser a cookbook seller gives away to turn strangers into buyers: five recipes free, then a pre-order link for the whole book. The phrase appears four times, beside "five free recipes", "pre-order", "cookbooks", and "automated chat sequences", and the sequence does the selling — the email arrives first, the book offer follows inside the same chat. Concretely, a member asked Instagram stories viewers to type "free recipes", and sold over four hundred cookbooks in a weekend while building her list at the same time.
 
 ## Synonyms
 
-- free recipes
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That sequence said, hey, if you opt in here, if you give me your email address, I'll email you these five free recipes. And then as soon as they gave their email, we actually had a link in the sequence that said, okay, great, now that you've got the five free recipes, you can actually pre-order the entire book right now and you'll have it within about a month and a half." — sources/S_ig_thetravisstephenson_CaAuy0Sprt0.md
-> "Just by doing that, she went on Instagram stories and she said, hey everybody, if you want to get my free recipes, type the phrase free recipes below. She ended up selling over four hundred books in a weekend and all through these automated chat sequences. So take advantage of this. Make some posts on social media offering people this free bonus. Run them into an automated chat sequence." — sources/S_ig_thetravisstephenson_CaAuy0Sprt0.md
+> "That sequence said, hey, if you opt in here, if you give me your email address, I'll email you these five free recipes." — sources/S_ig_thetravisstephenson_CaAuy0Sprt0.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "free recipes": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as giving the book away: only five recipes are free; the full book is sold by pre-order inside the same sequence.
+- Read as the recipes selling the book alone: the sale came from the automated chat sequence that delivered the pre-order link, not from the recipes by themselves.

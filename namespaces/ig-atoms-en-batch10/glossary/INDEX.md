@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch10)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,855 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch10): one G_ entry per T_ atom file — 3,865 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,803 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 155 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -55,55 +55,55 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CXvyqdmjrEC.md | ambassador | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CYHUgr-jf0a.md | free recipes | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CYXCqKFDG0P.md | chasing | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ1hRQ2DS7Q.md | automated chat | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ6_I0eDNst.md | Lego | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ9zC73J_pm.md | ROI | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZR1djADZrz.md | through | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZxFj_1pFam.md | audience | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_A_e63Khq-.md | know | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_BQFEUJ8iq.md | people | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_IzWKqPvAM.md | coffee | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_OYJbmJgr8.md | paying attention | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_TLGgjMAZv.md | email list | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_kyWhSJLiw.md | content | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Ca99DCWDVUC.md | make money | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaAuy0Sprt0.md | free recipes | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaCs33ejF31.md | Good morning | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaH0sLVjJwd.md | away | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaIVlHHpvFZ.md | time | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaXbrFDjPIs.md | comment below | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaaUcpMJFGz.md | actually | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cae4AfsDpWD.md | email list | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CahnY63DVhM.md | necklace | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CakTeGTDr_W.md | run ads | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Canj51tpcjg.md | hit | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaskS2apvfb.md | four years | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CauaciJDOuP.md | actually | 3 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ1hRQ2DS7Q.md | rich clone strategy | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ6_I0eDNst.md | return on ad spend | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZ9zC73J_pm.md | retargeting | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZR1djADZrz.md | giveaway | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CZxFj_1pFam.md | brand | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_A_e63Khq-.md | lead generation | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_BQFEUJ8iq.md | Wealth3 Reach | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_IzWKqPvAM.md | self-qualified | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_OYJbmJgr8.md | own problems | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_TLGgjMAZv.md | email list | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_C_kyWhSJLiw.md | Opus Clip | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Ca99DCWDVUC.md | email list | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaAuy0Sprt0.md | free recipes | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaCs33ejF31.md | chant | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaH0sLVjJwd.md | giveaway | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaIVlHHpvFZ.md | agency | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaXbrFDjPIs.md | private replies | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaaUcpMJFGz.md | Contrarian Copy Sequence | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cae4AfsDpWD.md | shout out | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CahnY63DVhM.md | DM sequence | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CakTeGTDr_W.md | audience | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Canj51tpcjg.md | link in the bio | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CaskS2apvfb.md | peak experience | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CauaciJDOuP.md | DM call to action | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CauoG_LDhdB.md | table | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cb0VYX8JLNw.md | Now | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbBHm3ppx9-.md | funnels | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbLFvHiDs6f.md | email address | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbQdkvCp7O_.md | Nothing happens | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbSaXh1jWTV.md | people | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbaqVaepBuR.md | gonna | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cbc6w2bDNAt.md | money | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbkaxWeDqE7.md | want | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbxUeJSjkAR.md | collect | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cc80rIZJ1Up.md | email list | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcS2nqGjZ5K.md | money | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cc_CMm1pdGt.md | put | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcgcjXWJoTB.md | people | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CciIuNFDtvX.md | billion | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cck-oHJD3c-.md | learn | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcokQbwDcgV.md | thousand dollars | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcqNghyjdZI.md | time | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcrJy21j_NH.md | payments | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Ccx4aGjjg7A.md | Chatmatic | 3 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CdJnCYQJboP.md | business | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CdVj9FSjOof.md | because | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CeCL7v0JJxr.md | where | 2 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cf1-YDgpiaI.md | gonna meet | 1 |
-| glossary/thetravisstephenson/G_ig_thetravisstephenson_CfzLmfVj7rB.md | literally | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cb0VYX8JLNw.md | entry points | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbBHm3ppx9-.md | funnels | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbLFvHiDs6f.md | giveaway | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbQdkvCp7O_.md | comment below | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbSaXh1jWTV.md | affiliate programs | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbaqVaepBuR.md | job interview | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cbc6w2bDNAt.md | end result | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbkaxWeDqE7.md | own boss | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CbxUeJSjkAR.md | collect phase | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cc80rIZJ1Up.md | lookalikes | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcS2nqGjZ5K.md | masterminds | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cc_CMm1pdGt.md | chant | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcgcjXWJoTB.md | education | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CciIuNFDtvX.md | success | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cck-oHJD3c-.md | failure | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcokQbwDcgV.md | kinesiology | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcqNghyjdZI.md | time back | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CcrJy21j_NH.md | three easy payments | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Ccx4aGjjg7A.md | private replies | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CdJnCYQJboP.md | affiliate marketing | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CdVj9FSjOof.md | afraid | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CeCL7v0JJxr.md | ownership | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_Cf1-YDgpiaI.md | up early | 1 |
+| glossary/thetravisstephenson/G_ig_thetravisstephenson_CfzLmfVj7rB.md | passive income | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_Cg0PxfapG71.md | where | 2 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_Cg1wd7CjZVm.md | somebody | 1 |
 | glossary/thetravisstephenson/G_ig_thetravisstephenson_CguIaZMjs9X.md | make money | 2 |

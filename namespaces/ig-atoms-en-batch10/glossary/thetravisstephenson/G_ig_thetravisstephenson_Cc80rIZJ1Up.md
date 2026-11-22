@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [email list, thetravisstephenson account context]
+aka: [lookalikes]
 origin: sources/S_ig_thetravisstephenson_Cc80rIZJ1Up.md
 ---
 
-# G_ig_thetravisstephenson_Cc80rIZJ1Up — email list
+# G_ig_thetravisstephenson_Cc80rIZJ1Up — lookalikes
 
 ## Term
 
-"email list" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: building, list, email, lookalikes. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Lookalikes" are Facebook audiences built to resemble the people on an email list, and Travis values them because his list comes from real messagers. The word appears twice, beside "email list", "Facebook", "30 and over", and "mastermind", and the context is a hedge: Facebook's demographic is aging up, and the 25- and 30-year-olds barely use it, so the 30-and-over crowd is where the money is. Concretely, a list of people who messaged the page produces far better lookalikes than a cold list, and the mastermind offer he is building around it is meant to pay for itself with a single offer.
 
 ## Synonyms
 
-- email list
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Facebook's demographic is aging up. The 25 and 30 year old generation doesn't use it. So we're gonna need to ride the coattails of Facebook's 30 and over, which is a great demographic. That's where most people spend their money. But I feel like implementing a system like this allows us to kind of hedge ourselves against any of those changes by building our email list." — sources/S_ig_thetravisstephenson_Cc80rIZJ1Up.md
-> "Then you've got an email list for lookalikes. You've obviously got a lot better lookalikes for people who message your page, which is where everybody's going into. That's what I'm trying to create is a mastermind where if we give somebody one offer like this, it instantly pays for itself." — sources/S_ig_thetravisstephenson_Cc80rIZJ1Up.md
+> "Then you've got an email list for lookalikes." — sources/S_ig_thetravisstephenson_Cc80rIZJ1Up.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "email list": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any Facebook audience: lookalikes here are built from the email list of people who messaged the page, which is why they are better.
+- Read as a prediction about Facebook's future: the aging demographic is Travis's reading of the platform now, not a forecast he proves.

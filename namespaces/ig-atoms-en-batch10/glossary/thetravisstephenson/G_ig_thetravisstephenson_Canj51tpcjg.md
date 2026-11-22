@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [hit, thetravisstephenson account context]
+aka: [link in the bio]
 origin: sources/S_ig_thetravisstephenson_Canj51tpcjg.md
 ---
 
-# G_ig_thetravisstephenson_Canj51tpcjg — hit
+# G_ig_thetravisstephenson_Canj51tpcjg — link in the bio
 
 ## Term
 
-"hit" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: link, say, description, way. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Link in the bio" is the instruction brands put in a post description telling shoppers to leave the feed and find the store link on the profile, and Travis calls it pathetic because nobody does it. The phrase appears once, beside "shop", "grill food", "comment", and "TaylorMade", and his fix is to reverse the flow: ask viewers to comment their favorite grill food, then send the product to them in a message. Concretely, the comment triggers an automated reply that can ask for an email, give a 10% discount, and follow up — which he says guarantees more sales of the golf putter club head cover than the bio link ever would.
 
 ## Synonyms
 
-- hit
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "One of my favorite brands really screwed the pooch on this one, and here's how I would fix it. If you look at this post, they say in the description, hit the link in the bio to shop. That is pathetic. Nobody goes out of their way to hit the link in your bio to shop for the items that you have in their feed." — sources/S_ig_thetravisstephenson_Canj51tpcjg.md
-> "This guarantees that you make more sales of this golf putter club head cover. Guarantees you make more sales while building your list. TaylorMade, feel free to hit me up." — sources/S_ig_thetravisstephenson_Canj51tpcjg.md
+> "If you look at this post, they say in the description, hit the link in the bio to shop." — sources/S_ig_thetravisstephenson_Canj51tpcjg.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "hit": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a working call to action: Travis calls it pathetic precisely because nobody leaves the feed to hunt for a bio link.
+- Read as a complaint about TaylorMade alone: the brand is his example, but the criticism is aimed at the bio-link habit itself.

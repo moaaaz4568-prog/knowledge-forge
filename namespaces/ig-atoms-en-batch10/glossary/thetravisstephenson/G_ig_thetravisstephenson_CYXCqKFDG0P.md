@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [chasing, thetravisstephenson account context]
+aka: [chasing]
 origin: sources/S_ig_thetravisstephenson_CYXCqKFDG0P.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thetravisstephenson_CYXCqKFDG0P.md
 
 ## Term
 
-"chasing" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: year, ago, highly, motivated. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "chasing" means staying after a goal without quitting: Travis says a year ago he was chasing his dreams and pursuing his passions, and a year later he is still on that grind. The word appears twice, beside "dreams", "passions", "grind", and "give up", and the whole point is refusal — he asks whether anyone thought he was gonna give up, then answers "Nah". The concrete picture is a man measuring a full year of the same pursuit and insisting the chase only ends the day he dies.
 
 ## Synonyms
 
-- chasing
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thetravisstephenson_CYXCqKFDG0P.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "chasing": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof Travis never stops: the clip is a boast about one year of grinding, not a record of what he actually did each day.
+- Read as "chasing" meaning running after people: here it means pursuing dreams and passions, not chasing customers or leads.

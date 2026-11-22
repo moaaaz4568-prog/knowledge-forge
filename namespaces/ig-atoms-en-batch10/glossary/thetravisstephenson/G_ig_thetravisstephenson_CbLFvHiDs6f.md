@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [email address, thetravisstephenson account context]
+aka: [giveaway, giveaways]
 origin: sources/S_ig_thetravisstephenson_CbLFvHiDs6f.md
 ---
 
-# G_ig_thetravisstephenson_CbLFvHiDs6f — email address
+# G_ig_thetravisstephenson_CbLFvHiDs6f — giveaway
 
 ## Term
 
-"email address" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: address, email, building, give. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "giveaway" here is TheraBody's prize draw — massage guns and other products — and Travis calls it a giveaway gone wrong because entering it captures nothing. The word appears twice, beside "TheraBody", "1270 comments", "email address list", and "gone wrong", and the missed value is counted exactly: 1,270 comments on the post, and 1,270 people who could have given their email address. Concretely, his fix asks commenters to follow three brands and tag a friend, then Chatmatic messages each tagger for the final step — handing over an email — so the same prize builds a list instead of only buying likes.
 
 ## Synonyms
 
-- email address
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- giveaways (the plural the source also uses)
 
 ## Live Example
 
-> "Yes, you think some virality, but you'll get a lot more virality from comments on the post. Follow on it, TheraBrand and TheraBody University. How about follow those three brands, then three, tag a friend and we'll send you the final step to enroll. Chatmatic then automatically messages everybody who tagged a friend saying, hey, the final step, give us your email address." — sources/S_ig_thetravisstephenson_CbLFvHiDs6f.md
-> "Now you are building your email address list while giving away free products. As you can see, that's 1270 comments on this post. That's 1270 people who could have given you their email address. These giveaways could be made way better if you integrate with the systems that Instagram makes available, like Chatmatic completely for free." — sources/S_ig_thetravisstephenson_CbLFvHiDs6f.md
+> "We're back with another giveaway gone wrong." — sources/S_ig_thetravisstephenson_CbLFvHiDs6f.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "email address": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as TheraBody failing because the prize was bad: the prize was a bunch of really cool stuff; the failure was asking only for a like and capturing no emails.
+- Read as 1,270 guaranteed emails: the comments were 1,270 people who could have given their email, not 1,270 who did.

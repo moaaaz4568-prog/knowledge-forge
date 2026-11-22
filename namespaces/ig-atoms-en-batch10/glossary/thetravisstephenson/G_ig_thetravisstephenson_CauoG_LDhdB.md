@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [table, thetravisstephenson account context]
+aka: [table]
 origin: sources/S_ig_thetravisstephenson_CauoG_LDhdB.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_thetravisstephenson_CauoG_LDhdB.md
 
 ## Term
 
-"table" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: building, sit, table, build. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "table" here is a seat at someone else's opportunity, and Travis's line refuses it: instead of asking to sit at their table, build your own. The word appears six times, beside "sit at your table", "building one", "my own table", and "presence of your enemies", and the repetition is the whole message — the line is said four ways in 49 words, each time turning a request for a seat into an act of building. Concretely, the speaker will not wait for an invitation to someone else's table; he builds his own, and even offers to build one for the listener in the presence of their enemies.
 
 ## Synonyms
 
-- table
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_thetravisstephenson_CauoG_LDhdB.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "table": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as furniture or a literal table: the table is a metaphor for a seat at someone else's opportunity, and the building is metaphorical too.
+- Read as an instruction to work alone: the speaker offers to build a table for the listener as well — the point is creating seats, not refusing help.

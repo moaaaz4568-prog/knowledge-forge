@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [ROI, thetravisstephenson account context]
+aka: [retargeting]
 origin: sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
 ---
 
-# G_ig_thetravisstephenson_CZ9zC73J_pm — ROI
+# G_ig_thetravisstephenson_CZ9zC73J_pm — retargeting
 
 ## Term
 
-"ROI" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: 56x, roi, taking, making. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Here "retargeting" means the follow-up ad shown to someone who left a product in their cart without buying, and Travis's complaint is that the usual version never asks why they left. The word appears twice, beside "abandoned carts", "retargeting ad", "sizes", and "weights", and the fix he describes is a messenger sequence that asks the shopper's height and weight, then shows the precise skateboard for that body. The concrete payoff he reports is the skateboard company's ROI jumping from 7x to 56x once the retargeting answered the real reason for the abandoned cart.
 
 ## Synonyms
 
-- ROI
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is how a skateboard company ended up taking their 7x ROI up to 56x ROI by making one simple tweak to their marketing structure. Originally, whenever somebody would go to their website, they would put an item in their cart and if they didn't buy, the only thing they could do was run a basic retargeting ad and say, hey, you left this in your cart." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
-> "And they were able to take their advertising ROI from 7x to up to 56x ROI by simply asking and helping people find the exact product that they needed. This is a simple little hack that you could add to your business in less than an hour from now." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
+> "Originally, whenever somebody would go to their website, they would put an item in their cart and if they didn't buy, the only thing they could do was run a basic retargeting ad and say, hey, you left this in your cart." — sources/S_ig_thetravisstephenson_CZ9zC73J_pm.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ROI": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as ordinary retargeting: the usual version just repeats "you left this in your cart"; the fix is asking height and weight and showing the exact board.
+- Read as a 56x promise for any store: the jump came from solving the real reason carts were abandoned — sizing — not from retargeting alone.

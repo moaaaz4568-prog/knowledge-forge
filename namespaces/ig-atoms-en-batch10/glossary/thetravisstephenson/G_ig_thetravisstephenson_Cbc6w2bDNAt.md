@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [money, thetravisstephenson account context]
+aka: [end result, end results]
 origin: sources/S_ig_thetravisstephenson_Cbc6w2bDNAt.md
 ---
 
-# G_ig_thetravisstephenson_Cbc6w2bDNAt — money
+# G_ig_thetravisstephenson_Cbc6w2bDNAt — end result
 
 ## Term
 
-"money" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 10 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, making, helping, people. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An "end result" is the outcome the customer actually wants — a growing business, more money — and Travis says focusing on it is what makes selling easy. The phrase appears twice, beside "genuine", "helping people", "money", and "automation", and the warning is about pretending: acting as if you want to help people in order to make money is not the same as genuinely wanting their result. Concretely, he says helping somebody reach their end result feels far better than the money itself, while making money without helping people leaves you unable to sleep at night or enjoy the process.
 
 ## Synonyms
 
-- money
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- end results (the plural the source also uses)
 
 ## Live Example
 
-> "You focus on the people's end results. It's so much easier to make money. And also, if you're helping them get a result and you're genuine, I really have to say this, and you're genuine in your desire to help them, not, well, Travis said, if I act like I want to help them, I can make money. It's got to be, no, no, no, no, no." — sources/S_ig_thetravisstephenson_Cbc6w2bDNAt.md
-> "And that at the end of the day is how everybody makes money. You make more money by helping more people. But if you're not helping people and you're making money, that's when it becomes like hard to sleep at night. You end up not feeling very happy with what you're doing. You don't enjoy the process. You need to be helping people get to their end result." — sources/S_ig_thetravisstephenson_Cbc6w2bDNAt.md
-> "And in the digital marketing space, it's, I want to help you grow your business. I want to help you make more money in your business. I want to help your business thrive. Get more automation in your business." — sources/S_ig_thetravisstephenson_Cbc6w2bDNAt.md
+> "You need to be helping people get to their end result." — sources/S_ig_thetravisstephenson_Cbc6w2bDNAt.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "money": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a sales trick: Travis insists the desire to help must be genuine, not acted, or the whole approach fails.
+- Read as money being unimportant: he says making money is great — the point is that helping people reach their end result feels better and works better.

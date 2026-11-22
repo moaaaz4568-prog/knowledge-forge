@@ -1,28 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [away, thetravisstephenson account context]
+aka: [giveaway, giveaways]
 origin: sources/S_ig_thetravisstephenson_CaH0sLVjJwd.md
 ---
 
-# G_ig_thetravisstephenson_CaH0sLVjJwd — away
+# G_ig_thetravisstephenson_CaH0sLVjJwd — giveaway
 
 ## Term
 
-"away" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: giving, something, give, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A "giveaway" here is a prize — a MacBook Pro — offered on Instagram so that entering it captures the entrant's email address. The word appears four times, beside "MacBook Pro", "40K", "email address", and "400 to 600 leads", and Travis's twist is what makes it different from a normal giveaway: the usual three rules (like the post, like the page, tag a friend) only buy likes, while his version routes every commenter into a chat that asks for their email. Concretely, the MacBook giveaway produced about 400 to 600 leads and $40,000 in sales, and the entrants got a 10% discount inside the same sequence.
 
 ## Synonyms
 
-- away
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- giveaways (the plural the source also uses)
 
 ## Live Example
 
-> "Here's a really cool way that you can make a lot of money, giving away really cool stuff. See, this all started on Instagram. We all know that there's a bunch of giveaways on Instagram and you could run them as well. All you do is you find a product that your audience likes, or typically maybe one of your own, and you give it away. And usually these giveaways have three rules." — sources/S_ig_thetravisstephenson_CaH0sLVjJwd.md
-> "Right now it's a discount, 10% for entering the giveaway, and you will generate sales. More often than not, you will pay for whatever you're giving away in that sequence, and you now have the ability to send them emails forever. You can make significantly more money. So much so that we actually did this. We generated about 400 to 600 leads, and in doing so, we made $40, 000." — sources/S_ig_thetravisstephenson_CaH0sLVjJwd.md
-> "It's a 10-page case study review of how we generated $40, 000 by giving away a MacBook Pro on Instagram with zero paid ads. In doing so, I'll show you screenshots of everything that we did so that you can copy this exact method because I promise you, you could be making a lot more money giving away cool stuff on Instagram." — sources/S_ig_thetravisstephenson_CaH0sLVjJwd.md
+> "I took my relatively small Instagram account and I ran a giveaway." — sources/S_ig_thetravisstephenson_CaH0sLVjJwd.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "away": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a normal Instagram giveaway: the usual version only buys likes, while this one routes every commenter into a chat that captures their email.
+- Read as $40,000 from the prize: the money came from the sales sequence after entry, and the MacBook itself cost money to give away.

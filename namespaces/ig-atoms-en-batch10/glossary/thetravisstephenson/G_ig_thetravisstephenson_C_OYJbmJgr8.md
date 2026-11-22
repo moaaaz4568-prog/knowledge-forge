@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [paying attention, thetravisstephenson account context]
+aka: [own problems]
 origin: sources/S_ig_thetravisstephenson_C_OYJbmJgr8.md
 ---
 
-# G_ig_thetravisstephenson_C_OYJbmJgr8 — paying attention
+# G_ig_thetravisstephenson_C_OYJbmJgr8 — own problems
 
 ## Term
 
-"paying attention" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: created, attention, paying, problems. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Own problems" is Travis's shorthand for the founder's personal irritation that becomes a company: big businesses are created by paying attention to the problems their founders have themselves. The phrase appears three times, beside "big tech", "30%", "Uber", and "Snapchat", and he cites an article claiming about 30% of big tech companies started this way. The concrete case is Snapchat — founders in a college dorm wanted to send pictures that disappeared, so they built an app where messages disappear.
 
 ## Synonyms
 
-- paying attention
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Method to which most big businesses are created is by paying attention to your own problems. This is approximately when it comes to big tech. I found an article that said about 30% of big tech companies are created by paying attention to their own problems. And I'll give you some examples: Uber, Dropbox, Cameo, Etsy, and Snapchat." — sources/S_ig_thetravisstephenson_C_OYJbmJgr8.md
-> "These are all companies that were created by just paying attention to their own problems. And I've got a really funny story for you about Snapchat. Snapchat was created by these guys in a college dorm who wanted to send lewd pictures of themselves to women, but they didn't want the women to be able to like see them forever." — sources/S_ig_thetravisstephenson_C_OYJbmJgr8.md
+> "Method to which most big businesses are created is by paying attention to your own problems." — sources/S_ig_thetravisstephenson_C_OYJbmJgr8.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "paying attention": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a rule that every business starts this way: Travis cites about 30% of big tech companies, not all of them.
+- Read as Snapchat's official founding story: the dorm-room anecdote is Travis retelling a funny story, not a documented company history.

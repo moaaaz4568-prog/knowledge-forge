@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [Nothing happens, thetravisstephenson account context]
+aka: [comment below]
 origin: sources/S_ig_thetravisstephenson_CbQdkvCp7O_.md
 ---
 
-# G_ig_thetravisstephenson_CbQdkvCp7O_ — Nothing happens
+# G_ig_thetravisstephenson_CbQdkvCp7O_ — comment below
 
 ## Term
 
-"Nothing happens" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: already, messaged, wolf, happens. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Comment below" is the instruction that lets an automation reply instantly, and Travis contrasts it with "message me", which left him waiting for a human. The phrase appears twice, beside "Wolf", "message me", "automation", and "$22 million", and the story is a $22-million-in-three-hours post whose seller told viewers to message him "Wolf" — Travis did, and nothing happened. Concretely, the delay killed the sale: by the time anyone replied he had moved on, while "comment below" would have put him in a sequence at once and started building the seller's email list.
 
 ## Synonyms
 
-- Nothing happens
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "This is one more step that I needed to take to become a subscriber. Go to message. He said message me Wolf. As you guys can see, I already messaged Wolf. Nothing happens. I cannot believe this. I now have to wait. I've lost my fire for the desire to get whatever it is that he's trying to pitch. By the time they get back to me, I'm on to the next thing." — sources/S_ig_thetravisstephenson_CbQdkvCp7O_.md
-> "I can't even believe somebody of this level isn't using automation. It's absolutely mind-numbing. Nothing happens. And he does this all the time and this guy is literally brilliant. I love his marketing. I think the marketing here is awesome. This is incredible. I screenshot this post." — sources/S_ig_thetravisstephenson_CbQdkvCp7O_.md
+> "First off, all he's got to do is say comment below." — sources/S_ig_thetravisstephenson_CbQdkvCp7O_.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Nothing happens": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a minor wording choice: "comment below" versus "message me" is the difference between an instant automated reply and waiting for a human who may never answer.
+- Read as a complaint about the $22-million post: Travis loves the marketing and calls it one of the better things he has seen — the complaint is only about the missing automation.

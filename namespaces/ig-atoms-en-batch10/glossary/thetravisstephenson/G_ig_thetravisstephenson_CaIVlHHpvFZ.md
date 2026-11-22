@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [time, thetravisstephenson account context]
+aka: [agency]
 origin: sources/S_ig_thetravisstephenson_CaIVlHHpvFZ.md
 ---
 
-# G_ig_thetravisstephenson_CaIVlHHpvFZ — time
+# G_ig_thetravisstephenson_CaIVlHHpvFZ — agency
 
 ## Term
 
-"time" is the most frequent repeated content term in this source (a transcribed Instagram video from the thetravisstephenson account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: yes, time, owe, insanely. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An "agency" here is a service business that charges a few clients high monthly fees, and Travis uses it to show why high-ticket beats low-margin volume. The word appears once, beside "iPhone cases", "10 clients", "$1,000 a month", and "time", and the arithmetic is the argument: $10,000 needs either a thousand iPhone cases at a $10 margin or ten agency clients at $1,000 a month. Concretely, he can reach out to more than ten people a month himself, set each client up in about an hour to an hour and a half, and let the automation run around the clock.
 
 ## Synonyms
 
-- time
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So I can charge higher fees, it makes me more money, this is a good thing across the board. The only thing I owe is my time. So yes, time is insanely valuable and I want to be real about that too, but I can put my time in and make 1,000 bucks. The cool thing is with time or with technology, it doesn't take me as much time. So it automates most of the process." — sources/S_ig_thetravisstephenson_CaIVlHHpvFZ.md
+> "In order for you to make $10,000 running an agency, you've just got to sell 10 clients at $1,000 a month." — sources/S_ig_thetravisstephenson_CaIVlHHpvFZ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "time": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as easy money: the model needs more than ten personal outreach attempts a month and an hour to an hour and a half of setup per client.
+- Read as a promise that ten clients is enough: the arithmetic assumes $1,000-a-month clients who stay; fewer or cheaper clients break the $10,000.

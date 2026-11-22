@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: thetravisstephenson
-aka: [literally, thetravisstephenson account context]
+aka: [passive income]
 origin: sources/S_ig_thetravisstephenson_CfzLmfVj7rB.md
 ---
 
-# G_ig_thetravisstephenson_CfzLmfVj7rB — literally
+# G_ig_thetravisstephenson_CfzLmfVj7rB — passive income
 
 ## Term
 
-No content word repeats often enough in this short source (24 words) to form a repeated term, so this entry documents the source's central term "literally" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+"Passive income" is the $5,000 a month the video's opening line promises to explain — and Travis immediately admits he does not make it and does not even know what it means. The phrase appears once, beside "$5,000 a month", "I don't", and "don't know what that means", and the whole 24-word source is the setup and the punchline together. Concretely, the clip undercuts the guru promise in two sentences: the headline offers a passive-income method, and the speaker confesses he has no such method at all.
 
 ## Synonyms
 
-- literally
-- thetravisstephenson account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (24 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "literally": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real passive-income method: Travis admits in the next breath that he does not do it and does not know what it means.
+- Read as a joke with no point: the point is the undercut itself — the guru headline is demolished by its own speaker.
