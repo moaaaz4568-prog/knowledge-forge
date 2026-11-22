@@ -5,7 +5,7 @@ aka: ["matching the energy"]
 origin: sources/S_ig_therealbrianmark_DJ74mYmygHN.md
 ---
 
-# G_matching_the_energy — matching the energy
+# G_ig_therealbrianmark_DJ74mYmygHN — matching the energy
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["participation trophies", "participation trophy"]
 origin: sources/S_ig_therealbrianmark_DJdRUW3xZQg.md
 ---
 
-# G_participation_trophies — participation trophies
+# G_ig_therealbrianmark_DJdRUW3xZQg — participation trophies
 
 ## Term
 

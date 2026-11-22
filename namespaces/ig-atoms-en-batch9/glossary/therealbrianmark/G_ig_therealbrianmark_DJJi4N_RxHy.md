@@ -5,7 +5,7 @@ aka: ["parasocial relationship"]
 origin: sources/S_ig_therealbrianmark_DJJi4N_RxHy.md
 ---
 
-# G_parasocial_relationship — parasocial relationship
+# G_ig_therealbrianmark_DJJi4N_RxHy — parasocial relationship
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["investment property"]
 origin: sources/S_ig_therealbrianmark_DJT1WvFRf6N.md
 ---
 
-# G_investment_property — investment property
+# G_ig_therealbrianmark_DJT1WvFRf6N — investment property
 
 ## Term
 

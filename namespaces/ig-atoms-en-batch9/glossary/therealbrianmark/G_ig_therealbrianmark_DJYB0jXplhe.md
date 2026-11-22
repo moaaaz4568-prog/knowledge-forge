@@ -5,7 +5,7 @@ aka: ["dollar per follower"]
 origin: sources/S_ig_therealbrianmark_DJYB0jXplhe.md
 ---
 
-# G_dollar_per_follower — dollar per follower
+# G_ig_therealbrianmark_DJYB0jXplhe — dollar per follower
 
 ## Term
 

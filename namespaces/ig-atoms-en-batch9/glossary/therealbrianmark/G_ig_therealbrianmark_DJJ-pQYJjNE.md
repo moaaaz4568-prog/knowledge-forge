@@ -5,7 +5,7 @@ aka: ["leads, not likes"]
 origin: sources/S_ig_therealbrianmark_DJJ-pQYJjNE.md
 ---
 
-# G_leads_not_likes — leads, not likes
+# G_ig_therealbrianmark_DJJ-pQYJjNE — leads, not likes
 
 ## Term
 

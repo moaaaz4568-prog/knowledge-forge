@@ -5,7 +5,7 @@ aka: ["ten K in seven days"]
 origin: sources/S_ig_therealbrianmark_DJZ44n2SL_j.md
 ---
 
-# G_ten_k_in_seven_days — ten K in seven days
+# G_ig_therealbrianmark_DJZ44n2SL_j — ten K in seven days
 
 ## Term
 

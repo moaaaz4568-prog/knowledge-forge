@@ -5,7 +5,7 @@ aka: ["baby face"]
 origin: sources/S_ig_therealbrianmark_DJP_AIkSU0P.md
 ---
 
-# G_baby_face — baby face
+# G_ig_therealbrianmark_DJP_AIkSU0P — baby face
 
 ## Term
 

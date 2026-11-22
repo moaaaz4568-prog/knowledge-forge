@@ -5,7 +5,7 @@ aka: ["micro shift"]
 origin: sources/S_ig_therealbrianmark_DJFA9oZxaED.md
 ---
 
-# G_micro_shift — micro shift
+# G_ig_therealbrianmark_DJFA9oZxaED — micro shift
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["violent action"]
 origin: sources/S_ig_therealbrianmark_DJFd9JzSI04.md
 ---
 
-# G_violent_action — violent action
+# G_ig_therealbrianmark_DJFd9JzSI04 — violent action
 
 ## Term
 

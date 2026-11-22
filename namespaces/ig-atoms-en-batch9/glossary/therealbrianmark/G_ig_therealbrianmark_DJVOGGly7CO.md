@@ -5,7 +5,7 @@ aka: ["awareness ads"]
 origin: sources/S_ig_therealbrianmark_DJVOGGly7CO.md
 ---
 
-# G_awareness_ads — awareness ads
+# G_ig_therealbrianmark_DJVOGGly7CO — awareness ads
 
 ## Term
 

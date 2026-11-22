@@ -5,7 +5,7 @@ aka: ["do the work"]
 origin: sources/S_ig_therealbrianmark_DJCAg3qp6nW.md
 ---
 
-# G_do_the_work — do the work
+# G_ig_therealbrianmark_DJCAg3qp6nW — do the work
 
 ## Term
 

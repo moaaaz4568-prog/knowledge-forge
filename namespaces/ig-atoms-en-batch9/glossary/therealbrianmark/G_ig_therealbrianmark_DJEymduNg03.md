@@ -5,7 +5,7 @@ aka: [stitch]
 origin: sources/S_ig_therealbrianmark_DJEymduNg03.md
 ---
 
-# G_stitch — stitch
+# G_ig_therealbrianmark_DJEymduNg03 — stitch
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["pre-frame"]
 origin: sources/S_ig_therealbrianmark_DJNcjlWNOZ5.md
 ---
 
-# G_pre_frame — pre-frame
+# G_ig_therealbrianmark_DJNcjlWNOZ5 — pre-frame
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["stopped dreaming"]
 origin: sources/S_ig_therealbrianmark_DJb7yV2Rlmn.md
 ---
 
-# G_stopped_dreaming — stopped dreaming
+# G_ig_therealbrianmark_DJb7yV2Rlmn — stopped dreaming
 
 ## Term
 

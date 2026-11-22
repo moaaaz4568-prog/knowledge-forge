@@ -5,7 +5,7 @@ aka: ["one hundred K"]
 origin: sources/S_ig_therealbrianmark_DJV7VcERlgj.md
 ---
 
-# G_one_hundred_k — one hundred K
+# G_ig_therealbrianmark_DJV7VcERlgj — one hundred K
 
 ## Term
 

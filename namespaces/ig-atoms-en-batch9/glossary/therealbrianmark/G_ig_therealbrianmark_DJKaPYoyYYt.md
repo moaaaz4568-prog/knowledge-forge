@@ -5,7 +5,7 @@ aka: ["done is better than perfect"]
 origin: sources/S_ig_therealbrianmark_DJKaPYoyYYt.md
 ---
 
-# G_done_is_better_than_perfect — done is better than perfect
+# G_ig_therealbrianmark_DJKaPYoyYYt — done is better than perfect
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["banned words", "banned word"]
 origin: sources/S_ig_therealbrianmark_DJaYFh6yzvU.md
 ---
 
-# G_banned_words — banned words
+# G_ig_therealbrianmark_DJaYFh6yzvU — banned words
 
 ## Term
 

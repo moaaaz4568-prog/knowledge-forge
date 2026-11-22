@@ -5,7 +5,7 @@ aka: ["leap of faith"]
 origin: sources/S_ig_therealbrianmark_DJcXO2WS6eB.md
 ---
 
-# G_leap_of_faith — leap of faith
+# G_ig_therealbrianmark_DJcXO2WS6eB — leap of faith
 
 ## Term
 

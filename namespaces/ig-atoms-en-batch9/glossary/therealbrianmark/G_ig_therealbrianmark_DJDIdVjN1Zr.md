@@ -5,7 +5,7 @@ aka: ["no finish line"]
 origin: sources/S_ig_therealbrianmark_DJDIdVjN1Zr.md
 ---
 
-# G_no_finish_line — no finish line
+# G_ig_therealbrianmark_DJDIdVjN1Zr — no finish line
 
 ## Term
 

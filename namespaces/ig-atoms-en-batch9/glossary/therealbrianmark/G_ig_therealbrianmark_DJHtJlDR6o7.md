@@ -5,7 +5,7 @@ aka: ["three hundred and sixty five days"]
 origin: sources/S_ig_therealbrianmark_DJHtJlDR6o7.md
 ---
 
-# G_three_hundred_and_sixty_five_days — three hundred and sixty five days
+# G_ig_therealbrianmark_DJHtJlDR6o7 — three hundred and sixty five days
 
 ## Term
 

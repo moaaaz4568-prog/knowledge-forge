@@ -5,7 +5,7 @@ aka: ["text hook"]
 origin: sources/S_ig_therealbrianmark_DJZqJrXPqkW.md
 ---
 
-# G_text_hook — text hook
+# G_ig_therealbrianmark_DJZqJrXPqkW — text hook
 
 ## Term
 

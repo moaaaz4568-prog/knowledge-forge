@@ -5,7 +5,7 @@ aka: ["steal like an artist", "stealing like an artist"]
 origin: sources/S_ig_therealbrianmark_DJ7TByAScbW.md
 ---
 
-# G_steal_like_an_artist — steal like an artist
+# G_ig_therealbrianmark_DJ7TByAScbW — steal like an artist
 
 ## Term
 

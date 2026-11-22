@@ -5,7 +5,7 @@ aka: ["AI generated lookalikes"]
 origin: sources/S_ig_therealbrianmark_DJNJ8BOSKij.md
 ---
 
-# G_ai_generated_lookalikes — AI generated lookalikes
+# G_ig_therealbrianmark_DJNJ8BOSKij — AI generated lookalikes
 
 ## Term
 

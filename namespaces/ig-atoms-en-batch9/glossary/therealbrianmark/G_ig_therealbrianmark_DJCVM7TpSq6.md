@@ -5,7 +5,7 @@ aka: ["30-day content calendar"]
 origin: sources/S_ig_therealbrianmark_DJCVM7TpSq6.md
 ---
 
-# G_30_day_content_calendar — 30-day content calendar
+# G_ig_therealbrianmark_DJCVM7TpSq6 — 30-day content calendar
 
 ## Term
 

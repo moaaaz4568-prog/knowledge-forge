@@ -5,7 +5,7 @@ aka: ["whole squad's winning"]
 origin: sources/S_ig_therealbrianmark_DJUswAbSuC9.md
 ---
 
-# G_whole_squads_winning — whole squad's winning
+# G_ig_therealbrianmark_DJUswAbSuC9 — whole squad's winning
 
 ## Term
 

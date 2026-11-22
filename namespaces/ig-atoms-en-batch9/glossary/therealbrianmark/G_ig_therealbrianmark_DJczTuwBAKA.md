@@ -5,7 +5,7 @@ aka: ["full transparency"]
 origin: sources/S_ig_therealbrianmark_DJczTuwBAKA.md
 ---
 
-# G_full_transparency — full transparency
+# G_ig_therealbrianmark_DJczTuwBAKA — full transparency
 
 ## Term
 

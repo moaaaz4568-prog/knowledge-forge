@@ -5,7 +5,7 @@ aka: ["cheapest option"]
 origin: sources/S_ig_therealbrianmark_DJB3QrXRRZG.md
 ---
 
-# G_cheapest_option — cheapest option
+# G_ig_therealbrianmark_DJB3QrXRRZG — cheapest option
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["self-destructive path"]
 origin: sources/S_ig_therealbrianmark_DJAc5suToGD.md
 ---
 
-# G_self_destructive_path — self-destructive path
+# G_ig_therealbrianmark_DJAc5suToGD — self-destructive path
 
 ## Term
 

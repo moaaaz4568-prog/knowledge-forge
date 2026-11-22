@@ -5,7 +5,7 @@ aka: [hook]
 origin: sources/S_ig_therealbrianmark_DJUWJhHtRGJ.md
 ---
 
-# G_hook — hook
+# G_ig_therealbrianmark_DJUWJhHtRGJ — hook
 
 ## Term
 

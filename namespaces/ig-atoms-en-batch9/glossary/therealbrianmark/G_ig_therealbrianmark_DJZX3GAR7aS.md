@@ -5,7 +5,7 @@ aka: ["Project Best B Mark"]
 origin: sources/S_ig_therealbrianmark_DJZX3GAR7aS.md
 ---
 
-# G_project_best_b_mark — Project Best B Mark
+# G_ig_therealbrianmark_DJZX3GAR7aS — Project Best B Mark
 
 ## Term
 

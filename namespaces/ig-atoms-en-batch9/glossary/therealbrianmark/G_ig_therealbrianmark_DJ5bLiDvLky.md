@@ -5,7 +5,7 @@ aka: [budget]
 origin: sources/S_ig_therealbrianmark_DJ5bLiDvLky.md
 ---
 
-# G_budget — budget
+# G_ig_therealbrianmark_DJ5bLiDvLky — budget
 
 ## Term
 

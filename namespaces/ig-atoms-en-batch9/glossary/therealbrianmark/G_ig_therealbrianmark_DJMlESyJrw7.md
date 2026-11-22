@@ -5,7 +5,7 @@ aka: ["hook bank"]
 origin: sources/S_ig_therealbrianmark_DJMlESyJrw7.md
 ---
 
-# G_hook_bank — hook bank
+# G_ig_therealbrianmark_DJMlESyJrw7 — hook bank
 
 ## Term
 

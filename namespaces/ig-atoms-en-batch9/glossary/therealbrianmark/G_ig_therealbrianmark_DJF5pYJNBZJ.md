@@ -5,7 +5,7 @@ aka: ["record month"]
 origin: sources/S_ig_therealbrianmark_DJF5pYJNBZJ.md
 ---
 
-# G_record_month — record month
+# G_ig_therealbrianmark_DJF5pYJNBZJ — record month
 
 ## Term
 

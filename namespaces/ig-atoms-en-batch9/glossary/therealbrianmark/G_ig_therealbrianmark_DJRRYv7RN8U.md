@@ -5,7 +5,7 @@ aka: [mindset]
 origin: sources/S_ig_therealbrianmark_DJRRYv7RN8U.md
 ---
 
-# G_mindset — mindset
+# G_ig_therealbrianmark_DJRRYv7RN8U — mindset
 
 ## Term
 

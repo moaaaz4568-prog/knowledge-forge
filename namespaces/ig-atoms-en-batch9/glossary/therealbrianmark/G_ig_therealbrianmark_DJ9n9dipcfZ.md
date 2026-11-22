@@ -5,7 +5,7 @@ aka: ["retention graph"]
 origin: sources/S_ig_therealbrianmark_DJ9n9dipcfZ.md
 ---
 
-# G_retention_graph — retention graph
+# G_ig_therealbrianmark_DJ9n9dipcfZ — retention graph
 
 ## Term
 

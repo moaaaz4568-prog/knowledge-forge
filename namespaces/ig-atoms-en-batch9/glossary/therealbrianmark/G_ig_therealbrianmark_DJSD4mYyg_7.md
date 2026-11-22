@@ -5,7 +5,7 @@ aka: ["pull back the curtain"]
 origin: sources/S_ig_therealbrianmark_DJSD4mYyg_7.md
 ---
 
-# G_pull_back_the_curtain — pull back the curtain
+# G_ig_therealbrianmark_DJSD4mYyg_7 — pull back the curtain
 
 ## Term
 

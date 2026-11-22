@@ -5,7 +5,7 @@ aka: ["own the whole street"]
 origin: sources/S_ig_therealbrianmark_DJ6-S9TpmFR.md
 ---
 
-# G_own_the_whole_street — own the whole street
+# G_ig_therealbrianmark_DJ6-S9TpmFR — own the whole street
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["surround yourself"]
 origin: sources/S_ig_therealbrianmark_DJIANtMyZCD.md
 ---
 
-# G_surround_yourself — surround yourself
+# G_ig_therealbrianmark_DJIANtMyZCD — surround yourself
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["story poll"]
 origin: sources/S_ig_therealbrianmark_DJPXrGxxn-2.md
 ---
 
-# G_story_poll — story poll
+# G_ig_therealbrianmark_DJPXrGxxn-2 — story poll
 
 ## Term
 

@@ -5,7 +5,7 @@ aka: ["gateway to belief"]
 origin: sources/S_ig_therealbrianmark_DJH60wrylt-.md
 ---
 
-# G_gateway_to_belief — gateway to belief
+# G_ig_therealbrianmark_DJH60wrylt- — gateway to belief
 
 ## Term
 

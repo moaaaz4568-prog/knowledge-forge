@@ -5,7 +5,7 @@ aka: ["100 DMs a day"]
 origin: sources/S_ig_therealbrianmark_DJK7dJwtwZr.md
 ---
 
-# G_100_dms_a_day — 100 DMs a day
+# G_ig_therealbrianmark_DJK7dJwtwZr — 100 DMs a day
 
 ## Term
 

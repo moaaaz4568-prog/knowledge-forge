@@ -5,7 +5,7 @@ aka: ["transformation story"]
 origin: sources/S_ig_therealbrianmark_DJO0rt4xfVv.md
 ---
 
-# G_transformation_story — transformation story
+# G_ig_therealbrianmark_DJO0rt4xfVv — transformation story
 
 ## Term
 
