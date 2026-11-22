@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [differentiation]
 origin: sources/S_yt_-D0OJdv-j30_en.md
 ---
 
-# G_yt_-D0OJdv-j30_en — know
+# G_yt_-D0OJdv-j30_en — differentiation
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 84 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, people, always, know. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Ben Gatis uses "differentiation" for the thing that actually sets a company apart when everyone has the same tools — knowing a vertical or a use case better than someone else, and how you apply AI to it. The word appears 5 times, as the interview's central argument: AI does not provide differentiation, because everyone has the same tools for the most part, and companies going to AI as the thing that will differentiate them have the wrong thing. Its neighbours are "strategy", "AI", "vertical", and "data": the lack of differentiation is easier to overcome if you actually have a strategy and know where you are differentiated, and the big differentiator is how you use AI — but what makes a firm unique is its data. The concrete test is the market disruption: when you do not have differentiation and the market is being disrupted economically and technologically, that lack is exacerbated, and AI only makes what you did a little faster and a little more efficient.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I don't know if you can see all these phones behind me, but um when I was at Omnicom um Steve Jobs launched the iPhone and uh there was this new thing that got created called, you know, a mobile app and um and I watched and I kind of saw this and I was in charge of mobile at that time." — sources/S_yt_-D0OJdv-j30_en.md
-> "And so when we aligned on that, we removed a lot of that drag on the organization. quality went up and um yeah, you know, the thing I never really that that I just never got to um was scaling out a sales team that was um able to operate at like a hundred million level." — sources/S_yt_-D0OJdv-j30_en.md
-> "But that is easil easy more easy to overcome if you actually have a strategy and you know where you're differentiated." — sources/S_yt_-D0OJdv-j30_en.md
+> "So the other thing that I would say is AI does not provide differentiation." — sources/S_yt_-D0OJdv-j30_en.md
+> "Well and how you apply AI is the differentiation. It comes down to do you do you know a vertical better than someone else? Do you know a use case better than someone else?" — sources/S_yt_-D0OJdv-j30_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a feature list: in this interview differentiation is not what your product does — it is knowing a vertical or a use case better than someone else, and the P&L story shows it as the unlock when two leaders were made jointly responsible for growing a practice and getting to differentiation profitably.
+- Read as something AI gives you: the speaker says AI does not provide differentiation and that going to AI for it is the wrong thing — AI only speeds up what you already did, so the differentiation has to come from strategy, data, and vertical knowledge.

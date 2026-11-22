@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [design, designs]
+aka: [isolation effect, isolation effects]
 origin: sources/S_yt_-5jSCHZIHlg_en.md
 ---
 
-# G_yt_-5jSCHZIHlg_en — design
+# G_yt_-5jSCHZIHlg_en — isolation effect
 
 ## Term
 
-"design" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 45 times in the text (whole-word matches, case folded), and the words most often collocated with it are: logo, graphic, today, print. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The tutor uses "isolation effect" for the rule that the one object that differs from the rest is most likely to be remembered — the video's name for it is the Von Restorff effect, spelled "Von restov" in this transcript. The phrase appears 3 times, 2 singular and 1 plural, as the video's core psychology lesson for graphic design: when multiple different objects are shown, the different one is remembered, and it also seems more appealing and more suggestible. Its neighbours are "call to action", "contrast", "attention span", and "lists": the main application is call-to-action buttons in UX, UI, and print design, the mechanism is contrast against the surrounding buttons, and the warning is that it saps the viewer's attention span onto one pinpointed area. The concrete example is the list itself: people remember the first couple of items and the last few items on a list, and forget the middle — so the isolated item is the one that survives.
 
 ## Synonyms
 
-- design
-- designs (variant form used in the source)
+- isolation effects (plural form used in this source)
 
 ## Live Example
 
-> "we're now going to see more useful applications and examples of the Von restov effect and also the downfall that you might experience in using it with the lists people often remember the first couple of items and then also the last few items on" — sources/S_yt_-5jSCHZIHlg_en.md
-> "their bodies they might think they're simply achieving this by adhering to the brand as a consumer pretty crazy shapes and straight edge lines found in squares rectangles and triangles do suggest professionalism but also efficiency and stability all appealing to the left part of" — sources/S_yt_-5jSCHZIHlg_en.md
+> "also known as the isolation effect this states that when multiple different objects are shown the one object that differs from the rest is most likely to be remembered" — sources/S_yt_-5jSCHZIHlg_en.md
+> "now using the isolation effect ensures that the call to action looks different from different action buttons on a website or an application" — sources/S_yt_-5jSCHZIHlg_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "design": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a trick to make anything memorable: in this video the isolation effect works by contrast against similar objects — the call to action must look different from the other action buttons — and it has a downfall if the contrast is too blatant, because it can harm the overall execution of a design.
+- Read as a rule that more contrast is always better: the speaker warns to use it with caution and wisdom, because sapping the viewer's attention onto one pinpointed area can hide vital information elsewhere in the design.

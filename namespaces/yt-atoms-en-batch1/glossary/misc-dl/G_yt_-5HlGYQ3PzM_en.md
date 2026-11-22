@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [think, misc-dl collection context]
+aka: [growth]
 origin: sources/S_yt_-5HlGYQ3PzM_en.md
 ---
 
-# G_yt_-5HlGYQ3PzM_en — think
+# G_yt_-5HlGYQ3PzM_en — growth
 
 ## Term
 
-"think" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 168 times in the text (whole-word matches, case folded), and the words most often collocated with it are: because, really, honestly, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The founder uses "growth" for the expansion that keeps a team together: new brands, more people, and the challenge that makes good hires stay. The word appears 17 times, across the whole interview about Vant, the agency he launched in 2017 that works with modern fashion brands like Pangaia. Its neighbours are "brand", "agency", "scale", and "capacity": Pangaia shot from zero to 100 million in a few months, the agency grew to 50 or 60 people, and the team hit zero capacity and had to ask how they were going to keep going. The concrete rule is the retention link: he realized pretty early on that if they did not grow, the people they hired would not feel challenged and motivated enough to stay with them.
 
 ## Synonyms
 
-- think
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "And I think we realized pretty early on—both with them and with other people we hired later: if we didn't grow, they wouldn't feel challenged and motivated enough to stay with us." — sources/S_yt_-5HlGYQ3PzM_en.md
-> "Uh, because I just don't think there 's an award in our industry that isn't... in general, I think it's really hard to do awards, because if you apply, or if any of us apply for some of the paid awards, we can write absolutely anything." — sources/S_yt_-5HlGYQ3PzM_en.md
+> "Was there anything during that growth period when you were adding new brands that broke down within the business while you were trying to scale?" — sources/S_yt_-5HlGYQ3PzM_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "think": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as revenue alone: in this interview growth is also headcount, capacity, and retention — the founder's measure is whether the people they hire feel challenged and motivated enough to stay, not just the revenue line.
+- Read as smooth expansion: the interviewer asks what broke down within the business during the growth period while adding new brands and trying to scale — growth here includes the breakdowns, and the PTSD line is about surviving one of those periods.

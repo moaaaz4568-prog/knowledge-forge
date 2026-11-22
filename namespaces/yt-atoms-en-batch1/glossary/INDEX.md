@@ -1,56 +1,56 @@
 # Index — glossary/ (yt-atoms-en-batch1)
 
-YouTube English video transcripts batch 1 glossaries (chat glossaries-yt-en-batch1): one G_ entry per T_ atom file — 999 files, zero exclusions, misc-dl collection. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 1,815 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 6 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; YouTube/UI chrome and the collection's own name deprioritized). First code --9yW5APyy0, last 8OVg5V56YzU.
-| glossary/misc-dl/G_yt_--9yW5APyy0_en.md | really | 2 |
-| glossary/misc-dl/G_yt_--CEcZ2CESw_en.md | content | 2 |
-| glossary/misc-dl/G_yt_--IcW24zGM0_en.md | book | 1 |
-| glossary/misc-dl/G_yt_--aNarXyXe8_en.md | work | 1 |
-| glossary/misc-dl/G_yt_--dWDxpCSH4_en.md | video | 2 |
-| glossary/misc-dl/G_yt_--k_wHgr9bw_en.md | lead magnet | 2 |
-| glossary/misc-dl/G_yt_-0He46qh6eA_en.md | think | 1 |
-| glossary/misc-dl/G_yt_-0fYQxXtK3Q_en.md | people | 1 |
-| glossary/misc-dl/G_yt_-0kt008QsUY_en.md | logo | 2 |
-| glossary/misc-dl/G_yt_-1KERJMkpuo_en.md | right | 2 |
-| glossary/misc-dl/G_yt_-1TmAX4cHp0_en.md | month | 1 |
-| glossary/misc-dl/G_yt_-1ZsdUjUYgM_en.md | consultant | 1 |
-| glossary/misc-dl/G_yt_-1ql97es4Lc_en.md | really | 2 |
-| glossary/misc-dl/G_yt_-2Dszp6Fg-o_en.md | right | 3 |
-| glossary/misc-dl/G_yt_-30_VLQUd1s_en.md | brochure | 1 |
-| glossary/misc-dl/G_yt_-32G2ycHb5I_en.md | responsiveness | 1 |
-| glossary/misc-dl/G_yt_-3B7cbOOis4_en.md | know | 2 |
-| glossary/misc-dl/G_yt_-3CJB04R7qI_en.md | right | 3 |
-| glossary/misc-dl/G_yt_-4GDgIod5-w_en.md | know | 2 |
-| glossary/misc-dl/G_yt_-4WXuI0vVnY_en.md | design | 2 |
-| glossary/misc-dl/G_yt_-5HlGYQ3PzM_en.md | think | 2 |
-| glossary/misc-dl/G_yt_-5jSCHZIHlg_en.md | design | 2 |
-| glossary/misc-dl/G_yt_-5l6l2LcHw4_en.md | even | 2 |
-| glossary/misc-dl/G_yt_-7WKqSgY6Dk_en.md | design | 1 |
-| glossary/misc-dl/G_yt_-8Ns4di4LoI_en.md | know | 3 |
-| glossary/misc-dl/G_yt_-9PXVqf1boY_en.md | Yes | 2 |
-| glossary/misc-dl/G_yt_-9f54m7sqjA_en.md | people | 1 |
-| glossary/misc-dl/G_yt_-9lCMsLyDAc_en.md | okay | 2 |
-| glossary/misc-dl/G_yt_-AWwn9oilnI_en.md | freelance | 2 |
-| glossary/misc-dl/G_yt_-Ayzzt7SB8Y_en.md | logo | 2 |
-| glossary/misc-dl/G_yt_-BAZvctvNJU_en.md | know | 2 |
-| glossary/misc-dl/G_yt_-B_EaCU3f94_en.md | think | 2 |
-| glossary/misc-dl/G_yt_-C01FC27Jg0_en.md | want | 3 |
-| glossary/misc-dl/G_yt_-CMOFHws0DI_en.md | Proof | 1 |
-| glossary/misc-dl/G_yt_-CecPWwj-W4_en.md | money | 2 |
-| glossary/misc-dl/G_yt_-D0OJdv-j30_en.md | know | 3 |
-| glossary/misc-dl/G_yt_-DXgHFAQm0A_en.md | design | 1 |
-| glossary/misc-dl/G_yt_-EV-P4CQYCE_en.md | design | 1 |
-| glossary/misc-dl/G_yt_-FSIq213UJE_en.md | know | 3 |
-| glossary/misc-dl/G_yt_-Fmiqik4jh0_en.md | know | 1 |
-| glossary/misc-dl/G_yt_-FpoQGSbqCY_en.md | typeface | 1 |
-| glossary/misc-dl/G_yt_-G34rwQFWcI_en.md | Mike | 3 |
-| glossary/misc-dl/G_yt_-GOv1EEtzaU_en.md | know | 2 |
-| glossary/misc-dl/G_yt_-H3pzdaQ8-k_en.md | know | 3 |
-| glossary/misc-dl/G_yt_-HDvfJW28Hg_en.md | properties panel | 2 |
-| glossary/misc-dl/G_yt_-HzlPgvh02c_en.md | people | 2 |
-| glossary/misc-dl/G_yt_-I4UsbshJCk_en.md | design | 2 |
-| glossary/misc-dl/G_yt_-IYYSObo2BM_en.md | product | 1 |
-| glossary/misc-dl/G_yt_-Idble_q0LY_en.md | people | 2 |
-| glossary/misc-dl/G_yt_-JYiXyzDEFI_en.md | okay | 1 |
+YouTube English video transcripts batch 1 glossaries (GLM rebuild, sub-batch 1: codes 1-50 of 999): 50 G_ entries rebuilt in place — Term/Synonyms/Live Example/Breaks per BUILDER-BRIEF-GLM.md §5–§12 + N1/N2/N5; 100 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes; self-check 50/50, namespace gates: 1998 entities, 0 rejected. Terms are computed from each source's own text (content terms by count + collocation; filler words, person names, and chants excluded per N1/N5). First code --9yW5APyy0, last -JYiXyzDEFI (sub-batch 1). Remaining 949 entries are GLM originals, not yet rebuilt.
+| glossary/misc-dl/G_yt_--9yW5APyy0_en.md | soft problems | 3 |
+| glossary/misc-dl/G_yt_--CEcZ2CESw_en.md | outliers | 12 |
+| glossary/misc-dl/G_yt_--IcW24zGM0_en.md | open society | 2 |
+| glossary/misc-dl/G_yt_--aNarXyXe8_en.md | exploratory call | 5 |
+| glossary/misc-dl/G_yt_--dWDxpCSH4_en.md | playbook | 2 |
+| glossary/misc-dl/G_yt_--k_wHgr9bw_en.md | dream follower | 3 |
+| glossary/misc-dl/G_yt_-0He46qh6eA_en.md | audio overview | 11 |
+| glossary/misc-dl/G_yt_-0fYQxXtK3Q_en.md | referral system | 1 |
+| glossary/misc-dl/G_yt_-0kt008QsUY_en.md | shape psychology | 3 |
+| glossary/misc-dl/G_yt_-1KERJMkpuo_en.md | world view | 8 |
+| glossary/misc-dl/G_yt_-1TmAX4cHp0_en.md | law of attraction | 2 |
+| glossary/misc-dl/G_yt_-1ZsdUjUYgM_en.md | consultant | 3 |
+| glossary/misc-dl/G_yt_-1ql97es4Lc_en.md | neutral position | 4 |
+| glossary/misc-dl/G_yt_-2Dszp6Fg-o_en.md | intent signals | 5 |
+| glossary/misc-dl/G_yt_-30_VLQUd1s_en.md | trifold brochure | 7 |
+| glossary/misc-dl/G_yt_-32G2ycHb5I_en.md | responsiveness | 2 |
+| glossary/misc-dl/G_yt_-3B7cbOOis4_en.md | personal brand | 8 |
+| glossary/misc-dl/G_yt_-3CJB04R7qI_en.md | skin in the game | 1 |
+| glossary/misc-dl/G_yt_-4GDgIod5-w_en.md | media banking | 1 |
+| glossary/misc-dl/G_yt_-4WXuI0vVnY_en.md | VAS | 5 |
+| glossary/misc-dl/G_yt_-5HlGYQ3PzM_en.md | growth | 17 |
+| glossary/misc-dl/G_yt_-5jSCHZIHlg_en.md | isolation effect | 3 |
+| glossary/misc-dl/G_yt_-5l6l2LcHw4_en.md | proportion | 1 |
+| glossary/misc-dl/G_yt_-7WKqSgY6Dk_en.md | vector | 2 |
+| glossary/misc-dl/G_yt_-8Ns4di4LoI_en.md | brand storytelling | 6 |
+| glossary/misc-dl/G_yt_-9PXVqf1boY_en.md | stand-up | 13 |
+| glossary/misc-dl/G_yt_-9f54m7sqjA_en.md | microcontent strategy | 1 |
+| glossary/misc-dl/G_yt_-9lCMsLyDAc_en.md | album prospecting | 2 |
+| glossary/misc-dl/G_yt_-AWwn9oilnI_en.md | niche | 9 |
+| glossary/misc-dl/G_yt_-Ayzzt7SB8Y_en.md | artboard | 2 |
+| glossary/misc-dl/G_yt_-BAZvctvNJU_en.md | paid to pitch | 1 |
+| glossary/misc-dl/G_yt_-B_EaCU3f94_en.md | bricks | 9 |
+| glossary/misc-dl/G_yt_-C01FC27Jg0_en.md | major goal | 2 |
+| glossary/misc-dl/G_yt_-CMOFHws0DI_en.md | domino effect | 1 |
+| glossary/misc-dl/G_yt_-CecPWwj-W4_en.md | paradox of thrift | 11 |
+| glossary/misc-dl/G_yt_-D0OJdv-j30_en.md | differentiation | 5 |
+| glossary/misc-dl/G_yt_-DXgHFAQm0A_en.md | anchor points | 9 |
+| glossary/misc-dl/G_yt_-EV-P4CQYCE_en.md | visual language | 6 |
+| glossary/misc-dl/G_yt_-FSIq213UJE_en.md | methodology | 7 |
+| glossary/misc-dl/G_yt_-Fmiqik4jh0_en.md | leader | 3 |
+| glossary/misc-dl/G_yt_-FpoQGSbqCY_en.md | Sans serif | 4 |
+| glossary/misc-dl/G_yt_-G34rwQFWcI_en.md | medical education | 3 |
+| glossary/misc-dl/G_yt_-GOv1EEtzaU_en.md | predictability | 6 |
+| glossary/misc-dl/G_yt_-H3pzdaQ8-k_en.md | compensatory drive vacuum | 1 |
+| glossary/misc-dl/G_yt_-HDvfJW28Hg_en.md | properties panel | 14 |
+| glossary/misc-dl/G_yt_-HzlPgvh02c_en.md | proof of concept | 13 |
+| glossary/misc-dl/G_yt_-I4UsbshJCk_en.md | rich black | 4 |
+| glossary/misc-dl/G_yt_-IYYSObo2BM_en.md | true fans | 2 |
+| glossary/misc-dl/G_yt_-Idble_q0LY_en.md | acquire customers | 1 |
+| glossary/misc-dl/G_yt_-JYiXyzDEFI_en.md | golden ratio | 6 |
 | glossary/misc-dl/G_yt_-KIWKgxu8cw_en.md | design | 2 |
 | glossary/misc-dl/G_yt_-Ko9d2r4UDQ_en.md | clients | 1 |
 | glossary/misc-dl/G_yt_-L98xSoXN2k_en.md | business | 1 |

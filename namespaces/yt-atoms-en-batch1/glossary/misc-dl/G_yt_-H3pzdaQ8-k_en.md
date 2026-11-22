@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, misc-dl collection context]
+aka: [compensatory drive vacuum]
 origin: sources/S_yt_-H3pzdaQ8-k_en.md
 ---
 
-# G_yt_-H3pzdaQ8-k_en — know
+# G_yt_-H3pzdaQ8-k_en — compensatory drive vacuum
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 38 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, come, woke, good. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The speaker uses "compensatory drive vacuum" for the drive left by a childhood of lacking: people who were super sad or lacked a lot of things in childhood seek those things later in life, and that seeking is called a compensatory drive vacuum. The phrase appears 1 time, in a video titled around "everything is fake and nothing matters", where he links the whole outlook to how you grew up. Its neighbours are "childhood", "rough childhood", "standard", and "bad day": he says he personally had a really rough childhood, his parents got divorced, and he tried to dilute the reason for how he felt until he saw the standard is so high now. The concrete turn is the bad day: if you have a bad day, you can wake up tomorrow with a smile on your face, excited for the good days — the vacuum does not have to run the day.
 
 ## Synonyms
 
-- know
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And I feel like that and I kind of tried to dilute the reason and I guess it turned out was because the standard is so high now, you know?" — sources/S_yt_-H3pzdaQ8-k_en.md
-> "When I say everything is going to pass, everything is fake, nothing matters, it's like I remember one specific time I was at a party in Bel Air, Los Angeles, some crazy mansion and I was with That's when I So if you guys don't know, I you know, when I I I was broke, then I got rich again, then I went broke and now I'm rich again." — sources/S_yt_-H3pzdaQ8-k_en.md
+> "A lot of people are like super sad or they lack a lot of things in childhood, which they seek for later in life, which is called a compensatory drive vacuum." — sources/S_yt_-H3pzdaQ8-k_en.md
 > "If you have a bad day, you can wake up tomorrow with a smile on your face excited that good days are You know?" — sources/S_yt_-H3pzdaQ8-k_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a clinical diagnosis: in this video the compensatory drive vacuum is the speaker's own framing for why he seeks what he lacked — a rough childhood, divorced parents — not a diagnosis of anyone else, and he presents it as his personal explanation.
+- Read as an excuse for the outlook: the video's point is the opposite move — everything is fake and nothing matters, so who cares — and the bad-day turn is about waking up smiling anyway, so the vacuum explains the drive without justifying staying in it.

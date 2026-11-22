@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [right, misc-dl collection context]
+aka: [skin in the game]
 origin: sources/S_yt_-3CJB04R7qI_en.md
 ---
 
-# G_yt_-3CJB04R7qI_en — right
+# G_yt_-3CJB04R7qI_en — skin in the game
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 88 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, right, like, because. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The speaker uses "skin in the game" for the proof that someone is serious enough to help: they have spent their own money and are committed, not looking for free stuff. The phrase appears 1 time, as the filter for who he will talk to: he loves people who actually have skin in the game, and says there is no free stuff — if you like free stuff, you are probably broke and probably not deserving of the success you are looking for. Its neighbours are "committed", "free stuff", "client acquisition", and "done for you": the same pitch invites anyone who spent money with some other guy's service and is just trying to advance to hit him up, and it offers over 10 hours of client acquisition systems for free as a diluted version of his hot familiar program, while debating consulting rather than done for you. The concrete contrast is the uncommitted prospect: just not committed, still shopping, versus the person with skin in the game whom he is happy to help.
 
 ## Synonyms
 
-- right
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "a great marketer to he can sell you up front but behind the back like on the back end he doesn't actually have a good structure to deliver right but the reason why i personally believe that we have a good product and why people" — sources/S_yt_-3CJB04R7qI_en.md
-> "it might be the best to do consulting rather than done for you right and i think there is another one actually uh yeah so we also share some losses right we don't just ask our customers to uh to just share wins we also" — sources/S_yt_-3CJB04R7qI_en.md
-> "you're past 50k a month but you've gotten there using other systems but you'd like to actually build predictability with other methods please just get on one call with my team right we won't even sell you anything all we want to show you is" — sources/S_yt_-3CJB04R7qI_en.md
+> "i love people who actually have skin in the game there is no free stuff if you like free stuff then you're probably broke and you're probably not deserving of the success that you're looking for" — sources/S_yt_-3CJB04R7qI_en.md
+> "just not committed but even if you've spent money with some other guy or some other girls service and product and you're just trying to advance please hit me up i'd be happy to help you" — sources/S_yt_-3CJB04R7qI_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a financial term about investing: in this video skin in the game is a personal filter for coaching — having spent money on a service and being committed to advance — not a position in a market.
+- Read as a demand that everyone pay him: the speaker's point is about deserving help, not about his price — he gives the 10 hours of client acquisition content for free, and says he will not sell anything on the call, only show the work.

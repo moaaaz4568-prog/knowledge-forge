@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [work, works]
+aka: [exploratory call, exploratory calls]
 origin: sources/S_yt_--aNarXyXe8_en.md
 ---
 
-# G_yt_--aNarXyXe8_en — work
+# G_yt_--aNarXyXe8_en — exploratory call
 
 ## Term
 
-"work" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 17 times in the text (whole-word matches, case folded), and the words most often collocated with it are: client, people, year, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Mohammed uses "exploratory call" for the call an expert takes with a prospective client — not a sales call, but a sample of the working relationship itself. The phrase appears 5 times, and its definition is the episode's rule: the call is supposed to be the sample, so the expert enters it as a consultant, not as a salesperson. Its neighbours are "sales calls", "discovery call", "gatekeeping system", and "sale is the sample": a discovery call is the same kind of call under another name, the gatekeeping system filters who ever reaches one, and the sample rule forbids using the call to persuade. The concrete test he gives is mutual: the client judges whether the expert is the best they can take on, and the expert asks whether this is the best client they can take on right now — and if either side doubts, the answer is no.
 
 ## Synonyms
 
-- work
-- works (variant form used in the source)
+- exploratory calls (plural form used in this source)
 
 ## Live Example
 
-> "If you're clever and convince someone who isn't entirely convinced to work with you, but you persuade them and they pay, there's a high probability you'll regret it later." — sources/S_yt_--aNarXyXe8_en.md
+> "Sales calls—or rather, exploratory calls—are a dangerous topic." — sources/S_yt_--aNarXyXe8_en.md
+> "So when I enter the exploratory call, I enter as a consultant, not as a salesperson." — sources/S_yt_--aNarXyXe8_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "work": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a polite name for a sales call: in this source the exploratory call is the opposite of one — selling means persuasion, while the exploratory call exists only to check whether the client's problem and the expert's experience match.
+- Read as a free consultation the expert owes anyone who asks: the source puts a gatekeeping system in front of it — a contact form, screening, and email first — because the call is a sample of paid work, not an open booking link.

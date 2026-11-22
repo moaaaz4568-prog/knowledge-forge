@@ -1,28 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [right, misc-dl collection context]
+aka: [intent signals, intent signal]
 origin: sources/S_yt_-2Dszp6Fg-o_en.md
 ---
 
-# G_yt_-2Dszp6Fg-o_en — right
+# G_yt_-2Dszp6Fg-o_en — intent signals
 
 ## Term
 
-"right" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 187 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, because, really, lot. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+AJ Cassada uses "intent signals" for the signs that a company is more likely than the rest of the market to need your offer right now — something happening at their company that raises their propensity to buy. The phrase appears 5 times, 4 plural and 1 singular, as the third pillar of his new outbound model, after niche segmentation and personalized messaging. Its neighbours are "new hires", "headcount growth", "open jobs", and "social activity": the most common signals he lists are a new hire in the buying role, growing headcount, open jobs for a role your offer replaces, and social activity around the problem you solve. The concrete example is the accounting firm: seeing a 10-person company post a job for a bookkeeper, you write that they probably do not need a full-time accountant and could use your service instead.
 
 ## Synonyms
 
-- right
-- misc-dl collection context (no variant form of the term appears in this source)
+- intent signal (singular form used in this source)
 
 ## Live Example
 
-> "And if you try to launch paid ads for as your first step when you haven't figured out the right message, the right niche, you you can burn easily 5 10k a month without really getting a lot of results, right?" — sources/S_yt_-2Dszp6Fg-o_en.md
-> "Um, anything like if you could find out some news about their company, something that's changed and and reference that in the outreach, that's really going to stand out and help them feel like this is a very relevant, timely outreach you're doing for them, right?" — sources/S_yt_-2Dszp6Fg-o_en.md
-> "Um, you can now hook up things like Semrush to, uh, Clay and other tools as well. and find out if a company's spending a lot on ads or if they're spending on paid ads on certain channels um or if their website traffic is increasing or decreasing, right?" — sources/S_yt_-2Dszp6Fg-o_en.md
+> "Um, and then there's intent signals. So, if you have 100,000 companies in your target market, there's probably 5,000 10,000 companies that are more likely to do business with you because something's happening at their company that they might have more of a propensity to like need your solution, right?" — sources/S_yt_-2Dszp6Fg-o_en.md
+> "So these are what's called intent signals, right? Um this is all about take doing timely outreach, right?" — sources/S_yt_-2Dszp6Fg-o_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "right": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as any firmographic filter: in this source an intent signal is not company size or industry but a change or event — a hire, growth, a job post, a technology switch — that makes the timing right, and AJ says to cherry-pick those companies first instead of reaching everybody.
+- Read as a guarantee the company will buy: the signals only raise propensity — the speaker's own numbers are 5,000 to 10,000 out of 100,000 companies — so the outreach still has to be personalized and timely to convert the signal into a reply.

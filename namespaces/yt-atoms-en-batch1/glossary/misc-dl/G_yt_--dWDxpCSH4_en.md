@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [video, videos]
+aka: [playbook]
 origin: sources/S_yt_--dWDxpCSH4_en.md
 ---
 
-# G_yt_--dWDxpCSH4_en — video
+# G_yt_--dWDxpCSH4_en — playbook
 
 ## Term
 
-"video" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 21 times in the text (whole-word matches, case folded), and the words most often collocated with it are: released, like, watch, recent. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The speaker uses "playbook" for Ed Lawrence's whole taught system — his video framework, his examples, his research, his community-post style — the body of knowledge the speaker copied instead of building his own. The word appears 2 times, both as confessions: his own playbook is just what Ed has been teaching all these years, and his community posts look like Ed's because he is following Ed's playbook. Its neighbours are "framework", "community wall", "bandwidth", and "trust": he copied Ed's framework and mined other creators' community walls when his bandwidth ran short, and the cost was the audience's trust. The concrete admission is the video itself: he took Ed's transcript, rewrote it as his own, and only unlisted the video after Ed commented on it — the moment he understood that copying a playbook is theft, not inspiration.
 
 ## Synonyms
 
-- video
-- videos (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A grand majority of the actions I've taken are because Ed paved the way first and shares his knowledge." — sources/S_yt_--dWDxpCSH4_en.md
-> "It's one of my best performing videos so far and one of the easiest I've ever made. >> And the framework that I use to make this gets insane results for businesses all over YouTube. >> It gets incredible results all over YouTube. >> So now I'm going to give you every step to make your own so you can just copy it." — sources/S_yt_--dWDxpCSH4_en.md
+> "My playbook is just what you've been teaching all these years." — sources/S_yt_--dWDxpCSH4_en.md
+> "If you've seen any of my community posts, they look a lot like Ed's because, again, I'm following his playbook." — sources/S_yt_--dWDxpCSH4_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "video": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a compliment to the teacher: in this source the playbook is the thing the speaker stole — he calls it theft, not inspiration — and the apology exists because copying it destroyed trust, not because the playbook itself was flawed.
+- Read as a shortcut anyone can take: the speaker's lesson is that a playbook only works when transformed through your own experience — his shortcut version, rewriting Ed's transcript and feeding community posts to AI, is exactly the mistake he warns others not to repeat.

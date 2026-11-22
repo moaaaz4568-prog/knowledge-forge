@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [really, misc-dl collection context]
+aka: [neutral position]
 origin: sources/S_yt_-1ql97es4Lc_en.md
 ---
 
-# G_yt_-1ql97es4Lc_en — really
+# G_yt_-1ql97es4Lc_en — neutral position
 
 ## Term
 
-"really" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 22 times in the text (whole-word matches, case folded), and the words most often collocated with it are: really, nice, important, comfortable. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The maker uses "neutral position" for the seated posture that keeps the body safe while working — feet flat on the floor, knees at roughly a 90 degree angle, elbow at roughly a 90 degree angle, and an S curve to the spine. The phrase appears 4 times, as the ergonomic rule for everything in the video: whether you are sitting at a desk or playing a bass guitar, you want to be in a neutral position, and the product should let you stay in it. Its neighbours are "ergonomics", "carpal tunnel", "classical position", and "balance": ergonomics is the design of human-machine interactions, a twisted wrist at an extreme angle leads to carpal tunnel, the classical position puts the bass on the other leg, and balance decides how comfortable the instrument feels. The concrete test is his first bass space: he cannot maintain a neutral position there, leans forward and twists, and his wrist ends up at a pretty extreme angle — bad news when you typically play bass for half an hour to three hours.
 
 ## Synonyms
 
-- really
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and really really nice and comfortable you want an s curve to your spine so it's nice and you know stable no like hunching over or anything like that no hyper extension in this direction nice and comfortable right now when you're playing a bass" — sources/S_yt_-1ql97es4Lc_en.md
-> "is really really ugly okay it's a very ugly shape but this is a pretty good solid 45 degree angle so that when i have the base neck here it'll be good this will be pretty straight and i'll be able to play comfortably so" — sources/S_yt_-1ql97es4Lc_en.md
+> "so basically when you're sitting down in a chair or doing anything you want to be in a neutral position so neutral position means feet flat on the floor knees at roughly a 90 degree angle elbow is at roughly a 90 degree angle maybe a tiny bit more" — sources/S_yt_-1ql97es4Lc_en.md
+> "i can stay in a much close much closer to a neutral position my wrist is not nearly as bent i'm able to bring the base closer to my body which is a lot more comfortable as well" — sources/S_yt_-1ql97es4Lc_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a single fixed posture for sitting only: in this source the neutral position is a principle applied to sitting, playing bass, and designing products — the second bass space is better precisely because its contouring and cutaway let him stay much closer to neutral while playing.
+- Read as comfort advice with no stakes: the speaker's point is safety over hours — twisted even a couple of degrees for a two- or three-hour live set is really not good, and the wrist at an extreme angle is on the road to carpal tunnel.

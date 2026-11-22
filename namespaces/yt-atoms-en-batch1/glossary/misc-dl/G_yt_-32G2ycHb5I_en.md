@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [responsiveness, misc-dl collection context]
+aka: [responsiveness]
 origin: sources/S_yt_-32G2ycHb5I_en.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_yt_-32G2ycHb5I_en.md
 
 ## Term
 
-"responsiveness" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: trust, assume, demand, conversation. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The fragment uses "responsiveness" for the quality that turns a one-sided message into a genuine conversation: the audience answers back, and the speaker answers them. The word appears 2 times, paired both times with trust — "Trust and responsiveness" first, then the instruction "Assume trust and demand responsiveness". Its neighbours are "trust", "rapport", "genuine conversation", and "engagement": getting engagement wrong bores the audience, while genuine conversation builds rapport, and rapport is what trust and responsiveness rest on. The concrete rule is the last line's pairing: assume trust from the audience, and demand responsiveness in return, so the relationship stays dynamic and engaging.
 
 ## Synonyms
 
-- responsiveness
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "and responsiveness. Assume trust and demand responsiveness. Dynamic" — sources/S_yt_-32G2ycHb5I_en.md
+> "Trust and responsiveness. Assume trust and demand responsiveness." — sources/S_yt_-32G2ycHb5I_en.md
+> "Boring for your audience. Get engagement wrong. Genuine conversation Rapport. Trust and responsiveness." — sources/S_yt_-32G2ycHb5I_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "responsiveness": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as replying fast: in this fragment responsiveness is not speed but the mutual exchange itself — trust assumed on one side, responsiveness demanded on the other — and it sits inside a genuine conversation, not a support queue.
+- Read as a technique for engagement metrics: the fragment's point is the relationship — boring the audience is getting engagement wrong — so responsiveness here means the audience stays in conversation, not that a number goes up.

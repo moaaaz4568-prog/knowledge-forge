@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [even, misc-dl collection context]
+aka: [proportion]
 origin: sources/S_yt_-5l6l2LcHw4_en.md
 ---
 
-# G_yt_-5l6l2LcHw4_en — even
+# G_yt_-5l6l2LcHw4_en — proportion
 
 ## Term
 
-"even" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: look, says, need, perfectly. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The speaker uses "proportion" for what makes a design successful: a design is proportion, and proportion is fundamentally political. The word appears 1 time, in the opening claim of a heavily garbled transcript, where the sentence runs from proportion into square footage and a hard meringue without ever finishing the thought. Its neighbours are "design", "square foot", "shape", and "techniques": the fragment also mentions the shape of a stimulus for general use, and closes by saying you can use these techniques when making letters. The concrete reading is only the opening claim itself: success, design, proportion, and politics are tied together in one sentence, and the rest of the transcript never returns to explain the link.
 
 ## Synonyms
 
-- even
-- misc-dl collection context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "were Otherwise I can make eclipse professional as equally natural n such rounds give or show George Ivanescu key aspects objects used When You Enjoy this request something Can be judged and punished 8.5.5 you clear Where do you go around powersafe V a second" — sources/S_yt_-5l6l2LcHw4_en.md
-> "to Munich in Order for fears much and of you will have subject left with forms smoby Tefal I write actual no up you can use these Techniques war or if you are making of letters young man is a project and this for by" — sources/S_yt_-5l6l2LcHw4_en.md
+> "hear about that of a factor is successful a design is proportion is fundamentally political takes us square foot this look at for even with is he says when we get a hard meringue" — sources/S_yt_-5l6l2LcHw4_en.md
+> "V stimulus for general use overview of its Shape is night Sweet violet Princess Peg miramax mahua was upset with the szekler him and love DJ organization" — sources/S_yt_-5l6l2LcHw4_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "even": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a design rule with a method: in this source proportion is only asserted — a design is proportion, proportion is fundamentally political — and no method, example, or definition follows, so it cannot be applied as a technique.
+- Read as a claim about politics in general: the sentence ties proportion to politics inside a design claim only, and the fragment never says whose politics or what a political proportion would look like, so the claim stays at the level of the single sentence.

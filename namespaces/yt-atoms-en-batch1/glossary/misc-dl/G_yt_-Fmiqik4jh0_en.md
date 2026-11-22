@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: misc-dl
-aka: [know, knows]
+aka: [leader]
 origin: sources/S_yt_-Fmiqik4jh0_en.md
 ---
 
-# G_yt_-Fmiqik4jh0_en — know
+# G_yt_-Fmiqik4jh0_en — leader
 
 ## Term
 
-"know" is the most frequent repeated content term in this source (a transcribed YouTube video from the misc-dl collection): it occurs 255 times in the text (whole-word matches, case folded), and the words most often collocated with it are: know, think, people, mean. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Richard Branson uses "leader" for the person who listens first: a good leader has to be a good listener, and that is one of the most important attributes of a good leader. The word appears 3 times, in an interview that ranges across his businesses — if they had stayed still and only focused on one business, they would not have a business today — and his habit of getting back in touch with the people who gave him ideas, to thank them and tell them what was done. Its neighbours are "listener", "business", "vulnerable", and "books": the interview ends with the question of where he felt most vulnerable and why, and his answer is six weeks into COVID, when everything they had built up looked like it was crashing down. The concrete image is the phone call mid-documentary: he grabbed his phone halfway through watching the documentary series to get back in touch with the people who gave him the ideas.
 
 ## Synonyms
 
-- know
-- knows (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I mean obviously an interview like this I will but um uh and I suppose I've reached an age where you know it's important to write books and it's important to do documentaries and you know um because it's important not to waste your life and and and and it's important to share what you've learned." — sources/S_yt_-Fmiqik4jh0_en.md
+> "I think a good a good leader has to be a good listener." — sources/S_yt_-Fmiqik4jh0_en.md
+> "and that's I think one of the most important attributes of a good leader." — sources/S_yt_-Fmiqik4jh0_en.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "know": the usage here is bounded to a transcribed YouTube video from one collection and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a title for the boss: in this interview a leader is defined by listening — Branson's own rule is that a good leader has to be a good listener — and the proof is the follow-up, getting back in touch to thank the people who gave the ideas.
+- Read as fearlessness: the same interview ends on vulnerability — Branson felt most vulnerable six weeks into COVID, with everything crashing down and the British press turning on them — so leadership here includes admitting the crash, not hiding it.
