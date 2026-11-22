@@ -252,3 +252,53 @@
 | glossary/matthewlucero/G_yt_qMa87Ok3qPQ_ar.md | التواجد على أمازون | 1 |
 | glossary/misc-dl/G_yt_qMb1RN3hXwA_ar.md | البريد الإلكتروني البارد | 1 |
 | glossary/misc-dl/G_yt_qNC4_XxrIYI_ar.md | رفع الأسعار | 2 |
+| glossary/saminyasar_/G_yt_b_5zQKESJ1w_ar.md | الوكيل | 1 |
+| glossary/misc-dl/G_yt_b_8iqAfgNXA_ar.md | المحتوى | 1 |
+| glossary/ctthedisrupter/G_yt_b_BqG0Hro4Q_ar.md | الإعلانات | 1 |
+| glossary/misc-dl/G_yt_b_s4RlOYyzc_ar.md | العنوان | 1 |
+| glossary/ryandeissofficial/G_yt_bakuVQ_DfeY_ar.md | أهدافك | 1 |
+| glossary/muhamdhelal/G_yt_bal_p6gCv-I_ar.md | دبليكيت | 1 |
+| glossary/omarsaied/G_yt_baxRXmh7Brc_ar.md | اعلانات | 1 |
+| glossary/saminyasar_/G_yt_bb2eKbyfLzE_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/misc-dl/G_yt_bb6-qMuqgts_ar.md | هامش الربح | 1 |
+| glossary/misc-dl/G_yt_bbd5wfsLo9s_ar.md | المرارة | 1 |
+| glossary/misc-dl/G_yt_bc6KY73H8Zo_ar.md | العلامة التجارية | 1 |
+| glossary/maximiliandier/G_yt_bcB-uheKM8k_ar.md | العقار | 1 |
+| glossary/misc-dl/G_yt_bcpxJCAIWtY_ar.md | التعود | 1 |
+| glossary/thezaidfouad/G_yt_bd0dHSl6IQQ_ar.md | الاوتوميشن | 1 |
+| glossary/misc-dl/G_yt_bdLExVseg3M_ar.md | العلامات التجارية | 1 |
+| glossary/ryandeissofficial/G_yt_bdZnJvaX68U_ar.md | خط الائتمان | 1 |
+| glossary/ryandeissofficial/G_yt_beMXSp1Ha_Y_ar.md | اللوم | 1 |
+| glossary/misc-dl/G_yt_bedeXwyh-qQ_ar.md | الخط | 1 |
+| glossary/terrencekruse/G_yt_beshFO7Rwe4_ar.md | الإعلانات | 1 |
+| glossary/muhamdhelal/G_yt_bf-b6B7AXWc_ar.md | الاوبجكت ماسك | 1 |
+| glossary/takimoore/G_yt_bfmNTmySLMs_ar.md | المبيعات | 1 |
+| glossary/misc-dl/G_yt_bgStKKE6RUk_ar.md | الألفة | 1 |
+| glossary/misc-dl/G_yt_bgyKK4t-C20_ar.md | الوكالة | 1 |
+| glossary/misc-dl/G_yt_bh-CI0mqXec_ar.md | الشعار | 1 |
+| glossary/misc-dl/G_yt_bh47GAcFXmY_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/misc-dl/G_yt_bh70BkV__mU_ar.md | الحبوب | 1 |
+| glossary/omarsaied/G_yt_bh89uLh2Cmw_ar.md | حواجز الدخول | 1 |
+| glossary/misc-dl/G_yt_bhDlYPofdZE_ar.md | التواصل | 1 |
+| glossary/ryandeissofficial/G_yt_bhKShJ64MXk_ar.md | هامش الربح | 1 |
+| glossary/moe-alhakeem/G_yt_bhKlkg_2Wcc_ar.md | استراتيجيه البراند | 1 |
+| glossary/misc-dl/G_yt_bhhpg0OXT3A_ar.md | أداة التحريك | 1 |
+| glossary/saminyasar_/G_yt_bhsdE20-4XE_ar.md | التطبيق | 1 |
+| glossary/michtortiyt/G_yt_bhuLBmWJaQo_ar.md | Sora | 1 |
+| glossary/terrencekruse/G_yt_biKvGqK-g5Q_ar.md | نادي المليونيرات | 1 |
+| glossary/misc-dl/G_yt_biMe-8S9EzA_ar.md | ريال | 1 |
+| glossary/misc-dl/G_yt_biZEA2jkBNo_ar.md | البزنس | 1 |
+| glossary/alexanderthecreate/G_yt_bihxcNDoA4w_ar.md | الكاميرا | 1 |
+| glossary/takimoore/G_yt_bj4eQ9NIyGE_ar.md | المغناطيسات | 1 |
+| glossary/misc-dl/G_yt_bjTe6yRmVpw_ar.md | البراندينج | 1 |
+| glossary/maximiliandier/G_yt_bjVJ3S8Dzx4_ar.md | الإيجار | 1 |
+| glossary/misc-dl/G_yt_bjcSjk-ALbc_ar.md | البريد الإلكتروني | 1 |
+| glossary/youssefelakkari/G_yt_bjm_eoVcqto_ar.md | منافسه | 1 |
+| glossary/misc-dl/G_yt_bkSd7x6r9wQ_ar.md | الرياضة | 1 |
+| glossary/misc-dl/G_yt_bkZ_xujsENM_ar.md | العلامات التجارية | 1 |
+| glossary/michtortiyt/G_yt_bkjeWAWZ774_ar.md | وكيل | 1 |
+| glossary/officialjpmiddleton/G_yt_bkwdoPgv-aw_ar.md | الذكاء الاصطناعي | 1 |
+| glossary/hakeem.podcast/G_yt_blNiUXdx6JA_ar.md | الممارسه | 1 |
+| glossary/misc-dl/G_yt_blYjErqjfU4_ar.md | الألوان | 1 |
+| glossary/misc-dl/G_yt_blg-OJc68U0_ar.md | أمازون | 1 |
+| glossary/misc-dl/G_yt_bmgmtFHV_8o_ar.md | تاتش بوينت | 1 |
