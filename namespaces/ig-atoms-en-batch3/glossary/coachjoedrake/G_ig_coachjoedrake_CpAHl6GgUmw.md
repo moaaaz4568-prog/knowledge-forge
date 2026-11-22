@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [cue]
+aka: ["external cue", "cue"]
 origin: sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
 ---
 
-# G_ig_coachjoedrake_CpAHl6GgUmw — cue
+# G_external_cue — external cue
 
 ## Term
 
-A cue, in this coaching clip, is the single instruction that unlocks a movement problem on the spot. The word occurs twice: first "Maybe we try an external cue. Push my hands apart." — demonstrated on a squatter driving her knees out — and then "if I can give them one simple cue and then they can replicate it, for me then we're on the right track." The contrast drawn is between guessing a movement impairment and discovering the client simply doesn't know how to squat or what the muscles should feel like; the cue is the test-and-fix, and harder is the word drilled while applying it.
+An external cue is a short instruction that points the client's attention outside their body — push my hands apart — instead of naming a muscle or a joint. The phrase appears once, beside screwing your feet into the ground, driving your knees out, and problem solve, while Joe coaches Louise through a squat in the moment. He tries the cue only after the first attempts do not work, and he is open about the process: assessments are a chance to problem-solve live, and a client who cannot squat may simply not know what the muscles should feel like. The test he gives is replication: if one simple cue lets the client repeat the movement, they are on the right track.
 
 ## Synonyms
 
-- No variant form of the term appears in this source.
+- cue (the shortened form, used later as one simple cue)
 
 ## Live Example
 
-> "And let's say, okay, cool, that still didn't work. Well, we still have some other tools we can play with. Maybe we try an external cue. Push my hands apart. Harder, harder, harder." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
-> "And if I can give them one simple cue and then they can replicate it, for me then we're on the right track." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
+> "Maybe we try an external cue. Push my hands apart." — sources/S_ig_coachjoedrake_CpAHl6GgUmw.md
 
 ## When the Meaning Breaks
 
-- Read as any instruction: the source's cues are minimal and physical (screwing feet into the ground, driving knees out, pushing the coach's hands apart) — the value claimed is one simple cue the client can replicate, not a script of many corrections.
-- Read as a diagnosis shortcut: the speaker warns the opposite direction too — a fixable-in-one-cue issue is not necessarily an imbalance or movement impairment; the cue separates the two cases rather than collapsing them.
+- Read as a cue about feeling the muscles: an external cue points at the hands or the ground, and Joe contrasts it with knowing what the muscles should feel like rather than treating the two as the same.
+- Read as proof of a movement impairment: Joe says a failed squat may mean only that the client does not know how to squat, so a cue that fixes it rules out an impairment rather than confirming one.

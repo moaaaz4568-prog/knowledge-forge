@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [undulating periodization, undulating]
+aka: ["undulating periodization", "undulating"]
 origin: sources/S_ig_coachjoedrake_CrQKN74gihh.md
 ---
 
-# G_ig_coachjoedrake_CrQKN74gihh — undulating periodization
+# G_undulating_periodization — undulating periodization
 
 ## Term
 
-Undulating periodization is the programming scheme this teaching clip contrasts with the linear model: "constant variation in volume and intensity" instead of one long progression. The full phrase occurs twice ("there's a lot of ways to do undulating periodization based upon the goals", "that undulating periodization, I think it's a little bit more challenging"), with the short form undulating three times more and linear periodization, volume, intensity, and random workouts as companions. The variation can come "from workout to workout" — training two or three days a week in different phases — or "on a weekly basis" with a focus for a week or two. His caution for new coaches: do it "without making random workouts", because "we still want there to be some thought process behind why we are varying these different variables."
+Undulating periodization varies volume and intensity on a constant basis, and Joe contrasts it with linear periodization, which he calls a huge foundation for his own early strength gains. The phrase is used twice, beside linear periodization, constant variation, and random workouts, and the variation can shift from workout to workout inside a week or from week to week over a focus block. He calls it more challenging for new coaches because the variation must follow a thought process rather than becoming random workouts. The graph he mentions shows the shape of the change, and he admits there are many ways to run it depending on the goals.
 
 ## Synonyms
 
-- undulating
+- undulating (the shortened form, used once when he points at the graph)
 
 ## Live Example
 
-> "And I just kind of threw this up here because there's a lot of ways to do undulating periodization based upon the goals. I think it gets a little bit more nuanced." — sources/S_ig_coachjoedrake_CrQKN74gihh.md
 > "So that undulating periodization, I think it's a little bit more challenging for new coaches to do well without making random workouts because that's the thing we don't want." — sources/S_ig_coachjoedrake_CrQKN74gihh.md
 
 ## When the Meaning Breaks
 
-- Read as random variety for fun: the clip's explicit warning is the opposite — variation without a thought process becomes random workouts, and the scheme is defined by planned, goal-based variation in volume and intensity.
-- Read as replacing linear periodization: the source presents linear first as the "huge foundation" he trained on for years; undulating is the more nuanced, harder-to-do-well option, not a refutation of linear.
+- Read as random variation: Joe insists the variation follows a thought process about why variables change, and random workouts are the exact failure he warns against.
+- Read as a replacement for linear periodization: the source keeps linear work as the foundation and presents undulating work as the more nuanced option built on top of it.

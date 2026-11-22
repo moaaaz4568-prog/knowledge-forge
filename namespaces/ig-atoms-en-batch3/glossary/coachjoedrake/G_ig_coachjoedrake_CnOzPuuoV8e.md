@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [worth]
+aka: ["know your worth"]
 origin: sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
 ---
 
-# G_ig_coachjoedrake_CnOzPuuoV8e — worth
+# G_know_your_worth — know your worth
 
 ## Term
 
-Worth is what this business-talk clip tells trainers to price on: the value of their time once travel is counted, not the hourly number alone. It occurs 3 times, concentrated in the closing lines — "my time is worth this", "shortchange you out of what you're worth", "Know your worth, know your value" — where it sits beside value, business owner, and resentment. The speaker's worked example is a trainer paid $180 "for the hour" in Miami who actually spent three hours door-to-door, which he counts as the case for knowing your worth before setting rates.
+Know your worth is Joe's shorthand for pricing your time by the whole job, travel included, rather than by the hour on the clock. It appears once, at the end of a story about a trainer who charges 180 bucks for an hour in Miami but spends three hours of his day driving there and back. Its neighbours are know your value, resentment, and shortchange, and the resentment comes from taking a little less while the client flies to Key West. The rule he draws from it is concrete: name what your time is worth, say why you are the best at it, and then back it up.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Worth is what this business-talk clip tells trainers to price on: the value of t
 
 ## Live Example
 
-> "Now there's gonna be people where you're gonna be like, hey, I really wanna work with you. Cool, my time is worth this. Are there people that you can take breaks for if you want to? You're your own business owner. You can do whatever you want." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
-> "People will try to shortchange you out of what you're worth. Know your worth, know your value, know why you're doing what you're doing and why you think you're the best at it and then back it up." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
+> "Know your worth, know your value, know why you're doing what you're doing and why you think you're the best at it and then back it up." — sources/S_ig_coachjoedrake_CnOzPuuoV8e.md
 
 ## When the Meaning Breaks
 
-- Read as self-esteem advice: here worth is an arithmetic of time and travel — a Miami client that eats three hours for one billed hour is the whole argument — not a general affirmation about personal value.
-- Read as a fixed price list: the speaker explicitly leaves discounts to the trainer's judgment ("You're your own business owner. You can do whatever you want"), so the clip is not prescribing one rate structure.
+- Read as a slogan about confidence alone: the source ties worth to counted hours, so a trainer who ignores the drive time is still undercharging no matter how confident he sounds.
+- Read as permission to charge anything: Joe's worth is backed by the work and the results, and the source pairs the phrase with backing it up rather than with naming a price.

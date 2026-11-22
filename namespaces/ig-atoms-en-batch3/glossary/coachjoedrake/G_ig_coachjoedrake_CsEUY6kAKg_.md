@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [adductor strength]
+aka: ["lateral plank progression"]
 origin: sources/S_ig_coachjoedrake_CsEUY6kAKg_.md
 ---
 
-# G_ig_coachjoedrake_CsEUY6kAKg_ — adductor strength
+# G_lateral_plank_progression — lateral plank progression
 
 ## Term
 
-Adductor strength is the single training idea this 11-word caption exists to promote: "Start building adductor strength with this lateral plank progression." The phrase occurs once, and its whole context is the pairing of the target (the adductors — adductor naming the inner-thigh muscles) with the tool (a lateral plank progression, shown in the video itself). No repetition, no elaboration: the caption's instruction is the starting verb (building) and the implied program is the progression on screen — a one-sentence pointer whose how-to lives in the video rather than the text.
+A lateral plank progression is the drill this source prescribes for building adductor strength, and the whole source is that one instruction. The phrase appears once, beside adductor strength, and no further detail follows: no sets, no reps, no position beyond the name itself. The name carries the content, naming the side-plank pattern and the adductor target in a single line. The entry records the phrase as the source's only coaching content, and the brevity is the source's own, not an omission in this entry.
 
 ## Synonyms
 
@@ -21,5 +21,5 @@ Adductor strength is the single training idea this 11-word caption exists to pro
 
 ## When the Meaning Breaks
 
-- Read as an adductor protocol with sets and reps: the caption is one sentence naming a goal and a drill, and every programming detail lives in the video's lateral plank progression rather than the text.
-- Read as generic front-plank core advice: the plank here is lateral and chosen for the inner-thigh muscles specifically, so treating the caption as standard plank work would misread the drill it points to.
+- Read as a full program: the source gives a single drill name with a single target, and it states no sets, reps, or progression steps.
+- Read as a claim that lateral planks are only for the adductors: the source prescribes the drill for adductor strength, and it says nothing about what else the plank trains.

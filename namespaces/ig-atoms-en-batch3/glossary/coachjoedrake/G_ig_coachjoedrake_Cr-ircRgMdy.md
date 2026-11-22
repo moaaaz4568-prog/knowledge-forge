@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [coachjoedrake]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 ---
 
-# G_ig_coachjoedrake_Cr-ircRgMdy — coachjoedrake
+# G_ig_coachjoedrake_Cr-ircRgMdy — refrain
 
 ## Term
 
-This reel's caption is a looped boast chant: "I'm all the way up" and "Nothing can stop me, I'm all the way up" repeat through most of the transcript, wrapped around one short verse ("Shawty what you want, shawty what you need", "Counting up this money, we ain't never sleep", "You got V12, I got 12 V's"). The hook is sung celebration, not a concept: it names no idea, method, or distinction, and the verse's bottles, weed, and hash form a brag list rather than domain vocabulary. The source accordingly has no conceptual term, and no term claim is made here. The transcript's two atoms split exactly along the song's own seam — the celebration loop and the brag verse.
+This source has no conceptual term: it is a sung lyric, and `refrain` here names only the kind of hook the song repeats, not a term. The phrase appears eleven times, beside nothing can stop me, shawty what you want, and counting up this money, and the verses move through V12s, bottles, weed, and hash. The repetition is the song's hook, and nothing in the source turns the climb into a concept about training or progress. The entry keeps the refrain as the song's hook and draws no coaching lesson from it.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ This reel's caption is a looped boast chant: "I'm all the way up" and "Nothing c
 
 ## Live Example
 
-> "Nothing can stop me, I'm all the way up. All the way up. I'm all the way up. I'm all the way up. Nothing can stop me, I'm all the way up." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
-> "Shawty what you want, shawty what you need. My niggas run game, we ain't never leave. Counting up this money, we ain't never sleep. You got V12, I got 12 V's. Got bottles, got weed, got hash." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
+> "Nothing can stop me, I'm all the way up." — sources/S_ig_coachjoedrake_Cr-ircRgMdy.md
 
 ## When the Meaning Breaks
 
-- Read as the trainer's own boast about his position or income: the caption is transcribed song lyric on the reel, not the account owner speaking about himself.
-- Read as a progression or motivation concept: the up-phrase is a sung hook looped for momentum, and nothing in the clip teaches advancement or defines the expression.
+- Read as Joe's statement about his own rise: the line is sung over a beat, and the source gives it no connection to Joe's coaching or career.
+- Read as a claim that nothing can stop progress: nothing can stop me is the lyric's boast, and the source presents it as a song line rather than a rule about training.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [plank, planking]
+aka: ["plank"]
 origin: sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
 ---
 
-# G_ig_coachjoedrake_CsIyUR4AOx- — plank
+# G_plank — plank
 
 ## Term
 
-Plank is the exercise this clip argues against over-practicing: an isometric hold whose value expires fast. The noun occurs 3 times with planking twice more — "do more than 30 to 60 seconds in a plank, you're just wasting your time", "a 90 second to three minute plank", "exercises that require the plank while you're doing it" — and the companions are seconds, competition, and push-up. His case: the plank is a "historical exercise people feel like they just need to do for no good reason", and a push-up already is planking "the entire time", so — short of "some sort of planking competition" — the better use of time is exercises that build the plank position while doing something else. His wider principle: "the rules have all been made up."
+A plank is the hold Joe says stops paying once a client can hold it for more than 30 to 60 seconds, and he calls longer holds a waste of time. The word appears five times, twice inside the -ing form planking, beside 30 to 60 seconds, 90 second to three minute plank, and planking competition. His replacement is to build the plank into other work, since a push-up already holds a plank for most of the movement, and the only exception he allows is training for a planking competition. The wider point is his own: the rules of exercise have all been made up, so no single hold deserves a permanent place.
 
 ## Synonyms
 
-- planking
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "Once you've accomplished the ability to do more than 30 to 60 seconds in a plank, you're just wasting your time." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
-> "Simple example would be the fact that while you're doing a push-up, for the most part, you're planking the entire time. So instead of only working on building up to a 90 second to three minute plank, unless you're training for some sort of planking competition, start to challenge yourself to do exercises that require the plank while you're doing it." — sources/S_ig_coachjoedrake_CsIyUR4AOx-.md
 
 ## When the Meaning Breaks
 
-- Read as planks being useless: the clip's line is time-efficiency beyond 30 to 60 seconds (with a planking-competition carve-out), and it reuses the plank inside harder exercises — not a ban.
-- Read as a precise threshold: 30 to 60 seconds is his conversational cutoff for diminishing returns, not a tested physiological boundary; the argument stands on the push-up example and made-up-rules reasoning.
+- Read as a ban on planks: Joe says the hold itself is useful up to 30 to 60 seconds, and his objection is to longer holds, not to planking at all.
+- Read as a claim that push-ups replace all core work: the push-up is his example of an exercise that already requires a plank, not a proof that no other core work is needed.

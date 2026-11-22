@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [constant improvement]
+aka: ["constant improvement"]
 origin: sources/S_ig_coachjoedrake_Co0VTbQpu28.md
 ---
 
-# G_ig_coachjoedrake_Co0VTbQpu28 — constant improvement
+# G_constant_improvement — constant improvement
 
 ## Term
 
-Constant improvement is the two-word philosophy this 26-word clip is built on: "Every day is just constant improvement, constant curiosity, constantly getting better." The phrase occurs once, echoed by its cousins constant curiosity and constantly, and its direct companions are improvement, curiosity, and getting better. The speaker then pivots on it — because improvement is the daily constant, "The results don't really matter. It's the figuring out that matters": process over outcome. Within this source the phrase names an identity to operate from each day, not a program or metric.
+Constant improvement is Joe's description of a day spent getting better by curiosity rather than by chasing results. The phrase is used once, beside constant curiosity and constantly getting better, in a 22-word source that makes the priority plain. He says the results do not really matter and that figuring things out is what matters, so improvement here is a daily habit of learning, not a scoreboard. The whole source is a single short statement, and its only example of the habit is the day itself, repeated every day.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Constant improvement is the two-word philosophy this 26-word clip is built on: "
 
 ## Live Example
 
-> "Every day is just constant improvement, constant curiosity, constantly getting better. The results don't really matter. It's the figuring out that matters." — sources/S_ig_coachjoedrake_Co0VTbQpu28.md
+> "Every day is just constant improvement, constant curiosity, constantly getting better." — sources/S_ig_coachjoedrake_Co0VTbQpu28.md
 
 ## When the Meaning Breaks
 
-- Read as a results-dismissal: the speaker discounts results only because they are byproducts — the source still aims at getting better; it does not claim outcomes never matter in training or business.
-- Read as a measurable framework: constant curiosity and constant improvement are stated as a daily stance in one breath of a very short clip; no method, cadence, or measure for them appears here.
+- Read as a training program with sets and targets: the source names no exercise, number, or schedule, and improvement here means daily curiosity, not a measurable workout goal.
+- Read as indifference to results: Joe says results do not really matter beside the figuring out, which ranks learning first rather than saying results never count.

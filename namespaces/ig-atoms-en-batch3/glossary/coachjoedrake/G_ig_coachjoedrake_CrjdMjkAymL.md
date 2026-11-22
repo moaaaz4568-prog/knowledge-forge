@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [athletic stance]
+aka: ["athletic stance"]
 origin: sources/S_ig_coachjoedrake_CrjdMjkAymL.md
 ---
 
-# G_ig_coachjoedrake_CrjdMjkAymL — athletic stance
+# G_athletic_stance — athletic stance
 
 ## Term
 
-Athletic stance is the spotter's setup this how-to clip teaches for dumbbell chest press: feet planted and body braced before hands ever touch the lifter. The phrase occurs twice — "I assume an athletic stance, not just to show my quads off, but to make sure that I'm in a good position" and the closing instruction "make sure you guys are assuming a good athletic stance and use the wrists" — with assume, position, and wrists as companions. The demonstration: hands go "directly to the wrists" (not the elbows, though some prefer that feel) so the spotter controls where the dumbbell goes if the rep fails — "Last thing we wanna do is have it fall on the face." The stance is part of the safety system, not aesthetics.
+An athletic stance is the ready position Joe takes before spotting a dumbbell chest press, and he takes it to control where the dumbbell goes if the lifter fails. The phrase is used twice, beside wrists, 60 pound dumbbells, and fall on the face, while he spots Sammy pressing 60s. The key detail is his hands going directly to the wrists rather than the elbows, which some lifters dislike, because stabilising the wrists keeps the dumbbell from falling on the lifter's face. He jokes that the stance is not just to show his quads off, and the lesson he draws is to assume the position first and use the wrists.
 
 ## Synonyms
 
@@ -18,9 +18,8 @@ Athletic stance is the spotter's setup this how-to clip teaches for dumbbell che
 ## Live Example
 
 > "But you can see from the very start of this that I assume an athletic stance, not just to show my quads off, but to make sure that I'm in a good position." — sources/S_ig_coachjoedrake_CrjdMjkAymL.md
-> "Last thing we wanna do is have it fall on the face. So make sure you guys are assuming a good athletic stance and use the wrists." — sources/S_ig_coachjoedrake_CrjdMjkAymL.md
 
 ## When the Meaning Breaks
 
-- Read as a lifting cue for the person pressing: the athletic stance belongs to the spotter preparing to control the dumbbells, not to the lifter's setup for the press.
-- Read as the only acceptable hand position: the clip acknowledges some prefer spotting the elbows, and argues wrists specifically for controlling the dumbbell's path on a missed rep — a judgment call defended, not a rule imposed.
+- Read as a stance for showing off: Joe names the quad joke himself and says the stance exists to keep him in a good position for spotting.
+- Read as a rule to spot at the elbows: the source says he spots at the wrists precisely because elbow spotting does not control where the dumbbell goes on a failed rep.

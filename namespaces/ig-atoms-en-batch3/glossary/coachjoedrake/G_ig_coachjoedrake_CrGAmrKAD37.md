@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [verbal cue]
+aka: ["verbal cue"]
 origin: sources/S_ig_coachjoedrake_CrGAmrKAD37.md
 ---
 
-# G_ig_coachjoedrake_CrGAmrKAD37 — verbal cue
+# G_verbal_cue — verbal cue
 
 ## Term
 
-Verbal cue is the counterweight this assessment clip gives to over-diagnosis: sometimes one instruction fixes what looks like a dysfunction. The phrase occurs once — "sometimes if I can fix it with just one verbal cue, I'm not going to necessarily call that, let's say, a movement issue or an abnormality, an overactive, underactive" — with fix, assessment, and accurate information around it. The context is a first-meeting squat assessment where the client "just might not have squatted before"; the speaker coaches a little, problem-solves in the moment, and only then reads what the assessment shows. A fixable-by-one-verbal-cue pattern is inexperience, not pathology.
+A verbal cue is a single spoken instruction that can fix how a client squats during an assessment, and Joe uses it to separate unfamiliarity from a real movement problem. The phrase appears once, beside assessment, squatted before, and movement issue, in advice about coaching a first meeting rather than filming a side video. If one cue fixes the movement, he says, it is not necessarily an overactive or underactive muscle or an abnormality — the client may simply never have squatted before. The point is to give the person the chance to be coached, because an assessment without coaching can report bad information.
 
 ## Synonyms
 
@@ -21,5 +21,5 @@ Verbal cue is the counterweight this assessment clip gives to over-diagnosis: so
 
 ## When the Meaning Breaks
 
-- Read as cueing instead of assessing: the clip's model is both — coach first, then interpret; the cue is what makes the assessment give accurate information rather than replacing assessment.
-- Read as a diagnostic rule that one-cue fixes are always benign: the claim is scoped to clients who may simply never have squatted before; genuine movement issues and overactive/underactive patterns remain live possibilities once coaching has been tried.
+- Read as a diagnosis tool: the cue is used to rule a movement issue out when it works, not to label one, and the source warns against calling unfamiliarity an abnormality.
+- Read as a reason to skip the assessment: Joe still wants to see how people move, and the cue is part of the assessment rather than a replacement for it.

@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [motto]
+aka: [chant]
 origin: sources/S_ig_coachjoedrake_CpLfeKhAZFg.md
 ---
 
-# G_ig_coachjoedrake_CpLfeKhAZFg — motto
+# G_ig_coachjoedrake_CpLfeKhAZFg — chant
 
 ## Term
 
-Motto appears once in this captioned lyric clip: "Never stand still, that's the motto." Around it, the transcribed bars build the creed the word points to — "Straight to the top, never going down. Don't wait for the drop" — with brand new Vans, full throttle, and big energy for the night as its imagery. As used here a motto is the line of the song that states its rule to live by, and standing still is the one thing it forbids.
+This source has no conceptual term: it is a sung lyric, and `chant` here labels only the kind of material in the source, not a term the source defines or uses. The phrase appears once, beside straight to the top, never going down, don't wait for the drop, and that's the motto. The rest of the verse moves through brand new Vans, foot to the ground, full throttle, and a Seinfeld plot, with no coaching content anywhere in it. The entry keeps the line as a lyric and claims no training idea for it.
 
 ## Synonyms
 
@@ -17,9 +17,9 @@ Motto appears once in this captioned lyric clip: "Never stand still, that's the 
 
 ## Live Example
 
-> "Straight to the top, never going down. Don't wait for the drop. Never stand still, that's the motto. Yeah, brand new Vans for the auto." — sources/S_ig_coachjoedrake_CpLfeKhAZFg.md
+> "Straight to the top, never going down. Don't wait for the drop." — sources/S_ig_coachjoedrake_CpLfeKhAZFg.md
 
 ## When the Meaning Breaks
 
-- Read as the account's own motto: this is transcribed song lyric on the coachjoedrake reel, not the trainer stating a personal rule of his coaching practice.
-- Read as movement advice: "never stand still" is lyric symbolism for momentum and ambition; the clip is not giving posture or locomotion guidance.
+- Read as Joe's motto for training: the line calls itself the motto inside a song lyric, and the source gives no training meaning for it.
+- Read as advice to keep moving without rest: the lyric pairs never standing still with full throttle and big energy for the night, which is a song's boast rather than a rule about training or recovery.

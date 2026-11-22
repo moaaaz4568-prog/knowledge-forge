@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [marathon]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 ---
 
-# G_ig_coachjoedrake_Co6-R9dgxft — marathon
+# G_ig_coachjoedrake_Co6-R9dgxft — refrain
 
 ## Term
 
-Marathon is the one real distinction this captioned lyric draws: the closing line "Life ain't a track meet, it's a marathon." contrasts a sprint event with a long endurance race to claim that life rewards pacing rather than bursts. The word occurs once, in that final line, and the words around it are track meet, life, and athlete — the verse rhymes back streets, athlete, and marathon into one image. Everything before that line is the sung hook ("You can do it, put your back into it", transcribed twice more with the word back dropped), so the caption's only conceptual content is this closing metaphor about going the distance.
+This source has no conceptual term: it is a sung lyric, and `refrain` here is only a label for the repeated line it is built around, not a name for any coaching idea. The phrase appears twice, beside tick tick boom, back streets, and treated like an athlete, and the rest of the lyric moves through a track meet, a marathon, and banging down back streets. The words sound like effort, but in the song they are a chant to a beat rather than an instruction about how to train. The entry keeps the refrain as a sung line and gives it no coaching meaning.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ Marathon is the one real distinction this captioned lyric draws: the closing lin
 
 ## Live Example
 
-> "Tick tick boom, hear me banging down these back streets. Loving Backstreet, treated like an athlete. Life ain't a track meet, it's a marathon." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 > "Life ain't a track meet, it's a marathon." — sources/S_ig_coachjoedrake_Co6-R9dgxft.md
 
 ## When the Meaning Breaks
 
-- Read as race-training advice: the marathon line is a song lyric's closing image about pacing life, not the trainer prescribing endurance running or training plans.
-- Read as the chant being the concept: the put-your-back-into-it hook is sung encouragement repeated for momentum, and the track-meet-versus-marathon contrast is the only propositional line in the caption.
+- Read as Joe's cue for lifting with the back: the line is sung over a beat, and the source gives no exercise, load, or body position for it.
+- Read as a claim that life is a race: the lyric itself answers that with a marathon, and neither image is presented as training advice.

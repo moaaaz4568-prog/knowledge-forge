@@ -1,15 +1,15 @@
 ---
 type: glossary
 topic: coachjoedrake
-aka: [undertow]
+aka: [refrain]
 origin: sources/S_ig_coachjoedrake_Cn1VIBsgicZ.md
 ---
 
-# G_ig_coachjoedrake_Cn1VIBsgicZ — undertow
+# G_ig_coachjoedrake_Cn1VIBsgicZ — refrain
 
 ## Term
 
-This 60-word clip is a caption of song lyrics, and undertow is its central image: being dragged along by a current the speaker never chose. It appears 4 times, always in the fixed phrase "Caught in the undertow" (twice followed by "just caught in the undertow"), and its closest companions in the text are caught, step, and mistake — as in "Every step that I take is another mistake to you." Within the song the undertow names the pressure of living up to someone else's expectations ("walking in your shoes"), not a literal sea current.
+This source has no conceptual term: it is a sung lyric, and the label `refrain` here says only what kind of passage this is — a repeated sung line — not the name of any idea in it. The phrase appears four times, twice in each of its two identical lines, beside faithless, lost under the surface, and the pressure of walking in your shoes. It pictures being dragged along by someone else's expectations, with every step counted as another mistake to you. The entry records the refrain exactly as sung and does not turn it into a coaching concept.
 
 ## Synonyms
 
@@ -17,10 +17,9 @@ This 60-word clip is a caption of song lyrics, and undertow is its central image
 
 ## Live Example
 
-> "Don't know what you're expecting of me. Put under the pressure of walking in your shoes. Caught in the undertow, just caught in the undertow. Every step that I take is another mistake to you." — sources/S_ig_coachjoedrake_Cn1VIBsgicZ.md
-> "Every step that I take is another mistake to you. Caught in the undertow, just caught in the undertow" — sources/S_ig_coachjoedrake_Cn1VIBsgicZ.md
+> "Tired of being what you want me to be, feeling so faithless, lost under the surface." — sources/S_ig_coachjoedrake_Cn1VIBsgicZ.md
 
 ## When the Meaning Breaks
 
-- Read as oceanography: the source is song lyric imagery about being swept along by another person's expectations, and the metaphor does not document an actual swimming or water-safety concept.
-- Read as this trainer's own coaching language: this is a captioned lyric transcription on the coachjoedrake reel, not advice or vocabulary from his coaching content — the account posts music captions alongside training material.
+- Read as a coaching cue about pressure: the line is a lyric about feeling dragged under by another person's expectations, not an instruction for handling pressure in training.
+- Read as a claim that the singer is literally drowning: undertow here is the song's image for being pulled along, and the source gives no training meaning for it beyond that image.
