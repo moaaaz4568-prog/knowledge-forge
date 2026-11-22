@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [keywords, airesearcherguy account context]
+aka: [honeymoon period]
 origin: sources/S_ig_airesearcherguy_CPWP6fqHUFP.md
 ---
 
-# G_ig_airesearcherguy_CPWP6fqHUFP — keywords
+# G_ig_airesearcherguy_CPWP6fqHUFP — honeymoon period
 
 ## Term
 
-"keywords" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: amazon, gives, keywords, relevance. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The honeymoon period is the window the speaker wants back: when a listing first indexes for keywords, Amazon gives those keywords relevance, the benefit of the doubt. The phrase appears once, beside relevance, re-index, and rank, while relevance itself appears three times as the mechanism. His reset is to delete all the listing text, leave a single letter, wait about an hour until everything de-indexes, then re-upload the text so the keywords re-index and the relevance restarts. The payoff is temporary: for a little while the high-relevance keywords are a lot easier to rank for, and sales history still matters beyond that window.
 
 ## Synonyms
 
-- keywords
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The reason is because whenever a listing first indexes for keywords, Amazon gives those keywords relevance, the benefit of the doubt." — sources/S_ig_airesearcherguy_CPWP6fqHUFP.md
-> "Wait for about an hour, double check to make sure you've de-indexed for everything, then re-upload all of that text. And then when all the keywords re-index, this should restart the relevance, and at least for a little while, it'll be a lot easier to rank for your keywords." — sources/S_ig_airesearcherguy_CPWP6fqHUFP.md
+> "So the actual honeymoon period is likely a little bit more involved because it'll include things like sales history, but you can get the next best thing by performing the reset you're talking about." — sources/S_ig_airesearcherguy_CPWP6fqHUFP.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "keywords": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a permanent fix: the speaker says the easier ranking lasts only a little while, and the real honeymoon period also includes sales history his reset cannot fake.
+- Read as a trick that works without the wait: the hour and the de-index check are the whole mechanism, and re-uploading before the keywords de-index restarts nothing.

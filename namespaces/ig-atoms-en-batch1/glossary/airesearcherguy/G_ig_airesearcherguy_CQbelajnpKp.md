@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [reputational damage, airesearcherguy account context]
+aka: [reputational damage]
 origin: sources/S_ig_airesearcherguy_CQbelajnpKp.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_airesearcherguy_CQbelajnpKp.md
 
 ## Term
 
-"reputational damage" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: suffer, damage, reputational, much. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Reputational damage is the speaker's explanation for why people pay a premium for name brands: a brand that can suffer it will provide quality to avoid it. The phrase appears three times, beside name brand, premium, and uncertainty, in a story from the book Alchemy about a television from an unknown brand. The unknown brand's name means nothing, so offloading 20,000 crappy televisions on unsuspecting customers makes sense for them, while Samsung would suffer too much damage to do it. His concrete advice is the signal itself: to get people to choose your brand, show that you care about reputational damage and will provide quality to avoid it.
 
 ## Synonyms
 
-- reputational damage
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Samsung, however, would suffer too much reputational damage and therefore couldn't do that. So if you want people to choose your brand, then you have to signal that you care about reputational damage and you'll provide quality to avoid it." — sources/S_ig_airesearcherguy_CQbelajnpKp.md
+> "Samsung, however, would suffer too much reputational damage and therefore couldn't do that." — sources/S_ig_airesearcherguy_CQbelajnpKp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "reputational damage": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that name brands are always the best product: he says consciously we like to think that, but realistically we cannot test every product, and the premium buys the avoidance of uncertainty.
+- Read as a claim that unknown brands always cheat: the television story is a hypothetical from Alchemy about why offloading could make sense, not a report that it happened.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [product, products]
+aka: [360 degree value]
 origin: sources/S_ig_airesearcherguy_CT-jst0Dg4E.md
 ---
 
-# G_ig_airesearcherguy_CT-jst0Dg4E — product
+# G_ig_airesearcherguy_CT-jst0Dg4E — 360 degree value
 
 ## Term
 
-"product" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 8 times in the text (whole-word matches, case folded), and the words most often collocated with it are: baby, physical, selling, customer. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+360 degree value is the speaker's name for his offer: value at every angle, learned from the book 100 Million Offers by Alex Hormozi. The phrase appears once, beside digital component, print component, and the app or bot upsell. For a physical product the angles are a digital component like an ebook, a print component like a paperback book, apparel or print on demand tribe stuff like funny mom mugs, and an app or bot as the upsell. The concrete mechanism is the box itself: a card with a QR code for the digital download, the paperback inside, and a catalog with a discount coupon for the tribe shirts and mugs.
 
 ## Synonyms
 
-- product
-- products (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "A print component, this would be like a paperback book or a poster. So if I'm selling a baby product, this would be a baby book." — sources/S_ig_airesearcherguy_CT-jst0Dg4E.md
+> "So basically I call this the 360 degree value, offering value at every angle." — sources/S_ig_airesearcherguy_CT-jst0Dg4E.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "product": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the offer is free: the digital download is the free component, but the print component is the offer itself, and the app or bot is an upsell sold flat out or by subscription.
+- Read as a formula that only fits physical products: he says digital products work almost the same way with a slightly different variation, the print component becoming the offer instead.

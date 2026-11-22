@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [seller support, airesearcherguy account context]
+aka: [captive team, captive teams]
 origin: sources/S_ig_airesearcherguy_CR73m6Qn32k.md
 ---
 
-# G_ig_airesearcherguy_CR73m6Qn32k — seller support
+# G_ig_airesearcherguy_CR73m6Qn32k — captive team
 
 ## Term
 
-"seller support" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: prosper, part, support, need. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The captive team is the Seller Support team the speaker says is the most effective one, and the one you cannot ask for because they will not transfer you. The phrase appears twice, once as the singular and once as the plural captive teams, beside Seller Support, the Spanish speaking team, and Costa Rica. His workaround is to ask for the Spanish speaking team, which transfers you to Costa Rica, one of the captive teams. The concrete trick is the indirection itself: name the team you are allowed to reach, and the transfer lands you with the team you actually wanted.
 
 ## Synonyms
 
-- seller support
-- airesearcherguy account context (no variant form of the term appears in this source)
+- captive teams (the plural form he uses when saying Costa Rica is one of them)
 
 ## Live Example
 
-> "Things I learned at Prosper Part 4: Seller Support. If you need to talk to the captive team, which is the most effective team on seller support, you can't ask for them because they won't transfer you. Ask for the Spanish speaking team. You'll then be transferred over to Costa Rica, which is one of the captive teams." — sources/S_ig_airesearcherguy_CR73m6Qn32k.md
+> "If you need to talk to the captive team, which is the most effective team on seller support, you can't ask for them because they won't transfer you." — sources/S_ig_airesearcherguy_CR73m6Qn32k.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "seller support": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an official Amazon policy: the speaker presents it as a thing he learned at Prosper, a workaround from experience, not a published rule.
+- Read as a guarantee of a transfer: he only says asking for the Spanish speaking team gets you transferred to Costa Rica, and nothing promises the same result every time.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [new, airesearcherguy account context]
+aka: [e-commerce opportunities]
 origin: sources/S_ig_airesearcherguy_CT28qPsgH4h.md
 ---
 
-# G_ig_airesearcherguy_CT28qPsgH4h — new
+# G_ig_airesearcherguy_CT28qPsgH4h — e-commerce opportunities
 
 ## Term
 
-"new" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: need, coronavirus, created, e-commerce. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+E-commerce opportunities are what the speaker says the coronavirus has created: an entire new division of cookbooks for people who lost their sense of taste due to the virus. The phrase appears once, beside coronavirus, cookbooks, and sense of taste, in a 35-word source that is one idea plus a punchline. The opportunity he names is narrow and strange: cookbooks catering to people who cannot taste, a need the virus itself created. The source ends on What did he say, a joke about the claim, and it offers no product, no step, and no second example.
 
 ## Synonyms
 
-- new
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The coronavirus has created some new e-commerce opportunities. The need for an entire new division of cookbooks that cater to people who lost their sense of taste due to the virus. What did he say?" — sources/S_ig_airesearcherguy_CT28qPsgH4h.md
+> "The coronavirus has created some new e-commerce opportunities." — sources/S_ig_airesearcherguy_CT28qPsgH4h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "new": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real product launch: the cookbooks are a hypothetical need the virus created, and the speaker presents them as an example of an opportunity, not as something he sells.
+- Read as a claim that the virus was good for business: the opportunity is one odd niche, and the What did he say ending marks the whole thing as a joke, not a strategy.

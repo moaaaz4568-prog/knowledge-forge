@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Where, airesearcherguy account context]
+aka: [chant]
 origin: sources/S_ig_airesearcherguy_CRPQ_tGnG0v.md
 ---
 
-# G_ig_airesearcherguy_CRPQ_tGnG0v — Where
+# G_ig_airesearcherguy_CRPQ_tGnG0v — chant
 
 ## Term
 
-"Where" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: come, where, long, time. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a song lyric repeated twice as a refrain, and chant is only this entry's type label, not a word the speaker defines. The repeated name is Cotton Eye Joe, which appears twice, beside where did you come from, where did you go, and a marriage long ago, in lines that state no business idea. The lyric is sung as a loop — the same verse twice, with the question about where he came from and where he went asked both times — and nothing in it names a product or a tactic. No content word can be lifted out as a term, because the source uses its words as a song, not as concepts.
 
 ## Synonyms
 
-- Where
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "When I was a man from Scott and I Joe, I've been married a long time ago. Where did you come from? Where did you go? Where did you come from, Cotton Eye Joe? When I was a man from Scott and I Joe, I've been married a long time ago. Where did you come from? Where did you go? Where did you come from, Cotton Eye Joe?" — sources/S_ig_airesearcherguy_CRPQ_tGnG0v.md
+> "Where did you come from? Where did you go? Where did you come from, Cotton Eye Joe?" — sources/S_ig_airesearcherguy_CRPQ_tGnG0v.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Where": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a story with a meaning to decode: the lines are a repeated song verse, and the source gives no explanation of who Joe is or what happened.
+- Read Cotton Eye Joe as a person in the speaker's story: the name belongs to the song's lyric, and the speaker introduces no such person himself.

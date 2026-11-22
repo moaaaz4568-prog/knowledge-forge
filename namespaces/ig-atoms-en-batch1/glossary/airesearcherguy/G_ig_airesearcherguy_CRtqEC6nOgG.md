@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [product, airesearcherguy account context]
+aka: [listing translations]
 origin: sources/S_ig_airesearcherguy_CRtqEC6nOgG.md
 ---
 
-# G_ig_airesearcherguy_CRtqEC6nOgG — product
+# G_ig_airesearcherguy_CRtqEC6nOgG — listing translations
 
 ## Term
 
-"product" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sell, well, research, where. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Listing translations are the Prosper lesson the speaker gives for selling abroad: consider culture, not just language. The phrase appears once, beside culture, language, and marketplaces that take different cultural approaches to certain niches. His warning is that some marketplaces speak the same language and still approach a niche differently, so a straight translation misses the point. His concrete advice is research: before selling a product that does well on a marketplace, find out where that product was introduced to that country or marketplace.
 
 ## Synonyms
 
-- product
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So if you sell a product and it's a product that does well on that marketplace, make sure you do your research on where that product was introduced to that country or marketplace." — sources/S_ig_airesearcherguy_CRtqEC6nOgG.md
+> "Things I learned at Prosper Part 3: Listing translations." — sources/S_ig_airesearcherguy_CRtqEC6nOgG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "product": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that translation is unnecessary: he says to consider culture not just language, which assumes the translation happens and adds the cultural check on top.
+- Read as a rule for every marketplace: his case is marketplaces that share a language but differ in culture, and the research is about where the product was introduced, not a universal ban on translating.

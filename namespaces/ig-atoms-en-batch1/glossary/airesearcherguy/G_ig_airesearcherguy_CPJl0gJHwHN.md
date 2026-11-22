@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [mohmoh, airesearcherguy account context]
+aka: [chant]
 origin: sources/S_ig_airesearcherguy_CPJl0gJHwHN.md
 ---
 
-# G_ig_airesearcherguy_CPJl0gJHwHN — mohmoh
+# G_ig_airesearcherguy_CPJl0gJHwHN — chant
 
 ## Term
 
-"mohmoh" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: found, mohmoh, peewee, peedeedeedeedeedeedeedee. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a short sung refrain of nonsense syllables, and chant is only this entry's type label, not a word the speaker defines. The whole 13-word source is the refrain itself, built on the repeated fragment mohmoh, which appears three times, beside Peewee and a long stretched-out syllable. Nothing in it names a product, a tactic, or an idea, so no content word can be lifted out as a term. The refrain is sung, not spoken as advice, and its words do not add up to a claim about anything.
 
 ## Synonyms
 
-- mohmoh
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CPJl0gJHwHN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "mohmoh": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a lyric with a hidden meaning: the words are nonsense syllables, and no line in the source explains or defines any of them.
+- Read mohmoh as a real word: it is a repeated sung fragment, not a name for a thing, and the source gives it no referent.

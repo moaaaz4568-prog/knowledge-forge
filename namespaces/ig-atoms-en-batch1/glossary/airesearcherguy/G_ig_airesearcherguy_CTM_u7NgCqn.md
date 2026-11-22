@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [feature, airesearcherguy account context]
+aka: [buy now pay later]
 origin: sources/S_ig_airesearcherguy_CTM_u7NgCqn.md
 ---
 
-# G_ig_airesearcherguy_CTM_u7NgCqn — feature
+# G_ig_airesearcherguy_CTM_u7NgCqn — buy now pay later
 
 ## Term
 
-No content word repeats often enough in this short source (11 words) to form a repeated term, so this entry documents the source's central term "feature" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Buy now pay later is the feature the speaker wonders whether Amazon will ever adopt: a way to buy now and pay later, offered by Amazon itself. The phrase appears once, in the source's only sentence, beside Amazon and adopt, and the sentence is a question, not a claim. Nothing in the source explains the feature, names a provider, or gives a reason Amazon would or would not adopt it. The phrase therefore stands here as a question about Amazon's future, and the source answers nothing about it.
 
 ## Synonyms
 
-- feature
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (11 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "feature": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a prediction that Amazon will adopt it: the source is only a question, and it contains no evidence or argument either way.
+- Read as a review of buy now pay later services: no provider is named, and the feature is only the subject of the question, never described.

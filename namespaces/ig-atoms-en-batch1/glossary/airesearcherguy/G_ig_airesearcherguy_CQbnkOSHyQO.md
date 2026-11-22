@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [compartment, airesearcherguy account context]
+aka: [automatic targeting]
 origin: sources/S_ig_airesearcherguy_CQbnkOSHyQO.md
 ---
 
-# G_ig_airesearcherguy_CQbnkOSHyQO — compartment
+# G_ig_airesearcherguy_CQbnkOSHyQO — automatic targeting
 
 ## Term
 
-"compartment" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: container, doll, one, hum4. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Automatic targeting is the first step of the genius strategy the speaker shares from his buddy Antonio: run automatic targeting campaigns in Amazon sponsored product ads for about a month or two. The phrase appears once, beside keyword report, sponsored product ads, and listings. The proof of the idea is the Hum4 listing: the same 48 compartment storage container listed three times, for Bakugan dolls, Hot Wheels, and LOL dolls, each targeting a different use. His concrete sequence is to let the ads run, run a keyword report, find the keywords that made sales, and create new listings targeting the uses those keywords point to.
 
 ## Synonyms
 
-- compartment
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So here's the strategy. First, run automatic targeting campaigns in your Amazon sponsored product ads. Then after you let those ads run for about a month or two, run a keyword report, look at the keywords that made sales, and then create new listings targeting uses that use those keywords. Absolutely genius." — sources/S_ig_airesearcherguy_CQbnkOSHyQO.md
+> "First, run automatic targeting campaigns in your Amazon sponsored product ads." — sources/S_ig_airesearcherguy_CQbnkOSHyQO.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "compartment": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that one listing can serve every use: the whole point is the opposite, that the same product needs a separate listing for each use the keywords reveal.
+- Read as a shortcut that skips the month of ads: the keyword report only exists because the automatic campaigns ran first, and without them there are no sales keywords to read.

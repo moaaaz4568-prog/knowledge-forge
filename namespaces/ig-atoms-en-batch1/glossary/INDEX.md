@@ -1,6 +1,6 @@
 # Index — glossary/ (ig-atoms-en-batch1)
 
-Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,459 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
+Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch1): one G_ entry per T_ atom file — 3,808 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 4,452 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 592 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
 | File | Term | Live examples |
 |---|---|---|
@@ -1604,56 +1604,56 @@ Instagram English Instagram video transcripts batch 1 glossaries (chat glossarie
 | glossary/airesearcherguy/G_ig_airesearcherguy_COvhYFnnXkp.md | Amazon | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_COvpYhNnrqT.md | TikTok | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CPAAmlaHlag.md | emotion | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPAD1FZHvOY.md | repeat | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPAJCM_HUfb.md | customer | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPJl0gJHwHN.md | mohmoh | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPMp7YgHGou.md | emotions | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPMu8uOHm01.md | optimization | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPWP6fqHUFP.md | keywords | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPWZ80Enm6h.md | sandwich | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPYrmXfHdUY.md | smoke detectors | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPZPS0RnJO2.md | fastest train | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPb-nQ7H7KS.md | survey data | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPbbMa3HgeG.md | shopping | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CPwVgEnHlRO.md | garden | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQ1Q2IeHeoD.md | run ads | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQ6Q5V1Hv_d.md | Shawty | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQ9nCWhn5yL.md | thing | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQCNZpWniJw.md | business | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQEIpzPnl9I.md | one life | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPAD1FZHvOY.md | repetition | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPAJCM_HUfb.md | uncertainty | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPJl0gJHwHN.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPMp7YgHGou.md | availability heuristic | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPMu8uOHm01.md | niche down | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPWP6fqHUFP.md | honeymoon period | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPWZ80Enm6h.md | innovation | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPYrmXfHdUY.md | options | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPZPS0RnJO2.md | psychological moonshot | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPb-nQ7H7KS.md | third-party sellers | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPbbMa3HgeG.md | brick and mortar | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CPwVgEnHlRO.md | exclusive | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQ1Q2IeHeoD.md | self-serve ad platform | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQ6Q5V1Hv_d.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQ9nCWhn5yL.md | swag | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQCNZpWniJw.md | online business | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQEIpzPnl9I.md | chant | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CQW2KkxHSMe.md | subconscious cues | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQZhZ7PnkQ5.md | billion searches | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQZhZ7PnkQ5.md | Bing ads | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CQbelajnpKp.md | reputational damage | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQbnkOSHyQO.md | compartment | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQrs0g6H4pS.md | Alibaba supplier | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CQtygI2HjWG.md | humans | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CR73m6Qn32k.md | seller support | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CR9rpSHHOjN.md | ambassadors | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRE-rtonxpy.md | downside | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRHSvqfn8qi.md | competitors | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRNJCRmH_mT.md | airport | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRPQ_tGnG0v.md | Where | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CReVggEn3G4.md | learned | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRr9cL2HHg1.md | listing | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRsBzS9nDEa.md | Split test | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRtqEC6nOgG.md | product | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CRw01-SnZxU.md | Ford | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CSMxdaCgzTn.md | made | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CScspHnnX77.md | Kabbe | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CShKjTLA-5s.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CSz8ze_H5eM.md | Amazon | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CT-jst0Dg4E.md | product | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CT25NwBA-r6.md | Hustle number | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CT28qPsgH4h.md | new | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTF4PmgniWG.md | chip | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTFW0nKnBT3.md | hair clips | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTM_u7NgCqn.md | feature | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTNMrLhHZ34.md | understand | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTVeeSVnW6G.md | algorithm | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTVzFmkrHzp.md | really | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CTiSmHOHLJQ.md | Google | 2 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CU8OOAWtm75.md | Gary | 1 |
-| glossary/airesearcherguy/G_ig_airesearcherguy_CUGNvc7FCbq.md | really interesting | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQbnkOSHyQO.md | automatic targeting | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQrs0g6H4pS.md | purchase frequency report | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CQtygI2HjWG.md | human perception | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CR73m6Qn32k.md | captive team | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CR9rpSHHOjN.md | brand ambassadors | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRE-rtonxpy.md | neuromarketing hack | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRHSvqfn8qi.md | downsides | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRNJCRmH_mT.md | blow dryer | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRPQ_tGnG0v.md | chant | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CReVggEn3G4.md | Prosper show | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRr9cL2HHg1.md | listing optimization | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRsBzS9nDEa.md | split test | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRtqEC6nOgG.md | listing translations | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CRw01-SnZxU.md | corporate greed | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CSMxdaCgzTn.md | lifelong dream | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CScspHnnX77.md | high production value | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CShKjTLA-5s.md | implicit bias | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CSz8ze_H5eM.md | preferential treatment | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CT-jst0Dg4E.md | 360 degree value | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CT25NwBA-r6.md | legitimate hustles | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CT28qPsgH4h.md | e-commerce opportunities | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTF4PmgniWG.md | One Chip Challenge | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTFW0nKnBT3.md | anthropomorphized | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTM_u7NgCqn.md | buy now pay later | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTNMrLhHZ34.md | ranking algorithm | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTVeeSVnW6G.md | inventory forecasting algorithm | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTVzFmkrHzp.md | live chat | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CTiSmHOHLJQ.md | magic link | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CU8OOAWtm75.md | text marketing list | 1 |
+| glossary/airesearcherguy/G_ig_airesearcherguy_CUGNvc7FCbq.md | rabbit holes | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CUJGlf5FRf1.md | order | 2 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CUK5JfOgN4K.md | business | 1 |
 | glossary/airesearcherguy/G_ig_airesearcherguy_CUOKuufMX9l.md | one | 2 |

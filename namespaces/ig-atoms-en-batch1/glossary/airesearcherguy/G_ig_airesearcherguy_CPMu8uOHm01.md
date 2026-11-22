@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [optimization, airesearcherguy account context]
+aka: [niche down]
 origin: sources/S_ig_airesearcherguy_CPMu8uOHm01.md
 ---
 
-# G_ig_airesearcherguy_CPMu8uOHm01 — optimization
+# G_ig_airesearcherguy_CPMu8uOHm01 — niche down
 
 ## Term
 
-No content word repeats often enough in this short source (37 words) to form a repeated term, so this entry documents the source's central term "optimization" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+To niche down is the speaker's first way to relaunch a product without massive PPC spend or giveaways: narrow the keyword targets and hit a very specific market segment. The phrase appears once, beside keyword targets, market segment, and optimization. The second way he names is new labels, packaging, and logo, but the niching is the targeting move: a tighter segment is easier to reach than a broad one. His concrete case is a relaunch that spends nothing big on ads and instead aims the listing at one narrow slice of buyers.
 
 ## Synonyms
 
-- optimization
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "How do you relaunch a product without massive PPC spend or giveaways? Two ways. First, niche down with your keyword targets and hit a very specific market segment in your optimization. Second, new labels, packaging, and logo." — sources/S_ig_airesearcherguy_CPMu8uOHm01.md
+> "First, niche down with your keyword targets and hit a very specific market segment in your optimization." — sources/S_ig_airesearcherguy_CPMu8uOHm01.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "optimization": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a call to shrink the product's audience forever: the niching is a relaunch tactic for the optimization, not a verdict that the product only fits one segment.
+- Read as a replacement for the new labels and packaging: he lists those as the second way, separate from niching, and the two are meant to run together.

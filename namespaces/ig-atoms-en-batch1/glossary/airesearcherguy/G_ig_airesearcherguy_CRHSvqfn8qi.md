@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [competitors, airesearcherguy account context]
+aka: [downsides]
 origin: sources/S_ig_airesearcherguy_CRHSvqfn8qi.md
 ---
 
-# G_ig_airesearcherguy_CRHSvqfn8qi — competitors
+# G_ig_airesearcherguy_CRHSvqfn8qi — downsides
 
 ## Term
 
-"competitors" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: talk, style, mop, less. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Downsides are what the speaker teaches sellers to present openly: admit what the product does worse, and buyers who care about what it does better will choose it. The word appears once, in the opening line, beside CoQ10, biotin, and the 8% less effective mop. His first example is a Swiffer style mop: admit it is 8% less effective on tile floors because it was designed to be much more effective on hardwood, and people with mostly hardwood floors will choose it. His second is a pet supplement: admit the formulation has less biotin so the coat is less shiny, because it makes more room for CoQ10 to protect dogs' joints, and owners who care more about joints than shine will pick it.
 
 ## Synonyms
 
-- competitors
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
 > "You admit that due to the rigid nature of the structure, your mop is 8% less effective than competitors on tile floors." — sources/S_ig_airesearcherguy_CRHSvqfn8qi.md
-> "But that's because you are making more room for CoQ10 because your formulation is specifically designed to protect dogs' joints. Everybody who's more concerned about their pet's joints than about their shiny coat is gonna pick you over competitors. Hope that helps." — sources/S_ig_airesearcherguy_CRHSvqfn8qi.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "competitors": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a confession that the product is bad: each downside is paired with the design reason behind it, and the admission is what lets the right buyer self-select.
+- Read as a script to use on every buyer: the examples only work for buyers who value the trade-off, hardwood floors or joints over shine, and the wrong buyer will still walk away.

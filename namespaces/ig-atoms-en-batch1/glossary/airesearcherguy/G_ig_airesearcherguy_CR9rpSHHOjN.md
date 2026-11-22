@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [ambassadors, ambassador]
+aka: [brand ambassadors, ambassadors]
 origin: sources/S_ig_airesearcherguy_CR9rpSHHOjN.md
 ---
 
-# G_ig_airesearcherguy_CR9rpSHHOjN — ambassadors
+# G_ig_airesearcherguy_CR9rpSHHOjN — brand ambassadors
 
 ## Term
 
-"ambassadors" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: place, army, brand, best. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Brand ambassadors are the army the speaker wants sellers to build from their buyer list: loyal customers recruited to submit user-generated content and blanket social media with it. The full phrase appears once, and the shorter form ambassadors appears again when he names the buyer list as the recruiting ground, beside post-purchase funnel, chatbot, and UGC. His concrete sequence is a funnel, not a single ask: a solid post-purchase funnel, a chatbot, and then the recruitment of loyal customers as ambassadors. The content they submit is pictures or video of them using the product, which is what the blanketing of social media is made of.
 
 ## Synonyms
 
-- ambassadors
-- ambassador (variant form used in the source)
+- ambassadors (the shorter form he uses when saying where to recruit them)
 
 ## Live Example
 
-> "So have a solid post-purchase funnel, use a chatbot, and recruit loyal customers to be an ambassador for your brand. Get them to submit user-generated content, i. E. Pictures or video of them using your product, and then blanket social media with that UGC." — sources/S_ig_airesearcherguy_CR9rpSHHOjN.md
+> "So have a solid post-purchase funnel, use a chatbot, and recruit loyal customers to be an ambassador for your brand." — sources/S_ig_airesearcherguy_CR9rpSHHOjN.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "ambassadors": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a call to pay influencers: the ambassadors here are loyal customers from the buyer list, recruited through the post-purchase funnel, not hired promoters.
+- Read as a one-time content request: the sequence is a funnel plus a chatbot plus recruitment, built to keep the user-generated content coming, not a single ask.

@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Shawty, airesearcherguy account context]
+aka: [chant]
 origin: sources/S_ig_airesearcherguy_CQ6Q5V1Hv_d.md
 ---
 
-# G_ig_airesearcherguy_CQ6Q5V1Hv_d — Shawty
+# G_ig_airesearcherguy_CQ6Q5V1Hv_d — chant
 
 ## Term
 
-"Shawty" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 5 times in the text (whole-word matches, case folded), and the words most often collocated with it are: gon, paper, tongue, whip. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a song lyric repeated as a refrain, and chant is only this entry's type label, not a word the speaker defines. The repeated word is Shawty, which appears five times, beside paper, razor, and wicked flavor, in lines that name no product, tactic, or idea. The lyric's lines are sung fragments about getting paid and playing games, with no sentence that states a claim. No content word in it can be lifted out as a term, because the source never uses one to mean anything beyond the song.
 
 ## Synonyms
 
-- Shawty
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Shawty gon' get that paper. Shawty tongue whip like razor. Shawty got wicked flavor. Part of my tits and make up. Uh uh, pay her. Dip it in, hit that lay up. Shawty here with them games, yo. Shawty gon' get that paper, pay her. I've been." — sources/S_ig_airesearcherguy_CQ6Q5V1Hv_d.md
+> "Shawty gon' get that paper. Shawty tongue whip like razor." — sources/S_ig_airesearcherguy_CQ6Q5V1Hv_d.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Shawty": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as business advice about getting paid: the lines are song lyrics, and the source never connects getting that paper to any product, sale, or tactic.
+- Read Shawty as a named person in the story: it is the repeated address of the lyric, not a person the speaker introduces or describes.

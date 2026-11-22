@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [sandwich, airesearcherguy account context]
+aka: [innovation]
 origin: sources/S_ig_airesearcherguy_CPWZ80Enm6h.md
 ---
 
-# G_ig_airesearcherguy_CPWZ80Enm6h — sandwich
+# G_ig_airesearcherguy_CPWZ80Enm6h — innovation
 
 ## Term
 
-"sandwich" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: like, sandwiches, modern, stuff. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Innovation is the moral the speaker draws from the Earl of Sandwich: true innovation is often led by oddballs and crazy people. The word appears once, beside compulsive gamblers, the sandwich, and stay weird. His story is that the Earl, an obsessive card player, needed to eat without stopping play, so the sandwich — food between two pieces of bread — was invented to sustain life at the table. The point he takes from it is that an invention built for one odd need can serve everybody, which is why he closes by telling sellers to stay weird.
 
 ## Synonyms
 
-- sandwich
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "The cool part about this invention is that it's not just for compulsive gamblers. It serves everybody. But it was invented by a guy who needed a way to sustain life while not stopping gambling. The moral of this story is true innovation is often led by oddballs and crazy people. So stay weird." — sources/S_ig_airesearcherguy_CPWZ80Enm6h.md
+> "The moral of this story is true innovation is often led by oddballs and crazy people." — sources/S_ig_airesearcherguy_CPWZ80Enm6h.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sandwich": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as praise for gambling: the gambling is only the Earl's motive for a hands-free meal, and the speaker's point is the invention, not the cards.
+- Read as a claim that weirdness alone invents things: the sandwich solved a real constraint, eating without stopping play, and the oddness is the source of the idea, not a substitute for it.

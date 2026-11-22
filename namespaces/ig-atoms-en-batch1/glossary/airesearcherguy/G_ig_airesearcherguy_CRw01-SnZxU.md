@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Ford, airesearcherguy account context]
+aka: [corporate greed]
 origin: sources/S_ig_airesearcherguy_CRw01-SnZxU.md
 ---
 
-# G_ig_airesearcherguy_CRw01-SnZxU — Ford
+# G_ig_airesearcherguy_CRw01-SnZxU — corporate greed
 
 ## Term
 
-"Ford" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sordid, history, pinto, saddest. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Corporate greed is the speaker's frame for the Ford Pinto story: it destroys lives and gets away with it. The phrase appears once, beside Pinto, recall, and the market share Ford wanted to steal from small car manufacturers such as Honda. The Pinto was rushed through production so fast that in rear collisions the fuel tank would get punctured and fire would get into the cabin, and Ford knew and judged the settlements cheaper than a recall. His concrete numbers are the court's: a young man disfigured so terribly that the court awarded $125 million, reduced by the judge to $3.4 million, and a criminal trial for wrongful death that ended not guilty.
 
 ## Synonyms
 
-- Ford
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "In another case, they were tried in criminal court for wrongful death, and the judge found them not guilty. In fact, it took two requests from the National Vehicle Safety Association to get the government to intervene and require a recall, but at the last minute, Ford decided no, we'll voluntarily recall for good PR." — sources/S_ig_airesearcherguy_CRw01-SnZxU.md
+> "Corporate greed destroys lives and gets away with it." — sources/S_ig_airesearcherguy_CRw01-SnZxU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Ford": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that Ford was found guilty of murder: the criminal court found them not guilty, and the speaker's charge is the moral one, that the company knew and chose the cheaper settlements.
+- Read as a story about a bad car alone: the Pinto's defects are the evidence, but the speaker's point is the decision to keep selling it, and the voluntary recall that came only after the safety association asked the government twice to intervene.

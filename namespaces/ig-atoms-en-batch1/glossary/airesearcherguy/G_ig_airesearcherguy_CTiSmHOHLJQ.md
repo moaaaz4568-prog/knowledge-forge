@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Google, airesearcherguy account context]
+aka: [magic link]
 origin: sources/S_ig_airesearcherguy_CTiSmHOHLJQ.md
 ---
 
-# G_ig_airesearcherguy_CTiSmHOHLJQ — Google
+# G_ig_airesearcherguy_CTiSmHOHLJQ — magic link
 
 ## Term
 
-"Google" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 6 times in the text (whole-word matches, case folded), and the words most often collocated with it are: traffic, urls, redirect, amazon. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A magic link is Elite Seller's redirect that reads as Google traffic with a keyword, so it gets all of the ranking juice. The phrase appears twice, beside Google traffic, Google click ID, and the two-step URL it passes through. The history he gives is a ladder of workarounds: first routing promotions to Google with plain URLs, then Casey Goss from Thrasiio using redirect URLs from Google, then the magic link, which still shows an Amazon refer but carries the keyword and the Google click ID. His concrete result is the proof he claims: because of this link, he ranked a product on page one in six days.
 
 ## Synonyms
 
-- Google
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "So some time ago we learned through internal documents that Amazon really cares about Google traffic." — sources/S_ig_airesearcherguy_CTiSmHOHLJQ.md
-> "If you look at the refer, the keyword is in there and the Google click ID is in there, which means this is read as Google traffic with a keyword, so that'll get all of the ranking juice. Because of this link, I was able to rank on page one a product in six days. If you wanna try magic link, check out Elite Seller. Use my coupon AnthonyLee991 for 20% off for life." — sources/S_ig_airesearcherguy_CTiSmHOHLJQ.md
+> "But then Elite Seller came up with the magic link and it is magic." — sources/S_ig_airesearcherguy_CTiSmHOHLJQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Google": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of page one in six days: the six days are his own reported result with this link, not a promise, and the mechanism is the Google-traffic reading, not the link alone.
+- Read as an official Amazon feature: the magic link is Elite Seller's product, sold with a coupon, and the speaker's pitch is to try it through them.

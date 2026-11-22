@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [made, airesearcherguy account context]
+aka: [lifelong dream]
 origin: sources/S_ig_airesearcherguy_CSMxdaCgzTn.md
 ---
 
-# G_ig_airesearcherguy_CSMxdaCgzTn — made
+# G_ig_airesearcherguy_CSMxdaCgzTn — lifelong dream
 
 ## Term
 
-"made" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: amazing, happen, met, best. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A lifelong dream is what the speaker says he fulfilled: moving out of the country with his family, selling everything they owned, and leaving. The phrase appears once, beside Taichung, Taiwan, and the amazing memories the family made traveling all around Asia. The move was scary, and there were times he thought they would never make it, with so many things almost stopping it, but they pressed through and made it happen. His concrete memory is the people: the best people and absolutely amazing friends in Taichung, who will live in his heart forever.
 
 ## Synonyms
 
-- made
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "I also saw some weird things, some really weird things, but we went on vacation with our friends, we traveled all around Asia, all around the world, saw the sights and made seriously long-lasting and amazing memories." — sources/S_ig_airesearcherguy_CSMxdaCgzTn.md
+> "Hi, my name is Anthony and I want to tell you about the time that I fulfilled a lifelong dream." — sources/S_ig_airesearcherguy_CSMxdaCgzTn.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "made": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guide to moving abroad: the source tells what happened and how it felt, and gives no step, cost, or plan anyone could follow.
+- Read as a claim that the move was easy: he says it was scary and almost did not happen, and the gladness at the end is about pressing through, not about ease.

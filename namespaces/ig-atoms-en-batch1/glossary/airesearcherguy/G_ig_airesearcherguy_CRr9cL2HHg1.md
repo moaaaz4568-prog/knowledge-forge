@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [listing, airesearcherguy account context]
+aka: [listing optimization]
 origin: sources/S_ig_airesearcherguy_CRr9cL2HHg1.md
 ---
 
-# G_ig_airesearcherguy_CRr9cL2HHg1 — listing
+# G_ig_airesearcherguy_CRr9cL2HHg1 — listing optimization
 
 ## Term
 
-"listing" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: page, prosper, show, part. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Listing optimization is the Prosper lesson the speaker opens with: optimize from the perspective of the browse page, looking at the listing from the search page, particularly on the mobile app. The phrase appears once, beside browse page, main image, and primary benefit. His checks are whether it is obvious what is being sold, whether the primary benefit is obvious, and whether the main image is clear. His concrete tip is the image shape itself: use a perfectly square or portrait-oriented image, never landscape, because landscape makes the product look very small.
 
 ## Synonyms
 
-- listing
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Is the primary benefit obvious? Is the main image clear? Pro tip, use a perfectly square or portrait-oriented image. Don't use landscape. This will make your product look very small." — sources/S_ig_airesearcherguy_CRr9cL2HHg1.md
+> "Pro tip, use a perfectly square or portrait-oriented image." — sources/S_ig_airesearcherguy_CRr9cL2HHg1.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "listing": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the product is the problem: the whole lesson is to check the listing first, and a weak image or unclear benefit is the more likely cause.
+- Read as a desktop-only rule: he says to look from the search page particularly on the mobile app, where the small image is what the buyer actually sees.

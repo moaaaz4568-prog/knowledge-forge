@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Amazon, airesearcherguy account context]
+aka: [implicit bias]
 origin: sources/S_ig_airesearcherguy_CShKjTLA-5s.md
 ---
 
-# G_ig_airesearcherguy_CShKjTLA-5s — Amazon
+# G_ig_airesearcherguy_CShKjTLA-5s — implicit bias
 
 ## Term
 
-"Amazon" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sellers, fba, amazon, messing. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+An implicit bias is what the speaker says humans have towards exclusivity: when something is in limited supply and desired by others, we want it all the more. The phrase appears once, beside exclusivity, limited supply, and the often out of stock tag Amazon is testing. His reading of the tag is the opposite of a punishment: sellers fear it is a new way to punish them for not staying in stock, but he thinks seeing it will make people want to buy even more. The two reasons he gives are popularity — the tag shows the product is wanted — and urgency, the fear that it will be out of stock again.
 
 ## Synonyms
 
-- Amazon
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CShKjTLA-5s.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Amazon": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that Amazon designed the tag to help sellers: the speaker offers it as his own two cents, a reading of buyer psychology, not a statement of Amazon's intent.
+- Read as advice to go out of stock on purpose: the bias is about how buyers react to the tag, and he never suggests creating the shortage.

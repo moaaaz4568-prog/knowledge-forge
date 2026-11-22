@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [really interesting, airesearcherguy account context]
+aka: [rabbit holes]
 origin: sources/S_ig_airesearcherguy_CUGNvc7FCbq.md
 ---
 
-# G_ig_airesearcherguy_CUGNvc7FCbq — really interesting
+# G_ig_airesearcherguy_CUGNvc7FCbq — rabbit holes
 
 ## Term
 
-"really interesting" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: interesting, created, hundreds, really. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Rabbit holes are where the speaker says TikTok's algorithm takes each account: it niches each account down and goes down rabbit holes of content. The phrase appears once, beside niches, the For You page, and the political category that can get kind of fringe and wild. His source is a Wall Street Journal piece that created hundreds of fake bot accounts to learn how TikTok ranks and categorizes the videos it serves. The finding he reports is the niching itself: hashtags may not be necessary, but they definitely do play a part, and the rabbit holes may explain why some categories turn fringe.
 
 ## Synonyms
 
-- really interesting
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_airesearcherguy_CUGNvc7FCbq.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "really interesting": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the speaker's own research: the bot accounts and the analysis belong to the Wall Street Journal piece he recommends, and he only reports what they discovered.
+- Read as a claim that hashtags do not matter: he says they may not be necessary but definitely play a part, so the finding is partial, not a dismissal.

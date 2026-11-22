@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [airport, airesearcherguy account context]
+aka: [blow dryer]
 origin: sources/S_ig_airesearcherguy_CRNJCRmH_mT.md
 ---
 
-# G_ig_airesearcherguy_CRNJCRmH_mT — airport
+# G_ig_airesearcherguy_CRNJCRmH_mT — blow dryer
 
 ## Term
 
-No content word repeats often enough in this short source (27 words) to form a repeated term, so this entry documents the source's central term "airport" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A blow dryer is the comparison the speaker uses for the Vegas heat: landing at the airport and walking out felt like being inside one. The phrase appears once, in the source's only sentence, beside Vegas, Prosper Show, and the airport. The source is a single-sentence joke about the heat, with no business point and no second idea, so the blow dryer is only the image, not a concept the speaker develops. Its work in the sentence is the feeling itself: the hot air of the dryer standing in for the hot air of Vegas.
 
 ## Synonyms
 
-- airport
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (27 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "airport": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complaint about the Prosper Show: the sentence is only about the heat on landing, and it says nothing about the show itself.
+- Read as a claim that Vegas is literally that hot: the blow dryer is a comparison for how the air felt, not a measured temperature.

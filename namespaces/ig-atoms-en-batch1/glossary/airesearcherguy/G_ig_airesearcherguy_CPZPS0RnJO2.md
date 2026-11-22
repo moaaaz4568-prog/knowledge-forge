@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [fastest train, airesearcherguy account context]
+aka: [psychological moonshot, psychological moonshots]
 origin: sources/S_ig_airesearcherguy_CPZPS0RnJO2.md
 ---
 
-# G_ig_airesearcherguy_CPZPS0RnJO2 — fastest train
+# G_ig_airesearcherguy_CPZPS0RnJO2 — psychological moonshot
 
 ## Term
 
-"fastest train" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: faster, making, better, like. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A psychological moonshot is the speaker's cheap alternative to a physical one: instead of making the fastest train 30% faster, make the ride 30% more enjoyable. The phrase appears twice, once as the singular and once as the plural psychological moonshots, beside moonshots, hairy audacious goals, and the physical. Moonshots in business, as he defines them, are goals to shoot for something that could be impossible, and most businesses chase them by improving the thing itself. His concrete advice is to look for the psychological version when improving a business: do not only focus on the physical, and find where enjoyment, rather than speed, can be raised.
 
 ## Synonyms
 
-- fastest train
-- airesearcherguy account context (no variant form of the term appears in this source)
+- psychological moonshots (the plural form he uses when telling sellers to implement them)
 
 ## Live Example
 
-> "Making the fastest train go 30% faster requires work on the engine or the track or the technology as a whole. But a psychological moonshot is way easier and a lot cheaper. Making a train 30% more enjoyable to ride, much easier process. So when you're looking at improvements to your business, don't only focus on the physical. See where you can implement psychological moonshots." — sources/S_ig_airesearcherguy_CPZPS0RnJO2.md
+> "But a psychological moonshot is way easier and a lot cheaper." — sources/S_ig_airesearcherguy_CPZPS0RnJO2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "fastest train": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that physical improvements do not matter: he says they are expensive and sometimes impossible, not worthless, and the psychological version is the cheaper complement.
+- Read as a synonym for cutting corners: the moonshot is about making the experience more enjoyable, which is a real improvement to the ride, not a cosmetic cover.

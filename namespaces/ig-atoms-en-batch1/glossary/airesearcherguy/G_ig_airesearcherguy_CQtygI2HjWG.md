@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [humans, human]
+aka: [human perception]
 origin: sources/S_ig_airesearcherguy_CQtygI2HjWG.md
 ---
 
-# G_ig_airesearcherguy_CQtygI2HjWG — humans
+# G_ig_airesearcherguy_CQtygI2HjWG — human perception
 
 ## Term
 
-"humans" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: lie, because, see, trichromatically. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Human perception is the speaker's moral for making products: televisions are built on how humans perceive, not on what they show, and rounder chocolate tastes sweeter to humans. The phrase appears once, beside magenta, Cadbury, and trichromatically, at the end of two stories about perception fooling the senses. Magenta is his first case: the brain fabricates the color because magenta injects green in the wrong place between red and blue, so it only exists in the mind. His concrete case is Cadbury's chocolate bar: the recipe never changed, only the shape of the break-off pieces, and the rounder pieces tasted sweeter.
 
 ## Synonyms
 
-- humans
-- human (variant form used in the source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Turns out what they actually changed was the shape of the break-off pieces on their chocolate bar. The pieces were more rounded, and rounder things taste sweeter to humans. So the moral of the story is, if you're making a product or you're improving one, always remember that you're making products for humans and human perception." — sources/S_ig_airesearcherguy_CQtygI2HjWG.md
+> "So the moral of the story is, if you're making a product or you're improving one, always remember that you're making products for humans and human perception." — sources/S_ig_airesearcherguy_CQtygI2HjWG.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "humans": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that magenta is not a real color at all: he says it only exists in the mind because the brain fabricates it, which is his point about perception, not a physics verdict.
+- Read as a claim that Cadbury changed its recipe: the speaker is explicit that they had not changed it in years, and the sweeter taste came from the rounder shape alone.

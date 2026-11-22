@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [Gary, airesearcherguy account context]
+aka: [text marketing list]
 origin: sources/S_ig_airesearcherguy_CU8OOAWtm75.md
 ---
 
-# G_ig_airesearcherguy_CU8OOAWtm75 — Gary
+# G_ig_airesearcherguy_CU8OOAWtm75 — text marketing list
 
 ## Term
 
-"Gary" is the most frequent repeated content term in this source (a transcribed Instagram video from the airesearcherguy account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: text, vaynerchuk, marketing, list. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A text marketing list is what puts the speaker on Gary V's messages: motivational SMS about his latest NFT project, arriving as if from Gary Vaynerchuk himself. The phrase appears once, beside Gary V, NFT project, and the breakfast in London where the mix-up happened. The guy next to him saw the text and assumed he gets casual texts from Gary V, and the speaker was super flattered to be perceived as established enough for that. His concrete point is the perception itself: a simple mistake, a list message that shows up under a famous name, and a stranger's assumption that he is that connected.
 
 ## Synonyms
 
-- Gary
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And the guy next to me sees that and he's like, oh my God, you just get a text from Gary V? Simple mistake, but I was super flattered that I would be perceived as established enough to be getting casual text messages from Gary Vaynerchuk. So I just thought I'd share." — sources/S_ig_airesearcherguy_CU8OOAWtm75.md
+> "So I'm on a text marketing list of Gary V's, and so I get motivational SMS or messages about his latest NFT project." — sources/S_ig_airesearcherguy_CU8OOAWtm75.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Gary": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that Gary V texts him personally: the messages come from a marketing list he signed up for, and the sender name is Gary Vaynerchuk because the list uses it.
+- Read as a story about being famous: the flattery is about being perceived as established, and the speaker calls it a simple mistake, not a real connection.

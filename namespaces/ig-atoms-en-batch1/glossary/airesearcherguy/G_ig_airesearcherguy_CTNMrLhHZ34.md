@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: airesearcherguy
-aka: [understand, airesearcherguy account context]
+aka: [ranking algorithm]
 origin: sources/S_ig_airesearcherguy_CTNMrLhHZ34.md
 ---
 
-# G_ig_airesearcherguy_CTNMrLhHZ34 — understand
+# G_ig_airesearcherguy_CTNMrLhHZ34 — ranking algorithm
 
 ## Term
 
-No content word repeats often enough in this short source (29 words) to form a repeated term, so this entry documents the source's central term "understand" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A ranking algorithm is the subject of the epic paper the speaker is writing about Amazon: a paper full of terms from studies he does not understand, because he is not a data scientist. The phrase appears once, beside data scientist, epic paper, and the studies, in a source that is a single awkward-moment joke. The humor is the gap itself: writing at length about the algorithm while understanding only half the terms in the studies behind it. Nothing in the source explains how the algorithm ranks anything, so the phrase names the paper's topic, not a mechanism the speaker describes.
 
 ## Synonyms
 
-- understand
-- airesearcherguy account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (29 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "understand": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a claim that the paper is wrong: the speaker never says the paper is bad, only that the moment is awkward, and the joke is on himself, not on the studies.
+- Read as an explanation of Amazon's ranking: the source explains nothing about the algorithm, and the only fact it gives is that the speaker does not understand half the terms.
