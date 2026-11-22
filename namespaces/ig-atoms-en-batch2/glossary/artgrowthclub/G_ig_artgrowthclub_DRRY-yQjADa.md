@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [policy, artgrowthclub account context]
+aka: [privacy policy]
 origin: sources/S_ig_artgrowthclub_DRRY-yQjADa.md
 ---
 
-# G_ig_artgrowthclub_DRRY-yQjADa — policy
+# G_ig_artgrowthclub_DRRY-yQjADa — privacy policy
 
 ## Term
 
-"policy" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: privacy, instagram, updated, click. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this clip privacy policy is the document Instagram changed and the setting the speaker tells artists to find: it appears 2 times, beside Meta, 2025, and hidden link. The speaker says Instagram updated their privacy policy for 2025 and will use photos and videos to train artificial intelligence without consent, then walks the viewer to the policy through settings, the About option, and the three lines. The payoff is a hidden link the speaker calls the viewer's right to say no to the policy, reached by choosing how Meta uses information for AI. The policy here is a live opt-out path, not a legal text to read.
 
 ## Synonyms
 
-- policy
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Artists are quitting Instagram after this new Meta policy. Instagram updated their privacy policy for 2025. They will start using your photos and videos without your consent to train the artificial intelligence of Instagram and Facebook. How to avoid this? Go to Instagram settings, scroll down and click the option about. Select Privacy Policy. Click on the three lines." — sources/S_ig_artgrowthclub_DRRY-yQjADa.md
-> "Scroll down and under other policies select how does Meta use your information for AI. Now a hidden link will appear. This link is your right to say no to this policy. Click on it, fill out the form and send so Meta doesn't collect your data. Share this video with as many people as possible who need to know about this too." — sources/S_ig_artgrowthclub_DRRY-yQjADa.md
+> "Instagram updated their privacy policy for 2025." — sources/S_ig_artgrowthclub_DRRY-yQjADa.md
+> "Select Privacy Policy. Click on the three lines." — sources/S_ig_artgrowthclub_DRRY-yQjADa.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "policy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a legal analysis of the policy: the speaker never quotes the policy's text, only the clicks that reach the opt-out link, so the entry records a navigation path, not the policy's terms.
+- Read as proof the opt-out works: the clip asserts the link stops collection but shows no confirmation from Meta, so the claim rests on the speaker's word alone.

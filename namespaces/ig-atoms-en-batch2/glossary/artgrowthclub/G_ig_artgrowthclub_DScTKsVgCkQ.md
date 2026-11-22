@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [main Reel, artgrowthclub account context]
+aka: [trial Reel]
 origin: sources/S_ig_artgrowthclub_DScTKsVgCkQ.md
 ---
 
-# G_ig_artgrowthclub_DScTKsVgCkQ — main Reel
+# G_ig_artgrowthclub_DScTKsVgCkQ — trial Reel
 
 ## Term
 
-"main Reel" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: make, views, video, reel. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A trial Reel here is the duplicate of a Reel posted with the trial option so only non-followers see it: it appears once, beside duplicate, drafts, and non-followers. The speaker tells artists to duplicate a Reel from drafts, post the first as the main Reel and the second with the trial option on, so the main Reel earns views while the trial Reel reaches non-followers and gains extra followers. The trial is a distribution switch, not a different video. Its job in the clip is to buy extra reach for free.
 
 ## Synonyms
 
-- main Reel
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "If you want more views on Instagram for free with literally zero extra effort, here's what you need to do. Before uploading a Reel, go to your drafts. Click on the three dots, select duplicate. And all you have to do is post the first video as your main Reel and make sure to post the second video with the trial option turned on." — sources/S_ig_artgrowthclub_DScTKsVgCkQ.md
-> "This will make the main Reel get you views, but the trial Reel will only be shown to non-followers, which will help you get extra followers. Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DScTKsVgCkQ.md
+> "This will make the main Reel get you views, but the trial Reel will only be shown to non-followers, which will help you get extra followers." — sources/S_ig_artgrowthclub_DScTKsVgCkQ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "main Reel": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of followers: the clip claims the trial Reel helps get extra followers but shows no follower numbers, so the entry records a tactic, not a result.
+- Read as a separate posting strategy: the trial Reel is a copy of the same video, so the entry records a reposting trick, not a second piece of content.

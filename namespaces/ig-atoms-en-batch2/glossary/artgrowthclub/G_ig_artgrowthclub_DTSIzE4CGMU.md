@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [policy, artgrowthclub account context]
+aka: [DMs]
 origin: sources/S_ig_artgrowthclub_DTSIzE4CGMU.md
 ---
 
-# G_ig_artgrowthclub_DTSIzE4CGMU — policy
+# G_ig_artgrowthclub_DTSIzE4CGMU — DMs
 
 ## Term
 
-"policy" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: instagram, updated, new, meta. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+DMs here are the private messages the speaker says Meta will use to train AI: it appears once, beside every conversation, art photo, and December 16th. The speaker says Instagram updated its privacy policy again and will use all DMs — every conversation, art photo, and image — to train the artificial intelligence of Instagram and Facebook, then makes the opt-out desktop-only through privacycenter.instagram.com and the Privacy and Generative AI option. The DMs are training data in this claim, not a chat feature. The entry records an alarming claim, not a verified policy.
 
 ## Synonyms
 
-- policy
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Artists are deleting Instagram after this new Meta policy for 2026. Instagram updated their privacy policy again on December 16th. They will start using all your DMs, including every conversation, art photo, and images to train the artificial intelligence of Instagram and Facebook. But now they made it extra difficult on purpose, so you can only do this on your desktop. How to avoid this?" — sources/S_ig_artgrowthclub_DTSIzE4CGMU.md
-> "Go to privacycenter.instagram.com and click on other policies. You'll see where it says how Meta uses information for generative AI models and features. Click here, and the third option is Privacy and Generative AI. Open this, scroll to the bottom. Now a hidden link will appear. This link is your right to say no to this policy." — sources/S_ig_artgrowthclub_DTSIzE4CGMU.md
+> "They will start using all your DMs, including every conversation, art photo, and images to train the artificial intelligence of Instagram and Facebook." — sources/S_ig_artgrowthclub_DTSIzE4CGMU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "policy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as proof Meta reads private messages: the claim is the speaker's assertion with no document shown, so the entry records an alarming claim, not a verified policy.
+- Read as a complete opt-out guide: the desktop-only route is described but the form itself is never shown being submitted, so the entry records directions, not a completed refusal.

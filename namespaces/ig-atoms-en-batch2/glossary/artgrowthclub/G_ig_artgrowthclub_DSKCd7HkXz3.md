@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [make sure, artgrowthclub account context]
+aka: [SEO setting]
 origin: sources/S_ig_artgrowthclub_DSKCd7HkXz3.md
 ---
 
-# G_ig_artgrowthclub_DSKCd7HkXz3 — make sure
+# G_ig_artgrowthclub_DSKCd7HkXz3 — SEO setting
 
 ## Term
 
-"make sure" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: sure, make, content, preferences. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The SEO setting here is the account-privacy switch the speaker tells artists to turn on so their art posts rank in searches: it appears once, beside account privacy, Google, and searches. It is the second of six basic settings in a reel about turning plain reels into better-performing ones, and the speaker ties it directly to ranking in Google and Instagram searches. The setting is a discoverability switch, not a content change. Its purpose in the clip is to make the art findable outside the app.
 
 ## Synonyms
 
-- make sure
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Here's how I turned my reels from this to this by turning on these six basic settings. Go to settings and scroll all the way down. Click on content preferences and make sure that snooze setting is turned off. Number two, go to account privacy and make sure you turn this SEO setting on. This will help your art posts rank in Google and Instagram searches." — sources/S_ig_artgrowthclub_DSKCd7HkXz3.md
-> "Go to account center, click on your information and permissions. Now clear all your search history for all time. Go to media quality and turn on upload at highest quality. Make sure to disable the other two options. Next, go to your desktop and turn on show account suggestions on profiles. Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DSKCd7HkXz3.md
+> "Number two, go to account privacy and make sure you turn this SEO setting on." — sources/S_ig_artgrowthclub_DSKCd7HkXz3.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "make sure": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a proven ranking result: the clip shows no search result before and after the switch, so the entry records a recommended toggle, not a measured ranking gain.
+- Read as the clip's main subject: the SEO setting is one of six settings, so the entry records a single item in a list, not the reel's whole argument.

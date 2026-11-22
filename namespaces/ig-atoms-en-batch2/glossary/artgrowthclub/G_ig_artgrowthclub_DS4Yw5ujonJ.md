@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [art, artgrowthclub account context]
+aka: [RT Growth Club]
 origin: sources/S_ig_artgrowthclub_DS4Yw5ujonJ.md
 ---
 
-# G_ig_artgrowthclub_DS4Yw5ujonJ — art
+# G_ig_artgrowthclub_DS4Yw5ujonJ — RT Growth Club
 
 ## Term
 
-"art" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 7 times in the text (whole-word matches, case folded), and the words most often collocated with it are: account, like-minded, art, lovers. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+RT Growth Club is the community the speaker credits with growing their art account from zero to sixty thousand followers: it appears once, beside sixty k, like-minded, and ART. The speaker frames Instagram as indifferent to art because entertainment is the new gold, and presents joining the club — promoting art with like-minded art lovers for free — as the way to be seen. Entry is by following and commenting the word 'ART'. The club is the speaker's own growth vehicle, not an Instagram feature.
 
 ## Synonyms
 
-- art
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "It is time for artists to delete Instagram. You heard me right. Instagram doesn't care about your art because entertainment is now the new gold. And if your art is not seen as entertaining enough for the algorithm, you will be lost in the millions of unnoticed artists online." — sources/S_ig_artgrowthclub_DS4Yw5ujonJ.md
-> "And the crazy thing is it is completely free! If you really want to join, follow and comment the word ART." — sources/S_ig_artgrowthclub_DS4Yw5ujonJ.md
+> "It is to join the RT Growth Club where you will be able to promote your art with like-minded art lovers and get the support you deserve." — sources/S_ig_artgrowthclub_DS4Yw5ujonJ.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "art": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a verified growth result: the sixty-thousand figure is the speaker's own claim with no screenshots or dates shown, so the entry records a testimonial, not an audited result.
+- Read as the account's main subject: the club is a promotional vehicle inside a video about deleting Instagram, so the entry records a pitch attached to a larger argument, not a standalone lesson.

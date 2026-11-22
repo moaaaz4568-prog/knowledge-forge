@@ -1,27 +1,26 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [Settings, artgrowthclub account context]
+aka: [story views]
 origin: sources/S_ig_artgrowthclub_DSZfLcSCRIc.md
 ---
 
-# G_ig_artgrowthclub_DSZfLcSCRIc — Settings
+# G_ig_artgrowthclub_DSZfLcSCRIc — story views
 
 ## Term
 
-"Settings" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: click, scroll, turn, three. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Story views here are the metric the speaker says is low because stories are used the wrong way: it appears 2 times, beside CEO, connection, and settings. The speaker quotes the CEO of Instagram as saying stories do not win new followers but deepen connection with people who already follow, then gives three settings to increase views faster for 2025 — Story Replies, Comments on Stories, and Media Quality. The metric is a measure of existing followers watching, not of discovery. The entry records a diagnosis plus switches, not a content formula.
 
 ## Synonyms
 
-- Settings
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Have you noticed that your story views are low? That's because you are using stories the wrong way. Here's what the CEO of Instagram has to say about it. Stories aren't going to help you get new followers, but they do deepen your connection with people who already have decided to follow your account. Instead, turn on these three settings to increase your story views faster for 2025." — sources/S_ig_artgrowthclub_DSZfLcSCRIc.md
-> "First, go to your profile, click here in Settings, scroll to Messages, and in Story Replies, make sure to turn on this option. Second... Go back to Settings and tap Comments. Click Stories and enable this option. And finally, return to Settings, scroll to Media Quality, and make sure to enable this option. Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DSZfLcSCRIc.md
+> "Have you noticed that your story views are low?" — sources/S_ig_artgrowthclub_DSZfLcSCRIc.md
+> "Instead, turn on these three settings to increase your story views faster for 2025." — sources/S_ig_artgrowthclub_DSZfLcSCRIc.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Settings": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a promise of new followers: the speaker's own quoted CEO says stories do not help get new followers, so the entry records a retention metric, not a growth one.
+- Read as the CEO's direct words: the settings are the speaker's own list attached to a paraphrase of the CEO, so the entry records the speaker's advice, not a quoted statement.

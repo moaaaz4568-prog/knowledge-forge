@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [sleeping, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DSwqXiejOf3.md
 ---
 
-# G_ig_artgrowthclub_DSwqXiejOf3 — sleeping
+# G_ig_artgrowthclub_DSwqXiejOf3 — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (12 words) to form a repeated term, so this entry documents the source's central term "sleeping" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment, and the label refrain here says only what kind of passage this is — a sung line — not the name of any idea in it. The line appears once in this 12-word source, beside sleeping, waking up, and voice. It pictures the world still sleeping as the speaker wakes up to someone's voice. The entry records the line exactly as sung and claims no meaning for it beyond the image.
 
 ## Synonyms
 
-- sleeping
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (12 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "sleeping": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own morning routine: the line is a song image captioned on the reel, not a statement about the speaker's day, so it carries no fact.
+- Read as a full verse: the line is a single image of waking to a voice, so the song's subject and the identity of the voice cannot be established from this source.

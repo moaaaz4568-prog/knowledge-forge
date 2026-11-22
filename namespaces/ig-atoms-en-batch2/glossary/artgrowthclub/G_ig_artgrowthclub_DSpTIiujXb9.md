@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [website, artgrowthclub account context]
+aka: [transition hook, hook]
 origin: sources/S_ig_artgrowthclub_DSpTIiujXb9.md
 ---
 
-# G_ig_artgrowthclub_DSpTIiujXb9 — website
+# G_ig_artgrowthclub_DSpTIiujXb9 — transition hook
 
 ## Term
 
-"website" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: found, every, single, send. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A transition hook here is the clip the speaker says every creator seems to use: it appears once, beside wondered, clips, and goldmine. The speaker opens by asking where all these clips come from, then answers with a website that has every single transition hook out there to download and use in videos. The site is called a goldmine for instantly getting more views on an art account, and the way to get the link is to follow and comment 'hook'. The hook is a shared download, not a technique the speaker teaches.
 
 ## Synonyms
 
-- website
-- artgrowthclub account context (no variant form of the term appears in this source)
+- hook (the short form the speaker asks viewers to comment)
 
 ## Live Example
 
-> "Have you ever wondered where all these clips come from? Well, I just found this website that has every single transition hook out there for you to download and use in your videos. This is a goldmine to instantly get more views on your art account. Follow me and comment" — sources/S_ig_artgrowthclub_DSpTIiujXb9.md
+> "Well, I just found this website that has every single transition hook out there for you to download and use in your videos." — sources/S_ig_artgrowthclub_DSpTIiujXb9.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "website": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as an answer to where clips come from: the website is the speaker's claim, and the source never names the site, so the entry records a teaser, not a source list.
+- Read as a guarantee of views: 'goldmine' is the speaker's sales language for the site, and the source gives no numbers showing the hooks actually raise views.

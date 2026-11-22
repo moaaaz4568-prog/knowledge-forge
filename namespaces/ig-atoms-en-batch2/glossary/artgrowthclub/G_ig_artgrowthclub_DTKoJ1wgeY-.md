@@ -1,26 +1,26 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [increase, artgrowthclub account context]
+aka: [hashtags]
 origin: sources/S_ig_artgrowthclub_DTKoJ1wgeY-.md
 ---
 
-# G_ig_artgrowthclub_DTKoJ1wgeY- — increase
+# G_ig_artgrowthclub_DTKoJ1wgeY- — hashtags
 
 ## Term
 
-"increase" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: reach, instagram, faster, new. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Hashtags here are the tool the speaker says is dead on the new Instagram algorithm: it appears 3 times, beside dead, CEO, and Insta. The speaker repeats the 2026 claim — hashtags are no longer a primary way to increase reach — with interview labels marking two speakers, then replaces them with five settings: Account Privacy, Media Quality with Upload at Highest Quality on, keyword-rich captions, topics per Reel, and Suggest your profile to art lovers. The hashtag is a retired tactic in this clip, not a current one. The entry records a burial, not a how-to.
 
 ## Synonyms
 
-- increase
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "[] Stop using hashtags on the new Instagram algorithm to increase your reach faster for 2026. Hashtags are dead and the CEO of Instagram just revealed why. Take a look. [Interviewee 1] Is that hashtags are no longer a primary way to increase your reach on Insta? [Interviewee 2] They don't significantly increase your reach on Instagram." — sources/S_ig_artgrowthclub_DTKoJ1wgeY-.md
+> "Hashtags are dead and the CEO of Instagram just revealed why." — sources/S_ig_artgrowthclub_DTKoJ1wgeY-.md
+> "Is that hashtags are no longer a primary way to increase your reach on Insta?" — sources/S_ig_artgrowthclub_DTKoJ1wgeY-.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "increase": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a real interview: the [Interviewee 1] and [Interviewee 2] labels are transcript artifacts, and the clip shows no interview, so the entry records the speaker's claim, not a dialogue.
+- Read as a claim about the whole algorithm: the clip is about hashtags and settings for 2026, not a full description of the algorithm, so the entry records one claim about reach, not the algorithm itself.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [rights reserved, artgrowthclub account context]
+aka: [rights reserved]
 origin: sources/S_ig_artgrowthclub_DRokKJIFH8j.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_artgrowthclub_DRokKJIFH8j.md
 
 ## Term
 
-"rights reserved" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: notices, write, reserved, statement. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+A rights reserved statement here is the caption line the speaker tells artists to write so their work is not stolen to train AI: it appears 2 times, beside watermark, copyright notices, and caption. The speaker lists three protections — a watermark, lower-resolution posts, and copyright notices — and gives the exact example 'All rights reserved.' The statement is a defensive caption, not a filed registration. Its job in the clip is to mark the work as claimed before it is posted.
 
 ## Synonyms
 
-- rights reserved
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "And they won't even let you talk to a human. Here are three Instagram hacks to avoid your art being stolen: First, add a watermark... Second, post your art in lower resolution... Third, copyright notices. Write a 'rights reserved' statement in your caption... For example, 'All rights reserved.' Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DRokKJIFH8j.md
+> "Write a 'rights reserved' statement in your caption..." — sources/S_ig_artgrowthclub_DRokKJIFH8j.md
+> "For example, 'All rights reserved.' Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DRokKJIFH8j.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "rights reserved": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as legal protection: the source never says the caption line has legal force; it presents the statement as one of three practical hacks, so the entry records advice, not law.
+- Read as a guarantee against AI training: the speaker's own earlier complaint video 'simply doesn't work' against Meta, so the statement is a deterrent the clip recommends, not a proven shield.

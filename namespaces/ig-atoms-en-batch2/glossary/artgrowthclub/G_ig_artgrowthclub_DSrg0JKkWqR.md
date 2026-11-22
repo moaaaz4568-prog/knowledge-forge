@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [art process, artgrowthclub account context]
+aka: [long-form video]
 origin: sources/S_ig_artgrowthclub_DSrg0JKkWqR.md
 ---
 
-# G_ig_artgrowthclub_DSrg0JKkWqR — art process
+# G_ig_artgrowthclub_DSrg0JKkWqR — long-form video
 
 ## Term
 
-"art process" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: stop, filming, process, start. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Long-form video here is the format a creator asked about and the speaker says Instagram will not do: it appears once, beside creator asked, answer is no, and engagement. The speaker reports the CEO of Instagram as the source of the answer, then pivots to what to do instead — film the first five minutes of drawing, forget the camera, and record a few shots in the middle — because video length is crucial to keeping viewers engaged till the end. The format is a rejected option in this clip, not a recommendation. The entry records a no, not a how-to.
 
 ## Synonyms
 
-- art process
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Stop filming your art process from start to finish for an engaging video—you only need a few short clips in 2026. Here's what the CEO of Instagram has to say about it. A creator asked me recently: 'Are we going to do long-form video on Instagram?' And the answer is no. Instead, here's what you need to do to increase your engagement faster. First, film the first five minutes when you start drawing." — sources/S_ig_artgrowthclub_DSrg0JKkWqR.md
-> "Then forget about the camera and enjoy the process. Record a few shots somewhere in the middle of your... Many artists say you should make videos as long as possible to show the art process—which isn't always bad—but if you want to keep viewers engaged till the end, video length is crucial." — sources/S_ig_artgrowthclub_DSrg0JKkWqR.md
+> "A creator asked me recently: 'Are we going to do long-form video on Instagram?' And the answer is no." — sources/S_ig_artgrowthclub_DSrg0JKkWqR.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "art process": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the CEO's direct words: the exchange is the speaker's report of a question and an answer, and the clip shows no interview, so the entry records the speaker's account, not a quotation.
+- Read as a rule against all long videos: the no answers whether Instagram will do long-form, while the speaker's own advice is about keeping process videos engaging, so the entry records a platform answer plus a filming tip, not a ban on length itself.

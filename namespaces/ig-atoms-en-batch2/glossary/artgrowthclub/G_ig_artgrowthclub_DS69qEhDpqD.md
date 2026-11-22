@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [privacy policy, artgrowthclub account context]
+aka: [privacy policy]
 origin: sources/S_ig_artgrowthclub_DS69qEhDpqD.md
 ---
 
@@ -9,18 +9,18 @@ origin: sources/S_ig_artgrowthclub_DS69qEhDpqD.md
 
 ## Term
 
-"privacy policy" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: instagram, updated, privacy, policy. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+In this clip privacy policy is the document Instagram updated and the setting artists must navigate: it appears 2 times, beside 2026, three dots, and About. The speaker repeats the 2026 update claim — Instagram will use photos and videos without consent to train artificial intelligence — then gives the clicks: the three dots, About, Privacy Policy, the three lines, other policies and articles. The policy here is a path of taps, not a text the speaker reads. The entry records the navigation, not the policy's wording.
 
 ## Synonyms
 
-- privacy policy
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Old versus new Instagram policies. Artists are deleting Instagram after this new policy. Instagram updated their privacy policy for 2026. They will start using your photos and videos without your consent to train the artificial intelligence of Instagram and Facebook. How to avoid this? Click on the three dots on the right. Go down to the option About. Click on it, and then on Privacy Policy." — sources/S_ig_artgrowthclub_DS69qEhDpqD.md
+> "Instagram updated their privacy policy for 2026." — sources/S_ig_artgrowthclub_DS69qEhDpqD.md
+> "Click on it, and then on Privacy Policy." — sources/S_ig_artgrowthclub_DS69qEhDpqD.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "privacy policy": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a quotation of the policy: the speaker never quotes the policy's text, only the menu path to it, so the entry records directions, not terms.
+- Read as proof of the 2026 change: the update claim is the speaker's assertion with no document shown, so the entry records a claim, not a verified change.

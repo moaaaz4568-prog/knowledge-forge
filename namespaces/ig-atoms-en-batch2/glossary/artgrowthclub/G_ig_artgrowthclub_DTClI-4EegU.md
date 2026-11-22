@@ -1,20 +1,20 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [tudo, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DTClI-4EegU.md
+language: pt
 ---
 
-# G_ig_artgrowthclub_DTClI-4EegU — tudo
+# G_ig_artgrowthclub_DTClI-4EegU — refrain
 
 ## Term
 
-"tudo" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: que, era, descerto, caiu. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment in Portuguese, and the label refrain here says only what kind of passage this is — a sung line — not the name of any idea in it. The source is in Portuguese; the label is the English type label and the quoted lines stay in their original Portuguese. The lines appear once, beside descerto, peteca, and pinto, and read as garbled street lyrics about things falling at the door and standing while something is missing. The entry records the lines exactly as transcribed and claims no meaning for them beyond the sound.
 
 ## Synonyms
 
-- tudo
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +22,5 @@ origin: sources/S_ig_artgrowthclub_DTClI-4EegU.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "tudo": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own Portuguese writing: the lines are song lyrics captioned on the reel, and the transcription is garbled, so they carry no statement of the account's own.
+- Read as a translatable lyric: the words are garbled street Portuguese and their sense cannot be fixed from this source, so the entry records sound, not sense.

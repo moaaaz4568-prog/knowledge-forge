@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [Instead, artgrowthclub account context]
+aka: [posting times]
 origin: sources/S_ig_artgrowthclub_DTH1gDpjt7C.md
 ---
 
-# G_ig_artgrowthclub_DTH1gDpjt7C — Instead
+# G_ig_artgrowthclub_DTH1gDpjt7C — posting times
 
 ## Term
 
-"Instead" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: post, quality, quantity, much. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Posting times here are the old-versus-new schedule rules the speaker gives for 2026: it appears once, beside 3:33, odd times, and most active time. The speaker gives three changes — post as much as possible instead of relying on quality over quantity, post at odd times like 3:33 instead of on the clock, and post three hours before followers are most active instead of when they are — all to train the algorithm and win a boost. The times are a scheduling play, not a content rule. The speaker shows how to find the most active times in the professional dashboard.
 
 ## Synonyms
 
-- Instead
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Old versus new Instagram posting times. Here are the three most important changes for 2026. First, stop relying on quality over quantity. Instead, post as much as you can. Here's what the CEO of Instagram has to say about it: The more you post, the more people you're going to reach and the more your follower count is going to grow over time. Second, never post on the clock." — sources/S_ig_artgrowthclub_DTH1gDpjt7C.md
-> "This is when most creators are posting. Instead, post at odd times like 3:33 to train the algorithm so it knows when you will post. Finally, stop posting when your followers are most active because it will destroy your reach. Instead, post three hours before their most active time to get an algorithm boost." — sources/S_ig_artgrowthclub_DTH1gDpjt7C.md
+> "Old versus new Instagram posting times. Here are the three most important changes for 2026." — sources/S_ig_artgrowthclub_DTH1gDpjt7C.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Instead": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as measured timing advice: the 3:33 rule is the speaker's prescription with no reach data shown, so the entry records a tactic, not a result.
+- Read as a contradiction of the speaker's own earlier advice: the clip deliberately inverts the usual rules, so the entry records an inversion strategy, not a mistake.

@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [strictly, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DSeh6q4lDWv.md
 ---
 
-# G_ig_artgrowthclub_DSeh6q4lDWv — strictly
+# G_ig_artgrowthclub_DSeh6q4lDWv — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (22 words) to form a repeated term, so this entry documents the source's central term "strictly" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a transcription preamble followed by a garbled sung line, and the label refrain here says only what kind of passage this is — a lyric fragment — not the name of any idea in it. The sung line appears once, beside old, winter air, and mountain hay. The preamble insists the words are given strictly as asked, and the line itself breaks off mid-phrase. The entry records the fragment exactly as transcribed and claims no meaning for it beyond the image.
 
 ## Synonyms
 
-- strictly
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (22 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "strictly": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete lyric: the line is garbled and cuts off, so the song's sense cannot be recovered from this source.
+- Read as the account's words: the preamble marks the text as a transcription produced on request, not a statement of the account's own view.

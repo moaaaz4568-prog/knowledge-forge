@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [transcript, artgrowthclub account context]
+aka: [transcript]
 origin: sources/S_ig_artgrowthclub_DRttqsVFVF3.md
 ---
 
@@ -9,12 +9,11 @@ origin: sources/S_ig_artgrowthclub_DRttqsVFVF3.md
 
 ## Term
 
-No content word repeats often enough in this short source (10 words) to form a repeated term, so this entry documents the source's central term "transcript" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a ten-word refusal, and transcript here names only the object refused, not a concept the source teaches. The word appears once, beside sorry, provide, and audio. The speaker refuses to provide a transcript for 'this audio', giving no reason and no alternative. The entry records the refusal exactly as written and claims no teaching about transcripts from it.
 
 ## Synonyms
 
-- transcript
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (10 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "transcript": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a statement about the audio's content: the refusal says nothing about what the audio contains, so no claim about the reel can be drawn from this source.
+- Read as the account's own words: the refusal is a system-style reply about the audio, not the art-growth speaker's teaching, so it carries no method.

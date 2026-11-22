@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [YouTube, artgrowthclub account context]
+aka: [in-app browser]
 origin: sources/S_ig_artgrowthclub_DSo8CarDB6e.md
 ---
 
-# G_ig_artgrowthclub_DSo8CarDB6e — YouTube
+# G_ig_artgrowthclub_DSo8CarDB6e — in-app browser
 
 ## Term
 
-"YouTube" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: link, open, channel, instagram. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+The in-app browser here is the Instagram browser the speaker says blocks YouTube follows: it appears once, beside disgusting, sticker, and open. The speaker says stories do not win new followers but deepen connection, then warns against posting a YouTube channel link in stories because Instagram opens an in-app browser that prevents anyone clicking from following without logging into YouTube. The fix is to add a link button sticker and type 'open' before YouTube in the copied link, so the click opens the YouTube app directly. The browser is an obstacle in the clip, not a feature.
 
 ## Synonyms
 
-- YouTube
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "That is because Instagram will open a disgusting in-app browser that will prevent anyone who clicks your link to follow your account without having to log into their YouTube account. This is decreasing your chance to get more followers. So how to avoid this? Go to post story and click on the sticker icon and add the link button." — sources/S_ig_artgrowthclub_DSo8CarDB6e.md
-> "Paste the link and make sure to type 'open' before YouTube in the copied link. And that's it! Now clicking the link will open the YouTube app directly. Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DSo8CarDB6e.md
+> "That is because Instagram will open a disgusting in-app browser that will prevent anyone who clicks your link to follow your account without having to log into their YouTube account." — sources/S_ig_artgrowthclub_DSo8CarDB6e.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "YouTube": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a proven follower loss: the speaker asserts the browser decreases the chance of follows but shows no numbers, so the entry records a claimed mechanism, not a measured loss.
+- Read as a general rule about links: the warning is specific to YouTube links in stories, so the entry records one workaround, not a rule for all links.

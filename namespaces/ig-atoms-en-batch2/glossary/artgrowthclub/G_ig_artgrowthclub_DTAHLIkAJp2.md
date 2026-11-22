@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [reveal, artgrowthclub account context]
+aka: [magic reveal]
 origin: sources/S_ig_artgrowthclub_DTAHLIkAJp2.md
 ---
 
-# G_ig_artgrowthclub_DTAHLIkAJp2 — reveal
+# G_ig_artgrowthclub_DTAHLIkAJp2 — magic reveal
 
 ## Term
 
-"reveal" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: use, magic, reveal, stuff. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Magic reveal here is the named transition sound the speaker tells editors to use to reveal things: it appears once, beside riser, suspense, and reveal stuff. The clip is a rapid list of sounds matched to moves — whoosh to zoom in or out, pop and ding for pop-ups, camera shutter for transitions, a riser to add suspense — and magic reveal closes the list as the sound for revealing stuff. The reveal is a sound cue, not a visual effect. Its job in the clip is to mark the moment something appears.
 
 ## Synonyms
 
-- reveal
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ origin: sources/S_ig_artgrowthclub_DTAHLIkAJp2.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "reveal": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a tutorial: the clip names sounds and their uses in one breath and demonstrates none, so the entry records a list, not a lesson.
+- Read as the speaker's own editing style: the sounds are generic stock cues the speaker lists, not a signature technique, so the entry records a catalogue, not a method.

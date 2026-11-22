@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [late-night, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DScs5mEDYMF.md
 ---
 
-# G_ig_artgrowthclub_DScs5mEDYMF — late-night
+# G_ig_artgrowthclub_DScs5mEDYMF — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (47 words) to form a repeated term, so this entry documents the source's central term "late-night" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a description of an audio track quoting one sung line, and the label refrain here says only what kind of passage this is — a quoted lyric — not the name of any idea in it. The quoted line appears once, beside dreams, tonight, and let me know. The surrounding text calls the track an upbeat electronic song with dreamy female vocals and a late-night club vibe, and quotes the line as what would be heard with the filters off. The entry records the quoted line exactly as written and gives it no art-growth meaning.
 
 ## Synonyms
 
-- late-night
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Got it! The raw audio is actually a pretty upbeat electronic track with some dreamy female vocals. Here's what you'd hear if you turned off the filters: 'Maybe tonight, my dreams might let me know...' It's got that classic late-night club vibe—super catchy and full of energy." — sources/S_ig_artgrowthclub_DScs5mEDYMF.md
+> "Maybe tonight, my dreams might let me know..." — sources/S_ig_artgrowthclub_DScs5mEDYMF.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "late-night": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own lyric: the line is quoted from the track being described, not written by the speaker, so it carries no statement of the account's own.
+- Read as a full song: only one line is quoted, so the track's subject and the rest of its words cannot be established from this source.

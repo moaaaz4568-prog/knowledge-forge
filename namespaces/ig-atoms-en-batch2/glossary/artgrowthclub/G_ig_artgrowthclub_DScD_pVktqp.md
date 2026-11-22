@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [Setting number, artgrowthclub account context]
+aka: [search history]
 origin: sources/S_ig_artgrowthclub_DScD_pVktqp.md
 ---
 
-# G_ig_artgrowthclub_DScD_pVktqp — Setting number
+# G_ig_artgrowthclub_DScD_pVktqp — search history
 
 ## Term
 
-"Setting number" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 3 times in the text (whole-word matches, case folded), and the words most often collocated with it are: number, setting, one, settings. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Search history here is the Instagram data the speaker tells artists to clear to reset the algorithm: it appears once, beside Account Center, information and permission, and reset. It is setting number one of three, reached through Account Center and 'your information and permission', and the speaker claims clearing it will bring the art account to new audiences. The other two settings pick the audience niche in Category and set the account type to professional. The history is a reset lever, not a privacy review.
 
 ## Synonyms
 
-- Setting number
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Never post your artwork on Instagram again until you fix these three settings. Trust me, you are wasting your potential if you are not using them in 2025. Setting number one: go into settings and click on Account Center, click on your information and permission, and clear your search history. This will reset your Instagram algorithm and bring your art account to new audiences." — sources/S_ig_artgrowthclub_DScD_pVktqp.md
-> "Setting number two: go on Edit Profile, click on Category, and select your target audience niche, and turn off Display on profile. This helps... categorize your art account and show it to your art community. Setting number three: go in settings, click on Creator Tools and Control, and make sure your account type is professional. This helps Instagram maximize your reach to art lovers." — sources/S_ig_artgrowthclub_DScD_pVktqp.md
+> "Setting number one: go into settings and click on Account Center, click on your information and permission, and clear your search history." — sources/S_ig_artgrowthclub_DScD_pVktqp.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "Setting number": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a proven algorithm reset: the clip asserts clearing history resets the algorithm but shows no reach change, so the entry records a claimed mechanism, not a measured one.
+- Read as the clip's whole subject: search history is the first of three settings, so the entry records one item in a list, not the reel's full argument.

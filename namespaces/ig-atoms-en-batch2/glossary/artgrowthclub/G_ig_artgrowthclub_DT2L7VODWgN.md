@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [mountain, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DT2L7VODWgN.md
 ---
 
-# G_ig_artgrowthclub_DT2L7VODWgN — mountain
+# G_ig_artgrowthclub_DT2L7VODWgN — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (10 words) to form a repeated term, so this entry documents the source's central term "mountain" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment, and the label refrain here says only what kind of passage this is — a sung line — not the name of any idea in it. The line appears once in this 10-word source, beside gold, winter's fire, and mountain rain. It pictures gold and winter's fire with mountain rain combining, in the same cold-winter-mountain image as the account's other lyric captions. The entry records the line exactly as sung and claims no meaning for it beyond the image.
 
 ## Synonyms
 
-- mountain
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (10 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "mountain": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own poetry: the line is a song image captioned on the reel, not the speaker's own writing, so it carries no statement of the account's own.
+- Read as a complete lyric: only one short line survives, so the song's subject and story cannot be established from this source.

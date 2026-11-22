@@ -1,27 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [settings, artgrowthclub account context]
+aka: [Limit Interactions]
 origin: sources/S_ig_artgrowthclub_DTKhQkCgAJu.md
 ---
 
-# G_ig_artgrowthclub_DTKhQkCgAJu — settings
+# G_ig_artgrowthclub_DTKhQkCgAJu — Limit Interactions
 
 ## Term
 
-"settings" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 4 times in the text (whole-word matches, case folded), and the words most often collocated with it are: instagram, followers, updated, turn. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Limit Interactions here is the setting the speaker quotes from the earlier stealing-followers video: it appears once, beside Who will be limited, don't follow you, and comment. The clip replays the same 2026 claim — Instagram thinks some people are bots — and the same two settings, Follow and invite friends turned off and Limit Interactions with non-followers turned off, so people who do not follow can comment and increase engagement faster. The setting is a gate on who can interact, not a growth tactic. The entry records a repeated instruction, not a new setting.
 
 ## Synonyms
 
-- settings
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Instagram is now stealing your followers. Instagram updated their settings for 2026. Instagram is not letting some people follow you because Instagram thinks that they are bots. Instead, turn on these two settings to let people follow you and increase your views faster. Go to Settings and Activity on the top right and then scroll down to Follow and invite friends." — sources/S_ig_artgrowthclub_DTKhQkCgAJu.md
-> "And all you have to do is turn it off. Second, go to Settings and Privacy and search for Limit interactions. Then all you have to do is click on Who will be limited? Make sure to turn off accounts that don't follow you. This will allow many people that don't follow you to comment on your posts to increase your engagement faster. Follow for daily art growth tips." — sources/S_ig_artgrowthclub_DTKhQkCgAJu.md
+> "Second, go to Settings and Privacy and search for Limit interactions." — sources/S_ig_artgrowthclub_DTKhQkCgAJu.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "settings": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a new setting: the clip repeats the same Limit Interactions instruction from the earlier video, so the entry records a repeat, not a discovery.
+- Read as a complete procedure: the quoted transcript ends mid-instruction, so the full taps cannot be recovered from this source.

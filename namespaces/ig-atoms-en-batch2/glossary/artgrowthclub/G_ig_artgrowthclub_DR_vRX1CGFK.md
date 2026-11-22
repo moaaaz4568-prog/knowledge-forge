@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [transcription, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DR_vRX1CGFK.md
 ---
 
-# G_ig_artgrowthclub_DR_vRX1CGFK — transcription
+# G_ig_artgrowthclub_DR_vRX1CGFK — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (18 words) to form a repeated term, so this entry documents the source's central term "transcription" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a transcription preamble followed by a sung line, and the label refrain here says only what kind of passage this is — a lyric fragment — not the name of any idea in it. The sung line appears once, beside cold, winter air, and mountain haycomb, and it breaks off mid-phrase. The preamble shows the text is a requested transcript, not the account's own teaching. The entry records the fragment exactly as transcribed and gives it no art-growth meaning.
 
 ## Synonyms
 
-- transcription
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (18 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "transcription": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a complete lyric: the line cuts off at 'by...' so the song's sense cannot be recovered from this source.
+- Read as the account's words: the preamble marks the text as a transcription the speaker produced on request, not a statement of the account's own view.

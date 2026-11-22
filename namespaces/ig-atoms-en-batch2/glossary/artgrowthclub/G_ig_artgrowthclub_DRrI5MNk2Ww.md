@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [young, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DRrI5MNk2Ww.md
 ---
 
-# G_ig_artgrowthclub_DRrI5MNk2Ww — young
+# G_ig_artgrowthclub_DRrI5MNk2Ww — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (27 words) to form a repeated term, so this entry documents the source's central term "young" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment, and the label refrain here says only what kind of passage this is — a sung line — not the name of any idea in it. The passage appears once in this 27-word source, beside young man, dream, and radio. It pictures a young man with a dream hoping to make it out alive, then a woman who saw him on the radio and knows he is on fire. The entry records the lines exactly as sung and gives them no art-growth meaning.
 
 ## Synonyms
 
-- young
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (27 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "young": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a biography: the young man is a character in a song, and the source names no real person or account.
+- Read as the account's own encouragement: the lines are lyrics, not the speaker's advice, so they carry no instruction for artists.

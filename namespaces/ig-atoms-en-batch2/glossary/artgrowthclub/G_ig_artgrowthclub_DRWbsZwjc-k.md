@@ -1,26 +1,25 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [mountain, artgrowthclub account context]
+aka: [refrain]
 origin: sources/S_ig_artgrowthclub_DRWbsZwjc-k.md
 ---
 
-# G_ig_artgrowthclub_DRWbsZwjc-k — mountain
+# G_ig_artgrowthclub_DRWbsZwjc-k — refrain
 
 ## Term
 
-No content word repeats often enough in this short source (12 words) to form a repeated term, so this entry documents the source's central term "mountain" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a sung lyric fragment, and the label refrain here says only what kind of passage this is — a sung line — not the name of any idea in it. The line appears once in this 12-word source, beside cold, winter air, and mountain height. It pictures a high, cold place bound in shadow, with no instruction, product, or distinction attached. The entry records the line exactly as sung and claims no meaning for it beyond the image.
 
 ## Synonyms
 
-- mountain
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Born of cold and winter air, And mountain height by shadow" — sources/S_ig_artgrowthclub_DRWbsZwjc-k.md
+> "Born of cold and winter air, And mountain height by shadow bound," — sources/S_ig_artgrowthclub_DRWbsZwjc-k.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "mountain": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as the account's own teaching about mountains or winter: the line is a song image captioned on the reel, not advice from the art-growth content, so it carries no method.
+- Read as a complete song: only one fragmentary line survives in the transcript, so nothing here establishes the song's subject or story.

@@ -1,7 +1,7 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [repost, artgrowthclub account context]
+aka: [repost]
 origin: sources/S_ig_artgrowthclub_DSXM0x4AAdX.md
 ---
 
@@ -9,18 +9,17 @@ origin: sources/S_ig_artgrowthclub_DSXM0x4AAdX.md
 
 ## Term
 
-"repost" is the most frequent repeated content term in this source (a transcribed Instagram video from the artgrowthclub account): it occurs 2 times in the text (whole-word matches, case folded), and the words most often collocated with it are: art, post, thirty, days. The live examples below are taken verbatim from the source and show its actual use in context. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+Repost here is the method of posting the same artwork three times on a schedule: it appears 2 times, beside thirty days, viral, and flopped. The speaker tells artists to repost a work more than thirty days old today and again twenty days later, whether it went viral or flopped, because most followers probably did not see it and those who did do not remember. The advice replaces searching for new post ideas with reusing work already done. The repost is a scheduling move, not a new artwork.
 
 ## Synonyms
 
-- repost
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
-> "Repost your same art post three times. If you posted an artwork more than thirty days ago, repost it today and twenty days from now, post it again. Whether it went viral or it flopped, it doesn't matter. Most of your followers probably didn't see it, and the ones who did don't remember. So stop spending hours searching for new post ideas. You've already done the work, so post it again." — sources/S_ig_artgrowthclub_DSXM0x4AAdX.md
+> "If you posted an artwork more than thirty days ago, repost it today and twenty days from now, post it again." — sources/S_ig_artgrowthclub_DSXM0x4AAdX.md
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "repost": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a guarantee of reach: the speaker's reason is that followers forget, but no reach numbers are shown, so the entry records a rationale, not a measured result.
+- Read as permission to spam: the clip schedules three posts over weeks, not the same post repeatedly at once, so the entry records a spaced repost, not flooding.

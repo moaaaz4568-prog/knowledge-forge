@@ -2,58 +2,60 @@
 
 Instagram English Instagram video transcripts batch 1 glossaries (chat glossaries-ig-batch2): one G_ entry per T_ atom file — 3,847 files, zero exclusions, 24 accounts. Format follows the working precedent namespaces/yt-atoms-last1500/glossary/ in English (source language; nothing translated). 7,329 live examples, all verbatim byte-exact (ws-fold) from the S_ file cited in each origin, 40-400 chars, no image markers, no nested quotes. 276 short sources with no repeated term are documented via their central term (single occurrence) with verbatim examples — no source skipped. Every entry passed gates G1 (triple match) and G2 (live example byte-exact); independent full-batch verification: 0 errors. Terms are computed from each source's own text (repeated content terms by count + collocation; Instagram UI chrome and the account's own name deprioritized). Largest source DWl9Kr7E2XZ covered head-to-tail.
 
+Rebuild 2026-11-22 (ig-batch2-part1 chunk 1, codes 1–50, artgrowthclub): 50 entries rebuilt in place with 62 live examples; gates G1/G2 pass for the namespace (7,694 entities, 0 rejected).
+
 | File | Term | Live examples |
 |---|---|---|
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRRY-yQjADa.md | policy | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRWbsZwjc-k.md | mountain | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRZHXI4EpY6.md | website | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DR_vRX1CGFK.md | transcription | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRbsMg7jOYr.md | stop | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRg1xGiDhJs.md | knows | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRokKJIFH8j.md | rights reserved | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRrI5MNk2Ww.md | young | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRRY-yQjADa.md | privacy policy | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRWbsZwjc-k.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRZHXI4EpY6.md | transition hook | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DR_vRX1CGFK.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRbsMg7jOYr.md | profile audit | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRg1xGiDhJs.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRokKJIFH8j.md | rights reserved | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRrI5MNk2Ww.md | refrain | 1 |
 | glossary/artgrowthclub/G_ig_artgrowthclub_DRttqsVFVF3.md | transcript | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DRy3S3PjfGE.md | art | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DS1z-tNk7nT.md | art | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DS4Yw5ujonJ.md | art | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DS69qEhDpqD.md | privacy policy | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSHduNRCiQ4.md | art | 3 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSKCd7HkXz3.md | make sure | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSMgXupjh70.md | policy | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DRy3S3PjfGE.md | Category | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DS1z-tNk7nT.md | Art Lovers Club | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DS4Yw5ujonJ.md | RT Growth Club | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DS69qEhDpqD.md | privacy policy | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSHduNRCiQ4.md | alt text | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSKCd7HkXz3.md | SEO setting | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSMgXupjh70.md | privacy policy | 2 |
 | glossary/artgrowthclub/G_ig_artgrowthclub_DSXM0x4AAdX.md | repost | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSZfLcSCRIc.md | Settings | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DScD_pVktqp.md | Setting number | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DScTKsVgCkQ.md | main Reel | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSceOzxjDkw.md | exactly | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DScs5mEDYMF.md | late-night | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSe5IVyDaNv.md | turn | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSeh6q4lDWv.md | strictly | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSeo1oEkVjN.md | two options | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSfERDVlFEx.md | policy | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSfR_XmEs-d.md | settings | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DShNoMgiSQz.md | combination | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DShVwKIErjk.md | settings | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSj6quPjTJh.md | high-pitched | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSjydf5jDod.md | main Reel | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSm1L6vDBfN.md | Post Carousels | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSo8CarDB6e.md | YouTube | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSpTIiujXb9.md | website | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSpg1nBjiWd.md | art | 3 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSrg0JKkWqR.md | art process | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSuFqwvisdC.md | Instead | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSwqXiejOf3.md | sleeping | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DSzPPYaCfs1.md | two options | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DT2L7VODWgN.md | mountain | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DT7VgFgCrWd.md | free tools | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DT96QXDlIIl.md | settings | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTAHLIkAJp2.md | reveal | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTClI-4EegU.md | tudo | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTCsAOPgglK.md | make sure | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTH1gDpjt7C.md | Instead | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTKhQkCgAJu.md | settings | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTKoJ1wgeY-.md | increase | 1 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTPj-tgAn3y.md | reach | 2 |
-| glossary/artgrowthclub/G_ig_artgrowthclub_DTSIzE4CGMU.md | policy | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSZfLcSCRIc.md | story views | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DScD_pVktqp.md | search history | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DScTKsVgCkQ.md | trial Reel | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSceOzxjDkw.md | listen | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DScs5mEDYMF.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSe5IVyDaNv.md | hashtags | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSeh6q4lDWv.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSeo1oEkVjN.md | Website Embeds | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSfERDVlFEx.md | privacy policy | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSfR_XmEs-d.md | Limit Interactions | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DShNoMgiSQz.md | strategy | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DShVwKIErjk.md | Monetization Status | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSj6quPjTJh.md | pop song | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSjydf5jDod.md | trial Reel | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSm1L6vDBfN.md | posting sizes | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSo8CarDB6e.md | in-app browser | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSpTIiujXb9.md | transition hook | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSpg1nBjiWd.md | hashtags | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSrg0JKkWqR.md | long-form video | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSuFqwvisdC.md | average watch time | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSwqXiejOf3.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DSzPPYaCfs1.md | Website Embeds | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DT2L7VODWgN.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DT7VgFgCrWd.md | free tools | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DT96QXDlIIl.md | Limit Interactions | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTAHLIkAJp2.md | magic reveal | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTClI-4EegU.md | refrain | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTCsAOPgglK.md | cross-posting | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTH1gDpjt7C.md | posting times | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTKhQkCgAJu.md | Limit Interactions | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTKoJ1wgeY-.md | hashtags | 2 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTPj-tgAn3y.md | hook | 1 |
+| glossary/artgrowthclub/G_ig_artgrowthclub_DTSIzE4CGMU.md | DMs | 1 |
 | glossary/artgrowthclub/G_ig_artgrowthclub_DTU0cIHk3Xo.md | despierta | 1 |
 | glossary/artgrowthclub/G_ig_artgrowthclub_DTUmo-Mkx_5.md | make sure | 1 |
 | glossary/artgrowthclub/G_ig_artgrowthclub_DTUti6Wjmkd.md | stop | 1 |

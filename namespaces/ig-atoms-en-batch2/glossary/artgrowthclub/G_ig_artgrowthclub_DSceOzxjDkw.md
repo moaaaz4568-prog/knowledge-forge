@@ -1,20 +1,19 @@
 ---
 type: glossary
 topic: artgrowthclub
-aka: [exactly, artgrowthclub account context]
+aka: [listen]
 origin: sources/S_ig_artgrowthclub_DSceOzxjDkw.md
 ---
 
-# G_ig_artgrowthclub_DSceOzxjDkw — exactly
+# G_ig_artgrowthclub_DSceOzxjDkw — listen
 
 ## Term
 
-No content word repeats often enough in this short source (13 words) to form a repeated term, so this entry documents the source's central term "exactly" (single occurrence) with verbatim examples. This entry documents usage in this source only and does not turn the term into a general definition outside it.
+This source has no conceptual term: it is a thirteen-word preamble, and listen here names only the transcriber's promised act, not a concept the source teaches. The word appears once, beside closely, exactly, and get these down. The speaker says they will listen closely and get the words down exactly as they are, before any content has been heard. The entry records the preamble exactly as spoken and claims no teaching from it.
 
 ## Synonyms
 
-- exactly
-- artgrowthclub account context (no variant form of the term appears in this source)
+- No variant form of the term appears in this source.
 
 ## Live Example
 
@@ -22,5 +21,5 @@ No content word repeats often enough in this short source (13 words) to form a r
 
 ## When the Meaning Breaks
 
-- Read as a general standard definition of "exactly": the usage here is bounded to a transcribed Instagram video from one account and proves nothing about general usage or agreed meaning.
-- Read as polished original text: this is machine-transcribed speech and transcription noise may distort the exact wording.
+- Read as a statement about the audio: the preamble says nothing about what the audio contains, so no claim about the reel can be drawn from this source.
+- Read as the account's own teaching: the line is a transcriber's promise to listen, not the art-growth speaker's advice, so it carries no method.
